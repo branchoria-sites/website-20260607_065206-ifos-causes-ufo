@@ -50,22 +50,22 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_wind_data_33671a
 - ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - first-checks
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - first-checks
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: A simple checklist can rule out many IFOs before a report is treated as unusually strong.
 hero_summary: A simple checklist can rule out many IFOs before a report is treated as unusually strong.
 layout: default
 permalink: /first-checks/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 nav_short_title: First Checks
 title: What to Check Before Calling It a UFO
-title_full: What to Check Before Calling It a UFO | IFOs
+title_full: What to Check Before Calling It a UFO
 display_title_short: First Checks
 display_title: First Checks
 heading_title: What to Check Before Calling It a UFO
@@ -241,211 +241,211 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 parent_title: IFOs
-parent_permalink: /ifos-causes-of/
+parent_permalink: /ifos-causes-of-ufo-3-ed-238/
 parent_nav_short_title: IFOs
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 sibling_links:
 - basename: ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d
-  title: A Head On Aircraft Can Look Like A Stationary Light... | Ifos Causes Of
+  title: A Head On Aircraft Can Look Like A Stationary Light... | ifos causes of UFO 3 ed 238
   permalink: /a-head-on-aircraft-can-look-like-a/
   short_title: A Head On Aircraft Can Look Like A Stationary Light...
   heading_title: The Stationary Light That Is Moving
 - basename: ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261
-  title: AARO | Ifos Causes Of
+  title: AARO | ifos causes of UFO 3 ed 238
   permalink: /aaro/
   short_title: AARO
   heading_title: What Modern UAP Reviews Resolve
 - basename: ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253
-  title: Aircraft Lights | Ifos Causes Of
+  title: Aircraft Lights | ifos causes of UFO 3 ed 238
   permalink: /aircraft-lights/
   short_title: Aircraft Lights
   heading_title: Why Ordinary Aircraft Look So Strange
 - basename: ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043
-  title: Atmosphere | Ifos Causes Of
+  title: Atmosphere | ifos causes of UFO 3 ed 238
   permalink: /atmosphere/
   short_title: Atmosphere
   heading_title: When Weather Makes Shapes in the Sky
 - basename: ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057
-  title: Balloons | Ifos Causes Of
+  title: Balloons | ifos causes of UFO 3 ed 238
   permalink: /balloons/
   short_title: Balloons
   heading_title: Why Balloons Become Flying Saucers
 - basename: ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40
-  title: Birds | Ifos Causes Of
+  title: Birds | ifos causes of UFO 3 ed 238
   permalink: /birds/
   short_title: Birds
   heading_title: How Birds Become Fast UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81
-  title: Blue Book | Ifos Causes Of
+  title: Blue Book | ifos causes of UFO 3 ed 238
   permalink: /blue-book/
   short_title: Blue Book
   heading_title: What Blue Book Teaches About IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e
-  title: Contrails | Ifos Causes Of
+  title: Contrails | ifos causes of UFO 3 ed 238
   permalink: /contrails/
   short_title: Contrails
   heading_title: Why Jet Trails Glow Like UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c
-  title: Drones | Ifos Causes Of
+  title: Drones | ifos causes of UFO 3 ed 238
   permalink: /drones/
   short_title: Drones
   heading_title: When a Drone Becomes a UFO
 - basename: ifos_-_causes_of_UFO_3ed238_military_flares_abb62f
-  title: Flares | Ifos Causes Of
+  title: Flares | ifos causes of UFO 3 ed 238
   permalink: /flares/
   short_title: Flares
   heading_title: Why Flares Look Like Hovering Craft
 - basename: ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590
-  title: Flight Tracking | Ifos Causes Of
+  title: Flight Tracking | ifos causes of UFO 3 ed 238
   permalink: /flight-tracking/
   short_title: Flight Tracking
   heading_title: How Flight Data Solves UFO Sightings
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965
-  title: Hoaxes | Ifos Causes Of
+  title: Hoaxes | ifos causes of UFO 3 ed 238
   permalink: /hoaxes/
   short_title: Hoaxes
   heading_title: When UFO Reports Are Manufactured
 - basename: ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f
-  title: Infrared | Ifos Causes Of
+  title: Infrared | ifos causes of UFO 3 ed 238
   permalink: /infrared/
   short_title: Infrared
   heading_title: Why Infrared UFO Videos Mislead
 - basename: ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74
-  title: Insects | Ifos Causes Of
+  title: Insects | ifos causes of UFO 3 ed 238
   permalink: /insects/
   short_title: Insects
   heading_title: The Tiny Things Cameras Make Huge
 - basename: ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5
-  title: Lanterns | Ifos Causes Of
+  title: Lanterns | ifos causes of UFO 3 ed 238
   permalink: /lanterns/
   short_title: Lanterns
   heading_title: The Orange Lights That Start UFO Reports
 - basename: ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e
-  title: Lens Flare | Ifos Causes Of
+  title: Lens Flare | ifos causes of UFO 3 ed 238
   permalink: /lens-flare/
   short_title: Lens Flare
   heading_title: When Cameras Invent Extra Lights
 - basename: ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28
-  title: Mass Sightings | Ifos Causes Of
+  title: Mass Sightings | ifos causes of UFO 3 ed 238
   permalink: /mass-sightings/
   short_title: Mass Sightings
   heading_title: Why Groups Can Share One Mistake
 - basename: ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504
-  title: Meteors | Ifos Causes Of
+  title: Meteors | ifos causes of UFO 3 ed 238
   permalink: /meteors/
   short_title: Meteors
   heading_title: When Fireballs Become UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca
-  title: Missing Data | Ifos Causes Of
+  title: Missing Data | ifos causes of UFO 3 ed 238
   permalink: /missing-data/
   short_title: Missing Data
   heading_title: Unsolved Does Not Always Mean Strange
 - basename: ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183
-  title: NASA Study | Ifos Causes Of
+  title: NASA Study | ifos causes of UFO 3 ed 238
   permalink: /nasa-study/
   short_title: NASA Study
   heading_title: Why Better UFO Data Matters
 - basename: ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b
-  title: Parallax | Ifos Causes Of
+  title: Parallax | ifos causes of UFO 3 ed 238
   permalink: /parallax/
   short_title: Parallax
   heading_title: The Speed Illusion in UFO Footage
 - basename: ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a
-  title: Pilots | Ifos Causes Of
+  title: Pilots | ifos causes of UFO 3 ed 238
   permalink: /pilots/
   short_title: Pilots
   heading_title: Why Pilots Can Misidentify UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357
-  title: Radar | Ifos Causes Of
+  title: Radar | ifos causes of UFO 3 ed 238
   permalink: /radar/
   short_title: Radar
   heading_title: When Radar Sees a UFO That Isnt There
 - basename: ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c
-  title: Reflections | Ifos Causes Of
+  title: Reflections | ifos causes of UFO 3 ed 238
   permalink: /reflections/
   short_title: Reflections
   heading_title: The UFO Inside the Glass
 - basename: ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132
-  title: Rocket Plumes | Ifos Causes Of
+  title: Rocket Plumes | ifos causes of UFO 3 ed 238
   permalink: /rocket-plumes/
   short_title: Rocket Plumes
   heading_title: The Strange Clouds Rockets Leave Behind
 - basename: ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b
-  title: Satellites | Ifos Causes Of
+  title: Satellites | ifos causes of UFO 3 ed 238
   permalink: /satellites/
   short_title: Satellites
   heading_title: Why Satellites Surprise Night Watchers
 - basename: ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1
-  title: Searchlights | Ifos Causes Of
+  title: Searchlights | ifos causes of UFO 3 ed 238
   permalink: /searchlights/
   short_title: Searchlights
   heading_title: How Searchlights Paint UFOs in Clouds
 - basename: ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b
-  title: Sensor Operators | Ifos Causes Of
+  title: Sensor Operators | ifos causes of UFO 3 ed 238
   permalink: /sensor-operators/
   short_title: Sensor Operators
   heading_title: When Sensors Need Human Context
 - basename: ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391
-  title: Short Clips | Ifos Causes Of
+  title: Short Clips | ifos causes of UFO 3 ed 238
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: Why Short UFO Videos Are Hard to Trust
 - basename: ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f
-  title: Size Errors | Ifos Causes Of
+  title: Size Errors | ifos causes of UFO 3 ed 238
   permalink: /size-errors/
   short_title: Size Errors
   heading_title: Why Honest Witnesses Misjudge UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725
-  title: Sky Charts | Ifos Causes Of
+  title: Sky Charts | ifos causes of UFO 3 ed 238
   permalink: /sky-charts/
   short_title: Sky Charts
   heading_title: How to Check a UFO Against the Sky
 - basename: ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32
-  title: Stars | Ifos Causes Of
+  title: Stars | ifos causes of UFO 3 ed 238
   permalink: /stars/
   short_title: Stars
   heading_title: Why Stars Flash Like Machines
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb
-  title: Status Labels | Ifos Causes Of
+  title: Status Labels | ifos causes of UFO 3 ed 238
   permalink: /status-labels/
   short_title: Status Labels
   heading_title: UFO Does Not Mean Alien
 - basename: ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d
-  title: Strong Cases | Ifos Causes Of
+  title: Strong Cases | ifos causes of UFO 3 ed 238
   permalink: /strong-cases/
   short_title: Strong Cases
   heading_title: What Makes a UFO Report Harder to Explain
 - basename: ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948
-  title: UK Files | Ifos Causes Of
+  title: UK Files | ifos causes of UFO 3 ed 238
   permalink: /uk-files/
   short_title: UK Files
   heading_title: What the UK UFO Files Reveal
 - basename: ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06
-  title: Unresolved Cases | Ifos Causes Of
+  title: Unresolved Cases | ifos causes of UFO 3 ed 238
   permalink: /unresolved-cases/
   short_title: Unresolved Cases
   heading_title: Why Some UFO Cases Stay Open
 - basename: ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080
-  title: Venus | Ifos Causes Of
+  title: Venus | ifos causes of UFO 3 ed 238
   permalink: /venus/
   short_title: Venus
   heading_title: Is That UFO Really Venus?
 - basename: ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13
-  title: Weather Records | Ifos Causes Of
+  title: Weather Records | ifos causes of UFO 3 ed 238
   permalink: /weather-records/
   short_title: Weather Records
   heading_title: Weather Clues That Explain Strange Lights
 - basename: ifos_-_causes_of_UFO_3ed238_wind_data_33671a
-  title: Wind Data | Ifos Causes Of
+  title: Wind Data | ifos causes of UFO 3 ed 238
   permalink: /wind-data/
   short_title: Wind Data
   heading_title: Following a UFO With the Wind
@@ -478,21 +478,21 @@ child_links:
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 prev_link:
   basename: ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c
-  title: Drones | Ifos Causes Of
+  title: Drones | ifos causes of UFO 3 ed 238
   permalink: /drones/
   short_title: Drones
   heading_title: When a Drone Becomes a UFO
 next_link:
   basename: ifos_-_causes_of_UFO_3ed238_military_flares_abb62f
-  title: Flares | Ifos Causes Of
+  title: Flares | ifos causes of UFO 3 ed 238
   permalink: /flares/
   short_title: Flares
   heading_title: Why Flares Look Like Hovering Craft
-date: '2026-06-07 05:20:34 '
+date: '2026-06-12 00:10:46 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e-overview-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e-overview.webp
@@ -501,24 +501,20 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e-overvi
 
 ## Introduction
 
-Before a UFO report is treated as genuinely anomalous, the first task is not to “debunk” it but to stabilise the facts: exactly when it happened, where the witness was, where they were looking, what the weather was doing, and what ordinary sky traffic was present. This matters because many weak cases remain mysterious only because the basic coordinates are missing. [Project Blue Book]({{ 'blue-book/' | relative_url }}), the U.S. Air Force’s long-running UFO programme, put reports with missing duration, date, time, location, sky position or weather into an “[insufficient data]({{ 'missing-data/' | relative_url }})” category rather than an unexplained one. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Logistics Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Defense Logistics Agency</span></span></span>
-
+Before a UFO report is treated as genuinely anomalous, the first task is not to “debunk” it but to stabilise the facts: exactly when it happened, where the witness was, where they were looking, what the weather was doing, and what ordinary sky traffic was present. This matters because many weak cases remain mysterious only because the basic coordinates are missing. Project Blue Book, the U.S. Air Force’s long-running UFO programme, put reports with missing duration, date, time, location, sky position or weather into an “insufficient data” category rather than an unexplained one. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Logistics Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Defense Logistics Agency</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e-overview.webp" | relative_url }}" alt="Overview image for First Checks" loading="eager" decoding="sync" fetchpriority="high">
 A useful first-check routine therefore asks a simple question: can the sighting be matched to aircraft, [satellites]({{ 'satellites/' | relative_url }}), planets, balloons, [drones]({{ 'drones/' | relative_url }}), weather effects, camera artefacts or witness-position errors before stronger claims are made? Modern official work points in the same direction. NASA’s 2023 UAP study stressed that analysis is limited more by data quality than by lack of techniques, and AARO has resolved many cases as ordinary objects such as balloons, birds, drones, satellites and aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
-<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e-Illustration-3-dark.svg" | relative_url }}" alt="First Checks illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Time, place and direction
 
-The single most valuable first check is a precise event record. “Last night in the north” is rarely enough. A usable report should preserve the date, start and end time, observer location, viewing direction, apparent elevation above the horizon, object movement, duration, sound, lighting conditions and whether there were other witnesses. Project Blue Book’s own screening logic shows why: a case cannot be tested against flight tracks, satellite passes, [weather records]({{ 'weather-records/' | relative_url }}) or astronomical positions if the time, location, position in the sky or duration are missing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Logistics Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Defense Logistics Agency</span></span></span>
+The single most valuable first check is a precise event record. “Last night in the north” is rarely enough. A usable report should preserve the date, start and end time, observer location, viewing direction, apparent elevation above the horizon, object movement, duration, sound, lighting conditions and whether there were other witnesses. Project Blue Book’s own screening logic shows why: a case cannot be tested against [flight tracks]({{ 'flight-tracks/' | relative_url }}), satellite passes, [weather records]({{ 'weather-records/' | relative_url }}) or astronomical positions if the time, location, position in the sky or duration are missing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Logistics Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Defense Logistics Agency</span></span></span>
 
 The practical standard is not perfection; it is enough precision to make comparison possible. A witness standing in a street should record the nearest address or coordinates, then describe the object’s direction using compass bearings if possible, or fixed landmarks if not: “above the church tower looking west-south-west” is far more useful than “over town”. Apparent height should be described as an angle, not an altitude. A light “high up” could mean 20 degrees above the horizon to one person and 70 degrees to another, while a real altitude cannot be estimated without distance.
 
-Duration is especially important because several common IFOs have distinctive time patterns. Meteors usually last seconds; aircraft can linger if approaching head-on; satellites cross the visible sky over minutes; balloons and sky lanterns often drift with the wind; planets and stars remain effectively fixed relative to the horizon over the short span of a casual sighting. A report that gives a start time, end time and direction of movement immediately becomes much easier to test.
+Duration is especially important because several common IFOs have distinctive time patterns. [Meteors]({{ 'meteors/' | relative_url }}) usually last seconds; aircraft can linger if approaching head-on; satellites cross the visible sky over minutes; balloons and sky lanterns often drift with the wind; planets and [stars]({{ 'stars/' | relative_url }}) remain effectively fixed relative to the horizon over the short span of a casual sighting. A report that gives a start time, end time and direction of movement immediately becomes much easier to test.
 
 A useful field note looks plain, not dramatic:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -533,7 +529,6 @@ A useful field note looks plain, not dramatic:
 
 This is the point where many reports should pause. A sighting with no reliable time, no viewing direction and no location may still be sincerely described, but it is not yet a strong anomalous case. It is an incomplete case.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e-Illustration-1-dark.svg" | relative_url }}" alt="First Checks illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Sky, flight and weather checks
 
@@ -545,10 +540,9 @@ Then check satellites and space objects. Heavens-Above provides predictions for 
 
 Weather comes next, not last. METAR aviation weather reports include time, wind, visibility, present weather, sky conditions, temperature and pressure; they are issued at reporting locations and are considered valid for a defined observation period. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/asos/METAR.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> These records help test whether haze, low cloud, fog, high humidity, precipitation, lightning, unusual visibility or strong winds could have changed the appearance of ordinary lights. In the UK, the Met Office describes its observation network as measuring wind, rainfall, temperature, cloud, visibility, sunshine, radiation, snow depth and pressure, while its DataHub offers recent historical observation data including cloud cover. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metoffice.gov.uk/about-us/news-and-media/when-it-matters/heart/observations-network" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metoffice.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Balloons and drifting objects deserve a separate check because they often look stranger than expected. AARO’s official imagery pages include cases assessed with high confidence as balloons because the object’s appearance and performance matched lighter-than-air objects drifting with wind speed and direction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span> Radiosonde [weather balloons]({{ 'balloons/' | relative_url }}) also provide an important comparison point: the U.S. National Weather Service explains that radiosondes measure atmospheric conditions and that wind speed and direction aloft are obtained by tracking their position during flight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/asos/METAR.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> A bright, silent object moving steadily with upper winds is therefore not strong evidence of anomalous propulsion until balloon and wind data have been checked.
+Balloons and drifting objects deserve a separate check because they often look stranger than expected. AARO’s official imagery pages include cases assessed with high confidence as balloons because the object’s appearance and performance matched lighter-than-air objects drifting with wind speed and direction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span> Radiosonde weather balloons also provide an important comparison point: the U.S. National Weather Service explains that radiosondes measure atmospheric conditions and that wind speed and direction aloft are obtained by tracking their position during flight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/asos/METAR.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> A bright, silent object moving steadily with upper winds is therefore not strong evidence of anomalous propulsion until balloon and [wind data]({{ 'wind-data/' | relative_url }}) have been checked.
 
 The order of checks should be disciplined:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -564,9 +558,7 @@ The order of checks should be disciplined:
 
 A case becomes more interesting only after these checks fail in a documented way. “I could not identify it” is the starting point. “It did not match known aircraft, satellites, planets, balloons, local drones, weather records or camera artefacts, and the time-place-direction data are precise” is a much stronger position.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TQcqOW39ksk" title="Unidentified Anomalous Phenomena Independent Study Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer">Unidentified Anomalous Phenomena Independent Study Report</a></p><p class="youtube-embed-meta">Channel: NASA &middot; Views: 107.4K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TQcqOW39ksk">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e-Illustration-2-dark.svg" | relative_url }}" alt="First Checks illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Photos and follow-up notes
 
 Images can help, but only if they are preserved and interpreted carefully. A cropped, compressed social-media clip often removes exactly the information an investigator needs: the original timestamp, frame rate, focal length, exposure settings, audio, surrounding landmarks and the minutes before and after the exciting moment. NASA’s UAP study emphasised calibrated instruments, metadata and contextual comprehension because UAP observations are often incidental and not collected for scientific analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
@@ -579,19 +571,14 @@ The third rule is to separate what the image shows from what the witness inferre
 
 Follow-up notes should be made quickly, before retelling reshapes the memory. The witness should write down what was noticed first, what changed, who else was present, what sounds were heard, what the object seemed to do at disappearance, and what checks have already been made. GEIPAN, the French official UAP study group within CNES, uses a technical questionnaire as the reference document for launching an investigation, reflecting the same basic principle: structured testimony is more useful than dramatic summary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/en/faq-page" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Open source on geipan.fr.</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NV4SxybVEWc" title="LINK! (feat. RXTKY)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NV4SxybVEWc" target="_blank" rel="noopener noreferrer">LINK! (feat. RXTKY)</a></p><p class="youtube-embed-meta">Channel: Codet - Topic</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NV4SxybVEWc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NV4SxybVEWc">Open on YouTube</a></p></div></div></div>
-
-
-<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e-Illustration-2-dark.svg" | relative_url }}" alt="First Checks illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e-Illustration-3-dark.svg" | relative_url }}" alt="First Checks illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When the sighting is still worth escalating
 
 A sighting should not be called anomalous merely because it felt strange, appeared in a video, or could not be identified in the first few minutes. It becomes a stronger candidate when it has precise time-place-direction data, independent witnesses or sensors, original media, clear environmental records, and failed checks against the usual IFO sources. Project Blue Book treated “unidentified” as a small category for cases with enough pertinent data where the object or motion could not be correlated with known objects or phenomena, not as a label for every puzzling report. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Logistics Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Defense Logistics Agency</span></span></span>
 
-Modern UAP work applies the same restraint with better tools. [AARO]({{ 'aaro/' | relative_url }})’s public material lists common UAP causes including windborne debris, balloons, birds and other airborne clutter, and its recent official statements say that hundreds of cases have been resolved as commonplace objects while only a small percentage require focused scientific inquiry. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span> NASA’s study similarly argues for baseline knowledge of “normal” phenomena, such as balloons and solar glint, before searching for the abnormal. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Modern UAP work applies the same restraint with better tools. AARO’s public material lists common UAP causes including windborne debris, balloons, birds and other airborne clutter, and its recent official statements say that hundreds of cases have been resolved as commonplace objects while only a small percentage require focused scientific inquiry. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span> NASA’s study similarly argues for baseline knowledge of “normal” phenomena, such as balloons and solar glint, before searching for the abnormal. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 A practical escalation threshold might look like this:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -608,9 +595,7 @@ A practical escalation threshold might look like this:
 
 This standard does not require every odd light to be solved. It simply keeps the word “anomalous” for the cases that survive ordinary checks rather than the cases that lack them. In UFO reporting, the strongest first move is often the least glamorous one: write down the time, place and direction before the mystery outruns the evidence.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cVzyPnDYX2Y" title="Most Unbelievable UFO Encounters Ever | The Proof Is Out There | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cVzyPnDYX2Y" target="_blank" rel="noopener noreferrer">Most Unbelievable UFO Encounters Ever | The Proof Is Out There | History</a></p><p class="youtube-embed-meta">Channel: HISTORY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cVzyPnDYX2Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cVzyPnDYX2Y">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TQcqOW39ksk" title="Unidentified Anomalous Phenomena Independent Study Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer">Unidentified Anomalous Phenomena Independent Study Report</a></p><p class="youtube-embed-meta">Channel: NASA &middot; Views: 107.4K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TQcqOW39ksk">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -729,15 +714,15 @@ This standard does not require every odd light to be solved. It simply keeps the
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-checks-what-to-check-before-calling-it-a-ufo-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="first-checks-what-to-check-before-calling-it-a-ufo-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-to-check-before-calling-it-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-to-check-before-calling-it-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-checks-what-to-check-before-calling-it-a-ufo-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="first-checks-what-to-check-before-calling-it-a-ufo-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-to-check-before-calling-it-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-to-check-before-calling-it-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-checks-what-to-check-before-calling-it-a-ufo-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="first-checks-what-to-check-before-calling-it-a-ufo-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-to-check-before-calling-it-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-to-check-before-calling-it-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-checks-what-to-check-before-calling-it-a-ufo-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="first-checks-what-to-check-before-calling-it-a-ufo-ifos-causes-of-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-to-check-before-calling-it-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-to-check-before-calling-it-a-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -745,15 +730,15 @@ This standard does not require every odd light to be solved. It simply keeps the
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-checks-what-to-check-before-calling-it-a-ufo-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="first-checks-what-to-check-before-calling-it-a-ufo-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-to-check-before-calling-it-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-to-check-before-calling-it-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-checks-what-to-check-before-calling-it-a-ufo-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="first-checks-what-to-check-before-calling-it-a-ufo-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-to-check-before-calling-it-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-to-check-before-calling-it-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-checks-what-to-check-before-calling-it-a-ufo-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="first-checks-what-to-check-before-calling-it-a-ufo-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-to-check-before-calling-it-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-to-check-before-calling-it-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-checks-what-to-check-before-calling-it-a-ufo-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="first-checks-what-to-check-before-calling-it-a-ufo-ifos-causes-of-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-to-check-before-calling-it-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-to-check-before-calling-it-a-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -761,15 +746,15 @@ This standard does not require every odd light to be solved. It simply keeps the
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-checks-what-to-check-before-calling-it-a-ufo-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="first-checks-what-to-check-before-calling-it-a-ufo-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-to-check-before-calling-it-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-to-check-before-calling-it-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-checks-what-to-check-before-calling-it-a-ufo-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="first-checks-what-to-check-before-calling-it-a-ufo-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-to-check-before-calling-it-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-to-check-before-calling-it-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-checks-what-to-check-before-calling-it-a-ufo-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="first-checks-what-to-check-before-calling-it-a-ufo-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-to-check-before-calling-it-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-to-check-before-calling-it-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-checks-what-to-check-before-calling-it-a-ufo-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="first-checks-what-to-check-before-calling-it-a-ufo-ifos-causes-of-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-to-check-before-calling-it-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-to-check-before-calling-it-a-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -777,15 +762,15 @@ This standard does not require every odd light to be solved. It simply keeps the
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-checks-what-to-check-before-calling-it-a-ufo-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="first-checks-what-to-check-before-calling-it-a-ufo-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for U/ROCK BAND SPACE SHIP IRON OR SEW ON QUALITY EMBROIDERED PATCH UK SELLER/UFO"><img src="{{ '/assets/images/marketplace-covers/fc0f59ffafe53c3f0099.jpg' | relative_url }}" alt="Listing image for U/ROCK BAND SPACE SHIP IRON OR SEW ON QUALITY EMBROIDERED PATCH UK SELLER/UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-to-check-before-calling-it-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-to-check-before-calling-it-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-checks-what-to-check-before-calling-it-a-ufo-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="first-checks-what-to-check-before-calling-it-a-ufo-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">U/ROCK BAND SPACE SHIP IRON OR SEW ON QUALITY EMBROIDERED PATCH UK SELLER/UFO</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-to-check-before-calling-it-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-to-check-before-calling-it-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-checks-what-to-check-before-calling-it-a-ufo-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="first-checks-what-to-check-before-calling-it-a-ufo-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-to-check-before-calling-it-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-to-check-before-calling-it-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-checks-what-to-check-before-calling-it-a-ufo-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="first-checks-what-to-check-before-calling-it-a-ufo-ifos-causes-of-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-to-check-before-calling-it-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-to-check-before-calling-it-a-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -793,7 +778,7 @@ This standard does not require every odd light to be solved. It simply keeps the
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-checks-what-to-check-before-calling-it-a-ufo-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="first-checks-what-to-check-before-calling-it-a-ufo-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-to-check-before-calling-it-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-to-check-before-calling-it-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -1009,201 +994,201 @@ This standard does not require every odd light to be solved. It simply keeps the
 1. <a id="endnote-1"></a>
    Source: esd.whs.mil  
    Title: Defense Logistics Agency  
-   Link: [https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837](https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837)  
+   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837</a>  
 
 2. <a id="endnote-2"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 3. <a id="endnote-3"></a>
    Source: faa.gov  
    Title: Federal Aviation Administration Automatic Dependent Surveillance  
-   Link: [https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b](https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b)  
+   Link: <a href="https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b</a>  
 
 4. <a id="endnote-4"></a>
    Source: heavens-above.com  
-   Link: [https://www.heavens-above.com/](https://www.heavens-above.com/)  
+   Link: <a href="https://www.heavens-above.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.heavens-above.com/</a>  
 
 5. <a id="endnote-5"></a>
    Source: stellarium.org  
-   Link: [https://stellarium.org/](https://stellarium.org/)  
+   Link: <a href="https://stellarium.org/" target="_blank" rel="noopener noreferrer nofollow">https://stellarium.org/</a>  
 
 6. <a id="endnote-6"></a>
    Source: nightsky.jpl.nasa.gov  
    Title: Night Sky Network Identifying UFOs and UAPs  
-   Link: [https://nightsky.jpl.nasa.gov/news/39/](https://nightsky.jpl.nasa.gov/news/39/)  
+   Link: <a href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow">https://nightsky.jpl.nasa.gov/news/39/</a>  
 
 7. <a id="endnote-7"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/asos/METAR.html](https://www.weather.gov/asos/METAR.html)  
+   Link: <a href="https://www.weather.gov/asos/METAR.html" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/asos/METAR.html</a>  
 
 8. <a id="endnote-8"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 9. <a id="endnote-9"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/upperair/factsheet](https://www.weather.gov/upperair/factsheet)  
+   Link: <a href="https://www.weather.gov/upperair/factsheet" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/upperair/factsheet</a>  
 
 10. <a id="endnote-10"></a>
    Source: sciepublish.com  
-   Link: [https://www.sciepublish.com/article/pii/567](https://www.sciepublish.com/article/pii/567)  
+   Link: <a href="https://www.sciepublish.com/article/pii/567" target="_blank" rel="noopener noreferrer nofollow">https://www.sciepublish.com/article/pii/567</a>  
 
 11. <a id="endnote-11"></a>
    Source: geipan.fr  
-   Link: [https://www.geipan.fr/en/faq-page](https://www.geipan.fr/en/faq-page)  
+   Link: <a href="https://www.geipan.fr/en/faq-page" target="_blank" rel="noopener noreferrer nofollow">https://www.geipan.fr/en/faq-page</a>  
 
 12. <a id="endnote-12"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 13. <a id="endnote-13"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 14. <a id="endnote-14"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
 15. <a id="endnote-15"></a>
    Source: essex.police.uk  
    Title: ufo reports 2014 to 2024  
-   Link: [https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/](https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/)  
+   Link: <a href="https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/</a>  
 
 16. <a id="endnote-16"></a>
    Source: cnes.fr  
-   Link: [https://cnes.fr/en/projects/geipan](https://cnes.fr/en/projects/geipan)  
+   Link: <a href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow">https://cnes.fr/en/projects/geipan</a>  
 
 17. <a id="endnote-17"></a>
    Source: space.com  
-   Link: [https://www.space.com/starlink-satellite-train-how-to-see-and-track-it](https://www.space.com/starlink-satellite-train-how-to-see-and-track-it)  
+   Link: <a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
 
 18. <a id="endnote-18"></a>
    Source: space.com  
    Title: 14884 jupiter venus mistaken ufos  
-   Link: [https://www.space.com/14884-jupiter-venus-mistaken-ufos.html](https://www.space.com/14884-jupiter-venus-mistaken-ufos.html)  
+   Link: <a href="https://www.space.com/14884-jupiter-venus-mistaken-ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/14884-jupiter-venus-mistaken-ufos.html</a>  
 
 19. <a id="endnote-19"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/rah/virtualtourballoon](https://www.weather.gov/rah/virtualtourballoon)  
+   Link: <a href="https://www.weather.gov/rah/virtualtourballoon" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/rah/virtualtourballoon</a>  
 
 20. <a id="endnote-20"></a>
    Source: radar.weather.gov  
-   Link: [https://radar.weather.gov/](https://radar.weather.gov/)  
+   Link: <a href="https://radar.weather.gov/" target="_blank" rel="noopener noreferrer nofollow">https://radar.weather.gov/</a>  
 
 21. <a id="endnote-21"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/ilm/aviation](https://www.weather.gov/ilm/aviation)  
+   Link: <a href="https://www.weather.gov/ilm/aviation" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/ilm/aviation</a>  
 
 22. <a id="endnote-22"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 23. <a id="endnote-23"></a>
    Source: faa.gov  
    Title: Decode Section 2. Encode. EXPLANATION OF CODES. GEN  
-   Link: [https://www.faa.gov/air_traffic/publications/atpubs/cnt_html/chap2_section_2.html](https://www.faa.gov/air_traffic/publications/atpubs/cnt_html/chap2_section_2.html)  
+   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/cnt_html/chap2_section_2.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/cnt_html/chap2_section_2.html</a>  
 
 24. <a id="endnote-24"></a>
    Source: heavens-above.com  
-   Link: [https://www.heavens-above.com/explain.aspx](https://www.heavens-above.com/explain.aspx)  
+   Link: <a href="https://www.heavens-above.com/explain.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.heavens-above.com/explain.aspx</a>  
 
 25. <a id="endnote-25"></a>
    Source: in-the-sky.org  
-   Link: [https://in-the-sky.org/skymap.php](https://in-the-sky.org/skymap.php)  
+   Link: <a href="https://in-the-sky.org/skymap.php" target="_blank" rel="noopener noreferrer nofollow">https://in-the-sky.org/skymap.php</a>  
 
 26. <a id="endnote-26"></a>
    Source: metoffice.gov.uk  
-   Link: [https://www.metoffice.gov.uk/about-us/news-and-media/when-it-matters/heart/observations-network](https://www.metoffice.gov.uk/about-us/news-and-media/when-it-matters/heart/observations-network)  
+   Link: <a href="https://www.metoffice.gov.uk/about-us/news-and-media/when-it-matters/heart/observations-network" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/about-us/news-and-media/when-it-matters/heart/observations-network</a>  
 
 27. <a id="endnote-27"></a>
    Source: wow.metoffice.gov.uk  
    Title: metoffice.gov.uk Met Office WOW  
-   Link: [https://wow.metoffice.gov.uk/](https://wow.metoffice.gov.uk/)  
+   Link: <a href="https://wow.metoffice.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://wow.metoffice.gov.uk/</a>  
 
 28. <a id="endnote-28"></a>
    Source: weather.metoffice.gov.uk  
-   Link: [https://weather.metoffice.gov.uk/learn-about/how-forecasts-are-made/observations/weather-stations](https://weather.metoffice.gov.uk/learn-about/how-forecasts-are-made/observations/weather-stations)  
+   Link: <a href="https://weather.metoffice.gov.uk/learn-about/how-forecasts-are-made/observations/weather-stations" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/how-forecasts-are-made/observations/weather-stations</a>  
 
 29. <a id="endnote-29"></a>
    Source: metoffice.gov.uk  
-   Link: [https://www.metoffice.gov.uk/services/data](https://www.metoffice.gov.uk/services/data)  
+   Link: <a href="https://www.metoffice.gov.uk/services/data" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/services/data</a>  
 
 30. <a id="endnote-30"></a>
    Source: metoffice.gov.uk  
    Title: how do we know when weather records are broken  
-   Link: [https://www.metoffice.gov.uk/blog/2025/how-do-we-know-when-weather-records-are-broken](https://www.metoffice.gov.uk/blog/2025/how-do-we-know-when-weather-records-are-broken)  
+   Link: <a href="https://www.metoffice.gov.uk/blog/2025/how-do-we-know-when-weather-records-are-broken" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2025/how-do-we-know-when-weather-records-are-broken</a>  
 
 31. <a id="endnote-31"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 32. <a id="endnote-32"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/METAR](https://en.wikipedia.org/wiki/METAR)  
+   Link: <a href="https://en.wikipedia.org/wiki/METAR" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/METAR</a>  
 
 33. <a id="endnote-33"></a>
    Source: noaa.gov  
-   Link: [https://www.noaa.gov/jetstream/upperair/radiosondes](https://www.noaa.gov/jetstream/upperair/radiosondes)  
+   Link: <a href="https://www.noaa.gov/jetstream/upperair/radiosondes" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/jetstream/upperair/radiosondes</a>  
 
 34. <a id="endnote-34"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 35. <a id="endnote-35"></a>
    Source: maps.avnwx.com  
-   Link: [https://maps.avnwx.com/page/winds.html](https://maps.avnwx.com/page/winds.html)  
+   Link: <a href="https://maps.avnwx.com/page/winds.html" target="_blank" rel="noopener noreferrer nofollow">https://maps.avnwx.com/page/winds.html</a>  
 
 36. <a id="endnote-36"></a>
    Source: flightradar24.com  
    Title: Automatic Dependent Surveillance  
-   Link: [https://www.flightradar24.com/how-it-works/ads-b](https://www.flightradar24.com/how-it-works/ads-b)  
+   Link: <a href="https://www.flightradar24.com/how-it-works/ads-b" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/how-it-works/ads-b</a>  
 
 ### Additional References
 
 37. <a id="endnote-37"></a>
    Source: aviationweather.gov  
-   Link: [https://aviationweather.gov/](https://aviationweather.gov/)  
+   Link: <a href="https://aviationweather.gov/" target="_blank" rel="noopener noreferrer nofollow">https://aviationweather.gov/</a>  
 
 38. <a id="endnote-38"></a>
    Source: noaa.gov  
-   Link: [https://www.noaa.gov/noaa-collections/collections/media/2559](https://www.noaa.gov/noaa-collections/collections/media/2559)  
+   Link: <a href="https://www.noaa.gov/noaa-collections/collections/media/2559" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/noaa-collections/collections/media/2559</a>  
 
 39. <a id="endnote-39"></a>
    Source: aviationweather.gov  
-   Link: [https://aviationweather.gov/gfa/](https://aviationweather.gov/gfa/)  
+   Link: <a href="https://aviationweather.gov/gfa/" target="_blank" rel="noopener noreferrer nofollow">https://aviationweather.gov/gfa/</a>  
 
 40. <a id="endnote-40"></a>
    Source: aviationweather.gov  
-   Link: [https://aviationweather.gov/data/metar/](https://aviationweather.gov/data/metar/)  
+   Link: <a href="https://aviationweather.gov/data/metar/" target="_blank" rel="noopener noreferrer nofollow">https://aviationweather.gov/data/metar/</a>  
 
 41. <a id="endnote-41"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf](https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf)  
+   Link: <a href="https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf</a>  
 
 42. <a id="endnote-42"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
 43. <a id="endnote-43"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100040072-9.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100040072-9.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100040072-9.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100040072-9.pdf</a>  
 
 44. <a id="endnote-44"></a>
    Source: noaa.gov  
-   Link: [https://www.noaa.gov/education/resource-collections/weather-[atmosphere](https://www.noaa.gov/education/resource-collections/weather-[atmosphere)  
+   Link: <a href="https://www.noaa.gov/education/resource-collections/weather-[atmosphere" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/education/resource-collections/weather-[atmosphere</a>  
 
 45. <a id="endnote-45"></a>
    Source: youtube.com  
    Title: Practical Methods for Documenting Sky Observations  
-   Link: [https://www.youtube.com/watch?v=s9O0T4M0x6M](https://www.youtube.com/watch?v=s9O0T4M0x6M)  
+   Link: <a href="https://www.youtube.com/watch?v=s9O0T4M0x6M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=s9O0T4M0x6M</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking vs. Investigating: Scientific Standards for UAP...</p></details>
 
 46. <a id="endnote-46"></a>
    Source: youtube.com  
    Title: How to Investigate a UFO Sighting: A Scientific Approach  
-   Link: [https://www.youtube.com/watch?v=S0T03U-3d20](https://www.youtube.com/watch?v=S0T03U-3d20)  
+   Link: <a href="https://www.youtube.com/watch?v=S0T03U-3d20" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S0T03U-3d20</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Most UFOs Turn Out to be Ordinary Objects...</p></details>

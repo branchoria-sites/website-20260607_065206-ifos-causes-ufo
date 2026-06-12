@@ -50,22 +50,22 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_wind_data_33671a
 - ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - parallax
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - parallax
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Parallax can make a slow or ordinary object appear to race across the scene when the observer or camera is moving.
 hero_summary: Parallax can make a slow or ordinary object appear to race across the scene when the observer or camera is moving.
 layout: default
 permalink: /parallax/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 nav_short_title: Parallax
 title: The Speed Illusion in UFO Footage
-title_full: The Speed Illusion in UFO Footage | IFOs
+title_full: The Speed Illusion in UFO Footage
 display_title_short: Parallax
 display_title: Parallax
 heading_title: The Speed Illusion in UFO Footage
@@ -240,213 +240,212 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 21:36:46'
 parent_title: IFOs
-parent_permalink: /ifos-causes-of/
+parent_permalink: /ifos-causes-of-ufo-3-ed-238/
 parent_nav_short_title: IFOs
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 sibling_links:
 - basename: ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d
-  title: A Head On Aircraft Can Look Like A Stationary Light Because It | Ifos Causes Of
+  title: A Head On Aircraft Can Look Like A Stationary Light Because It | ifos causes of UFO 3 ed 238
   permalink: /a-head-on-aircraft-can-look-like-a/
   short_title: A Head On Aircraft Can Look Like A Stationary Light Because It
   heading_title: The Stationary Light That Is Moving
 - basename: ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261
-  title: AARO | Ifos Causes Of
+  title: AARO | ifos causes of UFO 3 ed 238
   permalink: /aaro/
   short_title: AARO
   heading_title: What Modern UAP Reviews Resolve
 - basename: ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253
-  title: Aircraft Lights | Ifos Causes Of
+  title: Aircraft Lights | ifos causes of UFO 3 ed 238
   permalink: /aircraft-lights/
   short_title: Aircraft Lights
   heading_title: Why Ordinary Aircraft Look So Strange
 - basename: ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043
-  title: Atmosphere | Ifos Causes Of
+  title: Atmosphere | ifos causes of UFO 3 ed 238
   permalink: /atmosphere/
   short_title: Atmosphere
   heading_title: When Weather Makes Shapes in the Sky
 - basename: ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057
-  title: Balloons | Ifos Causes Of
+  title: Balloons | ifos causes of UFO 3 ed 238
   permalink: /balloons/
   short_title: Balloons
   heading_title: Why Balloons Become Flying Saucers
 - basename: ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40
-  title: Birds | Ifos Causes Of
+  title: Birds | ifos causes of UFO 3 ed 238
   permalink: /birds/
   short_title: Birds
   heading_title: How Birds Become Fast UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81
-  title: Blue Book | Ifos Causes Of
+  title: Blue Book | ifos causes of UFO 3 ed 238
   permalink: /blue-book/
   short_title: Blue Book
   heading_title: What Blue Book Teaches About IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e
-  title: Contrails | Ifos Causes Of
+  title: Contrails | ifos causes of UFO 3 ed 238
   permalink: /contrails/
   short_title: Contrails
   heading_title: Why Jet Trails Glow Like UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c
-  title: Drones | Ifos Causes Of
+  title: Drones | ifos causes of UFO 3 ed 238
   permalink: /drones/
   short_title: Drones
   heading_title: When a Drone Becomes a UFO
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e
-  title: First Checks | Ifos Causes Of
+  title: First Checks | ifos causes of UFO 3 ed 238
   permalink: /first-checks/
   short_title: First Checks
   heading_title: What to Check Before Calling It a UFO
 - basename: ifos_-_causes_of_UFO_3ed238_military_flares_abb62f
-  title: Flares | Ifos Causes Of
+  title: Flares | ifos causes of UFO 3 ed 238
   permalink: /flares/
   short_title: Flares
   heading_title: Why Flares Look Like Hovering Craft
 - basename: ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590
-  title: Flight Tracking | Ifos Causes Of
+  title: Flight Tracking | ifos causes of UFO 3 ed 238
   permalink: /flight-tracking/
   short_title: Flight Tracking
   heading_title: How Flight Data Solves UFO Sightings
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965
-  title: Hoaxes | Ifos Causes Of
+  title: Hoaxes | ifos causes of UFO 3 ed 238
   permalink: /hoaxes/
   short_title: Hoaxes
   heading_title: When UFO Reports Are Manufactured
 - basename: ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f
-  title: Infrared | Ifos Causes Of
+  title: Infrared | ifos causes of UFO 3 ed 238
   permalink: /infrared/
   short_title: Infrared
   heading_title: Why Infrared UFO Videos Mislead
 - basename: ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74
-  title: Insects | Ifos Causes Of
+  title: Insects | ifos causes of UFO 3 ed 238
   permalink: /insects/
   short_title: Insects
   heading_title: The Tiny Things Cameras Make Huge
 - basename: ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5
-  title: Lanterns | Ifos Causes Of
+  title: Lanterns | ifos causes of UFO 3 ed 238
   permalink: /lanterns/
   short_title: Lanterns
   heading_title: The Orange Lights That Start UFO Reports
 - basename: ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e
-  title: Lens Flare | Ifos Causes Of
+  title: Lens Flare | ifos causes of UFO 3 ed 238
   permalink: /lens-flare/
   short_title: Lens Flare
   heading_title: When Cameras Invent Extra Lights
 - basename: ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28
-  title: Mass Sightings | Ifos Causes Of
+  title: Mass Sightings | ifos causes of UFO 3 ed 238
   permalink: /mass-sightings/
   short_title: Mass Sightings
   heading_title: Why Groups Can Share One Mistake
 - basename: ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504
-  title: Meteors | Ifos Causes Of
+  title: Meteors | ifos causes of UFO 3 ed 238
   permalink: /meteors/
   short_title: Meteors
   heading_title: When Fireballs Become UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca
-  title: Missing Data | Ifos Causes Of
+  title: Missing Data | ifos causes of UFO 3 ed 238
   permalink: /missing-data/
   short_title: Missing Data
   heading_title: Unsolved Does Not Always Mean Strange
 - basename: ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183
-  title: NASA Study | Ifos Causes Of
+  title: NASA Study | ifos causes of UFO 3 ed 238
   permalink: /nasa-study/
   short_title: NASA Study
   heading_title: Why Better UFO Data Matters
 - basename: ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a
-  title: Pilots | Ifos Causes Of
+  title: Pilots | ifos causes of UFO 3 ed 238
   permalink: /pilots/
   short_title: Pilots
   heading_title: Why Pilots Can Misidentify UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357
-  title: Radar | Ifos Causes Of
+  title: Radar | ifos causes of UFO 3 ed 238
   permalink: /radar/
   short_title: Radar
   heading_title: When Radar Sees a UFO That Isnt There
 - basename: ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c
-  title: Reflections | Ifos Causes Of
+  title: Reflections | ifos causes of UFO 3 ed 238
   permalink: /reflections/
   short_title: Reflections
   heading_title: The UFO Inside the Glass
 - basename: ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132
-  title: Rocket Plumes | Ifos Causes Of
+  title: Rocket Plumes | ifos causes of UFO 3 ed 238
   permalink: /rocket-plumes/
   short_title: Rocket Plumes
   heading_title: The Strange Clouds Rockets Leave Behind
 - basename: ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b
-  title: Satellites | Ifos Causes Of
+  title: Satellites | ifos causes of UFO 3 ed 238
   permalink: /satellites/
   short_title: Satellites
   heading_title: Why Satellites Surprise Night Watchers
 - basename: ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1
-  title: Searchlights | Ifos Causes Of
+  title: Searchlights | ifos causes of UFO 3 ed 238
   permalink: /searchlights/
   short_title: Searchlights
   heading_title: How Searchlights Paint UFOs in Clouds
 - basename: ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b
-  title: Sensor Operators | Ifos Causes Of
+  title: Sensor Operators | ifos causes of UFO 3 ed 238
   permalink: /sensor-operators/
   short_title: Sensor Operators
   heading_title: When Sensors Need Human Context
 - basename: ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391
-  title: Short Clips | Ifos Causes Of
+  title: Short Clips | ifos causes of UFO 3 ed 238
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: Why Short UFO Videos Are Hard to Trust
 - basename: ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f
-  title: Size Errors | Ifos Causes Of
+  title: Size Errors | ifos causes of UFO 3 ed 238
   permalink: /size-errors/
   short_title: Size Errors
   heading_title: Why Honest Witnesses Misjudge UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725
-  title: Sky Charts | Ifos Causes Of
+  title: Sky Charts | ifos causes of UFO 3 ed 238
   permalink: /sky-charts/
   short_title: Sky Charts
   heading_title: How to Check a UFO Against the Sky
 - basename: ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32
-  title: Stars | Ifos Causes Of
+  title: Stars | ifos causes of UFO 3 ed 238
   permalink: /stars/
   short_title: Stars
   heading_title: Why Stars Flash Like Machines
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb
-  title: Status Labels | Ifos Causes Of
+  title: Status Labels | ifos causes of UFO 3 ed 238
   permalink: /status-labels/
   short_title: Status Labels
   heading_title: UFO Does Not Mean Alien
 - basename: ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d
-  title: Strong Cases | Ifos Causes Of
+  title: Strong Cases | ifos causes of UFO 3 ed 238
   permalink: /strong-cases/
   short_title: Strong Cases
   heading_title: What Makes a UFO Report Harder to Explain
 - basename: ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948
-  title: UK Files | Ifos Causes Of
+  title: UK Files | ifos causes of UFO 3 ed 238
   permalink: /uk-files/
   short_title: UK Files
   heading_title: What the UK UFO Files Reveal
 - basename: ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06
-  title: Unresolved Cases | Ifos Causes Of
+  title: Unresolved Cases | ifos causes of UFO 3 ed 238
   permalink: /unresolved-cases/
   short_title: Unresolved Cases
   heading_title: Why Some UFO Cases Stay Open
 - basename: ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080
-  title: Venus | Ifos Causes Of
+  title: Venus | ifos causes of UFO 3 ed 238
   permalink: /venus/
   short_title: Venus
   heading_title: Is That UFO Really Venus?
 - basename: ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13
-  title: Weather Records | Ifos Causes Of
+  title: Weather Records | ifos causes of UFO 3 ed 238
   permalink: /weather-records/
   short_title: Weather Records
   heading_title: Weather Clues That Explain Strange Lights
 - basename: ifos_-_causes_of_UFO_3ed238_wind_data_33671a
-  title: Wind Data | Ifos Causes Of
+  title: Wind Data | ifos causes of UFO 3 ed 238
   permalink: /wind-data/
   short_title: Wind Data
   heading_title: Following a UFO With the Wind
@@ -479,20 +478,21 @@ child_links:
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 prev_link:
   basename: ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183
-  title: NASA Study | Ifos Causes Of
+  title: NASA Study | ifos causes of UFO 3 ed 238
   permalink: /nasa-study/
   short_title: NASA Study
   heading_title: Why Better UFO Data Matters
 next_link:
   basename: ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a
-  title: Pilots | Ifos Causes Of
+  title: Pilots | ifos causes of UFO 3 ed 238
   permalink: /pilots/
   short_title: Pilots
   heading_title: Why Pilots Can Misidentify UFOs
+date: '2026-06-12 00:08:39 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b-overview-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b-overview.webp
@@ -502,7 +502,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b-overvie
 ## Introduction
 
 Many UFO videos appear to show objects accelerating at impossible speeds, reversing direction instantly, or racing across the landscape with no visible means of propulsion. In a large number of cases, however, the apparent motion belongs partly—or entirely—to the camera rather than the object itself. The key mechanism is parallax: a well-understood effect in which the apparent position of an object changes because the observer is moving. When a camera is mounted on a moving aircraft, vehicle, drone, or even a person walking, parallax can create dramatic illusions of speed and manoeuvrability. In UFO investigations, this matters because a video that seems to show extraordinary flight may actually be recording an ordinary aircraft, balloon, bird, or distant object viewed from a moving platform. Analyses of several famous military UFO videos have concluded that parallax contributed significantly to the impression of unusual motion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/pentagon-solves-1-ufo-mystery-still-probing-other-cases/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">pentagon solves 1 ufo mystery still probing other cases</span><span class="citation-popover-snippet">CBS NewsPentagon solves 1 UFO mystery but still probing cases of &quot;...20 Nov 2024 — Director of Pentagon office probing UFOs showed Congr...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">3 ways scientists use math to help debunk ufo videos</span><span class="citation-popover-snippet">Pentagon study finds no sign of alien life in reported UFO sightings going back decades Eric Tucker, Associated Press · Analysis...</span></span></span>
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b-overview.webp" | relative_url }}" alt="Overview image for Parallax" loading="eager" decoding="sync" fetchpriority="high">
 Within the broader category of identified flying objects (IFOs), parallax is one of the most common reasons that sincere witnesses and viewers overestimate an object's speed. The mistake is not that people fail to see something; it is that they misinterpret how movement in the scene is being generated.
@@ -519,7 +518,6 @@ This effect becomes particularly misleading when the video's background provides
 
 A distant balloon, for example, may appear to zip across the landscape when filmed from a fast-moving aircraft. Conversely, a genuinely fast object moving directly towards the observer may appear almost stationary because its angular position changes very little.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b-Illustration-1-dark.svg" | relative_url }}" alt="Parallax illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Aircraft Videos Are Especially Vulnerable
 
@@ -530,7 +528,6 @@ Modern military and civilian aircraft travel at hundreds of kilometres per hour.
 The problem becomes more complicated when the camera itself is also moving independently of the aircraft. Tracking systems continuously pan, tilt, zoom, and stabilise the image. A viewer watching the finished video may see only the target and assume the camera is stationary, even though multiple motions are occurring simultaneously.
 
 Several factors can combine to create misleading impressions:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -543,7 +540,6 @@ Several factors can combine to create misleading impressions:
 </div>
 
 The result can be a video in which an apparently extraordinary object is actually behaving in a fairly ordinary way.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jHDlfIaBEqw" title="VFX Artists DEBUNK Pentagon UFO Videos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jHDlfIaBEqw" target="_blank" rel="noopener noreferrer">VFX Artists DEBUNK Pentagon UFO Videos</a></p><p class="youtube-embed-meta">Channel: Corridor Crew &middot; Views: 1.8M &middot; Uploaded: August 2021 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jHDlfIaBEqw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jHDlfIaBEqw">Open on YouTube</a></p></div></div></div>
 
@@ -563,8 +559,7 @@ Imagine an aircraft flying past a balloon suspended in the [atmosphere]({{ 'atmo
 
 This effect is frequently misunderstood because human intuition tends to associate visible motion with object motion. In reality, the apparent movement can be generated entirely by the observer.
 
-Researchers and analysts examining UFO footage have repeatedly pointed out that some videos provide insufficient information to determine whether the observed object is moving significantly at all. In such cases, apparent motion alone cannot establish extraordinary behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bellingcat.com">[bellingcat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bellingcat.com</span><span class="citation-popover-title">isnt that a balloon deflating a dod ufo video</span><span class="citation-popover-snippet">bellingcatIsn&#x27;t That A Balloon? Deflating a DoD UFO Video24 Oct 2023 — Far from being a novel interpretation of UFO videos, parallax is a...</span></span></span>
-
+Researchers and analysts examining UFO footage have repeatedly pointed out that some videos provide insufficient information to determine whether the observed object is moving significantly at all. In such cases, apparent motion alone cannot establish extraordinary behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bellingcat.com">[bellingcat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bellingcat.com</span><span class="citation-popover-title">isnt that a balloon deflating a dod ufo video</span><span class="citation-popover-snippet">Isn&#x27;t That A Balloon? Deflating a DoD UFO Video24 Oct 2023 — Far from being a novel interpretation of UFO videos, parallax is a...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b-Illustration-2-dark.svg" | relative_url }}" alt="Parallax illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Zoom Can Make the Illusion Worse
@@ -576,7 +571,6 @@ At high magnification, tiny changes in camera angle produce large movements on s
 Long focal lengths also compress visual depth. This makes distant objects appear closer to foreground features than they really are, reducing the viewer's ability to estimate range.
 
 In many UFO videos, viewers are not told:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -590,7 +584,6 @@ In many UFO videos, viewers are not told:
 
 Without this information, apparent speed can be highly misleading.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PLyEO0jNt6M" title="Explained: &quot;Go Fast&quot; UFO Video - Not Low and Not Fast - Like a Balloon!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PLyEO0jNt6M" target="_blank" rel="noopener noreferrer">Explained: &quot;Go Fast&quot; UFO Video - Not Low and Not Fast - Like a Balloon!</a></p><p class="youtube-embed-meta">Channel: Mick West &middot; Views: 154.3K &middot; Uploaded: June 2019 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PLyEO0jNt6M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PLyEO0jNt6M">Open on YouTube</a></p></div></div></div>
 
 ## Practical Video Checks
@@ -599,7 +592,7 @@ Investigators evaluating a purported UFO video often begin by asking not how fas
 
 Useful questions include:
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/BeAmazed/comments/193twh3/its_called_a_parallax_effect/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[**Is the camera moving?**]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">It&#x27;s called a Parallax effect: r/BeAmazedParallax causes the optical illusion. The camera is moving forward relative to the plane so due...</span></span></span>
+**Is the camera moving?** <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/BeAmazed/comments/193twh3/its_called_a_parallax_effect/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">It&#x27;s called a Parallax effect: r/BeAmazedParallax causes the optical illusion. The camera is moving forward relative to the plane so due...</span></span></span>
 
 A moving aircraft, drone, vehicle, or boat immediately raises the possibility of parallax effects.
 
@@ -625,7 +618,6 @@ If it does, the video may not support strong conclusions about performance.
 
 These checks do not automatically identify an object, but they help determine whether extraordinary motion is actually present.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b-Illustration-3-dark.svg" | relative_url }}" alt="Parallax illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Parallax Matters in UFO Investigations
 
@@ -635,9 +627,7 @@ What parallax does demonstrate is that apparent speed can be a poor guide to act
 
 For that reason, serious UFO investigations treat dramatic movement in a video as a starting point rather than a conclusion. Before a clip can be used as evidence for unusual flight characteristics, analysts must determine how much of the observed motion belongs to the object and how much belongs to the camera. In many identified flying object cases, that distinction turns out to be the entire explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/pentagon-solves-1-ufo-mystery-still-probing-other-cases/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">pentagon solves 1 ufo mystery still probing other cases</span><span class="citation-popover-snippet">CBS NewsPentagon solves 1 UFO mystery but still probing cases of &quot;...20 Nov 2024 — Director of Pentagon office probing UFOs showed Congr...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">3 ways scientists use math to help debunk ufo videos</span><span class="citation-popover-snippet">Pentagon study finds no sign of alien life in reported UFO sightings going back decades Eric Tucker, Associated Press · Analysis...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cwACSrLEPeM" title="Quantum physicists analyze pentagon US navy UFO video footage" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cwACSrLEPeM" target="_blank" rel="noopener noreferrer">Quantum physicists analyze pentagon US navy UFO video footage</a></p><p class="youtube-embed-meta">Channel: NYU Quantum Technology Lab &middot; Views: 6.8K &middot; Uploaded: June 2021 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cwACSrLEPeM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cwACSrLEPeM">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -756,15 +746,15 @@ For that reason, serious UFO investigations treat dramatic movement in a video a
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-the-speed-illusion-in-ufo-footage-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="parallax-the-speed-illusion-in-ufo-footage-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-speed-illusion-in-ufo-footage-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="the-speed-illusion-in-ufo-footage-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Royal Air Force Aircraft Poster A3 – RAF Plane Identification Guide – Aviation"><img src="https://i.ebayimg.com/images/g/mukAAeSwYctqHytq/s-l225.jpg" alt="Listing image for Royal Air Force Aircraft Poster A3 – RAF Plane Identification Guide – Aviation" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-the-speed-illusion-in-ufo-footage-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="parallax-the-speed-illusion-in-ufo-footage-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-speed-illusion-in-ufo-footage-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="the-speed-illusion-in-ufo-footage-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Royal Air Force Aircraft Poster A3 – RAF Plane Identification Guide – Aviation</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-the-speed-illusion-in-ufo-footage-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="parallax-the-speed-illusion-in-ufo-footage-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo enamel pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-speed-illusion-in-ufo-footage-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="the-speed-illusion-in-ufo-footage-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-the-speed-illusion-in-ufo-footage-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="parallax-the-speed-illusion-in-ufo-footage-ifos-causes-of-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-speed-illusion-in-ufo-footage-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="the-speed-illusion-in-ufo-footage-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -772,15 +762,15 @@ For that reason, serious UFO investigations treat dramatic movement in a video a
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-the-speed-illusion-in-ufo-footage-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="parallax-the-speed-illusion-in-ufo-footage-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag"><img src="{{ '/assets/images/marketplace-covers/423dfe011ecd80a392ff.jpg' | relative_url }}" alt="Listing image for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-speed-illusion-in-ufo-footage-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="the-speed-illusion-in-ufo-footage-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print"><img src="https://i.ebayimg.com/images/g/wsEAAeSwT65qH~8U/s-l225.jpg" alt="Listing image for Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-the-speed-illusion-in-ufo-footage-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="parallax-the-speed-illusion-in-ufo-footage-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-speed-illusion-in-ufo-footage-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="the-speed-illusion-in-ufo-footage-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-the-speed-illusion-in-ufo-footage-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="parallax-the-speed-illusion-in-ufo-footage-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo enamel pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-speed-illusion-in-ufo-footage-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="the-speed-illusion-in-ufo-footage-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-the-speed-illusion-in-ufo-footage-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="parallax-the-speed-illusion-in-ufo-footage-ifos-causes-of-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-speed-illusion-in-ufo-footage-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="the-speed-illusion-in-ufo-footage-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -788,15 +778,15 @@ For that reason, serious UFO investigations treat dramatic movement in a video a
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-the-speed-illusion-in-ufo-footage-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="parallax-the-speed-illusion-in-ufo-footage-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac"><img src="{{ '/assets/images/marketplace-covers/cdbe73a199cf9b4b48c0.jpg' | relative_url }}" alt="Listing image for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-speed-illusion-in-ufo-footage-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="the-speed-illusion-in-ufo-footage-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Eurofighter Typhoon | Military Aviation | RAF | Wall Art | Poster | Print"><img src="https://i.ebayimg.com/images/g/2pEAAOSwje1kLA5-/s-l225.jpg" alt="Listing image for Eurofighter Typhoon | Military Aviation | RAF | Wall Art | Poster | Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-the-speed-illusion-in-ufo-footage-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="parallax-the-speed-illusion-in-ufo-footage-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-speed-illusion-in-ufo-footage-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="the-speed-illusion-in-ufo-footage-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Eurofighter Typhoon | Military Aviation | RAF | Wall Art | Poster | Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-the-speed-illusion-in-ufo-footage-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="parallax-the-speed-illusion-in-ufo-footage-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo enamel pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-speed-illusion-in-ufo-footage-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="the-speed-illusion-in-ufo-footage-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-the-speed-illusion-in-ufo-footage-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="parallax-the-speed-illusion-in-ufo-footage-ifos-causes-of-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-speed-illusion-in-ufo-footage-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="the-speed-illusion-in-ufo-footage-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -804,15 +794,15 @@ For that reason, serious UFO investigations treat dramatic movement in a video a
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-the-speed-illusion-in-ufo-footage-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="parallax-the-speed-illusion-in-ufo-footage-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-speed-illusion-in-ufo-footage-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="the-speed-illusion-in-ufo-footage-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/KZwAAeSw8P5p39er/s-l225.jpg" alt="Listing image for WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-the-speed-illusion-in-ufo-footage-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="parallax-the-speed-illusion-in-ufo-footage-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-speed-illusion-in-ufo-footage-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="the-speed-illusion-in-ufo-footage-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-the-speed-illusion-in-ufo-footage-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="parallax-the-speed-illusion-in-ufo-footage-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo enamel pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-speed-illusion-in-ufo-footage-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="the-speed-illusion-in-ufo-footage-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-the-speed-illusion-in-ufo-footage-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="parallax-the-speed-illusion-in-ufo-footage-ifos-causes-of-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-speed-illusion-in-ufo-footage-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="the-speed-illusion-in-ufo-footage-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -820,7 +810,7 @@ For that reason, serious UFO investigations treat dramatic movement in a video a
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-the-speed-illusion-in-ufo-footage-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="parallax-the-speed-illusion-in-ufo-footage-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-speed-illusion-in-ufo-footage-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="the-speed-illusion-in-ufo-footage-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -1036,79 +1026,79 @@ For that reason, serious UFO investigations treat dramatic movement in a video a
 1. <a id="endnote-1"></a>
    Source: pbs.org  
    Title: 3 ways scientists use math to help debunk ufo videos  
-   Link: [https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos](https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos)  
+   Link: <a href="https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon study finds no sign of alien life in reported UFO sightings going back decades Eric Tucker, Associated Press &amp;middot; Analysis...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: defensescoop.com  
    Title: uap aaro findings go fast [puerto rico](&#123;&#123; 'puerto-rico/' | relative_url &#125;&#125;) mt etna objects  
-   Link: [https://defensescoop.com/2024/11/19/uap-aaro-findings-go-fast-puerto-rico-mt-etna-objects/](https://defensescoop.com/2024/11/19/uap-aaro-findings-go-fast-puerto-rico-mt-etna-objects/)  
+   Link: <a href="https://defensescoop.com/2024/11/19/uap-aaro-findings-go-fast-puerto-rico-mt-etna-objects/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2024/11/19/uap-aaro-findings-go-fast-puerto-rico-mt-etna-objects/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon&#x27;s UAP office reviews findings on Go Fast, Puerto...19 Nov 2024 — “As the platform is flying and capturing the object, if it is...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: bellingcat.com  
    Title: isnt that a balloon deflating a dod ufo video  
-   Link: [https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/](https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>bellingcatIsn&#x27;t That A Balloon? Deflating a DoD UFO Video24 Oct 2023 — Far from being a novel interpretation of UFO videos, parallax is a...</p></details>
+   Link: <a href="https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Isn&#x27;t That A Balloon? Deflating a DoD UFO Video24 Oct 2023 — Far from being a novel interpretation of UFO videos, parallax is a...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: cbsnews.com  
    Title: pentagon solves 1 ufo mystery still probing other cases  
-   Link: [https://www.cbsnews.com/news/pentagon-solves-1-ufo-mystery-still-probing-other-cases/](https://www.cbsnews.com/news/pentagon-solves-1-ufo-mystery-still-probing-other-cases/)  
+   Link: <a href="https://www.cbsnews.com/news/pentagon-solves-1-ufo-mystery-still-probing-other-cases/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/pentagon-solves-1-ufo-mystery-still-probing-other-cases/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsPentagon solves 1 UFO mystery but still probing cases of &quot;...20 Nov 2024 — Director of Pentagon office probing UFOs showed Congr...</p></details>
 
 ### Additional References
 
 5. <a id="endnote-5"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40kyeq1/activity](https://medium.com/%40kyeq1/activity)  
+   Link: <a href="https://medium.com/%40kyeq1/activity" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40kyeq1/activity</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Activity – Kye RobsonI have UFO&#x27;S that hover behind clouds, even on the clearest night, every... The GoFast case is a good example: AA...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1bfmuzz/for_those_who_dont_know_the_gimbal_and_gofast/](https://www.reddit.com/r/UFOs/comments/1bfmuzz/for_those_who_dont_know_the_gimbal_and_gofast/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1bfmuzz/for_those_who_dont_know_the_gimbal_and_gofast/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1bfmuzz/for_those_who_dont_know_the_gimbal_and_gofast/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>For those who don&#x27;t know, the Gimbal and GoFast videos...Many of these incidents where UFOs are interfering with and leading to the canc...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/BeAmazed/comments/193twh3/its_called_a_parallax_effect/](https://www.reddit.com/r/BeAmazed/comments/193twh3/its_called_a_parallax_effect/)  
+   Link: <a href="https://www.reddit.com/r/BeAmazed/comments/193twh3/its_called_a_parallax_effect/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/BeAmazed/comments/193twh3/its_called_a_parallax_effect/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s called a Parallax effect: r/BeAmazedParallax causes the optical illusion. The camera is moving forward relative to the plane so due...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: researchgate.net  
    Title: 403843232 Wormholes and UAP Phenomena Physical Theory and Observable Predictions  
-   Link: [https://www.researchgate.net/publication/403843232_Wormholes_and_UAP_Phenomena_Physical_Theory_and_Observable_Predictions](https://www.researchgate.net/publication/403843232_Wormholes_and_UAP_Phenomena_Physical_Theory_and_Observable_Predictions)  
+   Link: <a href="https://www.researchgate.net/publication/403843232_Wormholes_and_UAP_Phenomena_Physical_Theory_and_Observable_Predictions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/403843232_Wormholes_and_UAP_Phenomena_Physical_Theory_and_Observable_Predictions</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Wormholes and UAP Phenomena: Physical Theory...16 Apr 2026 — This paper develops a rigorous physical framework connecting traversa...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/shorts/n058kvtUMXc](https://www.youtube.com/shorts/n058kvtUMXc)  
+   Link: <a href="https://www.youtube.com/shorts/n058kvtUMXc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/n058kvtUMXc</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How math helped debunk this UFO videoNASA and the US government have turned to math and science publicly to help show how seemingly impos...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=jHDlfIaBEqw](https://www.youtube.com/watch?v=jHDlfIaBEqw)  
+   Link: <a href="https://www.youtube.com/watch?v=jHDlfIaBEqw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jHDlfIaBEqw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>VFX Artists DEBUNK Pentagon UFO VideosNewly leaked video allegedly shows one of the us navy&#x27;s stealth ships tracking an unknown object in...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: metabunk.org  
    Title: go fast footage from tom delonges to the stars academy bird balloon.9569  
-   Link: [https://www.metabunk.org/threads/go-fast-footage-from-tom-delonges-to-the-stars-academy-bird-balloon.9569/](https://www.metabunk.org/threads/go-fast-footage-from-tom-delonges-to-the-stars-academy-bird-balloon.9569/)  
+   Link: <a href="https://www.metabunk.org/threads/go-fast-footage-from-tom-delonges-to-the-stars-academy-bird-balloon.9569/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/go-fast-footage-from-tom-delonges-to-the-stars-academy-bird-balloon.9569/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;GO FAST&quot; Footage from Tom DeLonge&#x27;s To The Stars...9 Mar 2018 — Update Dec 2018 - Great new video of a balloon filmed from a Helicopter...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
    Title: What could be a logical explanation for the tic tac shaped aircraft spotted  
-   Link: [https://www.reddit.com/r/AskPhysics/comments/1dgc8od/are_there_good_scientific_explanations_for_ufo/](https://www.reddit.com/r/AskPhysics/comments/1dgc8od/are_there_good_scientific_explanations_for_ufo/)  
+   Link: <a href="https://www.reddit.com/r/AskPhysics/comments/1dgc8od/are_there_good_scientific_explanations_for_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskPhysics/comments/1dgc8od/are_there_good_scientific_explanations_for_ufo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Are there good scientific explanations for UFO sightings...I revisit this from time to time, but I never actually asked the question...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/interestingasfuck/comments/1081dpq/one_of_the_strangest_and_most_compelling_uap/](https://www.reddit.com/r/interestingasfuck/comments/1081dpq/one_of_the_strangest_and_most_compelling_uap/)  
+   Link: <a href="https://www.reddit.com/r/interestingasfuck/comments/1081dpq/one_of_the_strangest_and_most_compelling_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/interestingasfuck/comments/1081dpq/one_of_the_strangest_and_most_compelling_uap/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A U.S. Navy helicopter pilot saw a massive object underwater near Puerto. 2:02. 1.5K. 83. What appears to be a UAP/UFO, spotted night...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: nypost.com  
    Title: pentagon claims to debunk famous gofast ufo radar video  
-   Link: [https://nypost.com/2024/11/20/us-news/pentagon-claims-to-debunk-famous-gofast-ufo-radar-video/](https://nypost.com/2024/11/20/us-news/pentagon-claims-to-debunk-famous-gofast-ufo-radar-video/)  
+   Link: <a href="https://nypost.com/2024/11/20/us-news/pentagon-claims-to-debunk-famous-gofast-ufo-radar-video/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/11/20/us-news/pentagon-claims-to-debunk-famous-gofast-ufo-radar-video/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon claims to debunk famous &#x27;GOFAST&#x27; UFO radar...20 Nov 2024 — The Pentagon announced they solved one of the most famous UFO videos...</p></details>

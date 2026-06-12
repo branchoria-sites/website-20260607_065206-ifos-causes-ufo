@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_migrating_flocks_str_882181
 - ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_pelican_glints_ufo_8026ee
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - birds
 - aaro-ir-birds
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - birds
 - aaro-ir-birds
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Modern military infrared clips can still show ordinary birds as strange heat sources when wings and scale are unclear.
 hero_summary: Modern military infrared clips can still show ordinary birds as strange heat sources when wings and scale are unclear.
 layout: default
 permalink: /aaro-ir-birds/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /birds/
 nav_short_title: AARO IR birds
 title: When Military Infrared Footage Shows Birds
-title_full: When Military Infrared Footage Shows Birds | Birds
+title_full: When Military Infrared Footage Shows Birds
 display_title_short: AARO IR birds
 display_title: AARO IR birds
 heading_title: When Military Infrared Footage Shows Birds
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 07:56:21'
-parent_title: How Birds Become Fast UFOs | IFOs
+parent_title: How Birds Become Fast UFOs
 parent_permalink: /birds/
 parent_nav_short_title: Birds
 parent_heading_title: How Birds Become Fast UFOs
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40
-  title: Birds | Ifos Causes Of
+  title: Birds | ifos causes of UFO 3 ed 238
   permalink: /birds/
   short_title: Birds
   heading_title: How Birds Become Fast UFOs
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40
-  title: Birds | Ifos Causes Of
+  title: Birds | ifos causes of UFO 3 ed 238
   permalink: /birds/
   short_title: Birds
   heading_title: How Birds Become Fast UFOs
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: Can Pelicans Look Like Silver Discs?
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40
-  title: Birds | Ifos Causes Of
+  title: Birds | ifos causes of UFO 3 ed 238
   permalink: /birds/
   short_title: Birds
   heading_title: How Birds Become Fast UFOs
@@ -260,6 +259,7 @@ next_link:
   permalink: /field-checks/
   short_title: Field checks
   heading_title: How Investigators Test a Bird Explanation
+date: '2026-06-12 00:36:38 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_aaro_infrared_birds_482946-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_aaro_infrared_birds_482946-Illustration-1.webp
@@ -268,8 +268,7 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_aaro_
 
 ## Introduction
 
-One of the clearest modern examples of birds being mistaken for unidentified aerial objects comes not from civilian sightings but from military [infrared]({{ 'infrared/' | relative_url }}) footage reviewed by the U.S. Department of Defense’s All-domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})). These cases are important because the videos recorded real physical targets and were initially reported as unidentified. Only after detailed analysis did AARO conclude that the objects were ordinary migratory birds. The episodes show how thermal imaging can detect airborne objects while revealing very little about their biological nature, creating conditions in which birds appear as unusual heat sources rather than recognisable animals. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">AAROUAP ImageryIn 2024, the United States Africa Command submitted a report of an unidentified anomalous phenomenon to the All-domain Ano...</span></span></span>
-
+One of the clearest modern examples of birds being mistaken for unidentified aerial objects comes not from civilian sightings but from military [infrared]({{ 'infrared/' | relative_url }}) footage reviewed by the U.S. Department of Defense’s All-domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})). These cases are important because the videos recorded real physical targets and were initially reported as unidentified. Only after detailed analysis did AARO conclude that the objects were ordinary migratory birds. The episodes show how thermal imaging can detect airborne objects while revealing very little about their biological nature, creating conditions in which birds appear as unusual heat sources rather than recognisable animals. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">UAP ImageryIn 2024, the United States Africa Command submitted a report of an unidentified anomalous phenomenon to the All-domain Ano...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_aaro_infrared_birds_482946-Illustration-1-dark.svg" | relative_url }}" alt="AARO IR birds illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_aaro_infrared_birds_482946-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_aaro_infrared_birds_482946-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Thermal Clips Hide Bird Features
@@ -279,7 +278,6 @@ Infrared systems are designed to detect heat contrasts, not necessarily to provi
 In many infrared clips, a bird may appear as a compact bright spot moving against a colder background. Wingbeats can disappear into sensor noise, image [compression]({{ 'compression/' | relative_url }}) or low apparent size. [Thermal contrast]({{ 'thermal-contrast/' | relative_url }}) may emphasise the bird's warm body while suppressing the outline that would immediately identify it in visible light. As a result, operators can confidently determine that a physical object is present while remaining uncertain about what the object actually is. This distinction is visible throughout AARO's public case catalogue, where the existence of an object is sometimes clear even when identification initially is not. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP Case Resolution ReportsAtmospheric Wake Case Resolution. These reports were submitted after three different missions in the Middle Ea...</span></span></span>
 
 The issue is compounded when observers are viewing footage from military aircraft or other moving platforms. Without reliable information on [range]({{ 'range/' | relative_url }}), altitude and scale, a small biological target can look larger, faster or more unusual than it really is.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eIgeQUqJ53s" title="Official UFO Video Just Dropped … What Is This Thing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eIgeQUqJ53s" target="_blank" rel="noopener noreferrer">Official UFO Video Just Dropped … What Is This Thing</a></p><p class="youtube-embed-meta">Channel: State of War &middot; Views: 30 &middot; Uploaded: December 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eIgeQUqJ53s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eIgeQUqJ53s">Open on YouTube</a></p></div></div></div>
 
@@ -296,16 +294,14 @@ The office further stated that an external Intelligence Community partner indepe
 
 The case demonstrates an important point about UFO and UAP investigations: an object can remain unidentified during operational observation yet become identifiable when analysts later compare its behaviour against broader datasets, including migration information and previously resolved imagery.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_aaro_infrared_birds_482946-Illustration-2-dark.svg" | relative_url }}" alt="AARO IR birds illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_aaro_infrared_birds_482946-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_aaro_infrared_birds_482946-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Africa 2023: A Similar Pattern
 
-AARO also released information on case PR-003, submitted by United States Africa Command in 2023. The case involved nearly five minutes of infrared footage from a military platform. Public releases identify the case as having been resolved as migratory birds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">AAROUAP ImageryIn 2024, the United States Africa Command submitted a report of an unidentified anomalous phenomenon to the All-domain Ano...</span></span></span>
+AARO also released information on case PR-003, submitted by United States Africa Command in 2023. The case involved nearly five minutes of infrared footage from a military platform. Public releases identify the case as having been resolved as migratory birds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">UAP ImageryIn 2024, the United States Africa Command submitted a report of an unidentified anomalous phenomenon to the All-domain Ano...</span></span></span>
 
 Although less explanatory detail has been published for this case than for PR-002, the pairing is notable. Two separate infrared recordings from the same broad theatre of operations, recorded in different years, ultimately pointed investigators toward the same conclusion. Rather than revealing exotic craft, the thermal signatures were assessed as ordinary migrating birds whose appearance in infrared imagery initially obscured their identity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP Case Resolution ReportsAtmospheric Wake Case Resolution. These reports were submitted after three different missions in the Middle Ea...</span></span></span>
 
 These cases provide a useful dataset because they are not hypothetical examples. They are actual military UAP reports that entered the formal investigative process before being resolved.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5kSXqtosToM" title="RESOLVED: Newly released AARO video officially resolved as migratory birds Africa 2024" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5kSXqtosToM" target="_blank" rel="noopener noreferrer">RESOLVED: Newly released AARO video officially resolved as migratory birds Africa 2024</a></p><p class="youtube-embed-meta">Channel: Red Panda Koala’s UFO History Archive &middot; Views: 282 &middot; Uploaded: August 2025 &middot; Length: 1 minute 19 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5kSXqtosToM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5kSXqtosToM">Open on YouTube</a></p></div></div></div>
 
@@ -319,7 +315,6 @@ In the Africa bird cases, AARO specifically highlighted pattern matching. The ob
 
 This is an important lesson for interpreting infrared UAP footage. Identification often depends less on a single frame and more on integrating multiple lines of evidence. A thermal clip may show that something is there without immediately revealing what it is.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_aaro_infrared_birds_482946-Illustration-3-dark.svg" | relative_url }}" alt="AARO IR birds illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_aaro_infrared_birds_482946-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_aaro_infrared_birds_482946-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What These Cases Mean for UFO Reports
 
@@ -327,9 +322,7 @@ The AARO bird cases do not imply that every infrared UAP report involves wildlif
 
 For the broader question of causes behind UFO reports, these cases are valuable because they replace speculation with documented examples. They show a specific pathway by which a real object—a migrating bird—can enter official UAP reporting channels, appear unusual in infrared imagery, and remain unidentified until additional analysis reveals its mundane origin. The result is a well-documented instance of birds contributing to reports of apparently anomalous aerial objects. AARO <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.europeafrica.army.mil/UITC/?dvpTag=UAP&amp;dvpmoduleid=99137&amp;videoid=973048" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: europeafrica.army.mil">[2U.S. Army Europe &amp; Africa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">europeafrica.army.mil</span><span class="citation-popover-snippet">U.S. Army Europe &amp; AfricaUITC1 Jan 2024 — AARO assesses, with high confidence, that the objects depicted in the video are almost certainl...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GmTZMVsjFiY" title="PR-003, Resolved as Migratory Birds, Africa — AARO (2023)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GmTZMVsjFiY" target="_blank" rel="noopener noreferrer">PR-003, Resolved as Migratory Birds, Africa — AARO (2023)</a></p><p class="youtube-embed-meta">Channel: UAPDrop &middot; Views: 5 &middot; Uploaded: May 2026 &middot; Length: 3 minutes 48 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GmTZMVsjFiY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GmTZMVsjFiY">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -424,7 +417,7 @@ For the broader question of causes behind UFO reports, these cases are valuable 
         <p class="fr-section-kicker">eBay marketplace picks</p>
         <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
       </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
       <div class="fr-ebay-market-toolbar">
         <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
@@ -448,15 +441,15 @@ For the broader question of causes behind UFO reports, these cases are valuable 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-ir-birds-when-military-infrared-footage-shows-birds-ifos-causes-of-military-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation patch" data-ebay-reference="aaro-ir-birds-when-military-infrared-footage-shows-birds-ifos-causes-of-military-aviation-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Joint Aviation Command JAC TRF x3 TRF Pack"><img src="{{ '/assets/images/marketplace-covers/d2386587f3be570b369c.jpg' | relative_url }}" alt="Listing image for Joint Aviation Command JAC TRF x3 TRF Pack" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-military-infrared-footage-shows-birds-thermal-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal monocular" data-ebay-reference="when-military-infrared-footage-shows-birds-thermal-monocular" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for GUIDE- Thermal Monocular TD210"><img src="https://i.ebayimg.com/images/g/pNEAAeSwsrNqHVml/s-l225.jpg" alt="Listing image for GUIDE- Thermal Monocular TD210" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-ir-birds-when-military-infrared-footage-shows-birds-ifos-causes-of-military-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation patch" data-ebay-reference="aaro-ir-birds-when-military-infrared-footage-shows-birds-ifos-causes-of-military-aviation-patch" target="_blank" rel="sponsored noopener noreferrer">Joint Aviation Command JAC TRF x3 TRF Pack</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-military-infrared-footage-shows-birds-thermal-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal monocular" data-ebay-reference="when-military-infrared-footage-shows-birds-thermal-monocular" target="_blank" rel="sponsored noopener noreferrer">GUIDE- Thermal Monocular TD210</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-ir-birds-when-military-infrared-footage-shows-birds-ifos-causes-of-military-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation patch" data-ebay-reference="aaro-ir-birds-when-military-infrared-footage-shows-birds-ifos-causes-of-military-aviation-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: military aviation patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-military-infrared-footage-shows-birds-thermal-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal monocular" data-ebay-reference="when-military-infrared-footage-shows-birds-thermal-monocular" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for thermal monocular">Search <span data-ebay-domain-label>eBay.co.uk</span>: thermal monocular</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-ir-birds-when-military-infrared-footage-shows-birds-ifos-causes-of-military-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation patch" data-ebay-reference="aaro-ir-birds-when-military-infrared-footage-shows-birds-ifos-causes-of-military-aviation-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-military-infrared-footage-shows-birds-thermal-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal monocular" data-ebay-reference="when-military-infrared-footage-shows-birds-thermal-monocular" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -464,15 +457,15 @@ For the broader question of causes behind UFO reports, these cases are valuable 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-ir-birds-when-military-infrared-footage-shows-birds-ifos-causes-of-military-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation patch" data-ebay-reference="aaro-ir-birds-when-military-infrared-footage-shows-birds-ifos-causes-of-military-aviation-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Collection of 20 USAF Aviation Squadron Patches - *JOB LOT* - Lot 7"><img src="{{ '/assets/images/marketplace-covers/88c89fa0120bb1e83a70.jpg' | relative_url }}" alt="Listing image for Collection of 20 USAF Aviation Squadron Patches - *JOB LOT* - Lot 7" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-military-infrared-footage-shows-birds-thermal-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal monocular" data-ebay-reference="when-military-infrared-footage-shows-birds-thermal-monocular" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HIKMICRO Lynx LH25 2.0 Thermal Monocular"><img src="https://i.ebayimg.com/images/g/cekAAeSwFyhqKbRc/s-l225.jpg" alt="Listing image for HIKMICRO Lynx LH25 2.0 Thermal Monocular" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-ir-birds-when-military-infrared-footage-shows-birds-ifos-causes-of-military-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation patch" data-ebay-reference="aaro-ir-birds-when-military-infrared-footage-shows-birds-ifos-causes-of-military-aviation-patch" target="_blank" rel="sponsored noopener noreferrer">Collection of 20 USAF Aviation Squadron Patches - *JOB LOT* - Lot 7</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-military-infrared-footage-shows-birds-thermal-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal monocular" data-ebay-reference="when-military-infrared-footage-shows-birds-thermal-monocular" target="_blank" rel="sponsored noopener noreferrer">HIKMICRO Lynx LH25 2.0 Thermal Monocular</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-ir-birds-when-military-infrared-footage-shows-birds-ifos-causes-of-military-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation patch" data-ebay-reference="aaro-ir-birds-when-military-infrared-footage-shows-birds-ifos-causes-of-military-aviation-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: military aviation patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-military-infrared-footage-shows-birds-thermal-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal monocular" data-ebay-reference="when-military-infrared-footage-shows-birds-thermal-monocular" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for thermal monocular">Search <span data-ebay-domain-label>eBay.co.uk</span>: thermal monocular</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-ir-birds-when-military-infrared-footage-shows-birds-ifos-causes-of-military-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation patch" data-ebay-reference="aaro-ir-birds-when-military-infrared-footage-shows-birds-ifos-causes-of-military-aviation-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-military-infrared-footage-shows-birds-thermal-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal monocular" data-ebay-reference="when-military-infrared-footage-shows-birds-thermal-monocular" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -480,15 +473,15 @@ For the broader question of causes behind UFO reports, these cases are valuable 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-ir-birds-when-military-infrared-footage-shows-birds-ifos-causes-of-military-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation patch" data-ebay-reference="aaro-ir-birds-when-military-infrared-footage-shows-birds-ifos-causes-of-military-aviation-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 14 assorted USAF/ USN aviation Military Patches."><img src="{{ '/assets/images/marketplace-covers/e49e13bcbcde85c76dfd.jpg' | relative_url }}" alt="Listing image for 14 assorted USAF/ USN aviation Military Patches." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-military-infrared-footage-shows-birds-thermal-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal monocular" data-ebay-reference="when-military-infrared-footage-shows-birds-thermal-monocular" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HikMicro Lynx 3.0 LE10 Thermal Monocular - NEW 2026 Model"><img src="https://i.ebayimg.com/images/g/nuwAAeSwat1pc9d3/s-l225.jpg" alt="Listing image for HikMicro Lynx 3.0 LE10 Thermal Monocular - NEW 2026 Model" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-ir-birds-when-military-infrared-footage-shows-birds-ifos-causes-of-military-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation patch" data-ebay-reference="aaro-ir-birds-when-military-infrared-footage-shows-birds-ifos-causes-of-military-aviation-patch" target="_blank" rel="sponsored noopener noreferrer">14 assorted USAF/ USN aviation Military Patches.</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-military-infrared-footage-shows-birds-thermal-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal monocular" data-ebay-reference="when-military-infrared-footage-shows-birds-thermal-monocular" target="_blank" rel="sponsored noopener noreferrer">HikMicro Lynx 3.0 LE10 Thermal Monocular - NEW 2026 Model</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-ir-birds-when-military-infrared-footage-shows-birds-ifos-causes-of-military-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation patch" data-ebay-reference="aaro-ir-birds-when-military-infrared-footage-shows-birds-ifos-causes-of-military-aviation-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: military aviation patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-military-infrared-footage-shows-birds-thermal-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal monocular" data-ebay-reference="when-military-infrared-footage-shows-birds-thermal-monocular" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for thermal monocular">Search <span data-ebay-domain-label>eBay.co.uk</span>: thermal monocular</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-ir-birds-when-military-infrared-footage-shows-birds-ifos-causes-of-military-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation patch" data-ebay-reference="aaro-ir-birds-when-military-infrared-footage-shows-birds-ifos-causes-of-military-aviation-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-military-infrared-footage-shows-birds-thermal-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal monocular" data-ebay-reference="when-military-infrared-footage-shows-birds-thermal-monocular" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -496,15 +489,15 @@ For the broader question of causes behind UFO reports, these cases are valuable 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-ir-birds-when-military-infrared-footage-shows-birds-ifos-causes-of-military-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation patch" data-ebay-reference="aaro-ir-birds-when-military-infrared-footage-shows-birds-ifos-causes-of-military-aviation-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BRITISH ARMY -1st Aviation Brigade Iron/Sew On Patch - No3168"><img src="{{ '/assets/images/marketplace-covers/7f7bebce4963566b9bdb.jpg' | relative_url }}" alt="Listing image for BRITISH ARMY -1st Aviation Brigade Iron/Sew On Patch - No3168" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-military-infrared-footage-shows-birds-thermal-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal monocular" data-ebay-reference="when-military-infrared-footage-shows-birds-thermal-monocular" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HIKMICRO Lynx 6mm 35mK 160x120 17um Smart Thermal Monocular Hot Track and Wifi"><img src="https://i.ebayimg.com/images/g/UykAAOSwx-hh-6bh/s-l225.jpg" alt="Listing image for HIKMICRO Lynx 6mm 35mK 160x120 17um Smart Thermal Monocular Hot Track and Wifi" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-ir-birds-when-military-infrared-footage-shows-birds-ifos-causes-of-military-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation patch" data-ebay-reference="aaro-ir-birds-when-military-infrared-footage-shows-birds-ifos-causes-of-military-aviation-patch" target="_blank" rel="sponsored noopener noreferrer">BRITISH ARMY -1st Aviation Brigade Iron/Sew On Patch - No3168</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-military-infrared-footage-shows-birds-thermal-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal monocular" data-ebay-reference="when-military-infrared-footage-shows-birds-thermal-monocular" target="_blank" rel="sponsored noopener noreferrer">HIKMICRO Lynx 6mm 35mK 160x120 17um Smart Thermal Monocular Hot Track and Wifi</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-ir-birds-when-military-infrared-footage-shows-birds-ifos-causes-of-military-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation patch" data-ebay-reference="aaro-ir-birds-when-military-infrared-footage-shows-birds-ifos-causes-of-military-aviation-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: military aviation patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-military-infrared-footage-shows-birds-thermal-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal monocular" data-ebay-reference="when-military-infrared-footage-shows-birds-thermal-monocular" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for thermal monocular">Search <span data-ebay-domain-label>eBay.co.uk</span>: thermal monocular</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-ir-birds-when-military-infrared-footage-shows-birds-ifos-causes-of-military-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation patch" data-ebay-reference="aaro-ir-birds-when-military-infrared-footage-shows-birds-ifos-causes-of-military-aviation-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-military-infrared-footage-shows-birds-thermal-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal monocular" data-ebay-reference="when-military-infrared-footage-shows-birds-thermal-monocular" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -512,7 +505,7 @@ For the broader question of causes behind UFO reports, these cases are valuable 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-ir-birds-when-military-infrared-footage-shows-birds-ifos-causes-of-military-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation patch" data-ebay-reference="aaro-ir-birds-when-military-infrared-footage-shows-birds-ifos-causes-of-military-aviation-patch" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-military-infrared-footage-shows-birds-thermal-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal monocular" data-ebay-reference="when-military-infrared-footage-shows-birds-thermal-monocular" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -728,112 +721,112 @@ For the broader question of causes behind UFO reports, these cases are valuable 
 1. <a id="endnote-1"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROUAP ImageryIn 2024, the United States Africa Command submitted a report of an unidentified anomalous phenomenon to the All-domain Ano...</p></details>
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryIn 2024, the United States Africa Command submitted a report of an unidentified anomalous phenomenon to the All-domain Ano...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: war.gov  
    Title: dr jon kosloski director aaro media roundtable on the fy24 consolidated annual  
-   Link: [https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/](https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/)  
+   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDr. Jon Kosloski, Director, AARO, Media Roundtable on the...14 Nov 2024 — AARO has successfully resolved hundreds of ca...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: europeafrica.army.mil  
-   Link: [https://www.europeafrica.army.mil/UITC/?dvpTag=UAP&dvpmoduleid=99137&videoid=973048](https://www.europeafrica.army.mil/UITC/?dvpTag=UAP&dvpmoduleid=99137&videoid=973048)  
+   Link: <a href="https://www.europeafrica.army.mil/UITC/?dvpTag=UAP&amp;dvpmoduleid=99137&amp;videoid=973048" target="_blank" rel="noopener noreferrer nofollow">https://www.europeafrica.army.mil/UITC/?dvpTag=UAP&amp;dvpmoduleid=99137&amp;videoid=973048</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Army Europe &amp; AfricaUITC1 Jan 2024 — AARO assesses, with high confidence, that the objects depicted in the video are almost certainl...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/](https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Case Resolution ReportsAtmospheric Wake Case Resolution. These reports were submitted after three different missions in the Middle Ea...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeHas the Department found any evidence of extraterrestrial technology? No. Examination of UAP sightings is ongoing. AARO uses a r...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Historical Record Report Volume 18 Mar 2024 — The report focused on discovering the best data streams available and discoverable to resol...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: europeafrica.army.mil  
-   Link: [https://www.europeafrica.army.mil/UITC/?dvpTag=UAP&dvpmoduleid=99137&videoid=885193](https://www.europeafrica.army.mil/UITC/?dvpTag=UAP&dvpmoduleid=99137&videoid=885193)  
+   Link: <a href="https://www.europeafrica.army.mil/UITC/?dvpTag=UAP&amp;dvpmoduleid=99137&amp;videoid=885193" target="_blank" rel="noopener noreferrer nofollow">https://www.europeafrica.army.mil/UITC/?dvpTag=UAP&amp;dvpmoduleid=99137&amp;videoid=885193</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>army.milUITC31 May 2023 — PR-003, Unresolved UAP Report, Africa 2023. Play Button. 4:58. PR-003... PR-002, Resolved as Migratory Birds...</p></details>
    Published: May 2023  
 
 8. <a id="endnote-8"></a>
    Source: europeafrica.army.mil  
    Title: Immediate Response  
-   Link: [https://www.europeafrica.army.mil/DefenderEurope/ImmediateResponse/?dvpTag=UAP&dvpmoduleid=99967&videoid=973045](https://www.europeafrica.army.mil/DefenderEurope/ImmediateResponse/?dvpTag=UAP&dvpmoduleid=99967&videoid=973045)  
+   Link: <a href="https://www.europeafrica.army.mil/DefenderEurope/ImmediateResponse/?dvpTag=UAP&amp;dvpmoduleid=99967&amp;videoid=973045" target="_blank" rel="noopener noreferrer nofollow">https://www.europeafrica.army.mil/DefenderEurope/ImmediateResponse/?dvpTag=UAP&amp;dvpmoduleid=99967&amp;videoid=973045</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>7, 2025 — The footage shows an apparent heat signature... PR-003, Unresolved UAP Report, Africa 2023 · PR-002, Resolved as Migratory Bir...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024](https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024)  
+   Link: <a href="https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PR-017, Unresolved UAP Report, Europe 2024This unresolved report contributes to AARO&#x27;s historical and locational trend analyses. VIDEO IN...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/video/988673/pr-016-resolved-birds-europe-2023](https://www.dvidshub.net/video/988673/pr-016-resolved-birds-europe-2023)  
+   Link: <a href="https://www.dvidshub.net/video/988673/pr-016-resolved-birds-europe-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/988673/pr-016-resolved-birds-europe-2023</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PR-016, Resolved as Birds, Europe 2023AARO assesses, with high confidence, that the objects depicted in the video are almost certainly (&gt;...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/393621107_Visual_WetlandBirds_Dataset_Bird_Species_Identification_and_Behavior_Recognition_in_Videos](https://www.researchgate.net/publication/393621107_Visual_WetlandBirds_Dataset_Bird_Species_Identification_and_Behavior_Recognition_in_Videos)  
+   Link: <a href="https://www.researchgate.net/publication/393621107_Visual_WetlandBirds_Dataset_Bird_Species_Identification_and_Behavior_Recognition_in_Videos" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/393621107_Visual_WetlandBirds_Dataset_Bird_Species_Identification_and_Behavior_Recognition_in_Videos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Visual WetlandBirds Dataset: Bird Species...2 Jul 2025 — This dataset addresses the need for comprehensive bird video datasets and...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: euagenda.eu  
-   Link: [https://euagenda.eu/videos/158788](https://euagenda.eu/videos/158788)  
+   Link: <a href="https://euagenda.eu/videos/158788" target="_blank" rel="noopener noreferrer nofollow">https://euagenda.eu/videos/158788</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Our actions agains illegal bird hunting and killing | EuroNatur5 days ago — Our fight against illegal bird hunting and killing #OurImpact...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/ufosfootages/posts/4508150092841925/](https://www.facebook.com/groups/ufosfootages/posts/4508150092841925/)  
+   Link: <a href="https://www.facebook.com/groups/ufosfootages/posts/4508150092841925/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ufosfootages/posts/4508150092841925/</a>  
 
 14. <a id="endnote-14"></a>
    Source: read-me.org  
    Title: fiscal year 2024 consolidated annual report on unidentified anomalous phenomena  
-   Link: [https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena](https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena)  
+   Link: <a href="https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fiscal Year 2024 Consolidated Annual Report on...21 Dec 2024 — AARO resolved 118 cases during the reporting period, all of which resolve...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: defensescoop.com  
    Title: uap aaro chief unveils pentagon annual caseload analysis new efforts  
-   Link: [https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/](https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/)  
+   Link: <a href="https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;The truly anomalous&#x27;: New AARO chief unveils Pentagon&#x27;s...14 Nov 2024 — “AARO has successfully resolved hundreds of cases in its holdin...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: [https://www.war.gov/News/News-Stories/Article/article/3965403/dod-examining-unidentified-anomalous-phenomena/](https://www.war.gov/News/News-Stories/Article/article/3965403/dod-examining-unidentified-anomalous-phenomena/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>14 Nov 2024 —... AARO has discovered no verifiable evidence of extraterrestrial beings, activity or technology. None of the cases resolv...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: bto.org  
    Title: bto jncc rspb seabird montoring programme annual report 2024  
-   Link: [https://www.bto.org/sites/default/files/bto-jncc-rspb-seabird-montoring-programme-annual-report-2024.pdf](https://www.bto.org/sites/default/files/bto-jncc-rspb-seabird-montoring-programme-annual-report-2024.pdf)  
+   Link: <a href="https://www.bto.org/sites/default/files/bto-jncc-rspb-seabird-montoring-programme-annual-report-2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bto.org/sites/default/files/bto-jncc-rspb-seabird-montoring-programme-annual-report-2024.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Seabird Monitoring Programme Report 1986–20217 Mar 2025 — This report documents changes in the abundance and productivity of breeding...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: dbca.wa.gov.au  
    Title: biodiversity and conservation science annual report 2023 24  
-   Link: [https://www.dbca.wa.gov.au/sites/default/files/2024-12/biodiversity_and_conservation_science_annual_report_2023-24.pdf](https://www.dbca.wa.gov.au/sites/default/files/2024-12/biodiversity_and_conservation_science_annual_report_2023-24.pdf)  
+   Link: <a href="https://www.dbca.wa.gov.au/sites/default/files/2024-12/biodiversity_and_conservation_science_annual_report_2023-24.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dbca.wa.gov.au/sites/default/files/2024-12/biodiversity_and_conservation_science_annual_report_2023-24.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Biodiversity and Conservation Science Annual ReportI am proud to present our Biodiversity and Conservation Science report for 2023-24, wh...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
    Title: new aaro ufo video from africa released with time  
-   Link: [https://www.reddit.com/r/UFOs/comments/1mkwrsc/new_aaro_ufo_video_from_africa_released_with_time/](https://www.reddit.com/r/UFOs/comments/1mkwrsc/new_aaro_ufo_video_from_africa_released_with_time/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1mkwrsc/new_aaro_ufo_video_from_africa_released_with_time/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1mkwrsc/new_aaro_ufo_video_from_africa_released_with_time/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Migratory birds is a different case from 2024. PR-002, Resolved as Migratory Birds, Africa 2024 PR-003, Unresolved UAP Report, Africa 202...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: birdlife.org  
    Title: BirdLife Europe Central Asia Annual Review 2024  
-   Link: [https://www.birdlife.org/wp-content/uploads/2025/05/BirdLife-Europe-Central-Asia-Annual-Review-2024.pdf](https://www.birdlife.org/wp-content/uploads/2025/05/BirdLife-Europe-Central-Asia-Annual-Review-2024.pdf)  
+   Link: <a href="https://www.birdlife.org/wp-content/uploads/2025/05/BirdLife-Europe-Central-Asia-Annual-Review-2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.birdlife.org/wp-content/uploads/2025/05/BirdLife-Europe-Central-Asia-Annual-Review-2024.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BirdLife Europe and Central Asia Annual Review 2024Wildlife populations across the globe are in crisis, reflecting the terrible way our e...</p></details>

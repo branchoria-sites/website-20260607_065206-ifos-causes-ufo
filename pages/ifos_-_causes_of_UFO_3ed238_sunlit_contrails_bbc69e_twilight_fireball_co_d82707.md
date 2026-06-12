@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_hidden_aircraft_brig_4597c3
 - ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_missile_launch_contr_3a26cf
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - contrails
 - fireball-trails
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - contrails
 - fireball-trails
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Low-angle sunlight can turn a short aircraft contrail into a red-orange streak that looks like a meteor or burning object.
 hero_summary: Low-angle sunlight can turn a short aircraft contrail into a red-orange streak that looks like a meteor or burning object.
 layout: default
 permalink: /fireball-trails/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /contrails/
 nav_short_title: Fireball trails
 title: Why Some Fireballs Are Really Jet Trails
-title_full: Why Some Fireballs Are Really Jet Trails | Contrails
+title_full: Why Some Fireballs Are Really Jet Trails
 display_title_short: Fireball trails
 display_title: Fireball trails
 heading_title: Why Some Fireballs Are Really Jet Trails
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 21:41:56'
-parent_title: Why Jet Trails Glow Like UFOs | IFOs
+parent_title: Why Jet Trails Glow Like UFOs
 parent_permalink: /contrails/
 parent_nav_short_title: Contrails
 parent_heading_title: Why Jet Trails Glow Like UFOs
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e
-  title: Contrails | Ifos Causes Of
+  title: Contrails | ifos causes of UFO 3 ed 238
   permalink: /contrails/
   short_title: Contrails
   heading_title: Why Jet Trails Glow Like UFOs
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e
-  title: Contrails | Ifos Causes Of
+  title: Contrails | ifos causes of UFO 3 ed 238
   permalink: /contrails/
   short_title: Contrails
   heading_title: Why Jet Trails Glow Like UFOs
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: When a Jet Trail Looks Like a Missile
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e
-  title: Contrails | Ifos Causes Of
+  title: Contrails | ifos causes of UFO 3 ed 238
   permalink: /contrails/
   short_title: Contrails
   heading_title: Why Jet Trails Glow Like UFOs
@@ -266,6 +265,7 @@ next_link:
   permalink: /hidden-aircraft/
   short_title: Hidden aircraft
   heading_title: Why the Plane Vanishes but the Trail Glows
+date: '2026-06-12 00:39:31 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_twilight_fireball_co_d82707-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_twilight_fireball_co_d82707-Illustration-1.webp
@@ -276,15 +276,14 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_twilig
 
 One of the most dramatic yet ordinary causes of UFO and “mystery fireball” reports occurs during twilight, when a high-altitude aircraft leaves a contrail that remains brightly illuminated by the Sun even though observers on the ground are already in shadow. The result can be startling: a short red-orange streak that appears to be a flaming object, a meteor, a missile, or an unknown craft crossing the sky. In many cases, the aircraft itself is barely visible, while the glowing contrail dominates the scene and creates the illusion of a burning body. This effect is especially common around sunset and sunrise, when the geometry of sunlight and atmospheric perspective is most deceptive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.earthdata.nasa.gov/news/feature-articles/trail-contrails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthdata.nasa.gov">[NASA Earthdata]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthdata.nasa.gov</span><span class="citation-popover-title">trail contrails</span><span class="citation-popover-snippet">NASA EarthdataOn the Trail of Contrailsby L Naranjo · 2020 — Contrails are the linear clouds etched across the skies by high-altitude air...</span></span></span> 2amsmeteors.org
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_twilight_fireball_co_d82707-Illustration-1-dark.svg" | relative_url }}" alt="Fireball trails illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_twilight_fireball_co_d82707-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_twilight_fireball_co_d82707-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How Sunlight Reaches High Contrails After Ground Sunset
 
-The key mechanism is altitude. Commercial aircraft typically cruise high enough that they can remain in direct sunlight after the Sun has set for people on the ground. [Contrails]({{ 'contrails/' | relative_url }}) form when water vapour from aircraft exhaust freezes into countless ice crystals in very cold upper-air conditions. Those ice crystals act as tiny reflectors, catching sunlight that no longer reaches lower elevations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.earthdata.nasa.gov/news/feature-articles/trail-contrails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthdata.nasa.gov">[NASA Earthdata]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthdata.nasa.gov</span><span class="citation-popover-title">trail contrails</span><span class="citation-popover-snippet">NASA EarthdataOn the Trail of Contrailsby L Naranjo · 2020 — Contrails are the linear clouds etched across the skies by high-altitude air...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[National]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">NASANational Aeronautics and Space Administration. NASA explores the unknown in air and space, innovates for the benefit of humanity, and...</span></span></span>
+The key mechanism is altitude. Commercial aircraft typically cruise high enough that they can remain in direct sunlight after the Sun has set for people on the ground. [Contrails]({{ 'contrails/' | relative_url }}) form when water vapour from aircraft exhaust freezes into countless ice crystals in very cold upper-air conditions. Those ice crystals act as tiny reflectors, catching sunlight that no longer reaches lower elevations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.earthdata.nasa.gov/news/feature-articles/trail-contrails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthdata.nasa.gov">[NASA Earthdata]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthdata.nasa.gov</span><span class="citation-popover-title">trail contrails</span><span class="citation-popover-snippet">NASA EarthdataOn the Trail of Contrailsby L Naranjo · 2020 — Contrails are the linear clouds etched across the skies by high-altitude air...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[National]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">National Aeronautics and Space Administration. NASA explores the unknown in air and space, innovates for the benefit of humanity, and...</span></span></span>
 
 At twilight, sunlight must travel through a much greater thickness of [atmosphere]({{ 'atmosphere/' | relative_url }}) before reaching the aircraft. Shorter blue wavelengths are scattered away, leaving predominantly red, orange, and gold light. A normally white contrail can therefore take on fiery colours that resemble a burning object. The effect is often strongest when the aircraft is near the horizon, where perspective compresses the visible trail into a shorter, brighter shape. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amsmeteors.org/fireballs/fireball-or-contrail/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[amsmeteors.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">itude airplanes. At sunset and sunrise, the...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.earthdata.nasa.gov/news/feature-articles/trail-contrails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthdata.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthdata.nasa.gov</span><span class="citation-popover-title">trail contrails</span><span class="citation-popover-snippet">NASA EarthdataOn the Trail of Contrailsby L Naranjo · 2020 — Contrails are the linear clouds etched across the skies by high-altitude air...</span></span></span>
 
-Observers frequently assume they are seeing an object producing light of its own. In reality, the brightness comes from reflected sunlight. Because the ice crystals in the contrail can remain uniformly illuminated, the entire trail may glow with a steady intensity that looks surprisingly solid. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/wp-content/uploads/2023/06/contrails-k-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">NASAAirspace: ContrailsWhen light runs into the cloud or contrail, it is reflected by the water molecules, making the cloud visible and d...</span></span></span>
+Observers frequently assume they are seeing an object producing light of its own. In reality, the brightness comes from reflected sunlight. Because the ice crystals in the contrail can remain uniformly illuminated, the entire trail may glow with a steady intensity that looks surprisingly solid. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/wp-content/uploads/2023/06/contrails-k-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">Airspace: ContrailsWhen light runs into the cloud or contrail, it is reflected by the water molecules, making the cloud visible and d...</span></span></span>
 
 ## Why the Trail Often Looks Like a Fireball Instead of a Plane
 
@@ -295,9 +294,6 @@ First, the aircraft itself may be too distant to resolve. At cruising altitude, 
 Second, perspective can make a long horizontal contrail appear short and concentrated. If the aircraft is travelling partly toward or away from the observer, the trail is viewed end-on rather than side-on. This compresses its apparent length and creates the impression of a compact glowing object with a tail. Similar perspective effects are well known in reports of apparent vertical objects or “rising missiles” that later prove to be ordinary aircraft contrails. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Contrail" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 Third, atmospheric haze near the horizon softens edges and spreads bright light. A glowing contrail may therefore resemble a ball of flame rather than a cloud of ice crystals. The reddish colour further reinforces the impression of combustion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amsmeteors.org/fireballs/fireball-or-contrail/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[amsmeteors.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">itude airplanes. At sunset and sunrise, the...Read more...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/es2bU-bFqIQ" title="&#x27;Fireball&#x27; Seen Shooting Across Southeast Sky Is Confirmed Meteor" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=es2bU-bFqIQ" target="_blank" rel="noopener noreferrer">&#x27;Fireball&#x27; Seen Shooting Across Southeast Sky Is Confirmed Meteor</a></p><p class="youtube-embed-meta">Channel: TODAY &middot; Views: 35.8K &middot; Uploaded: June 2025 &middot; Length: 2 minutes 37 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=es2bU-bFqIQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=es2bU-bFqIQ">Open on YouTube</a></p></div></div></div>
 
 ## Visual Clues That Separate Contrails from Meteors
 
@@ -313,7 +309,6 @@ Twilight contrails and genuine [fireballs]({{ 'fireballs/' | relative_url }}) ca
 
 The American Meteor Society specifically notes that sunrise and sunset lighting can colour contrails red, orange, and yellow, causing observers to mistake them for astronomical events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://amsmeteors.org/fireballs/fireball-or-contrail/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[amsmeteors.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-title">Fireball or Contrail?</span><span class="citation-popover-snippet">American Meteor SocietyContrails are the linear clouds etched across the skies by high-altitude airplanes. At sunset and sunrise, the sun...</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_twilight_fireball_co_d82707-Illustration-2-dark.svg" | relative_url }}" alt="Fireball trails illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_twilight_fireball_co_d82707-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_twilight_fireball_co_d82707-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Common Camera Mistakes That Make Trails Look Solid
 
@@ -327,15 +322,11 @@ Smartphone zoom often enlarges a tiny bright feature until it becomes a fuzzy bl
 
 Cameras frequently expose for the darker sky rather than the bright trail. The illuminated contrail then becomes saturated and featureless, appearing brighter and thicker than it really is. Orange and red colours can become exaggerated as the camera attempts to compensate for low light.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RIT9Lipxpp8" title="Green Ball Of Fire Africa" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RIT9Lipxpp8" target="_blank" rel="noopener noreferrer">Green Ball Of Fire Africa</a></p><p class="youtube-embed-meta">Channel: REALUFOVNI Libertario</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RIT9Lipxpp8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RIT9Lipxpp8">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/es2bU-bFqIQ" title="&#x27;Fireball&#x27; Seen Shooting Across Southeast Sky Is Confirmed Meteor" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=es2bU-bFqIQ" target="_blank" rel="noopener noreferrer">&#x27;Fireball&#x27; Seen Shooting Across Southeast Sky Is Confirmed Meteor</a></p><p class="youtube-embed-meta">Channel: TODAY &middot; Views: 35.8K &middot; Uploaded: June 2025 &middot; Length: 2 minutes 37 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=es2bU-bFqIQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=es2bU-bFqIQ">Open on YouTube</a></p></div></div></div>
 
 ### Autofocus Errors
 
 Low-light conditions make autofocus systems struggle. A slightly out-of-focus contrail can look like a luminous cigar, orb, or flame. Small points of light can expand into large glowing shapes through optical blur alone.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Oj-TIuynqc0" title="Ignition | Unreal Engine 5 Sequence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Oj-TIuynqc0" target="_blank" rel="noopener noreferrer">Ignition | Unreal Engine 5 Sequence</a></p><p class="youtube-embed-meta">Channel: rajnish kumar</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Oj-TIuynqc0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Oj-TIuynqc0">Open on YouTube</a></p></div></div></div>
 
 ### Compression and Online Sharing
 
@@ -345,10 +336,9 @@ Images shared through social media are often heavily compressed. Subtle cloud te
 
 Reports of apparent fireballs later identified as aircraft contrails appear regularly in local news and online UFO discussions. A filmed “fireball” over Perth, Australia, in 2018 was ultimately attributed to a jet contrail illuminated by low-angle sunlight. Witnesses described an orange object streaking across the evening sky, closely matching the classic twilight-contrail appearance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thewest.com.au/news/offbeat/aircraft-contrail-causes-mysterious-fireball-filmed-in-perth-sky-ng-b88965725z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thewest.com.au">[The West Australian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thewest.com.au</span><span class="citation-popover-snippet">The West AustralianAircraft contrail causes mysterious &#x27;fireball&#x27; filmed in Perth sky19 Sept 2018 — What looked like a meteorite turned o...</span></span></span>
 
-Similar cases recur across social media, astronomy forums, and meteor-reporting communities. Observers commonly report a bright orange object with a tail shortly after sunset, only for [flight tracking]({{ 'flight-tracking/' | relative_url }}), photographs from different angles, or subsequent analysis to reveal a high-altitude aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/NickBanninWX/posts/did-you-see-it-a-look-at-one-of-the-potential-fireballs-showing-up-between-giddi/1384307600181258/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">Did you see it?</span><span class="citation-popover-snippet">A look at one of the potential fireballs...When it passed over Austin, the contrails started to look like a fireball because of the suns...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/whatisit/comments/1pvch37/saw_it_in_the_sky_early_in_the_morning_what_could/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditSaw it in the sky early in the morning, what could it be?The object in the image is likely a high-altitude aircraft contrail or vap...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/114webn/some_photo_examples_showing_contrails_similar_to/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditSome photo examples showing contrails similar to one of...The difference is that the dark contrail is a silhouette created due to...</span></span></span>
+Similar cases recur across social media, astronomy forums, and meteor-reporting communities. Observers commonly report a bright orange object with a tail shortly after sunset, only for [flight tracking]({{ 'flight-tracking/' | relative_url }}), photographs from different angles, or subsequent analysis to reveal a high-altitude aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/NickBanninWX/posts/did-you-see-it-a-look-at-one-of-the-potential-fireballs-showing-up-between-giddi/1384307600181258/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">Did you see it?</span><span class="citation-popover-snippet">A look at one of the potential fireballs...When it passed over Austin, the contrails started to look like a fireball because of the suns...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/whatisit/comments/1pvch37/saw_it_in_the_sky_early_in_the_morning_what_could/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Saw it in the sky early in the morning, what could it be?The object in the image is likely a high-altitude aircraft contrail or vap...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/114webn/some_photo_examples_showing_contrails_similar_to/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Some photo examples showing contrails similar to one of...The difference is that the dark contrail is a silhouette created due to...</span></span></span>
 
 Within the broader category of UFO reports, twilight contrails are significant because they generate sightings that feel unusually dramatic and convincing. The witness is not simply seeing an aircraft. They are seeing a familiar object under highly unfamiliar lighting conditions, where colour, perspective, altitude, and camera limitations combine to create the appearance of a fiery object moving through the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.earthdata.nasa.gov/news/feature-articles/trail-contrails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthdata.nasa.gov">[NASA Earthdata]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthdata.nasa.gov</span><span class="citation-popover-title">trail contrails</span><span class="citation-popover-snippet">NASA EarthdataOn the Trail of Contrailsby L Naranjo · 2020 — Contrails are the linear clouds etched across the skies by high-altitude air...</span></span></span> 2amsmeteors.org
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_twilight_fireball_co_d82707-Illustration-3-dark.svg" | relative_url }}" alt="Fireball trails illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_twilight_fireball_co_d82707-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_twilight_fireball_co_d82707-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -469,15 +459,15 @@ Within the broader category of UFO reports, twilight contrails are significant b
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireball-trails-why-some-fireballs-are-really-jet-trails-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="fireball-trails-why-some-fireballs-are-really-jet-trails-ifos-causes-of-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:100 F-14 VF-84 Tomcat Jolly Rogers Fighter Jet Aircraft Diecast Model US Navy"><img src="{{ '/assets/images/marketplace-covers/6a1f107505f4e8ba24cf.jpg' | relative_url }}" alt="Listing image for 1:100 F-14 VF-84 Tomcat Jolly Rogers Fighter Jet Aircraft Diecast Model US Navy" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-fireballs-are-really-jet-trails-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="why-some-fireballs-are-really-jet-trails-meteorite-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TIGLIT Aubrite RARE Meteorite Witnessed Fall Fragment in display box"><img src="https://i.ebayimg.com/images/g/QDQAAeSwMvJqKZPE/s-l225.jpg" alt="Listing image for TIGLIT Aubrite RARE Meteorite Witnessed Fall Fragment in display box" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireball-trails-why-some-fireballs-are-really-jet-trails-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="fireball-trails-why-some-fireballs-are-really-jet-trails-ifos-causes-of-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">1:100 F-14 VF-84 Tomcat Jolly Rogers Fighter Jet Aircraft Diecast Model US Navy</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-fireballs-are-really-jet-trails-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="why-some-fireballs-are-really-jet-trails-meteorite-display" target="_blank" rel="sponsored noopener noreferrer">TIGLIT Aubrite RARE Meteorite Witnessed Fall Fragment in display box</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireball-trails-why-some-fireballs-are-really-jet-trails-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="fireball-trails-why-some-fireballs-are-really-jet-trails-ifos-causes-of-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search <span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-fireballs-are-really-jet-trails-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="why-some-fireballs-are-really-jet-trails-meteorite-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite display">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorite display</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireball-trails-why-some-fireballs-are-really-jet-trails-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="fireball-trails-why-some-fireballs-are-really-jet-trails-ifos-causes-of-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-fireballs-are-really-jet-trails-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="why-some-fireballs-are-really-jet-trails-meteorite-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -485,15 +475,15 @@ Within the broader category of UFO reports, twilight contrails are significant b
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireball-trails-why-some-fireballs-are-really-jet-trails-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="fireball-trails-why-some-fireballs-are-really-jet-trails-ifos-causes-of-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/100 NUOTIE SU-57 Fighter Jet Diecast Alloy Model Splinter Camo White Blue"><img src="{{ '/assets/images/marketplace-covers/4b30c0d6288b26daac7b.jpg' | relative_url }}" alt="Listing image for 1/100 NUOTIE SU-57 Fighter Jet Diecast Alloy Model Splinter Camo White Blue" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-fireballs-are-really-jet-trails-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="why-some-fireballs-are-really-jet-trails-meteorite-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lunar meteorite moon rock dust vial in display case - Adrar 013 one per bid"><img src="https://i.ebayimg.com/images/g/85MAAeSwySho72tL/s-l225.jpg" alt="Listing image for Lunar meteorite moon rock dust vial in display case - Adrar 013 one per bid" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireball-trails-why-some-fireballs-are-really-jet-trails-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="fireball-trails-why-some-fireballs-are-really-jet-trails-ifos-causes-of-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">1/100 NUOTIE SU-57 Fighter Jet Diecast Alloy Model Splinter Camo White Blue</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-fireballs-are-really-jet-trails-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="why-some-fireballs-are-really-jet-trails-meteorite-display" target="_blank" rel="sponsored noopener noreferrer">Lunar meteorite moon rock dust vial in display case - Adrar 013 one per bid</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireball-trails-why-some-fireballs-are-really-jet-trails-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="fireball-trails-why-some-fireballs-are-really-jet-trails-ifos-causes-of-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search <span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-fireballs-are-really-jet-trails-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="why-some-fireballs-are-really-jet-trails-meteorite-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite display">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorite display</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireball-trails-why-some-fireballs-are-really-jet-trails-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="fireball-trails-why-some-fireballs-are-really-jet-trails-ifos-causes-of-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-fireballs-are-really-jet-trails-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="why-some-fireballs-are-really-jet-trails-meteorite-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -501,15 +491,15 @@ Within the broader category of UFO reports, twilight contrails are significant b
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireball-trails-why-some-fireballs-are-really-jet-trails-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="fireball-trails-why-some-fireballs-are-really-jet-trails-ifos-causes-of-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/100 Scale A-10 Thunderbolt II Warthog Diecast Metal Fighter Jet Model"><img src="{{ '/assets/images/marketplace-covers/9abce767e13e82bc0d13.jpg' | relative_url }}" alt="Listing image for 1/100 Scale A-10 Thunderbolt II Warthog Diecast Metal Fighter Jet Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-fireballs-are-really-jet-trails-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="why-some-fireballs-are-really-jet-trails-meteorite-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Genuine meteorite space rock in black display box art gift collectible with COA"><img src="https://i.ebayimg.com/images/g/Cc0AAOSwHOVndqbS/s-l225.jpg" alt="Listing image for Genuine meteorite space rock in black display box art gift collectible with COA" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireball-trails-why-some-fireballs-are-really-jet-trails-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="fireball-trails-why-some-fireballs-are-really-jet-trails-ifos-causes-of-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">1/100 Scale A-10 Thunderbolt II Warthog Diecast Metal Fighter Jet Model</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-fireballs-are-really-jet-trails-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="why-some-fireballs-are-really-jet-trails-meteorite-display" target="_blank" rel="sponsored noopener noreferrer">Genuine meteorite space rock in black display box art gift collectible with COA</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireball-trails-why-some-fireballs-are-really-jet-trails-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="fireball-trails-why-some-fireballs-are-really-jet-trails-ifos-causes-of-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search <span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-fireballs-are-really-jet-trails-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="why-some-fireballs-are-really-jet-trails-meteorite-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite display">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorite display</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireball-trails-why-some-fireballs-are-really-jet-trails-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="fireball-trails-why-some-fireballs-are-really-jet-trails-ifos-causes-of-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-fireballs-are-really-jet-trails-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="why-some-fireballs-are-really-jet-trails-meteorite-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -517,15 +507,15 @@ Within the broader category of UFO reports, twilight contrails are significant b
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireball-trails-why-some-fireballs-are-really-jet-trails-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="fireball-trails-why-some-fireballs-are-really-jet-trails-ifos-causes-of-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:72 F/A-18F Super Hornet Fighter Jet Aircraft Model USAF VFA-103 Jolly Roger"><img src="{{ '/assets/images/marketplace-covers/ee4657dd148b01c30206.jpg' | relative_url }}" alt="Listing image for 1:72 F/A-18F Super Hornet Fighter Jet Aircraft Model USAF VFA-103 Jolly Roger" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-fireballs-are-really-jet-trails-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="why-some-fireballs-are-really-jet-trails-meteorite-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Framed Real Lunar Meteorite Slice – Polished Moon Rock Display Gift"><img src="https://i.ebayimg.com/images/g/GlIAAeSwP9hplJWB/s-l225.jpg" alt="Listing image for Framed Real Lunar Meteorite Slice – Polished Moon Rock Display Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireball-trails-why-some-fireballs-are-really-jet-trails-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="fireball-trails-why-some-fireballs-are-really-jet-trails-ifos-causes-of-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">1:72 F/A-18F Super Hornet Fighter Jet Aircraft Model USAF VFA-103 Jolly Roger</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-fireballs-are-really-jet-trails-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="why-some-fireballs-are-really-jet-trails-meteorite-display" target="_blank" rel="sponsored noopener noreferrer">Framed Real Lunar Meteorite Slice – Polished Moon Rock Display Gift</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireball-trails-why-some-fireballs-are-really-jet-trails-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="fireball-trails-why-some-fireballs-are-really-jet-trails-ifos-causes-of-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search <span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-fireballs-are-really-jet-trails-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="why-some-fireballs-are-really-jet-trails-meteorite-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite display">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorite display</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireball-trails-why-some-fireballs-are-really-jet-trails-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="fireball-trails-why-some-fireballs-are-really-jet-trails-ifos-causes-of-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-fireballs-are-really-jet-trails-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="why-some-fireballs-are-really-jet-trails-meteorite-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -533,7 +523,7 @@ Within the broader category of UFO reports, twilight contrails are significant b
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireball-trails-why-some-fireballs-are-really-jet-trails-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="fireball-trails-why-some-fireballs-are-really-jet-trails-ifos-causes-of-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-fireballs-are-really-jet-trails-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="why-some-fireballs-are-really-jet-trails-meteorite-display" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -749,197 +739,197 @@ Within the broader category of UFO reports, twilight contrails are significant b
 1. <a id="endnote-1"></a>
    Source: earthdata.nasa.gov  
    Title: trail contrails  
-   Link: [https://www.earthdata.nasa.gov/news/feature-articles/trail-contrails](https://www.earthdata.nasa.gov/news/feature-articles/trail-contrails)  
+   Link: <a href="https://www.earthdata.nasa.gov/news/feature-articles/trail-contrails" target="_blank" rel="noopener noreferrer nofollow">https://www.earthdata.nasa.gov/news/feature-articles/trail-contrails</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA EarthdataOn the Trail of Contrailsby L Naranjo · 2020 — Contrails are the linear clouds etched across the skies by high-altitude air...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: amsmeteors.org  
-   Link: [https://www.amsmeteors.org/fireballs/fireball-or-contrail/](https://www.amsmeteors.org/fireballs/fireball-or-contrail/)  
+   Link: <a href="https://www.amsmeteors.org/fireballs/fireball-or-contrail/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/fireballs/fireball-or-contrail/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>itude airplanes. At sunset and sunrise, the...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/wp-content/uploads/2023/06/contrails-k-12.pdf](https://www.nasa.gov/wp-content/uploads/2023/06/contrails-k-12.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASAAirspace: ContrailsWhen light runs into the cloud or contrail, it is reflected by the water molecules, making the cloud visible and d...</p></details>
+   Link: <a href="https://www.nasa.gov/wp-content/uploads/2023/06/contrails-k-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2023/06/contrails-k-12.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Airspace: ContrailsWhen light runs into the cloud or contrail, it is reflected by the water molecules, making the cloud visible and d...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/earth/earth-observatory/aircraft-contrails-4435/](https://science.nasa.gov/earth/earth-observatory/aircraft-contrails-4435/)  
+   Link: <a href="https://science.nasa.gov/earth/earth-observatory/aircraft-contrails-4435/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/earth/earth-observatory/aircraft-contrails-4435/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceAircraft ContrailsThe crisscrossing white lines are contrails that form from planes flying in different directions at differe...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Contrail](https://en.wikipedia.org/wiki/Contrail)  
+   Link: <a href="https://en.wikipedia.org/wiki/Contrail" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Contrail</a>  
 
 6. <a id="endnote-6"></a>
    Source: globe.gov  
    Title: The Science of Contrails  
-   Link: [https://www.globe.gov/web/s-cool/home/observation-and-reporting/contrails/the-science-of-contrails](https://www.globe.gov/web/s-cool/home/observation-and-reporting/contrails/the-science-of-contrails)  
+   Link: <a href="https://www.globe.gov/web/s-cool/home/observation-and-reporting/contrails/the-science-of-contrails" target="_blank" rel="noopener noreferrer nofollow">https://www.globe.gov/web/s-cool/home/observation-and-reporting/contrails/the-science-of-contrails</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Clouds ProtocolThe ice particles that do form quickly return again to a vapor state. Persistent (non-spreading) contrails look like long...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: science.nasa.gov  
    Title: the evolution of a contrail 78154  
-   Link: [https://science.nasa.gov/earth/earth-observatory/the-evolution-of-a-contrail-78154/](https://science.nasa.gov/earth/earth-observatory/the-evolution-of-a-contrail-78154/)  
+   Link: <a href="https://science.nasa.gov/earth/earth-observatory/the-evolution-of-a-contrail-78154/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/earth/earth-observatory/the-evolution-of-a-contrail-78154/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceThe Evolution of a ContrailJun 2, 2012 — Moist air can cause contrails to spread and become sprawling cirrus clouds. Are ther...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/whatisit/comments/1pvch37/saw_it_in_the_sky_early_in_the_morning_what_could/](https://www.reddit.com/r/whatisit/comments/1pvch37/saw_it_in_the_sky_early_in_the_morning_what_could/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditSaw it in the sky early in the morning, what could it be?The object in the image is likely a high-altitude aircraft contrail or vap...</p></details>
+   Link: <a href="https://www.reddit.com/r/whatisit/comments/1pvch37/saw_it_in_the_sky_early_in_the_morning_what_could/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/whatisit/comments/1pvch37/saw_it_in_the_sky_early_in_the_morning_what_could/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Saw it in the sky early in the morning, what could it be?The object in the image is likely a high-altitude aircraft contrail or vap...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/114webn/some_photo_examples_showing_contrails_similar_to/](https://www.reddit.com/r/UFOs/comments/114webn/some_photo_examples_showing_contrails_similar_to/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditSome photo examples showing contrails similar to one of...The difference is that the dark contrail is a silhouette created due to...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/114webn/some_photo_examples_showing_contrails_similar_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/114webn/some_photo_examples_showing_contrails_similar_to/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Some photo examples showing contrails similar to one of...The difference is that the dark contrail is a silhouette created due to...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
    Title: Did you see it?  
-   Link: [https://www.facebook.com/NickBanninWX/posts/did-you-see-it-a-look-at-one-of-the-potential-fireballs-showing-up-between-giddi/1384307600181258/](https://www.facebook.com/NickBanninWX/posts/did-you-see-it-a-look-at-one-of-the-potential-fireballs-showing-up-between-giddi/1384307600181258/)  
+   Link: <a href="https://www.facebook.com/NickBanninWX/posts/did-you-see-it-a-look-at-one-of-the-potential-fireballs-showing-up-between-giddi/1384307600181258/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NickBanninWX/posts/did-you-see-it-a-look-at-one-of-the-potential-fireballs-showing-up-between-giddi/1384307600181258/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A look at one of the potential fireballs...When it passed over Austin, the contrails started to look like a fireball because of the suns...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/](https://www.nasa.gov/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASANational Aeronautics and Space Administration. NASA explores the unknown in air and space, innovates for the benefit of humanity, and...</p></details>
+   Link: <a href="https://www.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Aeronautics and Space Administration. NASA explores the unknown in air and space, innovates for the benefit of humanity, and...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: ntrs.nasa.gov  
    Title: SeasonalityPaperFormatted 110424  
-   Link: [https://ntrs.nasa.gov/api/citations/20240011983/downloads/SeasonalityPaperFormatted_110424.pdf](https://ntrs.nasa.gov/api/citations/20240011983/downloads/SeasonalityPaperFormatted_110424.pdf)  
+   Link: <a href="https://ntrs.nasa.gov/api/citations/20240011983/downloads/SeasonalityPaperFormatted_110424.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20240011983/downloads/SeasonalityPaperFormatted_110424.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and Geographical Trends on Contrail Persistent...by J Park · 2024 — At higher altitudes, the temperature remains cold enough for contrai...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: www-pm.larc.nasa.gov  
-   Link: [https://www-pm.larc.nasa.gov/site/doc-library/208-Minnis.CONTRAILS.Ed2.pdf](https://www-pm.larc.nasa.gov/site/doc-library/208-Minnis.CONTRAILS.Ed2.pdf)  
+   Link: <a href="https://www-pm.larc.nasa.gov/site/doc-library/208-Minnis.CONTRAILS.Ed2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www-pm.larc.nasa.gov/site/doc-library/208-Minnis.CONTRAILS.Ed2.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.gov1 Contrails MS 36 Patrick Minnis Submitted to...In the tropics, the altitude for contrails is generally above 11 km year round...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Planes/comments/1lddvvi/bright_object_with_contrail_in_evening_sky/](https://www.reddit.com/r/Planes/comments/1lddvvi/bright_object_with_contrail_in_evening_sky/)  
+   Link: <a href="https://www.reddit.com/r/Planes/comments/1lddvvi/bright_object_with_contrail_in_evening_sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Planes/comments/1lddvvi/bright_object_with_contrail_in_evening_sky/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ust behind the horizon. It&#x27;s dark enough for bright things to be very...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/pjdaddyofficial/posts/ever-looked-up-and-seen-a-jet-leaving-a-long-white-trail-across-the-sky-those-ar/1159827732837949/](https://www.facebook.com/pjdaddyofficial/posts/ever-looked-up-and-seen-a-jet-leaving-a-long-white-trail-across-the-sky-those-ar/1159827732837949/)  
+   Link: <a href="https://www.facebook.com/pjdaddyofficial/posts/ever-looked-up-and-seen-a-jet-leaving-a-long-white-trail-across-the-sky-those-ar/1159827732837949/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/pjdaddyofficial/posts/ever-looked-up-and-seen-a-jet-leaving-a-long-white-trail-across-the-sky-those-ar/1159827732837949/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>trails, short for condensation trails. They form when jet...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TravisABC13/posts/ive-fielded-several-reports-over-the-last-24-hours-after-the-meteor-explosion-of/1482864196541516/](https://www.facebook.com/TravisABC13/posts/ive-fielded-several-reports-over-the-last-24-hours-after-the-meteor-explosion-of/1482864196541516/)  
+   Link: <a href="https://www.facebook.com/TravisABC13/posts/ive-fielded-several-reports-over-the-last-24-hours-after-the-meteor-explosion-of/1482864196541516/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TravisABC13/posts/ive-fielded-several-reports-over-the-last-24-hours-after-the-meteor-explosion-of/1482864196541516/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>l is a meteor that catches on fire and burns up as it falls.Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WIONews/videos/a-record-breaking-month-of-fireball-sightings-has-left-scientists-searching-for-/1321599653204064/](https://www.facebook.com/WIONews/videos/a-record-breaking-month-of-fireball-sightings-has-left-scientists-searching-for-/1321599653204064/)  
+   Link: <a href="https://www.facebook.com/WIONews/videos/a-record-breaking-month-of-fireball-sightings-has-left-scientists-searching-for-/1321599653204064/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/videos/a-record-breaking-month-of-fireball-sightings-has-left-scientists-searching-for-/1321599653204064/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Well March delivered an...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
    Title: SK Y FULL OF FALLING FIRE  
-   Link: [https://www.facebook.com/Astronature1/posts/sky-full-of-falling-fire-but-its-not-meteorsthose-streaks-look-like-a-meteor-sho/122145470054966798/](https://www.facebook.com/Astronature1/posts/sky-full-of-falling-fire-but-its-not-meteorsthose-streaks-look-like-a-meteor-sho/122145470054966798/)  
+   Link: <a href="https://www.facebook.com/Astronature1/posts/sky-full-of-falling-fire-but-its-not-meteorsthose-streaks-look-like-a-meteor-sho/122145470054966798/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Astronature1/posts/sky-full-of-falling-fire-but-its-not-meteorsthose-streaks-look-like-a-meteor-sho/122145470054966798/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BUT IT&#x27;S NOT METEORS...This could be the fiery exhaust of a high-altitude aircraft or a falling piece of space debris, its contrail illu...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/MikeCollierWx/posts/update-this-was-a-plane-with-a-contrail-and-the-sunset-was-able-to-create-this-o/871110741032864/](https://www.facebook.com/MikeCollierWx/posts/update-this-was-a-plane-with-a-contrail-and-the-sunset-was-able-to-create-this-o/871110741032864/)  
+   Link: <a href="https://www.facebook.com/MikeCollierWx/posts/update-this-was-a-plane-with-a-contrail-and-the-sunset-was-able-to-create-this-o/871110741032864/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MikeCollierWx/posts/update-this-was-a-plane-with-a-contrail-and-the-sunset-was-able-to-create-this-o/871110741032864/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Update: this was a plane with a contrail and the sunset...This airplane&#x27;s contrail looks like something falling to earth against the ear...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: Wikipedia  
    Title: Twilight phenomenon  
-   Link: [https://en.wikipedia.org/wiki/Twilight_phenomenon](https://en.wikipedia.org/wiki/Twilight_phenomenon)  
+   Link: <a href="https://en.wikipedia.org/wiki/Twilight_phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Twilight_phenomenon</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Twilight phenomenonThe phenomenon typically occurs with launches that take place either 30 to 60 minutes before sunrise or after sunse...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/contrails](https://www.faa.gov/contrails)  
+   Link: <a href="https://www.faa.gov/contrails" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/contrails</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationJul 21, 2025 — Contrails will not form if the air at the aircraft altitude is too warm or too dry. Note th...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: nationalacademies.org  
-   Link: [https://www.nationalacademies.org/read/29073/chapter/2](https://www.nationalacademies.org/read/29073/chapter/2)  
+   Link: <a href="https://www.nationalacademies.org/read/29073/chapter/2" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/29073/chapter/2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Developing a Research Agenda on Contrails and Their...Contrails form when the cooling aircraft engine exhaust plume becomes supersaturat...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: thewest.com.au  
-   Link: [https://thewest.com.au/news/offbeat/aircraft-contrail-causes-mysterious-fireball-filmed-in-perth-sky-ng-b88965725z](https://thewest.com.au/news/offbeat/aircraft-contrail-causes-mysterious-fireball-filmed-in-perth-sky-ng-b88965725z)  
+   Link: <a href="https://thewest.com.au/news/offbeat/aircraft-contrail-causes-mysterious-fireball-filmed-in-perth-sky-ng-b88965725z" target="_blank" rel="noopener noreferrer nofollow">https://thewest.com.au/news/offbeat/aircraft-contrail-causes-mysterious-fireball-filmed-in-perth-sky-ng-b88965725z</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The West AustralianAircraft contrail causes mysterious &#x27;fireball&#x27; filmed in Perth sky19 Sept 2018 — What looked like a meteorite turned o...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: nationalacademies.org  
    Title: are contrails harmful to the environment  
-   Link: [https://www.nationalacademies.org/news/are-contrails-harmful-to-the-environment](https://www.nationalacademies.org/news/are-contrails-harmful-to-the-environment)  
+   Link: <a href="https://www.nationalacademies.org/news/are-contrails-harmful-to-the-environment" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/news/are-contrails-harmful-to-the-environment</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Contrails form when hot, humid air from aircraft engines mixes with cold air at high altitudes, condensing...Read more...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: space.com  
    Title: NAS A is updating its Artemis moon base plan. You can find out how on May 26  
-   Link: [https://www.space.com/astronomy/moon/watch-live-nasa-updating-its-moon-base-plans-on-may-26](https://www.space.com/astronomy/moon/watch-live-nasa-updating-its-moon-base-plans-on-may-26)  
+   Link: <a href="https://www.space.com/astronomy/moon/watch-live-nasa-updating-its-moon-base-plans-on-may-26" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/astronomy/moon/watch-live-nasa-updating-its-moon-base-plans-on-may-26</a>  
 
 27. <a id="endnote-27"></a>
    Source: space.com  
-   Link: [https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on](https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on)  
+   Link: <a href="https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball sightings are surging across the US27 Mar 2026 — Why are fireball sightings increasing across the US? Experts explain the recent...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: space.com  
    Title: what are contrails  
-   Link: [https://www.space.com/what-are-contrails](https://www.space.com/what-are-contrails)  
+   Link: <a href="https://www.space.com/what-are-contrails" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/what-are-contrails</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Contrails — What are they and how do they form?Aug 27, 2023 — Contrails, or condensation trails, are essentially human-made clouds; they...</p></details>
 
 ### Additional References
 
 29. <a id="endnote-29"></a>
    Source: nepis.epa.gov  
-   Link: [https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=00000LVU.TXT](https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=00000LVU.TXT)  
+   Link: <a href="https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=00000LVU.TXT" target="_blank" rel="noopener noreferrer nofollow">https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=00000LVU.TXT</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EPA NepisAircraft Contrails FactsheetDepending on the temperature and the amount of moisture in the air at the aircraft altitude, con- tr...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: cloudynights.com  
-   Link: [https://www.cloudynights.com/forums/topic/820496-do-short-contrail-tails-behind-high-altitude-jet-aircraft-indicate-sky-stability-and-good-seeing/](https://www.cloudynights.com/forums/topic/820496-do-short-contrail-tails-behind-high-altitude-jet-aircraft-indicate-sky-stability-and-good-seeing/)  
+   Link: <a href="https://www.cloudynights.com/forums/topic/820496-do-short-contrail-tails-behind-high-altitude-jet-aircraft-indicate-sky-stability-and-good-seeing/" target="_blank" rel="noopener noreferrer nofollow">https://www.cloudynights.com/forums/topic/820496-do-short-contrail-tails-behind-high-altitude-jet-aircraft-indicate-sky-stability-and-good-seeing/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>No, but persistent contrails can tell you something about turbulence at high altitudes, which often translates into poor seeing. Breaks i...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: pbs.org  
-   Link: [https://www.pbs.org/wgbh/nova/sun/contrail.html](https://www.pbs.org/wgbh/nova/sun/contrail.html)  
+   Link: <a href="https://www.pbs.org/wgbh/nova/sun/contrail.html" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/wgbh/nova/sun/contrail.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NOVA | Dimming the Sun | The Contrail EffectContrails by the hundreds can spread into man-made cirrus clouds that can both block sunlight...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: alamy.com  
-   Link: [https://www.alamy.com/stock-photo/night-sky-contrails.html](https://www.alamy.com/stock-photo/night-sky-contrails.html)  
+   Link: <a href="https://www.alamy.com/stock-photo/night-sky-contrails.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alamy.com/stock-photo/night-sky-contrails.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Night sky contrails hi-res stock photography and imagesFind the perfect night sky contrails stock photo, image, vector, illustration or 3...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: universetoday.com  
-   Link: [https://www.universetoday.com/articles/is-this-a-video-of-a-huge-fireball-over-texas](https://www.universetoday.com/articles/is-this-a-video-of-a-huge-fireball-over-texas)  
+   Link: <a href="https://www.universetoday.com/articles/is-this-a-video-of-a-huge-fireball-over-texas" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/is-this-a-video-of-a-huge-fireball-over-texas</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Universe TodayIs This a Video of a Huge Fireball Over Texas?10 Apr 2012 — It appears to be an airplane contrail, illuminated by sunlight...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: instagram.com  
    Title: Due to its brightness and multiple explosions observed  
-   Link: [https://www.instagram.com/reel/DXxR6LBjSWc/?hl=en](https://www.instagram.com/reel/DXxR6LBjSWc/?hl=en)  
+   Link: <a href="https://www.instagram.com/reel/DXxR6LBjSWc/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXxR6LBjSWc/?hl=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A bright fireball was spotted streaking through the sky over...Witnesses described it as a sudden, bright flash of light with some repor...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: wral.com  
-   Link: [https://www.wral.com/news/local/spacex-launch-visibile-may-2026/](https://www.wral.com/news/local/spacex-launch-visibile-may-2026/)  
+   Link: <a href="https://www.wral.com/news/local/spacex-launch-visibile-may-2026/" target="_blank" rel="noopener noreferrer nofollow">https://www.wral.com/news/local/spacex-launch-visibile-may-2026/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientists refer to it as a twilight phenomenon, but it...Read more...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: community.infiniteflight.com  
    Title: contrails sometimes there and sometimes not  
-   Link: [https://community.infiniteflight.com/t/contrails-sometimes-there-and-sometimes-not/463142](https://community.infiniteflight.com/t/contrails-sometimes-there-and-sometimes-not/463142)  
+   Link: <a href="https://community.infiniteflight.com/t/contrails-sometimes-there-and-sometimes-not/463142" target="_blank" rel="noopener noreferrer nofollow">https://community.infiniteflight.com/t/contrails-sometimes-there-and-sometimes-not/463142</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sometimes there, and sometimes notJul 10, 2020 — Contrails that disappear rather quickly indicate areas of moist air. In other words, the...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: insightobservatory.com  
    Title: the great fireball of 1966  
-   Link: [https://www.insightobservatory.com/2014/07/the-great-fireball-of-1966.html](https://www.insightobservatory.com/2014/07/the-great-fireball-of-1966.html)  
+   Link: <a href="https://www.insightobservatory.com/2014/07/the-great-fireball-of-1966.html" target="_blank" rel="noopener noreferrer nofollow">https://www.insightobservatory.com/2014/07/the-great-fireball-of-1966.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>7 Jul 2014 — It had a long, even, white train of smoke trailing behind it, much like a thick contrail, which crossed the entire length of...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: globalnews.ca  
-   Link: [https://globalnews.ca/news/9121580/calgary-mysterious-object-in-sky-explained/](https://globalnews.ca/news/9121580/calgary-mysterious-object-in-sky-explained/)  
+   Link: <a href="https://globalnews.ca/news/9121580/calgary-mysterious-object-in-sky-explained/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/9121580/calgary-mysterious-object-in-sky-explained/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Super weird&#x27;: Mysterious object in sky over Calgary...11 Sept 2022 — Foret said what looked like a fireball was actually an aircraft su...</p></details>

@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590_chilean_navy_airline_b34ccf
 - ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590_missing_flight_track_e2e1dc
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - flight-tracking
 - sight-lines
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - flight-tracking
 - sight-lines
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: The strongest aircraft identifications test whether a tracked plane was actually in the witness's viewing direction, not just nearby on a map.
 hero_summary: The strongest aircraft identifications test whether a tracked plane was actually in the witness's viewing direction, not just nearby on a map.
 layout: default
 permalink: /sight-lines/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /flight-tracking/
 nav_short_title: Sight Lines
 title: Was the plane really where they looked?
-title_full: Was the plane really where they looked? | Flight Tracking
+title_full: Was the plane really where they looked?
 display_title_short: Sight Lines
 display_title: Sight Lines
 heading_title: Was the plane really where they looked?
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 21:45:37'
-parent_title: How Flight Data Solves UFO Sightings | IFOs
+parent_title: How Flight Data Solves UFO Sightings
 parent_permalink: /flight-tracking/
 parent_nav_short_title: Flight Tracking
 parent_heading_title: How Flight Data Solves UFO Sightings
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590
-  title: Flight Tracking | Ifos Causes Of
+  title: Flight Tracking | ifos causes of UFO 3 ed 238
   permalink: /flight-tracking/
   short_title: Flight Tracking
   heading_title: How Flight Data Solves UFO Sightings
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590
-  title: Flight Tracking | Ifos Causes Of
+  title: Flight Tracking | ifos causes of UFO 3 ed 238
   permalink: /flight-tracking/
   short_title: Flight Tracking
   heading_title: How Flight Data Solves UFO Sightings
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: When no flight track appears on the map
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590
-  title: Flight Tracking | Ifos Causes Of
+  title: Flight Tracking | ifos causes of UFO 3 ed 238
   permalink: /flight-tracking/
   short_title: Flight Tracking
   heading_title: How Flight Data Solves UFO Sightings
@@ -260,6 +259,7 @@ prev_link:
   permalink: /missing-tracks/
   short_title: Missing Tracks
   heading_title: When no flight track appears on the map
+date: '2026-06-12 00:29:38 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590_line_of_sight_geomet_3e8dcd-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590_line_of_sight_geomet_3e8dcd-Illustration-1.webp
@@ -269,7 +269,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590_line_of
 ## Introduction
 
 The strongest aircraft identifications in UFO investigations do not begin with a flight tracker showing a plane somewhere nearby. They begin by asking a stricter question: was that aircraft actually in the witness's line of sight at the reported time?
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590_line_of_sight_geomet_3e8dcd-Illustration-1-dark.svg" | relative_url }}" alt="Sight Lines illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590_line_of_sight_geomet_3e8dcd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590_line_of_sight_geomet_3e8dcd-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 A map can show that an aircraft was within a few kilometres of a witness, yet still be the wrong explanation if it occupied a different part of the sky. Conversely, an aircraft tens of kilometres away may be the correct match if its position, altitude and heading placed it exactly along the reported viewing direction. Modern ADS-B tracking provides aircraft position and altitude updates roughly once per second, making detailed geometric reconstruction possible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/technology/equipadsb/capabilities/ins_outs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">ins outs</span><span class="citation-popover-snippet">Federal Aviation AdministrationIns and Outs7 Feb 2023 — ADS-B Out works by broadcasting information about an aircraft&#x27;s GPS location, alt...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/technology/equipadsb/capabilities/ins_outs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">ins outs</span><span class="citation-popover-snippet">Federal Aviation AdministrationIns and Outs7 Feb 2023 — ADS-B Out works by broadcasting information about an aircraft&#x27;s GPS location, alt...</span></span></span>
@@ -282,14 +281,13 @@ Many failed aircraft correlations rely on a simple map-view error. Investigators
 
 Imagine a witness looking south-west at a bright light. A flight-tracking display may show several aircraft within a 20 km radius. Only one matters: the aircraft whose bearing from the witness matches the reported direction. The others may be physically closer but located in entirely different sectors of the sky.
 
-Distance alone can also be misleading because [aircraft lights]({{ 'aircraft-lights/' | relative_url }}) are visible over enormous ranges. [Landing lights]({{ 'landing-lights/' | relative_url }}) can remain conspicuous at tens of kilometres, particularly at night and during approaches. A distant aircraft directly facing an observer may appear far brighter than a nearer aircraft crossing the field of view. This is one reason head-on aircraft are frequently reported as hovering or anomalous lights. Community investigations and aviation observers repeatedly document how approaching aircraft can appear almost stationary while remaining highly luminous. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1hphpl6/this_is_how_bright_airplanes_look_when_they_land/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Unexplained phenomena... r/UFOs - I saw lights outside my airplane on the way to New Zealand.Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1jemuds/stationary_orb_begins_to_mimic_faa_lights_and/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditStationary Orb begins to mimic FAA lights and blink off: r/UFOsWhen an aircraft is on approach for landing, its landing lights are...</span></span></span>
+Distance alone can also be misleading because [aircraft lights]({{ 'aircraft-lights/' | relative_url }}) are visible over enormous ranges. [Landing lights]({{ 'landing-lights/' | relative_url }}) can remain conspicuous at tens of kilometres, particularly at night and during approaches. A distant aircraft directly facing an observer may appear far brighter than a nearer aircraft crossing the field of view. This is one reason head-on aircraft are frequently reported as hovering or anomalous lights. Community investigations and aviation observers repeatedly document how approaching aircraft can appear almost stationary while remaining highly luminous. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1hphpl6/this_is_how_bright_airplanes_look_when_they_land/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Unexplained phenomena... r/UFOs - I saw lights outside my airplane on the way to New Zealand.Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1jemuds/stationary_orb_begins_to_mimic_faa_lights_and/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Stationary Orb begins to mimic FAA lights and blink off: r/UFOsWhen an aircraft is on approach for landing, its landing lights are...</span></span></span>
 
 The practical implication is simple: an aircraft correlation should be judged by directional agreement first and geographic proximity second.
 
 ## Time, location, bearing and elevation checks
 
 A robust line-of-sight analysis normally requires four elements:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -306,10 +304,7 @@ Together these allow investigators to reconstruct the sky view rather than merel
 
 Bearing is often the most valuable piece of witness information. If a witness reports an object low in the western sky and a tracked aircraft was east of the observer, the correlation immediately weakens regardless of distance.
 
-Professional trajectory reconstruction frequently relies on lines of bearing. Analysts draw a line extending from the observer through the reported direction and test whether the aircraft track intersects that sight line at the appropriate time. Similar geometric methods are used in aviation analysis and image-based tracking studies where bearing measurements constrain an object's possible position. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/figure/Camera-geometry-for-estimation-of-bearing-a-and-elevation-b-a-shows-the-top-view_fig2_247935915" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGateCamera geometry for estimation of bearing (α) and...This paper provides a preliminary analysis of an autonomous uncooperat...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cKrW0aoB_6w" title="ADS-B: The Future of Aircraft Surveillance! Explained by CAPTAIN JOE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cKrW0aoB_6w" target="_blank" rel="noopener noreferrer">ADS-B: The Future of Aircraft Surveillance! Explained by CAPTAIN JOE</a></p><p class="youtube-embed-meta">Channel: Captain Joe &middot; Views: 47.6K &middot; Uploaded: May 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cKrW0aoB_6w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cKrW0aoB_6w">Open on YouTube</a></p></div></div></div>
+Professional trajectory reconstruction frequently relies on lines of bearing. Analysts draw a line extending from the observer through the reported direction and test whether the aircraft track intersects that sight line at the appropriate time. Similar geometric methods are used in aviation analysis and image-based tracking studies where bearing measurements constrain an object's possible position. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/figure/Camera-geometry-for-estimation-of-bearing-a-and-elevation-b-a-shows-the-top-view_fig2_247935915" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Camera geometry for estimation of bearing (α) and...This paper provides a preliminary analysis of an autonomous uncooperat...</span></span></span>
 
 ### Elevation: how high above the horizon?
 
@@ -325,12 +320,10 @@ Aircraft move quickly. A timing error of even one or two minutes can significant
 
 For this reason, investigators should test a time window rather than a single timestamp. If the witness estimated the sighting time, a reasonable margin should be applied and the aircraft track examined before and after the reported moment.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590_line_of_sight_geomet_3e8dcd-Illustration-2-dark.svg" | relative_url }}" alt="Sight Lines illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590_line_of_sight_geomet_3e8dcd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590_line_of_sight_geomet_3e8dcd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The complete geometry
 
 The strongest aircraft identifications occur when all of the following align:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -352,12 +345,11 @@ In that situation, most of the aircraft's movement is occurring along the observ
 
 This effect becomes more convincing when powerful landing lights are pointed toward the observer. The observer sees increasing brightness without obvious lateral movement. Many witnesses interpret this combination as an object remaining fixed in place while changing intensity.
 
-As the aircraft eventually turns, passes overhead or shifts relative to the observer, the illusion often disappears and conventional navigation lights become visible. Reports from aviation observers and UFO discussion communities repeatedly describe this transition from a bright stationary-looking light to an obviously conventional aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/explainlikeimfive/comments/1754ryp/eli5_how_can_a_plane_appear_still_in_the_air/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">how can a plane appear still in the air?... seem to remain stagnant at times when flying in the air? 0. 4. I&#x27;ve seen a ufo out of a plane...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1g3xs9k/can_someone_explain_to_me_what_this_is/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditCan someone explain to me what this is? Specifically the light...You can see the navigation lights blinking in that location befor...</span></span></span>
+As the aircraft eventually turns, passes overhead or shifts relative to the observer, the illusion often disappears and conventional navigation lights become visible. Reports from aviation observers and UFO discussion communities repeatedly describe this transition from a bright stationary-looking light to an obviously conventional aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/explainlikeimfive/comments/1754ryp/eli5_how_can_a_plane_appear_still_in_the_air/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">how can a plane appear still in the air?... seem to remain stagnant at times when flying in the air? 0. 4. I&#x27;ve seen a ufo out of a plane...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1g3xs9k/can_someone_explain_to_me_what_this_is/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Can someone explain to me what this is? Specifically the light...You can see the navigation lights blinking in that location befor...</span></span></span>
 
 The geometry is ordinary, but the visual impression can be striking.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cThB1zfynHQ" title="Explained: Wingless Tic-Tac UFOs Moving Erratically Behind Trees" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cThB1zfynHQ" target="_blank" rel="noopener noreferrer">Explained: Wingless Tic-Tac UFOs Moving Erratically Behind Trees</a></p><p class="youtube-embed-meta">Channel: Mick West</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cThB1zfynHQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cThB1zfynHQ">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cKrW0aoB_6w" title="ADS-B: The Future of Aircraft Surveillance! Explained by CAPTAIN JOE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cKrW0aoB_6w" target="_blank" rel="noopener noreferrer">ADS-B: The Future of Aircraft Surveillance! Explained by CAPTAIN JOE</a></p><p class="youtube-embed-meta">Channel: Captain Joe &middot; Views: 47.6K &middot; Uploaded: May 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cKrW0aoB_6w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cKrW0aoB_6w">Open on YouTube</a></p></div></div></div>
 
 ## Common geometry mistakes in aircraft correlations
 
@@ -373,7 +365,6 @@ Some investigators match an aircraft solely because it occupied the correct comp
 
 Without checking elevation, the match remains incomplete. An aircraft high overhead and a light near the horizon can share the same bearing while occupying very different parts of the sky.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590_line_of_sight_geomet_3e8dcd-Illustration-3-dark.svg" | relative_url }}" alt="Sight Lines illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590_line_of_sight_geomet_3e8dcd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590_line_of_sight_geomet_3e8dcd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Confusing ground track with apparent motion
 
@@ -385,16 +376,13 @@ A plane moving rapidly across the ground may appear nearly stationary if it is t
 
 Failure to find a matching aircraft does not automatically prove that no aircraft was present.
 
-Civil aviation authorities and aviation researchers note that ADS-B coverage has limitations, including equipment failures, non-equipped aircraft, reception gaps and line-of-sight constraints affecting reception. Lower-altitude aircraft can be more difficult for receiver networks to capture consistently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aviation.govt.nz/safety/safety-education-and-advice/education/vector-magazine/vector-online/limitations-of-adsb/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aviation.govt.nz">[Aviation NZ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aviation.govt.nz</span><span class="citation-popover-snippet">Aviation NZThe limitations of ADS-B | aviation.govt.nzADS-B, despite its situational awareness game-changing qualities, has its limitations...</span></span></span> MITRE A missing track weakens a proposed aircraft explanation but does not eliminate it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mitre.org/sites/default/files/2021-08/16-4497-AIAA-2017-ADS-B.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mitre.org">[mitre.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mitre.org</span><span class="citation-popover-snippet">MITREADS-B Surveillance System Performance with Small UAS...Aircraft at lower altitude (i.e, a few thousand feet) are heard by fewer sta...</span></span></span>
+Civil aviation authorities and aviation researchers note that ADS-B coverage has limitations, including equipment failures, non-equipped aircraft, reception gaps and line-of-sight constraints affecting reception. Lower-altitude aircraft can be more difficult for receiver networks to capture consistently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aviation.govt.nz/safety/safety-education-and-advice/education/vector-magazine/vector-online/limitations-of-adsb/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aviation.govt.nz">[Aviation NZ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aviation.govt.nz</span><span class="citation-popover-snippet">Aviation NZThe limitations of ADS-B &#124; aviation.govt.nzADS-B, despite its situational awareness game-changing qualities, has its limitations...</span></span></span> MITRE A missing track weakens a proposed aircraft explanation but does not eliminate it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mitre.org/sites/default/files/2021-08/16-4497-AIAA-2017-ADS-B.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mitre.org">[mitre.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mitre.org</span><span class="citation-popover-snippet">ADS-B Surveillance System Performance with Small UAS...Aircraft at lower altitude (i.e, a few thousand feet) are heard by fewer sta...</span></span></span>
 
 ### Overlooking uncertainty in witness direction
 
 Human estimates of bearing are often approximate. Witnesses may report "west" when the actual direction was west-south-west or north-west. Small directional errors can become significant when comparing aircraft tracks many kilometres away.
 
 Good investigations therefore test a range of plausible bearings rather than assuming perfect directional accuracy.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qsEjV8DdSbs" title="Gimbal UFO - A New Analysis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qsEjV8DdSbs" target="_blank" rel="noopener noreferrer">Gimbal UFO - A New Analysis</a></p><p class="youtube-embed-meta">Channel: Mick West</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qsEjV8DdSbs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qsEjV8DdSbs">Open on YouTube</a></p></div></div></div>
 
 ## What makes a convincing aircraft match?
 
@@ -519,15 +507,15 @@ When investigators reconstruct the witness position, establish the viewing direc
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sight-lines-was-the-plane-really-where-they-looked-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="sight-lines-was-the-plane-really-where-they-looked-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-plane-really-where-they-looked-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="was-the-plane-really-where-they-looked-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 20cm Diecast Metal Alloy Antonov An-225 &quot;Mriya&quot; Airplane Model 1/400 Scale"><img src="https://i.ebayimg.com/images/g/0uEAAeSw-btow-71/s-l225.jpg" alt="Listing image for 20cm Diecast Metal Alloy Antonov An-225 &quot;Mriya&quot; Airplane Model 1/400 Scale" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sight-lines-was-the-plane-really-where-they-looked-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="sight-lines-was-the-plane-really-where-they-looked-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-plane-really-where-they-looked-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="was-the-plane-really-where-they-looked-airplane-model" target="_blank" rel="sponsored noopener noreferrer">20cm Diecast Metal Alloy Antonov An-225 &quot;Mriya&quot; Airplane Model 1/400 Scale</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sight-lines-was-the-plane-really-where-they-looked-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="sight-lines-was-the-plane-really-where-they-looked-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-plane-really-where-they-looked-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="was-the-plane-really-where-they-looked-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sight-lines-was-the-plane-really-where-they-looked-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="sight-lines-was-the-plane-really-where-they-looked-ifos-causes-of-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-plane-really-where-they-looked-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="was-the-plane-really-where-they-looked-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -535,15 +523,15 @@ When investigators reconstruct the witness position, establish the viewing direc
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sight-lines-was-the-plane-really-where-they-looked-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="sight-lines-was-the-plane-really-where-they-looked-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-plane-really-where-they-looked-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="was-the-plane-really-where-they-looked-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 16Cm Model For Federal Express A380 1:400 Aircraft Metal Airplane Model Plane"><img src="https://i.ebayimg.com/images/g/gv4AAeSwsvpqIqf~/s-l225.jpg" alt="Listing image for 16Cm Model For Federal Express A380 1:400 Aircraft Metal Airplane Model Plane" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sight-lines-was-the-plane-really-where-they-looked-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="sight-lines-was-the-plane-really-where-they-looked-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-plane-really-where-they-looked-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="was-the-plane-really-where-they-looked-airplane-model" target="_blank" rel="sponsored noopener noreferrer">16Cm Model For Federal Express A380 1:400 Aircraft Metal Airplane Model Plane</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sight-lines-was-the-plane-really-where-they-looked-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="sight-lines-was-the-plane-really-where-they-looked-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-plane-really-where-they-looked-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="was-the-plane-really-where-they-looked-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sight-lines-was-the-plane-really-where-they-looked-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="sight-lines-was-the-plane-really-where-they-looked-ifos-causes-of-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-plane-really-where-they-looked-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="was-the-plane-really-where-they-looked-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -551,15 +539,15 @@ When investigators reconstruct the witness position, establish the viewing direc
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sight-lines-was-the-plane-really-where-they-looked-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="sight-lines-was-the-plane-really-where-they-looked-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-plane-really-where-they-looked-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="was-the-plane-really-where-they-looked-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for EasyJet Airbus A320Neo Snap-fit Model Plane 1/200 Model Plane"><img src="https://i.ebayimg.com/images/g/~UYAAeSw9HVoXoJJ/s-l225.jpg" alt="Listing image for EasyJet Airbus A320Neo Snap-fit Model Plane 1/200 Model Plane" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sight-lines-was-the-plane-really-where-they-looked-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="sight-lines-was-the-plane-really-where-they-looked-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-plane-really-where-they-looked-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="was-the-plane-really-where-they-looked-airplane-model" target="_blank" rel="sponsored noopener noreferrer">EasyJet Airbus A320Neo Snap-fit Model Plane 1/200 Model Plane</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sight-lines-was-the-plane-really-where-they-looked-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="sight-lines-was-the-plane-really-where-they-looked-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-plane-really-where-they-looked-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="was-the-plane-really-where-they-looked-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sight-lines-was-the-plane-really-where-they-looked-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="sight-lines-was-the-plane-really-where-they-looked-ifos-causes-of-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-plane-really-where-they-looked-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="was-the-plane-really-where-they-looked-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -567,15 +555,15 @@ When investigators reconstruct the witness position, establish the viewing direc
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sight-lines-was-the-plane-really-where-they-looked-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="sight-lines-was-the-plane-really-where-they-looked-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-plane-really-where-they-looked-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="was-the-plane-really-where-they-looked-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TUI Boeing 787 Single Die Cast Toy Plane - Daron RT4300"><img src="https://i.ebayimg.com/images/g/I0YAAOSwnDdncsku/s-l225.jpg" alt="Listing image for TUI Boeing 787 Single Die Cast Toy Plane - Daron RT4300" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sight-lines-was-the-plane-really-where-they-looked-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="sight-lines-was-the-plane-really-where-they-looked-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-plane-really-where-they-looked-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="was-the-plane-really-where-they-looked-airplane-model" target="_blank" rel="sponsored noopener noreferrer">TUI Boeing 787 Single Die Cast Toy Plane - Daron RT4300</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sight-lines-was-the-plane-really-where-they-looked-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="sight-lines-was-the-plane-really-where-they-looked-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-plane-really-where-they-looked-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="was-the-plane-really-where-they-looked-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sight-lines-was-the-plane-really-where-they-looked-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="sight-lines-was-the-plane-really-where-they-looked-ifos-causes-of-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-plane-really-where-they-looked-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="was-the-plane-really-where-they-looked-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -583,7 +571,7 @@ When investigators reconstruct the witness position, establish the viewing direc
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sight-lines-was-the-plane-really-where-they-looked-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="sight-lines-was-the-plane-really-where-they-looked-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-plane-really-where-they-looked-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="was-the-plane-really-where-they-looked-airplane-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -799,146 +787,146 @@ When investigators reconstruct the witness position, establish the viewing direc
 1. <a id="endnote-1"></a>
    Source: faa.gov  
    Title: ins outs  
-   Link: [https://www.faa.gov/air_traffic/technology/equipadsb/capabilities/ins_outs](https://www.faa.gov/air_traffic/technology/equipadsb/capabilities/ins_outs)  
+   Link: <a href="https://www.faa.gov/air_traffic/technology/equipadsb/capabilities/ins_outs" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/technology/equipadsb/capabilities/ins_outs</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationIns and Outs7 Feb 2023 — ADS-B Out works by broadcasting information about an aircraft&#x27;s GPS location, alt...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b](https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b)  
+   Link: <a href="https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationAutomatic Dependent Surveillance - Broadcast (ADS-B)29 Sept 2025 — ADS-B Out works by broadcasting informa...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1hphpl6/this_is_how_bright_airplanes_look_when_they_land/](https://www.reddit.com/r/UFOs/comments/1hphpl6/this_is_how_bright_airplanes_look_when_they_land/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1hphpl6/this_is_how_bright_airplanes_look_when_they_land/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1hphpl6/this_is_how_bright_airplanes_look_when_they_land/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unexplained phenomena... r/UFOs - I saw lights outside my airplane on the way to New Zealand.Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1jemuds/stationary_orb_begins_to_mimic_faa_lights_and/](https://www.reddit.com/r/UFOs/comments/1jemuds/stationary_orb_begins_to_mimic_faa_lights_and/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditStationary Orb begins to mimic FAA lights and blink off: r/UFOsWhen an aircraft is on approach for landing, its landing lights are...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1jemuds/stationary_orb_begins_to_mimic_faa_lights_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1jemuds/stationary_orb_begins_to_mimic_faa_lights_and/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stationary Orb begins to mimic FAA lights and blink off: r/UFOsWhen an aircraft is on approach for landing, its landing lights are...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/explainlikeimfive/comments/1754ryp/eli5_how_can_a_plane_appear_still_in_the_air/](https://www.reddit.com/r/explainlikeimfive/comments/1754ryp/eli5_how_can_a_plane_appear_still_in_the_air/)  
+   Link: <a href="https://www.reddit.com/r/explainlikeimfive/comments/1754ryp/eli5_how_can_a_plane_appear_still_in_the_air/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/explainlikeimfive/comments/1754ryp/eli5_how_can_a_plane_appear_still_in_the_air/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>how can a plane appear still in the air?... seem to remain stagnant at times when flying in the air? 0. 4. I&#x27;ve seen a ufo out of a plane...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/figure/Camera-geometry-for-estimation-of-bearing-a-and-elevation-b-a-shows-the-top-view_fig2_247935915](https://www.researchgate.net/figure/Camera-geometry-for-estimation-of-bearing-a-and-elevation-b-a-shows-the-top-view_fig2_247935915)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGateCamera geometry for estimation of bearing (α) and...This paper provides a preliminary analysis of an autonomous uncooperat...</p></details>
+   Link: <a href="https://www.researchgate.net/figure/Camera-geometry-for-estimation-of-bearing-a-and-elevation-b-a-shows-the-top-view_fig2_247935915" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Camera-geometry-for-estimation-of-bearing-a-and-elevation-b-a-shows-the-top-view_fig2_247935915</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Camera geometry for estimation of bearing (α) and...This paper provides a preliminary analysis of an autonomous uncooperat...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/air_traffic/technology/equipadsb/resources/faq](https://www.faa.gov/air_traffic/technology/equipadsb/resources/faq)  
+   Link: <a href="https://www.faa.gov/air_traffic/technology/equipadsb/resources/faq" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/technology/equipadsb/resources/faq</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>reports that ADS-B provides? ADS-B reports two kinds of altitudes: barometric and geometric. The barometric altitude transmitted by the A...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1g3xs9k/can_someone_explain_to_me_what_this_is/](https://www.reddit.com/r/UFOs/comments/1g3xs9k/can_someone_explain_to_me_what_this_is/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditCan someone explain to me what this is? Specifically the light...You can see the navigation lights blinking in that location befor...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1g3xs9k/can_someone_explain_to_me_what_this_is/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1g3xs9k/can_someone_explain_to_me_what_this_is/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Can someone explain to me what this is? Specifically the light...You can see the navigation lights blinking in that location befor...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: aviation.govt.nz  
-   Link: [https://www.aviation.govt.nz/safety/safety-education-and-advice/education/vector-magazine/vector-online/limitations-of-adsb/](https://www.aviation.govt.nz/safety/safety-education-and-advice/education/vector-magazine/vector-online/limitations-of-adsb/)  
+   Link: <a href="https://www.aviation.govt.nz/safety/safety-education-and-advice/education/vector-magazine/vector-online/limitations-of-adsb/" target="_blank" rel="noopener noreferrer nofollow">https://www.aviation.govt.nz/safety/safety-education-and-advice/education/vector-magazine/vector-online/limitations-of-adsb/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation NZThe limitations of ADS-B | aviation.govt.nzADS-B, despite its situational awareness game-changing qualities, has its limitations...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: mitre.org  
-   Link: [https://www.mitre.org/sites/default/files/2021-08/16-4497-AIAA-2017-ADS-B.pdf](https://www.mitre.org/sites/default/files/2021-08/16-4497-AIAA-2017-ADS-B.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MITREADS-B Surveillance System Performance with Small UAS...Aircraft at lower altitude (i.e, a few thousand feet) are heard by fewer sta...</p></details>
+   Link: <a href="https://www.mitre.org/sites/default/files/2021-08/16-4497-AIAA-2017-ADS-B.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mitre.org/sites/default/files/2021-08/16-4497-AIAA-2017-ADS-B.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B Surveillance System Performance with Small UAS...Aircraft at lower altitude (i.e, a few thousand feet) are heard by fewer sta...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
    Title: We both saw a green light  
-   Link: [https://www.reddit.com/r/UFOs/comments/164uga8/i_pilot_came_head_on_with_an_object_glowing_green/](https://www.reddit.com/r/UFOs/comments/164uga8/i_pilot_came_head_on_with_an_object_glowing_green/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/164uga8/i_pilot_came_head_on_with_an_object_glowing_green/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/164uga8/i_pilot_came_head_on_with_an_object_glowing_green/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I (pilot) came head on with an object glowing green during flying at...August 29, 2023 — This happened a few hours ago while I was flyin...</p></details>
    Published: August 29, 2023  
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOB/comments/1iqpk70/this_was_posted_on_another_sub_cylindrical_ufo/](https://www.reddit.com/r/UFOB/comments/1iqpk70/this_was_posted_on_another_sub_cylindrical_ufo/)  
+   Link: <a href="https://www.reddit.com/r/UFOB/comments/1iqpk70/this_was_posted_on_another_sub_cylindrical_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1iqpk70/this_was_posted_on_another_sub_cylindrical_ufo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This was posted on another sub, cylindrical ufo passing a...I love that scifi made alien ships look so intricate and evolved, but here w...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
    Title: triangle uap caught by doorcam in st albans uk  
-   Link: [https://www.reddit.com/r/aliens/comments/zn039l/triangle_uap_caught_by_doorcam_in_st_albans_uk/](https://www.reddit.com/r/aliens/comments/zn039l/triangle_uap_caught_by_doorcam_in_st_albans_uk/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/zn039l/triangle_uap_caught_by_doorcam_in_st_albans_uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/zn039l/triangle_uap_caught_by_doorcam_in_st_albans_uk/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Triangle UAP caught by Doorcam in St. Albans, UK (2021): r...A community dedicated to discussing alien life through news, experiences...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Glitch_in_the_Matrix/comments/asnym7/i_saw_a_plane_in_the_sky_that_wasnt_moving/](https://www.reddit.com/r/Glitch_in_the_Matrix/comments/asnym7/i_saw_a_plane_in_the_sky_that_wasnt_moving/)  
+   Link: <a href="https://www.reddit.com/r/Glitch_in_the_Matrix/comments/asnym7/i_saw_a_plane_in_the_sky_that_wasnt_moving/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Glitch_in_the_Matrix/comments/asnym7/i_saw_a_plane_in_the_sky_that_wasnt_moving/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I Saw a Plane in the Sky That Wasn&#x27;t MovingMy only theory is that friendly UFO&#x27;s or aliens are able to stop plane crashes by “freezing” p...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/askastronomy/comments/1os4a0p/any_idea_what_this_is/](https://www.reddit.com/r/askastronomy/comments/1os4a0p/any_idea_what_this_is/)  
+   Link: <a href="https://www.reddit.com/r/askastronomy/comments/1os4a0p/any_idea_what_this_is/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askastronomy/comments/1os4a0p/any_idea_what_this_is/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Any idea what this is?: r/askastronomyIt appears to be some sort of automobile. ShotGlassLens. •. 7mo ago. A car driving in front of gra...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: researchgate.net  
    Title: An Analysis of Geometric Altitude Data in ADS-B Messages Nur et al  
-   Link: [https://www.researchgate.net/publication/329578976_An_Analysis_of_Geometric_Altitude_Data_in_ADS-B_Messages](https://www.researchgate.net/publication/329578976_An_Analysis_of_Geometric_Altitude_Data_in_ADS-B_Messages)  
+   Link: <a href="https://www.researchgate.net/publication/329578976_An_Analysis_of_Geometric_Altitude_Data_in_ADS-B_Messages" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/329578976_An_Analysis_of_Geometric_Altitude_Data_in_ADS-B_Messages</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[28] analyzes 29 aircraft ADS-B data and address deviation between barometric and geometric altitude. The deviation was in the range of 2...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/386011319_Unidentified_Anomalous_Phenomena_UAP_Orb_and_Rod_Object_Orientation_and_Energy_Coupling](https://www.researchgate.net/publication/386011319_Unidentified_Anomalous_Phenomena_UAP_Orb_and_Rod_Object_Orientation_and_Energy_Coupling)  
+   Link: <a href="https://www.researchgate.net/publication/386011319_Unidentified_Anomalous_Phenomena_UAP_Orb_and_Rod_Object_Orientation_and_Energy_Coupling" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/386011319_Unidentified_Anomalous_Phenomena_UAP_Orb_and_Rod_Object_Orientation_and_Energy_Coupling</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Orb and Rod Object Orientation and Energy Coupling21 Nov 2024 — Variation in their orientation within and between trips to site was assoc...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: mitre.org  
-   Link: [https://www.mitre.org/sites/default/files/pdf/06_1101.pdf](https://www.mitre.org/sites/default/files/pdf/06_1101.pdf)  
+   Link: <a href="https://www.mitre.org/sites/default/files/pdf/06_1101.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mitre.org/sites/default/files/pdf/06_1101.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Geo-Referencing [Radar](&amp;#123;&amp;#123; &#x27;radar/&#x27; | relative_url &amp;#125;&amp;#125;) Plot Data for the Traffic Information...15 Oct 2006 — When an ADS-B to radar correlation has been determined, the...</p></details>
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
 20. <a id="endnote-20"></a>
    Source: cfinotebook.net  
-   Link: [https://www.cfinotebook.net/notebook/avionics-and-instruments/automatic-dependent-surveillance-broadcast](https://www.cfinotebook.net/notebook/avionics-and-instruments/automatic-dependent-surveillance-broadcast)  
+   Link: <a href="https://www.cfinotebook.net/notebook/avionics-and-instruments/automatic-dependent-surveillance-broadcast" target="_blank" rel="noopener noreferrer nofollow">https://www.cfinotebook.net/notebook/avionics-and-instruments/automatic-dependent-surveillance-broadcast</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Automatic Dependent Surveillance BroadcastADS-B broadcasts once per second with the aircrafts position, velocity, identification, and oth...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: airservicesaustralia.com  
-   Link: [https://www.airservicesaustralia.com/wp-content/uploads/FAQ_ADS-B_DEC16.pdf](https://www.airservicesaustralia.com/wp-content/uploads/FAQ_ADS-B_DEC16.pdf)  
+   Link: <a href="https://www.airservicesaustralia.com/wp-content/uploads/FAQ_ADS-B_DEC16.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.airservicesaustralia.com/wp-content/uploads/FAQ_ADS-B_DEC16.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FAQ ADS-BIt is a system in which aircraft broadcast their position, velocity, identity and other information at a high rate. It is broadc...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: sky-lens.com  
-   Link: [https://sky-lens.com/guide](https://sky-lens.com/guide)  
+   Link: <a href="https://sky-lens.com/guide" target="_blank" rel="noopener noreferrer nofollow">https://sky-lens.com/guide</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Night Sky Observer&#x27;s Field GuideApproaching aircraft, hovering drone, &quot;UFO&quot;. [Sirius](&amp;#123;&amp;#123; &#x27;sirius/&#x27; | relative_url &amp;#125;&amp;#125;), Bright, rapidly twinkling, flashing red/blue/white n...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: spire.com  
-   Link: [https://spire.com/wiki/explaining-the-difference-between-ads-b-out-and-ads-b-in/](https://spire.com/wiki/explaining-the-difference-between-ads-b-out-and-ads-b-in/)  
+   Link: <a href="https://spire.com/wiki/explaining-the-difference-between-ads-b-out-and-ads-b-in/" target="_blank" rel="noopener noreferrer nofollow">https://spire.com/wiki/explaining-the-difference-between-ads-b-out-and-ads-b-in/</a>  
 
 24. <a id="endnote-24"></a>
    Source: facebook.com  
    Title: ads b automatic dependent surveillancebroadcast system is one of the most import  
-   Link: [https://www.facebook.com/AVIO.KNOWLEDGE/posts/ads-b-automatic-dependent-surveillancebroadcast-system-is-one-of-the-most-import/1601671628665987/](https://www.facebook.com/AVIO.KNOWLEDGE/posts/ads-b-automatic-dependent-surveillancebroadcast-system-is-one-of-the-most-import/1601671628665987/)  
+   Link: <a href="https://www.facebook.com/AVIO.KNOWLEDGE/posts/ads-b-automatic-dependent-surveillancebroadcast-system-is-one-of-the-most-import/1601671628665987/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AVIO.KNOWLEDGE/posts/ads-b-automatic-dependent-surveillancebroadcast-system-is-one-of-the-most-import/1601671628665987/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B (Automatic Dependent Surveillance–Broadcast...In both forms of ADS-B (1090ES &amp; 978 MHz UAT), the position report is updated once p...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: unoosa.org  
-   Link: [https://www.unoosa.org/documents/pdf/icg/IDM/IDM9/2021_IDM_workshop_06.pdf](https://www.unoosa.org/documents/pdf/icg/IDM/IDM9/2021_IDM_workshop_06.pdf)  
+   Link: <a href="https://www.unoosa.org/documents/pdf/icg/IDM/IDM9/2021_IDM_workshop_06.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unoosa.org/documents/pdf/icg/IDM/IDM9/2021_IDM_workshop_06.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>› Nearby aircraft use these transmissions to obtain situational awareness of surrounding aircraft and...Read more...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=cKrW0aoB_6w](https://www.youtube.com/watch?v=cKrW0aoB_6w)  
+   Link: <a href="https://www.youtube.com/watch?v=cKrW0aoB_6w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cKrW0aoB_6w</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B: The Future of Aircraft Surveillance! Explained by...ADSB is an advanced surveillance technology that allows aircraft to broadcast...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: eazypilot.com  
    Title: night illusions while flying what every pilot should know  
-   Link: [https://eazypilot.com/blog/night-illusions-while-flying-what-every-pilot-should-know/](https://eazypilot.com/blog/night-illusions-while-flying-what-every-pilot-should-know/)  
+   Link: <a href="https://eazypilot.com/blog/night-illusions-while-flying-what-every-pilot-should-know/" target="_blank" rel="noopener noreferrer nofollow">https://eazypilot.com/blog/night-illusions-while-flying-what-every-pilot-should-know/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Night Illusions While Flying: What Every Pilot Should Know10 Aug 2025 — Night illusions are visual and sensory misinterpretations that ca...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: rtx.com  
-   Link: [https://www.rtx.com/collinsaerospace/what-we-do/industries/business-aviation/flight-deck/adsb](https://www.rtx.com/collinsaerospace/what-we-do/industries/business-aviation/flight-deck/adsb)  
+   Link: <a href="https://www.rtx.com/collinsaerospace/what-we-do/industries/business-aviation/flight-deck/adsb" target="_blank" rel="noopener noreferrer nofollow">https://www.rtx.com/collinsaerospace/what-we-do/industries/business-aviation/flight-deck/adsb</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>, and identification, to ground stations and other aircraft every second.Read more...</p></details>

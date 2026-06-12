@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_mod_light_reports_if_af1b6f
 - ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_project_condign_defe_276efb
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - uk-files
 - desk-closure
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - uk-files
 - desk-closure
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: The UFO desk closed because decades of reports had not shown a defence threat, while the workload kept growing.
 hero_summary: The UFO desk closed because decades of reports had not shown a defence threat, while the workload kept growing.
 layout: default
 permalink: /desk-closure/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /uk-files/
 nav_short_title: Desk closure
 title: Why Britain shut its UFO desk
-title_full: Why Britain shut its UFO desk | UK Files
+title_full: Why Britain shut its UFO desk
 display_title_short: Desk closure
 display_title: Desk closure
 heading_title: Why Britain shut its UFO desk
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 23:08:05'
-parent_title: What the UK UFO Files Reveal | IFOs
+parent_title: What the UK UFO Files Reveal
 parent_permalink: /uk-files/
 parent_nav_short_title: UK Files
 parent_heading_title: What the UK UFO Files Reveal
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948
-  title: UK Files | Ifos Causes Of
+  title: UK Files | ifos causes of UFO 3 ed 238
   permalink: /uk-files/
   short_title: UK Files
   heading_title: What the UK UFO Files Reveal
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948
-  title: UK Files | Ifos Causes Of
+  title: UK Files | ifos causes of UFO 3 ed 238
   permalink: /uk-files/
   short_title: UK Files
   heading_title: What the UK UFO Files Reveal
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: How ordinary lights became Mo D UFO reports
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948
-  title: UK Files | Ifos Causes Of
+  title: UK Files | ifos causes of UFO 3 ed 238
   permalink: /uk-files/
   short_title: UK Files
   heading_title: What the UK UFO Files Reveal
@@ -266,6 +265,7 @@ next_link:
   permalink: /hotline-data/
   short_title: Hotline data
   heading_title: Why easy UFO reporting made weak evidence
+date: '2026-06-12 00:20:49 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_mod_ufo_desk_closure_1bf9cc-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_mod_ufo_desk_closure_1bf9cc-Illustration-1.webp
@@ -276,10 +276,8 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_mod_ufo_de
 
 Britain’s Ministry of Defence (MoD) closed its UFO desk in 2009 for a straightforward reason: after decades of reviewing reports, it concluded that the activity produced no evidence of a threat to UK airspace or national security, while consuming staff time that could be used on higher-priority defence work. The decision was not presented as proof that all sightings had been explained, nor as proof that unusual phenomena do not exist. Instead, it reflected a policy judgement about the value of continuing to collect and investigate reports from a defence perspective. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">final tranche of UFO files released</span><span class="citation-popover-snippet">National ArchivesUFO Desk: Closed2009, Defence Minister Bob Ainsworth was told that in more than 50 years „no UFO sighting reported to [M...</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_mod_ufo_desk_closure_1bf9cc-Illustration-1-dark.svg" | relative_url }}" alt="Desk closure illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_mod_ufo_desk_closure_1bf9cc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_mod_ufo_desk_closure_1bf9cc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The closure is significant because it reveals how the MoD evaluated UFO reports. The department’s central question was not whether a sighting was mysterious, but whether it indicated a military, security or air-defence concern. By 2009, officials believed the answer had repeatedly been no. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">final tranche of UFO files released</span><span class="citation-popover-snippet">National ArchivesUFO Desk: Closed2009, Defence Minister Bob Ainsworth was told that in more than 50 years „no UFO sighting reported to [M...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gEhfTpS77CE" title="UK UFO reports rise as &#x27;X Files&#x27; unit shuts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gEhfTpS77CE" target="_blank" rel="noopener noreferrer">UK UFO reports rise as &#x27;X Files&#x27; unit shuts</a></p><p class="youtube-embed-meta">Channel: Al Jazeera English &middot; Views: 11.8K &middot; Uploaded: June 2013 &middot; Length: 2 minutes 12 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gEhfTpS77CE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gEhfTpS77CE">Open on YouTube</a></p></div></div></div>
 
@@ -293,21 +291,19 @@ This conclusion did not mean every report had been identified. Rather, it meant 
 
 A useful illustration is that the MoD had historically investigated some sightings when they appeared to have possible defence implications. In a few cases, unusual reports from military personnel, police officers or [radar]({{ 'radar/' | relative_url }}) operators prompted further checks. Yet the long-term pattern was that apparently significant cases eventually produced no evidence of a hostile or unknown threat. That experience shaped the 2009 decision. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianMoD&#x27;s latest UFO files reveal saucerful of secrets16 Aug 2009 — The reports said it was very big, shaped like a catamaran and...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KK3ZgwgJ8kY" title="The 1993 Cosford Incident: Nick Pope’s Turning Point on UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KK3ZgwgJ8kY" target="_blank" rel="noopener noreferrer">The 1993 Cosford Incident: Nick Pope’s Turning Point on UFOs</a></p><p class="youtube-embed-meta">Channel: Eyes On Cinema &middot; Views: 73.4K &middot; Uploaded: February 2026 &middot; Length: 46 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KK3ZgwgJ8kY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KK3ZgwgJ8kY">Open on YouTube</a></p></div></div></div>
 
 ## The workload problem
 
 The closure was not driven only by the absence of defence value. It was also driven by the growing administrative burden created by public reporting.
 
-In 2009 the MoD received 643 UFO reports, roughly three times the number received the previous year and one of the highest totals recorded since systematic counting began. Officials noted that processing these reports required increasing amounts of staff time and resources. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-title">ufo desk why mod shut real life x files 10442364</span><span class="citation-popover-snippet">Sky NewsUFO Desk: Why MoD Shut Real-Life X-Files | UK News20 Jun 2013 — The Government shut down its UFO operations because they served &quot;...</span></span></span>
+In 2009 the MoD received 643 UFO reports, roughly three times the number received the previous year and one of the highest totals recorded since systematic counting began. Officials noted that processing these reports required increasing amounts of staff time and resources. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-title">ufo desk why mod shut real life x files 10442364</span><span class="citation-popover-snippet">Sky NewsUFO Desk: Why MoD Shut Real-Life X-Files &#124; UK News20 Jun 2013 — The Government shut down its UFO operations because they served &quot;...</span></span></span>
 
 At the same time, the department was handling large volumes of correspondence, Freedom of Information requests and public enquiries connected to UFO sightings. The combination created a workload that officials believed was disproportionate to the practical benefit being obtained. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">final tranche of UFO files released</span><span class="citation-popover-snippet">National ArchivesUFO Desk: Closed2009, Defence Minister Bob Ainsworth was told that in more than 50 years „no UFO sighting reported to [M...</span></span></span>
 
 Internal discussions therefore framed the issue as a resource-allocation problem. Maintaining a hotline, email system and administrative process for reports that had repeatedly failed to generate useful defence intelligence was viewed as an inefficient use of personnel. The MoD concluded that those resources should be redirected toward activities with clearer defence value. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.standard.co.uk/panewsfeeds/why-mod-decided-to-close-ufo-desk-8667770.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: standard.co.uk">[The Standard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">standard.co.uk</span><span class="citation-popover-title">why mod decided to close ufo desk 8667770</span><span class="citation-popover-snippet">The StandardWhy MoD decided to close UFO desk21 Jun 2013 — The Ministry of Defence closed its UFO desk in 2009 because it served &quot;no defe...</span></span></span>
 
 The language used in official and later released documents was notably pragmatic. The desk was said to serve “no defence purpose” and to divert staff from “more valuable defence-related activities.” Sky News <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.standard.co.uk/panewsfeeds/why-mod-decided-to-close-ufo-desk-8667770.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: standard.co.uk">[The Standard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">standard.co.uk</span><span class="citation-popover-title">why mod decided to close ufo desk 8667770</span><span class="citation-popover-snippet">The StandardWhy MoD decided to close UFO desk21 Jun 2013 — The Ministry of Defence closed its UFO desk in 2009 because it served &quot;no defe...</span></span></span>
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_mod_ufo_desk_closure_1bf9cc-Illustration-2-dark.svg" | relative_url }}" alt="Desk closure illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_mod_ufo_desk_closure_1bf9cc-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_mod_ufo_desk_closure_1bf9cc-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What closure did and did not prove
@@ -320,15 +316,13 @@ The closure also did not amount to an official declaration about extraterrestria
 
 What changed after 2009 was administrative policy. The UFO hotline and dedicated reporting channels were shut down, new reports were no longer routinely investigated, and the historical files were progressively transferred to public archives. The department ceased maintaining the type of central reporting system that had existed for decades. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">reports in the UKFrom: Ministry of Defence...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: questions-statements.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">questions-statements.parliament.uk</span><span class="citation-popover-snippet">UK ParliamentUnidentified Flying Objects5 Dec 2024 — The MOD ceased to investigate reports of UFO or UAP in 2009 and has not classified a...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WxF6oE67cks" title="Nick Pope UAP Ministry of Defense Investigator Can We Trust The Narrative?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WxF6oE67cks" target="_blank" rel="noopener noreferrer">Nick Pope UAP Ministry of Defense Investigator Can We Trust The Narrative?</a></p><p class="youtube-embed-meta">Channel: Michael Quu &middot; Views: 8.7K &middot; Uploaded: November 2025 &middot; Length: 56 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WxF6oE67cks" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WxF6oE67cks">Open on YouTube</a></p></div></div></div>
 
 ## Why the decision matters for understanding UFO reports
 
 The closure of the MoD UFO desk highlights an important distinction in the broader study of UFO reports. Governments may collect large numbers of sightings without concluding that those sightings represent a defence problem.
 
-From the MoD’s perspective, the decisive issue was not whether people continued to report strange lights or unexplained objects. The decisive issue was whether those reports generated evidence of hostile aircraft, foreign technology, or another threat requiring military attention. After more than half a century, officials concluded that they did not. Faced with rising workloads and limited resources, the department chose to end the programme rather than continue an activity that it believed delivered no measurable defence benefit. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">final tranche of UFO files released</span><span class="citation-popover-snippet">National ArchivesUFO Desk: Closed2009, Defence Minister Bob Ainsworth was told that in more than 50 years „no UFO sighting reported to [M...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-title">ufo desk why mod shut real life x files 10442364</span><span class="citation-popover-snippet">Sky NewsUFO Desk: Why MoD Shut Real-Life X-Files | UK News20 Jun 2013 — The Government shut down its UFO operations because they served &quot;...</span></span></span>
-
+From the MoD’s perspective, the decisive issue was not whether people continued to report strange lights or unexplained objects. The decisive issue was whether those reports generated evidence of hostile aircraft, foreign technology, or another threat requiring military attention. After more than half a century, officials concluded that they did not. Faced with rising workloads and limited resources, the department chose to end the programme rather than continue an activity that it believed delivered no measurable defence benefit. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">final tranche of UFO files released</span><span class="citation-popover-snippet">National ArchivesUFO Desk: Closed2009, Defence Minister Bob Ainsworth was told that in more than 50 years „no UFO sighting reported to [M...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-title">ufo desk why mod shut real life x files 10442364</span><span class="citation-popover-snippet">Sky NewsUFO Desk: Why MoD Shut Real-Life X-Files &#124; UK News20 Jun 2013 — The Government shut down its UFO operations because they served &quot;...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_mod_ufo_desk_closure_1bf9cc-Illustration-3-dark.svg" | relative_url }}" alt="Desk closure illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_mod_ufo_desk_closure_1bf9cc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_mod_ufo_desk_closure_1bf9cc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -449,15 +443,15 @@ From the MoD’s perspective, the decisive issue was not whether people continue
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=desk-closure-why-britain-shut-its-ufo-desk-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="desk-closure-why-britain-shut-its-ufo-desk-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Programme Michael Schenker Original Official Misdemeanor World Tour 1986"><img src="{{ '/assets/images/marketplace-covers/afd3d020d3403f6473d1.jpg' | relative_url }}" alt="Listing image for UFO Programme Michael Schenker Original Official Misdemeanor World Tour 1986" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-britain-shut-its-ufo-desk-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-britain-shut-its-ufo-desk-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=desk-closure-why-britain-shut-its-ufo-desk-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="desk-closure-why-britain-shut-its-ufo-desk-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Programme Michael Schenker Original Official Misdemeanor World Tour 1986</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-britain-shut-its-ufo-desk-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-britain-shut-its-ufo-desk-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=desk-closure-why-britain-shut-its-ufo-desk-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="desk-closure-why-britain-shut-its-ufo-desk-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-britain-shut-its-ufo-desk-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-britain-shut-its-ufo-desk-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=desk-closure-why-britain-shut-its-ufo-desk-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="desk-closure-why-britain-shut-its-ufo-desk-ifos-causes-of-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-britain-shut-its-ufo-desk-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-britain-shut-its-ufo-desk-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -465,15 +459,15 @@ From the MoD’s perspective, the decisive issue was not whether people continue
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=desk-closure-why-britain-shut-its-ufo-desk-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="desk-closure-why-britain-shut-its-ufo-desk-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-britain-shut-its-ufo-desk-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-britain-shut-its-ufo-desk-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=desk-closure-why-britain-shut-its-ufo-desk-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="desk-closure-why-britain-shut-its-ufo-desk-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-britain-shut-its-ufo-desk-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-britain-shut-its-ufo-desk-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=desk-closure-why-britain-shut-its-ufo-desk-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="desk-closure-why-britain-shut-its-ufo-desk-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-britain-shut-its-ufo-desk-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-britain-shut-its-ufo-desk-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=desk-closure-why-britain-shut-its-ufo-desk-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="desk-closure-why-britain-shut-its-ufo-desk-ifos-causes-of-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-britain-shut-its-ufo-desk-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-britain-shut-its-ufo-desk-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -481,15 +475,15 @@ From the MoD’s perspective, the decisive issue was not whether people continue
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=desk-closure-why-britain-shut-its-ufo-desk-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="desk-closure-why-britain-shut-its-ufo-desk-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA"><img src="{{ '/assets/images/marketplace-covers/d1a9ede89dec7aff09e9.jpg' | relative_url }}" alt="Listing image for UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-britain-shut-its-ufo-desk-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-britain-shut-its-ufo-desk-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=desk-closure-why-britain-shut-its-ufo-desk-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="desk-closure-why-britain-shut-its-ufo-desk-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-britain-shut-its-ufo-desk-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-britain-shut-its-ufo-desk-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=desk-closure-why-britain-shut-its-ufo-desk-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="desk-closure-why-britain-shut-its-ufo-desk-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-britain-shut-its-ufo-desk-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-britain-shut-its-ufo-desk-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=desk-closure-why-britain-shut-its-ufo-desk-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="desk-closure-why-britain-shut-its-ufo-desk-ifos-causes-of-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-britain-shut-its-ufo-desk-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-britain-shut-its-ufo-desk-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -497,15 +491,15 @@ From the MoD’s perspective, the decisive issue was not whether people continue
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=desk-closure-why-britain-shut-its-ufo-desk-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="desk-closure-why-britain-shut-its-ufo-desk-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-britain-shut-its-ufo-desk-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-britain-shut-its-ufo-desk-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=desk-closure-why-britain-shut-its-ufo-desk-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="desk-closure-why-britain-shut-its-ufo-desk-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-britain-shut-its-ufo-desk-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-britain-shut-its-ufo-desk-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=desk-closure-why-britain-shut-its-ufo-desk-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="desk-closure-why-britain-shut-its-ufo-desk-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-britain-shut-its-ufo-desk-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-britain-shut-its-ufo-desk-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=desk-closure-why-britain-shut-its-ufo-desk-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="desk-closure-why-britain-shut-its-ufo-desk-ifos-causes-of-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-britain-shut-its-ufo-desk-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-britain-shut-its-ufo-desk-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -513,7 +507,7 @@ From the MoD’s perspective, the decisive issue was not whether people continue
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=desk-closure-why-britain-shut-its-ufo-desk-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="desk-closure-why-britain-shut-its-ufo-desk-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-britain-shut-its-ufo-desk-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-britain-shut-its-ufo-desk-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -729,85 +723,85 @@ From the MoD’s perspective, the decisive issue was not whether people continue
 1. <a id="endnote-1"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: final tranche of UFO files released  
-   Link: [https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf](https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf)  
+   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesUFO Desk: Closed2009, Defence Minister Bob Ainsworth was told that in more than 50 years „no UFO sighting reported to [M...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: [https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364](https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364)  
+   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky NewsUFO Desk: Why MoD Shut Real-Life X-Files | UK News20 Jun 2013 — The Government shut down its UFO operations because they served &quot;...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: questions-statements.parliament.uk  
-   Link: [https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/](https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/)  
+   Link: <a href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow">https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK ParliamentUnidentified Flying Objects5 Dec 2024 — The MOD ceased to investigate reports of UFO or UAP in 2009 and has not classified a...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: questions-statements.parliament.uk  
-   Link: [https://questions-statements.parliament.uk/written-questions/detail/2023-09-01/196630/](https://questions-statements.parliament.uk/written-questions/detail/2023-09-01/196630/)  
+   Link: <a href="https://questions-statements.parliament.uk/written-questions/detail/2023-09-01/196630/" target="_blank" rel="noopener noreferrer nofollow">https://questions-statements.parliament.uk/written-questions/detail/2023-09-01/196630/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK ParliamentUnidentified Flying Objects1 Sept 2023 — The Ministry of Defence (MOD) has no opinion on the existence of either... (UAP)...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: documents.theblackvault.com  
-   Link: [https://documents.theblackvault.com/documents/ukufo/defe-24-2458-1.pdf](https://documents.theblackvault.com/documents/ukufo/defe-24-2458-1.pdf)  
+   Link: <a href="https://documents.theblackvault.com/documents/ukufo/defe-24-2458-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ukufo/defe-24-2458-1.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>defe-24-2458-1.pdf11 Nov 2009 — November 2009;. There is no Defence value in holding future UFO sighting reports from the public on MOD...</p></details>
    Published: November 2009  
 
 6. <a id="endnote-6"></a>
    Source: GOV.UK  
    Title: ufo reports in the uk  
-   Link: [https://www.gov.uk/government/publications/ufo-reports-in-the-uk](https://www.gov.uk/government/publications/ufo-reports-in-the-uk)  
+   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>reports in the UKFrom: Ministry of Defence...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: [https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf](https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>2009 the Departments policy on UFO&#x27;s changed, beyond this date UFO sighting reports are no longer recorded or investigated by the MOD. Pa...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: questions-statements.parliament.uk  
-   Link: [https://questions-statements.parliament.uk/written-questions/detail/2016-07-19/43413](https://questions-statements.parliament.uk/written-questions/detail/2016-07-19/43413)  
+   Link: <a href="https://questions-statements.parliament.uk/written-questions/detail/2016-07-19/43413" target="_blank" rel="noopener noreferrer nofollow">https://questions-statements.parliament.uk/written-questions/detail/2016-07-19/43413</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK ParliamentUnidentified Flying Objects19 Jul 2016 — The Ministry of Defence does not maintain a central record of... (UFO) sightings r...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo video transcript  
-   Link: [https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf](https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf)  
+   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>file release video transcriptthe years 2008 – 2009. The Ministry closed their UFO desk and cancelled their UFO hotline in November 2009 a...</p></details>
    Published: November 2009  
 
 10. <a id="endnote-10"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: [https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf](https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf)  
+   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>files reveal behind the scenes of the &#x27;UFO Desk&#x27;were to be believed, alien technology was far superior to ours and goes on to suggest tha...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: [https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf](https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf)  
+   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO FILES&#x27; From angels to aliens. One of the features of the UFO phenomenon that most concerned the Air. Ministry was visual...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: petition.parliament.uk  
-   Link: [https://petition.parliament.uk/petitions/763336](https://petition.parliament.uk/petitions/763336)  
+   Link: <a href="https://petition.parliament.uk/petitions/763336" target="_blank" rel="noopener noreferrer nofollow">https://petition.parliament.uk/petitions/763336</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US transparency by releasing all existing UAP records7 Apr 2026 — Since the closure of the &#x27;UFO Desk&#x27; in 2009, the public has been told t...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings](https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings)  
+   Link: <a href="https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianMoD&#x27;s latest UFO files reveal saucerful of secrets16 Aug 2009 — The reports said it was very big, shaped like a catamaran and...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: standard.co.uk  
    Title: why mod decided to close ufo desk 8667770  
-   Link: [https://www.standard.co.uk/panewsfeeds/why-mod-decided-to-close-ufo-desk-8667770.html](https://www.standard.co.uk/panewsfeeds/why-mod-decided-to-close-ufo-desk-8667770.html)  
+   Link: <a href="https://www.standard.co.uk/panewsfeeds/why-mod-decided-to-close-ufo-desk-8667770.html" target="_blank" rel="noopener noreferrer nofollow">https://www.standard.co.uk/panewsfeeds/why-mod-decided-to-close-ufo-desk-8667770.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The StandardWhy MoD decided to close UFO desk21 Jun 2013 — The Ministry of Defence closed its UFO desk in 2009 because it served &quot;no defe...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: theguardian.com  
    Title: documents reveal how mod played down ufo thesis in x files study  
-   Link: [https://www.theguardian.com/uk-news/2018/may/06/documents-reveal-how-mod-played-down-ufo-thesis-in-x-files-study](https://www.theguardian.com/uk-news/2018/may/06/documents-reveal-how-mod-played-down-ufo-thesis-in-x-files-study)  
+   Link: <a href="https://www.theguardian.com/uk-news/2018/may/06/documents-reveal-how-mod-played-down-ufo-thesis-in-x-files-study" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk-news/2018/may/06/documents-reveal-how-mod-played-down-ufo-thesis-in-x-files-study</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>No time for aliens: how the MoD tried to prove no one&#x27;s out...6 May 2018 — It closed its UFO desk in 2009 after it was decided it served...</p></details>
    Published: May 2018  
 
@@ -816,58 +810,58 @@ From the MoD’s perspective, the decisive issue was not whether people continue
 17. <a id="endnote-17"></a>
    Source: facebook.com  
    Title: secrets of the ufo files national archive finally reveals what we saw in the ski  
-   Link: [https://www.facebook.com/flashbak/posts/secrets-of-the-ufo-files-national-archive-finally-reveals-what-we-saw-in-the-ski/1101163165373111/](https://www.facebook.com/flashbak/posts/secrets-of-the-ufo-files-national-archive-finally-reveals-what-we-saw-in-the-ski/1101163165373111/)  
+   Link: <a href="https://www.facebook.com/flashbak/posts/secrets-of-the-ufo-files-national-archive-finally-reveals-what-we-saw-in-the-ski/1101163165373111/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/flashbak/posts/secrets-of-the-ufo-files-national-archive-finally-reveals-what-we-saw-in-the-ski/1101163165373111/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Secrets of The UFO Files: National Archive Finally Reveals...uk/fp/news/5287959/calvine-ufo-sighting- anniversary/ #ufos #UAP #calvine #...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: csmonitor.com  
    Title: UFO Britain releases documents explaining closure of military UFO desk  
-   Link: [https://www.csmonitor.com/Science/2013/0621/UFO-Britain-releases-documents-explaining-closure-of-military-UFO-desk](https://www.csmonitor.com/Science/2013/0621/UFO-Britain-releases-documents-explaining-closure-of-military-UFO-desk)  
+   Link: <a href="https://www.csmonitor.com/Science/2013/0621/UFO-Britain-releases-documents-explaining-closure-of-military-UFO-desk" target="_blank" rel="noopener noreferrer nofollow">https://www.csmonitor.com/Science/2013/0621/UFO-Britain-releases-documents-explaining-closure-of-military-UFO-desk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Christian Science MonitorUFO: Britain releases documents explaining closure of...21 Jun 2013 — Newly declassified files from Britain&#x27;s M...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: Nick Pope  
-   Link: [http://www.youtube.com/watch?v=5xz9CFbkdic](http://www.youtube.com/watch?v=5xz9CFbkdic)  
+   Link: <a href="http://www.youtube.com/watch?v=5xz9CFbkdic" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=5xz9CFbkdic</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Ministry of Defence UFO desk closure 2009 The 1993 Cosford Incident: Nick Pope’s Turning Point on UFOs Eyes On Cinema...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: hnn.us  
-   Link: [https://www.hnn.us/article/after-60-years-ministry-of-defense-department-that](https://www.hnn.us/article/after-60-years-ministry-of-defense-department-that)  
+   Link: <a href="https://www.hnn.us/article/after-60-years-ministry-of-defense-department-that" target="_blank" rel="noopener noreferrer nofollow">https://www.hnn.us/article/after-60-years-ministry-of-defense-department-that</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>d after almost 60 years, it has been disclosed.Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: theregister.com  
    Title: no more ufo reports please says mod  
-   Link: [https://www.theregister.com/software/2009/12/07/no-more-ufo-reports-please-says-mod/1468569](https://www.theregister.com/software/2009/12/07/no-more-ufo-reports-please-says-mod/1468569)  
+   Link: <a href="https://www.theregister.com/software/2009/12/07/no-more-ufo-reports-please-says-mod/1468569" target="_blank" rel="noopener noreferrer nofollow">https://www.theregister.com/software/2009/12/07/no-more-ufo-reports-please-says-mod/1468569</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>No more UFO reports please, says MoD7 Dec 2009 — No more UFO reports please, says MoD. &#x27;No evidence aliens are any threat to Blighty&#x27;. Le...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: deccanherald.com  
    Title: uk shut ufo special desk 2267435  
-   Link: [https://www.deccanherald.com/archives/uk-shut-ufo-special-desk-2267435](https://www.deccanherald.com/archives/uk-shut-ufo-special-desk-2267435)  
+   Link: <a href="https://www.deccanherald.com/archives/uk-shut-ufo-special-desk-2267435" target="_blank" rel="noopener noreferrer nofollow">https://www.deccanherald.com/archives/uk-shut-ufo-special-desk-2267435</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UK shut UFO special desk in 2009Jun 21, 2013 — Britain closed its special UFO desk in 2009 despite a surge in reported sightings, saying...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: theregister.com  
    Title: mod ufo office shuts  
-   Link: [https://www.theregister.com/2009/12/07/mod_ufo_office_shuts/](https://www.theregister.com/2009/12/07/mod_ufo_office_shuts/)  
+   Link: <a href="https://www.theregister.com/2009/12/07/mod_ufo_office_shuts/" target="_blank" rel="noopener noreferrer nofollow">https://www.theregister.com/2009/12/07/mod_ufo_office_shuts/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>No more UFO reports please, says MoD7 Dec 2009 — The UK Ministry of Defence (MoD) has decided to close down its UFO reporting service, sa...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: itv.com  
    Title: mod closed ufo desk  
-   Link: [https://www.itv.com/news/update/2013-06-21/mod-closed-ufo-desk/](https://www.itv.com/news/update/2013-06-21/mod-closed-ufo-desk/)  
+   Link: <a href="https://www.itv.com/news/update/2013-06-21/mod-closed-ufo-desk/" target="_blank" rel="noopener noreferrer nofollow">https://www.itv.com/news/update/2013-06-21/mod-closed-ufo-desk/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>in 200921 Jun 2013 — The Ministry of Defence closed its UFO desk in 2009 because it served &quot;no defence purpose&quot;, newly released files sho...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: Nick Pope UAP Ministry of Defense Investigator Can We Trust The Narrative?  
-   Link: [http://www.youtube.com/watch?v=WxF6oE67cks](http://www.youtube.com/watch?v=WxF6oE67cks)  
+   Link: <a href="http://www.youtube.com/watch?v=WxF6oE67cks" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=WxF6oE67cks</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nick Pope Dead at 60 — UK&#x27;s Top UFO Expert Passes Away After Cancer Battle...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
    Title: Nick Pope Dead at 60 — UK's Top UFO Expert Passes Away After Cancer Battle  
-   Link: [http://www.youtube.com/watch?v=qVcunPALU-w](http://www.youtube.com/watch?v=qVcunPALU-w)  
+   Link: <a href="http://www.youtube.com/watch?v=qVcunPALU-w" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=qVcunPALU-w</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nick Pope - UFO Disclosure: &quot;I&#x27;m Not Sure I Should Even Say This&quot;...</p></details>

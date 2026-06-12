@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ifos-causes-of-ufo-3ed238-aircraft/
 description: Focused pages that expand on Aircraft Lights.
-date: '2026-06-07'
+date: '2026-06-12'
 layout: default
 parent_basename: ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253
-parent_title: Aircraft Lights | Ifos Causes Of
+parent_title: Aircraft Lights
 parent_nav_short_title: Aircraft Lights
 parent_permalink: /aircraft-lights/
 ---

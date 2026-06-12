@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28_rocket_spiral_scares_f9cc56
 - ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28_starlink_mass_report_88b555
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - mass-sightings
 - crowd-memory
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - mass-sightings
 - crowd-memory
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Crowds can witness the same real stimulus while also borrowing details from each other as the event unfolds.
 hero_summary: Crowds can witness the same real stimulus while also borrowing details from each other as the event unfolds.
 layout: default
 permalink: /crowd-memory/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /mass-sightings/
 nav_short_title: Crowd Memory
 title: Why crowds remember UFO sightings together
-title_full: Why crowds remember UFO sightings together | Mass Sightings
+title_full: Why crowds remember UFO sightings together
 display_title_short: Crowd Memory
 display_title: Crowd Memory
 heading_title: Why crowds remember UFO sightings together
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Groups Can Share One Mistake | IFOs
+parent_title: Why Groups Can Share One Mistake
 parent_permalink: /mass-sightings/
 parent_nav_short_title: Mass Sightings
 parent_heading_title: Why Groups Can Share One Mistake
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28
-  title: Mass Sightings | Ifos Causes Of
+  title: Mass Sightings | ifos causes of UFO 3 ed 238
   permalink: /mass-sightings/
   short_title: Mass Sightings
   heading_title: Why Groups Can Share One Mistake
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28
-  title: Mass Sightings | Ifos Causes Of
+  title: Mass Sightings | ifos causes of UFO 3 ed 238
   permalink: /mass-sightings/
   short_title: Mass Sightings
   heading_title: Why Groups Can Share One Mistake
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why Starlink trains look like UFO formations
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28
-  title: Mass Sightings | Ifos Causes Of
+  title: Mass Sightings | ifos causes of UFO 3 ed 238
   permalink: /mass-sightings/
   short_title: Mass Sightings
   heading_title: Why Groups Can Share One Mistake
@@ -265,7 +265,7 @@ next_link:
   permalink: /independent-records/
   short_title: Independent Records
   heading_title: What makes many UFO witnesses useful?
-date: '2026-06-07 05:40:29 '
+date: '2026-06-12 00:21:15 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28_crowd_shared_memory_9edf60-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28_crowd_shared_memory_9edf60-Illustration-1.webp
@@ -275,7 +275,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28_crowd_sh
 ## Introduction
 
 Mass UFO sightings often seem more persuasive than lone reports because many people claim to have seen the same thing. Yet a crowd can produce a powerful shared memory even when individual witnesses did not observe exactly the same details. The key distinction is between a shared stimulus and a shared recollection. A group may genuinely witness the same light, aircraft, balloon, satellite train or atmospheric effect, but the story that develops afterwards can become more uniform than the original observations. Research on eyewitness memory shows that people frequently absorb details from one another during discussions, news coverage and later retellings, sometimes without realising that those details came from someone else rather than from their own experience. Noba <span class="citation-chip-wrap"><a class="citation-chip" href="https://rke.abertay.ac.uk/en/publications/memory-conformity-can-eyewitnesses-influence-each-others-memories" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rke.abertay.ac.uk">[Abertay University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rke.abertay.ac.uk</span><span class="citation-popover-title">memory conformity can eyewitnesses influence each others memories</span><span class="citation-popover-snippet">Abertay UniversityMemory conformity: can eyewitnesses influence each...by F Gabbert · 2003 · Cited by 630 — The current study investigat...</span></span></span>
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28_crowd_shared_memory_9edf60-Illustration-1-dark.svg" | relative_url }}" alt="Crowd Memory illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28_crowd_shared_memory_9edf60-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28_crowd_shared_memory_9edf60-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For investigators studying identified flying objects (IFOs) and other explanations for UFO reports, this matters because witness agreement is not the same thing as witness independence. A crowd can strengthen evidence that something unusual was visible, while simultaneously making it harder to determine exactly what each person originally saw. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abdn.elsevierpure.com/en/publications/from-the-archive-memory-conformity-can-eyewitnesses-influence-eac/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abdn.elsevierpure.com">[Aberdeen Research Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abdn.elsevierpure.com</span><span class="citation-popover-title">from the archive memory conformity can eyewitnesses influence eac</span><span class="citation-popover-snippet">Aberdeen Research PortalCan eyewitnesses influence each other&#x27;s memories for an...by F Gabbert · 2011 — This paper established a new dir...</span></span></span>
@@ -290,15 +289,11 @@ The crucial question is what happens next. If witnesses discuss the event immedi
 
 This creates a common misunderstanding in UFO cases. A later collection of highly similar testimonies may appear to show strong corroboration, when in reality the similarity emerged after witnesses exchanged information. The crowd is not necessarily inventing an event. Rather, independent memories are gradually transformed into a shared narrative. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1385&amp;context=ajacourtreview" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.unl.edu">[Digital Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.unl.edu</span><span class="citation-popover-snippet">People&#x27;s memory can be influenced by information encountered after an inci-.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://magazines.hachettelearning.com/magazine/psychology-review/24/2/post-event-discussion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magazines.hachettelearning.com">[Hodder Education Magazines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magazines.hachettelearning.com</span><span class="citation-popover-title">Hodder Education Magazines Post-event discussion</span><span class="citation-popover-snippet">memory reports become similar to one another&#x27;s. This phenomenon is typically referred to as memory conformity. It occurs because people a...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vd-f2i14Sk0" title="Mass Sightings | The Final Proof | Full Aliens Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vd-f2i14Sk0" target="_blank" rel="noopener noreferrer">Mass Sightings | The Final Proof | Full Aliens Documentary</a></p><p class="youtube-embed-meta">Channel: Mediatime Network &middot; Views: 1.2K &middot; Uploaded: December 2025 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vd-f2i14Sk0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vd-f2i14Sk0">Open on YouTube</a></p></div></div></div>
-
 ## How labels and comments reshape what witnesses report
 
 The mechanism is not simply copying. Human memory is reconstructive rather than a perfect recording.
 
 When a person in a crowd says, “It looks triangular,” that comment provides a framework for interpreting an ambiguous sight. Other observers may begin paying attention to arrangements of lights that fit the description. Later, some may sincerely remember having seen a triangle even if their original impression was less definite. Similar effects occur with claims such as:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -315,7 +310,6 @@ Another factor is social influence. People tend to trust witnesses who appear co
 
 This helps explain why some mass UFO reports develop a remarkably consistent set of details over time. Consistency may reflect genuine observation, but it may also reflect the normal human tendency to align memories through discussion and storytelling. Investigators therefore treat consistency and independence as separate questions rather than assuming one proves the other. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1385&amp;context=ajacourtreview" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.unl.edu">[Digital Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.unl.edu</span><span class="citation-popover-snippet">People&#x27;s memory can be influenced by information encountered after an inci-.Read more...</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28_crowd_shared_memory_9edf60-Illustration-2-dark.svg" | relative_url }}" alt="Crowd Memory illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28_crowd_shared_memory_9edf60-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28_crowd_shared_memory_9edf60-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why shared memories can feel especially convincing
 
@@ -324,7 +318,6 @@ A crowd-generated memory often carries emotional weight because it is reinforced
 If dozens of people recall the same feature, each individual receives confirmation that their memory is accurate. This can increase confidence even when the shared detail originated from post-event discussion rather than direct observation. Studies of eyewitness memory show that confidence and accuracy do not always rise together. People can become more certain of a memory that has been reshaped through social influence. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/abs/10.1080/13218710802620380" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">There was no difference in memory...Read more...</span></span></span>
 
 Mass UFO cases frequently acquire additional layers over time:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -338,8 +331,7 @@ Mass UFO cases frequently acquire additional layers over time:
 
 As this process unfolds, distinguishing original observations from later additions becomes increasingly difficult. The resulting memory can be genuinely shared while still being partly constructed through social exchange. <span class="citation-chip-wrap"><a class="citation-chip" href="https://magazines.hachettelearning.com/magazine/psychology-review/24/2/post-event-discussion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magazines.hachettelearning.com">[Hodder Education Magazines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magazines.hachettelearning.com</span><span class="citation-popover-title">Hodder Education Magazines Post-event discussion</span><span class="citation-popover-snippet">memory reports become similar to one another&#x27;s. This phenomenon is typically referred to as memory conformity. It occurs because people a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://sites.gold.ac.uk/psychology/2020/05/22/memory-conformity-between-eyewitnesses/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.gold.ac.uk">[Goldsmiths, University of London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.gold.ac.uk</span><span class="citation-popover-title">Goldsmiths, University of London Memory conformity between eyewitnesses</span><span class="citation-popover-snippet">It occurs because people accept, and later report, information that is suggested to them in the...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ikvrwOnay3g" title="Your brain doesn’t detect reality. It creates it. | Lisa Feldman Barrett" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ikvrwOnay3g" target="_blank" rel="noopener noreferrer">Your brain doesn’t detect reality. It creates it. | Lisa Feldman Barrett</a></p><p class="youtube-embed-meta">Channel: Big Think</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ikvrwOnay3g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ikvrwOnay3g">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vd-f2i14Sk0" title="Mass Sightings | The Final Proof | Full Aliens Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vd-f2i14Sk0" target="_blank" rel="noopener noreferrer">Mass Sightings | The Final Proof | Full Aliens Documentary</a></p><p class="youtube-embed-meta">Channel: Mediatime Network &middot; Views: 1.2K &middot; Uploaded: December 2025 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vd-f2i14Sk0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vd-f2i14Sk0">Open on YouTube</a></p></div></div></div>
 
 ## Ways investigators preserve early accounts before stories merge
 
@@ -347,14 +339,13 @@ Because memory contamination is a well-established phenomenon, investigators pla
 
 Several practices help preserve independent evidence:
 
-* **Record statements quickly.** Early accounts are generally closer to the original observation and less affected by discussion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6762151/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCThe effects of perceived memory ability on memory conformity...by LA Monds · 2019 · Cited by 19 — The current study aimed to expand o...</span></span></span>
+* **Record statements quickly.** Early accounts are generally closer to the original observation and less affected by discussion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6762151/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The effects of perceived memory ability on memory conformity...by LA Monds · 2019 · Cited by 19 — The current study aimed to expand o...</span></span></span>
 * **Separate witnesses when possible.** Independent interviews make it easier to identify which details arose naturally and which spread through conversation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1385&amp;context=ajacourtreview" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.unl.edu">[Digital Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.unl.edu</span><span class="citation-popover-snippet">People&#x27;s memory can be influenced by information encountered after an inci-.Read more...</span></span></span>
-* **Document exact wording.** Small differences between witnesses can reveal whether accounts developed independently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pure.hud.ac.uk/en/publications/memory-conformity-during-co-witness-discussions-issues-and-consid/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.hud.ac.uk">[Huddersfield Research Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.hud.ac.uk</span><span class="citation-popover-title">memory conformity during co witness discussions issues and consid</span><span class="citation-popover-snippet">Huddersfield Research PortalMemory conformity during co-witness discussionsby D Mojtahedi · 2020 — Witnesses can assist investigators by...</span></span></span>
+* **Document exact wording.** Small differences between witnesses can reveal whether accounts developed independently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pure.hud.ac.uk/en/publications/memory-conformity-during-co-witness-discussions-issues-and-consid/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.hud.ac.uk">[Huddersfield Research Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.hud.ac.uk</span><span class="citation-popover-title">memory conformity during co witness discussions issues and consid</span><span class="citation-popover-snippet">dersfield Research PortalMemory conformity during co-witness discussionsby D Mojtahedi · 2020 — Witnesses can assist investigators by...</span></span></span>
 * **Compare testimony with external records.** Photographs, video, [radar]({{ 'radar/' | relative_url }}) data, astronomical records, weather information and flight data provide checks that do not depend on memory.
 * **Track chronology.** Knowing who first reported a detail and when it appeared can help distinguish observation from later narrative growth. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.semanticscholar.org/paper/Memory-conformity%3A-Can-eyewitnesses-influence-each-Gabbert-Memon/cf0e79d62586607ad3e9fe5ae473868e578271fd" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: semanticscholar.org">[Semantic Scholar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">semanticscholar.org</span><span class="citation-popover-snippet">Semantic ScholarMemory conformity: Can eyewitnesses influence each...Jul 1, 2003 — The most striking finding was that the witness initia...</span></span></span>
 
 These methods do not assume that witnesses are dishonest. They recognise that memory is collaborative by nature. People often exchange information in good faith, yet those exchanges can change what they later believe they saw.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28_crowd_shared_memory_9edf60-Illustration-3-dark.svg" | relative_url }}" alt="Crowd Memory illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28_crowd_shared_memory_9edf60-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28_crowd_shared_memory_9edf60-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What crowd memory tells us about UFO reports
@@ -362,10 +353,6 @@ These methods do not assume that witnesses are dishonest. They recognise that me
 Crowd sightings demonstrate two things at once. First, they can confirm that a real stimulus was present and visible to many observers. Second, they can generate shared memories that become more uniform than the original experiences.
 
 For UFO investigations, the most informative evidence is therefore not simply the number of witnesses but the degree to which their accounts remain independent. A large crowd may provide valuable data, yet the same social processes that spread awareness of an event can also blend separate recollections into a single, compelling story. Understanding that distinction helps explain why mass UFO reports can feel extraordinarily convincing even when some of their most memorable details emerged through collective memory rather than direct observation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rke.abertay.ac.uk/en/publications/memory-conformity-can-eyewitnesses-influence-each-others-memories" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rke.abertay.ac.uk">[Abertay University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rke.abertay.ac.uk</span><span class="citation-popover-title">memory conformity can eyewitnesses influence each others memories</span><span class="citation-popover-snippet">Abertay UniversityMemory conformity: can eyewitnesses influence each...by F Gabbert · 2003 · Cited by 630 — The current study investigat...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nobaproject.com">[Noba]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nobaproject.com</span><span class="citation-popover-snippet">NobaEyewitness Testimony and Memory BiasesHundreds of subsequent studies have demonstrated that memory can be contaminated by erroneous i...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/buhMdC7MO0U" title="Scott Fraser: The problem with eyewitness testimony" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=buhMdC7MO0U" target="_blank" rel="noopener noreferrer">Scott Fraser: The problem with eyewitness testimony</a></p><p class="youtube-embed-meta">Channel: TED</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=buhMdC7MO0U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=buhMdC7MO0U">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -484,15 +471,15 @@ For UFO investigations, the most informative evidence is therefore not simply th
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowd-memory-why-crowds-remember-ufo-sightings-together-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="crowd-memory-why-crowds-remember-ufo-sightings-together-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag"><img src="{{ '/assets/images/marketplace-covers/423dfe011ecd80a392ff.jpg' | relative_url }}" alt="Listing image for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-crowds-remember-ufo-sightings-together-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-crowds-remember-ufo-sightings-together-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowd-memory-why-crowds-remember-ufo-sightings-together-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="crowd-memory-why-crowds-remember-ufo-sightings-together-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-crowds-remember-ufo-sightings-together-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-crowds-remember-ufo-sightings-together-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowd-memory-why-crowds-remember-ufo-sightings-together-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="crowd-memory-why-crowds-remember-ufo-sightings-together-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo enamel pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-crowds-remember-ufo-sightings-together-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-crowds-remember-ufo-sightings-together-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowd-memory-why-crowds-remember-ufo-sightings-together-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="crowd-memory-why-crowds-remember-ufo-sightings-together-ifos-causes-of-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-crowds-remember-ufo-sightings-together-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-crowds-remember-ufo-sightings-together-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -500,15 +487,15 @@ For UFO investigations, the most informative evidence is therefore not simply th
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowd-memory-why-crowds-remember-ufo-sightings-together-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="crowd-memory-why-crowds-remember-ufo-sightings-together-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black"><img src="{{ '/assets/images/marketplace-covers/078b55bb70d6b61d9af5.jpg' | relative_url }}" alt="Listing image for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-crowds-remember-ufo-sightings-together-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-crowds-remember-ufo-sightings-together-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowd-memory-why-crowds-remember-ufo-sightings-together-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="crowd-memory-why-crowds-remember-ufo-sightings-together-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-crowds-remember-ufo-sightings-together-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-crowds-remember-ufo-sightings-together-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowd-memory-why-crowds-remember-ufo-sightings-together-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="crowd-memory-why-crowds-remember-ufo-sightings-together-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo enamel pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-crowds-remember-ufo-sightings-together-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-crowds-remember-ufo-sightings-together-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowd-memory-why-crowds-remember-ufo-sightings-together-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="crowd-memory-why-crowds-remember-ufo-sightings-together-ifos-causes-of-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-crowds-remember-ufo-sightings-together-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-crowds-remember-ufo-sightings-together-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -516,15 +503,15 @@ For UFO investigations, the most informative evidence is therefore not simply th
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowd-memory-why-crowds-remember-ufo-sightings-together-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="crowd-memory-why-crowds-remember-ufo-sightings-together-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-crowds-remember-ufo-sightings-together-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-crowds-remember-ufo-sightings-together-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowd-memory-why-crowds-remember-ufo-sightings-together-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="crowd-memory-why-crowds-remember-ufo-sightings-together-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-crowds-remember-ufo-sightings-together-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-crowds-remember-ufo-sightings-together-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowd-memory-why-crowds-remember-ufo-sightings-together-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="crowd-memory-why-crowds-remember-ufo-sightings-together-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo enamel pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-crowds-remember-ufo-sightings-together-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-crowds-remember-ufo-sightings-together-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowd-memory-why-crowds-remember-ufo-sightings-together-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="crowd-memory-why-crowds-remember-ufo-sightings-together-ifos-causes-of-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-crowds-remember-ufo-sightings-together-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-crowds-remember-ufo-sightings-together-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -532,15 +519,15 @@ For UFO investigations, the most informative evidence is therefore not simply th
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowd-memory-why-crowds-remember-ufo-sightings-together-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="crowd-memory-why-crowds-remember-ufo-sightings-together-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-crowds-remember-ufo-sightings-together-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-crowds-remember-ufo-sightings-together-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowd-memory-why-crowds-remember-ufo-sightings-together-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="crowd-memory-why-crowds-remember-ufo-sightings-together-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-crowds-remember-ufo-sightings-together-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-crowds-remember-ufo-sightings-together-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowd-memory-why-crowds-remember-ufo-sightings-together-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="crowd-memory-why-crowds-remember-ufo-sightings-together-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo enamel pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-crowds-remember-ufo-sightings-together-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-crowds-remember-ufo-sightings-together-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowd-memory-why-crowds-remember-ufo-sightings-together-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="crowd-memory-why-crowds-remember-ufo-sightings-together-ifos-causes-of-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-crowds-remember-ufo-sightings-together-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-crowds-remember-ufo-sightings-together-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -548,7 +535,7 @@ For UFO investigations, the most informative evidence is therefore not simply th
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowd-memory-why-crowds-remember-ufo-sightings-together-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="crowd-memory-why-crowds-remember-ufo-sightings-together-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-crowds-remember-ufo-sightings-together-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-crowds-remember-ufo-sightings-together-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -763,157 +750,157 @@ For UFO investigations, the most informative evidence is therefore not simply th
 
 1. <a id="endnote-1"></a>
    Source: pjp.psychreg.org  
-   Link: [https://www.pjp.psychreg.org/wp-content/uploads/4-2-1-7.mojtahedi.pdf](https://www.pjp.psychreg.org/wp-content/uploads/4-2-1-7.mojtahedi.pdf)  
+   Link: <a href="https://www.pjp.psychreg.org/wp-content/uploads/4-2-1-7.mojtahedi.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.pjp.psychreg.org/wp-content/uploads/4-2-1-7.mojtahedi.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(Morgan et al., 2013), such that some witnesses will recall...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6762151/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6762151/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCThe effects of perceived memory ability on memory conformity...by LA Monds · 2019 · Cited by 19 — The current study aimed to expand o...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6762151/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6762151/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The effects of perceived memory ability on memory conformity...by LA Monds · 2019 · Cited by 19 — The current study aimed to expand o...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCOnline misinformation can distort witnesses' memories  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10829763/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10829763/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby M Kękuś · 2024 · Cited by 2 —... disinformation effect in the context of eyewitness testimony. Ed. Sadko L... Memory conformity...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10829763/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10829763/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by M Kękuś · 2024 · Cited by 2 —... disinformation effect in the context of eyewitness testimony. Ed. Sadko L... Memory conformity...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCEyewitness accuracy and retrieval effort: Effects of time  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9451081/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9451081/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby PU Gustafsson · 2022 · Cited by 23 — The major goal of the current study was to examine how time and repetition might influence the...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9451081/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9451081/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by PU Gustafsson · 2022 · Cited by 23 — The major goal of the current study was to examine how time and repetition might influence the...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: nature.com  
    Title: misinformation effects on eyewitness memory  
-   Link: [https://www.nature.com/nature-index/topics/l4/misinformation-effects-on-eyewitness-memory](https://www.nature.com/nature-index/topics/l4/misinformation-effects-on-eyewitness-memory)  
+   Link: <a href="https://www.nature.com/nature-index/topics/l4/misinformation-effects-on-eyewitness-memory" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/misinformation-effects-on-eyewitness-memory</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Debriefing works: Successful retraction of misinformation following a fake news study...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: rke.abertay.ac.uk  
    Title: memory conformity can eyewitnesses influence each others memories  
-   Link: [https://rke.abertay.ac.uk/en/publications/memory-conformity-can-eyewitnesses-influence-each-others-memories](https://rke.abertay.ac.uk/en/publications/memory-conformity-can-eyewitnesses-influence-each-others-memories)  
+   Link: <a href="https://rke.abertay.ac.uk/en/publications/memory-conformity-can-eyewitnesses-influence-each-others-memories" target="_blank" rel="noopener noreferrer nofollow">https://rke.abertay.ac.uk/en/publications/memory-conformity-can-eyewitnesses-influence-each-others-memories</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Abertay UniversityMemory conformity: can eyewitnesses influence each...by F Gabbert · 2003 · Cited by 630 — The current study investigat...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: digitalcommons.unl.edu  
-   Link: [https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1385&context=ajacourtreview](https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1385&context=ajacourtreview)  
+   Link: <a href="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1385&amp;context=ajacourtreview" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1385&amp;context=ajacourtreview</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>People&#x27;s memory can be influenced by information encountered after an inci-.Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: abdn.elsevierpure.com  
    Title: from the archive memory conformity can eyewitnesses influence eac  
-   Link: [https://abdn.elsevierpure.com/en/publications/from-the-archive-memory-conformity-can-eyewitnesses-influence-eac/](https://abdn.elsevierpure.com/en/publications/from-the-archive-memory-conformity-can-eyewitnesses-influence-eac/)  
+   Link: <a href="https://abdn.elsevierpure.com/en/publications/from-the-archive-memory-conformity-can-eyewitnesses-influence-eac/" target="_blank" rel="noopener noreferrer nofollow">https://abdn.elsevierpure.com/en/publications/from-the-archive-memory-conformity-can-eyewitnesses-influence-eac/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aberdeen Research PortalCan eyewitnesses influence each other&#x27;s memories for an...by F Gabbert · 2011 — This paper established a new dir...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: sites.gold.ac.uk  
    Title: Goldsmiths, University of London Memory conformity between eyewitnesses  
-   Link: [https://sites.gold.ac.uk/psychology/2020/05/22/memory-conformity-between-eyewitnesses/](https://sites.gold.ac.uk/psychology/2020/05/22/memory-conformity-between-eyewitnesses/)  
+   Link: <a href="https://sites.gold.ac.uk/psychology/2020/05/22/memory-conformity-between-eyewitnesses/" target="_blank" rel="noopener noreferrer nofollow">https://sites.gold.ac.uk/psychology/2020/05/22/memory-conformity-between-eyewitnesses/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>It occurs because people accept, and later report, information that is suggested to them in the...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: magazines.hachettelearning.com  
    Title: Hodder Education Magazines Post-event discussion  
-   Link: [https://magazines.hachettelearning.com/magazine/psychology-review/24/2/post-event-discussion/](https://magazines.hachettelearning.com/magazine/psychology-review/24/2/post-event-discussion/)  
+   Link: <a href="https://magazines.hachettelearning.com/magazine/psychology-review/24/2/post-event-discussion/" target="_blank" rel="noopener noreferrer nofollow">https://magazines.hachettelearning.com/magazine/psychology-review/24/2/post-event-discussion/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>memory reports become similar to one another&#x27;s. This phenomenon is typically referred to as memory conformity. It occurs because people a...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: bpspsychub.onlinelibrary.wiley.com  
    Title: BPS Psych Hub The history of an idea: The misinformation effect  
-   Link: [https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/lcrp.70020](https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/lcrp.70020)  
+   Link: <a href="https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/lcrp.70020" target="_blank" rel="noopener noreferrer nofollow">https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/lcrp.70020</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BPS Psych HubThe history of an idea: The misinformation effect - Loftus24 Dec 2025 — The reconstructive nature of memory allows witnesses...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: semanticscholar.org  
-   Link: [https://www.semanticscholar.org/paper/Memory-conformity%3A-Can-eyewitnesses-influence-each-Gabbert-Memon/cf0e79d62586607ad3e9fe5ae473868e578271fd](https://www.semanticscholar.org/paper/Memory-conformity%3A-Can-eyewitnesses-influence-each-Gabbert-Memon/cf0e79d62586607ad3e9fe5ae473868e578271fd)  
+   Link: <a href="https://www.semanticscholar.org/paper/Memory-conformity%3A-Can-eyewitnesses-influence-each-Gabbert-Memon/cf0e79d62586607ad3e9fe5ae473868e578271fd" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Memory-conformity%3A-Can-eyewitnesses-influence-each-Gabbert-Memon/cf0e79d62586607ad3e9fe5ae473868e578271fd</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Semantic ScholarMemory conformity: Can eyewitnesses influence each...Jul 1, 2003 — The most striking finding was that the witness initia...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: pure.hud.ac.uk  
    Title: memory conformity during co witness discussions issues and consid  
-   Link: [https://pure.hud.ac.uk/en/publications/memory-conformity-during-co-witness-discussions-issues-and-consid/](https://pure.hud.ac.uk/en/publications/memory-conformity-during-co-witness-discussions-issues-and-consid/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Huddersfield Research PortalMemory conformity during co-witness discussionsby D Mojtahedi · 2020 — Witnesses can assist investigators by...</p></details>
+   Link: <a href="https://pure.hud.ac.uk/en/publications/memory-conformity-during-co-witness-discussions-issues-and-consid/" target="_blank" rel="noopener noreferrer nofollow">https://pure.hud.ac.uk/en/publications/memory-conformity-during-co-witness-discussions-issues-and-consid/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>dersfield Research PortalMemory conformity during co-witness discussionsby D Mojtahedi · 2020 — Witnesses can assist investigators by...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/abs/10.1080/13218710802620380](https://www.tandfonline.com/doi/abs/10.1080/13218710802620380)  
+   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/13218710802620380" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/13218710802620380</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>There was no difference in memory...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: jstor.org  
-   Link: [https://www.jstor.org/stable/48568428](https://www.jstor.org/stable/48568428)  
+   Link: <a href="https://www.jstor.org/stable/48568428" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/48568428</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Rethinking the Reliability of Eyewitness Memoryby JT Wixted · 2018 · Cited by 235 — Thus, we would expect to find that training police to...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: digitalcommons.wayne.edu  
-   Link: [https://digitalcommons.wayne.edu/cgi/viewcontent.cgi?article=1100&context=honorstheses](https://digitalcommons.wayne.edu/cgi/viewcontent.cgi?article=1100&context=honorstheses)  
+   Link: <a href="https://digitalcommons.wayne.edu/cgi/viewcontent.cgi?article=1100&amp;context=honorstheses" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.wayne.edu/cgi/viewcontent.cgi?article=1100&amp;context=honorstheses</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Influence of False Memories on Eyewitness Testimonyby S Kossen · 2025 — This paper examines the origination of false memories, highlighti...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: Wikipedia  
    Title: Misinformation effect  
-   Link: [https://en.wikipedia.org/wiki/Misinformation_effect](https://en.wikipedia.org/wiki/Misinformation_effect)  
+   Link: <a href="https://en.wikipedia.org/wiki/Misinformation_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Misinformation_effect</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation effectThe misinformation effect occurs when a person&#x27;s recall of episodic memories becomes less accurate because of pos...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Memory conformity  
-   Link: [https://en.wikipedia.org/wiki/Memory_conformity](https://en.wikipedia.org/wiki/Memory_conformity)  
+   Link: <a href="https://en.wikipedia.org/wiki/Memory_conformity" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Memory_conformity</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Memory conformityMemory conformity, also known as social contagion of memory, is the phenomenon where memories or information reported...</p></details>
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/264905204_Memory_Conformity_Between_Eyewitnesses](https://www.researchgate.net/publication/264905204_Memory_Conformity_Between_Eyewitnesses)  
+   Link: <a href="https://www.researchgate.net/publication/264905204_Memory_Conformity_Between_Eyewitnesses" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/264905204_Memory_Conformity_Between_Eyewitnesses</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Memory Conformity Between EyewitnessesWhen false details encountered during a discussion are later reported in our own recall, this...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: nobaproject.com  
-   Link: [https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases](https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases)  
+   Link: <a href="https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases" target="_blank" rel="noopener noreferrer nofollow">https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NobaEyewitness Testimony and Memory BiasesHundreds of subsequent studies have demonstrated that memory can be contaminated by erroneous i...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: thedecisionlab.com  
-   Link: [https://thedecisionlab.com/reference-guide/psychology/the-misinformation-effect](https://thedecisionlab.com/reference-guide/psychology/the-misinformation-effect)  
+   Link: <a href="https://thedecisionlab.com/reference-guide/psychology/the-misinformation-effect" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/the-misinformation-effect</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Misinformation EffectThe misinformation effect happens when our memory for past events is altered after exposure to misleading inform...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: wrap.warwick.ac.uk  
    Title: WRAP eyewitness memory distortion following discussion countries Wade 2018  
-   Link: [https://wrap.warwick.ac.uk/id/eprint/108300/7/WRAP-eyewitness-memory-distortion-following-discussion-countries-Wade-2018.pdf](https://wrap.warwick.ac.uk/id/eprint/108300/7/WRAP-eyewitness-memory-distortion-following-discussion-countries-Wade-2018.pdf)  
+   Link: <a href="https://wrap.warwick.ac.uk/id/eprint/108300/7/WRAP-eyewitness-memory-distortion-following-discussion-countries-Wade-2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wrap.warwick.ac.uk/id/eprint/108300/7/WRAP-eyewitness-memory-distortion-following-discussion-countries-Wade-2018.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>et al co-witness memory multilab study JARMAC_Accepted...by H Ito · 2019 · Cited by 45 — A comprehensive theory of collaborative remembe...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=vd-f2i14Sk0](https://www.youtube.com/watch?v=vd-f2i14Sk0)  
+   Link: <a href="https://www.youtube.com/watch?v=vd-f2i14Sk0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vd-f2i14Sk0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[Mass Sightings](&amp;#123;&amp;#123; &#x27;mass-sightings/&#x27; | relative_url &amp;#125;&amp;#125;) | The Final Proof | Full Aliens DocumentaryMass alien sightings are one of the main phenomena of study in ufological matte...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: medium.com  
    Title: the ruwa encounter the day schoolchildren claimed contact d25a1b42e837  
-   Link: [https://medium.com/the-idea-of-reality/the-ruwa-encounter-the-day-schoolchildren-claimed-contact-d25a1b42e837](https://medium.com/the-idea-of-reality/the-ruwa-encounter-the-day-schoolchildren-claimed-contact-d25a1b42e837)  
+   Link: <a href="https://medium.com/the-idea-of-reality/the-ruwa-encounter-the-day-schoolchildren-claimed-contact-d25a1b42e837" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-idea-of-reality/the-ruwa-encounter-the-day-schoolchildren-claimed-contact-d25a1b42e837</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ruwa Encounter: The Day Schoolchildren Claimed...Mass UFO sighting in Westfall, 1966. Artist sketching based on witness&#x27; accounts. T...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/227602548_Memory_Conformity_Exploring_misinformation_effects_when_presented_by_another_person](https://www.researchgate.net/publication/227602548_Memory_Conformity_Exploring_misinformation_effects_when_presented_by_another_person)  
+   Link: <a href="https://www.researchgate.net/publication/227602548_Memory_Conformity_Exploring_misinformation_effects_when_presented_by_another_person" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/227602548_Memory_Conformity_Exploring_misinformation_effects_when_presented_by_another_person</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>When the person was given misinformation this lowered accuracy, while presenting accurate...Read more...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: frontiersin.org  
    Title: Frontiers Online misinformation can distort witnesses' memories  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1239139/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1239139/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1239139/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1239139/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>by M Kękuś · 2024 · Cited by 2 —... co-witness: the effects of misinformation on memory after collaborative discussion...). Memory con...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: scilit.com  
-   Link: [https://www.scilit.com/publications/cad218512acc36459e7b3d308840f41c](https://www.scilit.com/publications/cad218512acc36459e7b3d308840f41c)  
+   Link: <a href="https://www.scilit.com/publications/cad218512acc36459e7b3d308840f41c" target="_blank" rel="noopener noreferrer nofollow">https://www.scilit.com/publications/cad218512acc36459e7b3d308840f41c</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This memory conformity effect has been shown in both free recall and recognition...Read more...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: oversight.house.gov  
    Title: Written Testimony Shellenberger  
-   Link: [https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf](https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf)  
+   Link: <a href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>house.govWritten-Testimony-Shellenberger.pdf13 Nov 2023 — reduce the possibility of the Soviet taking advantage of UFO mass sightings for...</p></details>

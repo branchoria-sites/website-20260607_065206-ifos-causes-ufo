@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_radar_ducting_false_010dff
 - ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_real_object_unidenti_1f06b3
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - sensor-operators
 - go-fast
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - sensor-operators
 - go-fast
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: The GoFast case shows how a real sensor track can look extraordinarily fast until range, aircraft motion and viewing geometry are rebuilt.
 hero_summary: The GoFast case shows how a real sensor track can look extraordinarily fast until range, aircraft motion and viewing geometry are rebuilt.
 layout: default
 permalink: /go-fast/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /sensor-operators/
 nav_short_title: Go Fast
 title: Why Go Fast looked faster than it was
-title_full: Why Go Fast looked faster than it was | Sensor Operators
+title_full: Why Go Fast looked faster than it was
 display_title_short: Go Fast
 display_title: Go Fast
 heading_title: Why Go Fast looked faster than it was
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: When Sensors Need Human Context | IFOs
+parent_title: When Sensors Need Human Context
 parent_permalink: /sensor-operators/
 parent_nav_short_title: Sensor Operators
 parent_heading_title: When Sensors Need Human Context
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b
-  title: Sensor Operators | Ifos Causes Of
+  title: Sensor Operators | ifos causes of UFO 3 ed 238
   permalink: /sensor-operators/
   short_title: Sensor Operators
   heading_title: When Sensors Need Human Context
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b
-  title: Sensor Operators | Ifos Causes Of
+  title: Sensor Operators | ifos causes of UFO 3 ed 238
   permalink: /sensor-operators/
   short_title: Sensor Operators
   heading_title: When Sensors Need Human Context
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Real object does not mean solved object
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b
-  title: Sensor Operators | Ifos Causes Of
+  title: Sensor Operators | ifos causes of UFO 3 ed 238
   permalink: /sensor-operators/
   short_title: Sensor Operators
   heading_title: When Sensors Need Human Context
@@ -265,7 +265,7 @@ next_link:
   permalink: /old-records/
   short_title: Old records
   heading_title: Why old radar cases stay mysterious
-date: '2026-06-07 06:12:08 '
+date: '2026-06-12 00:37:58 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_gofast_parallax_spee_972ef5-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_gofast_parallax_spee_972ef5-Illustration-1.webp
@@ -276,9 +276,8 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_gofast
 
 The Navy’s “[GoFast]({{ 'gofast/' | relative_url }})” [infrared]({{ 'infrared/' | relative_url }}) video became one of the most widely discussed UFO clips because it appeared to show a small object racing just above the ocean at extraordinary speed. For many viewers, the footage seemed to depict a craft performing far beyond known aircraft capabilities. Yet the case has become an important example of how sensor imagery can be misleading when range, viewing geometry and the observer’s own motion are not fully reconstructed.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_gofast_parallax_spee_972ef5-Illustration-1-dark.svg" | relative_url }}" alt="Go Fast illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_gofast_parallax_spee_972ef5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_gofast_parallax_spee_972ef5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the broader question of identified flying objects (IFOs), GoFast is significant because the mystery centres less on whether a real object existed and more on how its apparent motion was interpreted. Subsequent analyses by independent researchers, NASA-associated investigators and the U.S. Department of Defense’s All-domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})) concluded that much of the dramatic speed impression can be explained by parallax—the way objects appear to move when viewed from a rapidly moving platform. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution</span><span class="citation-popover-snippet">AAROAARO GoFast Case ResolutionFebruary 24, 2025 — 6 Feb 2025 — 5 mph - 92 mph. The video appeared to show the object moving at high spee...</span><span class="citation-popover-meta">Published: February 24, 2025</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/nasa-panel-analyzes-go-fast.13174/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">nasa panel analyzes go fast.13174</span><span class="citation-popover-snippet">MetabunkNASA panel analyzes GO FAST19 Sept 2023 — Given that the aircraft&#x27;s groundspeed is about 435 mph, we may conclude that the impres...</span></span></span>
+Within the broader question of identified flying objects (IFOs), GoFast is significant because the mystery centres less on whether a real object existed and more on how its apparent motion was interpreted. Subsequent analyses by independent researchers, NASA-associated investigators and the U.S. Department of Defense’s All-domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})) concluded that much of the dramatic speed impression can be explained by parallax—the way objects appear to move when viewed from a rapidly moving platform. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution</span><span class="citation-popover-snippet">AARO GoFast Case ResolutionFebruary 24, 2025 — 6 Feb 2025 — 5 mph - 92 mph. The video appeared to show the object moving at high spee...</span><span class="citation-popover-meta">Published: February 24, 2025</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/nasa-panel-analyzes-go-fast.13174/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">nasa panel analyzes go fast.13174</span><span class="citation-popover-snippet">NASA panel analyzes GO FAST19 Sept 2023 — Given that the aircraft&#x27;s groundspeed is about 435 mph, we may conclude that the impres...</span></span></span>
 
 ## Why GoFast looked faster than it was
 
@@ -293,19 +292,17 @@ Neither assumption is directly measured by what viewers see. The display shows a
 
 This distinction is crucial. A target that appears to dart across the frame is not necessarily darting through the [atmosphere]({{ 'atmosphere/' | relative_url }}) at the same speed. The motion seen on a screen is a combination of target motion, aircraft motion, camera tracking behaviour and perspective.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4Btns91W5J8" title="Gimbal UFO: New Footage Proves Glare Rotation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4Btns91W5J8" target="_blank" rel="noopener noreferrer">Gimbal UFO: New Footage Proves Glare Rotation</a></p><p class="youtube-embed-meta">Channel: Mick West &middot; Views: 29.7K &middot; Uploaded: July 2019 &middot; Length: 3 minutes 55 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4Btns91W5J8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4Btns91W5J8">Open on YouTube</a></p></div></div></div>
 
 ## How parallax changes apparent speed
 
 Parallax is the apparent shift in an object's position when an observer moves. Nearby objects appear to move across the field of view faster than distant ones, even if they are stationary or moving slowly. The effect is familiar when looking out of a train window: nearby trees seem to rush past while distant hills barely move. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pentagon UFO videos</span><span class="citation-popover-snippet">Pentagon UFO videosThe Pentagon UFO videos are selected visual recordings of Forward-looking infrared (FLIR) targeting cameras from Un...</span></span></span>
 
-In the GoFast case, the observer was not standing still but flying at high speed in a fighter aircraft. The targeting pod continuously adjusted its aim while tracking the object. Because the aircraft was moving rapidly relative to both the target and the ocean background, the resulting geometry created an exaggerated impression of speed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution</span><span class="citation-popover-snippet">AAROAARO GoFast Case ResolutionFebruary 24, 2025 — 6 Feb 2025 — 5 mph - 92 mph. The video appeared to show the object moving at high spee...</span><span class="citation-popover-meta">Published: February 24, 2025</span></span></span>
+In the GoFast case, the observer was not standing still but flying at high speed in a fighter aircraft. The targeting pod continuously adjusted its aim while tracking the object. Because the aircraft was moving rapidly relative to both the target and the ocean background, the resulting geometry created an exaggerated impression of speed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution</span><span class="citation-popover-snippet">AARO GoFast Case ResolutionFebruary 24, 2025 — 6 Feb 2025 — 5 mph - 92 mph. The video appeared to show the object moving at high spee...</span><span class="citation-popover-meta">Published: February 24, 2025</span></span></span>
 
-Several independent analyses reached similar conclusions. Using the telemetry visible on the display, researchers reconstructed the geometry and found that the object did not need to be travelling at extraordinary velocity. Instead, a relatively slow-moving airborne object could produce the same visual effect when viewed from a fast-moving jet. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/go-fast-footage-from-tom-delonges-to-the-stars-academy-bird-balloon.9569/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">go fast footage from tom delonges to the stars academy bird balloon.9569</span><span class="citation-popover-snippet">GO FAST&quot; Footage from Tom DeLonge&#x27;s To The Stars...9 Mar 2018 — parallax effect. With this model, the speed of the object could be anyt...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/nasa-panel-analyzes-go-fast.13174/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">nasa panel analyzes go fast.13174</span><span class="citation-popover-snippet">MetabunkNASA panel analyzes GO FAST19 Sept 2023 — Given that the aircraft&#x27;s groundspeed is about 435 mph, we may conclude that the impres...</span></span></span>
+Several independent analyses reached similar conclusions. Using the telemetry visible on the display, researchers reconstructed the geometry and found that the object did not need to be travelling at extraordinary velocity. Instead, a relatively slow-moving airborne object could produce the same visual effect when viewed from a fast-moving jet. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/go-fast-footage-from-tom-delonges-to-the-stars-academy-bird-balloon.9569/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">go fast footage from tom delonges to the stars academy bird balloon.9569</span><span class="citation-popover-snippet">GO FAST&quot; Footage from Tom DeLonge&#x27;s To The Stars...9 Mar 2018 — parallax effect. With this model, the speed of the object could be anyt...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/nasa-panel-analyzes-go-fast.13174/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">nasa panel analyzes go fast.13174</span><span class="citation-popover-snippet">NASA panel analyzes GO FAST19 Sept 2023 — Given that the aircraft&#x27;s groundspeed is about 435 mph, we may conclude that the impres...</span></span></span>
 
 An important point often overlooked in discussions of the clip is that screen motion and physical motion are different quantities. The object moves noticeably against the ocean backdrop in the video, but that does not automatically reveal its true speed through the air. Determining actual velocity requires knowledge of range, altitude, aircraft position and line-of-sight geometry. Without those factors, visual intuition can be highly misleading. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_gofast_parallax_spee_972ef5-Illustration-2-dark.svg" | relative_url }}" alt="Go Fast illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_gofast_parallax_spee_972ef5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_gofast_parallax_spee_972ef5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Reconstructing the geometry
@@ -315,9 +312,6 @@ Analysts examined information embedded in the display, including the aircraft al
 Those calculations suggested that the object was not skimming the waves at extreme speed. Instead, it was likely thousands of feet above the ocean. Once that altitude is taken into account, the apparent rapid motion across the water becomes much less remarkable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
 
 The result does not prove the object's identity. It does, however, demonstrate that the extraordinary-speed interpretation is not required by the available data.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PLyEO0jNt6M" title="Explained: &quot;Go Fast&quot; UFO Video - Not Low and Not Fast - Like a Balloon!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PLyEO0jNt6M" target="_blank" rel="noopener noreferrer">Explained: &quot;Go Fast&quot; UFO Video - Not Low and Not Fast - Like a Balloon!</a></p><p class="youtube-embed-meta">Channel: Mick West &middot; Views: 154.3K &middot; Uploaded: June 2019 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PLyEO0jNt6M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PLyEO0jNt6M">Open on YouTube</a></p></div></div></div>
 
 ## What AARO could and could not determine
 
@@ -334,17 +328,14 @@ As a result, two conclusions can coexist:
 
 That combination is common in UFO investigations. A report may lose its most extraordinary feature while still lacking enough information for a complete identification.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_gofast_parallax_spee_972ef5-Illustration-3-dark.svg" | relative_url }}" alt="Go Fast illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_gofast_parallax_spee_972ef5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_gofast_parallax_spee_972ef5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the GoFast case shows about UFO evidence
 
-GoFast has become a textbook example of why sensor footage must be interpreted cautiously. The video records a genuine tracked object, but the most dramatic claim associated with it—the appearance of tremendous speed—depends heavily on perspective and observer motion. Reconstructing the geometry changes the story from one of apparent extraordinary performance to one of ambiguous identification. AARO <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-snippet">PBS3 ways scientists use math to help debunk UFO videos24 Apr 2025 — Semeter helped analyze one particular video called &quot;GO FAST,&quot; where...</span></span></span>
+GoFast has become a textbook example of why sensor footage must be interpreted cautiously. The video records a genuine tracked object, but the most dramatic claim associated with it—the appearance of tremendous speed—depends heavily on perspective and observer motion. Reconstructing the geometry changes the story from one of apparent extraordinary performance to one of ambiguous identification. AARO <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-snippet">3 ways scientists use math to help debunk UFO videos24 Apr 2025 — Semeter helped analyze one particular video called &quot;GO FAST,&quot; where...</span></span></span>
 
 For the study of IFOs, the lesson is not that every unusual video is solved, nor that every sensor track is a mistake. Rather, it demonstrates how easily apparent motion can be confused with actual motion. When range, altitude and platform movement are properly accounted for, some of the most striking UFO footage can turn out to be illustrating a well-understood optical effect rather than an object performing impossible manoeuvres. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/go-fast-footage-from-tom-delonges-to-the-stars-academy-bird-balloon.9569/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">go fast footage from tom delonges to the stars academy bird balloon.9569</span><span class="citation-popover-snippet">GO FAST&quot; Footage from Tom DeLonge&#x27;s To The Stars...9 Mar 2018 — parallax effect. With this model, the speed of the object could be anyt...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mvsU4p0Gsas" title="Breaking Down UAP Footage with the Head of The Pentagon’s UAP Taskforce, Dr. Jon Kosloski" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mvsU4p0Gsas" target="_blank" rel="noopener noreferrer">Breaking Down UAP Footage with the Head of The Pentagon’s UAP Taskforce, Dr. Jon Kosloski</a></p><p class="youtube-embed-meta">Channel: StarTalk</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mvsU4p0Gsas" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mvsU4p0Gsas">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PLyEO0jNt6M" title="Explained: &quot;Go Fast&quot; UFO Video - Not Low and Not Fast - Like a Balloon!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PLyEO0jNt6M" target="_blank" rel="noopener noreferrer">Explained: &quot;Go Fast&quot; UFO Video - Not Low and Not Fast - Like a Balloon!</a></p><p class="youtube-embed-meta">Channel: Mick West &middot; Views: 154.3K &middot; Uploaded: June 2019 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PLyEO0jNt6M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PLyEO0jNt6M">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -463,15 +454,15 @@ For the study of IFOs, the lesson is not that every unusual video is solved, nor
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-why-go-fast-looked-faster-than-it-was-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="go-fast-why-go-fast-looked-faster-than-it-was-ifos-causes-of-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:72 Scale F-14 Tomcat Fighter Jet Model Aircraft Detailed Design with stand"><img src="{{ '/assets/images/marketplace-covers/d26c6f404c1c432747a9.jpg' | relative_url }}" alt="Listing image for 1:72 Scale F-14 Tomcat Fighter Jet Model Aircraft Detailed Design with stand" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gofast-looked-faster-than-it-was-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="why-gofast-looked-faster-than-it-was-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/72 Mig 21 Diecast Aircraft Model Camouflage Alloy Fighter Jet with Stand"><img src="https://i.ebayimg.com/images/g/nAsAAeSwEY9o1RrQ/s-l225.jpg" alt="Listing image for 1/72 Mig 21 Diecast Aircraft Model Camouflage Alloy Fighter Jet with Stand" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-why-go-fast-looked-faster-than-it-was-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="go-fast-why-go-fast-looked-faster-than-it-was-ifos-causes-of-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">1:72 Scale F-14 Tomcat Fighter Jet Model Aircraft Detailed Design with stand</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gofast-looked-faster-than-it-was-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="why-gofast-looked-faster-than-it-was-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">1/72 Mig 21 Diecast Aircraft Model Camouflage Alloy Fighter Jet with Stand</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-why-go-fast-looked-faster-than-it-was-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="go-fast-why-go-fast-looked-faster-than-it-was-ifos-causes-of-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search <span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gofast-looked-faster-than-it-was-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="why-gofast-looked-faster-than-it-was-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search <span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-why-go-fast-looked-faster-than-it-was-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="go-fast-why-go-fast-looked-faster-than-it-was-ifos-causes-of-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gofast-looked-faster-than-it-was-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="why-gofast-looked-faster-than-it-was-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -479,15 +470,15 @@ For the study of IFOs, the lesson is not that every unusual video is solved, nor
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-why-go-fast-looked-faster-than-it-was-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="go-fast-why-go-fast-looked-faster-than-it-was-ifos-causes-of-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/100 Scale A-10 Thunderbolt II Warthog Diecast Metal Fighter Jet Model"><img src="{{ '/assets/images/marketplace-covers/9abce767e13e82bc0d13.jpg' | relative_url }}" alt="Listing image for 1/100 Scale A-10 Thunderbolt II Warthog Diecast Metal Fighter Jet Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gofast-looked-faster-than-it-was-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="why-gofast-looked-faster-than-it-was-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/100 Scale A-10 Thunderbolt II Warthog Diecast Metal Fighter Jet Model"><img src="https://i.ebayimg.com/images/g/qjAAAOSwmXpoTA~u/s-l225.jpg" alt="Listing image for 1/100 Scale A-10 Thunderbolt II Warthog Diecast Metal Fighter Jet Model" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-why-go-fast-looked-faster-than-it-was-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="go-fast-why-go-fast-looked-faster-than-it-was-ifos-causes-of-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">1/100 Scale A-10 Thunderbolt II Warthog Diecast Metal Fighter Jet Model</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gofast-looked-faster-than-it-was-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="why-gofast-looked-faster-than-it-was-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">1/100 Scale A-10 Thunderbolt II Warthog Diecast Metal Fighter Jet Model</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-why-go-fast-looked-faster-than-it-was-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="go-fast-why-go-fast-looked-faster-than-it-was-ifos-causes-of-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search <span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gofast-looked-faster-than-it-was-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="why-gofast-looked-faster-than-it-was-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search <span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-why-go-fast-looked-faster-than-it-was-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="go-fast-why-go-fast-looked-faster-than-it-was-ifos-causes-of-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gofast-looked-faster-than-it-was-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="why-gofast-looked-faster-than-it-was-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -495,15 +486,15 @@ For the study of IFOs, the lesson is not that every unusual video is solved, nor
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-why-go-fast-looked-faster-than-it-was-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="go-fast-why-go-fast-looked-faster-than-it-was-ifos-causes-of-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/100 NUOTIE SU-57 Fighter Jet Diecast Alloy Model Splinter Camo White Blue"><img src="{{ '/assets/images/marketplace-covers/4b30c0d6288b26daac7b.jpg' | relative_url }}" alt="Listing image for 1/100 NUOTIE SU-57 Fighter Jet Diecast Alloy Model Splinter Camo White Blue" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gofast-looked-faster-than-it-was-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="why-gofast-looked-faster-than-it-was-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:100 US Navy F/A-18 Diecast Model Jet - Alloy Fighter with Stand"><img src="https://i.ebayimg.com/images/g/1wkAAeSweJZoaoKZ/s-l225.jpg" alt="Listing image for 1:100 US Navy F/A-18 Diecast Model Jet - Alloy Fighter with Stand" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-why-go-fast-looked-faster-than-it-was-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="go-fast-why-go-fast-looked-faster-than-it-was-ifos-causes-of-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">1/100 NUOTIE SU-57 Fighter Jet Diecast Alloy Model Splinter Camo White Blue</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gofast-looked-faster-than-it-was-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="why-gofast-looked-faster-than-it-was-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">1:100 US Navy F/A-18 Diecast Model Jet - Alloy Fighter with Stand</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-why-go-fast-looked-faster-than-it-was-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="go-fast-why-go-fast-looked-faster-than-it-was-ifos-causes-of-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search <span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gofast-looked-faster-than-it-was-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="why-gofast-looked-faster-than-it-was-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search <span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-why-go-fast-looked-faster-than-it-was-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="go-fast-why-go-fast-looked-faster-than-it-was-ifos-causes-of-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gofast-looked-faster-than-it-was-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="why-gofast-looked-faster-than-it-was-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -511,15 +502,15 @@ For the study of IFOs, the lesson is not that every unusual video is solved, nor
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-why-go-fast-looked-faster-than-it-was-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="go-fast-why-go-fast-looked-faster-than-it-was-ifos-causes-of-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:100 F-14 VF-84 Tomcat Jolly Rogers Fighter Jet Aircraft Diecast Model US Navy"><img src="{{ '/assets/images/marketplace-covers/6a1f107505f4e8ba24cf.jpg' | relative_url }}" alt="Listing image for 1:100 F-14 VF-84 Tomcat Jolly Rogers Fighter Jet Aircraft Diecast Model US Navy" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gofast-looked-faster-than-it-was-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="why-gofast-looked-faster-than-it-was-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:72 F/A-18F Super Hornet Fighter Jet Aircraft Model USAF VFA-103 Jolly Roger"><img src="https://i.ebayimg.com/images/g/cwsAAeSwHPhqB2G3/s-l225.jpg" alt="Listing image for 1:72 F/A-18F Super Hornet Fighter Jet Aircraft Model USAF VFA-103 Jolly Roger" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-why-go-fast-looked-faster-than-it-was-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="go-fast-why-go-fast-looked-faster-than-it-was-ifos-causes-of-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">1:100 F-14 VF-84 Tomcat Jolly Rogers Fighter Jet Aircraft Diecast Model US Navy</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gofast-looked-faster-than-it-was-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="why-gofast-looked-faster-than-it-was-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">1:72 F/A-18F Super Hornet Fighter Jet Aircraft Model USAF VFA-103 Jolly Roger</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-why-go-fast-looked-faster-than-it-was-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="go-fast-why-go-fast-looked-faster-than-it-was-ifos-causes-of-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search <span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gofast-looked-faster-than-it-was-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="why-gofast-looked-faster-than-it-was-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search <span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-why-go-fast-looked-faster-than-it-was-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="go-fast-why-go-fast-looked-faster-than-it-was-ifos-causes-of-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gofast-looked-faster-than-it-was-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="why-gofast-looked-faster-than-it-was-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -527,7 +518,7 @@ For the study of IFOs, the lesson is not that every unusual video is solved, nor
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-why-go-fast-looked-faster-than-it-was-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="go-fast-why-go-fast-looked-faster-than-it-was-ifos-causes-of-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gofast-looked-faster-than-it-was-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="why-gofast-looked-faster-than-it-was-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -743,108 +734,108 @@ For the study of IFOs, the lesson is not that every unusual video is solved, nor
 1. <a id="endnote-1"></a>
    Source: aaro.mil  
    Title: Go Fast Case Resolution  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf](https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROAARO GoFast Case ResolutionFebruary 24, 2025 — 6 Feb 2025 — 5 mph - 92 mph. The video appeared to show the object moving at high spee...</p></details>
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO GoFast Case ResolutionFebruary 24, 2025 — 6 Feb 2025 — 5 mph - 92 mph. The video appeared to show the object moving at high spee...</p></details>
    Published: February 24, 2025  
 
 2. <a id="endnote-2"></a>
    Source: metabunk.org  
    Title: nasa panel analyzes go fast.13174  
-   Link: [https://www.metabunk.org/threads/nasa-panel-analyzes-go-fast.13174/](https://www.metabunk.org/threads/nasa-panel-analyzes-go-fast.13174/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MetabunkNASA panel analyzes GO FAST19 Sept 2023 — Given that the aircraft&#x27;s groundspeed is about 435 mph, we may conclude that the impres...</p></details>
+   Link: <a href="https://www.metabunk.org/threads/nasa-panel-analyzes-go-fast.13174/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/nasa-panel-analyzes-go-fast.13174/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA panel analyzes GO FAST19 Sept 2023 — Given that the aircraft&#x27;s groundspeed is about 435 mph, we may conclude that the impres...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pbs.org  
-   Link: [https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos](https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PBS3 ways scientists use math to help debunk UFO videos24 Apr 2025 — Semeter helped analyze one particular video called &quot;GO FAST,&quot; where...</p></details>
+   Link: <a href="https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>3 ways scientists use math to help debunk UFO videos24 Apr 2025 — Semeter helped analyze one particular video called &quot;GO FAST,&quot; where...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Pentagon UFO videos  
-   Link: [https://en.wikipedia.org/wiki/Pentagon_UFO_videos](https://en.wikipedia.org/wiki/Pentagon_UFO_videos)  
+   Link: <a href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pentagon_UFO_videos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO videosThe Pentagon UFO videos are selected visual recordings of Forward-looking infrared (FLIR) targeting cameras from Un...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Parallax](https://en.wikipedia.org/wiki/Parallax)  
+   Link: <a href="https://en.wikipedia.org/wiki/Parallax" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Parallax</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>April 9, 2026 — Parallax is a displacement or difference in the apparent position of an object viewed along two different lines of sightR...</p></details>
    Published: April 9, 2026  
 
 6. <a id="endnote-6"></a>
    Source: metabunk.org  
    Title: go fast footage from tom delonges to the [stars](&#123;&#123; 'stars/' | relative_url &#125;&#125;) academy bird balloon.9569  
-   Link: [https://www.metabunk.org/threads/go-fast-footage-from-tom-delonges-to-the-stars-academy-bird-balloon.9569/](https://www.metabunk.org/threads/go-fast-footage-from-tom-delonges-to-the-stars-academy-bird-balloon.9569/)  
+   Link: <a href="https://www.metabunk.org/threads/go-fast-footage-from-tom-delonges-to-the-stars-academy-bird-balloon.9569/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/go-fast-footage-from-tom-delonges-to-the-stars-academy-bird-balloon.9569/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;GO FAST&quot; Footage from Tom DeLonge&#x27;s To The Stars...9 Mar 2018 — parallax effect. With this model, the speed of the object could be anyt...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/](https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/</a>  
 
 8. <a id="endnote-8"></a>
    Source: ufotransparency.com  
    Title: An Intelligence Community pixel analysis estimated  
-   Link: [https://ufotransparency.com/files/decade-2020s-aaro-gofast-case-resolution-2025-aaro-gofast-case-resolution-card-methodology-final](https://ufotransparency.com/files/decade-2020s-aaro-gofast-case-resolution-2025-aaro-gofast-case-resolution-card-methodology-final)  
+   Link: <a href="https://ufotransparency.com/files/decade-2020s-aaro-gofast-case-resolution-2025-aaro-gofast-case-resolution-card-methodology-final" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/decade-2020s-aaro-gofast-case-resolution-2025-aaro-gofast-case-resolution-card-methodology-final</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO TransparencyAARO Resolves Go Fast as Parallax, 2025, All-domain Anomaly...The apparent speed was attributed to motion parallax induc...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: theblackvault.com  
    Title: pentagon releases aaro report on go fast video analysis  
-   Link: [https://www.theblackvault.com/documentarchive/pentagon-releases-aaro-report-on-go-fast-video-analysis/](https://www.theblackvault.com/documentarchive/pentagon-releases-aaro-report-on-go-fast-video-analysis/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/pentagon-releases-aaro-report-on-go-fast-video-analysis/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/pentagon-releases-aaro-report-on-go-fast-video-analysis/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Releases AARO Report on &#x27;Go Fast&#x27; Video...Feb 10, 2025 — “The object&#x27;s apparent high speed is attributable to motion parallax...</p></details>
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/](https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>According to AARO&#x27;s new website, the FLIR, Gimbal and...Gimbal, and GoFast videos are “unresolved.” GoFast is mundane object with parall...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ufo/comments/1gwaqwk/speed_of_gofast/](https://www.reddit.com/r/ufo/comments/1gwaqwk/speed_of_gofast/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/1gwaqwk/speed_of_gofast/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1gwaqwk/speed_of_gofast/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Speed of GOFAST.: r/ufoThe approximate speed of the object is calculable by comparing the angle of the camera at the start and end of th...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DNRG7pJAsNm/?hl=en](https://www.instagram.com/reel/DNRG7pJAsNm/?hl=en)  
+   Link: <a href="https://www.instagram.com/reel/DNRG7pJAsNm/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DNRG7pJAsNm/?hl=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>StarTalk on Instagram: &quot;Is motion parallax the reason many...There&#x27;s nothing, but with the parallax, we can assess that the object is mo...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=diPXow8zgc8](https://www.youtube.com/watch?v=diPXow8zgc8)  
+   Link: <a href="https://www.youtube.com/watch?v=diPXow8zgc8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=diPXow8zgc8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How scientists use math to help explain UFO videosNASA and the US government have turned to math and science publicly to help show how se...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/](https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Wind speed at that altitude was 60 knots. Object moved in a relatively straight...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: nypost.com  
    Title: pentagon claims to debunk famous gofast ufo [radar](&#123;&#123; 'radar/' | relative_url &#125;&#125;) video  
-   Link: [https://nypost.com/2024/11/20/us-news/pentagon-claims-to-debunk-famous-gofast-ufo-radar-video/](https://nypost.com/2024/11/20/us-news/pentagon-claims-to-debunk-famous-gofast-ufo-radar-video/)  
+   Link: <a href="https://nypost.com/2024/11/20/us-news/pentagon-claims-to-debunk-famous-gofast-ufo-radar-video/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/11/20/us-news/pentagon-claims-to-debunk-famous-gofast-ufo-radar-video/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon claims to debunk famous &#x27;GOFAST&#x27; UFO radar...20 Nov 2024 — The “GOFAST” video shows a radar recording of an object that appeare...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: defensescoop.com  
    Title: uap aaro findings go fast [puerto rico](&#123;&#123; 'puerto-rico/' | relative_url &#125;&#125;) mt etna objects  
-   Link: [https://defensescoop.com/2024/11/19/uap-aaro-findings-go-fast-puerto-rico-mt-etna-objects/](https://defensescoop.com/2024/11/19/uap-aaro-findings-go-fast-puerto-rico-mt-etna-objects/)  
+   Link: <a href="https://defensescoop.com/2024/11/19/uap-aaro-findings-go-fast-puerto-rico-mt-etna-objects/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2024/11/19/uap-aaro-findings-go-fast-puerto-rico-mt-etna-objects/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon&#x27;s UAP office reviews findings on Go Fast, Puerto...19 Nov 2024 — The head of the Defense Department&#x27;s All-Domain Anomaly Resolu...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: space.com  
    Title: "We do have some very anomalous objects," he said  
-   Link: [https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video](https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video)  
+   Link: <a href="https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO chief tells Senate &#x27;very anomalous objects&#x27;...Nov 19, 2024 — Kosloski noted that his office does not believe that every UAP...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: aol.com  
-   Link: [https://www.aol.com/pentagon-claims-debunk-famous-gofast-043921996.html](https://www.aol.com/pentagon-claims-debunk-famous-gofast-043921996.html)  
+   Link: <a href="https://www.aol.com/pentagon-claims-debunk-famous-gofast-043921996.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/pentagon-claims-debunk-famous-gofast-043921996.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ar “GOFAST” video, saying that the attention was unwarranted for the footage...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: vice.com  
    Title: the skeptics guide to the pentagons ufo videos  
-   Link: [https://www.vice.com/en/article/the-skeptics-guide-to-the-pentagons-ufo-videos/](https://www.vice.com/en/article/the-skeptics-guide-to-the-pentagons-ufo-videos/)  
+   Link: <a href="https://www.vice.com/en/article/the-skeptics-guide-to-the-pentagons-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/the-skeptics-guide-to-the-pentagons-ufo-videos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Skeptic&#x27;s Guide to the Pentagon&#x27;s UFO Videos6 May 2020 — West thinks GOFAST is a balloon tracked by a camera and given unnatural spee...</p></details>
-   Published: May 2020  
+   Published: May 2020

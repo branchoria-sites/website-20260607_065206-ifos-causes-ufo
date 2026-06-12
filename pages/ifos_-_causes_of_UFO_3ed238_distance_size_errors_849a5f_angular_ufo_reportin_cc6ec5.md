@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_fireballs_nearby_ill_7099b5
 - ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_silent_objects_size_4891c8
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - size-errors
 - angular-clues
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - size-errors
 - angular-clues
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Reports are stronger when witnesses describe angles, timing, direction, and reference points before estimating size or speed.
 hero_summary: Reports are stronger when witnesses describe angles, timing, direction, and reference points before estimating size or speed.
 layout: default
 permalink: /angular-clues/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /size-errors/
 nav_short_title: Angular Clues
 title: The Better Way To Describe A UFO
-title_full: The Better Way To Describe A UFO | Size Errors
+title_full: The Better Way To Describe A UFO
 display_title_short: Angular Clues
 display_title: Angular Clues
 heading_title: The Better Way To Describe A UFO
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 21:39:52'
-parent_title: Why Honest Witnesses Misjudge UFOs | IFOs
+parent_title: Why Honest Witnesses Misjudge UFOs
 parent_permalink: /size-errors/
 parent_nav_short_title: Size Errors
 parent_heading_title: Why Honest Witnesses Misjudge UFOs
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f
-  title: Size Errors | Ifos Causes Of
+  title: Size Errors | ifos causes of UFO 3 ed 238
   permalink: /size-errors/
   short_title: Size Errors
   heading_title: Why Honest Witnesses Misjudge UFOs
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f
-  title: Size Errors | Ifos Causes Of
+  title: Size Errors | ifos causes of UFO 3 ed 238
   permalink: /size-errors/
   short_title: Size Errors
   heading_title: Why Honest Witnesses Misjudge UFOs
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: Does Silence Mean A UFO Was Huge?
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f
-  title: Size Errors | Ifos Causes Of
+  title: Size Errors | ifos causes of UFO 3 ed 238
   permalink: /size-errors/
   short_title: Size Errors
   heading_title: Why Honest Witnesses Misjudge UFOs
@@ -260,6 +259,7 @@ next_link:
   permalink: /balloons-7d72d9/
   short_title: Balloons
   heading_title: When A Balloon Becomes A Giant Craft
+date: '2026-06-12 00:50:40 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_angular_ufo_reportin_cc6ec5-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_angular_ufo_reportin_cc6ec5-Illustration-1.webp
@@ -268,8 +268,7 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_an
 
 ## Introduction
 
-When people report a UFO, the most valuable information is often not a guess about how large, fast or distant the object was. Those estimates depend on knowing the [range]({{ 'range/' | relative_url }}) to the object, and range is usually the least certain part of a sky observation. A report becomes much more useful when it preserves what was directly seen: how much sky the object covered, where it appeared relative to landmarks, how long it remained visible, and how it moved against known reference points. Investigators from Allan Hendry's classic UFO fieldwork through modern UAP studies by NASA and the All-domain Anomaly Resolution Office (AARO) have repeatedly stressed that angular observations are often more reliable than [witness estimates]({{ 'witness-limits/' | relative_url }}) of physical size or speed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2018/11/ufo-identification-process/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerUFO Identification ProcessNovember 1, 2018 — As UFO investigator Allan Hendry (1979, 6) aptly noted, “We only get to st...</span><span class="citation-popover-meta">Published: November 1, 2018</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Parallax effects cause the object to be.Read more</span><span class="citation-popover-snippet">AAROEffect of Forced Perspective and Parallax View on UAP...As the airborne observer moves from position 1 to 2 to 3 in the air, they vi...</span></span></span>
-
+When people report a UFO, the most valuable information is often not a guess about how large, fast or distant the object was. Those estimates depend on knowing the [range]({{ 'range/' | relative_url }}) to the object, and range is usually the least certain part of a sky observation. A report becomes much more useful when it preserves what was directly seen: how much sky the object covered, where it appeared relative to landmarks, how long it remained visible, and how it moved against known reference points. Investigators from Allan Hendry's classic UFO fieldwork through modern UAP studies by NASA and the All-domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})) have repeatedly stressed that angular observations are often more reliable than witness estimates of physical size or speed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2018/11/ufo-identification-process/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerUFO Identification ProcessNovember 1, 2018 — As UFO investigator Allan Hendry (1979, 6) aptly noted, “We only get to st...</span><span class="citation-popover-meta">Published: November 1, 2018</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Parallax effects cause the object to be.Read more</span><span class="citation-popover-snippet">Effect of Forced Perspective and Parallax View on UAP...As the airborne observer moves from position 1 to 2 to 3 in the air, they vi...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_angular_ufo_reportin_cc6ec5-Illustration-1-dark.svg" | relative_url }}" alt="Angular Clues illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_angular_ufo_reportin_cc6ec5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_angular_ufo_reportin_cc6ec5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 In the context of sincere UFO reports, angular measurements help separate observation from interpretation. They preserve evidence that can later be compared with aircraft tracks, astronomical objects, balloons, [satellites]({{ 'satellites/' | relative_url }}) and other potential explanations.
@@ -281,7 +280,6 @@ A witness sees an object as an angle in the sky. The eye does not directly measu
 This distinction is crucial because a mistaken distance estimate automatically distorts size and speed estimates. A small nearby object and a large distant object can occupy the same angular size in the observer's field of view. Likewise, a slow object nearby can appear to cross the sky as quickly as a much faster object farther away. Investigators have long noted that distance, size and speed estimates are tightly linked, making them unreliable when range is unknown. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2018/11/ufo-identification-process/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerUFO Identification ProcessNovember 1, 2018 — As UFO investigator Allan Hendry (1979, 6) aptly noted, “We only get to st...</span><span class="citation-popover-meta">Published: November 1, 2018</span></span></span>
 
 A stronger report therefore begins with statements such as:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -305,7 +303,7 @@ Astronomers routinely use angular measurements because they are directly observa
 * The width of a nearby building.
 * The spacing between visible [stars]({{ 'stars/' | relative_url }}).
 
-[AARO]({{ 'aaro/' | relative_url }})'s discussion of forced perspective highlights why this matters. An object with a fixed angular appearance can correspond to dramatically different physical sizes depending on its true range. The farther away the observer assumes it is, the larger the inferred object becomes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/2025_UAP_Workshop_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO2025 UAP Workshop: Narrative Data, Infrastructures, and...February 12, 2026 — Ask witnesses to explain how they estimated size, dist...</span><span class="citation-popover-meta">Published: February 12, 2026</span></span></span>
+AARO's discussion of forced perspective highlights why this matters. An object with a fixed angular appearance can correspond to dramatically different physical sizes depending on its true range. The farther away the observer assumes it is, the larger the inferred object becomes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/2025_UAP_Workshop_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">2025 UAP Workshop: Narrative Data, Infrastructures, and...February 12, 2026 — Ask witnesses to explain how they estimated size, dist...</span><span class="citation-popover-meta">Published: February 12, 2026</span></span></span>
 
 Consider two witness statements:
 
@@ -314,13 +312,9 @@ Consider two witness statements:
 
 The second statement is generally more useful. Future investigators can combine that angular estimate with [radar]({{ 'radar/' | relative_url }}) data, photographs, astronomical records or other information. The first statement already contains an uncertain distance assumption.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rsXSBp2brm8" title="Who is Tony Stark? | Why Shane Black&#x27;s Iron Man 3 is an Underrated Masterpiece" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rsXSBp2brm8" target="_blank" rel="noopener noreferrer">Who is Tony Stark? | Why Shane Black&#x27;s Iron Man 3 is an Underrated Masterpiece</a></p><p class="youtube-embed-meta">Channel: TheFilmProtagonist</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rsXSBp2brm8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rsXSBp2brm8">Open on YouTube</a></p></div></div></div>
-
 ### Simple Ways Witnesses Can Record Angular Size
 
 Useful descriptions include:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -345,7 +339,6 @@ This issue appears repeatedly in modern UAP investigations. AARO has emphasised 
 
 The practical lesson is straightforward. Witnesses should describe:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Start and end positions.
@@ -358,14 +351,12 @@ The practical lesson is straightforward. Witnesses should describe:
 
 These details allow later calculations. A speed estimate made on the spot often cannot be independently checked.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_angular_ufo_reportin_cc6ec5-Illustration-2-dark.svg" | relative_url }}" alt="Angular Clues illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_angular_ufo_reportin_cc6ec5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_angular_ufo_reportin_cc6ec5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Timing Matters More Than Speed Estimates
 
 A stopwatch reading, phone timestamp or even a careful count of seconds can greatly improve a report.
 
 For example:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -393,34 +384,28 @@ These references provide geometric context that survives long after the event.
 
 NASA's UAP study stressed the importance of collecting better observational data because many reports lack the information needed for rigorous analysis. Precise positional descriptions help preserve information that can later be reconstructed or tested. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe study of Unidentified Anomalous Phenomena (UAP) presents a unique scientific opportunity tha...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/X4r05xO4Vds" title="The Mystery of Angelina Frood by R. Austin Freeman | Detective Fiction Full Audiobook" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=X4r05xO4Vds" target="_blank" rel="noopener noreferrer">The Mystery of Angelina Frood by R. Austin Freeman | Detective Fiction Full Audiobook</a></p><p class="youtube-embed-meta">Channel: Storytime Haven</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=X4r05xO4Vds" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=X4r05xO4Vds">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_angular_ufo_reportin_cc6ec5-Illustration-3-dark.svg" | relative_url }}" alt="Angular Clues illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_angular_ufo_reportin_cc6ec5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_angular_ufo_reportin_cc6ec5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Direction Of Travel
 
 Direction is often overlooked but can be extremely valuable.
 
 Instead of saying “it moved quickly”, a stronger report records:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * North to south.
 * West to east.
 * Towards the observer.
-* Away from the observer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Parallax effects cause the object to be.Read more</span><span class="citation-popover-snippet">AAROEffect of Forced Perspective and Parallax View on UAP...As the airborne observer moves from position 1 to 2 to 3 in the air, they vi...</span></span></span>
+* Away from the observer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Parallax effects cause the object to be.Read more</span><span class="citation-popover-snippet">Effect of Forced Perspective and Parallax View on UAP...As the airborne observer moves from position 1 to 2 to 3 in the air, they vi...</span></span></span>
 * Parallel to a visible horizon.
 
 </div>
 
 Combined with timing and angular movement, direction can help investigators compare a sighting with known flight paths, satellite passes or astronomical objects.
 
-
-<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_angular_ufo_reportin_cc6ec5-Illustration-3-dark.svg" | relative_url }}" alt="Angular Clues illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_angular_ufo_reportin_cc6ec5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_angular_ufo_reportin_cc6ec5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Elevation In The Sky
 
 Witnesses can also note approximate elevation:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -448,10 +433,6 @@ The reason is practical. Angular observations can later be combined with:
 Distance guesses made during a surprising event are much harder to verify.
 
 For sincere witnesses, this is not about doubting what they saw. It is about preserving the strongest evidence. A report that carefully records angles, timing, direction and reference points gives later investigators a chance to determine whether an unusual sighting was a balloon, aircraft, satellite, astronomical object, atmospheric phenomenon or something that remains unexplained. By keeping observation separate from interpretation, angular descriptions turn a fleeting visual experience into information that can actually be analysed.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DGKwdHMiqCg" title="Math Antics - Angle Basics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DGKwdHMiqCg" target="_blank" rel="noopener noreferrer">Math Antics - Angle Basics</a></p><p class="youtube-embed-meta">Channel: mathantics</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DGKwdHMiqCg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DGKwdHMiqCg">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -570,15 +551,15 @@ For sincere witnesses, this is not about doubting what they saw. It is about pre
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=angular-clues-the-better-way-to-describe-a-ufo-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="angular-clues-the-better-way-to-describe-a-ufo-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-better-way-to-describe-a-ufo-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="the-better-way-to-describe-a-ufo-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AD93 Vintage WWI 1916 German Rumpler Aviation Aircraft Motors Poster A3"><img src="https://i.ebayimg.com/images/g/Ih8AAMXQHxVRh2gW/s-l225.jpg" alt="Listing image for AD93 Vintage WWI 1916 German Rumpler Aviation Aircraft Motors Poster A3" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=angular-clues-the-better-way-to-describe-a-ufo-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="angular-clues-the-better-way-to-describe-a-ufo-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-better-way-to-describe-a-ufo-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="the-better-way-to-describe-a-ufo-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">AD93 Vintage WWI 1916 German Rumpler Aviation Aircraft Motors Poster A3</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=angular-clues-the-better-way-to-describe-a-ufo-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="angular-clues-the-better-way-to-describe-a-ufo-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-better-way-to-describe-a-ufo-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="the-better-way-to-describe-a-ufo-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=angular-clues-the-better-way-to-describe-a-ufo-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="angular-clues-the-better-way-to-describe-a-ufo-ifos-causes-of-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-better-way-to-describe-a-ufo-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="the-better-way-to-describe-a-ufo-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -586,15 +567,15 @@ For sincere witnesses, this is not about doubting what they saw. It is about pre
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=angular-clues-the-better-way-to-describe-a-ufo-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="angular-clues-the-better-way-to-describe-a-ufo-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-better-way-to-describe-a-ufo-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="the-better-way-to-describe-a-ufo-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RAF Aircraft Collection Poster A3 Royal Air Force Aircraft Identification Chart"><img src="https://i.ebayimg.com/images/g/g-IAAeSwToJqHykA/s-l225.jpg" alt="Listing image for RAF Aircraft Collection Poster A3 Royal Air Force Aircraft Identification Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=angular-clues-the-better-way-to-describe-a-ufo-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="angular-clues-the-better-way-to-describe-a-ufo-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-better-way-to-describe-a-ufo-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="the-better-way-to-describe-a-ufo-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">RAF Aircraft Collection Poster A3 Royal Air Force Aircraft Identification Chart</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=angular-clues-the-better-way-to-describe-a-ufo-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="angular-clues-the-better-way-to-describe-a-ufo-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-better-way-to-describe-a-ufo-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="the-better-way-to-describe-a-ufo-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=angular-clues-the-better-way-to-describe-a-ufo-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="angular-clues-the-better-way-to-describe-a-ufo-ifos-causes-of-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-better-way-to-describe-a-ufo-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="the-better-way-to-describe-a-ufo-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -602,15 +583,15 @@ For sincere witnesses, this is not about doubting what they saw. It is about pre
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=angular-clues-the-better-way-to-describe-a-ufo-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="angular-clues-the-better-way-to-describe-a-ufo-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1960s set of three UFO wall art"><img src="{{ '/assets/images/marketplace-covers/be68d6dc5e42b0f085ad.jpg' | relative_url }}" alt="Listing image for Vintage 1960s set of three UFO wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-better-way-to-describe-a-ufo-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="the-better-way-to-describe-a-ufo-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire aviation poster wall art print un framed various size options available"><img src="https://i.ebayimg.com/images/g/2Q0AAeSwRXpo1A63/s-l225.jpg" alt="Listing image for Spitfire aviation poster wall art print un framed various size options available" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=angular-clues-the-better-way-to-describe-a-ufo-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="angular-clues-the-better-way-to-describe-a-ufo-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vintage 1960s set of three UFO wall art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-better-way-to-describe-a-ufo-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="the-better-way-to-describe-a-ufo-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Spitfire aviation poster wall art print un framed various size options available</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=angular-clues-the-better-way-to-describe-a-ufo-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="angular-clues-the-better-way-to-describe-a-ufo-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-better-way-to-describe-a-ufo-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="the-better-way-to-describe-a-ufo-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=angular-clues-the-better-way-to-describe-a-ufo-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="angular-clues-the-better-way-to-describe-a-ufo-ifos-causes-of-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-better-way-to-describe-a-ufo-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="the-better-way-to-describe-a-ufo-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -618,15 +599,15 @@ For sincere witnesses, this is not about doubting what they saw. It is about pre
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=angular-clues-the-better-way-to-describe-a-ufo-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="angular-clues-the-better-way-to-describe-a-ufo-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-better-way-to-describe-a-ufo-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="the-better-way-to-describe-a-ufo-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Boeing Aviation Vintage Style Set Of 4 Prints Pictures Wall Art Poster"><img src="https://i.ebayimg.com/images/g/NC8AAeSwHJ5qKv86/s-l225.jpg" alt="Listing image for Boeing Aviation Vintage Style Set Of 4 Prints Pictures Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=angular-clues-the-better-way-to-describe-a-ufo-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="angular-clues-the-better-way-to-describe-a-ufo-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-better-way-to-describe-a-ufo-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="the-better-way-to-describe-a-ufo-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Boeing Aviation Vintage Style Set Of 4 Prints Pictures Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=angular-clues-the-better-way-to-describe-a-ufo-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="angular-clues-the-better-way-to-describe-a-ufo-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-better-way-to-describe-a-ufo-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="the-better-way-to-describe-a-ufo-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=angular-clues-the-better-way-to-describe-a-ufo-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="angular-clues-the-better-way-to-describe-a-ufo-ifos-causes-of-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-better-way-to-describe-a-ufo-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="the-better-way-to-describe-a-ufo-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -634,7 +615,7 @@ For sincere witnesses, this is not about doubting what they saw. It is about pre
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=angular-clues-the-better-way-to-describe-a-ufo-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="angular-clues-the-better-way-to-describe-a-ufo-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-better-way-to-describe-a-ufo-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="the-better-way-to-describe-a-ufo-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -850,122 +831,122 @@ For sincere witnesses, this is not about doubting what they saw. It is about pre
 1. <a id="endnote-1"></a>
    Source: aaro.mil  
    Title: Parallax effects cause the object to be.Read more  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROEffect of Forced Perspective and Parallax View on UAP...As the airborne observer moves from position 1 to 2 to 3 in the air, they vi...</p></details>
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Effect of Forced Perspective and Parallax View on UAP...As the airborne observer moves from position 1 to 2 to 3 in the air, they vi...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportThe study of Unidentified Anomalous Phenomena (UAP) presents a unique scientific opportunity tha...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/2025_UAP_Workshop_Paper.pdf](https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/2025_UAP_Workshop_Paper.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO2025 UAP Workshop: Narrative Data, Infrastructures, and...February 12, 2026 — Ask witnesses to explain how they estimated size, dist...</p></details>
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/2025_UAP_Workshop_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/2025_UAP_Workshop_Paper.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>2025 UAP Workshop: Narrative Data, Infrastructures, and...February 12, 2026 — Ask witnesses to explain how they estimated size, dist...</p></details>
    Published: February 12, 2026  
 
 4. <a id="endnote-4"></a>
    Source: aaro.org  
-   Link: [https://aaro.org/](https://aaro.org/)  
+   Link: <a href="https://aaro.org/" target="_blank" rel="noopener noreferrer nofollow">https://aaro.org/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Association of Americans Resident Overseas: AAROThe Association of Americans Resident Overseas (AARO), founded in 1973 is a global, non-p...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s effo...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Resources/](https://www.aaro.mil/Resources/)  
+   Link: <a href="https://www.aaro.mil/Resources/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Resources/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ResourcesEffect of Forced Perspective and Parallax View on UAP Observations · Correlations of [Starlink](&amp;#123;&amp;#123; &#x27;starlink/&#x27; | relative_url &amp;#125;&amp;#125;) Satellite Flaring with UAP Observa...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: aaro.com  
    Title: Your Partner in Group Reporting | CPM software & more  
-   Link: [https://aaro.com/en/](https://aaro.com/en/)  
+   Link: <a href="https://aaro.com/en/" target="_blank" rel="noopener noreferrer nofollow">https://aaro.com/en/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Complete software, wide range of services, online support...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/2018/11/ufo-identification-process/](https://skepticalinquirer.org/2018/11/ufo-identification-process/)  
+   Link: <a href="https://skepticalinquirer.org/2018/11/ufo-identification-process/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2018/11/ufo-identification-process/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical InquirerUFO Identification ProcessNovember 1, 2018 — As UFO investigator Allan Hendry (1979, 6) aptly noted, “We only get to st...</p></details>
    Published: November 1, 2018  
 
 9. <a id="endnote-9"></a>
    Source: skepticalinquirer.org  
    Title: Skeptical Inquirer UFO Identification Process Why Humanoid Aliens?  
-   Link: [https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-ND-18.pdf](https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-ND-18.pdf)  
+   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-ND-18.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-ND-18.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO investigator Allan. Hendry (1979, 6) aptly noted, “We only get to study reports of UFOs—not the UFOs themselves.” There i...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: theblackvault.com  
    Title: aaro explores forced perspective and parallax in new uap analysis paper  
-   Link: [https://www.theblackvault.com/documentarchive/aaro-explores-forced-perspective-and-parallax-in-new-uap-analysis-paper/](https://www.theblackvault.com/documentarchive/aaro-explores-forced-perspective-and-parallax-in-new-uap-analysis-paper/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/aaro-explores-forced-perspective-and-parallax-in-new-uap-analysis-paper/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/aaro-explores-forced-perspective-and-parallax-in-new-uap-analysis-paper/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>When viewed from a moving vantage point, a stationary...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: documents.theblackvault.com  
-   Link: [https://documents.theblackvault.com/documents/ufos/Brazil/CENDOC_ENVELOPE_12_1979.pdf](https://documents.theblackvault.com/documents/ufos/Brazil/CENDOC_ENVELOPE_12_1979.pdf)  
+   Link: <a href="https://documents.theblackvault.com/documents/ufos/Brazil/CENDOC_ENVELOPE_12_1979.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/Brazil/CENDOC_ENVELOPE_12_1979.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOS. SPA. VE. New. Zed visitors? AIK FURUE. Indignant [pilots](&amp;#123;&amp;#123; &#x27;pilots/&#x27; | relative_url &amp;#125;&amp;#125;) say. UFO report. Cover-up. PUT ON UF. ERT. Experts. Doubt. UFO. Claim. UFO写...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/video/992262/pr-013-unresolved-uap-report-europe-2022](https://www.dvidshub.net/video/992262/pr-013-unresolved-uap-report-europe-2022)  
+   Link: <a href="https://www.dvidshub.net/video/992262/pr-013-unresolved-uap-report-europe-2022" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/992262/pr-013-unresolved-uap-report-europe-2022</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PR-013, Unresolved UAP Report, Europe 2022This unresolved report contributes to AARO&#x27;s historical and locational trend analyses. VIDEO IN...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/341443875_Aliens_and_Unidentified_Aerial_Phenomena](https://www.researchgate.net/publication/341443875_Aliens_and_Unidentified_Aerial_Phenomena)  
+   Link: <a href="https://www.researchgate.net/publication/341443875_Aliens_and_Unidentified_Aerial_Phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/341443875_Aliens_and_Unidentified_Aerial_Phenomena</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Aliens and Unidentified Aerial PhenomenaThe key similarities between UFO sightings and their long and continuous history recorded b...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/32089490/UFO_Reports_by_Time_of_the_Day](https://www.academia.edu/32089490/UFO_Reports_by_Time_of_the_Day)  
+   Link: <a href="https://www.academia.edu/32089490/UFO_Reports_by_Time_of_the_Day" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/32089490/UFO_Reports_by_Time_of_the_Day</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) UFO Reports by Time of the DayA brief research note on the frequency of UFO reports plotted by time of the day in the FOTOCAT database...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/](https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO has resolved the &quot;Go Fast&quot; UAP: r/UFOsGo Fast explanation: paralax Object altitude 13.000 ft, speed 45mph / 39 knots. Wind speed at...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: cufos.org  
-   Link: [https://cufos.org/PDFs/IUR%20issues/IUR%20Vol.%205%20No.%201%20Jan.%201980.pdf](https://cufos.org/PDFs/IUR%20issues/IUR%20Vol.%205%20No.%201%20Jan.%201980.pdf)  
+   Link: <a href="https://cufos.org/PDFs/IUR%20issues/IUR%20Vol.%205%20No.%201%20Jan.%201980.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/IUR%20issues/IUR%20Vol.%205%20No.%201%20Jan.%201980.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>INTERNATIONAT REPORTERHOIY WE LEARN OF UFOS: UFO reoorts reach us from news departm&#x27;ents, civilian organizations and individuals all over...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/profile/Tim-Lomas/publication/390980555_The_UAP_Assessment_Matrix_A_proposed_framework_for_evaluating_evidence_and_understanding_regarding_Unidentified_Anomalous_Phenomena/links/681e7cc9df0e3f544f533a8f/The-UAP-Assessment-Matrix-A-proposed-framework-for-evaluating-evidence-and-understanding-regarding-Unidentified-Anomalous-Phenomena.pdf](https://www.researchgate.net/profile/Tim-Lomas/publication/390980555_The_UAP_Assessment_Matrix_A_proposed_framework_for_evaluating_evidence_and_understanding_regarding_Unidentified_Anomalous_Phenomena/links/681e7cc9df0e3f544f533a8f/The-UAP-Assessment-Matrix-A-proposed-framework-for-evaluating-evidence-and-understanding-regarding-Unidentified-Anomalous-Phenomena.pdf)  
+   Link: <a href="https://www.researchgate.net/profile/Tim-Lomas/publication/390980555_The_UAP_Assessment_Matrix_A_proposed_framework_for_evaluating_evidence_and_understanding_regarding_Unidentified_Anomalous_Phenomena/links/681e7cc9df0e3f544f533a8f/The-UAP-Assessment-Matrix-A-proposed-framework-for-evaluating-evidence-and-understanding-regarding-Unidentified-Anomalous-Phenomena.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Tim-Lomas/publication/390980555_The_UAP_Assessment_Matrix_A_proposed_framework_for_evaluating_evidence_and_understanding_regarding_Unidentified_Anomalous_Phenomena/links/681e7cc9df0e3f544f533a8f/The-UAP-Assessment-Matrix-A-proposed-framework-for-evaluating-evidence-and-understanding-regarding-Unidentified-Anomalous-Phenomena.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The UAP Assessment MatrixIn its latest report in November 2024, AARO stated that it has studied 1652 reports in total, with the report it...</p></details>
    Published: November 2024  
 
 18. <a id="endnote-18"></a>
    Source: space.com  
    Title: pentagon ufo chief tells senate very anomalous objects need careful study video  
-   Link: [https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video](https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video)  
+   Link: <a href="https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO chief tells Senate &#x27;very anomalous objects&#x27;...19 Nov 2024 — In that case, the object&#x27;s apparent speed in the video was actu...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: theforestawakening.com  
    Title: effect of forced perspective and parallax view on uap observations 35a2093a  
-   Link: [https://theforestawakening.com/incidents/effect-of-forced-perspective-and-parallax-view-on-uap-observations-35a2093a](https://theforestawakening.com/incidents/effect-of-forced-perspective-and-parallax-view-on-uap-observations-35a2093a)  
+   Link: <a href="https://theforestawakening.com/incidents/effect-of-forced-perspective-and-parallax-view-on-uap-observations-35a2093a" target="_blank" rel="noopener noreferrer nofollow">https://theforestawakening.com/incidents/effect-of-forced-perspective-and-parallax-view-on-uap-observations-35a2093a</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Effect of Forced Perspective and Parallax View on UAP...1 Jan 2024 — AARO explains how forced perspective and parallax effects can accou...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: avi-loeb.medium.com  
    Title: a new calculation on the fly to the nasa uap study 2dacaf860cac  
-   Link: [https://avi-loeb.medium.com/a-new-calculation-on-the-fly-to-the-nasa-uap-study-2dacaf860cac](https://avi-loeb.medium.com/a-new-calculation-on-the-fly-to-the-nasa-uap-study-2dacaf860cac)  
+   Link: <a href="https://avi-loeb.medium.com/a-new-calculation-on-the-fly-to-the-nasa-uap-study-2dacaf860cac" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/a-new-calculation-on-the-fly-to-the-nasa-uap-study-2dacaf860cac</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New Calculation on the Fly to the NASA UAP Study - Avi LoebA New Calculation on the Fly to the NASA UAP Study This morning, the weather f...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: rev.com  
-   Link: [https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript](https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript)  
+   Link: <a href="https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ile NASA is still working to evaluate the report and to assess...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: cia.gov  
    Title: CIA RDP81R00560R000100010001 0  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010001-0.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010001-0.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010001-0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010001-0.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>eye), I calculated its size to be 3 to 5 ft. for a height of 6-12 thousand feet, and a zenith an;le of about 450. This size estimate coul...</p></details>

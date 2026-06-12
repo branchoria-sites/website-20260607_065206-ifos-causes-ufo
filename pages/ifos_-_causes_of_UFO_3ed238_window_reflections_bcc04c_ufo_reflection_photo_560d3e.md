@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c_night_window_lamp_re_2a4a79
 - ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c_passenger_window_vid_fdc156
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - reflections
 - photo-checks
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - reflections
 - photo-checks
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: A few practical checks can reveal whether a photographed light belongs outside the glass or inside the reflection path.
 hero_summary: A few practical checks can reveal whether a photographed light belongs outside the glass or inside the reflection path.
 layout: default
 permalink: /photo-checks/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /reflections/
 nav_short_title: Photo Checks
 title: How to Test a UFO Reflection
-title_full: How to Test a UFO Reflection | Reflections
+title_full: How to Test a UFO Reflection
 display_title_short: Photo Checks
 display_title: Photo Checks
 heading_title: How to Test a UFO Reflection
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 09:29:28'
-parent_title: The UFO Inside the Glass | IFOs
+parent_title: The UFO Inside the Glass
 parent_permalink: /reflections/
 parent_nav_short_title: Reflections
 parent_heading_title: The UFO Inside the Glass
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c
-  title: Reflections | Ifos Causes Of
+  title: Reflections | ifos causes of UFO 3 ed 238
   permalink: /reflections/
   short_title: Reflections
   heading_title: The UFO Inside the Glass
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c
-  title: Reflections | Ifos Causes Of
+  title: Reflections | ifos causes of UFO 3 ed 238
   permalink: /reflections/
   short_title: Reflections
   heading_title: The UFO Inside the Glass
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: Why Dashboard Lights Can Look Alive
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c
-  title: Reflections | Ifos Causes Of
+  title: Reflections | ifos causes of UFO 3 ed 238
   permalink: /reflections/
   short_title: Reflections
   heading_title: The UFO Inside the Glass
@@ -266,6 +265,7 @@ next_link:
   permalink: /windscreens/
   short_title: Windscreens
   heading_title: Why Dashboard Lights Can Look Alive
+date: '2026-06-12 00:47:24 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c_ufo_reflection_photo_560d3e-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c_ufo_reflection_photo_560d3e-Illustration-1.webp
@@ -276,7 +276,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c_ufo_
 
 When a UFO photograph or video is taken through a window, windscreen or aircraft canopy, one of the quickest questions is whether the apparent object is actually outside the glass. Reflection testing is valuable because reflected lights can look remarkably convincing on camera. A nearby lamp, dashboard display, phone screen or cabin light can appear suspended in the sky, yet careful checks of geometry, movement and lighting often reveal that the light belongs to the reflection path rather than the outside scene.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c_ufo_reflection_photo_560d3e-Illustration-1-dark.svg" | relative_url }}" alt="Photo Checks illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c_ufo_reflection_photo_560d3e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c_ufo_reflection_photo_560d3e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The goal is not to dismiss a sighting automatically. It is to determine whether the recorded light behaves like an object in the external world or like an image tied to the glass and camera position. A small number of practical tests can often make that distinction.
 
@@ -286,7 +285,7 @@ The strongest reflection tests rely on geometry rather than appearance.
 
 A genuine distant object remains fixed within the outside scene when the observer shifts position slightly. A reflection, by contrast, is linked to the glass surface and viewing angle. If the camera moves left, right, up or down and the apparent UFO shifts relative to distant clouds, [stars]({{ 'stars/' | relative_url }}), buildings or the horizon, reflection becomes a strong possibility.
 
-In video, this can be particularly revealing. [Reflections]({{ 'reflections/' | relative_url }}) often appear to “follow” the camera. The object may seem stationary at first, but frame-by-frame review shows that it drifts in ways that match camera movement rather than the motion of the outside environment. Research on reflection separation in video relies heavily on these differing motion cues because reflected and transmitted scenes often move differently across successive frames. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2009.03281" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv User-assisted Video Reflection Removal</span><span class="citation-popover-snippet">arXivUser-assisted Video Reflection RemovalSeptember 7, 2020...</span><span class="citation-popover-meta">Published: September 7, 2020</span></span></span>
+In video, this can be particularly revealing. [Reflections]({{ 'reflections/' | relative_url }}) often appear to “follow” the camera. The object may seem stationary at first, but frame-by-frame review shows that it drifts in ways that match camera movement rather than the motion of the outside environment. Research on reflection separation in video relies heavily on these differing motion cues because reflected and transmitted scenes often move differently across successive frames. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2009.03281" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv User-assisted Video Reflection Removal</span><span class="citation-popover-snippet">User-assisted Video Reflection RemovalSeptember 7, 2020...</span><span class="citation-popover-meta">Published: September 7, 2020</span></span></span>
 
 ## Several practical checks are useful
 
@@ -298,7 +297,7 @@ Open-window test: If circumstances allow, opening the window or moving outside s
 
 Multiple-viewpoint check: Images taken from different positions often relocate a reflection but preserve the position of a genuine distant object.
 
-Another clue is the appearance of slight duplicate images. Ordinary glass reflects from both its front and rear surfaces. This can produce a faint secondary image offset from the primary one, creating a characteristic “ghost” effect. Optical studies of [window reflections]({{ 'reflections/' | relative_url }}) show that even a single pane can generate shifted double reflections from its two surfaces. <span class="citation-chip-wrap"><a class="citation-chip" href="https://people.csail.mit.edu/yichangshih/mywebsite/reflection.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.csail.mit.edu">[MIT CSAIL People]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.csail.mit.edu</span><span class="citation-popover-title">For single-pane windows,</span><span class="citation-popover-snippet">MIT CSAIL PeopleReflection Removal using Ghosting Cues - People | MIT CSAILApril 13, 2015 — In double-pane windows, each pane reflects sh...</span><span class="citation-popover-meta">Published: April 13, 2015</span></span></span>
+Another clue is the appearance of slight duplicate images. Ordinary glass reflects from both its front and rear surfaces. This can produce a faint secondary image offset from the primary one, creating a characteristic “ghost” effect. Optical studies of window reflections show that even a single pane can generate shifted double reflections from its two surfaces. <span class="citation-chip-wrap"><a class="citation-chip" href="https://people.csail.mit.edu/yichangshih/mywebsite/reflection.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.csail.mit.edu">[MIT CSAIL People]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.csail.mit.edu</span><span class="citation-popover-title">For single-pane windows,</span><span class="citation-popover-snippet">MIT CSAIL PeopleReflection Removal using Ghosting Cues - People &#124; MIT CSAILApril 13, 2015 — In double-pane windows, each pane reflects sh...</span><span class="citation-popover-meta">Published: April 13, 2015</span></span></span>
 
 ## Lighting Clues from Duplicates, Glare and Brightness
 
@@ -306,7 +305,7 @@ Lighting behaviour often reveals the source of an apparent UFO.
 
 ## Look for Double Images and Ghosting
 
-A reflected indoor light may appear as two closely spaced copies rather than a single point. This happens because glass commonly produces multiple reflections from separate surfaces. In photography and optical engineering, such duplicate reflections are known as ghost images. <span class="citation-chip-wrap"><a class="citation-chip" href="https://people.csail.mit.edu/yichangshih/mywebsite/reflection.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.csail.mit.edu">[MIT CSAIL People]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.csail.mit.edu</span><span class="citation-popover-title">For single-pane windows,</span><span class="citation-popover-snippet">MIT CSAIL PeopleReflection Removal using Ghosting Cues - People | MIT CSAILApril 13, 2015 — In double-pane windows, each pane reflects sh...</span><span class="citation-popover-meta">Published: April 13, 2015</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://lenspire.zeiss.com/cine/en/article/taking-care-of-the-unwanted-light" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lenspire.zeiss.com">[Lenspire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lenspire.zeiss.com</span><span class="citation-popover-title">taking care of the unwanted light</span><span class="citation-popover-snippet">care of the unwanted light2 Jul 2020 — A ghost is a reflection between two optical surfaces. It&#x27;s seen as a double image. You can reduce...</span></span></span>
+A reflected indoor light may appear as two closely spaced copies rather than a single point. This happens because glass commonly produces multiple reflections from separate surfaces. In photography and optical engineering, such duplicate reflections are known as ghost images. <span class="citation-chip-wrap"><a class="citation-chip" href="https://people.csail.mit.edu/yichangshih/mywebsite/reflection.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.csail.mit.edu">[MIT CSAIL People]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.csail.mit.edu</span><span class="citation-popover-title">For single-pane windows,</span><span class="citation-popover-snippet">MIT CSAIL PeopleReflection Removal using Ghosting Cues - People &#124; MIT CSAILApril 13, 2015 — In double-pane windows, each pane reflects sh...</span><span class="citation-popover-meta">Published: April 13, 2015</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://lenspire.zeiss.com/cine/en/article/taking-care-of-the-unwanted-light" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lenspire.zeiss.com">[Lenspire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lenspire.zeiss.com</span><span class="citation-popover-title">taking care of the unwanted light</span><span class="citation-popover-snippet">care of the unwanted light2 Jul 2020 — A ghost is a reflection between two optical surfaces. It&#x27;s seen as a double image. You can reduce...</span></span></span>
 
 In UFO imagery, ghosting may appear as:
 
@@ -317,9 +316,6 @@ A bright object accompanied by a fainter twin.
 A duplicated pattern that remains consistent across frames.
 
 Perfect duplication is often more consistent with optics than with two independent airborne objects.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Dqqm4IBwUE4" title="Solution to Avoid Reflections When Photographing Through Glas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Dqqm4IBwUE4" target="_blank" rel="noopener noreferrer">Solution to Avoid Reflections When Photographing Through Glas</a></p><p class="youtube-embed-meta">Channel: Florian Froschmayer // STAY CURIOUS &middot; Views: 4.1K &middot; Uploaded: May 2023 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Dqqm4IBwUE4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Dqqm4IBwUE4">Open on YouTube</a></p></div></div></div>
 
 ## Compare Brightness with the Scene
 
@@ -334,7 +330,6 @@ Does it retain the same brightness despite major changes in the outside scene?
 Does it remain crisp when distant atmospheric lights appear blurred?
 
 An unusually clean and intense light against a dark sky can be a warning sign that the source is nearby and reflected rather than distant.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c_ufo_reflection_photo_560d3e-Illustration-2-dark.svg" | relative_url }}" alt="Photo Checks illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c_ufo_reflection_photo_560d3e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c_ufo_reflection_photo_560d3e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Check for Matching Indoor Sources
@@ -357,7 +352,7 @@ Decorative lighting inside buildings.
 
 A useful test is to identify whether the UFO's shape matches a known light source. Circular lamps often produce circular UFOs. Rows of LEDs can produce rows of apparent lights. In some documented photography examples, ordinary household lighting has produced images that strongly resemble classic UFO photographs.
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pjz_vd_oHo4" title="Optical illusions with reflections at Milton Country Park" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pjz_vd_oHo4" target="_blank" rel="noopener noreferrer">Optical illusions with reflections at Milton Country Park</a></p><p class="youtube-embed-meta">Channel: Chris Thomas (miltoncontact)</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pjz_vd_oHo4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pjz_vd_oHo4">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Dqqm4IBwUE4" title="Solution to Avoid Reflections When Photographing Through Glas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Dqqm4IBwUE4" target="_blank" rel="noopener noreferrer">Solution to Avoid Reflections When Photographing Through Glas</a></p><p class="youtube-embed-meta">Channel: Florian Froschmayer // STAY CURIOUS &middot; Views: 4.1K &middot; Uploaded: May 2023 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Dqqm4IBwUE4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Dqqm4IBwUE4">Open on YouTube</a></p></div></div></div>
 
 ## Facebook
 
@@ -372,7 +367,6 @@ What Independent Evidence Would Make Reflection Less Likely?
 Reflection testing is not merely about finding reasons to reject an image. It is also about identifying evidence that points away from a reflection explanation.
 
 Several forms of independent evidence weaken the reflection hypothesis.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c_ufo_reflection_photo_560d3e-Illustration-3-dark.svg" | relative_url }}" alt="Photo Checks illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c_ufo_reflection_photo_560d3e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c_ufo_reflection_photo_560d3e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Confirmation from Multiple Cameras
@@ -390,9 +384,6 @@ An object that remains correctly aligned with clouds, terrain, stars or other ex
 ## Independent Instrumental Records
 
 [Radar]({{ 'radar/' | relative_url }}) tracks, astronomical observations, air traffic records or additional sensor data do not automatically prove an unusual object is present, but they can reduce reliance on a single potentially misleading image. Reflection explanations are strongest when the photograph or video is the only evidence available.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nqi4QNFXu-c" title="Bizarre Midair UFO Sighting Freaks Out Plane Passengers | New York Post" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nqi4QNFXu-c" target="_blank" rel="noopener noreferrer">Bizarre Midair UFO Sighting Freaks Out Plane Passengers | New York Post</a></p><p class="youtube-embed-meta">Channel: New York Post</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nqi4QNFXu-c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nqi4QNFXu-c">Open on YouTube</a></p></div></div></div>
 
 ## A Practical Reflection-Test Sequence
 
@@ -531,15 +522,15 @@ In many cases, no single clue is decisive. However, when several of these indica
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-checks-how-to-test-a-ufo-reflection-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="photo-checks-how-to-test-a-ufo-reflection-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-test-a-ufo-reflection-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-to-test-a-ufo-reflection-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-checks-how-to-test-a-ufo-reflection-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="photo-checks-how-to-test-a-ufo-reflection-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-test-a-ufo-reflection-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-to-test-a-ufo-reflection-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-checks-how-to-test-a-ufo-reflection-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="photo-checks-how-to-test-a-ufo-reflection-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo enamel pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-test-a-ufo-reflection-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-to-test-a-ufo-reflection-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-checks-how-to-test-a-ufo-reflection-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="photo-checks-how-to-test-a-ufo-reflection-ifos-causes-of-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-test-a-ufo-reflection-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-to-test-a-ufo-reflection-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -547,15 +538,15 @@ In many cases, no single clue is decisive. However, when several of these indica
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-checks-how-to-test-a-ufo-reflection-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="photo-checks-how-to-test-a-ufo-reflection-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-test-a-ufo-reflection-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-to-test-a-ufo-reflection-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-checks-how-to-test-a-ufo-reflection-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="photo-checks-how-to-test-a-ufo-reflection-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-test-a-ufo-reflection-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-to-test-a-ufo-reflection-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-checks-how-to-test-a-ufo-reflection-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="photo-checks-how-to-test-a-ufo-reflection-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo enamel pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-test-a-ufo-reflection-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-to-test-a-ufo-reflection-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-checks-how-to-test-a-ufo-reflection-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="photo-checks-how-to-test-a-ufo-reflection-ifos-causes-of-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-test-a-ufo-reflection-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-to-test-a-ufo-reflection-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -563,15 +554,15 @@ In many cases, no single clue is decisive. However, when several of these indica
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-checks-how-to-test-a-ufo-reflection-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="photo-checks-how-to-test-a-ufo-reflection-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac"><img src="{{ '/assets/images/marketplace-covers/cdbe73a199cf9b4b48c0.jpg' | relative_url }}" alt="Listing image for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-test-a-ufo-reflection-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-to-test-a-ufo-reflection-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-checks-how-to-test-a-ufo-reflection-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="photo-checks-how-to-test-a-ufo-reflection-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-test-a-ufo-reflection-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-to-test-a-ufo-reflection-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-checks-how-to-test-a-ufo-reflection-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="photo-checks-how-to-test-a-ufo-reflection-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo enamel pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-test-a-ufo-reflection-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-to-test-a-ufo-reflection-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-checks-how-to-test-a-ufo-reflection-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="photo-checks-how-to-test-a-ufo-reflection-ifos-causes-of-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-test-a-ufo-reflection-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-to-test-a-ufo-reflection-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -579,15 +570,15 @@ In many cases, no single clue is decisive. However, when several of these indica
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-checks-how-to-test-a-ufo-reflection-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="photo-checks-how-to-test-a-ufo-reflection-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black"><img src="{{ '/assets/images/marketplace-covers/078b55bb70d6b61d9af5.jpg' | relative_url }}" alt="Listing image for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-test-a-ufo-reflection-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-to-test-a-ufo-reflection-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-checks-how-to-test-a-ufo-reflection-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="photo-checks-how-to-test-a-ufo-reflection-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-test-a-ufo-reflection-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-to-test-a-ufo-reflection-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-checks-how-to-test-a-ufo-reflection-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="photo-checks-how-to-test-a-ufo-reflection-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo enamel pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-test-a-ufo-reflection-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-to-test-a-ufo-reflection-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-checks-how-to-test-a-ufo-reflection-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="photo-checks-how-to-test-a-ufo-reflection-ifos-causes-of-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-test-a-ufo-reflection-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-to-test-a-ufo-reflection-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -595,7 +586,7 @@ In many cases, no single clue is decisive. However, when several of these indica
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-checks-how-to-test-a-ufo-reflection-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="photo-checks-how-to-test-a-ufo-reflection-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-test-a-ufo-reflection-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-to-test-a-ufo-reflection-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -811,108 +802,108 @@ In many cases, no single clue is decisive. However, when several of these indica
 1. <a id="endnote-1"></a>
    Source: arxiv.org  
    Title: arXiv User-assisted Video Reflection Removal  
-   Link: [https://arxiv.org/abs/2009.03281](https://arxiv.org/abs/2009.03281)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivUser-assisted Video Reflection RemovalSeptember 7, 2020...</p></details>
+   Link: <a href="https://arxiv.org/abs/2009.03281" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2009.03281</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>User-assisted Video Reflection RemovalSeptember 7, 2020...</p></details>
    Published: September 7, 2020  
 
 2. <a id="endnote-2"></a>
    Source: arxiv.org  
    Title: arXiv Separating Reflection and Transmission Images in the Wild  
-   Link: [https://arxiv.org/abs/1712.02099](https://arxiv.org/abs/1712.02099)  
+   Link: <a href="https://arxiv.org/abs/1712.02099" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1712.02099</a>  
 
 3. <a id="endnote-3"></a>
    Source: people.csail.mit.edu  
    Title: For single-pane windows,  
-   Link: [https://people.csail.mit.edu/yichangshih/mywebsite/reflection.pdf](https://people.csail.mit.edu/yichangshih/mywebsite/reflection.pdf)  
+   Link: <a href="https://people.csail.mit.edu/yichangshih/mywebsite/reflection.pdf" target="_blank" rel="noopener noreferrer nofollow">https://people.csail.mit.edu/yichangshih/mywebsite/reflection.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>MIT CSAIL PeopleReflection Removal using Ghosting Cues - People | MIT CSAILApril 13, 2015 — In double-pane windows, each pane reflects sh...</p></details>
    Published: April 13, 2015  
 
 4. <a id="endnote-4"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/pennsylvaniaphotos/posts/3618927958377580/](https://www.facebook.com/groups/pennsylvaniaphotos/posts/3618927958377580/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookCreative UFO Illusion Photography from Living Room...I took this picture from my living room window and I had the kitchen light...</p></details>
+   Link: <a href="https://www.facebook.com/groups/pennsylvaniaphotos/posts/3618927958377580/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/pennsylvaniaphotos/posts/3618927958377580/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Creative UFO Illusion Photography from Living Room...I took this picture from my living room window and I had the kitchen light...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: digital-photography-school.com  
    Title: Digital Photography School How to Prevent Reflections When Photographing Through  
-   Link: [https://digital-photography-school.com/tips-for-minimizing-reflections-when-photographing-through-windows/](https://digital-photography-school.com/tips-for-minimizing-reflections-when-photographing-through-windows/)  
+   Link: <a href="https://digital-photography-school.com/tips-for-minimizing-reflections-when-photographing-through-windows/" target="_blank" rel="noopener noreferrer nofollow">https://digital-photography-school.com/tips-for-minimizing-reflections-when-photographing-through-windows/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Use a polarizing filter. A circular polarizer is generally used by landscape photographers to reduce reflections in water and waxy leaves...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: arizona.openrepository.com  
    Title: azu etd 10622 sip1 m  
-   Link: [https://arizona.openrepository.com/bitstream/handle/10150/195492/azu_etd_10622_sip1_m.pdf?sequence=1](https://arizona.openrepository.com/bitstream/handle/10150/195492/azu_etd_10622_sip1_m.pdf?sequence=1)  
+   Link: <a href="https://arizona.openrepository.com/bitstream/handle/10150/195492/azu_etd_10622_sip1_m.pdf?sequence=1" target="_blank" rel="noopener noreferrer nofollow">https://arizona.openrepository.com/bitstream/handle/10150/195492/azu_etd_10622_sip1_m.pdf?sequence=1</a>  
 
 7. <a id="endnote-7"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/462980690536435/posts/491484194352751/](https://www.facebook.com/groups/462980690536435/posts/491484194352751/)  
+   Link: <a href="https://www.facebook.com/groups/462980690536435/posts/491484194352751/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/462980690536435/posts/491484194352751/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Window reflection photography techniquesA black and white photograph of a window with reflections feels both serene and evocative, blendi...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: lenspire.zeiss.com  
    Title: taking care of the unwanted light  
-   Link: [https://lenspire.zeiss.com/cine/en/article/taking-care-of-the-unwanted-light](https://lenspire.zeiss.com/cine/en/article/taking-care-of-the-unwanted-light)  
+   Link: <a href="https://lenspire.zeiss.com/cine/en/article/taking-care-of-the-unwanted-light" target="_blank" rel="noopener noreferrer nofollow">https://lenspire.zeiss.com/cine/en/article/taking-care-of-the-unwanted-light</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>care of the unwanted light2 Jul 2020 — A ghost is a reflection between two optical surfaces. It&#x27;s seen as a double image. You can reduce...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: lenspire.zeiss.com  
    Title: technical article about the reduction of reflections for camera lenses  
-   Link: [https://lenspire.zeiss.com/photo/app/uploads/2022/02/technical-article-about-the-reduction-of-reflections-for-camera-lenses.pdf](https://lenspire.zeiss.com/photo/app/uploads/2022/02/technical-article-about-the-reduction-of-reflections-for-camera-lenses.pdf)  
+   Link: <a href="https://lenspire.zeiss.com/photo/app/uploads/2022/02/technical-article-about-the-reduction-of-reflections-for-camera-lenses.pdf" target="_blank" rel="noopener noreferrer nofollow">https://lenspire.zeiss.com/photo/app/uploads/2022/02/technical-article-about-the-reduction-of-reflections-for-camera-lenses.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>the reduction of reflections for camera lenses How TReflection at the air-glass interface may be reduced by destructive interference, whe...</p></details>
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: avantierinc.com  
-   Link: [https://avantierinc.com/resources/technical-article/ar-bbar-coatings/](https://avantierinc.com/resources/technical-article/ar-bbar-coatings/)  
+   Link: <a href="https://avantierinc.com/resources/technical-article/ar-bbar-coatings/" target="_blank" rel="noopener noreferrer nofollow">https://avantierinc.com/resources/technical-article/ar-bbar-coatings/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AR Coatings and BBAR CoatingsAR Coating, including BBAR Coating, optimizes light transmission across a wide wavelength [range](&amp;#123;&amp;#123; &#x27;range/&#x27; | relative_url &amp;#125;&amp;#125;) by minimizin...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: ephotonics.com  
-   Link: [https://ephotonics.com/calculators/fresnel-reflection/](https://ephotonics.com/calculators/fresnel-reflection/)  
+   Link: <a href="https://ephotonics.com/calculators/fresnel-reflection/" target="_blank" rel="noopener noreferrer nofollow">https://ephotonics.com/calculators/fresnel-reflection/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fresnel Reflection CalculatorPower Loss: Up to 4% is lost at every single glass/air surface. Ghost Images: Reflections cause flare and ar...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: rp-photonics.com  
-   Link: [https://www.rp-photonics.com/fresnel_reflections.html](https://www.rp-photonics.com/fresnel_reflections.html)  
+   Link: <a href="https://www.rp-photonics.com/fresnel_reflections.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rp-photonics.com/fresnel_reflections.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fresnel Reflections – impedance matching, suppression...Fresnel reflections occur at material interfaces due to impedance mismatch, wit...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: adobe.com  
-   Link: [https://www.adobe.com/creativecloud/photography/type/reflection-photography.html](https://www.adobe.com/creativecloud/photography/type/reflection-photography.html)  
+   Link: <a href="https://www.adobe.com/creativecloud/photography/type/reflection-photography.html" target="_blank" rel="noopener noreferrer nofollow">https://www.adobe.com/creativecloud/photography/type/reflection-photography.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Reflection photography: A beginner&#x27;s guideTry reflection photography to find unique perspectives. From bodies of water to mirrors, reflec...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: imatest.com  
-   Link: [https://www.imatest.com/docs/veilingglare/](https://www.imatest.com/docs/veilingglare/)  
+   Link: <a href="https://www.imatest.com/docs/veilingglare/" target="_blank" rel="noopener noreferrer nofollow">https://www.imatest.com/docs/veilingglare/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Veiling GlareVeiling glare is measured by photographing one or more perfectly black regions inside a uniform white field that extends wel...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: photo.stackexchange.com  
    Title: why do these reflections appear in some photos and how can i stop it from happen  
-   Link: [https://photo.stackexchange.com/questions/92660/why-do-these-reflections-appear-in-some-photos-and-how-can-i-stop-it-from-happen](https://photo.stackexchange.com/questions/92660/why-do-these-reflections-appear-in-some-photos-and-how-can-i-stop-it-from-happen)  
+   Link: <a href="https://photo.stackexchange.com/questions/92660/why-do-these-reflections-appear-in-some-photos-and-how-can-i-stop-it-from-happen" target="_blank" rel="noopener noreferrer nofollow">https://photo.stackexchange.com/questions/92660/why-do-these-reflections-appear-in-some-photos-and-how-can-i-stop-it-from-happen</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>do these reflections appear in some photos and how...14 Sept 2017 — This question already has answers here: What could cause this visibl...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: dpreview.com  
    Title: mit algorithm aims to eradicate reflections from photos taken through windows  
-   Link: [https://www.dpreview.com/articles/2914705706/mit-algorithm-aims-to-eradicate-reflections-from-photos-taken-through-windows](https://www.dpreview.com/articles/2914705706/mit-algorithm-aims-to-eradicate-reflections-from-photos-taken-through-windows)  
+   Link: <a href="https://www.dpreview.com/articles/2914705706/mit-algorithm-aims-to-eradicate-reflections-from-photos-taken-through-windows" target="_blank" rel="noopener noreferrer nofollow">https://www.dpreview.com/articles/2914705706/mit-algorithm-aims-to-eradicate-reflections-from-photos-taken-through-windows</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MIT algorithm aims to eradicate reflections from photos...14 May 2015 — Researchers at the Massachusetts Institute of Technology claim t...</p></details>
    Published: May 2015  
 
 17. <a id="endnote-17"></a>
    Source: cloudynights.com  
    Title: The window has BBAR coating on both surfaces. I've read that such coatings  
-   Link: [https://www.cloudynights.com/forums/topic/902763-tilt-optical-window-to-eliminate-ghost-reflections-how-much/](https://www.cloudynights.com/forums/topic/902763-tilt-optical-window-to-eliminate-ghost-reflections-how-much/)  
+   Link: <a href="https://www.cloudynights.com/forums/topic/902763-tilt-optical-window-to-eliminate-ghost-reflections-how-much/" target="_blank" rel="noopener noreferrer nofollow">https://www.cloudynights.com/forums/topic/902763-tilt-optical-window-to-eliminate-ghost-reflections-how-much/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tilt optical window to eliminate ghost reflections; how much?9 Dec 2023 — Dimensional constraints limit tilt angle to about 1.5 degrees...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: physics.stackexchange.com  
    Title: reflection on glass angle of incidence and ghost image  
-   Link: [https://physics.stackexchange.com/questions/599528/reflection-on-glass-angle-of-incidence-and-ghost-image](https://physics.stackexchange.com/questions/599528/reflection-on-glass-angle-of-incidence-and-ghost-image)  
+   Link: <a href="https://physics.stackexchange.com/questions/599528/reflection-on-glass-angle-of-incidence-and-ghost-image" target="_blank" rel="noopener noreferrer nofollow">https://physics.stackexchange.com/questions/599528/reflection-on-glass-angle-of-incidence-and-ghost-image</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>on glass, angle of incidence and ghost imageDec 9, 2020 — As I rotate the glass and increase the angle of incidence there appears to be a...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/figure/Fresnel-reflection-at-glass-to-absorbing-medium-interface-for-three-k-values_fig3_243574131](https://www.researchgate.net/figure/Fresnel-reflection-at-glass-to-absorbing-medium-interface-for-three-k-values_fig3_243574131)  
+   Link: <a href="https://www.researchgate.net/figure/Fresnel-reflection-at-glass-to-absorbing-medium-interface-for-three-k-values_fig3_243574131" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Fresnel-reflection-at-glass-to-absorbing-medium-interface-for-three-k-values_fig3_243574131</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ing analyte-containing medium by means of the evanescent wave at the fiber boundary...</p></details>

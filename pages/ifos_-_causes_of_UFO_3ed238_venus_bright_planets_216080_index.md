@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ifos-causes-of-ufo-3ed238-venus-bright/
 description: Focused pages that expand on Venus.
-date: '2026-06-07'
+date: '2026-06-12'
 layout: default
 parent_basename: ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080
-parent_title: Venus | Ifos Causes Of
+parent_title: Venus
 parent_nav_short_title: Venus
 parent_permalink: /venus/
 ---

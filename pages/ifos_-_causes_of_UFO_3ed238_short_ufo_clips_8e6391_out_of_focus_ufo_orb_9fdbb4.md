@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_parallax_speed_illus_714144
 - ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_useful_ufo_video_che_819eea
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - short-clips
 - ufo-orbs
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - short-clips
 - ufo-orbs
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Autofocus, digital zoom, exposure changes, and stabilization can turn stars, aircraft lights, or reflections into pulsing orbs.
 hero_summary: Autofocus, digital zoom, exposure changes, and stabilization can turn stars, aircraft lights, or reflections into pulsing orbs.
 layout: default
 permalink: /ufo-orbs/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /short-clips/
 nav_short_title: UFO Orbs
 title: Why Night Lights Become Orbs
-title_full: Why Night Lights Become Orbs | Short Clips
+title_full: Why Night Lights Become Orbs
 display_title_short: UFO Orbs
 display_title: UFO Orbs
 heading_title: Why Night Lights Become Orbs
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-07 00:24:35'
-parent_title: Why Short UFO Videos Are Hard to Trust | IFOs
+parent_title: Why Short UFO Videos Are Hard to Trust
 parent_permalink: /short-clips/
 parent_nav_short_title: Short Clips
 parent_heading_title: Why Short UFO Videos Are Hard to Trust
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391
-  title: Short Clips | Ifos Causes Of
+  title: Short Clips | ifos causes of UFO 3 ed 238
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: Why Short UFO Videos Are Hard to Trust
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391
-  title: Short Clips | Ifos Causes Of
+  title: Short Clips | ifos causes of UFO 3 ed 238
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: Why Short UFO Videos Are Hard to Trust
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: What Makes a UFO Clip Useful
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391
-  title: Short Clips | Ifos Causes Of
+  title: Short Clips | ifos causes of UFO 3 ed 238
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: Why Short UFO Videos Are Hard to Trust
@@ -266,6 +265,7 @@ next_link:
   permalink: /useful-clips/
   short_title: Useful Clips
   heading_title: What Makes a UFO Clip Useful
+date: '2026-06-12 00:33:40 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_out_of_focus_ufo_orb_9fdbb4-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_out_of_focus_ufo_orb_9fdbb4-Illustration-1.webp
@@ -276,7 +276,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_out_of_
 
 Many night-time UFO “orbs” are not objects that naturally appear as glowing spheres. They are ordinary point-like lights—stars, planets, [aircraft lights]({{ 'aircraft-lights/' | relative_url }}), drones, satellites or distant ground lights—that have been enlarged and blurred by the camera. When a camera fails to focus accurately on a tiny light source, the light is no longer recorded as a point. Instead, it spreads into a soft disc that can look surprisingly large, structured and mysterious. Combined with digital zoom, automatic exposure adjustments and image stabilisation, a simple light can appear to pulse, change shape or drift in ways that seem unusual even though the source itself is behaving normally. This effect is one of the most common reasons why short [night videos]({{ 'night-videos/' | relative_url }}) produce apparent UFO “orbs”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bhphotovideo.com/explora/photography/tips-and-solutions/understanding-bokeh" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bhphotovideo.com">[B&amp;H Photo Video]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bhphotovideo.com</span><span class="citation-popover-title">B&amp;H Photo Video Understanding Bokeh</span><span class="citation-popover-snippet">When a point of light is at the focal plane (middle illustration), it is reproduced as a...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slrlounge.com/glossary/circle-of-confusion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slrlounge.com">[SLR Lounge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slrlounge.com</span><span class="citation-popover-snippet">Circle Of Confusion DefinitionThe out-of-focus lights will expand and become “bokeh balls.” If you focus on the lights instead, they will...</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_out_of_focus_ufo_orb_9fdbb4-Illustration-1-dark.svg" | relative_url }}" alt="UFO Orbs illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_out_of_focus_ufo_orb_9fdbb4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_out_of_focus_ufo_orb_9fdbb4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How Point Lights Become Blurred Discs
 
@@ -285,7 +284,6 @@ A distant star or aircraft light is effectively a point source. When a camera le
 This transformation is more dramatic at night because the light source is bright while the surrounding sky is dark. The result is a glowing circle with soft edges that can appear much larger than the actual object.
 
 Several features of these discs are commonly mistaken for unusual characteristics:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -298,14 +296,13 @@ Several features of these discs are commonly mistaken for unusual characteristic
 
 Because viewers expect a distant object to remain a point of light, the enlarged disc is often interpreted as evidence that the object itself is spherical or glowing.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wMrCs1fdPEQ" title="Caught on camera: Mysterious orbs in the sky | Unreported" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wMrCs1fdPEQ" target="_blank" rel="noopener noreferrer">Caught on camera: Mysterious orbs in the sky | Unreported</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 59.6K &middot; Uploaded: May 2026 &middot; Length: 1 hour 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wMrCs1fdPEQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wMrCs1fdPEQ">Open on YouTube</a></p></div></div></div>
 
 ### Why Zoom Makes the Effect Worse
 
 Many UFO recordings begin when someone notices a small light and immediately uses maximum zoom. Unfortunately, digital zoom enlarges both the subject and any focusing errors.
 
-A star that occupies only a tiny fraction of a pixel in a wide shot can become a large shimmering blob after aggressive zooming. Digital sharpening and noise reduction may then invent additional detail that appears meaningful even though it comes from image processing rather than the object itself. This is one reason why videos of Venus, Jupiter and bright [stars]({{ 'stars/' | relative_url }}) are frequently circulated online as mysterious [glowing orbs]({{ 'glowing-orbs/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/HiddenFactsss/posts/a-strange-orb-reflecting-bright-light-was-filmed-hovering-in-the-sky-over-nevada/1621488049977828/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">FacebookA strange orb reflecting bright light was filmed hovering in...Digital zoom, autofocus adjustments, and light diffraction can dr...</span></span></span>
+A star that occupies only a tiny fraction of a pixel in a wide shot can become a large shimmering blob after aggressive zooming. Digital sharpening and noise reduction may then invent additional detail that appears meaningful even though it comes from image processing rather than the object itself. This is one reason why videos of Venus, Jupiter and bright [stars]({{ 'stars/' | relative_url }}) are frequently circulated online as mysterious [glowing orbs]({{ 'glowing-orbs/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/HiddenFactsss/posts/a-strange-orb-reflecting-bright-light-was-filmed-hovering-in-the-sky-over-nevada/1621488049977828/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">A strange orb reflecting bright light was filmed hovering in...Digital zoom, autofocus adjustments, and light diffraction can dr...</span></span></span>
 
 ## Why Phones Struggle With Dark Skies
 
@@ -315,19 +312,17 @@ Autofocus systems depend on contrast. In daylight, a camera can easily detect ed
 
 At the same time, phones are attempting to solve several problems at once:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Increasing brightness through computational photography.
 * Reducing image noise.
 * Stabilising a handheld shot.
 * Maintaining focus on a tiny moving target.
-* Applying digital zoom. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/HiddenFactsss/posts/a-strange-orb-reflecting-bright-light-was-filmed-hovering-in-the-sky-over-nevada/1621488049977828/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">FacebookA strange orb reflecting bright light was filmed hovering in...Digital zoom, autofocus adjustments, and light diffraction can dr...</span></span></span>
+* Applying digital zoom. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/HiddenFactsss/posts/a-strange-orb-reflecting-bright-light-was-filmed-hovering-in-the-sky-over-nevada/1621488049977828/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">A strange orb reflecting bright light was filmed hovering in...Digital zoom, autofocus adjustments, and light diffraction can dr...</span></span></span>
 
 </div>
 
 Each correction can subtly alter the appearance of the light. As the software adjusts exposure or focus, the orb may appear to brighten, dim, pulse or change size even when the source remains steady.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_out_of_focus_ufo_orb_9fdbb4-Illustration-2-dark.svg" | relative_url }}" alt="UFO Orbs illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_out_of_focus_ufo_orb_9fdbb4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_out_of_focus_ufo_orb_9fdbb4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Why Orbs Seem To Pulse
@@ -344,7 +339,6 @@ When recording at high magnification, tiny hand movements become dramatic. Image
 
 This effect is especially misleading when the video contains no horizon, trees, buildings or other reference points. Without those references, viewers cannot tell whether the object moved or the camera moved. The resulting footage may show an apparently manoeuvring orb when the only motion occurred in the recording device.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GthjZ2j8FzY" title="CAUGHT ON CAMERA! Several Multi Colored UAP&#x27;S Spotted Descending Towards Earth! (Close-Up Footage)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GthjZ2j8FzY" target="_blank" rel="noopener noreferrer">CAUGHT ON CAMERA! Several Multi Colored UAP&#x27;S Spotted Descending Towards Earth! (Close-Up Footage)</a></p><p class="youtube-embed-meta">Channel: Plant Abundance &middot; Views: 4.5K &middot; Uploaded: July 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GthjZ2j8FzY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GthjZ2j8FzY">Open on YouTube</a></p></div></div></div>
 
 ## Simple Checks Before Calling An Orb Unusual
@@ -359,7 +353,6 @@ Third, compare the orb with known celestial objects. Bright planets such as [Ven
 
 Finally, look for context. A wider shot showing the horizon, nearby lights or aircraft traffic is often more useful than a tightly cropped close-up. Context helps distinguish between a distant light source and a genuinely unusual object.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_out_of_focus_ufo_orb_9fdbb4-Illustration-3-dark.svg" | relative_url }}" alt="UFO Orbs illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_out_of_focus_ufo_orb_9fdbb4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_out_of_focus_ufo_orb_9fdbb4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What This Means For UFO Evidence
 
@@ -367,9 +360,7 @@ An out-of-focus orb is not evidence that nothing was present in the sky. There m
 
 In investigations of IFOs—identified flying objects—this distinction matters. The orb appearance often reflects camera behaviour more than object behaviour. Once a distant point source has been transformed into a large blur disc, details needed for identification are lost. The resulting video may be genuine, but the glowing sphere on screen is frequently an optical artefact created by focus errors, zoom and low-light imaging rather than the true shape of the object being observed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bhphotovideo.com/explora/photography/tips-and-solutions/understanding-bokeh" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bhphotovideo.com">[B&amp;H Photo Video]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bhphotovideo.com</span><span class="citation-popover-title">B&amp;H Photo Video Understanding Bokeh</span><span class="citation-popover-snippet">When a point of light is at the focal plane (middle illustration), it is reproduced as a...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slrlounge.com/glossary/circle-of-confusion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slrlounge.com">[SLR Lounge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slrlounge.com</span><span class="citation-popover-snippet">Circle Of Confusion DefinitionThe out-of-focus lights will expand and become “bokeh balls.” If you focus on the lights instead, they will...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5pj0POVW99k" title="The Raw footage in 4K of something seriously weird in the night sky" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5pj0POVW99k" target="_blank" rel="noopener noreferrer">The Raw footage in 4K of something seriously weird in the night sky</a></p><p class="youtube-embed-meta">Channel: scannerguy1968 &middot; Views: 208.6K &middot; Uploaded: March 2026 &middot; Length: 4 minutes 41 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5pj0POVW99k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5pj0POVW99k">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -488,15 +479,15 @@ In investigations of IFOs—identified flying objects—this distinction matters
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-orbs-why-night-lights-become-orbs-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="ufo-orbs-why-night-lights-become-orbs-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="{{ '/assets/images/marketplace-covers/c69c50419429aba53ee5.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-become-orbs-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-night-lights-become-orbs-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-orbs-why-night-lights-become-orbs-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="ufo-orbs-why-night-lights-become-orbs-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-become-orbs-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-night-lights-become-orbs-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-orbs-why-night-lights-become-orbs-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="ufo-orbs-why-night-lights-become-orbs-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-become-orbs-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-night-lights-become-orbs-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-orbs-why-night-lights-become-orbs-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="ufo-orbs-why-night-lights-become-orbs-ifos-causes-of-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-become-orbs-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-night-lights-become-orbs-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -504,15 +495,15 @@ In investigations of IFOs—identified flying objects—this distinction matters
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-orbs-why-night-lights-become-orbs-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="ufo-orbs-why-night-lights-become-orbs-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-become-orbs-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-night-lights-become-orbs-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-orbs-why-night-lights-become-orbs-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="ufo-orbs-why-night-lights-become-orbs-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-become-orbs-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-night-lights-become-orbs-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-orbs-why-night-lights-become-orbs-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="ufo-orbs-why-night-lights-become-orbs-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-become-orbs-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-night-lights-become-orbs-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-orbs-why-night-lights-become-orbs-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="ufo-orbs-why-night-lights-become-orbs-ifos-causes-of-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-become-orbs-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-night-lights-become-orbs-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -520,15 +511,15 @@ In investigations of IFOs—identified flying objects—this distinction matters
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-orbs-why-night-lights-become-orbs-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="ufo-orbs-why-night-lights-become-orbs-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/16d7257b5b6fa9c07f55.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-become-orbs-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-night-lights-become-orbs-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-orbs-why-night-lights-become-orbs-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="ufo-orbs-why-night-lights-become-orbs-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-become-orbs-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-night-lights-become-orbs-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-orbs-why-night-lights-become-orbs-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="ufo-orbs-why-night-lights-become-orbs-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-become-orbs-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-night-lights-become-orbs-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-orbs-why-night-lights-become-orbs-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="ufo-orbs-why-night-lights-become-orbs-ifos-causes-of-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-become-orbs-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-night-lights-become-orbs-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -536,15 +527,15 @@ In investigations of IFOs—identified flying objects—this distinction matters
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-orbs-why-night-lights-become-orbs-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="ufo-orbs-why-night-lights-become-orbs-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO"><img src="{{ '/assets/images/marketplace-covers/804a6ca65be816e4a5d9.jpg' | relative_url }}" alt="Listing image for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-become-orbs-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-night-lights-become-orbs-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-orbs-why-night-lights-become-orbs-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="ufo-orbs-why-night-lights-become-orbs-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-become-orbs-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-night-lights-become-orbs-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-orbs-why-night-lights-become-orbs-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="ufo-orbs-why-night-lights-become-orbs-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-become-orbs-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-night-lights-become-orbs-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-orbs-why-night-lights-become-orbs-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="ufo-orbs-why-night-lights-become-orbs-ifos-causes-of-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-become-orbs-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-night-lights-become-orbs-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -552,7 +543,7 @@ In investigations of IFOs—identified flying objects—this distinction matters
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-orbs-why-night-lights-become-orbs-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="ufo-orbs-why-night-lights-become-orbs-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-lights-become-orbs-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-night-lights-become-orbs-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -768,129 +759,129 @@ In investigations of IFOs—identified flying objects—this distinction matters
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Circle of confusion  
-   Link: [https://en.wikipedia.org/wiki/Circle_of_confusion](https://en.wikipedia.org/wiki/Circle_of_confusion)  
+   Link: <a href="https://en.wikipedia.org/wiki/Circle_of_confusion" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Circle_of_confusion</a>  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Bokeh](https://en.wikipedia.org/wiki/Bokeh)  
+   Link: <a href="https://en.wikipedia.org/wiki/Bokeh" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bokeh</a>  
 
 3. <a id="endnote-3"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/HiddenFactsss/posts/a-strange-orb-reflecting-bright-light-was-filmed-hovering-in-the-sky-over-nevada/1621488049977828/](https://www.facebook.com/HiddenFactsss/posts/a-strange-orb-reflecting-bright-light-was-filmed-hovering-in-the-sky-over-nevada/1621488049977828/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookA strange orb reflecting bright light was filmed hovering in...Digital zoom, autofocus adjustments, and light diffraction can dr...</p></details>
+   Link: <a href="https://www.facebook.com/HiddenFactsss/posts/a-strange-orb-reflecting-bright-light-was-filmed-hovering-in-the-sky-over-nevada/1621488049977828/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/posts/a-strange-orb-reflecting-bright-light-was-filmed-hovering-in-the-sky-over-nevada/1621488049977828/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A strange orb reflecting bright light was filmed hovering in...Digital zoom, autofocus adjustments, and light diffraction can dr...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/AskAstrophotography/comments/1eq9477/how_do_you_focus_on_the_stars/](https://www.reddit.com/r/AskAstrophotography/comments/1eq9477/how_do_you_focus_on_the_stars/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditHow do you focus on the stars?: r/AskAstrophotographyHi everyone, I could use your help 😊. These days the sky is completely clear...</p></details>
+   Link: <a href="https://www.reddit.com/r/AskAstrophotography/comments/1eq9477/how_do_you_focus_on_the_stars/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskAstrophotography/comments/1eq9477/how_do_you_focus_on_the_stars/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>How do you focus on the stars?: r/AskAstrophotographyHi everyone, I could use your help 😊. These days the sky is completely clear...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: discuss.pixls.us  
    Title: Focusing on stars with a mirrorless camera  
-   Link: [https://discuss.pixls.us/t/focusing-on-stars-with-a-mirrorless-camera/38885](https://discuss.pixls.us/t/focusing-on-stars-with-a-mirrorless-camera/38885)  
+   Link: <a href="https://discuss.pixls.us/t/focusing-on-stars-with-a-mirrorless-camera/38885" target="_blank" rel="noopener noreferrer nofollow">https://discuss.pixls.us/t/focusing-on-stars-with-a-mirrorless-camera/38885</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lounge15 Aug 2023 — I know that I have to focus on something in the distance and with my old Canon 5d mkii, it was always easy to autofoc...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/1sfcj84/high_resolution_video_of_orb_filmed_by_peter/](https://www.reddit.com/r/HighStrangeness/comments/1sfcj84/high_resolution_video_of_orb_filmed_by_peter/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/1sfcj84/high_resolution_video_of_orb_filmed_by_peter/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1sfcj84/high_resolution_video_of_orb_filmed_by_peter/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>r/HighStrangeness - Rare Tubular UFO with Orb – Telepathic Encounter Caught on Camera.Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/deepuniversee/posts/a-star-shaped-object-captured-in-viral-night-footage-has-been-analysed-by-resear/968937289237493/](https://www.facebook.com/deepuniversee/posts/a-star-shaped-object-captured-in-viral-night-footage-has-been-analysed-by-resear/968937289237493/)  
+   Link: <a href="https://www.facebook.com/deepuniversee/posts/a-star-shaped-object-captured-in-viral-night-footage-has-been-analysed-by-resear/968937289237493/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/deepuniversee/posts/a-star-shaped-object-captured-in-viral-night-footage-has-been-analysed-by-resear/968937289237493/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>t with limited exposure control and no fixed reference points.Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/999313021058041/posts/1365178554471484/](https://www.facebook.com/groups/999313021058041/posts/1365178554471484/)  
+   Link: <a href="https://www.facebook.com/groups/999313021058041/posts/1365178554471484/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/999313021058041/posts/1365178554471484/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stargazing photo with water reflectionBefore it gets completely dark, focus on a distant light source (like a street light miles away) or...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/VintageLensesForVideo/posts/3336882033144045/](https://www.facebook.com/groups/VintageLensesForVideo/posts/3336882033144045/)  
+   Link: <a href="https://www.facebook.com/groups/VintageLensesForVideo/posts/3336882033144045/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/VintageLensesForVideo/posts/3336882033144045/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>I made an video to explain bokeh and circles of confusionCircles of confusion refer to the size of the out- of-focus points of light in a...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1295673443855365/posts/9471332646289363/](https://www.facebook.com/groups/1295673443855365/posts/9471332646289363/)  
+   Link: <a href="https://www.facebook.com/groups/1295673443855365/posts/9471332646289363/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1295673443855365/posts/9471332646289363/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Camera Focus Issue with StarsWhat a real star looks like. I got plenty more! Tell me how this is gas. And meant to be two star systems ha...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1399025047071176/posts/3417509711889356/](https://www.facebook.com/groups/1399025047071176/posts/3417509711889356/)  
+   Link: <a href="https://www.facebook.com/groups/1399025047071176/posts/3417509711889356/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1399025047071176/posts/3417509711889356/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What is this erratic UFO-like object spotted at Electric Forest?Not the best vid but conviced I’ve captured a UFO 2023 🤣 it was Sunday a...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: bhphotovideo.com  
    Title: B&H Photo Video Understanding Bokeh  
-   Link: [https://www.bhphotovideo.com/explora/photography/tips-and-solutions/understanding-bokeh](https://www.bhphotovideo.com/explora/photography/tips-and-solutions/understanding-bokeh)  
+   Link: <a href="https://www.bhphotovideo.com/explora/photography/tips-and-solutions/understanding-bokeh" target="_blank" rel="noopener noreferrer nofollow">https://www.bhphotovideo.com/explora/photography/tips-and-solutions/understanding-bokeh</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>When a point of light is at the focal plane (middle illustration), it is reproduced as a...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: slrlounge.com  
-   Link: [https://www.slrlounge.com/glossary/circle-of-confusion/](https://www.slrlounge.com/glossary/circle-of-confusion/)  
+   Link: <a href="https://www.slrlounge.com/glossary/circle-of-confusion/" target="_blank" rel="noopener noreferrer nofollow">https://www.slrlounge.com/glossary/circle-of-confusion/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Circle Of Confusion DefinitionThe out-of-focus lights will expand and become “bokeh balls.” If you focus on the lights instead, they will...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=xHvr9p7XBr0](https://www.youtube.com/watch?v=xHvr9p7XBr0)  
+   Link: <a href="https://www.youtube.com/watch?v=xHvr9p7XBr0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xHvr9p7XBr0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Up of the Color Changing Orb 12-30-2024 @MrMBB333I found one of these crazy glowing orbs no idea what it is. I took some footage on...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=GthjZ2j8FzY](https://www.youtube.com/watch?v=GthjZ2j8FzY)  
+   Link: <a href="https://www.youtube.com/watch?v=GthjZ2j8FzY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GthjZ2j8FzY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CAUGHT ON CAMERA! Several Multi Colored UAP&#x27;S Spotted...CAUGHT ON CAMERA! Several Multi Colored UAP&#x27;S Spotted Descending Towards Earth...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: apenasimagens.com  
-   Link: [https://apenasimagens.com/en/circle-of-confusion/](https://apenasimagens.com/en/circle-of-confusion/)  
+   Link: <a href="https://apenasimagens.com/en/circle-of-confusion/" target="_blank" rel="noopener noreferrer nofollow">https://apenasimagens.com/en/circle-of-confusion/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Circle of Confusion – only imagesThe Circles of Confusion become large and overlap, encroaching on each other, making the image blurry, l...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: learningwithexperts.com  
-   Link: [https://www.learningwithexperts.com/blogs/articles/bokeh-explained?srsltid=AfmBOopvCL0LcmCYBA_ZcMt7BPtyeqiloiDSOFO0i3qoHKpMQXlTo86h](https://www.learningwithexperts.com/blogs/articles/bokeh-explained?srsltid=AfmBOopvCL0LcmCYBA_ZcMt7BPtyeqiloiDSOFO0i3qoHKpMQXlTo86h)  
+   Link: <a href="https://www.learningwithexperts.com/blogs/articles/bokeh-explained?srsltid=AfmBOopvCL0LcmCYBA_ZcMt7BPtyeqiloiDSOFO0i3qoHKpMQXlTo86h" target="_blank" rel="noopener noreferrer nofollow">https://www.learningwithexperts.com/blogs/articles/bokeh-explained?srsltid=AfmBOopvCL0LcmCYBA_ZcMt7BPtyeqiloiDSOFO0i3qoHKpMQXlTo86h</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bokeh ExplainedIn out of focus areas of a photograph light spreads or diffracts into round discs, and these are the bokeh, also known as...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DZBGtZeMiiD/](https://www.instagram.com/reel/DZBGtZeMiiD/)  
+   Link: <a href="https://www.instagram.com/reel/DZBGtZeMiiD/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DZBGtZeMiiD/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Turn the focus ring until the stars appear as small as possible, take a test shot...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: picturecorrect.com  
-   Link: [https://www.picturecorrect.com/the-circle-of-confusion-and-its-impact-on-photography/](https://www.picturecorrect.com/the-circle-of-confusion-and-its-impact-on-photography/)  
+   Link: <a href="https://www.picturecorrect.com/the-circle-of-confusion-and-its-impact-on-photography/" target="_blank" rel="noopener noreferrer nofollow">https://www.picturecorrect.com/the-circle-of-confusion-and-its-impact-on-photography/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s related to how your lens focuses as well as the aperture value that you use...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DW6afBCCPlz/](https://www.instagram.com/reel/DW6afBCCPlz/)  
+   Link: <a href="https://www.instagram.com/reel/DW6afBCCPlz/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DW6afBCCPlz/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>o look at this and think we&#x27;ve finally got proof of UFOs...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=ToN15U6dy1Q](https://www.youtube.com/watch?v=ToN15U6dy1Q)  
+   Link: <a href="https://www.youtube.com/watch?v=ToN15U6dy1Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ToN15U6dy1Q</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ght sky with both a smart phone and a DSLR camera whilst under...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=5pj0POVW99k](https://www.youtube.com/watch?v=5pj0POVW99k)  
+   Link: <a href="https://www.youtube.com/watch?v=5pj0POVW99k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5pj0POVW99k</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ously weird in the night sky with my extreme low light camera...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: Unlocking The Magic: Master The Art Of Bokeh Photography  
-   Link: [http://www.youtube.com/watch?v=z3c7VezUhQc](http://www.youtube.com/watch?v=z3c7VezUhQc)  
+   Link: <a href="http://www.youtube.com/watch?v=z3c7VezUhQc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=z3c7VezUhQc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why out of focus lights become orbs bokeh explained BOKEH Expert Shares Top Techniques for Stunning Photography...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=wMrCs1fdPEQ](https://www.youtube.com/watch?v=wMrCs1fdPEQ)  
+   Link: <a href="https://www.youtube.com/watch?v=wMrCs1fdPEQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wMrCs1fdPEQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ager in his family&#x27;s kitchen, where he saw an orb with the...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: imagemaven.com  
    Title: focus on the stars  
-   Link: [https://www.imagemaven.com/blog/focus-on-the-stars](https://www.imagemaven.com/blog/focus-on-the-stars)  
+   Link: <a href="https://www.imagemaven.com/blog/focus-on-the-stars" target="_blank" rel="noopener noreferrer nofollow">https://www.imagemaven.com/blog/focus-on-the-stars</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Sept 2024 — The bottom left corner circle turns green, and you should see the word STAR for a brief moment. You will also hear a beep...</p></details>

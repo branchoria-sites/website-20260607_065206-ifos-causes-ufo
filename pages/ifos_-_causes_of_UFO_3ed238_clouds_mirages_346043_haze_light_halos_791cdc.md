@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_superior_mirage_lift_94a6c8
 - ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_twinkling_moving_sta_10c309
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - atmosphere
 - haze-halos
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - atmosphere
 - haze-halos
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Haze, fog and humid air can make ordinary lights bloom into large glowing objects with no clear outline or distance cue.
 hero_summary: Haze, fog and humid air can make ordinary lights bloom into large glowing objects with no clear outline or distance cue.
 layout: default
 permalink: /haze-halos/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /atmosphere/
 nav_short_title: Haze halos
 title: When haze makes lights look enormous
-title_full: When haze makes lights look enormous | Atmosphere
+title_full: When haze makes lights look enormous
 display_title_short: Haze halos
 display_title: Haze halos
 heading_title: When haze makes lights look enormous
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 09:28:09'
-parent_title: When Weather Makes Shapes in the Sky | IFOs
+parent_title: When Weather Makes Shapes in the Sky
 parent_permalink: /atmosphere/
 parent_nav_short_title: Atmosphere
 parent_heading_title: When Weather Makes Shapes in the Sky
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043
-  title: Atmosphere | Ifos Causes Of
+  title: Atmosphere | ifos causes of UFO 3 ed 238
   permalink: /atmosphere/
   short_title: Atmosphere
   heading_title: When Weather Makes Shapes in the Sky
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043
-  title: Atmosphere | Ifos Causes Of
+  title: Atmosphere | ifos causes of UFO 3 ed 238
   permalink: /atmosphere/
   short_title: Atmosphere
   heading_title: When Weather Makes Shapes in the Sky
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: Why a star can look alive
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043
-  title: Atmosphere | Ifos Causes Of
+  title: Atmosphere | ifos causes of UFO 3 ed 238
   permalink: /atmosphere/
   short_title: Atmosphere
   heading_title: When Weather Makes Shapes in the Sky
@@ -266,6 +265,7 @@ next_link:
   permalink: /lenticulars/
   short_title: Lenticulars
   heading_title: The cloud that really looks like a saucer
+date: '2026-06-12 00:17:31 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_haze_light_halos_791cdc-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_haze_light_halos_791cdc-Illustration-1.webp
@@ -276,13 +276,12 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_haze_lig
 
 One of the simplest ways an ordinary light becomes a reported UFO is through a haze halo. A distant aircraft light, bright star, planet, tower beacon or ground-based lamp can appear dramatically larger when viewed through fog, mist, haze or humid air. Instead of a small point source, the observer sees a glowing orb with blurred edges and no obvious scale. Because the original light is concealed within a luminous bloom, the brain loses many of the visual cues it normally uses to judge distance, size and motion.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_haze_light_halos_791cdc-Illustration-1-dark.svg" | relative_url }}" alt="Haze halos illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_haze_light_halos_791cdc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_haze_light_halos_791cdc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This mechanism belongs within the broader category of atmospheric distortion, but it deserves separate attention because it repeatedly appears in UFO investigations. The phenomenon is not speculative. Aviation authorities, meteorological agencies and visibility researchers all describe how suspended water droplets and airborne particles scatter light, reduce contrast and create halos, glows and enlarged luminous appearances around bright sources. Under the right conditions, these effects can transform an ordinary light into something that appears structured, hovering, enormous or inexplicably distant. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28A_FAA_Web.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">FAA H 8083 28A FAA Web</span><span class="citation-popover-snippet">Federal Aviation AdministrationAviation Weather Handbook 202426 Nov 2024 — Weather and obstructions to visibility include fog, mist, haze...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28A_FAA_Web.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">FAA H 8083 28A FAA Web</span><span class="citation-popover-snippet">Federal Aviation AdministrationAviation Weather Handbook 202426 Nov 2024 — Weather and obstructions to visibility include fog, mist, haze...</span></span></span>
 
 ## Why Small Lights Bloom in Moisture
 
-The fundamental mechanism is light scattering. When light travels through clear air, most of it reaches the observer directly. In fog, mist or haze, however, countless microscopic droplets and particles redirect part of that light in many directions. The result is a reduction in image sharpness and the appearance of a diffuse glow around the source. Meteorological visibility measurements are based on exactly this principle: visibility decreases as particles in the [atmosphere]({{ 'atmosphere/' | relative_url }}) scatter and attenuate light. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8150865/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCVisibility Enhancement and Fog Detection</span><span class="citation-popover-snippet">PMC - NIHby RC Miclea · 2021 · Cited by 48 — Most of the approaches for detecting fog and determining its density for visibility estimati...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/guides/observations/how-we-measure-visibility" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeHow we measure visibilityVisibility sensors measure the meteorological optical range which is defined as the length of atmosphe...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/guides/observations/how-we-measure-visibility" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeHow we measure visibilityVisibility sensors measure the meteorological optical range which is defined as the length of atmosphe...</span></span></span>
+The fundamental mechanism is light scattering. When light travels through clear air, most of it reaches the observer directly. In fog, mist or haze, however, countless microscopic droplets and particles redirect part of that light in many directions. The result is a reduction in image sharpness and the appearance of a diffuse glow around the source. Meteorological visibility measurements are based on exactly this principle: visibility decreases as particles in the [atmosphere]({{ 'atmosphere/' | relative_url }}) scatter and attenuate light. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8150865/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCVisibility Enhancement and Fog Detection</span><span class="citation-popover-snippet">NIHby RC Miclea · 2021 · Cited by 48 — Most of the approaches for detecting fog and determining its density for visibility estimati...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/guides/observations/how-we-measure-visibility" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeHow we measure visibilityVisibility sensors measure the meteorological optical range which is defined as the length of atmosphe...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/guides/observations/how-we-measure-visibility" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeHow we measure visibilityVisibility sensors measure the meteorological optical range which is defined as the length of atmosphe...</span></span></span>
 
 For a UFO witness, the practical consequence is that the apparent size of a light can become disconnected from its true size. A distant landing light on an aircraft may appear as a large luminous sphere. A bright planet near the horizon may resemble a glowing craft. A tower beacon can become a floating orb suspended in darkness.
 
@@ -299,7 +298,6 @@ When a bright light expands into a diffuse glow, its edge becomes uncertain. The
 This problem is well known in aviation. FAA guidance warns [pilots]({{ 'pilots/' | relative_url }}) that fog, haze and restricted visibility can create deceptive visual conditions at night. The Airplane Flying Handbook specifically notes that lights surrounded by a halo or glow can indicate ground fog and worsening visibility. The same handbook warns that visibility through haze or cloud layers is often much worse horizontally than it appears from above. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28A_FAA_Web.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">FAA H 8083 28A FAA Web</span><span class="citation-popover-snippet">Federal Aviation AdministrationAviation Weather Handbook 202426 Nov 2024 — Weather and obstructions to visibility include fog, mist, haze...</span></span></span>
 
 These conditions create a classic UFO-reporting scenario. A witness sees a large glowing object with no discernible structure. Because its distance is unknown, it could be interpreted as a nearby craft hundreds of metres across rather than a distant light source many kilometres away.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/649-jr2oomc" title="FAA AFH 11: Night Operations (Chapter 11)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=649-jr2oomc" target="_blank" rel="noopener noreferrer">FAA AFH 11: Night Operations (Chapter 11)</a></p><p class="youtube-embed-meta">Channel: FlyingForHours &middot; Views: 36 &middot; Uploaded: March 2025 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=649-jr2oomc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=649-jr2oomc">Open on YouTube</a></p></div></div></div>
 
@@ -321,7 +319,6 @@ Atmospheric moisture is rarely uniform. Thin fog banks, drifting mist and layers
 
 A light may appear to:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Grow larger and then shrink.
@@ -335,7 +332,6 @@ A light may appear to:
 These effects can occur even when the underlying light source remains completely steady. The observer perceives a changing object, while the atmosphere is actually changing the appearance of a fixed light.
 
 Meteorological organisations emphasise that fog and mist are often patchy and variable. Dense fog banks can drift rapidly, altering visibility over short distances and short time intervals. Such variability naturally changes the appearance of lights seen through them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/guides/observations/how-we-measure-visibility" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeHow we measure visibilityVisibility sensors measure the meteorological optical range which is defined as the length of atmosphe...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/guides/observations/how-we-measure-visibility" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeHow we measure visibilityVisibility sensors measure the meteorological optical range which is defined as the length of atmosphe...</span></span></span>
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_haze_light_halos_791cdc-Illustration-2-dark.svg" | relative_url }}" alt="Haze halos illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_haze_light_halos_791cdc-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_haze_light_halos_791cdc-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Common Sources Mistaken for Glowing Craft
@@ -352,7 +348,6 @@ Certain light sources repeatedly generate haze-enhanced UFO reports because they
 
 The common factor is not the type of light but the combination of brightness, atmospheric scattering and the absence of reliable [distance cues]({{ 'distance-cues/' | relative_url }}).
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tlDgr4NiQyk" title="REAL UFO Sighting! Salton Sea, Bombay Beach, &amp; Desert Mirage" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tlDgr4NiQyk" target="_blank" rel="noopener noreferrer">REAL UFO Sighting! Salton Sea, Bombay Beach, &amp; Desert Mirage</a></p><p class="youtube-embed-meta">Channel: Nomadic Fanatic &middot; Views: 53.9K &middot; Uploaded: February 2018 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tlDgr4NiQyk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tlDgr4NiQyk">Open on YouTube</a></p></div></div></div>
 
 ## Weather Clues That Support a Haze Explanation
@@ -360,7 +355,6 @@ The common factor is not the type of light but the combination of brightness, at
 Investigators examining a UFO report often look for specific environmental indicators consistent with halo formation.
 
 One important clue is reduced visibility. Meteorological agencies define fog, mist and haze according to visibility conditions, all of which involve increased scattering by suspended particles or droplets. MetService Blog <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metoffice.gov.uk/blog/2025/whats-the-difference-between-mist-fog-and-haze" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metoffice.gov.uk">[data]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeMist, fog, and haze: What&#x27;s the difference?10 Sept 2025 — It is defined as &#x27;when there is obscurity and the associated visibili...</span></span></span> Hub Additional clues include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -376,7 +370,6 @@ One important clue is reduced visibility. Meteorological agencies define fog, mi
 
 A particularly useful diagnostic sign comes from aviation experience. FAA guidance notes that lights acquiring a halo or glow can indicate the presence of ground fog. If ordinary lights in the same area exhibit similar blooming, the UFO-like appearance is more likely to be atmospheric than exotic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28A_FAA_Web.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">FAA H 8083 28A FAA Web</span><span class="citation-popover-snippet">Federal Aviation AdministrationAviation Weather Handbook 202426 Nov 2024 — Weather and obstructions to visibility include fog, mist, haze...</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_haze_light_halos_791cdc-Illustration-3-dark.svg" | relative_url }}" alt="Haze halos illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_haze_light_halos_791cdc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_haze_light_halos_791cdc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Haze Halos Are Convincing to Witnesses
 
@@ -388,9 +381,7 @@ The experience can be genuinely impressive. A bright light transformed by atmosp
 
 Within the study of UFO misidentifications, haze halos are therefore significant not because they create imaginary lights, but because they alter real ones. The atmosphere effectively enlarges, softens and disguises familiar sources until they resemble something far more mysterious than the object that originally produced the light. [community.wmo.int+3Universal Weather and Aviation+3Atmospheric Chemistry and Physics]
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KrySRAuk-WQ" title="Investigating &quot;official&quot; UFO videos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KrySRAuk-WQ" target="_blank" rel="noopener noreferrer">Investigating &quot;official&quot; UFO videos</a></p><p class="youtube-embed-meta">Channel: UBC Physics &amp; Astronomy &middot; Views: 1.5K &middot; Uploaded: October 2020 &middot; Length: 41 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KrySRAuk-WQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KrySRAuk-WQ">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -509,6 +500,22 @@ Within the study of UFO misidentifications, haze halos are therefore significant
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-haze-makes-lights-look-enormous-cloud-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud wall art" data-ebay-reference="when-haze-makes-lights-look-enormous-cloud-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Beach Wall Art Prints Ocean Sunset Tropical Coast Poster Pictures Bathroom Decor"><img src="https://i.ebayimg.com/images/g/VH0AAOSwL3RiJieT/s-l225.jpg" alt="Listing image for Beach Wall Art Prints Ocean Sunset Tropical Coast Poster Pictures Bathroom Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-haze-makes-lights-look-enormous-cloud-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud wall art" data-ebay-reference="when-haze-makes-lights-look-enormous-cloud-wall-art" target="_blank" rel="sponsored noopener noreferrer">Beach Wall Art Prints Ocean Sunset Tropical Coast Poster Pictures Bathroom Decor</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-haze-makes-lights-look-enormous-cloud-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud wall art" data-ebay-reference="when-haze-makes-lights-look-enormous-cloud-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cloud wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: cloud wall art</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-haze-makes-lights-look-enormous-cloud-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud wall art" data-ebay-reference="when-haze-makes-lights-look-enormous-cloud-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-haze-makes-lights-look-enormous-cloud-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud wall art" data-ebay-reference="when-haze-makes-lights-look-enormous-cloud-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 4PCS White MDF Cloud Wall Decor Nursery Kids Baby Room Wooden Cloud Wall Art"><img src="https://i.ebayimg.com/images/g/XY0AAeSwJE9pw-nD/s-l225.jpg" alt="Listing image for 4PCS White MDF Cloud Wall Decor Nursery Kids Baby Room Wooden Cloud Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
@@ -525,11 +532,11 @@ Within the study of UFO misidentifications, haze halos are therefore significant
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-haze-makes-lights-look-enormous-cloud-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud wall art" data-ebay-reference="when-haze-makes-lights-look-enormous-cloud-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sea mountains sky cloud Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/ajwAAeSwLW1pwX90/s-l225.jpg" alt="Listing image for Sea mountains sky cloud Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-haze-makes-lights-look-enormous-cloud-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud wall art" data-ebay-reference="when-haze-makes-lights-look-enormous-cloud-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sunset Ocean Clouds Canvas Wall Art Picture Print"><img src="https://i.ebayimg.com/images/g/Z8cAAeSwl95nprPr/s-l225.jpg" alt="Listing image for Sunset Ocean Clouds Canvas Wall Art Picture Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-haze-makes-lights-look-enormous-cloud-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud wall art" data-ebay-reference="when-haze-makes-lights-look-enormous-cloud-wall-art" target="_blank" rel="sponsored noopener noreferrer">Sea mountains sky cloud Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-haze-makes-lights-look-enormous-cloud-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud wall art" data-ebay-reference="when-haze-makes-lights-look-enormous-cloud-wall-art" target="_blank" rel="sponsored noopener noreferrer">Sunset Ocean Clouds Canvas Wall Art Picture Print</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-haze-makes-lights-look-enormous-cloud-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud wall art" data-ebay-reference="when-haze-makes-lights-look-enormous-cloud-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cloud wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: cloud wall art</a>
         <div class="fr-book-actions">
@@ -541,11 +548,11 @@ Within the study of UFO misidentifications, haze halos are therefore significant
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-haze-makes-lights-look-enormous-cloud-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud wall art" data-ebay-reference="when-haze-makes-lights-look-enormous-cloud-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sunset Ocean Clouds Canvas Wall Art Picture Print"><img src="https://i.ebayimg.com/images/g/Z8cAAeSwl95nprPr/s-l225.jpg" alt="Listing image for Sunset Ocean Clouds Canvas Wall Art Picture Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-haze-makes-lights-look-enormous-cloud-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud wall art" data-ebay-reference="when-haze-makes-lights-look-enormous-cloud-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 10-50X PVC Marble Tiles Wall Sticker Self-Adhesive Stick Kitchen Bathroom Decor"><img src="https://i.ebayimg.com/images/g/CTwAAeSwA0BpDJ4i/s-l225.jpg" alt="Listing image for 10-50X PVC Marble Tiles Wall Sticker Self-Adhesive Stick Kitchen Bathroom Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-haze-makes-lights-look-enormous-cloud-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud wall art" data-ebay-reference="when-haze-makes-lights-look-enormous-cloud-wall-art" target="_blank" rel="sponsored noopener noreferrer">Sunset Ocean Clouds Canvas Wall Art Picture Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-haze-makes-lights-look-enormous-cloud-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud wall art" data-ebay-reference="when-haze-makes-lights-look-enormous-cloud-wall-art" target="_blank" rel="sponsored noopener noreferrer">10-50X PVC Marble Tiles Wall Sticker Self-Adhesive Stick Kitchen Bathroom Decor</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-haze-makes-lights-look-enormous-cloud-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud wall art" data-ebay-reference="when-haze-makes-lights-look-enormous-cloud-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cloud wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: cloud wall art</a>
         <div class="fr-book-actions">
@@ -767,164 +774,165 @@ Within the study of UFO misidentifications, haze halos are therefore significant
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: faa.gov  
    Title: FAA H 8083 28A FAA Web  
-   Link: [https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28A_FAA_Web.pdf](https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28A_FAA_Web.pdf)  
+   Link: <a href="https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28A_FAA_Web.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28A_FAA_Web.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationAviation Weather Handbook 202426 Nov 2024 — Weather and obstructions to visibility include fog, mist, haze...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: faa.gov  
    Title: If a descent occurs  
-   Link: [https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf)  
+   Link: <a href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationAirplane Flying Handbook (3C) Chapter 11If the lights begin to appear surrounded by a halo or glow, Such a...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: faa.gov  
    Title: Federal Aviation Administration Chapter 7  
-   Link: [https://www.faa.gov/air_traffic/publications/ATpubs/AIM/aim0701.html](https://www.faa.gov/air_traffic/publications/ATpubs/AIM/aim0701.html)  
+   Link: <a href="https://www.faa.gov/air_traffic/publications/ATpubs/AIM/aim0701.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/ATpubs/AIM/aim0701.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 7. Safety of Flight... fog, haze or smoke increases the amount of scattered light reaching the receiver. The resulting measuremen...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCVisibility Enhancement and Fog Detection  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8150865/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8150865/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMC - NIHby RC Miclea · 2021 · Cited by 48 — Most of the approaches for detecting fog and determining its density for visibility estimati...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8150865/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8150865/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby RC Miclea · 2021 · Cited by 48 — Most of the approaches for detecting fog and determining its density for visibility estimati...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: blog.metservice.com  
    Title: Physics of Fog  
-   Link: [https://blog.metservice.com/Physics-of-Fog](https://blog.metservice.com/Physics-of-Fog)  
+   Link: <a href="https://blog.metservice.com/Physics-of-Fog" target="_blank" rel="noopener noreferrer nofollow">https://blog.metservice.com/Physics-of-Fog</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>MetService BlogThe Physics of Fog7 Sept 2018 — Mist: similar to fog, however visibility will be reduced to no less than 1000 metres. Haze...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: community.wmo.int  
-   Link: [https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/aviation/aviation-hazards-low-visibility-and-low-cloud](https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/aviation/aviation-hazards-low-visibility-and-low-cloud)  
+   Link: <a href="https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/aviation/aviation-hazards-low-visibility-and-low-cloud" target="_blank" rel="noopener noreferrer nofollow">https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/aviation/aviation-hazards-low-visibility-and-low-cloud</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hazards - Low Visibility and Low CloudPoor visibility may likewise only affect small areas (in the form of showers, or in fog patches), a...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/lmk/fog_tutorial](https://www.weather.gov/lmk/fog_tutorial)  
+   Link: <a href="https://www.weather.gov/lmk/fog_tutorial" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/lmk/fog_tutorial</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Fog FormsRadiation Fog. This type of fog forms at night under clear skies with calm winds when heat absorbed by the earth&#x27;s surface d...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/air_traffic/publications/atpubs/AIP/aip.pdf](https://www.faa.gov/air_traffic/publications/atpubs/AIP/aip.pdf)  
+   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/AIP/aip.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/AIP/aip.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Basic 22nd Edition w Amd 1 dtd 8-22-134 Feb 2010 —... Reports; North Atlantic (NAT). Timekeeping Procedures; and Area... faa.gov. The A...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: weather.metoffice.gov.uk  
-   Link: [https://weather.metoffice.gov.uk/guides/observations/how-we-measure-visibility](https://weather.metoffice.gov.uk/guides/observations/how-we-measure-visibility)  
+   Link: <a href="https://weather.metoffice.gov.uk/guides/observations/how-we-measure-visibility" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/guides/observations/how-we-measure-visibility</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Met OfficeHow we measure visibilityVisibility sensors measure the meteorological optical [range](&amp;#123;&amp;#123; &#x27;range/&#x27; | relative_url &amp;#125;&amp;#125;) which is defined as the length of atmosphe...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: metoffice.gov.uk  
    Title: how does the met office measure sunshine visibility pressure and radiation  
-   Link: [https://www.metoffice.gov.uk/blog/2025/how-does-the-met-office-measure-sunshine-visibility-pressure-and-radiation](https://www.metoffice.gov.uk/blog/2025/how-does-the-met-office-measure-sunshine-visibility-pressure-and-radiation)  
+   Link: <a href="https://www.metoffice.gov.uk/blog/2025/how-does-the-met-office-measure-sunshine-visibility-pressure-and-radiation" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2025/how-does-the-met-office-measure-sunshine-visibility-pressure-and-radiation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Today, most Met Office observing stations use automated sensors to measure visibility.Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/19422568/](https://pubmed.ncbi.nlm.nih.gov/19422568/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/19422568/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/19422568/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>road safety at night, may result either from intraocular light scattering or from external conditions such as fog...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: weather.metoffice.gov.uk  
-   Link: [https://weather.metoffice.gov.uk/learn-about/weather/optical-effects](https://weather.metoffice.gov.uk/learn-about/weather/optical-effects)  
+   Link: <a href="https://weather.metoffice.gov.uk/learn-about/weather/optical-effects" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/optical-effects</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Met OfficeOptical effects: nature&#x27;s light showLight creates stunning displays in our sky through reflection, refraction, scattering, and...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: weather.metoffice.gov.uk  
-   Link: [https://weather.metoffice.gov.uk/learn-about/met-office-for-schools/other-content/other-resources/understanding-weather](https://weather.metoffice.gov.uk/learn-about/met-office-for-schools/other-content/other-resources/understanding-weather)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>weatherIn the atmosphere, the gases in it cause the light to slow down, change direction and scatter, for most colours the effect of this...</p></details>
+   Link: <a href="https://weather.metoffice.gov.uk/learn-about/met-office-for-schools/other-content/other-resources/understanding-weather" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/met-office-for-schools/other-content/other-resources/understanding-weather</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>In the atmosphere, the gases in it cause the light to slow down, change direction and scatter, for most colours the effect of this...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: weather.metoffice.gov.uk  
-   Link: [https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/advice-for-travelling-in-fog](https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/advice-for-travelling-in-fog)  
+   Link: <a href="https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/advice-for-travelling-in-fog" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/advice-for-travelling-in-fog</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Met OfficeAdvice for travelling in fogFog can drift rapidly and is often patchy. Warnings of dense fog are issued when visibility is expe...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: weather.metoffice.gov.uk  
-   Link: [https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/how-fog-affects-travel](https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/how-fog-affects-travel)  
+   Link: <a href="https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/how-fog-affects-travel" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/how-fog-affects-travel</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>fog affects travelHow thick is fog? The official definition of fog is a visibility of less than 1,000 m. This limit is appropriate for av...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: metoffice.gov.uk  
-   Link: [https://www.metoffice.gov.uk/blog/2025/whats-the-difference-between-mist-fog-and-haze](https://www.metoffice.gov.uk/blog/2025/whats-the-difference-between-mist-fog-and-haze)  
+   Link: <a href="https://www.metoffice.gov.uk/blog/2025/whats-the-difference-between-mist-fog-and-haze" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2025/whats-the-difference-between-mist-fog-and-haze</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Met OfficeMist, fog, and haze: What&#x27;s the difference?10 Sept 2025 — It is defined as &#x27;when there is obscurity and the associated visibili...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: weather.metoffice.gov.uk  
-   Link: [https://weather.metoffice.gov.uk/forecast/gcpvj0v07](https://weather.metoffice.gov.uk/forecast/gcpvj0v07)  
+   Link: <a href="https://weather.metoffice.gov.uk/forecast/gcpvj0v07" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/forecast/gcpvj0v07</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(Greater London) weatherLondon 7 day weather forecast including weather warnings, temperature, rain, wind, visibility, humidity and UV...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: metoffice.gov.uk  
-   Link: [https://www.metoffice.gov.uk/](https://www.metoffice.gov.uk/)  
+   Link: <a href="https://www.metoffice.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Met Office: Weather and climate changeMonday: Cloud and rain continues southwards, clearing the UK into the evening...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: weather.metoffice.gov.uk  
-   Link: [https://weather.metoffice.gov.uk/guides/what-does-this-forecast-mean](https://weather.metoffice.gov.uk/guides/what-does-this-forecast-mean)  
+   Link: <a href="https://weather.metoffice.gov.uk/guides/what-does-this-forecast-mean" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/guides/what-does-this-forecast-mean</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>does this forecast mean?Find out how to use Met Office forecast tables. This page explains our weather symbols and forecast data, which w...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: weather.metoffice.gov.uk  
-   Link: [https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/stay-safe-in-fog](https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/stay-safe-in-fog)  
+   Link: <a href="https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/stay-safe-in-fog" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/stay-safe-in-fog</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>metoffice.gov.uk3 tips for staying safe in fogUse fog lights when visibility drops below 100 metres, which is roughly the length of a foo...</p></details>
 
 ### Additional References
 
 21. <a id="endnote-21"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...Blue Book UFO investigation, prepared analyses of UFO data for AF, liaison officer between Da...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: etlaviation.com  
-   Link: [https://www.etlaviation.com/wp-content/uploads/_resources/FAA_Aviation_Weather_for_Pilots_and_Flight_Operations_Personnel_AC_00_6A_1975.pdf](https://www.etlaviation.com/wp-content/uploads/_resources/FAA_Aviation_Weather_for_Pilots_and_Flight_Operations_Personnel_AC_00_6A_1975.pdf)  
+   Link: <a href="https://www.etlaviation.com/wp-content/uploads/_resources/FAA_Aviation_Weather_for_Pilots_and_Flight_Operations_Personnel_AC_00_6A_1975.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.etlaviation.com/wp-content/uploads/_resources/FAA_Aviation_Weather_for_Pilots_and_Flight_Operations_Personnel_AC_00_6A_1975.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FAA_Aviation_Weather_for_Pilot...At night or early morning, radiation fog or stratus clouds often combine with haze or smoke. The fog and...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: cfinotebook.net  
-   Link: [https://www.cfinotebook.net/notebook/weather-and-atmosphere/obstructions-to-visibility](https://www.cfinotebook.net/notebook/weather-and-atmosphere/obstructions-to-visibility)  
+   Link: <a href="https://www.cfinotebook.net/notebook/weather-and-atmosphere/obstructions-to-visibility" target="_blank" rel="noopener noreferrer nofollow">https://www.cfinotebook.net/notebook/weather-and-atmosphere/obstructions-to-visibility</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Obstructions To VisibilityFog forms when air near the surface becomes saturated and can rapidly reduce airport visibility below VFR minim...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: flyhpa.com  
-   Link: [https://www.flyhpa.com/2012/02/the-art-of-flying-at-night/](https://www.flyhpa.com/2012/02/the-art-of-flying-at-night/)  
+   Link: <a href="https://www.flyhpa.com/2012/02/the-art-of-flying-at-night/" target="_blank" rel="noopener noreferrer nofollow">https://www.flyhpa.com/2012/02/the-art-of-flying-at-night/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Art of Flying at NightIn some places, you&#x27;ll have haze that sticks around after dark, but otherwise, as long as there aren&#x27;t low clou...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: nbi.dk  
-   Link: [https://www.nbi.dk/~petersen/Teaching/Stat2016/Project2/UFOdata.txt](https://www.nbi.dk/~petersen/Teaching/Stat2016/Project2/UFOdata.txt)  
+   Link: <a href="https://www.nbi.dk/~petersen/Teaching/Stat2016/Project2/UFOdata.txt" target="_blank" rel="noopener noreferrer nofollow">https://www.nbi.dk/~petersen/Teaching/Stat2016/Project2/UFOdata.txt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOdata.txt... lights coming from the south west moving slowly, I stopped the car next to a food store to get a better look. When I got o...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/398836323_Best_Evidence_that_UAP_Source_and_Utilize_High-Voltage_Electric_Energy_for_Hovering_Hyper-Fast_Acceleration_and_Motion](https://www.researchgate.net/publication/398836323_Best_Evidence_that_UAP_Source_and_Utilize_High-Voltage_Electric_Energy_for_Hovering_Hyper-Fast_Acceleration_and_Motion)  
+   Link: <a href="https://www.researchgate.net/publication/398836323_Best_Evidence_that_UAP_Source_and_Utilize_High-Voltage_Electric_Energy_for_Hovering_Hyper-Fast_Acceleration_and_Motion" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/398836323_Best_Evidence_that_UAP_Source_and_Utilize_High-Voltage_Electric_Energy_for_Hovering_Hyper-Fast_Acceleration_and_Motion</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Best Evidence that UAP Source and Utilize High-Voltage...2 May 2026 — We investigate the best evidence of high-voltage UFO/Unidentified...</p></details>
    Published: May 2026  
 
 27. <a id="endnote-27"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/1eimilp/unexplained_phenomena_purple_haze_and_floating/](https://www.reddit.com/r/HighStrangeness/comments/1eimilp/unexplained_phenomena_purple_haze_and_floating/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/1eimilp/unexplained_phenomena_purple_haze_and_floating/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1eimilp/unexplained_phenomena_purple_haze_and_floating/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It wasn&#x27;t like mist or fog that reduces visibility; instead, it was as if the air itself was tinted purple, kind of wispy...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=649-jr2oomc](https://www.youtube.com/watch?v=649-jr2oomc)  
+   Link: <a href="https://www.youtube.com/watch?v=649-jr2oomc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=649-jr2oomc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FAA AFH 11: Night Operations (Chapter 11)In this video, we break down Chapter 11 of the FAA&#x27;s Airplane Flying Handbook, covering essentia...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: haisenglobal.com  
    Title: transmissometer visibility meter key role in airport weather safety  
-   Link: [https://www.haisenglobal.com/blog/transmissometer-visibility-meter-key-role-in-airport-weather-safety](https://www.haisenglobal.com/blog/transmissometer-visibility-meter-key-role-in-airport-weather-safety)  
+   Link: <a href="https://www.haisenglobal.com/blog/transmissometer-visibility-meter-key-role-in-airport-weather-safety" target="_blank" rel="noopener noreferrer nofollow">https://www.haisenglobal.com/blog/transmissometer-visibility-meter-key-role-in-airport-weather-safety</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Transmissometer (Visibility Meter): Key Role in Airport...27 Aug 2025 — The Transmissometer, also known as a Visibility Meter, is an indi...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/168981243448221/posts/2914534442226207/](https://www.facebook.com/groups/168981243448221/posts/2914534442226207/)  
+   Link: <a href="https://www.facebook.com/groups/168981243448221/posts/2914534442226207/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/168981243448221/posts/2914534442226207/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ne else witness a ufo / space ship in the Western sky Sunday night...</p></details>

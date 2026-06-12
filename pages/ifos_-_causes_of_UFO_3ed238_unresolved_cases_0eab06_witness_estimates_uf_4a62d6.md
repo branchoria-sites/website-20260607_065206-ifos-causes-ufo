@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_starlink_like_lights_681edf
 - ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_weak_files_unresolve_f6f422
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - unresolved-cases
 - witness-limits
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - unresolved-cases
 - witness-limits
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Distance, speed, size and silence can all be misjudged in open sky, turning ordinary objects into unresolved reports.
 hero_summary: Distance, speed, size and silence can all be misjudged in open sky, turning ordinary objects into unresolved reports.
 layout: default
 permalink: /witness-limits/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /unresolved-cases/
 nav_short_title: Witness Limits
 title: Why Sky Witnesses Disagree So Often
-title_full: Why Sky Witnesses Disagree So Often | Unresolved Cases
+title_full: Why Sky Witnesses Disagree So Often
 display_title_short: Witness Limits
 display_title: Witness Limits
 heading_title: Why Sky Witnesses Disagree So Often
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Some UFO Cases Stay Open | IFOs
+parent_title: Why Some UFO Cases Stay Open
 parent_permalink: /unresolved-cases/
 parent_nav_short_title: Unresolved Cases
 parent_heading_title: Why Some UFO Cases Stay Open
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06
-  title: Unresolved Cases | Ifos Causes Of
+  title: Unresolved Cases | ifos causes of UFO 3 ed 238
   permalink: /unresolved-cases/
   short_title: Unresolved Cases
   heading_title: Why Some UFO Cases Stay Open
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06
-  title: Unresolved Cases | Ifos Causes Of
+  title: Unresolved Cases | ifos causes of UFO 3 ed 238
   permalink: /unresolved-cases/
   short_title: Unresolved Cases
   heading_title: Why Some UFO Cases Stay Open
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: When Is Unresolved the Honest Answer?
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06
-  title: Unresolved Cases | Ifos Causes Of
+  title: Unresolved Cases | ifos causes of UFO 3 ed 238
   permalink: /unresolved-cases/
   short_title: Unresolved Cases
   heading_title: Why Some UFO Cases Stay Open
@@ -259,7 +259,7 @@ prev_link:
   permalink: /weak-files/
   short_title: Weak Files
   heading_title: When Is Unresolved the Honest Answer?
-date: '2026-06-07 06:18:17 '
+date: '2026-06-12 00:40:41 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_witness_estimates_uf_4a62d6-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_witness_estimates_uf_4a62d6-Illustration-1.webp
@@ -270,7 +270,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_witnes
 
 Many UFO cases remain unresolved for a surprisingly ordinary reason: investigators cannot reliably determine how far away an observed object was, how large it was, or how fast it was moving. In open sky, people often have few visual reference points. A light, aircraft, balloon, satellite or drone can appear dramatically different depending on viewing angle, lighting conditions and observer movement. When those basic estimates remain uncertain, investigators may be unable to confirm or eliminate conventional explanations, leaving a case open even when nothing extraordinary is required. This problem has been recognised in both historical UFO investigations and modern UAP reviews, which repeatedly emphasise that limited observational data makes definitive identification difficult. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Logistics Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Defense Logistics AgencyProject Blue BookSeptember 25, 2012 — The Air Force groups its evaluations of UFO reports under three general hea...</span><span class="citation-popover-meta">Published: September 25, 2012</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe study of Unidentified Anomalous Phenomena (UAP) presents a unique scientific opportunity tha...</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_witness_estimates_uf_4a62d6-Illustration-1-dark.svg" | relative_url }}" alt="Witness Limits illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_witness_estimates_uf_4a62d6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_witness_estimates_uf_4a62d6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Open Sky Distorts Size and Distance
 
@@ -279,7 +278,6 @@ Human beings are generally good at judging the size and distance of familiar obj
 A bright light against a dark background can seem much closer or much larger than it really is. At night, even trained [pilots]({{ 'pilots/' | relative_url }}) encounter visual illusions because distance becomes difficult to judge when there are few intervening landmarks. The U.S. Federal Aviation Administration specifically warns that limited lighting and a lack of reference points can make distance estimates deceptive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">12 afh ch11</span><span class="citation-popover-snippet">Distance may be deceptive at night due to limited lighting conditions. A lack of intervening references on the ground...Read more...</span></span></span>
 
 This creates a chain reaction in UFO reporting:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -291,10 +289,7 @@ This creates a chain reaction in UFO reporting:
 
 A small drone a few hundred metres away and a large aircraft several kilometres away can occupy similar portions of the observer's field of view. Without independent measurements, distinguishing between them can be difficult.
 
-Modern UAP analysts have highlighted the same issue. The U.S. All-domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})) notes that forced perspective and [range]({{ 'range/' | relative_url }})-estimation errors can cause observers to misinterpret an object's size, distance and behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROEffect of Forced Perspective and Parallax View on UAP...May 8, 2024 — This paper provides a basic overview of these phenomena and th...</span><span class="citation-popover-meta">Published: May 8, 2024</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/I2apGYUX7Q0" title="Why Can&#x27;t We See Evidence of Alien Life?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=I2apGYUX7Q0" target="_blank" rel="noopener noreferrer">Why Can&#x27;t We See Evidence of Alien Life?</a></p><p class="youtube-embed-meta">Channel: TED-Ed</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=I2apGYUX7Q0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=I2apGYUX7Q0">Open on YouTube</a></p></div></div></div>
+Modern UAP analysts have highlighted the same issue. The U.S. All-domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})) notes that forced perspective and [range]({{ 'range/' | relative_url }})-estimation errors can cause observers to misinterpret an object's size, distance and behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Effect of Forced Perspective and Parallax View on UAP...May 8, 2024 — This paper provides a basic overview of these phenomena and th...</span><span class="citation-popover-meta">Published: May 8, 2024</span></span></span>
 
 ## How Inferred Speed Becomes a Case Problem
 
@@ -303,7 +298,6 @@ Witnesses rarely measure speed directly. Instead, they infer it from how quickly
 That inference depends heavily on distance.
 
 Imagine two objects crossing the same angle of sky in ten seconds:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -319,8 +313,7 @@ If the observer guesses the wrong distance, the calculated speed can become wild
 
 One of the most important mechanisms behind reported extreme UFO speeds is parallax. When an observer is moving—especially in an aircraft—nearby and distant objects shift against the background at different rates. This can create the impression that an object is accelerating, pacing an aircraft or making sudden directional changes.
 
-AARO's analysis explains that observers moving rapidly relative to an object may incorrectly interpret apparent motion as extraordinary speed. Forced perspective and parallax together can produce reports of manoeuvres that seem physically remarkable even when the observed object is ordinary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROEffect of Forced Perspective and Parallax View on UAP...May 8, 2024 — This paper provides a basic overview of these phenomena and th...</span><span class="citation-popover-meta">Published: May 8, 2024</span></span></span>
-
+AARO's analysis explains that observers moving rapidly relative to an object may incorrectly interpret apparent motion as extraordinary speed. Forced perspective and parallax together can produce reports of manoeuvres that seem physically remarkable even when the observed object is ordinary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Effect of Forced Perspective and Parallax View on UAP...May 8, 2024 — This paper provides a basic overview of these phenomena and th...</span><span class="citation-popover-meta">Published: May 8, 2024</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_witness_estimates_uf_4a62d6-Illustration-2-dark.svg" | relative_url }}" alt="Witness Limits illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_witness_estimates_uf_4a62d6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_witness_estimates_uf_4a62d6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Why Investigators Cannot Simply Recalculate
@@ -339,21 +332,18 @@ As a result, a report may remain unresolved not because the movement was impossi
 
 People often assume that several witnesses automatically make a UFO report more reliable. Multiple observers can indeed strengthen a case, but they do not eliminate estimation problems.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UoAIrQ1uAEo" title="The UFO Files Didn’t Prove Aliens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UoAIrQ1uAEo" target="_blank" rel="noopener noreferrer">The UFO Files Didn’t Prove Aliens</a></p><p class="youtube-embed-meta">Channel: Render State</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UoAIrQ1uAEo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UoAIrQ1uAEo">Open on YouTube</a></p></div></div></div>
-
 ### When Witnesses Help
 
 Independent observers viewing the same event from different locations can provide valuable triangulation. If investigators know where each witness stood and exactly when observations occurred, they may be able to estimate range and altitude more accurately than with a single report.
 
 This is one reason modern scientific approaches emphasise multiple observation points and multiple sensor types. NASA's UAP study highlighted the need for better-quality observations and multiple measurements because single observations frequently leave critical questions unanswered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe study of Unidentified Anomalous Phenomena (UAP) presents a unique scientific opportunity tha...</span></span></span>
 
+<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_witness_estimates_uf_4a62d6-Illustration-3-dark.svg" | relative_url }}" alt="Witness Limits illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_witness_estimates_uf_4a62d6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_witness_estimates_uf_4a62d6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### When Witnesses Increase Uncertainty
 
 Witnesses often agree that they saw something unusual while disagreeing on key details.
 
 Different observers may report:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -369,8 +359,6 @@ These disagreements are not necessarily signs of dishonesty. Human perception va
 
 For investigators, conflicting descriptions can make an identification harder rather than easier.
 
-
-<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_witness_estimates_uf_4a62d6-Illustration-3-dark.svg" | relative_url }}" alt="Witness Limits illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_witness_estimates_uf_4a62d6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_witness_estimates_uf_4a62d6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Credible Witnesses Still Make Estimation Errors
 
 A common misconception is that estimation errors only affect inexperienced observers. Historical UFO investigations and modern UAP reviews show otherwise.
@@ -381,13 +369,9 @@ Pilots, military personnel and other trained observers may be highly reliable in
 
 Many unresolved UFO reports sit in a middle ground between identification and mystery. Investigators may suspect a balloon, aircraft, satellite, astronomical object or drone, yet lack enough information to prove the explanation.
 
-Project Blue Book repeatedly noted that ordinary objects were often reported as UFOs and distinguished between identified cases, cases with [insufficient data]({{ 'missing-data/' | relative_url }}) and [truly unidentified]({{ 'true-unknowns/' | relative_url }}) reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Logistics Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Defense Logistics AgencyProject Blue BookSeptember 25, 2012 — The Air Force groups its evaluations of UFO reports under three general hea...</span><span class="citation-popover-meta">Published: September 25, 2012</span></span></span>
+Project Blue Book repeatedly noted that ordinary objects were often reported as UFOs and distinguished between identified cases, cases with insufficient data and truly unidentified reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Logistics Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Defense Logistics AgencyProject Blue BookSeptember 25, 2012 — The Air Force groups its evaluations of UFO reports under three general hea...</span><span class="citation-popover-meta">Published: September 25, 2012</span></span></span>
 
-Witness estimates play a central role in that uncertainty. If distance is unknown, size becomes uncertain. If size is uncertain, speed calculations become uncertain. If speed is uncertain, extraordinary manoeuvres may be impossible to verify or dismiss. The result is a report that remains unresolved not because investigators have confirmed something extraordinary, but because the most important measurements were never available in the first place. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROEffect of Forced Perspective and Parallax View on UAP...May 8, 2024 — This paper provides a basic overview of these phenomena and th...</span><span class="citation-popover-meta">Published: May 8, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe study of Unidentified Anomalous Phenomena (UAP) presents a unique scientific opportunity tha...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jvMXA1JhJuE" title="The Most Relaxing UFO &amp; UAP Facts to Fall Asleep To" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jvMXA1JhJuE" target="_blank" rel="noopener noreferrer">The Most Relaxing UFO &amp; UAP Facts to Fall Asleep To</a></p><p class="youtube-embed-meta">Channel: Sleepy Science Channel</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jvMXA1JhJuE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jvMXA1JhJuE">Open on YouTube</a></p></div></div></div>
-
+Witness estimates play a central role in that uncertainty. If distance is unknown, size becomes uncertain. If size is uncertain, speed calculations become uncertain. If speed is uncertain, extraordinary manoeuvres may be impossible to verify or dismiss. The result is a report that remains unresolved not because investigators have confirmed something extraordinary, but because the most important measurements were never available in the first place. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Effect of Forced Perspective and Parallax View on UAP...May 8, 2024 — This paper provides a basic overview of these phenomena and th...</span><span class="citation-popover-meta">Published: May 8, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe study of Unidentified Anomalous Phenomena (UAP) presents a unique scientific opportunity tha...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -506,15 +490,15 @@ Witness estimates play a central role in that uncertainty. If distance is unknow
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-limits-why-sky-witnesses-disagree-so-often-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="witness-limits-why-sky-witnesses-disagree-so-often-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture"><img src="{{ '/assets/images/marketplace-covers/0efa7c31974d5c2eeff0.jpg' | relative_url }}" alt="Listing image for Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sky-witnesses-disagree-so-often-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-sky-witnesses-disagree-so-often-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AD93 Vintage WWI 1916 German Rumpler Aviation Aircraft Motors Poster A3"><img src="https://i.ebayimg.com/images/g/Ih8AAMXQHxVRh2gW/s-l225.jpg" alt="Listing image for AD93 Vintage WWI 1916 German Rumpler Aviation Aircraft Motors Poster A3" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-limits-why-sky-witnesses-disagree-so-often-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="witness-limits-why-sky-witnesses-disagree-so-often-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sky-witnesses-disagree-so-often-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-sky-witnesses-disagree-so-often-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">AD93 Vintage WWI 1916 German Rumpler Aviation Aircraft Motors Poster A3</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-limits-why-sky-witnesses-disagree-so-often-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="witness-limits-why-sky-witnesses-disagree-so-often-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sky-witnesses-disagree-so-often-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-sky-witnesses-disagree-so-often-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-limits-why-sky-witnesses-disagree-so-often-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="witness-limits-why-sky-witnesses-disagree-so-often-ifos-causes-of-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sky-witnesses-disagree-so-often-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-sky-witnesses-disagree-so-often-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -522,15 +506,15 @@ Witness estimates play a central role in that uncertainty. If distance is unknow
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-limits-why-sky-witnesses-disagree-so-often-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="witness-limits-why-sky-witnesses-disagree-so-often-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Full Moon Night Sky Framed Art Prin Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/4e3c44f9f0aac763177e.jpg' | relative_url }}" alt="Listing image for Full Moon Night Sky Framed Art Prin Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sky-witnesses-disagree-so-often-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-sky-witnesses-disagree-so-often-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Royal Air Force Aircraft Poster A3 – RAF Plane Identification Guide – Aviation"><img src="https://i.ebayimg.com/images/g/mukAAeSwYctqHytq/s-l225.jpg" alt="Listing image for Royal Air Force Aircraft Poster A3 – RAF Plane Identification Guide – Aviation" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-limits-why-sky-witnesses-disagree-so-often-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="witness-limits-why-sky-witnesses-disagree-so-often-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Full Moon Night Sky Framed Art Prin Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sky-witnesses-disagree-so-often-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-sky-witnesses-disagree-so-often-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Royal Air Force Aircraft Poster A3 – RAF Plane Identification Guide – Aviation</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-limits-why-sky-witnesses-disagree-so-often-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="witness-limits-why-sky-witnesses-disagree-so-often-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sky-witnesses-disagree-so-often-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-sky-witnesses-disagree-so-often-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-limits-why-sky-witnesses-disagree-so-often-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="witness-limits-why-sky-witnesses-disagree-so-often-ifos-causes-of-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sky-witnesses-disagree-so-often-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-sky-witnesses-disagree-so-often-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -538,15 +522,15 @@ Witness estimates play a central role in that uncertainty. If distance is unknow
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-limits-why-sky-witnesses-disagree-so-often-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="witness-limits-why-sky-witnesses-disagree-so-often-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Beautiful astro starry night sky. F Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2d7db700ef91db184218.jpg' | relative_url }}" alt="Listing image for Beautiful astro starry night sky. F Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sky-witnesses-disagree-so-often-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-sky-witnesses-disagree-so-often-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire aviation poster wall art print un framed various size options available"><img src="https://i.ebayimg.com/images/g/2Q0AAeSwRXpo1A63/s-l225.jpg" alt="Listing image for Spitfire aviation poster wall art print un framed various size options available" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-limits-why-sky-witnesses-disagree-so-often-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="witness-limits-why-sky-witnesses-disagree-so-often-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Beautiful astro starry night sky. F Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sky-witnesses-disagree-so-often-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-sky-witnesses-disagree-so-often-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Spitfire aviation poster wall art print un framed various size options available</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-limits-why-sky-witnesses-disagree-so-often-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="witness-limits-why-sky-witnesses-disagree-so-often-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sky-witnesses-disagree-so-often-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-sky-witnesses-disagree-so-often-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-limits-why-sky-witnesses-disagree-so-often-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="witness-limits-why-sky-witnesses-disagree-so-often-ifos-causes-of-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sky-witnesses-disagree-so-often-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-sky-witnesses-disagree-so-often-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -554,15 +538,15 @@ Witness estimates play a central role in that uncertainty. If distance is unknow
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-limits-why-sky-witnesses-disagree-so-often-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="witness-limits-why-sky-witnesses-disagree-so-often-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Crescent Moon Night Sky Art Starry Forest Wall Print Midnight Landscape Poster"><img src="{{ '/assets/images/marketplace-covers/6d8c08fb07037584328c.jpg' | relative_url }}" alt="Listing image for Crescent Moon Night Sky Art Starry Forest Wall Print Midnight Landscape Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sky-witnesses-disagree-so-often-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-sky-witnesses-disagree-so-often-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Canvas Poster &quot;Dambuster Lancaster&quot; by photographer Paul Heasman. Avro. (bc)"><img src="https://i.ebayimg.com/images/g/PgMAAeSw0gNpkH~g/s-l225.jpg" alt="Listing image for Canvas Poster &quot;Dambuster Lancaster&quot; by photographer Paul Heasman. Avro. (bc)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-limits-why-sky-witnesses-disagree-so-often-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="witness-limits-why-sky-witnesses-disagree-so-often-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Crescent Moon Night Sky Art Starry Forest Wall Print Midnight Landscape Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sky-witnesses-disagree-so-often-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-sky-witnesses-disagree-so-often-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Canvas Poster &quot;Dambuster Lancaster&quot; by photographer Paul Heasman. Avro. (bc)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-limits-why-sky-witnesses-disagree-so-often-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="witness-limits-why-sky-witnesses-disagree-so-often-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sky-witnesses-disagree-so-often-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-sky-witnesses-disagree-so-often-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-limits-why-sky-witnesses-disagree-so-often-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="witness-limits-why-sky-witnesses-disagree-so-often-ifos-causes-of-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sky-witnesses-disagree-so-often-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-sky-witnesses-disagree-so-often-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -570,7 +554,7 @@ Witness estimates play a central role in that uncertainty. If distance is unknow
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-limits-why-sky-witnesses-disagree-so-often-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="witness-limits-why-sky-witnesses-disagree-so-often-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sky-witnesses-disagree-so-often-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-sky-witnesses-disagree-so-often-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -785,120 +769,120 @@ Witness estimates play a central role in that uncertainty. If distance is unknow
 
 1. <a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportThe study of Unidentified Anomalous Phenomena (UAP) presents a unique scientific opportunity tha...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROEffect of Forced Perspective and Parallax View on UAP...May 8, 2024 — This paper provides a basic overview of these phenomena and th...</p></details>
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Effect of Forced Perspective and Parallax View on UAP...May 8, 2024 — This paper provides a basic overview of these phenomena and th...</p></details>
    Published: May 8, 2024  
 
 3. <a id="endnote-3"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/258183090_The_Human_Factors_of_Night_Vision_Goggles_Perceptual_Cognitive_and_Physical_Factors](https://www.researchgate.net/publication/258183090_The_Human_Factors_of_Night_Vision_Goggles_Perceptual_Cognitive_and_Physical_Factors)  
+   Link: <a href="https://www.researchgate.net/publication/258183090_The_Human_Factors_of_Night_Vision_Goggles_Perceptual_Cognitive_and_Physical_Factors" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/258183090_The_Human_Factors_of_Night_Vision_Goggles_Perceptual_Cognitive_and_Physical_Factors</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Human Factors of Night Vision Goggles...The key human factors in NVG use are visual and cognitive performance (visual acuity a...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — The UAP Independent Study shall report on the following questions: What types of scientific data currently collec...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/395858774_Toward_a_Reliability_Scale_for_Assessing_Reports_of_Unidentified_Anomalous_Phenomena_UAP](https://www.researchgate.net/publication/395858774_Toward_a_Reliability_Scale_for_Assessing_Reports_of_Unidentified_Anomalous_Phenomena_UAP)  
+   Link: <a href="https://www.researchgate.net/publication/395858774_Toward_a_Reliability_Scale_for_Assessing_Reports_of_Unidentified_Anomalous_Phenomena_UAP" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395858774_Toward_a_Reliability_Scale_for_Assessing_Reports_of_Unidentified_Anomalous_Phenomena_UAP</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Toward a Reliability Scale for Assessing Reports of...18 Sept 2025 — We categorize UAP sighting reports according to the quality o...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: news.sky.com  
-   Link: [https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933](https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933)  
+   Link: <a href="https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO report - live: Scientists release Unidentified...14 Sept 2023 — NASA has released a report on Unidentified Anomalous Phenomena - com...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: esd.whs.mil  
-   Link: [https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837](https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837)  
+   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Logistics AgencyProject Blue BookSeptember 25, 2012 — The Air Force groups its evaluations of UFO reports under three general hea...</p></details>
    Published: September 25, 2012  
 
 8. <a id="endnote-8"></a>
    Source: faa.gov  
    Title: 12 afh ch11  
-   Link: [https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf)  
+   Link: <a href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Distance may be deceptive at night due to limited lighting conditions. A lack of intervening references on the ground...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: psychologytoday.com  
    Title: psychology and the flying saucer people  
-   Link: [https://www.psychologytoday.com/gb/blog/the-forensic-view/202305/psychology-and-the-flying-saucer-people](https://www.psychologytoday.com/gb/blog/the-forensic-view/202305/psychology-and-the-flying-saucer-people)  
+   Link: <a href="https://www.psychologytoday.com/gb/blog/the-forensic-view/202305/psychology-and-the-flying-saucer-people" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/gb/blog/the-forensic-view/202305/psychology-and-the-flying-saucer-people</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>More from Psychology Today. Forensic Psychology. 3 Min...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
-   Title: [Project Blue Book](&#123;&#123; 'blue-book/' | relative_url &#125;&#125;)  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Title: Project Blue Book  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookProject Blue Book had two goals, namely, to determine if UFOs were a threat to national security, and to scientifical...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: history.com  
-   Link: [https://www.history.com/articles/project-blue-book](https://www.history.com/articles/project-blue-book)  
+   Link: <a href="https://www.history.com/articles/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/project-blue-book</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book - Alien, Definition &amp; Files22 Feb 2010 — Over the next 17 years, Project Blue Book would compile reports of 12,618 UFO...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects25 Jun 2024 — Pro-UFO researchers claim that an extraterrestrial spacecraft and its alien occupants were recov...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: nature.scot  
-   Link: [https://www.nature.scot/doc/guidance-aviation-lighting-impact-assessment](https://www.nature.scot/doc/guidance-aviation-lighting-impact-assessment)  
+   Link: <a href="https://www.nature.scot/doc/guidance-aviation-lighting-impact-assessment" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.scot/doc/guidance-aviation-lighting-impact-assessment</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Guidance on Aviation Lighting Impact AssessmentThe purpose of this Guidance is to bring consistency to the assessment and illustration of...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/](https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/)  
+   Link: <a href="https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...The evidence of aliens that NASA will find is going to be &quot;We&#x27;ve detected animal farts on...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/](https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/)  
+   Link: <a href="https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA has released the Unidentified Anomalous...DOD and NASA now both say there are objects in the air that they can&#x27;t identify. This UAP...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: sky-lens.com  
-   Link: [https://sky-lens.com/guide](https://sky-lens.com/guide)  
+   Link: <a href="https://sky-lens.com/guide" target="_blank" rel="noopener noreferrer nofollow">https://sky-lens.com/guide</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Night Sky Observer&#x27;s Field GuideThe human visual system is optimised for daylight pattern recognition, not for classifying faint light so...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: af.mil  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 remained &quot;un...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: smarteye.se  
-   Link: [https://www.smarteye.se/blog/the-future-of-pilot-training-harnessing-eye-tracking-technology-for-improved-flight-safety/](https://www.smarteye.se/blog/the-future-of-pilot-training-harnessing-eye-tracking-technology-for-improved-flight-safety/)  
+   Link: <a href="https://www.smarteye.se/blog/the-future-of-pilot-training-harnessing-eye-tracking-technology-for-improved-flight-safety/" target="_blank" rel="noopener noreferrer nofollow">https://www.smarteye.se/blog/the-future-of-pilot-training-harnessing-eye-tracking-technology-for-improved-flight-safety/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Eye Tracking in Aviation: Human Factors Research Use Case31 May 2023 — How remote eye tracking technology is revolutionizing pilot traini...</p></details>
    Published: May 2023  
 
 19. <a id="endnote-19"></a>
    Source: wired.com  
-   Link: [https://www.wired.com/story/nasa-ufos-aliens-report-2023](https://www.wired.com/story/nasa-ufos-aliens-report-2023)  
+   Link: <a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The agency stressed the need to shift the conversation from sensationalism to science and eliminate the [stigma](&amp;#123;&amp;#123; &#x27;stigma/&#x27; | relative_url &amp;#125;&amp;#125;) associated with reporting...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SPECIAL REPORT NO. 14. (ANALYSIS OF REPORTS OF UNIDENTIFIED AERIAL OBJECTS). PROJECT NO. 10073. 5 MAY 1955. FOR OFFICIAL USE ONLY. (AFR 1...</p></details>
    Published: MAY 1955  
 
 21. <a id="endnote-21"></a>
    Source: ntrl.ntis.gov  
-   Link: [https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/ADA237641.xhtml](https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/ADA237641.xhtml)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NTRLHuman Factors of Night Vision Devices: Anecdotes from the...Contributing factors included inexperience, division of attention, and f...</p></details>
+   Link: <a href="https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/ADA237641.xhtml" target="_blank" rel="noopener noreferrer nofollow">https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/ADA237641.xhtml</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Human Factors of Night Vision Devices: Anecdotes from the...Contributing factors included inexperience, division of attention, and f...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=TQcqOW39ksk](https://www.youtube.com/watch?v=TQcqOW39ksk)  
+   Link: <a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study ReportNASA commissioned an independent study team to examine unidentified anomalous ph...</p></details>

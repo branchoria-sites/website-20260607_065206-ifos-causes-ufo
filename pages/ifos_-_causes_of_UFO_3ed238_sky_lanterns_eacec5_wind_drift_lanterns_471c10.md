@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5_lantern_formations_11a877
 - ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5_mod_lantern_surge_aa96ee
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - lanterns
 - wind-drift
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - lanterns
 - wind-drift
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: A lantern can seem to hover, turn or move against the wind when upper-level air currents differ from the breeze on the ground.
 hero_summary: A lantern can seem to hover, turn or move against the wind when upper-level air currents differ from the breeze on the ground.
 layout: default
 permalink: /wind-drift/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /lanterns/
 nav_short_title: Wind drift
 title: Why lanterns seem to move under control
-title_full: Why lanterns seem to move under control | Lanterns
+title_full: Why lanterns seem to move under control
 display_title_short: Wind drift
 display_title: Wind drift
 heading_title: Why lanterns seem to move under control
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 03:53:12'
-parent_title: The Orange Lights That Start UFO Reports | IFOs
+parent_title: The Orange Lights That Start UFO Reports
 parent_permalink: /lanterns/
 parent_nav_short_title: Lanterns
 parent_heading_title: The Orange Lights That Start UFO Reports
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5
-  title: Lanterns | Ifos Causes Of
+  title: Lanterns | ifos causes of UFO 3 ed 238
   permalink: /lanterns/
   short_title: Lanterns
   heading_title: The Orange Lights That Start UFO Reports
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5
-  title: Lanterns | Ifos Causes Of
+  title: Lanterns | ifos causes of UFO 3 ed 238
   permalink: /lanterns/
   short_title: Lanterns
   heading_title: The Orange Lights That Start UFO Reports
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: The lantern craze that flooded UFO reports
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5
-  title: Lanterns | Ifos Causes Of
+  title: Lanterns | ifos causes of UFO 3 ed 238
   permalink: /lanterns/
   short_title: Lanterns
   heading_title: The Orange Lights That Start UFO Reports
@@ -260,6 +259,7 @@ prev_link:
   permalink: /mo-d-surge/
   short_title: Mo D surge
   heading_title: The lantern craze that flooded UFO reports
+date: '2026-06-12 00:19:09 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5_wind_drift_lanterns_471c10-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5_wind_drift_lanterns_471c10-Illustration-1.webp
@@ -268,8 +268,7 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5_wind_drift
 
 ## Introduction
 
-A common reason [sky lanterns]({{ 'lanterns/' | relative_url }}) are reported as UFOs is that their motion can appear controlled even when it is entirely wind-driven. Witnesses often compare what they see with the breeze they feel at ground level. When the glowing object then moves in a different direction, slows down, speeds up, or seems to pause, it can look as though it is being steered intelligently.
-
+A common reason sky lanterns are reported as UFOs is that their motion can appear controlled even when it is entirely wind-driven. Witnesses often compare what they see with the breeze they feel at ground level. When the glowing object then moves in a different direction, slows down, speeds up, or seems to pause, it can look as though it is being steered intelligently.
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5_wind_drift_lanterns_471c10-Illustration-1-dark.svg" | relative_url }}" alt="Wind drift illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5_wind_drift_lanterns_471c10-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5_wind_drift_lanterns_471c10-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 In reality, a lantern is carried by the air mass surrounding it, not by the wind at the observer's location. Because [wind direction]({{ 'wind-direction/' | relative_url }}) and speed frequently change with altitude, a lantern can follow a path that appears inconsistent with local conditions. Combined with poor [distance cues]({{ 'distance-cues/' | relative_url }}) at night, this creates one of the most convincing sources of apparently purposeful motion in reports of slow orange lights. The effect was prominent during the surge of UK UFO reports linked to Chinese lanterns in the late 2000s, when many witnesses described silent orange lights moving in formation or behaving as if under control. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National ArchivesUFO file release video transcriptThis was a period when the Ministry was receiving a very large number of sightings of o...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National ArchivesUFO file release video transcriptThis was a period when the Ministry was receiving a very large number of sightings of o...</span></span></span>
@@ -282,7 +281,6 @@ A person standing in a garden, field or car park experiences only the lowest lay
 
 This produces several behaviours that witnesses may interpret as deliberate:
 
-
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
 * **Apparent movement against the wind:** the observer feels a breeze from one direction, yet the light drifts another way because it has entered a higher air current.
@@ -293,7 +291,6 @@ This produces several behaviours that witnesses may interpret as deliberate:
 </div>
 
 None of these effects requires any active control. They emerge naturally from a lightweight object drifting through a layered atmosphere.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/K2wl19P8Q68" title="Sky Lantern Disaster!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=K2wl19P8Q68" target="_blank" rel="noopener noreferrer">Sky Lantern Disaster!</a></p><p class="youtube-embed-meta">Channel: NightHawkInLight &middot; Views: 90.9K &middot; Uploaded: July 2010 &middot; Length: 36 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=K2wl19P8Q68" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=K2wl19P8Q68">Open on YouTube</a></p></div></div></div>
 
@@ -322,7 +319,6 @@ The angular movement seen by the observer may be identical, but the inferred spe
 
 This is one reason UFO reports often contain statements that an object was travelling "too slowly for an aircraft" while also covering what seems to be a substantial distance. The estimated speed depends heavily on the assumed range, and the range is often unknown. Astronomical and UFO-identification guides routinely note that optical and distance illusions are among the most common causes of misidentified aerial phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-snippet">Here we&#x27;ll look at some of the most likely suspects...</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5_wind_drift_lanterns_471c10-Illustration-2-dark.svg" | relative_url }}" alt="Wind drift illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5_wind_drift_lanterns_471c10-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5_wind_drift_lanterns_471c10-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Motion toward the observer
 
@@ -336,7 +332,6 @@ The observer is seeing a change in viewing angle, not necessarily a change in th
 
 Not every orange light is a lantern, but several observations increase the likelihood that wind drift is the correct explanation.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4Av-1ETlJzw" title="Oregon pilot puzzled by mysterious, bright lights in sky" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4Av-1ETlJzw" target="_blank" rel="noopener noreferrer">Oregon pilot puzzled by mysterious, bright lights in sky</a></p><p class="youtube-embed-meta">Channel: KGW News &middot; Views: 83.8K &middot; Uploaded: December 2024 &middot; Length: 1 minute 49 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4Av-1ETlJzw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4Av-1ETlJzw">Open on YouTube</a></p></div></div></div>
 
 ### The motion is smooth rather than abrupt
@@ -347,13 +342,11 @@ Lanterns tend to follow broad, flowing paths. They may curve, climb or gradually
 
 When several lanterns are released together, they often enter the same air mass and maintain roughly similar spacing. Witnesses may interpret this as formation flying, yet the shared motion can result simply from common wind transport. Reports of clustered orange lights moving silently in loose groups became a recurring feature of lantern-related UFO sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National ArchivesUFO file release video transcriptThis was a period when the Ministry was receiving a very large number of sightings of o...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MO9pFD8oPj8" title="Is this Glowing Orb a Chinese Sky Lantern?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MO9pFD8oPj8" target="_blank" rel="noopener noreferrer">Is this Glowing Orb a Chinese Sky Lantern?</a></p><p class="youtube-embed-meta">Channel: Mick West &middot; Views: 2.4K &middot; Uploaded: July 2018 &middot; Length: 59 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MO9pFD8oPj8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MO9pFD8oPj8">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pqkxYbVEvAU" title="What do drones look like? Are lights in the night UFOs, planes? Here&#x27;s what to know." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pqkxYbVEvAU" target="_blank" rel="noopener noreferrer">What do drones look like? Are lights in the night UFOs, planes? Here&#x27;s what to know.</a></p><p class="youtube-embed-meta">Channel: NBC10 Boston &middot; Views: 22.9K &middot; Uploaded: December 2024 &middot; Length: 1 minute 39 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pqkxYbVEvAU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pqkxYbVEvAU">Open on YouTube</a></p></div></div></div>
 
 ### The light fades rather than departs
 
 A lantern's flame weakens over time. As it becomes more distant or the fuel burns down, the glow can dim gradually, disappear, reappear briefly and then vanish. This can create the impression that the object accelerated away or switched itself off. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National ArchivesUFO file release video transcriptThis was a period when the Ministry was receiving a very large number of sightings of o...</span></span></span>
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5_wind_drift_lanterns_471c10-Illustration-3-dark.svg" | relative_url }}" alt="Wind drift illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5_wind_drift_lanterns_471c10-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5_wind_drift_lanterns_471c10-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Local conditions support a release
@@ -459,7 +452,7 @@ When distance is uncertain and atmospheric winds differ between ground level and
         <p class="fr-section-kicker">eBay marketplace picks</p>
         <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
       </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
       <div class="fr-ebay-market-toolbar">
         <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
@@ -483,15 +476,15 @@ When distance is uncertain and atmospheric winds differ between ground level and
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-drift-why-lanterns-seem-to-move-under-control-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="wind-drift-why-lanterns-seem-to-move-under-control-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anderson Entertainment UFO Saucer Collectable"><img src="{{ '/assets/images/marketplace-covers/3fcedd05f4d4333b7b2b.jpg' | relative_url }}" alt="Listing image for Anderson Entertainment UFO Saucer Collectable" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lanterns-seem-to-move-under-control-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="why-lanterns-seem-to-move-under-control-sky-lantern" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Double Glazed Rooflight Window Glass Skylight Flat Roof Sky Light Lantern"><img src="https://i.ebayimg.com/images/g/9BkAAeSwvLVqJmdM/s-l225.jpg" alt="Listing image for Double Glazed Rooflight Window Glass Skylight Flat Roof Sky Light Lantern" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-drift-why-lanterns-seem-to-move-under-control-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="wind-drift-why-lanterns-seem-to-move-under-control-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Anderson Entertainment UFO Saucer Collectable</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lanterns-seem-to-move-under-control-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="why-lanterns-seem-to-move-under-control-sky-lantern" target="_blank" rel="sponsored noopener noreferrer">Double Glazed Rooflight Window Glass Skylight Flat Roof Sky Light Lantern</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-drift-why-lanterns-seem-to-move-under-control-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="wind-drift-why-lanterns-seem-to-move-under-control-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lanterns-seem-to-move-under-control-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="why-lanterns-seem-to-move-under-control-sky-lantern" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sky lantern">Search <span data-ebay-domain-label>eBay.co.uk</span>: sky lantern</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-drift-why-lanterns-seem-to-move-under-control-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="wind-drift-why-lanterns-seem-to-move-under-control-ifos-causes-of-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lanterns-seem-to-move-under-control-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="why-lanterns-seem-to-move-under-control-sky-lantern" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -499,15 +492,15 @@ When distance is uncertain and atmospheric winds differ between ground level and
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-drift-why-lanterns-seem-to-move-under-control-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="wind-drift-why-lanterns-seem-to-move-under-control-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE"><img src="{{ '/assets/images/marketplace-covers/be015d518def7513643e.jpg' | relative_url }}" alt="Listing image for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lanterns-seem-to-move-under-control-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="why-lanterns-seem-to-move-under-control-sky-lantern" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Paper Lantern Paper Lanterns Lampshade Birthday Wedding Christmas Party"><img src="https://i.ebayimg.com/images/g/nC4AAeSwKzJqEVUS/s-l225.jpg" alt="Listing image for Paper Lantern Paper Lanterns Lampshade Birthday Wedding Christmas Party" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-drift-why-lanterns-seem-to-move-under-control-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="wind-drift-why-lanterns-seem-to-move-under-control-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lanterns-seem-to-move-under-control-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="why-lanterns-seem-to-move-under-control-sky-lantern" target="_blank" rel="sponsored noopener noreferrer">Paper Lantern Paper Lanterns Lampshade Birthday Wedding Christmas Party</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-drift-why-lanterns-seem-to-move-under-control-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="wind-drift-why-lanterns-seem-to-move-under-control-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lanterns-seem-to-move-under-control-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="why-lanterns-seem-to-move-under-control-sky-lantern" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sky lantern">Search <span data-ebay-domain-label>eBay.co.uk</span>: sky lantern</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-drift-why-lanterns-seem-to-move-under-control-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="wind-drift-why-lanterns-seem-to-move-under-control-ifos-causes-of-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lanterns-seem-to-move-under-control-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="why-lanterns-seem-to-move-under-control-sky-lantern" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -515,15 +508,15 @@ When distance is uncertain and atmospheric winds differ between ground level and
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-drift-why-lanterns-seem-to-move-under-control-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="wind-drift-why-lanterns-seem-to-move-under-control-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/16d7257b5b6fa9c07f55.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lanterns-seem-to-move-under-control-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="why-lanterns-seem-to-move-under-control-sky-lantern" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nelly and the Flight of the Sky Lantern,Roland Chambers, Ella Ok"><img src="https://i.ebayimg.com/images/g/BvUAAeSwcQ9qIrGz/s-l225.jpg" alt="Listing image for Nelly and the Flight of the Sky Lantern,Roland Chambers, Ella Ok" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-drift-why-lanterns-seem-to-move-under-control-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="wind-drift-why-lanterns-seem-to-move-under-control-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lanterns-seem-to-move-under-control-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="why-lanterns-seem-to-move-under-control-sky-lantern" target="_blank" rel="sponsored noopener noreferrer">Nelly and the Flight of the Sky Lantern,Roland Chambers, Ella Ok</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-drift-why-lanterns-seem-to-move-under-control-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="wind-drift-why-lanterns-seem-to-move-under-control-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lanterns-seem-to-move-under-control-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="why-lanterns-seem-to-move-under-control-sky-lantern" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sky lantern">Search <span data-ebay-domain-label>eBay.co.uk</span>: sky lantern</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-drift-why-lanterns-seem-to-move-under-control-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="wind-drift-why-lanterns-seem-to-move-under-control-ifos-causes-of-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lanterns-seem-to-move-under-control-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="why-lanterns-seem-to-move-under-control-sky-lantern" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -531,15 +524,15 @@ When distance is uncertain and atmospheric winds differ between ground level and
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-drift-why-lanterns-seem-to-move-under-control-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="wind-drift-why-lanterns-seem-to-move-under-control-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lanterns-seem-to-move-under-control-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="why-lanterns-seem-to-move-under-control-sky-lantern" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for sky pod rooflight ,Bi fold doors and roof lanterns. FAST delivery times"><img src="https://i.ebayimg.com/images/g/mgoAAOSwd7FmDWeJ/s-l225.jpg" alt="Listing image for sky pod rooflight ,Bi fold doors and roof lanterns. FAST delivery times" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-drift-why-lanterns-seem-to-move-under-control-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="wind-drift-why-lanterns-seem-to-move-under-control-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lanterns-seem-to-move-under-control-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="why-lanterns-seem-to-move-under-control-sky-lantern" target="_blank" rel="sponsored noopener noreferrer">sky pod rooflight ,Bi fold doors and roof lanterns. FAST delivery times</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-drift-why-lanterns-seem-to-move-under-control-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="wind-drift-why-lanterns-seem-to-move-under-control-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lanterns-seem-to-move-under-control-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="why-lanterns-seem-to-move-under-control-sky-lantern" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sky lantern">Search <span data-ebay-domain-label>eBay.co.uk</span>: sky lantern</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-drift-why-lanterns-seem-to-move-under-control-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="wind-drift-why-lanterns-seem-to-move-under-control-ifos-causes-of-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lanterns-seem-to-move-under-control-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="why-lanterns-seem-to-move-under-control-sky-lantern" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -547,7 +540,7 @@ When distance is uncertain and atmospheric winds differ between ground level and
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-drift-why-lanterns-seem-to-move-under-control-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="wind-drift-why-lanterns-seem-to-move-under-control-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lanterns-seem-to-move-under-control-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="why-lanterns-seem-to-move-under-control-sky-lantern" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -762,94 +755,94 @@ When distance is uncertain and atmospheric winds differ between ground level and
 
 1. <a id="endnote-1"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: [https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf](https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf)  
+   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesUFO file release video transcriptThis was a period when the Ministry was receiving a very large number of sightings of o...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo highlights guide 2013  
-   Link: [https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf](https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf)  
+   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Archivesufo-highlights-guide-2013.pdfUFO sightings and Chinese lantern craze. Details of the sighting reports... Formations of...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/](https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reportsMost of these records describe shapes, lights and flashes, which can often be explained, while others are more unusual. Early...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: manchesterfire.gov.uk  
    Title: GMFRSSky Lanterns  
-   Link: [https://manchesterfire.gov.uk/your-safety/home-fire-safety/celebrating-safely/sky-lanterns/](https://manchesterfire.gov.uk/your-safety/home-fire-safety/celebrating-safely/sky-lanterns/)  
+   Link: <a href="https://manchesterfire.gov.uk/your-safety/home-fire-safety/celebrating-safely/sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://manchesterfire.gov.uk/your-safety/home-fire-safety/celebrating-safely/sky-lanterns/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Be aware of any other local conditions... Be aware of any other local conditions that could affect launch or landing safety...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: hwfire.org.uk  
-   Link: [https://www.hwfire.org.uk/advice/outdoors/sky-lanterns/](https://www.hwfire.org.uk/advice/outdoors/sky-lanterns/)  
+   Link: <a href="https://www.hwfire.org.uk/advice/outdoors/sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://www.hwfire.org.uk/advice/outdoors/sky-lanterns/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hereford &amp; Worcester Fire RescueSky LanternsDo not launch in wind speeds in excess of five miles per hour. Check wind direction before la...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: skyatnightmagazine.com  
-   Link: [https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos](https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos)  
+   Link: <a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Here we&#x27;ll look at some of the most likely suspects...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: merseyfire.gov.uk  
-   Link: [https://www.merseyfire.gov.uk/safety-advice/community-safety/sky-lanterns/](https://www.merseyfire.gov.uk/safety-advice/community-safety/sky-lanterns/)  
+   Link: <a href="https://www.merseyfire.gov.uk/safety-advice/community-safety/sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://www.merseyfire.gov.uk/safety-advice/community-safety/sky-lanterns/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky Lanterns | Merseyside Fire &amp; Rescue...Children and other observers should maintain a safe distance upwind of the launch area; Two ad...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: nfcc.org.uk  
    Title: Sky Lanterns  
-   Link: [https://nfcc.org.uk/our-services/building-safety/protection-building-safety/sky-lanterns/](https://nfcc.org.uk/our-services/building-safety/protection-building-safety/sky-lanterns/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NFCCThese floating lanterns not only constitute a fire hazard but also pose a risk to livestock, agriculture, camping activities, thatche...</p></details>
+   Link: <a href="https://nfcc.org.uk/our-services/building-safety/protection-building-safety/sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://nfcc.org.uk/our-services/building-safety/protection-building-safety/sky-lanterns/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>These floating lanterns not only constitute a fire hazard but also pose a risk to livestock, agriculture, camping activities, thatche...</p></details>
 
 ### Additional References
 
 9. <a id="endnote-9"></a>
    Source: norfolk.gov.uk  
-   Link: [https://www.norfolk.gov.uk/article/43844/Chinese-lanterns](https://www.norfolk.gov.uk/article/43844/Chinese-lanterns)  
+   Link: <a href="https://www.norfolk.gov.uk/article/43844/Chinese-lanterns" target="_blank" rel="noopener noreferrer nofollow">https://www.norfolk.gov.uk/article/43844/Chinese-lanterns</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chinese lanternsSky lanterns can pose a significant fire hazard. The Norfolk sky lantern and balloon release charter encourages businesse...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: hwb.gov.wales  
-   Link: [https://hwb.gov.wales/api/storage/6f1582f4-be69-40eb-99bf-99c8a799f47a/Task%2090%20Sky%20lanterns%202.pdf](https://hwb.gov.wales/api/storage/6f1582f4-be69-40eb-99bf-99c8a799f47a/Task%2090%20Sky%20lanterns%202.pdf)  
+   Link: <a href="https://hwb.gov.wales/api/storage/6f1582f4-be69-40eb-99bf-99c8a799f47a/Task%2090%20Sky%20lanterns%202.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hwb.gov.wales/api/storage/6f1582f4-be69-40eb-99bf-99c8a799f47a/Task%2090%20Sky%20lanterns%202.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Health and Wellbeing WalesSky lanterns (2)Do not launch if there is more than a very light breeze;. • Check the wind direction and do not...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1j02ugp/real_ufos/](https://www.reddit.com/r/UFOs/comments/1j02ugp/real_ufos/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1j02ugp/real_ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1j02ugp/real_ufos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Real UFOs?: r/UFOsI recorded this above my house. They weren’t too high up. What made me curious was the way they were moving, airplanes...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ManitobaMuseum/posts/ufo-or-ifoa-ufo-is-an-unidentified-flying-object-something-in-the-sky-that-moves/10156882970027303/](https://www.facebook.com/ManitobaMuseum/posts/ufo-or-ifoa-ufo-is-an-unidentified-flying-object-something-in-the-sky-that-moves/10156882970027303/)  
+   Link: <a href="https://www.facebook.com/ManitobaMuseum/posts/ufo-or-ifoa-ufo-is-an-unidentified-flying-object-something-in-the-sky-that-moves/10156882970027303/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ManitobaMuseum/posts/ufo-or-ifoa-ufo-is-an-unidentified-flying-object-something-in-the-sky-that-moves/10156882970027303/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO or IFO? A UFO is an unidentified flying object...UFO reports vary in reliability and often involve sightings of objects perceived to...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/OfficialNickGroff/posts/ufo-did-anyone-else-experience-this-object-in-the-sky-tonight-in-niagara-falls-n/866700721479642/](https://www.facebook.com/OfficialNickGroff/posts/ufo-did-anyone-else-experience-this-object-in-the-sky-tonight-in-niagara-falls-n/866700721479642/)  
+   Link: <a href="https://www.facebook.com/OfficialNickGroff/posts/ufo-did-anyone-else-experience-this-object-in-the-sky-tonight-in-niagara-falls-n/866700721479642/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OfficialNickGroff/posts/ufo-did-anyone-else-experience-this-object-in-the-sky-tonight-in-niagara-falls-n/866700721479642/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO? Did anyone else experience this object in the sky...Around 9:45pm Sept 15th, I saw a straight line of &quot;[stars](&amp;#123;&amp;#123; &#x27;stars/&#x27; | relative_url &amp;#125;&amp;#125;)&quot; in the sky about 12 o...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: author-portal.tradingstandards.uk  
-   Link: [https://author-portal.tradingstandards.uk/sites/default/files/Industry-Code-of-Practice-Sky-Lanterns-2014.pdf](https://author-portal.tradingstandards.uk/sites/default/files/Industry-Code-of-Practice-Sky-Lanterns-2014.pdf)  
+   Link: <a href="https://author-portal.tradingstandards.uk/sites/default/files/Industry-Code-of-Practice-Sky-Lanterns-2014.pdf" target="_blank" rel="noopener noreferrer nofollow">https://author-portal.tradingstandards.uk/sites/default/files/Industry-Code-of-Practice-Sky-Lanterns-2014.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Code of Practice: Sky LanternsIt is structured in four parts: 1. Design and manufacture;. 2. Safety checks;. 3. Warnings and instructions...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TheNationalArchives/posts/santas-sleigh-or-something-stranger-if-youre-gazing-skyward-tonight-looking-out-/1288771629958788/](https://www.facebook.com/TheNationalArchives/posts/santas-sleigh-or-something-stranger-if-youre-gazing-skyward-tonight-looking-out-/1288771629958788/)  
+   Link: <a href="https://www.facebook.com/TheNationalArchives/posts/santas-sleigh-or-something-stranger-if-youre-gazing-skyward-tonight-looking-out-/1288771629958788/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheNationalArchives/posts/santas-sleigh-or-something-stranger-if-youre-gazing-skyward-tonight-looking-out-/1288771629958788/</a>  
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=4Av-1ETlJzw](https://www.youtube.com/watch?v=4Av-1ETlJzw)  
+   Link: <a href="https://www.youtube.com/watch?v=4Av-1ETlJzw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4Av-1ETlJzw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Oregon pilot puzzled by mysterious, bright lights in skyAt least four commercial [pilots](&amp;#123;&amp;#123; &#x27;pilots/&#x27; | relative_url &amp;#125;&amp;#125;) encountered mysterious lights darting through the...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: kaggle.com  
-   Link: [https://www.kaggle.com/code/utkarshx27/predicting-aliens-preferred-ufo-shapes-using-ml](https://www.kaggle.com/code/utkarshx27/predicting-aliens-preferred-ufo-shapes-using-ml)  
+   Link: <a href="https://www.kaggle.com/code/utkarshx27/predicting-aliens-preferred-ufo-shapes-using-ml" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/code/utkarshx27/predicting-aliens-preferred-ufo-shapes-using-ml</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Multiple lights hovering in a row North of Phoenix! Four large white lights on bottom flew...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/324690748_Sky_Lanterns_And_Aviation_Safety_A_Study_At_The_Mae_Fah_Luang_Chiangrai_Airport](https://www.researchgate.net/publication/324690748_Sky_Lanterns_And_Aviation_Safety_A_Study_At_The_Mae_Fah_Luang_Chiangrai_Airport)  
+   Link: <a href="https://www.researchgate.net/publication/324690748_Sky_Lanterns_And_Aviation_Safety_A_Study_At_The_Mae_Fah_Luang_Chiangrai_Airport" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/324690748_Sky_Lanterns_And_Aviation_Safety_A_Study_At_The_Mae_Fah_Luang_Chiangrai_Airport</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lantern obstructs pilots&#x27; vision. Usually, when releasing · 2. Lantern slips into aircraft&#x27;s engine may be the cause of · 3. Lantern drif...</p></details>

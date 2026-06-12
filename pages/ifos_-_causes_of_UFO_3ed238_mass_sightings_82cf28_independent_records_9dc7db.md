@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28_rocket_spiral_scares_f9cc56
 - ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28_starlink_mass_report_88b555
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - mass-sightings
 - independent-records
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - mass-sightings
 - independent-records
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Mass sightings become more useful when witness accounts are separated and matched to photos, radar, flight data, weather and sky positions.
 hero_summary: Mass sightings become more useful when witness accounts are separated and matched to photos, radar, flight data, weather and sky positions.
 layout: default
 permalink: /independent-records/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /mass-sightings/
 nav_short_title: Independent Records
 title: What makes many UFO witnesses useful?
-title_full: What makes many UFO witnesses useful? | Mass Sightings
+title_full: What makes many UFO witnesses useful?
 display_title_short: Independent Records
 display_title: Independent Records
 heading_title: What makes many UFO witnesses useful?
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Groups Can Share One Mistake | IFOs
+parent_title: Why Groups Can Share One Mistake
 parent_permalink: /mass-sightings/
 parent_nav_short_title: Mass Sightings
 parent_heading_title: Why Groups Can Share One Mistake
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28
-  title: Mass Sightings | Ifos Causes Of
+  title: Mass Sightings | ifos causes of UFO 3 ed 238
   permalink: /mass-sightings/
   short_title: Mass Sightings
   heading_title: Why Groups Can Share One Mistake
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28
-  title: Mass Sightings | Ifos Causes Of
+  title: Mass Sightings | ifos causes of UFO 3 ed 238
   permalink: /mass-sightings/
   short_title: Mass Sightings
   heading_title: Why Groups Can Share One Mistake
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why Starlink trains look like UFO formations
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28
-  title: Mass Sightings | Ifos Causes Of
+  title: Mass Sightings | ifos causes of UFO 3 ed 238
   permalink: /mass-sightings/
   short_title: Mass Sightings
   heading_title: Why Groups Can Share One Mistake
@@ -265,7 +265,7 @@ next_link:
   permalink: /rocket-spirals/
   short_title: Rocket Spirals
   heading_title: When rocket spirals become UFO scares
-date: '2026-06-07 05:40:48 '
+date: '2026-06-12 00:21:27 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28_independent_records_9dc7db-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28_independent_records_9dc7db-Illustration-1.webp
@@ -275,7 +275,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28_independ
 ## Introduction
 
 A mass UFO sighting becomes genuinely useful to investigators when it produces multiple lines of evidence that can be checked independently of the witnesses themselves. Large numbers of people may confirm that something unusual was visible, but numbers alone do not establish what was seen. The strongest cases are those in which separate witness accounts can be matched against photographs, videos, radar records, flight-tracking data, astronomical positions, weather observations, [timestamps]({{ 'timestamps/' | relative_url }}) and other records that were created without reference to a shared story. NASA's independent UAP study highlighted the need for multiple measurements, [calibrated sensors]({{ 'sensor-artefacts/' | relative_url }}) and reliable metadata because eyewitness testimony by itself rarely provides enough information for firm conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">data both for characterizing natural phenomena and anomalies... On June 9, 2022, NASA announced an independent study of unidentified ano...</span><span class="citation-popover-meta">Published: June 9, 2022</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">data both for characterizing natural phenomena and anomalies... On June 9, 2022, NASA announced an independent study of unidentified ano...</span><span class="citation-popover-meta">Published: June 9, 2022</span></span></span>
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28_independent_records_9dc7db-Illustration-1-dark.svg" | relative_url }}" alt="Independent Records illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28_independent_records_9dc7db-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28_independent_records_9dc7db-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within the broader problem of [mass sightings]({{ 'mass-sightings/' | relative_url }}) and social amplification, independent records serve as a safeguard against collective misinterpretation. They help investigators determine whether many people witnessed the same external event or whether publicity and discussion gradually shaped a common narrative.
@@ -287,7 +286,6 @@ A common misunderstanding in UFO discussions is that a report automatically beco
 Independence matters because human memory is reconstructive. Once an explanation begins circulating, witnesses often adopt shared descriptions and terminology. Details that were uncertain immediately after the event can become increasingly consistent over time, not because they are necessarily accurate but because a common narrative has emerged.
 
 For this reason, investigators place particular value on:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -310,7 +308,6 @@ Images are often more valuable for their metadata than for the object itself. Ti
 
 When several images are taken from different locations, investigators can compare sightlines. If the object appears against different backgrounds at the same time, triangulation may provide distance estimates. If triangulation fails because all lines of sight converge at great distance, that result is informative as well.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rhP8VdCIz9A" title="UAP FILES - Visual Evidence from 3 Cases over Africa (2022-2024)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rhP8VdCIz9A" target="_blank" rel="noopener noreferrer">UAP FILES - Visual Evidence from 3 Cases over Africa (2022-2024)</a></p><p class="youtube-embed-meta">Channel: Media Magik Entertainment &middot; Views: 1.3K &middot; Uploaded: August 2025 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rhP8VdCIz9A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rhP8VdCIz9A">Open on YouTube</a></p></div></div></div>
 
 ### Flight, satellite and launch records
@@ -318,7 +315,6 @@ When several images are taken from different locations, investigators can compar
 Many modern mass sightings are resolved by comparing reports with independently maintained tracking databases.
 
 Useful sources include:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -332,14 +328,12 @@ Useful sources include:
 
 These records exist regardless of witness testimony, making them particularly valuable. A reported formation of lights, for example, may correspond closely with satellite trains or aircraft operating along established routes.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28_independent_records_9dc7db-Illustration-2-dark.svg" | relative_url }}" alt="Independent Records illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28_independent_records_9dc7db-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28_independent_records_9dc7db-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Weather and atmospheric data
 
 Weather archives help test claims about unusual motion, brightness or shape.
 
 Investigators often examine:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -352,7 +346,6 @@ Investigators often examine:
 </div>
 
 These data can explain apparent hovering, sudden disappearances, distorted lights and unusual colouration. Because weather observations are collected independently, they provide an important check against witness interpretation.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YXBsIOGsZE0" title="REPLAY! NASA Unidentified Anomalous Phenomena Independent Study Report Update" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YXBsIOGsZE0" target="_blank" rel="noopener noreferrer">REPLAY! NASA Unidentified Anomalous Phenomena Independent Study Report Update</a></p><p class="youtube-embed-meta">Channel: The Launch Pad &middot; Views: 6.2K &middot; Uploaded: September 2023 &middot; Length: 1 hour 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YXBsIOGsZE0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YXBsIOGsZE0">Open on YouTube</a></p></div></div></div>
 
@@ -375,7 +368,6 @@ The second case is usually more useful scientifically even though it has fewer w
 
 This approach reflects broader recommendations from modern UAP research efforts, which consistently stress data quality over anecdotal volume. NASA has repeatedly noted that high-quality observations remain limited and that robust analysis requires reliable, standardised measurements rather than large numbers of unverified reports. NASA <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">data both for characterizing natural phenomena and anomalies... On June 9, 2022, NASA announced an independent study of unidentified ano...</span><span class="citation-popover-meta">Published: June 9, 2022</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28_independent_records_9dc7db-Illustration-3-dark.svg" | relative_url }}" alt="Independent Records illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28_independent_records_9dc7db-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28_independent_records_9dc7db-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What investigators should collect before publicity spreads
 
@@ -394,14 +386,13 @@ Experienced investigators therefore try to collect:
 
 Preserving original records is crucial. A photograph copied through several social-media platforms may lose metadata that could have helped identify the object. Similarly, a witness statement written immediately after an event may contain uncertainties that disappear after discussion but are valuable for understanding what was actually observed.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cGv8hBpU9MM" title="UFO Disclosure - Witnesses Vindicated?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cGv8hBpU9MM" target="_blank" rel="noopener noreferrer">UFO Disclosure - Witnesses Vindicated?</a></p><p class="youtube-embed-meta">Channel: THE HANNIBAL TV &middot; Views: 508 &middot; Uploaded: May 2026 &middot; Length: 52 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cGv8hBpU9MM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cGv8hBpU9MM">Open on YouTube</a></p></div></div></div>
 
 ## When independent records strengthen a case—and when they weaken it
 
 Independent evidence does not always make a UFO case appear more mysterious. In many investigations, additional records point toward ordinary explanations.
 
-The All-domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})) has reported resolving large numbers of UAP cases as balloons, aircraft, satellites, [drones]({{ 'drones/' | relative_url }}), birds and other conventional objects through the analysis of multiple data sources. Officials have also noted that limited sensor data remains a major obstacle in unresolved cases. U.S. Department of War <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jbsa.mil/News/News/Article/3966080/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jbsa.mil">[JBSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jbsa.mil</span><span class="citation-popover-title">dod examining unidentified anomalous phenomena</span><span class="citation-popover-snippet">JBSADOD examining unidentified anomalous phenomena15 Nov 2024 — &quot;AARO has successfully resolved hundreds of cases in its holdings to comm...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP Case Resolution ReportsAARO assesses with high confidence that the object was consistent with a cluster of fully and partially inflat...</span></span></span>
+The All-domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})) has reported resolving large numbers of UAP cases as balloons, aircraft, satellites, [drones]({{ 'drones/' | relative_url }}), birds and other conventional objects through the analysis of multiple data sources. Officials have also noted that limited sensor data remains a major obstacle in unresolved cases. U.S. Department of War <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jbsa.mil/News/News/Article/3966080/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jbsa.mil">[JBSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jbsa.mil</span><span class="citation-popover-title">dod examining unidentified anomalous phenomena</span><span class="citation-popover-snippet">DOD examining unidentified anomalous phenomena15 Nov 2024 — &quot;AARO has successfully resolved hundreds of cases in its holdings to comm...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP Case Resolution ReportsAARO assesses with high confidence that the object was consistent with a cluster of fully and partially inflat...</span></span></span>
 
 This illustrates an important principle: independent records strengthen the investigation, not necessarily the extraordinary interpretation. Sometimes the records reinforce witness observations by confirming that an unusual object was present. Other times they demonstrate that a striking mass sighting resulted from a common but initially unfamiliar stimulus.
 
@@ -524,15 +515,15 @@ In either outcome, independently verifiable records are what transform a mass si
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=independent-records-what-makes-many-ufo-witnesses-useful-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="independent-records-what-makes-many-ufo-witnesses-useful-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 90s Looney Tunes UFO Alien All Over Print Double Sided T Shirt Mens L"><img src="{{ '/assets/images/marketplace-covers/a7247ae98e9ebed04955.jpg' | relative_url }}" alt="Listing image for Vintage 90s Looney Tunes UFO Alien All Over Print Double Sided T Shirt Mens L" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-many-ufo-witnesses-useful-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-many-ufo-witnesses-useful-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=independent-records-what-makes-many-ufo-witnesses-useful-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="independent-records-what-makes-many-ufo-witnesses-useful-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Vintage 90s Looney Tunes UFO Alien All Over Print Double Sided T Shirt Mens L</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-many-ufo-witnesses-useful-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-many-ufo-witnesses-useful-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=independent-records-what-makes-many-ufo-witnesses-useful-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="independent-records-what-makes-many-ufo-witnesses-useful-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-many-ufo-witnesses-useful-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-many-ufo-witnesses-useful-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=independent-records-what-makes-many-ufo-witnesses-useful-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="independent-records-what-makes-many-ufo-witnesses-useful-ifos-causes-of-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-many-ufo-witnesses-useful-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-many-ufo-witnesses-useful-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -540,15 +531,15 @@ In either outcome, independently verifiable records are what transform a mass si
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=independent-records-what-makes-many-ufo-witnesses-useful-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="independent-records-what-makes-many-ufo-witnesses-useful-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee"><img src="{{ '/assets/images/marketplace-covers/c0a6267ae6e22890f212.jpg' | relative_url }}" alt="Listing image for Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-many-ufo-witnesses-useful-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-many-ufo-witnesses-useful-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=independent-records-what-makes-many-ufo-witnesses-useful-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="independent-records-what-makes-many-ufo-witnesses-useful-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-many-ufo-witnesses-useful-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-many-ufo-witnesses-useful-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=independent-records-what-makes-many-ufo-witnesses-useful-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="independent-records-what-makes-many-ufo-witnesses-useful-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-many-ufo-witnesses-useful-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-many-ufo-witnesses-useful-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=independent-records-what-makes-many-ufo-witnesses-useful-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="independent-records-what-makes-many-ufo-witnesses-useful-ifos-causes-of-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-many-ufo-witnesses-useful-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-many-ufo-witnesses-useful-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -556,15 +547,15 @@ In either outcome, independently verifiable records are what transform a mass si
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=independent-records-what-makes-many-ufo-witnesses-useful-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="independent-records-what-makes-many-ufo-witnesses-useful-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design"><img src="{{ '/assets/images/marketplace-covers/f0858731bf83f620568a.jpg' | relative_url }}" alt="Listing image for Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-many-ufo-witnesses-useful-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-many-ufo-witnesses-useful-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=independent-records-what-makes-many-ufo-witnesses-useful-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="independent-records-what-makes-many-ufo-witnesses-useful-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-many-ufo-witnesses-useful-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-many-ufo-witnesses-useful-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=independent-records-what-makes-many-ufo-witnesses-useful-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="independent-records-what-makes-many-ufo-witnesses-useful-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-many-ufo-witnesses-useful-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-many-ufo-witnesses-useful-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=independent-records-what-makes-many-ufo-witnesses-useful-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="independent-records-what-makes-many-ufo-witnesses-useful-ifos-causes-of-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-many-ufo-witnesses-useful-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-many-ufo-witnesses-useful-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -572,15 +563,15 @@ In either outcome, independently verifiable records are what transform a mass si
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=independent-records-what-makes-many-ufo-witnesses-useful-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="independent-records-what-makes-many-ufo-witnesses-useful-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone"><img src="{{ '/assets/images/marketplace-covers/c55bd17eeaec578c24e2.jpg' | relative_url }}" alt="Listing image for Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-many-ufo-witnesses-useful-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-many-ufo-witnesses-useful-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=independent-records-what-makes-many-ufo-witnesses-useful-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="independent-records-what-makes-many-ufo-witnesses-useful-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-many-ufo-witnesses-useful-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-many-ufo-witnesses-useful-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=independent-records-what-makes-many-ufo-witnesses-useful-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="independent-records-what-makes-many-ufo-witnesses-useful-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-many-ufo-witnesses-useful-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-many-ufo-witnesses-useful-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=independent-records-what-makes-many-ufo-witnesses-useful-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="independent-records-what-makes-many-ufo-witnesses-useful-ifos-causes-of-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-many-ufo-witnesses-useful-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-many-ufo-witnesses-useful-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -588,7 +579,7 @@ In either outcome, independently verifiable records are what transform a mass si
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=independent-records-what-makes-many-ufo-witnesses-useful-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="independent-records-what-makes-many-ufo-witnesses-useful-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-many-ufo-witnesses-useful-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-many-ufo-witnesses-useful-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -804,121 +795,121 @@ In either outcome, independently verifiable records are what transform a mass si
 1. <a id="endnote-1"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>data both for characterizing natural phenomena and anomalies... On June 9, 2022, NASA announced an independent study of unidentified ano...</p></details>
    Published: June 9, 2022  
 
 2. <a id="endnote-2"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: [https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/](https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASAUPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through...</p></details>
+   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/](https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASANASA to Release, Discuss Unidentified Anomalous...There are currently a limited number of high-quality observations of UAP, which ma...</p></details>
+   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to Release, Discuss Unidentified Anomalous...There are currently a limited number of high-quality observations of UAP, which ma...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: space.com  
    Title: nasa ufo uap study team first results revealed  
-   Link: [https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed](https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed)  
+   Link: <a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor sensor cal...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP9 Jun 2022 — A study team to examine unidentified anomalous phenomena (UAPs) – that is, observations of events in the sky...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: jbsa.mil  
    Title: dod examining unidentified anomalous phenomena  
-   Link: [https://www.jbsa.mil/News/News/Article/3966080/dod-examining-unidentified-anomalous-phenomena/](https://www.jbsa.mil/News/News/Article/3966080/dod-examining-unidentified-anomalous-phenomena/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>JBSADOD examining unidentified anomalous phenomena15 Nov 2024 — &quot;AARO has successfully resolved hundreds of cases in its holdings to comm...</p></details>
+   Link: <a href="https://www.jbsa.mil/News/News/Article/3966080/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.jbsa.mil/News/News/Article/3966080/dod-examining-unidentified-anomalous-phenomena/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>DOD examining unidentified anomalous phenomena15 Nov 2024 — &quot;AARO has successfully resolved hundreds of cases in its holdings to comm...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/](https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Case Resolution ReportsAARO assesses with high confidence that the object was consistent with a cluster of fully and partially inflat...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/](https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Examining Unidentified Anomalous Phenomena14 Nov 2024 — &quot;AARO has successfully resolved hundreds of cases in its hol...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryAARO assesses, with high confidence, that the object depicted in the video demonstrates performance characteristics consistent...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeOur team of experts leads the U.S. government&#x27;s efforts to address Unidentified Anomalous Phenomena (UAP) using a rigorous scien...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>8 May 2026 — The UAP independent study team&#x27;s main focus for the report was to come up with a way in which to evaluate and study UAPs goi...</p></details>
    Published: May 2026  
 
 12. <a id="endnote-12"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/video/964843/middle-east-red-balloon-2024](https://www.dvidshub.net/video/964843/middle-east-red-balloon-2024)  
+   Link: <a href="https://www.dvidshub.net/video/964843/middle-east-red-balloon-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/964843/middle-east-red-balloon-2024</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Middle East Red Balloon 2024AARO bases its assessment on the object&#x27;s strong morphological consistency with other resolved imagery depict...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/](https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/)  
+   Link: <a href="https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...Much of it was not collected systematically for studying UAP, lacks crucial metadata, and...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: nypost.com  
-   Link: [https://nypost.com/2024/11/14/us-news/pentagon-says-nearly-two-dozen-ufo-sightings-cant-be-explained-true-anomalies/](https://nypost.com/2024/11/14/us-news/pentagon-says-nearly-two-dozen-ufo-sightings-cant-be-explained-true-anomalies/)  
+   Link: <a href="https://nypost.com/2024/11/14/us-news/pentagon-says-nearly-two-dozen-ufo-sightings-cant-be-explained-true-anomalies/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/11/14/us-news/pentagon-says-nearly-two-dozen-ufo-sightings-cant-be-explained-true-anomalies/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The &quot;all-domain anomaly resolution office&quot; (AARO) identified 21 reports as &quot;true anomalies&quot; needing further investigation. Most sightings...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: 315aw.afrc.af.mil  
-   Link: [https://www.315aw.afrc.af.mil/News/Article/3966012/dod-examining-unidentified-anomalous-phenomena/](https://www.315aw.afrc.af.mil/News/Article/3966012/dod-examining-unidentified-anomalous-phenomena/)  
+   Link: <a href="https://www.315aw.afrc.af.mil/News/Article/3966012/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.315aw.afrc.af.mil/News/Article/3966012/dod-examining-unidentified-anomalous-phenomena/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Examining Unidentified Anomalous Phenomena&quot;AARO has successfully resolved hundreds of cases in its holdings to commonplace objects such a...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: wired.com  
-   Link: [https://www.wired.com/story/nasa-ufos-aliens-report-2023](https://www.wired.com/story/nasa-ufos-aliens-report-2023)  
+   Link: <a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The agency stressed the need to shift the conversation from sensationalism to science and eliminate the [stigma](&amp;#123;&amp;#123; &#x27;stigma/&#x27; | relative_url &amp;#125;&amp;#125;) associated with reporting...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: safie.hq.af.mil  
-   Link: [https://www.safie.hq.af.mil/News/Video/mod/61713/player/0/video/988675](https://www.safie.hq.af.mil/News/Video/mod/61713/player/0/video/988675)  
+   Link: <a href="https://www.safie.hq.af.mil/News/Video/mod/61713/player/0/video/988675" target="_blank" rel="noopener noreferrer nofollow">https://www.safie.hq.af.mil/News/Video/mod/61713/player/0/video/988675</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>video footage associated with this report is insufficient for AARO to render a determination on its subject matter. This unresolved...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: nsa.gov  
-   Link: [https://www.nsa.gov/Helpful-Links/NSA-FOIA/Frequently-Requested-Information/UFO-and-Other-Paranormal-Information/](https://www.nsa.gov/Helpful-Links/NSA-FOIA/Frequently-Requested-Information/UFO-and-Other-Paranormal-Information/)  
+   Link: <a href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Frequently-Requested-Information/UFO-and-Other-Paranormal-Information/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Helpful-Links/NSA-FOIA/Frequently-Requested-Information/UFO-and-Other-Paranormal-Information/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO and Other Paranormal InformationList of search terms used in response to requests for information on UFOs and paranormal events for w...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
    Title: in 2026 unidentified aerial phenomena have become a serious topic within officia  
-   Link: [https://www.facebook.com/OrbitalInsights/posts/in-2026-unidentified-aerial-phenomena-have-become-a-serious-topic-within-officia/1284647860534502/](https://www.facebook.com/OrbitalInsights/posts/in-2026-unidentified-aerial-phenomena-have-become-a-serious-topic-within-officia/1284647860534502/)  
+   Link: <a href="https://www.facebook.com/OrbitalInsights/posts/in-2026-unidentified-aerial-phenomena-have-become-a-serious-topic-within-officia/1284647860534502/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OrbitalInsights/posts/in-2026-unidentified-aerial-phenomena-have-become-a-serious-topic-within-officia/1284647860534502/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In 2026, unidentified aerial phenomena have become a...While many reported objects have been explained as drones, balloons, or sensor er...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Historical Record Report Volume 18 Mar 2024 —... cases remain unsolved, based on the lack of evidence of the extraterrestrial origin of...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=TQcqOW39ksk](https://www.youtube.com/watch?v=TQcqOW39ksk)  
+   Link: <a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study ReportNASA commissioned an independent study team to examine unidentified anomalous ph...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: defensescoop.com  
    Title: uap aaro chief unveils pentagon annual caseload analysis new efforts  
-   Link: [https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/](https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/)  
+   Link: <a href="https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;The truly anomalous&#x27;: New AARO chief unveils Pentagon&#x27;s...14 Nov 2024 — “AARO has successfully resolved hundreds of cases in its holdin...</p></details>

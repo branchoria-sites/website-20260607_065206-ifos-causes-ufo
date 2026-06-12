@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357_radar_ducting_false_d35e7f
 - ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357_radar_ufo_metadata_g_8a29d3
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - radar
 - wind-turbines
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - radar
 - wind-turbines
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Rotating turbine blades can generate clutter, false tracks, masking, and track seduction on some primary surveillance radars.
 hero_summary: Rotating turbine blades can generate clutter, false tracks, masking, and track seduction on some primary surveillance radars.
 layout: default
 permalink: /wind-turbines/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /radar/
 nav_short_title: Wind Turbines
 title: Why Wind Farms Can Confuse Airport Radar
-title_full: Why Wind Farms Can Confuse Airport Radar | Radar
+title_full: Why Wind Farms Can Confuse Airport Radar
 display_title_short: Wind Turbines
 display_title: Wind Turbines
 heading_title: Why Wind Farms Can Confuse Airport Radar
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 21:35:59'
-parent_title: When Radar Sees a UFO That Isnt There | IFOs
+parent_title: When Radar Sees a UFO That Isnt There
 parent_permalink: /radar/
 parent_nav_short_title: Radar
 parent_heading_title: When Radar Sees a UFO That Isnt There
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357
-  title: Radar | Ifos Causes Of
+  title: Radar | ifos causes of UFO 3 ed 238
   permalink: /radar/
   short_title: Radar
   heading_title: When Radar Sees a UFO That Isnt There
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357
-  title: Radar | Ifos Causes Of
+  title: Radar | ifos causes of UFO 3 ed 238
   permalink: /radar/
   short_title: Radar
   heading_title: When Radar Sees a UFO That Isnt There
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: When the Atmosphere Makes Radar See Objects
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357
-  title: Radar | Ifos Causes Of
+  title: Radar | ifos causes of UFO 3 ed 238
   permalink: /radar/
   short_title: Radar
   heading_title: When Radar Sees a UFO That Isnt There
@@ -260,6 +259,7 @@ prev_link:
   permalink: /radar-ducting/
   short_title: Radar Ducting
   heading_title: When the Atmosphere Makes Radar See Objects
+date: '2026-06-12 00:32:55 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357_wind_turbine_radar_f_17eb42-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357_wind_turbine_radar_f_17eb42-Illustration-1.webp
@@ -269,7 +269,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357_wind_tu
 ## Introduction
 
 Wind farms are among the most thoroughly documented non-aircraft causes of anomalous [radar]({{ 'radar/' | relative_url }}) returns in modern airspace. For aviation authorities, military operators, and weather services, the problem is not controversial: large wind turbines can generate clutter, false plots, unstable tracks, and target-masking effects on radar systems. In the context of identified flying objects (IFOs) and UFO investigations, this matters because an apparently mysterious radar contact may originate not from an unusual object in flight but from the interaction between radar signals and turbine structures.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357_wind_turbine_radar_f_17eb42-Illustration-1-dark.svg" | relative_url }}" alt="Wind Turbines illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357_wind_turbine_radar_f_17eb42-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357_wind_turbine_radar_f_17eb42-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The issue arises because modern turbines combine two radar-challenging characteristics. First, they are physically large structures made partly of highly reflective materials. Second, their blades are constantly moving, creating Doppler signatures that resemble motion. Radar processors are designed to suppress stationary clutter such as hills and buildings, but moving turbine blades can pass the same motion-detection thresholds used to identify aircraft. As a result, some radar systems may display plots that appear to be moving aerial targets even when no aircraft is present. Studies conducted by government agencies, aviation authorities, military organisations, and radar researchers have repeatedly identified false targets, target masking, and track corruption as significant consequences of wind-turbine interference. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.energy.gov/cmei/systems/windexchange/radar-interference" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: energy.gov">[The Department of Energy&#x27;s Energy.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">energy.gov</span><span class="citation-popover-snippet">The Department of Energy&#x27;s Energy.govRadar Interference2 days ago — Wind turbines—land-based, distributed, and offshore—can interfere wit...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://iea-wind.org/wp-content/uploads/2023/10/83_Mitigation-of-WT-impacts-on-radar.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iea-wind.org">[IEA Wind TCP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iea-wind.org</span><span class="citation-popover-snippet">nd the intermittent clutter can create false tracks, obscure or seduce real...</span></span></span>
@@ -294,7 +293,6 @@ In air-traffic-control environments, these false plots can appear as isolated ta
 
 For UFO investigations, such contacts can be especially misleading because a radar operator may report an unexplained target despite the absence of any actual aircraft at that location.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PzGyI3WIOZY" title="Addressing the problem of wind turbine interference" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PzGyI3WIOZY" target="_blank" rel="noopener noreferrer">Addressing the problem of wind turbine interference</a></p><p class="youtube-embed-meta">Channel: Loughborough University &middot; Views: 1.4K &middot; Uploaded: February 2020 &middot; Length: 3 minutes 1 second</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PzGyI3WIOZY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PzGyI3WIOZY">Open on YouTube</a></p></div></div></div>
 
 ### Target Masking
@@ -311,8 +309,7 @@ More sophisticated radar systems use software that links individual plots into t
 
 Wind-turbine clutter can interfere with this process. The International Energy Agency notes that turbine returns can obscure or “seduce” real tracks. In radar terminology, track seduction occurs when tracking software incorrectly associates clutter returns with a legitimate target. The result may be a track that appears displaced, erratic, or physically implausible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iea-wind.org/wp-content/uploads/2023/10/83_Mitigation-of-WT-impacts-on-radar.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iea-wind.org">[IEA Wind TCP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iea-wind.org</span><span class="citation-popover-snippet">nd the intermittent clutter can create false tracks, obscure or seduce real...</span></span></span>
 
-For investigators examining [historical radar]({{ 'old-records/' | relative_url }}) UFO reports, this distinction is important. A reported radar “track” is not necessarily equivalent to a continuously observed object. In some cases, the track may be a software-generated interpretation of ambiguous radar returns.
-
+For investigators examining historical radar UFO reports, this distinction is important. A reported radar “track” is not necessarily equivalent to a continuously observed object. In some cases, the track may be a software-generated interpretation of ambiguous radar returns.
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357_wind_turbine_radar_f_17eb42-Illustration-2-dark.svg" | relative_url }}" alt="Wind Turbines illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357_wind_turbine_radar_f_17eb42-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357_wind_turbine_radar_f_17eb42-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Wind Farms Became a Major Aviation Concern
@@ -329,7 +326,6 @@ The issue is not confined to air-traffic-control radar. Weather radar systems ha
 
 Although weather-radar artefacts are not aviation targets, they illustrate how convincing turbine-generated radar returns can be.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3WcIwl6bJuw" title="Wind farm interference to radar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3WcIwl6bJuw" target="_blank" rel="noopener noreferrer">Wind farm interference to radar</a></p><p class="youtube-embed-meta">Channel: NYS Video &middot; Views: 814 &middot; Uploaded: November 2017 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3WcIwl6bJuw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3WcIwl6bJuw">Open on YouTube</a></p></div></div></div>
 
 ## Concrete Examples of Turbine-Induced Radar Anomalies
@@ -344,7 +340,6 @@ RenewableUK's survey of aviation and defence impacts likewise notes that wind tu
 
 Military planners have expressed similar concerns. Research and policy discussions in several countries have examined the possibility that wind farms may obscure low-flying aircraft or missiles by introducing clutter into surveillance systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.co.uk/article/how-wind-turbines-could-be-used-to-spot-incoming-missiles-vtqnmz3zw" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.co.uk">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.co.uk</span><span class="citation-popover-title">The Times How wind turbines could be used to spot incoming missiles</span><span class="citation-popover-snippet">Wind turbine blades made of stealth materials and advanced machine learning software are being considered to mitigate radar interference...</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357_wind_turbine_radar_f_17eb42-Illustration-3-dark.svg" | relative_url }}" alt="Wind Turbines illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357_wind_turbine_radar_f_17eb42-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357_wind_turbine_radar_f_17eb42-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Local Infrastructure Checks Matter in UFO Cases
 
@@ -358,9 +353,7 @@ Equally important is whether the radar contact was independently confirmed. A ge
 
 The broader lesson is straightforward. Radar evidence can appear objective and compelling, but radar is a measurement system that interprets reflected energy rather than directly observing physical objects. Wind turbines are among the clearest examples of how ordinary infrastructure can create apparently extraordinary radar behaviour. In UFO investigations, failure to account for nearby wind farms can transform a known radar-interference phenomenon into a seemingly mysterious aerial event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.energy.gov/cmei/systems/windexchange/radar-interference" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: energy.gov">[The Department of Energy&#x27;s Energy.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">energy.gov</span><span class="citation-popover-snippet">The Department of Energy&#x27;s Energy.govRadar Interference2 days ago — Wind turbines—land-based, distributed, and offshore—can interfere wit...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://iea-wind.org/wp-content/uploads/2023/10/83_Mitigation-of-WT-impacts-on-radar.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iea-wind.org">[IEA Wind TCP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iea-wind.org</span><span class="citation-popover-snippet">nd the intermittent clutter can create false tracks, obscure or seduce real...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pZCy_PFsG_4" title="HIVE / WindTRx Wind Farm Radar Interaction Simulation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pZCy_PFsG_4" target="_blank" rel="noopener noreferrer">HIVE / WindTRx Wind Farm Radar Interaction Simulation</a></p><p class="youtube-embed-meta">Channel: John Farrier &middot; Views: 419 &middot; Uploaded: June 2013 &middot; Length: 2 minutes 27 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pZCy_PFsG_4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pZCy_PFsG_4">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -479,15 +472,15 @@ The broader lesson is straightforward. Radar evidence can appear objective and c
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-turbines-why-wind-farms-can-confuse-airport-radar-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="wind-turbines-why-wind-farms-can-confuse-airport-radar-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+turbine+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wind-farms-can-confuse-airport-radar-wind-turbine-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind turbine model" data-ebay-reference="why-wind-farms-can-confuse-airport-radar-wind-turbine-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desktop Wind Turbine Model Solar Powered Windmills Abs Plastics for Education"><img src="https://i.ebayimg.com/images/g/mbsAAeSw0GVqJtXE/s-l225.jpg" alt="Listing image for Desktop Wind Turbine Model Solar Powered Windmills Abs Plastics for Education" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-turbines-why-wind-farms-can-confuse-airport-radar-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="wind-turbines-why-wind-farms-can-confuse-airport-radar-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+turbine+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wind-farms-can-confuse-airport-radar-wind-turbine-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind turbine model" data-ebay-reference="why-wind-farms-can-confuse-airport-radar-wind-turbine-model" target="_blank" rel="sponsored noopener noreferrer">Desktop Wind Turbine Model Solar Powered Windmills Abs Plastics for Education</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-turbines-why-wind-farms-can-confuse-airport-radar-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="wind-turbines-why-wind-farms-can-confuse-airport-radar-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+turbine+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wind-farms-can-confuse-airport-radar-wind-turbine-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind turbine model" data-ebay-reference="why-wind-farms-can-confuse-airport-radar-wind-turbine-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for wind turbine model">Search <span data-ebay-domain-label>eBay.co.uk</span>: wind turbine model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-turbines-why-wind-farms-can-confuse-airport-radar-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="wind-turbines-why-wind-farms-can-confuse-airport-radar-ifos-causes-of-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+turbine+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wind-farms-can-confuse-airport-radar-wind-turbine-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind turbine model" data-ebay-reference="why-wind-farms-can-confuse-airport-radar-wind-turbine-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -495,15 +488,15 @@ The broader lesson is straightforward. Radar evidence can appear objective and c
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-turbines-why-wind-farms-can-confuse-airport-radar-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="wind-turbines-why-wind-farms-can-confuse-airport-radar-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+turbine+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wind-farms-can-confuse-airport-radar-wind-turbine-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind turbine model" data-ebay-reference="why-wind-farms-can-confuse-airport-radar-wind-turbine-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Exceptionally Rare. Gold coloured V112 3MW Vestas Wind Turbine Model 1:336 Scale"><img src="https://i.ebayimg.com/images/g/7w0AAeSwgqhpdLDL/s-l225.jpg" alt="Listing image for Exceptionally Rare. Gold coloured V112 3MW Vestas Wind Turbine Model 1:336 Scale" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-turbines-why-wind-farms-can-confuse-airport-radar-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="wind-turbines-why-wind-farms-can-confuse-airport-radar-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+turbine+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wind-farms-can-confuse-airport-radar-wind-turbine-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind turbine model" data-ebay-reference="why-wind-farms-can-confuse-airport-radar-wind-turbine-model" target="_blank" rel="sponsored noopener noreferrer">Exceptionally Rare. Gold coloured V112 3MW Vestas Wind Turbine Model 1:336 Scale</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-turbines-why-wind-farms-can-confuse-airport-radar-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="wind-turbines-why-wind-farms-can-confuse-airport-radar-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+turbine+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wind-farms-can-confuse-airport-radar-wind-turbine-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind turbine model" data-ebay-reference="why-wind-farms-can-confuse-airport-radar-wind-turbine-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for wind turbine model">Search <span data-ebay-domain-label>eBay.co.uk</span>: wind turbine model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-turbines-why-wind-farms-can-confuse-airport-radar-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="wind-turbines-why-wind-farms-can-confuse-airport-radar-ifos-causes-of-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+turbine+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wind-farms-can-confuse-airport-radar-wind-turbine-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind turbine model" data-ebay-reference="why-wind-farms-can-confuse-airport-radar-wind-turbine-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -511,15 +504,15 @@ The broader lesson is straightforward. Radar evidence can appear objective and c
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-turbines-why-wind-farms-can-confuse-airport-radar-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="wind-turbines-why-wind-farms-can-confuse-airport-radar-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+turbine+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wind-farms-can-confuse-airport-radar-wind-turbine-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind turbine model" data-ebay-reference="why-wind-farms-can-confuse-airport-radar-wind-turbine-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Honeywell Wind Turbine Model WT650 12V 100Ah REPLACEMENT LIPO BATTERY PRISMATIC"><img src="https://i.ebayimg.com/images/g/5cQAAOSwwcFkU9Dr/s-l225.jpg" alt="Listing image for Honeywell Wind Turbine Model WT650 12V 100Ah REPLACEMENT LIPO BATTERY PRISMATIC" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-turbines-why-wind-farms-can-confuse-airport-radar-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="wind-turbines-why-wind-farms-can-confuse-airport-radar-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+turbine+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wind-farms-can-confuse-airport-radar-wind-turbine-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind turbine model" data-ebay-reference="why-wind-farms-can-confuse-airport-radar-wind-turbine-model" target="_blank" rel="sponsored noopener noreferrer">Honeywell Wind Turbine Model WT650 12V 100Ah REPLACEMENT LIPO BATTERY PRISMATIC</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-turbines-why-wind-farms-can-confuse-airport-radar-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="wind-turbines-why-wind-farms-can-confuse-airport-radar-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+turbine+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wind-farms-can-confuse-airport-radar-wind-turbine-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind turbine model" data-ebay-reference="why-wind-farms-can-confuse-airport-radar-wind-turbine-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for wind turbine model">Search <span data-ebay-domain-label>eBay.co.uk</span>: wind turbine model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-turbines-why-wind-farms-can-confuse-airport-radar-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="wind-turbines-why-wind-farms-can-confuse-airport-radar-ifos-causes-of-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+turbine+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wind-farms-can-confuse-airport-radar-wind-turbine-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind turbine model" data-ebay-reference="why-wind-farms-can-confuse-airport-radar-wind-turbine-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -527,15 +520,15 @@ The broader lesson is straightforward. Radar evidence can appear objective and c
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-turbines-why-wind-farms-can-confuse-airport-radar-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="wind-turbines-why-wind-farms-can-confuse-airport-radar-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1960s set of three UFO wall art"><img src="{{ '/assets/images/marketplace-covers/be68d6dc5e42b0f085ad.jpg' | relative_url }}" alt="Listing image for Vintage 1960s set of three UFO wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+turbine+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wind-farms-can-confuse-airport-radar-wind-turbine-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind turbine model" data-ebay-reference="why-wind-farms-can-confuse-airport-radar-wind-turbine-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1 Set Wind Turbine Model Large Wind Turbine Model Windmill Toy Science Kit H4"><img src="https://i.ebayimg.com/images/g/KzkAAeSwPNtpoQDO/s-l225.jpg" alt="Listing image for 1 Set Wind Turbine Model Large Wind Turbine Model Windmill Toy Science Kit H4" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-turbines-why-wind-farms-can-confuse-airport-radar-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="wind-turbines-why-wind-farms-can-confuse-airport-radar-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vintage 1960s set of three UFO wall art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+turbine+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wind-farms-can-confuse-airport-radar-wind-turbine-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind turbine model" data-ebay-reference="why-wind-farms-can-confuse-airport-radar-wind-turbine-model" target="_blank" rel="sponsored noopener noreferrer">1 Set Wind Turbine Model Large Wind Turbine Model Windmill Toy Science Kit H4</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-turbines-why-wind-farms-can-confuse-airport-radar-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="wind-turbines-why-wind-farms-can-confuse-airport-radar-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+turbine+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wind-farms-can-confuse-airport-radar-wind-turbine-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind turbine model" data-ebay-reference="why-wind-farms-can-confuse-airport-radar-wind-turbine-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for wind turbine model">Search <span data-ebay-domain-label>eBay.co.uk</span>: wind turbine model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-turbines-why-wind-farms-can-confuse-airport-radar-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="wind-turbines-why-wind-farms-can-confuse-airport-radar-ifos-causes-of-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+turbine+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wind-farms-can-confuse-airport-radar-wind-turbine-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind turbine model" data-ebay-reference="why-wind-farms-can-confuse-airport-radar-wind-turbine-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -543,7 +536,7 @@ The broader lesson is straightforward. Radar evidence can appear objective and c
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-turbines-why-wind-farms-can-confuse-airport-radar-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="wind-turbines-why-wind-farms-can-confuse-airport-radar-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+turbine+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wind-farms-can-confuse-airport-radar-wind-turbine-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind turbine model" data-ebay-reference="why-wind-farms-can-confuse-airport-radar-wind-turbine-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -758,145 +751,145 @@ The broader lesson is straightforward. Radar evidence can appear objective and c
 
 1. <a id="endnote-1"></a>
    Source: energy.gov  
-   Link: [https://www.energy.gov/cmei/systems/windexchange/radar-interference](https://www.energy.gov/cmei/systems/windexchange/radar-interference)  
+   Link: <a href="https://www.energy.gov/cmei/systems/windexchange/radar-interference" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/cmei/systems/windexchange/radar-interference</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Department of Energy&#x27;s Energy.govRadar Interference2 days ago — Wind turbines—land-based, distributed, and offshore—can interfere wit...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: iea-wind.org  
-   Link: [https://iea-wind.org/wp-content/uploads/2023/10/83_Mitigation-of-WT-impacts-on-radar.pdf](https://iea-wind.org/wp-content/uploads/2023/10/83_Mitigation-of-WT-impacts-on-radar.pdf)  
+   Link: <a href="https://iea-wind.org/wp-content/uploads/2023/10/83_Mitigation-of-WT-impacts-on-radar.pdf" target="_blank" rel="noopener noreferrer nofollow">https://iea-wind.org/wp-content/uploads/2023/10/83_Mitigation-of-WT-impacts-on-radar.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>nd the intermittent clutter can create false tracks, obscure or seduce real...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: ossian-eia.com  
    Title: Ossian EIA2. Study Area  
-   Link: [https://ossian-eia.com/offshore-eia/vol3/ap14-1-aviation-military-and-communications-technical-report/](https://ossian-eia.com/offshore-eia/vol3/ap14-1-aviation-military-and-communications-technical-report/)  
+   Link: <a href="https://ossian-eia.com/offshore-eia/vol3/ap14-1-aviation-military-and-communications-technical-report/" target="_blank" rel="noopener noreferrer nofollow">https://ossian-eia.com/offshore-eia/vol3/ap14-1-aviation-military-and-communications-technical-report/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>wind turbine that is detectable by a PSR system can be a significant cause of radar false plots, or unwanted returns (clutter), as the ro...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: windtech-international.com  
    Title: avoiding false radar returns  
-   Link: [https://www.windtech-international.com/contacts/avoiding-false-radar-returns](https://www.windtech-international.com/contacts/avoiding-false-radar-returns)  
+   Link: <a href="https://www.windtech-international.com/contacts/avoiding-false-radar-returns" target="_blank" rel="noopener noreferrer nofollow">https://www.windtech-international.com/contacts/avoiding-false-radar-returns</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Sept 2010 — Sophisticated signal processing and tracking algorithms will be applied at the radar to eliminate the wind turbine blades...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: ll.mit.edu  
-   Link: [https://www.ll.mit.edu/r-d/projects/wind-turbine-interference-mitigation-study](https://www.ll.mit.edu/r-d/projects/wind-turbine-interference-mitigation-study)  
+   Link: <a href="https://www.ll.mit.edu/r-d/projects/wind-turbine-interference-mitigation-study" target="_blank" rel="noopener noreferrer nofollow">https://www.ll.mit.edu/r-d/projects/wind-turbine-interference-mitigation-study</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lincoln LaboratoryWind Turbine Interference–Mitigation StudyWind turbines are highly visible to radars, and the interference that turbine...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: roc.noaa.gov  
-   Link: [https://www.roc.noaa.gov/windfarms/wf-impact.php](https://www.roc.noaa.gov/windfarms/wf-impact.php)  
+   Link: <a href="https://www.roc.noaa.gov/windfarms/wf-impact.php" target="_blank" rel="noopener noreferrer nofollow">https://www.roc.noaa.gov/windfarms/wf-impact.php</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>the added challenge of being almost constantly in...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/roc/WindFarms](https://www.weather.gov/roc/WindFarms)  
+   Link: <a href="https://www.weather.gov/roc/WindFarms" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/roc/WindFarms</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>WIND FARM INTERACTION WITH NEXRAD RADARThe FAA has re-routed air traffic due to false returns from wind turbine clutter. NEXRAD data stre...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: renewableuk.com  
-   Link: [https://www.renewableuk.com/media/tu2l2ta3/the-2023-survey-of-onshore-wind-impacts-on-aviation-and-defence-summary.pdf](https://www.renewableuk.com/media/tu2l2ta3/the-2023-survey-of-onshore-wind-impacts-on-aviation-and-defence-summary.pdf)  
+   Link: <a href="https://www.renewableuk.com/media/tu2l2ta3/the-2023-survey-of-onshore-wind-impacts-on-aviation-and-defence-summary.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.renewableuk.com/media/tu2l2ta3/the-2023-survey-of-onshore-wind-impacts-on-aviation-and-defence-summary.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>13, 2025 — Wind turbines can show up as false positives on radar systems...</p></details>
    Published: June 13, 2025  
 
 9. <a id="endnote-9"></a>
    Source: iea-wind.org  
    Title: There are basically two ways  
-   Link: [https://iea-wind.org/wp-content/uploads/2023/05/45_TEM-RadarRadioLinks-and-WindTurbineSystems_2005.pdf](https://iea-wind.org/wp-content/uploads/2023/05/45_TEM-RadarRadioLinks-and-WindTurbineSystems_2005.pdf)  
+   Link: <a href="https://iea-wind.org/wp-content/uploads/2023/05/45_TEM-RadarRadioLinks-and-WindTurbineSystems_2005.pdf" target="_blank" rel="noopener noreferrer nofollow">https://iea-wind.org/wp-content/uploads/2023/05/45_TEM-RadarRadioLinks-and-WindTurbineSystems_2005.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>45 IEA Topical Expert Meeting Radar, Radio Links and...Additionally, rotating wind turbine blades can have an impact on certain aviation...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: users.ece.utexas.edu  
    Title: US3 WINDPOWER2011 Final  
-   Link: [https://users.ece.utexas.edu/~ling/US3%20WINDPOWER2011_Final.pdf](https://users.ece.utexas.edu/~ling/US3%20WINDPOWER2011_Final.pdf)  
+   Link: <a href="https://users.ece.utexas.edu/~ling/US3%20WINDPOWER2011_Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://users.ece.utexas.edu/~ling/US3%20WINDPOWER2011_Final.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Over the...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: fenix.tecnico.ulisboa.pt  
    Title: Finally, one defines  
-   Link: [https://fenix.tecnico.ulisboa.pt/downloadFile/395146018644/Extended_Abstract.pdf](https://fenix.tecnico.ulisboa.pt/downloadFile/395146018644/Extended_Abstract.pdf)  
+   Link: <a href="https://fenix.tecnico.ulisboa.pt/downloadFile/395146018644/Extended_Abstract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fenix.tecnico.ulisboa.pt/downloadFile/395146018644/Extended_Abstract.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fenix Técnico LisboaAssessment of Wind Turbines Generators Influence in...December 2, 2013 — The Doppler shift could generate false targ...</p></details>
    Published: December 2, 2013  
 
 12. <a id="endnote-12"></a>
    Source: caa.co.uk  
    Title: Civil Aviation Authority CAP764 CAA Policy and Guidelines on Wind Turbines  
-   Link: [https://www.caa.co.uk/publication/download/14561](https://www.caa.co.uk/publication/download/14561)  
+   Link: <a href="https://www.caa.co.uk/publication/download/14561" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/publication/download/14561</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Civil Aviation AuthorityCAP764 CAA Policy and Guidelines on Wind TurbinesDecember 17, 2025 — 7 Dec 2025 — CAP 764 is published to assist...</p></details>
    Published: December 17, 2025  
 
 13. <a id="endnote-13"></a>
    Source: heraldsun.com.au  
    Title: Herald Sun Wind farm interfering with weather radar  
-   Link: [https://www.heraldsun.com.au/news/victoria/murra-warra-wind-farm-interferes-with-bom-radar/news-story/4e6e1a5b9b81aecacf5a466ba3120b18](https://www.heraldsun.com.au/news/victoria/murra-warra-wind-farm-interferes-with-bom-radar/news-story/4e6e1a5b9b81aecacf5a466ba3120b18)  
+   Link: <a href="https://www.heraldsun.com.au/news/victoria/murra-warra-wind-farm-interferes-with-bom-radar/news-story/4e6e1a5b9b81aecacf5a466ba3120b18" target="_blank" rel="noopener noreferrer nofollow">https://www.heraldsun.com.au/news/victoria/murra-warra-wind-farm-interferes-with-bom-radar/news-story/4e6e1a5b9b81aecacf5a466ba3120b18</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>El radar de Rainbow mostró una zona de color azul parpadeante sobre las turbinas de Murra Warra, a pesar de que la lluvia más cercana est...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: thetimes.co.uk  
    Title: The Times How wind turbines could be used to spot incoming missiles  
-   Link: [https://www.thetimes.co.uk/article/how-wind-turbines-could-be-used-to-spot-incoming-missiles-vtqnmz3zw](https://www.thetimes.co.uk/article/how-wind-turbines-could-be-used-to-spot-incoming-missiles-vtqnmz3zw)  
+   Link: <a href="https://www.thetimes.co.uk/article/how-wind-turbines-could-be-used-to-spot-incoming-missiles-vtqnmz3zw" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/how-wind-turbines-could-be-used-to-spot-incoming-missiles-vtqnmz3zw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Wind turbine blades made of stealth materials and advanced machine learning software are being considered to mitigate radar interference...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/us/dictionary/english/wind](https://dictionary.cambridge.org/us/dictionary/english/wind)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| definition in the Cambridge English Dictionarya current of air moving approximately horizontally, especially one strong enough to be fe...</p></details>
+   Link: <a href="https://dictionary.cambridge.org/us/dictionary/english/wind" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/us/dictionary/english/wind</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>definition in the Cambridge English Dictionarya current of air moving approximately horizontally, especially one strong enough to be fe...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/wind](https://www.merriam-webster.com/dictionary/wind)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/wind" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/wind</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>WIND Definition &amp; Meaning2 days ago — The meaning of WIND is a natural movement of air of any velocity; especially: the earth&#x27;s air or t...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: windfinder.com  
-   Link: [https://www.windfinder.com/forecast/west_valley_city_utah_usa](https://www.windfinder.com/forecast/west_valley_city_utah_usa)  
+   Link: <a href="https://www.windfinder.com/forecast/west_valley_city_utah_usa" target="_blank" rel="noopener noreferrer nofollow">https://www.windfinder.com/forecast/west_valley_city_utah_usa</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Wind &amp; weather forecast West Valley CityDetailed wind &amp; weather forecast for West Valley City / Utah, United States of America for kitesu...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: energy.sandia.gov  
    Title: siting wind turbineradar interference mitigation tspear ifte  
-   Link: [https://energy.sandia.gov/programs/renewable-energy/wind-power/national-security/siting-wind-turbineradar-interference-mitigation-tspear-ifte/](https://energy.sandia.gov/programs/renewable-energy/wind-power/national-security/siting-wind-turbineradar-interference-mitigation-tspear-ifte/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>– EnergyThe wind turbine radar interference problem refers to the potential disruption of radar systems caused by the presence of wind tu...</p></details>
+   Link: <a href="https://energy.sandia.gov/programs/renewable-energy/wind-power/national-security/siting-wind-turbineradar-interference-mitigation-tspear-ifte/" target="_blank" rel="noopener noreferrer nofollow">https://energy.sandia.gov/programs/renewable-energy/wind-power/national-security/siting-wind-turbineradar-interference-mitigation-tspear-ifte/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>EnergyThe wind turbine radar interference problem refers to the potential disruption of radar systems caused by the presence of wind tu...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: atdi.com  
    Title: assessing the impact of wind turbines on radar a structured approach  
-   Link: [https://atdi.com/assessing-the-impact-of-wind-turbines-on-radar-a-structured-approach/](https://atdi.com/assessing-the-impact-of-wind-turbines-on-radar-a-structured-approach/)  
+   Link: <a href="https://atdi.com/assessing-the-impact-of-wind-turbines-on-radar-a-structured-approach/" target="_blank" rel="noopener noreferrer nofollow">https://atdi.com/assessing-the-impact-of-wind-turbines-on-radar-a-structured-approach/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Assessing the Impact of Wind Turbines on Radar24 Jul 2025 — The rotating blades of wind turbines can create significant interference with...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: docs.wind-watch.org  
    Title: Doppler, and azimuth bearing. Therefore, such processing is still  
-   Link: [https://docs.wind-watch.org/Wind-Turbine-Impacts-Marine-Vessel-Radar.pdf](https://docs.wind-watch.org/Wind-Turbine-Impacts-Marine-Vessel-Radar.pdf)  
+   Link: <a href="https://docs.wind-watch.org/Wind-Turbine-Impacts-Marine-Vessel-Radar.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.wind-watch.org/Wind-Turbine-Impacts-Marine-Vessel-Radar.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Turbine Generator Impacts to Marine Vessel RadarThe successful detection of targets from clutter depends on their separation in [range](&amp;#123;&amp;#123; &#x27;range/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
    Title: the latest excuse is that wind farms cause radar interference  
-   Link: [https://www.facebook.com/Esquire/posts/the-latest-excuse-is-that-wind-farms-cause-radar-interference/1351272553525666/](https://www.facebook.com/Esquire/posts/the-latest-excuse-is-that-wind-farms-cause-radar-interference/1351272553525666/)  
+   Link: <a href="https://www.facebook.com/Esquire/posts/the-latest-excuse-is-that-wind-farms-cause-radar-interference/1351272553525666/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Esquire/posts/the-latest-excuse-is-that-wind-farms-cause-radar-interference/1351272553525666/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The latest excuse is that wind farms cause “radar...The 2017 Interagency Ground-Based Coastal Air Surveillance Wind Turbine-Radar Interf...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: nyserda.ny.gov  
    Title: 17 25c Aviation and Radar Assets Study  
-   Link: [https://www.nyserda.ny.gov/-/media/Project/Nyserda/Files/Publications/Research/Biomass-Solar-Wind/Master-Plan/17-25c-Aviation-and-Radar-Assets-Study.pdf](https://www.nyserda.ny.gov/-/media/Project/Nyserda/Files/Publications/Research/Biomass-Solar-Wind/Master-Plan/17-25c-Aviation-and-Radar-Assets-Study.pdf)  
+   Link: <a href="https://www.nyserda.ny.gov/-/media/Project/Nyserda/Files/Publications/Research/Biomass-Solar-Wind/Master-Plan/17-25c-Aviation-and-Radar-Assets-Study.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nyserda.ny.gov/-/media/Project/Nyserda/Files/Publications/Research/Biomass-Solar-Wind/Master-Plan/17-25c-Aviation-and-Radar-Assets-Study.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and Radar Assets Study - nyserdaThe operation of wind energy systems (farms or individual turbines) has the potential to interfere with a...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: researchgate.net  
    Title: Wind Farm Clutter Mitigation in Air Surveillance Radar  
-   Link: [https://www.researchgate.net/publication/3278582_Wind_Farm_Clutter_Mitigation_in_Air_Surveillance_Radar](https://www.researchgate.net/publication/3278582_Wind_Farm_Clutter_Mitigation_in_Air_Surveillance_Radar)  
+   Link: <a href="https://www.researchgate.net/publication/3278582_Wind_Farm_Clutter_Mitigation_in_Air_Surveillance_Radar" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/3278582_Wind_Farm_Clutter_Mitigation_in_Air_Surveillance_Radar</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Wind turbine clutter (WTC) presents a significant challenge to detecting targets in civilian radar systems for weather and air traffic co...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: atdi.com  
    Title: iqt assessing the impact of wind farms on radars  
-   Link: [https://atdi.com/iqt-assessing-the-impact-of-wind-farms-on-radars/](https://atdi.com/iqt-assessing-the-impact-of-wind-farms-on-radars/)  
+   Link: <a href="https://atdi.com/iqt-assessing-the-impact-of-wind-farms-on-radars/" target="_blank" rel="noopener noreferrer nofollow">https://atdi.com/iqt-assessing-the-impact-of-wind-farms-on-radars/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>IQT: Assessing the Impact of Wind Farms on Radars25 Mar 2026 — Radar interference and clutter: Large rotating turbine blades can reflect...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/bbcisleofman/posts/concerns-have-been-raised-in-a-public-consultation-about-the-impact-of-a-propose/1445052854288314/](https://www.facebook.com/bbcisleofman/posts/concerns-have-been-raised-in-a-public-consultation-about-the-impact-of-a-propose/1445052854288314/)  
+   Link: <a href="https://www.facebook.com/bbcisleofman/posts/concerns-have-been-raised-in-a-public-consultation-about-the-impact-of-a-propose/1445052854288314/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bbcisleofman/posts/concerns-have-been-raised-in-a-public-consultation-about-the-impact-of-a-propose/1445052854288314/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>e blades are in motion and located within the radar&#x27;s line of sight...</p></details>

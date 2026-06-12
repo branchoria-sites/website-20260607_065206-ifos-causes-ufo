@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ifos-causes-of-ufo-3ed238-distance/
 description: Focused pages that expand on Size Errors.
-date: '2026-06-07'
+date: '2026-06-12'
 layout: default
 parent_basename: ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f
-parent_title: Size Errors | Ifos Causes Of
+parent_title: Size Errors
 parent_nav_short_title: Size Errors
 parent_permalink: /size-errors/
 ---

@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261_balloons_modern_uap_52e7aa
 - ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261_starlink_pilot_repor_45c29c
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - aaro
 - birds
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - aaro
 - birds
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Birds can become featureless or pulsing objects on infrared video when distance, compression and wing beats distort the image.
 hero_summary: Birds can become featureless or pulsing objects on infrared video when distance, compression and wing beats distort the image.
 layout: default
 permalink: /birds-326689/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /aaro/
 nav_short_title: Birds
 title: When Birds Turn Into Infrared Orbs
-title_full: When Birds Turn Into Infrared Orbs | AARO
+title_full: When Birds Turn Into Infrared Orbs
 display_title_short: Birds
 display_title: Birds
 heading_title: When Birds Turn Into Infrared Orbs
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 21:54:35'
-parent_title: What Modern UAP Reviews Resolve | IFOs
+parent_title: What Modern UAP Reviews Resolve
 parent_permalink: /aaro/
 parent_nav_short_title: AARO
 parent_heading_title: What Modern UAP Reviews Resolve
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261
-  title: AARO | Ifos Causes Of
+  title: AARO | ifos causes of UFO 3 ed 238
   permalink: /aaro/
   short_title: AARO
   heading_title: What Modern UAP Reviews Resolve
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261
-  title: AARO | Ifos Causes Of
+  title: AARO | ifos causes of UFO 3 ed 238
   permalink: /aaro/
   short_title: AARO
   heading_title: What Modern UAP Reviews Resolve
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: Why Starlink Can Look Like UAP
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261
-  title: AARO | Ifos Causes Of
+  title: AARO | ifos causes of UFO 3 ed 238
   permalink: /aaro/
   short_title: AARO
   heading_title: What Modern UAP Reviews Resolve
@@ -266,6 +265,7 @@ next_link:
   permalink: /case-closure/
   short_title: Case Closure
   heading_title: How UAP Cases Become Identified Objects
+date: '2026-06-12 00:45:52 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261_birds_infrared_orbs_ea0573-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261_birds_infrared_orbs_ea0573-Illustration-1.webp
@@ -274,8 +274,7 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261_bir
 
 ## Introduction
 
-One of the more revealing lessons from recent U.S. military UAP investigations is that birds can look surprisingly unlike birds when viewed through long-[range]({{ 'range/' | relative_url }}) [infrared]({{ 'infrared/' | relative_url }}) sensors. On some recordings, individual birds or small groups appear as glowing dots, featureless spheres, or pulsing “orbs” with no visible wings, feathers or body shape. The effect can be strong enough that the footage is initially reported as unidentified. AARO’s released case material shows that this is not a theoretical possibility but a recurring real-world source of misidentification. In several resolved cases, analysts concluded with high confidence that unusual infrared targets were birds whose appearance had been altered by sensor limitations, distance and flight behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROUAP ImageryPR-016, Resolved as Birds, AARO assesses, with high confidence, that the objects depicted in the video are almost certainl...</span></span></span>
-
+One of the more revealing lessons from recent U.S. military UAP investigations is that birds can look surprisingly unlike birds when viewed through long-[range]({{ 'range/' | relative_url }}) [infrared]({{ 'infrared/' | relative_url }}) sensors. On some recordings, individual birds or small groups appear as glowing dots, featureless spheres, or pulsing “orbs” with no visible wings, feathers or body shape. The effect can be strong enough that the footage is initially reported as unidentified. AARO’s released case material shows that this is not a theoretical possibility but a recurring real-world source of misidentification. In several resolved cases, analysts concluded with high confidence that unusual infrared targets were birds whose appearance had been altered by sensor limitations, distance and flight behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP ImageryPR-016, Resolved as Birds, AARO assesses, with high confidence, that the objects depicted in the video are almost certainl...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261_birds_infrared_orbs_ea0573-Illustration-1-dark.svg" | relative_url }}" alt="Birds illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261_birds_infrared_orbs_ea0573-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261_birds_infrared_orbs_ea0573-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How infrared video hides bird shape
@@ -292,7 +291,6 @@ Several factors combine to produce an orb-like appearance:
 The result is that a bird can cease to resemble a bird and instead appear as a small luminous object with no obvious structure. This effect is especially pronounced on infrared footage released from military platforms, where operators are often tracking distant airborne targets rather than filming wildlife. [[AARO]({{ 'aaro/' | relative_url }})]
 
 Importantly, the disappearance of visible wings does not mean the wings are absent. It usually means the wings are too small, too blurred, or too thermally indistinct to be separated from the rest of the target in the available pixels.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JckDOdfreSc" title="UAP FILES - PR-016: Resolved as Birds over Europe in 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JckDOdfreSc" target="_blank" rel="noopener noreferrer">UAP FILES - PR-016: Resolved as Birds over Europe in 2023</a></p><p class="youtube-embed-meta">Channel: Media Magik Entertainment &middot; Views: 208 &middot; Uploaded: December 2025 &middot; Length: 54 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JckDOdfreSc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JckDOdfreSc">Open on YouTube</a></p></div></div></div>
 
@@ -313,19 +311,14 @@ Viewed in isolation, the object may seem to brighten and dim rhythmically. Viewe
 
 Pixelation amplifies the effect. When a target occupies only a few pixels, even small changes in shape can produce disproportionately large changes in brightness and apparent size. A bird's normal wing motion can therefore create an object that looks like a glowing sphere that repeatedly swells, contracts or flickers.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
-
-
-<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261_birds_infrared_orbs_ea0573-Illustration-3-dark.svg" | relative_url }}" alt="Birds illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261_birds_infrared_orbs_ea0573-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261_birds_infrared_orbs_ea0573-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TCLKbR_jbkA" title="UAP FILES - Footage Released of Object Tracked over Europe in 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TCLKbR_jbkA" target="_blank" rel="noopener noreferrer">UAP FILES - Footage Released of Object Tracked over Europe in 2022</a></p><p class="youtube-embed-meta">Channel: Media Magik Entertainment &middot; Views: 3.3K &middot; Uploaded: September 2025 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TCLKbR_jbkA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TCLKbR_jbkA">Open on YouTube</a></p></div></div></div>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261_birds_infrared_orbs_ea0573-Illustration-2-dark.svg" | relative_url }}" alt="Birds illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261_birds_infrared_orbs_ea0573-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261_birds_infrared_orbs_ea0573-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What PR-016 adds to the pattern
 
-PR-016 is significant because it demonstrates how analysts move from a mysterious-looking infrared object to a conventional explanation. The case involved twenty-five seconds of infrared footage collected from a U.S. military platform over Europe in 2023. AARO assessed with greater than 95% confidence that the objects were birds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROUAP ImageryPR-016, Resolved as Birds, AARO assesses, with high confidence, that the objects depicted in the video are almost certainl...</span></span></span>
+PR-016 is significant because it demonstrates how analysts move from a mysterious-looking infrared object to a conventional explanation. The case involved twenty-five seconds of infrared footage collected from a U.S. military platform over Europe in 2023. AARO assessed with greater than 95% confidence that the objects were birds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP ImageryPR-016, Resolved as Birds, AARO assesses, with high confidence, that the objects depicted in the video are almost certainl...</span></span></span>
 
 The assessment did not rely on a single clue. Instead, AARO pointed to a combination of indicators:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -340,9 +333,7 @@ This is an important pattern within modern resolved UAP investigations. Identifi
 
 The case also illustrates a broader lesson for interpreting infrared UAP footage. An apparently exotic object may be the product of limited visual information rather than an exotic phenomenon. When distance strips away detail and a thermal sensor reduces a living animal to a few bright pixels, familiar creatures can acquire an unfamiliar appearance. In that sense, the “infrared orb” is often not a separate object at all—it is simply what a bird looks like when viewed through the constraints of a military sensor system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeIncludes windborne debris like plastic bags and mylar balloons, or birds. These may appear anomalous due to their unpredictable...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TCLKbR_jbkA" title="UAP FILES - Footage Released of Object Tracked over Europe in 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TCLKbR_jbkA" target="_blank" rel="noopener noreferrer">UAP FILES - Footage Released of Object Tracked over Europe in 2022</a></p><p class="youtube-embed-meta">Channel: Media Magik Entertainment &middot; Views: 3.3K &middot; Uploaded: September 2025 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TCLKbR_jbkA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TCLKbR_jbkA">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261_birds_infrared_orbs_ea0573-Illustration-3-dark.svg" | relative_url }}" alt="Birds illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261_birds_infrared_orbs_ea0573-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261_birds_infrared_orbs_ea0573-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -461,15 +452,15 @@ The case also illustrates a broader lesson for interpreting infrared UAP footage
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=birds-326689-when-birds-turn-into-infrared-orbs-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="birds-326689-when-birds-turn-into-infrared-orbs-ifos-causes-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bird+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-birds-turn-into-infrared-orbs-bird-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bird art print" data-ebay-reference="when-birds-turn-into-infrared-orbs-bird-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BANKSY GIRL BLUE BIRD QUOTE LEARN TO REST CANVAS WALL STREET ART PRINT GRAFFITI"><img src="https://i.ebayimg.com/images/g/IaMAAOSw-9leoKLT/s-l225.jpg" alt="Listing image for BANKSY GIRL BLUE BIRD QUOTE LEARN TO REST CANVAS WALL STREET ART PRINT GRAFFITI" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=birds-326689-when-birds-turn-into-infrared-orbs-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="birds-326689-when-birds-turn-into-infrared-orbs-ifos-causes-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bird+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-birds-turn-into-infrared-orbs-bird-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bird art print" data-ebay-reference="when-birds-turn-into-infrared-orbs-bird-art-print" target="_blank" rel="sponsored noopener noreferrer">BANKSY GIRL BLUE BIRD QUOTE LEARN TO REST CANVAS WALL STREET ART PRINT GRAFFITI</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=birds-326689-when-birds-turn-into-infrared-orbs-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="birds-326689-when-birds-turn-into-infrared-orbs-ifos-causes-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bird+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-birds-turn-into-infrared-orbs-bird-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bird art print" data-ebay-reference="when-birds-turn-into-infrared-orbs-bird-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bird art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: bird art print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=birds-326689-when-birds-turn-into-infrared-orbs-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="birds-326689-when-birds-turn-into-infrared-orbs-ifos-causes-of-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bird+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-birds-turn-into-infrared-orbs-bird-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bird art print" data-ebay-reference="when-birds-turn-into-infrared-orbs-bird-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -477,15 +468,15 @@ The case also illustrates a broader lesson for interpreting infrared UAP footage
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=birds-326689-when-birds-turn-into-infrared-orbs-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="birds-326689-when-birds-turn-into-infrared-orbs-ifos-causes-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bird+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-birds-turn-into-infrared-orbs-bird-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bird art print" data-ebay-reference="when-birds-turn-into-infrared-orbs-bird-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UK Garden Birds Identification Print Educational Wildlife Wall Decor A4"><img src="https://i.ebayimg.com/images/g/Qf8AAeSwI49qDYt5/s-l225.jpg" alt="Listing image for UK Garden Birds Identification Print Educational Wildlife Wall Decor A4" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=birds-326689-when-birds-turn-into-infrared-orbs-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="birds-326689-when-birds-turn-into-infrared-orbs-ifos-causes-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bird+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-birds-turn-into-infrared-orbs-bird-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bird art print" data-ebay-reference="when-birds-turn-into-infrared-orbs-bird-art-print" target="_blank" rel="sponsored noopener noreferrer">UK Garden Birds Identification Print Educational Wildlife Wall Decor A4</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=birds-326689-when-birds-turn-into-infrared-orbs-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="birds-326689-when-birds-turn-into-infrared-orbs-ifos-causes-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bird+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-birds-turn-into-infrared-orbs-bird-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bird art print" data-ebay-reference="when-birds-turn-into-infrared-orbs-bird-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bird art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: bird art print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=birds-326689-when-birds-turn-into-infrared-orbs-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="birds-326689-when-birds-turn-into-infrared-orbs-ifos-causes-of-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bird+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-birds-turn-into-infrared-orbs-bird-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bird art print" data-ebay-reference="when-birds-turn-into-infrared-orbs-bird-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -493,15 +484,15 @@ The case also illustrates a broader lesson for interpreting infrared UAP footage
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=birds-326689-when-birds-turn-into-infrared-orbs-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="birds-326689-when-birds-turn-into-infrared-orbs-ifos-causes-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bird+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-birds-turn-into-infrared-orbs-bird-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bird art print" data-ebay-reference="when-birds-turn-into-infrared-orbs-bird-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Flamingo Illustration Retro Flamingo Wall Art Print Bird Poster Picture"><img src="https://i.ebayimg.com/images/g/ahQAAOSwHFlmWrTF/s-l225.jpg" alt="Listing image for Vintage Flamingo Illustration Retro Flamingo Wall Art Print Bird Poster Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=birds-326689-when-birds-turn-into-infrared-orbs-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="birds-326689-when-birds-turn-into-infrared-orbs-ifos-causes-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bird+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-birds-turn-into-infrared-orbs-bird-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bird art print" data-ebay-reference="when-birds-turn-into-infrared-orbs-bird-art-print" target="_blank" rel="sponsored noopener noreferrer">Vintage Flamingo Illustration Retro Flamingo Wall Art Print Bird Poster Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=birds-326689-when-birds-turn-into-infrared-orbs-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="birds-326689-when-birds-turn-into-infrared-orbs-ifos-causes-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bird+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-birds-turn-into-infrared-orbs-bird-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bird art print" data-ebay-reference="when-birds-turn-into-infrared-orbs-bird-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bird art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: bird art print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=birds-326689-when-birds-turn-into-infrared-orbs-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="birds-326689-when-birds-turn-into-infrared-orbs-ifos-causes-of-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bird+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-birds-turn-into-infrared-orbs-bird-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bird art print" data-ebay-reference="when-birds-turn-into-infrared-orbs-bird-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -509,15 +500,15 @@ The case also illustrates a broader lesson for interpreting infrared UAP footage
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=birds-326689-when-birds-turn-into-infrared-orbs-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="birds-326689-when-birds-turn-into-infrared-orbs-ifos-causes-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bird+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-birds-turn-into-infrared-orbs-bird-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bird art print" data-ebay-reference="when-birds-turn-into-infrared-orbs-bird-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for British Garden Birds Identification Chart Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/0SwAAeSwWz1p8h1d/s-l225.jpg" alt="Listing image for British Garden Birds Identification Chart Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=birds-326689-when-birds-turn-into-infrared-orbs-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="birds-326689-when-birds-turn-into-infrared-orbs-ifos-causes-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bird+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-birds-turn-into-infrared-orbs-bird-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bird art print" data-ebay-reference="when-birds-turn-into-infrared-orbs-bird-art-print" target="_blank" rel="sponsored noopener noreferrer">British Garden Birds Identification Chart Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=birds-326689-when-birds-turn-into-infrared-orbs-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="birds-326689-when-birds-turn-into-infrared-orbs-ifos-causes-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bird+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-birds-turn-into-infrared-orbs-bird-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bird art print" data-ebay-reference="when-birds-turn-into-infrared-orbs-bird-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bird art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: bird art print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=birds-326689-when-birds-turn-into-infrared-orbs-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="birds-326689-when-birds-turn-into-infrared-orbs-ifos-causes-of-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bird+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-birds-turn-into-infrared-orbs-bird-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bird art print" data-ebay-reference="when-birds-turn-into-infrared-orbs-bird-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -525,7 +516,7 @@ The case also illustrates a broader lesson for interpreting infrared UAP footage
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=birds-326689-when-birds-turn-into-infrared-orbs-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="birds-326689-when-birds-turn-into-infrared-orbs-ifos-causes-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=bird+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-birds-turn-into-infrared-orbs-bird-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bird art print" data-ebay-reference="when-birds-turn-into-infrared-orbs-bird-art-print" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -740,70 +731,70 @@ The case also illustrates a broader lesson for interpreting infrared UAP footage
 
 1. <a id="endnote-1"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROUAP ImageryPR-016, Resolved as Birds, AARO assesses, with high confidence, that the objects depicted in the video are almost certainl...</p></details>
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryPR-016, Resolved as Birds, AARO assesses, with high confidence, that the objects depicted in the video are almost certainl...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeIncludes windborne debris like plastic bags and mylar balloons, or birds. These may appear anomalous due to their unpredictable...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/video/988673/pr-016-resolved-birds-europe-2023](https://www.dvidshub.net/video/988673/pr-016-resolved-birds-europe-2023)  
+   Link: <a href="https://www.dvidshub.net/video/988673/pr-016-resolved-birds-europe-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/988673/pr-016-resolved-birds-europe-2023</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Video - PR-016, Resolved as Birds, Europe 202312 Apr 2025 — The United States European Command submitted a report of an unidentified anom...</p></details>
 
 ### Additional References
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1kipbic/aaro_releases_video_of_an_unresolved_uap_case_in/](https://www.reddit.com/r/UFOs/comments/1kipbic/aaro_releases_video_of_an_unresolved_uap_case_in/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1kipbic/aaro_releases_video_of_an_unresolved_uap_case_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1kipbic/aaro_releases_video_of_an_unresolved_uap_case_in/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO releases video of an unresolved UAP case in...Eight minutes and fifteen seconds of video footage was captured by an infrared sensor...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DYJp7ZfvFRQ/](https://www.instagram.com/reel/DYJp7ZfvFRQ/)  
+   Link: <a href="https://www.instagram.com/reel/DYJp7ZfvFRQ/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYJp7ZfvFRQ/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PR-017, Unresolved UAP Report, Europe 2024PR-017...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/ufosfootages/posts/4442065692783699/](https://www.facebook.com/groups/ufosfootages/posts/4442065692783699/)  
+   Link: <a href="https://www.facebook.com/groups/ufosfootages/posts/4442065692783699/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ufosfootages/posts/4442065692783699/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>tell without video of it moving but if it moved in different...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DYpMeqjo0e9/](https://www.instagram.com/reel/DYpMeqjo0e9/)  
+   Link: <a href="https://www.instagram.com/reel/DYpMeqjo0e9/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYpMeqjo0e9/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ant acceleration,” is likely derived from an infrared sensor...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/maltatoday/posts/the-video-shows-a-report-of-an-unidentified-anomalous-phenomenon-to-the-all-doma/1390852039751253/](https://www.facebook.com/maltatoday/posts/the-video-shows-a-report-of-an-unidentified-anomalous-phenomenon-to-the-all-doma/1390852039751253/)  
+   Link: <a href="https://www.facebook.com/maltatoday/posts/the-video-shows-a-report-of-an-unidentified-anomalous-phenomenon-to-the-all-doma/1390852039751253/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/maltatoday/posts/the-video-shows-a-report-of-an-unidentified-anomalous-phenomenon-to-the-all-doma/1390852039751253/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>in Anomaly Resolution Office (AARO), consisting of 43...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/AviationCircle/posts/-breaking-the-pentagon-has-released-newly-declassified-footage-of-a-us-air-force/940924915607774/](https://www.facebook.com/AviationCircle/posts/-breaking-the-pentagon-has-released-newly-declassified-footage-of-a-us-air-force/940924915607774/)  
+   Link: <a href="https://www.facebook.com/AviationCircle/posts/-breaking-the-pentagon-has-released-newly-declassified-footage-of-a-us-air-force/940924915607774/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AviationCircle/posts/-breaking-the-pentagon-has-released-newly-declassified-footage-of-a-us-air-force/940924915607774/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>een tracking for days. 4h. Greg Andrews.Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ancientwhispers/posts/recent-footage-released-by-aaro-all-domain-anomaly-resolution-office-has-sparked/835747172778039/](https://www.facebook.com/ancientwhispers/posts/recent-footage-released-by-aaro-all-domain-anomaly-resolution-office-has-sparked/835747172778039/)  
+   Link: <a href="https://www.facebook.com/ancientwhispers/posts/recent-footage-released-by-aaro-all-domain-anomaly-resolution-office-has-sparked/835747172778039/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientwhispers/posts/recent-footage-released-by-aaro-all-domain-anomaly-resolution-office-has-sparked/835747172778039/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>renewed interest and debate in UFO and cryptid...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
    Title: WHA T ARE WE SEEING?  
-   Link: [https://www.facebook.com/KTNVLasVegas/posts/what-are-we-seeing-video-has-gone-viral-in-just-a-few-hours-in-what-a-local-man-/10157242939328802/](https://www.facebook.com/KTNVLasVegas/posts/what-are-we-seeing-video-has-gone-viral-in-just-a-few-hours-in-what-a-local-man-/10157242939328802/)  
+   Link: <a href="https://www.facebook.com/KTNVLasVegas/posts/what-are-we-seeing-video-has-gone-viral-in-just-a-few-hours-in-what-a-local-man-/10157242939328802/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KTNVLasVegas/posts/what-are-we-seeing-video-has-gone-viral-in-just-a-few-hours-in-what-a-local-man-/10157242939328802/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Video has gone viral in just a...He DID see a UFO. Not necessarily, an extraterrestrial craft. But, he could not identify the aircraft...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: Understanding Thermal Imaging for Wildlife and Birdwatching  
-   Link: [https://www.youtube.com/watch?v=1K51_FhG64g](https://www.youtube.com/watch?v=1K51_FhG64g)  
+   Link: <a href="https://www.youtube.com/watch?v=1K51_FhG64g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1K51_FhG64g</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Thermal Imaging Cameras Work - Technical Breakdown...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: Why Distant Objects Appear as Blobs in Thermal Sensors  
-   Link: [https://www.youtube.com/watch?v=wX-y591rZz8](https://www.youtube.com/watch?v=wX-y591rZz8)  
+   Link: <a href="https://www.youtube.com/watch?v=wX-y591rZz8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wX-y591rZz8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking Common UAP Sightings: Optical and Sensor Artifacts...</p></details>

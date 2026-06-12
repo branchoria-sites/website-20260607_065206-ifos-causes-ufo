@@ -50,22 +50,22 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_wind_data_33671a
 - ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - aircraft-lights
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - aircraft-lights
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Distant aircraft can seem silent, stationary or impossibly fast when viewed head-on, at dusk or through haze.
 hero_summary: Distant aircraft can seem silent, stationary or impossibly fast when viewed head-on, at dusk or through haze.
 layout: default
 permalink: /aircraft-lights/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 nav_short_title: Aircraft Lights
 title: Why Ordinary Aircraft Look So Strange
-title_full: Why Ordinary Aircraft Look So Strange | IFOs
+title_full: Why Ordinary Aircraft Look So Strange
 display_title_short: Aircraft Lights
 display_title: Aircraft Lights
 heading_title: Why Ordinary Aircraft Look So Strange
@@ -240,213 +240,212 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 01:47:47'
 parent_title: IFOs
-parent_permalink: /ifos-causes-of/
+parent_permalink: /ifos-causes-of-ufo-3-ed-238/
 parent_nav_short_title: IFOs
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 sibling_links:
 - basename: ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d
-  title: A Head On Aircraft Can Look Like A Stationary Light Because It | Ifos Causes Of
+  title: A Head On Aircraft Can Look Like A Stationary Light Because It | ifos causes of UFO 3 ed 238
   permalink: /a-head-on-aircraft-can-look-like-a/
   short_title: A Head On Aircraft Can Look Like A Stationary Light Because It
   heading_title: The Stationary Light That Is Moving
 - basename: ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261
-  title: AARO | Ifos Causes Of
+  title: AARO | ifos causes of UFO 3 ed 238
   permalink: /aaro/
   short_title: AARO
   heading_title: What Modern UAP Reviews Resolve
 - basename: ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043
-  title: Atmosphere | Ifos Causes Of
+  title: Atmosphere | ifos causes of UFO 3 ed 238
   permalink: /atmosphere/
   short_title: Atmosphere
   heading_title: When Weather Makes Shapes in the Sky
 - basename: ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057
-  title: Balloons | Ifos Causes Of
+  title: Balloons | ifos causes of UFO 3 ed 238
   permalink: /balloons/
   short_title: Balloons
   heading_title: Why Balloons Become Flying Saucers
 - basename: ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40
-  title: Birds | Ifos Causes Of
+  title: Birds | ifos causes of UFO 3 ed 238
   permalink: /birds/
   short_title: Birds
   heading_title: How Birds Become Fast UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81
-  title: Blue Book | Ifos Causes Of
+  title: Blue Book | ifos causes of UFO 3 ed 238
   permalink: /blue-book/
   short_title: Blue Book
   heading_title: What Blue Book Teaches About IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e
-  title: Contrails | Ifos Causes Of
+  title: Contrails | ifos causes of UFO 3 ed 238
   permalink: /contrails/
   short_title: Contrails
   heading_title: Why Jet Trails Glow Like UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c
-  title: Drones | Ifos Causes Of
+  title: Drones | ifos causes of UFO 3 ed 238
   permalink: /drones/
   short_title: Drones
   heading_title: When a Drone Becomes a UFO
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e
-  title: First Checks | Ifos Causes Of
+  title: First Checks | ifos causes of UFO 3 ed 238
   permalink: /first-checks/
   short_title: First Checks
   heading_title: What to Check Before Calling It a UFO
 - basename: ifos_-_causes_of_UFO_3ed238_military_flares_abb62f
-  title: Flares | Ifos Causes Of
+  title: Flares | ifos causes of UFO 3 ed 238
   permalink: /flares/
   short_title: Flares
   heading_title: Why Flares Look Like Hovering Craft
 - basename: ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590
-  title: Flight Tracking | Ifos Causes Of
+  title: Flight Tracking | ifos causes of UFO 3 ed 238
   permalink: /flight-tracking/
   short_title: Flight Tracking
   heading_title: How Flight Data Solves UFO Sightings
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965
-  title: Hoaxes | Ifos Causes Of
+  title: Hoaxes | ifos causes of UFO 3 ed 238
   permalink: /hoaxes/
   short_title: Hoaxes
   heading_title: When UFO Reports Are Manufactured
 - basename: ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f
-  title: Infrared | Ifos Causes Of
+  title: Infrared | ifos causes of UFO 3 ed 238
   permalink: /infrared/
   short_title: Infrared
   heading_title: Why Infrared UFO Videos Mislead
 - basename: ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74
-  title: Insects | Ifos Causes Of
+  title: Insects | ifos causes of UFO 3 ed 238
   permalink: /insects/
   short_title: Insects
   heading_title: The Tiny Things Cameras Make Huge
 - basename: ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5
-  title: Lanterns | Ifos Causes Of
+  title: Lanterns | ifos causes of UFO 3 ed 238
   permalink: /lanterns/
   short_title: Lanterns
   heading_title: The Orange Lights That Start UFO Reports
 - basename: ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e
-  title: Lens Flare | Ifos Causes Of
+  title: Lens Flare | ifos causes of UFO 3 ed 238
   permalink: /lens-flare/
   short_title: Lens Flare
   heading_title: When Cameras Invent Extra Lights
 - basename: ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28
-  title: Mass Sightings | Ifos Causes Of
+  title: Mass Sightings | ifos causes of UFO 3 ed 238
   permalink: /mass-sightings/
   short_title: Mass Sightings
   heading_title: Why Groups Can Share One Mistake
 - basename: ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504
-  title: Meteors | Ifos Causes Of
+  title: Meteors | ifos causes of UFO 3 ed 238
   permalink: /meteors/
   short_title: Meteors
   heading_title: When Fireballs Become UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca
-  title: Missing Data | Ifos Causes Of
+  title: Missing Data | ifos causes of UFO 3 ed 238
   permalink: /missing-data/
   short_title: Missing Data
   heading_title: Unsolved Does Not Always Mean Strange
 - basename: ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183
-  title: NASA Study | Ifos Causes Of
+  title: NASA Study | ifos causes of UFO 3 ed 238
   permalink: /nasa-study/
   short_title: NASA Study
   heading_title: Why Better UFO Data Matters
 - basename: ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b
-  title: Parallax | Ifos Causes Of
+  title: Parallax | ifos causes of UFO 3 ed 238
   permalink: /parallax/
   short_title: Parallax
   heading_title: The Speed Illusion in UFO Footage
 - basename: ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a
-  title: Pilots | Ifos Causes Of
+  title: Pilots | ifos causes of UFO 3 ed 238
   permalink: /pilots/
   short_title: Pilots
   heading_title: Why Pilots Can Misidentify UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357
-  title: Radar | Ifos Causes Of
+  title: Radar | ifos causes of UFO 3 ed 238
   permalink: /radar/
   short_title: Radar
   heading_title: When Radar Sees a UFO That Isnt There
 - basename: ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c
-  title: Reflections | Ifos Causes Of
+  title: Reflections | ifos causes of UFO 3 ed 238
   permalink: /reflections/
   short_title: Reflections
   heading_title: The UFO Inside the Glass
 - basename: ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132
-  title: Rocket Plumes | Ifos Causes Of
+  title: Rocket Plumes | ifos causes of UFO 3 ed 238
   permalink: /rocket-plumes/
   short_title: Rocket Plumes
   heading_title: The Strange Clouds Rockets Leave Behind
 - basename: ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b
-  title: Satellites | Ifos Causes Of
+  title: Satellites | ifos causes of UFO 3 ed 238
   permalink: /satellites/
   short_title: Satellites
   heading_title: Why Satellites Surprise Night Watchers
 - basename: ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1
-  title: Searchlights | Ifos Causes Of
+  title: Searchlights | ifos causes of UFO 3 ed 238
   permalink: /searchlights/
   short_title: Searchlights
   heading_title: How Searchlights Paint UFOs in Clouds
 - basename: ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b
-  title: Sensor Operators | Ifos Causes Of
+  title: Sensor Operators | ifos causes of UFO 3 ed 238
   permalink: /sensor-operators/
   short_title: Sensor Operators
   heading_title: When Sensors Need Human Context
 - basename: ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391
-  title: Short Clips | Ifos Causes Of
+  title: Short Clips | ifos causes of UFO 3 ed 238
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: Why Short UFO Videos Are Hard to Trust
 - basename: ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f
-  title: Size Errors | Ifos Causes Of
+  title: Size Errors | ifos causes of UFO 3 ed 238
   permalink: /size-errors/
   short_title: Size Errors
   heading_title: Why Honest Witnesses Misjudge UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725
-  title: Sky Charts | Ifos Causes Of
+  title: Sky Charts | ifos causes of UFO 3 ed 238
   permalink: /sky-charts/
   short_title: Sky Charts
   heading_title: How to Check a UFO Against the Sky
 - basename: ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32
-  title: Stars | Ifos Causes Of
+  title: Stars | ifos causes of UFO 3 ed 238
   permalink: /stars/
   short_title: Stars
   heading_title: Why Stars Flash Like Machines
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb
-  title: Status Labels | Ifos Causes Of
+  title: Status Labels | ifos causes of UFO 3 ed 238
   permalink: /status-labels/
   short_title: Status Labels
   heading_title: UFO Does Not Mean Alien
 - basename: ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d
-  title: Strong Cases | Ifos Causes Of
+  title: Strong Cases | ifos causes of UFO 3 ed 238
   permalink: /strong-cases/
   short_title: Strong Cases
   heading_title: What Makes a UFO Report Harder to Explain
 - basename: ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948
-  title: UK Files | Ifos Causes Of
+  title: UK Files | ifos causes of UFO 3 ed 238
   permalink: /uk-files/
   short_title: UK Files
   heading_title: What the UK UFO Files Reveal
 - basename: ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06
-  title: Unresolved Cases | Ifos Causes Of
+  title: Unresolved Cases | ifos causes of UFO 3 ed 238
   permalink: /unresolved-cases/
   short_title: Unresolved Cases
   heading_title: Why Some UFO Cases Stay Open
 - basename: ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080
-  title: Venus | Ifos Causes Of
+  title: Venus | ifos causes of UFO 3 ed 238
   permalink: /venus/
   short_title: Venus
   heading_title: Is That UFO Really Venus?
 - basename: ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13
-  title: Weather Records | Ifos Causes Of
+  title: Weather Records | ifos causes of UFO 3 ed 238
   permalink: /weather-records/
   short_title: Weather Records
   heading_title: Weather Clues That Explain Strange Lights
 - basename: ifos_-_causes_of_UFO_3ed238_wind_data_33671a
-  title: Wind Data | Ifos Causes Of
+  title: Wind Data | ifos causes of UFO 3 ed 238
   permalink: /wind-data/
   short_title: Wind Data
   heading_title: Following a UFO With the Wind
@@ -479,20 +478,21 @@ child_links:
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 prev_link:
   basename: ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261
-  title: AARO | Ifos Causes Of
+  title: AARO | ifos causes of UFO 3 ed 238
   permalink: /aaro/
   short_title: AARO
   heading_title: What Modern UAP Reviews Resolve
 next_link:
   basename: ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043
-  title: Atmosphere | Ifos Causes Of
+  title: Atmosphere | ifos causes of UFO 3 ed 238
   permalink: /atmosphere/
   short_title: Atmosphere
   heading_title: When Weather Makes Shapes in the Sky
+date: '2026-06-12 00:07:52 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253-overview-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253-overview.webp
@@ -503,9 +503,8 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253-overvie
 
 Distant aircraft are one of the most durable causes of UFO reports because they combine a real object, a real light and a misleading viewing geometry. A plane seen head-on may look motionless for several minutes; a landing light can outshine the red, green and white navigation lights that would normally give the game away; haze can erase the aircraft body; and a turn can make a steady light suddenly seem to accelerate, vanish or change direction. This is not a claim that every strange light is an aircraft. It is a specific mechanism: ordinary aircraft become convincing IFOs when distance, angle, lighting and expectation remove the cues people rely on to judge size, speed and identity.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253-overview.webp" | relative_url }}" alt="Overview image for Aircraft Lights" loading="eager" decoding="sync" fetchpriority="high">
-The pattern is old enough to appear in official UFO-era records and current enough to matter in modern UAP analysis. The US Air Force’s [Project Blue Book]({{ 'blue-book/' | relative_url }}) recorded 12,618 reports between 1947 and 1969, with 701 left unidentified, and the Air Force’s published conclusions did not find evidence that the unidentified residue represented extraterrestrial vehicles or technology beyond known science. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span> In the aircraft-lights subset, the key question is usually not “could a plane have lights?” but “could this particular viewing angle make a plane look unlike a plane?”
+The pattern is old enough to appear in official UFO-era records and current enough to matter in modern UAP analysis. The US Air Force’s Project Blue Book recorded 12,618 reports between 1947 and 1969, with 701 left unidentified, and the Air Force’s published conclusions did not find evidence that the unidentified residue represented extraterrestrial vehicles or technology beyond known science. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span> In the aircraft-lights subset, the key question is usually not “could a plane have lights?” but “could this particular viewing angle make a plane look unlike a plane?”
 
 ## Why planes can fool witnesses
 
@@ -513,15 +512,14 @@ A nearby aircraft is usually easy to recognise: you can see a fuselage, wings, e
 
 This is why aircraft reports often contain sincere but misleading phrases such as “silent”, “hovering”, “huge”, “shot away” or “moved impossibly fast”. Sound may not carry clearly from a high or distant aircraft, especially in wind, traffic noise or urban background sound. A plane flying roughly towards the observer has little sideways movement across the field of view, so it may appear suspended in one place until it turns. A later turn can reveal side-on motion and make the object seem to “take off” suddenly, even though its speed has not changed.
 
-Aviation safety material makes the same perceptual point from the opposite side: even trained [pilots]({{ 'pilots/' | relative_url }}) can misjudge lights at night. SKYbrary, an aviation safety knowledge base, notes that autokinesis can make a stationary light in the distance appear to move when watched against a dark background; it also warns that night approaches and poor visual cues distort judgements of position, distance and flight path. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skybrary.aero/articles/visual-illusions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-title">Visual Illusions | SKYbrary Aviation Safety</span><span class="citation-popover-snippet">Visual Illusions | SKYbrary Aviation Safety</span></span></span> That matters for UFO reports because ground witnesses face an even harder version of the problem: they usually lack instruments, altitude information, radio calls and runway context.
+Aviation safety material makes the same perceptual point from the opposite side: even trained [pilots]({{ 'pilots/' | relative_url }}) can misjudge lights at night. SKYbrary, an aviation safety knowledge base, notes that autokinesis can make a stationary light in the distance appear to move when watched against a dark background; it also warns that night approaches and poor visual cues distort judgements of position, distance and flight path. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skybrary.aero/articles/visual-illusions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-title">Visual Illusions &#124; SKYbrary Aviation Safety</span><span class="citation-popover-snippet">Visual Illusions &#124; SKYbrary Aviation Safety</span></span></span> That matters for UFO reports because ground witnesses face an even harder version of the problem: they usually lack instruments, altitude information, radio calls and runway context.
 
 The practical result is a common sighting sequence. A person notices a bright, silent light low in the sky. It seems fixed, or nearly fixed. Then it dims, splits into smaller lights, begins flashing, or moves away. The witness’s first interpretation — a hovering object — can feel confirmed by the minutes when the light barely moved. But the later change may simply be the aircraft turning, descending, changing landing-light angle, passing through haze, or revealing its navigation and anti-collision lights.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253-Illustration-1-dark.svg" | relative_url }}" alt="Aircraft Lights illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The aircraft light pattern that looks least like an aircraft
 
-Aircraft lighting is designed for safety, not for making aircraft intuitive to distant observers. In US civil aviation rules, aircraft operating from sunset to sunrise must have lighted position lights, and aircraft equipped with anti-collision lights must generally use them unless the pilot decides that operating conditions make turning them off safer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-C/section-91.209" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecfr.gov">[eCFR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecfr.gov</span><span class="citation-popover-snippet">eCFR:: 14 CFR 91.209 -- Aircraft lights. (FAR 91.209)...</span></span></span> In UK and European rules, aircraft at night similarly display anti-collision lights and, except for balloons, navigation lights intended to show the aircraft’s relative path. <span class="citation-chip-wrap"><a class="citation-chip" href="https://regulatorylibrary.caa.co.uk/923-2012/Content/Regs/00880_SERA3215_Lights_to_be_displayed_by_aircraft.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: regulatorylibrary.caa.co.uk">[Regulatory Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">regulatorylibrary.caa.co.uk</span><span class="citation-popover-title">00880 SERA3215 Lights to be displayed by aircraft</span><span class="citation-popover-snippet">00880 SERA3215 Lights to be displayed by aircraft</span></span></span>
+Aircraft lighting is designed for safety, not for making aircraft intuitive to distant observers. In US civil aviation rules, aircraft operating from sunset to sunrise must have lighted position lights, and aircraft equipped with anti-collision lights must generally use them unless the pilot decides that operating conditions make turning them off safer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-C/section-91.209" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecfr.gov">[eCFR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecfr.gov</span><span class="citation-popover-snippet">14 CFR 91.209 -- Aircraft lights. (FAR 91.209)...</span></span></span> In UK and European rules, aircraft at night similarly display anti-collision lights and, except for balloons, navigation lights intended to show the aircraft’s relative path. <span class="citation-chip-wrap"><a class="citation-chip" href="https://regulatorylibrary.caa.co.uk/923-2012/Content/Regs/00880_SERA3215_Lights_to_be_displayed_by_aircraft.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: regulatorylibrary.caa.co.uk">[Regulatory Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">regulatorylibrary.caa.co.uk</span><span class="citation-popover-title">00880 SERA3215 Lights to be displayed by aircraft</span><span class="citation-popover-snippet">00880 SERA3215 Lights to be displayed by aircraft</span></span></span>
 
 From the ground, however, those lights do not always read as a tidy “aircraft signature”. Position lights can be faint at range. Strobes may be hidden by angle, haze or cloud. [Landing lights]({{ 'landing-lights/' | relative_url }}) can dominate everything else. The FAA’s Aeronautical Information Publication says pilots are encouraged to use landing lights below 10,000 feet, day or night, especially within 10 miles of an airport, in reduced visibility, and in areas where birds may be expected. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Federal_Aviation_Administration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Federal Aviation Administration</span></span></span> That safety practice helps other pilots see the aircraft, but it also creates exactly the kind of intense single light that a ground observer may describe as a glowing orb.
 
@@ -530,10 +528,10 @@ This is especially important near airports, approach corridors and coastal or ur
 The most misleading aircraft-[light reports]({{ 'light-reports/' | relative_url }}) often share a few features:
 
 * **Low elevation near the horizon:** haze, dust and thicker [atmosphere]({{ 'atmosphere/' | relative_url }}) dim the aircraft body while bright lights remain visible.
+* **Dusk or twilight:** the sky is still bright enough to hide [stars]({{ 'stars/' | relative_url }}) and aircraft structure, but dark enough for lights to stand out.
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* **Dusk or twilight:** the sky is still bright enough to hide stars and aircraft structure, but dark enough for lights to stand out.
 * **Head-on motion:** the aircraft’s true forward speed produces little apparent sideways motion.
 * **Approach or climb-out:** landing lights, strobes and bank angles change rapidly as the aircraft lines up, turns or departs.
 * **No reliable range cue:** without a known distance, a small close object and a large distant aircraft can be mentally swapped.
@@ -541,7 +539,6 @@ The most misleading aircraft-[light reports]({{ 'light-reports/' | relative_url 
 </div>
 
 The important point is not that witnesses are careless. It is that the lighting system supplies partial information. Aircraft lights are excellent for collision avoidance; they are not a built-in identification label for someone several miles away on the ground.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/q0HRS_IzTmU" title="Are they aliens?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=q0HRS_IzTmU" target="_blank" rel="noopener noreferrer">Are they aliens?</a></p><p class="youtube-embed-meta">Channel: ReasonTV &middot; Views: 20.7K &middot; Uploaded: October 2022 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=q0HRS_IzTmU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=q0HRS_IzTmU">Open on YouTube</a></p></div></div></div>
 
@@ -553,10 +550,9 @@ This produces a different kind of “UFO” from the night-time landing-light ca
 
 Approach lights can be just as deceptive, but in a more patient way. A landing aircraft does not need to be close to seem bright. Powerful forward-facing lights can be visible from far away, and when the aircraft is travelling along a line close to the observer’s line of sight, the light may hold almost the same position against the background. The witness sees a “stationary” light; the pilot is actually covering miles.
 
-Night visual-approach research shows why judging distance from lights alone is treacherous. SKYbrary notes that on clear nights lights can be seen from a long distance and distance is hard to judge without landmarks or electronic aids; in poor visibility, objects may appear farther away than they are. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skybrary.aero/articles/night-visual-approaches" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-title">Night Visual Approaches | SKYbrary Aviation Safety</span><span class="citation-popover-snippet">Night Visual Approaches | SKYbrary Aviation Safety</span></span></span> For a UFO witness, that same uncertainty can invert the story: a distant aircraft can be imagined as a nearby hovering object, or a nearby aircraft can be imagined as a huge object far away.
+Night visual-approach research shows why judging distance from lights alone is treacherous. SKYbrary notes that on clear nights lights can be seen from a long distance and distance is hard to judge without landmarks or electronic aids; in poor visibility, objects may appear farther away than they are. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skybrary.aero/articles/night-visual-approaches" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-title">Night Visual Approaches &#124; SKYbrary Aviation Safety</span><span class="citation-popover-snippet">Night Visual Approaches &#124; SKYbrary Aviation Safety</span></span></span> For a UFO witness, that same uncertainty can invert the story: a distant aircraft can be imagined as a nearby hovering object, or a nearby aircraft can be imagined as a huge object far away.
 
 A useful test is whether the light eventually resolves into an aircraft pattern. Does it begin to show a red or green side light? Does a white strobe flash at intervals? Does it follow a plausible path towards or away from an airport? Does it align with known arrival routes? None of these checks is perfect, but together they often turn a strange light into an ordinary flight.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253-Illustration-2-dark.svg" | relative_url }}" alt="Aircraft Lights illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Afterburners, contrails and angle changes
@@ -579,7 +575,6 @@ The perception problem is circular. If the witness assumes the light is nearby, 
 
 This is also why the strongest identifications use independent context: flight-tracking records, airport direction, weather, visibility, time stamps, video metadata and multiple witnesses from separated locations. NASA’s UAP study page frames the scientific challenge in similar terms, emphasising available data, better data collection and methods that can move observations from ambiguous reports towards testable explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP</span><span class="citation-popover-snippet">Science UAP</span></span></span> For distant aircraft lights, the decisive data are often mundane: exact time, compass direction, elevation, nearby airports and whether the object followed an arrival or departure corridor.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/diPXow8zgc8" title="How scientists use math to help explain UFO videos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=diPXow8zgc8" target="_blank" rel="noopener noreferrer">How scientists use math to help explain UFO videos</a></p><p class="youtube-embed-meta">Channel: PBS NewsHour &middot; Views: 11.7K &middot; Uploaded: April 2025 &middot; Length: 3 minutes 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=diPXow8zgc8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=diPXow8zgc8">Open on YouTube</a></p></div></div></div>
 
 ## How to check an aircraft-light explanation
@@ -596,7 +591,6 @@ A practical aircraft-light check usually follows this path:
 
 This method also protects against over-explaining. Some reports genuinely lack enough information. Others involve drones, satellites, balloons, planets, flares, birds or sensor artefacts rather than aircraft. A good IFO analysis does not force every light into the same box; it tests whether the aircraft mechanism fits the timing, direction, light behaviour and viewing conditions.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253-Illustration-3-dark.svg" | relative_url }}" alt="Aircraft Lights illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What aircraft lights teach about IFO reports
 
@@ -606,9 +600,7 @@ That distinction is central to serious UFO analysis. “It was a plane” is not
 
 The best takeaway is not cynicism about witnesses. It is discipline about geometry. Before a distant light becomes evidence for something extraordinary, the ordinary three-dimensional scene has to be reconstructed: where the observer was, where the light was, how far away it might have been, what aircraft were in the area, and how the viewing angle changed. In many cases, that reconstruction turns a UFO back into an IFO: a real aircraft seen under conditions that made it briefly unrecognisable.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nuBMnluJfs0" title="Replay! NASA&#x27;s Release of the Unidentified Anomalous Phenomena Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nuBMnluJfs0" target="_blank" rel="noopener noreferrer">Replay! NASA&#x27;s Release of the Unidentified Anomalous Phenomena Report</a></p><p class="youtube-embed-meta">Channel: VideoFromSpace &middot; Views: 71.9K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nuBMnluJfs0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nuBMnluJfs0">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -1007,174 +999,174 @@ The best takeaway is not cynicism about witnesses. It is discipline about geomet
 1. <a id="endnote-1"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 2. <a id="endnote-2"></a>
    Source: af.mil  
    Title: Air Force  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: skybrary.aero  
    Title: Visual Illusions | SKYbrary Aviation Safety  
-   Link: [https://skybrary.aero/articles/visual-illusions](https://skybrary.aero/articles/visual-illusions)  
+   Link: <a href="https://skybrary.aero/articles/visual-illusions" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/visual-illusions</a>  
 
 4. <a id="endnote-4"></a>
    Source: skybrary.aero  
    Title: Night Visual Approaches | SKYbrary Aviation Safety  
-   Link: [https://skybrary.aero/articles/night-visual-approaches](https://skybrary.aero/articles/night-visual-approaches)  
+   Link: <a href="https://skybrary.aero/articles/night-visual-approaches" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/night-visual-approaches</a>  
 
 5. <a id="endnote-5"></a>
    Source: ecfr.gov  
-   Link: [https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-C/section-91.209](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-C/section-91.209)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>eCFR:: 14 CFR 91.209 -- Aircraft lights. (FAR 91.209)...</p></details>
+   Link: <a href="https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-C/section-91.209" target="_blank" rel="noopener noreferrer nofollow">https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-C/section-91.209</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>14 CFR 91.209 -- Aircraft lights. (FAR 91.209)...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/air_traffic/publications/atpubs/aip_html/part2_enr_section_1.1.html](https://www.faa.gov/air_traffic/publications/atpubs/aip_html/part2_enr_section_1.1.html)  
+   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/aip_html/part2_enr_section_1.1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aip_html/part2_enr_section_1.1.html</a>  
 
 7. <a id="endnote-7"></a>
    Source: esd.whs.mil  
    Title: ESDProject Blue Book  
-   Link: [https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837](https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837)  
+   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837</a>  
 
 8. <a id="endnote-8"></a>
    Source: aaro.mil  
    Title: Effect of Forced Perspective and Parallax View on UAP Observations  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf</a>  
 
 9. <a id="endnote-9"></a>
    Source: science.nasa.gov  
    Title: Science UAP  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 10. <a id="endnote-10"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/](https://www.faa.gov/)  
+   Link: <a href="https://www.faa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/</a>  
 
 11. <a id="endnote-11"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf)  
+   Link: <a href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/sites/faa.gov/files/Night_Ops_Ch13.pdf](https://www.faa.gov/sites/faa.gov/files/Night_Ops_Ch13.pdf)  
+   Link: <a href="https://www.faa.gov/sites/faa.gov/files/Night_Ops_Ch13.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/Night_Ops_Ch13.pdf</a>  
 
 13. <a id="endnote-13"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 14. <a id="endnote-14"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 15. <a id="endnote-15"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/](https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/</a>  
 
 16. <a id="endnote-16"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 17. <a id="endnote-17"></a>
    Source: skybrary.aero  
-   Link: [https://skybrary.aero/articles/federal-aviation-administration-faa](https://skybrary.aero/articles/federal-aviation-administration-faa)  
+   Link: <a href="https://skybrary.aero/articles/federal-aviation-administration-faa" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/federal-aviation-administration-faa</a>  
 
 18. <a id="endnote-18"></a>
    Source: skybrary.aero  
-   Link: [https://skybrary.aero/sensory-illusions-skyclip](https://skybrary.aero/sensory-illusions-skyclip)  
+   Link: <a href="https://skybrary.aero/sensory-illusions-skyclip" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/sensory-illusions-skyclip</a>  
 
 19. <a id="endnote-19"></a>
    Source: skybrary.aero  
-   Link: [https://skybrary.aero/bookshelf/understanding-visual-illusions-and-disorientation](https://skybrary.aero/bookshelf/understanding-visual-illusions-and-disorientation)  
+   Link: <a href="https://skybrary.aero/bookshelf/understanding-visual-illusions-and-disorientation" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/bookshelf/understanding-visual-illusions-and-disorientation</a>  
 
 20. <a id="endnote-20"></a>
    Source: skybrary.aero  
-   Link: [https://skybrary.aero/sites/default/files/bookshelf/3424.pdf](https://skybrary.aero/sites/default/files/bookshelf/3424.pdf)  
+   Link: <a href="https://skybrary.aero/sites/default/files/bookshelf/3424.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/sites/default/files/bookshelf/3424.pdf</a>  
 
 21. <a id="endnote-21"></a>
    Source: regulatorylibrary.caa.co.uk  
    Title: 00880 SERA3215 Lights to be displayed by aircraft  
-   Link: [https://regulatorylibrary.caa.co.uk/923-2012/Content/Regs/00880_SERA3215_Lights_to_be_displayed_by_aircraft.htm](https://regulatorylibrary.caa.co.uk/923-2012/Content/Regs/00880_SERA3215_Lights_to_be_displayed_by_aircraft.htm)  
+   Link: <a href="https://regulatorylibrary.caa.co.uk/923-2012/Content/Regs/00880_SERA3215_Lights_to_be_displayed_by_aircraft.htm" target="_blank" rel="noopener noreferrer nofollow">https://regulatorylibrary.caa.co.uk/923-2012/Content/Regs/00880_SERA3215_Lights_to_be_displayed_by_aircraft.htm</a>  
 
 22. <a id="endnote-22"></a>
    Source: Wikipedia  
    Title: Federal Aviation Administration  
-   Link: [https://en.wikipedia.org/wiki/Federal_Aviation_Administration](https://en.wikipedia.org/wiki/Federal_Aviation_Administration)  
+   Link: <a href="https://en.wikipedia.org/wiki/Federal_Aviation_Administration" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Federal_Aviation_Administration</a>  
 
 23. <a id="endnote-23"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 24. <a id="endnote-24"></a>
    Source: Wikipedia  
    Title: Landing lights  
-   Link: [https://en.wikipedia.org/wiki/Landing_lights](https://en.wikipedia.org/wiki/Landing_lights)  
+   Link: <a href="https://en.wikipedia.org/wiki/Landing_lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Landing_lights</a>  
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/FAA/?locale=en_GB](https://www.facebook.com/FAA/?locale=en_GB)  
+   Link: <a href="https://www.facebook.com/FAA/?locale=en_GB" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FAA/?locale=en_GB</a>  
 
 26. <a id="endnote-26"></a>
    Source: epicflightacademy.com  
    Title: aircraft lights  
-   Link: [https://epicflightacademy.com/aircraft-lights/](https://epicflightacademy.com/aircraft-lights/)  
+   Link: <a href="https://epicflightacademy.com/aircraft-lights/" target="_blank" rel="noopener noreferrer nofollow">https://epicflightacademy.com/aircraft-lights/</a>  
 
 27. <a id="endnote-27"></a>
    Source: ukfsc.co.uk  
    Title: skybrary highlights  
-   Link: [https://www.ukfsc.co.uk/skybrary/skybrary-highlights/](https://www.ukfsc.co.uk/skybrary/skybrary-highlights/)  
+   Link: <a href="https://www.ukfsc.co.uk/skybrary/skybrary-highlights/" target="_blank" rel="noopener noreferrer nofollow">https://www.ukfsc.co.uk/skybrary/skybrary-highlights/</a>  
 
 28. <a id="endnote-28"></a>
    Source: bahaistudies.net  
    Title: project blue book  
-   Link: [https://www.bahaistudies.net/asma/project_blue_book.pdf](https://www.bahaistudies.net/asma/project_blue_book.pdf)  
+   Link: <a href="https://www.bahaistudies.net/asma/project_blue_book.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bahaistudies.net/asma/project_blue_book.pdf</a>  
 
 29. <a id="endnote-29"></a>
    Source: play.google.com  
-   Link: [https://play.google.com/store/apps/details?hl=en_GB&id=com.gaiamobile.channel20](https://play.google.com/store/apps/details?hl=en_GB&id=com.gaiamobile.channel20)  
+   Link: <a href="https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.gaiamobile.channel20" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.gaiamobile.channel20</a>  
 
 ### Additional References
 
 30. <a id="endnote-30"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
 31. <a id="endnote-31"></a>
    Source: govinfo.gov  
-   Link: [https://www.govinfo.gov/content/pkg/CHRG-89hhrg50066O/pdf/CHRG-89hhrg50066O.pdf](https://www.govinfo.gov/content/pkg/CHRG-89hhrg50066O/pdf/CHRG-89hhrg50066O.pdf)  
+   Link: <a href="https://www.govinfo.gov/content/pkg/CHRG-89hhrg50066O/pdf/CHRG-89hhrg50066O.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/CHRG-89hhrg50066O/pdf/CHRG-89hhrg50066O.pdf</a>  
 
 32. <a id="endnote-32"></a>
    Source: vedantu.com  
-   Link: [https://www.vedantu.com/maths/14-in-words](https://www.vedantu.com/maths/14-in-words)  
+   Link: <a href="https://www.vedantu.com/maths/14-in-words" target="_blank" rel="noopener noreferrer nofollow">https://www.vedantu.com/maths/14-in-words</a>  
 
 33. <a id="endnote-33"></a>
    Source: aui.edu  
-   Link: [https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/](https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/)  
+   Link: <a href="https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/</a>  
 
 34. <a id="endnote-34"></a>
    Source: flywat.com  
-   Link: [https://flywat.com/pages/aircraft-lighting-regulations](https://flywat.com/pages/aircraft-lighting-regulations)  
+   Link: <a href="https://flywat.com/pages/aircraft-lighting-regulations" target="_blank" rel="noopener noreferrer nofollow">https://flywat.com/pages/aircraft-lighting-regulations</a>  
 
 35. <a id="endnote-35"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/nsibofficial/posts/aircraft-lighting-ensures-safe-flight-operations-through-four-key-types-of-light/915547463938238/](https://www.facebook.com/nsibofficial/posts/aircraft-lighting-ensures-safe-flight-operations-through-four-key-types-of-light/915547463938238/)  
+   Link: <a href="https://www.facebook.com/nsibofficial/posts/aircraft-lighting-ensures-safe-flight-operations-through-four-key-types-of-light/915547463938238/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nsibofficial/posts/aircraft-lighting-ensures-safe-flight-operations-through-four-key-types-of-light/915547463938238/</a>  
 
 36. <a id="endnote-36"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/askastronomy/comments/1os4a0p/any_idea_what_this_is/](https://www.reddit.com/r/askastronomy/comments/1os4a0p/any_idea_what_this_is/)  
+   Link: <a href="https://www.reddit.com/r/askastronomy/comments/1os4a0p/any_idea_what_this_is/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askastronomy/comments/1os4a0p/any_idea_what_this_is/</a>  
 
 37. <a id="endnote-37"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/deafpilots/posts/1545660949225139/](https://www.facebook.com/groups/deafpilots/posts/1545660949225139/)  
+   Link: <a href="https://www.facebook.com/groups/deafpilots/posts/1545660949225139/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/deafpilots/posts/1545660949225139/</a>  
 
 38. <a id="endnote-38"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1g3xs9k/can_someone_explain_to_me_what_this_is/](https://www.reddit.com/r/UFOs/comments/1g3xs9k/can_someone_explain_to_me_what_this_is/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1g3xs9k/can_someone_explain_to_me_what_this_is/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1g3xs9k/can_someone_explain_to_me_what_this_is/</a>  
 
 39. <a id="endnote-39"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/AVIO.KNOWLEDGE/posts/captured-a-stunning-parallax-effect-from-one-aircraft-to-another-in-flight-this-/1526781522821665/](https://www.facebook.com/AVIO.KNOWLEDGE/posts/captured-a-stunning-parallax-effect-from-one-aircraft-to-another-in-flight-this-/1526781522821665/)  
+   Link: <a href="https://www.facebook.com/AVIO.KNOWLEDGE/posts/captured-a-stunning-parallax-effect-from-one-aircraft-to-another-in-flight-this-/1526781522821665/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AVIO.KNOWLEDGE/posts/captured-a-stunning-parallax-effect-from-one-aircraft-to-another-in-flight-this-/1526781522821665/</a>

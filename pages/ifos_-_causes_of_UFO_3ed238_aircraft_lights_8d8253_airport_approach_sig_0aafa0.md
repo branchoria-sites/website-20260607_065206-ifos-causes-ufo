@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253_navigation_strobe_co_85d16e
 - ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253_sunlight_glints_airc_ea6ead
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - aircraft-lights
 - approach-paths
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - aircraft-lights
 - approach-paths
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Near airports, descending aircraft can hold nearly the same sky position while powerful lights make them seem closer or stranger than they are.
 hero_summary: Near airports, descending aircraft can hold nearly the same sky position while powerful lights make them seem closer or stranger than they are.
 layout: default
 permalink: /airport-approach-corridors/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /aircraft-lights/
 nav_short_title: Airport Approach Corridors
 title: Why Airport Approaches Produce Strange Lights
-title_full: Why Airport Approaches Produce Strange Lights | Aircraft Lights
+title_full: Why Airport Approaches Produce Strange Lights
 display_title_short: Airport Approach Corridors
 display_title: Airport Approach Corridors
 heading_title: Why Airport Approaches Produce Strange Lights
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 01:48:06'
-parent_title: Why Ordinary Aircraft Look So Strange | IFOs
+parent_title: Why Ordinary Aircraft Look So Strange
 parent_permalink: /aircraft-lights/
 parent_nav_short_title: Aircraft Lights
 parent_heading_title: Why Ordinary Aircraft Look So Strange
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253
-  title: Aircraft Lights | Ifos Causes Of
+  title: Aircraft Lights | ifos causes of UFO 3 ed 238
   permalink: /aircraft-lights/
   short_title: Aircraft Lights
   heading_title: Why Ordinary Aircraft Look So Strange
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253
-  title: Aircraft Lights | Ifos Causes Of
+  title: Aircraft Lights | ifos causes of UFO 3 ed 238
   permalink: /aircraft-lights/
   short_title: Aircraft Lights
   heading_title: Why Ordinary Aircraft Look So Strange
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: How Sun Glints Turn Planes Into UFOs
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253
-  title: Aircraft Lights | Ifos Causes Of
+  title: Aircraft Lights | ifos causes of UFO 3 ed 238
   permalink: /aircraft-lights/
   short_title: Aircraft Lights
   heading_title: Why Ordinary Aircraft Look So Strange
@@ -260,6 +259,7 @@ next_link:
   permalink: /blue-book-70ab5a/
   short_title: Blue Book
   heading_title: What Blue Book Really Said About Aircraft
+date: '2026-06-12 00:28:01 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253_airport_approach_sig_0aafa0-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253_airport_approach_sig_0aafa0-Illustration-1.webp
@@ -270,7 +270,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253_airport
 
 Airport approach corridors are among the most reliable settings for UFO reports caused by ordinary aircraft. A plane on final approach can appear to hover, glow unusually brightly, change shape, or suddenly accelerate away, even when it is following a routine landing path. The effect is especially strong at night, near the horizon, and in areas where observers are looking toward a major airport without realising they are aligned with an arrival route.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253_airport_approach_sig_0aafa0-Illustration-1-dark.svg" | relative_url }}" alt="Airport Approach Corridors illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253_airport_approach_sig_0aafa0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253_airport_approach_sig_0aafa0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 What makes these sightings persuasive is that they combine several perceptual traps at once. Aircraft descending towards a runway often travel almost directly toward the observer, reducing apparent sideways motion. Powerful [landing lights]({{ 'landing-lights/' | relative_url }}) dominate the view, while distance and darkness hide the aircraft itself. The result is a bright object that seems stationary, silent and difficult to identify—exactly the description found in many UFO reports. Aviation authorities and flight-safety organisations have long documented the visual illusions created by approach lighting, night operations and reduced depth cues. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationAirplane Flying Handbook (3C) Chapter 11Bright runway and approach lighting systems, especially where few...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faasafety.gov/gslac/alc/libview_normal.aspx?id=6580" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faasafety.gov">[FAA Safety]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faasafety.gov</span><span class="citation-popover-title">FAA Safety Library Contents</span><span class="citation-popover-snippet">Library Contents - FAA - FAASTeam - FAASafety.govBright runway and approach light systems, especially when few lights illuminate the surr...</span></span></span>
 
@@ -280,7 +279,7 @@ The key geometric effect is simple: an aircraft flying directly toward an observ
 
 A jet on final approach may spend several minutes aligned with the extended runway centreline. During that period it is descending and advancing, but most of its movement is along the observer's line of sight rather than across it. To someone standing beneath or near the approach corridor, the aircraft can resemble a hovering light.
 
-This effect becomes more convincing because modern landing lights are extremely bright. At long [range]({{ 'range/' | relative_url }}), the observer often sees only a single white light rather than the aircraft's outline or navigation lights. The visual impression is not of a plane approaching but of a luminous object hanging in one place. When the aircraft eventually turns, lands, or passes overhead, the illusion collapses and the object appears to move suddenly. This sequence—hovering followed by abrupt motion—is a recurring feature in aircraft-related UFO reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationAirplane Flying Handbook (3C) Chapter 11Bright runway and approach lighting systems, especially where few...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/visual-illusions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">SkybraryVisual Illusions | SKYbrary Aviation SafetyVisual illusions occur when the pilot&#x27;s eye is deceived into making a faulty assessmen...</span></span></span> A practical example comes from communities around major airports such as Los Angeles, Heathrow, Atlanta or Chicago, where residents regularly report bright "stationary" lights that later reveal themselves as inbound aircraft once their navigation lights become visible or their angle changes. Similar explanations are frequently discussed even within UFO-reporting communities when videos are reviewed frame by frame. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1g3xs9k/can_someone_explain_to_me_what_this_is/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Can someone explain to me what this is?</span><span class="citation-popover-snippet">Specifically the light...October 15, 2024 — If you see this in the skies from now on, its not a UFO. Its a power Station!... r/UFOs - I...</span><span class="citation-popover-meta">Published: October 15, 2024</span></span></span>
+This effect becomes more convincing because modern landing lights are extremely bright. At long [range]({{ 'range/' | relative_url }}), the observer often sees only a single white light rather than the aircraft's outline or navigation lights. The visual impression is not of a plane approaching but of a luminous object hanging in one place. When the aircraft eventually turns, lands, or passes overhead, the illusion collapses and the object appears to move suddenly. This sequence—hovering followed by abrupt motion—is a recurring feature in aircraft-related UFO reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationAirplane Flying Handbook (3C) Chapter 11Bright runway and approach lighting systems, especially where few...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/visual-illusions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Visual Illusions &#124; SKYbrary Aviation SafetyVisual illusions occur when the pilot&#x27;s eye is deceived into making a faulty assessmen...</span></span></span> A practical example comes from communities around major airports such as Los Angeles, Heathrow, Atlanta or Chicago, where residents regularly report bright "stationary" lights that later reveal themselves as inbound aircraft once their navigation lights become visible or their angle changes. Similar explanations are frequently discussed even within UFO-reporting communities when videos are reviewed frame by frame. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1g3xs9k/can_someone_explain_to_me_what_this_is/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Can someone explain to me what this is?</span><span class="citation-popover-snippet">Specifically the light...October 15, 2024 — If you see this in the skies from now on, its not a UFO. Its a power Station!... r/UFOs - I...</span><span class="citation-popover-meta">Published: October 15, 2024</span></span></span>
 
 ## How Range Errors Grow Near the Horizon
 
@@ -289,7 +288,6 @@ Most witnesses are poor judges of distance when viewing isolated lights at night
 Approach corridors amplify this problem because aircraft are often viewed low in the sky near the horizon. Atmospheric haze, moisture and light scattering reduce contrast and hide the aircraft body. Only the brightest lights remain visible. The brain then tries to estimate size and distance from incomplete information.
 
 Several errors commonly follow:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -304,9 +302,6 @@ Flight-safety literature recognises related depth-perception problems. Bright ru
 
 For ground witnesses, the challenge is greater because they lack altitude information, air-traffic data and knowledge of the runway alignment. A descending aircraft twenty or thirty kilometres away may be perceived as a nearby object suspended over local terrain.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/75ypFC-zU-w" title="The Secret Power of Approach Lights: How ALSF-2 Lets You Decipher Visibility and Landing Rules" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=75ypFC-zU-w" target="_blank" rel="noopener noreferrer">The Secret Power of Approach Lights: How ALSF-2 Lets You Decipher Visibility and Landing Rules</a></p><p class="youtube-embed-meta">Channel: FlightInsight &middot; Views: 16.6K &middot; Uploaded: November 2025 &middot; Length: 3 minutes 59 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=75ypFC-zU-w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=75ypFC-zU-w">Open on YouTube</a></p></div></div></div>
-
 ### Why Bright Lights Make the Mystery Worse
 
 Landing lights are intended to make aircraft conspicuous. Ironically, that safety function can make identification harder from the ground.
@@ -314,7 +309,6 @@ Landing lights are intended to make aircraft conspicuous. Ironically, that safet
 The strongest landing-light beams are directed forward. An observer looking almost directly into the beam receives maximum brightness while seeing few structural details. Navigation lights, wing shape and fuselage features may remain invisible until the aircraft changes orientation.
 
 This creates a familiar UFO-report pattern:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -328,7 +322,6 @@ This creates a familiar UFO-report pattern:
 
 None of these steps requires unusual behaviour from the aircraft. They arise naturally from changing viewing angles and lighting geometry. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationAirplane Flying Handbook (3C) Chapter 11Bright runway and approach lighting systems, especially where few...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faasafety.gov/gslac/alc/libview_normal.aspx?id=6580" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faasafety.gov">[Pilot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faasafety.gov</span><span class="citation-popover-title">FAA Safety Library Contents</span><span class="citation-popover-snippet">Library Contents - FAA - FAASTeam - FAASafety.govBright runway and approach light systems, especially when few lights illuminate the surr...</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253_airport_approach_sig_0aafa0-Illustration-2-dark.svg" | relative_url }}" alt="Airport Approach Corridors illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253_airport_approach_sig_0aafa0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253_airport_approach_sig_0aafa0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Airport Corridors Generate Repeatable Sightings
 
@@ -337,7 +330,6 @@ Unlike many UFO explanations that depend on rare atmospheric conditions, approac
 This repeatability is important because it explains why certain locations accumulate reports. People living beneath arrival routes often describe recurring lights appearing in the same part of the sky. Rather than supporting an extraordinary explanation, such consistency is exactly what would be expected from scheduled air traffic.
 
 The effect can become especially pronounced when:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -351,8 +343,7 @@ The effect can become especially pronounced when:
 
 In some cases, several inbound aircraft spaced along the same approach line can appear as a formation of [hovering lights]({{ 'hovering-lights/' | relative_url }}). As each aircraft reaches a different angle relative to the observer, lights may brighten, dim or seem to vanish independently, creating the impression of coordinated manoeuvres.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/75ypFC-zU-w" title="The Secret Power of Approach Lights: How ALSF-2 Lets You Decipher Visibility and Landing Rules" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=75ypFC-zU-w" target="_blank" rel="noopener noreferrer">The Secret Power of Approach Lights: How ALSF-2 Lets You Decipher Visibility and Landing Rules</a></p><p class="youtube-embed-meta">Channel: FlightInsight &middot; Views: 16.6K &middot; Uploaded: November 2025 &middot; Length: 3 minutes 59 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=75ypFC-zU-w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=75ypFC-zU-w">Open on YouTube</a></p></div></div></div>
 
 ## Practical Ways to Compare Sightings With Flight Paths
 
@@ -372,7 +363,6 @@ Several clues are particularly useful:
 
 Modern flight-tracking services have made these checks much easier than in earlier decades. Many contemporary reports that initially appear mysterious can be correlated with routine arrivals once the approach corridor is identified.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253_airport_approach_sig_0aafa0-Illustration-3-dark.svg" | relative_url }}" alt="Airport Approach Corridors illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253_airport_approach_sig_0aafa0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253_airport_approach_sig_0aafa0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Critique: Why These Cases Feel More Exotic Than They Are
 
@@ -380,11 +370,7 @@ The main risk in evaluating airport-corridor sightings is treating the witness's
 
 A sincere observer may accurately report seeing a bright, stationary, silent object. The mistake occurs when the appearance is assumed to describe the object's true behaviour rather than the observer's perspective. Airport approaches provide a near-perfect environment for that misunderstanding because aircraft are designed to display bright forward-facing lights while travelling directly toward the viewer.
 
-For investigators of UFO reports, approach corridors therefore serve as a useful reminder that some of the most convincing aerial mysteries emerge not from unusual objects but from ordinary aircraft viewed under unusually deceptive conditions. The combination of head-on motion, powerful landing lights, horizon effects and poor [distance cues]({{ 'distance-cues/' | relative_url }}) creates a recurring trap that can transform routine arrivals into seemingly extraordinary lights in the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aopa.org/training-and-safety/students/crosscountry/skills/night-flying" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aopa.org">[AOPA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aopa.org</span><span class="citation-popover-snippet">Night FlyingFor VFR pilots, the best way to avoid night illusions is to fly to and from airports equipped with VASI or PAPI approach ligh...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/visual-illusions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">SkybraryVisual Illusions | SKYbrary Aviation SafetyVisual illusions occur when the pilot&#x27;s eye is deceived into making a faulty assessmen...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/faa/mitigating-the-hazard-of-visual-illusions-fb3c35009471" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">Mitigating the Hazard of Visual IllusionsA review of aircraft mishaps quickly reveals that visual illusions and/or poor visibility have b...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pqkxYbVEvAU" title="What do drones look like? Are lights in the night UFOs, planes? Here&#x27;s what to know." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pqkxYbVEvAU" target="_blank" rel="noopener noreferrer">What do drones look like? Are lights in the night UFOs, planes? Here&#x27;s what to know.</a></p><p class="youtube-embed-meta">Channel: NBC10 Boston</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pqkxYbVEvAU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pqkxYbVEvAU">Open on YouTube</a></p></div></div></div>
-
+For investigators of UFO reports, approach corridors therefore serve as a useful reminder that some of the most convincing aerial mysteries emerge not from unusual objects but from ordinary aircraft viewed under unusually deceptive conditions. The combination of head-on motion, powerful landing lights, horizon effects and poor [distance cues]({{ 'distance-cues/' | relative_url }}) creates a recurring trap that can transform routine arrivals into seemingly extraordinary lights in the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aopa.org/training-and-safety/students/crosscountry/skills/night-flying" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aopa.org">[AOPA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aopa.org</span><span class="citation-popover-snippet">Night FlyingFor VFR pilots, the best way to avoid night illusions is to fly to and from airports equipped with VASI or PAPI approach ligh...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/visual-illusions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Visual Illusions &#124; SKYbrary Aviation SafetyVisual illusions occur when the pilot&#x27;s eye is deceived into making a faulty assessmen...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/faa/mitigating-the-hazard-of-visual-illusions-fb3c35009471" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">Mitigating the Hazard of Visual IllusionsA review of aircraft mishaps quickly reveals that visual illusions and/or poor visibility have b...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -503,15 +489,15 @@ For investigators of UFO reports, approach corridors therefore serve as a useful
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-approach-corridors-why-airport-approaches-produce-strange-lights-ifos-causes-of-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="airport-approach-corridors-why-airport-approaches-produce-strange-lights-ifos-causes-of-airport-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Custom Airport Code Sign Metal Display Aviation Gift - Any Airport."><img src="{{ '/assets/images/marketplace-covers/ca4d9591f2d80bb6610a.jpg' | relative_url }}" alt="Listing image for Custom Airport Code Sign Metal Display Aviation Gift - Any Airport." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-airport-approaches-produce-strange-lights-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="why-airport-approaches-produce-strange-lights-airliner-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Snap Fit BAe 146-200 British European 1:150 Scale Model Aircraft"><img src="https://i.ebayimg.com/images/g/WNcAAeSwOVZqJ0pE/s-l225.jpg" alt="Listing image for Snap Fit BAe 146-200 British European 1:150 Scale Model Aircraft" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-approach-corridors-why-airport-approaches-produce-strange-lights-ifos-causes-of-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="airport-approach-corridors-why-airport-approaches-produce-strange-lights-ifos-causes-of-airport-sign" target="_blank" rel="sponsored noopener noreferrer">Custom Airport Code Sign Metal Display Aviation Gift - Any Airport.</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-airport-approaches-produce-strange-lights-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="why-airport-approaches-produce-strange-lights-airliner-model" target="_blank" rel="sponsored noopener noreferrer">Snap Fit BAe 146-200 British European 1:150 Scale Model Aircraft</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-approach-corridors-why-airport-approaches-produce-strange-lights-ifos-causes-of-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="airport-approach-corridors-why-airport-approaches-produce-strange-lights-ifos-causes-of-airport-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airport sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: airport sign</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-airport-approaches-produce-strange-lights-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="why-airport-approaches-produce-strange-lights-airliner-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airliner model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airliner model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-approach-corridors-why-airport-approaches-produce-strange-lights-ifos-causes-of-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="airport-approach-corridors-why-airport-approaches-produce-strange-lights-ifos-causes-of-airport-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-airport-approaches-produce-strange-lights-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="why-airport-approaches-produce-strange-lights-airliner-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -519,15 +505,15 @@ For investigators of UFO reports, approach corridors therefore serve as a useful
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-approach-corridors-why-airport-approaches-produce-strange-lights-ifos-causes-of-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="airport-approach-corridors-why-airport-approaches-produce-strange-lights-ifos-causes-of-airport-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Airport Departures Reproduction Board, Metal Stag Or Hen Gift Fun Sign"><img src="{{ '/assets/images/marketplace-covers/bc1cbbbb4763b760c913.jpg' | relative_url }}" alt="Listing image for Airport Departures Reproduction Board, Metal Stag Or Hen Gift Fun Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-airport-approaches-produce-strange-lights-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="why-airport-approaches-produce-strange-lights-airliner-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aer Lingus Airbus A330-300 Diecast Model 1:400 Gemini Jets GJEIN1853 - FREEPOST"><img src="https://i.ebayimg.com/images/g/8oYAAeSwK9lqKq5G/s-l225.jpg" alt="Listing image for Aer Lingus Airbus A330-300 Diecast Model 1:400 Gemini Jets GJEIN1853 - FREEPOST" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-approach-corridors-why-airport-approaches-produce-strange-lights-ifos-causes-of-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="airport-approach-corridors-why-airport-approaches-produce-strange-lights-ifos-causes-of-airport-sign" target="_blank" rel="sponsored noopener noreferrer">Airport Departures Reproduction Board, Metal Stag Or Hen Gift Fun Sign</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-airport-approaches-produce-strange-lights-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="why-airport-approaches-produce-strange-lights-airliner-model" target="_blank" rel="sponsored noopener noreferrer">Aer Lingus Airbus A330-300 Diecast Model 1:400 Gemini Jets GJEIN1853 - FREEPOST</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-approach-corridors-why-airport-approaches-produce-strange-lights-ifos-causes-of-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="airport-approach-corridors-why-airport-approaches-produce-strange-lights-ifos-causes-of-airport-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airport sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: airport sign</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-airport-approaches-produce-strange-lights-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="why-airport-approaches-produce-strange-lights-airliner-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airliner model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airliner model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-approach-corridors-why-airport-approaches-produce-strange-lights-ifos-causes-of-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="airport-approach-corridors-why-airport-approaches-produce-strange-lights-ifos-causes-of-airport-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-airport-approaches-produce-strange-lights-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="why-airport-approaches-produce-strange-lights-airliner-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -535,15 +521,15 @@ For investigators of UFO reports, approach corridors therefore serve as a useful
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-approach-corridors-why-airport-approaches-produce-strange-lights-ifos-causes-of-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="airport-approach-corridors-why-airport-approaches-produce-strange-lights-ifos-causes-of-airport-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NOVELTY MAN CAVE AIRPORT SIGN"><img src="{{ '/assets/images/marketplace-covers/d8f0b239e3d15596e303.jpg' | relative_url }}" alt="Listing image for NOVELTY MAN CAVE AIRPORT SIGN" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-airport-approaches-produce-strange-lights-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="why-airport-approaches-produce-strange-lights-airliner-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flybe / Logan Air DHC-6 Model Airline Skymarks Scale 1/50 VERY RARE G-BVVK"><img src="https://i.ebayimg.com/images/g/8igAAeSwgU1qJbTY/s-l225.jpg" alt="Listing image for Flybe / Logan Air DHC-6 Model Airline Skymarks Scale 1/50 VERY RARE G-BVVK" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-approach-corridors-why-airport-approaches-produce-strange-lights-ifos-causes-of-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="airport-approach-corridors-why-airport-approaches-produce-strange-lights-ifos-causes-of-airport-sign" target="_blank" rel="sponsored noopener noreferrer">NOVELTY MAN CAVE AIRPORT SIGN</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-airport-approaches-produce-strange-lights-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="why-airport-approaches-produce-strange-lights-airliner-model" target="_blank" rel="sponsored noopener noreferrer">Flybe / Logan Air DHC-6 Model Airline Skymarks Scale 1/50 VERY RARE G-BVVK</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-approach-corridors-why-airport-approaches-produce-strange-lights-ifos-causes-of-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="airport-approach-corridors-why-airport-approaches-produce-strange-lights-ifos-causes-of-airport-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airport sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: airport sign</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-airport-approaches-produce-strange-lights-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="why-airport-approaches-produce-strange-lights-airliner-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airliner model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airliner model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-approach-corridors-why-airport-approaches-produce-strange-lights-ifos-causes-of-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="airport-approach-corridors-why-airport-approaches-produce-strange-lights-ifos-causes-of-airport-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-airport-approaches-produce-strange-lights-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="why-airport-approaches-produce-strange-lights-airliner-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -551,15 +537,15 @@ For investigators of UFO reports, approach corridors therefore serve as a useful
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-approach-corridors-why-airport-approaches-produce-strange-lights-ifos-causes-of-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="airport-approach-corridors-why-airport-approaches-produce-strange-lights-ifos-causes-of-airport-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NOVELTY MAN CAVE AIRPORT SIGN"><img src="{{ '/assets/images/marketplace-covers/44d3121f3b80e7f6dbec.jpg' | relative_url }}" alt="Listing image for NOVELTY MAN CAVE AIRPORT SIGN" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-airport-approaches-produce-strange-lights-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="why-airport-approaches-produce-strange-lights-airliner-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for United Airlines boeing 787-10 1/200"><img src="https://i.ebayimg.com/images/g/iBYAAeSw96NqJuxL/s-l225.jpg" alt="Listing image for United Airlines boeing 787-10 1/200" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-approach-corridors-why-airport-approaches-produce-strange-lights-ifos-causes-of-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="airport-approach-corridors-why-airport-approaches-produce-strange-lights-ifos-causes-of-airport-sign" target="_blank" rel="sponsored noopener noreferrer">NOVELTY MAN CAVE AIRPORT SIGN</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-airport-approaches-produce-strange-lights-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="why-airport-approaches-produce-strange-lights-airliner-model" target="_blank" rel="sponsored noopener noreferrer">United Airlines boeing 787-10 1/200</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-approach-corridors-why-airport-approaches-produce-strange-lights-ifos-causes-of-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="airport-approach-corridors-why-airport-approaches-produce-strange-lights-ifos-causes-of-airport-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airport sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: airport sign</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-airport-approaches-produce-strange-lights-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="why-airport-approaches-produce-strange-lights-airliner-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airliner model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airliner model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-approach-corridors-why-airport-approaches-produce-strange-lights-ifos-causes-of-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="airport-approach-corridors-why-airport-approaches-produce-strange-lights-ifos-causes-of-airport-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-airport-approaches-produce-strange-lights-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="why-airport-approaches-produce-strange-lights-airliner-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -567,7 +553,7 @@ For investigators of UFO reports, approach corridors therefore serve as a useful
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airport-approach-corridors-why-airport-approaches-produce-strange-lights-ifos-causes-of-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="airport-approach-corridors-why-airport-approaches-produce-strange-lights-ifos-causes-of-airport-sign" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-airport-approaches-produce-strange-lights-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="why-airport-approaches-produce-strange-lights-airliner-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -782,165 +768,165 @@ For investigators of UFO reports, approach corridors therefore serve as a useful
 
 1. <a id="endnote-1"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf)  
+   Link: <a href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf</a>  
 
 2. <a id="endnote-2"></a>
    Source: skybrary.aero  
-   Link: [https://skybrary.aero/articles/visual-illusions](https://skybrary.aero/articles/visual-illusions)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SkybraryVisual Illusions | SKYbrary Aviation SafetyVisual illusions occur when the pilot&#x27;s eye is deceived into making a faulty assessmen...</p></details>
+   Link: <a href="https://skybrary.aero/articles/visual-illusions" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/visual-illusions</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Visual Illusions | SKYbrary Aviation SafetyVisual illusions occur when the pilot&#x27;s eye is deceived into making a faulty assessmen...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/air_traffic/publications/atpubs/aip_html/part2_enr_section_1.1.html](https://www.faa.gov/air_traffic/publications/atpubs/aip_html/part2_enr_section_1.1.html)  
+   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/aip_html/part2_enr_section_1.1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aip_html/part2_enr_section_1.1.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationENR 1.1: General Rules7.3 Between sunset and sunrise, a pilot wishing to attract the attention of the cont...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: aopa.org  
-   Link: [https://www.aopa.org/training-and-safety/students/crosscountry/skills/night-flying](https://www.aopa.org/training-and-safety/students/crosscountry/skills/night-flying)  
+   Link: <a href="https://www.aopa.org/training-and-safety/students/crosscountry/skills/night-flying" target="_blank" rel="noopener noreferrer nofollow">https://www.aopa.org/training-and-safety/students/crosscountry/skills/night-flying</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Night FlyingFor VFR [pilots](&amp;#123;&amp;#123; &#x27;pilots/&#x27; | relative_url &amp;#125;&amp;#125;), the best way to avoid night illusions is to fly to and from airports equipped with VASI or PAPI approach ligh...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
    Title: Can someone explain to me what this is?  
-   Link: [https://www.reddit.com/r/UFOs/comments/1g3xs9k/can_someone_explain_to_me_what_this_is/](https://www.reddit.com/r/UFOs/comments/1g3xs9k/can_someone_explain_to_me_what_this_is/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1g3xs9k/can_someone_explain_to_me_what_this_is/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1g3xs9k/can_someone_explain_to_me_what_this_is/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Specifically the light...October 15, 2024 — If you see this in the skies from now on, its not a UFO. Its a power Station!... r/UFOs - I...</p></details>
    Published: October 15, 2024  
 
 6. <a id="endnote-6"></a>
    Source: faa.gov  
    Title: Federal Aviation Administration Chapter 2  
-   Link: [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_1.html](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_1.html)  
+   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_1.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aeronautical Lighting and Other Airport Visual...The VASI is a system of lights so arranged to provide visual descent guidance informati...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: medium.com  
-   Link: [https://medium.com/faa/mitigating-the-hazard-of-visual-illusions-fb3c35009471](https://medium.com/faa/mitigating-the-hazard-of-visual-illusions-fb3c35009471)  
+   Link: <a href="https://medium.com/faa/mitigating-the-hazard-of-visual-illusions-fb3c35009471" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/faa/mitigating-the-hazard-of-visual-illusions-fb3c35009471</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mitigating the Hazard of Visual IllusionsA review of aircraft mishaps quickly reveals that visual illusions and/or poor visibility have b...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
    Title: We both saw a green light  
-   Link: [https://www.reddit.com/r/UFOs/comments/164uga8/i_pilot_came_head_on_with_an_object_glowing_green/](https://www.reddit.com/r/UFOs/comments/164uga8/i_pilot_came_head_on_with_an_object_glowing_green/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/164uga8/i_pilot_came_head_on_with_an_object_glowing_green/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/164uga8/i_pilot_came_head_on_with_an_object_glowing_green/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>I (pilot) came head on with an object glowing green during flying at...August 29, 2023 — This happened a few hours ago while I was flyin...</p></details>
    Published: August 29, 2023  
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ufo/comments/1hi3w09/why_would_nhi_ufos_use_lights_on_their_craft/](https://www.reddit.com/r/ufo/comments/1hi3w09/why_would_nhi_ufos_use_lights_on_their_craft/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/1hi3w09/why_would_nhi_ufos_use_lights_on_their_craft/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1hi3w09/why_would_nhi_ufos_use_lights_on_their_craft/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>id human aircraft that gets close, why do so many declared...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
    Title: Multiple flying objects with flashing lights  
-   Link: [https://www.reddit.com/r/UFOs/comments/1hyr6dp/multiple_flying_objects_with_flashing_lights/](https://www.reddit.com/r/UFOs/comments/1hyr6dp/multiple_flying_objects_with_flashing_lights/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1hyr6dp/multiple_flying_objects_with_flashing_lights/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1hyr6dp/multiple_flying_objects_with_flashing_lights/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>in Ayrshire, Scotland &amp;middot; Calvine UFO Photo - World&#x27;s &#x27;best ever&#x27; UFO image taken in Scotland 1990 &amp;middot...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Glitch_in_the_Matrix/comments/asnym7/i_saw_a_plane_in_the_sky_that_wasnt_moving/](https://www.reddit.com/r/Glitch_in_the_Matrix/comments/asnym7/i_saw_a_plane_in_the_sky_that_wasnt_moving/)  
+   Link: <a href="https://www.reddit.com/r/Glitch_in_the_Matrix/comments/asnym7/i_saw_a_plane_in_the_sky_that_wasnt_moving/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Glitch_in_the_Matrix/comments/asnym7/i_saw_a_plane_in_the_sky_that_wasnt_moving/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I Saw a Plane in the Sky That Wasn&#x27;t MovingMy only theory is that friendly UFO&#x27;s or aliens are able to stop plane crashes by “freezing” p...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_3.html](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_3.html)  
+   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_3.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_3.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Section 3. Airport OperationsThis section defines some rules, practices, and procedures that pilots should be familiar with and adhere to...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: Why planes look like UFOs at night  
-   Link: [https://www.youtube.com/watch?v=5yP0t4q530Y](https://www.youtube.com/watch?v=5yP0t4q530Y)  
+   Link: <a href="https://www.youtube.com/watch?v=5yP0t4q530Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5yP0t4q530Y</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pilot Explains Airplane Landing Light Illusions...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: Pilot Explains Airplane Landing Light Illusions  
-   Link: [https://www.youtube.com/watch?v=q6t8r6wGzW8](https://www.youtube.com/watch?v=q6t8r6wGzW8)  
+   Link: <a href="https://www.youtube.com/watch?v=q6t8r6wGzW8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=q6t8r6wGzW8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Optical Illusions in Aviation...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: faasafety.gov  
    Title: FAA Safety Library Contents  
-   Link: [https://www.faasafety.gov/gslac/alc/libview_normal.aspx?id=6580](https://www.faasafety.gov/gslac/alc/libview_normal.aspx?id=6580)  
+   Link: <a href="https://www.faasafety.gov/gslac/alc/libview_normal.aspx?id=6580" target="_blank" rel="noopener noreferrer nofollow">https://www.faasafety.gov/gslac/alc/libview_normal.aspx?id=6580</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Library Contents - FAA - FAASTeam - FAASafety.govBright runway and approach light systems, especially when few lights illuminate the surr...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: flighttrainingcentral.com  
    Title: be aware of these 5 night flying deceptions  
-   Link: [https://flighttrainingcentral.com/2022/12/be-aware-of-these-5-night-flying-deceptions/](https://flighttrainingcentral.com/2022/12/be-aware-of-these-5-night-flying-deceptions/)  
+   Link: <a href="https://flighttrainingcentral.com/2022/12/be-aware-of-these-5-night-flying-deceptions/" target="_blank" rel="noopener noreferrer nofollow">https://flighttrainingcentral.com/2022/12/be-aware-of-these-5-night-flying-deceptions/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In this situation, the...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: pilotinstitute.com  
    Title: Pilot Institute How Can Pilots Fly at Night?  
-   Link: [https://pilotinstitute.com/night-flying-airplanes/](https://pilotinstitute.com/night-flying-airplanes/)  
+   Link: <a href="https://pilotinstitute.com/night-flying-airplanes/" target="_blank" rel="noopener noreferrer nofollow">https://pilotinstitute.com/night-flying-airplanes/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>See What&#x27;s Required31 Dec 2025 — You&#x27;ll also see REILs (Runway End Identifier Lights). These are flashing lights at the runway thresholds...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/FAA/posts/pilots-dyk-optical-illusions-can-drastically-compromise-your-safety-while-flying/1119304286892494/](https://www.facebook.com/FAA/posts/pilots-dyk-optical-illusions-can-drastically-compromise-your-safety-while-flying/1119304286892494/)  
+   Link: <a href="https://www.facebook.com/FAA/posts/pilots-dyk-optical-illusions-can-drastically-compromise-your-safety-while-flying/1119304286892494/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FAA/posts/pilots-dyk-optical-illusions-can-drastically-compromise-your-safety-while-flying/1119304286892494/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>night and how to combat them.Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: pilotworkshop.com  
    Title: This runway lighting video includes graphics & detailed descriptions  
-   Link: [https://pilotworkshop.com/videos/approach-lighting/](https://pilotworkshop.com/videos/approach-lighting/)  
+   Link: <a href="https://pilotworkshop.com/videos/approach-lighting/" target="_blank" rel="noopener noreferrer nofollow">https://pilotworkshop.com/videos/approach-lighting/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Runway Approach Lighting Systems Explained | PilotWorkshopsIn this simulation video, a flight instructor explains approach lighting systems...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: pilotinstitute.com  
    Title: airplane lights  
-   Link: [https://pilotinstitute.com/airplane-lights/](https://pilotinstitute.com/airplane-lights/)  
+   Link: <a href="https://pilotinstitute.com/airplane-lights/" target="_blank" rel="noopener noreferrer nofollow">https://pilotinstitute.com/airplane-lights/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What Each Light Does (Red/Green, Strobe...26 Dec 2024 — In this article, we will explain all the different lights you may encounter on...</p></details>
 
 ### Additional References
 
 21. <a id="endnote-21"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf](https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf)  
+   Link: <a href="https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OpenNARCAP investigates aviation related reports ofaerial encounters with lights or objects that seem inconsistent with known categories...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
 23. <a id="endnote-23"></a>
    Source: atsb.gov.au  
-   Link: [https://www.atsb.gov.au/sites/default/files/2024-05/FAA-H-8083-3B%20Chapter%2010.pdf](https://www.atsb.gov.au/sites/default/files/2024-05/FAA-H-8083-3B%20Chapter%2010.pdf)  
+   Link: <a href="https://www.atsb.gov.au/sites/default/files/2024-05/FAA-H-8083-3B%20Chapter%2010.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.atsb.gov.au/sites/default/files/2024-05/FAA-H-8083-3B%20Chapter%2010.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NIGHT VISIONBright runway and approach lighting systems, espe- cially where few lights illuminate the surrounding terrain, may create the...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: paclights.com  
-   Link: [https://www.paclights.com/learning-center/ufo-lights-lighting-explained/](https://www.paclights.com/learning-center/ufo-lights-lighting-explained/)  
+   Link: <a href="https://www.paclights.com/learning-center/ufo-lights-lighting-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.paclights.com/learning-center/ufo-lights-lighting-explained/</a>  
 
 25. <a id="endnote-25"></a>
    Source: migflug.com  
    Title: your first night flight why everything changes after sunset  
-   Link: [https://migflug.com/jetflights/your-first-night-flight-why-everything-changes-after-sunset/](https://migflug.com/jetflights/your-first-night-flight-why-everything-changes-after-sunset/)  
+   Link: <a href="https://migflug.com/jetflights/your-first-night-flight-why-everything-changes-after-sunset/" target="_blank" rel="noopener noreferrer nofollow">https://migflug.com/jetflights/your-first-night-flight-why-everything-changes-after-sunset/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Your First Night Flight: Illusions &amp; Skills9 Apr 2026 — Master the sensory illusions and practical skills needed for your first night fli...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/MikeyMcBryan/posts/the-737-night-crew-early-this-morning-saw-some-strange-lights-ufo-over-the-airpo/1324493835702569/](https://www.facebook.com/MikeyMcBryan/posts/the-737-night-crew-early-this-morning-saw-some-strange-lights-ufo-over-the-airpo/1324493835702569/)  
+   Link: <a href="https://www.facebook.com/MikeyMcBryan/posts/the-737-night-crew-early-this-morning-saw-some-strange-lights-ufo-over-the-airpo/1324493835702569/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MikeyMcBryan/posts/the-737-night-crew-early-this-morning-saw-some-strange-lights-ufo-over-the-airpo/1324493835702569/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The 737 night crew early this morning saw some strange...Myung Soo Park ▻ UFO, Aliens, Moon, Mars, Paranormal &amp; Conspiracies R Us...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/348704483442978/posts/974683177511769/](https://www.facebook.com/groups/348704483442978/posts/974683177511769/)  
+   Link: <a href="https://www.facebook.com/groups/348704483442978/posts/974683177511769/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/348704483442978/posts/974683177511769/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Just seen the most bizarre thing, you see people post...Myung Soo Park ▻ UFO, Aliens, Moon, Mars, Paranormal &amp; Conspiracies R Us...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: supercarblondie.com  
    Title: airline pilots ufo sightings mistaken identity  
-   Link: [https://supercarblondie.com/airline-pilots-ufo-sightings-mistaken-identity/](https://supercarblondie.com/airline-pilots-ufo-sightings-mistaken-identity/)  
+   Link: <a href="https://supercarblondie.com/airline-pilots-ufo-sightings-mistaken-identity/" target="_blank" rel="noopener noreferrer nofollow">https://supercarblondie.com/airline-pilots-ufo-sightings-mistaken-identity/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Airline pilots&#x27; UFO sightings demystified in case of mistaken...22 Mar 2024 — Airline pilots&#x27; UFO sightings demystified in case of mista...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/SpaceLaneInfo/posts/a-disturbing-ufo-encounter-has-been-reported-by-airline-pilots-flying-over-brazi/915375704792139/](https://www.facebook.com/SpaceLaneInfo/posts/a-disturbing-ufo-encounter-has-been-reported-by-airline-pilots-flying-over-brazi/915375704792139/)  
+   Link: <a href="https://www.facebook.com/SpaceLaneInfo/posts/a-disturbing-ufo-encounter-has-been-reported-by-airline-pilots-flying-over-brazi/915375704792139/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SpaceLaneInfo/posts/a-disturbing-ufo-encounter-has-been-reported-by-airline-pilots-flying-over-brazi/915375704792139/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>as natural phenomena or optical illusions, this particular...Read more...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: boldmethod.com  
    Title: 8 optical illusions pilots should understand  
-   Link: [https://www.boldmethod.com/blog/lists/2025/04/8-optical-illusions-pilots-should-understand/](https://www.boldmethod.com/blog/lists/2025/04/8-optical-illusions-pilots-should-understand/)  
+   Link: <a href="https://www.boldmethod.com/blog/lists/2025/04/8-optical-illusions-pilots-should-understand/" target="_blank" rel="noopener noreferrer nofollow">https://www.boldmethod.com/blog/lists/2025/04/8-optical-illusions-pilots-should-understand/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>And Know...19 Apr 2025 — 1) Runway Width A narrower-than-usual runway can create an illusion that the aircraft is higher than it actuall...</p></details>

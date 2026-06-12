@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_superior_mirage_lift_94a6c8
 - ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_twinkling_moving_sta_10c309
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - atmosphere
 - lenticulars
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - atmosphere
 - lenticulars
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Lenticular clouds can look like smooth hovering craft because mountain waves hold their lens shape in place.
 hero_summary: Lenticular clouds can look like smooth hovering craft because mountain waves hold their lens shape in place.
 layout: default
 permalink: /lenticulars/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /atmosphere/
 nav_short_title: Lenticulars
 title: The cloud that really looks like a saucer
-title_full: The cloud that really looks like a saucer | Atmosphere
+title_full: The cloud that really looks like a saucer
 display_title_short: Lenticulars
 display_title: Lenticulars
 heading_title: The cloud that really looks like a saucer
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 09:28:25'
-parent_title: When Weather Makes Shapes in the Sky | IFOs
+parent_title: When Weather Makes Shapes in the Sky
 parent_permalink: /atmosphere/
 parent_nav_short_title: Atmosphere
 parent_heading_title: When Weather Makes Shapes in the Sky
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043
-  title: Atmosphere | Ifos Causes Of
+  title: Atmosphere | ifos causes of UFO 3 ed 238
   permalink: /atmosphere/
   short_title: Atmosphere
   heading_title: When Weather Makes Shapes in the Sky
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043
-  title: Atmosphere | Ifos Causes Of
+  title: Atmosphere | ifos causes of UFO 3 ed 238
   permalink: /atmosphere/
   short_title: Atmosphere
   heading_title: When Weather Makes Shapes in the Sky
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: Why a star can look alive
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043
-  title: Atmosphere | Ifos Causes Of
+  title: Atmosphere | ifos causes of UFO 3 ed 238
   permalink: /atmosphere/
   short_title: Atmosphere
   heading_title: When Weather Makes Shapes in the Sky
@@ -266,6 +265,7 @@ next_link:
   permalink: /mirage-lift/
   short_title: Mirage lift
   heading_title: When the horizon puts objects in the sky
+date: '2026-06-12 00:24:37 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_lenticular_saucer_cl_f0fa04-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_lenticular_saucer_cl_f0fa04-Illustration-1.webp
@@ -276,28 +276,26 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_lenticul
 
 Few natural phenomena have contributed more to classic “flying saucer” reports than lenticular clouds. Their smooth, lens-shaped outlines, stacked layers and apparent ability to hover motionless can make them look remarkably artificial, especially when illuminated by low-angle sunlight. Meteorological agencies, observatories and atmospheric scientists routinely cite lenticular clouds as one of the most common weather-related explanations for saucer-shaped UFO sightings. The resemblance is not superficial: many lenticular clouds possess the exact disc-like profile popularised in twentieth-century UFO culture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gi.alaska.edu/alaska-science-forum/flying-saucer-clouds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gi.alaska.edu">[Geophysical Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gi.alaska.edu</span><span class="citation-popover-title">flying saucer clouds</span><span class="citation-popover-snippet">Geophysical InstituteFlying Saucer Clouds9 Mar 1987 — The clouds most likely to produce flying saucer reports are lenticular clouds, whic...</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_lenticular_saucer_cl_f0fa04-Illustration-1-dark.svg" | relative_url }}" alt="Lenticulars illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_lenticular_saucer_cl_f0fa04-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_lenticular_saucer_cl_f0fa04-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within the broader category of clouds and atmospheric distortions that generate UFO reports, lenticular clouds occupy a special place because they can genuinely appear structured, stationary and machine-like. Unlike many mistaken identifications that depend on darkness, haze or distance, lenticular clouds can fool observers in broad daylight. Understanding why they form and why they look so unusual explains why generations of witnesses have interpreted them as hovering craft rather than ordinary weather.
 
 ## The Cloud That Really Looks Like a Saucer
 
-Lenticular clouds are named after the Latin word for “lens”. Meteorologists classify many of them as Altocumulus Standing Lenticular (ACSL) clouds. Their defining characteristic is a smooth, curved profile that often resembles a flattened disc, an almond, a stack of plates or a classic flying saucer. National Weather Service <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nesdis.noaa.gov/about/k-12-education/atmosphere/types-of-clouds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nesdis.noaa.gov">[NOAA NESDIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nesdis.noaa.gov</span><span class="citation-popover-title">types of clouds</span><span class="citation-popover-snippet">NOAA NESDISTypes of Clouds | NESDIS31 Aug 2025 — Lenticular clouds are shaped like lenses or almonds or...flying saucers! They may get th...</span></span></span>
+Lenticular clouds are named after the Latin word for “lens”. Meteorologists classify many of them as Altocumulus Standing Lenticular (ACSL) clouds. Their defining characteristic is a smooth, curved profile that often resembles a flattened disc, an almond, a stack of plates or a classic flying saucer. National Weather Service <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nesdis.noaa.gov/about/k-12-education/atmosphere/types-of-clouds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nesdis.noaa.gov">[NOAA NESDIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nesdis.noaa.gov</span><span class="citation-popover-title">types of clouds</span><span class="citation-popover-snippet">NOAA NESDISTypes of Clouds &#124; NESDIS31 Aug 2025 — Lenticular clouds are shaped like lenses or almonds or...flying saucers! They may get th...</span></span></span>
 
 Unlike most clouds, lenticulars frequently lack the ragged edges and constantly changing forms that people associate with atmospheric phenomena. They can display sharply defined outlines, layered bands and symmetrical contours. In photographs, particularly when seen from below, they often appear more like manufactured objects than clouds. National Weather Service guidance specifically notes that lenticular clouds develop distinctive lens-shaped forms within mountain-wave systems and can remain fixed in position despite strong winds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/abq/features_acsl" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">National Weather ServiceAltocumulus Standing Lenticular CloudsWhen sufficient moisture is present above mountain-top level, ACSL clouds d...</span></span></span>
 
-Their appearance has become so strongly associated with UFOs that weather forecasters regularly refer to them informally as “UFO clouds”. National Geographic, EarthSky and numerous meteorological organisations have highlighted the resemblance in public explanations of unusual cloud sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalgeographic.com/science/article/151109-ufo-clouds-cape-town-lenticular-clouds-weather-science" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalgeographic.com">[National Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalgeographic.com</span><span class="citation-popover-title">151109 ufo clouds cape town lenticular clouds weather science</span><span class="citation-popover-snippet">National Geographic&#x27;UFO Clouds&#x27; Are Real. Here&#x27;s How They Happen9 Nov 2015 — Meteorologists call them lenticular clouds, which form when...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/earth/best-photos-beautiful-lenticular-clouds-around-the-world/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">best photos beautiful lenticular clouds around the world</span><span class="citation-popover-snippet">EarthSkyLenticular clouds look like UFOs1 Jan 2024 — Lenticular clouds are lens-shaped or saucer-shaped clouds. They typically form where...</span></span></span>
+Their appearance has become so strongly associated with UFOs that weather forecasters regularly refer to them informally as “UFO clouds”. National Geographic, EarthSky and numerous meteorological organisations have highlighted the resemblance in public explanations of unusual cloud sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalgeographic.com/science/article/151109-ufo-clouds-cape-town-lenticular-clouds-weather-science" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalgeographic.com">[National Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalgeographic.com</span><span class="citation-popover-title">151109 ufo clouds cape town lenticular clouds weather science</span><span class="citation-popover-snippet">National Geographic&#x27;UFO Clouds&#x27; Are Real. Here&#x27;s How They Happen9 Nov 2015 — Meteorologists call them lenticular clouds, which form when...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/earth/best-photos-beautiful-lenticular-clouds-around-the-world/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">best photos beautiful lenticular clouds around the world</span><span class="citation-popover-snippet">Lenticular clouds look like UFOs1 Jan 2024 — Lenticular clouds are lens-shaped or saucer-shaped clouds. They typically form where...</span></span></span>
 
 ## Why Mountain Waves Form Lens Clouds
 
 The mechanism behind lenticular clouds is well understood and involves airflow interacting with terrain.
 
-When stable, moist air encounters a mountain [range]({{ 'range/' | relative_url }}) or elevated terrain, the air is forced upward. Instead of simply descending on the far side, the [atmosphere]({{ 'atmosphere/' | relative_url }}) can begin oscillating in a series of standing waves extending downwind of the mountains. Atmospheric scientists often compare the process to water flowing over a submerged rock in a river, producing stationary wave patterns downstream. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wx.erau.edu/faculty/mullerb/Wx365/Mountain_waves/mountain_waves.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wx.erau.edu">[ERAU Weather]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wx.erau.edu</span><span class="citation-popover-snippet">ERAU Weathermountain_wavesMountain waves are standing atmospheric waves caused by airflow over mountains, analogous to standing waves in...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://scied.ucar.edu/learning-zone/clouds/clouds-form-mountains" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scied.ucar.edu">[Center for Science Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scied.ucar.edu</span><span class="citation-popover-snippet">Form Due to Mountains | Center for Science EducationSome clouds form when air encounters a mountain range or other types of terrain. When...</span></span></span>
+When stable, moist air encounters a mountain [range]({{ 'range/' | relative_url }}) or elevated terrain, the air is forced upward. Instead of simply descending on the far side, the [atmosphere]({{ 'atmosphere/' | relative_url }}) can begin oscillating in a series of standing waves extending downwind of the mountains. Atmospheric scientists often compare the process to water flowing over a submerged rock in a river, producing stationary wave patterns downstream. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wx.erau.edu/faculty/mullerb/Wx365/Mountain_waves/mountain_waves.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wx.erau.edu">[ERAU Weather]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wx.erau.edu</span><span class="citation-popover-snippet">ERAU Weathermountain_wavesMountain waves are standing atmospheric waves caused by airflow over mountains, analogous to standing waves in...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://scied.ucar.edu/learning-zone/clouds/clouds-form-mountains" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scied.ucar.edu">[Center for Science Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scied.ucar.edu</span><span class="citation-popover-snippet">Form Due to Mountains &#124; Center for Science EducationSome clouds form when air encounters a mountain range or other types of terrain. When...</span></span></span>
 
-At the crest of each wave, air rises and cools. If the temperature falls to the dew point, water vapour condenses into visible cloud droplets. At the trough of the wave, the air sinks, warms and the cloud evaporates. The result is a cloud that forms repeatedly at the same location within the wave pattern. National Weather Service EarthSky The cloud therefore marks the position of the atmospheric wave rather than a discrete parcel of air. This distinction is crucial. The cloud's <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/earth/best-photos-beautiful-lenticular-clouds-around-the-world/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[earthsky.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">best photos beautiful lenticular clouds around the world</span><span class="citation-popover-snippet">EarthSkyLenticular clouds look like UFOs1 Jan 2024 — Lenticular clouds are lens-shaped or saucer-shaped clouds. They typically form where...</span></span></span> visible shape can remain in the same place even though the air composing it is continuously moving through the system. National Weather Service <span class="citation-chip-wrap"><a class="citation-chip" href="https://scied.ucar.edu/learning-zone/clouds/clouds-form-mountains" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scied.ucar.edu">[Center for Science Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scied.ucar.edu</span><span class="citation-popover-snippet">Form Due to Mountains | Center for Science EducationSome clouds form when air encounters a mountain range or other types of terrain. When...</span></span></span>
+At the crest of each wave, air rises and cools. If the temperature falls to the dew point, water vapour condenses into visible cloud droplets. At the trough of the wave, the air sinks, warms and the cloud evaporates. The result is a cloud that forms repeatedly at the same location within the wave pattern. National Weather Service EarthSky The cloud therefore marks the position of the atmospheric wave rather than a discrete parcel of air. This distinction is crucial. The cloud's <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/earth/best-photos-beautiful-lenticular-clouds-around-the-world/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[earthsky.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">best photos beautiful lenticular clouds around the world</span><span class="citation-popover-snippet">Lenticular clouds look like UFOs1 Jan 2024 — Lenticular clouds are lens-shaped or saucer-shaped clouds. They typically form where...</span></span></span> visible shape can remain in the same place even though the air composing it is continuously moving through the system. National Weather Service <span class="citation-chip-wrap"><a class="citation-chip" href="https://scied.ucar.edu/learning-zone/clouds/clouds-form-mountains" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scied.ucar.edu">[Center for Science Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scied.ucar.edu</span><span class="citation-popover-snippet">Form Due to Mountains &#124; Center for Science EducationSome clouds form when air encounters a mountain range or other types of terrain. When...</span></span></span>
 
-Mountain [ranges]({{ 'ranges/' | relative_url }}) around the world create ideal conditions for these formations. Lenticular clouds are particularly common near ranges such as the Rockies, the Sierra Nevada, the Cascades, the Southern Alps of New Zealand and isolated volcanic peaks such as Mount Fuji and Mount Shasta. The Sun <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalgeographic.com/science/article/151109-ufo-clouds-cape-town-lenticular-clouds-weather-science" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalgeographic.com">[National Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalgeographic.com</span><span class="citation-popover-title">151109 ufo clouds cape town lenticular clouds weather science</span><span class="citation-popover-snippet">National Geographic&#x27;UFO Clouds&#x27; Are Real. Here&#x27;s How They Happen9 Nov 2015 — Meteorologists call them lenticular clouds, which form when...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/earth/best-photos-beautiful-lenticular-clouds-around-the-world/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">best photos beautiful lenticular clouds around the world</span><span class="citation-popover-snippet">EarthSkyLenticular clouds look like UFOs1 Jan 2024 — Lenticular clouds are lens-shaped or saucer-shaped clouds. They typically form where...</span></span></span>
-
+Mountain [ranges]({{ 'ranges/' | relative_url }}) around the world create ideal conditions for these formations. Lenticular clouds are particularly common near ranges such as the Rockies, the Sierra Nevada, the Cascades, the Southern Alps of New Zealand and isolated volcanic peaks such as Mount Fuji and Mount Shasta. The Sun <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalgeographic.com/science/article/151109-ufo-clouds-cape-town-lenticular-clouds-weather-science" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalgeographic.com">[National Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalgeographic.com</span><span class="citation-popover-title">151109 ufo clouds cape town lenticular clouds weather science</span><span class="citation-popover-snippet">National Geographic&#x27;UFO Clouds&#x27; Are Real. Here&#x27;s How They Happen9 Nov 2015 — Meteorologists call them lenticular clouds, which form when...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/earth/best-photos-beautiful-lenticular-clouds-around-the-world/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">best photos beautiful lenticular clouds around the world</span><span class="citation-popover-snippet">Lenticular clouds look like UFOs1 Jan 2024 — Lenticular clouds are lens-shaped or saucer-shaped clouds. They typically form where...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KgO7Kyq3q-U" title="Lenticular Clouds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KgO7Kyq3q-U" target="_blank" rel="noopener noreferrer">Lenticular Clouds</a></p><p class="youtube-embed-meta">Channel: Alan Sealls &middot; Views: 11.3K &middot; Uploaded: January 2023 &middot; Length: 3 minutes 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KgO7Kyq3q-U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KgO7Kyq3q-U">Open on YouTube</a></p></div></div></div>
 
@@ -305,14 +303,13 @@ Mountain [ranges]({{ 'ranges/' | relative_url }}) around the world create ideal 
 
 One reason lenticular clouds generate UFO reports is that they violate everyday expectations about cloud behaviour.
 
-Most clouds drift visibly with the wind. Observers naturally assume that any cloud should move across the sky. Lenticular clouds often appear not to move at all. In reality, the cloud is continuously forming and dissipating in the same location within the standing wave. Moist air enters one side of the formation, condenses, then evaporates as it exits the other side. The visible cloud remains nearly fixed even while the air itself is travelling rapidly. National Weather Service <span class="citation-chip-wrap"><a class="citation-chip" href="https://scied.ucar.edu/learning-zone/clouds/clouds-form-mountains" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scied.ucar.edu">[Center for Science Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scied.ucar.edu</span><span class="citation-popover-snippet">Form Due to Mountains | Center for Science EducationSome clouds form when air encounters a mountain range or other types of terrain. When...</span></span></span>
+Most clouds drift visibly with the wind. Observers naturally assume that any cloud should move across the sky. Lenticular clouds often appear not to move at all. In reality, the cloud is continuously forming and dissipating in the same location within the standing wave. Moist air enters one side of the formation, condenses, then evaporates as it exits the other side. The visible cloud remains nearly fixed even while the air itself is travelling rapidly. National Weather Service <span class="citation-chip-wrap"><a class="citation-chip" href="https://scied.ucar.edu/learning-zone/clouds/clouds-form-mountains" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scied.ucar.edu">[Center for Science Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scied.ucar.edu</span><span class="citation-popover-snippet">Form Due to Mountains &#124; Center for Science EducationSome clouds form when air encounters a mountain range or other types of terrain. When...</span></span></span>
 
 The National Weather Service explains that ACSL clouds are continually developing and dissipating near wave crests, which is precisely why they appear stationary despite sometimes very strong winds passing through them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/abq/features_acsl" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">National Weather ServiceAltocumulus Standing Lenticular CloudsWhen sufficient moisture is present above mountain-top level, ACSL clouds d...</span></span></span>
 
 To a witness unfamiliar with atmospheric wave systems, this can create a striking illusion. A large disc-shaped object appears to hover over a mountain or ridge for extended periods without changing position. Human observers often associate hovering with powered flight, leading to interpretations involving advanced aircraft or extraterrestrial vehicles rather than weather. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gi.alaska.edu/alaska-science-forum/flying-saucer-clouds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gi.alaska.edu">[Geophysical Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gi.alaska.edu</span><span class="citation-popover-title">flying saucer clouds</span><span class="citation-popover-snippet">Geophysical InstituteFlying Saucer Clouds9 Mar 1987 — The clouds most likely to produce flying saucer reports are lenticular clouds, whic...</span></span></span>
 
 The illusion becomes even stronger when a lenticular cloud maintains its position for hours while ordinary clouds drift around it. The contrast reinforces the impression that the object is behaving differently from the surrounding atmosphere.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_lenticular_saucer_cl_f0fa04-Illustration-2-dark.svg" | relative_url }}" alt="Lenticulars illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_lenticular_saucer_cl_f0fa04-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_lenticular_saucer_cl_f0fa04-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Sunset Light Makes the Illusion Stronger
@@ -321,7 +318,7 @@ Lighting conditions frequently determine whether a lenticular cloud is recognise
 
 Near sunrise and sunset, low-angle sunlight illuminates the smooth surfaces of lenticular clouds in ways that emphasise their apparent solidity. Their curved forms can display bright upper surfaces and darker undersides, producing shading patterns similar to those seen on physical objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalgeographic.com/science/article/151109-ufo-clouds-cape-town-lenticular-clouds-weather-science" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalgeographic.com">[National Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalgeographic.com</span><span class="citation-popover-title">151109 ufo clouds cape town lenticular clouds weather science</span><span class="citation-popover-snippet">National Geographic&#x27;UFO Clouds&#x27; Are Real. Here&#x27;s How They Happen9 Nov 2015 — Meteorologists call them lenticular clouds, which form when...</span></span></span>
 
-Under certain conditions, multiple stacked layers develop within the same wave system. These layers can resemble decks, tiers or structural components of a craft. When the setting Sun illuminates only portions of the cloud, the effect can appear even more artificial. Observers often describe these formations as metallic, glowing or structured despite their entirely natural origin. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/earth/best-photos-beautiful-lenticular-clouds-around-the-world/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">best photos beautiful lenticular clouds around the world</span><span class="citation-popover-snippet">EarthSkyLenticular clouds look like UFOs1 Jan 2024 — Lenticular clouds are lens-shaped or saucer-shaped clouds. They typically form where...</span></span></span>
+Under certain conditions, multiple stacked layers develop within the same wave system. These layers can resemble decks, tiers or structural components of a craft. When the setting Sun illuminates only portions of the cloud, the effect can appear even more artificial. Observers often describe these formations as metallic, glowing or structured despite their entirely natural origin. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/earth/best-photos-beautiful-lenticular-clouds-around-the-world/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">best photos beautiful lenticular clouds around the world</span><span class="citation-popover-snippet">Lenticular clouds look like UFOs1 Jan 2024 — Lenticular clouds are lens-shaped or saucer-shaped clouds. They typically form where...</span></span></span>
 
 Photographs that later circulate on social media frequently amplify the effect. Telephoto lenses compress perspective, making the cloud appear denser and more sharply bounded than it seemed to the naked eye. This contributes to periodic waves of online speculation whenever particularly dramatic lenticular formations appear.
 
@@ -339,7 +336,6 @@ New Zealand's famous “Taieri Pet” provides an especially instructive case. T
 
 These recurring examples demonstrate that UFO interpretations often arise not because the phenomenon is unexplained but because its appearance conflicts with ordinary expectations about how clouds should behave.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VhDpoM5k2Qg" title="How Mountain Wave Systems Work, with Lenticular and Rotor Clouds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VhDpoM5k2Qg" target="_blank" rel="noopener noreferrer">How Mountain Wave Systems Work, with Lenticular and Rotor Clouds</a></p><p class="youtube-embed-meta">Channel: Pure Glide &middot; Views: 40.3K &middot; Uploaded: April 2021 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VhDpoM5k2Qg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VhDpoM5k2Qg">Open on YouTube</a></p></div></div></div>
 
 ## Best Sighting Clues: Terrain, Wind and Cloud Structure
@@ -350,12 +346,11 @@ Several clues can help distinguish a lenticular cloud from an unidentified aeria
 
 **Strong, stable airflow:** These clouds form when stable air flows across terrain and produces standing waves. Their presence often indicates substantial winds aloft, even if conditions at ground level seem calm. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/abq/features_acsl" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">National Weather ServiceAltocumulus Standing Lenticular CloudsWhen sufficient moisture is present above mountain-top level, ACSL clouds d...</span></span></span>
 
-**Smooth edges:** Lenticular clouds typically display unusually smooth boundaries and may appear layered like stacked pancakes. While this can look artificial, it is characteristic of wave-cloud formation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/earth/best-photos-beautiful-lenticular-clouds-around-the-world/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">best photos beautiful lenticular clouds around the world</span><span class="citation-popover-snippet">EarthSkyLenticular clouds look like UFOs1 Jan 2024 — Lenticular clouds are lens-shaped or saucer-shaped clouds. They typically form where...</span></span></span>
+**Smooth edges:** Lenticular clouds typically display unusually smooth boundaries and may appear layered like stacked pancakes. While this can look artificial, it is characteristic of wave-cloud formation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/earth/best-photos-beautiful-lenticular-clouds-around-the-world/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">best photos beautiful lenticular clouds around the world</span><span class="citation-popover-snippet">Lenticular clouds look like UFOs1 Jan 2024 — Lenticular clouds are lens-shaped or saucer-shaped clouds. They typically form where...</span></span></span>
 
-**Long-lasting position:** A lenticular cloud may remain almost fixed relative to a mountain for extended periods. Apparently motionless behaviour is therefore not evidence against a cloud explanation; it is one of the defining characteristics of the phenomenon. National Weather Service <span class="citation-chip-wrap"><a class="citation-chip" href="https://scied.ucar.edu/learning-zone/clouds/clouds-form-mountains" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scied.ucar.edu">[Center for Science Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scied.ucar.edu</span><span class="citation-popover-snippet">Form Due to Mountains | Center for Science EducationSome clouds form when air encounters a mountain range or other types of terrain. When...</span></span></span>
+**Long-lasting position:** A lenticular cloud may remain almost fixed relative to a mountain for extended periods. Apparently motionless behaviour is therefore not evidence against a cloud explanation; it is one of the defining characteristics of the phenomenon. National Weather Service <span class="citation-chip-wrap"><a class="citation-chip" href="https://scied.ucar.edu/learning-zone/clouds/clouds-form-mountains" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scied.ucar.edu">[Center for Science Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scied.ucar.edu</span><span class="citation-popover-snippet">Form Due to Mountains &#124; Center for Science EducationSome clouds form when air encounters a mountain range or other types of terrain. When...</span></span></span>
 
-**Gradual shape evolution:** Although seemingly stationary, lenticular clouds slowly grow, shrink and reform. Careful observation over time often reveals subtle atmospheric changes inconsistent with a solid object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.yahoo.com/news/lenticular-clouds-sometimes-mistaken-ufos-150745839.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yahoo.com">[Yahoo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yahoo.com</span><span class="citation-popover-title">lenticular clouds sometimes mistaken ufos 150745839</span><span class="citation-popover-snippet">YahooLenticular clouds, sometimes mistaken for UFOs, are in a...25 Sept 2024 — Lenticular clouds are different from other clouds because...</span></span></span>
-
+**Gradual shape evolution:** Although seemingly stationary, lenticular clouds slowly grow, shrink and reform. Careful observation over time often reveals subtle atmospheric changes inconsistent with a solid object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.yahoo.com/news/lenticular-clouds-sometimes-mistaken-ufos-150745839.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yahoo.com">[Yahoo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yahoo.com</span><span class="citation-popover-title">lenticular clouds sometimes mistaken ufos 150745839</span><span class="citation-popover-snippet">Lenticular clouds, sometimes mistaken for UFOs, are in a...25 Sept 2024 — Lenticular clouds are different from other clouds because...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_lenticular_saucer_cl_f0fa04-Illustration-3-dark.svg" | relative_url }}" alt="Lenticulars illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_lenticular_saucer_cl_f0fa04-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_lenticular_saucer_cl_f0fa04-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Lenticular Clouds Remain One of the Strongest UFO Explanations
@@ -366,9 +361,7 @@ Their disc-like geometry, smooth surfaces, layered appearance and apparent abili
 
 For that reason, lenticular clouds remain one of the most persuasive examples of how a completely natural atmospheric phenomenon can produce sightings that genuinely resemble the popular image of a flying saucer. Rather than being a weak or dismissive explanation, they represent a case where the atmosphere itself creates something that looks remarkably close to the UFO stereotype. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gi.alaska.edu/alaska-science-forum/flying-saucer-clouds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gi.alaska.edu">[Geophysical Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gi.alaska.edu</span><span class="citation-popover-title">flying saucer clouds</span><span class="citation-popover-snippet">Geophysical InstituteFlying Saucer Clouds9 Mar 1987 — The clouds most likely to produce flying saucer reports are lenticular clouds, whic...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/h2Wo7WqG0vo" title="Weather 101: What are lenticular clouds?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=h2Wo7WqG0vo" target="_blank" rel="noopener noreferrer">Weather 101: What are lenticular clouds?</a></p><p class="youtube-embed-meta">Channel: 12 News &middot; Views: 720 &middot; Uploaded: March 2024 &middot; Length: 2 minutes 33 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=h2Wo7WqG0vo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=h2Wo7WqG0vo">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -487,15 +480,15 @@ For that reason, lenticular clouds remain one of the most persuasive examples of
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lenticulars-the-cloud-that-really-looks-like-a-saucer-ifos-causes-of-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="lenticulars-the-cloud-that-really-looks-like-a-saucer-ifos-causes-of-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FLYING SAUCER COSTUME FAN, SERIES 26 (col443) - New LEGO Collectible Minifigure"><img src="{{ '/assets/images/marketplace-covers/eb07bf27c0c7038a4093.jpg' | relative_url }}" alt="Listing image for FLYING SAUCER COSTUME FAN, SERIES 26 (col443) - New LEGO Collectible Minifigure" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=lenticular+cloud+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-cloud-that-really-looks-like-a-saucer-lenticular-cloud-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lenticular cloud print" data-ebay-reference="the-cloud-that-really-looks-like-a-saucer-lenticular-cloud-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Western Canada 018047 Lenticular Clouds Kluane Park Yukon Ltd Ed A3 Water"><img src="https://i.ebayimg.com/images/g/IIAAAOSwuuFkzU~w/s-l225.jpg" alt="Listing image for Western Canada 018047 Lenticular Clouds Kluane Park Yukon Ltd Ed A3 Water" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lenticulars-the-cloud-that-really-looks-like-a-saucer-ifos-causes-of-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="lenticulars-the-cloud-that-really-looks-like-a-saucer-ifos-causes-of-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer">FLYING SAUCER COSTUME FAN, SERIES 26 (col443) - New LEGO Collectible Minifigure</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lenticular+cloud+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-cloud-that-really-looks-like-a-saucer-lenticular-cloud-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lenticular cloud print" data-ebay-reference="the-cloud-that-really-looks-like-a-saucer-lenticular-cloud-print" target="_blank" rel="sponsored noopener noreferrer">Western Canada 018047 Lenticular Clouds Kluane Park Yukon Ltd Ed A3 Water</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lenticulars-the-cloud-that-really-looks-like-a-saucer-ifos-causes-of-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="lenticulars-the-cloud-that-really-looks-like-a-saucer-ifos-causes-of-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=lenticular+cloud+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-cloud-that-really-looks-like-a-saucer-lenticular-cloud-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lenticular cloud print" data-ebay-reference="the-cloud-that-really-looks-like-a-saucer-lenticular-cloud-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for lenticular cloud print">Search <span data-ebay-domain-label>eBay.co.uk</span>: lenticular cloud print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lenticulars-the-cloud-that-really-looks-like-a-saucer-ifos-causes-of-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="lenticulars-the-cloud-that-really-looks-like-a-saucer-ifos-causes-of-flying-saucer-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lenticular+cloud+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-cloud-that-really-looks-like-a-saucer-lenticular-cloud-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lenticular cloud print" data-ebay-reference="the-cloud-that-really-looks-like-a-saucer-lenticular-cloud-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -503,15 +496,15 @@ For that reason, lenticular clouds remain one of the most persuasive examples of
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lenticulars-the-cloud-that-really-looks-like-a-saucer-ifos-causes-of-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="lenticulars-the-cloud-that-really-looks-like-a-saucer-ifos-causes-of-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Day the Earth Stood Still&quot; UFO/Flying Saucer (landed with lights) - large"><img src="{{ '/assets/images/marketplace-covers/d4217bc6982d7028da45.jpg' | relative_url }}" alt="Listing image for The Day the Earth Stood Still&quot; UFO/Flying Saucer (landed with lights) - large" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=lenticular+cloud+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-cloud-that-really-looks-like-a-saucer-lenticular-cloud-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lenticular cloud print" data-ebay-reference="the-cloud-that-really-looks-like-a-saucer-lenticular-cloud-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 614926 Lenticular Cloud Over Mount Everest Landscape Wall Print Poster"><img src="https://i.ebayimg.com/images/g/q7MAAeSwT8NoRyfA/s-l225.jpg" alt="Listing image for 614926 Lenticular Cloud Over Mount Everest Landscape Wall Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lenticulars-the-cloud-that-really-looks-like-a-saucer-ifos-causes-of-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="lenticulars-the-cloud-that-really-looks-like-a-saucer-ifos-causes-of-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer">The Day the Earth Stood Still&quot; UFO/Flying Saucer (landed with lights) - large</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lenticular+cloud+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-cloud-that-really-looks-like-a-saucer-lenticular-cloud-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lenticular cloud print" data-ebay-reference="the-cloud-that-really-looks-like-a-saucer-lenticular-cloud-print" target="_blank" rel="sponsored noopener noreferrer">614926 Lenticular Cloud Over Mount Everest Landscape Wall Print Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lenticulars-the-cloud-that-really-looks-like-a-saucer-ifos-causes-of-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="lenticulars-the-cloud-that-really-looks-like-a-saucer-ifos-causes-of-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=lenticular+cloud+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-cloud-that-really-looks-like-a-saucer-lenticular-cloud-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lenticular cloud print" data-ebay-reference="the-cloud-that-really-looks-like-a-saucer-lenticular-cloud-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for lenticular cloud print">Search <span data-ebay-domain-label>eBay.co.uk</span>: lenticular cloud print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lenticulars-the-cloud-that-really-looks-like-a-saucer-ifos-causes-of-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="lenticulars-the-cloud-that-really-looks-like-a-saucer-ifos-causes-of-flying-saucer-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lenticular+cloud+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-cloud-that-really-looks-like-a-saucer-lenticular-cloud-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lenticular cloud print" data-ebay-reference="the-cloud-that-really-looks-like-a-saucer-lenticular-cloud-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -519,15 +512,15 @@ For that reason, lenticular clouds remain one of the most persuasive examples of
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lenticulars-the-cloud-that-really-looks-like-a-saucer-ifos-causes-of-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="lenticulars-the-cloud-that-really-looks-like-a-saucer-ifos-causes-of-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Invaders UFO/Flying Saucer - Medium - Landed With Stand &amp; lights"><img src="{{ '/assets/images/marketplace-covers/c4e4380a2d9884a7e64a.jpg' | relative_url }}" alt="Listing image for The Invaders UFO/Flying Saucer - Medium - Landed With Stand &amp; lights" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=lenticular+cloud+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-cloud-that-really-looks-like-a-saucer-lenticular-cloud-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lenticular cloud print" data-ebay-reference="the-cloud-that-really-looks-like-a-saucer-lenticular-cloud-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wildflower Clouds Lenticular Mountain Curatethis Cloud Wall Art Print"><img src="https://i.ebayimg.com/images/g/aZYAAOSww3RizWgn/s-l225.jpg" alt="Listing image for Wildflower Clouds Lenticular Mountain Curatethis Cloud Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lenticulars-the-cloud-that-really-looks-like-a-saucer-ifos-causes-of-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="lenticulars-the-cloud-that-really-looks-like-a-saucer-ifos-causes-of-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer">The Invaders UFO/Flying Saucer - Medium - Landed With Stand &amp; lights</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lenticular+cloud+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-cloud-that-really-looks-like-a-saucer-lenticular-cloud-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lenticular cloud print" data-ebay-reference="the-cloud-that-really-looks-like-a-saucer-lenticular-cloud-print" target="_blank" rel="sponsored noopener noreferrer">Wildflower Clouds Lenticular Mountain Curatethis Cloud Wall Art Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lenticulars-the-cloud-that-really-looks-like-a-saucer-ifos-causes-of-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="lenticulars-the-cloud-that-really-looks-like-a-saucer-ifos-causes-of-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=lenticular+cloud+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-cloud-that-really-looks-like-a-saucer-lenticular-cloud-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lenticular cloud print" data-ebay-reference="the-cloud-that-really-looks-like-a-saucer-lenticular-cloud-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for lenticular cloud print">Search <span data-ebay-domain-label>eBay.co.uk</span>: lenticular cloud print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lenticulars-the-cloud-that-really-looks-like-a-saucer-ifos-causes-of-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="lenticulars-the-cloud-that-really-looks-like-a-saucer-ifos-causes-of-flying-saucer-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lenticular+cloud+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-cloud-that-really-looks-like-a-saucer-lenticular-cloud-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lenticular cloud print" data-ebay-reference="the-cloud-that-really-looks-like-a-saucer-lenticular-cloud-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -535,15 +528,15 @@ For that reason, lenticular clouds remain one of the most persuasive examples of
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lenticulars-the-cloud-that-really-looks-like-a-saucer-ifos-causes-of-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="lenticulars-the-cloud-that-really-looks-like-a-saucer-ifos-causes-of-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Pewter Pin Badge"><img src="{{ '/assets/images/marketplace-covers/aae94224fcb0f8bb2dec.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Pewter Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=lenticular+cloud+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-cloud-that-really-looks-like-a-saucer-lenticular-cloud-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lenticular cloud print" data-ebay-reference="the-cloud-that-really-looks-like-a-saucer-lenticular-cloud-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lenticular Cloud Over Mount Everest Landscape Wall Art Home Decor - POSTER 20x30"><img src="https://i.ebayimg.com/images/g/KjQAAOSwAjtiWXcD/s-l225.jpg" alt="Listing image for Lenticular Cloud Over Mount Everest Landscape Wall Art Home Decor - POSTER 20x30" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lenticulars-the-cloud-that-really-looks-like-a-saucer-ifos-causes-of-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="lenticulars-the-cloud-that-really-looks-like-a-saucer-ifos-causes-of-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Pewter Pin Badge</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lenticular+cloud+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-cloud-that-really-looks-like-a-saucer-lenticular-cloud-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lenticular cloud print" data-ebay-reference="the-cloud-that-really-looks-like-a-saucer-lenticular-cloud-print" target="_blank" rel="sponsored noopener noreferrer">Lenticular Cloud Over Mount Everest Landscape Wall Art Home Decor - POSTER 20x30</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lenticulars-the-cloud-that-really-looks-like-a-saucer-ifos-causes-of-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="lenticulars-the-cloud-that-really-looks-like-a-saucer-ifos-causes-of-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=lenticular+cloud+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-cloud-that-really-looks-like-a-saucer-lenticular-cloud-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lenticular cloud print" data-ebay-reference="the-cloud-that-really-looks-like-a-saucer-lenticular-cloud-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for lenticular cloud print">Search <span data-ebay-domain-label>eBay.co.uk</span>: lenticular cloud print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lenticulars-the-cloud-that-really-looks-like-a-saucer-ifos-causes-of-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="lenticulars-the-cloud-that-really-looks-like-a-saucer-ifos-causes-of-flying-saucer-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lenticular+cloud+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-cloud-that-really-looks-like-a-saucer-lenticular-cloud-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lenticular cloud print" data-ebay-reference="the-cloud-that-really-looks-like-a-saucer-lenticular-cloud-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -551,7 +544,7 @@ For that reason, lenticular clouds remain one of the most persuasive examples of
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lenticulars-the-cloud-that-really-looks-like-a-saucer-ifos-causes-of-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="lenticulars-the-cloud-that-really-looks-like-a-saucer-ifos-causes-of-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=lenticular+cloud+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-cloud-that-really-looks-like-a-saucer-lenticular-cloud-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lenticular cloud print" data-ebay-reference="the-cloud-that-really-looks-like-a-saucer-lenticular-cloud-print" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -766,179 +759,179 @@ For that reason, lenticular clouds remain one of the most persuasive examples of
 
 1. <a id="endnote-1"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/metoffice/photos/owing-to-their-distinctive-oval-shape-lenticular-clouds-have-often-been-mistaken/10152570754964209/](https://www.facebook.com/metoffice/photos/owing-to-their-distinctive-oval-shape-lenticular-clouds-have-often-been-mistaken/10152570754964209/)  
+   Link: <a href="https://www.facebook.com/metoffice/photos/owing-to-their-distinctive-oval-shape-lenticular-clouds-have-often-been-mistaken/10152570754964209/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/metoffice/photos/owing-to-their-distinctive-oval-shape-lenticular-clouds-have-often-been-mistaken/10152570754964209/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>staken as #UFO sightings. They form when the air is stable and...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: gi.alaska.edu  
    Title: flying saucer clouds  
-   Link: [https://www.gi.alaska.edu/alaska-science-forum/flying-saucer-clouds](https://www.gi.alaska.edu/alaska-science-forum/flying-saucer-clouds)  
+   Link: <a href="https://www.gi.alaska.edu/alaska-science-forum/flying-saucer-clouds" target="_blank" rel="noopener noreferrer nofollow">https://www.gi.alaska.edu/alaska-science-forum/flying-saucer-clouds</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Geophysical InstituteFlying Saucer Clouds9 Mar 1987 — The clouds most likely to produce flying saucer reports are lenticular clouds, whic...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nesdis.noaa.gov  
    Title: types of clouds  
-   Link: [https://www.nesdis.noaa.gov/about/k-12-education/atmosphere/types-of-clouds](https://www.nesdis.noaa.gov/about/k-12-education/atmosphere/types-of-clouds)  
+   Link: <a href="https://www.nesdis.noaa.gov/about/k-12-education/atmosphere/types-of-clouds" target="_blank" rel="noopener noreferrer nofollow">https://www.nesdis.noaa.gov/about/k-12-education/atmosphere/types-of-clouds</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NOAA NESDISTypes of Clouds | NESDIS31 Aug 2025 — Lenticular clouds are shaped like lenses or almonds or...flying saucers! They may get th...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/abq/features_acsl](https://www.weather.gov/abq/features_acsl)  
+   Link: <a href="https://www.weather.gov/abq/features_acsl" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/abq/features_acsl</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Weather ServiceAltocumulus Standing Lenticular CloudsWhen sufficient moisture is present above mountain-top level, ACSL clouds d...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: earthsky.org  
    Title: best photos beautiful lenticular clouds around the world  
-   Link: [https://earthsky.org/earth/best-photos-beautiful-lenticular-clouds-around-the-world/](https://earthsky.org/earth/best-photos-beautiful-lenticular-clouds-around-the-world/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EarthSkyLenticular clouds look like UFOs1 Jan 2024 — Lenticular clouds are lens-shaped or saucer-shaped clouds. They typically form where...</p></details>
+   Link: <a href="https://earthsky.org/earth/best-photos-beautiful-lenticular-clouds-around-the-world/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/earth/best-photos-beautiful-lenticular-clouds-around-the-world/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lenticular clouds look like UFOs1 Jan 2024 — Lenticular clouds are lens-shaped or saucer-shaped clouds. They typically form where...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: wx.erau.edu  
-   Link: [https://wx.erau.edu/faculty/mullerb/Wx365/Mountain_waves/mountain_waves.html](https://wx.erau.edu/faculty/mullerb/Wx365/Mountain_waves/mountain_waves.html)  
+   Link: <a href="https://wx.erau.edu/faculty/mullerb/Wx365/Mountain_waves/mountain_waves.html" target="_blank" rel="noopener noreferrer nofollow">https://wx.erau.edu/faculty/mullerb/Wx365/Mountain_waves/mountain_waves.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ERAU Weathermountain_wavesMountain waves are standing atmospheric waves caused by airflow over mountains, analogous to standing waves in...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: yahoo.com  
    Title: lenticular clouds sometimes mistaken ufos 150745839  
-   Link: [https://www.yahoo.com/news/lenticular-clouds-sometimes-mistaken-ufos-150745839.html](https://www.yahoo.com/news/lenticular-clouds-sometimes-mistaken-ufos-150745839.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>YahooLenticular clouds, sometimes mistaken for UFOs, are in a...25 Sept 2024 — Lenticular clouds are different from other clouds because...</p></details>
+   Link: <a href="https://www.yahoo.com/news/lenticular-clouds-sometimes-mistaken-ufos-150745839.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/news/lenticular-clouds-sometimes-mistaken-ufos-150745839.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lenticular clouds, sometimes mistaken for UFOs, are in a...25 Sept 2024 — Lenticular clouds are different from other clouds because...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/WeatherObsessed/posts/1755573428250898/](https://www.facebook.com/groups/WeatherObsessed/posts/1755573428250898/)  
+   Link: <a href="https://www.facebook.com/groups/WeatherObsessed/posts/1755573428250898/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/WeatherObsessed/posts/1755573428250898/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>e, so it creates waves in the wind- flow, the rising air...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ScienceTubeOfficial0/posts/that-wasnt-a-ufo-it-was-a-rare-lenticular-cloud-formed-when-strong-winds-flow-ov/122253142010175506/](https://www.facebook.com/ScienceTubeOfficial0/posts/that-wasnt-a-ufo-it-was-a-rare-lenticular-cloud-formed-when-strong-winds-flow-ov/122253142010175506/)  
+   Link: <a href="https://www.facebook.com/ScienceTubeOfficial0/posts/that-wasnt-a-ufo-it-was-a-rare-lenticular-cloud-formed-when-strong-winds-flow-ov/122253142010175506/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ScienceTubeOfficial0/posts/that-wasnt-a-ufo-it-was-a-rare-lenticular-cloud-formed-when-strong-winds-flow-ov/122253142010175506/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>That wasn&#x27;t a UFO. It was a rare lenticular cloudMet Office Lenticular clouds: UFO-like clouds spotted in Scottish... These are often mi...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
    Title: ️ whats up with that ufo cloudspotted a wild looking cloud today thats a lenticu  
-   Link: [https://www.facebook.com/chris.weather/posts/%EF%B8%8F-whats-up-with-that-ufo-cloudspotted-a-wild-looking-cloud-today-thats-a-lenticu/1357141659113953/](https://www.facebook.com/chris.weather/posts/%EF%B8%8F-whats-up-with-that-ufo-cloudspotted-a-wild-looking-cloud-today-thats-a-lenticu/1357141659113953/)  
+   Link: <a href="https://www.facebook.com/chris.weather/posts/%EF%B8%8F-whats-up-with-that-ufo-cloudspotted-a-wild-looking-cloud-today-thats-a-lenticu/1357141659113953/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/chris.weather/posts/%EF%B8%8F-whats-up-with-that-ufo-cloudspotted-a-wild-looking-cloud-today-thats-a-lenticu/1357141659113953/</a>  
 
 11. <a id="endnote-11"></a>
    Source: psl.noaa.gov  
-   Link: [https://psl.noaa.gov/outreach/education/pdf/AC00572.pdf](https://psl.noaa.gov/outreach/education/pdf/AC00572.pdf)  
+   Link: <a href="https://psl.noaa.gov/outreach/education/pdf/AC00572.pdf" target="_blank" rel="noopener noreferrer nofollow">https://psl.noaa.gov/outreach/education/pdf/AC00572.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>mountain waves are present, it is quite common for a rotor zone to develop near or below ridge level on the downwind side of the mountain...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/hfo/lenticular](https://www.weather.gov/hfo/lenticular)  
+   Link: <a href="https://www.weather.gov/hfo/lenticular" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/hfo/lenticular</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>clouds Big Island 11/25/200325 Nov 2003 — Some people have mistaken them for UFOs due to their smooth saucer like shape. They are fairly...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: nationalgeographic.com  
    Title: 151109 ufo clouds cape town lenticular clouds weather science  
-   Link: [https://www.nationalgeographic.com/science/article/151109-ufo-clouds-cape-town-lenticular-clouds-weather-science](https://www.nationalgeographic.com/science/article/151109-ufo-clouds-cape-town-lenticular-clouds-weather-science)  
+   Link: <a href="https://www.nationalgeographic.com/science/article/151109-ufo-clouds-cape-town-lenticular-clouds-weather-science" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/science/article/151109-ufo-clouds-cape-town-lenticular-clouds-weather-science</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National Geographic&#x27;UFO Clouds&#x27; Are Real. Here&#x27;s How They Happen9 Nov 2015 — Meteorologists call them lenticular clouds, which form when...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: scied.ucar.edu  
-   Link: [https://scied.ucar.edu/learning-zone/clouds/clouds-form-mountains](https://scied.ucar.edu/learning-zone/clouds/clouds-form-mountains)  
+   Link: <a href="https://scied.ucar.edu/learning-zone/clouds/clouds-form-mountains" target="_blank" rel="noopener noreferrer nofollow">https://scied.ucar.edu/learning-zone/clouds/clouds-form-mountains</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Form Due to Mountains | Center for Science EducationSome clouds form when air encounters a mountain range or other types of terrain. When...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: hko.gov.hk  
    Title: 00468 mountain wave clouds  
-   Link: [https://www.hko.gov.hk/en/education/weather/clouds/00468-mountain-wave-clouds.html](https://www.hko.gov.hk/en/education/weather/clouds/00468-mountain-wave-clouds.html)  
+   Link: <a href="https://www.hko.gov.hk/en/education/weather/clouds/00468-mountain-wave-clouds.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hko.gov.hk/en/education/weather/clouds/00468-mountain-wave-clouds.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hong Kong ObservatoryMountain Wave Clouds19 Jul 2022 — Under stable atmospheric condition, the air after passing through the mountain top...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: scied.ucar.edu  
    Title: Center for Science Education Lenticular Clouds  
-   Link: [https://scied.ucar.edu/image/lenticular-clouds](https://scied.ucar.edu/image/lenticular-clouds)  
+   Link: <a href="https://scied.ucar.edu/image/lenticular-clouds" target="_blank" rel="noopener noreferrer nofollow">https://scied.ucar.edu/image/lenticular-clouds</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Clouds - UCAR Center for Science EducationLenticular, or lee wave, clouds form downwind of an obstacle in the path of a strong air curren...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: thesun.co.uk  
-   Link: [https://www.thesun.co.uk/tech/31236444/ufo-cloud-taieri-pet-new-zealand-nasa-satellite-image/](https://www.thesun.co.uk/tech/31236444/ufo-cloud-taieri-pet-new-zealand-nasa-satellite-image/)  
+   Link: <a href="https://www.thesun.co.uk/tech/31236444/ufo-cloud-taieri-pet-new-zealand-nasa-satellite-image/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/tech/31236444/ufo-cloud-taieri-pet-new-zealand-nasa-satellite-image/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The phenomenon, captured by a NASA satellite in September and last seen by an Air New Zealand pilot in 2020, is an elongated altocumulus...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: dailyrecord.co.uk  
    Title: baffled scots spot ufo shaped 26514073  
-   Link: [https://www.dailyrecord.co.uk/news/scottish-news/baffled-scots-spot-ufo-shaped-26514073](https://www.dailyrecord.co.uk/news/scottish-news/baffled-scots-spot-ufo-shaped-26514073)  
+   Link: <a href="https://www.dailyrecord.co.uk/news/scottish-news/baffled-scots-spot-ufo-shaped-26514073" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/news/scottish-news/baffled-scots-spot-ufo-shaped-26514073</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The orb-shaped clouds were visible across the...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Lenticular cloud  
-   Link: [https://en.wikipedia.org/wiki/Lenticular_cloud](https://en.wikipedia.org/wiki/Lenticular_cloud)  
+   Link: <a href="https://en.wikipedia.org/wiki/Lenticular_cloud" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lenticular_cloud</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lenticular cloudLenticular clouds are stationary clouds that form mostly in the troposphere, typically in parallel alignment to the wi...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: discovermagazine.com  
-   Link: [https://www.discovermagazine.com/look-up-in-the-sky-its-a-flying-pancake-its-a-flying-saucer-no-its-a-lenticular-cloud-over-flagstaff-34404](https://www.discovermagazine.com/look-up-in-the-sky-its-a-flying-pancake-its-a-flying-saucer-no-its-a-lenticular-cloud-over-flagstaff-34404)  
+   Link: <a href="https://www.discovermagazine.com/look-up-in-the-sky-its-a-flying-pancake-its-a-flying-saucer-no-its-a-lenticular-cloud-over-flagstaff-34404" target="_blank" rel="noopener noreferrer nofollow">https://www.discovermagazine.com/look-up-in-the-sky-its-a-flying-pancake-its-a-flying-saucer-no-its-a-lenticular-cloud-over-flagstaff-34404</a>  
 
 21. <a id="endnote-21"></a>
    Source: skybrary.aero  
    Title: Mountain Waves | SKYbrary Aviation Safety Cloud Formation  
-   Link: [https://skybrary.aero/articles/mountain-waves](https://skybrary.aero/articles/mountain-waves)  
+   Link: <a href="https://skybrary.aero/articles/mountain-waves" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/mountain-waves</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lenticular Clouds (lens shaped clouds) can form in the crest of the mountain waves if the air is moist. Roll Clouds can also occur in the...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: rebeccalexa.com  
    Title: what causes lenticular clouds  
-   Link: [https://rebeccalexa.com/what-causes-lenticular-clouds/](https://rebeccalexa.com/what-causes-lenticular-clouds/)  
+   Link: <a href="https://rebeccalexa.com/what-causes-lenticular-clouds/" target="_blank" rel="noopener noreferrer nofollow">https://rebeccalexa.com/what-causes-lenticular-clouds/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>?Oct 26, 2021 — If the air is stable and fast moving, this causes it to ripple, and if there&#x27;s enough humidity for clouds to form within...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: ghostarchive.org  
    Title: Lenticular clouds  
-   Link: [https://ghostarchive.org/archive/N4HKO](https://ghostarchive.org/archive/N4HKO)  
+   Link: <a href="https://ghostarchive.org/archive/N4HKO" target="_blank" rel="noopener noreferrer nofollow">https://ghostarchive.org/archive/N4HKO</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Met Office17 Feb 2023 —... lenticular clouds are believed to be one of the most common explanations for UFO sightings across the world...</p></details>
 
 ### Additional References
 
 24. <a id="endnote-24"></a>
    Source: premierflightct.com  
-   Link: [https://www.premierflightct.com/newsletters/TrainingArticles/StandingLenticularClouds.html](https://www.premierflightct.com/newsletters/TrainingArticles/StandingLenticularClouds.html)  
+   Link: <a href="https://www.premierflightct.com/newsletters/TrainingArticles/StandingLenticularClouds.html" target="_blank" rel="noopener noreferrer nofollow">https://www.premierflightct.com/newsletters/TrainingArticles/StandingLenticularClouds.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Standing Lenticular CloudsStanding lenticular clouds form in the crests of the mountain wave where the rising updraft of the wave has coo...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: x.com  
-   Link: [https://x.com/Daily_Record/status/1768307457271509191](https://x.com/Daily_Record/status/1768307457271509191)  
+   Link: <a href="https://x.com/Daily_Record/status/1768307457271509191" target="_blank" rel="noopener noreferrer nofollow">https://x.com/Daily_Record/status/1768307457271509191</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>X (formerly Twitter)Met Office explains &#x27;UFO shaped clouds&#x27; spotted across...The Daily Record (@Daily_Record). Met Office explains &#x27;UFO...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: gibbs.science  
-   Link: [https://gibbs.science/teaching/mesoscale/handouts/lecture_notes_03.pdf](https://gibbs.science/teaching/mesoscale/handouts/lecture_notes_03.pdf)  
+   Link: <a href="https://gibbs.science/teaching/mesoscale/handouts/lecture_notes_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gibbs.science/teaching/mesoscale/handouts/lecture_notes_03.pdf</a>  
 
 27. <a id="endnote-27"></a>
    Source: mountwashington.org  
-   Link: [https://mountwashington.org/a-closer-look-at-lenticular-clouds/](https://mountwashington.org/a-closer-look-at-lenticular-clouds/)  
+   Link: <a href="https://mountwashington.org/a-closer-look-at-lenticular-clouds/" target="_blank" rel="noopener noreferrer nofollow">https://mountwashington.org/a-closer-look-at-lenticular-clouds/</a>  
 
 28. <a id="endnote-28"></a>
    Source: journals.ametsoc.org  
    Title: Furthermore, we suggest that the lenticular clouds may not be formed in all wave  
-   Link: [https://journals.ametsoc.org/view/journals/mwre/145/1/mwr-d-16-0031.1.xml](https://journals.ametsoc.org/view/journals/mwre/145/1/mwr-d-16-0031.1.xml)  
+   Link: <a href="https://journals.ametsoc.org/view/journals/mwre/145/1/mwr-d-16-0031.1.xml" target="_blank" rel="noopener noreferrer nofollow">https://journals.ametsoc.org/view/journals/mwre/145/1/mwr-d-16-0031.1.xml</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteorological Society JournalsA Modeling Study of a Trapped Lee-Wave Event over the...by M Udina · 2017 · Cited by 24 — Althou...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=KgO7Kyq3q-U](https://www.youtube.com/watch?v=KgO7Kyq3q-U)  
+   Link: <a href="https://www.youtube.com/watch?v=KgO7Kyq3q-U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KgO7Kyq3q-U</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lenticular CloudsLenticular clouds are also known as lenticularis because they are shaped like a lens. They are common over mountains whe...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/flying/comments/i9n4a0/what_is_happening_inside_the_lenticular_clouds/](https://www.reddit.com/r/flying/comments/i9n4a0/what_is_happening_inside_the_lenticular_clouds/)  
+   Link: <a href="https://www.reddit.com/r/flying/comments/i9n4a0/what_is_happening_inside_the_lenticular_clouds/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/flying/comments/i9n4a0/what_is_happening_inside_the_lenticular_clouds/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The stable air is forced up and over the mountains, causing it to condense into a...Read more...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: space.com  
    Title: flying saucer cloud gemini observatory photo  
-   Link: [https://www.space.com/flying-saucer-cloud-gemini-observatory-photo](https://www.space.com/flying-saucer-cloud-gemini-observatory-photo)  
+   Link: <a href="https://www.space.com/flying-saucer-cloud-gemini-observatory-photo" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/flying-saucer-cloud-gemini-observatory-photo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Flying saucer-shaped cloud floats above Hawaiian...14 Aug 2022 — Lenticular clouds, sometimes called &quot;UFO clouds,&quot; form when fast winds...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: journals.ametsoc.org  
    Title: 1520 0469 1997 054 1308 osaaon 2.0.co 2.xml  
-   Link: [https://journals.ametsoc.org/view/journals/atsc/54/10/1520-0469_1997_054_1308_osaaon_2.0.co_2.xml](https://journals.ametsoc.org/view/journals/atsc/54/10/1520-0469_1997_054_1308_osaaon_2.0.co_2.xml)  
+   Link: <a href="https://journals.ametsoc.org/view/journals/atsc/54/10/1520-0469_1997_054_1308_osaaon_2.0.co_2.xml" target="_blank" rel="noopener noreferrer nofollow">https://journals.ametsoc.org/view/journals/atsc/54/10/1520-0469_1997_054_1308_osaaon_2.0.co_2.xml</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ametsoc.orgObservations, Simulations, and Analysis of Nonstationary...by FM Ralph · 1997 · Cited by 120 — At a lower altitude (near 3.7...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: africacheck.org  
-   Link: [https://africacheck.org/fact-checks/meta-programme-fact-checks/lenticular-clouds-over-cape-town-real-photo-5-years-old](https://africacheck.org/fact-checks/meta-programme-fact-checks/lenticular-clouds-over-cape-town-real-photo-5-years-old)  
+   Link: <a href="https://africacheck.org/fact-checks/meta-programme-fact-checks/lenticular-clouds-over-cape-town-real-photo-5-years-old" target="_blank" rel="noopener noreferrer nofollow">https://africacheck.org/fact-checks/meta-programme-fact-checks/lenticular-clouds-over-cape-town-real-photo-5-years-old</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Lenticular clouds&#x27; over Cape Town real, but photo 5 years...21 Aug 2020 — And the Met Office says that [pilots](&amp;#123;&amp;#123; &#x27;pilots/&#x27; | relative_url &amp;#125;&amp;#125;) tend to avoid lenticular...</p></details>

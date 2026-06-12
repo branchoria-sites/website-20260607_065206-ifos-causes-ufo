@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_delayed_aircraft_sou_3c6540
 - ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_landing_lights_final_d358b9
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - head-on-planes
 - constant-bearing
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - head-on-planes
 - constant-bearing
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: When an approaching aircraft keeps nearly the same bearing, it can seem stationary even while its range is shrinking.
 hero_summary: When an approaching aircraft keeps nearly the same bearing, it can seem stationary even while its range is shrinking.
 layout: default
 permalink: /constant-bearing/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /a-head-on-aircraft-can-look-like-a/
 nav_short_title: Constant bearing
 title: The geometry behind the hovering light illusion
-title_full: The geometry behind the hovering light illusion | A Head On Aircraft Can Look Like A Stationary Light...
+title_full: The geometry behind the hovering light illusion
 display_title_short: Constant bearing
 display_title: Constant bearing
 heading_title: The geometry behind the hovering light illusion
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 21:40:38'
-parent_title: The Stationary Light That Is Moving | IFOs
+parent_title: The Stationary Light That Is Moving
 parent_permalink: /a-head-on-aircraft-can-look-like-a/
 parent_nav_short_title: A Head On Aircraft Can Look Like A Stationary Light...
 parent_heading_title: The Stationary Light That Is Moving
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d
-  title: A Head On Aircraft Can Look Like A Stationary Light... | Ifos Causes Of
+  title: A Head On Aircraft Can Look Like A Stationary Light... | ifos causes of UFO 3 ed 238
   permalink: /a-head-on-aircraft-can-look-like-a/
   short_title: A Head On Aircraft Can Look Like A Stationary Light...
   heading_title: The Stationary Light That Is Moving
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d
-  title: A Head On Aircraft Can Look Like A Stationary Light... | Ifos Causes Of
+  title: A Head On Aircraft Can Look Like A Stationary Light... | ifos causes of UFO 3 ed 238
   permalink: /a-head-on-aircraft-can-look-like-a/
   short_title: A Head On Aircraft Can Look Like A Stationary Light...
   heading_title: The Stationary Light That Is Moving
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: When a white orb turns into an aircraft
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d
-  title: A Head On Aircraft Can Look Like A Stationary Light... | Ifos Causes Of
+  title: A Head On Aircraft Can Look Like A Stationary Light... | ifos causes of UFO 3 ed 238
   permalink: /a-head-on-aircraft-can-look-like-a/
   short_title: A Head On Aircraft Can Look Like A Stationary Light...
   heading_title: The Stationary Light That Is Moving
@@ -266,6 +265,7 @@ next_link:
   permalink: /delayed-sound/
   short_title: Delayed sound
   heading_title: Why the silent UFO later sounds like a plane
+date: '2026-06-12 00:37:06 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_constant_bearing_ill_d4dad4-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_constant_bearing_ill_d4dad4-Illustration-1.webp
@@ -275,7 +275,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_consta
 ## Introduction
 
 A surprisingly common cause of UFO reports is an aircraft approaching almost directly towards the observer. In this geometry, the aircraft can appear to hover in one spot for minutes even while covering many kilometres. The effect is known in navigation and collision studies as **constant bearing, decreasing [range]({{ 'range/' | relative_url }})**: the direction to the object changes very little while the distance steadily shrinks. To a skywatcher, the result can be a bright light that seems fixed against the stars, only revealing its true nature much later when it grows larger, changes angle, or passes overhead. Aviation safety research has long recognised this geometry because it creates detection problems for [pilots]({{ 'pilots/' | relative_url }}) as well as perceptual confusion for observers on the ground. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.visualexpert.com/Resources/crashcourse.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visualexpert.com">[visualexpert.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visualexpert.com</span><span class="citation-popover-snippet">A Crash Course In Collisions: The CBDR Rule - Marc GreenIn both cases, the bearing angle remains constant and there is no significant ret...</span></span></span>
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_constant_bearing_ill_d4dad4-Illustration-1-dark.svg" | relative_url }}" alt="Constant bearing illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_constant_bearing_ill_d4dad4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_constant_bearing_ill_d4dad4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What constant bearing means for a skywatcher
@@ -288,17 +287,15 @@ This geometry is well known in aviation and maritime collision analysis. Researc
 
 For UFO witnesses, that means a bright object can appear unnaturally stationary even though it is travelling at normal aircraft speeds. The visual impression is often strengthened when the aircraft is distant enough that its structure cannot yet be resolved and only its lights are visible.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zDbmBM9YG_0" title="APPROACH LIGHTING SYSTEM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zDbmBM9YG_0" target="_blank" rel="noopener noreferrer">APPROACH LIGHTING SYSTEM</a></p><p class="youtube-embed-meta">Channel: AVIATION &amp; AIR TRAFFIC CONTROL &middot; Views: 17.4K &middot; Uploaded: November 2022 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zDbmBM9YG_0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zDbmBM9YG_0">Open on YouTube</a></p></div></div></div>
 
 ## Why little sideways motion fools the eye
 
 Human vision is exceptionally good at detecting movement across a scene. It is much less effective at judging motion directly towards or away from the observer.
 
-Aviation researchers studying mid-air collision risks have repeatedly noted that an aircraft on a collision course can appear small, motionless and inconspicuous until shortly before impact because its relative bearing remains constant. In other words, the lack of lateral movement deprives observers of one of their strongest motion cues. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/15828635/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedlimitations of the see-and-avoid concept in civil aviationby CC Morris · 2005 · Cited by 57 — Because the relative bearing to each...</span></span></span>
+Aviation researchers studying mid-air collision risks have repeatedly noted that an aircraft on a collision course can appear small, motionless and inconspicuous until shortly before impact because its relative bearing remains constant. In other words, the lack of lateral movement deprives observers of one of their strongest motion cues. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/15828635/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">limitations of the see-and-avoid concept in civil aviationby CC Morris · 2005 · Cited by 57 — Because the relative bearing to each...</span></span></span>
 
 For someone watching the night sky, several factors amplify the effect:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -309,27 +306,24 @@ For someone watching the night sky, several factors amplify the effect:
 
 </div>
 
-The same underlying geometry that concerns collision-avoidance specialists can therefore generate reports of hovering or stationary unidentified lights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/15828635/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedlimitations of the see-and-avoid concept in civil aviationby CC Morris · 2005 · Cited by 57 — Because the relative bearing to each...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rnsa.is/media/1931/midair-collisions.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rnsa.is">[2rnsa.is]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rnsa.is</span><span class="citation-popover-snippet">Mid-Air CollisionsThe pilots of two aircraft flying at a constant speed and altitude and having convergent trajectories will each see the...</span></span></span>
-
+The same underlying geometry that concerns collision-avoidance specialists can therefore generate reports of hovering or stationary unidentified lights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/15828635/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">limitations of the see-and-avoid concept in civil aviationby CC Morris · 2005 · Cited by 57 — Because the relative bearing to each...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rnsa.is/media/1931/midair-collisions.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rnsa.is">[2rnsa.is]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rnsa.is</span><span class="citation-popover-snippet">Mid-Air CollisionsThe pilots of two aircraft flying at a constant speed and altitude and having convergent trajectories will each see the...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_constant_bearing_ill_d4dad4-Illustration-2-dark.svg" | relative_url }}" alt="Constant bearing illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_constant_bearing_ill_d4dad4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_constant_bearing_ill_d4dad4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Why bright landing lights make the effect stronger
 
-Many head-on sightings involve aircraft using [landing lights]({{ 'landing-lights/' | relative_url }}) or other forward-facing lights. These lights are designed to maximise visibility from the front, particularly near airports and in areas of heavy traffic. FAA guidance encourages their use to improve the effectiveness of the "see and avoid" principle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aeroleds.com/blogs/news/faa-encourages-the-use-of-landing-lights-for-increased-visibility?srsltid=AfmBOook3NOaVHSTh_MjvDYsP9F8ek5-wJgtF4AF8p7OTvmNtqtB_9OU" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeroleds.com">[AeroLEDs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeroleds.com</span><span class="citation-popover-title">faa encourages the use of landing lights for increased visibility</span><span class="citation-popover-snippet">AeroLEDsFAA Encourages The Use Of Landing Lights For Increased...12 Dec 2020 — To enhance the “see and avoid” concept, the FAA encourage...</span></span></span>
+Many head-on sightings involve aircraft using [landing lights]({{ 'landing-lights/' | relative_url }}) or other forward-facing lights. These lights are designed to maximise visibility from the front, particularly near airports and in areas of heavy traffic. FAA guidance encourages their use to improve the effectiveness of the "see and avoid" principle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aeroleds.com/blogs/news/faa-encourages-the-use-of-landing-lights-for-increased-visibility?srsltid=AfmBOook3NOaVHSTh_MjvDYsP9F8ek5-wJgtF4AF8p7OTvmNtqtB_9OU" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeroleds.com">[AeroLEDs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeroleds.com</span><span class="citation-popover-title">faa encourages the use of landing lights for increased visibility</span><span class="citation-popover-snippet">FAA Encourages The Use Of Landing Lights For Increased...12 Dec 2020 — To enhance the “see and avoid” concept, the FAA encourage...</span></span></span>
 
-Landing lights are typically intense, narrow-beam white lights aimed forward. When viewed close to their beam axis, they can dominate the observer's perception while the aircraft itself remains invisible. A skywatcher may therefore see a brilliant white light with no obvious wings, fuselage or navigation lights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aerosavvy.com/airplane-lights/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerosavvy.com">[AeroSavvy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerosavvy.com</span><span class="citation-popover-snippet">AeroSavvySavvy Passenger Guide to Airplane LightsLanding lights are the largest, brightest lights on an aircraft. They are typically moun...</span></span></span>
+Landing lights are typically intense, narrow-beam white lights aimed forward. When viewed close to their beam axis, they can dominate the observer's perception while the aircraft itself remains invisible. A skywatcher may therefore see a brilliant white light with no obvious wings, fuselage or navigation lights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aerosavvy.com/airplane-lights/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerosavvy.com">[AeroSavvy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerosavvy.com</span><span class="citation-popover-snippet">Savvy Passenger Guide to Airplane LightsLanding lights are the largest, brightest lights on an aircraft. They are typically moun...</span></span></span>
 
 The combination of constant bearing and a bright forward-facing light is particularly effective at producing the impression of a hovering luminous object.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iM3oNcQx_uU" title="Mid-Air Collision Analysis: Why 3 Expert Pilots Couldn&#x27;t See It" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iM3oNcQx_uU" target="_blank" rel="noopener noreferrer">Mid-Air Collision Analysis: Why 3 Expert Pilots Couldn&#x27;t See It</a></p><p class="youtube-embed-meta">Channel: FLY8MA.com Flight Training &middot; Views: 391.4K &middot; Uploaded: March 2018 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iM3oNcQx_uU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iM3oNcQx_uU">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oDGqi1Z9tNw" title="Why Airplanes Can “Freeze” in the Sky 😳 #shorts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oDGqi1Z9tNw" target="_blank" rel="noopener noreferrer">Why Airplanes Can “Freeze” in the Sky 😳 #shorts</a></p><p class="youtube-embed-meta">Channel: Sean Andrew &middot; Views: 18.6M &middot; Uploaded: March 2025 &middot; Length: 41 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oDGqi1Z9tNw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oDGqi1Z9tNw">Open on YouTube</a></p></div></div></div>
 
 ## How the illusion breaks near the end
 
 The illusion rarely lasts indefinitely. As the aircraft closes the remaining distance, visual cues begin to accumulate.
 
 Several changes commonly occur:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -345,15 +339,13 @@ This transition often feels abrupt to witnesses. An object that appeared station
 
 Collision-avoidance studies describe a related effect in which an object remains visually static for much of the encounter and only produces substantial apparent movement near the final stages. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.visualexpert.com/Resources/crashcourse.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visualexpert.com">[visualexpert.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visualexpert.com</span><span class="citation-popover-snippet">A Crash Course In Collisions: The CBDR Rule - Marc GreenIn both cases, the bearing angle remains constant and there is no significant ret...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-lRe1HmtuqM" title="Visual Aids Part 2 - Airport lighting. Approach Lights, Runway lights, taxiway and apron lights" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-lRe1HmtuqM" target="_blank" rel="noopener noreferrer">Visual Aids Part 2 - Airport lighting. Approach Lights, Runway lights, taxiway and apron lights</a></p><p class="youtube-embed-meta">Channel: Transportation Engg Talks | Satish IITR &middot; Views: 1.2K &middot; Uploaded: October 2025 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-lRe1HmtuqM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-lRe1HmtuqM">Open on YouTube</a></p></div></div></div>
 
 ## Why this explanation fits many UFO reports
 
-The constant-bearing explanation is supported by well-understood geometry rather than speculation. It is consistent with decades of aviation safety research showing that approaching aircraft can appear motionless when their bearing remains unchanged. Researchers studying mid-air collisions have specifically highlighted the tendency of collision-course aircraft to seem stationary until very late in an encounter. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/15828635/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedlimitations of the see-and-avoid concept in civil aviationby CC Morris · 2005 · Cited by 57 — Because the relative bearing to each...</span></span></span>
+The constant-bearing explanation is supported by well-understood geometry rather than speculation. It is consistent with decades of aviation safety research showing that approaching aircraft can appear motionless when their bearing remains unchanged. Researchers studying mid-air collisions have specifically highlighted the tendency of collision-course aircraft to seem stationary until very late in an encounter. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/15828635/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">limitations of the see-and-avoid concept in civil aviationby CC Morris · 2005 · Cited by 57 — Because the relative bearing to each...</span></span></span>
 
 In UFO reporting, the same mechanism helps explain recurring descriptions such as:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -365,8 +357,7 @@ In UFO reporting, the same mechanism helps explain recurring descriptions such a
 
 </div>
 
-The key point is that the appearance of hovering does not necessarily imply that an object is actually stationary. Under constant-bearing geometry, a normally operating aircraft can create exactly that impression, making this one of the most important mechanisms behind reports of apparently motionless lights in the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.visualexpert.com/Resources/crashcourse.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visualexpert.com">[visualexpert.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visualexpert.com</span><span class="citation-popover-snippet">A Crash Course In Collisions: The CBDR Rule - Marc GreenIn both cases, the bearing angle remains constant and there is no significant ret...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/15828635/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedlimitations of the see-and-avoid concept in civil aviationby CC Morris · 2005 · Cited by 57 — Because the relative bearing to each...</span></span></span>
-
+The key point is that the appearance of hovering does not necessarily imply that an object is actually stationary. Under constant-bearing geometry, a normally operating aircraft can create exactly that impression, making this one of the most important mechanisms behind reports of apparently motionless lights in the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.visualexpert.com/Resources/crashcourse.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visualexpert.com">[visualexpert.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visualexpert.com</span><span class="citation-popover-snippet">A Crash Course In Collisions: The CBDR Rule - Marc GreenIn both cases, the bearing angle remains constant and there is no significant ret...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/15828635/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">limitations of the see-and-avoid concept in civil aviationby CC Morris · 2005 · Cited by 57 — Because the relative bearing to each...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_constant_bearing_ill_d4dad4-Illustration-3-dark.svg" | relative_url }}" alt="Constant bearing illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_constant_bearing_ill_d4dad4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_constant_bearing_ill_d4dad4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -487,15 +478,15 @@ The key point is that the appearance of hovering does not necessarily imply that
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=constant-bearing-the-geometry-behind-the-hovering-light-illusion-ifos-causes-of-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation patch" data-ebay-reference="constant-bearing-the-geometry-behind-the-hovering-light-illusion-ifos-causes-of-aviation-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Boeing Airplane Aviation Embroidered Badge Patch Iron sew on dress jacket jeans"><img src="{{ '/assets/images/marketplace-covers/209151352f476b343764.jpg' | relative_url }}" alt="Listing image for Boeing Airplane Aviation Embroidered Badge Patch Iron sew on dress jacket jeans" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-geometry-behind-the-hovering-light-illusion-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="the-geometry-behind-the-hovering-light-illusion-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CS90636 British Airways Concorde Diecast Model - A Must-Have for Aviation Fans"><img src="https://i.ebayimg.com/images/g/io0AAeSwGgJqCyYR/s-l225.jpg" alt="Listing image for CS90636 British Airways Concorde Diecast Model - A Must-Have for Aviation Fans" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=constant-bearing-the-geometry-behind-the-hovering-light-illusion-ifos-causes-of-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation patch" data-ebay-reference="constant-bearing-the-geometry-behind-the-hovering-light-illusion-ifos-causes-of-aviation-patch" target="_blank" rel="sponsored noopener noreferrer">Boeing Airplane Aviation Embroidered Badge Patch Iron sew on dress jacket jeans</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-geometry-behind-the-hovering-light-illusion-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="the-geometry-behind-the-hovering-light-illusion-airplane-model" target="_blank" rel="sponsored noopener noreferrer">CS90636 British Airways Concorde Diecast Model - A Must-Have for Aviation Fans</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=constant-bearing-the-geometry-behind-the-hovering-light-illusion-ifos-causes-of-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation patch" data-ebay-reference="constant-bearing-the-geometry-behind-the-hovering-light-illusion-ifos-causes-of-aviation-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-geometry-behind-the-hovering-light-illusion-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="the-geometry-behind-the-hovering-light-illusion-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=constant-bearing-the-geometry-behind-the-hovering-light-illusion-ifos-causes-of-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation patch" data-ebay-reference="constant-bearing-the-geometry-behind-the-hovering-light-illusion-ifos-causes-of-aviation-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-geometry-behind-the-hovering-light-illusion-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="the-geometry-behind-the-hovering-light-illusion-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -503,15 +494,15 @@ The key point is that the appearance of hovering does not necessarily imply that
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=constant-bearing-the-geometry-behind-the-hovering-light-illusion-ifos-causes-of-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation patch" data-ebay-reference="constant-bearing-the-geometry-behind-the-hovering-light-illusion-ifos-causes-of-aviation-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for British Phantom Aviation Group F-4 Phantoms at Cotswold Airport Patch Collection"><img src="{{ '/assets/images/marketplace-covers/7b17d8a5b93a83df12ca.jpg' | relative_url }}" alt="Listing image for British Phantom Aviation Group F-4 Phantoms at Cotswold Airport Patch Collection" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-geometry-behind-the-hovering-light-illusion-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="the-geometry-behind-the-hovering-light-illusion-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TUI Boeing 787 Single Die Cast Toy Plane - Daron RT4300"><img src="https://i.ebayimg.com/images/g/I0YAAOSwnDdncsku/s-l225.jpg" alt="Listing image for TUI Boeing 787 Single Die Cast Toy Plane - Daron RT4300" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=constant-bearing-the-geometry-behind-the-hovering-light-illusion-ifos-causes-of-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation patch" data-ebay-reference="constant-bearing-the-geometry-behind-the-hovering-light-illusion-ifos-causes-of-aviation-patch" target="_blank" rel="sponsored noopener noreferrer">British Phantom Aviation Group F-4 Phantoms at Cotswold Airport Patch Collection</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-geometry-behind-the-hovering-light-illusion-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="the-geometry-behind-the-hovering-light-illusion-airplane-model" target="_blank" rel="sponsored noopener noreferrer">TUI Boeing 787 Single Die Cast Toy Plane - Daron RT4300</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=constant-bearing-the-geometry-behind-the-hovering-light-illusion-ifos-causes-of-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation patch" data-ebay-reference="constant-bearing-the-geometry-behind-the-hovering-light-illusion-ifos-causes-of-aviation-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-geometry-behind-the-hovering-light-illusion-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="the-geometry-behind-the-hovering-light-illusion-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=constant-bearing-the-geometry-behind-the-hovering-light-illusion-ifos-causes-of-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation patch" data-ebay-reference="constant-bearing-the-geometry-behind-the-hovering-light-illusion-ifos-causes-of-aviation-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-geometry-behind-the-hovering-light-illusion-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="the-geometry-behind-the-hovering-light-illusion-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -519,15 +510,15 @@ The key point is that the appearance of hovering does not necessarily imply that
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=constant-bearing-the-geometry-behind-the-hovering-light-illusion-ifos-causes-of-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation patch" data-ebay-reference="constant-bearing-the-geometry-behind-the-hovering-light-illusion-ifos-causes-of-aviation-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Boeing Airplane Aviation Embroidered Badge Patch Iron sew on dress jacket jeans"><img src="{{ '/assets/images/marketplace-covers/8c075c22c171fb6aacfa.jpg' | relative_url }}" alt="Listing image for Boeing Airplane Aviation Embroidered Badge Patch Iron sew on dress jacket jeans" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-geometry-behind-the-hovering-light-illusion-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="the-geometry-behind-the-hovering-light-illusion-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 16Cm Model For Federal Express A380 1:400 Aircraft Metal Airplane Model Plane"><img src="https://i.ebayimg.com/images/g/gv4AAeSwsvpqIqf~/s-l225.jpg" alt="Listing image for 16Cm Model For Federal Express A380 1:400 Aircraft Metal Airplane Model Plane" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=constant-bearing-the-geometry-behind-the-hovering-light-illusion-ifos-causes-of-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation patch" data-ebay-reference="constant-bearing-the-geometry-behind-the-hovering-light-illusion-ifos-causes-of-aviation-patch" target="_blank" rel="sponsored noopener noreferrer">Boeing Airplane Aviation Embroidered Badge Patch Iron sew on dress jacket jeans</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-geometry-behind-the-hovering-light-illusion-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="the-geometry-behind-the-hovering-light-illusion-airplane-model" target="_blank" rel="sponsored noopener noreferrer">16Cm Model For Federal Express A380 1:400 Aircraft Metal Airplane Model Plane</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=constant-bearing-the-geometry-behind-the-hovering-light-illusion-ifos-causes-of-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation patch" data-ebay-reference="constant-bearing-the-geometry-behind-the-hovering-light-illusion-ifos-causes-of-aviation-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-geometry-behind-the-hovering-light-illusion-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="the-geometry-behind-the-hovering-light-illusion-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=constant-bearing-the-geometry-behind-the-hovering-light-illusion-ifos-causes-of-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation patch" data-ebay-reference="constant-bearing-the-geometry-behind-the-hovering-light-illusion-ifos-causes-of-aviation-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-geometry-behind-the-hovering-light-illusion-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="the-geometry-behind-the-hovering-light-illusion-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -535,15 +526,15 @@ The key point is that the appearance of hovering does not necessarily imply that
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=constant-bearing-the-geometry-behind-the-hovering-light-illusion-ifos-causes-of-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation patch" data-ebay-reference="constant-bearing-the-geometry-behind-the-hovering-light-illusion-ifos-causes-of-aviation-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Collection Of Aviation Patches and United States Military TwoSided ChallengeCoin"><img src="{{ '/assets/images/marketplace-covers/776ec85f002771931984.jpg' | relative_url }}" alt="Listing image for Collection Of Aviation Patches and United States Military TwoSided ChallengeCoin" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-geometry-behind-the-hovering-light-illusion-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="the-geometry-behind-the-hovering-light-illusion-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for EasyJet Airbus A320Neo Snap-fit Model Plane 1/200 Model Plane"><img src="https://i.ebayimg.com/images/g/~UYAAeSw9HVoXoJJ/s-l225.jpg" alt="Listing image for EasyJet Airbus A320Neo Snap-fit Model Plane 1/200 Model Plane" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=constant-bearing-the-geometry-behind-the-hovering-light-illusion-ifos-causes-of-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation patch" data-ebay-reference="constant-bearing-the-geometry-behind-the-hovering-light-illusion-ifos-causes-of-aviation-patch" target="_blank" rel="sponsored noopener noreferrer">Collection Of Aviation Patches and United States Military TwoSided ChallengeCoin</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-geometry-behind-the-hovering-light-illusion-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="the-geometry-behind-the-hovering-light-illusion-airplane-model" target="_blank" rel="sponsored noopener noreferrer">EasyJet Airbus A320Neo Snap-fit Model Plane 1/200 Model Plane</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=constant-bearing-the-geometry-behind-the-hovering-light-illusion-ifos-causes-of-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation patch" data-ebay-reference="constant-bearing-the-geometry-behind-the-hovering-light-illusion-ifos-causes-of-aviation-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-geometry-behind-the-hovering-light-illusion-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="the-geometry-behind-the-hovering-light-illusion-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=constant-bearing-the-geometry-behind-the-hovering-light-illusion-ifos-causes-of-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation patch" data-ebay-reference="constant-bearing-the-geometry-behind-the-hovering-light-illusion-ifos-causes-of-aviation-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-geometry-behind-the-hovering-light-illusion-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="the-geometry-behind-the-hovering-light-illusion-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -551,7 +542,7 @@ The key point is that the appearance of hovering does not necessarily imply that
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=constant-bearing-the-geometry-behind-the-hovering-light-illusion-ifos-causes-of-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation patch" data-ebay-reference="constant-bearing-the-geometry-behind-the-hovering-light-illusion-ifos-causes-of-aviation-patch" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-geometry-behind-the-hovering-light-illusion-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="the-geometry-behind-the-hovering-light-illusion-airplane-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -766,92 +757,92 @@ The key point is that the appearance of hovering does not necessarily imply that
 
 1. <a id="endnote-1"></a>
    Source: visualexpert.com  
-   Link: [https://www.visualexpert.com/Resources/crashcourse.html](https://www.visualexpert.com/Resources/crashcourse.html)  
+   Link: <a href="https://www.visualexpert.com/Resources/crashcourse.html" target="_blank" rel="noopener noreferrer nofollow">https://www.visualexpert.com/Resources/crashcourse.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Crash Course In Collisions: The CBDR Rule - Marc GreenIn both cases, the bearing angle remains constant and there is no significant ret...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: rnsa.is  
-   Link: [https://www.rnsa.is/media/1931/midair-collisions.pdf](https://www.rnsa.is/media/1931/midair-collisions.pdf)  
+   Link: <a href="https://www.rnsa.is/media/1931/midair-collisions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rnsa.is/media/1931/midair-collisions.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mid-Air CollisionsThe pilots of two aircraft flying at a constant speed and altitude and having convergent [trajectories](&amp;#123;&amp;#123; &#x27;trajectories/&#x27; | relative_url &amp;#125;&amp;#125;) will each see the...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: aeroleds.com  
    Title: faa encourages the use of landing lights for increased visibility  
-   Link: [https://aeroleds.com/blogs/news/faa-encourages-the-use-of-landing-lights-for-increased-visibility?srsltid=AfmBOook3NOaVHSTh_MjvDYsP9F8ek5-wJgtF4AF8p7OTvmNtqtB_9OU](https://aeroleds.com/blogs/news/faa-encourages-the-use-of-landing-lights-for-increased-visibility?srsltid=AfmBOook3NOaVHSTh_MjvDYsP9F8ek5-wJgtF4AF8p7OTvmNtqtB_9OU)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AeroLEDsFAA Encourages The Use Of Landing Lights For Increased...12 Dec 2020 — To enhance the “see and avoid” concept, the FAA encourage...</p></details>
+   Link: <a href="https://aeroleds.com/blogs/news/faa-encourages-the-use-of-landing-lights-for-increased-visibility?srsltid=AfmBOook3NOaVHSTh_MjvDYsP9F8ek5-wJgtF4AF8p7OTvmNtqtB_9OU" target="_blank" rel="noopener noreferrer nofollow">https://aeroleds.com/blogs/news/faa-encourages-the-use-of-landing-lights-for-increased-visibility?srsltid=AfmBOook3NOaVHSTh_MjvDYsP9F8ek5-wJgtF4AF8p7OTvmNtqtB_9OU</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>FAA Encourages The Use Of Landing Lights For Increased...12 Dec 2020 — To enhance the “see and avoid” concept, the FAA encourage...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: aerosavvy.com  
-   Link: [https://aerosavvy.com/airplane-lights/](https://aerosavvy.com/airplane-lights/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AeroSavvySavvy Passenger Guide to Airplane LightsLanding lights are the largest, brightest lights on an aircraft. They are typically moun...</p></details>
+   Link: <a href="https://aerosavvy.com/airplane-lights/" target="_blank" rel="noopener noreferrer nofollow">https://aerosavvy.com/airplane-lights/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Savvy Passenger Guide to Airplane LightsLanding lights are the largest, brightest lights on an aircraft. They are typically moun...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf)  
+   Link: <a href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>der certain conditions, approach lights can make the aircraft...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: faa.gov  
    Title: Chapter 2  
-   Link: [https://www.faa.gov/Air_traffic/publications/atpubs/aim_html/chap2_section_1.html](https://www.faa.gov/Air_traffic/publications/atpubs/aim_html/chap2_section_1.html)  
+   Link: <a href="https://www.faa.gov/Air_traffic/publications/atpubs/aim_html/chap2_section_1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/Air_traffic/publications/atpubs/aim_html/chap2_section_1.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aeronautical Lighting and Other Airport Visual...The lights marking the ends of the runway emit red light toward the runway to indicate...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/documentlibrary/media/advisory_circular/ac_90-48d_chg_1.pdf](https://www.faa.gov/documentlibrary/media/advisory_circular/ac_90-48d_chg_1.pdf)  
+   Link: <a href="https://www.faa.gov/documentlibrary/media/advisory_circular/ac_90-48d_chg_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/documentlibrary/media/advisory_circular/ac_90-48d_chg_1.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AC 90-48D CHG 119 Apr 2016 — Statistics indicate that the majority of these midair collisions and. NMACs occurred in good weather and dur...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/15828635/](https://pubmed.ncbi.nlm.nih.gov/15828635/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedlimitations of the see-and-avoid concept in civil aviationby CC Morris · 2005 · Cited by 57 — Because the relative bearing to each...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/15828635/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/15828635/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>limitations of the see-and-avoid concept in civil aviationby CC Morris · 2005 · Cited by 57 — Because the relative bearing to each...</p></details>
 
 ### Additional References
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/flightsim/comments/16e01hk/correct_use_of_external_lights/](https://www.reddit.com/r/flightsim/comments/16e01hk/correct_use_of_external_lights/)  
+   Link: <a href="https://www.reddit.com/r/flightsim/comments/16e01hk/correct_use_of_external_lights/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/flightsim/comments/16e01hk/correct_use_of_external_lights/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Correct use of external lights: r/flightsimPresumably this is to increase visibility so that if there was an aircraft on approach they&#x27;d...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/rogerhall-lxm_faa-introduces-new-runway-status-lights-system-activity-7309473077195681792-udbU](https://www.linkedin.com/posts/rogerhall-lxm_faa-introduces-new-runway-status-lights-system-activity-7309473077195681792-udbU)  
+   Link: <a href="https://www.linkedin.com/posts/rogerhall-lxm_faa-introduces-new-runway-status-lights-system-activity-7309473077195681792-udbU" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/rogerhall-lxm_faa-introduces-new-runway-status-lights-system-activity-7309473077195681792-udbU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FAA introduces Runway Status Lights to prevent collisionsThe FAA&#x27;s RWSL system is designed to help prevent runway incursions by providing...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: skybrary.aero  
-   Link: [https://skybrary.aero/articles/midair-collision](https://skybrary.aero/articles/midair-collision)  
+   Link: <a href="https://skybrary.aero/articles/midair-collision" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/midair-collision</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Midair CollisionContributory Factors · Traffic conditions. This includes the traffic density, complexity, mixture of aircraft types and c...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: medium.com  
-   Link: [https://medium.com/faa/mitigating-the-hazard-of-visual-illusions-fb3c35009471](https://medium.com/faa/mitigating-the-hazard-of-visual-illusions-fb3c35009471)  
+   Link: <a href="https://medium.com/faa/mitigating-the-hazard-of-visual-illusions-fb3c35009471" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/faa/mitigating-the-hazard-of-visual-illusions-fb3c35009471</a>  
 
 13. <a id="endnote-13"></a>
    Source: aopa.org  
-   Link: [https://www.aopa.org/training-and-safety/students/crosscountry/skills/night-flying](https://www.aopa.org/training-and-safety/students/crosscountry/skills/night-flying)  
+   Link: <a href="https://www.aopa.org/training-and-safety/students/crosscountry/skills/night-flying" target="_blank" rel="noopener noreferrer nofollow">https://www.aopa.org/training-and-safety/students/crosscountry/skills/night-flying</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Night FlyingA string of lights across the canvas of night can appear as a horizon. Rolling your wings level to such an illusion can place...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/7907700_Midair_collisions_Limitations_of_the_see-and-avoid_concept_in_civil_aviation](https://www.researchgate.net/publication/7907700_Midair_collisions_Limitations_of_the_see-and-avoid_concept_in_civil_aviation)  
+   Link: <a href="https://www.researchgate.net/publication/7907700_Midair_collisions_Limitations_of_the_see-and-avoid_concept_in_civil_aviation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/7907700_Midair_collisions_Limitations_of_the_see-and-avoid_concept_in_civil_aviation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Limitations of the see-and-avoid concept in civil aviationMidair collisions cause loss of life and property and undermine general aviatio...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aviation/comments/1iehq93/why_would_pilots_turn_landing_lights_on_and_off/](https://www.reddit.com/r/aviation/comments/1iehq93/why_would_pilots_turn_landing_lights_on_and_off/)  
+   Link: <a href="https://www.reddit.com/r/aviation/comments/1iehq93/why_would_pilots_turn_landing_lights_on_and_off/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aviation/comments/1iehq93/why_would_pilots_turn_landing_lights_on_and_off/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why would pilots turn landing lights on and off?: r/aviationOn ground: Taxi lights ON when the plane is moving and OFF when stationary(e...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/309818544_Detection_of_Airborne_Collision-Course_Targets_for_Sense_and_Avoid_on_Unmanned_Aircraft_Systems_Using_Machine_Vision_Techniques](https://www.researchgate.net/publication/309818544_Detection_of_Airborne_Collision-Course_Targets_for_Sense_and_Avoid_on_Unmanned_Aircraft_Systems_Using_Machine_Vision_Techniques)  
+   Link: <a href="https://www.researchgate.net/publication/309818544_Detection_of_Airborne_Collision-Course_Targets_for_Sense_and_Avoid_on_Unmanned_Aircraft_Systems_Using_Machine_Vision_Techniques" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/309818544_Detection_of_Airborne_Collision-Course_Targets_for_Sense_and_Avoid_on_Unmanned_Aircraft_Systems_Using_Machine_Vision_Techniques</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Detection of Airborne Collision-Course Targets for Sense...2 Nov 2016 — Detecting collision-course targets in aerial scenes from purely...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aviation/comments/1hz2b1m/exterior_aircraft_lights/](https://www.reddit.com/r/aviation/comments/1hz2b1m/exterior_aircraft_lights/)  
+   Link: <a href="https://www.reddit.com/r/aviation/comments/1hz2b1m/exterior_aircraft_lights/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aviation/comments/1hz2b1m/exterior_aircraft_lights/</a>  
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=zDbmBM9YG_0](https://www.youtube.com/watch?v=zDbmBM9YG_0)  
+   Link: <a href="https://www.youtube.com/watch?v=zDbmBM9YG_0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zDbmBM9YG_0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>APPROACH LIGHTING SYSTEMThe approach lighting is a part of a system aimed to give to an approaching aircraft the required information for...</p></details>

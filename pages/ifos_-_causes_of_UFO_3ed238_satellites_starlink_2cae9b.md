@@ -50,22 +50,22 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_wind_data_33671a
 - ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - satellites
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - satellites
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Satellites, especially trains of bright moving points, can look coordinated and unfamiliar to people who rarely watch the night sky.
 hero_summary: Satellites, especially trains of bright moving points, can look coordinated and unfamiliar to people who rarely watch the night sky.
 layout: default
 permalink: /satellites/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 nav_short_title: Satellites
 title: Why Satellites Surprise Night Watchers
-title_full: Why Satellites Surprise Night Watchers | IFOs
+title_full: Why Satellites Surprise Night Watchers
 display_title_short: Satellites
 display_title: Satellites
 heading_title: Why Satellites Surprise Night Watchers
@@ -240,213 +240,212 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 03:53:27'
 parent_title: IFOs
-parent_permalink: /ifos-causes-of/
+parent_permalink: /ifos-causes-of-ufo-3-ed-238/
 parent_nav_short_title: IFOs
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 sibling_links:
 - basename: ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d
-  title: A Head On Aircraft Can Look Like A Stationary Light... | Ifos Causes Of
+  title: A Head On Aircraft Can Look Like A Stationary Light... | ifos causes of UFO 3 ed 238
   permalink: /a-head-on-aircraft-can-look-like-a/
   short_title: A Head On Aircraft Can Look Like A Stationary Light...
   heading_title: The Stationary Light That Is Moving
 - basename: ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261
-  title: AARO | Ifos Causes Of
+  title: AARO | ifos causes of UFO 3 ed 238
   permalink: /aaro/
   short_title: AARO
   heading_title: What Modern UAP Reviews Resolve
 - basename: ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253
-  title: Aircraft Lights | Ifos Causes Of
+  title: Aircraft Lights | ifos causes of UFO 3 ed 238
   permalink: /aircraft-lights/
   short_title: Aircraft Lights
   heading_title: Why Ordinary Aircraft Look So Strange
 - basename: ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043
-  title: Atmosphere | Ifos Causes Of
+  title: Atmosphere | ifos causes of UFO 3 ed 238
   permalink: /atmosphere/
   short_title: Atmosphere
   heading_title: When Weather Makes Shapes in the Sky
 - basename: ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057
-  title: Balloons | Ifos Causes Of
+  title: Balloons | ifos causes of UFO 3 ed 238
   permalink: /balloons/
   short_title: Balloons
   heading_title: Why Balloons Become Flying Saucers
 - basename: ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40
-  title: Birds | Ifos Causes Of
+  title: Birds | ifos causes of UFO 3 ed 238
   permalink: /birds/
   short_title: Birds
   heading_title: How Birds Become Fast UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81
-  title: Blue Book | Ifos Causes Of
+  title: Blue Book | ifos causes of UFO 3 ed 238
   permalink: /blue-book/
   short_title: Blue Book
   heading_title: What Blue Book Teaches About IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e
-  title: Contrails | Ifos Causes Of
+  title: Contrails | ifos causes of UFO 3 ed 238
   permalink: /contrails/
   short_title: Contrails
   heading_title: Why Jet Trails Glow Like UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c
-  title: Drones | Ifos Causes Of
+  title: Drones | ifos causes of UFO 3 ed 238
   permalink: /drones/
   short_title: Drones
   heading_title: When a Drone Becomes a UFO
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e
-  title: First Checks | Ifos Causes Of
+  title: First Checks | ifos causes of UFO 3 ed 238
   permalink: /first-checks/
   short_title: First Checks
   heading_title: What to Check Before Calling It a UFO
 - basename: ifos_-_causes_of_UFO_3ed238_military_flares_abb62f
-  title: Flares | Ifos Causes Of
+  title: Flares | ifos causes of UFO 3 ed 238
   permalink: /flares/
   short_title: Flares
   heading_title: Why Flares Look Like Hovering Craft
 - basename: ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590
-  title: Flight Tracking | Ifos Causes Of
+  title: Flight Tracking | ifos causes of UFO 3 ed 238
   permalink: /flight-tracking/
   short_title: Flight Tracking
   heading_title: How Flight Data Solves UFO Sightings
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965
-  title: Hoaxes | Ifos Causes Of
+  title: Hoaxes | ifos causes of UFO 3 ed 238
   permalink: /hoaxes/
   short_title: Hoaxes
   heading_title: When UFO Reports Are Manufactured
 - basename: ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f
-  title: Infrared | Ifos Causes Of
+  title: Infrared | ifos causes of UFO 3 ed 238
   permalink: /infrared/
   short_title: Infrared
   heading_title: Why Infrared UFO Videos Mislead
 - basename: ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74
-  title: Insects | Ifos Causes Of
+  title: Insects | ifos causes of UFO 3 ed 238
   permalink: /insects/
   short_title: Insects
   heading_title: The Tiny Things Cameras Make Huge
 - basename: ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5
-  title: Lanterns | Ifos Causes Of
+  title: Lanterns | ifos causes of UFO 3 ed 238
   permalink: /lanterns/
   short_title: Lanterns
   heading_title: The Orange Lights That Start UFO Reports
 - basename: ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e
-  title: Lens Flare | Ifos Causes Of
+  title: Lens Flare | ifos causes of UFO 3 ed 238
   permalink: /lens-flare/
   short_title: Lens Flare
   heading_title: When Cameras Invent Extra Lights
 - basename: ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28
-  title: Mass Sightings | Ifos Causes Of
+  title: Mass Sightings | ifos causes of UFO 3 ed 238
   permalink: /mass-sightings/
   short_title: Mass Sightings
   heading_title: Why Groups Can Share One Mistake
 - basename: ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504
-  title: Meteors | Ifos Causes Of
+  title: Meteors | ifos causes of UFO 3 ed 238
   permalink: /meteors/
   short_title: Meteors
   heading_title: When Fireballs Become UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca
-  title: Missing Data | Ifos Causes Of
+  title: Missing Data | ifos causes of UFO 3 ed 238
   permalink: /missing-data/
   short_title: Missing Data
   heading_title: Unsolved Does Not Always Mean Strange
 - basename: ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183
-  title: NASA Study | Ifos Causes Of
+  title: NASA Study | ifos causes of UFO 3 ed 238
   permalink: /nasa-study/
   short_title: NASA Study
   heading_title: Why Better UFO Data Matters
 - basename: ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b
-  title: Parallax | Ifos Causes Of
+  title: Parallax | ifos causes of UFO 3 ed 238
   permalink: /parallax/
   short_title: Parallax
   heading_title: The Speed Illusion in UFO Footage
 - basename: ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a
-  title: Pilots | Ifos Causes Of
+  title: Pilots | ifos causes of UFO 3 ed 238
   permalink: /pilots/
   short_title: Pilots
   heading_title: Why Pilots Can Misidentify UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357
-  title: Radar | Ifos Causes Of
+  title: Radar | ifos causes of UFO 3 ed 238
   permalink: /radar/
   short_title: Radar
   heading_title: When Radar Sees a UFO That Isnt There
 - basename: ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c
-  title: Reflections | Ifos Causes Of
+  title: Reflections | ifos causes of UFO 3 ed 238
   permalink: /reflections/
   short_title: Reflections
   heading_title: The UFO Inside the Glass
 - basename: ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132
-  title: Rocket Plumes | Ifos Causes Of
+  title: Rocket Plumes | ifos causes of UFO 3 ed 238
   permalink: /rocket-plumes/
   short_title: Rocket Plumes
   heading_title: The Strange Clouds Rockets Leave Behind
 - basename: ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1
-  title: Searchlights | Ifos Causes Of
+  title: Searchlights | ifos causes of UFO 3 ed 238
   permalink: /searchlights/
   short_title: Searchlights
   heading_title: How Searchlights Paint UFOs in Clouds
 - basename: ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b
-  title: Sensor Operators | Ifos Causes Of
+  title: Sensor Operators | ifos causes of UFO 3 ed 238
   permalink: /sensor-operators/
   short_title: Sensor Operators
   heading_title: When Sensors Need Human Context
 - basename: ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391
-  title: Short Clips | Ifos Causes Of
+  title: Short Clips | ifos causes of UFO 3 ed 238
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: Why Short UFO Videos Are Hard to Trust
 - basename: ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f
-  title: Size Errors | Ifos Causes Of
+  title: Size Errors | ifos causes of UFO 3 ed 238
   permalink: /size-errors/
   short_title: Size Errors
   heading_title: Why Honest Witnesses Misjudge UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725
-  title: Sky Charts | Ifos Causes Of
+  title: Sky Charts | ifos causes of UFO 3 ed 238
   permalink: /sky-charts/
   short_title: Sky Charts
   heading_title: How to Check a UFO Against the Sky
 - basename: ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32
-  title: Stars | Ifos Causes Of
+  title: Stars | ifos causes of UFO 3 ed 238
   permalink: /stars/
   short_title: Stars
   heading_title: Why Stars Flash Like Machines
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb
-  title: Status Labels | Ifos Causes Of
+  title: Status Labels | ifos causes of UFO 3 ed 238
   permalink: /status-labels/
   short_title: Status Labels
   heading_title: UFO Does Not Mean Alien
 - basename: ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d
-  title: Strong Cases | Ifos Causes Of
+  title: Strong Cases | ifos causes of UFO 3 ed 238
   permalink: /strong-cases/
   short_title: Strong Cases
   heading_title: What Makes a UFO Report Harder to Explain
 - basename: ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948
-  title: UK Files | Ifos Causes Of
+  title: UK Files | ifos causes of UFO 3 ed 238
   permalink: /uk-files/
   short_title: UK Files
   heading_title: What the UK UFO Files Reveal
 - basename: ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06
-  title: Unresolved Cases | Ifos Causes Of
+  title: Unresolved Cases | ifos causes of UFO 3 ed 238
   permalink: /unresolved-cases/
   short_title: Unresolved Cases
   heading_title: Why Some UFO Cases Stay Open
 - basename: ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080
-  title: Venus | Ifos Causes Of
+  title: Venus | ifos causes of UFO 3 ed 238
   permalink: /venus/
   short_title: Venus
   heading_title: Is That UFO Really Venus?
 - basename: ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13
-  title: Weather Records | Ifos Causes Of
+  title: Weather Records | ifos causes of UFO 3 ed 238
   permalink: /weather-records/
   short_title: Weather Records
   heading_title: Weather Clues That Explain Strange Lights
 - basename: ifos_-_causes_of_UFO_3ed238_wind_data_33671a
-  title: Wind Data | Ifos Causes Of
+  title: Wind Data | ifos causes of UFO 3 ed 238
   permalink: /wind-data/
   short_title: Wind Data
   heading_title: Following a UFO With the Wind
@@ -479,20 +478,21 @@ child_links:
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 prev_link:
   basename: ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132
-  title: Rocket Plumes | Ifos Causes Of
+  title: Rocket Plumes | ifos causes of UFO 3 ed 238
   permalink: /rocket-plumes/
   short_title: Rocket Plumes
   heading_title: The Strange Clouds Rockets Leave Behind
 next_link:
   basename: ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1
-  title: Searchlights | Ifos Causes Of
+  title: Searchlights | ifos causes of UFO 3 ed 238
   permalink: /searchlights/
   short_title: Searchlights
   heading_title: How Searchlights Paint UFOs in Clouds
+date: '2026-06-12 00:13:39 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b-overview-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b-overview.webp
@@ -502,7 +502,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b-ove
 ## Introduction
 
 Satellites are one of the most common modern reasons a real night-sky observation becomes a UFO report. They can look like silent moving [stars]({{ 'stars/' | relative_url }}), brighten suddenly, vanish without a sound, or appear in a disciplined line that seems too organised to be natural. [Starlink]({{ 'starlink/' | relative_url }}) trains are especially striking: shortly after launch, dozens of satellites may cross the sky as a row of evenly spaced lights before spreading out into their working orbits. To someone who rarely watches satellites, that can look coordinated, artificial and unfamiliar all at once. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skymaps.com/articles/n0012.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skymaps.com">[Skymaps]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skymaps.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b-overview.webp" | relative_url }}" alt="Overview image for Satellites" loading="eager" decoding="sync" fetchpriority="high">
 This does not mean every unusual light is “just Starlink”. It means satellites should be checked early, because they leave predictable evidence: time, direction, elevation, launch history, orbital data, brightness conditions and visibility windows. [AARO]({{ 'aaro/' | relative_url }}), the U.S. All-domain Anomaly Resolution Office, has explicitly included satellites among the ordinary causes that resolve many UAP cases, while NASA’s independent UAP study stressed that better data is essential for separating truly unresolved reports from identifiable objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dr jon kosloski director aaro media roundtable on the fy24 consolidated annual</span><span class="citation-popover-snippet">dr jon kosloski director aaro media roundtable on the fy24 consolidated annual</span></span></span>
@@ -515,7 +514,6 @@ The timing is the first clue. Low Earth orbit satellites are easiest to see afte
 
 The motion can also be misleading. A satellite is hundreds of kilometres away, so a bright one may seem to move at an uncanny pace while remaining silent. Without a distance cue, the brain may treat the light as lower and closer than it is. A high satellite crossing the sky can therefore be misread as a nearby object moving impossibly fast, while a flare or fade can be misread as acceleration, braking, or a sudden disappearance.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b-Illustration-1-dark.svg" | relative_url }}" alt="Satellites illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Starlink trains trigger so many reports
 
@@ -526,7 +524,6 @@ The sight is unusual because it breaks the pattern many people expect from the s
 Newer trains are most prominent soon after launch. As the satellites raise their orbits and spread out, the tight line becomes less obvious and individual satellites become harder to notice. AARO’s Starlink flaring paper describes this early orbital-raise phase as the period when satellites can create train-like appearances because sunlight reflects from the ascending spacecraft; later, in operational configuration, different reflection geometries can produce flares or glints. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper_508_FINAL_04222025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Correlations of Starlink Satellite Flaring with UAP Observations</span><span class="citation-popover-snippet">Correlations of Starlink Satellite Flaring with UAP Observations</span></span></span>
 
 Starlink is also a numbers problem. The constellation has grown from an oddity into one of the most visible human-made features of low Earth orbit, with thousands of satellites already deployed and larger planned totals. That scale increases the chance that an ordinary person, pilot, police officer, or skywatcher will see satellites without having planned to look for them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellites: Facts, tracking and impact on astronomy</span><span class="citation-popover-snippet">Despite its benefits, Starlink raises concerns among astronomers and experts. Its bright satellites affect ground-based and radio astrono...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5q40Xx12nYI" title="Spotting Satellites and the International Space Station" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5q40Xx12nYI" target="_blank" rel="noopener noreferrer">Spotting Satellites and the International Space Station</a></p><p class="youtube-embed-meta">Channel: Caoimhin&#x27;s Content &middot; Views: 4.8K &middot; Uploaded: December 2023 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5q40Xx12nYI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5q40Xx12nYI">Open on YouTube</a></p></div></div></div>
 
@@ -540,7 +537,6 @@ The same paper examined a Federal Aviation Administration UAP report from an air
 
 That example matters because pilots are trained observers, yet even trained observers can be surprised by orbital geometry. From an aircraft, the horizon is farther away than it is from the ground, and a pilot may remain in a favourable flare geometry longer than a stationary ground observer. A satellite explanation therefore does not require a careless witness; it requires a reflective object, the right Sun angle, and enough [missing context]({{ 'missing-context/' | relative_url }}) for the sighting to seem anomalous. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">AARO Historical Record Report Vol 1 2024</span><span class="citation-popover-snippet">AARO Historical Record Report Vol 1 2024</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b-Illustration-2-dark.svg" | relative_url }}" alt="Satellites illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What a satellite explanation can and cannot prove
 
@@ -549,7 +545,6 @@ A good satellite identification is not a hand-wave. It should match the reported
 There are also limits. Many public videos lack a reliable timestamp, exact location, compass direction or elevation angle. Phone footage may exaggerate motion through hand shake, digital zoom, autofocus, rolling shutter or exposure changes. A short clip that begins after the object is already visible and ends before it disappears may remove the very details needed to check a pass. This is why satellite explanations are often probabilistic unless the report contains enough sky geometry to test.
 
 The best standard is comparison, not dismissal. A satellite explanation becomes stronger when several independent details align:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -563,9 +558,7 @@ The best standard is comparison, not dismissal. A satellite explanation becomes 
 
 The explanation becomes weaker when the object was close enough to show structure, changed direction sharply in a way not explained by perspective, produced local sound, hovered for a long period without matching any satellite prediction, or was captured by [calibrated sensors]({{ 'sensor-artefacts/' | relative_url }}) with reliable range and motion data that exclude orbital objects.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/g42iMvgTB6U" title="Top 5 Unexplained SKY LIGHTS That Really Looks Unreal ‼️" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=g42iMvgTB6U" target="_blank" rel="noopener noreferrer">Top 5 Unexplained SKY LIGHTS That Really Looks Unreal ‼️</a></p><p class="youtube-embed-meta">Channel: BosTALJIA &middot; Views: 14.9M &middot; Uploaded: July 2025 &middot; Length: 58 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=g42iMvgTB6U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=g42iMvgTB6U">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b-Illustration-3-dark.svg" | relative_url }}" alt="Satellites illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Checking passes after a sighting
 
 The most useful thing a witness can do is preserve the raw context before memory fills in the gaps. Write down the exact local time, location, direction faced, height above the horizon, direction of motion, duration, colour, brightness changes and whether the object faded, flashed, broke formation or passed behind clouds. A short note made immediately after the sighting is often more valuable than a dramatic description written later.
@@ -576,8 +569,8 @@ For Starlink specifically, the launch date matters. A tight, bright train is mos
 
 A practical check should work backwards from the observation, not forwards from a favourite explanation. Start with the sighting facts, then ask which predicted objects were in that patch of sky. If several satellites were present, compare their paths and times. If nothing fits, check aircraft, drones, balloons, planets and meteors separately rather than forcing a satellite answer. The value of the satellite hypothesis is that it is testable.
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/g42iMvgTB6U" title="Top 5 Unexplained SKY LIGHTS That Really Looks Unreal ‼️" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=g42iMvgTB6U" target="_blank" rel="noopener noreferrer">Top 5 Unexplained SKY LIGHTS That Really Looks Unreal ‼️</a></p><p class="youtube-embed-meta">Channel: BosTALJIA &middot; Views: 14.9M &middot; Uploaded: July 2025 &middot; Length: 58 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=g42iMvgTB6U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=g42iMvgTB6U">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b-Illustration-3-dark.svg" | relative_url }}" alt="Satellites illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why this category will keep mattering
 
 Satellite-caused UFO reports are likely to remain common because the night sky is becoming more populated. Astronomers and dark-sky organisations have warned that large satellite constellations can affect both professional observations and the ordinary aesthetic experience of the sky. The International Astronomical Union has noted that even reflections too faint for the naked eye can affect sensitive telescopes, while later work on constellation brightness has argued for operational satellites to remain below naked-eye visibility where possible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iauarchive.eso.org/public/themes/satellite-constellations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iauarchive.eso.org">[IAU Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iauarchive.eso.org</span><span class="citation-popover-title">satellite constellations</span><span class="citation-popover-snippet">satellite constellations</span></span></span>
@@ -585,10 +578,6 @@ Satellite-caused UFO reports are likely to remain common because the night sky i
 SpaceX and astronomers have worked on brightness mitigation, including darker coatings, visors and other design changes, but the evidence is mixed rather than absolute. Photometric studies report substantial reductions for some Starlink designs, while also finding that satellites can still affect observations and that future larger vehicles may introduce new problems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2309.14152" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Assessment of Brightness Mitigation Practices for Starlink Satellites</span><span class="citation-popover-snippet">arXiv Assessment of Brightness Mitigation Practices for Starlink Satellites</span></span></span>
 
 For UFO investigation, the important lesson is not simply “more satellites mean more mistakes”. It is that a growing human-made sky requires better witness records, better public tools, and more careful comparison before a light is labelled anomalous. Starlink trains and satellite flares are real, visible, and sometimes startling. They are also predictable enough that many reports can be resolved when the sighting is recorded with the detail needed to test them.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -707,15 +696,15 @@ For UFO investigation, the important lesson is not simply “more satellites mea
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-why-satellites-surprise-night-watchers-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="satellites-why-satellites-surprise-night-watchers-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Crescent Moon Night Sky Art Starry Forest Wall Print Midnight Landscape Poster"><img src="{{ '/assets/images/marketplace-covers/6d8c08fb07037584328c.jpg' | relative_url }}" alt="Listing image for Crescent Moon Night Sky Art Starry Forest Wall Print Midnight Landscape Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-satellites-surprise-night-watchers-starlink-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink kit" data-ebay-reference="why-satellites-surprise-night-watchers-starlink-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starlink standard kit, dish ad router, UTR-211 and UTA-212 spares or repair"><img src="https://i.ebayimg.com/images/g/F9sAAeSwhfVqKrn-/s-l225.jpg" alt="Listing image for Starlink standard kit, dish ad router, UTR-211 and UTA-212 spares or repair" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-why-satellites-surprise-night-watchers-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="satellites-why-satellites-surprise-night-watchers-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Crescent Moon Night Sky Art Starry Forest Wall Print Midnight Landscape Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-satellites-surprise-night-watchers-starlink-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink kit" data-ebay-reference="why-satellites-surprise-night-watchers-starlink-kit" target="_blank" rel="sponsored noopener noreferrer">Starlink standard kit, dish ad router, UTR-211 and UTA-212 spares or repair</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-why-satellites-surprise-night-watchers-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="satellites-why-satellites-surprise-night-watchers-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-satellites-surprise-night-watchers-starlink-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink kit" data-ebay-reference="why-satellites-surprise-night-watchers-starlink-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Starlink kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: Starlink kit</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-why-satellites-surprise-night-watchers-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="satellites-why-satellites-surprise-night-watchers-ifos-causes-of-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-satellites-surprise-night-watchers-starlink-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink kit" data-ebay-reference="why-satellites-surprise-night-watchers-starlink-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -723,15 +712,15 @@ For UFO investigation, the important lesson is not simply “more satellites mea
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-why-satellites-surprise-night-watchers-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="satellites-why-satellites-surprise-night-watchers-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Full Moon Night Sky Framed Art Prin Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/4e3c44f9f0aac763177e.jpg' | relative_url }}" alt="Listing image for Full Moon Night Sky Framed Art Prin Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-satellites-surprise-night-watchers-starlink-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink kit" data-ebay-reference="why-satellites-surprise-night-watchers-starlink-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starlink Gen 3 Pipe Adapter – 25-42mm Pole Mount Kit Compatible with Standard 4"><img src="https://i.ebayimg.com/images/g/9ucAAeSwXXhqKxO3/s-l225.jpg" alt="Listing image for Starlink Gen 3 Pipe Adapter – 25-42mm Pole Mount Kit Compatible with Standard 4" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-why-satellites-surprise-night-watchers-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="satellites-why-satellites-surprise-night-watchers-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Full Moon Night Sky Framed Art Prin Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-satellites-surprise-night-watchers-starlink-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink kit" data-ebay-reference="why-satellites-surprise-night-watchers-starlink-kit" target="_blank" rel="sponsored noopener noreferrer">Starlink Gen 3 Pipe Adapter – 25-42mm Pole Mount Kit Compatible with Standard 4</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-why-satellites-surprise-night-watchers-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="satellites-why-satellites-surprise-night-watchers-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-satellites-surprise-night-watchers-starlink-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink kit" data-ebay-reference="why-satellites-surprise-night-watchers-starlink-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Starlink kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: Starlink kit</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-why-satellites-surprise-night-watchers-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="satellites-why-satellites-surprise-night-watchers-ifos-causes-of-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-satellites-surprise-night-watchers-starlink-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink kit" data-ebay-reference="why-satellites-surprise-night-watchers-starlink-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -739,15 +728,15 @@ For UFO investigation, the important lesson is not simply “more satellites mea
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-why-satellites-surprise-night-watchers-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="satellites-why-satellites-surprise-night-watchers-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Beautiful astro starry night sky. F Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2d7db700ef91db184218.jpg' | relative_url }}" alt="Listing image for Beautiful astro starry night sky. F Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-satellites-surprise-night-watchers-starlink-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink kit" data-ebay-reference="why-satellites-surprise-night-watchers-starlink-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starlink Gen 3 (v4) Complete Kit With Rare DC-DC Power Supply and locked Antenna"><img src="https://i.ebayimg.com/images/g/WVoAAeSwDdBqHBgl/s-l225.jpg" alt="Listing image for Starlink Gen 3 (v4) Complete Kit With Rare DC-DC Power Supply and locked Antenna" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-why-satellites-surprise-night-watchers-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="satellites-why-satellites-surprise-night-watchers-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Beautiful astro starry night sky. F Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-satellites-surprise-night-watchers-starlink-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink kit" data-ebay-reference="why-satellites-surprise-night-watchers-starlink-kit" target="_blank" rel="sponsored noopener noreferrer">Starlink Gen 3 (v4) Complete Kit With Rare DC-DC Power Supply and locked Antenna</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-why-satellites-surprise-night-watchers-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="satellites-why-satellites-surprise-night-watchers-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-satellites-surprise-night-watchers-starlink-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink kit" data-ebay-reference="why-satellites-surprise-night-watchers-starlink-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Starlink kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: Starlink kit</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-why-satellites-surprise-night-watchers-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="satellites-why-satellites-surprise-night-watchers-ifos-causes-of-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-satellites-surprise-night-watchers-starlink-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink kit" data-ebay-reference="why-satellites-surprise-night-watchers-starlink-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -755,15 +744,15 @@ For UFO investigation, the important lesson is not simply “more satellites mea
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-why-satellites-surprise-night-watchers-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="satellites-why-satellites-surprise-night-watchers-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture"><img src="{{ '/assets/images/marketplace-covers/0efa7c31974d5c2eeff0.jpg' | relative_url }}" alt="Listing image for Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-satellites-surprise-night-watchers-starlink-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink kit" data-ebay-reference="why-satellites-surprise-night-watchers-starlink-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starlink Standard Kit V2 Satellite &amp; Router UTA-212 UTR-211."><img src="https://i.ebayimg.com/images/g/GNEAAeSwyZxqKw5Q/s-l225.jpg" alt="Listing image for Starlink Standard Kit V2 Satellite &amp; Router UTA-212 UTR-211." loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-why-satellites-surprise-night-watchers-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="satellites-why-satellites-surprise-night-watchers-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-satellites-surprise-night-watchers-starlink-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink kit" data-ebay-reference="why-satellites-surprise-night-watchers-starlink-kit" target="_blank" rel="sponsored noopener noreferrer">Starlink Standard Kit V2 Satellite &amp; Router UTA-212 UTR-211.</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-why-satellites-surprise-night-watchers-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="satellites-why-satellites-surprise-night-watchers-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-satellites-surprise-night-watchers-starlink-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink kit" data-ebay-reference="why-satellites-surprise-night-watchers-starlink-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Starlink kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: Starlink kit</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-why-satellites-surprise-night-watchers-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="satellites-why-satellites-surprise-night-watchers-ifos-causes-of-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-satellites-surprise-night-watchers-starlink-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink kit" data-ebay-reference="why-satellites-surprise-night-watchers-starlink-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -771,7 +760,7 @@ For UFO investigation, the important lesson is not simply “more satellites mea
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-why-satellites-surprise-night-watchers-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="satellites-why-satellites-surprise-night-watchers-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-satellites-surprise-night-watchers-starlink-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink kit" data-ebay-reference="why-satellites-surprise-night-watchers-starlink-kit" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -986,225 +975,225 @@ For UFO investigation, the important lesson is not simply “more satellites mea
 
 1. <a id="endnote-1"></a>
    Source: skymaps.com  
-   Link: [https://www.skymaps.com/articles/n0012.html](https://www.skymaps.com/articles/n0012.html)  
+   Link: <a href="https://www.skymaps.com/articles/n0012.html" target="_blank" rel="noopener noreferrer nofollow">https://www.skymaps.com/articles/n0012.html</a>  
 
 2. <a id="endnote-2"></a>
    Source: war.gov  
    Title: dr jon kosloski director aaro media roundtable on the fy24 consolidated annual  
-   Link: [https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/](https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/)  
+   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
 
 3. <a id="endnote-3"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 4. <a id="endnote-4"></a>
    Source: space.com  
    Title: Starlink satellite train: how to see and track it in the night sky  
-   Link: [https://www.space.com/starlink-satellite-train-how-to-see-and-track-it](https://www.space.com/starlink-satellite-train-how-to-see-and-track-it)  
+   Link: <a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Best viewing occurs just after sunset or before sunrise when satellites reflect sunlight while Earth’s surface is dark. Starlink orbits E...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: aaro.mil  
    Title: Correlations of Starlink Satellite Flaring with UAP Observations  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper_508_FINAL_04222025.pdf](https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper_508_FINAL_04222025.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper_508_FINAL_04222025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper_508_FINAL_04222025.pdf</a>  
 
 6. <a id="endnote-6"></a>
    Source: space.com  
    Title: Starlink satellites: Facts, tracking and impact on astronomy  
-   Link: [https://www.space.com/spacex-starlink-satellites.html](https://www.space.com/spacex-starlink-satellites.html)  
+   Link: <a href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-starlink-satellites.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Despite its benefits, Starlink raises concerns among astronomers and experts. Its bright satellites affect ground-based and radio astrono...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/video/950338/satellite-flaring-phenomenon](https://www.dvidshub.net/video/950338/satellite-flaring-phenomenon)  
+   Link: <a href="https://www.dvidshub.net/video/950338/satellite-flaring-phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/950338/satellite-flaring-phenomenon</a>  
 
 8. <a id="endnote-8"></a>
    Source: heavens-above.com  
-   Link: [https://www.heavens-above.com/](https://www.heavens-above.com/)  
+   Link: <a href="https://www.heavens-above.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.heavens-above.com/</a>  
 
 9. <a id="endnote-9"></a>
    Source: heavens-above.com  
-   Link: [https://www.heavens-above.com/AllSats.aspx](https://www.heavens-above.com/AllSats.aspx)  
+   Link: <a href="https://www.heavens-above.com/AllSats.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.heavens-above.com/AllSats.aspx</a>  
 
 10. <a id="endnote-10"></a>
    Source: in-the-sky.org  
-   Link: [https://in-the-sky.org/satpasses.php](https://in-the-sky.org/satpasses.php)  
+   Link: <a href="https://in-the-sky.org/satpasses.php" target="_blank" rel="noopener noreferrer nofollow">https://in-the-sky.org/satpasses.php</a>  
 
 11. <a id="endnote-11"></a>
    Source: celestrak.org  
-   Link: [https://www.celestrak.org/NORAD/documentation/gp-data-formats.php](https://www.celestrak.org/NORAD/documentation/gp-data-formats.php)  
+   Link: <a href="https://www.celestrak.org/NORAD/documentation/gp-data-formats.php" target="_blank" rel="noopener noreferrer nofollow">https://www.celestrak.org/NORAD/documentation/gp-data-formats.php</a>  
 
 12. <a id="endnote-12"></a>
    Source: arxiv.org  
    Title: arXiv Assessment of Brightness Mitigation Practices for Starlink Satellites  
-   Link: [https://arxiv.org/abs/2309.14152](https://arxiv.org/abs/2309.14152)  
+   Link: <a href="https://arxiv.org/abs/2309.14152" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2309.14152</a>  
 
 13. <a id="endnote-13"></a>
    Source: starlink.com  
-   Link: [https://starlink.com/public-files/BrightnessMitigationBestPracticesSatelliteOperators.pdf?srsltid=AfmBOoq6TxfQXYVF1xny_AghaaLTAuydKtAJi9hEqInqZaTyLiIQpjPD](https://starlink.com/public-files/BrightnessMitigationBestPracticesSatelliteOperators.pdf?srsltid=AfmBOoq6TxfQXYVF1xny_AghaaLTAuydKtAJi9hEqInqZaTyLiIQpjPD)  
+   Link: <a href="https://starlink.com/public-files/BrightnessMitigationBestPracticesSatelliteOperators.pdf?srsltid=AfmBOoq6TxfQXYVF1xny_AghaaLTAuydKtAJi9hEqInqZaTyLiIQpjPD" target="_blank" rel="noopener noreferrer nofollow">https://starlink.com/public-files/BrightnessMitigationBestPracticesSatelliteOperators.pdf?srsltid=AfmBOoq6TxfQXYVF1xny_AghaaLTAuydKtAJi9hEqInqZaTyLiIQpjPD</a>  
 
 14. <a id="endnote-14"></a>
    Source: spacex.com  
    Title: Space X  
-   Link: [https://www.spacex.com/updates](https://www.spacex.com/updates)  
+   Link: <a href="https://www.spacex.com/updates" target="_blank" rel="noopener noreferrer nofollow">https://www.spacex.com/updates</a>  
 
 15. <a id="endnote-15"></a>
    Source: aaro.mil  
    Title: Satellite Flaring Paper  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf](https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf</a>  
 
 16. <a id="endnote-16"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 17. <a id="endnote-17"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
 18. <a id="endnote-18"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 19. <a id="endnote-19"></a>
    Source: celestrak.org  
-   Link: [https://www.celestrak.org/NORAD/elements/gp.php?FORMAT=tle&GROUP=starlink](https://www.celestrak.org/NORAD/elements/gp.php?FORMAT=tle&GROUP=starlink)  
+   Link: <a href="https://www.celestrak.org/NORAD/elements/gp.php?FORMAT=tle&amp;GROUP=starlink" target="_blank" rel="noopener noreferrer nofollow">https://www.celestrak.org/NORAD/elements/gp.php?FORMAT=tle&amp;GROUP=starlink</a>  
 
 20. <a id="endnote-20"></a>
    Source: celestrak.org  
-   Link: [https://www.celestrak.org/NORAD/elements/supplemental/](https://www.celestrak.org/NORAD/elements/supplemental/)  
+   Link: <a href="https://www.celestrak.org/NORAD/elements/supplemental/" target="_blank" rel="noopener noreferrer nofollow">https://www.celestrak.org/NORAD/elements/supplemental/</a>  
 
 21. <a id="endnote-21"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/pdf/2403.08155](https://arxiv.org/pdf/2403.08155)  
+   Link: <a href="https://arxiv.org/pdf/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2403.08155</a>  
 
 22. <a id="endnote-22"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2406.16589](https://arxiv.org/abs/2406.16589)  
+   Link: <a href="https://arxiv.org/abs/2406.16589" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2406.16589</a>  
 
 23. <a id="endnote-23"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/pdf/2405.13091](https://arxiv.org/pdf/2405.13091)  
+   Link: <a href="https://arxiv.org/pdf/2405.13091" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2405.13091</a>  
 
 24. <a id="endnote-24"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2405.13091](https://arxiv.org/abs/2405.13091)  
+   Link: <a href="https://arxiv.org/abs/2405.13091" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2405.13091</a>  
 
 25. <a id="endnote-25"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/pdf/2507.00107](https://arxiv.org/pdf/2507.00107)  
+   Link: <a href="https://arxiv.org/pdf/2507.00107" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2507.00107</a>  
 
 26. <a id="endnote-26"></a>
    Source: starlink.com  
-   Link: [https://starlink.com/public-files/BrightnessMitigationBestPracticesSatelliteOperators.pdf?srsltid=AfmBOorIcNf4C4RwO1bXTpTiZI3-iASfi-D5PyZOZ5z8JBdLVALSe47p](https://starlink.com/public-files/BrightnessMitigationBestPracticesSatelliteOperators.pdf?srsltid=AfmBOorIcNf4C4RwO1bXTpTiZI3-iASfi-D5PyZOZ5z8JBdLVALSe47p)  
+   Link: <a href="https://starlink.com/public-files/BrightnessMitigationBestPracticesSatelliteOperators.pdf?srsltid=AfmBOorIcNf4C4RwO1bXTpTiZI3-iASfi-D5PyZOZ5z8JBdLVALSe47p" target="_blank" rel="noopener noreferrer nofollow">https://starlink.com/public-files/BrightnessMitigationBestPracticesSatelliteOperators.pdf?srsltid=AfmBOorIcNf4C4RwO1bXTpTiZI3-iASfi-D5PyZOZ5z8JBdLVALSe47p</a>  
 
 27. <a id="endnote-27"></a>
    Source: cps.iau.org  
    Title: IAU CPS Essential Reading List 11.14.2025  
-   Link: [https://cps.iau.org/documents/331/IAU_CPS_Essential_Reading_List_11.14.2025.pdf](https://cps.iau.org/documents/331/IAU_CPS_Essential_Reading_List_11.14.2025.pdf)  
+   Link: <a href="https://cps.iau.org/documents/331/IAU_CPS_Essential_Reading_List_11.14.2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cps.iau.org/documents/331/IAU_CPS_Essential_Reading_List_11.14.2025.pdf</a>  
 
 28. <a id="endnote-28"></a>
    Source: cps.iau.org  
    Title: CPS Essential Reading List 3.27.24 1  
-   Link: [https://cps.iau.org/documents/100/IAU_CPS_Essential_Reading_List_3.27.24_1.pdf](https://cps.iau.org/documents/100/IAU_CPS_Essential_Reading_List_3.27.24_1.pdf)  
+   Link: <a href="https://cps.iau.org/documents/100/IAU_CPS_Essential_Reading_List_3.27.24_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cps.iau.org/documents/100/IAU_CPS_Essential_Reading_List_3.27.24_1.pdf</a>  
 
 29. <a id="endnote-29"></a>
    Source: cps.iau.org  
-   Link: [https://cps.iau.org/news/nsf-and-spacex-sign-agreement-to-mitigate-impact-of-starlink-satellites-on-ground-based-astronomy/](https://cps.iau.org/news/nsf-and-spacex-sign-agreement-to-mitigate-impact-of-starlink-satellites-on-ground-based-astronomy/)  
+   Link: <a href="https://cps.iau.org/news/nsf-and-spacex-sign-agreement-to-mitigate-impact-of-starlink-satellites-on-ground-based-astronomy/" target="_blank" rel="noopener noreferrer nofollow">https://cps.iau.org/news/nsf-and-spacex-sign-agreement-to-mitigate-impact-of-starlink-satellites-on-ground-based-astronomy/</a>  
 
 30. <a id="endnote-30"></a>
    Source: cps.iau.org  
    Title: Consolidated CPS Recommendations  
-   Link: [https://cps.iau.org/documents/44/Consolidated-CPS-Recommendations.pdf](https://cps.iau.org/documents/44/Consolidated-CPS-Recommendations.pdf)  
+   Link: <a href="https://cps.iau.org/documents/44/Consolidated-CPS-Recommendations.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cps.iau.org/documents/44/Consolidated-CPS-Recommendations.pdf</a>  
 
 31. <a id="endnote-31"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/wp-content/uploads/2019/11/earth_at_night_508.pdf](https://www.nasa.gov/wp-content/uploads/2019/11/earth_at_night_508.pdf)  
+   Link: <a href="https://www.nasa.gov/wp-content/uploads/2019/11/earth_at_night_508.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2019/11/earth_at_night_508.pdf</a>  
 
 32. <a id="endnote-32"></a>
    Source: war.gov  
    Title: dow uap d10 mission report middle east may 2022  
-   Link: [https://www.war.gov/medialink/ufo/release_1/dow-uap-d10-mission-report-middle-east-may-2022.pdf](https://www.war.gov/medialink/ufo/release_1/dow-uap-d10-mission-report-middle-east-may-2022.pdf)  
+   Link: <a href="https://www.war.gov/medialink/ufo/release_1/dow-uap-d10-mission-report-middle-east-may-2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/dow-uap-d10-mission-report-middle-east-may-2022.pdf</a>  
    Published: may 2022  
 
 33. <a id="endnote-33"></a>
    Source: space.com  
    Title: x counters faa claims starlink space junk dangers  
-   Link: [https://www.space.com/spacex-counters-faa-claims-starlink-space-junk-dangers](https://www.space.com/spacex-counters-faa-claims-starlink-space-junk-dangers)  
+   Link: <a href="https://www.space.com/spacex-counters-faa-claims-starlink-space-junk-dangers" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-counters-faa-claims-starlink-space-junk-dangers</a>  
 
 34. <a id="endnote-34"></a>
    Source: iauarchive.eso.org  
    Title: satellite constellations  
-   Link: [https://iauarchive.eso.org/public/themes/satellite-constellations/](https://iauarchive.eso.org/public/themes/satellite-constellations/)  
+   Link: <a href="https://iauarchive.eso.org/public/themes/satellite-constellations/" target="_blank" rel="noopener noreferrer nofollow">https://iauarchive.eso.org/public/themes/satellite-constellations/</a>  
 
 35. <a id="endnote-35"></a>
    Source: apify.com  
    Title: celestrak tle satellites scraper  
-   Link: [https://apify.com/parseforge/celestrak-tle-satellites-scraper](https://apify.com/parseforge/celestrak-tle-satellites-scraper)  
+   Link: <a href="https://apify.com/parseforge/celestrak-tle-satellites-scraper" target="_blank" rel="noopener noreferrer nofollow">https://apify.com/parseforge/celestrak-tle-satellites-scraper</a>  
 
 36. <a id="endnote-36"></a>
    Source: play.google.com  
    Title: Heavens Above  
-   Link: [https://play.google.com/store/apps/details/Heavens_Above?hl=en_ZA&id=com.heavens_above.viewer](https://play.google.com/store/apps/details/Heavens_Above?hl=en_ZA&id=com.heavens_above.viewer)  
+   Link: <a href="https://play.google.com/store/apps/details/Heavens_Above?hl=en_ZA&amp;id=com.heavens_above.viewer" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details/Heavens_Above?hl=en_ZA&amp;id=com.heavens_above.viewer</a>  
 
 37. <a id="endnote-37"></a>
    Source: foxnews.com  
-   Link: [https://www.foxnews.com/science/spacex-starlink-satellites-not-ufos-spotted-in-night-sky-over-washington-state-report](https://www.foxnews.com/science/spacex-starlink-satellites-not-ufos-spotted-in-night-sky-over-washington-state-report)  
+   Link: <a href="https://www.foxnews.com/science/spacex-starlink-satellites-not-ufos-spotted-in-night-sky-over-washington-state-report" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/science/spacex-starlink-satellites-not-ufos-spotted-in-night-sky-over-washington-state-report</a>  
 
 38. <a id="endnote-38"></a>
    Source: Wikipedia  
    Title: Heavens Above  
-   Link: [https://en.wikipedia.org/wiki/Heavens-Above](https://en.wikipedia.org/wiki/Heavens-Above)  
+   Link: <a href="https://en.wikipedia.org/wiki/Heavens-Above" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Heavens-Above</a>  
 
 39. <a id="endnote-39"></a>
    Source: thedebrief.org  
-   Link: [https://thedebrief.org/spacex-starlink-extreme-flaring-increases-reported-uap-sightings-and-poses-aviation-risks-new-research-finds/](https://thedebrief.org/spacex-starlink-extreme-flaring-increases-reported-uap-sightings-and-poses-aviation-risks-new-research-finds/)  
+   Link: <a href="https://thedebrief.org/spacex-starlink-extreme-flaring-increases-reported-uap-sightings-and-poses-aviation-risks-new-research-finds/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/spacex-starlink-extreme-flaring-increases-reported-uap-sightings-and-poses-aviation-risks-new-research-finds/</a>  
 
 40. <a id="endnote-40"></a>
    Source: independent.co.uk  
-   Link: [https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html](https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html)  
+   Link: <a href="https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html</a>  
 
 ### Additional References
 
 41. <a id="endnote-41"></a>
    Source: communities.springernature.com  
    Title: low earth orbit space telescopes are getting blocked by internet satellites  
-   Link: [https://communities.springernature.com/posts/low-earth-orbit-space-telescopes-are-getting-blocked-by-internet-satellites](https://communities.springernature.com/posts/low-earth-orbit-space-telescopes-are-getting-blocked-by-internet-satellites)  
+   Link: <a href="https://communities.springernature.com/posts/low-earth-orbit-space-telescopes-are-getting-blocked-by-internet-satellites" target="_blank" rel="noopener noreferrer nofollow">https://communities.springernature.com/posts/low-earth-orbit-space-telescopes-are-getting-blocked-by-internet-satellites</a>  
 
 42. <a id="endnote-42"></a>
    Source: youtube.com  
    Title: How to Identify Starlink Satellites in the Night Sky  
-   Link: [https://www.youtube.com/watch?v=0k57_j-pXm8](https://www.youtube.com/watch?v=0k57_j-pXm8)  
+   Link: <a href="https://www.youtube.com/watch?v=0k57_j-pXm8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0k57_j-pXm8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What are the Starlink satellite trains seen in the sky?...</p></details>
 
 43. <a id="endnote-43"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/340462433_The_Low_Earth_Orbit_Satellite_Population_and_Impacts_of_the_SpaceX_Starlink_Constellation](https://www.researchgate.net/publication/340462433_The_Low_Earth_Orbit_Satellite_Population_and_Impacts_of_the_SpaceX_Starlink_Constellation)  
+   Link: <a href="https://www.researchgate.net/publication/340462433_The_Low_Earth_Orbit_Satellite_Population_and_Impacts_of_the_SpaceX_Starlink_Constellation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/340462433_The_Low_Earth_Orbit_Satellite_Population_and_Impacts_of_the_SpaceX_Starlink_Constellation</a>  
 
 44. <a id="endnote-44"></a>
    Source: thebaldgeek.github.io  
-   Link: [https://thebaldgeek.github.io/autoTLE.html](https://thebaldgeek.github.io/autoTLE.html)  
+   Link: <a href="https://thebaldgeek.github.io/autoTLE.html" target="_blank" rel="noopener noreferrer nofollow">https://thebaldgeek.github.io/autoTLE.html</a>  
 
 45. <a id="endnote-45"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/News13/posts/a-mysterious-object-seen-flying-across-the-moon-by-residents-in-california-turne/753254927011243/](https://www.facebook.com/News13/posts/a-mysterious-object-seen-flying-across-the-moon-by-residents-in-california-turne/753254927011243/)  
+   Link: <a href="https://www.facebook.com/News13/posts/a-mysterious-object-seen-flying-across-the-moon-by-residents-in-california-turne/753254927011243/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/News13/posts/a-mysterious-object-seen-flying-across-the-moon-by-residents-in-california-turne/753254927011243/</a>  
 
 46. <a id="endnote-46"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ABCNews/posts/a-new-nasa-led-study-shows-that-the-increasing-number-of-satellites-in-low-earth/1272314691422075/](https://www.facebook.com/ABCNews/posts/a-new-nasa-led-study-shows-that-the-increasing-number-of-satellites-in-low-earth/1272314691422075/)  
+   Link: <a href="https://www.facebook.com/ABCNews/posts/a-new-nasa-led-study-shows-that-the-increasing-number-of-satellites-in-low-earth/1272314691422075/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCNews/posts/a-new-nasa-led-study-shows-that-the-increasing-number-of-satellites-in-low-earth/1272314691422075/</a>  
 
 47. <a id="endnote-47"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TheAssamTribune/posts/a-trail-of-mysterious-lights-was-spotted-in-lucknow-uttar-pradesh-local-resident/10163295958425898/](https://www.facebook.com/TheAssamTribune/posts/a-trail-of-mysterious-lights-was-spotted-in-lucknow-uttar-pradesh-local-resident/10163295958425898/)  
+   Link: <a href="https://www.facebook.com/TheAssamTribune/posts/a-trail-of-mysterious-lights-was-spotted-in-lucknow-uttar-pradesh-local-resident/10163295958425898/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheAssamTribune/posts/a-trail-of-mysterious-lights-was-spotted-in-lucknow-uttar-pradesh-local-resident/10163295958425898/</a>  
 
 48. <a id="endnote-48"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Starlink/comments/17n1uxc/am_i_able_to_get_a_notification_about_when/](https://www.reddit.com/r/Starlink/comments/17n1uxc/am_i_able_to_get_a_notification_about_when/)  
+   Link: <a href="https://www.reddit.com/r/Starlink/comments/17n1uxc/am_i_able_to_get_a_notification_about_when/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Starlink/comments/17n1uxc/am_i_able_to_get_a_notification_about_when/</a>  
 
 49. <a id="endnote-49"></a>
    Source: planet4589.org  
-   Link: [https://planet4589.org/jcm/pubs/space/papers/2020/SATCON1-WG-Tech-Reports.pdf](https://planet4589.org/jcm/pubs/space/papers/2020/SATCON1-WG-Tech-Reports.pdf)  
+   Link: <a href="https://planet4589.org/jcm/pubs/space/papers/2020/SATCON1-WG-Tech-Reports.pdf" target="_blank" rel="noopener noreferrer nofollow">https://planet4589.org/jcm/pubs/space/papers/2020/SATCON1-WG-Tech-Reports.pdf</a>  
 
 50. <a id="endnote-50"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/NoStupidQuestions/comments/1e5ua92/are_certain_satellites_visible_during_night/](https://www.reddit.com/r/NoStupidQuestions/comments/1e5ua92/are_certain_satellites_visible_during_night/)  
+   Link: <a href="https://www.reddit.com/r/NoStupidQuestions/comments/1e5ua92/are_certain_satellites_visible_during_night/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/NoStupidQuestions/comments/1e5ua92/are_certain_satellites_visible_during_night/</a>

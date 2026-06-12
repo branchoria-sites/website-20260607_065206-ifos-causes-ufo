@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb_ufo_label_changes_1645b2
 - ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb_unresolved_not_alien_f8453e
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - status-labels
 - stigma
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - status-labels
 - stigma
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Loaded UFO language can discourage serious reporting, while clearer UAP wording can help aviation and defense systems collect better data.
 hero_summary: Loaded UFO language can discourage serious reporting, while clearer UAP wording can help aviation and defense systems collect better data.
 layout: default
 permalink: /stigma/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /status-labels/
 nav_short_title: Stigma
 title: Why UFO Wording Changes What People Report
-title_full: Why UFO Wording Changes What People Report | Status Labels
+title_full: Why UFO Wording Changes What People Report
 display_title_short: Stigma
 display_title: Stigma
 heading_title: Why UFO Wording Changes What People Report
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: UFO Does Not Mean Alien | IFOs
+parent_title: UFO Does Not Mean Alien
 parent_permalink: /status-labels/
 parent_nav_short_title: Status Labels
 parent_heading_title: UFO Does Not Mean Alien
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb
-  title: Status Labels | Ifos Causes Of
+  title: Status Labels | ifos causes of UFO 3 ed 238
   permalink: /status-labels/
   short_title: Status Labels
   heading_title: UFO Does Not Mean Alien
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb
-  title: Status Labels | Ifos Causes Of
+  title: Status Labels | ifos causes of UFO 3 ed 238
   permalink: /status-labels/
   short_title: Status Labels
   heading_title: UFO Does Not Mean Alien
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why Unresolved Does Not Mean Alien
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb
-  title: Status Labels | Ifos Causes Of
+  title: Status Labels | ifos causes of UFO 3 ed 238
   permalink: /status-labels/
   short_title: Status Labels
   heading_title: UFO Does Not Mean Alien
@@ -265,7 +265,7 @@ next_link:
   permalink: /unresolved-cases-3e7e8b/
   short_title: Unresolved Cases
   heading_title: Why Unresolved Does Not Mean Alien
-date: '2026-06-07 06:26:30 '
+date: '2026-06-12 00:44:57 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb_ufo_reporting_stigma_5d03a6-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb_ufo_reporting_stigma_5d03a6-Illustration-1.webp
@@ -274,8 +274,7 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb_ufo_r
 
 ## Introduction
 
-The words used to describe unusual aerial sightings influence far more than public debate. They affect whether people report what they saw, how seriously institutions treat the report, and how much usable information enters safety and intelligence systems. For decades, the term “UFO” accumulated strong cultural associations with aliens, conspiracy theories, and sensational media coverage. As a result, many witnesses—especially [pilots]({{ 'pilots/' | relative_url }}), military personnel, and technical professionals—have worried that reporting an unusual observation could damage their credibility. Recent shifts toward the term “UAP” (unidentified anomalous phenomena) reflect an attempt to separate the act of reporting an unexplained observation from any claim about its origin. NASA, aviation specialists, and government reporting bodies have repeatedly identified stigma as a barrier to collecting reliable data. NASA Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/newshour/science/watch-nasa-report-says-more-science-and-less-stigma-are-needed-to-understand-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-snippet">PBSWATCH: NASA report says more science and less stigma are...An independent team commissioned by NASA cautions that the negative percep...</span></span></span>
-
+The words used to describe unusual aerial sightings influence far more than public debate. They affect whether people report what they saw, how seriously institutions treat the report, and how much usable information enters safety and intelligence systems. For decades, the term “UFO” accumulated strong cultural associations with aliens, conspiracy theories, and sensational media coverage. As a result, many witnesses—especially [pilots]({{ 'pilots/' | relative_url }}), military personnel, and technical professionals—have worried that reporting an unusual observation could damage their credibility. Recent shifts toward the term “UAP” (unidentified anomalous phenomena) reflect an attempt to separate the act of reporting an unexplained observation from any claim about its origin. NASA, aviation specialists, and government reporting bodies have repeatedly identified stigma as a barrier to collecting reliable data. NASA Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/newshour/science/watch-nasa-report-says-more-science-and-less-stigma-are-needed-to-understand-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-snippet">WATCH: NASA report says more science and less stigma are...An independent team commissioned by NASA cautions that the negative percep...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb_ufo_reporting_stigma_5d03a6-Illustration-1-dark.svg" | relative_url }}" alt="Stigma illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb_ufo_reporting_stigma_5d03a6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb_ufo_reporting_stigma_5d03a6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within the broader question of how unidentified flying object reports arise, terminology matters because it shapes the flow of information. A reporting system cannot investigate incidents that people never report.
@@ -284,20 +283,17 @@ Within the broader question of how unidentified flying object reports arise, ter
 
 The central problem is that many people hear “UFO” not as “currently unidentified” but as “probably alien.” That cultural shortcut changes witness behaviour.
 
-A pilot who reports a strange light, [radar]({{ 'radar/' | relative_url }}) contact, or near-airspace encounter may fear being associated with extraordinary claims rather than being seen as providing routine safety information. Researchers and government bodies have repeatedly noted that witnesses often anticipate ridicule, career consequences, or reputational harm. NASA's independent UAP study concluded that stigma almost certainly contributes to the loss of potentially useful data because people hesitate to come forward. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportNASA&#x27;s very involvement in UAP will play a vital role in reducing stigma associated with UAP rep...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">WikisourcePage:UAP Independent Study Team - Final Report.pdf/2912 Nov 2023 — NASA could play an important role in destigmatizing the UAP...</span></span></span>
+A pilot who reports a strange light, [radar]({{ 'radar/' | relative_url }}) contact, or near-airspace encounter may fear being associated with extraordinary claims rather than being seen as providing routine safety information. Researchers and government bodies have repeatedly noted that witnesses often anticipate ridicule, career consequences, or reputational harm. NASA's independent UAP study concluded that stigma almost certainly contributes to the loss of potentially useful data because people hesitate to come forward. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportNASA&#x27;s very involvement in UAP will play a vital role in reducing stigma associated with UAP rep...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">Page:UAP Independent Study Team - Final Report.pdf/2912 Nov 2023 — NASA could play an important role in destigmatizing the UAP...</span></span></span>
 
 The effect is particularly important in professional settings:
 
 * Pilots may avoid formal reports because they do not want colleagues to interpret the report as an endorsement of extraterrestrial explanations.
 * Air traffic personnel may use cautious language or omit details to avoid becoming associated with a controversial topic.
-* Scientists may avoid research involvement because of concerns that the subject could be viewed as fringe rather than empirical. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportNASA&#x27;s very involvement in UAP will play a vital role in reducing stigma associated with UAP rep...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://uapcoalitienederland.nl/en/scientific-uap-research-on-aviation-safety-stigma/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapcoalitienederland.nl">[UAP Coalitie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapcoalitienederland.nl</span><span class="citation-popover-title">scientific uap research on aviation safety stigma</span><span class="citation-popover-snippet">Scientific UAP research hampered by stigma | UAPCNL3 Feb 2026 — Underreporting: For fear of being labelled “crazy” or losing their pilot&#x27;...</span></span></span>
+* Scientists may avoid research involvement because of concerns that the subject could be viewed as fringe rather than empirical. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportNASA&#x27;s very involvement in UAP will play a vital role in reducing stigma associated with UAP rep...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://uapcoalitienederland.nl/en/scientific-uap-research-on-aviation-safety-stigma/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapcoalitienederland.nl">[UAP Coalitie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapcoalitienederland.nl</span><span class="citation-popover-title">scientific uap research on aviation safety stigma</span><span class="citation-popover-snippet">Scientific UAP research hampered by stigma &#124; UAPCNL3 Feb 2026 — Underreporting: For fear of being labelled “crazy” or losing their pilot&#x27;...</span></span></span>
 
 This creates a feedback loop. Fewer reports mean less data. Less data means more unresolved cases. Unresolved cases then attract speculation, which can further reinforce the perception that reporting unusual observations leads directly into debates about aliens rather than evidence collection.
 
-NASA explicitly argued that scientific engagement can help break this cycle by reframing reports as data points requiring analysis rather than as claims requiring belief. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportNASA&#x27;s very involvement in UAP will play a vital role in reducing stigma associated with UAP rep...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">WikisourceNASA Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — Leveraging the Aviation Safety Reporting System for commerc...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cYmbQVHkfQ0" title="🔍 The Albert Gate Mystery: A Captivating Detective Tale 🕵️‍♂️ By Louis Tracy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cYmbQVHkfQ0" target="_blank" rel="noopener noreferrer">🔍 The Albert Gate Mystery: A Captivating Detective Tale 🕵️‍♂️ By Louis Tracy</a></p><p class="youtube-embed-meta">Channel: Storytime Haven</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cYmbQVHkfQ0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cYmbQVHkfQ0">Open on YouTube</a></p></div></div></div>
+NASA explicitly argued that scientific engagement can help break this cycle by reframing reports as data points requiring analysis rather than as claims requiring belief. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportNASA&#x27;s very involvement in UAP will play a vital role in reducing stigma associated with UAP rep...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">NASA Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — Leveraging the Aviation Safety Reporting System for commerc...</span></span></span>
 
 ## Why Stigma Matters for Safety Data
 
@@ -305,16 +301,15 @@ The consequences of reporting stigma extend beyond public curiosity. Aviation an
 
 From a governance perspective, an unidentified object does not need to be extraordinary to matter. A balloon, drone, satellite reflection, atmospheric phenomenon, sensor error, or misidentified aircraft can all create operational confusion. Investigators need reports in order to determine which explanation applies. If witnesses stay silent, institutions lose the opportunity to identify patterns, improve training, or detect genuine hazards. Wikisource <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.narcap.org/faa-reporting-recommendation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: narcap.org">[2narcap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">narcap.org</span><span class="citation-popover-snippet">National Aviation Reporting Center on Anomalous...Currently, UAP reporting is voluntary, and stigma and ridicule have caused under-repor...</span></span></span>
 
-Recent official efforts have focused on normalising reporting rather than promoting any particular explanation. The U.S. All-domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})) receives reports from aviation channels and encourages formal reporting procedures. The Federal Aviation Administration now directs people seeking to report unexplained aerial activity toward established reporting mechanisms. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROAARO HomeAARO receives UAP-related Pilot Reports (PIREPs) from the Federal Aviation Administration. AARO will announce when a reporti...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Submit A ReportAARO receives UAP-related Pilot Reports (PIREPs) from the Federal Aviation Administration. AARO will announce when a repor...</span></span></span>
+Recent official efforts have focused on normalising reporting rather than promoting any particular explanation. The U.S. All-domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})) receives reports from aviation channels and encourages formal reporting procedures. The Federal Aviation Administration now directs people seeking to report unexplained aerial activity toward established reporting mechanisms. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeAARO receives UAP-related Pilot Reports (PIREPs) from the Federal Aviation Administration. AARO will announce when a reporti...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Submit A ReportAARO receives UAP-related Pilot Reports (PIREPs) from the Federal Aviation Administration. AARO will announce when a repor...</span></span></span>
 
 Several developments illustrate why institutions care about reducing stigma:
 
-* NASA's study recommended integrating reporting into existing aviation safety systems where possible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">WikisourcePage:UAP Independent Study Team - Final Report.pdf/2912 Nov 2023 — NASA could play an important role in destigmatizing the UAP...</span></span></span>
+* NASA's study recommended integrating reporting into existing aviation safety systems where possible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">Page:UAP Independent Study Team - Final Report.pdf/2912 Nov 2023 — NASA could play an important role in destigmatizing the UAP...</span></span></span>
 * AARO has stated that education campaigns seek both to improve identification of ordinary objects and reduce reluctance to report observations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dod examining unidentified anomalous phenomena</span><span class="citation-popover-snippet">Department of WarDOD Examining Unidentified Anomalous Phenomena14 Nov 2024 — AARO continues to see a density of UAP reports near U.S. mil...</span></span></span>
 * Aviation researchers have argued that under-reporting leaves safety organisations with an incomplete picture of unusual events occurring in airspace. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.narcap.org/faa-reporting-recommendation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: narcap.org">[narcap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">narcap.org</span><span class="citation-popover-snippet">National Aviation Reporting Center on Anomalous...Currently, UAP reporting is voluntary, and stigma and ridicule have caused under-repor...</span></span></span>
 
 An important point is that better reporting does not automatically imply more unexplained phenomena. Increased reporting can simply reveal events that were already occurring but were previously omitted from official records. Aerospace analysts have noted that rising case numbers may reflect reduced stigma and improved reporting channels as much as any change in the underlying phenomenon itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aerospaceamerica.aiaa.org/year-in-review/u-s-government-studies-hearings-highlight-increasing-awareness-of-uap-as-an-aerospace-safety-concern/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospaceamerica.aiaa.org">[Aerospace America]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospaceamerica.aiaa.org</span><span class="citation-popover-title">Aerospace America U.S</span><span class="citation-popover-snippet">government studies, hearings highlight increasing...1 Dec 2023 — This increase could be a sign of increased UAP activity, an increase in...</span></span></span>
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb_ufo_reporting_stigma_5d03a6-Illustration-2-dark.svg" | relative_url }}" alt="Stigma illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb_ufo_reporting_stigma_5d03a6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb_ufo_reporting_stigma_5d03a6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### A Practical Example: Misidentifications Still Require Reports
@@ -325,14 +320,11 @@ Researchers analysing a 2022 commercial aviation incident found that multiple pi
 
 If witnesses avoid reporting because the label “UFO” feels embarrassing, organisations lose opportunities to identify exactly these kinds of recurring causes.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rySKlyWNCGA" title="Inside AATIP: The Pentagon&#x27;s UFO Quest and Its Military Implications" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rySKlyWNCGA" target="_blank" rel="noopener noreferrer">Inside AATIP: The Pentagon&#x27;s UFO Quest and Its Military Implications</a></p><p class="youtube-embed-meta">Channel: UFO to UAP: The Evolution of the Unexplained</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rySKlyWNCGA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rySKlyWNCGA">Open on YouTube</a></p></div></div></div>
-
 ## The Limits of Changing UFO to UAP
 
 Replacing “UFO” with “UAP” can reduce some barriers, but terminology alone cannot eliminate stigma.
 
-The newer term was adopted partly because it sounds procedural rather than sensational. “Unidentified anomalous phenomena” emphasises that an observation has not yet been explained. It avoids directly invoking decades of popular culture surrounding flying saucers and alien visitors. NASA leaders have openly described the goal as shifting discussion from sensationalism toward scientific investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/newshour/science/watch-nasa-report-says-more-science-and-less-stigma-are-needed-to-understand-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-snippet">PBSWATCH: NASA report says more science and less stigma are...An independent team commissioned by NASA cautions that the negative percep...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED However]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">The agency stressed the need to shift the conversation from sensationalism to science and eliminate the stigma associated with reporting...</span></span></span>, changing vocabulary has limits.
+The newer term was adopted partly because it sounds procedural rather than sensational. “Unidentified anomalous phenomena” emphasises that an observation has not yet been explained. It avoids directly invoking decades of popular culture surrounding flying saucers and alien visitors. NASA leaders have openly described the goal as shifting discussion from sensationalism toward scientific investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/newshour/science/watch-nasa-report-says-more-science-and-less-stigma-are-needed-to-understand-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-snippet">WATCH: NASA report says more science and less stigma are...An independent team commissioned by NASA cautions that the negative percep...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED However]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">The agency stressed the need to shift the conversation from sensationalism to science and eliminate the stigma associated with reporting...</span></span></span>, changing vocabulary has limits.
 
 First, many members of the public already know that UAP is often used as a substitute for UFO. The older associations therefore continue to follow the newer term. Second, institutional trust matters as much as language. Witnesses are more likely to report incidents when they believe reports will be analysed professionally and without ridicule. Third, data quality problems remain even if reporting increases. Poor sensor information, incomplete observations, and missing contextual records can still leave cases unresolved. NASA Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/all-domain-anomaly-resolution-office-hosts-private-workshop-with-civilian-researchers-universities-and-government-agencies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-snippet">All-domain Anomaly Resolution Office Hosts Private...26 Feb 2026 — A recent AARO report outlines new standards for data collection, AI u...</span></span></span>
 
@@ -342,15 +334,14 @@ In practice, the most effective approach combines several elements:
 * Standardised reporting procedures.
 * Protection against professional ridicule.
 * Better training to identify common sources of misidentification.
-* Transparent investigation methods. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-snippet">recommendations to enhance transparency and scientific inquiry on UAP issues...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportNASA&#x27;s very involvement in UAP will play a vital role in reducing stigma associated with UAP rep...</span></span></span> Wikisource The goal is not to encourage belief in extraordinary explanations. It is to encourage accurate reporting of unusual observations so that ordi <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[en.wikisource.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">WikisourcePage:UAP Independent Study Team - Final Report.pdf/2912 Nov 2023 — NASA could play an important role in destigmatizing the UAP...</span></span></span> nary explanations, safety hazards, and genuinely unresolved cases can all be examined using the same evidence-based process.
-
+* Transparent investigation methods. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-snippet">recommendations to enhance transparency and scientific inquiry on UAP issues...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportNASA&#x27;s very involvement in UAP will play a vital role in reducing stigma associated with UAP rep...</span></span></span> Wikisource The goal is not to encourage belief in extraordinary explanations. It is to encourage accurate reporting of unusual observations so that ordi <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[en.wikisource.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">Page:UAP Independent Study Team - Final Report.pdf/2912 Nov 2023 — NASA could play an important role in destigmatizing the UAP...</span></span></span> nary explanations, safety hazards, and genuinely unresolved cases can all be examined using the same evidence-based process.
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb_ufo_reporting_stigma_5d03a6-Illustration-3-dark.svg" | relative_url }}" alt="Stigma illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb_ufo_reporting_stigma_5d03a6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb_ufo_reporting_stigma_5d03a6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Wording Debate Matters
 
 The debate over “UFO” versus “UAP” is ultimately a governance issue rather than a linguistic one. Labels influence incentives. When a term carries assumptions about aliens or fringe beliefs, some witnesses choose silence over reporting. When institutions frame reports as neutral observations awaiting investigation, participation becomes easier.
 
-For understanding the causes of UFO reports, this distinction is crucial. Reporting systems are shaped not only by what people see but also by how comfortable they feel describing it. Terminology cannot determine whether a sighting is a drone, a planet, a balloon, a sensor artefact, or something still unresolved. It can, however, determine whether the sighting enters the record at all. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aerospaceamerica.aiaa.org/year-in-review/u-s-government-studies-hearings-highlight-increasing-awareness-of-uap-as-an-aerospace-safety-concern/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospaceamerica.aiaa.org">[Aerospace America]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospaceamerica.aiaa.org</span><span class="citation-popover-title">Aerospace America U.S</span><span class="citation-popover-snippet">government studies, hearings highlight increasing...1 Dec 2023 — This increase could be a sign of increased UAP activity, an increase in...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportNASA&#x27;s very involvement in UAP will play a vital role in reducing stigma associated with UAP rep...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/newshour/science/watch-nasa-report-says-more-science-and-less-stigma-are-needed-to-understand-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-snippet">PBSWATCH: NASA report says more science and less stigma are...An independent team commissioned by NASA cautions that the negative percep...</span></span></span>
+For understanding the causes of UFO reports, this distinction is crucial. Reporting systems are shaped not only by what people see but also by how comfortable they feel describing it. Terminology cannot determine whether a sighting is a drone, a planet, a balloon, a sensor artefact, or something still unresolved. It can, however, determine whether the sighting enters the record at all. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aerospaceamerica.aiaa.org/year-in-review/u-s-government-studies-hearings-highlight-increasing-awareness-of-uap-as-an-aerospace-safety-concern/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospaceamerica.aiaa.org">[Aerospace America]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospaceamerica.aiaa.org</span><span class="citation-popover-title">Aerospace America U.S</span><span class="citation-popover-snippet">government studies, hearings highlight increasing...1 Dec 2023 — This increase could be a sign of increased UAP activity, an increase in...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportNASA&#x27;s very involvement in UAP will play a vital role in reducing stigma associated with UAP rep...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/newshour/science/watch-nasa-report-says-more-science-and-less-stigma-are-needed-to-understand-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-snippet">WATCH: NASA report says more science and less stigma are...An independent team commissioned by NASA cautions that the negative percep...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -469,15 +460,15 @@ For understanding the causes of UFO reports, this distinction is crucial. Report
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-why-ufo-wording-changes-what-people-report-ifos-causes-of-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="stigma-why-ufo-wording-changes-what-people-report-ifos-causes-of-alien-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weyland-Yutani Corp Patch- Alien Movie Embroidered Patch Sew/Iron On UK GB Badge"><img src="{{ '/assets/images/marketplace-covers/2e8368c072143378fdb0.jpg' | relative_url }}" alt="Listing image for Weyland-Yutani Corp Patch- Alien Movie Embroidered Patch Sew/Iron On UK GB Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-wording-changes-what-people-report-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="why-ufo-wording-changes-what-people-report-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for IRON MAIDEN Shirt The Trooper Judas Priest Motorhead Metallica Megadeth DIO UFO"><img src="https://i.ebayimg.com/images/g/FAcAAeSwvTFqKvfg/s-l225.jpg" alt="Listing image for IRON MAIDEN Shirt The Trooper Judas Priest Motorhead Metallica Megadeth DIO UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-why-ufo-wording-changes-what-people-report-ifos-causes-of-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="stigma-why-ufo-wording-changes-what-people-report-ifos-causes-of-alien-patch" target="_blank" rel="sponsored noopener noreferrer">Weyland-Yutani Corp Patch- Alien Movie Embroidered Patch Sew/Iron On UK GB Badge</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-wording-changes-what-people-report-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="why-ufo-wording-changes-what-people-report-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">IRON MAIDEN Shirt The Trooper Judas Priest Motorhead Metallica Megadeth DIO UFO</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-why-ufo-wording-changes-what-people-report-ifos-causes-of-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="stigma-why-ufo-wording-changes-what-people-report-ifos-causes-of-alien-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-wording-changes-what-people-report-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="why-ufo-wording-changes-what-people-report-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-why-ufo-wording-changes-what-people-report-ifos-causes-of-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="stigma-why-ufo-wording-changes-what-people-report-ifos-causes-of-alien-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-wording-changes-what-people-report-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="why-ufo-wording-changes-what-people-report-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -485,15 +476,15 @@ For understanding the causes of UFO reports, this distinction is crucial. Report
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-why-ufo-wording-changes-what-people-report-ifos-causes-of-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="stigma-why-ufo-wording-changes-what-people-report-ifos-causes-of-alien-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Space Embroidery Patch Iron Or Sewn On"><img src="{{ '/assets/images/marketplace-covers/ebfabc2ced200bfb4958.jpg' | relative_url }}" alt="Listing image for Alien Space Embroidery Patch Iron Or Sewn On" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-wording-changes-what-people-report-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="why-ufo-wording-changes-what-people-report-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Band No Heavy Petting Graphic Print Unisex Mens T-Shirt S M L XL 2 3 4 XL"><img src="https://i.ebayimg.com/images/g/RFUAAeSwX8Rp8jZy/s-l225.jpg" alt="Listing image for UFO Band No Heavy Petting Graphic Print Unisex Mens T-Shirt S M L XL 2 3 4 XL" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-why-ufo-wording-changes-what-people-report-ifos-causes-of-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="stigma-why-ufo-wording-changes-what-people-report-ifos-causes-of-alien-patch" target="_blank" rel="sponsored noopener noreferrer">Alien Space Embroidery Patch Iron Or Sewn On</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-wording-changes-what-people-report-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="why-ufo-wording-changes-what-people-report-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">UFO Band No Heavy Petting Graphic Print Unisex Mens T-Shirt S M L XL 2 3 4 XL</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-why-ufo-wording-changes-what-people-report-ifos-causes-of-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="stigma-why-ufo-wording-changes-what-people-report-ifos-causes-of-alien-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-wording-changes-what-people-report-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="why-ufo-wording-changes-what-people-report-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-why-ufo-wording-changes-what-people-report-ifos-causes-of-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="stigma-why-ufo-wording-changes-what-people-report-ifos-causes-of-alien-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-wording-changes-what-people-report-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="why-ufo-wording-changes-what-people-report-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -501,15 +492,15 @@ For understanding the causes of UFO reports, this distinction is crucial. Report
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-why-ufo-wording-changes-what-people-report-ifos-causes-of-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="stigma-why-ufo-wording-changes-what-people-report-ifos-causes-of-alien-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USCSS Nostromo Crew Patch | Alien Movie Replica Embroidered Badge"><img src="{{ '/assets/images/marketplace-covers/81117f863db66f4843c8.jpg' | relative_url }}" alt="Listing image for USCSS Nostromo Crew Patch | Alien Movie Replica Embroidered Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-wording-changes-what-people-report-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="why-ufo-wording-changes-what-people-report-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FUNNY UFO ALIEN &quot;AREA 51 LOGO&quot; T-SHIRT"><img src="https://i.ebayimg.com/images/g/NVcAAOSw6mdhhoZT/s-l225.jpg" alt="Listing image for FUNNY UFO ALIEN &quot;AREA 51 LOGO&quot; T-SHIRT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-why-ufo-wording-changes-what-people-report-ifos-causes-of-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="stigma-why-ufo-wording-changes-what-people-report-ifos-causes-of-alien-patch" target="_blank" rel="sponsored noopener noreferrer">USCSS Nostromo Crew Patch | Alien Movie Replica Embroidered Badge</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-wording-changes-what-people-report-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="why-ufo-wording-changes-what-people-report-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">FUNNY UFO ALIEN &quot;AREA 51 LOGO&quot; T-SHIRT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-why-ufo-wording-changes-what-people-report-ifos-causes-of-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="stigma-why-ufo-wording-changes-what-people-report-ifos-causes-of-alien-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-wording-changes-what-people-report-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="why-ufo-wording-changes-what-people-report-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-why-ufo-wording-changes-what-people-report-ifos-causes-of-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="stigma-why-ufo-wording-changes-what-people-report-ifos-causes-of-alien-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-wording-changes-what-people-report-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="why-ufo-wording-changes-what-people-report-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -517,15 +508,15 @@ For understanding the causes of UFO reports, this distinction is crucial. Report
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-why-ufo-wording-changes-what-people-report-ifos-causes-of-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="stigma-why-ufo-wording-changes-what-people-report-ifos-causes-of-alien-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN Movie Weyland-Yutani Iron on Sew on Embroidered Patch"><img src="{{ '/assets/images/marketplace-covers/38cde06e995347640daf.jpg' | relative_url }}" alt="Listing image for ALIEN Movie Weyland-Yutani Iron on Sew on Embroidered Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-wording-changes-what-people-report-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="why-ufo-wording-changes-what-people-report-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Band Vintage 1979 Ufo World Tour Rock Unisex Mens T-Shirt S M L XL 2 3 4 XL"><img src="https://i.ebayimg.com/images/g/NJgAAeSwhxRpMHWG/s-l225.jpg" alt="Listing image for Ufo Band Vintage 1979 Ufo World Tour Rock Unisex Mens T-Shirt S M L XL 2 3 4 XL" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-why-ufo-wording-changes-what-people-report-ifos-causes-of-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="stigma-why-ufo-wording-changes-what-people-report-ifos-causes-of-alien-patch" target="_blank" rel="sponsored noopener noreferrer">ALIEN Movie Weyland-Yutani Iron on Sew on Embroidered Patch</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-wording-changes-what-people-report-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="why-ufo-wording-changes-what-people-report-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Ufo Band Vintage 1979 Ufo World Tour Rock Unisex Mens T-Shirt S M L XL 2 3 4 XL</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-why-ufo-wording-changes-what-people-report-ifos-causes-of-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="stigma-why-ufo-wording-changes-what-people-report-ifos-causes-of-alien-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-wording-changes-what-people-report-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="why-ufo-wording-changes-what-people-report-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-why-ufo-wording-changes-what-people-report-ifos-causes-of-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="stigma-why-ufo-wording-changes-what-people-report-ifos-causes-of-alien-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-wording-changes-what-people-report-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="why-ufo-wording-changes-what-people-report-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -533,7 +524,7 @@ For understanding the causes of UFO reports, this distinction is crucial. Report
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-why-ufo-wording-changes-what-people-report-ifos-causes-of-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="stigma-why-ufo-wording-changes-what-people-report-ifos-causes-of-alien-patch" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-wording-changes-what-people-report-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="why-ufo-wording-changes-what-people-report-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -748,151 +739,151 @@ For understanding the causes of UFO reports, this distinction is crucial. Report
 
 1. <a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportNASA&#x27;s very involvement in UAP will play a vital role in reducing stigma associated with UAP rep...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pbs.org  
-   Link: [https://www.pbs.org/newshour/science/watch-nasa-report-says-more-science-and-less-stigma-are-needed-to-understand-ufo-sightings](https://www.pbs.org/newshour/science/watch-nasa-report-says-more-science-and-less-stigma-are-needed-to-understand-ufo-sightings)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PBSWATCH: NASA report says more science and less stigma are...An independent team commissioned by NASA cautions that the negative percep...</p></details>
+   Link: <a href="https://www.pbs.org/newshour/science/watch-nasa-report-says-more-science-and-less-stigma-are-needed-to-understand-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/science/watch-nasa-report-says-more-science-and-less-stigma-are-needed-to-understand-ufo-sightings</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>WATCH: NASA report says more science and less stigma are...An independent team commissioned by NASA cautions that the negative percep...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: en.wikisource.org  
-   Link: [https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/29](https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/29)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WikisourcePage:UAP Independent Study Team - Final Report.pdf/2912 Nov 2023 — NASA could play an important role in destigmatizing the UAP...</p></details>
+   Link: <a href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/29</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Page:UAP Independent Study Team - Final Report.pdf/2912 Nov 2023 — NASA could play an important role in destigmatizing the UAP...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv The New Science of Unidentified Aerospace-Undersea Phenomena (UAP)  
-   Link: [https://arxiv.org/abs/2502.06794](https://arxiv.org/abs/2502.06794)  
+   Link: <a href="https://arxiv.org/abs/2502.06794" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2502.06794</a>  
 
 5. <a id="endnote-5"></a>
    Source: en.wikisource.org  
-   Link: [https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task](https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WikisourceNASA Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — Leveraging the Aviation Safety Reporting System for commerc...</p></details>
+   Link: <a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — Leveraging the Aviation Safety Reporting System for commerc...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: narcap.org  
-   Link: [https://www.narcap.org/faa-reporting-recommendation](https://www.narcap.org/faa-reporting-recommendation)  
+   Link: <a href="https://www.narcap.org/faa-reporting-recommendation" target="_blank" rel="noopener noreferrer nofollow">https://www.narcap.org/faa-reporting-recommendation</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Aviation Reporting Center on Anomalous...Currently, UAP reporting is voluntary, and stigma and ridicule have caused under-repor...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROAARO HomeAARO receives UAP-related [Pilot Reports](&amp;#123;&amp;#123; &#x27;pilots/&#x27; | relative_url &amp;#125;&amp;#125;) (PIREPs) from the Federal Aviation Administration. AARO will announce when a reporti...</p></details>
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeAARO receives UAP-related Pilot Reports (PIREPs) from the Federal Aviation Administration. AARO will announce when a reporti...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Submit-A-Report/](https://www.aaro.mil/Submit-A-Report/)  
+   Link: <a href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Submit-A-Report/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Submit A ReportAARO receives UAP-related Pilot Reports (PIREPs) from the Federal Aviation Administration. AARO will announce when a repor...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/](https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Examining Unidentified Anomalous Phenomena14 Nov 2024 — AARO continues to see a density of UAP reports near U.S. mil...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2403.08155](https://arxiv.org/abs/2403.08155)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivEnhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</p></details>
+   Link: <a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: wired.com  
-   Link: [https://www.wired.com/story/nasa-ufos-aliens-report-2023](https://www.wired.com/story/nasa-ufos-aliens-report-2023)  
+   Link: <a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The agency stressed the need to shift the conversation from sensationalism to science and eliminate the stigma associated with reporting...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: science.gc.ca  
-   Link: [https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada](https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada)  
+   Link: <a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>recommendations to enhance transparency and scientific inquiry on UAP issues...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThe United States European Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Resolu...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: aaro.mil  
    Title: 2025 UAP Workshop Paper  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/2025_UAP_Workshop_Paper.pdf](https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/2025_UAP_Workshop_Paper.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/2025_UAP_Workshop_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/2025_UAP_Workshop_Paper.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2025 UAP Workshop: Narrative Data, Infrastructures, and...Most UAP reports are fragmented, sparse, and unstructured, ranging from milita...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — On June 9, 2022, NASA announced that the agency is commissioning a study team to examine unidentified anomalous p...</p></details>
    Published: June 9, 2022  
 
 16. <a id="endnote-16"></a>
    Source: uapcoalitienederland.nl  
    Title: scientific uap research on aviation safety stigma  
-   Link: [https://uapcoalitienederland.nl/en/scientific-uap-research-on-aviation-safety-stigma/](https://uapcoalitienederland.nl/en/scientific-uap-research-on-aviation-safety-stigma/)  
+   Link: <a href="https://uapcoalitienederland.nl/en/scientific-uap-research-on-aviation-safety-stigma/" target="_blank" rel="noopener noreferrer nofollow">https://uapcoalitienederland.nl/en/scientific-uap-research-on-aviation-safety-stigma/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific UAP research hampered by stigma | UAPCNL3 Feb 2026 — Underreporting: For fear of being labelled “crazy” or losing their pilot&#x27;...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: aerospaceamerica.aiaa.org  
    Title: Aerospace America U.S  
-   Link: [https://aerospaceamerica.aiaa.org/year-in-review/u-s-government-studies-hearings-highlight-increasing-awareness-of-uap-as-an-aerospace-safety-concern/](https://aerospaceamerica.aiaa.org/year-in-review/u-s-government-studies-hearings-highlight-increasing-awareness-of-uap-as-an-aerospace-safety-concern/)  
+   Link: <a href="https://aerospaceamerica.aiaa.org/year-in-review/u-s-government-studies-hearings-highlight-increasing-awareness-of-uap-as-an-aerospace-safety-concern/" target="_blank" rel="noopener noreferrer nofollow">https://aerospaceamerica.aiaa.org/year-in-review/u-s-government-studies-hearings-highlight-increasing-awareness-of-uap-as-an-aerospace-safety-concern/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>government studies, hearings highlight increasing...1 Dec 2023 — This increase could be a sign of increased UAP activity, an increase in...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: thedebrief.org  
-   Link: [https://thedebrief.org/all-domain-anomaly-resolution-office-hosts-private-workshop-with-civilian-researchers-universities-and-government-agencies/](https://thedebrief.org/all-domain-anomaly-resolution-office-hosts-private-workshop-with-civilian-researchers-universities-and-government-agencies/)  
+   Link: <a href="https://thedebrief.org/all-domain-anomaly-resolution-office-hosts-private-workshop-with-civilian-researchers-universities-and-government-agencies/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/all-domain-anomaly-resolution-office-hosts-private-workshop-with-civilian-researchers-universities-and-government-agencies/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution Office Hosts Private...26 Feb 2026 — A recent AARO report outlines new standards for data collection, AI u...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: uapcoalitienederland.nl  
-   Link: [https://uapcoalitienederland.nl/en/uap-research-international-aaro-[geipan](https://uapcoalitienederland.nl/en/uap-research-international-aaro-[geipan)  
+   Link: <a href="https://uapcoalitienederland.nl/en/uap-research-international-aaro-[geipan" target="_blank" rel="noopener noreferrer nofollow">https://uapcoalitienederland.nl/en/uap-research-international-aaro-[geipan</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>rotected from professional or medical repercussions to lower the reporting threshold...</p></details>
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: aiaa.org  
-   Link: [https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf](https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf)  
+   Link: <a href="https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ADDRESSING THE UNKNOWN:A centralized repository can be used to collate UAP reports, which would aid in separating truly anomalous UAP sig...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: ralphbuncheinstitute.org  
-   Link: [https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/](https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/)  
+   Link: <a href="https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/" target="_blank" rel="noopener noreferrer nofollow">https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UNIDENTIFIED ANOMALOUS PHENOMENA...5 days ago — Beyond the tech, they want to erase the stigma around reporting sightings by tappin...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/61558804422315/posts/pilots-do-report-unidentified-objects-and-its-officialcommercial-crews-sometimes/122221723262293480/](https://www.facebook.com/61558804422315/posts/pilots-do-report-unidentified-objects-and-its-officialcommercial-crews-sometimes/122221723262293480/)  
+   Link: <a href="https://www.facebook.com/61558804422315/posts/pilots-do-report-unidentified-objects-and-its-officialcommercial-crews-sometimes/122221723262293480/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61558804422315/posts/pilots-do-report-unidentified-objects-and-its-officialcommercial-crews-sometimes/122221723262293480/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PILOTS DO REPORT “UNIDENTIFIED” OBJECTS...The phenomenon did not interfere with flight safety. No evasive maneuvers were required, and n...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/flying/comments/1otgbc0/the_faa_quietly_updated_its_atc_uap_reporting/](https://www.reddit.com/r/flying/comments/1otgbc0/the_faa_quietly_updated_its_atc_uap_reporting/)  
+   Link: <a href="https://www.reddit.com/r/flying/comments/1otgbc0/the_faa_quietly_updated_its_atc_uap_reporting/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/flying/comments/1otgbc0/the_faa_quietly_updated_its_atc_uap_reporting/</a>  
 
 24. <a id="endnote-24"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/space/comments/vekf52/ufo_research_is_stigmatized_nasa_wants_to_change/](https://www.reddit.com/r/space/comments/vekf52/ufo_research_is_stigmatized_nasa_wants_to_change/)  
+   Link: <a href="https://www.reddit.com/r/space/comments/vekf52/ufo_research_is_stigmatized_nasa_wants_to_change/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/vekf52/ufo_research_is_stigmatized_nasa_wants_to_change/</a>  
 
 25. <a id="endnote-25"></a>
    Source: news.sky.com  
-   Link: [https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933](https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933)  
+   Link: <a href="https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO report - live: Scientists release Unidentified...14 Sept 2023 — Many people, including professional pilots, are reluctant to report...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: english.elpais.com  
-   Link: [https://english.elpais.com/usa/2023-09-17/stigma-sensationalism-and-a-cell-phone-app-the-main-takeaways-from-nasas-ufo-report.html](https://english.elpais.com/usa/2023-09-17/stigma-sensationalism-and-a-cell-phone-app-the-main-takeaways-from-nasas-ufo-report.html)  
+   Link: <a href="https://english.elpais.com/usa/2023-09-17/stigma-sensationalism-and-a-cell-phone-app-the-main-takeaways-from-nasas-ufo-report.html" target="_blank" rel="noopener noreferrer nofollow">https://english.elpais.com/usa/2023-09-17/stigma-sensationalism-and-a-cell-phone-app-the-main-takeaways-from-nasas-ufo-report.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stigma. The NASA report was adamant about the need to overcome the stigma around UAP sightings, which stems in part from the association...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: es.scribd.com  
-   Link: [https://es.scribd.com/document/792084775/Unidentified-Anomalous-Phenomena-Exposing-the-Truth-Written-Testimony-of-Mike-Gold](https://es.scribd.com/document/792084775/Unidentified-Anomalous-Phenomena-Exposing-the-Truth-Written-Testimony-of-Mike-Gold)  
+   Link: <a href="https://es.scribd.com/document/792084775/Unidentified-Anomalous-Phenomena-Exposing-the-Truth-Written-Testimony-of-Mike-Gold" target="_blank" rel="noopener noreferrer nofollow">https://es.scribd.com/document/792084775/Unidentified-Anomalous-Phenomena-Exposing-the-Truth-Written-Testimony-of-Mike-Gold</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>scribd.comNASA&#x27;s UAP Study: Combating Stigma | PDFsafety reports from pilots, air traffic controllers, dispatchers, cabin crew... NASA U...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/792084775/Unidentified-Anomalous-Phenomena-Exposing-the-Truth-Written-Testimony-of-Mike-Gold](https://www.scribd.com/document/792084775/Unidentified-Anomalous-Phenomena-Exposing-the-Truth-Written-Testimony-of-Mike-Gold)  
+   Link: <a href="https://www.scribd.com/document/792084775/Unidentified-Anomalous-Phenomena-Exposing-the-Truth-Written-Testimony-of-Mike-Gold" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/792084775/Unidentified-Anomalous-Phenomena-Exposing-the-Truth-Written-Testimony-of-Mike-Gold</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s UAP Study: Combating Stigma | PDF13 Nov 2024 — Gold suggests that NASA could enhance UAP data collection by leveraging its Aviatio...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: leonarddavid.com  
    Title: unidentified anomalous phenomena uap nasa independent study draws reaction  
-   Link: [https://www.leonarddavid.com/unidentified-anomalous-phenomena-uap-nasa-independent-study-draws-reaction/](https://www.leonarddavid.com/unidentified-anomalous-phenomena-uap-nasa-independent-study-draws-reaction/)  
+   Link: <a href="https://www.leonarddavid.com/unidentified-anomalous-phenomena-uap-nasa-independent-study-draws-reaction/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/unidentified-anomalous-phenomena-uap-nasa-independent-study-draws-reaction/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena (UAP) – NASA...15 Sept 2023 — “Stigma and the lack of official reporting channels for commercial pilots...</p></details>

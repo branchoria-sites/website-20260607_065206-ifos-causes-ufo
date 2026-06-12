@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_wind_data_33671a_upper_air_soundings_5b2a89
 - ifos_-_causes_of_UFO_3ed238_wind_data_33671a_wind_direction_mista_668791
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - wind-data
 - lanterns
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - wind-data
 - lanterns
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Clusters of warm orange lights that rise, spread, drift downwind and fade can match the short-lived behaviour of sky lanterns.
 hero_summary: Clusters of warm orange lights that rise, spread, drift downwind and fade can match the short-lived behaviour of sky lanterns.
 layout: default
 permalink: /lanterns-7293f5/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /wind-data/
 nav_short_title: Lanterns
 title: Do orange lights move like lanterns?
-title_full: Do orange lights move like lanterns? | Wind Data
+title_full: Do orange lights move like lanterns?
 display_title_short: Lanterns
 display_title: Lanterns
 heading_title: Do orange lights move like lanterns?
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 21:47:18'
-parent_title: Following a UFO With the Wind | IFOs
+parent_title: Following a UFO With the Wind
 parent_permalink: /wind-data/
 parent_nav_short_title: Wind Data
 parent_heading_title: Following a UFO With the Wind
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_wind_data_33671a
-  title: Wind Data | Ifos Causes Of
+  title: Wind Data | ifos causes of UFO 3 ed 238
   permalink: /wind-data/
   short_title: Wind Data
   heading_title: Following a UFO With the Wind
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_wind_data_33671a
-  title: Wind Data | Ifos Causes Of
+  title: Wind Data | ifos causes of UFO 3 ed 238
   permalink: /wind-data/
   short_title: Wind Data
   heading_title: Following a UFO With the Wind
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: Are you reading the wind backwards?
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_wind_data_33671a
-  title: Wind Data | Ifos Causes Of
+  title: Wind Data | ifos causes of UFO 3 ed 238
   permalink: /wind-data/
   short_title: Wind Data
   heading_title: Following a UFO With the Wind
@@ -260,6 +259,7 @@ next_link:
   permalink: /soundings/
   short_title: Soundings
   heading_title: Why balloons can change course overhead
+date: '2026-06-12 00:15:32 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a_sky_lantern_drift_76f3ca-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a_sky_lantern_drift_76f3ca-Illustration-1.webp
@@ -268,8 +268,7 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a_sky_lantern_d
 
 ## Introduction
 
-Clusters of orange lights that rise slowly, drift together across the sky and then fade away are among the most frequently reported forms of unidentified flying objects. In many cases, the observed behaviour closely matches that of [sky lanterns]({{ 'lanterns/' | relative_url }}): small hot-air balloons powered by a flame. A lantern typically climbs after launch, follows the prevailing wind rather than a self-directed course, and eventually dims or disappears as the flame weakens, the lantern turns, or it drifts beyond visibility. This combination of rise, drift and fade is important because it creates a distinctive movement pattern that can be compared against local [wind data]({{ 'wind-data/' | relative_url }}) and witness reports. When a reported group of orange lights follows that pattern, the lantern explanation becomes substantially stronger. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sky_lantern" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sky lantern</span><span class="citation-popover-snippet">Sky lantern</span></span></span>
-
+Clusters of orange lights that rise slowly, drift together across the sky and then fade away are among the most frequently reported forms of unidentified flying objects. In many cases, the observed behaviour closely matches that of sky lanterns: small hot-air balloons powered by a flame. A lantern typically climbs after launch, follows the prevailing wind rather than a self-directed course, and eventually dims or disappears as the flame weakens, the lantern turns, or it drifts beyond visibility. This combination of rise, drift and fade is important because it creates a distinctive movement pattern that can be compared against local [wind data]({{ 'wind-data/' | relative_url }}) and witness reports. When a reported group of orange lights follows that pattern, the lantern explanation becomes substantially stronger. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sky_lantern" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sky lantern</span><span class="citation-popover-snippet">Sky lantern</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a_sky_lantern_drift_76f3ca-Illustration-1-dark.svg" | relative_url }}" alt="Lanterns illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a_sky_lantern_drift_76f3ca-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a_sky_lantern_drift_76f3ca-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Do orange lights move like lanterns?
@@ -285,14 +284,13 @@ Witness reports that later proved to involve lanterns often share several featur
 * A path consistent with the [wind direction]({{ 'wind-direction/' | relative_url }}).
 * Little or no abrupt acceleration.
 * Gradual fading rather than an instant disappearance.
-* Multiple lights showing similar movement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ksat.com/news/2013/03/26/authorities-solve-fire-ball-ufo-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ksat.com">[KSAT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ksat.com</span><span class="citation-popover-title">authorities solve fire ball ufo mystery</span><span class="citation-popover-snippet">KSATAuthorities solve &#x27;fire ball&#x27; UFO mystery26 Mar 2013 — Authorities solve &#x27;fire ball&#x27; UFO mystery. Floating objects were lanterns from...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livescience.com/33541-ufo-utah-chinese-lantern.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-title">33541 ufo utah chinese lantern</span><span class="citation-popover-snippet">Live ScienceChinese Lanterns Cause UFO Scare in Utah7 Oct 2011 — The UFOs more than a dozen in all were first seen just after 11:30 PM, a...</span></span></span>
+* Multiple lights showing similar movement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ksat.com/news/2013/03/26/authorities-solve-fire-ball-ufo-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ksat.com">[KSAT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ksat.com</span><span class="citation-popover-title">authorities solve fire ball ufo mystery</span><span class="citation-popover-snippet">Authorities solve &#x27;fire ball&#x27; UFO mystery26 Mar 2013 — Authorities solve &#x27;fire ball&#x27; UFO mystery. Floating objects were lanterns from...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livescience.com/33541-ufo-utah-chinese-lantern.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-title">33541 ufo utah chinese lantern</span><span class="citation-popover-snippet">Live ScienceChinese Lanterns Cause UFO Scare in Utah7 Oct 2011 — The UFOs more than a dozen in all were first seen just after 11:30 PM, a...</span></span></span>
 
 The key investigative question is whether the lights behaved like objects being carried by the wind. Lanterns do not hover precisely, make sharp turns, or repeatedly reverse course. If witnesses describe such behaviour and reliable observations support it, the lantern hypothesis becomes weaker.
 
 ## The rise, drift and fade pattern
 
 The most recognisable lantern signature is a three-stage sequence.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4Av-1ETlJzw" title="Oregon pilot puzzled by mysterious, bright lights in sky" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4Av-1ETlJzw" target="_blank" rel="noopener noreferrer">Oregon pilot puzzled by mysterious, bright lights in sky</a></p><p class="youtube-embed-meta">Channel: KGW News &middot; Views: 83.8K &middot; Uploaded: December 2024 &middot; Length: 1 minute 49 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4Av-1ETlJzw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4Av-1ETlJzw">Open on YouTube</a></p></div></div></div>
 
@@ -314,20 +312,18 @@ Lantern reports often end with witnesses saying the lights "winked out", "vanish
 
 The flame may weaken as fuel is consumed. The lantern may rotate, hiding the brightest part of the flame from view. It may enter haze or thin cloud. Increasing distance can also reduce brightness below the observer's detection threshold. Because these changes occur gradually, several lanterns released together often disappear one after another rather than simultaneously. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightingsShapes reported as UFOs include orbs, triangles, other shapes, fireballs, discs, Most commonly reported...</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a_sky_lantern_drift_76f3ca-Illustration-2-dark.svg" | relative_url }}" alt="Lanterns illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a_sky_lantern_drift_76f3ca-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a_sky_lantern_drift_76f3ca-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Group releases and formation illusions
 
 Lantern releases are commonly conducted in groups at weddings, memorials and celebrations. This creates one of the most persistent sources of "formation" UFO reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.saskatchewan.ca/government/news-and-media/2010/june/30/flying-lanterns--a-fire-risk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: saskatchewan.ca">[Government of Saskatchewan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">saskatchewan.ca</span><span class="citation-popover-title">flying lanterns a fire risk</span><span class="citation-popover-snippet">Fortunately the fires were small and did little damage.Read more...</span></span></span>
 
-From the ground, a loose cluster can appear highly organised. Human perception naturally looks for geometric patterns, and three or more lights can easily seem to form triangles, lines or other structured arrangements. As the lanterns spread out in the wind, the apparent formation may change shape while still appearing coordinated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/HighStrangeness/comments/nl836o/three_ufouaps_in_triangular_formation_filmed/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Three UFO/UAPs in triangular formation filmed flying over</span><span class="citation-popover-snippet">RedditThree UFO/UAPs in triangular formation filmed flying over...May 26, 2021 — Three UFO/UAPs in triangular formation filmed flying ov...</span><span class="citation-popover-meta">Published: May 26, 2021</span></span></span>
+From the ground, a loose cluster can appear highly organised. Human perception naturally looks for geometric patterns, and three or more lights can easily seem to form triangles, lines or other structured arrangements. As the lanterns spread out in the wind, the apparent formation may change shape while still appearing coordinated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/HighStrangeness/comments/nl836o/three_ufouaps_in_triangular_formation_filmed/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Three UFO/UAPs in triangular formation filmed flying over</span><span class="citation-popover-snippet">Three UFO/UAPs in triangular formation filmed flying over...May 26, 2021 — Three UFO/UAPs in triangular formation filmed flying ov...</span><span class="citation-popover-meta">Published: May 26, 2021</span></span></span>
 
 Distance estimation makes the effect stronger. At night, observers usually lack reliable cues for altitude and [range]({{ 'range/' | relative_url }}). Lanterns separated by tens or hundreds of metres can appear much closer together, encouraging interpretations involving a single structured craft or a coordinated fleet.
 
-A number of documented UFO scares have later been traced to lantern releases. In one Texas case, glowing aerial objects reported as a mystery were ultimately linked to lanterns released during a wedding celebration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ksat.com/news/2013/03/26/authorities-solve-fire-ball-ufo-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ksat.com">[KSAT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ksat.com</span><span class="citation-popover-title">authorities solve fire ball ufo mystery</span><span class="citation-popover-snippet">KSATAuthorities solve &#x27;fire ball&#x27; UFO mystery26 Mar 2013 — Authorities solve &#x27;fire ball&#x27; UFO mystery. Floating objects were lanterns from...</span></span></span>
+A number of documented UFO scares have later been traced to lantern releases. In one Texas case, glowing aerial objects reported as a mystery were ultimately linked to lanterns released during a wedding celebration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ksat.com/news/2013/03/26/authorities-solve-fire-ball-ufo-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ksat.com">[KSAT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ksat.com</span><span class="citation-popover-title">authorities solve fire ball ufo mystery</span><span class="citation-popover-snippet">Authorities solve &#x27;fire ball&#x27; UFO mystery26 Mar 2013 — Authorities solve &#x27;fire ball&#x27; UFO mystery. Floating objects were lanterns from...</span></span></span>
 
 Reports of numerous fiery orange lights travelling together have also repeatedly generated UFO speculation before investigators identified lantern activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livescience.com/33541-ufo-utah-chinese-lantern.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-title">33541 ufo utah chinese lantern</span><span class="citation-popover-snippet">Live ScienceChinese Lanterns Cause UFO Scare in Utah7 Oct 2011 — The UFOs more than a dozen in all were first seen just after 11:30 PM, a...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/buoMqlBVhsg" title="The Proof Is Out There: UFO Lights CONFOUND Investigators | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=buoMqlBVhsg" target="_blank" rel="noopener noreferrer">The Proof Is Out There: UFO Lights CONFOUND Investigators | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 234.6K &middot; Uploaded: August 2023 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=buoMqlBVhsg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=buoMqlBVhsg">Open on YouTube</a></p></div></div></div>
 
@@ -341,7 +337,6 @@ Atmospheric conditions can also alter brightness. Thin cloud, haze and turbulenc
 
 When several lanterns are involved, differences in altitude can create apparent overtaking, convergence or separation. These effects may look like coordinated manoeuvres even when each lantern is simply drifting with slightly different wind currents.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/h1K2U9YmOS0" title="Chinese Lanterns at Night" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=h1K2U9YmOS0" target="_blank" rel="noopener noreferrer">Chinese Lanterns at Night</a></p><p class="youtube-embed-meta">Channel: Mike Shubbuck &middot; Views: 23.7K &middot; Uploaded: July 2015 &middot; Length: 2 minutes 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=h1K2U9YmOS0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=h1K2U9YmOS0">Open on YouTube</a></p></div></div></div>
 
 ## Headwind tests that weaken the explanation
@@ -350,7 +345,7 @@ The lantern hypothesis is useful precisely because it can be tested.
 
 One of the strongest tests involves wind direction. Lanterns are lightweight drifting objects. If reliable weather data show winds moving consistently eastward, but a reported cluster of orange lights travelled steadily westward at the same estimated altitude, the explanation becomes difficult to sustain.
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Other warning signs include:]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightingsShapes reported as UFOs include orbs, triangles, other shapes, fireballs, discs, Most commonly reported...</span></span></span>
+Other warning signs include: <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightingsShapes reported as UFOs include orbs, triangles, other shapes, fireballs, discs, Most commonly reported...</span></span></span>
 
 * Sustained movement directly against the prevailing wind.
 * Sharp right-angle turns.
@@ -360,7 +355,6 @@ One of the strongest tests involves wind direction. Lanterns are lightweight dri
 * Verified speeds far exceeding plausible wind transport. <span class="citation-chip-wrap"><a class="citation-chip" href="https://manchesterfire.gov.uk/your-safety/home-fire-safety/celebrating-safely/sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: manchesterfire.gov.uk">[GMFRS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">manchesterfire.gov.uk</span><span class="citation-popover-title">GMFRSSky Lanterns</span><span class="citation-popover-snippet">Be aware of any other local conditions... Be aware of any other local conditions that could affect launch or landing safety...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hwfire.org.uk/advice/outdoors/sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hwfire.org.uk">[Hereford &amp; Worcester Fire Rescue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hwfire.org.uk</span><span class="citation-popover-snippet">Hereford &amp; Worcester Fire RescueSky LanternsDo not launch in wind speeds in excess of five miles per hour. Check wind direction before la...</span></span></span>
 
 Investigators therefore look for a match between reported motion and known atmospheric conditions rather than relying on appearance alone. Orange colour is suggestive but not decisive. The decisive evidence is whether the lights behaved like buoyant objects carried by the wind.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a_sky_lantern_drift_76f3ca-Illustration-3-dark.svg" | relative_url }}" alt="Lanterns illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a_sky_lantern_drift_76f3ca-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a_sky_lantern_drift_76f3ca-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What lantern patterns contribute to UFO investigations
@@ -462,7 +456,7 @@ For reports involving multiple orange lights, the question is therefore not simp
         <p class="fr-section-kicker">eBay marketplace picks</p>
         <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
       </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
       <div class="fr-ebay-market-toolbar">
         <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
@@ -486,15 +480,15 @@ For reports involving multiple orange lights, the question is therefore not simp
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lanterns-7293f5-do-orange-lights-move-like-lanterns-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="lanterns-7293f5-do-orange-lights-move-like-lanterns-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Programme Michael Schenker Original Official Misdemeanor World Tour 1986"><img src="{{ '/assets/images/marketplace-covers/afd3d020d3403f6473d1.jpg' | relative_url }}" alt="Listing image for UFO Programme Michael Schenker Original Official Misdemeanor World Tour 1986" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-orange-lights-move-like-lanterns-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="do-orange-lights-move-like-lanterns-wind-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Meterology Mural Wall Chart Weather Science Wind Monsoon Air Masses"><img src="https://i.ebayimg.com/images/g/r3AAAeSwZP5pbf9O/s-l225.jpg" alt="Listing image for Meterology Mural Wall Chart Weather Science Wind Monsoon Air Masses" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lanterns-7293f5-do-orange-lights-move-like-lanterns-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="lanterns-7293f5-do-orange-lights-move-like-lanterns-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Programme Michael Schenker Original Official Misdemeanor World Tour 1986</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-orange-lights-move-like-lanterns-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="do-orange-lights-move-like-lanterns-wind-chart-poster" target="_blank" rel="sponsored noopener noreferrer">Meterology Mural Wall Chart Weather Science Wind Monsoon Air Masses</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lanterns-7293f5-do-orange-lights-move-like-lanterns-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="lanterns-7293f5-do-orange-lights-move-like-lanterns-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-orange-lights-move-like-lanterns-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="do-orange-lights-move-like-lanterns-wind-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for wind chart poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: wind chart poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lanterns-7293f5-do-orange-lights-move-like-lanterns-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="lanterns-7293f5-do-orange-lights-move-like-lanterns-ifos-causes-of-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-orange-lights-move-like-lanterns-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="do-orange-lights-move-like-lanterns-wind-chart-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -502,15 +496,15 @@ For reports involving multiple orange lights, the question is therefore not simp
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lanterns-7293f5-do-orange-lights-move-like-lanterns-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="lanterns-7293f5-do-orange-lights-move-like-lanterns-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA"><img src="{{ '/assets/images/marketplace-covers/d1a9ede89dec7aff09e9.jpg' | relative_url }}" alt="Listing image for UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-orange-lights-move-like-lanterns-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="do-orange-lights-move-like-lanterns-wind-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1955 Selmer Band Wind Instruments Chart Poster Instructional 22 x 33"><img src="https://i.ebayimg.com/images/g/h3EAAeSwoVJplySc/s-l225.jpg" alt="Listing image for Vintage 1955 Selmer Band Wind Instruments Chart Poster Instructional 22 x 33" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lanterns-7293f5-do-orange-lights-move-like-lanterns-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="lanterns-7293f5-do-orange-lights-move-like-lanterns-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-orange-lights-move-like-lanterns-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="do-orange-lights-move-like-lanterns-wind-chart-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1955 Selmer Band Wind Instruments Chart Poster Instructional 22 x 33</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lanterns-7293f5-do-orange-lights-move-like-lanterns-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="lanterns-7293f5-do-orange-lights-move-like-lanterns-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-orange-lights-move-like-lanterns-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="do-orange-lights-move-like-lanterns-wind-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for wind chart poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: wind chart poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lanterns-7293f5-do-orange-lights-move-like-lanterns-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="lanterns-7293f5-do-orange-lights-move-like-lanterns-ifos-causes-of-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-orange-lights-move-like-lanterns-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="do-orange-lights-move-like-lanterns-wind-chart-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -518,15 +512,15 @@ For reports involving multiple orange lights, the question is therefore not simp
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lanterns-7293f5-do-orange-lights-move-like-lanterns-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="lanterns-7293f5-do-orange-lights-move-like-lanterns-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-orange-lights-move-like-lanterns-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="do-orange-lights-move-like-lanterns-wind-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for old poster pull-down geographical wall chart weather winds monsoon air masses"><img src="https://i.ebayimg.com/images/g/LdgAAeSwd3hpbfxg/s-l225.jpg" alt="Listing image for old poster pull-down geographical wall chart weather winds monsoon air masses" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lanterns-7293f5-do-orange-lights-move-like-lanterns-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="lanterns-7293f5-do-orange-lights-move-like-lanterns-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-orange-lights-move-like-lanterns-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="do-orange-lights-move-like-lanterns-wind-chart-poster" target="_blank" rel="sponsored noopener noreferrer">old poster pull-down geographical wall chart weather winds monsoon air masses</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lanterns-7293f5-do-orange-lights-move-like-lanterns-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="lanterns-7293f5-do-orange-lights-move-like-lanterns-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-orange-lights-move-like-lanterns-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="do-orange-lights-move-like-lanterns-wind-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for wind chart poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: wind chart poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lanterns-7293f5-do-orange-lights-move-like-lanterns-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="lanterns-7293f5-do-orange-lights-move-like-lanterns-ifos-causes-of-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-orange-lights-move-like-lanterns-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="do-orange-lights-move-like-lanterns-wind-chart-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -534,15 +528,15 @@ For reports involving multiple orange lights, the question is therefore not simp
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lanterns-7293f5-do-orange-lights-move-like-lanterns-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="lanterns-7293f5-do-orange-lights-move-like-lanterns-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-orange-lights-move-like-lanterns-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="do-orange-lights-move-like-lanterns-wind-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NEW (LAMINATED) GLOBAL WINDS (61X91CM) EDUCATIONAL CHART PICTURE PRINT"><img src="https://i.ebayimg.com/images/g/Y9QAAeSwZRtoYmFH/s-l225.jpg" alt="Listing image for NEW (LAMINATED) GLOBAL WINDS (61X91CM) EDUCATIONAL CHART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lanterns-7293f5-do-orange-lights-move-like-lanterns-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="lanterns-7293f5-do-orange-lights-move-like-lanterns-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-orange-lights-move-like-lanterns-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="do-orange-lights-move-like-lanterns-wind-chart-poster" target="_blank" rel="sponsored noopener noreferrer">NEW (LAMINATED) GLOBAL WINDS (61X91CM) EDUCATIONAL CHART PICTURE PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lanterns-7293f5-do-orange-lights-move-like-lanterns-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="lanterns-7293f5-do-orange-lights-move-like-lanterns-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-orange-lights-move-like-lanterns-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="do-orange-lights-move-like-lanterns-wind-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for wind chart poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: wind chart poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lanterns-7293f5-do-orange-lights-move-like-lanterns-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="lanterns-7293f5-do-orange-lights-move-like-lanterns-ifos-causes-of-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-orange-lights-move-like-lanterns-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="do-orange-lights-move-like-lanterns-wind-chart-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -550,7 +544,7 @@ For reports involving multiple orange lights, the question is therefore not simp
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lanterns-7293f5-do-orange-lights-move-like-lanterns-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="lanterns-7293f5-do-orange-lights-move-like-lanterns-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-orange-lights-move-like-lanterns-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="do-orange-lights-move-like-lanterns-wind-chart-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -766,140 +760,140 @@ For reports involving multiple orange lights, the question is therefore not simp
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Sky lantern  
-   Link: [https://en.wikipedia.org/wiki/Sky_lantern](https://en.wikipedia.org/wiki/Sky_lantern)  
+   Link: <a href="https://en.wikipedia.org/wiki/Sky_lantern" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sky_lantern</a>  
 
 2. <a id="endnote-2"></a>
    Source: ksat.com  
    Title: authorities solve fire ball ufo mystery  
-   Link: [https://www.ksat.com/news/2013/03/26/authorities-solve-fire-ball-ufo-mystery/](https://www.ksat.com/news/2013/03/26/authorities-solve-fire-ball-ufo-mystery/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>KSATAuthorities solve &#x27;fire ball&#x27; UFO mystery26 Mar 2013 — Authorities solve &#x27;fire ball&#x27; UFO mystery. Floating objects were lanterns from...</p></details>
+   Link: <a href="https://www.ksat.com/news/2013/03/26/authorities-solve-fire-ball-ufo-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://www.ksat.com/news/2013/03/26/authorities-solve-fire-ball-ufo-mystery/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Authorities solve &#x27;fire ball&#x27; UFO mystery26 Mar 2013 — Authorities solve &#x27;fire ball&#x27; UFO mystery. Floating objects were lanterns from...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: manchesterfire.gov.uk  
    Title: GMFRSSky Lanterns  
-   Link: [https://manchesterfire.gov.uk/your-safety/home-fire-safety/celebrating-safely/sky-lanterns/](https://manchesterfire.gov.uk/your-safety/home-fire-safety/celebrating-safely/sky-lanterns/)  
+   Link: <a href="https://manchesterfire.gov.uk/your-safety/home-fire-safety/celebrating-safely/sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://manchesterfire.gov.uk/your-safety/home-fire-safety/celebrating-safely/sky-lanterns/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Be aware of any other local conditions... Be aware of any other local conditions that could affect launch or landing safety...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: saskatchewan.ca  
    Title: flying lanterns a fire risk  
-   Link: [https://www.saskatchewan.ca/government/news-and-media/2010/june/30/flying-lanterns--a-fire-risk](https://www.saskatchewan.ca/government/news-and-media/2010/june/30/flying-lanterns--a-fire-risk)  
+   Link: <a href="https://www.saskatchewan.ca/government/news-and-media/2010/june/30/flying-lanterns--a-fire-risk" target="_blank" rel="noopener noreferrer nofollow">https://www.saskatchewan.ca/government/news-and-media/2010/june/30/flying-lanterns--a-fire-risk</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fortunately the fires were small and did little damage.Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
    Title: Three UFO/UAPs in triangular formation filmed flying over  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/nl836o/three_ufouaps_in_triangular_formation_filmed/](https://www.reddit.com/r/HighStrangeness/comments/nl836o/three_ufouaps_in_triangular_formation_filmed/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditThree UFO/UAPs in triangular formation filmed flying over...May 26, 2021 — Three UFO/UAPs in triangular formation filmed flying ov...</p></details>
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/nl836o/three_ufouaps_in_triangular_formation_filmed/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/nl836o/three_ufouaps_in_triangular_formation_filmed/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Three UFO/UAPs in triangular formation filmed flying over...May 26, 2021 — Three UFO/UAPs in triangular formation filmed flying ov...</p></details>
    Published: May 26, 2021  
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/16c6hsi/weird_lights_in_triangle_formation_seen_over/](https://www.reddit.com/r/UFOs/comments/16c6hsi/weird_lights_in_triangle_formation_seen_over/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/16c6hsi/weird_lights_in_triangle_formation_seen_over/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16c6hsi/weird_lights_in_triangle_formation_seen_over/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>on FAA tracking. Sighting Report...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/ykzuhy/anyone_else_see_these_weird_orange_lights_in_the/](https://www.reddit.com/r/HighStrangeness/comments/ykzuhy/anyone_else_see_these_weird_orange_lights_in_the/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/ykzuhy/anyone_else_see_these_weird_orange_lights_in_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/ykzuhy/anyone_else_see_these_weird_orange_lights_in_the/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>one of these in rememberance of someone who passed away...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/newzealand/comments/14za96m/what_were_these_giant_orange_spheres_crossing_the/](https://www.reddit.com/r/newzealand/comments/14za96m/what_were_these_giant_orange_spheres_crossing_the/)  
+   Link: <a href="https://www.reddit.com/r/newzealand/comments/14za96m/what_were_these_giant_orange_spheres_crossing_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/newzealand/comments/14za96m/what_were_these_giant_orange_spheres_crossing_the/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>a wind change, a lantern may cause a building fire or wildfire.Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsShapes reported as UFOs include orbs, triangles, other shapes, [fireballs](&amp;#123;&amp;#123; &#x27;fireballs/&#x27; | relative_url &amp;#125;&amp;#125;), discs, Most commonly reported...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: skyatnightmagazine.com  
    Title: things mistaken for ufos  
-   Link: [https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos](https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos)  
+   Link: <a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky at Night Magazine17 things commonly mistaken for UFOs25 Mar 2025 — Today, sky lanterns are the number one cause of UFO reports...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: livescience.com  
    Title: 33541 ufo utah chinese lantern  
-   Link: [https://www.livescience.com/33541-ufo-utah-chinese-lantern.html](https://www.livescience.com/33541-ufo-utah-chinese-lantern.html)  
+   Link: <a href="https://www.livescience.com/33541-ufo-utah-chinese-lantern.html" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/33541-ufo-utah-chinese-lantern.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Live ScienceChinese Lanterns Cause UFO Scare in Utah7 Oct 2011 — The UFOs more than a dozen in all were first seen just after 11:30 PM, a...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: hwfire.org.uk  
-   Link: [https://www.hwfire.org.uk/advice/outdoors/sky-lanterns/](https://www.hwfire.org.uk/advice/outdoors/sky-lanterns/)  
+   Link: <a href="https://www.hwfire.org.uk/advice/outdoors/sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://www.hwfire.org.uk/advice/outdoors/sky-lanterns/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hereford &amp; Worcester Fire RescueSky LanternsDo not launch in wind speeds in excess of five miles per hour. Check wind direction before la...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: bco.ie  
    Title: Steady moving lights, flashing each second, possibly green or red.Read more  
-   Link: [https://www.bco.ie/how-to-identify-a-ufo/](https://www.bco.ie/how-to-identify-a-ufo/)  
+   Link: <a href="https://www.bco.ie/how-to-identify-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.bco.ie/how-to-identify-a-ufo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MTU Blackrock CastleHow To Identify A UFO - MTU Blackrock CastleHere&#x27;s a quick guide to some strange lights in the night sky, and what th...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: merseyfire.gov.uk  
-   Link: [https://www.merseyfire.gov.uk/safety-advice/community-safety/sky-lanterns/](https://www.merseyfire.gov.uk/safety-advice/community-safety/sky-lanterns/)  
+   Link: <a href="https://www.merseyfire.gov.uk/safety-advice/community-safety/sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://www.merseyfire.gov.uk/safety-advice/community-safety/sky-lanterns/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ults are required to correctly launch each lantern; Do not attempt...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: nfcc.org.uk  
    Title: Sky Lanterns  
-   Link: [https://nfcc.org.uk/our-services/building-safety/protection-building-safety/sky-lanterns/](https://nfcc.org.uk/our-services/building-safety/protection-building-safety/sky-lanterns/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NFCCThese floating lanterns not only constitute a fire hazard but also pose a risk to livestock, agriculture, camping activities, thatche...</p></details>
+   Link: <a href="https://nfcc.org.uk/our-services/building-safety/protection-building-safety/sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://nfcc.org.uk/our-services/building-safety/protection-building-safety/sky-lanterns/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>These floating lanterns not only constitute a fire hazard but also pose a risk to livestock, agriculture, camping activities, thatche...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: github.com  
    Title: reddit-user-analayse/data/UFOs.csv at master  
-   Link: [https://github.com/Mickael-van-der-Beek/reddit-user-analayse/blob/master/data/UFOs.csv](https://github.com/Mickael-van-der-Beek/reddit-user-analayse/blob/master/data/UFOs.csv)  
+   Link: <a href="https://github.com/Mickael-van-der-Beek/reddit-user-analayse/blob/master/data/UFOs.csv" target="_blank" rel="noopener noreferrer nofollow">https://github.com/Mickael-van-der-Beek/reddit-user-analayse/blob/master/data/UFOs.csv</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>witnesses from Mississippi, Louisiana, and Texas report there being a very bright, orange fireball streaking across the sky. The story I&#x27;...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: norfolk.gov.uk  
-   Link: [https://www.norfolk.gov.uk/article/43844/Chinese-lanterns](https://www.norfolk.gov.uk/article/43844/Chinese-lanterns)  
+   Link: <a href="https://www.norfolk.gov.uk/article/43844/Chinese-lanterns" target="_blank" rel="noopener noreferrer nofollow">https://www.norfolk.gov.uk/article/43844/Chinese-lanterns</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Chinese lanternsSky lanterns can pose a significant fire hazard. The Norfolk sky lantern and balloon release charter encourages businesse...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: hwb.gov.wales  
-   Link: [https://hwb.gov.wales/api/storage/6f1582f4-be69-40eb-99bf-99c8a799f47a/Task%2090%20Sky%20lanterns%202.pdf](https://hwb.gov.wales/api/storage/6f1582f4-be69-40eb-99bf-99c8a799f47a/Task%2090%20Sky%20lanterns%202.pdf)  
+   Link: <a href="https://hwb.gov.wales/api/storage/6f1582f4-be69-40eb-99bf-99c8a799f47a/Task%2090%20Sky%20lanterns%202.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hwb.gov.wales/api/storage/6f1582f4-be69-40eb-99bf-99c8a799f47a/Task%2090%20Sky%20lanterns%202.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Health and Wellbeing WalesSky lanterns (2)Do not launch if there is more than a very light breeze;. • Check the wind direction and do not...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: techlib.com  
-   Link: [https://techlib.com/science/UFOs.html](https://techlib.com/science/UFOs.html)  
+   Link: <a href="https://techlib.com/science/UFOs.html" target="_blank" rel="noopener noreferrer nofollow">https://techlib.com/science/UFOs.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs ExplainedI have been fortunate to see a number of UFOs, some quite remarkable, that were all eventually explained. Here is what I sa...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: blog.seniorennet.be  
-   Link: [https://blog.seniorennet.be/peter2011/archief.php?startdatum=1383260400&stopdatum=1385852400](https://blog.seniorennet.be/peter2011/archief.php?startdatum=1383260400&stopdatum=1385852400)  
+   Link: <a href="https://blog.seniorennet.be/peter2011/archief.php?startdatum=1383260400&amp;stopdatum=1385852400" target="_blank" rel="noopener noreferrer nofollow">https://blog.seniorennet.be/peter2011/archief.php?startdatum=1383260400&amp;stopdatum=1385852400</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>seniorennet.beUFO&#x27;S of UAP&#x27;S, ASTRONOMIE, RUIMTEVAART...At night, [such objects] appeared to be brilliant lights, with dark superstruct...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: author-portal.tradingstandards.uk  
-   Link: [https://author-portal.tradingstandards.uk/sites/default/files/Industry-Code-of-Practice-Sky-Lanterns-2014.pdf](https://author-portal.tradingstandards.uk/sites/default/files/Industry-Code-of-Practice-Sky-Lanterns-2014.pdf)  
+   Link: <a href="https://author-portal.tradingstandards.uk/sites/default/files/Industry-Code-of-Practice-Sky-Lanterns-2014.pdf" target="_blank" rel="noopener noreferrer nofollow">https://author-portal.tradingstandards.uk/sites/default/files/Industry-Code-of-Practice-Sky-Lanterns-2014.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Code of Practice: Sky LanternsIt is structured in four parts: 1. Design and manufacture;. 2. Safety checks;. 3. Warnings and instructions...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony](https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony)  
+   Link: <a href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony</a>  
 
 23. <a id="endnote-23"></a>
    Source: handprint.com  
-   Link: [https://www.handprint.com/UFO/UFO.html](https://www.handprint.com/UFO/UFO.html)  
+   Link: <a href="https://www.handprint.com/UFO/UFO.html" target="_blank" rel="noopener noreferrer nofollow">https://www.handprint.com/UFO/UFO.html</a>  
 
 24. <a id="endnote-24"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/ufos-unidentified-aerial-phenomena-observations-explanations-and-speculations-3031343972-9783031343971.html](https://dokumen.pub/ufos-unidentified-aerial-phenomena-observations-explanations-and-speculations-3031343972-9783031343971.html)  
+   Link: <a href="https://dokumen.pub/ufos-unidentified-aerial-phenomena-observations-explanations-and-speculations-3031343972-9783031343971.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/ufos-unidentified-aerial-phenomena-observations-explanations-and-speculations-3031343972-9783031343971.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>They stayed there for two minutes. On... According to military reports, strange lights were seen in the night sky.Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=4Av-1ETlJzw](https://www.youtube.com/watch?v=4Av-1ETlJzw)  
+   Link: <a href="https://www.youtube.com/watch?v=4Av-1ETlJzw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4Av-1ETlJzw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Oregon pilot puzzled by mysterious, bright lights in skyAt least four commercial [pilots](&amp;#123;&amp;#123; &#x27;pilots/&#x27; | relative_url &amp;#125;&amp;#125;) encountered mysterious lights darting through the...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/324690748_Sky_Lanterns_And_Aviation_Safety_A_Study_At_The_Mae_Fah_Luang_Chiangrai_Airport](https://www.researchgate.net/publication/324690748_Sky_Lanterns_And_Aviation_Safety_A_Study_At_The_Mae_Fah_Luang_Chiangrai_Airport)  
+   Link: <a href="https://www.researchgate.net/publication/324690748_Sky_Lanterns_And_Aviation_Safety_A_Study_At_The_Mae_Fah_Luang_Chiangrai_Airport" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/324690748_Sky_Lanterns_And_Aviation_Safety_A_Study_At_The_Mae_Fah_Luang_Chiangrai_Airport</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lantern obstructs pilots&#x27; vision. Usually, when releasing · 2. Lantern slips into aircraft&#x27;s engine may be the cause of · 3. Lantern drif...</p></details>

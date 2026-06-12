@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ifos-causes-of-ufo-3ed238-clouds/
 description: Focused pages that expand on Atmosphere.
-date: '2026-06-07'
+date: '2026-06-12'
 layout: default
 parent_basename: ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043
-parent_title: Atmosphere | Ifos Causes Of
+parent_title: Atmosphere
 parent_nav_short_title: Atmosphere
 parent_permalink: /atmosphere/
 ---

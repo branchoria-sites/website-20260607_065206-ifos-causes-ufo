@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_weak_files_unresolve_f6f422
 - ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_witness_estimates_uf_4a62d6
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - unresolved-cases
 - sensor-context
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - unresolved-cases
 - sensor-context
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Military or aviation sensor footage can preserve useful evidence, but without range, calibration and platform motion it may still mislead.
 hero_summary: Military or aviation sensor footage can preserve useful evidence, but without range, calibration and platform motion it may still mislead.
 layout: default
 permalink: /sensor-context/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /unresolved-cases/
 nav_short_title: Sensor Context
 title: Why UFO Videos Need More Than Footage
-title_full: Why UFO Videos Need More Than Footage | Unresolved Cases
+title_full: Why UFO Videos Need More Than Footage
 display_title_short: Sensor Context
 display_title: Sensor Context
 heading_title: Why UFO Videos Need More Than Footage
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Some UFO Cases Stay Open | IFOs
+parent_title: Why Some UFO Cases Stay Open
 parent_permalink: /unresolved-cases/
 parent_nav_short_title: Unresolved Cases
 parent_heading_title: Why Some UFO Cases Stay Open
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06
-  title: Unresolved Cases | Ifos Causes Of
+  title: Unresolved Cases | ifos causes of UFO 3 ed 238
   permalink: /unresolved-cases/
   short_title: Unresolved Cases
   heading_title: Why Some UFO Cases Stay Open
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06
-  title: Unresolved Cases | Ifos Causes Of
+  title: Unresolved Cases | ifos causes of UFO 3 ed 238
   permalink: /unresolved-cases/
   short_title: Unresolved Cases
   heading_title: Why Some UFO Cases Stay Open
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why Sky Witnesses Disagree So Often
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06
-  title: Unresolved Cases | Ifos Causes Of
+  title: Unresolved Cases | ifos causes of UFO 3 ed 238
   permalink: /unresolved-cases/
   short_title: Unresolved Cases
   heading_title: Why Some UFO Cases Stay Open
@@ -265,7 +265,7 @@ next_link:
   permalink: /starlink-gaps/
   short_title: Starlink Gaps
   heading_title: Why Satellite Lights Still Leave Open Cases
-date: '2026-06-07 06:16:49 '
+date: '2026-06-12 00:40:08 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_sensor_video_context_a04326-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_sensor_video_context_a04326-Illustration-1.webp
@@ -276,16 +276,14 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_sensor
 
 Modern UFO and UAP videos often appear more persuasive than eyewitness testimony because they come from military aircraft, [infrared]({{ 'infrared/' | relative_url }}) cameras, targeting systems or other instruments. Yet a sensor image is not a self-explanatory record of reality. Before investigators can identify what a video shows, they usually need information about the sensor, the platform carrying it, the viewing geometry and the surrounding environment. Without that context, even high-quality footage can make ordinary objects appear extraordinary or leave a case unresolved. NASA's independent UAP study highlighted this problem directly, noting that analysis is often limited by poor sensor calibration, [missing metadata]({{ 'missing-metadata/' | relative_url }}) and the lack of multiple measurements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_sensor_video_context_a04326-Illustration-1-dark.svg" | relative_url }}" alt="Sensor Context illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_sensor_video_context_a04326-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_sensor_video_context_a04326-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This is one reason some UFO cases remain unresolved after investigation. The issue is not necessarily that the object is unusual; it is that the available footage alone does not provide enough information to determine what the object actually was.
 
 ## What Sensor Videos Can and Cannot Show
 
-Sensor footage can establish that something was detected. It may reveal shape, brightness, temperature contrast, apparent motion or the fact that a target occupied a specific area of sky. In some cases it can confirm the presence of a physical object rather than a simple visual illusion. However, those observations are only part of the identification process. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROUAP ImageryThe official website for the All-domain Anomaly Resolution Office (AARO)...</span></span></span>
+Sensor footage can establish that something was detected. It may reveal shape, brightness, temperature contrast, apparent motion or the fact that a target occupied a specific area of sky. In some cases it can confirm the presence of a physical object rather than a simple visual illusion. However, those observations are only part of the identification process. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP ImageryThe official website for the All-domain Anomaly Resolution Office (AARO)...</span></span></span>
 
 What a video usually cannot provide by itself is:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -302,7 +300,6 @@ A small nearby object and a large distant object can produce nearly identical im
 
 This distinction explains why analysts frequently separate the question "Is there an object?" from the question "What is the object?" The first may be answerable from video alone. The second often is not.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/y5Uf4N-JkQY" title="Quantum physicists REanalyze GOFAST UFO video footage released by the US Navy and Pentagon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=y5Uf4N-JkQY" target="_blank" rel="noopener noreferrer">Quantum physicists REanalyze GOFAST UFO video footage released by the US Navy and Pentagon</a></p><p class="youtube-embed-meta">Channel: NYU Quantum Technology Lab &middot; Views: 22.0K &middot; Uploaded: June 2021 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=y5Uf4N-JkQY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=y5Uf4N-JkQY">Open on YouTube</a></p></div></div></div>
 
 ## How Platform Motion Changes Apparent Movement
@@ -311,10 +308,9 @@ One of the most important sources of confusion in sensor videos is platform moti
 
 ### The Parallax Problem
 
-Parallax occurs when an observer moves relative to objects at different distances. Nearby objects appear to shift against the background more quickly than distant ones. In aerial videos, this can create the impression that a target is moving at remarkable speed even when much of the observed motion results from the observer's own movement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/skeptic/comments/nzmkvc/gofast_ufo_analysis_yeah_no_probably_just_a/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">GOFAST UFO Analysis (yeah no, probably just a balloon</span><span class="citation-popover-snippet">RedditGOFAST UFO Analysis (yeah no, probably just a balloon...June 14, 2021 — The object at altitude would appear to go fast even though...</span><span class="citation-popover-meta">Published: June 14, 2021</span></span></span>
+Parallax occurs when an observer moves relative to objects at different distances. Nearby objects appear to shift against the background more quickly than distant ones. In aerial videos, this can create the impression that a target is moving at remarkable speed even when much of the observed motion results from the observer's own movement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/skeptic/comments/nzmkvc/gofast_ufo_analysis_yeah_no_probably_just_a/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">GOFAST UFO Analysis (yeah no, probably just a balloon</span><span class="citation-popover-snippet">GOFAST UFO Analysis (yeah no, probably just a balloon...June 14, 2021 — The object at altitude would appear to go fast even though...</span><span class="citation-popover-meta">Published: June 14, 2021</span></span></span>
 
-This issue became central to debates surrounding several well-known Navy UAP videos. Competing interpretations often depended less on what was visible in the footage and more on assumptions about distance, viewing angle and aircraft motion. If range estimates change, speed estimates can change dramatically as well. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditAccording to AARO&#x27;s new website, the FLIR, Gimbal and...Gimbal, and GoFast videos are “unresolved.” parallax giving the speed effe...</span></span></span>
-
+This issue became central to debates surrounding several well-known Navy UAP videos. Competing interpretations often depended less on what was visible in the footage and more on assumptions about distance, viewing angle and aircraft motion. If range estimates change, speed estimates can change dramatically as well. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">According to AARO&#x27;s new website, the FLIR, Gimbal and...Gimbal, and GoFast videos are “unresolved.” parallax giving the speed effe...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_sensor_video_context_a04326-Illustration-2-dark.svg" | relative_url }}" alt="Sensor Context illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_sensor_video_context_a04326-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_sensor_video_context_a04326-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Camera Rotation Is Not Always Object Rotation
@@ -328,7 +324,6 @@ Without access to sensor telemetry and engineering data, investigators may strug
 A sensor is only as useful as the information that accompanies it. Calibration describes how accurately an instrument measures the world. Metadata records how, when and under what conditions the measurement was taken.
 
 NASA's UAP study repeatedly identified missing calibration data and sensor metadata as major obstacles to reliable analysis. Investigators need to know not only what the camera recorded, but also how the camera was configured and how trustworthy its measurements are. NASA Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">nasa ufo uap study team first results revealed</span><span class="citation-popover-snippet">NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor sensor...</span></span></span> Important metadata can include:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -344,8 +339,7 @@ NASA's UAP study repeatedly identified missing calibration data and sensor metad
 
 Without these details, analysts may be unable to reconstruct the geometry of an encounter. A bright infrared spot, for example, could represent a hot engine, reflected sunlight, atmospheric effects or a sensor artefact. The image alone may not distinguish among them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/973055/pr-003-unresolved-uap-report-africa-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">PR-003, Unresolved UAP Report, Africa 2023The footage shows an apparent heat signature with characteristics consistent with those of a ph...</span></span></span>
 
-The importance of calibration extends beyond military systems. Scientific UAP research projects increasingly emphasise calibrated, multi-sensor observations because raw footage by itself often leaves too many uncertainties. Recent observational efforts have been designed specifically to collect synchronised measurements with known calibration standards and complete data provenance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2506.00125" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Galileo Project Observatory Class System Architecture</span><span class="citation-popover-snippet">arXivGalileo Project Observatory Class System ArchitectureMay 30, 2025...</span><span class="citation-popover-meta">Published: May 30, 2025</span></span></span>
-
+The importance of calibration extends beyond military systems. Scientific UAP research projects increasingly emphasise calibrated, multi-sensor observations because raw footage by itself often leaves too many uncertainties. Recent observational efforts have been designed specifically to collect synchronised measurements with known calibration standards and complete data provenance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2506.00125" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Galileo Project Observatory Class System Architecture</span><span class="citation-popover-snippet">Galileo Project Observatory Class System ArchitectureMay 30, 2025...</span><span class="citation-popover-meta">Published: May 30, 2025</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qsEjV8DdSbs" title="Gimbal UFO - A New Analysis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qsEjV8DdSbs" target="_blank" rel="noopener noreferrer">Gimbal UFO - A New Analysis</a></p><p class="youtube-embed-meta">Channel: Mick West &middot; Views: 204.1K &middot; Uploaded: March 2022 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qsEjV8DdSbs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qsEjV8DdSbs">Open on YouTube</a></p></div></div></div>
 
@@ -353,10 +347,9 @@ The importance of calibration extends beyond military systems. Scientific UAP re
 
 A recurring pattern in UFO investigations is that additional context can transform an apparently mysterious video into an identifiable event.
 
-The All-domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})) has published numerous military sensor cases in which infrared footage initially appeared unusual but was later associated with balloons, birds or other ordinary explanations once broader contextual data were examined. At the same time, some videos remain unresolved because the available information is insufficient rather than because the observed object demonstrated extraordinary behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROUAP ImageryThe official website for the All-domain Anomaly Resolution Office (AARO)...</span></span></span>
+The All-domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})) has published numerous military sensor cases in which infrared footage initially appeared unusual but was later associated with balloons, birds or other ordinary explanations once broader contextual data were examined. At the same time, some videos remain unresolved because the available information is insufficient rather than because the observed object demonstrated extraordinary behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP ImageryThe official website for the All-domain Anomaly Resolution Office (AARO)...</span></span></span>
 
 This illustrates an important principle: footage is evidence, but it is rarely the entire evidence set. A short clip shared publicly may be only a fragment of what investigators examine internally. Identification often depends on combining video with radar returns, flight records, environmental data and technical knowledge of the sensor itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nextgov.com/ideas/2023/09/nasa-report-finds-no-evidence-ufos-are-extraterrestrial/390350/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nextgov.com">[Nextgov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nextgov.com</span><span class="citation-popover-title">nasa report finds no evidence ufos are extraterrestrial</span><span class="citation-popover-snippet">military aircraft. Analysis of this data is “hampered by poor sensor...Read more...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xSQc7I3GR-4" title="Parallax Effect – filmmaking tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xSQc7I3GR-4" target="_blank" rel="noopener noreferrer">Parallax Effect – filmmaking tutorial</a></p><p class="youtube-embed-meta">Channel: Fenchel &amp; Janisch &middot; Views: 52.7K &middot; Uploaded: June 2021 &middot; Length: 2 minutes 23 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xSQc7I3GR-4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xSQc7I3GR-4">Open on YouTube</a></p></div></div></div>
 
@@ -364,8 +357,7 @@ This illustrates an important principle: footage is evidence, but it is rarely t
 
 The strongest lesson from modern UAP investigations is that sophisticated sensors do not eliminate ambiguity. They can preserve details that human witnesses might miss, but they also introduce technical interpretation problems of their own.
 
-A compelling-looking infrared clip may show a real object, yet still leave unanswered questions about range, speed, size and behaviour. Missing metadata, uncertain calibration and the effects of platform motion can all prevent a confident identification. As a result, some UFO cases remain unresolved not because the footage proves something extraordinary, but because the footage lacks the context needed to determine exactly what was observed. NASA Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROUAP ImageryThe official website for the All-domain Anomaly Resolution Office (AARO)...</span></span></span>
-
+A compelling-looking infrared clip may show a real object, yet still leave unanswered questions about range, speed, size and behaviour. Missing metadata, uncertain calibration and the effects of platform motion can all prevent a confident identification. As a result, some UFO cases remain unresolved not because the footage proves something extraordinary, but because the footage lacks the context needed to determine exactly what was observed. NASA Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP ImageryThe official website for the All-domain Anomaly Resolution Office (AARO)...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_sensor_video_context_a04326-Illustration-3-dark.svg" | relative_url }}" alt="Sensor Context illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_sensor_video_context_a04326-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_sensor_video_context_a04326-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -486,15 +478,15 @@ A compelling-looking infrared clip may show a real object, yet still leave unans
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-context-why-ufo-videos-need-more-than-footage-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="sensor-context-why-ufo-videos-need-more-than-footage-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee"><img src="{{ '/assets/images/marketplace-covers/c0a6267ae6e22890f212.jpg' | relative_url }}" alt="Listing image for Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-videos-need-more-than-footage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-ufo-videos-need-more-than-footage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-context-why-ufo-videos-need-more-than-footage-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="sensor-context-why-ufo-videos-need-more-than-footage-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-videos-need-more-than-footage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-ufo-videos-need-more-than-footage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-context-why-ufo-videos-need-more-than-footage-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="sensor-context-why-ufo-videos-need-more-than-footage-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-videos-need-more-than-footage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-ufo-videos-need-more-than-footage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-context-why-ufo-videos-need-more-than-footage-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="sensor-context-why-ufo-videos-need-more-than-footage-ifos-causes-of-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-videos-need-more-than-footage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-ufo-videos-need-more-than-footage-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -502,15 +494,15 @@ A compelling-looking infrared clip may show a real object, yet still leave unans
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-context-why-ufo-videos-need-more-than-footage-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="sensor-context-why-ufo-videos-need-more-than-footage-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN UFO AREA 51 GROOM DRY LAKE TEST FACILITY T-SHIRT"><img src="{{ '/assets/images/marketplace-covers/5eb844375d885ea9eb20.jpg' | relative_url }}" alt="Listing image for ALIEN UFO AREA 51 GROOM DRY LAKE TEST FACILITY T-SHIRT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-videos-need-more-than-footage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-ufo-videos-need-more-than-footage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-context-why-ufo-videos-need-more-than-footage-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="sensor-context-why-ufo-videos-need-more-than-footage-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">ALIEN UFO AREA 51 GROOM DRY LAKE TEST FACILITY T-SHIRT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-videos-need-more-than-footage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-ufo-videos-need-more-than-footage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-context-why-ufo-videos-need-more-than-footage-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="sensor-context-why-ufo-videos-need-more-than-footage-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-videos-need-more-than-footage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-ufo-videos-need-more-than-footage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-context-why-ufo-videos-need-more-than-footage-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="sensor-context-why-ufo-videos-need-more-than-footage-ifos-causes-of-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-videos-need-more-than-footage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-ufo-videos-need-more-than-footage-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -518,15 +510,15 @@ A compelling-looking infrared clip may show a real object, yet still leave unans
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-context-why-ufo-videos-need-more-than-footage-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="sensor-context-why-ufo-videos-need-more-than-footage-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51"><img src="{{ '/assets/images/marketplace-covers/43c4ee420e151dd41424.jpg' | relative_url }}" alt="Listing image for Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-videos-need-more-than-footage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-ufo-videos-need-more-than-footage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-context-why-ufo-videos-need-more-than-footage-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="sensor-context-why-ufo-videos-need-more-than-footage-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-videos-need-more-than-footage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-ufo-videos-need-more-than-footage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-context-why-ufo-videos-need-more-than-footage-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="sensor-context-why-ufo-videos-need-more-than-footage-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-videos-need-more-than-footage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-ufo-videos-need-more-than-footage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-context-why-ufo-videos-need-more-than-footage-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="sensor-context-why-ufo-videos-need-more-than-footage-ifos-causes-of-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-videos-need-more-than-footage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-ufo-videos-need-more-than-footage-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -534,15 +526,15 @@ A compelling-looking infrared clip may show a real object, yet still leave unans
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-context-why-ufo-videos-need-more-than-footage-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="sensor-context-why-ufo-videos-need-more-than-footage-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design"><img src="{{ '/assets/images/marketplace-covers/f0858731bf83f620568a.jpg' | relative_url }}" alt="Listing image for Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-videos-need-more-than-footage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-ufo-videos-need-more-than-footage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-context-why-ufo-videos-need-more-than-footage-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="sensor-context-why-ufo-videos-need-more-than-footage-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-videos-need-more-than-footage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-ufo-videos-need-more-than-footage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-context-why-ufo-videos-need-more-than-footage-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="sensor-context-why-ufo-videos-need-more-than-footage-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-videos-need-more-than-footage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-ufo-videos-need-more-than-footage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-context-why-ufo-videos-need-more-than-footage-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="sensor-context-why-ufo-videos-need-more-than-footage-ifos-causes-of-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-videos-need-more-than-footage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-ufo-videos-need-more-than-footage-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -550,7 +542,7 @@ A compelling-looking infrared clip may show a real object, yet still leave unans
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-context-why-ufo-videos-need-more-than-footage-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="sensor-context-why-ufo-videos-need-more-than-footage-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-videos-need-more-than-footage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-ufo-videos-need-more-than-footage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -765,126 +757,126 @@ A compelling-looking infrared clip may show a real object, yet still leave unans
 
 1. <a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: [https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/](https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/)  
+   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through sys...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROUAP ImageryThe official website for the All-domain Anomaly Resolution Office (AARO)...</p></details>
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThe official website for the All-domain Anomaly Resolution Office (AARO)...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/video/973055/pr-003-unresolved-uap-report-africa-2023](https://www.dvidshub.net/video/973055/pr-003-unresolved-uap-report-africa-2023)  
+   Link: <a href="https://www.dvidshub.net/video/973055/pr-003-unresolved-uap-report-africa-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/973055/pr-003-unresolved-uap-report-africa-2023</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PR-003, Unresolved UAP Report, Africa 2023The footage shows an apparent heat signature with characteristics consistent with those of a ph...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: nextgov.com  
    Title: nasa report finds no evidence ufos are extraterrestrial  
-   Link: [https://www.nextgov.com/ideas/2023/09/nasa-report-finds-no-evidence-ufos-are-extraterrestrial/390350/](https://www.nextgov.com/ideas/2023/09/nasa-report-finds-no-evidence-ufos-are-extraterrestrial/390350/)  
+   Link: <a href="https://www.nextgov.com/ideas/2023/09/nasa-report-finds-no-evidence-ufos-are-extraterrestrial/390350/" target="_blank" rel="noopener noreferrer nofollow">https://www.nextgov.com/ideas/2023/09/nasa-report-finds-no-evidence-ufos-are-extraterrestrial/390350/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>military aircraft. Analysis of this data is “hampered by poor sensor...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
    Title: [GOFAST](&#123;&#123; 'gofast/' | relative_url &#125;&#125;) UFO Analysis (yeah no, probably just a balloon  
-   Link: [https://www.reddit.com/r/skeptic/comments/nzmkvc/gofast_ufo_analysis_yeah_no_probably_just_a/](https://www.reddit.com/r/skeptic/comments/nzmkvc/gofast_ufo_analysis_yeah_no_probably_just_a/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditGOFAST UFO Analysis (yeah no, probably just a balloon...June 14, 2021 — The object at altitude would appear to go fast even though...</p></details>
+   Link: <a href="https://www.reddit.com/r/skeptic/comments/nzmkvc/gofast_ufo_analysis_yeah_no_probably_just_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skeptic/comments/nzmkvc/gofast_ufo_analysis_yeah_no_probably_just_a/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>GOFAST UFO Analysis (yeah no, probably just a balloon...June 14, 2021 — The object at altitude would appear to go fast even though...</p></details>
    Published: June 14, 2021  
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/](https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditAccording to AARO&#x27;s new website, the FLIR, Gimbal and...Gimbal, and GoFast videos are “unresolved.” parallax giving the speed effe...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>According to AARO&#x27;s new website, the FLIR, Gimbal and...Gimbal, and GoFast videos are “unresolved.” parallax giving the speed effe...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: space.com  
    Title: nasa ufo uap study team first results revealed  
-   Link: [https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed](https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed)  
+   Link: <a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor sensor...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
    Title: arXiv Galileo Project Observatory Class System Architecture  
-   Link: [https://arxiv.org/abs/2506.00125](https://arxiv.org/abs/2506.00125)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivGalileo Project Observatory Class System ArchitectureMay 30, 2025...</p></details>
+   Link: <a href="https://arxiv.org/abs/2506.00125" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2506.00125</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Galileo Project Observatory Class System ArchitectureMay 30, 2025...</p></details>
    Published: May 30, 2025  
 
 10. <a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2411.07956](https://arxiv.org/abs/2411.07956)  
+   Link: <a href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2411.07956</a>  
 
 11. <a id="endnote-11"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2305.18566](https://arxiv.org/abs/2305.18566)  
+   Link: <a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
 
 12. <a id="endnote-12"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — A study team to examine unidentified anomalous phenomena (UAPs) – that is, observations of events in the sky that...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1bfmuzz/for_those_who_dont_know_the_gimbal_and_gofast/](https://www.reddit.com/r/UFOs/comments/1bfmuzz/for_those_who_dont_know_the_gimbal_and_gofast/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1bfmuzz/for_those_who_dont_know_the_gimbal_and_gofast/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1bfmuzz/for_those_who_dont_know_the_gimbal_and_gofast/</a>  
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: pbs.org  
-   Link: [https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos](https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos)  
+   Link: <a href="https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>3 ways scientists use math to help debunk UFO videosSemeter helped analyze one particular video called &quot;GO FAST,&quot; where an object seen an...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: ufodim.de  
-   Link: [https://www.ufodim.de/destruction/discussion-about-the-videos-released-by-u-s-navy/](https://www.ufodim.de/destruction/discussion-about-the-videos-released-by-u-s-navy/)  
+   Link: <a href="https://www.ufodim.de/destruction/discussion-about-the-videos-released-by-u-s-navy/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufodim.de/destruction/discussion-about-the-videos-released-by-u-s-navy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Discussion about the videos released by U.S. NavyMick West: “I disagree with Chris&#x27; analysis of my videos, and explain some of my objecti...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Le7Fqbsrrm8](https://www.youtube.com/watch?v=Le7Fqbsrrm8)  
+   Link: <a href="https://www.youtube.com/watch?v=Le7Fqbsrrm8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Le7Fqbsrrm8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Breakdown of the Pentagon UFO videos with Mick WestThe Pentagon have officially released three videos of unidentified aerial phenomena wh...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=-_4QF__92q0](https://www.youtube.com/watch?v=-_4QF__92q0)  
+   Link: <a href="https://www.youtube.com/watch?v=-_4QF__92q0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-_4QF__92q0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Videos Explained: Mick West&#x27;s Expert AnalysisOn his Week in Space, skeptical investigator Mick West breaks down recent UFO videos, in...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/2024/12/quick-guide-to-modern-video-analysis-techniques-for-uap-and-ufos/](https://skepticalinquirer.org/2024/12/quick-guide-to-modern-video-analysis-techniques-for-uap-and-ufos/)  
+   Link: <a href="https://skepticalinquirer.org/2024/12/quick-guide-to-modern-video-analysis-techniques-for-uap-and-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2024/12/quick-guide-to-modern-video-analysis-techniques-for-uap-and-ufos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>From: Volume 49, No. 1... Short for “Situation Recreation,” this tool was originally designed to analyze the U.S. Navy videos Gimbal and...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: meritalk.com  
    Title: nasa urged to take more permanent role in uap research effort  
-   Link: [https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/](https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/)  
+   Link: <a href="https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/" target="_blank" rel="noopener noreferrer nofollow">https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Urged to Take More Permanent Role in UAP...15 Sept 2023 — The study team found that most UAP data is “hampered by poor sensor calib...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: nevadacurrent.com  
    Title: nasa report finds no evidence that ufos are extraterrestrial  
-   Link: [https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/](https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/)  
+   Link: <a href="https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow">https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>18 Sept 2023 — Analysis of this data is “hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor metad...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: thedebrief.org  
    Title: nasas unidentified anomalous phenomena report key takeaways  
-   Link: [https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/](https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/)  
+   Link: <a href="https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP sightings. “At present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple measurements, the lack of s...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: metabunk.org  
    Title: angular size and shape analysis of flir1 with sitrec.12470  
-   Link: [https://www.metabunk.org/threads/angular-size-and-shape-analysis-of-flir1-with-sitrec.12470/](https://www.metabunk.org/threads/angular-size-and-shape-analysis-of-flir1-with-sitrec.12470/)  
+   Link: <a href="https://www.metabunk.org/threads/angular-size-and-shape-analysis-of-flir1-with-sitrec.12470/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/angular-size-and-shape-analysis-of-flir1-with-sitrec.12470/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Angular Size and Shape Analysis of FLIR1 with Sitrec10 Jun 2022 — My calculation is that to have this angular size in TV mode, a F-18 see...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: leonarddavid.com  
    Title: nasa report released unidentified anomalous phenomena uap  
-   Link: [https://www.leonarddavid.com/nasa-report-released-unidentified-anomalous-phenomena-uap/](https://www.leonarddavid.com/nasa-report-released-unidentified-anomalous-phenomena-uap/)  
+   Link: <a href="https://www.leonarddavid.com/nasa-report-released-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/nasa-report-released-unidentified-anomalous-phenomena-uap/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena (UAP) – UPDATED14 Sept 2023 — NASA has released its Unidentified Anomalous Phenomena (UAP) report comple...</p></details>

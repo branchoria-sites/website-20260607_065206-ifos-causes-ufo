@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c_passenger_window_vid_fdc156
 - ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c_ufo_reflection_photo_560d3e
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - reflections
 - cockpits
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - reflections
 - cockpits
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Cockpit instruments, cabin lighting and layered windscreens can create outside-looking lights even for trained observers.
 hero_summary: Cockpit instruments, cabin lighting and layered windscreens can create outside-looking lights even for trained observers.
 layout: default
 permalink: /cockpits/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /reflections/
 nav_short_title: Cockpits
 title: Can Pilots Be Fooled by Cockpit Glass?
-title_full: Can Pilots Be Fooled by Cockpit Glass? | Reflections
+title_full: Can Pilots Be Fooled by Cockpit Glass?
 display_title_short: Cockpits
 display_title: Cockpits
 heading_title: Can Pilots Be Fooled by Cockpit Glass?
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 09:29:11'
-parent_title: The UFO Inside the Glass | IFOs
+parent_title: The UFO Inside the Glass
 parent_permalink: /reflections/
 parent_nav_short_title: Reflections
 parent_heading_title: The UFO Inside the Glass
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c
-  title: Reflections | Ifos Causes Of
+  title: Reflections | ifos causes of UFO 3 ed 238
   permalink: /reflections/
   short_title: Reflections
   heading_title: The UFO Inside the Glass
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c
-  title: Reflections | Ifos Causes Of
+  title: Reflections | ifos causes of UFO 3 ed 238
   permalink: /reflections/
   short_title: Reflections
   heading_title: The UFO Inside the Glass
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: Why Dashboard Lights Can Look Alive
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c
-  title: Reflections | Ifos Causes Of
+  title: Reflections | ifos causes of UFO 3 ed 238
   permalink: /reflections/
   short_title: Reflections
   heading_title: The UFO Inside the Glass
@@ -266,6 +265,7 @@ next_link:
   permalink: /night-lamps/
   short_title: Night Lamps
   heading_title: When a Room Light Becomes a UFO
+date: '2026-06-12 00:45:20 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c_cockpit_glass_pilot_1f2378-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c_cockpit_glass_pilot_1f2378-Illustration-1.webp
@@ -275,7 +275,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c_cock
 ## Introduction
 
 Pilot UFO reports often receive special attention because pilots are trained observers operating in highly structured environments. Yet the cockpit itself creates optical conditions that can sometimes generate convincing false targets. [Reflections]({{ 'reflections/' | relative_url }}) from instrument panels, electronic displays, warning lights, cabin lighting and layered [windscreens]({{ 'windscreens/' | relative_url }}) can appear to float outside the aircraft, particularly during night operations. The result is not carelessness or incompetence. Rather, it is a reminder that expert observers must still interpret visual information through a complex optical system.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c_cockpit_glass_pilot_1f2378-Illustration-1-dark.svg" | relative_url }}" alt="Cockpits illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c_cockpit_glass_pilot_1f2378-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c_cockpit_glass_pilot_1f2378-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within the broader category of reflections through windows and windscreens, cockpit reflections are distinctive because they occur in an environment specifically designed around illuminated instruments and multiple transparent layers. Aviation safety guidance treats glare, reflections and night-time visual illusions as genuine operational concerns, precisely because they can affect even experienced crews. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.volpe.dot.gov/sites/volpe.dot.gov/files/docs/Human_Factors_Considerations_in_the_Design_and_Evaluation_of_Flight_Deck_Displays_and_Controls_V2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: volpe.dot.gov">[volpe.dot.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">volpe.dot.gov</span><span class="citation-popover-title">Human Factors Considerations in the Design and Evaluation</span><span class="citation-popover-snippet">FAA Aircraft Certification Test Pilots, Engineers, and Human. Factors... • Inspection of the cockpit for glare and reflections should al...</span></span></span>
@@ -294,7 +293,6 @@ Aircraft windscreens are not simple sheets of glass. Modern transport aircraft t
 
 Several features can contribute to misleading visual impressions:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **Layered construction:** Light can reflect from more than one surface, producing duplicate or displaced images.
@@ -306,7 +304,6 @@ Several features can contribute to misleading visual impressions:
 </div>
 
 Because reflected images are tied to the geometry of the cockpit rather than the outside world, they may behave differently from genuine external objects. However, in darkness those differences are not always immediately obvious.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gEzkBgh2Utw" title="Pepper&#x27;s Ghost &amp; Ray Diagrams for Plane Mirrors (Experiment) - GCSE Physics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gEzkBgh2Utw" target="_blank" rel="noopener noreferrer">Pepper&#x27;s Ghost &amp; Ray Diagrams for Plane Mirrors (Experiment) - GCSE Physics</a></p><p class="youtube-embed-meta">Channel: vt.physics &middot; Views: 2.8K &middot; Uploaded: July 2020 &middot; Length: 2 minutes 28 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gEzkBgh2Utw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gEzkBgh2Utw">Open on YouTube</a></p></div></div></div>
 
@@ -324,7 +321,6 @@ When the external environment is dark, the brightness contrast between cockpit l
 
 Several factors combine to increase vulnerability:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Dark skies provide little background detail.
@@ -337,11 +333,10 @@ Several factors combine to increase vulnerability:
 
 A small reflected light can therefore acquire an apparent distance, altitude and motion that it does not physically possess.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c_cockpit_glass_pilot_1f2378-Illustration-2-dark.svg" | relative_url }}" alt="Cockpits illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c_cockpit_glass_pilot_1f2378-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c_cockpit_glass_pilot_1f2378-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Reflections and Autokinetic Effects
 
-One reason [pilot reports]({{ 'pilots/' | relative_url }}) require careful analysis is that more than one visual phenomenon may be operating simultaneously.
+One reason pilot reports require careful analysis is that more than one visual phenomenon may be operating simultaneously.
 
 A stationary reflected light can interact with a well-known aviation illusion called autokinesis, in which a small isolated light appears to move when viewed against a dark background. Aviation training literature has long warned pilots about this effect. Federal Aviation Administration <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia In practice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sensory illusions in aviation</span><span class="citation-popover-snippet">Sensory illusions in aviationPilots may experience disorientation and loss of perspective, creating illusions that range from false ho...</span></span></span>, a pilot might perceive a reflected light and then observe what appears to be movement, acceleration or directional change. The experience can feel entirely real even if no external object is present.
 
@@ -354,7 +349,6 @@ Training materials and safety publications advise reducing cockpit illumination 
 Regulatory and human-factors documents go further by requiring evaluation of cockpit glare and reflections during aircraft certification. Such assessments are intended to ensure that reflected light does not impair a pilot's ability to observe the outside environment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.volpe.dot.gov/sites/volpe.dot.gov/files/docs/Human_Factors_Considerations_in_the_Design_and_Evaluation_of_Flight_Deck_Displays_and_Controls_V2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: volpe.dot.gov">[volpe.dot.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">volpe.dot.gov</span><span class="citation-popover-title">Human Factors Considerations in the Design and Evaluation</span><span class="citation-popover-snippet">FAA Aircraft Certification Test Pilots, Engineers, and Human. Factors... • Inspection of the cockpit for glare and reflections should al...</span></span></span>
 
 The existence of these procedures is significant. They demonstrate that aviation authorities regard reflected images as real operational hazards rather than theoretical curiosities.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/A4jseVHjI_4" title="Laws of Reflection of Light : Best Demonstration" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=A4jseVHjI_4" target="_blank" rel="noopener noreferrer">Laws of Reflection of Light : Best Demonstration</a></p><p class="youtube-embed-meta">Channel: Make Me Scientific &middot; Views: 965.0K &middot; Uploaded: April 2020 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=A4jseVHjI_4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=A4jseVHjI_4">Open on YouTube</a></p></div></div></div>
 
@@ -374,7 +368,6 @@ Dimming displays, adjusting panel lighting or extinguishing cabin lights can alt
 
 Independent observations from different cockpit positions can help determine whether a sighting was tied to a particular viewing geometry.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c_cockpit_glass_pilot_1f2378-Illustration-3-dark.svg" | relative_url }}" alt="Cockpits illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c_cockpit_glass_pilot_1f2378-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c_cockpit_glass_pilot_1f2378-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Did sensors confirm the visual observation?
 
@@ -392,9 +385,7 @@ The fact that professional pilots are trained to recognise visual hazards is one
 
 For investigations into UFO reports, cockpit reflections occupy an important middle ground. They acknowledge that the witness may have observed a genuine visual phenomenon while recognising that the phenomenon may have been created by the interaction of cockpit lighting, layered windscreens and the demanding visual environment of night flight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.volpe.dot.gov/sites/volpe.dot.gov/files/docs/Human_Factors_Considerations_in_the_Design_and_Evaluation_of_Flight_Deck_Displays_and_Controls_V2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: volpe.dot.gov">[volpe.dot.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">volpe.dot.gov</span><span class="citation-popover-title">Human Factors Considerations in the Design and Evaluation</span><span class="citation-popover-snippet">FAA Aircraft Certification Test Pilots, Engineers, and Human. Factors... • Inspection of the cockpit for glare and reflections should al...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/%40cianciolo/i-illusions-nighttime-perils-of-perception-446ef9e748fa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">Medium[I] = Illusions. Nighttime Perils of PerceptionAt night, adjust the cockpit (and handheld device!) lights to a minimum setting so y...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YfJVCZcu-aM" title="Heads Up Display: Driving Safer &amp; Smarter!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YfJVCZcu-aM" target="_blank" rel="noopener noreferrer">Heads Up Display: Driving Safer &amp; Smarter!</a></p><p class="youtube-embed-meta">Channel: Patterson Autos &middot; Views: 120.3K &middot; Uploaded: May 2025 &middot; Length: 17 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YfJVCZcu-aM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YfJVCZcu-aM">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -513,15 +504,15 @@ For investigations into UFO reports, cockpit reflections occupy an important mid
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cockpits-can-pilots-be-fooled-by-cockpit-glass-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="cockpits-can-pilots-be-fooled-by-cockpit-glass-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pilots-be-fooled-by-cockpit-glass-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-pilots-be-fooled-by-cockpit-glass-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cockpits-can-pilots-be-fooled-by-cockpit-glass-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="cockpits-can-pilots-be-fooled-by-cockpit-glass-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pilots-be-fooled-by-cockpit-glass-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-pilots-be-fooled-by-cockpit-glass-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cockpits-can-pilots-be-fooled-by-cockpit-glass-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="cockpits-can-pilots-be-fooled-by-cockpit-glass-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pilots-be-fooled-by-cockpit-glass-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-pilots-be-fooled-by-cockpit-glass-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cockpits-can-pilots-be-fooled-by-cockpit-glass-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="cockpits-can-pilots-be-fooled-by-cockpit-glass-ifos-causes-of-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pilots-be-fooled-by-cockpit-glass-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-pilots-be-fooled-by-cockpit-glass-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -529,15 +520,15 @@ For investigations into UFO reports, cockpit reflections occupy an important mid
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cockpits-can-pilots-be-fooled-by-cockpit-glass-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="cockpits-can-pilots-be-fooled-by-cockpit-glass-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pilots-be-fooled-by-cockpit-glass-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-pilots-be-fooled-by-cockpit-glass-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cockpits-can-pilots-be-fooled-by-cockpit-glass-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="cockpits-can-pilots-be-fooled-by-cockpit-glass-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pilots-be-fooled-by-cockpit-glass-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-pilots-be-fooled-by-cockpit-glass-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cockpits-can-pilots-be-fooled-by-cockpit-glass-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="cockpits-can-pilots-be-fooled-by-cockpit-glass-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pilots-be-fooled-by-cockpit-glass-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-pilots-be-fooled-by-cockpit-glass-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cockpits-can-pilots-be-fooled-by-cockpit-glass-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="cockpits-can-pilots-be-fooled-by-cockpit-glass-ifos-causes-of-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pilots-be-fooled-by-cockpit-glass-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-pilots-be-fooled-by-cockpit-glass-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -545,15 +536,15 @@ For investigations into UFO reports, cockpit reflections occupy an important mid
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cockpits-can-pilots-be-fooled-by-cockpit-glass-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="cockpits-can-pilots-be-fooled-by-cockpit-glass-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pilots-be-fooled-by-cockpit-glass-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-pilots-be-fooled-by-cockpit-glass-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cockpits-can-pilots-be-fooled-by-cockpit-glass-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="cockpits-can-pilots-be-fooled-by-cockpit-glass-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pilots-be-fooled-by-cockpit-glass-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-pilots-be-fooled-by-cockpit-glass-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cockpits-can-pilots-be-fooled-by-cockpit-glass-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="cockpits-can-pilots-be-fooled-by-cockpit-glass-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pilots-be-fooled-by-cockpit-glass-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-pilots-be-fooled-by-cockpit-glass-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cockpits-can-pilots-be-fooled-by-cockpit-glass-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="cockpits-can-pilots-be-fooled-by-cockpit-glass-ifos-causes-of-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pilots-be-fooled-by-cockpit-glass-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-pilots-be-fooled-by-cockpit-glass-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -561,15 +552,15 @@ For investigations into UFO reports, cockpit reflections occupy an important mid
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cockpits-can-pilots-be-fooled-by-cockpit-glass-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="cockpits-can-pilots-be-fooled-by-cockpit-glass-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pilots-be-fooled-by-cockpit-glass-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-pilots-be-fooled-by-cockpit-glass-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cockpits-can-pilots-be-fooled-by-cockpit-glass-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="cockpits-can-pilots-be-fooled-by-cockpit-glass-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pilots-be-fooled-by-cockpit-glass-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-pilots-be-fooled-by-cockpit-glass-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cockpits-can-pilots-be-fooled-by-cockpit-glass-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="cockpits-can-pilots-be-fooled-by-cockpit-glass-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pilots-be-fooled-by-cockpit-glass-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-pilots-be-fooled-by-cockpit-glass-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cockpits-can-pilots-be-fooled-by-cockpit-glass-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="cockpits-can-pilots-be-fooled-by-cockpit-glass-ifos-causes-of-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pilots-be-fooled-by-cockpit-glass-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-pilots-be-fooled-by-cockpit-glass-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -577,7 +568,7 @@ For investigations into UFO reports, cockpit reflections occupy an important mid
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cockpits-can-pilots-be-fooled-by-cockpit-glass-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="cockpits-can-pilots-be-fooled-by-cockpit-glass-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pilots-be-fooled-by-cockpit-glass-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-pilots-be-fooled-by-cockpit-glass-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -793,112 +784,112 @@ For investigations into UFO reports, cockpit reflections occupy an important mid
 1. <a id="endnote-1"></a>
    Source: volpe.dot.gov  
    Title: Human Factors Considerations in the Design and Evaluation  
-   Link: [https://www.volpe.dot.gov/sites/volpe.dot.gov/files/docs/Human_Factors_Considerations_in_the_Design_and_Evaluation_of_Flight_Deck_Displays_and_Controls_V2.pdf](https://www.volpe.dot.gov/sites/volpe.dot.gov/files/docs/Human_Factors_Considerations_in_the_Design_and_Evaluation_of_Flight_Deck_Displays_and_Controls_V2.pdf)  
+   Link: <a href="https://www.volpe.dot.gov/sites/volpe.dot.gov/files/docs/Human_Factors_Considerations_in_the_Design_and_Evaluation_of_Flight_Deck_Displays_and_Controls_V2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.volpe.dot.gov/sites/volpe.dot.gov/files/docs/Human_Factors_Considerations_in_the_Design_and_Evaluation_of_Flight_Deck_Displays_and_Controls_V2.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>FAA Aircraft Certification Test Pilots, Engineers, and Human. Factors... • Inspection of the cockpit for glare and reflections should al...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) Optical Radiation Transmittance of Aircraft  
-   Link: [https://www.researchgate.net/publication/235201203_Optical_Radiation_Transmittance_of_Aircraft_Windscreens_and_Pilot_Vision](https://www.researchgate.net/publication/235201203_Optical_Radiation_Transmittance_of_Aircraft_Windscreens_and_Pilot_Vision)  
+   Link: <a href="https://www.researchgate.net/publication/235201203_Optical_Radiation_Transmittance_of_Aircraft_Windscreens_and_Pilot_Vision" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/235201203_Optical_Radiation_Transmittance_of_Aircraft_Windscreens_and_Pilot_Vision</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Optical Radiation Transmittance of Aircraft...July 1, 2007 — Optical radiation can have acute and chronic effects on t...</p></details>
    Published: July 1, 2007  
 
 3. <a id="endnote-3"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/sites/faa.gov/files/data_research/research/med_humanfacs/oamtechreports/200720.pdf](https://www.faa.gov/sites/faa.gov/files/data_research/research/med_humanfacs/oamtechreports/200720.pdf)  
+   Link: <a href="https://www.faa.gov/sites/faa.gov/files/data_research/research/med_humanfacs/oamtechreports/200720.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/data_research/research/med_humanfacs/oamtechreports/200720.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationOptical Radiation Transmittance of Aircraft Windscreens...by VB Nakagawara · 2007 · Cited by 41 — CONCLUS...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf)  
+   Link: <a href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationAirplane Flying Handbook (3C) Chapter 11Two illusions that lead to spatial disorientation, false horizon a...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Sensory illusions in aviation  
-   Link: [https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation](https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation)  
+   Link: <a href="https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sensory illusions in aviationPilots may experience disorientation and loss of perspective, creating illusions that [range](&amp;#123;&amp;#123; &#x27;range/&#x27; | relative_url &amp;#125;&amp;#125;) from false ho...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40cianciolo/i-illusions-nighttime-perils-of-perception-446ef9e748fa](https://medium.com/%40cianciolo/i-illusions-nighttime-perils-of-perception-446ef9e748fa)  
+   Link: <a href="https://medium.com/%40cianciolo/i-illusions-nighttime-perils-of-perception-446ef9e748fa" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40cianciolo/i-illusions-nighttime-perils-of-perception-446ef9e748fa</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Medium[I] = Illusions. Nighttime Perils of PerceptionAt night, adjust the cockpit (and handheld device!) lights to a minimum setting so y...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/sites/faa.gov/files/Night_Ops_Ch13.pdf](https://www.faa.gov/sites/faa.gov/files/Night_Ops_Ch13.pdf)  
+   Link: <a href="https://www.faa.gov/sites/faa.gov/files/Night_Ops_Ch13.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/Night_Ops_Ch13.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>windshield, it should be adjusted or turned off.Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: faasafety.gov  
    Title: FAA Safety Your Senses in the Shadows  
-   Link: [https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf](https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf)  
+   Link: <a href="https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nighttime Visual Illusions...During nighttime operations, pilots can fall victim to optical illusions that can drastically compromise th...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: qsl.net  
    Title: Night Flying  
-   Link: [https://www.qsl.net/wu1m/Night_Flying.pdf](https://www.qsl.net/wu1m/Night_Flying.pdf)  
+   Link: <a href="https://www.qsl.net/wu1m/Night_Flying.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.qsl.net/wu1m/Night_Flying.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bright... Crossing large bodies of water at night in single- engine airplanes...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: faasafety.gov  
    Title: Library Contents  
-   Link: [https://www.faasafety.gov/gslac/alc/libview_normal.aspx?id=6580](https://www.faasafety.gov/gslac/alc/libview_normal.aspx?id=6580)  
+   Link: <a href="https://www.faasafety.gov/gslac/alc/libview_normal.aspx?id=6580" target="_blank" rel="noopener noreferrer nofollow">https://www.faasafety.gov/gslac/alc/libview_normal.aspx?id=6580</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FAA - FAASTeamGround lighting illusions. Bright runway and approach light systems, especially when few lights illuminate the surrounding...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DTn7I8BCn94/](https://www.instagram.com/reel/DTn7I8BCn94/)  
+   Link: <a href="https://www.instagram.com/reel/DTn7I8BCn94/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DTn7I8BCn94/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AirwayBuzz on Instagram: &quot;A viral video captures a...A viral video captures a passenger&#x27;s surprise as pilots use sunshades on the cockpi...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: forums.flightsimulator.com  
    Title: ground reflections inside cockpit windscreen too distracting  
-   Link: [https://forums.flightsimulator.com/t/ground-reflections-inside-cockpit-windscreen-too-distracting/683218](https://forums.flightsimulator.com/t/ground-reflections-inside-cockpit-windscreen-too-distracting/683218)  
+   Link: <a href="https://forums.flightsimulator.com/t/ground-reflections-inside-cockpit-windscreen-too-distracting/683218" target="_blank" rel="noopener noreferrer nofollow">https://forums.flightsimulator.com/t/ground-reflections-inside-cockpit-windscreen-too-distracting/683218</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Too distracting8 Dec 2024 — ISSUE DESCRIPTION Ground reflections passing through the aircraft striking the inside cockpit wind screen. Pr...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: ryancbinns.com  
    Title: Night Operations Disorientation and Night Optical Illusions  
-   Link: [https://www.ryancbinns.com/assets/production/pdfs/flying/lessons/area_02/task_h_-_night_operations.pdf](https://www.ryancbinns.com/assets/production/pdfs/flying/lessons/area_02/task_h_-_night_operations.pdf)  
+   Link: <a href="https://www.ryancbinns.com/assets/production/pdfs/flying/lessons/area_02/task_h_-_night_operations.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ryancbinns.com/assets/production/pdfs/flying/lessons/area_02/task_h_-_night_operations.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Night OperationsDisorientation and Night Optical Illusions - Night flying produces a number of optical illusions which can lead to spatia...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/aviationgallerys/posts/a-tiktoker-noticed-that-the-cockpit-sun-blocker-was-covering-the-pilots-entire-f/987491326966482/](https://www.facebook.com/aviationgallerys/posts/a-tiktoker-noticed-that-the-cockpit-sun-blocker-was-covering-the-pilots-entire-f/987491326966482/)  
+   Link: <a href="https://www.facebook.com/aviationgallerys/posts/a-tiktoker-noticed-that-the-cockpit-sun-blocker-was-covering-the-pilots-entire-f/987491326966482/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/aviationgallerys/posts/a-tiktoker-noticed-that-the-cockpit-sun-blocker-was-covering-the-pilots-entire-f/987491326966482/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>rward View -both Pilots Were Calmly Seated At The Controls The...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: hartzellprop.com  
    Title: watch out for night flight illusions  
-   Link: [https://hartzellprop.com/watch-out-for-night-flight-illusions/](https://hartzellprop.com/watch-out-for-night-flight-illusions/)  
+   Link: <a href="https://hartzellprop.com/watch-out-for-night-flight-illusions/" target="_blank" rel="noopener noreferrer nofollow">https://hartzellprop.com/watch-out-for-night-flight-illusions/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hartzell PropellerWatch Out for These 5 Night Flight Illusions24 Sept 2019 — Understanding how to identify the different types of nightti...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: cfinotebook.net  
-   Link: [https://www.cfinotebook.net/notebook/aeromedical-and-human-factors/spatial-disorientation-and-illusions-in-flight](https://www.cfinotebook.net/notebook/aeromedical-and-human-factors/spatial-disorientation-and-illusions-in-flight)  
+   Link: <a href="https://www.cfinotebook.net/notebook/aeromedical-and-human-factors/spatial-disorientation-and-illusions-in-flight" target="_blank" rel="noopener noreferrer nofollow">https://www.cfinotebook.net/notebook/aeromedical-and-human-factors/spatial-disorientation-and-illusions-in-flight</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spatial Disorientation &amp; Illusions In FlightWhen landing at night from over water or non-lighted terrain, the runway lights are the only...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DW2wjsMAJo6/](https://www.instagram.com/reel/DW2wjsMAJo6/)  
+   Link: <a href="https://www.instagram.com/reel/DW2wjsMAJo6/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DW2wjsMAJo6/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>took to get you to this point as a pilot...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DU2aXSPFi7e/](https://www.instagram.com/p/DU2aXSPFi7e/)  
+   Link: <a href="https://www.instagram.com/p/DU2aXSPFi7e/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DU2aXSPFi7e/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>𝗪𝗵𝘆 𝘁𝗵𝗲 𝗖𝗼𝗰𝗸𝗽𝗶𝘁 𝗛𝗮𝘀 𝗮 &#x27;D𝗮𝗿𝗸 𝗠𝗼𝗱𝗲...In zero visibility conditions, pilots don&#x27;t rely on their eyes — they rely on their instruments...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: pilotmall.com  
    Title: night flying illusions explained in detail  
-   Link: [https://www.pilotmall.com/blogs/news/night-flying-illusions-explained-in-detail?srsltid=AfmBOopnRJJ6LaJfkWZE4UqIk92g-41aTbG6g4r0bOktuFcTWGO3YTgT](https://www.pilotmall.com/blogs/news/night-flying-illusions-explained-in-detail?srsltid=AfmBOopnRJJ6LaJfkWZE4UqIk92g-41aTbG6g4r0bOktuFcTWGO3YTgT)  
+   Link: <a href="https://www.pilotmall.com/blogs/news/night-flying-illusions-explained-in-detail?srsltid=AfmBOopnRJJ6LaJfkWZE4UqIk92g-41aTbG6g4r0bOktuFcTWGO3YTgT" target="_blank" rel="noopener noreferrer nofollow">https://www.pilotmall.com/blogs/news/night-flying-illusions-explained-in-detail?srsltid=AfmBOopnRJJ6LaJfkWZE4UqIk92g-41aTbG6g4r0bOktuFcTWGO3YTgT</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>If you know what to anticipate, these sensory tricks will be less likely to catch you off guard.Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: ntsb.gov  
-   Link: [https://www.ntsb.gov/safety/safety-studies/Documents/SS1001.pdf](https://www.ntsb.gov/safety/safety-studies/Documents/SS1001.pdf)  
+   Link: <a href="https://www.ntsb.gov/safety/safety-studies/Documents/SS1001.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ntsb.gov/safety/safety-studies/Documents/SS1001.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction of Glass Cockpit Avionics into Light AircraftAdvanced avionics and electronic displays can increase the safety potential of...</p></details>

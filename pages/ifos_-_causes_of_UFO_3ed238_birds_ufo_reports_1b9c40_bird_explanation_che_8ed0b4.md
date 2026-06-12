@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_migrating_flocks_str_882181
 - ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_pelican_glints_ufo_8026ee
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - birds
 - field-checks
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - birds
 - field-checks
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: A bird explanation is strongest when it matches range, season, route, weather, motion and visible behaviour better than alternatives.
 hero_summary: A bird explanation is strongest when it matches range, season, route, weather, motion and visible behaviour better than alternatives.
 layout: default
 permalink: /field-checks/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /birds/
 nav_short_title: Field checks
 title: How Investigators Test a Bird Explanation
-title_full: How Investigators Test a Bird Explanation | Birds
+title_full: How Investigators Test a Bird Explanation
 display_title_short: Field checks
 display_title: Field checks
 heading_title: How Investigators Test a Bird Explanation
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 07:56:42'
-parent_title: How Birds Become Fast UFOs | IFOs
+parent_title: How Birds Become Fast UFOs
 parent_permalink: /birds/
 parent_nav_short_title: Birds
 parent_heading_title: How Birds Become Fast UFOs
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40
-  title: Birds | Ifos Causes Of
+  title: Birds | ifos causes of UFO 3 ed 238
   permalink: /birds/
   short_title: Birds
   heading_title: How Birds Become Fast UFOs
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40
-  title: Birds | Ifos Causes Of
+  title: Birds | ifos causes of UFO 3 ed 238
   permalink: /birds/
   short_title: Birds
   heading_title: How Birds Become Fast UFOs
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: Can Pelicans Look Like Silver Discs?
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40
-  title: Birds | Ifos Causes Of
+  title: Birds | ifos causes of UFO 3 ed 238
   permalink: /birds/
   short_title: Birds
   heading_title: How Birds Become Fast UFOs
@@ -266,6 +265,7 @@ next_link:
   permalink: /flocks/
   short_title: Flocks
   heading_title: When Bird Flocks Become Flying Formations
+date: '2026-06-12 00:41:58 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_bird_explanation_che_8ed0b4-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_bird_explanation_che_8ed0b4-Illustration-1.webp
@@ -274,15 +274,14 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_bird_
 
 ## Introduction
 
-When a UFO or UAP report may involve a bird, the question is not whether birds can resemble unusual aerial objects—they often can. The real question is whether a specific bird explanation matches the observed conditions better than competing explanations. Investigators therefore test bird hypotheses against measurable factors such as geometry, [range]({{ 'range/' | relative_url }}), season, migration timing, weather, flight behaviour and image characteristics. A bird explanation becomes persuasive when these independent checks point in the same direction. It weakens when the reported motion, location, timing or recorded imagery conflicts with what birds could realistically produce. Official UAP assessments have increasingly relied on this kind of evidence-based comparison rather than simple visual guesswork; for example, recent [AARO]({{ 'aaro/' | relative_url }}) case resolutions have linked suspected bird targets to known migration routes and characteristic flight behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROUAP ImageryAARO bases its assessment on the objects&#x27; strong morphological consistency with other resolved imagery depicting birds and...</span></span></span>
-
+When a UFO or UAP report may involve a bird, the question is not whether birds can resemble unusual aerial objects—they often can. The real question is whether a specific bird explanation matches the observed conditions better than competing explanations. Investigators therefore test bird hypotheses against measurable factors such as geometry, [range]({{ 'range/' | relative_url }}), season, migration timing, weather, flight behaviour and image characteristics. A bird explanation becomes persuasive when these independent checks point in the same direction. It weakens when the reported motion, location, timing or recorded imagery conflicts with what birds could realistically produce. Official UAP assessments have increasingly relied on this kind of evidence-based comparison rather than simple visual guesswork; for example, recent [AARO]({{ 'aaro/' | relative_url }}) case resolutions have linked suspected bird targets to known migration routes and characteristic flight behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP ImageryAARO bases its assessment on the objects&#x27; strong morphological consistency with other resolved imagery depicting birds and...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_bird_explanation_che_8ed0b4-Illustration-1-dark.svg" | relative_url }}" alt="Field checks illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_bird_explanation_che_8ed0b4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_bird_explanation_che_8ed0b4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Geometry, Range and Camera Clues
 
 The first field check is usually geometric rather than biological. Investigators ask whether the apparent speed, size and movement depend on assumptions about distance.
 
-A small bird close to the observer can cross a camera frame faster than a distant aircraft. If the object's range is unknown, apparent speed alone is unreliable. This principle has been central to analyses of several military and civilian UAP videos, where later calculations showed that camera geometry and observer motion could greatly exaggerate apparent performance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution</span><span class="citation-popover-snippet">AAROAARO GoFast Case ResolutionFebruary 24, 2025 — 6 Feb 2025 — AARO calculated the object&#x27;s speed and heading relative to the aircraft b...</span><span class="citation-popover-meta">Published: February 24, 2025</span></span></span>
+A small bird close to the observer can cross a camera frame faster than a distant aircraft. If the object's range is unknown, apparent speed alone is unreliable. This principle has been central to analyses of several military and civilian UAP videos, where later calculations showed that camera geometry and observer motion could greatly exaggerate apparent performance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution</span><span class="citation-popover-snippet">AARO GoFast Case ResolutionFebruary 24, 2025 — 6 Feb 2025 — AARO calculated the object&#x27;s speed and heading relative to the aircraft b...</span><span class="citation-popover-meta">Published: February 24, 2025</span></span></span>
 
 Several practical checks help determine whether a bird is plausible:
 
@@ -297,7 +296,7 @@ Several practical checks help determine whether a bird is plausible:
 
 </div>
 
-Modern bird-detection research highlights how surprisingly small airborne birds can appear in imaging systems. In real-world airport-monitoring datasets, many birds occupy only a few pixels even in high-definition video, making confident visual identification difficult and increasing the chance of misinterpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2304.11662" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivAirBirds: A Large-scale Challenging Dataset for Bird Strike Prevention in Real-world AirportsApril 23, 2023...</span><span class="citation-popover-meta">Published: April 23, 2023</span></span></span>
+Modern bird-detection research highlights how surprisingly small airborne birds can appear in imaging systems. In real-world airport-monitoring datasets, many birds occupy only a few pixels even in high-definition video, making confident visual identification difficult and increasing the chance of misinterpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2304.11662" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">AirBirds: A Large-scale Challenging Dataset for Bird Strike Prevention in Real-world AirportsApril 23, 2023...</span><span class="citation-popover-meta">Published: April 23, 2023</span></span></span>
 
 Investigators also examine whether the object's motion correlates with camera tracking behaviour. If a target appears to accelerate whenever the camera pans or zooms, the apparent manoeuvre may reflect imaging geometry rather than extraordinary flight.
 
@@ -309,9 +308,7 @@ This may sound obvious, but many UFO reports omit information that ornithologist
 
 A structured field assessment typically asks:
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bpQ3rFlxTQE" title="BirdCast Migration Dashboard - Try it Today!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bpQ3rFlxTQE" target="_blank" rel="noopener noreferrer">BirdCast Migration Dashboard - Try it Today!</a></p><p class="youtube-embed-meta">Channel: Cornell Lab of Ornithology &middot; Views: 52.9K &middot; Uploaded: April 2022 &middot; Length: 1 minute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bpQ3rFlxTQE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bpQ3rFlxTQE">Open on YouTube</a></p></div></div></div>
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -322,9 +319,9 @@ A structured field assessment typically asks:
 
 </div>
 
-Migration-route information can be particularly important. AARO has cited alignment with known migration routes as one reason for assigning high confidence to bird explanations in resolved cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROUAP ImageryAARO bases its assessment on the objects&#x27; strong morphological consistency with other resolved imagery depicting birds and...</span></span></span>
+Migration-route information can be particularly important. AARO has cited alignment with known migration routes as one reason for assigning high confidence to bird explanations in resolved cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP ImageryAARO bases its assessment on the objects&#x27; strong morphological consistency with other resolved imagery depicting birds and...</span></span></span>
 
-Today, migration forecasts and [radar]({{ 'radar/' | relative_url }})-based migration monitoring provide tools that investigators did not possess during many classic UFO waves. Systems such as BirdCast use weather-radar networks to estimate migration intensity, direction, altitude and timing across large regions. These data can reveal whether thousands or millions of birds were moving through an area during the period of a sighting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://birdcast.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: birdcast.org">[birdcast.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">birdcast.org</span><span class="citation-popover-snippet">BirdCast – Bird migration forecasts in real-timeWe use weather radar to detect and predict the numbers and flight directions of migrating...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://birdcast.org/migration-tools/live-migration-maps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: birdcast.org">[birdcast.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">birdcast.org</span><span class="citation-popover-snippet">Live MapsThe maps show how many birds are present and in what direction they are moving. Radars in mountainous areas (e.g. the Rockies) m...</span></span></span>
+Today, migration forecasts and [radar]({{ 'radar/' | relative_url }})-based migration monitoring provide tools that investigators did not possess during many classic UFO waves. Systems such as BirdCast use weather-radar networks to estimate migration intensity, direction, altitude and timing across large regions. These data can reveal whether thousands or millions of birds were moving through an area during the period of a sighting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://birdcast.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: birdcast.org">[birdcast.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">birdcast.org</span><span class="citation-popover-snippet">Bird migration forecasts in real-timeWe use weather radar to detect and predict the numbers and flight directions of migrating...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://birdcast.org/migration-tools/live-migration-maps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: birdcast.org">[birdcast.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">birdcast.org</span><span class="citation-popover-snippet">Live MapsThe maps show how many birds are present and in what direction they are moving. Radars in mountainous areas (e.g. the Rockies) m...</span></span></span>
 
 The value of these checks is illustrated by large migration events. Radar monitoring has documented nights when more than a billion birds were moving across parts of North America, creating dense aerial traffic that can appear on weather radar and produce numerous visual observations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.birds.cornell.edu/home/record-breaking-night-of-bird-migration/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: birds.cornell.edu">[Birds, Cornell Lab of Ornithology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">birds.cornell.edu</span><span class="citation-popover-title">record breaking night of bird migration</span><span class="citation-popover-snippet">Birds, Cornell Lab of OrnithologyRecord-breaking Night of Bird Migration Detected with Radar26 Sept 2025 — On its live migration map, Bir...</span></span></span>
 
@@ -332,12 +329,11 @@ The value of these checks is illustrated by large migration events. Radar monito
 
 Bird movements are closely linked to weather.
 
-Researchers have shown that migration intensity, route choice and flight altitude respond strongly to wind conditions and broader weather patterns. Birds frequently exploit favourable winds and may alter routes substantially to gain wind assistance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.icarus.mpg.de/28420/migratory-birds-flight-routes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icarus.mpg.de">[icarus.mpg.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icarus.mpg.de</span><span class="citation-popover-title">Gone with the wind | Icarus</span><span class="citation-popover-snippet">Max-Planck-GesellschaftMigratory birds need less time to travel longer routes when they optimize for wind support...</span></span></span>
+Researchers have shown that migration intensity, route choice and flight altitude respond strongly to wind conditions and broader weather patterns. Birds frequently exploit favourable winds and may alter routes substantially to gain wind assistance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.icarus.mpg.de/28420/migratory-birds-flight-routes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icarus.mpg.de">[icarus.mpg.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icarus.mpg.de</span><span class="citation-popover-title">Gone with the wind &#124; Icarus</span><span class="citation-popover-snippet">Max-Planck-GesellschaftMigratory birds need less time to travel longer routes when they optimize for wind support...</span></span></span>
 
 For UFO investigations, this means that weather is not merely background information. It becomes a predictive test.
 
 Questions include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -350,7 +346,6 @@ Questions include:
 
 If the reported object appeared during conditions known to produce heavy bird movement, the bird hypothesis becomes more credible. If conditions strongly discouraged bird activity, investigators may need to look harder at alternative explanations.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_bird_explanation_che_8ed0b4-Illustration-2-dark.svg" | relative_url }}" alt="Field checks illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_bird_explanation_che_8ed0b4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_bird_explanation_che_8ed0b4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Habitat Matters as Much as Season
 
@@ -359,9 +354,6 @@ A sighting above wetlands, coastlines, estuaries, agricultural land or known mig
 Many species follow predictable flyways and stopover sites. Radar and migration studies repeatedly show that bird movement is concentrated along particular routes rather than being evenly distributed across the landscape. <span class="citation-chip-wrap"><a class="citation-chip" href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14161" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: besjournals.onlinelibrary.wiley.com">[British Ecological Society Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">besjournals.onlinelibrary.wiley.com</span><span class="citation-popover-title">2041 210X.14161</span><span class="citation-popover-snippet">British Ecological Society JournalsAutomatic detection of migrating soaring bird flocks using...by I Schekler · 2023 · Cited by 24 — The...</span></span></span>
 
 As a result, an unexplained formation over a major migration corridor during peak migration season is more plausibly bird-related than an identical report occurring outside known movement periods.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nJ-ghdtlxcE" title="#BOU2015 - Robin M. Ward; The Offshore Renewables Joint Industry Programme; Bird collision" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nJ-ghdtlxcE" target="_blank" rel="noopener noreferrer">#BOU2015 - Robin M. Ward; The Offshore Renewables Joint Industry Programme; Bird collision</a></p><p class="youtube-embed-meta">Channel: BOU TalkingPosters</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nJ-ghdtlxcE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nJ-ghdtlxcE">Open on YouTube</a></p></div></div></div>
 
 ## Matching Reported Behaviour Against Real Bird Behaviour
 
@@ -382,9 +374,7 @@ For example, a witness may report that a group of lights suddenly brightened, ch
 
 The strongest bird identifications therefore explain multiple reported features at once: appearance, movement, timing and disappearance.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/piDYYVrchoc" title="Stunning flight patterns revealed by video effect - Click - BBC News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=piDYYVrchoc" target="_blank" rel="noopener noreferrer">Stunning flight patterns revealed by video effect - Click - BBC News</a></p><p class="youtube-embed-meta">Channel: BBC News &middot; Views: 6.2K &middot; Uploaded: March 2014 &middot; Length: 1 minute 52 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=piDYYVrchoc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=piDYYVrchoc">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_bird_explanation_che_8ed0b4-Illustration-3-dark.svg" | relative_url }}" alt="Field checks illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_bird_explanation_che_8ed0b4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_bird_explanation_che_8ed0b4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When the Bird Explanation Stops Fitting
 
 A bird explanation should not be treated as a default answer.
@@ -392,7 +382,6 @@ A bird explanation should not be treated as a default answer.
 Investigators should reject or downgrade the hypothesis when key tests fail.
 
 Warning signs include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -409,8 +398,7 @@ Equally important, lack of identification does not automatically validate an exo
 
 In practice, the most reliable investigations treat bird identification as a testable proposition. The hypothesis succeeds when geometry, range estimates, migration timing, habitat, weather and observed behaviour all converge on a coherent biological explanation. When those lines of evidence diverge, the bird explanation loses explanatory power and other possibilities deserve closer examination.
 
-
-<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_bird_explanation_che_8ed0b4-Illustration-3-dark.svg" | relative_url }}" alt="Field checks illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_bird_explanation_che_8ed0b4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_bird_explanation_che_8ed0b4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/piDYYVrchoc" title="Stunning flight patterns revealed by video effect - Click - BBC News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=piDYYVrchoc" target="_blank" rel="noopener noreferrer">Stunning flight patterns revealed by video effect - Click - BBC News</a></p><p class="youtube-embed-meta">Channel: BBC News &middot; Views: 6.2K &middot; Uploaded: March 2014 &middot; Length: 1 minute 52 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=piDYYVrchoc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=piDYYVrchoc">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -529,11 +517,11 @@ In practice, the most reliable investigations treat bird identification as a tes
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bird+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-investigators-test-a-bird-explanation-bird-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bird wall art" data-ebay-reference="how-investigators-test-a-bird-explanation-bird-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Blue Kingfisher Bird Colour Wall Art Bedroom Nursery Decor Vinyl Sticker Decal"><img src="https://i.ebayimg.com/images/g/ExMAAOSwVCxmLrtx/s-l225.jpg" alt="Listing image for Blue Kingfisher Bird Colour Wall Art Bedroom Nursery Decor Vinyl Sticker Decal" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bird+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-investigators-test-a-bird-explanation-bird-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bird wall art" data-ebay-reference="how-investigators-test-a-bird-explanation-bird-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PRETTY BIRDS PERCHED ON A TREE OVER WATER CANVAS WALL ART ARTWORK PRINT"><img src="https://i.ebayimg.com/images/g/rF4AAOSwVc9oWxfy/s-l225.jpg" alt="Listing image for PRETTY BIRDS PERCHED ON A TREE OVER WATER CANVAS WALL ART ARTWORK PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bird+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-investigators-test-a-bird-explanation-bird-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bird wall art" data-ebay-reference="how-investigators-test-a-bird-explanation-bird-wall-art" target="_blank" rel="sponsored noopener noreferrer">Blue Kingfisher Bird Colour Wall Art Bedroom Nursery Decor Vinyl Sticker Decal</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bird+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-investigators-test-a-bird-explanation-bird-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bird wall art" data-ebay-reference="how-investigators-test-a-bird-explanation-bird-wall-art" target="_blank" rel="sponsored noopener noreferrer">PRETTY BIRDS PERCHED ON A TREE OVER WATER CANVAS WALL ART ARTWORK PRINT</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bird+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-investigators-test-a-bird-explanation-bird-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bird wall art" data-ebay-reference="how-investigators-test-a-bird-explanation-bird-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bird wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: bird wall art</a>
         <div class="fr-book-actions">
@@ -545,11 +533,11 @@ In practice, the most reliable investigations treat bird identification as a tes
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bird+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-investigators-test-a-bird-explanation-bird-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bird wall art" data-ebay-reference="how-investigators-test-a-bird-explanation-bird-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Black Metal Bird Wall Art Bird on branch Heart Wall Plaque Hanging Home Decor"><img src="https://i.ebayimg.com/images/g/QDMAAeSwPLdpagV1/s-l225.jpg" alt="Listing image for Black Metal Bird Wall Art Bird on branch Heart Wall Plaque Hanging Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bird+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-investigators-test-a-bird-explanation-bird-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bird wall art" data-ebay-reference="how-investigators-test-a-bird-explanation-bird-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BEAUTIFUL BIRDS AT A FULL MOON -DEEP FRAMED CANVAS WALL ART PICTURE PRINT"><img src="https://i.ebayimg.com/images/g/6VQAAeSwsudonSW9/s-l225.jpg" alt="Listing image for BEAUTIFUL BIRDS AT A FULL MOON -DEEP FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bird+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-investigators-test-a-bird-explanation-bird-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bird wall art" data-ebay-reference="how-investigators-test-a-bird-explanation-bird-wall-art" target="_blank" rel="sponsored noopener noreferrer">Black Metal Bird Wall Art Bird on branch Heart Wall Plaque Hanging Home Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bird+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-investigators-test-a-bird-explanation-bird-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bird wall art" data-ebay-reference="how-investigators-test-a-bird-explanation-bird-wall-art" target="_blank" rel="sponsored noopener noreferrer">BEAUTIFUL BIRDS AT A FULL MOON -DEEP FRAMED CANVAS WALL ART PICTURE PRINT</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bird+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-investigators-test-a-bird-explanation-bird-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bird wall art" data-ebay-reference="how-investigators-test-a-bird-explanation-bird-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bird wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: bird wall art</a>
         <div class="fr-book-actions">
@@ -561,11 +549,27 @@ In practice, the most reliable investigations treat bird identification as a tes
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bird+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-investigators-test-a-bird-explanation-bird-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bird wall art" data-ebay-reference="how-investigators-test-a-bird-explanation-bird-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wall art home decor line art decoration gift - multiple choices"><img src="https://i.ebayimg.com/images/g/-jEAAeSwrWdp8QWy/s-l225.jpg" alt="Listing image for Wall art home decor line art decoration gift - multiple choices" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bird+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-investigators-test-a-bird-explanation-bird-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bird wall art" data-ebay-reference="how-investigators-test-a-bird-explanation-bird-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Colourful Flying Bald Eagle Bird Wall Art Bedroom Motorhome Vinyl Sticker Decal"><img src="https://i.ebayimg.com/images/g/LHAAAOSwBTtmX4dg/s-l225.jpg" alt="Listing image for Colourful Flying Bald Eagle Bird Wall Art Bedroom Motorhome Vinyl Sticker Decal" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bird+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-investigators-test-a-bird-explanation-bird-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bird wall art" data-ebay-reference="how-investigators-test-a-bird-explanation-bird-wall-art" target="_blank" rel="sponsored noopener noreferrer">Wall art home decor line art decoration gift - multiple choices</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bird+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-investigators-test-a-bird-explanation-bird-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bird wall art" data-ebay-reference="how-investigators-test-a-bird-explanation-bird-wall-art" target="_blank" rel="sponsored noopener noreferrer">Colourful Flying Bald Eagle Bird Wall Art Bedroom Motorhome Vinyl Sticker Decal</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bird+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-investigators-test-a-bird-explanation-bird-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bird wall art" data-ebay-reference="how-investigators-test-a-bird-explanation-bird-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bird wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: bird wall art</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bird+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-investigators-test-a-bird-explanation-bird-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bird wall art" data-ebay-reference="how-investigators-test-a-bird-explanation-bird-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bird+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-investigators-test-a-bird-explanation-bird-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bird wall art" data-ebay-reference="how-investigators-test-a-bird-explanation-bird-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sass &amp; Belle Retro 3 Ceramic Flying Swallow Birds Wall Decoration Art Duck Egg"><img src="https://i.ebayimg.com/images/g/ThgAAOSwmCpfdZrh/s-l225.jpg" alt="Listing image for Sass &amp; Belle Retro 3 Ceramic Flying Swallow Birds Wall Decoration Art Duck Egg" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bird+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-investigators-test-a-bird-explanation-bird-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bird wall art" data-ebay-reference="how-investigators-test-a-bird-explanation-bird-wall-art" target="_blank" rel="sponsored noopener noreferrer">Sass &amp; Belle Retro 3 Ceramic Flying Swallow Birds Wall Decoration Art Duck Egg</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bird+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-investigators-test-a-bird-explanation-bird-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bird wall art" data-ebay-reference="how-investigators-test-a-bird-explanation-bird-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bird wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: bird wall art</a>
         <div class="fr-book-actions">
@@ -787,141 +791,142 @@ In practice, the most reliable investigations treat bird identification as a tes
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROUAP ImageryAARO bases its assessment on the objects&#x27; strong morphological consistency with other resolved imagery depicting birds and...</p></details>
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryAARO bases its assessment on the objects&#x27; strong morphological consistency with other resolved imagery depicting birds and...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: aaro.mil  
    Title: Go Fast Case Resolution  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf](https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROAARO [GoFast](&amp;#123;&amp;#123; &#x27;gofast/&#x27; | relative_url &amp;#125;&amp;#125;) Case ResolutionFebruary 24, 2025 — 6 Feb 2025 — AARO calculated the object&#x27;s speed and heading relative to the aircraft b...</p></details>
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO [GoFast](&amp;#123;&amp;#123; &#x27;gofast/&#x27; | relative_url &amp;#125;&amp;#125;) Case ResolutionFebruary 24, 2025 — 6 Feb 2025 — AARO calculated the object&#x27;s speed and heading relative to the aircraft b...</p></details>
    Published: February 24, 2025  
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2304.11662](https://arxiv.org/abs/2304.11662)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivAirBirds: A Large-scale Challenging Dataset for Bird Strike Prevention in Real-world AirportsApril 23, 2023...</p></details>
+   Link: <a href="https://arxiv.org/abs/2304.11662" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2304.11662</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AirBirds: A Large-scale Challenging Dataset for Bird Strike Prevention in Real-world AirportsApril 23, 2023...</p></details>
    Published: April 23, 2023  
 
 4. <a id="endnote-4"></a>
    Source: birdcast.org  
-   Link: [https://birdcast.org/](https://birdcast.org/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BirdCast – Bird migration forecasts in real-timeWe use weather radar to detect and predict the numbers and flight directions of migrating...</p></details>
+   Link: <a href="https://birdcast.org/" target="_blank" rel="noopener noreferrer nofollow">https://birdcast.org/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bird migration forecasts in real-timeWe use weather radar to detect and predict the numbers and flight directions of migrating...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: birdcast.org  
-   Link: [https://birdcast.org/migration-tools/live-migration-maps/](https://birdcast.org/migration-tools/live-migration-maps/)  
+   Link: <a href="https://birdcast.org/migration-tools/live-migration-maps/" target="_blank" rel="noopener noreferrer nofollow">https://birdcast.org/migration-tools/live-migration-maps/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Live MapsThe maps show how many birds are present and in what direction they are moving. Radars in mountainous areas (e.g. the Rockies) m...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: birdcast.org  
-   Link: [https://birdcast.org/migration-tools/migration-dashboard/](https://birdcast.org/migration-tools/migration-dashboard/)  
+   Link: <a href="https://birdcast.org/migration-tools/migration-dashboard/" target="_blank" rel="noopener noreferrer nofollow">https://birdcast.org/migration-tools/migration-dashboard/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Your Local Migration DashboardThe BirdCast Migration Dashboard provides summaries of nocturnal bird migration patterns, including estimat...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: birds.cornell.edu  
    Title: record breaking night of bird migration  
-   Link: [https://www.birds.cornell.edu/home/record-breaking-night-of-bird-migration/](https://www.birds.cornell.edu/home/record-breaking-night-of-bird-migration/)  
+   Link: <a href="https://www.birds.cornell.edu/home/record-breaking-night-of-bird-migration/" target="_blank" rel="noopener noreferrer nofollow">https://www.birds.cornell.edu/home/record-breaking-night-of-bird-migration/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Birds, Cornell Lab of OrnithologyRecord-breaking Night of Bird Migration Detected with Radar26 Sept 2025 — On its live migration map, Bir...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: icarus.mpg.de  
    Title: Gone with the wind | Icarus  
-   Link: [https://www.icarus.mpg.de/28420/migratory-birds-flight-routes](https://www.icarus.mpg.de/28420/migratory-birds-flight-routes)  
+   Link: <a href="https://www.icarus.mpg.de/28420/migratory-birds-flight-routes" target="_blank" rel="noopener noreferrer nofollow">https://www.icarus.mpg.de/28420/migratory-birds-flight-routes</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Max-Planck-GesellschaftMigratory birds need less time to travel longer routes when they optimize for wind support...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: birdcast.org  
-   Link: [https://birdcast.org/migration-tools/migration-forecast-maps/](https://birdcast.org/migration-tools/migration-forecast-maps/)  
+   Link: <a href="https://birdcast.org/migration-tools/migration-forecast-maps/" target="_blank" rel="noopener noreferrer nofollow">https://birdcast.org/migration-tools/migration-forecast-maps/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Forecast MapsMigration Dashboard... Bird migration forecasts show predicted nocturnal migration approximately three hours after local su...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: birdcast.org  
-   Link: [https://birdcast.org/publications/](https://birdcast.org/publications/)  
+   Link: <a href="https://birdcast.org/publications/" target="_blank" rel="noopener noreferrer nofollow">https://birdcast.org/publications/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Publications – BirdCast“MistNet: Measuring historical bird migration in the US using archived weather radar data and convolutional neural...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: birds.cornell.edu  
    Title: new breakthroughs in radar science reveal 4 billion birds on the move  
-   Link: [https://www.birds.cornell.edu/home/new-breakthroughs-in-radar-science-reveal-4-billion-birds-on-the-move/](https://www.birds.cornell.edu/home/new-breakthroughs-in-radar-science-reveal-4-billion-birds-on-the-move/)  
+   Link: <a href="https://www.birds.cornell.edu/home/new-breakthroughs-in-radar-science-reveal-4-billion-birds-on-the-move/" target="_blank" rel="noopener noreferrer nofollow">https://www.birds.cornell.edu/home/new-breakthroughs-in-radar-science-reveal-4-billion-birds-on-the-move/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>in Radar Science Reveal 4 Billion Birds On...Cornell Lab of Ornithology scientists analyzed data from 143 weather radar stations from 20...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: birds.cornell.edu  
    Title: photometrics ai uses bird data to adjust streetlights  
-   Link: [https://www.birds.cornell.edu/home/photometrics-ai-uses-bird-data-to-adjust-streetlights/](https://www.birds.cornell.edu/home/photometrics-ai-uses-bird-data-to-adjust-streetlights/)  
+   Link: <a href="https://www.birds.cornell.edu/home/photometrics-ai-uses-bird-data-to-adjust-streetlights/" target="_blank" rel="noopener noreferrer nofollow">https://www.birds.cornell.edu/home/photometrics-ai-uses-bird-data-to-adjust-streetlights/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It produces nightly forecasts of migration intensity, up to three days in...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: besjournals.onlinelibrary.wiley.com  
    Title: 2041 210X.14161  
-   Link: [https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14161](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14161)  
+   Link: <a href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14161" target="_blank" rel="noopener noreferrer nofollow">https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14161</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>British Ecological Society JournalsAutomatic detection of migrating soaring bird [flocks](&amp;#123;&amp;#123; &#x27;flocks/&#x27; | relative_url &amp;#125;&amp;#125;) using...by I Schekler · 2023 · Cited by 24 — The...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: openculture.com  
-   Link: [https://www.openculture.com/2021/03/birdcast.html](https://www.openculture.com/2021/03/birdcast.html)  
+   Link: <a href="https://www.openculture.com/2021/03/birdcast.html" target="_blank" rel="noopener noreferrer nofollow">https://www.openculture.com/2021/03/birdcast.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>You Can Now Forecast the Migration of Birds...26 Mar 2021 — Developed by Colorado State University and the Cornell Lab of Ornithology, B...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: aol.com  
-   Link: [https://www.aol.com/news/cornell-helps-track-bird-migration-145623243.html](https://www.aol.com/news/cornell-helps-track-bird-migration-145623243.html)  
+   Link: <a href="https://www.aol.com/news/cornell-helps-track-bird-migration-145623243.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/news/cornell-helps-track-bird-migration-145623243.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cornell helps track bird migration with dashboardCornell University&#x27;s Bird lab hosts a BirdCast Migration Dashboard that gives daily summ...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: natur-und-erneuerbare.de  
-   Link: [https://www.natur-und-erneuerbare.de/en/project-database/radbird/](https://www.natur-und-erneuerbare.de/en/project-database/radbird/)  
+   Link: <a href="https://www.natur-und-erneuerbare.de/en/project-database/radbird/" target="_blank" rel="noopener noreferrer nofollow">https://www.natur-und-erneuerbare.de/en/project-database/radbird/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>RADBIRD | Naturschutz und EnergiewendeThe topic of this project is to record and predict bird migration over the Federal Republic of Germ...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: washingtonpost.com  
-   Link: [https://www.washingtonpost.com/weather/2025/09/11/bird-radar-migration-weather/](https://www.washingtonpost.com/weather/2025/09/11/bird-radar-migration-weather/)  
+   Link: <a href="https://www.washingtonpost.com/weather/2025/09/11/bird-radar-migration-weather/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/weather/2025/09/11/bird-radar-migration-weather/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cornell Lab of Ornithology&#x27;s BirdCast initiative processes data from the National Weather Service’s network of 159 Doppler radars to...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
    Title: is motion parallax the reason many believe this to be a uap turns out we can cal  
-   Link: [https://www.facebook.com/StarTalk/posts/is-motion-parallax-the-reason-many-believe-this-to-be-a-uap-turns-out-we-can-cal/1533337455091975/](https://www.facebook.com/StarTalk/posts/is-motion-parallax-the-reason-many-believe-this-to-be-a-uap-turns-out-we-can-cal/1533337455091975/)  
+   Link: <a href="https://www.facebook.com/StarTalk/posts/is-motion-parallax-the-reason-many-believe-this-to-be-a-uap-turns-out-we-can-cal/1533337455091975/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/StarTalk/posts/is-motion-parallax-the-reason-many-believe-this-to-be-a-uap-turns-out-we-can-cal/1533337455091975/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Is motion parallax the reason many believe this to be...Jayson G Wentworth can you see a sparrow over 2 miles away? Objects at 13000 fee...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: nabci-us.org  
    Title: not just for the weatherman maps forecast bird migration using weather radar  
-   Link: [https://nabci-us.org/not-just-for-the-weatherman-maps-forecast-bird-migration-using-weather-radar/](https://nabci-us.org/not-just-for-the-weatherman-maps-forecast-bird-migration-using-weather-radar/)  
+   Link: <a href="https://nabci-us.org/not-just-for-the-weatherman-maps-forecast-bird-migration-using-weather-radar/" target="_blank" rel="noopener noreferrer nofollow">https://nabci-us.org/not-just-for-the-weatherman-maps-forecast-bird-migration-using-weather-radar/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Not Just for the Weatherman: Maps Forecast Bird Migration...16 July 2018 — They used machine learning models based on 23 years of radar...</p></details>
    Published: July 2018  
 
 20. <a id="endnote-20"></a>
    Source: theguardian.com  
    Title: The Guardian High-flying life of Australia's birds revealed in new detail  
-   Link: [https://www.theguardian.com/environment/2024/oct/28/high-flying-life-of-australias-birds-revealed-in-new-detail-thanks-to-weather-radars](https://www.theguardian.com/environment/2024/oct/28/high-flying-life-of-australias-birds-revealed-in-new-detail-thanks-to-weather-radars)  
+   Link: <a href="https://www.theguardian.com/environment/2024/oct/28/high-flying-life-of-australias-birds-revealed-in-new-detail-thanks-to-weather-radars" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/environment/2024/oct/28/high-flying-life-of-australias-birds-revealed-in-new-detail-thanks-to-weather-radars</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Researchers discovered two main pulses of migration: northwards from January to June and southwards from July to December, with up to 60...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: allaboutbirds.org  
    Title: heres how to use the new migration forecast tools from birdcast  
-   Link: [https://www.allaboutbirds.org/news/heres-how-to-use-the-new-migration-forecast-tools-from-birdcast/](https://www.allaboutbirds.org/news/heres-how-to-use-the-new-migration-forecast-tools-from-birdcast/)  
+   Link: <a href="https://www.allaboutbirds.org/news/heres-how-to-use-the-new-migration-forecast-tools-from-birdcast/" target="_blank" rel="noopener noreferrer nofollow">https://www.allaboutbirds.org/news/heres-how-to-use-the-new-migration-forecast-tools-from-birdcast/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Check the 3-Day Forecast · 2. See Local Migration Activity in Your County · 3. Know Which Birds to Look For · 4. Sign Up for a Local Migr...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: bwo-offshorewind.de  
-   Link: [https://bwo-offshorewind.de/wp-content/uploads/2026/01/The-collision-risk-of-migrating-birds-at-wind-farms.pdf](https://bwo-offshorewind.de/wp-content/uploads/2026/01/The-collision-risk-of-migrating-birds-at-wind-farms.pdf)  
+   Link: <a href="https://bwo-offshorewind.de/wp-content/uploads/2026/01/The-collision-risk-of-migrating-birds-at-wind-farms.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bwo-offshorewind.de/wp-content/uploads/2026/01/The-collision-risk-of-migrating-birds-at-wind-farms.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BWO Offshore WindThe collision risk of migrating birds at wind farms(2022) On the radar: Weather, bird migration and aeroconservation ove...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: audubon.org  
    Title: How to Get the Most Out of Bird Cast's Migration Forecasts  
-   Link: [https://www.audubon.org/news/how-get-most-out-birdcasts-migration-forecasts](https://www.audubon.org/news/how-get-most-out-birdcasts-migration-forecasts)  
+   Link: <a href="https://www.audubon.org/news/how-get-most-out-birdcasts-migration-forecasts" target="_blank" rel="noopener noreferrer nofollow">https://www.audubon.org/news/how-get-most-out-birdcasts-migration-forecasts</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Get the Most Out of BirdCast&#x27;s Migration ForecastsMay 11, 2022 — BirdCast forecasts the intensity of overnight bird migration acro...</p></details>
    Published: May 11, 2022  
 
 24. <a id="endnote-24"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/StarTalk/posts/is-motion-parallax-the-reason-many-believe-this-to-be-a-uap-turns-out-we-can-cal/1313924630366593/](https://www.facebook.com/StarTalk/posts/is-motion-parallax-the-reason-many-believe-this-to-be-a-uap-turns-out-we-can-cal/1313924630366593/)  
+   Link: <a href="https://www.facebook.com/StarTalk/posts/is-motion-parallax-the-reason-many-believe-this-to-be-a-uap-turns-out-we-can-cal/1313924630366593/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/StarTalk/posts/is-motion-parallax-the-reason-many-believe-this-to-be-a-uap-turns-out-we-can-cal/1313924630366593/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ly explained, categorized as either an Unidentified Flying...Read more...</p></details>

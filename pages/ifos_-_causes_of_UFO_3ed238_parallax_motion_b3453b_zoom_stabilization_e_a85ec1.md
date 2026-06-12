@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b_moving_camera_parall_d14d2b
 - ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b_ufo_parallax_checks_983877
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - parallax
 - zoom-errors
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - parallax
 - zoom-errors
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Zoom, tracking, cropping, and stabilization can hide camera movement while magnifying tiny angle changes into dramatic screen motion.
 hero_summary: Zoom, tracking, cropping, and stabilization can hide camera movement while magnifying tiny angle changes into dramatic screen motion.
 layout: default
 permalink: /zoom-errors/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /parallax/
 nav_short_title: Zoom Errors
 title: Why Zoom Makes UFOs Look Faster
-title_full: Why Zoom Makes UFOs Look Faster | Parallax
+title_full: Why Zoom Makes UFOs Look Faster
 display_title_short: Zoom Errors
 display_title: Zoom Errors
 heading_title: Why Zoom Makes UFOs Look Faster
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 21:37:41'
-parent_title: The Speed Illusion in UFO Footage | IFOs
+parent_title: The Speed Illusion in UFO Footage
 parent_permalink: /parallax/
 parent_nav_short_title: Parallax
 parent_heading_title: The Speed Illusion in UFO Footage
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b
-  title: Parallax | Ifos Causes Of
+  title: Parallax | ifos causes of UFO 3 ed 238
   permalink: /parallax/
   short_title: Parallax
   heading_title: The Speed Illusion in UFO Footage
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b
-  title: Parallax | Ifos Causes Of
+  title: Parallax | ifos causes of UFO 3 ed 238
   permalink: /parallax/
   short_title: Parallax
   heading_title: The Speed Illusion in UFO Footage
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: How to Check a UFO Speed Claim
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b
-  title: Parallax | Ifos Causes Of
+  title: Parallax | ifos causes of UFO 3 ed 238
   permalink: /parallax/
   short_title: Parallax
   heading_title: The Speed Illusion in UFO Footage
@@ -260,6 +259,7 @@ prev_link:
   permalink: /video-checks/
   short_title: Video Checks
   heading_title: How to Check a UFO Speed Claim
+date: '2026-06-12 00:31:59 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b_zoom_stabilization_e_a85ec1-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b_zoom_stabilization_e_a85ec1-Illustration-1.webp
@@ -270,7 +270,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b_zoom_st
 
 Zoom can make UFO footage look faster because it narrows the camera’s field of view, enlarges distant objects, and turns tiny angular changes into large movements across the screen. Stabilisation and tracking can make the problem worse by hiding the camera motion that produced much of the apparent movement in the first place. This matters for identified flying objects because a distant aircraft, balloon, bird, drone, reflection, or sensor artefact may appear to perform dramatic manoeuvres when the real ingredients are zoom, cropping, a [moving camera]({{ 'moving-camera/' | relative_url }}) platform, and missing range information. NASA’s UAP study highlighted poor sensor calibration, lack of multiple measurements, and lack of sensor metadata as barriers to reliable analysis, while AARO’s public imagery cases repeatedly show how [short clips]({{ 'short-clips/' | relative_url }}) can be unresolved or reclassified when better context is available. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b_zoom_stabilization_e_a85ec1-Illustration-1-dark.svg" | relative_url }}" alt="Zoom Errors illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b_zoom_stabilization_e_a85ec1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b_zoom_stabilization_e_a85ec1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How Long Lenses Magnify Angular Motion
 
@@ -278,20 +277,19 @@ A zoomed image is not just a closer-looking version of the same scene. It is a n
 
 That narrow view changes how motion feels. If an object shifts by a small angle in the sky, it may barely move in a wide shot. In a narrow telephoto shot, the same angular shift can carry it across a large part of the frame. The object has not necessarily accelerated; the screen representation has been magnified. This is why zoomed UFO clips can feel urgent and fast even when the underlying motion may be ordinary.
 
-Telephoto lenses also isolate subjects from context. Tamron’s general lens guidance describes telephoto lenses as having a narrow angle of view, enlarging distant subjects, and capturing less background information than standard lenses. That is useful for wildlife or sports photography, but risky in UFO interpretation because the viewer loses the surrounding clues needed to estimate distance, altitude, and scale. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tamron.eu/nl-BE/newsroom/blog/what-is-a-telephoto-lens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tamron.eu">[Tamron]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tamron.eu</span><span class="citation-popover-snippet">TamronWhat is a Telephoto Lens?February 24, 2025 — 24 Feb 2025 — Characteristically, a telephoto lens has a narrow angle of view and enla...</span><span class="citation-popover-meta">Published: February 24, 2025</span></span></span>
+Telephoto lenses also isolate subjects from context. Tamron’s general lens guidance describes telephoto lenses as having a narrow angle of view, enlarging distant subjects, and capturing less background information than standard lenses. That is useful for wildlife or sports photography, but risky in UFO interpretation because the viewer loses the surrounding clues needed to estimate distance, altitude, and scale. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tamron.eu/nl-BE/newsroom/blog/what-is-a-telephoto-lens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tamron.eu">[Tamron]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tamron.eu</span><span class="citation-popover-snippet">What is a Telephoto Lens?February 24, 2025 — 24 Feb 2025 — Characteristically, a telephoto lens has a narrow angle of view and enla...</span><span class="citation-popover-meta">Published: February 24, 2025</span></span></span>
 
 The practical mistake is treating screen speed as physical speed. A dot crossing pixels quickly is not the same as an object travelling fast through the air. To turn image movement into real-world speed, an analyst needs [range]({{ 'range/' | relative_url }}), field of view, camera orientation, platform motion, frame rate, and ideally independent measurements. Without those, a zoomed clip can only show apparent angular motion.
 
 ## Why Digital Zoom and Cropping Are Especially Misleading
 
-Optical zoom changes the lens’s field of view before the image is recorded. Digital zoom and cropping are different: they enlarge part of an already captured image. FLIR’s thermography guidance makes the same basic point in a measurement context: digital zoom does not improve accuracy; it simply enlarges the displayed image. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.flir.com/discover/professional-tools/understanding-distancesize-ratio/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flir.com">[Flir]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flir.com</span><span class="citation-popover-title">Understanding Distance:Size Ratio</span><span class="citation-popover-snippet">FlirUnderstanding Distance:Size RatioMay 8, 2020 — 8 May 2020 — Digital zoom doesn&#x27;t improve accuracy, so higher resolution or narrow fie...</span><span class="citation-popover-meta">Published: May 8, 2020</span></span></span>
+Optical zoom changes the lens’s field of view before the image is recorded. Digital zoom and cropping are different: they enlarge part of an already captured image. FLIR’s thermography guidance makes the same basic point in a measurement context: digital zoom does not improve accuracy; it simply enlarges the displayed image. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.flir.com/discover/professional-tools/understanding-distancesize-ratio/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flir.com">[Flir]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flir.com</span><span class="citation-popover-title">Understanding Distance:Size Ratio</span><span class="citation-popover-snippet">Understanding Distance:Size RatioMay 8, 2020 — 8 May 2020 — Digital zoom doesn&#x27;t improve accuracy, so higher resolution or narrow fie...</span><span class="citation-popover-meta">Published: May 8, 2020</span></span></span>
 
 That distinction matters in UFO footage. A cropped clip may look as though it was filmed through a powerful sensor close to the object, when in reality the viewer may be seeing a small patch of a much wider image. Social media reposts often compound the problem by trimming the frame, compressing the file, removing metadata, and replaying only the most dramatic few seconds. The result is a clip optimised for surprise rather than measurement.
 
 Cropping also removes stabilising references. A horizon, wing edge, cockpit overlay, cloud layer, sea texture, or distant terrain line may reveal that the camera is panning, tilting, banking, or mounted on a moving aircraft. Once those references disappear, the remaining object can look like the only moving thing in the scene. That makes an ordinary camera manoeuvre easier to misread as object manoeuvre.
 
 This is one reason [original files]({{ 'original-files/' | relative_url }}) matter. A clean analysis normally starts with the least edited version available, not the most zoomed extract. Wide-field footage can show whether the apparent motion persists when the surrounding scene is restored.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/C3uXUfgSadU" title="UAP Independent Study Event Post-Meeting Media Teleconference (May 31, 2023)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=C3uXUfgSadU" target="_blank" rel="noopener noreferrer">UAP Independent Study Event Post-Meeting Media Teleconference (May 31, 2023)</a></p><p class="youtube-embed-meta">Channel: NASA Video &middot; Views: 30.3K &middot; Uploaded: May 2023 &middot; Length: 1 hour 2 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=C3uXUfgSadU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=C3uXUfgSadU">Open on YouTube</a></p></div></div></div>
 
@@ -311,10 +309,9 @@ Military, drone, telescope, and smartphone tracking systems can keep a target ne
 
 The U.S. Navy ATFLIR-style display is a useful example because its field-of-view states can be very narrow. A commonly cited ATFLIR reference describes wide, medium, and narrow fields of view of roughly 6°×6°, 3°×3°, and 1.5°×1.5°, with further narrowing possible in some modes. In such a narrow view, small changes in line of sight can look large. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://forums.vrsimulations.com/support/index.php/A/A_Forward_Looking_Infrared_%28FLIR%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forums.vrsimulations.com">[forums.vrsimulations.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forums.vrsimulations.com</span><span class="citation-popover-title">A/A Forward Looking Infrared (FLIR</span><span class="citation-popover-snippet">A/A Forward Looking Infrared (FLIR</span></span></span>
 
-This is one reason the [GOFAST]({{ 'gofast/' | relative_url }}) video became such an important case study. The object seemed to race across the ocean, but [AARO]({{ 'aaro/' | relative_url }}) later assessed that it did not demonstrate anomalous performance characteristics, and that full-motion video analysis and speed-distance calculations were central to its assessment. AARO’s public imagery page also states more broadly that it uses techniques such as full-motion video analysis, pixel examination, geolocation, speed, and distance calculation when evaluating cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROUAP ImageryThe video footage associated with this report is insufficient for AARO to render a determination on its subject report con...</span></span></span>
+This is one reason the [GOFAST]({{ 'gofast/' | relative_url }}) video became such an important case study. The object seemed to race across the ocean, but [AARO]({{ 'aaro/' | relative_url }}) later assessed that it did not demonstrate anomalous performance characteristics, and that full-motion video analysis and speed-distance calculations were central to its assessment. AARO’s public imagery page also states more broadly that it uses techniques such as full-motion video analysis, pixel examination, geolocation, speed, and distance calculation when evaluating cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP ImageryThe video footage associated with this report is insufficient for AARO to render a determination on its subject report con...</span></span></span>
 
 The lesson is not that every tracked UFO video is mistaken. It is that a tracked target in a narrow field of view is not self-explanatory. The viewer needs to know what the camera was doing, not only what the object seemed to do.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b_zoom_stabilization_e_a85ec1-Illustration-2-dark.svg" | relative_url }}" alt="Zoom Errors illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b_zoom_stabilization_e_a85ec1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b_zoom_stabilization_e_a85ec1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Most Common Zoom-and-Stabilisation Mistakes
@@ -332,7 +329,6 @@ Common errors include:
 
 These mistakes often reinforce each other. A short, cropped, stabilised, highly zoomed clip is exactly the kind of footage that feels persuasive to a casual viewer and weak to a technical analyst.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IRd1RY2PuvA" title="UFO Parallax Illusion" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IRd1RY2PuvA" target="_blank" rel="noopener noreferrer">UFO Parallax Illusion</a></p><p class="youtube-embed-meta">Channel: Mick West &middot; Views: 57.6K &middot; Uploaded: March 2018 &middot; Length: 51 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IRd1RY2PuvA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IRd1RY2PuvA">Open on YouTube</a></p></div></div></div>
 
 ## Metadata That Helps Test the Illusion
@@ -340,7 +336,6 @@ These mistakes often reinforce each other. A short, cropped, stabilised, highly 
 The strongest antidote to zoom errors is not sceptical instinct; it is usable data. NASA’s 2023 independent UAP study said analysis is hampered by poor sensor calibration, lack of multiple measurements, lack of sensor metadata, and lack of baseline data. NASA’s release summarised the same need as systematic calibration, multiple measurements, and thorough sensor metadata. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
 For zoom and stabilisation questions, the most useful metadata includes:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -355,7 +350,6 @@ For zoom and stabilisation questions, the most useful metadata includes:
 </div>
 
 This does not mean a video is worthless without every detail. It means confidence should scale with the available context. A sharp-looking clip with missing field of view, range, and stabilisation history can still be visually interesting while remaining weak evidence for extraordinary motion.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b_zoom_stabilization_e_a85ec1-Illustration-3-dark.svg" | relative_url }}" alt="Zoom Errors illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b_zoom_stabilization_e_a85ec1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b_zoom_stabilization_e_a85ec1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What a Better UFO Video Would Preserve
@@ -372,9 +366,7 @@ Zoom and stabilisation do not fake UFO videos by themselves. They change the con
 
 That is why zoomed UFO clips need a different standard of caution from ordinary visual impressions. The more a video relies on heavy magnification, tight cropping, target tracking, or stabilised output, the less safe it is to infer speed from appearance alone. In the IFO context, the question is not simply “What does the object look like it is doing?” but “How much of that motion belongs to the camera system?”
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dNVtMmLlnoE" title="Why Do Cameras Do This? | Rolling Shutter Explained - Smarter Every Day 172" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dNVtMmLlnoE" target="_blank" rel="noopener noreferrer">Why Do Cameras Do This? | Rolling Shutter Explained - Smarter Every Day 172</a></p><p class="youtube-embed-meta">Channel: SmarterEveryDay &middot; Views: 4.4M &middot; Uploaded: June 2017 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dNVtMmLlnoE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dNVtMmLlnoE">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -493,15 +485,15 @@ That is why zoomed UFO clips need a different standard of caution from ordinary 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zoom-errors-why-zoom-makes-ufos-look-faster-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="zoom-errors-why-zoom-makes-ufos-look-faster-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 90s Looney Tunes UFO Alien All Over Print Double Sided T Shirt Mens L"><img src="{{ '/assets/images/marketplace-covers/a7247ae98e9ebed04955.jpg' | relative_url }}" alt="Listing image for Vintage 90s Looney Tunes UFO Alien All Over Print Double Sided T Shirt Mens L" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+stabilizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-zoom-makes-ufos-look-faster-camera-stabilizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera stabilizer" data-ebay-reference="why-zoom-makes-ufos-look-faster-camera-stabilizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Andoer Aluminum Alloy Camera / DSLR Track Slider Video Stabilizer Rail"><img src="https://i.ebayimg.com/images/g/U5EAAeSwRbFqGGY5/s-l225.jpg" alt="Listing image for Andoer Aluminum Alloy Camera / DSLR Track Slider Video Stabilizer Rail" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zoom-errors-why-zoom-makes-ufos-look-faster-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="zoom-errors-why-zoom-makes-ufos-look-faster-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Vintage 90s Looney Tunes UFO Alien All Over Print Double Sided T Shirt Mens L</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+stabilizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-zoom-makes-ufos-look-faster-camera-stabilizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera stabilizer" data-ebay-reference="why-zoom-makes-ufos-look-faster-camera-stabilizer" target="_blank" rel="sponsored noopener noreferrer">Andoer Aluminum Alloy Camera / DSLR Track Slider Video Stabilizer Rail</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zoom-errors-why-zoom-makes-ufos-look-faster-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="zoom-errors-why-zoom-makes-ufos-look-faster-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+stabilizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-zoom-makes-ufos-look-faster-camera-stabilizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera stabilizer" data-ebay-reference="why-zoom-makes-ufos-look-faster-camera-stabilizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera stabilizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera stabilizer</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zoom-errors-why-zoom-makes-ufos-look-faster-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="zoom-errors-why-zoom-makes-ufos-look-faster-ifos-causes-of-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+stabilizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-zoom-makes-ufos-look-faster-camera-stabilizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera stabilizer" data-ebay-reference="why-zoom-makes-ufos-look-faster-camera-stabilizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -509,15 +501,15 @@ That is why zoomed UFO clips need a different standard of caution from ordinary 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zoom-errors-why-zoom-makes-ufos-look-faster-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="zoom-errors-why-zoom-makes-ufos-look-faster-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone"><img src="{{ '/assets/images/marketplace-covers/c55bd17eeaec578c24e2.jpg' | relative_url }}" alt="Listing image for Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+stabilizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-zoom-makes-ufos-look-faster-camera-stabilizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera stabilizer" data-ebay-reference="why-zoom-makes-ufos-look-faster-camera-stabilizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Zhiyun Crane -M3 Gimbal Stabilizer"><img src="https://i.ebayimg.com/images/g/GzIAAeSwuTJqJQbE/s-l225.jpg" alt="Listing image for Zhiyun Crane -M3 Gimbal Stabilizer" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zoom-errors-why-zoom-makes-ufos-look-faster-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="zoom-errors-why-zoom-makes-ufos-look-faster-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+stabilizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-zoom-makes-ufos-look-faster-camera-stabilizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera stabilizer" data-ebay-reference="why-zoom-makes-ufos-look-faster-camera-stabilizer" target="_blank" rel="sponsored noopener noreferrer">Zhiyun Crane -M3 Gimbal Stabilizer</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zoom-errors-why-zoom-makes-ufos-look-faster-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="zoom-errors-why-zoom-makes-ufos-look-faster-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+stabilizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-zoom-makes-ufos-look-faster-camera-stabilizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera stabilizer" data-ebay-reference="why-zoom-makes-ufos-look-faster-camera-stabilizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera stabilizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera stabilizer</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zoom-errors-why-zoom-makes-ufos-look-faster-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="zoom-errors-why-zoom-makes-ufos-look-faster-ifos-causes-of-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+stabilizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-zoom-makes-ufos-look-faster-camera-stabilizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera stabilizer" data-ebay-reference="why-zoom-makes-ufos-look-faster-camera-stabilizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -525,15 +517,15 @@ That is why zoomed UFO clips need a different standard of caution from ordinary 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zoom-errors-why-zoom-makes-ufos-look-faster-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="zoom-errors-why-zoom-makes-ufos-look-faster-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51"><img src="{{ '/assets/images/marketplace-covers/43c4ee420e151dd41424.jpg' | relative_url }}" alt="Listing image for Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+stabilizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-zoom-makes-ufos-look-faster-camera-stabilizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera stabilizer" data-ebay-reference="why-zoom-makes-ufos-look-faster-camera-stabilizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MOZA Aircross 2 Gimble System - Barely used!"><img src="https://i.ebayimg.com/images/g/BuQAAeSwZDpqKxtP/s-l225.jpg" alt="Listing image for MOZA Aircross 2 Gimble System - Barely used!" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zoom-errors-why-zoom-makes-ufos-look-faster-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="zoom-errors-why-zoom-makes-ufos-look-faster-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+stabilizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-zoom-makes-ufos-look-faster-camera-stabilizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera stabilizer" data-ebay-reference="why-zoom-makes-ufos-look-faster-camera-stabilizer" target="_blank" rel="sponsored noopener noreferrer">MOZA Aircross 2 Gimble System - Barely used!</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zoom-errors-why-zoom-makes-ufos-look-faster-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="zoom-errors-why-zoom-makes-ufos-look-faster-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+stabilizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-zoom-makes-ufos-look-faster-camera-stabilizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera stabilizer" data-ebay-reference="why-zoom-makes-ufos-look-faster-camera-stabilizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera stabilizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera stabilizer</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zoom-errors-why-zoom-makes-ufos-look-faster-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="zoom-errors-why-zoom-makes-ufos-look-faster-ifos-causes-of-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+stabilizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-zoom-makes-ufos-look-faster-camera-stabilizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera stabilizer" data-ebay-reference="why-zoom-makes-ufos-look-faster-camera-stabilizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -541,15 +533,15 @@ That is why zoomed UFO clips need a different standard of caution from ordinary 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zoom-errors-why-zoom-makes-ufos-look-faster-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="zoom-errors-why-zoom-makes-ufos-look-faster-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee"><img src="{{ '/assets/images/marketplace-covers/c0a6267ae6e22890f212.jpg' | relative_url }}" alt="Listing image for Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+stabilizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-zoom-makes-ufos-look-faster-camera-stabilizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera stabilizer" data-ebay-reference="why-zoom-makes-ufos-look-faster-camera-stabilizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FeiyuTech G6 3 Axis Handheld Splashproof Gimbal Stabiliser Splashproof"><img src="https://i.ebayimg.com/images/g/4E4AAeSwAT5qKrAm/s-l225.jpg" alt="Listing image for FeiyuTech G6 3 Axis Handheld Splashproof Gimbal Stabiliser Splashproof" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zoom-errors-why-zoom-makes-ufos-look-faster-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="zoom-errors-why-zoom-makes-ufos-look-faster-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+stabilizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-zoom-makes-ufos-look-faster-camera-stabilizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera stabilizer" data-ebay-reference="why-zoom-makes-ufos-look-faster-camera-stabilizer" target="_blank" rel="sponsored noopener noreferrer">FeiyuTech G6 3 Axis Handheld Splashproof Gimbal Stabiliser Splashproof</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zoom-errors-why-zoom-makes-ufos-look-faster-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="zoom-errors-why-zoom-makes-ufos-look-faster-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+stabilizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-zoom-makes-ufos-look-faster-camera-stabilizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera stabilizer" data-ebay-reference="why-zoom-makes-ufos-look-faster-camera-stabilizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera stabilizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera stabilizer</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zoom-errors-why-zoom-makes-ufos-look-faster-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="zoom-errors-why-zoom-makes-ufos-look-faster-ifos-causes-of-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+stabilizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-zoom-makes-ufos-look-faster-camera-stabilizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera stabilizer" data-ebay-reference="why-zoom-makes-ufos-look-faster-camera-stabilizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -557,7 +549,7 @@ That is why zoomed UFO clips need a different standard of caution from ordinary 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zoom-errors-why-zoom-makes-ufos-look-faster-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="zoom-errors-why-zoom-makes-ufos-look-faster-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+stabilizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-zoom-makes-ufos-look-faster-camera-stabilizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera stabilizer" data-ebay-reference="why-zoom-makes-ufos-look-faster-camera-stabilizer" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -773,125 +765,125 @@ That is why zoomed UFO clips need a different standard of caution from ordinary 
 1. <a id="endnote-1"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</p></details>
    Published: September 13, 2023  
 
 2. <a id="endnote-2"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROUAP ImageryThe video footage associated with this report is insufficient for AARO to render a determination on its subject report con...</p></details>
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThe video footage associated with this report is insufficient for AARO to render a determination on its subject report con...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: tamron.eu  
-   Link: [https://www.tamron.eu/nl-BE/newsroom/blog/what-is-a-telephoto-lens](https://www.tamron.eu/nl-BE/newsroom/blog/what-is-a-telephoto-lens)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TamronWhat is a Telephoto Lens?February 24, 2025 — 24 Feb 2025 — Characteristically, a telephoto lens has a narrow angle of view and enla...</p></details>
+   Link: <a href="https://www.tamron.eu/nl-BE/newsroom/blog/what-is-a-telephoto-lens" target="_blank" rel="noopener noreferrer nofollow">https://www.tamron.eu/nl-BE/newsroom/blog/what-is-a-telephoto-lens</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>What is a Telephoto Lens?February 24, 2025 — 24 Feb 2025 — Characteristically, a telephoto lens has a narrow angle of view and enla...</p></details>
    Published: February 24, 2025  
 
 4. <a id="endnote-4"></a>
    Source: flir.com  
    Title: Understanding Distance:Size Ratio  
-   Link: [https://www.flir.com/discover/professional-tools/understanding-distancesize-ratio/](https://www.flir.com/discover/professional-tools/understanding-distancesize-ratio/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FlirUnderstanding Distance:Size RatioMay 8, 2020 — 8 May 2020 — Digital zoom doesn&#x27;t improve accuracy, so higher resolution or narrow fie...</p></details>
+   Link: <a href="https://www.flir.com/discover/professional-tools/understanding-distancesize-ratio/" target="_blank" rel="noopener noreferrer nofollow">https://www.flir.com/discover/professional-tools/understanding-distancesize-ratio/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Distance:Size RatioMay 8, 2020 — 8 May 2020 — Digital zoom doesn&#x27;t improve accuracy, so higher resolution or narrow fie...</p></details>
    Published: May 8, 2020  
 
 5. <a id="endnote-5"></a>
    Source: ceva-ip.com  
    Title: video stabilization using computer vision tips and insights from cevas experts  
-   Link: [https://www.ceva-ip.com/blog/video-stabilization-using-computer-vision-tips-and-insights-from-cevas-experts/](https://www.ceva-ip.com/blog/video-stabilization-using-computer-vision-tips-and-insights-from-cevas-experts/)  
+   Link: <a href="https://www.ceva-ip.com/blog/video-stabilization-using-computer-vision-tips-and-insights-from-cevas-experts/" target="_blank" rel="noopener noreferrer nofollow">https://www.ceva-ip.com/blog/video-stabilization-using-computer-vision-tips-and-insights-from-cevas-experts/</a>  
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Image stabilization  
-   Link: [https://en.wikipedia.org/wiki/Image_stabilization](https://en.wikipedia.org/wiki/Image_stabilization)  
+   Link: <a href="https://en.wikipedia.org/wiki/Image_stabilization" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Image_stabilization</a>  
 
 7. <a id="endnote-7"></a>
    Source: forums.vrsimulations.com  
    Title: A/A Forward Looking [Infrared](&#123;&#123; 'infrared/' | relative_url &#125;&#125;) (FLIR)  
-   Link: [https://forums.vrsimulations.com/support/index.php/A/A_Forward_Looking_Infrared_%28FLIR%29](https://forums.vrsimulations.com/support/index.php/A/A_Forward_Looking_Infrared_%28FLIR%29)  
+   Link: <a href="https://forums.vrsimulations.com/support/index.php/A/A_Forward_Looking_Infrared_%28FLIR%29" target="_blank" rel="noopener noreferrer nofollow">https://forums.vrsimulations.com/support/index.php/A/A_Forward_Looking_Infrared_%28FLIR%29</a>  
 
 8. <a id="endnote-8"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf</a>  
 
 9. <a id="endnote-9"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: [https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/](https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/)  
+   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Pentagon UFO videos  
-   Link: [https://en.wikipedia.org/wiki/Pentagon_UFO_videos](https://en.wikipedia.org/wiki/Pentagon_UFO_videos)  
+   Link: <a href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pentagon_UFO_videos</a>  
 
 11. <a id="endnote-11"></a>
    Source: assets.science.nasa.gov  
    Title: Astrophotography Guide  
-   Link: [https://assets.science.nasa.gov/content/dam/science/psd/solar/2023/09/a/Astrophotography_Guide.pdf?emrc=69b3304cc3fd1](https://assets.science.nasa.gov/content/dam/science/psd/solar/2023/09/a/Astrophotography_Guide.pdf?emrc=69b3304cc3fd1)  
+   Link: <a href="https://assets.science.nasa.gov/content/dam/science/psd/solar/2023/09/a/Astrophotography_Guide.pdf?emrc=69b3304cc3fd1" target="_blank" rel="noopener noreferrer nofollow">https://assets.science.nasa.gov/content/dam/science/psd/solar/2023/09/a/Astrophotography_Guide.pdf?emrc=69b3304cc3fd1</a>  
 
 12. <a id="endnote-12"></a>
    Source: forums.vrsimulations.com  
    Title: G Advanced Targeting FLIR (ATFLIR)  
-   Link: [https://forums.vrsimulations.com/support/index.php/A/G_Advanced_Targeting_FLIR_%28ATFLIR%29](https://forums.vrsimulations.com/support/index.php/A/G_Advanced_Targeting_FLIR_%28ATFLIR%29)  
+   Link: <a href="https://forums.vrsimulations.com/support/index.php/A/G_Advanced_Targeting_FLIR_%28ATFLIR%29" target="_blank" rel="noopener noreferrer nofollow">https://forums.vrsimulations.com/support/index.php/A/G_Advanced_Targeting_FLIR_%28ATFLIR%29</a>  
 
 13. <a id="endnote-13"></a>
    Source: edmundoptics.co.uk  
    Title: Edmund Optics Understanding Focal Length and Field of View  
-   Link: [https://www.edmundoptics.co.uk/knowledge-center/application-notes/imaging/understanding-focal-length-and-field-of-view/](https://www.edmundoptics.co.uk/knowledge-center/application-notes/imaging/understanding-focal-length-and-field-of-view/)  
+   Link: <a href="https://www.edmundoptics.co.uk/knowledge-center/application-notes/imaging/understanding-focal-length-and-field-of-view/" target="_blank" rel="noopener noreferrer nofollow">https://www.edmundoptics.co.uk/knowledge-center/application-notes/imaging/understanding-focal-length-and-field-of-view/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Edmund OpticsUnderstanding Focal Length and Field of View - Edmund OpticsLearn how to understand focal length and field of view for imagi...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: meetoptics.com  
-   Link: [https://www.meetoptics.com/academy/field-of-view?srsltid=AfmBOopwc3Nl813jj4nfCZe7YTHurECZbWJzqWCrLEwlDTEVv2DOhfTe](https://www.meetoptics.com/academy/field-of-view?srsltid=AfmBOopwc3Nl813jj4nfCZe7YTHurECZbWJzqWCrLEwlDTEVv2DOhfTe)  
+   Link: <a href="https://www.meetoptics.com/academy/field-of-view?srsltid=AfmBOopwc3Nl813jj4nfCZe7YTHurECZbWJzqWCrLEwlDTEVv2DOhfTe" target="_blank" rel="noopener noreferrer nofollow">https://www.meetoptics.com/academy/field-of-view?srsltid=AfmBOopwc3Nl813jj4nfCZe7YTHurECZbWJzqWCrLEwlDTEVv2DOhfTe</a>  
 
 15. <a id="endnote-15"></a>
    Source: tamron-americas.com  
-   Link: [https://tamron-americas.com/blog/what-is-optical-image-stabilization-what-does-image-stabilization-do/?srsltid=AfmBOorfHoGK7iinE07YzpKAqNYkM9TBlLPBB7VWQtFcH0PEISv0LkMI](https://tamron-americas.com/blog/what-is-optical-image-stabilization-what-does-image-stabilization-do/?srsltid=AfmBOorfHoGK7iinE07YzpKAqNYkM9TBlLPBB7VWQtFcH0PEISv0LkMI)  
+   Link: <a href="https://tamron-americas.com/blog/what-is-optical-image-stabilization-what-does-image-stabilization-do/?srsltid=AfmBOorfHoGK7iinE07YzpKAqNYkM9TBlLPBB7VWQtFcH0PEISv0LkMI" target="_blank" rel="noopener noreferrer nofollow">https://tamron-americas.com/blog/what-is-optical-image-stabilization-what-does-image-stabilization-do/?srsltid=AfmBOorfHoGK7iinE07YzpKAqNYkM9TBlLPBB7VWQtFcH0PEISv0LkMI</a>  
 
 16. <a id="endnote-16"></a>
    Source: rp-photonics.com  
-   Link: [https://www.rp-photonics.com/field_of_view.html](https://www.rp-photonics.com/field_of_view.html)  
+   Link: <a href="https://www.rp-photonics.com/field_of_view.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rp-photonics.com/field_of_view.html</a>  
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: Understanding Telephoto Compression and Angular Motion  
-   Link: [https://www.youtube.com/watch?v=33a4h_N_H8A](https://www.youtube.com/watch?v=33a4h_N_H8A)  
+   Link: <a href="https://www.youtube.com/watch?v=33a4h_N_H8A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=33a4h_N_H8A</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Analyzing UAP Imagery: The Impact of Camera Settings...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/257922762_Automated_UAV-based_Video_Exploitation_for_Mapping_and_Surveillance](https://www.researchgate.net/publication/257922762_Automated_UAV-based_Video_Exploitation_for_Mapping_and_Surveillance)  
+   Link: <a href="https://www.researchgate.net/publication/257922762_Automated_UAV-based_Video_Exploitation_for_Mapping_and_Surveillance" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/257922762_Automated_UAV-based_Video_Exploitation_for_Mapping_and_Surveillance</a>  
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/deepuniversee/posts/videos-and-images-shared-online-in-this-style-usually-fall-into-the-broader-cate/970619415735947/](https://www.facebook.com/deepuniversee/posts/videos-and-images-shared-online-in-this-style-usually-fall-into-the-broader-cate/970619415735947/)  
+   Link: <a href="https://www.facebook.com/deepuniversee/posts/videos-and-images-shared-online-in-this-style-usually-fall-into-the-broader-cate/970619415735947/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/deepuniversee/posts/videos-and-images-shared-online-in-this-style-usually-fall-into-the-broader-cate/970619415735947/</a>  
 
 20. <a id="endnote-20"></a>
    Source: scirp.org  
-   Link: [https://www.scirp.org/journal/paperinformation?paperid=146509](https://www.scirp.org/journal/paperinformation?paperid=146509)  
+   Link: <a href="https://www.scirp.org/journal/paperinformation?paperid=146509" target="_blank" rel="noopener noreferrer nofollow">https://www.scirp.org/journal/paperinformation?paperid=146509</a>  
 
 21. <a id="endnote-21"></a>
    Source: canon-europe.com  
-   Link: [https://www.canon-europe.com/pro/infobank/image-stabilisation-lenses/](https://www.canon-europe.com/pro/infobank/image-stabilisation-lenses/)  
+   Link: <a href="https://www.canon-europe.com/pro/infobank/image-stabilisation-lenses/" target="_blank" rel="noopener noreferrer nofollow">https://www.canon-europe.com/pro/infobank/image-stabilisation-lenses/</a>  
 
 22. <a id="endnote-22"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ufo/comments/1iooz44/pentagon_releases_aaro_report_on_go_fast_video/](https://www.reddit.com/r/ufo/comments/1iooz44/pentagon_releases_aaro_report_on_go_fast_video/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/1iooz44/pentagon_releases_aaro_report_on_go_fast_video/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1iooz44/pentagon_releases_aaro_report_on_go_fast_video/</a>  
 
 23. <a id="endnote-23"></a>
    Source: glintphotography.com  
-   Link: [https://glintphotography.com/learn/photography-glossary/](https://glintphotography.com/learn/photography-glossary/)  
+   Link: <a href="https://glintphotography.com/learn/photography-glossary/" target="_blank" rel="noopener noreferrer nofollow">https://glintphotography.com/learn/photography-glossary/</a>  
 
 24. <a id="endnote-24"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/2024/12/quick-guide-to-modern-video-analysis-techniques-for-uap-and-ufos/](https://skepticalinquirer.org/2024/12/quick-guide-to-modern-video-analysis-techniques-for-uap-and-ufos/)  
+   Link: <a href="https://skepticalinquirer.org/2024/12/quick-guide-to-modern-video-analysis-techniques-for-uap-and-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2024/12/quick-guide-to-modern-video-analysis-techniques-for-uap-and-ufos/</a>  
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/BrightBytess/posts/scientists-are-analyzing-footage-of-a-ufo-reportedly-observed-flying-at-close-ra/941293048815611/](https://www.facebook.com/BrightBytess/posts/scientists-are-analyzing-footage-of-a-ufo-reportedly-observed-flying-at-close-ra/941293048815611/)  
+   Link: <a href="https://www.facebook.com/BrightBytess/posts/scientists-are-analyzing-footage-of-a-ufo-reportedly-observed-flying-at-close-ra/941293048815611/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BrightBytess/posts/scientists-are-analyzing-footage-of-a-ufo-reportedly-observed-flying-at-close-ra/941293048815611/</a>  
 
 26. <a id="endnote-26"></a>
    Source: lenovo.com  
-   Link: [https://www.lenovo.com/us/en/glossary/telephoto/?srsltid=AfmBOopbbEwjLTCGVyQM1RjHv9tX722sDy-PcJAnsQK5rFt_e2Ip0hwt](https://www.lenovo.com/us/en/glossary/telephoto/?srsltid=AfmBOopbbEwjLTCGVyQM1RjHv9tX722sDy-PcJAnsQK5rFt_e2Ip0hwt)  
+   Link: <a href="https://www.lenovo.com/us/en/glossary/telephoto/?srsltid=AfmBOopbbEwjLTCGVyQM1RjHv9tX722sDy-PcJAnsQK5rFt_e2Ip0hwt" target="_blank" rel="noopener noreferrer nofollow">https://www.lenovo.com/us/en/glossary/telephoto/?srsltid=AfmBOopbbEwjLTCGVyQM1RjHv9tX722sDy-PcJAnsQK5rFt_e2Ip0hwt</a>

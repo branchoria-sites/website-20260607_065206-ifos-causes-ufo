@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c_new_jersey_drone_sca_71cc59
 - ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c_not_a_drone_clues_cedb4f
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - drones
 - light-patterns
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - drones
 - light-patterns
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Blinking, coloured and anti-collision lights can make ordinary drone flights look stranger than they are from the ground.
 hero_summary: Blinking, coloured and anti-collision lights can make ordinary drone flights look stranger than they are from the ground.
 layout: default
 permalink: /light-patterns/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /drones/
 nav_short_title: Light Patterns
 title: When drone lights look stranger than aircraft
-title_full: When drone lights look stranger than aircraft | Drones
+title_full: When drone lights look stranger than aircraft
 display_title_short: Light Patterns
 display_title: Light Patterns
 heading_title: When drone lights look stranger than aircraft
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 01:48:15'
-parent_title: When a Drone Becomes a UFO | IFOs
+parent_title: When a Drone Becomes a UFO
 parent_permalink: /drones/
 parent_nav_short_title: Drones
 parent_heading_title: When a Drone Becomes a UFO
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c
-  title: Drones | Ifos Causes Of
+  title: Drones | ifos causes of UFO 3 ed 238
   permalink: /drones/
   short_title: Drones
   heading_title: When a Drone Becomes a UFO
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c
-  title: Drones | Ifos Causes Of
+  title: Drones | ifos causes of UFO 3 ed 238
   permalink: /drones/
   short_title: Drones
   heading_title: When a Drone Becomes a UFO
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: When a UFO probably is not a drone
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c
-  title: Drones | Ifos Causes Of
+  title: Drones | ifos causes of UFO 3 ed 238
   permalink: /drones/
   short_title: Drones
   heading_title: When a Drone Becomes a UFO
@@ -266,6 +265,7 @@ next_link:
   permalink: /new-jersey/
   short_title: New Jersey
   heading_title: How the New Jersey drone scare snowballed
+date: '2026-06-12 00:42:33 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c_drone_light_patterns_f6c905-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c_drone_light_patterns_f6c905-Illustration-1.webp
@@ -275,7 +275,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c_drone
 ## Introduction
 
 Many UFO reports begin with a simple observation: unusual lights in the sky. In the case of [drones]({{ 'drones/' | relative_url }}), the lights are often the most visible part of the aircraft, while the body itself remains invisible against the night sky. This creates a situation in which witnesses are not identifying an object but interpreting a pattern of flashes, colours and apparent movements. Under those conditions, ordinary drone operations can appear far stranger than they really are.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c_drone_light_patterns_f6c905-Illustration-1-dark.svg" | relative_url }}" alt="Light Patterns illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c_drone_light_patterns_f6c905-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c_drone_light_patterns_f6c905-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The effect is not accidental. Drone lighting is designed to maximise visibility and collision avoidance, not to help distant observers recognise the aircraft's shape. Bright strobes, coloured LEDs and flashing navigation lights can therefore produce misleading impressions about distance, size, speed and even the number of objects present. Aviation authorities in both the United Kingdom and United States require or encourage highly visible anti-collision lighting for night operations, making these effects a predictable feature of modern night skies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">More specifically UK Regulation (EU) 2019/947...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-107/subpart-B/section-107.29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecfr.gov">[2eCFR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecfr.gov</span><span class="citation-popover-snippet">14 CFR 107.29 -- Operation at night.(2) The small unmanned aircraft has lighted anti-collision lighting visible for at least 3 statute mi...</span></span></span>
@@ -290,7 +289,6 @@ Distance estimation becomes especially unreliable. A powerful strobe on a small 
 
 The result is that witnesses often describe brightness, colour and motion with confidence while remaining highly uncertain about what generated those observations.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6P-bOpUvX28" title="Night Flying Rules for Part 107 Pilots (PLUS 13 Night Questions &amp; My Favorite Beacon!)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6P-bOpUvX28" target="_blank" rel="noopener noreferrer">Night Flying Rules for Part 107 Pilots (PLUS 13 Night Questions &amp; My Favorite Beacon!)</a></p><p class="youtube-embed-meta">Channel: John Peltier &middot; Views: 2.6K &middot; Uploaded: July 2025 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6P-bOpUvX28" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6P-bOpUvX28">Open on YouTube</a></p></div></div></div>
 
 ## Coloured flashes and orientation confusion
@@ -303,8 +301,7 @@ A further complication is that multicopter drones can rotate in place. When a dr
 
 At long distances, blinking patterns can also create the impression that several objects are present. Alternating lights may appear to separate and rejoin, particularly when viewed through haze, thin cloud or atmospheric turbulence. Human vision is not especially good at tracking isolated points of light against a dark background, making such misinterpretations common.
 
-Research into perception of aerial lights highlights a broader issue: sparse visual stimuli provide very little information for the brain to work with, encouraging observers to fill gaps using expectation and inference. A flashing light therefore often becomes more than a flashing light in the witness's interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2505.03013" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivPredictive processing frameworks for perception can explain recent drone sightings in the United StatesMay 5, 2025...</span><span class="citation-popover-meta">Published: May 5, 2025</span></span></span>
-
+Research into perception of aerial lights highlights a broader issue: sparse visual stimuli provide very little information for the brain to work with, encouraging observers to fill gaps using expectation and inference. A flashing light therefore often becomes more than a flashing light in the witness's interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2505.03013" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Predictive processing frameworks for perception can explain recent drone sightings in the United StatesMay 5, 2025...</span><span class="citation-popover-meta">Published: May 5, 2025</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c_drone_light_patterns_f6c905-Illustration-2-dark.svg" | relative_url }}" alt="Light Patterns illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c_drone_light_patterns_f6c905-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c_drone_light_patterns_f6c905-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why flashing patterns can make motion look extraordinary
@@ -317,19 +314,17 @@ Changes in brightness create another illusion. A drone flying directly towards a
 
 The compact arrangement of drone lights adds to the ambiguity. [Aircraft lights]({{ 'aircraft-lights/' | relative_url }}) are spread across wings and fuselage, but drone lights are clustered close together. At night, these closely spaced lights can merge into a single luminous point, making it difficult to judge the object's true structure. Observers investigating recent drone reports repeatedly noted that identifying any aerial object from lights alone is challenging because scale and distance are largely unknown. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/57a0d051a2a94d21787089ceaf47b175" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News Is that a drone or a plane?</span><span class="citation-popover-snippet">Experts help explain the differencesDecember 16, 2024 — Distinguishing drones from planes and helicopters can be challenging from a dista...</span><span class="citation-popover-meta">Published: December 16, 2024</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7brsgyzTKQg" title="LUME CUBE Aviation ANTI COLLISION Strobe Light for your Drone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7brsgyzTKQg" target="_blank" rel="noopener noreferrer">LUME CUBE Aviation ANTI COLLISION Strobe Light for your Drone</a></p><p class="youtube-embed-meta">Channel: CAPTAIN DRONE &middot; Views: 21.6K &middot; Uploaded: June 2019 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7brsgyzTKQg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7brsgyzTKQg">Open on YouTube</a></p></div></div></div>
 
 ## Drone swarms and the appearance of coordinated unknown objects
 
 One of the most dramatic modern sources of UFO-style reports is the drone swarm or drone light show.
 
-Hundreds of illuminated drones can fly in synchronised formations, creating moving shapes, geometric patterns and animated images. Because the individual aircraft are small and often invisible, spectators may perceive only a coordinated group of lights behaving in unusual ways. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ingenia.org.uk/articles/how-do-drone-displays-work/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ingenia.org.uk">[Ingenia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ingenia.org.uk</span><span class="citation-popover-title">Ingenia How do drone displays work?</span><span class="citation-popover-snippet">IngeniaHow do drone displays work? - IngeniaThese displays are performed by illuminated, synchronised and choreographed groups of drones...</span></span></span>
+Hundreds of illuminated drones can fly in synchronised formations, creating moving shapes, geometric patterns and animated images. Because the individual aircraft are small and often invisible, spectators may perceive only a coordinated group of lights behaving in unusual ways. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ingenia.org.uk/articles/how-do-drone-displays-work/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ingenia.org.uk">[Ingenia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ingenia.org.uk</span><span class="citation-popover-title">Ingenia How do drone displays work?</span><span class="citation-popover-snippet">How do drone displays work? - IngeniaThese displays are performed by illuminated, synchronised and choreographed groups of drones...</span></span></span>
 
 For observers who encounter such displays unexpectedly, the effect can be startling. Lights may appear to hover in formation, split apart, merge, accelerate or change colour simultaneously. These are precisely the kinds of behaviours often associated with unidentified aerial phenomena in witness descriptions.
 
 The significance for UFO reporting is not that every swarm display is mistaken for something extraordinary. Rather, it demonstrates how easily unusual-looking light patterns can be produced by entirely conventional technology. Professional drone-swarm companies openly advertise displays based on synchronised coloured lights and coordinated aerial choreography, showing that highly unusual visual effects no longer require an unusual explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.drone-swarm.co.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drone-swarm.co.uk">[drone-swarm.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drone-swarm.co.uk</span><span class="citation-popover-title">Drone Light Show &amp; Drone Displays</span><span class="citation-popover-snippet">DroneSwarm®At DroneSwarm, we stand at the forefront of drone light show innovation, offering bespoke design, expert operation, and compre...</span></span></span>
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c_drone_light_patterns_f6c905-Illustration-3-dark.svg" | relative_url }}" alt="Light Patterns illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c_drone_light_patterns_f6c905-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c_drone_light_patterns_f6c905-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What light patterns can and cannot prove
@@ -350,9 +345,7 @@ For that reason, a flashing or coloured light should generally be treated as evi
 
 In UFO investigations, drone lighting matters because it demonstrates how easily unfamiliar technology can generate unusual reports. The lights themselves are real. What remains uncertain is often the interpretation attached to them.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IoHmQy0sTD0" title="Flying YOUR Drone at Night in 2026: What YOU Need to Know!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IoHmQy0sTD0" target="_blank" rel="noopener noreferrer">Flying YOUR Drone at Night in 2026: What YOU Need to Know!</a></p><p class="youtube-embed-meta">Channel: UAV Coach &middot; Views: 57.5K &middot; Uploaded: September 2023 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IoHmQy0sTD0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IoHmQy0sTD0">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -471,15 +464,15 @@ In UFO investigations, drone lighting matters because it demonstrates how easily
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-patterns-when-drone-lights-look-stranger-than-aircraft-ifos-causes-of-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="light-patterns-when-drone-lights-look-stranger-than-aircraft-ifos-causes-of-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for INFLIGHT 200 WIZZAIR A321 NEO REG: HA-LVE"><img src="{{ '/assets/images/marketplace-covers/852199f853dc19bd98a5.jpg' | relative_url }}" alt="Listing image for INFLIGHT 200 WIZZAIR A321 NEO REG: HA-LVE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=led+drone+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-drone-lights-look-stranger-than-aircraft-led-drone-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="led drone toy" data-ebay-reference="when-drone-lights-look-stranger-than-aircraft-led-drone-toy" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LED Flying Orb Ball Toy Automatic Floating Spinner UFO Magic Drone Gift Kids"><img src="https://i.ebayimg.com/images/g/CAAAAeSwAFFqDf9F/s-l225.jpg" alt="Listing image for LED Flying Orb Ball Toy Automatic Floating Spinner UFO Magic Drone Gift Kids" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-patterns-when-drone-lights-look-stranger-than-aircraft-ifos-causes-of-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="light-patterns-when-drone-lights-look-stranger-than-aircraft-ifos-causes-of-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">INFLIGHT 200 WIZZAIR A321 NEO REG: HA-LVE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=led+drone+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-drone-lights-look-stranger-than-aircraft-led-drone-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="led drone toy" data-ebay-reference="when-drone-lights-look-stranger-than-aircraft-led-drone-toy" target="_blank" rel="sponsored noopener noreferrer">LED Flying Orb Ball Toy Automatic Floating Spinner UFO Magic Drone Gift Kids</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-patterns-when-drone-lights-look-stranger-than-aircraft-ifos-causes-of-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="light-patterns-when-drone-lights-look-stranger-than-aircraft-ifos-causes-of-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=led+drone+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-drone-lights-look-stranger-than-aircraft-led-drone-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="led drone toy" data-ebay-reference="when-drone-lights-look-stranger-than-aircraft-led-drone-toy" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for led drone toy">Search <span data-ebay-domain-label>eBay.co.uk</span>: led drone toy</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-patterns-when-drone-lights-look-stranger-than-aircraft-ifos-causes-of-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="light-patterns-when-drone-lights-look-stranger-than-aircraft-ifos-causes-of-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=led+drone+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-drone-lights-look-stranger-than-aircraft-led-drone-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="led drone toy" data-ebay-reference="when-drone-lights-look-stranger-than-aircraft-led-drone-toy" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -487,15 +480,15 @@ In UFO investigations, drone lighting matters because it demonstrates how easily
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-patterns-when-drone-lights-look-stranger-than-aircraft-ifos-causes-of-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="light-patterns-when-drone-lights-look-stranger-than-aircraft-ifos-causes-of-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:34 Scale Red Baron Fokker DR1 WWI German Fighter Triplane Aircraft Model Kit"><img src="{{ '/assets/images/marketplace-covers/27432518884c3690bbc0.jpg' | relative_url }}" alt="Listing image for 1:34 Scale Red Baron Fokker DR1 WWI German Fighter Triplane Aircraft Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=led+drone+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-drone-lights-look-stranger-than-aircraft-led-drone-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="led drone toy" data-ebay-reference="when-drone-lights-look-stranger-than-aircraft-led-drone-toy" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Spinner Ball Drone LED Magic Orb Boomerang Hover Toy Kids Boys Girls USB"><img src="https://i.ebayimg.com/images/g/ky8AAeSwzoRpEwKF/s-l225.jpg" alt="Listing image for Flying Spinner Ball Drone LED Magic Orb Boomerang Hover Toy Kids Boys Girls USB" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-patterns-when-drone-lights-look-stranger-than-aircraft-ifos-causes-of-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="light-patterns-when-drone-lights-look-stranger-than-aircraft-ifos-causes-of-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">1:34 Scale Red Baron Fokker DR1 WWI German Fighter Triplane Aircraft Model Kit</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=led+drone+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-drone-lights-look-stranger-than-aircraft-led-drone-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="led drone toy" data-ebay-reference="when-drone-lights-look-stranger-than-aircraft-led-drone-toy" target="_blank" rel="sponsored noopener noreferrer">Flying Spinner Ball Drone LED Magic Orb Boomerang Hover Toy Kids Boys Girls USB</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-patterns-when-drone-lights-look-stranger-than-aircraft-ifos-causes-of-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="light-patterns-when-drone-lights-look-stranger-than-aircraft-ifos-causes-of-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=led+drone+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-drone-lights-look-stranger-than-aircraft-led-drone-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="led drone toy" data-ebay-reference="when-drone-lights-look-stranger-than-aircraft-led-drone-toy" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for led drone toy">Search <span data-ebay-domain-label>eBay.co.uk</span>: led drone toy</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-patterns-when-drone-lights-look-stranger-than-aircraft-ifos-causes-of-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="light-patterns-when-drone-lights-look-stranger-than-aircraft-ifos-causes-of-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=led+drone+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-drone-lights-look-stranger-than-aircraft-led-drone-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="led drone toy" data-ebay-reference="when-drone-lights-look-stranger-than-aircraft-led-drone-toy" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -503,15 +496,15 @@ In UFO investigations, drone lighting matters because it demonstrates how easily
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-patterns-when-drone-lights-look-stranger-than-aircraft-ifos-causes-of-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="light-patterns-when-drone-lights-look-stranger-than-aircraft-ifos-causes-of-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:72 YF-23 Black Widow II Stealth Fighter Jet Model Aircraft USAF Display"><img src="{{ '/assets/images/marketplace-covers/1d0767ae2714c1b8a296.jpg' | relative_url }}" alt="Listing image for 1:72 YF-23 Black Widow II Stealth Fighter Jet Model Aircraft USAF Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=led+drone+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-drone-lights-look-stranger-than-aircraft-led-drone-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="led drone toy" data-ebay-reference="when-drone-lights-look-stranger-than-aircraft-led-drone-toy" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Toy Drone for Kids, 360? Hands Free Motion Sensors Mini Drone with LED 6"><img src="https://i.ebayimg.com/images/g/fCkAAOSw9Lpn7acB/s-l225.jpg" alt="Listing image for Flying Toy Drone for Kids, 360? Hands Free Motion Sensors Mini Drone with LED 6" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-patterns-when-drone-lights-look-stranger-than-aircraft-ifos-causes-of-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="light-patterns-when-drone-lights-look-stranger-than-aircraft-ifos-causes-of-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">1:72 YF-23 Black Widow II Stealth Fighter Jet Model Aircraft USAF Display</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=led+drone+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-drone-lights-look-stranger-than-aircraft-led-drone-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="led drone toy" data-ebay-reference="when-drone-lights-look-stranger-than-aircraft-led-drone-toy" target="_blank" rel="sponsored noopener noreferrer">Flying Toy Drone for Kids, 360? Hands Free Motion Sensors Mini Drone with LED 6</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-patterns-when-drone-lights-look-stranger-than-aircraft-ifos-causes-of-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="light-patterns-when-drone-lights-look-stranger-than-aircraft-ifos-causes-of-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=led+drone+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-drone-lights-look-stranger-than-aircraft-led-drone-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="led drone toy" data-ebay-reference="when-drone-lights-look-stranger-than-aircraft-led-drone-toy" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for led drone toy">Search <span data-ebay-domain-label>eBay.co.uk</span>: led drone toy</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-patterns-when-drone-lights-look-stranger-than-aircraft-ifos-causes-of-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="light-patterns-when-drone-lights-look-stranger-than-aircraft-ifos-causes-of-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=led+drone+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-drone-lights-look-stranger-than-aircraft-led-drone-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="led drone toy" data-ebay-reference="when-drone-lights-look-stranger-than-aircraft-led-drone-toy" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -519,15 +512,15 @@ In UFO investigations, drone lighting matters because it demonstrates how easily
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-patterns-when-drone-lights-look-stranger-than-aircraft-ifos-causes-of-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="light-patterns-when-drone-lights-look-stranger-than-aircraft-ifos-causes-of-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Diecast Metal Military Bomber Aircraft Model 4 Engines Red Star Silver"><img src="{{ '/assets/images/marketplace-covers/82e58d339e7f0c9303f6.jpg' | relative_url }}" alt="Listing image for Diecast Metal Military Bomber Aircraft Model 4 Engines Red Star Silver" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=led+drone+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-drone-lights-look-stranger-than-aircraft-led-drone-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="led drone toy" data-ebay-reference="when-drone-lights-look-stranger-than-aircraft-led-drone-toy" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LED Flying UFO Spinner Hover Ball Mini Drone Hand Controlled Best Kids Toy"><img src="https://i.ebayimg.com/images/g/ItAAAeSwSxxps~QK/s-l225.jpg" alt="Listing image for LED Flying UFO Spinner Hover Ball Mini Drone Hand Controlled Best Kids Toy" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-patterns-when-drone-lights-look-stranger-than-aircraft-ifos-causes-of-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="light-patterns-when-drone-lights-look-stranger-than-aircraft-ifos-causes-of-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Diecast Metal Military Bomber Aircraft Model 4 Engines Red Star Silver</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=led+drone+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-drone-lights-look-stranger-than-aircraft-led-drone-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="led drone toy" data-ebay-reference="when-drone-lights-look-stranger-than-aircraft-led-drone-toy" target="_blank" rel="sponsored noopener noreferrer">LED Flying UFO Spinner Hover Ball Mini Drone Hand Controlled Best Kids Toy</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-patterns-when-drone-lights-look-stranger-than-aircraft-ifos-causes-of-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="light-patterns-when-drone-lights-look-stranger-than-aircraft-ifos-causes-of-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=led+drone+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-drone-lights-look-stranger-than-aircraft-led-drone-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="led drone toy" data-ebay-reference="when-drone-lights-look-stranger-than-aircraft-led-drone-toy" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for led drone toy">Search <span data-ebay-domain-label>eBay.co.uk</span>: led drone toy</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-patterns-when-drone-lights-look-stranger-than-aircraft-ifos-causes-of-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="light-patterns-when-drone-lights-look-stranger-than-aircraft-ifos-causes-of-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=led+drone+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-drone-lights-look-stranger-than-aircraft-led-drone-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="led drone toy" data-ebay-reference="when-drone-lights-look-stranger-than-aircraft-led-drone-toy" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -535,7 +528,7 @@ In UFO investigations, drone lighting matters because it demonstrates how easily
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-patterns-when-drone-lights-look-stranger-than-aircraft-ifos-causes-of-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="light-patterns-when-drone-lights-look-stranger-than-aircraft-ifos-causes-of-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=led+drone+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-drone-lights-look-stranger-than-aircraft-led-drone-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="led drone toy" data-ebay-reference="when-drone-lights-look-stranger-than-aircraft-led-drone-toy" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -750,133 +743,133 @@ In UFO investigations, drone lighting matters because it demonstrates how easily
 
 1. <a id="endnote-1"></a>
    Source: ecfr.gov  
-   Link: [https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-107/subpart-B/section-107.29](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-107/subpart-B/section-107.29)  
+   Link: <a href="https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-107/subpart-B/section-107.29" target="_blank" rel="noopener noreferrer nofollow">https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-107/subpart-B/section-107.29</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>14 CFR 107.29 -- Operation at night.(2) The small unmanned aircraft has lighted anti-collision lighting visible for at least 3 statute mi...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2505.03013](https://arxiv.org/abs/2505.03013)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivPredictive processing frameworks for perception can explain recent drone sightings in the United StatesMay 5, 2025...</p></details>
+   Link: <a href="https://arxiv.org/abs/2505.03013" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2505.03013</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Predictive processing frameworks for perception can explain recent drone sightings in the United StatesMay 5, 2025...</p></details>
    Published: May 5, 2025  
 
 3. <a id="endnote-3"></a>
    Source: drone-swarm.co.uk  
    Title: Drone Light Show & Drone Displays  
-   Link: [https://www.drone-swarm.co.uk/](https://www.drone-swarm.co.uk/)  
+   Link: <a href="https://www.drone-swarm.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.drone-swarm.co.uk/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>DroneSwarm®At DroneSwarm, we stand at the forefront of drone light show innovation, offering bespoke design, expert operation, and compre...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: caa.co.uk  
-   Link: [https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/](https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/)  
+   Link: <a href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>More specifically UK Regulation (EU) 2019/947...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: caa.co.uk  
-   Link: [https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/drone-code/updates/](https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/drone-code/updates/)  
+   Link: <a href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/drone-code/updates/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/drone-code/updates/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Updates | UK Civil Aviation AuthorityNew content on using a green flashing light when flying at night. Point 32: Fly with Remote ID switc...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: apnews.com  
    Title: AP News Is that a drone or a plane?  
-   Link: [https://apnews.com/article/57a0d051a2a94d21787089ceaf47b175](https://apnews.com/article/57a0d051a2a94d21787089ceaf47b175)  
+   Link: <a href="https://apnews.com/article/57a0d051a2a94d21787089ceaf47b175" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/57a0d051a2a94d21787089ceaf47b175</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Experts help explain the differencesDecember 16, 2024 — Distinguishing drones from planes and helicopters can be challenging from a dista...</p></details>
    Published: December 16, 2024  
 
 7. <a id="endnote-7"></a>
    Source: uavcoach.com  
    Title: spot drones at night  
-   Link: [https://uavcoach.com/spot-drones-at-night/](https://uavcoach.com/spot-drones-at-night/)  
+   Link: <a href="https://uavcoach.com/spot-drones-at-night/" target="_blank" rel="noopener noreferrer nofollow">https://uavcoach.com/spot-drones-at-night/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Spot a Drone at Night, Drone Lights &amp; More10 Apr 2026 — Since 2021, FAA rules require Part 107 pilots flying at night to equip ant...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: jrupprechtlaw.com  
-   Link: [https://jrupprechtlaw.com/drone-anti-collision-lights/](https://jrupprechtlaw.com/drone-anti-collision-lights/)  
+   Link: <a href="https://jrupprechtlaw.com/drone-anti-collision-lights/" target="_blank" rel="noopener noreferrer nofollow">https://jrupprechtlaw.com/drone-anti-collision-lights/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rupprecht LawUltimate Guide to Drone Anti-Collision LightsAnti-collision lights are (1) red or white and (2) blinking/strobing. Navigatio...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: ingenia.org.uk  
    Title: Ingenia How do drone displays work?  
-   Link: [https://www.ingenia.org.uk/articles/how-do-drone-displays-work/](https://www.ingenia.org.uk/articles/how-do-drone-displays-work/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IngeniaHow do drone displays work? - IngeniaThese displays are performed by illuminated, synchronised and choreographed groups of drones...</p></details>
+   Link: <a href="https://www.ingenia.org.uk/articles/how-do-drone-displays-work/" target="_blank" rel="noopener noreferrer nofollow">https://www.ingenia.org.uk/articles/how-do-drone-displays-work/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>How do drone displays work? - IngeniaThese displays are performed by illuminated, synchronised and choreographed groups of drones...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: theguardian.com  
    Title: The Guardian Mystery US drone sightings: what we know  
-   Link: [https://www.theguardian.com/technology/2024/dec/16/mystery-us-drone-sightings-what-we-know](https://www.theguardian.com/technology/2024/dec/16/mystery-us-drone-sightings-what-we-know)  
+   Link: <a href="https://www.theguardian.com/technology/2024/dec/16/mystery-us-drone-sightings-what-we-know" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2024/dec/16/mystery-us-drone-sightings-what-we-know</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianMystery US drone sightings: what we knowDecember 16, 2024 — 16 Dec 2024 — Scores of night-time drone sightings have been repo...</p></details>
    Published: December 16, 2024  
 
 11. <a id="endnote-11"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/technology/2024/dec/21/drones-new-jersey-experts](https://www.theguardian.com/technology/2024/dec/21/drones-new-jersey-experts)  
+   Link: <a href="https://www.theguardian.com/technology/2024/dec/21/drones-new-jersey-experts" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2024/dec/21/drones-new-jersey-experts</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Beginning in [New Jersey](&amp;#123;&amp;#123; &#x27;new-jersey/&#x27; | relative_url &amp;#125;&amp;#125;), reports have accumulated from multiple states, causing lawmakers and the public to suspect a swarm of drones, po...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: blog.droneswarm.co.uk  
    Title: droneswarm.co.uk Permission for a UK drone light show  
-   Link: [https://blog.droneswarm.co.uk/permission-for-a-drone-light-show/](https://blog.droneswarm.co.uk/permission-for-a-drone-light-show/)  
+   Link: <a href="https://blog.droneswarm.co.uk/permission-for-a-drone-light-show/" target="_blank" rel="noopener noreferrer nofollow">https://blog.droneswarm.co.uk/permission-for-a-drone-light-show/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>for a UK drone light show - how to approach consent8 Oct 2023 — When planning a drone light show written permission is required from any...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: droneswarm.co.uk  
-   Link: [https://www.droneswarm.co.uk/](https://www.droneswarm.co.uk/)  
+   Link: <a href="https://www.droneswarm.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.droneswarm.co.uk/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Drone Light Show Displays by Award Winning UK Experts...A mesmerizing drone light show fills the night sky, with drones casting green li...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: uavcoach.com  
    Title: drone anti collision lights  
-   Link: [https://uavcoach.com/drone-anti-collision-lights/](https://uavcoach.com/drone-anti-collision-lights/)  
+   Link: <a href="https://uavcoach.com/drone-anti-collision-lights/" target="_blank" rel="noopener noreferrer nofollow">https://uavcoach.com/drone-anti-collision-lights/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Drone Anti-Collision Lights: A Complete Guide to...1 Apr 2026 — This guide will walk you through scenarios in which you might want to us...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1h0oqy2/any_clues/](https://www.reddit.com/r/UFOs/comments/1h0oqy2/any_clues/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1h0oqy2/any_clues/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1h0oqy2/any_clues/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Any clues?: r/UFOsThese lights blinked 4 times then stopped blinking for about 2-3 seconds then resumed blinking. That ain&#x27;t the weird p...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/903879063054302/posts/25845547301794133/](https://www.facebook.com/groups/903879063054302/posts/25845547301794133/)  
+   Link: <a href="https://www.facebook.com/groups/903879063054302/posts/25845547301794133/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/903879063054302/posts/25845547301794133/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CAA changes stance on drone green light requirementIt seems the CAA have back-pedalled again on the whole green light at night situation...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: betalight-tactical.com  
-   Link: [https://betalight-tactical.com/product/anti-collision-drone-lights](https://betalight-tactical.com/product/anti-collision-drone-lights)  
+   Link: <a href="https://betalight-tactical.com/product/anti-collision-drone-lights" target="_blank" rel="noopener noreferrer nofollow">https://betalight-tactical.com/product/anti-collision-drone-lights</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Drone Anti-Collision Lights | Red, White &amp; IR LightingExplore high-intensity drone anti-collision lights engineered for UAVs, military ai...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/mystery-drone-sightings-madness-frank-j-segarra-pvfcf](https://www.linkedin.com/pulse/mystery-drone-sightings-madness-frank-j-segarra-pvfcf)  
+   Link: <a href="https://www.linkedin.com/pulse/mystery-drone-sightings-madness-frank-j-segarra-pvfcf" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/mystery-drone-sightings-madness-frank-j-segarra-pvfcf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery Drone Sightings MadnessBrightness and Flickering Lights: Peripheral vision is particularly sensitive to flickering or flashing li...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: swarmtechdrones.com  
-   Link: [https://www.swarmtechdrones.com/show-flow](https://www.swarmtechdrones.com/show-flow)  
+   Link: <a href="https://www.swarmtechdrones.com/show-flow" target="_blank" rel="noopener noreferrer nofollow">https://www.swarmtechdrones.com/show-flow</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>drone show flowAt least 28 days prior to your drone show, a NOTAM, or Notice to Airmen shall be put in place. A NOTAM is visible to all a...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: thebalmoregroup.co.uk  
-   Link: [https://thebalmoregroup.co.uk/flying-a-drone-at-night/](https://thebalmoregroup.co.uk/flying-a-drone-at-night/)  
+   Link: <a href="https://thebalmoregroup.co.uk/flying-a-drone-at-night/" target="_blank" rel="noopener noreferrer nofollow">https://thebalmoregroup.co.uk/flying-a-drone-at-night/</a>  
 
 21. <a id="endnote-21"></a>
    Source: caa.co.uk  
-   Link: [https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/where-you-can-fly/](https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/where-you-can-fly/)  
+   Link: <a href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/where-you-can-fly/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/where-you-can-fly/</a>  
 
 22. <a id="endnote-22"></a>
    Source: faa.gov  
    Title: small unmanned aircraft systems uas regulations part 107  
-   Link: [https://www.faa.gov/newsroom/small-unmanned-aircraft-systems-uas-regulations-part-107](https://www.faa.gov/newsroom/small-unmanned-aircraft-systems-uas-regulations-part-107)  
+   Link: <a href="https://www.faa.gov/newsroom/small-unmanned-aircraft-systems-uas-regulations-part-107" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/newsroom/small-unmanned-aircraft-systems-uas-regulations-part-107</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationSmall Unmanned Aircraft Systems (UAS) Regulations (Part...6 Oct 2020 — You can fly during daylight (30 mi...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: discoveryuk.com  
-   Title: [new jersey drone](&#123;&#123; 'new-jersey/' | relative_url &#125;&#125;) sightings ten other ufo mysteries that baffled experts  
-   Link: [https://www.discoveryuk.com/features/new-jersey-drone-sightings-ten-other-ufo-mysteries-that-baffled-experts/](https://www.discoveryuk.com/features/new-jersey-drone-sightings-ten-other-ufo-mysteries-that-baffled-experts/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Jersey Drone Sightings: Ten Other UFO Mysteries that...14 Jan 2025 — From Roswell to Rendlesham, here are ten UFO mysteries that hav...</p></details>
+   Title: new jersey drone sightings ten other ufo mysteries that baffled experts  
+   Link: <a href="https://www.discoveryuk.com/features/new-jersey-drone-sightings-ten-other-ufo-mysteries-that-baffled-experts/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/features/new-jersey-drone-sightings-ten-other-ufo-mysteries-that-baffled-experts/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Jersey Drone Sightings: Ten Other UFO Mysteries that...14 Jan 2025 — From [Roswell](&amp;#123;&amp;#123; &#x27;roswell/&#x27; | relative_url &amp;#125;&amp;#125;) to Rendlesham, here are ten UFO mysteries that hav...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: dronelife.com  
    Title: drone swarm or ufo verge aero helps ufo seekers figure it out  
-   Link: [https://dronelife.com/2020/10/06/drone-swarm-or-ufo-verge-aero-helps-ufo-seekers-figure-it-out/](https://dronelife.com/2020/10/06/drone-swarm-or-ufo-verge-aero-helps-ufo-seekers-figure-it-out/)  
+   Link: <a href="https://dronelife.com/2020/10/06/drone-swarm-or-ufo-verge-aero-helps-ufo-seekers-figure-it-out/" target="_blank" rel="noopener noreferrer nofollow">https://dronelife.com/2020/10/06/drone-swarm-or-ufo-verge-aero-helps-ufo-seekers-figure-it-out/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Drone Swarm or UFO? Verge Aero Provides Expertise6 Oct 2020 — Verge Aero, experts in drone swarm technology, help researchers find an exp...</p></details>

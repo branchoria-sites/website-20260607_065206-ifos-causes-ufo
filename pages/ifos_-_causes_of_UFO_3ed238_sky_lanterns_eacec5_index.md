@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ifos-causes-of-ufo-3ed238-sky-lanterns/
 description: Focused pages that expand on Lanterns.
-date: '2026-06-07'
+date: '2026-06-12'
 layout: default
 parent_basename: ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5
-parent_title: Lanterns | Ifos Causes Of
+parent_title: Lanterns
 parent_nav_short_title: Lanterns
 parent_permalink: /lanterns/
 ---

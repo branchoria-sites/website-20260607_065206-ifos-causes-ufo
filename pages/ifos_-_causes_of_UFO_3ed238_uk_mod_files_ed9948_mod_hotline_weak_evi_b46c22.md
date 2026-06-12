@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_mod_ufo_desk_closure_1bf9cc
 - ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_project_condign_defe_276efb
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - uk-files
 - hotline-data
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - uk-files
 - hotline-data
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: The MoD hotline made sightings easy to report, but most entries lacked the measurements needed to identify what witnesses saw.
 hero_summary: The MoD hotline made sightings easy to report, but most entries lacked the measurements needed to identify what witnesses saw.
 layout: default
 permalink: /hotline-data/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /uk-files/
 nav_short_title: Hotline data
 title: Why easy UFO reporting made weak evidence
-title_full: Why easy UFO reporting made weak evidence | UK Files
+title_full: Why easy UFO reporting made weak evidence
 display_title_short: Hotline data
 display_title: Hotline data
 heading_title: Why easy UFO reporting made weak evidence
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 23:07:49'
-parent_title: What the UK UFO Files Reveal | IFOs
+parent_title: What the UK UFO Files Reveal
 parent_permalink: /uk-files/
 parent_nav_short_title: UK Files
 parent_heading_title: What the UK UFO Files Reveal
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948
-  title: UK Files | Ifos Causes Of
+  title: UK Files | ifos causes of UFO 3 ed 238
   permalink: /uk-files/
   short_title: UK Files
   heading_title: What the UK UFO Files Reveal
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948
-  title: UK Files | Ifos Causes Of
+  title: UK Files | ifos causes of UFO 3 ed 238
   permalink: /uk-files/
   short_title: UK Files
   heading_title: What the UK UFO Files Reveal
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: How ordinary lights became Mo D UFO reports
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948
-  title: UK Files | Ifos Causes Of
+  title: UK Files | ifos causes of UFO 3 ed 238
   permalink: /uk-files/
   short_title: UK Files
   heading_title: What the UK UFO Files Reveal
@@ -266,6 +265,7 @@ next_link:
   permalink: /lantern-surge/
   short_title: Lantern surge
   heading_title: Did lanterns fuel the Mo D UFO surge?
+date: '2026-06-12 00:20:27 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_mod_hotline_weak_evi_b46c22-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_mod_hotline_weak_evi_b46c22-Illustration-1.webp
@@ -276,7 +276,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_mod_hotlin
 
 The UK Ministry of Defence (MoD) UFO hotline generated a large volume of reports, but it rarely generated strong evidence. The core problem was not that witnesses were necessarily unreliable. Rather, the reporting system was designed to make sightings easy to submit, while collecting too little technical information to allow most cases to be checked properly. The resulting records were useful as a log of what people believed they had seen, but they were often poor as evidence for determining what was actually in the sky. The MoD itself treated these reports primarily as a way to identify any potential defence or air-security issue, not as a scientific programme for proving or disproving extraordinary claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsSightings of unidentified flying objects (UFOs) have been reported over our skies for decades. The Minist...</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_mod_hotline_weak_evi_b46c22-Illustration-1-dark.svg" | relative_url }}" alt="Hotline data illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_mod_hotline_weak_evi_b46c22-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_mod_hotline_weak_evi_b46c22-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This distinction matters when using the MoD UFO files to understand the causes of UFO reports. The hotline created a large dataset of observations, but most entries lacked the measurements needed to establish distance, altitude, speed, size, or identity. As a result, many reports remained unexplained not because they were mysterious, but because the evidence was too limited for a reliable conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UFO reports in the UK - GOV.UKDecember 4, 2007 — UFO reports 1997 to 2009 in the UK, showing dates and times, location and a brief descri...</span><span class="citation-popover-meta">Published: December 4, 2007</span></span></span>
 
@@ -285,7 +284,6 @@ This distinction matters when using the MoD UFO files to understand the causes o
 The MoD's public reporting system accepted sightings through a dedicated hotline, letters, emails and other correspondence channels. The reports published by the government from 1997 to 2009 typically contain a date, time, location and a brief witness description. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UFO reports in the UK - GOV.UKDecember 4, 2007 — UFO reports 1997 to 2009 in the UK, showing dates and times, location and a brief descri...</span><span class="citation-popover-meta">Published: December 4, 2007</span></span></span>
 
 The format of many entries reveals the strengths and weaknesses of the dataset. Reports frequently describe:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -314,7 +312,6 @@ However, they often stop there. The published records usually do not contain the
 
 The result is a database rich in descriptions but poor in measurements. A witness might sincerely report a "bright orange object travelling rapidly", yet that statement alone provides little basis for determining whether the object was a lantern, aircraft, satellite, astronomical object, balloon, or something genuinely unusual. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UFO reports in the UK - GOV.UKDecember 4, 2007 — UFO reports 1997 to 2009 in the UK, showing dates and times, location and a brief descri...</span><span class="citation-popover-meta">Published: December 4, 2007</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/F0dMlej9QJg" title="UFO file release June 2013" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=F0dMlej9QJg" target="_blank" rel="noopener noreferrer">UFO file release June 2013</a></p><p class="youtube-embed-meta">Channel: The National Archives UK &middot; Views: 120.0K &middot; Uploaded: June 2013 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=F0dMlej9QJg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=F0dMlej9QJg">Open on YouTube</a></p></div></div></div>
 
 ## Why brief reports were hard to check
@@ -324,7 +321,6 @@ The most important limitation of hotline data is that human perception does not 
 Consider a common report of several orange lights moving slowly across the night sky. Without knowing the lights' altitude or [range]({{ 'range/' | relative_url }}), an investigator cannot calculate their actual motion. A nearby lantern drifting with the wind and a distant aircraft can produce surprisingly similar visual impressions. The witness may honestly perceive unusual behaviour even when the underlying object is ordinary.
 
 This problem appears repeatedly throughout the MoD files. Reports often contain language such as:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -342,7 +338,6 @@ Another difficulty was the lack of follow-up evidence. Many sightings were one-o
 
 The hotline therefore produced a large number of reports that were neither confirmed nor conclusively identified. In evidence terms, an unresolved case is not the same thing as a strong case.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_mod_hotline_weak_evi_b46c22-Illustration-2-dark.svg" | relative_url }}" alt="Hotline data illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_mod_hotline_weak_evi_b46c22-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_mod_hotline_weak_evi_b46c22-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Volume made the evidence problem worse
 
@@ -350,10 +345,9 @@ The easier a reporting system becomes, the more reports it tends to receive. Thi
 
 The final years of the MoD UFO desk illustrate this effect. In 2009 the department received more than 600 sightings and reports, roughly three times the previous year's total and the highest volume since 1978. Officials concluded that processing these reports consumed increasing resources while yielding little information relevant to defence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsSightings of unidentified flying objects (UFOs) have been reported over our skies for decades. The Minist...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.csmonitor.com/Science/2013/0621/UFO-Britain-releases-documents-explaining-closure-of-military-UFO-desk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csmonitor.com">[Christian Science Monitor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csmonitor.com</span><span class="citation-popover-snippet">U.K.,&quot; the memo said. The records show that 2009 saw 600 UFO sightings and reports — triple the number of the previous year and the largest...</span></span></span>
 
-A surge in reports does not automatically mean a surge in unusual aerial events. It can also reflect increased public awareness, media attention, easier reporting channels, or reporting fashions. Some contemporary discussions even linked spikes in sightings to the growing popularity of [sky lanterns]({{ 'lanterns/' | relative_url }}) at celebrations and weddings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.csmonitor.com/Science/2013/0621/UFO-Britain-releases-documents-explaining-closure-of-military-UFO-desk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csmonitor.com">[Christian Science Monitor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csmonitor.com</span><span class="citation-popover-snippet">U.K.,&quot; the memo said. The records show that 2009 saw 600 UFO sightings and reports — triple the number of the previous year and the largest...</span></span></span>
+A surge in reports does not automatically mean a surge in unusual aerial events. It can also reflect increased public awareness, media attention, easier reporting channels, or reporting fashions. Some contemporary discussions even linked spikes in sightings to the growing popularity of sky lanterns at celebrations and weddings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.csmonitor.com/Science/2013/0621/UFO-Britain-releases-documents-explaining-closure-of-military-UFO-desk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csmonitor.com">[Christian Science Monitor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csmonitor.com</span><span class="citation-popover-snippet">U.K.,&quot; the memo said. The records show that 2009 saw 600 UFO sightings and reports — triple the number of the previous year and the largest...</span></span></span>
 
 From an evidence perspective, a large collection of low-detail reports can overwhelm investigators. More cases arrive, but not necessarily more usable data.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_mod_hotline_weak_evi_b46c22-Illustration-3-dark.svg" | relative_url }}" alt="Hotline data illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_mod_hotline_weak_evi_b46c22-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_mod_hotline_weak_evi_b46c22-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What better sighting records would need
@@ -381,7 +375,6 @@ With those elements, it becomes possible to estimate an object's position and mo
 
 This highlights a key lesson from the MoD hotline records. The value of a sighting report depends not only on what was seen but on how well it was documented. A dramatic description with no measurements may provide weaker evidence than a mundane report accompanied by accurate observational data.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FD6dCwx6tpg" title="UFO file release August 2011" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FD6dCwx6tpg" target="_blank" rel="noopener noreferrer">UFO file release August 2011</a></p><p class="youtube-embed-meta">Channel: The National Archives UK &middot; Views: 13.2K &middot; Uploaded: August 2011 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FD6dCwx6tpg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FD6dCwx6tpg">Open on YouTube</a></p></div></div></div>
 
 ## What the hotline data really tells us
@@ -390,9 +383,7 @@ The MoD UFO hotline is best understood as a record of reported experiences rathe
 
 For researchers interested in the causes of UFO reports, this is an important finding. The hotline generated thousands of accounts, yet most lacked the information needed to move from witness perception to objective identification. As a result, the files reveal more about the challenges of collecting reliable UFO evidence than about the existence of any particular unexplained phenomenon. The weakness of the evidence was largely built into the reporting method itself: easy reporting encouraged participation, but easy reporting did not guarantee useful data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsSightings of unidentified flying objects (UFOs) have been reported over our skies for decades. The Minist...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">UF O reports in the UK</span><span class="citation-popover-snippet">UFO reports in the UK - GOV.UKDecember 4, 2007 — UFO reports 1997 to 2009 in the UK, showing dates and times, location and a brief descri...</span><span class="citation-popover-meta">Published: December 4, 2007</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/62tr8fZ-02Q" title="UFO file release May 2008 Part 1 (audio with slides)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=62tr8fZ-02Q" target="_blank" rel="noopener noreferrer">UFO file release May 2008 Part 1 (audio with slides)</a></p><p class="youtube-embed-meta">Channel: The National Archives UK &middot; Views: 11.2K &middot; Uploaded: June 2008 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=62tr8fZ-02Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=62tr8fZ-02Q">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -511,15 +502,15 @@ For researchers interested in the causes of UFO reports, this is an important fi
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotline-data-why-easy-ufo-reporting-made-weak-evidence-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="hotline-data-why-easy-ufo-reporting-made-weak-evidence-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-easy-ufo-reporting-made-weak-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-easy-ufo-reporting-made-weak-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotline-data-why-easy-ufo-reporting-made-weak-evidence-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="hotline-data-why-easy-ufo-reporting-made-weak-evidence-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-easy-ufo-reporting-made-weak-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-easy-ufo-reporting-made-weak-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotline-data-why-easy-ufo-reporting-made-weak-evidence-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="hotline-data-why-easy-ufo-reporting-made-weak-evidence-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-easy-ufo-reporting-made-weak-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-easy-ufo-reporting-made-weak-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotline-data-why-easy-ufo-reporting-made-weak-evidence-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="hotline-data-why-easy-ufo-reporting-made-weak-evidence-ifos-causes-of-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-easy-ufo-reporting-made-weak-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-easy-ufo-reporting-made-weak-evidence-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -527,15 +518,15 @@ For researchers interested in the causes of UFO reports, this is an important fi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotline-data-why-easy-ufo-reporting-made-weak-evidence-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="hotline-data-why-easy-ufo-reporting-made-weak-evidence-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-easy-ufo-reporting-made-weak-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-easy-ufo-reporting-made-weak-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotline-data-why-easy-ufo-reporting-made-weak-evidence-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="hotline-data-why-easy-ufo-reporting-made-weak-evidence-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-easy-ufo-reporting-made-weak-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-easy-ufo-reporting-made-weak-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotline-data-why-easy-ufo-reporting-made-weak-evidence-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="hotline-data-why-easy-ufo-reporting-made-weak-evidence-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-easy-ufo-reporting-made-weak-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-easy-ufo-reporting-made-weak-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotline-data-why-easy-ufo-reporting-made-weak-evidence-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="hotline-data-why-easy-ufo-reporting-made-weak-evidence-ifos-causes-of-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-easy-ufo-reporting-made-weak-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-easy-ufo-reporting-made-weak-evidence-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -543,15 +534,15 @@ For researchers interested in the causes of UFO reports, this is an important fi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotline-data-why-easy-ufo-reporting-made-weak-evidence-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="hotline-data-why-easy-ufo-reporting-made-weak-evidence-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-easy-ufo-reporting-made-weak-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-easy-ufo-reporting-made-weak-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotline-data-why-easy-ufo-reporting-made-weak-evidence-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="hotline-data-why-easy-ufo-reporting-made-weak-evidence-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-easy-ufo-reporting-made-weak-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-easy-ufo-reporting-made-weak-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotline-data-why-easy-ufo-reporting-made-weak-evidence-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="hotline-data-why-easy-ufo-reporting-made-weak-evidence-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-easy-ufo-reporting-made-weak-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-easy-ufo-reporting-made-weak-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotline-data-why-easy-ufo-reporting-made-weak-evidence-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="hotline-data-why-easy-ufo-reporting-made-weak-evidence-ifos-causes-of-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-easy-ufo-reporting-made-weak-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-easy-ufo-reporting-made-weak-evidence-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -559,15 +550,15 @@ For researchers interested in the causes of UFO reports, this is an important fi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotline-data-why-easy-ufo-reporting-made-weak-evidence-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="hotline-data-why-easy-ufo-reporting-made-weak-evidence-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-easy-ufo-reporting-made-weak-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-easy-ufo-reporting-made-weak-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotline-data-why-easy-ufo-reporting-made-weak-evidence-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="hotline-data-why-easy-ufo-reporting-made-weak-evidence-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-easy-ufo-reporting-made-weak-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-easy-ufo-reporting-made-weak-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotline-data-why-easy-ufo-reporting-made-weak-evidence-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="hotline-data-why-easy-ufo-reporting-made-weak-evidence-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-easy-ufo-reporting-made-weak-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-easy-ufo-reporting-made-weak-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotline-data-why-easy-ufo-reporting-made-weak-evidence-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="hotline-data-why-easy-ufo-reporting-made-weak-evidence-ifos-causes-of-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-easy-ufo-reporting-made-weak-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-easy-ufo-reporting-made-weak-evidence-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -575,7 +566,7 @@ For researchers interested in the causes of UFO reports, this is an important fi
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotline-data-why-easy-ufo-reporting-made-weak-evidence-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="hotline-data-why-easy-ufo-reporting-made-weak-evidence-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-easy-ufo-reporting-made-weak-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-easy-ufo-reporting-made-weak-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -790,82 +781,82 @@ For researchers interested in the causes of UFO reports, this is an important fi
 
 1. <a id="endnote-1"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/](https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFO reportsSightings of unidentified flying objects (UFOs) have been reported over our skies for decades. The Minist...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: GOV.UK  
    Title: UF O reports in the UK  
-   Link: [https://www.gov.uk/government/publications/ufo-reports-in-the-uk](https://www.gov.uk/government/publications/ufo-reports-in-the-uk)  
+   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reports in the UK - GOV.UKDecember 4, 2007 — UFO reports 1997 to 2009 in the UK, showing dates and times, location and a brief descri...</p></details>
    Published: December 4, 2007  
 
 3. <a id="endnote-3"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: [https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf](https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>GOV.UK[PDF] UFO Reports 2009 for MoD website-Edited - GOV.UKNote: As of the 1 December 2009 the Departments policy on UFO&#x27;s changed, beyo...</p></details>
    Published: December 2009  
 
 4. <a id="endnote-4"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 1997  
-   Link: [https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf](https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reports 1997Brief Description of sighting. 02-Jan-97 20:58 Immingham. Lincolnshire. A large UFO, with all different colour of lights arou...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives[PDF] UFO Desk: Closed  
-   Link: [https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf](https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf)  
+   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The National Archiveslargest ever number of UFO sighting reports received since 1978... The UFO Desk received over 600 UFO sightings and...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: [https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364](https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364)  
+   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Desk: Why MoD Shut Real-Life X-Files | UK News20 Jun 2013 — They include accounts of alleged abductions, contact with aliens - including...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: media.nationalarchives.gov.uk  
-   Link: [https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/](https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/)  
+   Link: <a href="https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives – UFO files (MoD)No information is available for this page...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo highlights guide 2013  
-   Link: [https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf](https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf)  
+   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>files cover the work carried out during final two years of the MoD‟s UFO desk, from late 2007 until November 2009. The files cover policy...</p></details>
    Published: November 2009  
 
 9. <a id="endnote-9"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/](https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Until 1967 Ministry of Defence policy was to destroy UFO files at five yearly intervals, so many records have been lost. Since 1970 most...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: [https://discovery.nationalarchives.gov.uk/details/c/F258252](https://discovery.nationalarchives.gov.uk/details/c/F258252)  
+   Link: <a href="https://discovery.nationalarchives.gov.uk/details/c/F258252" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/c/F258252</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OfficeThis page summarises records created by this Organisation. The summary includes a brief description of the collection(s) (usually i...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: ons.gov.uk  
-   Link: [https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena](https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena)  
+   Link: <a href="https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Witnesses of unidentified aerial phenomenaThey have previously published reports relating to this topic they can be found here UFO report...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: csmonitor.com  
-   Link: [https://www.csmonitor.com/Science/2013/0621/UFO-Britain-releases-documents-explaining-closure-of-military-UFO-desk](https://www.csmonitor.com/Science/2013/0621/UFO-Britain-releases-documents-explaining-closure-of-military-UFO-desk)  
+   Link: <a href="https://www.csmonitor.com/Science/2013/0621/UFO-Britain-releases-documents-explaining-closure-of-military-UFO-desk" target="_blank" rel="noopener noreferrer nofollow">https://www.csmonitor.com/Science/2013/0621/UFO-Britain-releases-documents-explaining-closure-of-military-UFO-desk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>U.K.,&quot; the memo said. The records show that 2009 saw 600 UFO sightings and reports — triple the number of the previous year and the largest...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: hansard.parliament.uk  
-   Link: [https://hansard.parliament.uk/Lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects](https://hansard.parliament.uk/Lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects)  
+   Link: <a href="https://hansard.parliament.uk/Lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/Lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Flying Objects - UK Parliament - Hansard30 Jun 2021 — The recent report does not require us to accept the reality of alien visitation, bu...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: drdavidclarke.co.uk  
    Title: National Archives UFO Files  
-   Link: [https://drdavidclarke.co.uk/national-archives-ufo-files-7/](https://drdavidclarke.co.uk/national-archives-ufo-files-7/)  
+   Link: <a href="https://drdavidclarke.co.uk/national-archives-ufo-files-7/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/national-archives-ufo-files-7/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr David ClarkeThe files contain papers detailing some 11,000 sighting reports along with correspondence, Parliamentary business, media i...</p></details>
 
 ### Additional References
@@ -873,53 +864,53 @@ For researchers interested in the causes of UFO reports, this is an important fi
 15. <a id="endnote-15"></a>
    Source: keranews.org  
    Title: britains national archives releases documents detailing work of ufo desk  
-   Link: [https://www.keranews.org/2012-07-12/britains-national-archives-releases-documents-detailing-work-of-ufo-desk](https://www.keranews.org/2012-07-12/britains-national-archives-releases-documents-detailing-work-of-ufo-desk)  
+   Link: <a href="https://www.keranews.org/2012-07-12/britains-national-archives-releases-documents-detailing-work-of-ufo-desk" target="_blank" rel="noopener noreferrer nofollow">https://www.keranews.org/2012-07-12/britains-national-archives-releases-documents-detailing-work-of-ufo-desk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Britain&#x27;s National Archives Releases Documents Detailing...12 Jul 2012 — In 1995, the UFO Desk asked RAF Air Attache in Washington to as...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: timesofmalta.com  
    Title: British Ministry of Defence to destroy future UFO reports, memo reveals  
-   Link: [https://timesofmalta.com/article/british-ministry-of-defence-to-destroy-future-ufo-reports-memo-reveals.296368](https://timesofmalta.com/article/british-ministry-of-defence-to-destroy-future-ufo-reports-memo-reveals.296368)  
+   Link: <a href="https://timesofmalta.com/article/british-ministry-of-defence-to-destroy-future-ufo-reports-memo-reveals.296368" target="_blank" rel="noopener noreferrer nofollow">https://timesofmalta.com/article/british-ministry-of-defence-to-destroy-future-ufo-reports-memo-reveals.296368</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>March 2, 2010 — The MoD recorded 634 UFO sightings in 2009, the second highest annual total after 1978, when there were 750, according to...</p></details>
    Published: March 2, 2010  
 
 17. <a id="endnote-17"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/uk-news/2018/may/06/documents-reveal-how-mod-played-down-ufo-thesis-in-x-files-study](https://www.theguardian.com/uk-news/2018/may/06/documents-reveal-how-mod-played-down-ufo-thesis-in-x-files-study)  
+   Link: <a href="https://www.theguardian.com/uk-news/2018/may/06/documents-reveal-how-mod-played-down-ufo-thesis-in-x-files-study" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk-news/2018/may/06/documents-reveal-how-mod-played-down-ufo-thesis-in-x-files-study</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>No time for aliens: how the MoD tried to prove no one&#x27;s out...6 May 2018 — No time for aliens: how the MoD tried to prove no one&#x27;s out t...</p></details>
    Published: May 2018  
 
 18. <a id="endnote-18"></a>
    Source: theguardian.com  
    Title: Mo D's latest UFO files reveal saucerful of secrets  
-   Link: [https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings](https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings)  
+   Link: <a href="https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2009/aug/17/mod-report-ufo-sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MoD&#x27;s latest UFO files reveal saucerful of secrets - The GuardianAugust 16, 2009 — National Archives indicate 800 sightings in four-year...</p></details>
    Published: August 16, 2009  
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
    Title: ufo reports in the uk 19972009 including relevant  
-   Link: [https://www.reddit.com/r/UFOs/comments/1d9hmqn/ufo_reports_in_the_uk_19972009_including_relevant/](https://www.reddit.com/r/UFOs/comments/1d9hmqn/ufo_reports_in_the_uk_19972009_including_relevant/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1d9hmqn/ufo_reports_in_the_uk_19972009_including_relevant/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1d9hmqn/ufo_reports_in_the_uk_19972009_including_relevant/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reports in the UK 1997-2009 including relevant job titlesr/UFOs - UFO reports in the UK 1997-2009 including relevant job titles. gov...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOscience/comments/qzvwxg/declassified_uk_ministry_of_defence_report_says/](https://www.reddit.com/r/UFOscience/comments/qzvwxg/declassified_uk_ministry_of_defence_report_says/)  
+   Link: <a href="https://www.reddit.com/r/UFOscience/comments/qzvwxg/declassified_uk_ministry_of_defence_report_says/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOscience/comments/qzvwxg/declassified_uk_ministry_of_defence_report_says/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>stricted number of high-ranking Royal Air Force and defense...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: Wikipedia  
    Title: UFO sightings in the United Kingdom  
-   Link: [https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom](https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in the United KingdomMany more sightings have become known since the gradual release, between 2008 and 2013, of the Mini...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: questions-statements.parliament.uk  
-   Link: [https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321](https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321)  
+   Link: <a href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321" target="_blank" rel="noopener noreferrer nofollow">https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Flying Objects5 Dec 2024 — The MOD ceased to investigate reports of UFO or UAP in 2009 and has not classified any new material on the sub...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: theguardian.com  
    Title: ministry of defence files archive  
-   Link: [https://www.theguardian.com/uk-news/2013/oct/06/ministry-of-defence-files-archive](https://www.theguardian.com/uk-news/2013/oct/06/ministry-of-defence-files-archive)  
+   Link: <a href="https://www.theguardian.com/uk-news/2013/oct/06/ministry-of-defence-files-archive" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk-news/2013/oct/06/ministry-of-defence-files-archive</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ministry of Defence holds 66000 files in breach of 30-year...6 Oct 2013 — The Ministry of Defence is unlawfully holding thousands of fil...</p></details>

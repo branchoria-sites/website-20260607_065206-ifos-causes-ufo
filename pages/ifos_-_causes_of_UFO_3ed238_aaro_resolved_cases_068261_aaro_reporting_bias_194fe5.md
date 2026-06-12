@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261_birds_infrared_orbs_ea0573
 - ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261_starlink_pilot_repor_45c29c
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - aaro
 - reporting-bias
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - aaro
 - reporting-bias
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: AARO's dataset is shaped by where official aircraft, sensors, ranges and aviation reporting channels actually collect reports.
 hero_summary: AARO's dataset is shaped by where official aircraft, sensors, ranges and aviation reporting channels actually collect reports.
 layout: default
 permalink: /reporting-bias/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /aaro/
 nav_short_title: Reporting Bias
 title: Why AARO Reports Cluster Near Sensors
-title_full: Why AARO Reports Cluster Near Sensors | AARO
+title_full: Why AARO Reports Cluster Near Sensors
 display_title_short: Reporting Bias
 display_title: Reporting Bias
 heading_title: Why AARO Reports Cluster Near Sensors
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 21:55:07'
-parent_title: What Modern UAP Reviews Resolve | IFOs
+parent_title: What Modern UAP Reviews Resolve
 parent_permalink: /aaro/
 parent_nav_short_title: AARO
 parent_heading_title: What Modern UAP Reviews Resolve
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261
-  title: AARO | Ifos Causes Of
+  title: AARO | ifos causes of UFO 3 ed 238
   permalink: /aaro/
   short_title: AARO
   heading_title: What Modern UAP Reviews Resolve
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261
-  title: AARO | Ifos Causes Of
+  title: AARO | ifos causes of UFO 3 ed 238
   permalink: /aaro/
   short_title: AARO
   heading_title: What Modern UAP Reviews Resolve
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: Why Starlink Can Look Like UAP
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261
-  title: AARO | Ifos Causes Of
+  title: AARO | ifos causes of UFO 3 ed 238
   permalink: /aaro/
   short_title: AARO
   heading_title: What Modern UAP Reviews Resolve
@@ -266,6 +265,7 @@ next_link:
   permalink: /starlink/
   short_title: Starlink
   heading_title: Why Starlink Can Look Like UAP
+date: '2026-06-12 00:45:31 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261_aaro_reporting_bias_194fe5-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261_aaro_reporting_bias_194fe5-Illustration-1.webp
@@ -276,7 +276,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261_aar
 
 One of the most important facts about modern UAP data is that it is not a random sample of unusual things seen in the sky. The reports collected by the U.S. Department of Defense’s All-domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})) are heavily shaped by where military aircraft fly, where advanced sensors operate, and where formal reporting systems exist. AARO itself has repeatedly acknowledged that its database shows a geographic collection bias near U.S. military assets and sensors. This means that apparent UAP “hotspots” often reflect concentrations of observation capability rather than concentrations of unexplained phenomena. Understanding this bias is essential when using AARO cases to study the causes of UFO reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">Department of WarFiscal Year 2024 Consolidated Annual Report on...November 14, 2024 — 14 Nov 2024 — AARO notes a continued geographic co...</span><span class="citation-popover-meta">Published: November 14, 2024</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261_aaro_reporting_bias_194fe5-Illustration-1-dark.svg" | relative_url }}" alt="Reporting Bias illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261_aaro_reporting_bias_194fe5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261_aaro_reporting_bias_194fe5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why AARO Reports Cluster Near Sensors
 
@@ -284,7 +283,7 @@ AARO receives most of its reports through military operational channels and avia
 
 This pattern is not unique to AARO. In observational science, detection depends on where instruments are located. If most sensors are concentrated around military [ranges]({{ 'ranges/' | relative_url }}), carrier groups, test areas, training corridors, and national-security facilities, then unusual observations will also appear concentrated there.
 
-AARO's own public materials explicitly describe this effect. The FY2024 report notes a “continued geographic collection bias” associated with locations near U.S. military assets and sensors operating globally. Earlier reporting described a similar pattern as a “strong but shifting collection bias” toward restricted military airspace because military personnel and military sensors are disproportionately present in those areas. U.S. Department of War <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/Fiscal_Year_2023_Consolidated_Annual_Report_on_Unidentified_Anomalous_Phenomena/UAP_Reporting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">WikisourceFiscal Year 2023 Consolidated Annual Report on Unidentified...Feb 22, 2024 — Reporting from this period continues to depict a...</span></span></span>
+AARO's own public materials explicitly describe this effect. The FY2024 report notes a “continued geographic collection bias” associated with locations near U.S. military assets and sensors operating globally. Earlier reporting described a similar pattern as a “strong but shifting collection bias” toward restricted military airspace because military personnel and military sensors are disproportionately present in those areas. U.S. Department of War <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/Fiscal_Year_2023_Consolidated_Annual_Report_on_Unidentified_Anomalous_Phenomena/UAP_Reporting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">Fiscal Year 2023 Consolidated Annual Report on Unidentified...Feb 22, 2024 — Reporting from this period continues to depict a...</span></span></span>
 
 ## Military and Civil Aviation Reporting Channels
 
@@ -303,9 +302,6 @@ The result is a dataset skewed toward places where reporting is expected and enc
 
 AARO officials have also discussed efforts to reduce [stigma]({{ 'stigma/' | relative_url }}) and increase reporting from commercial pilots. As civilian reporting has increased, the concentration around military sites has reportedly become somewhat less pronounced, illustrating how reporting channels directly influence the apparent distribution of incidents. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jbsa.mil/News/News/Article/3966080/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jbsa.mil">[jbsa.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jbsa.mil</span><span class="citation-popover-title">dod examining unidentified anomalous phenomena</span><span class="citation-popover-snippet">military assets and sensors. However, this density has been reduced somewhat by an...Read more...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3esmIFeLcnM" title="USOs: The Navy’s Terrifying Secret Beneath the Waves" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3esmIFeLcnM" target="_blank" rel="noopener noreferrer">USOs: The Navy’s Terrifying Secret Beneath the Waves</a></p><p class="youtube-embed-meta">Channel: Trench Waters</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3esmIFeLcnM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3esmIFeLcnM">Open on YouTube</a></p></div></div></div>
-
 ## Geographic Bias Around Assets and Ranges
 
 When AARO maps the locations of reports, clusters emerge around areas where U.S. military operations are common.
@@ -315,7 +311,6 @@ The FY2024 report highlighted concentrations associated with military operating 
 Public discussion of the report has sometimes interpreted these clusters as evidence that anomalous objects favour certain regions. AARO's own explanation is more mundane: the clusters correspond closely to where observation systems are concentrated. Independent reporting on the FY2024 data reached the same conclusion, noting that apparent hotspots align with areas of heavy military surveillance rather than demonstrating that unusual objects preferentially appear there. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dr jon kosloski director aaro media roundtable on the fy24 consolidated annual</span><span class="citation-popover-snippet">Department of WarDr. Jon Kosloski, Director, AARO, Media Roundtable on the...Nov 14, 2024 — It is also worth noting that AARO continues...</span></span></span>
 
 This is a classic example of an observational-selection effect. The database is strongest where collection capability is strongest.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261_aaro_reporting_bias_194fe5-Illustration-2-dark.svg" | relative_url }}" alt="Reporting Bias illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261_aaro_reporting_bias_194fe5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261_aaro_reporting_bias_194fe5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A Concrete Example: Sensors Create Cases
@@ -327,9 +322,6 @@ The official imagery archive contains numerous reports originating from infrared
 This creates an important asymmetry. Objects that pass through heavily monitored airspace are more likely to become UAP cases, regardless of whether they are extraordinary. Objects in poorly monitored regions may never generate a report at all.
 
 Consequently, the AARO database partly reflects the footprint of surveillance infrastructure rather than solely the distribution of unexplained aerial events.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pp_CTEXXmhc" title="UFO Sightings by State: The Most Active UAP Zones in America (Kili&#x27;s E17)." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pp_CTEXXmhc" target="_blank" rel="noopener noreferrer">UFO Sightings by State: The Most Active UAP Zones in America (Kili&#x27;s E17).</a></p><p class="youtube-embed-meta">Channel: Kili&#x27;s A.I. Paranormal Research</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pp_CTEXXmhc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pp_CTEXXmhc">Open on YouTube</a></p></div></div></div>
 
 ## Why Bias Changes Interpretation, Not Importance
 
@@ -345,21 +337,16 @@ For researchers studying the causes of UFO reports, this distinction is crucial.
 * High levels of aviation activity.
 * Greater reporting incentives.
 * More opportunities for balloons, drones, birds, [satellites]({{ 'satellites/' | relative_url }}), and aircraft to be detected.
-* Better preservation of evidence after an event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dr jon kosloski director aaro media roundtable on the fy24 consolidated annual</span><span class="citation-popover-snippet">Department of WarDr. Jon Kosloski, Director, AARO, Media Roundtable on the...Nov 14, 2024 — It is also worth noting that AARO continues...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROUAP Imagery... (AARO) consisting of ten minutes and thirty seconds of video footage from an infrared sensor aboard a U.S. military pl...</span></span></span>
+* Better preservation of evidence after an event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dr jon kosloski director aaro media roundtable on the fy24 consolidated annual</span><span class="citation-popover-snippet">Department of WarDr. Jon Kosloski, Director, AARO, Media Roundtable on the...Nov 14, 2024 — It is also worth noting that AARO continues...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP Imagery... (AARO) consisting of ten minutes and thirty seconds of video footage from an infrared sensor aboard a U.S. military pl...</span></span></span>
 
 In other words, reporting bias affects the statistical interpretation of the dataset, not the seriousness of individual cases.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261_aaro_reporting_bias_194fe5-Illustration-3-dark.svg" | relative_url }}" alt="Reporting Bias illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261_aaro_reporting_bias_194fe5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261_aaro_reporting_bias_194fe5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What This Means for Understanding UFO Reports
 
 AARO's acknowledgement of reporting bias is itself an important clue about how modern UFO databases are formed. The office's records are shaped by surveillance networks, operational priorities, and reporting systems. Areas with more sensors generate more reports; areas with fewer sensors generate fewer reports.
 
-For anyone analysing UFOs as potential IFOs (identified flying objects), this is a reminder that the first question is not merely “What was observed?” but also “Why was this observation recorded while countless others were not?” AARO's dataset demonstrates that detection systems strongly influence what becomes a UAP case, making reporting bias near military sensors one of the key factors in interpreting modern official UFO statistics. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dr jon kosloski director aaro media roundtable on the fy24 consolidated annual</span><span class="citation-popover-snippet">Department of WarDr. Jon Kosloski, Director, AARO, Media Roundtable on the...Nov 14, 2024 — It is also worth noting that AARO continues...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dr jon kosloski director aaro media roundtable on the fy24 consolidated annual</span><span class="citation-popover-snippet">Department of WarDr. Jon Kosloski, Director, AARO, Media Roundtable on the...Nov 14, 2024 — It is also worth noting that AARO continues...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VUrTsrhVce4" title="Pentagon declassifies leaked &#x27;UFO&#x27; videos (VIDEO 3/3)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VUrTsrhVce4" target="_blank" rel="noopener noreferrer">Pentagon declassifies leaked &#x27;UFO&#x27; videos (VIDEO 3/3)</a></p><p class="youtube-embed-meta">Channel: ABC News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VUrTsrhVce4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VUrTsrhVce4">Open on YouTube</a></p></div></div></div>
-
+For anyone analysing UFOs as potential IFOs (identified flying objects), this is a reminder that the first question is not merely “What was observed?” but also “Why was this observation recorded while countless others were not?” AARO's dataset demonstrates that detection systems strongly influence what becomes a UAP case, making reporting bias near military sensors one of the key factors in interpreting modern official UFO statistics. [U.S. Department of War+2U.S. Department of War]
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -478,15 +465,15 @@ For anyone analysing UFOs as potential IFOs (identified flying objects), this is
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-bias-why-aaro-reports-cluster-near-sensors-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="reporting-bias-why-aaro-reports-cluster-near-sensors-ifos-causes-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-aaro-reports-cluster-near-sensors-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation patch" data-ebay-reference="why-aaro-reports-cluster-near-sensors-aviation-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aviation Patch"><img src="https://i.ebayimg.com/images/g/IhMAAeSw0OtpznLO/s-l225.jpg" alt="Listing image for Aviation Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-bias-why-aaro-reports-cluster-near-sensors-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="reporting-bias-why-aaro-reports-cluster-near-sensors-ifos-causes-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-aaro-reports-cluster-near-sensors-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation patch" data-ebay-reference="why-aaro-reports-cluster-near-sensors-aviation-patch" target="_blank" rel="sponsored noopener noreferrer">Aviation Patch</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-bias-why-aaro-reports-cluster-near-sensors-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="reporting-bias-why-aaro-reports-cluster-near-sensors-ifos-causes-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-aaro-reports-cluster-near-sensors-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation patch" data-ebay-reference="why-aaro-reports-cluster-near-sensors-aviation-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-bias-why-aaro-reports-cluster-near-sensors-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="reporting-bias-why-aaro-reports-cluster-near-sensors-ifos-causes-of-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-aaro-reports-cluster-near-sensors-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation patch" data-ebay-reference="why-aaro-reports-cluster-near-sensors-aviation-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -494,15 +481,15 @@ For anyone analysing UFOs as potential IFOs (identified flying objects), this is
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-bias-why-aaro-reports-cluster-near-sensors-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="reporting-bias-why-aaro-reports-cluster-near-sensors-ifos-causes-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-aaro-reports-cluster-near-sensors-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation patch" data-ebay-reference="why-aaro-reports-cluster-near-sensors-aviation-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Boeing Airplane Aviation Embroidered Badge Patch Iron sew on dress jacket jeans"><img src="https://i.ebayimg.com/images/g/5g0AAOSwpnpnn5Hc/s-l225.jpg" alt="Listing image for Boeing Airplane Aviation Embroidered Badge Patch Iron sew on dress jacket jeans" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-bias-why-aaro-reports-cluster-near-sensors-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="reporting-bias-why-aaro-reports-cluster-near-sensors-ifos-causes-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-aaro-reports-cluster-near-sensors-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation patch" data-ebay-reference="why-aaro-reports-cluster-near-sensors-aviation-patch" target="_blank" rel="sponsored noopener noreferrer">Boeing Airplane Aviation Embroidered Badge Patch Iron sew on dress jacket jeans</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-bias-why-aaro-reports-cluster-near-sensors-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="reporting-bias-why-aaro-reports-cluster-near-sensors-ifos-causes-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-aaro-reports-cluster-near-sensors-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation patch" data-ebay-reference="why-aaro-reports-cluster-near-sensors-aviation-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-bias-why-aaro-reports-cluster-near-sensors-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="reporting-bias-why-aaro-reports-cluster-near-sensors-ifos-causes-of-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-aaro-reports-cluster-near-sensors-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation patch" data-ebay-reference="why-aaro-reports-cluster-near-sensors-aviation-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -510,15 +497,15 @@ For anyone analysing UFOs as potential IFOs (identified flying objects), this is
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-bias-why-aaro-reports-cluster-near-sensors-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="reporting-bias-why-aaro-reports-cluster-near-sensors-ifos-causes-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-aaro-reports-cluster-near-sensors-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation patch" data-ebay-reference="why-aaro-reports-cluster-near-sensors-aviation-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phantom FG1 XT597 Patch, British Phantom Aviation Group"><img src="https://i.ebayimg.com/images/g/bN0AAeSwifBpBqkE/s-l225.jpg" alt="Listing image for Phantom FG1 XT597 Patch, British Phantom Aviation Group" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-bias-why-aaro-reports-cluster-near-sensors-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="reporting-bias-why-aaro-reports-cluster-near-sensors-ifos-causes-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-aaro-reports-cluster-near-sensors-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation patch" data-ebay-reference="why-aaro-reports-cluster-near-sensors-aviation-patch" target="_blank" rel="sponsored noopener noreferrer">Phantom FG1 XT597 Patch, British Phantom Aviation Group</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-bias-why-aaro-reports-cluster-near-sensors-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="reporting-bias-why-aaro-reports-cluster-near-sensors-ifos-causes-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-aaro-reports-cluster-near-sensors-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation patch" data-ebay-reference="why-aaro-reports-cluster-near-sensors-aviation-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-bias-why-aaro-reports-cluster-near-sensors-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="reporting-bias-why-aaro-reports-cluster-near-sensors-ifos-causes-of-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-aaro-reports-cluster-near-sensors-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation patch" data-ebay-reference="why-aaro-reports-cluster-near-sensors-aviation-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -526,15 +513,15 @@ For anyone analysing UFOs as potential IFOs (identified flying objects), this is
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-bias-why-aaro-reports-cluster-near-sensors-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="reporting-bias-why-aaro-reports-cluster-near-sensors-ifos-causes-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-aaro-reports-cluster-near-sensors-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation patch" data-ebay-reference="why-aaro-reports-cluster-near-sensors-aviation-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for British Phantom Aviation Group F-4 Phantoms at Cotswold Airport Patch Collection"><img src="https://i.ebayimg.com/images/g/tGkAAeSw~F1qFsBV/s-l225.jpg" alt="Listing image for British Phantom Aviation Group F-4 Phantoms at Cotswold Airport Patch Collection" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-bias-why-aaro-reports-cluster-near-sensors-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="reporting-bias-why-aaro-reports-cluster-near-sensors-ifos-causes-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-aaro-reports-cluster-near-sensors-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation patch" data-ebay-reference="why-aaro-reports-cluster-near-sensors-aviation-patch" target="_blank" rel="sponsored noopener noreferrer">British Phantom Aviation Group F-4 Phantoms at Cotswold Airport Patch Collection</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-bias-why-aaro-reports-cluster-near-sensors-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="reporting-bias-why-aaro-reports-cluster-near-sensors-ifos-causes-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-aaro-reports-cluster-near-sensors-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation patch" data-ebay-reference="why-aaro-reports-cluster-near-sensors-aviation-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-bias-why-aaro-reports-cluster-near-sensors-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="reporting-bias-why-aaro-reports-cluster-near-sensors-ifos-causes-of-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-aaro-reports-cluster-near-sensors-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation patch" data-ebay-reference="why-aaro-reports-cluster-near-sensors-aviation-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -542,7 +529,7 @@ For anyone analysing UFOs as potential IFOs (identified flying objects), this is
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-bias-why-aaro-reports-cluster-near-sensors-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="reporting-bias-why-aaro-reports-cluster-near-sensors-ifos-causes-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-aaro-reports-cluster-near-sensors-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation patch" data-ebay-reference="why-aaro-reports-cluster-near-sensors-aviation-patch" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -758,134 +745,134 @@ For anyone analysing UFOs as potential IFOs (identified flying objects), this is
 1. <a id="endnote-1"></a>
    Source: media.defense.gov  
    Title: FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508  
-   Link: [https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF](https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarFiscal Year 2024 Consolidated Annual Report on...November 14, 2024 — 14 Nov 2024 — AARO notes a continued geographic co...</p></details>
    Published: November 14, 2024  
 
 2. <a id="endnote-2"></a>
    Source: war.gov  
    Title: dr jon kosloski director aaro media roundtable on the fy24 consolidated annual  
-   Link: [https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/](https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/)  
+   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDr. Jon Kosloski, Director, AARO, Media Roundtable on the...Nov 14, 2024 — It is also worth noting that AARO continues...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: en.wikisource.org  
-   Link: [https://en.wikisource.org/wiki/Fiscal_Year_2023_Consolidated_Annual_Report_on_Unidentified_Anomalous_Phenomena/UAP_Reporting](https://en.wikisource.org/wiki/Fiscal_Year_2023_Consolidated_Annual_Report_on_Unidentified_Anomalous_Phenomena/UAP_Reporting)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WikisourceFiscal Year 2023 Consolidated Annual Report on Unidentified...Feb 22, 2024 — Reporting from this period continues to depict a...</p></details>
+   Link: <a href="https://en.wikisource.org/wiki/Fiscal_Year_2023_Consolidated_Annual_Report_on_Unidentified_Anomalous_Phenomena/UAP_Reporting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Fiscal_Year_2023_Consolidated_Annual_Report_on_Unidentified_Anomalous_Phenomena/UAP_Reporting</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fiscal Year 2023 Consolidated Annual Report on Unidentified...Feb 22, 2024 — Reporting from this period continues to depict a...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: aaro.mil  
    Title: UNCLASSIFIED FY23 Consolidated Annual Report on UAP Oct 25 2023 1236  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf](https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fiscal Year 2023 Consolidated Annual Report on...Most reports still reflect a bias towards restricted military airspace, a result of rep...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: jbsa.mil  
    Title: dod examining unidentified anomalous phenomena  
-   Link: [https://www.jbsa.mil/News/News/Article/3966080/dod-examining-unidentified-anomalous-phenomena/](https://www.jbsa.mil/News/News/Article/3966080/dod-examining-unidentified-anomalous-phenomena/)  
+   Link: <a href="https://www.jbsa.mil/News/News/Article/3966080/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.jbsa.mil/News/News/Article/3966080/dod-examining-unidentified-anomalous-phenomena/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>military assets and sensors. However, this density has been reduced somewhat by an...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROUAP Imagery... (AARO) consisting of ten minutes and thirty seconds of video footage from an infrared sensor aboard a U.S. military pl...</p></details>
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Imagery... (AARO) consisting of ten minutes and thirty seconds of video footage from an infrared sensor aboard a U.S. military pl...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The US Defense Department &amp; The UAP MissionAARO&#x27;s reliance on DoD-sourced reports leads to a collection bias near major [range](&amp;#123;&amp;#123; &#x27;range/&#x27; | relative_url &amp;#125;&amp;#125;) and test fa...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s effo...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: aaro.mil  
    Title: Congressional Press Products  
-   Link: [https://www.aaro.mil/Congressional-Press-Products/](https://www.aaro.mil/Congressional-Press-Products/)  
+   Link: <a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Congressional/Press Products11/14/2024, TRANSCRIPTS, Dr. Jon Kosloski, Director, AARO, Media Roundtable on the FY24 Consolidated Annual R...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: aaro.com  
    Title: Your Partner in Group Reporting | CPM software & more  
-   Link: [https://aaro.com/en/](https://aaro.com/en/)  
+   Link: <a href="https://aaro.com/en/" target="_blank" rel="noopener noreferrer nofollow">https://aaro.com/en/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Complete software, wide range of services, online support...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: [https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/](https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Defense Releases the Annual Report on...14 Nov 2024 — The remaining 272 reports featured UAP incidents that occurred betwe...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: war.gov  
    Title: the department of defense launches the all domain anomaly resolution office web  
-   Link: [https://www.war.gov/News/Releases/Release/Article/3513171/the-department-of-defense-launches-the-all-domain-anomaly-resolution-office-web/](https://www.war.gov/News/Releases/Release/Article/3513171/the-department-of-defense-launches-the-all-domain-anomaly-resolution-office-web/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3513171/the-department-of-defense-launches-the-all-domain-anomaly-resolution-office-web/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3513171/the-department-of-defense-launches-the-all-domain-anomaly-resolution-office-web/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Department of Defense Launches the All-domain...31 Aug 2023 — The All-domain Anomaly Resolution Office&#x27;s new website provides the pu...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: aaro.org  
-   Link: [https://aaro.org/](https://aaro.org/)  
+   Link: <a href="https://aaro.org/" target="_blank" rel="noopener noreferrer nofollow">https://aaro.org/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Association of Americans Resident Overseas: AAROThe Association of Americans Resident Overseas (AARO), founded in 1973 is a global, non-p...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: defensescoop.com  
-   Link: [https://defensescoop.com/2023/10/31/dod-invites-past-and-present-military-personnel-and-contractors-to-report-uap-activity-via-new-portal/](https://defensescoop.com/2023/10/31/dod-invites-past-and-present-military-personnel-and-contractors-to-report-uap-activity-via-new-portal/)  
+   Link: <a href="https://defensescoop.com/2023/10/31/dod-invites-past-and-present-military-personnel-and-contractors-to-report-uap-activity-via-new-portal/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2023/10/31/dod-invites-past-and-present-military-personnel-and-contractors-to-report-uap-activity-via-new-portal/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DOD invites past and present military personnel...31 Oct 2023 — Those reports will support the making of AARO&#x27;s in-the-works Historical...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: newspaceeconomy.ca  
    Title: the department of defenses 2024 report on unidentified anomalous phenomena  
-   Link: [https://newspaceeconomy.ca/2025/08/22/the-department-of-defenses-2024-report-on-unidentified-anomalous-phenomena/](https://newspaceeconomy.ca/2025/08/22/the-department-of-defenses-2024-report-on-unidentified-anomalous-phenomena/)  
+   Link: <a href="https://newspaceeconomy.ca/2025/08/22/the-department-of-defenses-2024-report-on-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/08/22/the-department-of-defenses-2024-report-on-unidentified-anomalous-phenomena/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>military sites and sensors worldwide, showing a bias in collection. Eighty-one reports came from U.S. military areas.Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: flyingmag.com  
    Title: nearly 300 uap reports in less than a year dod tells congress  
-   Link: [https://www.flyingmag.com/nearly-300-uap-reports-in-less-than-a-year-dod-tells-congress/](https://www.flyingmag.com/nearly-300-uap-reports-in-less-than-a-year-dod-tells-congress/)  
+   Link: <a href="https://www.flyingmag.com/nearly-300-uap-reports-in-less-than-a-year-dod-tells-congress/" target="_blank" rel="noopener noreferrer nofollow">https://www.flyingmag.com/nearly-300-uap-reports-in-less-than-a-year-dod-tells-congress/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nearly 300 UAP Reports in Less Than a Year, DOD Tells...Oct 19, 2023 — The incidents recorded during that time reflect “a strong but shi...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: dni.gov  
    Title: Unclassified 2022 Annual Report UAP  
-   Link: [https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf](https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf)  
+   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2022 Annual Report on Unidentified Aerial Phenomena25 Jun 2021 — This report provides an overview for policymakers of UAP1 that have been...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: flyingmag.com  
    Title: dod nearly 800 uap reports received in past year  
-   Link: [https://www.flyingmag.com/dod-nearly-800-uap-reports-received-in-past-year/](https://www.flyingmag.com/dod-nearly-800-uap-reports-received-in-past-year/)  
+   Link: <a href="https://www.flyingmag.com/dod-nearly-800-uap-reports-received-in-past-year/" target="_blank" rel="noopener noreferrer nofollow">https://www.flyingmag.com/dod-nearly-800-uap-reports-received-in-past-year/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DOD: Nearly 800 UAP Reports Received in Past Year14 Nov 2024 — The Department of Defense received nearly 800 reports of unidentified anom...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: scribd.com  
    Title: AARO Annual Report on UAP FY2024 Ft AsTechR  
-   Link: [https://www.scribd.com/document/825619489/AARO-Annual-Report-on-UAP-FY2024-Ft-AsTechR](https://www.scribd.com/document/825619489/AARO-Annual-Report-on-UAP-FY2024-Ft-AsTechR)  
+   Link: <a href="https://www.scribd.com/document/825619489/AARO-Annual-Report-on-UAP-FY2024-Ft-AsTechR" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/825619489/AARO-Annual-Report-on-UAP-FY2024-Ft-AsTechR</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO 2024 Annual UAP Report Summary | PDFGeographic Trends AARO notes a continued geographic collection bias based on locations near U.S...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: Wikipedia  
    Title: All domain Anomaly Resolution Office  
-   Link: [https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office](https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office)  
+   Link: <a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution OfficeThe All-domain Anomaly Resolution Office (AARO) is an office within the United States Office of th...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: Wikipedia  
    Title: All domain Anomaly Resolution Office  
-   Link: [https://fr.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office](https://fr.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office)  
+   Link: <a href="https://fr.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://fr.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution OfficeL&#x27;All-domain Anomaly Resolution Office (AARO, littéralement « Bureau de résolution des anomalies t...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: metabunk.org  
    Title: aaro 2024 annual report on uap.13762  
-   Link: [https://www.metabunk.org/threads/aaro-2024-annual-report-on-uap.13762/](https://www.metabunk.org/threads/aaro-2024-annual-report-on-uap.13762/)  
+   Link: <a href="https://www.metabunk.org/threads/aaro-2024-annual-report-on-uap.13762/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/aaro-2024-annual-report-on-uap.13762/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO 2024 Annual Report on UAP14 Nov 2024 — This report covers unidentified anomalous phenomena (UAP) reports from. May 1, 2023 to June 1...</p></details>
    Published: May 1, 2023  
 
 23. <a id="endnote-23"></a>
    Source: defensescoop.com  
-   Link: [https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/](https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/)  
+   Link: <a href="https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;The truly anomalous&#x27;: New AARO chief unveils Pentagon&#x27;s...Nov 14, 2024 — &#x27;The truly anomalous&#x27;: New AARO chief unveils Pentagon&#x27;s annua...</p></details>

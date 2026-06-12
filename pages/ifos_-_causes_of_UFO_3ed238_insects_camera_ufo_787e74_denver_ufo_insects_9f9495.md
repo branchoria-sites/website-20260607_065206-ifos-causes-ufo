@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_motion_blur_rods_96a808
 - ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_range_evidence_camer_8b4dfe
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - insects
 - denver-case
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - insects
 - denver-case
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: The Denver UFO video shows how a mystery can shrink when the same motion is tested as small insects close to the camera.
 hero_summary: The Denver UFO video shows how a mystery can shrink when the same motion is tested as small insects close to the camera.
 layout: default
 permalink: /denver-case/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /insects/
 nav_short_title: Denver Case
 title: The Denver UFOs That Looked Like Bugs
-title_full: The Denver UFOs That Looked Like Bugs | Insects
+title_full: The Denver UFOs That Looked Like Bugs
 display_title_short: Denver Case
 display_title: Denver Case
 heading_title: The Denver UFOs That Looked Like Bugs
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 07:57:09'
-parent_title: The Tiny Things Cameras Make Huge | IFOs
+parent_title: The Tiny Things Cameras Make Huge
 parent_permalink: /insects/
 parent_nav_short_title: Insects
 parent_heading_title: The Tiny Things Cameras Make Huge
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74
-  title: Insects | Ifos Causes Of
+  title: Insects | ifos causes of UFO 3 ed 238
   permalink: /insects/
   short_title: Insects
   heading_title: The Tiny Things Cameras Make Huge
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74
-  title: Insects | Ifos Causes Of
+  title: Insects | ifos causes of UFO 3 ed 238
   permalink: /insects/
   short_title: Insects
   heading_title: The Tiny Things Cameras Make Huge
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: What Evidence Rules Out Camera Bugs?
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74
-  title: Insects | Ifos Causes Of
+  title: Insects | ifos causes of UFO 3 ed 238
   permalink: /insects/
   short_title: Insects
   heading_title: The Tiny Things Cameras Make Huge
@@ -260,6 +259,7 @@ next_link:
   permalink: /false-speed/
   short_title: False Speed
   heading_title: Why Bugs Can Look Impossibly Fast
+date: '2026-06-12 00:37:37 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_denver_ufo_insects_9f9495-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_denver_ufo_insects_9f9495-Illustration-1.webp
@@ -268,18 +268,16 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_denv
 
 ## Introduction
 
-The 2012 “UFOs over Denver” story is one of the clearest examples of how a simple mistake about distance can transform ordinary objects into seemingly extraordinary aerial mysteries. A local television report showed fast-moving objects appearing above Denver that could not be seen with the naked eye but became visible when video footage was slowed down. Because the objects appeared to cross large sections of sky at remarkable speed, some viewers interpreted them as unknown craft. However, later analysis argued that the entire mystery depended on an unproven assumption: that the objects were far away. If they were actually tiny [insects]({{ 'insects/' | relative_url }}) passing close to the camera lens, their apparent speed, size and unusual motion ceased to be mysterious. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slate.com/blogs/bad_astronomy/2012/11/28/ufos_over_denver_are_insects.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slate.com">[Slate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slate.com</span><span class="citation-popover-title">UFOs over Denver are insects</span><span class="citation-popover-snippet">SlateUFOs over Denver are insectsNovember 28, 2012 — 28 Nov 2012 — As a skeptic and an astronomer, I&#x27;m sometimes asked what it would take...</span><span class="citation-popover-meta">Published: November 28, 2012</span></span></span>
-
+The 2012 “UFOs over Denver” story is one of the clearest examples of how a simple mistake about distance can transform ordinary objects into seemingly extraordinary aerial mysteries. A local television report showed fast-moving objects appearing above Denver that could not be seen with the naked eye but became visible when video footage was slowed down. Because the objects appeared to cross large sections of sky at remarkable speed, some viewers interpreted them as unknown craft. However, later analysis argued that the entire mystery depended on an unproven assumption: that the objects were far away. If they were actually tiny [insects]({{ 'insects/' | relative_url }}) passing close to the camera lens, their apparent speed, size and unusual motion ceased to be mysterious. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slate.com/blogs/bad_astronomy/2012/11/28/ufos_over_denver_are_insects.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slate.com">[Slate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slate.com</span><span class="citation-popover-title">UFOs over Denver are insects</span><span class="citation-popover-snippet">UFOs over Denver are insectsNovember 28, 2012 — 28 Nov 2012 — As a skeptic and an astronomer, I&#x27;m sometimes asked what it would take...</span><span class="citation-popover-meta">Published: November 28, 2012</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_denver_ufo_insects_9f9495-Illustration-1-dark.svg" | relative_url }}" alt="Denver Case illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_denver_ufo_insects_9f9495-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_denver_ufo_insects_9f9495-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The Denver case remains valuable not because it definitively identified every object in the footage, but because it demonstrates how difficult it is to infer distance from a single camera recording. In the broader study of UFO reports, it is a textbook example of how near-lens insects can create convincing but misleading impressions of extraordinary flight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slate.com/blogs/bad_astronomy/2012/11/28/ufos_over_denver_are_insects.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slate.com">[Slate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slate.com</span><span class="citation-popover-title">UFOs over Denver are insects</span><span class="citation-popover-snippet">SlateUFOs over Denver are insectsNovember 28, 2012 — 28 Nov 2012 — As a skeptic and an astronomer, I&#x27;m sometimes asked what it would take...</span><span class="citation-popover-meta">Published: November 28, 2012</span></span></span>
+The Denver case remains valuable not because it definitively identified every object in the footage, but because it demonstrates how difficult it is to infer distance from a single camera recording. In the broader study of UFO reports, it is a textbook example of how near-lens insects can create convincing but misleading impressions of extraordinary flight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slate.com/blogs/bad_astronomy/2012/11/28/ufos_over_denver_are_insects.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slate.com">[Slate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slate.com</span><span class="citation-popover-title">UFOs over Denver are insects</span><span class="citation-popover-snippet">UFOs over Denver are insectsNovember 28, 2012 — 28 Nov 2012 — As a skeptic and an astronomer, I&#x27;m sometimes asked what it would take...</span><span class="citation-popover-meta">Published: November 28, 2012</span></span></span>
 
 ## What made the footage seem extraordinary
 
 The original report aired by Denver television station KDVR after an anonymous witness supplied video showing small objects streaking through the sky. The station's own photographer later recorded similar footage from the same area, which gave the story added credibility. The objects appeared to dart rapidly, sometimes seeming to hover and then accelerate away. Because they were difficult or impossible to spot with the naked eye, the slowed footage appeared especially puzzling. <span class="citation-chip-wrap"><a class="citation-chip" href="https://openminds.tv/flying-object-over-denver-ufo-or-bug-update-881/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openminds.tv">[Openminds.tv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openminds.tv</span><span class="citation-popover-snippet">g what he claimed were UFOs over the city. He claimed these objects...</span></span></span>
 
 Several features encouraged a UFO interpretation:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -292,17 +290,13 @@ Several features encouraged a UFO interpretation:
 
 The visual impression was strengthened by the framing of the report. Investigators consulted aviation specialists and other commentators who stated that the objects did not resemble known aircraft. The resulting narrative encouraged viewers to compare the footage against distant aerial vehicles rather than against tiny objects close to the camera. <span class="citation-chip-wrap"><a class="citation-chip" href="https://openminds.tv/flying-object-over-denver-ufo-or-bug-update-881/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openminds.tv">[Openminds.tv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openminds.tv</span><span class="citation-popover-snippet">g what he claimed were UFOs over the city. He claimed these objects...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ikvrwOnay3g" title="Your brain doesn’t detect reality. It creates it. | Lisa Feldman Barrett" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ikvrwOnay3g" target="_blank" rel="noopener noreferrer">Your brain doesn’t detect reality. It creates it. | Lisa Feldman Barrett</a></p><p class="youtube-embed-meta">Channel: Big Think</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ikvrwOnay3g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ikvrwOnay3g">Open on YouTube</a></p></div></div></div>
-
 ## Why distance was the key missing fact
 
-The central problem was that the footage contained no reliable measurement of [range]({{ 'range/' | relative_url }}). A video frame records where something appears in the image, but not how far away it is. A fly a few centimetres from a lens can occupy the same apparent position in the frame as a large object hundreds of metres away. Without independent distance information, both interpretations can fit the image. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slate.com/blogs/bad_astronomy/2012/11/28/ufos_over_denver_are_insects.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slate.com">[Slate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slate.com</span><span class="citation-popover-title">UFOs over Denver are insects</span><span class="citation-popover-snippet">SlateUFOs over Denver are insectsNovember 28, 2012 — 28 Nov 2012 — As a skeptic and an astronomer, I&#x27;m sometimes asked what it would take...</span><span class="citation-popover-meta">Published: November 28, 2012</span></span></span>
+The central problem was that the footage contained no reliable measurement of [range]({{ 'range/' | relative_url }}). A video frame records where something appears in the image, but not how far away it is. A fly a few centimetres from a lens can occupy the same apparent position in the frame as a large object hundreds of metres away. Without independent distance information, both interpretations can fit the image. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slate.com/blogs/bad_astronomy/2012/11/28/ufos_over_denver_are_insects.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slate.com">[Slate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slate.com</span><span class="citation-popover-title">UFOs over Denver are insects</span><span class="citation-popover-snippet">UFOs over Denver are insectsNovember 28, 2012 — 28 Nov 2012 — As a skeptic and an astronomer, I&#x27;m sometimes asked what it would take...</span><span class="citation-popover-meta">Published: November 28, 2012</span></span></span>
 
-Astronomer and science writer Phil Plait analysed the Denver footage and argued that the objects behaved exactly as insects would if they were passing close to the camera. Their apparent speed became impressive only when viewers assumed they were distant. If the objects were nearby bugs, the rapid crossings of the frame required no extraordinary explanation at all. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slate.com/blogs/bad_astronomy/2012/11/28/ufos_over_denver_are_insects.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slate.com">[Slate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slate.com</span><span class="citation-popover-title">UFOs over Denver are insects</span><span class="citation-popover-snippet">SlateUFOs over Denver are insectsNovember 28, 2012 — 28 Nov 2012 — As a skeptic and an astronomer, I&#x27;m sometimes asked what it would take...</span><span class="citation-popover-meta">Published: November 28, 2012</span></span></span>
+Astronomer and science writer Phil Plait analysed the Denver footage and argued that the objects behaved exactly as insects would if they were passing close to the camera. Their apparent speed became impressive only when viewers assumed they were distant. If the objects were nearby bugs, the rapid crossings of the frame required no extraordinary explanation at all. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slate.com/blogs/bad_astronomy/2012/11/28/ufos_over_denver_are_insects.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slate.com">[Slate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slate.com</span><span class="citation-popover-title">UFOs over Denver are insects</span><span class="citation-popover-snippet">UFOs over Denver are insectsNovember 28, 2012 — 28 Nov 2012 — As a skeptic and an astronomer, I&#x27;m sometimes asked what it would take...</span><span class="citation-popover-meta">Published: November 28, 2012</span></span></span>
 
 This is the crucial distance mistake:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -313,35 +307,29 @@ This is the crucial distance mistake:
 
 </div>
 
-Remove the distance assumption and the calculated speed collapses. What seemed like a craft racing across the skyline may instead be a small insect moving normally through the foreground. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slate.com/blogs/bad_astronomy/2012/11/28/ufos_over_denver_are_insects.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slate.com">[Slate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slate.com</span><span class="citation-popover-title">UFOs over Denver are insects</span><span class="citation-popover-snippet">SlateUFOs over Denver are insectsNovember 28, 2012 — 28 Nov 2012 — As a skeptic and an astronomer, I&#x27;m sometimes asked what it would take...</span><span class="citation-popover-meta">Published: November 28, 2012</span></span></span>
+Remove the distance assumption and the calculated speed collapses. What seemed like a craft racing across the skyline may instead be a small insect moving normally through the foreground. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slate.com/blogs/bad_astronomy/2012/11/28/ufos_over_denver_are_insects.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slate.com">[Slate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slate.com</span><span class="citation-popover-title">UFOs over Denver are insects</span><span class="citation-popover-snippet">UFOs over Denver are insectsNovember 28, 2012 — 28 Nov 2012 — As a skeptic and an astronomer, I&#x27;m sometimes asked what it would take...</span><span class="citation-popover-meta">Published: November 28, 2012</span></span></span>
 
-The Denver footage offered no second camera angle, no [radar]({{ 'radar/' | relative_url }}) range data and no direct interaction with distant landmarks that could establish where the objects actually were. As a result, the “large and distant” interpretation never had stronger evidence than the “small and nearby” interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slate.com/blogs/bad_astronomy/2012/11/28/ufos_over_denver_are_insects.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slate.com">[Slate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slate.com</span><span class="citation-popover-title">UFOs over Denver are insects</span><span class="citation-popover-snippet">SlateUFOs over Denver are insectsNovember 28, 2012 — 28 Nov 2012 — As a skeptic and an astronomer, I&#x27;m sometimes asked what it would take...</span><span class="citation-popover-meta">Published: November 28, 2012</span></span></span>
-
+The Denver footage offered no second camera angle, no [radar]({{ 'radar/' | relative_url }}) range data and no direct interaction with distant landmarks that could establish where the objects actually were. As a result, the “large and distant” interpretation never had stronger evidence than the “small and nearby” interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slate.com/blogs/bad_astronomy/2012/11/28/ufos_over_denver_are_insects.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slate.com">[Slate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slate.com</span><span class="citation-popover-title">UFOs over Denver are insects</span><span class="citation-popover-snippet">UFOs over Denver are insectsNovember 28, 2012 — 28 Nov 2012 — As a skeptic and an astronomer, I&#x27;m sometimes asked what it would take...</span><span class="citation-popover-meta">Published: November 28, 2012</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_denver_ufo_insects_9f9495-Illustration-2-dark.svg" | relative_url }}" alt="Denver Case illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_denver_ufo_insects_9f9495-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_denver_ufo_insects_9f9495-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Why insects can look like blobs instead of insects
 
-One reason the insect explanation initially seemed unsatisfying is that the objects did not look much like flies or moths. However, cameras focused on distant scenery often render nearby insects as blurred shapes. Wings, legs and body details disappear. What remains is a soft blob, streak or elongated form. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slate.com/blogs/bad_astronomy/2012/11/28/ufos_over_denver_are_insects.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slate.com">[Slate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slate.com</span><span class="citation-popover-title">UFOs over Denver are insects</span><span class="citation-popover-snippet">SlateUFOs over Denver are insectsNovember 28, 2012 — 28 Nov 2012 — As a skeptic and an astronomer, I&#x27;m sometimes asked what it would take...</span><span class="citation-popover-meta">Published: November 28, 2012</span></span></span>
+One reason the insect explanation initially seemed unsatisfying is that the objects did not look much like flies or moths. However, cameras focused on distant scenery often render nearby insects as blurred shapes. Wings, legs and body details disappear. What remains is a soft blob, streak or elongated form. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slate.com/blogs/bad_astronomy/2012/11/28/ufos_over_denver_are_insects.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slate.com">[Slate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slate.com</span><span class="citation-popover-title">UFOs over Denver are insects</span><span class="citation-popover-snippet">UFOs over Denver are insectsNovember 28, 2012 — 28 Nov 2012 — As a skeptic and an astronomer, I&#x27;m sometimes asked what it would take...</span><span class="citation-popover-meta">Published: November 28, 2012</span></span></span>
 
 Motion blur can make the effect even stranger. During the camera's exposure, a fast-moving insect may be recorded across multiple positions. This can create shapes that resemble rods, capsules or glowing streaks rather than familiar animals. Similar misunderstandings have appeared in the long-running “[flying rods]({{ 'flying-rods/' | relative_url }})” phenomenon, where ordinary insects were repeatedly mistaken for unknown airborne entities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rod_%28optical_phenomenon%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rod (optical phenomenon</span><span class="citation-popover-snippet">Rod (optical phenomenon</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0PTMJ7dq5ho" title="The Venetians by M. E. Braddon 🏰🎭 | A Tale of Passion, Power &amp; Intrigue in Venice 🌹✨|Full audiobook" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0PTMJ7dq5ho" target="_blank" rel="noopener noreferrer">The Venetians by M. E. Braddon 🏰🎭 | A Tale of Passion, Power &amp; Intrigue in Venice 🌹✨|Full audiobook</a></p><p class="youtube-embed-meta">Channel: Storytime Haven</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0PTMJ7dq5ho" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0PTMJ7dq5ho">Open on YouTube</a></p></div></div></div>
-
 ## How the insect interpretation gained strength
 
-As debate over the footage continued, sceptical investigators and commentators pointed out that the reported behaviour matched near-camera insects remarkably well. The objects were visible only on video, moved with abrupt directional changes and appeared as unfocused blurs. Those are all characteristics commonly seen when insects pass close to a camera aimed at distant scenery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slate.com/blogs/bad_astronomy/2012/11/28/ufos_over_denver_are_insects.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slate.com">[Slate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slate.com</span><span class="citation-popover-title">UFOs over Denver are insects</span><span class="citation-popover-snippet">SlateUFOs over Denver are insectsNovember 28, 2012 — 28 Nov 2012 — As a skeptic and an astronomer, I&#x27;m sometimes asked what it would take...</span><span class="citation-popover-meta">Published: November 28, 2012</span></span></span>
+As debate over the footage continued, sceptical investigators and commentators pointed out that the reported behaviour matched near-camera insects remarkably well. The objects were visible only on video, moved with abrupt directional changes and appeared as unfocused blurs. Those are all characteristics commonly seen when insects pass close to a camera aimed at distant scenery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slate.com/blogs/bad_astronomy/2012/11/28/ufos_over_denver_are_insects.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slate.com">[Slate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slate.com</span><span class="citation-popover-title">UFOs over Denver are insects</span><span class="citation-popover-snippet">UFOs over Denver are insectsNovember 28, 2012 — 28 Nov 2012 — As a skeptic and an astronomer, I&#x27;m sometimes asked what it would take...</span><span class="citation-popover-meta">Published: November 28, 2012</span></span></span>
 
-The controversy also highlighted an important asymmetry in evidence. Supporters of the UFO interpretation often focused on what the objects were not: not planes, not helicopters and not obviously birds. Critics instead focused on what could be demonstrated from the footage itself. Since the video did not establish distance, they argued that no claims about extraordinary speed or size could be justified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slate.com/blogs/bad_astronomy/2012/11/28/ufos_over_denver_are_insects.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slate.com">[Slate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slate.com</span><span class="citation-popover-title">UFOs over Denver are insects</span><span class="citation-popover-snippet">SlateUFOs over Denver are insectsNovember 28, 2012 — 28 Nov 2012 — As a skeptic and an astronomer, I&#x27;m sometimes asked what it would take...</span><span class="citation-popover-meta">Published: November 28, 2012</span></span></span>
+The controversy also highlighted an important asymmetry in evidence. Supporters of the UFO interpretation often focused on what the objects were not: not planes, not helicopters and not obviously birds. Critics instead focused on what could be demonstrated from the footage itself. Since the video did not establish distance, they argued that no claims about extraordinary speed or size could be justified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slate.com/blogs/bad_astronomy/2012/11/28/ufos_over_denver_are_insects.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slate.com">[Slate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slate.com</span><span class="citation-popover-title">UFOs over Denver are insects</span><span class="citation-popover-snippet">UFOs over Denver are insectsNovember 28, 2012 — 28 Nov 2012 — As a skeptic and an astronomer, I&#x27;m sometimes asked what it would take...</span><span class="citation-popover-meta">Published: November 28, 2012</span></span></span>
 
-This shifted the discussion from identifying a specific species of insect to evaluating the logic of the inference. Even if the exact object could not be determined from the footage alone, the close-insect explanation required far fewer assumptions than the idea of unknown high-speed craft over Denver. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slate.com/blogs/bad_astronomy/2012/11/28/ufos_over_denver_are_insects.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slate.com">[Slate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slate.com</span><span class="citation-popover-title">UFOs over Denver are insects</span><span class="citation-popover-snippet">SlateUFOs over Denver are insectsNovember 28, 2012 — 28 Nov 2012 — As a skeptic and an astronomer, I&#x27;m sometimes asked what it would take...</span><span class="citation-popover-meta">Published: November 28, 2012</span></span></span>
+This shifted the discussion from identifying a specific species of insect to evaluating the logic of the inference. Even if the exact object could not be determined from the footage alone, the close-insect explanation required far fewer assumptions than the idea of unknown high-speed craft over Denver. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slate.com/blogs/bad_astronomy/2012/11/28/ufos_over_denver_are_insects.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slate.com">[Slate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slate.com</span><span class="citation-popover-title">UFOs over Denver are insects</span><span class="citation-popover-snippet">UFOs over Denver are insectsNovember 28, 2012 — 28 Nov 2012 — As a skeptic and an astronomer, I&#x27;m sometimes asked what it would take...</span><span class="citation-popover-meta">Published: November 28, 2012</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YsEUBtTipg8" title="5 16 2026 Uap Hover Muse Request Full Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YsEUBtTipg8" target="_blank" rel="noopener noreferrer">5 16 2026 Uap Hover Muse Request Full Video</a></p><p class="youtube-embed-meta">Channel: Michael Sky Watcher</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YsEUBtTipg8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YsEUBtTipg8">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_denver_ufo_insects_9f9495-Illustration-3-dark.svg" | relative_url }}" alt="Denver Case illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_denver_ufo_insects_9f9495-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_denver_ufo_insects_9f9495-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the case teaches about single-camera clips
 
-The lasting importance of the Denver case is methodological rather than sensational. It demonstrates how easily a single-camera recording can create misleading impressions when distance is unknown. The footage did not necessarily deceive because of poor image quality alone. The deeper issue was that viewers instinctively interpreted the objects as distant features in the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slate.com/blogs/bad_astronomy/2012/11/28/ufos_over_denver_are_insects.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slate.com">[Slate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slate.com</span><span class="citation-popover-title">UFOs over Denver are insects</span><span class="citation-popover-snippet">SlateUFOs over Denver are insectsNovember 28, 2012 — 28 Nov 2012 — As a skeptic and an astronomer, I&#x27;m sometimes asked what it would take...</span><span class="citation-popover-meta">Published: November 28, 2012</span></span></span>
+The lasting importance of the Denver case is methodological rather than sensational. It demonstrates how easily a single-camera recording can create misleading impressions when distance is unknown. The footage did not necessarily deceive because of poor image quality alone. The deeper issue was that viewers instinctively interpreted the objects as distant features in the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slate.com/blogs/bad_astronomy/2012/11/28/ufos_over_denver_are_insects.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slate.com">[Slate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slate.com</span><span class="citation-popover-title">UFOs over Denver are insects</span><span class="citation-popover-snippet">UFOs over Denver are insectsNovember 28, 2012 — 28 Nov 2012 — As a skeptic and an astronomer, I&#x27;m sometimes asked what it would take...</span><span class="citation-popover-meta">Published: November 28, 2012</span></span></span>
 
 For evaluating UFO videos, the case suggests several practical questions:
 
@@ -349,12 +337,9 @@ For evaluating UFO videos, the case suggests several practical questions:
 * Could a nearby object occupy the same position in the frame?
 * Is the camera focused on distant scenery rather than nearby space?
 * Is the apparent speed being inferred from an assumed range?
-* Is there any independent evidence, such as a second viewpoint, confirming altitude and distance? <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slate.com/blogs/bad_astronomy/2012/11/28/ufos_over_denver_are_insects.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slate.com">[Slate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slate.com</span><span class="citation-popover-title">UFOs over Denver are insects</span><span class="citation-popover-snippet">SlateUFOs over Denver are insectsNovember 28, 2012 — 28 Nov 2012 — As a skeptic and an astronomer, I&#x27;m sometimes asked what it would take...</span><span class="citation-popover-meta">Published: November 28, 2012</span></span></span>
+* Is there any independent evidence, such as a second viewpoint, confirming altitude and distance? <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slate.com/blogs/bad_astronomy/2012/11/28/ufos_over_denver_are_insects.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slate.com">[Slate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slate.com</span><span class="citation-popover-title">UFOs over Denver are insects</span><span class="citation-popover-snippet">UFOs over Denver are insectsNovember 28, 2012 — 28 Nov 2012 — As a skeptic and an astronomer, I&#x27;m sometimes asked what it would take...</span><span class="citation-popover-meta">Published: November 28, 2012</span></span></span>
 
-The Denver footage became famous because it looked extraordinary. It became instructive because a much simpler explanation exposed the hidden assumption behind that impression. Once the possibility of insects close to the lens was tested seriously, the mystery shrank from apparent high-speed UFOs over a city to a lesson in camera geometry and the dangers of guessing distance from a single video. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slate.com/blogs/bad_astronomy/2012/11/28/ufos_over_denver_are_insects.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slate.com">[Slate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slate.com</span><span class="citation-popover-title">UFOs over Denver are insects</span><span class="citation-popover-snippet">SlateUFOs over Denver are insectsNovember 28, 2012 — 28 Nov 2012 — As a skeptic and an astronomer, I&#x27;m sometimes asked what it would take...</span><span class="citation-popover-meta">Published: November 28, 2012</span></span></span>
-
-
-<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_denver_ufo_insects_9f9495-Illustration-3-dark.svg" | relative_url }}" alt="Denver Case illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_denver_ufo_insects_9f9495-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_denver_ufo_insects_9f9495-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+The Denver footage became famous because it looked extraordinary. It became instructive because a much simpler explanation exposed the hidden assumption behind that impression. Once the possibility of insects close to the lens was tested seriously, the mystery shrank from apparent high-speed UFOs over a city to a lesson in camera geometry and the dangers of guessing distance from a single video. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slate.com/blogs/bad_astronomy/2012/11/28/ufos_over_denver_are_insects.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slate.com">[Slate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slate.com</span><span class="citation-popover-title">UFOs over Denver are insects</span><span class="citation-popover-snippet">UFOs over Denver are insectsNovember 28, 2012 — 28 Nov 2012 — As a skeptic and an astronomer, I&#x27;m sometimes asked what it would take...</span><span class="citation-popover-meta">Published: November 28, 2012</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -473,15 +458,15 @@ The Denver footage became famous because it looked extraordinary. It became inst
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denver-case-the-denver-ufos-that-looked-like-bugs-ifos-causes-of-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="denver-case-the-denver-ufos-that-looked-like-bugs-ifos-causes-of-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vulcan bomber aviation wall art canvas print mounted framed ready to hang"><img src="{{ '/assets/images/marketplace-covers/df93f96186ab197a5b3a.jpg' | relative_url }}" alt="Listing image for Vulcan bomber aviation wall art canvas print mounted framed ready to hang" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-denver-ufos-that-looked-like-bugs-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="the-denver-ufos-that-looked-like-bugs-insect-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Insect Display Case Kids Observation Kit Outdoor Goldfish Container"><img src="https://i.ebayimg.com/images/g/K-YAAeSwlURpNRLZ/s-l225.jpg" alt="Listing image for Insect Display Case Kids Observation Kit Outdoor Goldfish Container" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denver-case-the-denver-ufos-that-looked-like-bugs-ifos-causes-of-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="denver-case-the-denver-ufos-that-looked-like-bugs-ifos-causes-of-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vulcan bomber aviation wall art canvas print mounted framed ready to hang</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-denver-ufos-that-looked-like-bugs-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="the-denver-ufos-that-looked-like-bugs-insect-display" target="_blank" rel="sponsored noopener noreferrer">Insect Display Case Kids Observation Kit Outdoor Goldfish Container</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denver-case-the-denver-ufos-that-looked-like-bugs-ifos-causes-of-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="denver-case-the-denver-ufos-that-looked-like-bugs-ifos-causes-of-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-denver-ufos-that-looked-like-bugs-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="the-denver-ufos-that-looked-like-bugs-insect-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for insect display">Search <span data-ebay-domain-label>eBay.co.uk</span>: insect display</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denver-case-the-denver-ufos-that-looked-like-bugs-ifos-causes-of-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="denver-case-the-denver-ufos-that-looked-like-bugs-ifos-causes-of-aviation-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-denver-ufos-that-looked-like-bugs-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="the-denver-ufos-that-looked-like-bugs-insect-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -489,15 +474,15 @@ The Denver footage became famous because it looked extraordinary. It became inst
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denver-case-the-denver-ufos-that-looked-like-bugs-ifos-causes-of-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="denver-case-the-denver-ufos-that-looked-like-bugs-ifos-causes-of-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Silver Airplane Aeroplane Canvas Wall Art Picture Print"><img src="{{ '/assets/images/marketplace-covers/bf14f3ae1c3e0d868966.jpg' | relative_url }}" alt="Listing image for Vintage Silver Airplane Aeroplane Canvas Wall Art Picture Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-denver-ufos-that-looked-like-bugs-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="the-denver-ufos-that-looked-like-bugs-insect-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3 x Man Faced Stink Bug Collection Deep Box Frame Display Case Insect Beetle"><img src="https://i.ebayimg.com/images/g/2moAAOSwR69huizq/s-l225.jpg" alt="Listing image for 3 x Man Faced Stink Bug Collection Deep Box Frame Display Case Insect Beetle" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denver-case-the-denver-ufos-that-looked-like-bugs-ifos-causes-of-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="denver-case-the-denver-ufos-that-looked-like-bugs-ifos-causes-of-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vintage Silver Airplane Aeroplane Canvas Wall Art Picture Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-denver-ufos-that-looked-like-bugs-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="the-denver-ufos-that-looked-like-bugs-insect-display" target="_blank" rel="sponsored noopener noreferrer">3 x Man Faced Stink Bug Collection Deep Box Frame Display Case Insect Beetle</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denver-case-the-denver-ufos-that-looked-like-bugs-ifos-causes-of-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="denver-case-the-denver-ufos-that-looked-like-bugs-ifos-causes-of-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-denver-ufos-that-looked-like-bugs-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="the-denver-ufos-that-looked-like-bugs-insect-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for insect display">Search <span data-ebay-domain-label>eBay.co.uk</span>: insect display</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denver-case-the-denver-ufos-that-looked-like-bugs-ifos-causes-of-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="denver-case-the-denver-ufos-that-looked-like-bugs-ifos-causes-of-aviation-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-denver-ufos-that-looked-like-bugs-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="the-denver-ufos-that-looked-like-bugs-insect-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -505,15 +490,15 @@ The Denver footage became famous because it looked extraordinary. It became inst
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denver-case-the-denver-ufos-that-looked-like-bugs-ifos-causes-of-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="denver-case-the-denver-ufos-that-looked-like-bugs-ifos-causes-of-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for White Cliffs Sunset Aviation Boat War Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/79d7c1c2f8b6a13b52b4.jpg' | relative_url }}" alt="Listing image for White Cliffs Sunset Aviation Boat War Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-denver-ufos-that-looked-like-bugs-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="the-denver-ufos-that-looked-like-bugs-insect-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Blue Carpenter Bee (Xylocopa caerulea) Insect Glass Bell Cloche Dome Display Jar"><img src="https://i.ebayimg.com/images/g/VWEAAOSwM8Ffjvyr/s-l225.jpg" alt="Listing image for Blue Carpenter Bee (Xylocopa caerulea) Insect Glass Bell Cloche Dome Display Jar" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denver-case-the-denver-ufos-that-looked-like-bugs-ifos-causes-of-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="denver-case-the-denver-ufos-that-looked-like-bugs-ifos-causes-of-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">White Cliffs Sunset Aviation Boat War Poster Print Framed Canvas Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-denver-ufos-that-looked-like-bugs-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="the-denver-ufos-that-looked-like-bugs-insect-display" target="_blank" rel="sponsored noopener noreferrer">Blue Carpenter Bee (Xylocopa caerulea) Insect Glass Bell Cloche Dome Display Jar</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denver-case-the-denver-ufos-that-looked-like-bugs-ifos-causes-of-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="denver-case-the-denver-ufos-that-looked-like-bugs-ifos-causes-of-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-denver-ufos-that-looked-like-bugs-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="the-denver-ufos-that-looked-like-bugs-insect-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for insect display">Search <span data-ebay-domain-label>eBay.co.uk</span>: insect display</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denver-case-the-denver-ufos-that-looked-like-bugs-ifos-causes-of-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="denver-case-the-denver-ufos-that-looked-like-bugs-ifos-causes-of-aviation-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-denver-ufos-that-looked-like-bugs-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="the-denver-ufos-that-looked-like-bugs-insect-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -521,15 +506,15 @@ The Denver footage became famous because it looked extraordinary. It became inst
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denver-case-the-denver-ufos-that-looked-like-bugs-ifos-causes-of-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="denver-case-the-denver-ufos-that-looked-like-bugs-ifos-causes-of-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire aviation poster wall art print un framed various size options available"><img src="{{ '/assets/images/marketplace-covers/ad50048f5e8927ed1a97.jpg' | relative_url }}" alt="Listing image for Spitfire aviation poster wall art print un framed various size options available" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-denver-ufos-that-looked-like-bugs-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="the-denver-ufos-that-looked-like-bugs-insect-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NEOREP ACRYLIC REPTILE INVERTEBRATE INSECT SPIDER DISPLAY BOX ENCLOSURE"><img src="https://i.ebayimg.com/images/g/rJsAAOSwKa5h9pBt/s-l225.jpg" alt="Listing image for NEOREP ACRYLIC REPTILE INVERTEBRATE INSECT SPIDER DISPLAY BOX ENCLOSURE" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denver-case-the-denver-ufos-that-looked-like-bugs-ifos-causes-of-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="denver-case-the-denver-ufos-that-looked-like-bugs-ifos-causes-of-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">Spitfire aviation poster wall art print un framed various size options available</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-denver-ufos-that-looked-like-bugs-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="the-denver-ufos-that-looked-like-bugs-insect-display" target="_blank" rel="sponsored noopener noreferrer">NEOREP ACRYLIC REPTILE INVERTEBRATE INSECT SPIDER DISPLAY BOX ENCLOSURE</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denver-case-the-denver-ufos-that-looked-like-bugs-ifos-causes-of-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="denver-case-the-denver-ufos-that-looked-like-bugs-ifos-causes-of-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-denver-ufos-that-looked-like-bugs-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="the-denver-ufos-that-looked-like-bugs-insect-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for insect display">Search <span data-ebay-domain-label>eBay.co.uk</span>: insect display</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denver-case-the-denver-ufos-that-looked-like-bugs-ifos-causes-of-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="denver-case-the-denver-ufos-that-looked-like-bugs-ifos-causes-of-aviation-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-denver-ufos-that-looked-like-bugs-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="the-denver-ufos-that-looked-like-bugs-insect-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -537,7 +522,7 @@ The Denver footage became famous because it looked extraordinary. It became inst
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denver-case-the-denver-ufos-that-looked-like-bugs-ifos-causes-of-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="denver-case-the-denver-ufos-that-looked-like-bugs-ifos-causes-of-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-denver-ufos-that-looked-like-bugs-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="the-denver-ufos-that-looked-like-bugs-insect-display" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -753,78 +738,78 @@ The Denver footage became famous because it looked extraordinary. It became inst
 1. <a id="endnote-1"></a>
    Source: slate.com  
    Title: UFOs over Denver are insects  
-   Link: [https://www.slate.com/blogs/bad_astronomy/2012/11/28/ufos_over_denver_are_insects.html](https://www.slate.com/blogs/bad_astronomy/2012/11/28/ufos_over_denver_are_insects.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SlateUFOs over Denver are insectsNovember 28, 2012 — 28 Nov 2012 — As a skeptic and an astronomer, I&#x27;m sometimes asked what it would take...</p></details>
+   Link: <a href="https://www.slate.com/blogs/bad_astronomy/2012/11/28/ufos_over_denver_are_insects.html" target="_blank" rel="noopener noreferrer nofollow">https://www.slate.com/blogs/bad_astronomy/2012/11/28/ufos_over_denver_are_insects.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs over Denver are insectsNovember 28, 2012 — 28 Nov 2012 — As a skeptic and an astronomer, I&#x27;m sometimes asked what it would take...</p></details>
    Published: November 28, 2012  
 
 2. <a id="endnote-2"></a>
    Source: openminds.tv  
-   Link: [https://openminds.tv/flying-object-over-denver-ufo-or-bug-update-881/](https://openminds.tv/flying-object-over-denver-ufo-or-bug-update-881/)  
+   Link: <a href="https://openminds.tv/flying-object-over-denver-ufo-or-bug-update-881/" target="_blank" rel="noopener noreferrer nofollow">https://openminds.tv/flying-object-over-denver-ufo-or-bug-update-881/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>g what he claimed were UFOs over the city. He claimed these objects...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Rod (optical phenomenon)  
-   Link: [https://en.wikipedia.org/wiki/Rod_%28optical_phenomenon%29](https://en.wikipedia.org/wiki/Rod_%28optical_phenomenon%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Rod_%28optical_phenomenon%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rod_%28optical_phenomenon%29</a>  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Bryan & Baxter  
-   Link: [https://en.wikipedia.org/wiki/Bryan_%26_Baxter](https://en.wikipedia.org/wiki/Bryan_%26_Baxter)  
+   Link: <a href="https://en.wikipedia.org/wiki/Bryan_%26_Baxter" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bryan_%26_Baxter</a>  
 
 ### Additional References
 
 5. <a id="endnote-5"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DW_FqmEDzbA/](https://www.instagram.com/p/DW_FqmEDzbA/)  
+   Link: <a href="https://www.instagram.com/p/DW_FqmEDzbA/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DW_FqmEDzbA/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>In recent times, the discourse surrounding UFOs...ELECTRONIC GHOSTS matches camera&#x27;s internal housing movement; star-shaped UFOs often j...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: archive.org  
    Title: Apr 13 1992, The Times, #64305, UK (en) djvu.txt  
-   Link: [https://archive.org/stream/NewsUK1992UKEnglish/Apr%2013%201992%2C%20The%20Times%2C%20%2364305%2C%20UK%20%28en%29_djvu.txt](https://archive.org/stream/NewsUK1992UKEnglish/Apr%2013%201992%2C%20The%20Times%2C%20%2364305%2C%20UK%20%28en%29_djvu.txt)  
+   Link: <a href="https://archive.org/stream/NewsUK1992UKEnglish/Apr%2013%201992%2C%20The%20Times%2C%20%2364305%2C%20UK%20%28en%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/NewsUK1992UKEnglish/Apr%2013%201992%2C%20The%20Times%2C%20%2364305%2C%20UK%20%28en%29_djvu.txt</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Full text of &quot;The Times, 1992, UK, English&quot;(Reuter) Denver chosen Rome: Denver. Colorado, is to be the venue of... Ufo (752) 630-730 Bl...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: wtkr.com  
    Title: news crew captures video of ufos over denver  
-   Link: [https://www.wtkr.com/2012/11/18/news-crew-captures-video-of-ufos-over-denver](https://www.wtkr.com/2012/11/18/news-crew-captures-video-of-ufos-over-denver)  
+   Link: <a href="https://www.wtkr.com/2012/11/18/news-crew-captures-video-of-ufos-over-denver" target="_blank" rel="noopener noreferrer nofollow">https://www.wtkr.com/2012/11/18/news-crew-captures-video-of-ufos-over-denver</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>18 Nov 2012 — A Map shows only homes in the area. So are they UFOs? A secret military test? Floating debris? Want to see more UFO reports...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Denver/comments/13da3k/this_is_the_denver_ufo_meeting_followup_post/](https://www.reddit.com/r/Denver/comments/13da3k/this_is_the_denver_ufo_meeting_followup_post/)  
+   Link: <a href="https://www.reddit.com/r/Denver/comments/13da3k/this_is_the_denver_ufo_meeting_followup_post/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Denver/comments/13da3k/this_is_the_denver_ufo_meeting_followup_post/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>en if it is just flies how do we know its not alien flies?Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TheDaveRyanShow/posts/daves-son-chase-is-a-tv-reporter-in-colorado-springs-and-he-just-did-a-story-wit/10157346036634154/](https://www.facebook.com/TheDaveRyanShow/posts/daves-son-chase-is-a-tv-reporter-in-colorado-springs-and-he-just-did-a-story-wit/10157346036634154/)  
+   Link: <a href="https://www.facebook.com/TheDaveRyanShow/posts/daves-son-chase-is-a-tv-reporter-in-colorado-springs-and-he-just-did-a-story-wit/10157346036634154/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheDaveRyanShow/posts/daves-son-chase-is-a-tv-reporter-in-colorado-springs-and-he-just-did-a-story-wit/10157346036634154/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>FO Caught on Camera. 19w · Public · Alien In Colorado...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: foxnews.com  
    Title: denver ufo likely has earthly explanation  
-   Link: [https://www.foxnews.com/science/denver-ufo-likely-has-earthly-explanation](https://www.foxnews.com/science/denver-ufo-likely-has-earthly-explanation)  
+   Link: <a href="https://www.foxnews.com/science/denver-ufo-likely-has-earthly-explanation" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/science/denver-ufo-likely-has-earthly-explanation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Denver &#x27;UFO&#x27; likely has earthly explanation14 Nov 2012 — Earlier this year that case was widely claimed by bestselling UFO author Leslie...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/348704483442978/posts/1030884588558294/](https://www.facebook.com/groups/348704483442978/posts/1030884588558294/)  
+   Link: <a href="https://www.facebook.com/groups/348704483442978/posts/1030884588558294/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/348704483442978/posts/1030884588558294/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ct WAY up. Look at the app NOTHING. What do you think that is?...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: westword.com  
    Title: videos ufos over denver as captured by a true believer 5893406  
-   Link: [https://www.westword.com/news/videos-ufos-over-denver-as-captured-by-a-true-believer-5893406/](https://www.westword.com/news/videos-ufos-over-denver-as-captured-by-a-true-believer-5893406/)  
+   Link: <a href="https://www.westword.com/news/videos-ufos-over-denver-as-captured-by-a-true-believer-5893406/" target="_blank" rel="noopener noreferrer nofollow">https://www.westword.com/news/videos-ufos-over-denver-as-captured-by-a-true-believer-5893406/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;UFO hunting and sighting are always an awe-inspiring experience. A few sightings have...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: worldradiohistory.com  
-   Link: [https://www.worldradiohistory.com/Archive-All-Music/Archive-RandR/1980s/1983/RR-1983-10-21.pdf](https://www.worldradiohistory.com/Archive-All-Music/Archive-RandR/1980s/1983/RR-1983-10-21.pdf)  
+   Link: <a href="https://www.worldradiohistory.com/Archive-All-Music/Archive-RandR/1980s/1983/RR-1983-10-21.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.worldradiohistory.com/Archive-All-Music/Archive-RandR/1980s/1983/RR-1983-10-21.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Patrick To FCC21 Oct 1983 —... Denver&#x27;s growth and develop- ment. Its evolution and matura... Alien (Atlantic). 42 + 29+ 13+. 0- 3-. [...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: susanrennison.co.uk  
    Title: Best of the Blog  
-   Link: [https://www.susanrennison.co.uk/Best_oftheblog_UAP_traffic.php](https://www.susanrennison.co.uk/Best_oftheblog_UAP_traffic.php)  
+   Link: <a href="https://www.susanrennison.co.uk/Best_oftheblog_UAP_traffic.php" target="_blank" rel="noopener noreferrer nofollow">https://www.susanrennison.co.uk/Best_oftheblog_UAP_traffic.php</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Orbs, UAP &amp; UFO TrafficIt seems apparent to me that ufologists do not want to acknowledge that a huge percentage of reported UFOs are in...</p></details>

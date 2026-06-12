@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e_original_photo_files_5c5c93
 - ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e_weather_record_check_4a5789
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - first-checks
 - sky-maps
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - first-checks
 - sky-maps
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: A fixed bright light or silent moving point often becomes less mysterious when the sky map is rebuilt for the exact time and place.
 hero_summary: A fixed bright light or silent moving point often becomes less mysterious when the sky map is rebuilt for the exact time and place.
 layout: default
 permalink: /sky-maps/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /first-checks/
 nav_short_title: Sky maps
 title: Was it already in the sky?
-title_full: Was it already in the sky? | First Checks
+title_full: Was it already in the sky?
 display_title_short: Sky maps
 display_title: Sky maps
 heading_title: Was it already in the sky?
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What to Check Before Calling It a UFO | IFOs
+parent_title: What to Check Before Calling It a UFO
 parent_permalink: /first-checks/
 parent_nav_short_title: First Checks
 parent_heading_title: What to Check Before Calling It a UFO
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e
-  title: First Checks | Ifos Causes Of
+  title: First Checks | ifos causes of UFO 3 ed 238
   permalink: /first-checks/
   short_title: First Checks
   heading_title: What to Check Before Calling It a UFO
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e
-  title: First Checks | Ifos Causes Of
+  title: First Checks | ifos causes of UFO 3 ed 238
   permalink: /first-checks/
   short_title: First Checks
   heading_title: What to Check Before Calling It a UFO
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Did the weather make it look strange?
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e
-  title: First Checks | Ifos Causes Of
+  title: First Checks | ifos causes of UFO 3 ed 238
   permalink: /first-checks/
   short_title: First Checks
   heading_title: What to Check Before Calling It a UFO
@@ -265,7 +265,7 @@ next_link:
   permalink: /weather-checks/
   short_title: Weather checks
   heading_title: Did the weather make it look strange?
-date: '2026-06-07 05:46:24 '
+date: '2026-06-12 00:24:22 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e_sky_object_checks_0aecd8-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e_sky_object_checks_0aecd8-Illustration-1.webp
@@ -276,14 +276,12 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e_sky_ob
 
 Many UFO reports begin with a genuine observation of something unusual in the sky. Before treating a sighting as anomalous, one of the most productive checks is to reconstruct exactly what was already overhead at the time. Bright planets, prominent stars, [satellites]({{ 'satellites/' | relative_url }}) and space stations can appear surprisingly strange when viewed without context. A fixed light may seem to hover intelligently; a satellite may look like a silent craft; a newly launched chain of satellites can resemble a formation of unknown objects. In many cases, a precise sky reconstruction transforms a mystery into an identifiable astronomical or orbital object without questioning the witness's sincerity. NASA's educational material on UFO identification specifically notes that [bright objects]({{ 'bright-objects/' | relative_url }}) such as Venus frequently generate reports from observers who are unfamiliar with what is visible in the sky at a particular time and place. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nightsky.jpl.nasa.gov">[Night Sky Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nightsky.jpl.nasa.gov</span><span class="citation-popover-snippet">Night Sky NetworkIdentifying UFOs and UAPs1 Dec 2013 — If you&#x27;re an amateur astronomer, you are probably asked about aliens and UFOs quit...</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e_sky_object_checks_0aecd8-Illustration-1-dark.svg" | relative_url }}" alt="Sky maps illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e_sky_object_checks_0aecd8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e_sky_object_checks_0aecd8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Reconstructing the sky for the witness location
 
 The key question is simple: what celestial and orbital objects were visible from that exact location at that exact moment?
 
 A useful reconstruction starts with four pieces of information:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -310,7 +308,6 @@ Because they orbit above the atmosphere, satellites reflect sunlight even when t
 
 A classic satellite sighting has several features:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * A steady white light. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/how-to-track-the-international-space-station" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">how to track the international space station</span><span class="citation-popover-snippet">Track the ISS — How and where to see itJun 27, 2024 — We can see the ISS from Earth because the colossal structure reflects sunlight, app...</span></span></span>
@@ -321,15 +318,13 @@ A classic satellite sighting has several features:
 
 </div>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GhLXCJ1Gyyc" title="Starlink satellites, the string of lights in the night sky." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GhLXCJ1Gyyc" target="_blank" rel="noopener noreferrer">Starlink satellites, the string of lights in the night sky.</a></p><p class="youtube-embed-meta">Channel: Brad Panovich (wxbrad) &middot; Views: 251.7K &middot; Uploaded: September 2023 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GhLXCJ1Gyyc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GhLXCJ1Gyyc">Open on YouTube</a></p></div></div></div>
 
 ### The ISS as a frequent UFO candidate
 
-The International Space Station is among the brightest objects regularly visible in the night sky. NASA notes that it is visible because it reflects sunlight and can often be seen several times per week depending on location and orbital geometry. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/missions/station/spot-the-station-frequently-asked-questions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">Spot the Station Frequently Asked Questions</span><span class="citation-popover-snippet">NASASpot the Station Frequently Asked QuestionsMay 6, 2025 — Viewing opportunities can range from one a month to several a week as the li...</span><span class="citation-popover-meta">Published: May 6, 2025</span></span></span>
+The International Space Station is among the brightest objects regularly visible in the night sky. NASA notes that it is visible because it reflects sunlight and can often be seen several times per week depending on location and orbital geometry. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/missions/station/spot-the-station-frequently-asked-questions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">Spot the Station Frequently Asked Questions</span><span class="citation-popover-snippet">Spot the Station Frequently Asked QuestionsMay 6, 2025 — Viewing opportunities can range from one a month to several a week as the li...</span><span class="citation-popover-meta">Published: May 6, 2025</span></span></span>
 
 Observers commonly describe the ISS as:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -342,19 +337,15 @@ Observers commonly describe the ISS as:
 
 The appearance can be striking enough that first-time observers sometimes assume they are watching an unusual aircraft or unidentified object. The ISS typically crosses the visible sky within a few minutes and usually does not display the flashing lights associated with aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.planetary.org/articles/how-to-spot-the-iss" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: planetary.org">[The Planetary Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">planetary.org</span><span class="citation-popover-title">how to spot the iss</span><span class="citation-popover-snippet">The Planetary SocietyHow to spot the ISSJun 14, 2024 — The ISS should appear as a bright and solid light gliding across the sky. It shoul...</span></span></span>
 
-Another source of confusion is the sudden disappearance of a satellite. As it enters Earth's shadow, a previously bright object can fade rapidly or vanish altogether. To an unprepared observer, this can appear as if the object deliberately switched off or accelerated away. Astronomers and [satellite trackers]({{ 'tracker-checks/' | relative_url }}) regularly note this behaviour during ISS observations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Astronomy/comments/x9vgii/disappearing_light_near_venus/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">disappearing light near venus</span><span class="citation-popover-snippet">RedditDisappearing light near Venus: r/AstronomySeptember 9, 2022 — The ISS moves very fast high in the sky and it moves slowly on the h...</span><span class="citation-popover-meta">Published: September 9, 2022</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/P-ymwG9mDhE" title="Jupiter and Venus &#x27;could be mistaken for UFOs&#x27;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=P-ymwG9mDhE" target="_blank" rel="noopener noreferrer">Jupiter and Venus &#x27;could be mistaken for UFOs&#x27;</a></p><p class="youtube-embed-meta">Channel: The Telegraph &middot; Views: 22.9K &middot; Uploaded: March 2012 &middot; Length: 1 minute 57 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=P-ymwG9mDhE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=P-ymwG9mDhE">Open on YouTube</a></p></div></div></div>
+Another source of confusion is the sudden disappearance of a satellite. As it enters Earth's shadow, a previously bright object can fade rapidly or vanish altogether. To an unprepared observer, this can appear as if the object deliberately switched off or accelerated away. Astronomers and satellite trackers regularly note this behaviour during ISS observations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Astronomy/comments/x9vgii/disappearing_light_near_venus/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">disappearing light near venus</span><span class="citation-popover-snippet">Disappearing light near Venus: r/AstronomySeptember 9, 2022 — The ISS moves very fast high in the sky and it moves slowly on the h...</span><span class="citation-popover-meta">Published: September 9, 2022</span></span></span>
 
 ### Starlink trains and formation sightings
 
-Since 2019, one of the most common explanations for reports of multiple lights moving together has been newly launched Starlink satellites.
+Since 2019, one of the most common explanations for reports of multiple lights moving together has been newly launched [Starlink]({{ 'starlink/' | relative_url }}) satellites.
 
-Shortly after launch, Starlink satellites travel in a closely spaced line that appears as a string of evenly spaced lights crossing the sky. Witnesses frequently describe them as a fleet, convoy or formation of unknown craft. Space observers and astronomy publications routinely note that Starlink trains are often mistaken for UFOs because of their unusual appearance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/14884-jupiter-venus-mistaken-ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">14884 jupiter venus mistaken ufos</span><span class="citation-popover-snippet">SpaceJupiter and Venus &#x27;Could Be Mistaken for UFOs&#x27;13 Mar 2012 — Because Venus orbits the sun inside our own orbit, from our perspective...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://orbitalradar.com/satellite-pass-predictions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orbitalradar.com">[Orbital Radar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orbitalradar.com</span><span class="citation-popover-snippet">Satellite Pass Predictions — ISS &amp; Starlink Visible Tonight...To predict a visible pass, the algorithm must satisfy three conditions sim...</span></span></span>
+Shortly after launch, Starlink satellites travel in a closely spaced line that appears as a string of evenly spaced lights crossing the sky. Witnesses frequently describe them as a fleet, convoy or formation of unknown craft. Space observers and astronomy publications routinely note that Starlink trains are often mistaken for UFOs because of their unusual appearance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/14884-jupiter-venus-mistaken-ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">14884 jupiter venus mistaken ufos</span><span class="citation-popover-snippet">Jupiter and Venus &#x27;Could Be Mistaken for UFOs&#x27;13 Mar 2012 — Because Venus orbits the sun inside our own orbit, from our perspective...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://orbitalradar.com/satellite-pass-predictions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orbitalradar.com">[Orbital Radar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orbitalradar.com</span><span class="citation-popover-snippet">Satellite Pass Predictions — ISS &amp; Starlink Visible Tonight...To predict a visible pass, the algorithm must satisfy three conditions sim...</span></span></span>
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[A typical Starlink train:]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites initially travel in a tight, bright line resembling a &quot;train,&quot; captivating skywatchers and often being mistaken for UFOs...</span></span></span>
-
+A typical Starlink train: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites initially travel in a tight, bright line resembling a &quot;train,&quot; captivating skywatchers and often being mistaken for UFOs...</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -367,7 +358,6 @@ Shortly after launch, Starlink satellites travel in a closely spaced line that a
 </div>
 
 The distinctive "string of pearls" appearance is unlike most natural celestial phenomena, which explains why many first-time observers regard it as extraordinary.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e_sky_object_checks_0aecd8-Illustration-2-dark.svg" | relative_url }}" alt="Sky maps illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e_sky_object_checks_0aecd8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e_sky_object_checks_0aecd8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Practical satellite verification
@@ -382,7 +372,6 @@ Among astronomical objects, Venus has an especially long history of generating U
 
 Several characteristics make Venus deceptively unusual:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Exceptional brightness.
@@ -394,7 +383,6 @@ Several characteristics make Venus deceptively unusual:
 </div>
 
 To a witness expecting every bright object to move like an aircraft, Venus can appear to hover unnaturally. Because it remains visible while clouds move behind it, some observers conclude that it is maintaining a deliberate position in the sky. In reality, it is simply so distant that its apparent motion is extremely slow over short periods. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites initially travel in a tight, bright line resembling a &quot;train,&quot; captivating skywatchers and often being mistaken for UFOs...</span></span></span>
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e_sky_object_checks_0aecd8-Illustration-3-dark.svg" | relative_url }}" alt="Sky maps illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e_sky_object_checks_0aecd8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e_sky_object_checks_0aecd8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Jupiter and other bright objects
@@ -409,7 +397,6 @@ One reason planets generate convincing reports is that the human visual system s
 
 Common effects include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **Autokinesis:** a stationary light appears to drift or move when stared at for long periods.
@@ -421,8 +408,7 @@ Common effects include:
 
 These effects can produce sincere reports of zig-zagging or [hovering lights]({{ 'hovering-lights/' | relative_url }}) even when the object itself is stationary.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KnbowxrxFx8" title="How To Spot the International Space Station | Star Gazers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KnbowxrxFx8" target="_blank" rel="noopener noreferrer">How To Spot the International Space Station | Star Gazers</a></p><p class="youtube-embed-meta">Channel: South Florida PBS</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KnbowxrxFx8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KnbowxrxFx8">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/P-ymwG9mDhE" title="Jupiter and Venus &#x27;could be mistaken for UFOs&#x27;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=P-ymwG9mDhE" target="_blank" rel="noopener noreferrer">Jupiter and Venus &#x27;could be mistaken for UFOs&#x27;</a></p><p class="youtube-embed-meta">Channel: The Telegraph &middot; Views: 22.9K &middot; Uploaded: March 2012 &middot; Length: 1 minute 57 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=P-ymwG9mDhE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=P-ymwG9mDhE">Open on YouTube</a></p></div></div></div>
 
 ## A quick decision path before calling a sighting anomalous
 
@@ -556,15 +542,15 @@ Only after these possibilities have been checked does it become meaningful to as
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-maps-was-it-already-in-the-sky-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="sky-maps-was-it-already-in-the-sky-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51"><img src="{{ '/assets/images/marketplace-covers/43c4ee420e151dd41424.jpg' | relative_url }}" alt="Listing image for Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-already-in-the-sky-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="was-it-already-in-the-sky-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A2 star chart poster"><img src="https://i.ebayimg.com/images/g/PVwAAOSwq-Fj7osS/s-l225.jpg" alt="Listing image for A2 star chart poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-maps-was-it-already-in-the-sky-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="sky-maps-was-it-already-in-the-sky-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-already-in-the-sky-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="was-it-already-in-the-sky-star-chart" target="_blank" rel="sponsored noopener noreferrer">A2 star chart poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-maps-was-it-already-in-the-sky-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="sky-maps-was-it-already-in-the-sky-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-already-in-the-sky-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="was-it-already-in-the-sky-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-maps-was-it-already-in-the-sky-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="sky-maps-was-it-already-in-the-sky-ifos-causes-of-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-already-in-the-sky-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="was-it-already-in-the-sky-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -572,15 +558,15 @@ Only after these possibilities have been checked does it become meaningful to as
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-maps-was-it-already-in-the-sky-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="sky-maps-was-it-already-in-the-sky-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee"><img src="{{ '/assets/images/marketplace-covers/c0a6267ae6e22890f212.jpg' | relative_url }}" alt="Listing image for Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-already-in-the-sky-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="was-it-already-in-the-sky-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pack Of 6 Jungle Childrens Reward Behaviour Charts With Star Stickers &amp; Pen CHAR"><img src="https://i.ebayimg.com/images/g/9UUAAOSw-A1dJGpP/s-l225.jpg" alt="Listing image for Pack Of 6 Jungle Childrens Reward Behaviour Charts With Star Stickers &amp; Pen CHAR" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-maps-was-it-already-in-the-sky-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="sky-maps-was-it-already-in-the-sky-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-already-in-the-sky-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="was-it-already-in-the-sky-star-chart" target="_blank" rel="sponsored noopener noreferrer">Pack Of 6 Jungle Childrens Reward Behaviour Charts With Star Stickers &amp; Pen CHAR</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-maps-was-it-already-in-the-sky-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="sky-maps-was-it-already-in-the-sky-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-already-in-the-sky-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="was-it-already-in-the-sky-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-maps-was-it-already-in-the-sky-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="sky-maps-was-it-already-in-the-sky-ifos-causes-of-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-already-in-the-sky-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="was-it-already-in-the-sky-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -588,15 +574,15 @@ Only after these possibilities have been checked does it become meaningful to as
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-maps-was-it-already-in-the-sky-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="sky-maps-was-it-already-in-the-sky-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 90s Looney Tunes UFO Alien All Over Print Double Sided T Shirt Mens L"><img src="{{ '/assets/images/marketplace-covers/a7247ae98e9ebed04955.jpg' | relative_url }}" alt="Listing image for Vintage 90s Looney Tunes UFO Alien All Over Print Double Sided T Shirt Mens L" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-already-in-the-sky-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="was-it-already-in-the-sky-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3-in-1 Reward Chart, Reusable Star Chart for Children&#x27;s Behaviour or Kids Chores"><img src="https://i.ebayimg.com/images/g/Ao0AAOSwLv9hESlh/s-l225.jpg" alt="Listing image for 3-in-1 Reward Chart, Reusable Star Chart for Children&#x27;s Behaviour or Kids Chores" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-maps-was-it-already-in-the-sky-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="sky-maps-was-it-already-in-the-sky-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Vintage 90s Looney Tunes UFO Alien All Over Print Double Sided T Shirt Mens L</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-already-in-the-sky-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="was-it-already-in-the-sky-star-chart" target="_blank" rel="sponsored noopener noreferrer">3-in-1 Reward Chart, Reusable Star Chart for Children&#x27;s Behaviour or Kids Chores</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-maps-was-it-already-in-the-sky-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="sky-maps-was-it-already-in-the-sky-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-already-in-the-sky-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="was-it-already-in-the-sky-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-maps-was-it-already-in-the-sky-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="sky-maps-was-it-already-in-the-sky-ifos-causes-of-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-already-in-the-sky-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="was-it-already-in-the-sky-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -604,15 +590,15 @@ Only after these possibilities have been checked does it become meaningful to as
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-maps-was-it-already-in-the-sky-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="sky-maps-was-it-already-in-the-sky-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN UFO AREA 51 GROOM DRY LAKE TEST FACILITY T-SHIRT"><img src="{{ '/assets/images/marketplace-covers/5eb844375d885ea9eb20.jpg' | relative_url }}" alt="Listing image for ALIEN UFO AREA 51 GROOM DRY LAKE TEST FACILITY T-SHIRT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-already-in-the-sky-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="was-it-already-in-the-sky-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3-in-1 Reward Chart, Reusable Star Chart for Children&#x27;s Behaviour or Kids Chores"><img src="https://i.ebayimg.com/images/g/AL8AAOSw6y1hEU-I/s-l225.jpg" alt="Listing image for 3-in-1 Reward Chart, Reusable Star Chart for Children&#x27;s Behaviour or Kids Chores" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-maps-was-it-already-in-the-sky-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="sky-maps-was-it-already-in-the-sky-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">ALIEN UFO AREA 51 GROOM DRY LAKE TEST FACILITY T-SHIRT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-already-in-the-sky-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="was-it-already-in-the-sky-star-chart" target="_blank" rel="sponsored noopener noreferrer">3-in-1 Reward Chart, Reusable Star Chart for Children&#x27;s Behaviour or Kids Chores</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-maps-was-it-already-in-the-sky-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="sky-maps-was-it-already-in-the-sky-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-already-in-the-sky-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="was-it-already-in-the-sky-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-maps-was-it-already-in-the-sky-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="sky-maps-was-it-already-in-the-sky-ifos-causes-of-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-already-in-the-sky-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="was-it-already-in-the-sky-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -620,7 +606,7 @@ Only after these possibilities have been checked does it become meaningful to as
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-maps-was-it-already-in-the-sky-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="sky-maps-was-it-already-in-the-sky-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-it-already-in-the-sky-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="was-it-already-in-the-sky-star-chart" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -835,196 +821,196 @@ Only after these possibilities have been checked does it become meaningful to as
 
 1. <a id="endnote-1"></a>
    Source: nightsky.jpl.nasa.gov  
-   Link: [https://nightsky.jpl.nasa.gov/news/39/](https://nightsky.jpl.nasa.gov/news/39/)  
+   Link: <a href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow">https://nightsky.jpl.nasa.gov/news/39/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Night Sky NetworkIdentifying UFOs and UAPs1 Dec 2013 — If you&#x27;re an amateur astronomer, you are probably asked about aliens and UFOs quit...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: space.com  
    Title: 14884 jupiter venus mistaken ufos  
-   Link: [https://www.space.com/14884-jupiter-venus-mistaken-ufos.html](https://www.space.com/14884-jupiter-venus-mistaken-ufos.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceJupiter and Venus &#x27;Could Be Mistaken for UFOs&#x27;13 Mar 2012 — Because Venus orbits the sun inside our own orbit, from our perspective...</p></details>
+   Link: <a href="https://www.space.com/14884-jupiter-venus-mistaken-ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/14884-jupiter-venus-mistaken-ufos.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Jupiter and Venus &#x27;Could Be Mistaken for UFOs&#x27;13 Mar 2012 — Because Venus orbits the sun inside our own orbit, from our perspective...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nasa.gov  
    Title: Spot the Station Frequently Asked Questions  
-   Link: [https://www.nasa.gov/missions/station/spot-the-station-frequently-asked-questions/](https://www.nasa.gov/missions/station/spot-the-station-frequently-asked-questions/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASASpot the Station Frequently Asked QuestionsMay 6, 2025 — Viewing opportunities can [range](&amp;#123;&amp;#123; &#x27;range/&#x27; | relative_url &amp;#125;&amp;#125;) from one a month to several a week as the li...</p></details>
+   Link: <a href="https://www.nasa.gov/missions/station/spot-the-station-frequently-asked-questions/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/missions/station/spot-the-station-frequently-asked-questions/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spot the Station Frequently Asked QuestionsMay 6, 2025 — Viewing opportunities can [range](&amp;#123;&amp;#123; &#x27;range/&#x27; | relative_url &amp;#125;&amp;#125;) from one a month to several a week as the li...</p></details>
    Published: May 6, 2025  
 
 4. <a id="endnote-4"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/spot-the-station/](https://www.nasa.gov/spot-the-station/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASASpot The StationThis long-duration photograph highlights the city lights of Mexico&#x27;s Yucatan peninsula, Earth&#x27;s atmospheric glow, and...</p></details>
+   Link: <a href="https://www.nasa.gov/spot-the-station/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/spot-the-station/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spot The StationThis long-duration photograph highlights the city lights of Mexico&#x27;s Yucatan peninsula, Earth&#x27;s atmospheric glow, and...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: planetary.org  
    Title: how to spot the iss  
-   Link: [https://www.planetary.org/articles/how-to-spot-the-iss](https://www.planetary.org/articles/how-to-spot-the-iss)  
+   Link: <a href="https://www.planetary.org/articles/how-to-spot-the-iss" target="_blank" rel="noopener noreferrer nofollow">https://www.planetary.org/articles/how-to-spot-the-iss</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Planetary SocietyHow to spot the ISSJun 14, 2024 — The ISS should appear as a bright and solid light gliding across the sky. It shoul...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: space.com  
    Title: how to track the international space station  
-   Link: [https://www.space.com/how-to-track-the-international-space-station](https://www.space.com/how-to-track-the-international-space-station)  
+   Link: <a href="https://www.space.com/how-to-track-the-international-space-station" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/how-to-track-the-international-space-station</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Track the ISS — How and where to see itJun 27, 2024 — We can see the ISS from Earth because the colossal structure reflects sunlight, app...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
    Title: disappearing light near venus  
-   Link: [https://www.reddit.com/r/Astronomy/comments/x9vgii/disappearing_light_near_venus/](https://www.reddit.com/r/Astronomy/comments/x9vgii/disappearing_light_near_venus/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditDisappearing light near Venus: r/AstronomySeptember 9, 2022 — The ISS moves very fast high in the sky and it moves slowly on the h...</p></details>
+   Link: <a href="https://www.reddit.com/r/Astronomy/comments/x9vgii/disappearing_light_near_venus/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Astronomy/comments/x9vgii/disappearing_light_near_venus/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Disappearing light near Venus: r/AstronomySeptember 9, 2022 — The ISS moves very fast high in the sky and it moves slowly on the h...</p></details>
    Published: September 9, 2022  
 
 8. <a id="endnote-8"></a>
    Source: space.com  
    Title: Starlink satellite train: how to see and track it in the night sky  
-   Link: [https://www.space.com/starlink-satellite-train-how-to-see-and-track-it](https://www.space.com/starlink-satellite-train-how-to-see-and-track-it)  
+   Link: <a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>These satellites initially travel in a tight, bright line resembling a &quot;train,&quot; captivating skywatchers and often being mistaken for UFOs...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: science.howstuffworks.com  
-   Link: [https://science.howstuffworks.com/nasa-spot-the-international-space-station.htm](https://science.howstuffworks.com/nasa-spot-the-international-space-station.htm)  
+   Link: <a href="https://science.howstuffworks.com/nasa-spot-the-international-space-station.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/nasa-spot-the-international-space-station.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>to Spot the International Space Station From Where...NASA&#x27;s Spot the Station feature will text or email you when the ISS is about to be...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: nasa.gov  
    Title: Stargazing From the International Space Station  
-   Link: [https://www.nasa.gov/image-article/stargazing-from-international-space-station/](https://www.nasa.gov/image-article/stargazing-from-international-space-station/)  
+   Link: <a href="https://www.nasa.gov/image-article/stargazing-from-international-space-station/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/image-article/stargazing-from-international-space-station/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 17, 2016 — An astronaut took this broad, short-lens photograph of Earth&#x27;s [night lights](&amp;#123;&amp;#123; &#x27;night-lights/&#x27; | relative_url &amp;#125;&amp;#125;) while looking out over the remote reaches of t...</p></details>
    Published: May 17, 2016  
 
 11. <a id="endnote-11"></a>
    Source: science.nasa.gov  
    Title: identifying ufos and uaps  
-   Link: [https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/](https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/)  
+   Link: <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and UAPs1 Dec 2013 — Sirius and Jupiter are also often reported as UFOs, as well as Mercury. When bright planets are in alignment ne...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/1hjwlkz/all_of_a_sudden_the_strange_orbs_are_being/](https://www.reddit.com/r/aliens/comments/1hjwlkz/all_of_a_sudden_the_strange_orbs_are_being/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/1hjwlkz/all_of_a_sudden_the_strange_orbs_are_being/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1hjwlkz/all_of_a_sudden_the_strange_orbs_are_being/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>istant stars through our light-polluted atmospheres and the lens of...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ISS/comments/1cpteyx/i_thought_i_saw_the_iss_but_then_i_really_saw_it/](https://www.reddit.com/r/ISS/comments/1cpteyx/i_thought_i_saw_the_iss_but_then_i_really_saw_it/)  
+   Link: <a href="https://www.reddit.com/r/ISS/comments/1cpteyx/i_thought_i_saw_the_iss_but_then_i_really_saw_it/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ISS/comments/1cpteyx/i_thought_i_saw_the_iss_but_then_i_really_saw_it/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>it was a constant moving dot and I watched it for 30 seconds or more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Starlink/comments/17n1uxc/am_i_able_to_get_a_notification_about_when/](https://www.reddit.com/r/Starlink/comments/17n1uxc/am_i_able_to_get_a_notification_about_when/)  
+   Link: <a href="https://www.reddit.com/r/Starlink/comments/17n1uxc/am_i_able_to_get_a_notification_about_when/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Starlink/comments/17n1uxc/am_i_able_to_get_a_notification_about_when/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>e the time and sky location by clicking &quot;Get predictions here&quot;.Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Starlink/comments/171a05h/im_trying_to_understand_the_basic_premise/](https://www.reddit.com/r/Starlink/comments/171a05h/im_trying_to_understand_the_basic_premise/)  
+   Link: <a href="https://www.reddit.com/r/Starlink/comments/171a05h/im_trying_to_understand_the_basic_premise/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Starlink/comments/171a05h/im_trying_to_understand_the_basic_premise/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>If a satellite goes too slow for its altitude, it falls out of the sky. To be slow enough to be effectively...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
    Title: What does the ISS look like to the naked eye?  
-   Link: [https://www.reddit.com/r/space/comments/wnkqgf/what_does_the_iss_look_like_to_the_naked_eye/](https://www.reddit.com/r/space/comments/wnkqgf/what_does_the_iss_look_like_to_the_naked_eye/)  
+   Link: <a href="https://www.reddit.com/r/space/comments/wnkqgf/what_does_the_iss_look_like_to_the_naked_eye/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/wnkqgf/what_does_the_iss_look_like_to_the_naked_eye/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>r/spaceHello r/space! When I was a kid, my dad told me that I can identify the ISS in the night sky: if it is bright like a planet, move...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/space/comments/1fscwb0/i_saw_something_following_the_iss_tonight/](https://www.reddit.com/r/space/comments/1fscwb0/i_saw_something_following_the_iss_tonight/)  
+   Link: <a href="https://www.reddit.com/r/space/comments/1fscwb0/i_saw_something_following_the_iss_tonight/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/1fscwb0/i_saw_something_following_the_iss_tonight/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I saw something following the ISS tonight: r/spaceYes, it&#x27;s a fairly bright, really fast moving spot. https... looks like a very very f...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/askastronomy/comments/1rtu0ng/movings_lights_in_sky_stars_or_space_station/](https://www.reddit.com/r/askastronomy/comments/1rtu0ng/movings_lights_in_sky_stars_or_space_station/)  
+   Link: <a href="https://www.reddit.com/r/askastronomy/comments/1rtu0ng/movings_lights_in_sky_stars_or_space_station/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askastronomy/comments/1rtu0ng/movings_lights_in_sky_stars_or_space_station/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>sat, but the moving is a different. bye. Creative-Bedroom-956...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: space.com  
-   Link: [https://www.space.com/spacex-starlink-satellites.html](https://www.space.com/spacex-starlink-satellites.html)  
+   Link: <a href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-starlink-satellites.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellites: Facts, tracking and impact on astronomy5 days ago — A train of SpaceX Starlink satellites are visible in the night s...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: space.com  
    Title: 5610 spot space station  
-   Link: [https://www.space.com/5610-spot-space-station.html](https://www.space.com/5610-spot-space-station.html)  
+   Link: <a href="https://www.space.com/5610-spot-space-station.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/5610-spot-space-station.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spot the Space Station10 Jul 2008 — A photo of an ISS flare as sunlight reflected off the space station&#x27;s solar panels as An ISS flare, c...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: orbitalradar.com  
-   Link: [https://orbitalradar.com/satellite-pass-predictions](https://orbitalradar.com/satellite-pass-predictions)  
+   Link: <a href="https://orbitalradar.com/satellite-pass-predictions" target="_blank" rel="noopener noreferrer nofollow">https://orbitalradar.com/satellite-pass-predictions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Satellite Pass Predictions — ISS &amp; Starlink Visible Tonight...To predict a visible pass, the algorithm must satisfy three conditions sim...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: orbitalradar.com  
    Title: how to see starlink tonight  
-   Link: [https://orbitalradar.com/how-to-see-starlink-tonight](https://orbitalradar.com/how-to-see-starlink-tonight)  
+   Link: <a href="https://orbitalradar.com/how-to-see-starlink-tonight" target="_blank" rel="noopener noreferrer nofollow">https://orbitalradar.com/how-to-see-starlink-tonight</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to See Starlink Satellites Tonight25 May 2026 — Shortly after launch, a Starlink train looks like a line of 20–60 evenly-spaced dots...</p></details>
    Published: May 2026  
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=GhLXCJ1Gyyc](https://www.youtube.com/watch?v=GhLXCJ1Gyyc)  
+   Link: <a href="https://www.youtube.com/watch?v=GhLXCJ1Gyyc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GhLXCJ1Gyyc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the night sky...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: heavens-above.com  
-   Link: [https://heavens-above.com/starlink.aspx](https://heavens-above.com/starlink.aspx)  
+   Link: <a href="https://heavens-above.com/starlink.aspx" target="_blank" rel="noopener noreferrer nofollow">https://heavens-above.com/starlink.aspx</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>dynamic 3D orbit displaySatellite predictions and other astronomical data customised for your location...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: space.stackexchange.com  
    Title: The lines are very difficult to discern from aerial  
-   Link: [https://space.stackexchange.com/questions/32245/what-is-this-huge-red-blinking-light-structure-on-earth-seen-from-the-iss-in-t](https://space.stackexchange.com/questions/32245/what-is-this-huge-red-blinking-light-structure-on-earth-seen-from-the-iss-in-t)  
+   Link: <a href="https://space.stackexchange.com/questions/32245/what-is-this-huge-red-blinking-light-structure-on-earth-seen-from-the-iss-in-t" target="_blank" rel="noopener noreferrer nofollow">https://space.stackexchange.com/questions/32245/what-is-this-huge-red-blinking-light-structure-on-earth-seen-from-the-iss-in-t</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>is this huge, red, blinking light structure on Earth seen...Nov 24, 2018 — They appear to be a series of very large power lines around t...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: space-park.co.uk  
    Title: father christmas  
-   Link: [https://www.space-park.co.uk/2025/12/father-christmas/](https://www.space-park.co.uk/2025/12/father-christmas/)  
+   Link: <a href="https://www.space-park.co.uk/2025/12/father-christmas/" target="_blank" rel="noopener noreferrer nofollow">https://www.space-park.co.uk/2025/12/father-christmas/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ISS often looks like a bright, fast-moving star gliding across the early morning sky. To spot the ISS overhead, viewers should choose a...</p></details>
 
 ### Additional References
 
 28. <a id="endnote-28"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/2365809903441367/posts/9094484450573845/](https://www.facebook.com/groups/2365809903441367/posts/9094484450573845/)  
+   Link: <a href="https://www.facebook.com/groups/2365809903441367/posts/9094484450573845/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/9094484450573845/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Heavens-above star chart inaccuraciesSeems like every time there is a day launch of Starlink satellites the West Coast can see the “train...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: starwalk.space  
-   Link: [https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide](https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide)  
+   Link: <a href="https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide" target="_blank" rel="noopener noreferrer nofollow">https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink Tracker: Find Starlink Satellites Tonight5 days ago — A Starlink satellite train looks like a string of evenly spaced, bright do...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: britastro.org  
-   Link: [https://britastro.org/forums/topic/very-bright-starlink-train](https://britastro.org/forums/topic/very-bright-starlink-train)  
+   Link: <a href="https://britastro.org/forums/topic/very-bright-starlink-train" target="_blank" rel="noopener noreferrer nofollow">https://britastro.org/forums/topic/very-bright-starlink-train</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Very bright Starlink trainAt 21:33 BST tonight John Mason alerted me to the very bright Starlink-5 train passing over the UK. Many of the...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/2365809903441367/posts/25829446419984385/](https://www.facebook.com/groups/2365809903441367/posts/25829446419984385/)  
+   Link: <a href="https://www.facebook.com/groups/2365809903441367/posts/25829446419984385/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/25829446419984385/</a>  
 
 32. <a id="endnote-32"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=P-ymwG9mDhE](https://www.youtube.com/watch?v=P-ymwG9mDhE)  
+   Link: <a href="https://www.youtube.com/watch?v=P-ymwG9mDhE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=P-ymwG9mDhE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jupiter and Venus &#x27;could be mistaken for UFOs&#x27;Venus and Jupiter are at what we call a conjunction and that means that they just appear cl...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: cntraveler.com  
    Title: nasas spot the station how to spot the iss from earth  
-   Link: [https://www.cntraveler.com/story/nasas-spot-the-station-how-to-spot-the-iss-from-earth](https://www.cntraveler.com/story/nasas-spot-the-station-how-to-spot-the-iss-from-earth)  
+   Link: <a href="https://www.cntraveler.com/story/nasas-spot-the-station-how-to-spot-the-iss-from-earth" target="_blank" rel="noopener noreferrer nofollow">https://www.cntraveler.com/story/nasas-spot-the-station-how-to-spot-the-iss-from-earth</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s Spot the Station: How to Spot the ISS From EarthNov 7, 2016 — The space station looks like a fast-moving plane or slow-moving shoo...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: facebook.com  
    Title: Have you seen strange lights in the sky recently?  
-   Link: [https://www.facebook.com/armaghspace/posts/have-you-seen-strange-lights-in-the-sky-recently-there-is-an-explanation-it-is-t/1371762083019684/](https://www.facebook.com/armaghspace/posts/have-you-seen-strange-lights-in-the-sky-recently-there-is-an-explanation-it-is-t/1371762083019684/)  
+   Link: <a href="https://www.facebook.com/armaghspace/posts/have-you-seen-strange-lights-in-the-sky-recently-there-is-an-explanation-it-is-t/1371762083019684/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/armaghspace/posts/have-you-seen-strange-lights-in-the-sky-recently-there-is-an-explanation-it-is-t/1371762083019684/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>There is...Have you seen strange lights in the sky recently? There is an explanation! It is the Starlink - a satellite constellation bei...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: heavens-above.com  
    Title: Satellite predictions and other astronomical data customised for your location  
-   Link: [https://www.heavens-above.com/](https://www.heavens-above.com/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Heavens-AboveSatellite predictions and other astronomical data customised for your location...</p></details>
+   Link: <a href="https://www.heavens-above.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.heavens-above.com/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Satellite predictions and other astronomical data customised for your location...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/thegalacticvoid/videos/starlink-satellites-train-as-seen-from-earthstarlink-is-the-name-for-a-satellite/1193574438630388/](https://www.facebook.com/thegalacticvoid/videos/starlink-satellites-train-as-seen-from-earthstarlink-is-the-name-for-a-satellite/1193574438630388/)  
+   Link: <a href="https://www.facebook.com/thegalacticvoid/videos/starlink-satellites-train-as-seen-from-earthstarlink-is-the-name-for-a-satellite/1193574438630388/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thegalacticvoid/videos/starlink-satellites-train-as-seen-from-earthstarlink-is-the-name-for-a-satellite/1193574438630388/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>n lower orbit of Earth, laser beams are not visible to the human eye...</p></details>

@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_multi_sensor_ufo_che_1fd47c
 - ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_nimitz_tic_tac_evide_a02edb
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - strong-cases
 - time-checks
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - strong-cases
 - time-checks
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: A precise time, location, direction, elevation, and duration can turn a strange story into a testable case against flights, satellites, planets, and weather.
 hero_summary: A precise time, location, direction, elevation, and duration can turn a strange story into a testable case against flights, satellites, planets, and weather.
 layout: default
 permalink: /time-checks/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /strong-cases/
 nav_short_title: Time checks
 title: The Details That Make UFO Reports Testable
-title_full: The Details That Make UFO Reports Testable | Strong Cases
+title_full: The Details That Make UFO Reports Testable
 display_title_short: Time checks
 display_title: Time checks
 heading_title: The Details That Make UFO Reports Testable
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What Makes a UFO Report Harder to Explain | IFOs
+parent_title: What Makes a UFO Report Harder to Explain
 parent_permalink: /strong-cases/
 parent_nav_short_title: Strong Cases
 parent_heading_title: What Makes a UFO Report Harder to Explain
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d
-  title: Strong Cases | Ifos Causes Of
+  title: Strong Cases | ifos causes of UFO 3 ed 238
   permalink: /strong-cases/
   short_title: Strong Cases
   heading_title: What Makes a UFO Report Harder to Explain
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d
-  title: Strong Cases | Ifos Causes Of
+  title: Strong Cases | ifos causes of UFO 3 ed 238
   permalink: /strong-cases/
   short_title: Strong Cases
   heading_title: What Makes a UFO Report Harder to Explain
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why the Nimitz Tic Tac Still Matters
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d
-  title: Strong Cases | Ifos Causes Of
+  title: Strong Cases | ifos causes of UFO 3 ed 238
   permalink: /strong-cases/
   short_title: Strong Cases
   heading_title: What Makes a UFO Report Harder to Explain
@@ -259,7 +259,7 @@ prev_link:
   permalink: /nimitz/
   short_title: Nimitz
   heading_title: Why the Nimitz Tic Tac Still Matters
-date: '2026-06-07 06:44:13 '
+date: '2026-06-12 00:53:41 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_time_direction_ufo_r_74a6dc-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_time_direction_ufo_r_74a6dc-Illustration-1.webp
@@ -270,16 +270,14 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_ti
 
 A surprisingly large number of UFO reports can be resolved—or at least rigorously tested—if investigators know five basic facts: the exact time, the observer’s location, the direction of the sighting, the elevation angle above the horizon, and the duration of the event. These details sound mundane, but they are often more valuable than dramatic descriptions or even photographs. In UFO investigation, the difference between “a bright light moved strangely” and “a bright light appeared at 21:17, 15 degrees above the western horizon, from Manchester, for four minutes” is the difference between a story and a testable observation.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_time_direction_ufo_r_74a6dc-Illustration-1-dark.svg" | relative_url }}" alt="Time checks illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_time_direction_ufo_r_74a6dc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_time_direction_ufo_r_74a6dc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Historical investigations such as [Project Blue Book]({{ 'blue-book/' | relative_url }}), modern reviews by NASA, and current work by the Pentagon’s All-domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})) all emphasise the same point: many cases remain unresolved not because they are extraordinary, but because the information needed to compare them with ordinary explanations was never recorded. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Logistics Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">Defense Logistics Agency Project Blue Book</span><span class="citation-popover-snippet">Defense Logistics AgencyProject Blue BookSeptember 25, 2012 — The Air Force groups its evaluations of UFO reports under three general hea...</span><span class="citation-popover-meta">Published: September 25, 2012</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
+Historical investigations such as Project Blue Book, modern reviews by NASA, and current work by the Pentagon’s All-domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})) all emphasise the same point: many cases remain unresolved not because they are extraordinary, but because the information needed to compare them with ordinary explanations was never recorded. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Logistics Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">Defense Logistics Agency Project Blue Book</span><span class="citation-popover-snippet">Defense Logistics AgencyProject Blue BookSeptember 25, 2012 — The Air Force groups its evaluations of UFO reports under three general hea...</span><span class="citation-popover-meta">Published: September 25, 2012</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
 
 ## The Minimum Details Investigators Need
 
 When investigators evaluate a UFO report after initial IFO (identified flying object) screening, they are not primarily looking for exciting descriptions. They are looking for measurements.
 
 The most useful observations usually include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -295,7 +293,7 @@ The most useful observations usually include:
 
 These details allow a report to be reconstructed. Without them, investigators often cannot determine whether the witness saw a planet, aircraft, satellite, meteor, balloon, drone, atmospheric phenomenon, or something genuinely difficult to explain.
 
-Project Blue Book explicitly separated reports into identified, [insufficient data]({{ 'missing-data/' | relative_url }}), and unidentified categories. Reports lacking enough information for evaluation were not treated as mysteries; they were placed into the insufficient-data category because meaningful testing was impossible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Logistics Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">Defense Logistics Agency Project Blue Book</span><span class="citation-popover-snippet">Defense Logistics AgencyProject Blue BookSeptember 25, 2012 — The Air Force groups its evaluations of UFO reports under three general hea...</span><span class="citation-popover-meta">Published: September 25, 2012</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://unwritten-record.blogs.archives.gov/2017/04/26/aliens-at-the-archives/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unwritten-record.blogs.archives.gov">[The Unwritten Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unwritten-record.blogs.archives.gov</span><span class="citation-popover-title">The Unwritten Record Aliens at the Archives</span><span class="citation-popover-snippet">at the Archives - The Unwritten Record26 Apr 2017 — Project Blue Book grouped these sightings into three categories: identified, insuffic...</span></span></span>
+Project Blue Book explicitly separated reports into identified, insufficient data, and unidentified categories. Reports lacking enough information for evaluation were not treated as mysteries; they were placed into the insufficient-data category because meaningful testing was impossible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Logistics Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">Defense Logistics Agency Project Blue Book</span><span class="citation-popover-snippet">Defense Logistics AgencyProject Blue BookSeptember 25, 2012 — The Air Force groups its evaluations of UFO reports under three general hea...</span><span class="citation-popover-meta">Published: September 25, 2012</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://unwritten-record.blogs.archives.gov/2017/04/26/aliens-at-the-archives/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unwritten-record.blogs.archives.gov">[The Unwritten Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unwritten-record.blogs.archives.gov</span><span class="citation-popover-title">The Unwritten Record Aliens at the Archives</span><span class="citation-popover-snippet">at the Archives - The Unwritten Record26 Apr 2017 — Project Blue Book grouped these sightings into three categories: identified, insuffic...</span></span></span>
 
 The importance of this distinction is easy to underestimate. A witness may provide a vivid account, yet if nobody knows exactly where and when the observation occurred, most comparison methods become unusable.
 
@@ -303,7 +301,7 @@ The importance of this distinction is easy to underestimate. A witness may provi
 
 Direction transforms a sighting from a general claim into a specific sky position.
 
-Suppose two witnesses report a brilliant stationary object at dusk. Without directional information, investigators have little to work with. With a reported direction of west-south-west and a low elevation above the horizon, they can immediately compare the observation against the position of Venus, Jupiter, bright stars, aircraft approach paths, or known satellite trajectories.
+Suppose two witnesses report a brilliant stationary object at dusk. Without directional information, investigators have little to work with. With a reported direction of west-south-west and a low elevation above the horizon, they can immediately compare the observation against the position of Venus, Jupiter, bright stars, aircraft [approach paths]({{ 'approach-paths/' | relative_url }}), or known satellite [trajectories]({{ 'trajectories/' | relative_url }}).
 
 Direction also helps distinguish objects that otherwise appear similar.
 
@@ -360,7 +358,6 @@ Venus is particularly notable because of its brightness and its tendency to appe
 
 Astronomical software can determine the precise position of planets, bright stars, and other celestial objects for any location and time. However, these comparisons require accurate observational data. A vague statement such as “sometime after sunset” is often insufficient for reliable reconstruction.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_time_direction_ufo_r_74a6dc-Illustration-2-dark.svg" | relative_url }}" alt="Time checks illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_time_direction_ufo_r_74a6dc-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_time_direction_ufo_r_74a6dc-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Meteors and Re-entry Events
 
@@ -381,7 +378,6 @@ Imagine a report that initially consists of the following statement:
 This description is difficult to evaluate.
 
 Now add:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -407,7 +403,6 @@ The mystery may survive these checks. But now it is a mystery that can be tested
 
 That distinction is crucial.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_time_direction_ufo_r_74a6dc-Illustration-3-dark.svg" | relative_url }}" alt="Time checks illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_time_direction_ufo_r_74a6dc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_time_direction_ufo_r_74a6dc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Vague Reports Stay Unresolved
 
@@ -421,7 +416,7 @@ Modern investigations face the same challenge.
 
 NASA's Independent UAP Study concluded that analysis is frequently limited by poor sensor calibration, missing metadata, lack of multiple measurements, and insufficient baseline information. The report specifically emphasised the importance of reliable sensor metadata and systematic observation practices. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
 
-AARO has likewise stated that its ability to resolve cases remains constrained by the absence of timely and actionable sensor data. Many unresolved cases remain unresolved because the necessary information was not captured when the event occurred. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/825619489/AARO-Annual-Report-on-UAP-FY2024-Ft-AsTechR" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">AARO Annual Report on UAP FY2024 Ft AsTechR</span><span class="citation-popover-snippet">ScribdAARO 2024 Annual UAP Report Summary | PDFAARO&#x27;s ability to resolve cases remains constrained by a lack of timely and actionable...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hsdl.org/c/2024-annual-report-uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hsdl.org">[Homeland Security Digital Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hsdl.org</span><span class="citation-popover-snippet">Homeland Security Digital Library2024 Annual Report on Unidentified Anomalous PhenomenaNov 15, 2024 — The AARO works to document, analyze...</span></span></span>
+AARO has likewise stated that its ability to resolve cases remains constrained by the absence of timely and actionable sensor data. Many unresolved cases remain unresolved because the necessary information was not captured when the event occurred. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/825619489/AARO-Annual-Report-on-UAP-FY2024-Ft-AsTechR" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">AARO Annual Report on UAP FY2024 Ft AsTechR</span><span class="citation-popover-snippet">AARO 2024 Annual UAP Report Summary &#124; PDFAARO&#x27;s ability to resolve cases remains constrained by a lack of timely and actionable...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hsdl.org/c/2024-annual-report-uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hsdl.org">[Homeland Security Digital Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hsdl.org</span><span class="citation-popover-snippet">Homeland Security Digital Library2024 Annual Report on Unidentified Anomalous PhenomenaNov 15, 2024 — The AARO works to document, analyze...</span></span></span>
 
 This creates a category of UFO report that is frequently misunderstood by the public. A case can appear impressive, involve sincere witnesses, and remain unresolved for years. Yet its unresolved status may reflect missing information rather than extraordinary evidence.
 
@@ -450,7 +445,6 @@ Their value lies elsewhere: they make the report testable.
 
 A UFO report becomes more useful when investigators can ask specific questions: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hsdl.org/c/2024-annual-report-uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hsdl.org">[hsdl.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hsdl.org</span><span class="citation-popover-snippet">Homeland Security Digital Library2024 Annual Report on Unidentified Anomalous PhenomenaNov 15, 2024 — The AARO works to document, analyze...</span></span></span>
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Was a satellite present?
@@ -463,7 +457,7 @@ A UFO report becomes more useful when investigators can ask specific questions: 
 
 Exact time and direction are what make those questions answerable.
 
-In the history of UFO investigation, from Project Blue Book to NASA's recent UAP review and AARO's contemporary casework, the same lesson appears repeatedly. The reports that contribute most to understanding are not necessarily the most dramatic. They are the ones with enough positional detail to compare the observation against the real sky. When those details are missing, even an ordinary object can remain unidentified. When they are present, many mysteries become solvable—and the few that remain become far more interesting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/825619489/AARO-Annual-Report-on-UAP-FY2024-Ft-AsTechR" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">AARO Annual Report on UAP FY2024 Ft AsTechR</span><span class="citation-popover-snippet">ScribdAARO 2024 Annual UAP Report Summary | PDFAARO&#x27;s ability to resolve cases remains constrained by a lack of timely and actionable...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Logistics Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">Defense Logistics Agency Project Blue Book</span><span class="citation-popover-snippet">Defense Logistics AgencyProject Blue BookSeptember 25, 2012 — The Air Force groups its evaluations of UFO reports under three general hea...</span><span class="citation-popover-meta">Published: September 25, 2012</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://unwritten-record.blogs.archives.gov/2017/04/26/aliens-at-the-archives/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unwritten-record.blogs.archives.gov">[The Unwritten Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unwritten-record.blogs.archives.gov</span><span class="citation-popover-title">The Unwritten Record Aliens at the Archives</span><span class="citation-popover-snippet">at the Archives - The Unwritten Record26 Apr 2017 — Project Blue Book grouped these sightings into three categories: identified, insuffic...</span></span></span>
+In the history of UFO investigation, from Project Blue Book to NASA's recent UAP review and AARO's contemporary casework, the same lesson appears repeatedly. The reports that contribute most to understanding are not necessarily the most dramatic. They are the ones with enough positional detail to compare the observation against the real sky. When those details are missing, even an ordinary object can remain unidentified. When they are present, many mysteries become solvable—and the few that remain become far more interesting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/825619489/AARO-Annual-Report-on-UAP-FY2024-Ft-AsTechR" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">AARO Annual Report on UAP FY2024 Ft AsTechR</span><span class="citation-popover-snippet">AARO 2024 Annual UAP Report Summary &#124; PDFAARO&#x27;s ability to resolve cases remains constrained by a lack of timely and actionable...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Logistics Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">Defense Logistics Agency Project Blue Book</span><span class="citation-popover-snippet">Defense Logistics AgencyProject Blue BookSeptember 25, 2012 — The Air Force groups its evaluations of UFO reports under three general hea...</span><span class="citation-popover-meta">Published: September 25, 2012</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://unwritten-record.blogs.archives.gov/2017/04/26/aliens-at-the-archives/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unwritten-record.blogs.archives.gov">[The Unwritten Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unwritten-record.blogs.archives.gov</span><span class="citation-popover-title">The Unwritten Record Aliens at the Archives</span><span class="citation-popover-snippet">at the Archives - The Unwritten Record26 Apr 2017 — Project Blue Book grouped these sightings into three categories: identified, insuffic...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -582,15 +576,15 @@ In the history of UFO investigation, from Project Blue Book to NASA's recent UAP
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=time-checks-the-details-that-make-ufo-reports-testable-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="time-checks-the-details-that-make-ufo-reports-testable-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker"><img src="{{ '/assets/images/marketplace-covers/eb968c20f3ed6c11e2af.jpg' | relative_url }}" alt="Listing image for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-details-that-make-ufo-reports-testable-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-details-that-make-ufo-reports-testable-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=time-checks-the-details-that-make-ufo-reports-testable-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="time-checks-the-details-that-make-ufo-reports-testable-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-details-that-make-ufo-reports-testable-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-details-that-make-ufo-reports-testable-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=time-checks-the-details-that-make-ufo-reports-testable-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="time-checks-the-details-that-make-ufo-reports-testable-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo sticker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-details-that-make-ufo-reports-testable-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-details-that-make-ufo-reports-testable-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=time-checks-the-details-that-make-ufo-reports-testable-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="time-checks-the-details-that-make-ufo-reports-testable-ifos-causes-of-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-details-that-make-ufo-reports-testable-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-details-that-make-ufo-reports-testable-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -598,15 +592,15 @@ In the history of UFO investigation, from Project Blue Book to NASA's recent UAP
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=time-checks-the-details-that-make-ufo-reports-testable-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="time-checks-the-details-that-make-ufo-reports-testable-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIENS 4 Vinyl Sticker Set: get in loser cute UFO stars space spaceman fun gift"><img src="{{ '/assets/images/marketplace-covers/8e52910332b2b757e6a7.jpg' | relative_url }}" alt="Listing image for ALIENS 4 Vinyl Sticker Set: get in loser cute UFO stars space spaceman fun gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-details-that-make-ufo-reports-testable-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-details-that-make-ufo-reports-testable-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=time-checks-the-details-that-make-ufo-reports-testable-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="time-checks-the-details-that-make-ufo-reports-testable-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">ALIENS 4 Vinyl Sticker Set: get in loser cute UFO stars space spaceman fun gift</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-details-that-make-ufo-reports-testable-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-details-that-make-ufo-reports-testable-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=time-checks-the-details-that-make-ufo-reports-testable-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="time-checks-the-details-that-make-ufo-reports-testable-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo sticker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-details-that-make-ufo-reports-testable-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-details-that-make-ufo-reports-testable-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=time-checks-the-details-that-make-ufo-reports-testable-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="time-checks-the-details-that-make-ufo-reports-testable-ifos-causes-of-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-details-that-make-ufo-reports-testable-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-details-that-make-ufo-reports-testable-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -614,15 +608,15 @@ In the history of UFO investigation, from Project Blue Book to NASA's recent UAP
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=time-checks-the-details-that-make-ufo-reports-testable-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="time-checks-the-details-that-make-ufo-reports-testable-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO, Sticker Vinyl Version v6"><img src="{{ '/assets/images/marketplace-covers/b2a8befcf874884cb729.jpg' | relative_url }}" alt="Listing image for UFO, Sticker Vinyl Version v6" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-details-that-make-ufo-reports-testable-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-details-that-make-ufo-reports-testable-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=time-checks-the-details-that-make-ufo-reports-testable-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="time-checks-the-details-that-make-ufo-reports-testable-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">UFO, Sticker Vinyl Version v6</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-details-that-make-ufo-reports-testable-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-details-that-make-ufo-reports-testable-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=time-checks-the-details-that-make-ufo-reports-testable-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="time-checks-the-details-that-make-ufo-reports-testable-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo sticker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-details-that-make-ufo-reports-testable-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-details-that-make-ufo-reports-testable-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=time-checks-the-details-that-make-ufo-reports-testable-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="time-checks-the-details-that-make-ufo-reports-testable-ifos-causes-of-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-details-that-make-ufo-reports-testable-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-details-that-make-ufo-reports-testable-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -630,15 +624,15 @@ In the history of UFO investigation, from Project Blue Book to NASA's recent UAP
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=time-checks-the-details-that-make-ufo-reports-testable-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="time-checks-the-details-that-make-ufo-reports-testable-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing"><img src="{{ '/assets/images/marketplace-covers/758272a90147e0fdd168.jpg' | relative_url }}" alt="Listing image for Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-details-that-make-ufo-reports-testable-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-details-that-make-ufo-reports-testable-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=time-checks-the-details-that-make-ufo-reports-testable-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="time-checks-the-details-that-make-ufo-reports-testable-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-details-that-make-ufo-reports-testable-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-details-that-make-ufo-reports-testable-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=time-checks-the-details-that-make-ufo-reports-testable-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="time-checks-the-details-that-make-ufo-reports-testable-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo sticker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-details-that-make-ufo-reports-testable-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-details-that-make-ufo-reports-testable-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=time-checks-the-details-that-make-ufo-reports-testable-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="time-checks-the-details-that-make-ufo-reports-testable-ifos-causes-of-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-details-that-make-ufo-reports-testable-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-details-that-make-ufo-reports-testable-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -646,7 +640,7 @@ In the history of UFO investigation, from Project Blue Book to NASA's recent UAP
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=time-checks-the-details-that-make-ufo-reports-testable-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="time-checks-the-details-that-make-ufo-reports-testable-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-details-that-make-ufo-reports-testable-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-details-that-make-ufo-reports-testable-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -861,162 +855,162 @@ In the history of UFO investigation, from Project Blue Book to NASA's recent UAP
 
 1. <a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: scribd.com  
    Title: AARO Annual Report on UAP FY2024 Ft AsTechR  
-   Link: [https://www.scribd.com/document/825619489/AARO-Annual-Report-on-UAP-FY2024-Ft-AsTechR](https://www.scribd.com/document/825619489/AARO-Annual-Report-on-UAP-FY2024-Ft-AsTechR)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScribdAARO 2024 Annual UAP Report Summary | PDFAARO&#x27;s ability to resolve cases remains constrained by a lack of timely and actionable...</p></details>
+   Link: <a href="https://www.scribd.com/document/825619489/AARO-Annual-Report-on-UAP-FY2024-Ft-AsTechR" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/825619489/AARO-Annual-Report-on-UAP-FY2024-Ft-AsTechR</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO 2024 Annual UAP Report Summary | PDFAARO&#x27;s ability to resolve cases remains constrained by a lack of timely and actionable...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: upload.wikimedia.org  
    Title: Project Blue Book, BBA PBSR11 300  
-   Link: [https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf](https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf)  
+   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsThe Project Blue Book ArchiveFor the year 1952 22.7$ of all reports were classified as insufficient data for evaluation...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: [https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/](https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/)  
+   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through sys...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: space.com  
    Title: sensor metadata, and the lack of baseline data," the report states.Read more  
-   Link: [https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed](https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed)  
+   Link: <a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor sensor...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: space.com  
-   Link: [https://www.space.com/space-exploration/search-for-life/ufos-not-attributable-to-foreign-adversaries-new-pentagon-report-says](https://www.space.com/space-exploration/search-for-life/ufos-not-attributable-to-foreign-adversaries-new-pentagon-report-says)  
+   Link: <a href="https://www.space.com/space-exploration/search-for-life/ufos-not-attributable-to-foreign-adversaries-new-pentagon-report-says" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/search-for-life/ufos-not-attributable-to-foreign-adversaries-new-pentagon-report-says</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs &#x27;not attributable to foreign adversaries,&quot; new...Nov 15, 2024 — However, AARO&#x27;s ability to resolve cases “remains constrained by a...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — The UAP Independent Study shall report on the following questions: What types of scientific data currently collec...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Western_United_States_Uap_508-02262024.pdf](https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Western_United_States_Uap_508-02262024.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Western_United_States_Uap_508-02262024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Western_United_States_Uap_508-02262024.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>lling on well-established air corridors as far as 300.Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: aaro.mil  
    Title: Next UAP Report Documents  
-   Link: [https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/](https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/)  
+   Link: <a href="https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Report Documents29 Feb 2024 —... (AARO) consisting of one minute and thirty-nine seconds of video footage from an [infrared](&amp;#123;&amp;#123; &#x27;infrared/&#x27; | relative_url &amp;#125;&amp;#125;) sensor ab...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: history.com  
    Title: Project Blue Book  
-   Link: [https://www.history.com/articles/project-blue-book](https://www.history.com/articles/project-blue-book)  
+   Link: <a href="https://www.history.com/articles/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/project-blue-book</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien, Definition &amp; Files22 Feb 2010 — The remaining 700 incidents remained “unidentified”; these included cases in which there was insuf...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: esd.whs.mil  
    Title: Defense Logistics Agency Project Blue Book  
-   Link: [https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837](https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837)  
+   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Logistics AgencyProject Blue BookSeptember 25, 2012 — The Air Force groups its evaluations of UFO reports under three general hea...</p></details>
    Published: September 25, 2012  
 
 12. <a id="endnote-12"></a>
    Source: unwritten-record.blogs.archives.gov  
    Title: The Unwritten Record Aliens at the Archives  
-   Link: [https://unwritten-record.blogs.archives.gov/2017/04/26/aliens-at-the-archives/](https://unwritten-record.blogs.archives.gov/2017/04/26/aliens-at-the-archives/)  
+   Link: <a href="https://unwritten-record.blogs.archives.gov/2017/04/26/aliens-at-the-archives/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2017/04/26/aliens-at-the-archives/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>at the Archives - The Unwritten Record26 Apr 2017 — Project Blue Book grouped these sightings into three categories: identified, insuffic...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: hsdl.org  
-   Link: [https://www.hsdl.org/c/2024-annual-report-uap/](https://www.hsdl.org/c/2024-annual-report-uap/)  
+   Link: <a href="https://www.hsdl.org/c/2024-annual-report-uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.hsdl.org/c/2024-annual-report-uap/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Homeland Security Digital Library2024 Annual Report on Unidentified Anomalous PhenomenaNov 15, 2024 — The AARO works to document, analyze...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookThere was no evidence submitted to or discovered by the Air Force that sightings categorized as &quot;unidentified&quot; repres...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, History, Aliens, UFOs, &amp; Facts16 May 2026 — Project Blue Book, code name for the United States&#x27; longest-running Air Force pro...</p></details>
    Published: May 2026  
 
 16. <a id="endnote-16"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The project closed in 1969 and we have no...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: prologue.blogs.archives.gov  
-   Link: [https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/](https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/)  
+   Link: <a href="https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>archives.govUFOs: Natural Explanations - Pieces of History16 Apr 2018 — (3) there has been no evidence indicating that sightings categori...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: pwkinternational.com  
    Title: UAP | Unidentified Anomaly or Demand Signal?  
-   Link: [https://pwkinternational.com/2025/11/11/uap-unidentified-anomaly-or-demand-signal/](https://pwkinternational.com/2025/11/11/uap-unidentified-anomaly-or-demand-signal/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>|11 Nov 2025 — AARO/DoW consolidated reporting lists large volumes of incidents and emphasizes insufficient sensor quality as the core pr...</p></details>
+   Link: <a href="https://pwkinternational.com/2025/11/11/uap-unidentified-anomaly-or-demand-signal/" target="_blank" rel="noopener noreferrer nofollow">https://pwkinternational.com/2025/11/11/uap-unidentified-anomaly-or-demand-signal/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>11 Nov 2025 — AARO/DoW consolidated reporting lists large volumes of incidents and emphasizes insufficient sensor quality as the core pr...</p></details>
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: federalregister.gov  
-   Link: [https://www.federalregister.gov/documents/2024/10/29/2024-24582/provisions-pertaining-to-preventing-access-to-us-sensitive-personal-data-and-government-related-data?et_cid=5420359&et_rid=35386254](https://www.federalregister.gov/documents/2024/10/29/2024-24582/provisions-pertaining-to-preventing-access-to-us-sensitive-personal-data-and-government-related-data?et_cid=5420359&et_rid=35386254)  
+   Link: <a href="https://www.federalregister.gov/documents/2024/10/29/2024-24582/provisions-pertaining-to-preventing-access-to-us-sensitive-personal-data-and-government-related-data?et_cid=5420359&amp;et_rid=35386254" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2024/10/29/2024-24582/provisions-pertaining-to-preventing-access-to-us-sensitive-personal-data-and-government-related-data?et_cid=5420359&amp;et_rid=35386254</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Proposed RuleOct 29, 2024 — The Department of Justice proposes a rule to implement Executive Order 14117 of February 28, 2024 (Preventing...</p></details>
    Published: February 28, 2024  
 
 20. <a id="endnote-20"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: [https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/](https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Defense Releases the Annual Report on...14 Nov 2024 — This year&#x27;s UAP report covers UAP reports from May 1, 2023, to June...</p></details>
    Published: May 1, 2023  
 
 21. <a id="endnote-21"></a>
    Source: war.gov  
    Title: dr jon kosloski director aaro media roundtable on the fy24 consolidated annual  
-   Link: [https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/](https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/)  
+   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jon Kosloski, Director, AARO, Media Roundtable on the...Nov 14, 2024 — This week, the department delivered its Fiscal Year 2024 consolid...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: managingexpectations.net  
-   Link: [https://managingexpectations.net/blog/articles/nasa-uap-study-managing-expectations.html](https://managingexpectations.net/blog/articles/nasa-uap-study-managing-expectations.html)  
+   Link: <a href="https://managingexpectations.net/blog/articles/nasa-uap-study-managing-expectations.html" target="_blank" rel="noopener noreferrer nofollow">https://managingexpectations.net/blog/articles/nasa-uap-study-managing-expectations.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s UAP Study: What It Did — and Did Not — ConcludeThe panel said UAP analysis is hampered by “poor sensor calibration,” a lack of mul...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/OriginsOSU/posts/recently-the-pentagon-released-more-files-on-ufos-it-seems-like-every-few-months/1809383503713749/](https://www.facebook.com/OriginsOSU/posts/recently-the-pentagon-released-more-files-on-ufos-it-seems-like-every-few-months/1809383503713749/)  
+   Link: <a href="https://www.facebook.com/OriginsOSU/posts/recently-the-pentagon-released-more-files-on-ufos-it-seems-like-every-few-months/1809383503713749/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OriginsOSU/posts/recently-the-pentagon-released-more-files-on-ufos-it-seems-like-every-few-months/1809383503713749/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Air Force Investigation into UFOsThe unidentified cases did not provide evidence of alien spacecraft or technologies beyond scientifi...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: af.mil  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue BookWith the termination of Project Blue Book, the Air Force regulation establishi...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: zhihu.com  
-   Link: [https://www.zhihu.com/en/answer/3211845828](https://www.zhihu.com/en/answer/3211845828)  
+   Link: <a href="https://www.zhihu.com/en/answer/3211845828" target="_blank" rel="noopener noreferrer nofollow">https://www.zhihu.com/en/answer/3211845828</a>  
 
 26. <a id="endnote-26"></a>
    Source: read-me.org  
    Title: fiscal year 2024 consolidated annual report on unidentified anomalous phenomena  
-   Link: [https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena](https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena)  
+   Link: <a href="https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fiscal Year 2024 Consolidated Annual Report on...21 Dec 2024 — This report covers unidentified anomalous phenomena (UAP) reports from Ma...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: sofrep.com  
    Title: the truth behind ufos from project blue book to the pentagons uap task force  
-   Link: [https://sofrep.com/news/the-truth-behind-ufos-from-project-blue-book-to-the-pentagons-uap-task-force/](https://sofrep.com/news/the-truth-behind-ufos-from-project-blue-book-to-the-pentagons-uap-task-force/)  
+   Link: <a href="https://sofrep.com/news/the-truth-behind-ufos-from-project-blue-book-to-the-pentagons-uap-task-force/" target="_blank" rel="noopener noreferrer nofollow">https://sofrep.com/news/the-truth-behind-ufos-from-project-blue-book-to-the-pentagons-uap-task-force/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth Behind UFOs: From Project Blue Book to the...8 Feb 2026 — This report concluded that UFOs posed no threat to national security...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: thebaynet.com  
    Title: pentagons latest uap report sheds light on anomalies but questions remain  
-   Link: [https://thebaynet.com/pentagons-latest-uap-report-sheds-light-on-anomalies-but-questions-remain/](https://thebaynet.com/pentagons-latest-uap-report-sheds-light-on-anomalies-but-questions-remain/)  
+   Link: <a href="https://thebaynet.com/pentagons-latest-uap-report-sheds-light-on-anomalies-but-questions-remain/" target="_blank" rel="noopener noreferrer nofollow">https://thebaynet.com/pentagons-latest-uap-report-sheds-light-on-anomalies-but-questions-remain/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon&#x27;s Latest UAP Report Sheds Light On Anomalies...20 Nov 2024 — AARO&#x27;s ability to resolve cases is often constrained by the lack o...</p></details>

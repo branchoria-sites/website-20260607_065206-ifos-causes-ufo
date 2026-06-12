@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a_pilot_ufo_safety_rep_11933c
 - ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a_pilot_ufo_sensor_lim_b35ec4
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - pilots
 - eglin-case
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - pilots
 - eglin-case
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: The Eglin case shows how investigators can respect a pilot's hazard report while checking geometry, imagery, radar and sun angle.
 hero_summary: The Eglin case shows how investigators can respect a pilot's hazard report while checking geometry, imagery, radar and sun angle.
 layout: default
 permalink: /eglin-case/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /pilots/
 nav_short_title: Eglin Case
 title: What the Eglin UAP Case Tested
-title_full: What the Eglin UAP Case Tested | Pilots
+title_full: What the Eglin UAP Case Tested
 display_title_short: Eglin Case
 display_title: Eglin Case
 heading_title: What the Eglin UAP Case Tested
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-07 00:26:46'
-parent_title: Why Pilots Can Misidentify UFOs | IFOs
+parent_title: Why Pilots Can Misidentify UFOs
 parent_permalink: /pilots/
 parent_nav_short_title: Pilots
 parent_heading_title: Why Pilots Can Misidentify UFOs
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a
-  title: Pilots | Ifos Causes Of
+  title: Pilots | ifos causes of UFO 3 ed 238
   permalink: /pilots/
   short_title: Pilots
   heading_title: Why Pilots Can Misidentify UFOs
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a
-  title: Pilots | Ifos Causes Of
+  title: Pilots | ifos causes of UFO 3 ed 238
   permalink: /pilots/
   short_title: Pilots
   heading_title: Why Pilots Can Misidentify UFOs
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: Why UFOs Look Faster Than They Are
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a
-  title: Pilots | Ifos Causes Of
+  title: Pilots | ifos causes of UFO 3 ed 238
   permalink: /pilots/
   short_title: Pilots
   heading_title: Why Pilots Can Misidentify UFOs
@@ -260,6 +259,7 @@ next_link:
   permalink: /night-lights/
   short_title: Night Lights
   heading_title: Why Night Lights Fool Trained Pilots
+date: '2026-06-12 00:22:36 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a_eglin_uap_pilot_test_82f778-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a_eglin_uap_pilot_test_82f778-Illustration-1.webp
@@ -268,8 +268,7 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a_eglin_uap
 
 ## Introduction
 
-The Eglin UAP case became an important test of pilot testimony because it combined a credible military witness, a potential airspace hazard, multiple sensor systems and a later technical investigation that reached a more ordinary conclusion. Rather than asking whether the pilot was trustworthy, investigators examined a different question: how much of what the pilot perceived could be independently verified through [radar]({{ 'radar/' | relative_url }}) data, [infrared]({{ 'infrared/' | relative_url }}) imagery, flight geometry and environmental conditions. The case illustrates a central lesson in the study of UFO reports: professional observers can provide valuable evidence, but even highly trained personnel may not have enough information to identify an object correctly from a brief encounter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROEglin UAP Case Resolution(U) AARO assesses the object was a lighter-than-air (LTA) object, such as a large form- factor balloon; a me...</span></span></span>
-
+The Eglin UAP case became an important test of pilot testimony because it combined a credible military witness, a potential airspace hazard, multiple sensor systems and a later technical investigation that reached a more ordinary conclusion. Rather than asking whether the pilot was trustworthy, investigators examined a different question: how much of what the pilot perceived could be independently verified through [radar]({{ 'radar/' | relative_url }}) data, [infrared]({{ 'infrared/' | relative_url }}) imagery, flight geometry and environmental conditions. The case illustrates a central lesson in the study of UFO reports: professional observers can provide valuable evidence, but even highly trained personnel may not have enough information to identify an object correctly from a brief encounter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Eglin UAP Case Resolution(U) AARO assesses the object was a lighter-than-air (LTA) object, such as a large form- factor balloon; a me...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a_eglin_uap_pilot_test_82f778-Illustration-1-dark.svg" | relative_url }}" alt="Eglin Case illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a_eglin_uap_pilot_test_82f778-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a_eglin_uap_pilot_test_82f778-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The Reported Range Incursion
@@ -280,12 +279,9 @@ That aspect of the case is often overlooked. From an aviation perspective, the p
 
 The challenge arose when later public discussion treated the pilot's observation as direct proof of an extraordinary object. Investigators instead treated it as the beginning of an inquiry rather than the end of one.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/F9Vmsk6CcmI" title="More Weird UFO Files Just Released: Forensic Expert Analysis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=F9Vmsk6CcmI" target="_blank" rel="noopener noreferrer">More Weird UFO Files Just Released: Forensic Expert Analysis</a></p><p class="youtube-embed-meta">Channel: Dr. G Explains</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=F9Vmsk6CcmI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=F9Vmsk6CcmI">Open on YouTube</a></p></div></div></div>
-
 ## Radar, Imagery and Flight Geometry
 
-The Eglin case is notable because investigators had more than a witness statement. The All-domain Anomaly Resolution Office (AARO) reviewed radar information, infrared imagery, aircraft position data, environmental conditions and follow-up discussions with the pilot. This allowed the reported appearance and behaviour of the object to be compared against measurable factors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROEglin UAP Case Resolution(U) AARO assesses the object was a lighter-than-air (LTA) object, such as a large form- factor balloon; a me...</span></span></span>
+The Eglin case is notable because investigators had more than a witness statement. The All-domain Anomaly Resolution Office (AARO) reviewed radar information, infrared imagery, aircraft position data, environmental conditions and follow-up discussions with the pilot. This allowed the reported appearance and behaviour of the object to be compared against measurable factors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Eglin UAP Case Resolution(U) AARO assesses the object was a lighter-than-air (LTA) object, such as a large form- factor balloon; a me...</span></span></span>
 
 One important finding concerned the difference between what the radar initially showed and what could later be confirmed. Although four radar contacts were reported, only one object was visually observed and captured in imagery. The absence of corroborating imagery for the other contacts limited the investigation's ability to determine what those radar returns represented. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP Case Resolution ReportsAARO assesses with high confidence that the object was consistent with a cluster of fully and partially inflat...</span></span></span>
 
@@ -294,7 +290,6 @@ Investigators also analysed the infrared images and compared the object's appare
 Flight geometry proved equally important. An object viewed from a fast-moving aircraft can appear to manoeuvre, hover or maintain formation because of relative motion effects. Without precise range information, estimating size, speed and distance becomes difficult even for experienced aviators. By reconstructing the encounter using aircraft position and viewing angles, investigators could test whether the observed behaviour required extraordinary performance or could be explained by an ordinary object seen under unusual conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP Case Resolution ReportsAARO assesses with high confidence that the object was consistent with a cluster of fully and partially inflat...</span></span></span>
 
 AARO also examined solar illumination and viewing angles. The office reported that sun angle and lighting conditions could help explain some of the visual characteristics described during the encounter. This type of analysis is significant because a witness sees an object as it appears from a particular perspective, while investigators attempt to determine what physical object could generate that appearance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP Case Resolution ReportsAARO assesses with high confidence that the object was consistent with a cluster of fully and partially inflat...</span></span></span>
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a_eglin_uap_pilot_test_82f778-Illustration-2-dark.svg" | relative_url }}" alt="Eglin Case illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a_eglin_uap_pilot_test_82f778-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a_eglin_uap_pilot_test_82f778-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Respectful Review Is Not Automatic Deference
@@ -306,12 +301,6 @@ The pilot's observations remained valuable throughout the investigation. The rep
 At the same time, the investigation treated the testimony as one source of evidence among several. When imagery, geometry, environmental factors and later technical analysis suggested a possible balloon explanation, those findings were weighed alongside the pilot's impressions. The result was not a judgement about the witness's honesty or competence. It was a judgement about the identity of the object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP Case Resolution ReportsAARO assesses with high confidence that the object was consistent with a cluster of fully and partially inflat...</span></span></span>
 
 This is precisely where professional testimony reaches its limits. A pilot may be highly reliable when reporting that an object was present, where it appeared, and why it posed a concern. Determining the object's actual nature may require information unavailable from the cockpit at the time. The Eglin investigation therefore became a practical example of how UFO inquiries increasingly operate: witness testimony initiates the case, but technical evidence is used to test and refine what the witness believed was seen. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP Case Resolution ReportsAARO assesses with high confidence that the object was consistent with a cluster of fully and partially inflat...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/e-zAHonwtb0" title="The UAP Files: What Trump is Releasing and What It Won&#x27;t Prove" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=e-zAHonwtb0" target="_blank" rel="noopener noreferrer">The UAP Files: What Trump is Releasing and What It Won&#x27;t Prove</a></p><p class="youtube-embed-meta">Channel: UFO to UAP: Government Disclosure &amp; Evidence</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=e-zAHonwtb0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=e-zAHonwtb0">Open on YouTube</a></p></div></div></div>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4UP3c5UhlC8" title="UFO Sightings: Navy Pilots Share Their Experiences | NOVA | PBS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4UP3c5UhlC8" target="_blank" rel="noopener noreferrer">UFO Sightings: Navy Pilots Share Their Experiences | NOVA | PBS</a></p><p class="youtube-embed-meta">Channel: NOVA PBS Official</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4UP3c5UhlC8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4UP3c5UhlC8">Open on YouTube</a></p></div></div></div>
 
 ## What the Case Revealed About Pilot Reports
 
@@ -328,7 +317,6 @@ Several features made the report compelling at first glance:
 Yet the same case also demonstrates why investigators seek independent confirmation. Radar contacts may not all represent the same physical object. Visual impressions can be affected by range uncertainty. Infrared imagery may not reveal scale. Relative motion can create misleading impressions of speed or manoeuvrability. A later reconstruction may explain behaviour that initially appeared anomalous. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP Case Resolution ReportsAARO assesses with high confidence that the object was consistent with a cluster of fully and partially inflat...</span></span></span>
 
 The Eglin UAP case therefore serves as a modern example of the balance investigators try to strike. A pilot's report is treated seriously because it may reveal a genuine aviation hazard. But seriousness does not mean automatic acceptance. The case tested whether professional testimony alone was sufficient to establish an extraordinary claim, and the investigation concluded that technical evidence pointed toward a far more conventional explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP Case Resolution ReportsAARO assesses with high confidence that the object was consistent with a cluster of fully and partially inflat...</span></span></span>
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a_eglin_uap_pilot_test_82f778-Illustration-3-dark.svg" | relative_url }}" alt="Eglin Case illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a_eglin_uap_pilot_test_82f778-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a_eglin_uap_pilot_test_82f778-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -449,15 +437,15 @@ The Eglin UAP case therefore serves as a modern example of the balance investiga
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eglin-case-what-the-eglin-uap-case-tested-ifos-causes-of-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="eglin-case-what-the-eglin-uap-case-tested-ifos-causes-of-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NECA Aliens AVP GRID ALIEN Series 7 movie 7&quot; Action Figure UK STOCK！"><img src="{{ '/assets/images/marketplace-covers/d42a50de6551ffda29c9.jpg' | relative_url }}" alt="Listing image for NECA Aliens AVP GRID ALIEN Series 7 movie 7&quot; Action Figure UK STOCK！" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-eglin-uap-case-tested-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="what-the-eglin-uap-case-tested-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MiG-15 Model Red Nose Jet Fighter Model Silver Finish"><img src="https://i.ebayimg.com/images/g/FsUAAeSw9LJqIYBJ/s-l225.jpg" alt="Listing image for MiG-15 Model Red Nose Jet Fighter Model Silver Finish" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eglin-case-what-the-eglin-uap-case-tested-ifos-causes-of-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="eglin-case-what-the-eglin-uap-case-tested-ifos-causes-of-alien-figure" target="_blank" rel="sponsored noopener noreferrer">NECA Aliens AVP GRID ALIEN Series 7 movie 7&quot; Action Figure UK STOCK！</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-eglin-uap-case-tested-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="what-the-eglin-uap-case-tested-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">MiG-15 Model Red Nose Jet Fighter Model Silver Finish</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eglin-case-what-the-eglin-uap-case-tested-ifos-causes-of-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="eglin-case-what-the-eglin-uap-case-tested-ifos-causes-of-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-eglin-uap-case-tested-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="what-the-eglin-uap-case-tested-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search <span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eglin-case-what-the-eglin-uap-case-tested-ifos-causes-of-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="eglin-case-what-the-eglin-uap-case-tested-ifos-causes-of-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-eglin-uap-case-tested-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="what-the-eglin-uap-case-tested-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -465,15 +453,15 @@ The Eglin UAP case therefore serves as a modern example of the balance investiga
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eglin-case-what-the-eglin-uap-case-tested-ifos-causes-of-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="eglin-case-what-the-eglin-uap-case-tested-ifos-causes-of-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Neca Alien (1979 movie) Xenomorph 7&quot; Action Figure Model Boxed Toys Xmas Gift"><img src="{{ '/assets/images/marketplace-covers/3050cb0d7d4bb42d0507.jpg' | relative_url }}" alt="Listing image for Neca Alien (1979 movie) Xenomorph 7&quot; Action Figure Model Boxed Toys Xmas Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-eglin-uap-case-tested-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="what-the-eglin-uap-case-tested-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:72 French Fighter Jet Model Airplane Toy for Office Shelf Livingroom"><img src="https://i.ebayimg.com/images/g/NncAAeSw7z5ppdGO/s-l225.jpg" alt="Listing image for 1:72 French Fighter Jet Model Airplane Toy for Office Shelf Livingroom" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eglin-case-what-the-eglin-uap-case-tested-ifos-causes-of-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="eglin-case-what-the-eglin-uap-case-tested-ifos-causes-of-alien-figure" target="_blank" rel="sponsored noopener noreferrer">Neca Alien (1979 movie) Xenomorph 7&quot; Action Figure Model Boxed Toys Xmas Gift</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-eglin-uap-case-tested-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="what-the-eglin-uap-case-tested-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">1:72 French Fighter Jet Model Airplane Toy for Office Shelf Livingroom</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eglin-case-what-the-eglin-uap-case-tested-ifos-causes-of-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="eglin-case-what-the-eglin-uap-case-tested-ifos-causes-of-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-eglin-uap-case-tested-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="what-the-eglin-uap-case-tested-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search <span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eglin-case-what-the-eglin-uap-case-tested-ifos-causes-of-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="eglin-case-what-the-eglin-uap-case-tested-ifos-causes-of-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-eglin-uap-case-tested-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="what-the-eglin-uap-case-tested-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -481,15 +469,15 @@ The Eglin UAP case therefore serves as a modern example of the balance investiga
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eglin-case-what-the-eglin-uap-case-tested-ifos-causes-of-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="eglin-case-what-the-eglin-uap-case-tested-ifos-causes-of-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Neca Alien (1979 movie) Xenomorph 7&quot; Action Figure Model Boxed Toys Gift"><img src="{{ '/assets/images/marketplace-covers/6334d97401f900843e45.jpg' | relative_url }}" alt="Listing image for Neca Alien (1979 movie) Xenomorph 7&quot; Action Figure Model Boxed Toys Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-eglin-uap-case-tested-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="what-the-eglin-uap-case-tested-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for United States Navy Blue Angels F/A-18 Hornet Fighter Jet Die Cast Model Toy"><img src="https://i.ebayimg.com/images/g/n00AAeSwgG1pD-xP/s-l225.jpg" alt="Listing image for United States Navy Blue Angels F/A-18 Hornet Fighter Jet Die Cast Model Toy" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eglin-case-what-the-eglin-uap-case-tested-ifos-causes-of-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="eglin-case-what-the-eglin-uap-case-tested-ifos-causes-of-alien-figure" target="_blank" rel="sponsored noopener noreferrer">Neca Alien (1979 movie) Xenomorph 7&quot; Action Figure Model Boxed Toys Gift</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-eglin-uap-case-tested-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="what-the-eglin-uap-case-tested-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">United States Navy Blue Angels F/A-18 Hornet Fighter Jet Die Cast Model Toy</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eglin-case-what-the-eglin-uap-case-tested-ifos-causes-of-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="eglin-case-what-the-eglin-uap-case-tested-ifos-causes-of-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-eglin-uap-case-tested-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="what-the-eglin-uap-case-tested-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search <span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eglin-case-what-the-eglin-uap-case-tested-ifos-causes-of-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="eglin-case-what-the-eglin-uap-case-tested-ifos-causes-of-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-eglin-uap-case-tested-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="what-the-eglin-uap-case-tested-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -497,15 +485,15 @@ The Eglin UAP case therefore serves as a modern example of the balance investiga
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eglin-case-what-the-eglin-uap-case-tested-ifos-causes-of-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="eglin-case-what-the-eglin-uap-case-tested-ifos-causes-of-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NECA Alien Hadleys Hope Carter J.Burke Xenomorph Warrior 2 Pack 7&quot; Action Figure"><img src="{{ '/assets/images/marketplace-covers/982e425fc95060e67433.jpg' | relative_url }}" alt="Listing image for NECA Alien Hadleys Hope Carter J.Burke Xenomorph Warrior 2 Pack 7&quot; Action Figure" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-eglin-uap-case-tested-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="what-the-eglin-uap-case-tested-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:100 F-14 VF-84 Tomcat Jolly Rogers Fighter Jet Aircraft Diecast Model US Navy"><img src="https://i.ebayimg.com/images/g/D~UAAeSwBslpeL00/s-l225.jpg" alt="Listing image for 1:100 F-14 VF-84 Tomcat Jolly Rogers Fighter Jet Aircraft Diecast Model US Navy" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eglin-case-what-the-eglin-uap-case-tested-ifos-causes-of-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="eglin-case-what-the-eglin-uap-case-tested-ifos-causes-of-alien-figure" target="_blank" rel="sponsored noopener noreferrer">NECA Alien Hadleys Hope Carter J.Burke Xenomorph Warrior 2 Pack 7&quot; Action Figure</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-eglin-uap-case-tested-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="what-the-eglin-uap-case-tested-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">1:100 F-14 VF-84 Tomcat Jolly Rogers Fighter Jet Aircraft Diecast Model US Navy</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eglin-case-what-the-eglin-uap-case-tested-ifos-causes-of-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="eglin-case-what-the-eglin-uap-case-tested-ifos-causes-of-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-eglin-uap-case-tested-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="what-the-eglin-uap-case-tested-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search <span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eglin-case-what-the-eglin-uap-case-tested-ifos-causes-of-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="eglin-case-what-the-eglin-uap-case-tested-ifos-causes-of-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-eglin-uap-case-tested-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="what-the-eglin-uap-case-tested-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -513,7 +501,7 @@ The Eglin UAP case therefore serves as a modern example of the balance investiga
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eglin-case-what-the-eglin-uap-case-tested-ifos-causes-of-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="eglin-case-what-the-eglin-uap-case-tested-ifos-causes-of-alien-figure" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-eglin-uap-case-tested-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="what-the-eglin-uap-case-tested-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -728,17 +716,17 @@ The Eglin UAP case therefore serves as a modern example of the balance investiga
 
 1. <a id="endnote-1"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf](https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROEglin UAP Case Resolution(U) AARO assesses the object was a lighter-than-air (LTA) object, such as a large form- factor balloon; a me...</p></details>
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Eglin UAP Case Resolution(U) AARO assesses the object was a lighter-than-air (LTA) object, such as a large form- factor balloon; a me...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/](https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Case Resolution ReportsAARO assesses with high confidence that the object was consistent with a cluster of fully and partially inflat...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: ufotransparency.com  
-   Link: [https://ufotransparency.com/files/decade-2020s-aaro-eglin-uap-case-resolution-2023-case-resolution-of-eglin-uap-2-508](https://ufotransparency.com/files/decade-2020s-aaro-eglin-uap-case-resolution-2023-case-resolution-of-eglin-uap-2-508)  
+   Link: <a href="https://ufotransparency.com/files/decade-2020s-aaro-eglin-uap-case-resolution-2023-case-resolution-of-eglin-uap-2-508" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/decade-2020s-aaro-eglin-uap-case-resolution-2023-case-resolution-of-eglin-uap-2-508</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO TransparencyAARO Eglin AFB Case Resolution, October 2023, All-domain...On January 26, 2023, a military pilot detected four objects o...</p></details>
    Published: January 26, 2023  
 
@@ -746,56 +734,56 @@ The Eglin UAP case therefore serves as a modern example of the balance investiga
 
 4. <a id="endnote-4"></a>
    Source: x.com  
-   Link: [https://x.com/DoD_AARO/status/1783215130076959000](https://x.com/DoD_AARO/status/1783215130076959000)  
+   Link: <a href="https://x.com/DoD_AARO/status/1783215130076959000" target="_blank" rel="noopener noreferrer nofollow">https://x.com/DoD_AARO/status/1783215130076959000</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>X (formerly Twitter)Today, AARO released its resolution for the case known as...Today, AARO released its resolution for the case known a...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/cnn/posts/the-pentagon-released-what-it-says-are-never-before-seen-files-on-ufos-and-vario/1353011790024802/](https://www.facebook.com/cnn/posts/the-pentagon-released-what-it-says-are-never-before-seen-files-on-ufos-and-vario/1353011790024802/)  
+   Link: <a href="https://www.facebook.com/cnn/posts/the-pentagon-released-what-it-says-are-never-before-seen-files-on-ufos-and-vario/1353011790024802/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cnn/posts/the-pentagon-released-what-it-says-are-never-before-seen-files-on-ufos-and-vario/1353011790024802/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Pentagon released what it says are &quot;never-beforeAnother set of photos from Navy personnel showed three objects... -- AARO will coord...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: thedebrief.org  
-   Link: [https://thedebrief.org/aaro-has-only-moderate-confidence-in-findings-from-its-latest-uap-investigation-its-easy-to-see-why/](https://thedebrief.org/aaro-has-only-moderate-confidence-in-findings-from-its-latest-uap-investigation-its-easy-to-see-why/)  
+   Link: <a href="https://thedebrief.org/aaro-has-only-moderate-confidence-in-findings-from-its-latest-uap-investigation-its-easy-to-see-why/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/aaro-has-only-moderate-confidence-in-findings-from-its-latest-uap-investigation-its-easy-to-see-why/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Has Only “Moderate Confidence” in Findings From...25 Apr 2024 — The Pentagon&#x27;s AARO has released a report on its findings involving...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: cbsaustin.com  
-   Link: [https://cbsaustin.com/news/nation-world/matt-gaetz-calls-for-subpoena-of-images-depicting-potential-ufo-encounter-off-gulf-coast-unidentified-flying-objects-hearing-uaps-pentagon](https://cbsaustin.com/news/nation-world/matt-gaetz-calls-for-subpoena-of-images-depicting-potential-ufo-encounter-off-gulf-coast-unidentified-flying-objects-hearing-uaps-pentagon)  
+   Link: <a href="https://cbsaustin.com/news/nation-world/matt-gaetz-calls-for-subpoena-of-images-depicting-potential-ufo-encounter-off-gulf-coast-unidentified-flying-objects-hearing-uaps-pentagon" target="_blank" rel="noopener noreferrer nofollow">https://cbsaustin.com/news/nation-world/matt-gaetz-calls-for-subpoena-of-images-depicting-potential-ufo-encounter-off-gulf-coast-unidentified-flying-objects-hearing-uaps-pentagon</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gaetz calls for subpoena of images depicting potential...28 Jul 2023 — He is now asking the a House Oversight subcommittee to subpoena t...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1ccnj6t/aaro_does_not_have_a_100_confidence_in_its_report/](https://www.reddit.com/r/UFOs/comments/1ccnj6t/aaro_does_not_have_a_100_confidence_in_its_report/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ccnj6t/aaro_does_not_have_a_100_confidence_in_its_report/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ccnj6t/aaro_does_not_have_a_100_confidence_in_its_report/</a>  
 
 9. <a id="endnote-9"></a>
    Source: mightytravels.com  
-   Link: [https://www.mightytravels.com/2024/05/7-intriguing-facts-about-the-unidentified-aircraft-spotted-over-eglin-air-force-base/](https://www.mightytravels.com/2024/05/7-intriguing-facts-about-the-unidentified-aircraft-spotted-over-eglin-air-force-base/)  
+   Link: <a href="https://www.mightytravels.com/2024/05/7-intriguing-facts-about-the-unidentified-aircraft-spotted-over-eglin-air-force-base/" target="_blank" rel="noopener noreferrer nofollow">https://www.mightytravels.com/2024/05/7-intriguing-facts-about-the-unidentified-aircraft-spotted-over-eglin-air-force-base/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Pilots](&amp;#123;&amp;#123; &#x27;pilots/&#x27; | relative_url &amp;#125;&amp;#125;) Report Unidentified Aircraft Over Eglin Air Force Base21 May 2024 — The recent UAP sighting near Eglin Air Force Base has been res...</p></details>
    Published: May 2024  
 
 10. <a id="endnote-10"></a>
    Source: twz.com  
    Title: eglin afb pilot likely saw a lighting balloon not a ufo pentagon concludes  
-   Link: [https://www.twz.com/air/eglin-afb-pilot-likely-saw-a-lighting-balloon-not-a-ufo-pentagon-concludes](https://www.twz.com/air/eglin-afb-pilot-likely-saw-a-lighting-balloon-not-a-ufo-pentagon-concludes)  
+   Link: <a href="https://www.twz.com/air/eglin-afb-pilot-likely-saw-a-lighting-balloon-not-a-ufo-pentagon-concludes" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/air/eglin-afb-pilot-likely-saw-a-lighting-balloon-not-a-ufo-pentagon-concludes</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneEglin AFB Pilot Likely Saw A Lighting Balloon, Not A UFO...24 Apr 2024 — “The pilot reported that upon closing to within 4,0...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/](https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nov 14, 2567 BE — This report covers UAP from May 1, 2023, to June 1, 2024, and all UAP reports from any previous time periods that were...</p></details>
    Published: May 1, 2023  
 
 12. <a id="endnote-12"></a>
    Source: brobible.com  
    Title: pentagon ufo office report air force encounter gulf mexico  
-   Link: [https://brobible.com/sports/article/pentagon-ufo-office-report-air-force-encounter-gulf-mexico/](https://brobible.com/sports/article/pentagon-ufo-office-report-air-force-encounter-gulf-mexico/)  
+   Link: <a href="https://brobible.com/sports/article/pentagon-ufo-office-report-air-force-encounter-gulf-mexico/" target="_blank" rel="noopener noreferrer nofollow">https://brobible.com/sports/article/pentagon-ufo-office-report-air-force-encounter-gulf-mexico/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon&#x27;s UFO Office Releases Report On Air Force...29 Apr 2024 — “On 26 January 2023, a military pilot reported four potential unident...</p></details>
    Published: January 2023  
 
 13. <a id="endnote-13"></a>
    Source: eurasiantimes.com  
    Title: jammed its radar moving with beyond human capabilities  
-   Link: [https://www.eurasiantimes.com/jammed-its-radar-moving-with-beyond-human-capabilities/](https://www.eurasiantimes.com/jammed-its-radar-moving-with-beyond-human-capabilities/)  
+   Link: <a href="https://www.eurasiantimes.com/jammed-its-radar-moving-with-beyond-human-capabilities/" target="_blank" rel="noopener noreferrer nofollow">https://www.eurasiantimes.com/jammed-its-radar-moving-with-beyond-human-capabilities/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US Air Force: UFO That &quot;Jammed&quot; Fighter Jet&#x27;s Radar...25 Apr 2024 — The report concluded with “moderate confidence” that the pilot had i...</p></details>

@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_weak_files_unresolve_f6f422
 - ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_witness_estimates_uf_4a62d6
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - unresolved-cases
 - active-archives
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - unresolved-cases
 - active-archives
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: An unresolved case may become useful later when analysts compare it with clusters, patterns and newly available records.
 hero_summary: An unresolved case may become useful later when analysts compare it with clusters, patterns and newly available records.
 layout: default
 permalink: /active-archives/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /unresolved-cases/
 nav_short_title: Active Archives
 title: Can Old UFO Reports Become Useful Later?
-title_full: Can Old UFO Reports Become Useful Later? | Unresolved Cases
+title_full: Can Old UFO Reports Become Useful Later?
 display_title_short: Active Archives
 display_title: Active Archives
 heading_title: Can Old UFO Reports Become Useful Later?
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Some UFO Cases Stay Open | IFOs
+parent_title: Why Some UFO Cases Stay Open
 parent_permalink: /unresolved-cases/
 parent_nav_short_title: Unresolved Cases
 parent_heading_title: Why Some UFO Cases Stay Open
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06
-  title: Unresolved Cases | Ifos Causes Of
+  title: Unresolved Cases | ifos causes of UFO 3 ed 238
   permalink: /unresolved-cases/
   short_title: Unresolved Cases
   heading_title: Why Some UFO Cases Stay Open
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06
-  title: Unresolved Cases | Ifos Causes Of
+  title: Unresolved Cases | ifos causes of UFO 3 ed 238
   permalink: /unresolved-cases/
   short_title: Unresolved Cases
   heading_title: Why Some UFO Cases Stay Open
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why Sky Witnesses Disagree So Often
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06
-  title: Unresolved Cases | Ifos Causes Of
+  title: Unresolved Cases | ifos causes of UFO 3 ed 238
   permalink: /unresolved-cases/
   short_title: Unresolved Cases
   heading_title: Why Some UFO Cases Stay Open
@@ -259,7 +259,7 @@ next_link:
   permalink: /sensor-context/
   short_title: Sensor Context
   heading_title: Why UFO Videos Need More Than Footage
-date: '2026-06-07 06:08:05 '
+date: '2026-06-12 00:35:51 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_active_archives_uap_0b0a4a-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_active_archives_uap_0b0a4a-Illustration-1.webp
@@ -270,14 +270,12 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_active
 
 Unresolved UFO or UAP reports do not necessarily stay unresolved forever. In many cases, the problem is not that investigators found something extraordinary, but that they lacked enough information at the time to reach a reliable conclusion. An active archive addresses that problem by preserving reports, sensor records, witness statements and analytical notes so they can be reviewed later when new evidence, improved databases or broader patterns emerge. Modern UAP programmes increasingly treat unresolved cases as data assets rather than dead ends. The goal is not to keep mysteries alive indefinitely, but to determine whether future context can turn an uncertain report into an identifiable flying object (IFO). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">department of war releases unidentified anomalous phenomena files in historic t</span><span class="citation-popover-snippet">Department of WarDepartment of War Releases Unidentified Anomalous...8 May 2026 — Today, the Department of War announced the initial rel...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>(https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/)
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_active_archives_uap_0b0a4a-Illustration-1-dark.svg" | relative_url }}" alt="Active Archives illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_active_archives_uap_0b0a4a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_active_archives_uap_0b0a4a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This approach helps explain why some cases remain open after an investigation. Rather than forcing a premature judgement, agencies can retain the record and revisit it when better information becomes available.
 
 ## Why Investigators Keep Under-Documented Reports
 
-Many UAP reports are difficult to evaluate because essential details are missing. The exact time may be uncertain, sensor settings may be unavailable, [weather records]({{ 'weather-records/' | relative_url }}) may not have been checked, or a witness account may be too brief to reconstruct the event accurately. NASA's independent UAP study highlighted the central role of [missing metadata]({{ 'missing-metadata/' | relative_url }}), inconsistent observations and poor data curation in preventing reliable analysis. NASA Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Responses to Statement of Task</span><span class="citation-popover-snippet">WikisourceNASA Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — To date, UAP data often consist of observations initially a...</span></span></span> An active archive preserves these incomplete cases instead of discarding them. This serves several purposes:
-
+Many UAP reports are difficult to evaluate because essential details are missing. The exact time may be uncertain, sensor settings may be unavailable, [weather records]({{ 'weather-records/' | relative_url }}) may not have been checked, or a witness account may be too brief to reconstruct the event accurately. NASA's independent UAP study highlighted the central role of [missing metadata]({{ 'missing-metadata/' | relative_url }}), inconsistent observations and poor data curation in preventing reliable analysis. NASA Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Responses to Statement of Task</span><span class="citation-popover-snippet">NASA Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — To date, UAP data often consist of observations initially a...</span></span></span> An active archive preserves these incomplete cases instead of discarding them. This serves several purposes:
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -292,7 +290,6 @@ The practice is now explicit in government UAP management. In its Fiscal Year 20
 
 The key point is that unresolved does not mean forgotten. It means the case has been preserved for future analytical value.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/K4SiqjS28ZE" title="Let&#x27;s Talk About the New UFO Files Released by The Government" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=K4SiqjS28ZE" target="_blank" rel="noopener noreferrer">Let&#x27;s Talk About the New UFO Files Released by The Government</a></p><p class="youtube-embed-meta">Channel: Anton Petrov &middot; Views: 172.0K &middot; Uploaded: May 2026 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=K4SiqjS28ZE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=K4SiqjS28ZE">Open on YouTube</a></p></div></div></div>
 
 ## How Clusters Can Reveal Ordinary Patterns
@@ -306,7 +303,6 @@ This process resembles pattern recognition used in other fields of intelligence 
 Historical UFO research provides many examples of this phenomenon. Apparent waves of unusual sightings have later been linked to newly deployed aircraft, satellite launches, astronomical events or widespread misidentifications. The identification often emerged not because one witness provided better evidence, but because analysts could compare many archived reports and recognise a common cause.
 
 This is one reason unresolved cases should not automatically be interpreted as evidence of an exotic phenomenon. Sometimes the missing piece is not hidden information within the case itself but a broader pattern that only becomes visible after many similar reports accumulate.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_active_archives_uap_0b0a4a-Illustration-2-dark.svg" | relative_url }}" alt="Active Archives illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_active_archives_uap_0b0a4a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_active_archives_uap_0b0a4a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What New Evidence Can Reopen a Case?
@@ -327,7 +323,6 @@ Several developments can transform an old unresolved case:
 
 The value of an archive therefore grows over time. Each new report, database or document release increases the opportunities for comparison.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jKLOXBRafyI" title="Pentagon releases more declassified UFO files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jKLOXBRafyI" target="_blank" rel="noopener noreferrer">Pentagon releases more declassified UFO files</a></p><p class="youtube-embed-meta">Channel: ABC News &middot; Views: 210.9K &middot; Uploaded: May 2026 &middot; Length: 2 minutes 25 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jKLOXBRafyI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jKLOXBRafyI">Open on YouTube</a></p></div></div></div>
 
 ## Why Archives Matter More Than Individual Cases
@@ -335,7 +330,6 @@ The value of an archive therefore grows over time. Each new report, database or 
 The public often focuses on dramatic individual sightings. Investigators are usually more interested in what happens when thousands of reports are examined collectively.
 
 An archive allows analysts to ask questions that a single case cannot answer:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -346,10 +340,9 @@ An archive allows analysts to ask questions that a single case cannot answer:
 
 </div>
 
-NASA's UAP study repeatedly stressed that rigorous analysis depends on structured data collection, curation and archiving rather than isolated anecdotes. The study argued that understanding unusual observations requires systematic comparison across many observations, not just attention to a few famous incidents. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Responses to Statement of Task</span><span class="citation-popover-snippet">WikisourceNASA Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — To date, UAP data often consist of observations initially a...</span></span></span>
+NASA's UAP study repeatedly stressed that rigorous analysis depends on structured data collection, curation and archiving rather than isolated anecdotes. The study argued that understanding unusual observations requires systematic comparison across many observations, not just attention to a few famous incidents. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Responses to Statement of Task</span><span class="citation-popover-snippet">NASA Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — To date, UAP data often consist of observations initially a...</span></span></span>
 
 In this sense, active archives are less about preserving mysteries and more about creating a framework for future identification. They transform unresolved reports from isolated puzzles into a searchable body of evidence.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_active_archives_uap_0b0a4a-Illustration-3-dark.svg" | relative_url }}" alt="Active Archives illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_active_archives_uap_0b0a4a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_active_archives_uap_0b0a4a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Active Archives Reduce, Rather Than Increase, Mystery
@@ -360,9 +353,7 @@ As new information accumulates, many older cases become easier to explain. Impro
 
 An active archive therefore functions as a quality-control mechanism. It allows investigators to postpone judgement until sufficient evidence exists while preserving the possibility of future resolution. For the study of IFOs and UFO reports alike, that may be the most important role an archive can play: turning uncertainty into a question that can be revisited rather than a mystery that remains permanently unsolved.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XFBPI2uuFrM" title="NASA releases UFO report and says more data needed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XFBPI2uuFrM" target="_blank" rel="noopener noreferrer">NASA releases UFO report and says more data needed</a></p><p class="youtube-embed-meta">Channel: AP Archive &middot; Views: 991 &middot; Uploaded: September 2023 &middot; Length: 1 minute 32 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XFBPI2uuFrM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XFBPI2uuFrM">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -481,15 +472,15 @@ An active archive therefore functions as a quality-control mechanism. It allows 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=active-archives-can-old-ufo-reports-become-useful-later-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="active-archives-can-old-ufo-reports-become-useful-later-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-old-ufo-reports-become-useful-later-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-old-ufo-reports-become-useful-later-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=active-archives-can-old-ufo-reports-become-useful-later-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="active-archives-can-old-ufo-reports-become-useful-later-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-old-ufo-reports-become-useful-later-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-old-ufo-reports-become-useful-later-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=active-archives-can-old-ufo-reports-become-useful-later-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="active-archives-can-old-ufo-reports-become-useful-later-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-old-ufo-reports-become-useful-later-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-old-ufo-reports-become-useful-later-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=active-archives-can-old-ufo-reports-become-useful-later-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="active-archives-can-old-ufo-reports-become-useful-later-ifos-causes-of-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-old-ufo-reports-become-useful-later-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-old-ufo-reports-become-useful-later-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -497,15 +488,15 @@ An active archive therefore functions as a quality-control mechanism. It allows 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=active-archives-can-old-ufo-reports-become-useful-later-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="active-archives-can-old-ufo-reports-become-useful-later-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-old-ufo-reports-become-useful-later-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-old-ufo-reports-become-useful-later-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=active-archives-can-old-ufo-reports-become-useful-later-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="active-archives-can-old-ufo-reports-become-useful-later-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-old-ufo-reports-become-useful-later-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-old-ufo-reports-become-useful-later-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=active-archives-can-old-ufo-reports-become-useful-later-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="active-archives-can-old-ufo-reports-become-useful-later-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-old-ufo-reports-become-useful-later-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-old-ufo-reports-become-useful-later-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=active-archives-can-old-ufo-reports-become-useful-later-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="active-archives-can-old-ufo-reports-become-useful-later-ifos-causes-of-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-old-ufo-reports-become-useful-later-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-old-ufo-reports-become-useful-later-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -513,15 +504,15 @@ An active archive therefore functions as a quality-control mechanism. It allows 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=active-archives-can-old-ufo-reports-become-useful-later-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="active-archives-can-old-ufo-reports-become-useful-later-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-old-ufo-reports-become-useful-later-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-old-ufo-reports-become-useful-later-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=active-archives-can-old-ufo-reports-become-useful-later-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="active-archives-can-old-ufo-reports-become-useful-later-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-old-ufo-reports-become-useful-later-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-old-ufo-reports-become-useful-later-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=active-archives-can-old-ufo-reports-become-useful-later-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="active-archives-can-old-ufo-reports-become-useful-later-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-old-ufo-reports-become-useful-later-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-old-ufo-reports-become-useful-later-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=active-archives-can-old-ufo-reports-become-useful-later-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="active-archives-can-old-ufo-reports-become-useful-later-ifos-causes-of-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-old-ufo-reports-become-useful-later-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-old-ufo-reports-become-useful-later-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -529,15 +520,15 @@ An active archive therefore functions as a quality-control mechanism. It allows 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=active-archives-can-old-ufo-reports-become-useful-later-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="active-archives-can-old-ufo-reports-become-useful-later-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-old-ufo-reports-become-useful-later-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-old-ufo-reports-become-useful-later-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=active-archives-can-old-ufo-reports-become-useful-later-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="active-archives-can-old-ufo-reports-become-useful-later-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-old-ufo-reports-become-useful-later-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-old-ufo-reports-become-useful-later-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=active-archives-can-old-ufo-reports-become-useful-later-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="active-archives-can-old-ufo-reports-become-useful-later-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-old-ufo-reports-become-useful-later-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-old-ufo-reports-become-useful-later-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=active-archives-can-old-ufo-reports-become-useful-later-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="active-archives-can-old-ufo-reports-become-useful-later-ifos-causes-of-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-old-ufo-reports-become-useful-later-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-old-ufo-reports-become-useful-later-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -545,7 +536,7 @@ An active archive therefore functions as a quality-control mechanism. It allows 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=active-archives-can-old-ufo-reports-become-useful-later-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="active-archives-can-old-ufo-reports-become-useful-later-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-old-ufo-reports-become-useful-later-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-old-ufo-reports-become-useful-later-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -761,124 +752,124 @@ An active archive therefore functions as a quality-control mechanism. It allows 
 1. <a id="endnote-1"></a>
    Source: media.defense.gov  
    Title: FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508  
-   Link: [https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF](https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarFiscal Year 2024 Consolidated Annual Report on...November 14, 2024 — 14 Nov 2024 — The remaining 444 cases lacked suffi...</p></details>
    Published: November 14, 2024  
 
 2. <a id="endnote-2"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportAI and ML in studying UAP depends critically upon the quality of the data used to train the AI a...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: en.wikisource.org  
    Title: Responses to Statement of Task  
-   Link: [https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task](https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WikisourceNASA Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — To date, UAP data often consist of observations initially a...</p></details>
+   Link: <a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — To date, UAP data often consist of observations initially a...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: space.com  
    Title: nasa ufo study group better data needed  
-   Link: [https://www.space.com/nasa-ufo-study-group-better-data-needed](https://www.space.com/nasa-ufo-study-group-better-data-needed)  
+   Link: <a href="https://www.space.com/nasa-ufo-study-group-better-data-needed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-study-group-better-data-needed</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs will remain mysterious without better data, NASA...31 May 2023 — NASA&#x27;s UAP study team stressed that the biggest roadblock standing...</p></details>
    Published: May 2023  
 
 5. <a id="endnote-5"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s effo...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: space.com  
    Title: the ufo files what did we learn from the pentagons 1st big release  
-   Link: [https://www.space.com/space-exploration/search-for-life/the-ufo-files-what-did-we-learn-from-the-pentagons-1st-big-release](https://www.space.com/space-exploration/search-for-life/the-ufo-files-what-did-we-learn-from-the-pentagons-1st-big-release)  
+   Link: <a href="https://www.space.com/space-exploration/search-for-life/the-ufo-files-what-did-we-learn-from-the-pentagons-1st-big-release" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/search-for-life/the-ufo-files-what-did-we-learn-from-the-pentagons-1st-big-release</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Defense unveiled 158 previously classified files related to unidentified anomalous phenomena (UAP) as part of the Trump adm...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: war.gov  
    Title: department of war releases unidentified anomalous phenomena files in historic t  
-   Link: [https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/](https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDepartment of War Releases Unidentified Anomalous...8 May 2026 — Today, the Department of War announced the initial rel...</p></details>
    Published: May 2026  
 
 8. <a id="endnote-8"></a>
    Source: wired.com  
-   Link: [https://www.wired.com/story/nasa-ufos-aliens-report-2023](https://www.wired.com/story/nasa-ufos-aliens-report-2023)  
+   Link: <a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The agency stressed the need to shift the conversation from sensationalism to science and eliminate the [stigma](&amp;#123;&amp;#123; &#x27;stigma/&#x27; | relative_url &amp;#125;&amp;#125;) associated with reporting...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/UFO/](https://www.war.gov/UFO/)  
+   Link: <a href="https://www.war.gov/UFO/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/UFO/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Archival imagery from the Apollo 17 mission to...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — We commissioned a study team to examine from a scientific perspective unidentified anomalous phenomena (UAPs) – t...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: livescience.com  
-   Link: [https://www.livescience.com/space/extraterrestrial-life/us-government-declassifies-nearly-200-uap-files-including-strange-sightings-from-apollo-astronauts](https://www.livescience.com/space/extraterrestrial-life/us-government-declassifies-nearly-200-uap-files-including-strange-sightings-from-apollo-astronauts)  
+   Link: <a href="https://www.livescience.com/space/extraterrestrial-life/us-government-declassifies-nearly-200-uap-files-including-strange-sightings-from-apollo-astronauts" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/space/extraterrestrial-life/us-government-declassifies-nearly-200-uap-files-including-strange-sightings-from-apollo-astronauts</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Defense released a second batch of UFO-related files, bringing the total number of newly declassified documents to 162. Spa...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: pwkinternational.com  
    Title: uap unidentified anomaly or demand signal  
-   Link: [https://pwkinternational.com/2025/11/11/uap-unidentified-anomaly-or-demand-signal/](https://pwkinternational.com/2025/11/11/uap-unidentified-anomaly-or-demand-signal/)  
+   Link: <a href="https://pwkinternational.com/2025/11/11/uap-unidentified-anomaly-or-demand-signal/" target="_blank" rel="noopener noreferrer nofollow">https://pwkinternational.com/2025/11/11/uap-unidentified-anomaly-or-demand-signal/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP | An Uncertainty Tax &amp; Demand Signal |11 Nov 2025 — Across 2023–2024 the government recorded hundreds of reports and acknowledged a m...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: managingexpectations.net  
-   Link: [https://managingexpectations.net/blog/articles/nasa-uap-study-managing-expectations.html](https://managingexpectations.net/blog/articles/nasa-uap-study-managing-expectations.html)  
+   Link: <a href="https://managingexpectations.net/blog/articles/nasa-uap-study-managing-expectations.html" target="_blank" rel="noopener noreferrer nofollow">https://managingexpectations.net/blog/articles/nasa-uap-study-managing-expectations.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s UAP Study: What It Did — and Did Not — ConcludeNASA&#x27;s study team treated UAP as a scientific and data problem: how should reliable...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: usaherald.com  
-   Link: [https://usaherald.com/us-government-pentagon-releases-new-ufo-files-sparking-fresh-questions-as-declassified-uap-evidence-surges/](https://usaherald.com/us-government-pentagon-releases-new-ufo-files-sparking-fresh-questions-as-declassified-uap-evidence-surges/)  
+   Link: <a href="https://usaherald.com/us-government-pentagon-releases-new-ufo-files-sparking-fresh-questions-as-declassified-uap-evidence-surges/" target="_blank" rel="noopener noreferrer nofollow">https://usaherald.com/us-government-pentagon-releases-new-ufo-files-sparking-fresh-questions-as-declassified-uap-evidence-surges/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US Government: Pentagon Releases New UFO Files...22 hours ago — The Pentagon&#x27;s All-domain Anomaly Resolution Office, known as AARO, main...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: avi-loeb.medium.com  
-   Link: [https://avi-loeb.medium.com/nasa-aaro-and-the-galileo-project-agree-on-the-need-for-a-scientific-study-of-uap-58b39c005b57](https://avi-loeb.medium.com/nasa-aaro-and-the-galileo-project-agree-on-the-need-for-a-scientific-study-of-uap-58b39c005b57)  
+   Link: <a href="https://avi-loeb.medium.com/nasa-aaro-and-the-galileo-project-agree-on-the-need-for-a-scientific-study-of-uap-58b39c005b57" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/nasa-aaro-and-the-galileo-project-agree-on-the-need-for-a-scientific-study-of-uap-58b39c005b57</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>medium.comNASA, AARO and the Galileo Project Agree on the Need for a...NASA, AARO and the Galileo Project Agree on the Need for a Scient...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: utwente.nl  
-   Link: [https://www.utwente.nl/en/service-portal/services/lisa/resources/files/library-public/areda-archive-instructions.pdf](https://www.utwente.nl/en/service-portal/services/lisa/resources/files/library-public/areda-archive-instructions.pdf)  
+   Link: <a href="https://www.utwente.nl/en/service-portal/services/lisa/resources/files/library-public/areda-archive-instructions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.utwente.nl/en/service-portal/services/lisa/resources/files/library-public/areda-archive-instructions.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the Archiving datasets in Areda: a guideThis is a guide for archiving the datasets of your research in Areda, the UT data archive. archiv...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: Wikipedia  
    Title: NASA Unidentified Anomalous Phenomena Independent Study Team  
-   Link: [https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team](https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team)  
+   Link: <a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Unidentified Anomalous Phenomena Independent...The team&#x27;s report was released on September 14, 2023, and did not find evidence t...</p></details>
    Published: September 14, 2023  
 
 18. <a id="endnote-18"></a>
    Source: amsterdamumc.org  
-   Link: [https://www.amsterdamumc.org/en/research/research-roadmap/closure-publishing-archiving/step-3-closing-publication-valorization/archiving-of-documents-and-digital-data](https://www.amsterdamumc.org/en/research/research-roadmap/closure-publishing-archiving/step-3-closing-publication-valorization/archiving-of-documents-and-digital-data)  
+   Link: <a href="https://www.amsterdamumc.org/en/research/research-roadmap/closure-publishing-archiving/step-3-closing-publication-valorization/archiving-of-documents-and-digital-data" target="_blank" rel="noopener noreferrer nofollow">https://www.amsterdamumc.org/en/research/research-roadmap/closure-publishing-archiving/step-3-closing-publication-valorization/archiving-of-documents-and-digital-data</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Archiving of documents and digital data ・ the archived folders and boxes ・ review committee&#x27;...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: edepot.wur.nl  
-   Link: [https://edepot.wur.nl/539842](https://edepot.wur.nl/539842)  
+   Link: <a href="https://edepot.wur.nl/539842" target="_blank" rel="noopener noreferrer nofollow">https://edepot.wur.nl/539842</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>General research information. Project plan: permanent retention. Other research...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: scientificamerican.com  
    Title: bad data not aliens may be behind ufo surge nasa team says  
-   Link: [https://www.scientificamerican.com/article/bad-data-not-aliens-may-be-behind-ufo-surge-nasa-team-says/](https://www.scientificamerican.com/article/bad-data-not-aliens-may-be-behind-ufo-surge-nasa-team-says/)  
+   Link: <a href="https://www.scientificamerican.com/article/bad-data-not-aliens-may-be-behind-ufo-surge-nasa-team-says/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/bad-data-not-aliens-may-be-behind-ufo-surge-nasa-team-says/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bad Data, Not Aliens, May Be behind UFO Surge, NASA...9 Jun 2023 — Gaining any new clarity about surging reports of unidentified anomalo...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: fgb-rdm.nl  
-   Link: [https://fgb-rdm.nl/rdm/archiving/ArchivingGuidelinesFull.html](https://fgb-rdm.nl/rdm/archiving/ArchivingGuidelinesFull.html)  
+   Link: <a href="https://fgb-rdm.nl/rdm/archiving/ArchivingGuidelinesFull.html" target="_blank" rel="noopener noreferrer nofollow">https://fgb-rdm.nl/rdm/archiving/ArchivingGuidelinesFull.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>g both quantitative and qualitative methods, in order to safeguard continued...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: leonarddavid.com  
    Title: nasa report released unidentified anomalous phenomena uap  
-   Link: [https://www.leonarddavid.com/nasa-report-released-unidentified-anomalous-phenomena-uap/](https://www.leonarddavid.com/nasa-report-released-unidentified-anomalous-phenomena-uap/)  
+   Link: <a href="https://www.leonarddavid.com/nasa-report-released-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/nasa-report-released-unidentified-anomalous-phenomena-uap/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena (UAP) – UPDATED14 Sept 2023 — NASA has released its Unidentified Anomalous Phenomena (UAP) report comple...</p></details>

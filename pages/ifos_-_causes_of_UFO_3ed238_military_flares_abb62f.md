@@ -50,22 +50,22 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_wind_data_33671a
 - ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - flares
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - flares
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Illumination flares can hang, drift, brighten and fade in ways that resemble structured aerial objects at night.
 hero_summary: Illumination flares can hang, drift, brighten and fade in ways that resemble structured aerial objects at night.
 layout: default
 permalink: /flares/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 nav_short_title: Flares
 title: Why Flares Look Like Hovering Craft
-title_full: Why Flares Look Like Hovering Craft | IFOs
+title_full: Why Flares Look Like Hovering Craft
 display_title_short: Flares
 display_title: Flares
 heading_title: Why Flares Look Like Hovering Craft
@@ -240,213 +240,212 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 06:23:33'
 parent_title: IFOs
-parent_permalink: /ifos-causes-of/
+parent_permalink: /ifos-causes-of-ufo-3-ed-238/
 parent_nav_short_title: IFOs
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 sibling_links:
 - basename: ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d
-  title: A Head On Aircraft Can Look Like A Stationary Light Because It | Ifos Causes Of
+  title: A Head On Aircraft Can Look Like A Stationary Light Because It | ifos causes of UFO 3 ed 238
   permalink: /a-head-on-aircraft-can-look-like-a/
   short_title: A Head On Aircraft Can Look Like A Stationary Light Because It
   heading_title: The Stationary Light That Is Moving
 - basename: ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261
-  title: AARO | Ifos Causes Of
+  title: AARO | ifos causes of UFO 3 ed 238
   permalink: /aaro/
   short_title: AARO
   heading_title: What Modern UAP Reviews Resolve
 - basename: ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253
-  title: Aircraft Lights | Ifos Causes Of
+  title: Aircraft Lights | ifos causes of UFO 3 ed 238
   permalink: /aircraft-lights/
   short_title: Aircraft Lights
   heading_title: Why Ordinary Aircraft Look So Strange
 - basename: ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043
-  title: Atmosphere | Ifos Causes Of
+  title: Atmosphere | ifos causes of UFO 3 ed 238
   permalink: /atmosphere/
   short_title: Atmosphere
   heading_title: When Weather Makes Shapes in the Sky
 - basename: ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057
-  title: Balloons | Ifos Causes Of
+  title: Balloons | ifos causes of UFO 3 ed 238
   permalink: /balloons/
   short_title: Balloons
   heading_title: Why Balloons Become Flying Saucers
 - basename: ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40
-  title: Birds | Ifos Causes Of
+  title: Birds | ifos causes of UFO 3 ed 238
   permalink: /birds/
   short_title: Birds
   heading_title: How Birds Become Fast UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81
-  title: Blue Book | Ifos Causes Of
+  title: Blue Book | ifos causes of UFO 3 ed 238
   permalink: /blue-book/
   short_title: Blue Book
   heading_title: What Blue Book Teaches About IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e
-  title: Contrails | Ifos Causes Of
+  title: Contrails | ifos causes of UFO 3 ed 238
   permalink: /contrails/
   short_title: Contrails
   heading_title: Why Jet Trails Glow Like UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c
-  title: Drones | Ifos Causes Of
+  title: Drones | ifos causes of UFO 3 ed 238
   permalink: /drones/
   short_title: Drones
   heading_title: When a Drone Becomes a UFO
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e
-  title: First Checks | Ifos Causes Of
+  title: First Checks | ifos causes of UFO 3 ed 238
   permalink: /first-checks/
   short_title: First Checks
   heading_title: What to Check Before Calling It a UFO
 - basename: ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590
-  title: Flight Tracking | Ifos Causes Of
+  title: Flight Tracking | ifos causes of UFO 3 ed 238
   permalink: /flight-tracking/
   short_title: Flight Tracking
   heading_title: How Flight Data Solves UFO Sightings
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965
-  title: Hoaxes | Ifos Causes Of
+  title: Hoaxes | ifos causes of UFO 3 ed 238
   permalink: /hoaxes/
   short_title: Hoaxes
   heading_title: When UFO Reports Are Manufactured
 - basename: ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f
-  title: Infrared | Ifos Causes Of
+  title: Infrared | ifos causes of UFO 3 ed 238
   permalink: /infrared/
   short_title: Infrared
   heading_title: Why Infrared UFO Videos Mislead
 - basename: ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74
-  title: Insects | Ifos Causes Of
+  title: Insects | ifos causes of UFO 3 ed 238
   permalink: /insects/
   short_title: Insects
   heading_title: The Tiny Things Cameras Make Huge
 - basename: ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5
-  title: Lanterns | Ifos Causes Of
+  title: Lanterns | ifos causes of UFO 3 ed 238
   permalink: /lanterns/
   short_title: Lanterns
   heading_title: The Orange Lights That Start UFO Reports
 - basename: ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e
-  title: Lens Flare | Ifos Causes Of
+  title: Lens Flare | ifos causes of UFO 3 ed 238
   permalink: /lens-flare/
   short_title: Lens Flare
   heading_title: When Cameras Invent Extra Lights
 - basename: ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28
-  title: Mass Sightings | Ifos Causes Of
+  title: Mass Sightings | ifos causes of UFO 3 ed 238
   permalink: /mass-sightings/
   short_title: Mass Sightings
   heading_title: Why Groups Can Share One Mistake
 - basename: ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504
-  title: Meteors | Ifos Causes Of
+  title: Meteors | ifos causes of UFO 3 ed 238
   permalink: /meteors/
   short_title: Meteors
   heading_title: When Fireballs Become UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca
-  title: Missing Data | Ifos Causes Of
+  title: Missing Data | ifos causes of UFO 3 ed 238
   permalink: /missing-data/
   short_title: Missing Data
   heading_title: Unsolved Does Not Always Mean Strange
 - basename: ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183
-  title: NASA Study | Ifos Causes Of
+  title: NASA Study | ifos causes of UFO 3 ed 238
   permalink: /nasa-study/
   short_title: NASA Study
   heading_title: Why Better UFO Data Matters
 - basename: ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b
-  title: Parallax | Ifos Causes Of
+  title: Parallax | ifos causes of UFO 3 ed 238
   permalink: /parallax/
   short_title: Parallax
   heading_title: The Speed Illusion in UFO Footage
 - basename: ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a
-  title: Pilots | Ifos Causes Of
+  title: Pilots | ifos causes of UFO 3 ed 238
   permalink: /pilots/
   short_title: Pilots
   heading_title: Why Pilots Can Misidentify UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357
-  title: Radar | Ifos Causes Of
+  title: Radar | ifos causes of UFO 3 ed 238
   permalink: /radar/
   short_title: Radar
   heading_title: When Radar Sees a UFO That Isnt There
 - basename: ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c
-  title: Reflections | Ifos Causes Of
+  title: Reflections | ifos causes of UFO 3 ed 238
   permalink: /reflections/
   short_title: Reflections
   heading_title: The UFO Inside the Glass
 - basename: ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132
-  title: Rocket Plumes | Ifos Causes Of
+  title: Rocket Plumes | ifos causes of UFO 3 ed 238
   permalink: /rocket-plumes/
   short_title: Rocket Plumes
   heading_title: The Strange Clouds Rockets Leave Behind
 - basename: ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b
-  title: Satellites | Ifos Causes Of
+  title: Satellites | ifos causes of UFO 3 ed 238
   permalink: /satellites/
   short_title: Satellites
   heading_title: Why Satellites Surprise Night Watchers
 - basename: ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1
-  title: Searchlights | Ifos Causes Of
+  title: Searchlights | ifos causes of UFO 3 ed 238
   permalink: /searchlights/
   short_title: Searchlights
   heading_title: How Searchlights Paint UFOs in Clouds
 - basename: ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b
-  title: Sensor Operators | Ifos Causes Of
+  title: Sensor Operators | ifos causes of UFO 3 ed 238
   permalink: /sensor-operators/
   short_title: Sensor Operators
   heading_title: When Sensors Need Human Context
 - basename: ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391
-  title: Short Clips | Ifos Causes Of
+  title: Short Clips | ifos causes of UFO 3 ed 238
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: Why Short UFO Videos Are Hard to Trust
 - basename: ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f
-  title: Size Errors | Ifos Causes Of
+  title: Size Errors | ifos causes of UFO 3 ed 238
   permalink: /size-errors/
   short_title: Size Errors
   heading_title: Why Honest Witnesses Misjudge UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725
-  title: Sky Charts | Ifos Causes Of
+  title: Sky Charts | ifos causes of UFO 3 ed 238
   permalink: /sky-charts/
   short_title: Sky Charts
   heading_title: How to Check a UFO Against the Sky
 - basename: ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32
-  title: Stars | Ifos Causes Of
+  title: Stars | ifos causes of UFO 3 ed 238
   permalink: /stars/
   short_title: Stars
   heading_title: Why Stars Flash Like Machines
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb
-  title: Status Labels | Ifos Causes Of
+  title: Status Labels | ifos causes of UFO 3 ed 238
   permalink: /status-labels/
   short_title: Status Labels
   heading_title: UFO Does Not Mean Alien
 - basename: ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d
-  title: Strong Cases | Ifos Causes Of
+  title: Strong Cases | ifos causes of UFO 3 ed 238
   permalink: /strong-cases/
   short_title: Strong Cases
   heading_title: What Makes a UFO Report Harder to Explain
 - basename: ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948
-  title: UK Files | Ifos Causes Of
+  title: UK Files | ifos causes of UFO 3 ed 238
   permalink: /uk-files/
   short_title: UK Files
   heading_title: What the UK UFO Files Reveal
 - basename: ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06
-  title: Unresolved Cases | Ifos Causes Of
+  title: Unresolved Cases | ifos causes of UFO 3 ed 238
   permalink: /unresolved-cases/
   short_title: Unresolved Cases
   heading_title: Why Some UFO Cases Stay Open
 - basename: ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080
-  title: Venus | Ifos Causes Of
+  title: Venus | ifos causes of UFO 3 ed 238
   permalink: /venus/
   short_title: Venus
   heading_title: Is That UFO Really Venus?
 - basename: ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13
-  title: Weather Records | Ifos Causes Of
+  title: Weather Records | ifos causes of UFO 3 ed 238
   permalink: /weather-records/
   short_title: Weather Records
   heading_title: Weather Clues That Explain Strange Lights
 - basename: ifos_-_causes_of_UFO_3ed238_wind_data_33671a
-  title: Wind Data | Ifos Causes Of
+  title: Wind Data | ifos causes of UFO 3 ed 238
   permalink: /wind-data/
   short_title: Wind Data
   heading_title: Following a UFO With the Wind
@@ -479,20 +478,21 @@ child_links:
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 prev_link:
   basename: ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e
-  title: First Checks | Ifos Causes Of
+  title: First Checks | ifos causes of UFO 3 ed 238
   permalink: /first-checks/
   short_title: First Checks
   heading_title: What to Check Before Calling It a UFO
 next_link:
   basename: ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590
-  title: Flight Tracking | Ifos Causes Of
+  title: Flight Tracking | ifos causes of UFO 3 ed 238
   permalink: /flight-tracking/
   short_title: Flight Tracking
   heading_title: How Flight Data Solves UFO Sightings
+date: '2026-06-12 00:08:29 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f-overview-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f-overview.webp
@@ -502,7 +502,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f-overvie
 ## Introduction
 
 Illumination flares and military training lights are one of the most convincing night-time causes of UFO reports because they can look motionless, organised and unusually bright even while they are simply burning under parachutes or being released during exercises. A single flare can appear to “hover”; several dropped in sequence can seem to form a line, triangle or structured craft; and as they fall behind hills, cloud or haze they can appear to wink out one by one. The key is context: these lights are often real, bright, visible to many witnesses and captured on video, but their apparent behaviour can be misleading without [range]({{ 'range/' | relative_url }}), wind, timing and training-area information.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f-overview.webp" | relative_url }}" alt="Overview image for Flares" loading="eager" decoding="sync" fetchpriority="high">
 This makes flares a useful IFO category, not a dismissive one. They explain why sincere observers may report hovering craft, silent formations or lights that brighten and fade, while later evidence points to military or rescue-training activity. The best-known examples, including parts of the [Phoenix Lights]({{ 'phoenix-lights/' | relative_url }}) and repeated [San Diego]({{ 'san-diego/' | relative_url }}) sightings, show how ordinary training lights can become memorable UFO events when seen from a city at night. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deseret.com">[Deseret News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deseret.com</span><span class="citation-popover-title">News Flares, not UFOs, caused light show, military says – Deseret News</span><span class="citation-popover-snippet">News Flares, not UFOs, caused light show, military says – Deseret News</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/US/strange-lights-off-san-diego-coast-locals-taking/story?id=85849918" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-title">ABC News Strange lights off San Diego coast have locals taking to social media</span><span class="citation-popover-snippet">ABC News Strange lights off San Diego coast have locals taking to social media</span></span></span>
@@ -516,7 +515,6 @@ That slow, suspended burn is exactly what can fool the eye. At night, an observe
 Flares also do not behave like steady lamps. The LUU-2 page at GlobalSecurity notes that the magnesium candle gives a bright white light, that the burning aluminium case can add an orange tint, and that flare brightness can fluctuate because the burn is uneven. That helps explain reports of orange, reddish, pulsing or shimmering lights that seem to brighten and fade rather than blink like normal aircraft navigation lights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.globalsecurity.org/military/systems/munitions/luu2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalsecurity.org">[GlobalSecurity]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalsecurity.org</span><span class="citation-popover-title">Global Security LUU-2 Flare</span><span class="citation-popover-snippet">Global Security LUU-2 Flare</span></span></span>
 
 The final seconds can be especially deceptive. When a flare burns out, the light does not have to “fly away”; it can simply disappear. If several flares are falling behind a mountain ridge or marine cloud layer, they may vanish one after another, giving the impression that a row of lights is turning off in sequence on the underside of a large object. This is why witness descriptions such as “hovered, then faded out” are compatible with flares, provided the timing, direction and local training activity also fit.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f-Illustration-1-dark.svg" | relative_url }}" alt="Flares illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Training ranges and timing are the strongest clues
@@ -541,7 +539,6 @@ For flares specifically, the pattern is familiar:
 
 A careful identification therefore needs time, compass direction, elevation, [wind direction]({{ 'wind-direction/' | relative_url }}) aloft, local terrain, range schedules, NOTAMs or aviation notices where available, and any official confirmation from the units or agencies involved. Without those checks, “flares” can become a lazy label; with them, it can be a strong explanation.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9aXlxGDo3-4" title="Investigating mystery triangle UFO spotted above U.S. marine base" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9aXlxGDo3-4" target="_blank" rel="noopener noreferrer">Investigating mystery triangle UFO spotted above U.S. marine base</a></p><p class="youtube-embed-meta">Channel: NBC News &middot; Views: 1.2M &middot; Uploaded: May 2023 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9aXlxGDo3-4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9aXlxGDo3-4">Open on YouTube</a></p></div></div></div>
 
 ## The Phoenix Lights show both the strength and limits of the flare explanation
@@ -564,7 +561,6 @@ A similar pattern appeared in June 2022, when orange lights off the San Diego co
 
 These cases matter because they show how quickly flare sightings now spread. A witness posts a short video of bright, stationary-looking lights; others across a large area confirm they saw the same thing; the lack of immediate official clarity leaves room for speculation; and by the time confirmation arrives, the UFO interpretation may already be circulating. Flares are therefore not only an optical problem but an information-timing problem.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f-Illustration-2-dark.svg" | relative_url }}" alt="Flares illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How flares fade from view
 
@@ -577,7 +573,6 @@ Second, terrain can hide the lower part of the fall. If a flare is over a range 
 Third, haze and cloud can create partial fading. Marine layers, thin cloud and smoke can dim a flare before it burns out. A light may appear to pulse, redden, split into a fuzzy glow, or fade slowly enough to look controlled. When several flares are present at different distances or heights, the fading sequence can look like a large object banking, rotating or shutting down lights.
 
 A useful field test is to compare the disappearance direction with the likely horizon. If each light vanishes at roughly the same low elevation, especially near the direction of a known range or offshore exercise area, flares become more plausible. If the lights cross in front of stars, occlude background objects, accelerate sharply or maintain a rigid geometry while translating across a large part of the sky, the flare explanation needs stronger supporting evidence.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ath8mqbbBDY" title="Rocket Parachute Flare - What is Rocket Parachute Flare? Its use &amp; requirements in SOLAS &amp; LSA Code." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ath8mqbbBDY" target="_blank" rel="noopener noreferrer">Rocket Parachute Flare - What is Rocket Parachute Flare? Its use &amp; requirements in SOLAS &amp; LSA Code.</a></p><p class="youtube-embed-meta">Channel: Seaman Info &middot; Views: 15.6K &middot; Uploaded: May 2021 &middot; Length: 4 minutes 33 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ath8mqbbBDY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ath8mqbbBDY">Open on YouTube</a></p></div></div></div>
 
@@ -600,7 +595,6 @@ The most common accurate elements are:
 
 The most common mistaken inferences are:
 
-
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * **Size:** a distant flare can be judged as a nearby object.
@@ -613,7 +607,6 @@ The most common mistaken inferences are:
 
 None of this means every orange light is a flare. It means flare identification should be tested against concrete clues. The strongest cases have official exercise confirmation, matching time and direction, known range activity, flare-like burn duration, slow drift, sequential fading and no independent evidence of a solid object connecting the lights.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f-Illustration-3-dark.svg" | relative_url }}" alt="Flares illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When “flares” is a weak explanation
 
@@ -623,9 +616,7 @@ Official confirmation also needs careful reading. In San Diego, the 2022 reports
 
 The fair conclusion is practical: flares are a high-priority hypothesis for bright night-time lights near training areas, but not a magic word that ends investigation. They become a robust IFO explanation only when the physical behaviour, location, timing and exercise evidence line up.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nbC6dFb35Jo" title="Former Military Radar Technician Reacts to Newly Declassified UAP Evidence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nbC6dFb35Jo" target="_blank" rel="noopener noreferrer">Former Military Radar Technician Reacts to Newly Declassified UAP Evidence</a></p><p class="youtube-embed-meta">Channel: Wes O&#x27;Donnell &middot; Views: 12.1K &middot; Uploaded: May 2026 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nbC6dFb35Jo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nbC6dFb35Jo">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -1024,138 +1015,138 @@ The fair conclusion is practical: flares are a high-priority hypothesis for brig
 1. <a id="endnote-1"></a>
    Source: deseret.com  
    Title: News Flares, not UFOs, caused light show, military says – Deseret News  
-   Link: [https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says/](https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says/)  
+   Link: <a href="https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says/" target="_blank" rel="noopener noreferrer nofollow">https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says/</a>  
 
 2. <a id="endnote-2"></a>
    Source: 10news.com  
    Title: ABC 10 News San Diego KGTVNavy: Mystery lights were from training exercise  
-   Link: [https://www.10news.com/news/san-diego-county-residents-report-seeing-strange-lights-hovering-in-the-sky](https://www.10news.com/news/san-diego-county-residents-report-seeing-strange-lights-hovering-in-the-sky)  
+   Link: <a href="https://www.10news.com/news/san-diego-county-residents-report-seeing-strange-lights-hovering-in-the-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.10news.com/news/san-diego-county-residents-report-seeing-strange-lights-hovering-in-the-sky</a>  
 
 3. <a id="endnote-3"></a>
    Source: globalsecurity.org  
    Title: Global Security LUU-2 Flare  
-   Link: [https://www.globalsecurity.org/military/systems/munitions/luu2.htm](https://www.globalsecurity.org/military/systems/munitions/luu2.htm)  
+   Link: <a href="https://www.globalsecurity.org/military/systems/munitions/luu2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.globalsecurity.org/military/systems/munitions/luu2.htm</a>  
 
 4. <a id="endnote-4"></a>
    Source: GOV.UK  
    Title: Low flying military aircraft  
-   Link: [https://www.gov.uk/low-flying-in-your-area/where-and-when-low-flying-happens](https://www.gov.uk/low-flying-in-your-area/where-and-when-low-flying-happens)  
+   Link: <a href="https://www.gov.uk/low-flying-in-your-area/where-and-when-low-flying-happens" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/low-flying-in-your-area/where-and-when-low-flying-happens</a>  
 
 5. <a id="endnote-5"></a>
    Source: GOV.UK  
    Title: Military low flying: MOD sponsored air exercises  
-   Link: [https://www.gov.uk/government/publications/military-low-flying-mod-sponsored-air-exercises](https://www.gov.uk/government/publications/military-low-flying-mod-sponsored-air-exercises)  
+   Link: <a href="https://www.gov.uk/government/publications/military-low-flying-mod-sponsored-air-exercises" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/military-low-flying-mod-sponsored-air-exercises</a>  
 
 6. <a id="endnote-6"></a>
    Source: GOV.UK  
    Title: Military ranges firing notices  
-   Link: [https://www.gov.uk/government/collections/firing-notice](https://www.gov.uk/government/collections/firing-notice)  
+   Link: <a href="https://www.gov.uk/government/collections/firing-notice" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/collections/firing-notice</a>  
 
 7. <a id="endnote-7"></a>
    Source: dni.gov  
-   Link: [https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf](https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf)  
+   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf</a>  
 
 8. <a id="endnote-8"></a>
    Source: globalsecurity.org  
-   Link: [https://www.globalsecurity.org/military/systems/aircraft/systems/flares.htm](https://www.globalsecurity.org/military/systems/aircraft/systems/flares.htm)  
+   Link: <a href="https://www.globalsecurity.org/military/systems/aircraft/systems/flares.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.globalsecurity.org/military/systems/aircraft/systems/flares.htm</a>  
 
 9. <a id="endnote-9"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: [https://assets.publishing.service.gov.uk/media/6a0b1048fcae986635db90fd/fly2000seriesprint_2026_05_18.pdf](https://assets.publishing.service.gov.uk/media/6a0b1048fcae986635db90fd/fly2000seriesprint_2026_05_18.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/6a0b1048fcae986635db90fd/fly2000seriesprint_2026_05_18.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6a0b1048fcae986635db90fd/fly2000seriesprint_2026_05_18.pdf</a>  
 
 10. <a id="endnote-10"></a>
    Source: legislation.gov.uk  
-   Link: [https://www.legislation.gov.uk/uksi/2000/1562/made](https://www.legislation.gov.uk/uksi/2000/1562/made)  
+   Link: <a href="https://www.legislation.gov.uk/uksi/2000/1562/made" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/2000/1562/made</a>  
 
 11. <a id="endnote-11"></a>
    Source: legislation.gov.uk  
-   Link: [https://www.legislation.gov.uk/uksi/2007/3468/schedules/made](https://www.legislation.gov.uk/uksi/2007/3468/schedules/made)  
+   Link: <a href="https://www.legislation.gov.uk/uksi/2007/3468/schedules/made" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/2007/3468/schedules/made</a>  
 
 12. <a id="endnote-12"></a>
    Source: legislation.gov.uk  
-   Link: [https://www.legislation.gov.uk/uksi/2016/765/2017-12-14/data.xht?view=snippet&wrap=true](https://www.legislation.gov.uk/uksi/2016/765/2017-12-14/data.xht?view=snippet&wrap=true)  
+   Link: <a href="https://www.legislation.gov.uk/uksi/2016/765/2017-12-14/data.xht?view=snippet&amp;wrap=true" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/2016/765/2017-12-14/data.xht?view=snippet&amp;wrap=true</a>  
 
 13. <a id="endnote-13"></a>
    Source: legislation.gov.uk  
-   Link: [https://www.legislation.gov.uk/uksi/2005/1970/made?view=plain](https://www.legislation.gov.uk/uksi/2005/1970/made?view=plain)  
+   Link: <a href="https://www.legislation.gov.uk/uksi/2005/1970/made?view=plain" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/2005/1970/made?view=plain</a>  
 
 14. <a id="endnote-14"></a>
    Source: legislation.gov.uk  
-   Link: [https://www.legislation.gov.uk/uksi/2001/2128/made](https://www.legislation.gov.uk/uksi/2001/2128/made)  
+   Link: <a href="https://www.legislation.gov.uk/uksi/2001/2128/made" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/2001/2128/made</a>  
 
 15. <a id="endnote-15"></a>
    Source: legislation.gov.uk  
-   Link: [https://www.legislation.gov.uk/uksi/2016/765/schedules/data.html](https://www.legislation.gov.uk/uksi/2016/765/schedules/data.html)  
+   Link: <a href="https://www.legislation.gov.uk/uksi/2016/765/schedules/data.html" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/2016/765/schedules/data.html</a>  
 
 16. <a id="endnote-16"></a>
    Source: abcnews.com  
    Title: ABC News Strange lights off San Diego coast have locals taking to social media  
-   Link: [https://abcnews.com/US/strange-lights-off-san-diego-coast-locals-taking/story?id=85849918](https://abcnews.com/US/strange-lights-off-san-diego-coast-locals-taking/story?id=85849918)  
+   Link: <a href="https://abcnews.com/US/strange-lights-off-san-diego-coast-locals-taking/story?id=85849918" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/US/strange-lights-off-san-diego-coast-locals-taking/story?id=85849918</a>  
 
 17. <a id="endnote-17"></a>
    Source: timesofsandiego.com  
-   Link: [https://timesofsandiego.com/military/2018/08/30/mysterious-lights-seen-over-san-diego-were-flares-from-navy-exercise/](https://timesofsandiego.com/military/2018/08/30/mysterious-lights-seen-over-san-diego-were-flares-from-navy-exercise/)  
+   Link: <a href="https://timesofsandiego.com/military/2018/08/30/mysterious-lights-seen-over-san-diego-were-flares-from-navy-exercise/" target="_blank" rel="noopener noreferrer nofollow">https://timesofsandiego.com/military/2018/08/30/mysterious-lights-seen-over-san-diego-were-flares-from-navy-exercise/</a>  
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/149844915349213/posts/2853199748347036/](https://www.facebook.com/groups/149844915349213/posts/2853199748347036/)  
+   Link: <a href="https://www.facebook.com/groups/149844915349213/posts/2853199748347036/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/149844915349213/posts/2853199748347036/</a>  
 
 19. <a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Phoenix Lights  
-   Link: [https://en.wikipedia.org/wiki/Phoenix_Lights](https://en.wikipedia.org/wiki/Phoenix_Lights)  
+   Link: <a href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Phoenix_Lights</a>  
 
 20. <a id="endnote-20"></a>
    Source: abcnews.com  
-   Link: [https://abcnews.com/Technology/phoenix-ufo-mystery-solved-lights-high-school-football/story?id=14884994](https://abcnews.com/Technology/phoenix-ufo-mystery-solved-lights-high-school-football/story?id=14884994)  
+   Link: <a href="https://abcnews.com/Technology/phoenix-ufo-mystery-solved-lights-high-school-football/story?id=14884994" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/phoenix-ufo-mystery-solved-lights-high-school-football/story?id=14884994</a>  
 
 21. <a id="endnote-21"></a>
    Source: planeandpilotmag.com  
    Title: the phoenix lights  
-   Link: [https://planeandpilotmag.com/the-phoenix-lights/](https://planeandpilotmag.com/the-phoenix-lights/)  
+   Link: <a href="https://planeandpilotmag.com/the-phoenix-lights/" target="_blank" rel="noopener noreferrer nofollow">https://planeandpilotmag.com/the-phoenix-lights/</a>  
 
 ### Additional References
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: What is Rocket Parachute Flare? Its use & requirements in SOLAS & LSA Code  
-   Link: [https://www.youtube.com/watch?v=ath8mqbbBDY](https://www.youtube.com/watch?v=ath8mqbbBDY)  
+   Link: <a href="https://www.youtube.com/watch?v=ath8mqbbBDY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ath8mqbbBDY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to use Rocket Parachute Flare | Pyrotechnics Operating procedure | Distress Emergency Signal...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
 24. <a id="endnote-24"></a>
    Source: nsa.gov  
-   Link: [https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf)  
+   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: Comet Parachute Illuminating Rocket  
-   Link: [https://www.youtube.com/watch?v=5D1H_kGlbrY](https://www.youtube.com/watch?v=5D1H_kGlbrY)  
+   Link: <a href="https://www.youtube.com/watch?v=5D1H_kGlbrY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5D1H_kGlbrY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What is Rocket Parachute Flare? Its use &amp; requirements in SOLAS &amp; LSA Code...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ABC15/posts/28-years-ago-today-thousands-of-people-around-the-valley-saw-a-light-formation-i/1090165073155888/](https://www.facebook.com/ABC15/posts/28-years-ago-today-thousands-of-people-around-the-valley-saw-a-light-formation-i/1090165073155888/)  
+   Link: <a href="https://www.facebook.com/ABC15/posts/28-years-ago-today-thousands-of-people-around-the-valley-saw-a-light-formation-i/1090165073155888/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABC15/posts/28-years-ago-today-thousands-of-people-around-the-valley-saw-a-light-formation-i/1090165073155888/</a>  
 
 27. <a id="endnote-27"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TorquayCoastguard/videos/para-illumination-flares/452879819909709/](https://www.facebook.com/TorquayCoastguard/videos/para-illumination-flares/452879819909709/)  
+   Link: <a href="https://www.facebook.com/TorquayCoastguard/videos/para-illumination-flares/452879819909709/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TorquayCoastguard/videos/para-illumination-flares/452879819909709/</a>  
 
 28. <a id="endnote-28"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/2015/03/alien-lights-at-phoenix-stephenville-and-elsewhere-a-postmortem/](https://skepticalinquirer.org/2015/03/alien-lights-at-phoenix-stephenville-and-elsewhere-a-postmortem/)  
+   Link: <a href="https://skepticalinquirer.org/2015/03/alien-lights-at-phoenix-stephenville-and-elsewhere-a-postmortem/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2015/03/alien-lights-at-phoenix-stephenville-and-elsewhere-a-postmortem/</a>  
 
 29. <a id="endnote-29"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DXT4QFEDqid/](https://www.instagram.com/reel/DXT4QFEDqid/)  
+   Link: <a href="https://www.instagram.com/reel/DXT4QFEDqid/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXT4QFEDqid/</a>  
 
 30. <a id="endnote-30"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/News8/posts/cbs-8-viewers-have-sent-in-videos-showing-strange-mysterious-lights-appearing-ac/10160289578552552/](https://www.facebook.com/News8/posts/cbs-8-viewers-have-sent-in-videos-showing-strange-mysterious-lights-appearing-ac/10160289578552552/)  
+   Link: <a href="https://www.facebook.com/News8/posts/cbs-8-viewers-have-sent-in-videos-showing-strange-mysterious-lights-appearing-ac/10160289578552552/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/News8/posts/cbs-8-viewers-have-sent-in-videos-showing-strange-mysterious-lights-appearing-ac/10160289578552552/</a>  
 
 31. <a id="endnote-31"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/thenorthernecho/posts/can-you-explain-these-strange-lights-in-the-sky-they-were-spotted-over-darlingto/1153832176753750/](https://www.facebook.com/thenorthernecho/posts/can-you-explain-these-strange-lights-in-the-sky-they-were-spotted-over-darlingto/1153832176753750/)  
+   Link: <a href="https://www.facebook.com/thenorthernecho/posts/can-you-explain-these-strange-lights-in-the-sky-they-were-spotted-over-darlingto/1153832176753750/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thenorthernecho/posts/can-you-explain-these-strange-lights-in-the-sky-they-were-spotted-over-darlingto/1153832176753750/</a>

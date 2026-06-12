@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ifos-causes-of-ufo-3ed238-flight/
 description: Focused pages that expand on Flight Tracking.
-date: '2026-06-07'
+date: '2026-06-12'
 layout: default
 parent_basename: ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590
-parent_title: Flight Tracking | Ifos Causes Of
+parent_title: Flight Tracking
 parent_nav_short_title: Flight Tracking
 parent_permalink: /flight-tracking/
 ---

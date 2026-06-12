@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_southern_california_cf941d
 - ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_twilight_rocket_plum_ddbb62
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - rocket-plumes
 - trident-test
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - rocket-plumes
 - trident-test
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: The 2015 Trident missile test shows how a real military launch can become a fast-moving UFO story when advance context is limited.
 hero_summary: The 2015 Trident missile test shows how a real military launch can become a fast-moving UFO story when advance context is limited.
 layout: default
 permalink: /trident-test/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /rocket-plumes/
 nav_short_title: Trident Test
 title: The Missile Test That Looked Like a UFO
-title_full: The Missile Test That Looked Like a UFO | Rocket Plumes
+title_full: The Missile Test That Looked Like a UFO
 display_title_short: Trident Test
 display_title: Trident Test
 heading_title: The Missile Test That Looked Like a UFO
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 05:12:36'
-parent_title: The Strange Clouds Rockets Leave Behind | IFOs
+parent_title: The Strange Clouds Rockets Leave Behind
 parent_permalink: /rocket-plumes/
 parent_nav_short_title: Rocket Plumes
 parent_heading_title: The Strange Clouds Rockets Leave Behind
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132
-  title: Rocket Plumes | Ifos Causes Of
+  title: Rocket Plumes | ifos causes of UFO 3 ed 238
   permalink: /rocket-plumes/
   short_title: Rocket Plumes
   heading_title: The Strange Clouds Rockets Leave Behind
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132
-  title: Rocket Plumes | Ifos Causes Of
+  title: Rocket Plumes | ifos causes of UFO 3 ed 238
   permalink: /rocket-plumes/
   short_title: Rocket Plumes
   heading_title: The Strange Clouds Rockets Leave Behind
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: Why Twilight Rocket Plumes Look So Strange
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132
-  title: Rocket Plumes | Ifos Causes Of
+  title: Rocket Plumes | ifos causes of UFO 3 ed 238
   permalink: /rocket-plumes/
   short_title: Rocket Plumes
   heading_title: The Strange Clouds Rockets Leave Behind
@@ -266,6 +265,7 @@ next_link:
   permalink: /twilight-plumes/
   short_title: Twilight Plumes
   heading_title: Why Twilight Rocket Plumes Look So Strange
+date: '2026-06-12 00:19:55 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_trident_missile_ufo_16b7db-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_trident_missile_ufo_16b7db-Illustration-1.webp
@@ -274,12 +274,10 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_trident_m
 
 ## Introduction
 
-On the evening of 7 November 2015, thousands of people across California, Nevada and Arizona looked up to see what appeared to be a gigantic glowing object climbing through the twilight sky. Photographs and videos showed a bright point surrounded by an expanding blue-white plume that seemed far too large and dramatic to be an ordinary aircraft. Within minutes, social media filled with speculation about a UFO, a secret military craft, a meteor, or even the start of a missile attack. The explanation turned out to be much more mundane but also highly instructive: an unarmed U.S. Navy Trident II (D5) missile test launched from a submarine off the [Southern California]({{ 'so-cal-launches/' | relative_url }}) coast. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/us-news/2015/nov/08/navy-missile-launch-california-bright-light" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Navy says southern California &#x27;UFO sighting&#x27; was test</span><span class="citation-popover-snippet">The GuardianNavy says southern California &#x27;UFO sighting&#x27; was test...November 8, 2015 — 8 Nov 2015 — The US navy fired an unarmed missile...</span><span class="citation-popover-meta">Published: November 8, 2015</span></span></span>
-
+On the evening of 7 November 2015, thousands of people across California, Nevada and Arizona looked up to see what appeared to be a gigantic glowing object climbing through the twilight sky. Photographs and videos showed a bright point surrounded by an expanding blue-white plume that seemed far too large and dramatic to be an ordinary aircraft. Within minutes, social media filled with speculation about a UFO, a secret military craft, a meteor, or even the start of a missile attack. The explanation turned out to be much more mundane but also highly instructive: an unarmed U.S. Navy Trident II (D5) missile test launched from a submarine off the Southern California coast. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/us-news/2015/nov/08/navy-missile-launch-california-bright-light" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Navy says southern California &#x27;UFO sighting&#x27; was test</span><span class="citation-popover-snippet">The GuardianNavy says southern California &#x27;UFO sighting&#x27; was test...November 8, 2015 — 8 Nov 2015 — The US navy fired an unarmed missile...</span><span class="citation-popover-meta">Published: November 8, 2015</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_trident_missile_ufo_16b7db-Illustration-1-dark.svg" | relative_url }}" alt="Trident Test illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_trident_missile_ufo_16b7db-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_trident_missile_ufo_16b7db-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 As a case study in how UFO reports arise, the 2015 Trident incident is valuable because the witnesses were not imagining anything. They really did see an extraordinary object in the sky. The misunderstanding came from a lack of immediate context about a real military launch occurring under lighting conditions that made the missile plume appear spectacularly unusual. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abc30.com/post/explained-light-in-the-sky-over-california/1076042/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc30.com">[ABC30 Fresno]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc30.com</span><span class="citation-popover-title">Fresno Explained: Light in the sky over California</span><span class="citation-popover-snippet">Navy said the light was from an unarmed Trident II D5 missile, but many people still have questions about how what they saw could be a...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fSCZ1jiMmrE" title="San Diegans React to Unexpected Missile Launch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fSCZ1jiMmrE" target="_blank" rel="noopener noreferrer">San Diegans React to Unexpected Missile Launch</a></p><p class="youtube-embed-meta">Channel: ABC 10 News &middot; Views: 2.8K &middot; Uploaded: November 2015 &middot; Length: 1 minute 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fSCZ1jiMmrE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fSCZ1jiMmrE">Open on YouTube</a></p></div></div></div>
 
@@ -297,7 +295,6 @@ Several features made the display seem unlike any normal aircraft:
 
 For observers unfamiliar with high-altitude missile launches, the sight was genuinely puzzling. A nearby aircraft cannot suddenly create a glowing cloud stretching across much of the sky. From the ground, the scale and brightness made the phenomenon appear exotic and difficult to reconcile with everyday aviation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abc30.com/post/explained-light-in-the-sky-over-california/1076042/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc30.com">[ABC30 Fresno]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc30.com</span><span class="citation-popover-title">Fresno Explained: Light in the sky over California</span><span class="citation-popover-snippet">Navy said the light was from an unarmed Trident II D5 missile, but many people still have questions about how what they saw could be a...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MMUSelmSMg0" title="UFO sighting in California? US Navy says &#x27;UFO&#x27; was Trident II missile test - TomoNews" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MMUSelmSMg0" target="_blank" rel="noopener noreferrer">UFO sighting in California? US Navy says &#x27;UFO&#x27; was Trident II missile test - TomoNews</a></p><p class="youtube-embed-meta">Channel: TomoNews US &middot; Views: 58.6K &middot; Uploaded: November 2015 &middot; Length: 2 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MMUSelmSMg0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MMUSelmSMg0">Open on YouTube</a></p></div></div></div>
 
 ## Why Military Tests Can Outpace Public Explanations
@@ -309,7 +306,6 @@ The Navy later confirmed that the launch involved an unarmed Trident II (D5) mis
 This delay between observation and explanation is important in UFO history. Once striking photographs begin circulating, people naturally propose explanations based on the information available at that moment. In the Trident case, the images appeared before most observers knew a missile test was occurring, allowing UFO interpretations to spread rapidly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/us-news/2015/nov/08/navy-missile-launch-california-bright-light" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Navy says southern California &#x27;UFO sighting&#x27; was test</span><span class="citation-popover-snippet">The GuardianNavy says southern California &#x27;UFO sighting&#x27; was test...November 8, 2015 — 8 Nov 2015 — The US navy fired an unarmed missile...</span><span class="citation-popover-meta">Published: November 8, 2015</span></span></span>
 
 The event also demonstrates how social media accelerates uncertainty. Earlier generations might have reported a strange light to local authorities or newspapers. In 2015, images and theories moved across the internet within minutes, creating a nationwide discussion before official confirmation arrived. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/us-news/2015/nov/08/navy-missile-launch-california-bright-light" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Navy says southern California &#x27;UFO sighting&#x27; was test</span><span class="citation-popover-snippet">The GuardianNavy says southern California &#x27;UFO sighting&#x27; was test...November 8, 2015 — 8 Nov 2015 — The US navy fired an unarmed missile...</span><span class="citation-popover-meta">Published: November 8, 2015</span></span></span>
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_trident_missile_ufo_16b7db-Illustration-2-dark.svg" | relative_url }}" alt="Trident Test illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_trident_missile_ufo_16b7db-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_trident_missile_ufo_16b7db-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the Confirmed Launch Matched the Reports
@@ -326,7 +322,6 @@ Finally, the duration and evolution of the sighting matched a launch plume rathe
 
 Taken together, these factors produced one of the clearest examples of a UFO report becoming identified through event-based evidence rather than speculation about appearance alone.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OgVa59zS2oE" title="Missile launch mesmerizes, confuses NorCal citizens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OgVa59zS2oE" target="_blank" rel="noopener noreferrer">Missile launch mesmerizes, confuses NorCal citizens</a></p><p class="youtube-embed-meta">Channel: KCRA 3 &middot; Views: 409 &middot; Uploaded: November 2015 &middot; Length: 3 minutes 32 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OgVa59zS2oE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OgVa59zS2oE">Open on YouTube</a></p></div></div></div>
 
 ## Why the Case Matters for Understanding UFO Reports
@@ -334,7 +329,6 @@ Taken together, these factors produced one of the clearest examples of a UFO rep
 The 2015 Trident missile scare remains a useful reminder that some of the most convincing UFO sightings originate from real, observable events that are simply unfamiliar to the public. Nothing in the case required [hoaxes]({{ 'hoaxes/' | relative_url }}), mass misperception or extraordinary technology. Witnesses accurately reported a spectacular object in the sky; what they lacked was knowledge of a concurrent military launch. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/us-news/2015/nov/08/navy-missile-launch-california-bright-light" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Navy says southern California &#x27;UFO sighting&#x27; was test</span><span class="citation-popover-snippet">The GuardianNavy says southern California &#x27;UFO sighting&#x27; was test...November 8, 2015 — 8 Nov 2015 — The US navy fired an unarmed missile...</span><span class="citation-popover-meta">Published: November 8, 2015</span></span></span>
 
 For investigators, the lesson is straightforward. When a large-scale UFO wave appears suddenly over a broad region, one of the first questions should be whether a rocket launch, missile test or other high-altitude aerospace event occurred during the same time window. The Trident incident demonstrates how a confirmed launch can produce exactly the kind of dramatic visual display that many people would reasonably describe as a UFO before the underlying cause becomes known. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abc30.com/post/explained-light-in-the-sky-over-california/1076042/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc30.com">[ABC30 Fresno]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc30.com</span><span class="citation-popover-title">Fresno Explained: Light in the sky over California</span><span class="citation-popover-snippet">Navy said the light was from an unarmed Trident II D5 missile, but many people still have questions about how what they saw could be a...</span></span></span>
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_trident_missile_ufo_16b7db-Illustration-3-dark.svg" | relative_url }}" alt="Trident Test illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_trident_missile_ufo_16b7db-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_trident_missile_ufo_16b7db-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -455,15 +449,15 @@ For investigators, the lesson is straightforward. When a large-scale UFO wave ap
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trident-test-the-missile-test-that-looked-like-a-ufo-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="trident-test-the-missile-test-that-looked-like-a-ufo-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51"><img src="{{ '/assets/images/marketplace-covers/43c4ee420e151dd41424.jpg' | relative_url }}" alt="Listing image for Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Trident+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missile-test-that-looked-like-a-ufo-trident-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Trident missile model" data-ebay-reference="the-missile-test-that-looked-like-a-ufo-trident-missile-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIDENT (X5)US BALLISTIC MISSILE SUBMARINE &#x27;USS JOHN ADAMS&#x27; 1/1250 MODEL SHIP"><img src="https://i.ebayimg.com/images/g/53QAAeSwHQBqAeuc/s-l225.jpg" alt="Listing image for TRIDENT (X5)US BALLISTIC MISSILE SUBMARINE &#x27;USS JOHN ADAMS&#x27; 1/1250 MODEL SHIP" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trident-test-the-missile-test-that-looked-like-a-ufo-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="trident-test-the-missile-test-that-looked-like-a-ufo-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Trident+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missile-test-that-looked-like-a-ufo-trident-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Trident missile model" data-ebay-reference="the-missile-test-that-looked-like-a-ufo-trident-missile-model" target="_blank" rel="sponsored noopener noreferrer">TRIDENT (X5)US BALLISTIC MISSILE SUBMARINE &#x27;USS JOHN ADAMS&#x27; 1/1250 MODEL SHIP</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trident-test-the-missile-test-that-looked-like-a-ufo-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="trident-test-the-missile-test-that-looked-like-a-ufo-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Trident+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missile-test-that-looked-like-a-ufo-trident-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Trident missile model" data-ebay-reference="the-missile-test-that-looked-like-a-ufo-trident-missile-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Trident missile model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Trident missile model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trident-test-the-missile-test-that-looked-like-a-ufo-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="trident-test-the-missile-test-that-looked-like-a-ufo-ifos-causes-of-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Trident+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missile-test-that-looked-like-a-ufo-trident-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Trident missile model" data-ebay-reference="the-missile-test-that-looked-like-a-ufo-trident-missile-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -471,47 +465,15 @@ For investigators, the lesson is straightforward. When a large-scale UFO wave ap
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trident-test-the-missile-test-that-looked-like-a-ufo-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="trident-test-the-missile-test-that-looked-like-a-ufo-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design"><img src="{{ '/assets/images/marketplace-covers/f0858731bf83f620568a.jpg' | relative_url }}" alt="Listing image for Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Trident+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missile-test-that-looked-like-a-ufo-trident-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Trident missile model" data-ebay-reference="the-missile-test-that-looked-like-a-ufo-trident-missile-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Trident II D5 SLBM Nuclear Missile Model, 3D Printed and Magnetically Coupled"><img src="https://i.ebayimg.com/images/g/Qm8AAeSwKRRp3PSr/s-l225.jpg" alt="Listing image for Trident II D5 SLBM Nuclear Missile Model, 3D Printed and Magnetically Coupled" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trident-test-the-missile-test-that-looked-like-a-ufo-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="trident-test-the-missile-test-that-looked-like-a-ufo-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Trident+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missile-test-that-looked-like-a-ufo-trident-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Trident missile model" data-ebay-reference="the-missile-test-that-looked-like-a-ufo-trident-missile-model" target="_blank" rel="sponsored noopener noreferrer">Trident II D5 SLBM Nuclear Missile Model, 3D Printed and Magnetically Coupled</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trident-test-the-missile-test-that-looked-like-a-ufo-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="trident-test-the-missile-test-that-looked-like-a-ufo-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Trident+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missile-test-that-looked-like-a-ufo-trident-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Trident missile model" data-ebay-reference="the-missile-test-that-looked-like-a-ufo-trident-missile-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Trident missile model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Trident missile model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trident-test-the-missile-test-that-looked-like-a-ufo-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="trident-test-the-missile-test-that-looked-like-a-ufo-ifos-causes-of-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trident-test-the-missile-test-that-looked-like-a-ufo-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="trident-test-the-missile-test-that-looked-like-a-ufo-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN UFO AREA 51 GROOM DRY LAKE TEST FACILITY T-SHIRT"><img src="{{ '/assets/images/marketplace-covers/5eb844375d885ea9eb20.jpg' | relative_url }}" alt="Listing image for ALIEN UFO AREA 51 GROOM DRY LAKE TEST FACILITY T-SHIRT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trident-test-the-missile-test-that-looked-like-a-ufo-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="trident-test-the-missile-test-that-looked-like-a-ufo-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">ALIEN UFO AREA 51 GROOM DRY LAKE TEST FACILITY T-SHIRT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trident-test-the-missile-test-that-looked-like-a-ufo-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="trident-test-the-missile-test-that-looked-like-a-ufo-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trident-test-the-missile-test-that-looked-like-a-ufo-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="trident-test-the-missile-test-that-looked-like-a-ufo-ifos-causes-of-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trident-test-the-missile-test-that-looked-like-a-ufo-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="trident-test-the-missile-test-that-looked-like-a-ufo-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone"><img src="{{ '/assets/images/marketplace-covers/c55bd17eeaec578c24e2.jpg' | relative_url }}" alt="Listing image for Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trident-test-the-missile-test-that-looked-like-a-ufo-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="trident-test-the-missile-test-that-looked-like-a-ufo-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trident-test-the-missile-test-that-looked-like-a-ufo-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="trident-test-the-missile-test-that-looked-like-a-ufo-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trident-test-the-missile-test-that-looked-like-a-ufo-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="trident-test-the-missile-test-that-looked-like-a-ufo-ifos-causes-of-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Trident+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missile-test-that-looked-like-a-ufo-trident-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Trident missile model" data-ebay-reference="the-missile-test-that-looked-like-a-ufo-trident-missile-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -519,7 +481,7 @@ For investigators, the lesson is straightforward. When a large-scale UFO wave ap
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trident-test-the-missile-test-that-looked-like-a-ufo-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="trident-test-the-missile-test-that-looked-like-a-ufo-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Trident+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missile-test-that-looked-like-a-ufo-trident-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Trident missile model" data-ebay-reference="the-missile-test-that-looked-like-a-ufo-trident-missile-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -734,47 +696,47 @@ For investigators, the lesson is straightforward. When a large-scale UFO wave ap
 
 1. <a id="endnote-1"></a>
    Source: abc7.com  
-   Link: [https://abc7.com/post/hundreds-report-mystery-light-flying-through-sky/1073739/](https://abc7.com/post/hundreds-report-mystery-light-flying-through-sky/1073739/)  
+   Link: <a href="https://abc7.com/post/hundreds-report-mystery-light-flying-through-sky/1073739/" target="_blank" rel="noopener noreferrer nofollow">https://abc7.com/post/hundreds-report-mystery-light-flying-through-sky/1073739/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC7 Los AngelesNaval missile test flight causes bright light to streak across...A missile test flight from a submarine left hundreds of...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: abc30.com  
    Title: Fresno Explained: Light in the sky over California  
-   Link: [https://abc30.com/post/explained-light-in-the-sky-over-california/1076042/](https://abc30.com/post/explained-light-in-the-sky-over-california/1076042/)  
+   Link: <a href="https://abc30.com/post/explained-light-in-the-sky-over-california/1076042/" target="_blank" rel="noopener noreferrer nofollow">https://abc30.com/post/explained-light-in-the-sky-over-california/1076042/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Navy said the light was from an unarmed Trident II D5 missile, but many people still have questions about how what they saw could be a...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: abc11.com  
-   Link: [https://abc11.com/post/ufo-bright-light-in-the-sky-during-missile-test/1074223/](https://abc11.com/post/ufo-bright-light-in-the-sky-during-missile-test/1074223/)  
+   Link: <a href="https://abc11.com/post/ufo-bright-light-in-the-sky-during-missile-test/1074223/" target="_blank" rel="noopener noreferrer nofollow">https://abc11.com/post/ufo-bright-light-in-the-sky-during-missile-test/1074223/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC11 Raleigh-DurhamUFO in California, bright light in the sky, during Navy...8 Nov 2015 — The test was of a Trident II (D5) missile fro...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: theguardian.com  
    Title: The Guardian Navy says southern California 'UFO sighting' was test  
-   Link: [https://www.theguardian.com/us-news/2015/nov/08/navy-missile-launch-california-bright-light](https://www.theguardian.com/us-news/2015/nov/08/navy-missile-launch-california-bright-light)  
+   Link: <a href="https://www.theguardian.com/us-news/2015/nov/08/navy-missile-launch-california-bright-light" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2015/nov/08/navy-missile-launch-california-bright-light</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianNavy says southern California &#x27;UFO sighting&#x27; was test...November 8, 2015 — 8 Nov 2015 — The US navy fired an unarmed missile...</p></details>
    Published: November 8, 2015  
 
 5. <a id="endnote-5"></a>
    Source: nbcsandiego.com  
    Title: Saturday.Read more  
-   Link: [https://www.nbcsandiego.com/news/local/san-diego-missile-launch-strange-light-sky-california/1986970/](https://www.nbcsandiego.com/news/local/san-diego-missile-launch-strange-light-sky-california/1986970/)  
+   Link: <a href="https://www.nbcsandiego.com/news/local/san-diego-missile-launch-strange-light-sky-california/1986970/" target="_blank" rel="noopener noreferrer nofollow">https://www.nbcsandiego.com/news/local/san-diego-missile-launch-strange-light-sky-california/1986970/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NBC 7 San DiegoNavy: Unusual Conditions in Missile Test Gave West Coast...9 Nov 2015 — Sightings of a strange white or bluish light stre...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: cbsnews.com  
-   Link: [https://www.cbsnews.com/sanfrancisco/news/reports-strange-mysterious-lights-in-skies-over-california/](https://www.cbsnews.com/sanfrancisco/news/reports-strange-mysterious-lights-in-skies-over-california/)  
+   Link: <a href="https://www.cbsnews.com/sanfrancisco/news/reports-strange-mysterious-lights-in-skies-over-california/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/sanfrancisco/news/reports-strange-mysterious-lights-in-skies-over-california/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsStrange, Mysterious Lights In Skies Over California Was...7 Nov 2015 — Some speculated it was a meteor, others thought it was a...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: washingtonpost.com  
-   Link: [https://www.washingtonpost.com/news/morning-mix/wp/2015/11/08/mysterious-light-blazes-across-california-sky-sparking-confusion-excitement-and-fears-of-alien-invasion/](https://www.washingtonpost.com/news/morning-mix/wp/2015/11/08/mysterious-light-blazes-across-california-sky-sparking-confusion-excitement-and-fears-of-alien-invasion/)  
+   Link: <a href="https://www.washingtonpost.com/news/morning-mix/wp/2015/11/08/mysterious-light-blazes-across-california-sky-sparking-confusion-excitement-and-fears-of-alien-invasion/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/news/morning-mix/wp/2015/11/08/mysterious-light-blazes-across-california-sky-sparking-confusion-excitement-and-fears-of-alien-invasion/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Washington PostMysterious light blazes across California sky, sparking...8 Nov 2015 — A mysterious light that rocketed across the So...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: latimes.com  
    Title: la me ln second missile launch pentagon 20151109 story  
-   Link: [https://www.latimes.com/local/lanow/la-me-ln-second-missile-launch-pentagon-20151109-story.html](https://www.latimes.com/local/lanow/la-me-ln-second-missile-launch-pentagon-20151109-story.html)  
+   Link: <a href="https://www.latimes.com/local/lanow/la-me-ln-second-missile-launch-pentagon-20151109-story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/local/lanow/la-me-ln-second-missile-launch-pentagon-20151109-story.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Los Angeles TimesNavy launches second test missile off Southern California...9 Nov 2015 — The US Navy said it launched a second -- and f...</p></details>
 
 ### Additional References
@@ -782,57 +744,57 @@ For investigators, the lesson is straightforward. When a large-scale UFO wave ap
 9. <a id="endnote-9"></a>
    Source: geekwire.com  
    Title: trident missile launch sparks ufo freak out in los angeles and on twitter  
-   Link: [https://www.geekwire.com/2015/trident-missile-launch-sparks-ufo-freak-out-in-los-angeles-and-on-twitter/](https://www.geekwire.com/2015/trident-missile-launch-sparks-ufo-freak-out-in-los-angeles-and-on-twitter/)  
+   Link: <a href="https://www.geekwire.com/2015/trident-missile-launch-sparks-ufo-freak-out-in-los-angeles-and-on-twitter/" target="_blank" rel="noopener noreferrer nofollow">https://www.geekwire.com/2015/trident-missile-launch-sparks-ufo-freak-out-in-los-angeles-and-on-twitter/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Trident missile launch sparks UFO freak-out in Los Angeles7 Nov 2015 — An unannounced Trident missile launch lit up the skies over Los An...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: english.alarabiya.net  
    Title: Spooky California missile test sparks frenzy on social media  
-   Link: [https://english.alarabiya.net/variety/2015/11/08/-Spooky-California-missile-test-sparks-frenzy-on-social-media-](https://english.alarabiya.net/variety/2015/11/08/-Spooky-California-missile-test-sparks-frenzy-on-social-media-)  
+   Link: <a href="https://english.alarabiya.net/variety/2015/11/08/-Spooky-California-missile-test-sparks-frenzy-on-social-media-" target="_blank" rel="noopener noreferrer nofollow">https://english.alarabiya.net/variety/2015/11/08/-Spooky-California-missile-test-sparks-frenzy-on-social-media-</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Al Arabiya English&#x27;Spooky&#x27; California missile test sparks frenzy on social media8 Nov 2015 — A missile test off the California coast spar...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: Mysterious light over Calif. explained by Navy missile test  
-   Link: [http://www.youtube.com/watch?v=KMPRxV4moYg](http://www.youtube.com/watch?v=KMPRxV4moYg)  
+   Link: <a href="http://www.youtube.com/watch?v=KMPRxV4moYg" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=KMPRxV4moYg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2015 California Trident missile test UFO sighting UFO sighting in California? US Navy says &#x27;UFO&#x27; was Trident II missile test - TomoNews T...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: tucsonsentinel.com  
    Title: lights sky were navy missile test  
-   Link: [https://www.tucsonsentinel.com/local/report/110715_missile_test/lights-sky-were-navy-missile-test/](https://www.tucsonsentinel.com/local/report/110715_missile_test/lights-sky-were-navy-missile-test/)  
+   Link: <a href="https://www.tucsonsentinel.com/local/report/110715_missile_test/lights-sky-were-navy-missile-test/" target="_blank" rel="noopener noreferrer nofollow">https://www.tucsonsentinel.com/local/report/110715_missile_test/lights-sky-were-navy-missile-test/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lights in sky were Navy missile test7 Nov 2015 — A Navy spokesman said an unarmed Trident II missile was launched from the USS Kentucky...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: UFO sighting in California? US Navy says 'UFO' was Trident II missile test  
-   Link: [http://www.youtube.com/watch?v=MMUSelmSMg0](http://www.youtube.com/watch?v=MMUSelmSMg0)  
+   Link: <a href="http://www.youtube.com/watch?v=MMUSelmSMg0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=MMUSelmSMg0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Over California - November 7th 2015 (Missile Test / UFO Mass Sighting)...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: UFO Over California  
-   Link: [http://www.youtube.com/watch?v=DhNK4uyJj08](http://www.youtube.com/watch?v=DhNK4uyJj08)  
+   Link: <a href="http://www.youtube.com/watch?v=DhNK4uyJj08" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=DhNK4uyJj08</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Missile launch mesmerizes, confuses NorCal citizens...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: capradio.org  
-   Link: [https://www.capradio.org/news/npr/story?storyid=455204983](https://www.capradio.org/news/npr/story?storyid=455204983)  
+   Link: <a href="https://www.capradio.org/news/npr/story?storyid=455204983" target="_blank" rel="noopener noreferrer nofollow">https://www.capradio.org/news/npr/story?storyid=455204983</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>California, That Strange Light Streaking Across The Sky...8 Nov 2015 — The Navy said the object that lit up the night sky was actually a...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: San Diegans React to Unexpected Missile Launch  
-   Link: [http://www.youtube.com/watch?v=fSCZ1jiMmrE](http://www.youtube.com/watch?v=fSCZ1jiMmrE)  
+   Link: <a href="http://www.youtube.com/watch?v=fSCZ1jiMmrE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=fSCZ1jiMmrE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious light over Calif. explained by Navy missile test...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: Missile launch mesmerizes, confuses Nor Cal citizens  
-   Link: [http://www.youtube.com/watch?v=OgVa59zS2oE](http://www.youtube.com/watch?v=OgVa59zS2oE)  
+   Link: <a href="http://www.youtube.com/watch?v=OgVa59zS2oE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=OgVa59zS2oE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>San Diegans React to Unexpected Missile Launch...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Twilight phenomenon  
-   Link: [https://en.wikipedia.org/wiki/Twilight_phenomenon](https://en.wikipedia.org/wiki/Twilight_phenomenon)  
+   Link: <a href="https://en.wikipedia.org/wiki/Twilight_phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Twilight_phenomenon</a>

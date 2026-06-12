@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28_independent_records_9dc7db
 - ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28_starlink_mass_report_88b555
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - mass-sightings
 - rocket-spirals
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - mass-sightings
 - rocket-spirals
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Rocket exhaust and fuel vents can form glowing spirals or plumes that look exotic because they expand, twist and drift overhead.
 hero_summary: Rocket exhaust and fuel vents can form glowing spirals or plumes that look exotic because they expand, twist and drift overhead.
 layout: default
 permalink: /rocket-spirals/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /mass-sightings/
 nav_short_title: Rocket Spirals
 title: When rocket spirals become UFO scares
-title_full: When rocket spirals become UFO scares | Mass Sightings
+title_full: When rocket spirals become UFO scares
 display_title_short: Rocket Spirals
 display_title: Rocket Spirals
 heading_title: When rocket spirals become UFO scares
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Groups Can Share One Mistake | IFOs
+parent_title: Why Groups Can Share One Mistake
 parent_permalink: /mass-sightings/
 parent_nav_short_title: Mass Sightings
 parent_heading_title: Why Groups Can Share One Mistake
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28
-  title: Mass Sightings | Ifos Causes Of
+  title: Mass Sightings | ifos causes of UFO 3 ed 238
   permalink: /mass-sightings/
   short_title: Mass Sightings
   heading_title: Why Groups Can Share One Mistake
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28
-  title: Mass Sightings | Ifos Causes Of
+  title: Mass Sightings | ifos causes of UFO 3 ed 238
   permalink: /mass-sightings/
   short_title: Mass Sightings
   heading_title: Why Groups Can Share One Mistake
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why Starlink trains look like UFO formations
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28
-  title: Mass Sightings | Ifos Causes Of
+  title: Mass Sightings | ifos causes of UFO 3 ed 238
   permalink: /mass-sightings/
   short_title: Mass Sightings
   heading_title: Why Groups Can Share One Mistake
@@ -265,7 +265,7 @@ next_link:
   permalink: /starlink-trains/
   short_title: Starlink Trains
   heading_title: Why Starlink trains look like UFO formations
-date: '2026-06-07 05:49:40 '
+date: '2026-06-12 00:26:12 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28_rocket_spiral_scares_f9cc56-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28_rocket_spiral_scares_f9cc56-Illustration-1.webp
@@ -275,7 +275,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28_rocket_s
 ## Introduction
 
 Some of the most dramatic UFO waves of recent years have been triggered not by unknown craft but by rocket launches hundreds or even thousands of kilometres away. A rocket releasing exhaust or venting leftover fuel in the upper [atmosphere]({{ 'atmosphere/' | relative_url }}) can create a glowing spiral, expanding ring or luminous cloud that appears utterly unlike familiar aircraft. Because these displays can be visible across entire countries at once, they often generate thousands of reports within minutes and rapidly spread through news and social media as apparent mysteries. In the study of identified flying objects (IFOs), rocket spirals are a particularly important example because they show how a genuine, unusual sight can produce a region-wide UFO scare while still having a well-understood physical explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Twilight_phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Twilight phenomenon</span><span class="citation-popover-snippet">Twilight phenomenon</span></span></span>
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28_rocket_spiral_scares_f9cc56-Illustration-1-dark.svg" | relative_url }}" alt="Rocket Spirals illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28_rocket_spiral_scares_f9cc56-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28_rocket_spiral_scares_f9cc56-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How upper-atmosphere exhaust becomes visible after sunset
@@ -287,7 +286,6 @@ Under the right conditions, the effect becomes spectacular. Exhaust particles ca
 The visual appearance can be startling because the plume expands far beyond the dimensions people associate with aircraft [contrails]({{ 'contrails/' | relative_url }}). In the low-pressure upper atmosphere, released gases spread rapidly, producing shapes that resemble galaxies, whirlpools, jellyfish or enormous glowing discs. These forms can remain visible for several minutes before gradually dispersing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spacelaunchschedule.com/news/the-jellyfish-effect-during-rocket-launches-a-stunning-twilight-phenomenon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spacelaunchschedule.com">[Space Launch Schedule]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spacelaunchschedule.com</span><span class="citation-popover-snippet">Space Launch ScheduleRocket Launch Jellyfish Effect: A Guide to Twilight&#x27;s Best...This captivating visual phenomenon occurs when a rocke...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ibtimes.co.uk/philippines-space-jellyfish-phenomenon-1791606" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ibtimes.co.uk">[International Business Times UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ibtimes.co.uk</span><span class="citation-popover-title">philippines space jellyfish phenomenon 1791606</span><span class="citation-popover-snippet">International Business Times UK&#x27;Space Jellyfish&#x27; Phenomenon Explained: Mysterious Glow...14 Apr 2026 — According to PhilSA, the phenomen...</span></span></span>
 
 Historically, twilight launch effects have repeatedly generated reports of mysterious aerial phenomena. Space launches from California, Florida and other spaceports have produced glowing clouds visible across multiple states, while similar effects have been documented from launches conducted by several national space programmes around the world. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Twilight_phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Twilight phenomenon</span><span class="citation-popover-snippet">Twilight phenomenon</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nrUMC_eB1kU" title="#TheMoment a mysterious spiral appeared in the night-sky" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nrUMC_eB1kU" target="_blank" rel="noopener noreferrer">#TheMoment a mysterious spiral appeared in the night-sky</a></p><p class="youtube-embed-meta">Channel: CBC News: The National &middot; Views: 91.1K &middot; Uploaded: April 2023 &middot; Length: 1 minute 16 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nrUMC_eB1kU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nrUMC_eB1kU">Open on YouTube</a></p></div></div></div>
 
@@ -303,7 +301,6 @@ Third, social amplification occurs almost instantly. Modern observers photograph
 
 The phenomenon demonstrates an important point in UFO investigations: large numbers of witnesses can establish that an event occurred, but they do not automatically establish what caused it. In rocket-spiral cases, the witnesses are often completely correct about seeing a remarkable object. The error lies in identifying the source.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28_rocket_spiral_scares_f9cc56-Illustration-2-dark.svg" | relative_url }}" alt="Rocket Spirals illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28_rocket_spiral_scares_f9cc56-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28_rocket_spiral_scares_f9cc56-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The 2025 European spiral as a modern case study
 
@@ -315,7 +312,6 @@ What makes this incident especially valuable as an IFO case is the scale of the 
 
 The 2025 sighting also illustrates a broader trend. As commercial launch activity increases, opportunities for the public to encounter unusual rocket-related sky phenomena are becoming more frequent. Events that once might have been seen only occasionally are now more likely to recur. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post Did you see an alien-looking swirl in the sky?</span><span class="citation-popover-snippet">It&#x27;s probably SpaceX.March 25, 2025 — On the night of March 24, 2025, skywatchers across Europe, from Britain to Croatia, observed a myst...</span><span class="citation-popover-meta">Published: March 25, 2025</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pW2hJFsv3Ik" title="Mysterious blue spiral spotted across Europe caused by SpaceX rocket" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pW2hJFsv3Ik" target="_blank" rel="noopener noreferrer">Mysterious blue spiral spotted across Europe caused by SpaceX rocket</a></p><p class="youtube-embed-meta">Channel: New York Post &middot; Views: 89.1K &middot; Uploaded: March 2025 &middot; Length: 1 minute 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pW2hJFsv3Ik" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pW2hJFsv3Ik">Open on YouTube</a></p></div></div></div>
 
 ## How launch records can close the case quickly
@@ -323,7 +319,6 @@ The 2025 sighting also illustrates a broader trend. As commercial launch activit
 Rocket spirals are among the easiest dramatic UFO reports to investigate because they leave a strong documentary trail.
 
 Investigators typically begin with a few straightforward questions:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -340,7 +335,6 @@ Photographs provide additional clues. Rocket spirals generally show smooth geome
 
 The ability to correlate sightings with launch data is one reason these cases frequently move from mystery to identification much faster than many other UFO reports.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28_rocket_spiral_scares_f9cc56-Illustration-3-dark.svg" | relative_url }}" alt="Rocket Spirals illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28_rocket_spiral_scares_f9cc56-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28_rocket_spiral_scares_f9cc56-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What rocket spirals reveal about UFO waves
 
@@ -348,9 +342,7 @@ Rocket spirals occupy a distinctive place in the history of UFO reports. They ar
 
 For researchers studying mass sightings and social amplification, rocket spirals provide a useful reminder that the most convincing-looking UFO waves are not always the most mysterious. Sometimes the event that appears most extraordinary is also one of the easiest to solve once launch records, viewing geometry and upper-atmosphere conditions are examined together. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">However, it has been determined that the phenomenon was caused by a SpaceX rocket, specifically the Falcon 9, which launched from Cape Ca...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.co.uk/article/space-x-sky-spiral-yorkshire-t2cpgdxn2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.co.uk">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.co.uk</span><span class="citation-popover-snippet">Experts attribute the phenomenon to a fuel dump from a SpaceX Falcon 9 rocket launched earlier that day from Florida, carrying a national...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Y1Hfiirwgys" title="Why do some rocket launches look like this?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Y1Hfiirwgys" target="_blank" rel="noopener noreferrer">Why do some rocket launches look like this?</a></p><p class="youtube-embed-meta">Channel: Primal Space &middot; Views: 811.3K &middot; Uploaded: November 2018 &middot; Length: 3 minutes 39 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Y1Hfiirwgys" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Y1Hfiirwgys">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -469,15 +461,15 @@ For researchers studying mass sightings and social amplification, rocket spirals
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-spirals-when-rocket-spirals-become-ufo-scares-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="rocket-spirals-when-rocket-spirals-become-ufo-scares-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO 1982 Tour Programme Book With Poster"><img src="{{ '/assets/images/marketplace-covers/9c0ed3d28411d7c56755.jpg' | relative_url }}" alt="Listing image for UFO 1982 Tour Programme Book With Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rocket-spirals-become-ufo-scares-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="when-rocket-spirals-become-ufo-scares-rocket-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Metal Earth Artemis Moon Rocket Premium Series 3D Metal Model Kit PS2019 Gift"><img src="https://i.ebayimg.com/images/g/SfAAAeSwKZVqGJne/s-l225.jpg" alt="Listing image for Metal Earth Artemis Moon Rocket Premium Series 3D Metal Model Kit PS2019 Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-spirals-when-rocket-spirals-become-ufo-scares-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="rocket-spirals-when-rocket-spirals-become-ufo-scares-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO 1982 Tour Programme Book With Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rocket-spirals-become-ufo-scares-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="when-rocket-spirals-become-ufo-scares-rocket-model" target="_blank" rel="sponsored noopener noreferrer">Metal Earth Artemis Moon Rocket Premium Series 3D Metal Model Kit PS2019 Gift</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-spirals-when-rocket-spirals-become-ufo-scares-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="rocket-spirals-when-rocket-spirals-become-ufo-scares-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rocket-spirals-become-ufo-scares-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="when-rocket-spirals-become-ufo-scares-rocket-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rocket model">Search <span data-ebay-domain-label>eBay.co.uk</span>: rocket model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-spirals-when-rocket-spirals-become-ufo-scares-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="rocket-spirals-when-rocket-spirals-become-ufo-scares-ifos-causes-of-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rocket-spirals-become-ufo-scares-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="when-rocket-spirals-become-ufo-scares-rocket-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -485,15 +477,15 @@ For researchers studying mass sightings and social amplification, rocket spirals
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-spirals-when-rocket-spirals-become-ufo-scares-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="rocket-spirals-when-rocket-spirals-become-ufo-scares-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rocket-spirals-become-ufo-scares-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="when-rocket-spirals-become-ufo-scares-rocket-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA Artemis SLS Rocket Model – Space Launch System Display Model 1/100 scale"><img src="https://i.ebayimg.com/images/g/NR0AAeSwGLxp2RX9/s-l225.jpg" alt="Listing image for NASA Artemis SLS Rocket Model – Space Launch System Display Model 1/100 scale" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-spirals-when-rocket-spirals-become-ufo-scares-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="rocket-spirals-when-rocket-spirals-become-ufo-scares-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rocket-spirals-become-ufo-scares-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="when-rocket-spirals-become-ufo-scares-rocket-model" target="_blank" rel="sponsored noopener noreferrer">NASA Artemis SLS Rocket Model – Space Launch System Display Model 1/100 scale</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-spirals-when-rocket-spirals-become-ufo-scares-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="rocket-spirals-when-rocket-spirals-become-ufo-scares-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rocket-spirals-become-ufo-scares-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="when-rocket-spirals-become-ufo-scares-rocket-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rocket model">Search <span data-ebay-domain-label>eBay.co.uk</span>: rocket model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-spirals-when-rocket-spirals-become-ufo-scares-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="rocket-spirals-when-rocket-spirals-become-ufo-scares-ifos-causes-of-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rocket-spirals-become-ufo-scares-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="when-rocket-spirals-become-ufo-scares-rocket-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -501,15 +493,15 @@ For researchers studying mass sightings and social amplification, rocket spirals
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-spirals-when-rocket-spirals-become-ufo-scares-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="rocket-spirals-when-rocket-spirals-become-ufo-scares-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA"><img src="{{ '/assets/images/marketplace-covers/d1a9ede89dec7aff09e9.jpg' | relative_url }}" alt="Listing image for UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rocket-spirals-become-ufo-scares-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="when-rocket-spirals-become-ufo-scares-rocket-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Black Arrow Rocket – 1:32 Scale – Display Scale Model – 406mm 16inch - Assembled"><img src="https://i.ebayimg.com/images/g/xE8AAeSw6cJorv~J/s-l225.jpg" alt="Listing image for Black Arrow Rocket – 1:32 Scale – Display Scale Model – 406mm 16inch - Assembled" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-spirals-when-rocket-spirals-become-ufo-scares-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="rocket-spirals-when-rocket-spirals-become-ufo-scares-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rocket-spirals-become-ufo-scares-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="when-rocket-spirals-become-ufo-scares-rocket-model" target="_blank" rel="sponsored noopener noreferrer">Black Arrow Rocket – 1:32 Scale – Display Scale Model – 406mm 16inch - Assembled</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-spirals-when-rocket-spirals-become-ufo-scares-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="rocket-spirals-when-rocket-spirals-become-ufo-scares-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rocket-spirals-become-ufo-scares-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="when-rocket-spirals-become-ufo-scares-rocket-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rocket model">Search <span data-ebay-domain-label>eBay.co.uk</span>: rocket model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-spirals-when-rocket-spirals-become-ufo-scares-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="rocket-spirals-when-rocket-spirals-become-ufo-scares-ifos-causes-of-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rocket-spirals-become-ufo-scares-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="when-rocket-spirals-become-ufo-scares-rocket-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -517,15 +509,15 @@ For researchers studying mass sightings and social amplification, rocket spirals
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-spirals-when-rocket-spirals-become-ufo-scares-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="rocket-spirals-when-rocket-spirals-become-ufo-scares-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rocket-spirals-become-ufo-scares-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="when-rocket-spirals-become-ufo-scares-rocket-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for New! The Mighty Soviet N1 Moon Rocket Kit model. ALL WHITE."><img src="https://i.ebayimg.com/images/g/iv4AAOSwfLpm8DkV/s-l225.jpg" alt="Listing image for New! The Mighty Soviet N1 Moon Rocket Kit model. ALL WHITE." loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-spirals-when-rocket-spirals-become-ufo-scares-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="rocket-spirals-when-rocket-spirals-become-ufo-scares-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rocket-spirals-become-ufo-scares-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="when-rocket-spirals-become-ufo-scares-rocket-model" target="_blank" rel="sponsored noopener noreferrer">New! The Mighty Soviet N1 Moon Rocket Kit model. ALL WHITE.</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-spirals-when-rocket-spirals-become-ufo-scares-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="rocket-spirals-when-rocket-spirals-become-ufo-scares-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rocket-spirals-become-ufo-scares-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="when-rocket-spirals-become-ufo-scares-rocket-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rocket model">Search <span data-ebay-domain-label>eBay.co.uk</span>: rocket model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-spirals-when-rocket-spirals-become-ufo-scares-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="rocket-spirals-when-rocket-spirals-become-ufo-scares-ifos-causes-of-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rocket-spirals-become-ufo-scares-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="when-rocket-spirals-become-ufo-scares-rocket-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -533,7 +525,7 @@ For researchers studying mass sightings and social amplification, rocket spirals
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-spirals-when-rocket-spirals-become-ufo-scares-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="rocket-spirals-when-rocket-spirals-become-ufo-scares-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rocket-spirals-become-ufo-scares-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="when-rocket-spirals-become-ufo-scares-rocket-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -749,103 +741,103 @@ For researchers studying mass sightings and social amplification, rocket spirals
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Twilight phenomenon  
-   Link: [https://en.wikipedia.org/wiki/Twilight_phenomenon](https://en.wikipedia.org/wiki/Twilight_phenomenon)  
+   Link: <a href="https://en.wikipedia.org/wiki/Twilight_phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Twilight_phenomenon</a>  
 
 2. <a id="endnote-2"></a>
    Source: dailymotion.com  
    Title: The rocket's frozen exhaust plume appears to be spinning  
-   Link: [https://www.dailymotion.com/video/x9gqe7u](https://www.dailymotion.com/video/x9gqe7u)  
+   Link: <a href="https://www.dailymotion.com/video/x9gqe7u" target="_blank" rel="noopener noreferrer nofollow">https://www.dailymotion.com/video/x9gqe7u</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Swirl in the sky: Met Office gives explanation for swirl which...&#x27;This is likely to be caused by the SpaceX Falcon 9 rocket, launched ea...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: National Oceanic and Atmospheric Administration  
-   Link: [https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration](https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration)  
+   Link: <a href="https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Oceanic and Atmospheric AdministrationThe National Oceanic and Atmospheric Administration (NOAA /ˈnoʊ.ə/ NOH-ə) is a United S...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket](https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket)  
+   Link: <a href="https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>However, it has been determined that the phenomenon was caused by a SpaceX rocket, specifically the Falcon 9, which launched from Cape Ca...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: washingtonpost.com  
    Title: The Washington Post Did you see an alien-looking swirl in the sky?  
-   Link: [https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/](https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/)  
+   Link: <a href="https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s probably SpaceX.March 25, 2025 — On the night of March 24, 2025, skywatchers across Europe, from Britain to Croatia, observed a myst...</p></details>
    Published: March 25, 2025  
 
 6. <a id="endnote-6"></a>
    Source: livenowfox.com  
-   Link: [https://www.livenowfox.com/news/spacex-nrol-69-launch-spiral-sky-europe](https://www.livenowfox.com/news/spacex-nrol-69-launch-spiral-sky-europe)  
+   Link: <a href="https://www.livenowfox.com/news/spacex-nrol-69-launch-spiral-sky-europe" target="_blank" rel="noopener noreferrer nofollow">https://www.livenowfox.com/news/spacex-nrol-69-launch-spiral-sky-europe</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>LiveNOW FOXWatch: SpaceX spy satellite launch leaves otherworldly...25 Mar 2025 — The cause of the cloud was either an exhaust plume or...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: spacelaunchschedule.com  
-   Link: [https://www.spacelaunchschedule.com/news/the-jellyfish-effect-during-rocket-launches-a-stunning-twilight-phenomenon/](https://www.spacelaunchschedule.com/news/the-jellyfish-effect-during-rocket-launches-a-stunning-twilight-phenomenon/)  
+   Link: <a href="https://www.spacelaunchschedule.com/news/the-jellyfish-effect-during-rocket-launches-a-stunning-twilight-phenomenon/" target="_blank" rel="noopener noreferrer nofollow">https://www.spacelaunchschedule.com/news/the-jellyfish-effect-during-rocket-launches-a-stunning-twilight-phenomenon/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Space Launch ScheduleRocket Launch Jellyfish Effect: A Guide to Twilight&#x27;s Best...This captivating visual phenomenon occurs when a rocke...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: ibtimes.co.uk  
    Title: philippines space jellyfish phenomenon 1791606  
-   Link: [https://www.ibtimes.co.uk/philippines-space-jellyfish-phenomenon-1791606](https://www.ibtimes.co.uk/philippines-space-jellyfish-phenomenon-1791606)  
+   Link: <a href="https://www.ibtimes.co.uk/philippines-space-jellyfish-phenomenon-1791606" target="_blank" rel="noopener noreferrer nofollow">https://www.ibtimes.co.uk/philippines-space-jellyfish-phenomenon-1791606</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>International Business Times UK&#x27;Space Jellyfish&#x27; Phenomenon Explained: Mysterious Glow...14 Apr 2026 — According to PhilSA, the phenomen...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: thetimes.co.uk  
-   Link: [https://www.thetimes.co.uk/article/space-x-sky-spiral-yorkshire-t2cpgdxn2](https://www.thetimes.co.uk/article/space-x-sky-spiral-yorkshire-t2cpgdxn2)  
+   Link: <a href="https://www.thetimes.co.uk/article/space-x-sky-spiral-yorkshire-t2cpgdxn2" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/space-x-sky-spiral-yorkshire-t2cpgdxn2</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Experts attribute the phenomenon to a fuel dump from a SpaceX Falcon 9 rocket launched earlier that day from Florida, carrying a national...</p></details>
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/](https://www.weather.gov/)  
+   Link: <a href="https://www.weather.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/</a>  
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Damnthatsinteresting/comments/p1btrv/falcon_9_rocket_creating_a_twilight_phenomenon_in/](https://www.reddit.com/r/Damnthatsinteresting/comments/p1btrv/falcon_9_rocket_creating_a_twilight_phenomenon_in/)  
+   Link: <a href="https://www.reddit.com/r/Damnthatsinteresting/comments/p1btrv/falcon_9_rocket_creating_a_twilight_phenomenon_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Damnthatsinteresting/comments/p1btrv/falcon_9_rocket_creating_a_twilight_phenomenon_in/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Falcon 9 rocket creating a twilight phenomenon in the nightsky...This phenomenon, often called a “SpaceX spiral,” occurs when a Falcon 9...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Chilternsweatheralerts/posts/muliple-people-have-seen-thisexplained-space-x-rocket-fuel-dump-from-a-rocket-la/632626732732441/](https://www.facebook.com/Chilternsweatheralerts/posts/muliple-people-have-seen-thisexplained-space-x-rocket-fuel-dump-from-a-rocket-la/632626732732441/)  
+   Link: <a href="https://www.facebook.com/Chilternsweatheralerts/posts/muliple-people-have-seen-thisexplained-space-x-rocket-fuel-dump-from-a-rocket-la/632626732732441/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Chilternsweatheralerts/posts/muliple-people-have-seen-thisexplained-space-x-rocket-fuel-dump-from-a-rocket-la/632626732732441/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MULIPLE PEOPLE HAVE SEEN THIS🛰🌌🚀 Explained&quot;SpaceX spirals&quot; are glowing, spiral-shaped lights in the night sky caused by frozen fuel relea...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/interestingasfuck/comments/i21s89/spacex_falcon_9_leaving_earths_atmosphere_and/](https://www.reddit.com/r/interestingasfuck/comments/i21s89/spacex_falcon_9_leaving_earths_atmosphere_and/)  
+   Link: <a href="https://www.reddit.com/r/interestingasfuck/comments/i21s89/spacex_falcon_9_leaving_earths_atmosphere_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/interestingasfuck/comments/i21s89/spacex_falcon_9_leaving_earths_atmosphere_and/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX falcon 9 leaving Earth&#x27;s atmosphere and created a...This phenomenon is caused by the exhaust plume being high enough that it is s...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/MizzimaMyanmarNews/posts/spacex-rocket-fuel-makes-stunning-blue-spiral-across-european-skies/1072146274958502/](https://www.facebook.com/MizzimaMyanmarNews/posts/spacex-rocket-fuel-makes-stunning-blue-spiral-across-european-skies/1072146274958502/)  
+   Link: <a href="https://www.facebook.com/MizzimaMyanmarNews/posts/spacex-rocket-fuel-makes-stunning-blue-spiral-across-european-skies/1072146274958502/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MizzimaMyanmarNews/posts/spacex-rocket-fuel-makes-stunning-blue-spiral-across-european-skies/1072146274958502/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1y · Public · Spectacular night-time spiral seen over Europe on March 24 was a SpaceX Falcon 9 first-stage booster...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=nrUMC_eB1kU](https://www.youtube.com/watch?v=nrUMC_eB1kU)  
+   Link: <a href="https://www.youtube.com/watch?v=nrUMC_eB1kU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nrUMC_eB1kU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>#TheMoment a mysterious spiral appeared in the night-skyThe phenomenon seems to have been caused by a SpaceX rocket launch... Two of the...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
    Title: The Met Office received many reports of an illuminated  
-   Link: [https://www.facebook.com/ayrshiredailynews/posts/the-met-office-received-many-reports-of-an-illuminated-swirl-in-the-sky-this-eve/1040643304751217/](https://www.facebook.com/ayrshiredailynews/posts/the-met-office-received-many-reports-of-an-illuminated-swirl-in-the-sky-this-eve/1040643304751217/)  
+   Link: <a href="https://www.facebook.com/ayrshiredailynews/posts/the-met-office-received-many-reports-of-an-illuminated-swirl-in-the-sky-this-eve/1040643304751217/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ayrshiredailynews/posts/the-met-office-received-many-reports-of-an-illuminated-swirl-in-the-sky-this-eve/1040643304751217/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>spiral, sparking UFO theories—until the Met Office... It&#x27;s not aliens but the SpaceX Falcon 9 craft performing manoeuvres with the exhau...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
    Title: What cause this blue spiral that was seen over several  
-   Link: [https://www.facebook.com/raymorcvs/posts/what-cause-this-blue-spiral-that-was-seen-over-several-european-countries-letmee/670257138716472/](https://www.facebook.com/raymorcvs/posts/what-cause-this-blue-spiral-that-was-seen-over-several-european-countries-letmee/670257138716472/)  
+   Link: <a href="https://www.facebook.com/raymorcvs/posts/what-cause-this-blue-spiral-that-was-seen-over-several-european-countries-letmee/670257138716472/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/raymorcvs/posts/what-cause-this-blue-spiral-that-was-seen-over-several-european-countries-letmee/670257138716472/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New Zealand in 2022, also from the workhorse Falcon 9 rocket.... • UFO or Alien Spacecraft Explanation: Many initially believed the spir...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
    Title: Mystery glowing spiral in Monday night's sky explained  
-   Link: [https://www.facebook.com/itvtynetees/posts/mystery-glowing-spiral-in-monday-nights-sky-explained/1046285880858982/](https://www.facebook.com/itvtynetees/posts/mystery-glowing-spiral-in-monday-nights-sky-explained/1046285880858982/)  
+   Link: <a href="https://www.facebook.com/itvtynetees/posts/mystery-glowing-spiral-in-monday-nights-sky-explained/1046285880858982/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/itvtynetees/posts/mystery-glowing-spiral-in-monday-nights-sky-explained/1046285880858982/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Weather forecasters believe it was actually caused by frozen fuel from a SpaceX rocket launch in the United States. &quot;The rocket&#x27;s frozen...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/spacecom/posts/a-strange-blue-spiral-lit-up-the-sky-over-europe-on-monday-night-march-24-with-r/1019966216660729/](https://www.facebook.com/spacecom/posts/a-strange-blue-spiral-lit-up-the-sky-over-europe-on-monday-night-march-24-with-r/1019966216660729/)  
+   Link: <a href="https://www.facebook.com/spacecom/posts/a-strange-blue-spiral-lit-up-the-sky-over-europe-on-monday-night-march-24-with-r/1019966216660729/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/spacecom/posts/a-strange-blue-spiral-lit-up-the-sky-over-europe-on-monday-night-march-24-with-r/1019966216660729/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>, with residents of the UK and other countries speculating on its true nature...</p></details>

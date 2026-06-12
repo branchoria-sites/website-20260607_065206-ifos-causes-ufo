@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_wind_data_33671a_upper_air_soundings_5b2a89
 - ifos_-_causes_of_UFO_3ed238_wind_data_33671a_wind_direction_mista_668791
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - wind-data
 - surface-wind
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - wind-data
 - surface-wind
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: A ground weather reading can help a UFO check, but it can also point the wrong way when the object is higher than the mast.
 hero_summary: A ground weather reading can help a UFO check, but it can also point the wrong way when the object is higher than the mast.
 layout: default
 permalink: /surface-wind/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /wind-data/
 nav_short_title: Surface Wind
 title: When ground wind tells the wrong story
-title_full: When ground wind tells the wrong story | Wind Data
+title_full: When ground wind tells the wrong story
 display_title_short: Surface Wind
 display_title: Surface Wind
 heading_title: When ground wind tells the wrong story
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 21:47:39'
-parent_title: Following a UFO With the Wind | IFOs
+parent_title: Following a UFO With the Wind
 parent_permalink: /wind-data/
 parent_nav_short_title: Wind Data
 parent_heading_title: Following a UFO With the Wind
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_wind_data_33671a
-  title: Wind Data | Ifos Causes Of
+  title: Wind Data | ifos causes of UFO 3 ed 238
   permalink: /wind-data/
   short_title: Wind Data
   heading_title: Following a UFO With the Wind
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_wind_data_33671a
-  title: Wind Data | Ifos Causes Of
+  title: Wind Data | ifos causes of UFO 3 ed 238
   permalink: /wind-data/
   short_title: Wind Data
   heading_title: Following a UFO With the Wind
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: Are you reading the wind backwards?
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_wind_data_33671a
-  title: Wind Data | Ifos Causes Of
+  title: Wind Data | ifos causes of UFO 3 ed 238
   permalink: /wind-data/
   short_title: Wind Data
   heading_title: Following a UFO With the Wind
@@ -266,6 +265,7 @@ next_link:
   permalink: /trajectories/
   short_title: Trajectories
   heading_title: Can a model trace the UFO's drift?
+date: '2026-06-12 00:15:59 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a_surface_wind_limits_b3a52d-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a_surface_wind_limits_b3a52d-Illustration-1.webp
@@ -275,7 +275,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a_surface_wind_
 ## Introduction
 
 Checking the local wind is one of the first things investigators do when assessing whether a reported UFO could have been a balloon, sky lantern, or other drifting light. That check is useful, but it can also be misleading. A common error is to compare a sighting directly with the nearest weather station's surface wind reading and assume any mismatch rules out a drifting object.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a_surface_wind_limits_b3a52d-Illustration-1-dark.svg" | relative_url }}" alt="Surface Wind illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a_surface_wind_limits_b3a52d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a_surface_wind_limits_b3a52d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 In reality, the reported wind is usually measured at a standard height of about 10 metres above the ground. Objects seen hundreds of metres higher may be travelling in air moving at a different speed or even a different direction. As a result, some UFO reports appear to contradict the wind when they may simply be following a different layer of the [atmosphere]({{ 'atmosphere/' | relative_url }}). Understanding this limitation is essential when evaluating drift claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metoffice.gov.uk/blog/2025/why-do-we-measure-wind-at-less-than-500m" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metoffice.gov.uk</span><span class="citation-popover-title">why do we measure wind at less than 500m</span><span class="citation-popover-snippet">Met OfficeHow wind speeds are measured by the Met Office8 Aug 2025 — Wind speed typically increases with height above the Earth&#x27;s surface...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metoffice.gov.uk/blog/2025/why-do-we-measure-wind-at-less-than-500m" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metoffice.gov.uk</span><span class="citation-popover-title">why do we measure wind at less than 500m</span><span class="citation-popover-snippet">Met OfficeHow wind speeds are measured by the Met Office8 Aug 2025 — Wind speed typically increases with height above the Earth&#x27;s surface...</span></span></span>
@@ -298,10 +297,9 @@ Direction can change as well. Meteorological studies of the atmospheric boundary
 
 This creates a recurring UFO-investigation pitfall:
 
-* The [witness estimates]({{ 'witness-limits/' | relative_url }}) a high altitude.
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
+* The witness estimates a high altitude.
 * The investigator uses a surface observation.
 * The object's path does not match the surface wind.
 * The drifting-object explanation is rejected.
@@ -312,9 +310,7 @@ Yet the comparison may never have involved the relevant air mass in the first pl
 
 Low-level wind shear provides another complication. Meteorological agencies define wind shear as rapid changes in wind speed or direction over relatively short vertical distances. In such situations, an object can appear to alter course or accelerate even though it remains entirely wind-driven. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/source/zhu/ZHU_Training_Page/clouds/planetary_boundary_layer/PBL.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">National Weather ServicePlanetary Boundary LayerThe top of the PBL is often marked with a temperature inversion, a change in mass air, a...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gaTMuVUq7K8" title="METR2023 - Lecture 24 - Segment 1: Atmospheric Boundary Layer (ABL) Introduction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gaTMuVUq7K8" target="_blank" rel="noopener noreferrer">METR2023 - Lecture 24 - Segment 1: Atmospheric Boundary Layer (ABL) Introduction</a></p><p class="youtube-embed-meta">Channel: David Stang</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gaTMuVUq7K8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gaTMuVUq7K8">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a_surface_wind_limits_b3a52d-Illustration-2-dark.svg" | relative_url }}" alt="Surface Wind illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a_surface_wind_limits_b3a52d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a_surface_wind_limits_b3a52d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Obstacles, terrain and local wind variation
 
 Even before altitude becomes an issue, the nearest weather station may not perfectly represent the conditions at the sighting location.
@@ -332,8 +328,6 @@ A witness may therefore experience one wind direction on the ground while a drif
 
 Another subtle problem is distance. The closest reporting station may be several kilometres away. Weather agencies attempt to standardise observations, but wind remains one of the most locally variable meteorological elements. A reading from an airport or exposed field may not perfectly describe conditions at the witness location, especially in complex terrain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metoffice.gov.uk/blog/2025/why-do-we-measure-wind-at-less-than-500m" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metoffice.gov.uk</span><span class="citation-popover-title">why do we measure wind at less than 500m</span><span class="citation-popover-snippet">Met OfficeHow wind speeds are measured by the Met Office8 Aug 2025 — Wind speed typically increases with height above the Earth&#x27;s surface...</span></span></span>
 
-
-<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a_surface_wind_limits_b3a52d-Illustration-2-dark.svg" | relative_url }}" alt="Surface Wind illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a_surface_wind_limits_b3a52d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a_surface_wind_limits_b3a52d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A common interpretation mistake: wind direction language
 
 Some apparent contradictions arise from misunderstanding the way wind direction is reported.
@@ -342,14 +336,12 @@ Meteorological winds are named for the direction they come from, not the directi
 
 In UFO discussions, this convention is frequently reversed. An investigator may read "westerly wind" and expect an object to move west, producing an artificial mismatch. Before treating a wind comparison as evidence against a balloon or lantern explanation, it is worth confirming that the direction has been interpreted correctly.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a_surface_wind_limits_b3a52d-Illustration-3-dark.svg" | relative_url }}" alt="Surface Wind illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a_surface_wind_limits_b3a52d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a_surface_wind_limits_b3a52d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When surface wind still helps a lantern case
 
 Despite these limitations, surface [wind data]({{ 'wind-data/' | relative_url }}) remains useful. The mistake is treating it as the final answer rather than the first clue.
 
 Surface observations can strongly support a drifting-light explanation when several factors align:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -365,18 +357,11 @@ In such cases, a surface wind check can provide meaningful corroboration. A clus
 
 The strongest analyses therefore treat surface wind as a screening tool. A mismatch does not automatically disprove a drifting object, and a match does not automatically prove one. The key question is whether the measured wind is likely to represent the air mass in which the reported object was actually travelling. Met Office <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/source/zhu/ZHU_Training_Page/clouds/planetary_boundary_layer/PBL.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">National Weather ServicePlanetary Boundary LayerThe top of the PBL is often marked with a temperature inversion, a change in mass air, a...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1T3EEiLRw4Q" title="How To Interpret A Synoptic Weather Map Like A Pro!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1T3EEiLRw4Q" target="_blank" rel="noopener noreferrer">How To Interpret A Synoptic Weather Map Like A Pro!</a></p><p class="youtube-embed-meta">Channel: Closeup Education</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1T3EEiLRw4Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1T3EEiLRw4Q">Open on YouTube</a></p></div></div></div>
-
 ## The practical lesson for UFO investigations
 
 Surface wind checks are valuable because they are quick and accessible, but they are easy to overinterpret. A 10-metre wind observation describes conditions near the ground under standardised measuring rules, not necessarily the atmosphere hundreds of metres above a witness. Wind speed often increases with height, wind direction can change with altitude, and local terrain can produce differences between a weather station and the observation site. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rmets.onlinelibrary.wiley.com/doi/10.1002/qj.3605" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmets.onlinelibrary.wiley.com">[Royal Meteorological Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmets.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Royal Meteorological SocietyWind turning in the atmospheric boundary layer over land4 Jul 2019 — The turning of the wind with height in t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metoffice.gov.uk/blog/2025/why-do-we-measure-wind-at-less-than-500m" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metoffice.gov.uk</span><span class="citation-popover-title">why do we measure wind at less than 500m</span><span class="citation-popover-snippet">Met OfficeHow wind speeds are measured by the Met Office8 Aug 2025 — Wind speed typically increases with height above the Earth&#x27;s surface...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://rmets.onlinelibrary.wiley.com/doi/10.1002/qj.3605" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmets.onlinelibrary.wiley.com">[RMetS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmets.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Royal Meteorological SocietyWind turning in the atmospheric boundary layer over land4 Jul 2019 — The turning of the wind with height in t...</span></span></span>
 
 For reports involving suspected balloons, lanterns or other drifting lights, a surface wind mismatch should be treated as a prompt for further investigation rather than a decisive refutation. The closer the object is to the ground, the more useful the surface reading becomes. The higher and less certain the object's altitude, the greater the risk that the ground wind is telling the wrong story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/source/zhu/ZHU_Training_Page/clouds/planetary_boundary_layer/PBL.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">National Weather ServicePlanetary Boundary LayerThe top of the PBL is often marked with a temperature inversion, a change in mass air, a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/source/zhu/ZHU_Training_Page/clouds/planetary_boundary_layer/PBL.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">National Weather ServicePlanetary Boundary LayerThe top of the PBL is often marked with a temperature inversion, a change in mass air, a...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/91Yj-8nR098" title="SHORTS - WHY WE BOND (Neutral &amp; Ground) Explained in 3 Minutes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=91Yj-8nR098" target="_blank" rel="noopener noreferrer">SHORTS - WHY WE BOND (Neutral &amp; Ground) Explained in 3 Minutes</a></p><p class="youtube-embed-meta">Channel: Electrician U</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=91Yj-8nR098" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=91Yj-8nR098">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -471,7 +456,7 @@ For reports involving suspected balloons, lanterns or other drifting lights, a s
         <p class="fr-section-kicker">eBay marketplace picks</p>
         <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
       </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
       <div class="fr-ebay-market-toolbar">
         <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
@@ -495,15 +480,15 @@ For reports involving suspected balloons, lanterns or other drifting lights, a s
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surface-wind-when-ground-wind-tells-the-wrong-story-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="surface-wind-when-ground-wind-tells-the-wrong-story-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIENS 4 Vinyl Sticker Set: get in loser cute UFO stars space spaceman fun gift"><img src="{{ '/assets/images/marketplace-covers/8e52910332b2b757e6a7.jpg' | relative_url }}" alt="Listing image for ALIENS 4 Vinyl Sticker Set: get in loser cute UFO stars space spaceman fun gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ground-wind-tells-the-wrong-story-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="when-ground-wind-tells-the-wrong-story-wind-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1747 A Circle of Winds - Artificial Sphere Mariners Compass Celestial Poster"><img src="https://i.ebayimg.com/images/g/iyYAAOSw2Ndn5YWi/s-l225.jpg" alt="Listing image for 1747 A Circle of Winds - Artificial Sphere Mariners Compass Celestial Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surface-wind-when-ground-wind-tells-the-wrong-story-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="surface-wind-when-ground-wind-tells-the-wrong-story-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">ALIENS 4 Vinyl Sticker Set: get in loser cute UFO stars space spaceman fun gift</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ground-wind-tells-the-wrong-story-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="when-ground-wind-tells-the-wrong-story-wind-chart-poster" target="_blank" rel="sponsored noopener noreferrer">1747 A Circle of Winds - Artificial Sphere Mariners Compass Celestial Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surface-wind-when-ground-wind-tells-the-wrong-story-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="surface-wind-when-ground-wind-tells-the-wrong-story-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo sticker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ground-wind-tells-the-wrong-story-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="when-ground-wind-tells-the-wrong-story-wind-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for wind chart poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: wind chart poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surface-wind-when-ground-wind-tells-the-wrong-story-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="surface-wind-when-ground-wind-tells-the-wrong-story-ifos-causes-of-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ground-wind-tells-the-wrong-story-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="when-ground-wind-tells-the-wrong-story-wind-chart-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -511,15 +496,15 @@ For reports involving suspected balloons, lanterns or other drifting lights, a s
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surface-wind-when-ground-wind-tells-the-wrong-story-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="surface-wind-when-ground-wind-tells-the-wrong-story-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing"><img src="{{ '/assets/images/marketplace-covers/758272a90147e0fdd168.jpg' | relative_url }}" alt="Listing image for Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ground-wind-tells-the-wrong-story-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="when-ground-wind-tells-the-wrong-story-wind-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wind Surfing Water Sports Surfer 3d Window View Wall Sticker Poster Decal A359"><img src="https://i.ebayimg.com/images/g/PXEAAOSwq1xh-Y0~/s-l225.jpg" alt="Listing image for Wind Surfing Water Sports Surfer 3d Window View Wall Sticker Poster Decal A359" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surface-wind-when-ground-wind-tells-the-wrong-story-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="surface-wind-when-ground-wind-tells-the-wrong-story-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ground-wind-tells-the-wrong-story-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="when-ground-wind-tells-the-wrong-story-wind-chart-poster" target="_blank" rel="sponsored noopener noreferrer">Wind Surfing Water Sports Surfer 3d Window View Wall Sticker Poster Decal A359</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surface-wind-when-ground-wind-tells-the-wrong-story-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="surface-wind-when-ground-wind-tells-the-wrong-story-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo sticker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ground-wind-tells-the-wrong-story-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="when-ground-wind-tells-the-wrong-story-wind-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for wind chart poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: wind chart poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surface-wind-when-ground-wind-tells-the-wrong-story-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="surface-wind-when-ground-wind-tells-the-wrong-story-ifos-causes-of-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ground-wind-tells-the-wrong-story-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="when-ground-wind-tells-the-wrong-story-wind-chart-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -527,15 +512,15 @@ For reports involving suspected balloons, lanterns or other drifting lights, a s
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surface-wind-when-ground-wind-tells-the-wrong-story-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="surface-wind-when-ground-wind-tells-the-wrong-story-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO, Sticker Cut Vinyl v2"><img src="{{ '/assets/images/marketplace-covers/363ae3bd666c4dfeb51c.jpg' | relative_url }}" alt="Listing image for UFO, Sticker Cut Vinyl v2" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ground-wind-tells-the-wrong-story-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="when-ground-wind-tells-the-wrong-story-wind-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wind Surfing Water Sports Surfer 3d Smashed View Wall Sticker Poster Decal A360"><img src="https://i.ebayimg.com/images/g/EaEAAOSwqDlh-Y5k/s-l225.jpg" alt="Listing image for Wind Surfing Water Sports Surfer 3d Smashed View Wall Sticker Poster Decal A360" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surface-wind-when-ground-wind-tells-the-wrong-story-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="surface-wind-when-ground-wind-tells-the-wrong-story-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">UFO, Sticker Cut Vinyl v2</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ground-wind-tells-the-wrong-story-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="when-ground-wind-tells-the-wrong-story-wind-chart-poster" target="_blank" rel="sponsored noopener noreferrer">Wind Surfing Water Sports Surfer 3d Smashed View Wall Sticker Poster Decal A360</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surface-wind-when-ground-wind-tells-the-wrong-story-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="surface-wind-when-ground-wind-tells-the-wrong-story-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo sticker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ground-wind-tells-the-wrong-story-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="when-ground-wind-tells-the-wrong-story-wind-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for wind chart poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: wind chart poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surface-wind-when-ground-wind-tells-the-wrong-story-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="surface-wind-when-ground-wind-tells-the-wrong-story-ifos-causes-of-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ground-wind-tells-the-wrong-story-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="when-ground-wind-tells-the-wrong-story-wind-chart-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -543,15 +528,15 @@ For reports involving suspected balloons, lanterns or other drifting lights, a s
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surface-wind-when-ground-wind-tells-the-wrong-story-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="surface-wind-when-ground-wind-tells-the-wrong-story-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker"><img src="{{ '/assets/images/marketplace-covers/eb968c20f3ed6c11e2af.jpg' | relative_url }}" alt="Listing image for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ground-wind-tells-the-wrong-story-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="when-ground-wind-tells-the-wrong-story-wind-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Poster Wall Chart Meteorology Weather Air Pressure Isobars Wind"><img src="https://i.ebayimg.com/images/g/JBsAAeSw1-tpbfy4/s-l225.jpg" alt="Listing image for Vintage Poster Wall Chart Meteorology Weather Air Pressure Isobars Wind" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surface-wind-when-ground-wind-tells-the-wrong-story-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="surface-wind-when-ground-wind-tells-the-wrong-story-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ground-wind-tells-the-wrong-story-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="when-ground-wind-tells-the-wrong-story-wind-chart-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage Poster Wall Chart Meteorology Weather Air Pressure Isobars Wind</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surface-wind-when-ground-wind-tells-the-wrong-story-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="surface-wind-when-ground-wind-tells-the-wrong-story-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo sticker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ground-wind-tells-the-wrong-story-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="when-ground-wind-tells-the-wrong-story-wind-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for wind chart poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: wind chart poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surface-wind-when-ground-wind-tells-the-wrong-story-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="surface-wind-when-ground-wind-tells-the-wrong-story-ifos-causes-of-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ground-wind-tells-the-wrong-story-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="when-ground-wind-tells-the-wrong-story-wind-chart-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -559,7 +544,7 @@ For reports involving suspected balloons, lanterns or other drifting lights, a s
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surface-wind-when-ground-wind-tells-the-wrong-story-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="surface-wind-when-ground-wind-tells-the-wrong-story-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ground-wind-tells-the-wrong-story-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="when-ground-wind-tells-the-wrong-story-wind-chart-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -775,205 +760,205 @@ For reports involving suspected balloons, lanterns or other drifting lights, a s
 1. <a id="endnote-1"></a>
    Source: metoffice.gov.uk  
    Title: why do we measure wind at less than 500m  
-   Link: [https://www.metoffice.gov.uk/blog/2025/why-do-we-measure-wind-at-less-than-500m](https://www.metoffice.gov.uk/blog/2025/why-do-we-measure-wind-at-less-than-500m)  
+   Link: <a href="https://www.metoffice.gov.uk/blog/2025/why-do-we-measure-wind-at-less-than-500m" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2025/why-do-we-measure-wind-at-less-than-500m</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Met OfficeHow wind speeds are measured by the Met Office8 Aug 2025 — Wind speed typically increases with height above the Earth&#x27;s surface...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: weather.metoffice.gov.uk  
-   Link: [https://weather.metoffice.gov.uk/learn-about/met-office-for-schools/other-content/other-resources/understanding-weather](https://weather.metoffice.gov.uk/learn-about/met-office-for-schools/other-content/other-resources/understanding-weather)  
+   Link: <a href="https://weather.metoffice.gov.uk/learn-about/met-office-for-schools/other-content/other-resources/understanding-weather" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/met-office-for-schools/other-content/other-resources/understanding-weather</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Met OfficeUnderstanding weatherMeasurements of wind strength are made at 10 metres (33 feet) above the ground. A specified height has to...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: metoffice.gov.uk  
-   Link: [https://www.metoffice.gov.uk/research/climate/maps-and-data/data/haduk-grid/faq](https://www.metoffice.gov.uk/research/climate/maps-and-data/data/haduk-grid/faq)  
+   Link: <a href="https://www.metoffice.gov.uk/research/climate/maps-and-data/data/haduk-grid/faq" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/research/climate/maps-and-data/data/haduk-grid/faq</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Met OfficeHadUK-Grid Frequently Asked QuestionsThe standard exposure for wind sensors is at 10 m above ground in an open, level area (suc...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/source/zhu/ZHU_Training_Page/clouds/planetary_boundary_layer/PBL.html](https://www.weather.gov/source/zhu/ZHU_Training_Page/clouds/planetary_boundary_layer/PBL.html)  
+   Link: <a href="https://www.weather.gov/source/zhu/ZHU_Training_Page/clouds/planetary_boundary_layer/PBL.html" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/source/zhu/ZHU_Training_Page/clouds/planetary_boundary_layer/PBL.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Weather ServicePlanetary Boundary LayerThe top of the PBL is often marked with a temperature inversion, a change in mass air, a...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: nssl.noaa.gov  
    Title: National Severe Storms Laboratory2  
-   Link: [https://www.nssl.noaa.gov/publications/dopplerguide/chapter2.php](https://www.nssl.noaa.gov/publications/dopplerguide/chapter2.php)  
+   Link: <a href="https://www.nssl.noaa.gov/publications/dopplerguide/chapter2.php" target="_blank" rel="noopener noreferrer nofollow">https://www.nssl.noaa.gov/publications/dopplerguide/chapter2.php</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>interpretation of doppler velocity patterns in clear air and...wind speed increases from 0 to 38 m s-1 (74 kt) and direction veers from...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: rmets.org  
    Title: measuring wind speed what anemometer  
-   Link: [https://www.rmets.org/metmatters/measuring-wind-speed-what-anemometer](https://www.rmets.org/metmatters/measuring-wind-speed-what-anemometer)  
+   Link: <a href="https://www.rmets.org/metmatters/measuring-wind-speed-what-anemometer" target="_blank" rel="noopener noreferrer nofollow">https://www.rmets.org/metmatters/measuring-wind-speed-what-anemometer</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Measuring Wind Speed: What is an anemometer?6 Mar 2014 — In addition, because wind speed increases with height above the ground, a standa...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: metoffice.gov.uk  
    Title: what is wind and how do we measure it  
-   Link: [https://www.metoffice.gov.uk/blog/2025/what-is-wind-and-how-do-we-measure-it](https://www.metoffice.gov.uk/blog/2025/what-is-wind-and-how-do-we-measure-it)  
+   Link: <a href="https://www.metoffice.gov.uk/blog/2025/what-is-wind-and-how-do-we-measure-it" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2025/what-is-wind-and-how-do-we-measure-it</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Met OfficeWhat is wind and how do we measure it?16 Aug 2025 — Wind speed is typically measured in knots (nautical miles per hour), and di...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: weather.gov  
    Title: safety llws  
-   Link: [https://www.weather.gov/zme/safety_llws](https://www.weather.gov/zme/safety_llws)  
+   Link: <a href="https://www.weather.gov/zme/safety_llws" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/zme/safety_llws</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Weather ServiceLow Level Wind ShearSo what does this mean? It means that within the lowest 2000ft, the wind speed and/or directi...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: wow.metoffice.gov.uk  
-   Link: [https://wow.metoffice.gov.uk/support/siteratings](https://wow.metoffice.gov.uk/support/siteratings)  
+   Link: <a href="https://wow.metoffice.gov.uk/support/siteratings" target="_blank" rel="noopener noreferrer nofollow">https://wow.metoffice.gov.uk/support/siteratings</a>  
 
 10. <a id="endnote-10"></a>
    Source: weather.metoffice.gov.uk  
-   Link: [https://weather.metoffice.gov.uk/guides/observations/how-we-measure-wind](https://weather.metoffice.gov.uk/guides/observations/how-we-measure-wind)  
+   Link: <a href="https://weather.metoffice.gov.uk/guides/observations/how-we-measure-wind" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/guides/observations/how-we-measure-wind</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Met OfficeHow we measure windThe instruments used to measure wind are known as anemometers and can record wind speed, direction and the s...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: metoffice.gov.uk  
-   Link: [https://www.metoffice.gov.uk/research/climate/maps-and-data/data/haduk-grid/datasets](https://www.metoffice.gov.uk/research/climate/maps-and-data/data/haduk-grid/datasets)  
+   Link: <a href="https://www.metoffice.gov.uk/research/climate/maps-and-data/data/haduk-grid/datasets" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/research/climate/maps-and-data/data/haduk-grid/datasets</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>HadUK-Grid DatasetsMean wind speed at 10 m, sfcWind, Average of hourly mean wind speed at a height of 10 m above ground level over the mo...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: datahub.metoffice.gov.uk  
    Title: metoffice.gov.uk Glossary of parameters  
-   Link: [https://datahub.metoffice.gov.uk/docs/glossary?models=mo-spot-1hr&sortOrder=ALPHABETICALLY](https://datahub.metoffice.gov.uk/docs/glossary?models=mo-spot-1hr&sortOrder=ALPHABETICALLY)  
+   Link: <a href="https://datahub.metoffice.gov.uk/docs/glossary?models=mo-spot-1hr&amp;sortOrder=ALPHABETICALLY" target="_blank" rel="noopener noreferrer nofollow">https://datahub.metoffice.gov.uk/docs/glossary?models=mo-spot-1hr&amp;sortOrder=ALPHABETICALLY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The gust speed is equivalent to the maximum 3 second mean wind speed observed over the 10 minutes preceding the validity time. 10m...Rea...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: weather.metoffice.gov.uk  
-   Link: [https://weather.metoffice.gov.uk/guides/what-does-this-forecast-mean](https://weather.metoffice.gov.uk/guides/what-does-this-forecast-mean)  
+   Link: <a href="https://weather.metoffice.gov.uk/guides/what-does-this-forecast-mean" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/guides/what-does-this-forecast-mean</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>does this forecast mean?It is based on observed sea conditions, but is also used to describe wind conditions on land. Wind gust. This val...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: weather.metoffice.gov.uk  
-   Link: [https://weather.metoffice.gov.uk/guides/coast-and-sea/beaufort-scale](https://weather.metoffice.gov.uk/guides/coast-and-sea/beaufort-scale)  
+   Link: <a href="https://weather.metoffice.gov.uk/guides/coast-and-sea/beaufort-scale" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/guides/coast-and-sea/beaufort-scale</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>wind force scaleThe Beaufort scale, which is used in Met Office marine forecasts, is an empirical measure for describing wind intensity b...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: weather.metoffice.gov.uk  
-   Link: [https://weather.metoffice.gov.uk/learn-about/met-office-for-schools/other-content/other-resources/how-to-measure-the-weather](https://weather.metoffice.gov.uk/learn-about/met-office-for-schools/other-content/other-resources/how-to-measure-the-weather)  
+   Link: <a href="https://weather.metoffice.gov.uk/learn-about/met-office-for-schools/other-content/other-resources/how-to-measure-the-weather" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/met-office-for-schools/other-content/other-resources/how-to-measure-the-weather</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>do we measure the weather?These are often cups which spin through a beam of light to measure the wind speed and are placed 10m above the...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: datahub.metoffice.gov.uk  
    Title: metoffice.gov.uk Weather Data Hub | Glossary of parameters  
-   Link: [https://datahub.metoffice.gov.uk/docs/glossary](https://datahub.metoffice.gov.uk/docs/glossary)  
+   Link: <a href="https://datahub.metoffice.gov.uk/docs/glossary" target="_blank" rel="noopener noreferrer nofollow">https://datahub.metoffice.gov.uk/docs/glossary</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The wind speed at 10m above ground level. Improver probabilities spot UK; wind; 10m. More About Probability Wind speed at 10m...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: rmets.org  
-   Link: [https://www.rmets.org/metmatters/beaufort-wind-scale](https://www.rmets.org/metmatters/beaufort-wind-scale)  
+   Link: <a href="https://www.rmets.org/metmatters/beaufort-wind-scale" target="_blank" rel="noopener noreferrer nofollow">https://www.rmets.org/metmatters/beaufort-wind-scale</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Beaufort Wind ScaleThe wind speeds shown in the table below and that you hear quoted in weather or news reports are always measured a...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/media/epz/mesonet/CWOP-WMO8.pdf](https://www.weather.gov/media/epz/mesonet/CWOP-WMO8.pdf)  
+   Link: <a href="https://www.weather.gov/media/epz/mesonet/CWOP-WMO8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/media/epz/mesonet/CWOP-WMO8.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>guidance on the most effective practices for carrying out meteorological...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: repository.library.noaa.gov  
-   Link: [https://repository.library.noaa.gov/view/noaa/58655](https://repository.library.noaa.gov/view/noaa/58655)  
+   Link: <a href="https://repository.library.noaa.gov/view/noaa/58655" target="_blank" rel="noopener noreferrer nofollow">https://repository.library.noaa.gov/view/noaa/58655</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The height of the constant flux layer reaches ~ 300 m for 10-m wind speeds less than 13 m s−1 while this...Read mo...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: ndbc.noaa.gov  
    Title: adjust wind.shtml  
-   Link: [https://www.ndbc.noaa.gov/faq/adjust_wind.shtml](https://www.ndbc.noaa.gov/faq/adjust_wind.shtml)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NOAAYes, but we only list the standardized wind speeds where those who need them look for them. Anemometer heights on NDBC buoys vary acc...</p></details>
+   Link: <a href="https://www.ndbc.noaa.gov/faq/adjust_wind.shtml" target="_blank" rel="noopener noreferrer nofollow">https://www.ndbc.noaa.gov/faq/adjust_wind.shtml</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Yes, but we only list the standardized wind speeds where those who need them look for them. Anemometer heights on NDBC buoys vary acc...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: repository.library.noaa.gov  
    Title: noaa 71416 DS1  
-   Link: [https://repository.library.noaa.gov/view/noaa/71416/noaa_71416_DS1.pdf](https://repository.library.noaa.gov/view/noaa/71416/noaa_71416_DS1.pdf)  
+   Link: <a href="https://repository.library.noaa.gov/view/noaa/71416/noaa_71416_DS1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repository.library.noaa.gov/view/noaa/71416/noaa_71416_DS1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Structure of Turbulence in the Lower Atmospheric...by TR Lee · 2025 · Cited by 2 — In this work we addressed the question of how the ver...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: repository.library.noaa.gov  
    Title: noaa 27256 DS1  
-   Link: [https://repository.library.noaa.gov/view/noaa/27256/noaa_27256_DS1.pdf](https://repository.library.noaa.gov/view/noaa/27256/noaa_27256_DS1.pdf)  
+   Link: <a href="https://repository.library.noaa.gov/view/noaa/27256/noaa_27256_DS1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repository.library.noaa.gov/view/noaa/27256/noaa_27256_DS1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of the Hurricane Boundary Layer during the...by A Alford · 2020 · Cited by 47 — Due to the increase in aerodynamic surface roughness ove...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: repository.library.noaa.gov  
-   Link: [https://repository.library.noaa.gov/view/noaa/20353](https://repository.library.noaa.gov/view/noaa/20353)  
+   Link: <a href="https://repository.library.noaa.gov/view/noaa/20353" target="_blank" rel="noopener noreferrer nofollow">https://repository.library.noaa.gov/view/noaa/20353</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The development of offshore wind energy requires...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: repository.library.noaa.gov  
-   Link: [https://repository.library.noaa.gov/view/noaa/73046](https://repository.library.noaa.gov/view/noaa/73046)  
+   Link: <a href="https://repository.library.noaa.gov/view/noaa/73046" target="_blank" rel="noopener noreferrer nofollow">https://repository.library.noaa.gov/view/noaa/73046</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>govImpact of Land Friction on Surface Wind Structure During...by MA Jisan · 2026 — Momentum budget analysis indicates that land‐induced...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: repository.library.noaa.gov  
    Title: noaa 31510 DS1  
-   Link: [https://repository.library.noaa.gov/view/noaa/31510/noaa_31510_DS1.pdf](https://repository.library.noaa.gov/view/noaa/31510/noaa_31510_DS1.pdf)  
+   Link: <a href="https://repository.library.noaa.gov/view/noaa/31510/noaa_31510_DS1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repository.library.noaa.gov/view/noaa/31510/noaa_31510_DS1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Wind Speed Estimates from a High-Resolutionby EP James · 2018 · Cited by 60 — Among the most important parameterizations for forecasting...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: amc.namem.gov.mn  
-   Link: [https://amc.namem.gov.mn/wp-content/uploads/WMO/1.%208_I-2023_en.pdf?_t=1638837866](https://amc.namem.gov.mn/wp-content/uploads/WMO/1.%208_I-2023_en.pdf?_t=1638837866)  
+   Link: <a href="https://amc.namem.gov.mn/wp-content/uploads/WMO/1.%208_I-2023_en.pdf?_t=1638837866" target="_blank" rel="noopener noreferrer nofollow">https://amc.namem.gov.mn/wp-content/uploads/WMO/1.%208_I-2023_en.pdf?_t=1638837866</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>to Instruments and Methods of ObservationPage 1. Guide to Instruments and Methods of Observation. Volume I –Measurement of Meteorological...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: rmets.onlinelibrary.wiley.com  
-   Link: [https://rmets.onlinelibrary.wiley.com/doi/10.1002/qj.3605](https://rmets.onlinelibrary.wiley.com/doi/10.1002/qj.3605)  
+   Link: <a href="https://rmets.onlinelibrary.wiley.com/doi/10.1002/qj.3605" target="_blank" rel="noopener noreferrer nofollow">https://rmets.onlinelibrary.wiley.com/doi/10.1002/qj.3605</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Meteorological SocietyWind turning in the atmospheric boundary layer over land4 Jul 2019 — The turning of the wind with height in t...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: rmets.onlinelibrary.wiley.com  
-   Link: [https://rmets.onlinelibrary.wiley.com/doi/10.1002/met.2094](https://rmets.onlinelibrary.wiley.com/doi/10.1002/met.2094)  
+   Link: <a href="https://rmets.onlinelibrary.wiley.com/doi/10.1002/met.2094" target="_blank" rel="noopener noreferrer nofollow">https://rmets.onlinelibrary.wiley.com/doi/10.1002/met.2094</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Meteorological SocietyInvestigation of exposure correction models for wind speed...Nov 21, 2022 — The corrected wind speed measure...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: seedmech.com  
-   Link: [https://www.seedmech.com/documents_folder/wmo_no_8.pdf](https://www.seedmech.com/documents_folder/wmo_no_8.pdf)  
+   Link: <a href="https://www.seedmech.com/documents_folder/wmo_no_8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.seedmech.com/documents_folder/wmo_no_8.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>WORLD METEOROLOGICAL ORGANIZATIONThe purpose of the Guide to Meteorological Instruments and Methods of Observation is to support these ac...</p></details>
 
 ### Additional References
 
 30. <a id="endnote-30"></a>
    Source: knmi.nl  
-   Link: [https://www.knmi.nl/kennis-en-datacentrum/project/potential-wind](https://www.knmi.nl/kennis-en-datacentrum/project/potential-wind)  
+   Link: <a href="https://www.knmi.nl/kennis-en-datacentrum/project/potential-wind" target="_blank" rel="noopener noreferrer nofollow">https://www.knmi.nl/kennis-en-datacentrum/project/potential-wind</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Potential windFor wind measurements the World Meteorological Organization (WMO) requires that the measurement is at 10 m height, the meas...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/724960971/WMO-NO-08-volume-IV-edisi-2021](https://www.scribd.com/document/724960971/WMO-NO-08-volume-IV-edisi-2021)  
+   Link: <a href="https://www.scribd.com/document/724960971/WMO-NO-08-volume-IV-edisi-2021" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/724960971/WMO-NO-08-volume-IV-edisi-2021</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>WMO No. 8: Instruments &amp; Observation Methods | PDFThis document provides guidance on instruments and methods for observing systems at aut...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: wmo.int  
-   Link: [https://wmo.int/](https://wmo.int/)  
+   Link: <a href="https://wmo.int/" target="_blank" rel="noopener noreferrer nofollow">https://wmo.int/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>World Meteorological Organization WMO: HomepageA specialized agency of the United Nations whose mandate covers weather, climate and water...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: artefacts.ceda.ac.uk  
-   Link: [https://artefacts.ceda.ac.uk/badc_datadocs/ukmo-midas/ukmo_guide.html](https://artefacts.ceda.ac.uk/badc_datadocs/ukmo-midas/ukmo_guide.html)  
+   Link: <a href="https://artefacts.ceda.ac.uk/badc_datadocs/ukmo-midas/ukmo_guide.html" target="_blank" rel="noopener noreferrer nofollow">https://artefacts.ceda.ac.uk/badc_datadocs/ukmo-midas/ukmo_guide.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Office Surface Data Users GuideThe standard exposure is over level, open terrain at a height of 10m above the ground.... gusts measureme...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: research.tudelft.nl  
-   Link: [https://research.tudelft.nl/files/155575145/3_s2.0_B9780323993531000311_main.pdf](https://research.tudelft.nl/files/155575145/3_s2.0_B9780323993531000311_main.pdf)  
+   Link: <a href="https://research.tudelft.nl/files/155575145/3_s2.0_B9780323993531000311_main.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research.tudelft.nl/files/155575145/3_s2.0_B9780323993531000311_main.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>wind speed profiles in atmospheric boundary layer...The vertical profile of wind speed, extending up to a few hundreds of meters above g...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/267727029_Extending_the_wind_profile_much_higher_than_the_surface_layer](https://www.researchgate.net/publication/267727029_Extending_the_wind_profile_much_higher_than_the_surface_layer)  
+   Link: <a href="https://www.researchgate.net/publication/267727029_Extending_the_wind_profile_much_higher_than_the_surface_layer" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/267727029_Extending_the_wind_profile_much_higher_than_the_surface_layer</a>  
 
 36. <a id="endnote-36"></a>
    Source: community.wmo.int  
-   Link: [https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/instruments-and-methods-of-observation-programme-imop/guide-instruments-and-methods-of-observation-wmo-no-8](https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/instruments-and-methods-of-observation-programme-imop/guide-instruments-and-methods-of-observation-wmo-no-8)  
+   Link: <a href="https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/instruments-and-methods-of-observation-programme-imop/guide-instruments-and-methods-of-observation-wmo-no-8" target="_blank" rel="noopener noreferrer nofollow">https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/instruments-and-methods-of-observation-programme-imop/guide-instruments-and-methods-of-observation-wmo-no-8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>8)LATEST VERSION OF THE WMO-No. 8; Chapter 5, Measurement of surface wind; Chapter 6, Measurement of precipitation; Chapter 7, Measure...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/83567776/Guide-to-Meteorological-Instruments-and-Methods-of-Observation-WMO-CIMO-Guide-7th-Edition-2008](https://www.scribd.com/document/83567776/Guide-to-Meteorological-Instruments-and-Methods-of-Observation-WMO-CIMO-Guide-7th-Edition-2008)  
+   Link: <a href="https://www.scribd.com/document/83567776/Guide-to-Meteorological-Instruments-and-Methods-of-Observation-WMO-CIMO-Guide-7th-Edition-2008" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/83567776/Guide-to-Meteorological-Instruments-and-Methods-of-Observation-WMO-CIMO-Guide-7th-Edition-2008</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The tion of the horizontal wind speed over 10 min recorded wind trace can also be used to read peak...Read more...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: youngusa.com  
-   Link: [https://www.youngusa.com/blog/siting-how-to-choose-the-best-location-for-your-weather-station/](https://www.youngusa.com/blog/siting-how-to-choose-the-best-location-for-your-weather-station/)  
+   Link: <a href="https://www.youngusa.com/blog/siting-how-to-choose-the-best-location-for-your-weather-station/" target="_blank" rel="noopener noreferrer nofollow">https://www.youngusa.com/blog/siting-how-to-choose-the-best-location-for-your-weather-station/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Considerations... This is because their height requirements (0.3–2 meters) are significantly lower...Read more...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: campbellsci.co.uk  
-   Link: [https://www.campbellsci.co.uk/weather-station-siting](https://www.campbellsci.co.uk/weather-station-siting)  
+   Link: <a href="https://www.campbellsci.co.uk/weather-station-siting" target="_blank" rel="noopener noreferrer nofollow">https://www.campbellsci.co.uk/weather-station-siting</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>To facilitate leveling/cleaning, CSI recommends installing at a height of 3 m or less.Read more...</p></details>

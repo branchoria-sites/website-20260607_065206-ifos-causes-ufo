@@ -50,22 +50,22 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_wind_data_33671a
 - ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - size-errors
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - size-errors
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Without reliable distance cues, sincere observers can badly misjudge an object's size, altitude and speed.
 hero_summary: Without reliable distance cues, sincere observers can badly misjudge an object's size, altitude and speed.
 layout: default
 permalink: /size-errors/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 nav_short_title: Size Errors
 title: Why Honest Witnesses Misjudge UFOs
-title_full: Why Honest Witnesses Misjudge UFOs | IFOs
+title_full: Why Honest Witnesses Misjudge UFOs
 display_title_short: Size Errors
 display_title: Size Errors
 heading_title: Why Honest Witnesses Misjudge UFOs
@@ -240,213 +240,212 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 21:38:28'
 parent_title: IFOs
-parent_permalink: /ifos-causes-of/
+parent_permalink: /ifos-causes-of-ufo-3-ed-238/
 parent_nav_short_title: IFOs
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 sibling_links:
 - basename: ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d
-  title: A Head On Aircraft Can Look Like A Stationary Light... | Ifos Causes Of
+  title: A Head On Aircraft Can Look Like A Stationary Light... | ifos causes of UFO 3 ed 238
   permalink: /a-head-on-aircraft-can-look-like-a/
   short_title: A Head On Aircraft Can Look Like A Stationary Light...
   heading_title: The Stationary Light That Is Moving
 - basename: ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261
-  title: AARO | Ifos Causes Of
+  title: AARO | ifos causes of UFO 3 ed 238
   permalink: /aaro/
   short_title: AARO
   heading_title: What Modern UAP Reviews Resolve
 - basename: ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253
-  title: Aircraft Lights | Ifos Causes Of
+  title: Aircraft Lights | ifos causes of UFO 3 ed 238
   permalink: /aircraft-lights/
   short_title: Aircraft Lights
   heading_title: Why Ordinary Aircraft Look So Strange
 - basename: ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043
-  title: Atmosphere | Ifos Causes Of
+  title: Atmosphere | ifos causes of UFO 3 ed 238
   permalink: /atmosphere/
   short_title: Atmosphere
   heading_title: When Weather Makes Shapes in the Sky
 - basename: ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057
-  title: Balloons | Ifos Causes Of
+  title: Balloons | ifos causes of UFO 3 ed 238
   permalink: /balloons/
   short_title: Balloons
   heading_title: Why Balloons Become Flying Saucers
 - basename: ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40
-  title: Birds | Ifos Causes Of
+  title: Birds | ifos causes of UFO 3 ed 238
   permalink: /birds/
   short_title: Birds
   heading_title: How Birds Become Fast UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81
-  title: Blue Book | Ifos Causes Of
+  title: Blue Book | ifos causes of UFO 3 ed 238
   permalink: /blue-book/
   short_title: Blue Book
   heading_title: What Blue Book Teaches About IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e
-  title: Contrails | Ifos Causes Of
+  title: Contrails | ifos causes of UFO 3 ed 238
   permalink: /contrails/
   short_title: Contrails
   heading_title: Why Jet Trails Glow Like UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c
-  title: Drones | Ifos Causes Of
+  title: Drones | ifos causes of UFO 3 ed 238
   permalink: /drones/
   short_title: Drones
   heading_title: When a Drone Becomes a UFO
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e
-  title: First Checks | Ifos Causes Of
+  title: First Checks | ifos causes of UFO 3 ed 238
   permalink: /first-checks/
   short_title: First Checks
   heading_title: What to Check Before Calling It a UFO
 - basename: ifos_-_causes_of_UFO_3ed238_military_flares_abb62f
-  title: Flares | Ifos Causes Of
+  title: Flares | ifos causes of UFO 3 ed 238
   permalink: /flares/
   short_title: Flares
   heading_title: Why Flares Look Like Hovering Craft
 - basename: ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590
-  title: Flight Tracking | Ifos Causes Of
+  title: Flight Tracking | ifos causes of UFO 3 ed 238
   permalink: /flight-tracking/
   short_title: Flight Tracking
   heading_title: How Flight Data Solves UFO Sightings
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965
-  title: Hoaxes | Ifos Causes Of
+  title: Hoaxes | ifos causes of UFO 3 ed 238
   permalink: /hoaxes/
   short_title: Hoaxes
   heading_title: When UFO Reports Are Manufactured
 - basename: ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f
-  title: Infrared | Ifos Causes Of
+  title: Infrared | ifos causes of UFO 3 ed 238
   permalink: /infrared/
   short_title: Infrared
   heading_title: Why Infrared UFO Videos Mislead
 - basename: ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74
-  title: Insects | Ifos Causes Of
+  title: Insects | ifos causes of UFO 3 ed 238
   permalink: /insects/
   short_title: Insects
   heading_title: The Tiny Things Cameras Make Huge
 - basename: ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5
-  title: Lanterns | Ifos Causes Of
+  title: Lanterns | ifos causes of UFO 3 ed 238
   permalink: /lanterns/
   short_title: Lanterns
   heading_title: The Orange Lights That Start UFO Reports
 - basename: ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e
-  title: Lens Flare | Ifos Causes Of
+  title: Lens Flare | ifos causes of UFO 3 ed 238
   permalink: /lens-flare/
   short_title: Lens Flare
   heading_title: When Cameras Invent Extra Lights
 - basename: ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28
-  title: Mass Sightings | Ifos Causes Of
+  title: Mass Sightings | ifos causes of UFO 3 ed 238
   permalink: /mass-sightings/
   short_title: Mass Sightings
   heading_title: Why Groups Can Share One Mistake
 - basename: ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504
-  title: Meteors | Ifos Causes Of
+  title: Meteors | ifos causes of UFO 3 ed 238
   permalink: /meteors/
   short_title: Meteors
   heading_title: When Fireballs Become UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca
-  title: Missing Data | Ifos Causes Of
+  title: Missing Data | ifos causes of UFO 3 ed 238
   permalink: /missing-data/
   short_title: Missing Data
   heading_title: Unsolved Does Not Always Mean Strange
 - basename: ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183
-  title: NASA Study | Ifos Causes Of
+  title: NASA Study | ifos causes of UFO 3 ed 238
   permalink: /nasa-study/
   short_title: NASA Study
   heading_title: Why Better UFO Data Matters
 - basename: ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b
-  title: Parallax | Ifos Causes Of
+  title: Parallax | ifos causes of UFO 3 ed 238
   permalink: /parallax/
   short_title: Parallax
   heading_title: The Speed Illusion in UFO Footage
 - basename: ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a
-  title: Pilots | Ifos Causes Of
+  title: Pilots | ifos causes of UFO 3 ed 238
   permalink: /pilots/
   short_title: Pilots
   heading_title: Why Pilots Can Misidentify UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357
-  title: Radar | Ifos Causes Of
+  title: Radar | ifos causes of UFO 3 ed 238
   permalink: /radar/
   short_title: Radar
   heading_title: When Radar Sees a UFO That Isnt There
 - basename: ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c
-  title: Reflections | Ifos Causes Of
+  title: Reflections | ifos causes of UFO 3 ed 238
   permalink: /reflections/
   short_title: Reflections
   heading_title: The UFO Inside the Glass
 - basename: ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132
-  title: Rocket Plumes | Ifos Causes Of
+  title: Rocket Plumes | ifos causes of UFO 3 ed 238
   permalink: /rocket-plumes/
   short_title: Rocket Plumes
   heading_title: The Strange Clouds Rockets Leave Behind
 - basename: ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b
-  title: Satellites | Ifos Causes Of
+  title: Satellites | ifos causes of UFO 3 ed 238
   permalink: /satellites/
   short_title: Satellites
   heading_title: Why Satellites Surprise Night Watchers
 - basename: ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1
-  title: Searchlights | Ifos Causes Of
+  title: Searchlights | ifos causes of UFO 3 ed 238
   permalink: /searchlights/
   short_title: Searchlights
   heading_title: How Searchlights Paint UFOs in Clouds
 - basename: ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b
-  title: Sensor Operators | Ifos Causes Of
+  title: Sensor Operators | ifos causes of UFO 3 ed 238
   permalink: /sensor-operators/
   short_title: Sensor Operators
   heading_title: When Sensors Need Human Context
 - basename: ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391
-  title: Short Clips | Ifos Causes Of
+  title: Short Clips | ifos causes of UFO 3 ed 238
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: Why Short UFO Videos Are Hard to Trust
 - basename: ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725
-  title: Sky Charts | Ifos Causes Of
+  title: Sky Charts | ifos causes of UFO 3 ed 238
   permalink: /sky-charts/
   short_title: Sky Charts
   heading_title: How to Check a UFO Against the Sky
 - basename: ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32
-  title: Stars | Ifos Causes Of
+  title: Stars | ifos causes of UFO 3 ed 238
   permalink: /stars/
   short_title: Stars
   heading_title: Why Stars Flash Like Machines
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb
-  title: Status Labels | Ifos Causes Of
+  title: Status Labels | ifos causes of UFO 3 ed 238
   permalink: /status-labels/
   short_title: Status Labels
   heading_title: UFO Does Not Mean Alien
 - basename: ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d
-  title: Strong Cases | Ifos Causes Of
+  title: Strong Cases | ifos causes of UFO 3 ed 238
   permalink: /strong-cases/
   short_title: Strong Cases
   heading_title: What Makes a UFO Report Harder to Explain
 - basename: ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948
-  title: UK Files | Ifos Causes Of
+  title: UK Files | ifos causes of UFO 3 ed 238
   permalink: /uk-files/
   short_title: UK Files
   heading_title: What the UK UFO Files Reveal
 - basename: ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06
-  title: Unresolved Cases | Ifos Causes Of
+  title: Unresolved Cases | ifos causes of UFO 3 ed 238
   permalink: /unresolved-cases/
   short_title: Unresolved Cases
   heading_title: Why Some UFO Cases Stay Open
 - basename: ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080
-  title: Venus | Ifos Causes Of
+  title: Venus | ifos causes of UFO 3 ed 238
   permalink: /venus/
   short_title: Venus
   heading_title: Is That UFO Really Venus?
 - basename: ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13
-  title: Weather Records | Ifos Causes Of
+  title: Weather Records | ifos causes of UFO 3 ed 238
   permalink: /weather-records/
   short_title: Weather Records
   heading_title: Weather Clues That Explain Strange Lights
 - basename: ifos_-_causes_of_UFO_3ed238_wind_data_33671a
-  title: Wind Data | Ifos Causes Of
+  title: Wind Data | ifos causes of UFO 3 ed 238
   permalink: /wind-data/
   short_title: Wind Data
   heading_title: Following a UFO With the Wind
@@ -479,20 +478,21 @@ child_links:
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 prev_link:
   basename: ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391
-  title: Short Clips | Ifos Causes Of
+  title: Short Clips | ifos causes of UFO 3 ed 238
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: Why Short UFO Videos Are Hard to Trust
 next_link:
   basename: ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725
-  title: Sky Charts | Ifos Causes Of
+  title: Sky Charts | ifos causes of UFO 3 ed 238
   permalink: /sky-charts/
   short_title: Sky Charts
   heading_title: How to Check a UFO Against the Sky
+date: '2026-06-12 00:14:06 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f-overview-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f-overview.webp
@@ -503,7 +503,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f-ov
 
 Sincere UFO witnesses can badly misjudge an object’s size, height and speed because the sky often removes the very cues people normally use to judge distance. A light with no visible wings, surface detail, sound, shadow or nearby reference point may be a small object close by, a large object far away, or something in between. Once the observer guesses the wrong distance, the estimated size and speed usually become wrong as well.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f-overview.webp" | relative_url }}" alt="Overview image for Size Errors" loading="eager" decoding="sync" fetchpriority="high">
 This is one of the most important IFO mechanisms: the witness may have seen a real object, described the appearance honestly, and still turned a balloon, aircraft, satellite, meteor or reflection into a “huge craft” or “impossible acceleration”. Modern UAP analysis treats this as a data problem, not simply a credibility problem. NASA’s independent UAP study warned that eyewitness reports can be compelling but often lack the reproducible information needed to determine a UAP’s origin, while [AARO]({{ 'aaro/' | relative_url }}) has specifically highlighted forced perspective and parallax as recurring causes of exaggerated size and speed reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
@@ -511,14 +510,12 @@ This is one of the most important IFO mechanisms: the witness may have seen a re
 
 On the ground, distance is usually supported by many overlapping clues: familiar object sizes, texture, shadows, perspective lines, foreground objects, binocular depth, motion against the background and sounds arriving from known directions. A car on a road, a person beside a door, or a bird crossing a tree line gives the brain a set of checks. The open sky removes many of them.
 
-That matters because a visual sighting is first of all an angular event. The witness sees something subtending an angle in the field of view and moving across some angle of sky. To convert that into a physical size or speed, distance has to be known or reliably inferred. The UFO Identification Process article in *Skeptical Inquirer*, drawing on Allan Hendry’s investigative work, states the central problem plainly: distance, size and speed cannot be estimated reliably unless at least one of them is known; if one estimate is wrong, the others follow it into error. It recommends recording angular size, angular speed and angular position before making physical claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2018/11/ufo-identification-process/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer UFO Identification Process | Skeptical Inquirer</span><span class="citation-popover-snippet">Skeptical Inquirer UFO Identification Process | Skeptical Inquirer</span></span></span>
+That matters because a visual sighting is first of all an angular event. The witness sees something subtending an angle in the field of view and moving across some angle of sky. To convert that into a physical size or speed, distance has to be known or reliably inferred. The UFO Identification Process article in *Skeptical Inquirer*, drawing on Allan Hendry’s investigative work, states the central problem plainly: distance, size and speed cannot be estimated reliably unless at least one of them is known; if one estimate is wrong, the others follow it into error. It recommends recording angular size, angular speed and angular position before making physical claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2018/11/ufo-identification-process/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer UFO Identification Process &#124; Skeptical Inquirer</span><span class="citation-popover-snippet">Skeptical Inquirer UFO Identification Process &#124; Skeptical Inquirer</span></span></span>
 
 A bright point at night is the hardest version of this problem. It may look close because it is vivid, “solid” because it is steady, or huge because the mind places it at aircraft distance. But a point of light has no intrinsic scale. A drone light, a landing aircraft, [Venus]({{ 'venus/' | relative_url }}), a balloon reflecting sunlight, a satellite, a meteor and a distant searchlight can all appear as small luminous marks without enough surface detail to settle the [range]({{ 'range/' | relative_url }}).
 
 The same mechanism can work in daylight. A featureless white sphere against a pale sky may be read as a large object far away if the witness assumes it is at aircraft altitude, or as a small nearby object if binoculars reveal it to be a balloon. The witness is not necessarily inventing the sighting; the interpretation is being built on an uncalibrated distance guess.
 
-
-<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f-Illustration-1-dark.svg" | relative_url }}" alt="Size Errors illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Missing distance cues
 
 AARO’s 2024 paper on forced perspective and parallax explains why this problem appears so often in UAP observations. In ordinary forced-perspective photographs, a nearby person can appear to hold up a distant tower because the picture compresses depth. In the sky, the same depth [compression]({{ 'compression/' | relative_url }}) becomes more serious because the unknown object may have no windows, propellers, wings, surface lines or other features that would help the observer estimate its true scale. AARO notes that observers often compare unknown [sky objects]({{ 'sky-objects/' | relative_url }}) with clouds, trees, buildings or other imperfect references, which can produce inaccurate distance and size estimates. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Effect of Forced Perspective and Parallax View on UAP Observations</span><span class="citation-popover-snippet">Effect of Forced Perspective and Parallax View on UAP Observations</span></span></span>
@@ -526,7 +523,6 @@ AARO’s 2024 paper on forced perspective and parallax explains why this problem
 AARO’s simplified example is a ten-foot sphere at an unknown distance. If the observer places it mentally at the wrong range, the same angular image supports several different physical sizes. The farther the assumed distance, the larger the inferred object; the nearer the assumed distance, the smaller it becomes. This is why a report such as “it was the size of a house” is much weaker than a report such as “it covered about half the width of the Moon” unless the distance is independently known. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">AARO Historical Record Report Vol 1 2024</span><span class="citation-popover-snippet">AARO Historical Record Report Vol 1 2024</span></span></span>
 
 The most useful witness descriptions therefore separate what was seen from what was inferred:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -539,9 +535,7 @@ The most useful witness descriptions therefore separate what was seen from what 
 
 This distinction is especially important in IFO analysis because many mundane objects become puzzling only after the witness assigns them a dramatic distance. A slow nearby balloon may seem like a hovering craft. A distant aircraft flying towards the observer may seem motionless. A satellite formation may seem like one rigid triangular object. A meteor may seem to fall “behind the trees” even though it is tens of miles high.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-WUaS_Ynd_M" title="Third Eye Spies (FULL DOCUMENTARY) CIA, ESP, Psychic Program, Spy Secrets, Declassified Documents" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-WUaS_Ynd_M" target="_blank" rel="noopener noreferrer">Third Eye Spies (FULL DOCUMENTARY) CIA, ESP, Psychic Program, Spy Secrets, Declassified Documents</a></p><p class="youtube-embed-meta">Channel: UNIDENTIFIED</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-WUaS_Ynd_M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-WUaS_Ynd_M">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f-Illustration-1-dark.svg" | relative_url }}" alt="Size Errors illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Silent objects and scale
 
 Silence often makes witnesses more confident, but it can also mislead. People expect aircraft-sized objects to make aircraft-like sounds. If a bright object seems close and silent, the mind may treat that as strange: either the object must be using unusual propulsion, or it must be far larger and farther away than it first appeared. Yet sound is a poor ruler. Wind, traffic, insulation, engine direction, distance, temperature layers and the object’s actual type can all break the expected link between sight and sound.
@@ -562,7 +556,6 @@ This is a major issue in aircraft and vehicle sightings. A pilot, passenger, das
 
 The same principle affects videos. A dot on screen can appear to streak, halt or reverse when the camera pans, zooms, stabilises, refocuses or tracks another object. Without range, angular movement and camera metadata, a claim such as “it crossed miles in seconds” may actually mean only “it crossed the frame quickly”.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f-Illustration-2-dark.svg" | relative_url }}" alt="Size Errors illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why honest witnesses still sound certain
 
@@ -580,7 +573,6 @@ Good investigation does not ask witnesses to be perfect measuring instruments. I
 
 The strongest distance and size constraints usually come from independent data:
 
-
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
 * **Angular measurements:** Investigators ask where the object was relative to the horizon, Moon, stars, buildings or landmarks. A hand-span or finger-width estimate is imperfect, but it is better than “large”.
@@ -592,22 +584,16 @@ The strongest distance and size constraints usually come from independent data:
 
 </div>
 
-GEIPAN, the French UAP investigation group within CNES, describes a similar discipline: it collects testimony, uses a multidisciplinary method combining physical sciences and human factors, and classifies cases partly by the consistency of available data and the remaining strangeness after comparison with known phenomena. It also uses trained investigators who can visit sighting locations, meet witnesses and organise reconstructions when needed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.geipan.fr/en/faq-page" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-title">FA Q | GEIPAN</span><span class="citation-popover-snippet">FA Q | GEIPAN</span></span></span>
+GEIPAN, the French UAP investigation group within CNES, describes a similar discipline: it collects testimony, uses a multidisciplinary method combining physical sciences and human factors, and classifies cases partly by the consistency of available data and the remaining strangeness after comparison with known phenomena. It also uses trained investigators who can visit sighting locations, meet witnesses and organise reconstructions when needed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.geipan.fr/en/faq-page" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-title">FA Q &#124; GEIPAN</span><span class="citation-popover-snippet">FA Q &#124; GEIPAN</span></span></span>
 
-A telling GEIPAN example involved witnesses who described a stationary flying saucer with a cone of light or a huge slow triangle. [Radar]({{ 'radar/' | relative_url }}) analysis pointed to a C-130 Hercules transport aircraft, but GEIPAN emphasised that simply naming “a plane” was not enough; the investigation also had to explain why the ordinary aircraft looked so strange to the witnesses. That is the useful IFO approach: not dismissing the experience, but reconstructing the chain from real stimulus to mistaken scale. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">Mission &amp; Geipan | GEIPAN</span><span class="citation-popover-snippet">Mission &amp; Geipan | GEIPAN</span></span></span>
+A telling GEIPAN example involved witnesses who described a stationary flying saucer with a cone of light or a huge slow triangle. [Radar]({{ 'radar/' | relative_url }}) analysis pointed to a C-130 Hercules transport aircraft, but GEIPAN emphasised that simply naming “a plane” was not enough; the investigation also had to explain why the ordinary aircraft looked so strange to the witnesses. That is the useful IFO approach: not dismissing the experience, but reconstructing the chain from real stimulus to mistaken scale. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">Mission &amp; Geipan &#124; GEIPAN</span><span class="citation-popover-snippet">Mission &amp; Geipan &#124; GEIPAN</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wK3y0654BG0" title="By My SideEveryone Was Freezing To Death, But I Had a Nuclear Shelter and Beautiful Girls" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wK3y0654BG0" target="_blank" rel="noopener noreferrer">By My SideEveryone Was Freezing To Death, But I Had a Nuclear Shelter and Beautiful Girls</a></p><p class="youtube-embed-meta">Channel: Your Manhwa Recap</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wK3y0654BG0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wK3y0654BG0">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f-Illustration-3-dark.svg" | relative_url }}" alt="Size Errors illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What a stronger sighting report looks like
 
 A report becomes more useful when it avoids premature physical claims and records the cues needed to test them. “It was enormous and impossible” is less useful than a careful description of where it appeared, how long it lasted, how far it moved across the sky, what references were visible, and what other records might exist.
 
 For distance and size errors, the best witness habits are simple:
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-IWk5NkxQF8" title="10 Mind Blowing Optical Illusions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-IWk5NkxQF8" target="_blank" rel="noopener noreferrer">10 Mind Blowing Optical Illusions</a></p><p class="youtube-embed-meta">Channel: TheRichest</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-IWk5NkxQF8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-IWk5NkxQF8">Open on YouTube</a></p></div></div></div>
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -621,9 +607,6 @@ For distance and size errors, the best witness habits are simple:
 </div>
 
 This does not make all UFO reports mundane. Some cases remain unresolved because data are missing, contradictory or genuinely puzzling. But in the specific branch of IFO causes, distance and size errors explain why honest reports can sound extraordinary without requiring extraordinary objects. The core lesson is not that witnesses are unreliable in every respect; it is that unaided human perception is poorly equipped to measure a featureless object in open sky. When range is unknown, size and speed are guesses wearing the clothes of observation.
-
-
-<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f-Illustration-3-dark.svg" | relative_url }}" alt="Size Errors illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -742,15 +725,15 @@ This does not make all UFO reports mundane. Some cases remain unresolved because
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=size-errors-why-honest-witnesses-misjudge-ufos-ifos-causes-of-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="size-errors-why-honest-witnesses-misjudge-ufos-ifos-causes-of-space-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Space Bedroom Wall Art – 3D Vinyl Decal Custom Name Sticker 46"><img src="{{ '/assets/images/marketplace-covers/7116e35cc1a3bba2388a.jpg' | relative_url }}" alt="Listing image for Personalised Space Bedroom Wall Art – 3D Vinyl Decal Custom Name Sticker 46" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-honest-witnesses-misjudge-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-honest-witnesses-misjudge-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=size-errors-why-honest-witnesses-misjudge-ufos-ifos-causes-of-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="size-errors-why-honest-witnesses-misjudge-ufos-ifos-causes-of-space-wall-art" target="_blank" rel="sponsored noopener noreferrer">Personalised Space Bedroom Wall Art – 3D Vinyl Decal Custom Name Sticker 46</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-honest-witnesses-misjudge-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-honest-witnesses-misjudge-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=size-errors-why-honest-witnesses-misjudge-ufos-ifos-causes-of-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="size-errors-why-honest-witnesses-misjudge-ufos-ifos-causes-of-space-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: space wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-honest-witnesses-misjudge-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-honest-witnesses-misjudge-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=size-errors-why-honest-witnesses-misjudge-ufos-ifos-causes-of-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="size-errors-why-honest-witnesses-misjudge-ufos-ifos-causes-of-space-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-honest-witnesses-misjudge-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-honest-witnesses-misjudge-ufos-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -758,15 +741,15 @@ This does not make all UFO reports mundane. Some cases remain unresolved because
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=size-errors-why-honest-witnesses-misjudge-ufos-ifos-causes-of-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="size-errors-why-honest-witnesses-misjudge-ufos-ifos-causes-of-space-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Wall Decal - Galaxy Planets 3D Smashed Art Sticker Kids Decor Vinyl Mural"><img src="{{ '/assets/images/marketplace-covers/3d733175583c46b8d50a.jpg' | relative_url }}" alt="Listing image for Space Wall Decal - Galaxy Planets 3D Smashed Art Sticker Kids Decor Vinyl Mural" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-honest-witnesses-misjudge-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-honest-witnesses-misjudge-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=size-errors-why-honest-witnesses-misjudge-ufos-ifos-causes-of-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="size-errors-why-honest-witnesses-misjudge-ufos-ifos-causes-of-space-wall-art" target="_blank" rel="sponsored noopener noreferrer">Space Wall Decal - Galaxy Planets 3D Smashed Art Sticker Kids Decor Vinyl Mural</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-honest-witnesses-misjudge-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-honest-witnesses-misjudge-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=size-errors-why-honest-witnesses-misjudge-ufos-ifos-causes-of-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="size-errors-why-honest-witnesses-misjudge-ufos-ifos-causes-of-space-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: space wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-honest-witnesses-misjudge-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-honest-witnesses-misjudge-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=size-errors-why-honest-witnesses-misjudge-ufos-ifos-causes-of-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="size-errors-why-honest-witnesses-misjudge-ufos-ifos-causes-of-space-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-honest-witnesses-misjudge-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-honest-witnesses-misjudge-ufos-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -774,15 +757,15 @@ This does not make all UFO reports mundane. Some cases remain unresolved because
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=size-errors-why-honest-witnesses-misjudge-ufos-ifos-causes-of-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="size-errors-why-honest-witnesses-misjudge-ufos-ifos-causes-of-space-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Solar System Wall Stickers Space Planets Kids Education Decor Mural Art Decal UK"><img src="{{ '/assets/images/marketplace-covers/89247864efbc4b335b2c.jpg' | relative_url }}" alt="Listing image for Solar System Wall Stickers Space Planets Kids Education Decor Mural Art Decal UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-honest-witnesses-misjudge-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-honest-witnesses-misjudge-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=size-errors-why-honest-witnesses-misjudge-ufos-ifos-causes-of-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="size-errors-why-honest-witnesses-misjudge-ufos-ifos-causes-of-space-wall-art" target="_blank" rel="sponsored noopener noreferrer">Solar System Wall Stickers Space Planets Kids Education Decor Mural Art Decal UK</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-honest-witnesses-misjudge-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-honest-witnesses-misjudge-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=size-errors-why-honest-witnesses-misjudge-ufos-ifos-causes-of-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="size-errors-why-honest-witnesses-misjudge-ufos-ifos-causes-of-space-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: space wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-honest-witnesses-misjudge-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-honest-witnesses-misjudge-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=size-errors-why-honest-witnesses-misjudge-ufos-ifos-causes-of-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="size-errors-why-honest-witnesses-misjudge-ufos-ifos-causes-of-space-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-honest-witnesses-misjudge-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-honest-witnesses-misjudge-ufos-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -790,15 +773,15 @@ This does not make all UFO reports mundane. Some cases remain unresolved because
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=size-errors-why-honest-witnesses-misjudge-ufos-ifos-causes-of-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="size-errors-why-honest-witnesses-misjudge-ufos-ifos-causes-of-space-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rockets Space Of The World Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/6d8cd506eb8e87457fb6.jpg' | relative_url }}" alt="Listing image for Rockets Space Of The World Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-honest-witnesses-misjudge-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-honest-witnesses-misjudge-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=size-errors-why-honest-witnesses-misjudge-ufos-ifos-causes-of-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="size-errors-why-honest-witnesses-misjudge-ufos-ifos-causes-of-space-wall-art" target="_blank" rel="sponsored noopener noreferrer">Rockets Space Of The World Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-honest-witnesses-misjudge-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-honest-witnesses-misjudge-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=size-errors-why-honest-witnesses-misjudge-ufos-ifos-causes-of-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="size-errors-why-honest-witnesses-misjudge-ufos-ifos-causes-of-space-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: space wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-honest-witnesses-misjudge-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-honest-witnesses-misjudge-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=size-errors-why-honest-witnesses-misjudge-ufos-ifos-causes-of-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="size-errors-why-honest-witnesses-misjudge-ufos-ifos-causes-of-space-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-honest-witnesses-misjudge-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-honest-witnesses-misjudge-ufos-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -806,7 +789,7 @@ This does not make all UFO reports mundane. Some cases remain unresolved because
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=size-errors-why-honest-witnesses-misjudge-ufos-ifos-causes-of-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="size-errors-why-honest-witnesses-misjudge-ufos-ifos-causes-of-space-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-honest-witnesses-misjudge-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-honest-witnesses-misjudge-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -1021,117 +1004,117 @@ This does not make all UFO reports mundane. Some cases remain unresolved because
 
 1. <a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 2. <a id="endnote-2"></a>
    Source: aaro.mil  
    Title: Effect of Forced Perspective and Parallax View on UAP Observations  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf</a>  
 
 3. <a id="endnote-3"></a>
    Source: skyandtelescope.org  
    Title: Sky & Telescope  
-   Link: [https://skyandtelescope.org/stargazing-and-observing/my-favorite-ufos/](https://skyandtelescope.org/stargazing-and-observing/my-favorite-ufos/)  
+   Link: <a href="https://skyandtelescope.org/stargazing-and-observing/my-favorite-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://skyandtelescope.org/stargazing-and-observing/my-favorite-ufos/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Are There So Many UFOs? - Sky &amp; Telescope...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv A Civilian Astronomer’s Guide to UAP Research  
-   Link: [https://arxiv.org/html/2411.02401v1](https://arxiv.org/html/2411.02401v1)  
+   Link: <a href="https://arxiv.org/html/2411.02401v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2411.02401v1</a>  
 
 5. <a id="endnote-5"></a>
    Source: esd.whs.mil  
    Title: Enterprise Services Dashboard  
-   Link: [https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837](https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837)  
+   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837</a>  
 
 6. <a id="endnote-6"></a>
    Source: geipan.fr  
    Title: FA Q | GEIPAN  
-   Link: [https://www.geipan.fr/en/faq-page](https://www.geipan.fr/en/faq-page)  
+   Link: <a href="https://www.geipan.fr/en/faq-page" target="_blank" rel="noopener noreferrer nofollow">https://www.geipan.fr/en/faq-page</a>  
 
 7. <a id="endnote-7"></a>
    Source: cnes-geipan.fr  
    Title: Mission & Geipan | GEIPAN  
-   Link: [https://www.cnes-geipan.fr/en/missions-methodes-et-resultats](https://www.cnes-geipan.fr/en/missions-methodes-et-resultats)  
+   Link: <a href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/missions-methodes-et-resultats</a>  
 
 8. <a id="endnote-8"></a>
    Source: cnes-geipan.fr  
-   Link: [https://www.cnes-geipan.fr/sites/default/files/Aids_to_identification_of_flying_objects_0.pdf](https://www.cnes-geipan.fr/sites/default/files/Aids_to_identification_of_flying_objects_0.pdf)  
+   Link: <a href="https://www.cnes-geipan.fr/sites/default/files/Aids_to_identification_of_flying_objects_0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/Aids_to_identification_of_flying_objects_0.pdf</a>  
 
 9. <a id="endnote-9"></a>
    Source: cnes-geipan.fr  
-   Link: [https://www.cnes-geipan.fr/en/node/58792](https://www.cnes-geipan.fr/en/node/58792)  
+   Link: <a href="https://www.cnes-geipan.fr/en/node/58792" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58792</a>  
 
 10. <a id="endnote-10"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
 11. <a id="endnote-11"></a>
    Source: cnes.fr  
-   Link: [https://cnes.fr/en/projects/geipan](https://cnes.fr/en/projects/geipan)  
+   Link: <a href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow">https://cnes.fr/en/projects/geipan</a>  
 
 12. <a id="endnote-12"></a>
    Source: skepticalinquirer.org  
    Title: Skeptical Inquirer UFO Identification Process | Skeptical Inquirer  
-   Link: [https://skepticalinquirer.org/2018/11/ufo-identification-process/](https://skepticalinquirer.org/2018/11/ufo-identification-process/)  
+   Link: <a href="https://skepticalinquirer.org/2018/11/ufo-identification-process/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2018/11/ufo-identification-process/</a>  
 
 13. <a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Allan Hendry  
-   Link: [https://en.wikipedia.org/wiki/Allan_Hendry](https://en.wikipedia.org/wiki/Allan_Hendry)  
+   Link: <a href="https://en.wikipedia.org/wiki/Allan_Hendry" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Allan_Hendry</a>  
 
 14. <a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 15. <a id="endnote-15"></a>
    Source: quizlet.com  
-   Link: [https://quizlet.com/gb/361243788/perception-depth-and-size-flash-cards/](https://quizlet.com/gb/361243788/perception-depth-and-size-flash-cards/)  
+   Link: <a href="https://quizlet.com/gb/361243788/perception-depth-and-size-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/gb/361243788/perception-depth-and-size-flash-cards/</a>  
 
 16. <a id="endnote-16"></a>
    Source: ui.adsabs.harvard.edu  
-   Link: [https://ui.adsabs.harvard.edu/abs/arXiv%3A2208.11215](https://ui.adsabs.harvard.edu/abs/arXiv%3A2208.11215)  
+   Link: <a href="https://ui.adsabs.harvard.edu/abs/arXiv%3A2208.11215" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/arXiv%3A2208.11215</a>  
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf</a>  
 
 18. <a id="endnote-18"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
 
 19. <a id="endnote-19"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf](https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf)  
+   Link: <a href="https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf</a>  
 
 20. <a id="endnote-20"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
 21. <a id="endnote-21"></a>
    Source: govinfo.gov  
-   Link: [https://www.govinfo.gov/content/pkg/CHRG-89hhrg50066O/pdf/CHRG-89hhrg50066O.pdf](https://www.govinfo.gov/content/pkg/CHRG-89hhrg50066O/pdf/CHRG-89hhrg50066O.pdf)  
+   Link: <a href="https://www.govinfo.gov/content/pkg/CHRG-89hhrg50066O/pdf/CHRG-89hhrg50066O.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/CHRG-89hhrg50066O/pdf/CHRG-89hhrg50066O.pdf</a>  
 
 22. <a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/277686506_Perceiving_Layout_and_Knowing_Distances](https://www.researchgate.net/publication/277686506_Perceiving_Layout_and_Knowing_Distances)  
+   Link: <a href="https://www.researchgate.net/publication/277686506_Perceiving_Layout_and_Knowing_Distances" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/277686506_Perceiving_Layout_and_Knowing_Distances</a>  
 
 23. <a id="endnote-23"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/7482584/Project_Blue_Book_Archive](https://www.academia.edu/7482584/Project_Blue_Book_Archive)  
+   Link: <a href="https://www.academia.edu/7482584/Project_Blue_Book_Archive" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/7482584/Project_Blue_Book_Archive</a>  
 
 24. <a id="endnote-24"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/395858774_Toward_a_Reliability_Scale_for_Assessing_Reports_of_Unidentified_Anomalous_Phenomena_UAP](https://www.researchgate.net/publication/395858774_Toward_a_Reliability_Scale_for_Assessing_Reports_of_Unidentified_Anomalous_Phenomena_UAP)  
+   Link: <a href="https://www.researchgate.net/publication/395858774_Toward_a_Reliability_Scale_for_Assessing_Reports_of_Unidentified_Anomalous_Phenomena_UAP" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395858774_Toward_a_Reliability_Scale_for_Assessing_Reports_of_Unidentified_Anomalous_Phenomena_UAP</a>  
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TheFrenchHistoryPodcast/posts/a-drawing-from-the-files-at-the-french-ufo-department/1337099231754482/](https://www.facebook.com/TheFrenchHistoryPodcast/posts/a-drawing-from-the-files-at-the-french-ufo-department/1337099231754482/)  
+   Link: <a href="https://www.facebook.com/TheFrenchHistoryPodcast/posts/a-drawing-from-the-files-at-the-french-ufo-department/1337099231754482/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheFrenchHistoryPodcast/posts/a-drawing-from-the-files-at-the-french-ufo-department/1337099231754482/</a>  
 
 26. <a id="endnote-26"></a>
    Source: skyandtelescope.org  
-   Link: [https://skyandtelescope.org/astronomy-news/astronomers-spot-first-known-interstellar-comet/](https://skyandtelescope.org/astronomy-news/astronomers-spot-first-known-interstellar-comet/)  
+   Link: <a href="https://skyandtelescope.org/astronomy-news/astronomers-spot-first-known-interstellar-comet/" target="_blank" rel="noopener noreferrer nofollow">https://skyandtelescope.org/astronomy-news/astronomers-spot-first-known-interstellar-comet/</a>

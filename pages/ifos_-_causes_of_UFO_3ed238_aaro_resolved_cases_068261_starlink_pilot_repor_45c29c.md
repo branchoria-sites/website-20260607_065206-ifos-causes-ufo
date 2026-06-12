@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261_balloons_modern_uap_52e7aa
 - ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261_birds_infrared_orbs_ea0573
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - aaro
 - starlink
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - aaro
 - starlink
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Recent satellite launches can create structured lights that pilots report as unusual before orbital timing explains them.
 hero_summary: Recent satellite launches can create structured lights that pilots report as unusual before orbital timing explains them.
 layout: default
 permalink: /starlink/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /aaro/
 nav_short_title: Starlink
 title: Why Starlink Can Look Like UAP
-title_full: Why Starlink Can Look Like UAP | AARO
+title_full: Why Starlink Can Look Like UAP
 display_title_short: Starlink
 display_title: Starlink
 heading_title: Why Starlink Can Look Like UAP
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 21:54:53'
-parent_title: What Modern UAP Reviews Resolve | IFOs
+parent_title: What Modern UAP Reviews Resolve
 parent_permalink: /aaro/
 parent_nav_short_title: AARO
 parent_heading_title: What Modern UAP Reviews Resolve
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261
-  title: AARO | Ifos Causes Of
+  title: AARO | ifos causes of UFO 3 ed 238
   permalink: /aaro/
   short_title: AARO
   heading_title: What Modern UAP Reviews Resolve
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261
-  title: AARO | Ifos Causes Of
+  title: AARO | ifos causes of UFO 3 ed 238
   permalink: /aaro/
   short_title: AARO
   heading_title: What Modern UAP Reviews Resolve
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: Why AARO Reports Cluster Near Sensors
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261
-  title: AARO | Ifos Causes Of
+  title: AARO | ifos causes of UFO 3 ed 238
   permalink: /aaro/
   short_title: AARO
   heading_title: What Modern UAP Reviews Resolve
@@ -260,6 +259,7 @@ prev_link:
   permalink: /reporting-bias/
   short_title: Reporting Bias
   heading_title: Why AARO Reports Cluster Near Sensors
+date: '2026-06-12 00:47:38 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261_starlink_pilot_repor_45c29c-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261_starlink_pilot_repor_45c29c-Illustration-1.webp
@@ -270,9 +270,8 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261_sta
 
 One of the clearest modern examples of an identified flying object (IFO) emerging from a seemingly mysterious UAP report involves SpaceX’s Starlink satellite constellation. In recent years, airline and commercial pilots have reported formations of bright lights, flashing objects, and apparently unusual aerial manoeuvres that initially appeared difficult to explain. Subsequent investigation has repeatedly shown that many of these observations were linked to newly launched Starlink [satellites]({{ 'satellites/' | relative_url }}) or unusual sunlight [reflections]({{ 'reflections/' | relative_url }}) from satellites already in orbit. AARO, the U.S. Department of Defense’s All-domain Anomaly Resolution Office, has specifically highlighted Starlink as an increasingly common explanation for some contemporary UAP reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.flyingmag.com/dod-nearly-800-uap-reports-received-in-past-year/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flyingmag.com">[FLYING Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flyingmag.com</span><span class="citation-popover-title">dod nearly 800 uap reports received in past year</span><span class="citation-popover-snippet">FLYING MagazineDOD: Nearly 800 UAP Reports Received in Past Year14 Nov 2024 — “AARO assessed that this sighting of flashing lights correl...</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261_starlink_pilot_repor_45c29c-Illustration-1-dark.svg" | relative_url }}" alt="Starlink illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261_starlink_pilot_repor_45c29c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261_starlink_pilot_repor_45c29c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The significance of these cases is not that [pilots]({{ 'pilots/' | relative_url }}) are careless observers. Rather, they demonstrate how rapidly changing space infrastructure has created unfamiliar visual phenomena that can appear extraordinary when viewed from an aircraft cockpit, especially at night or during twilight conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivEnhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
+The significance of these cases is not that [pilots]({{ 'pilots/' | relative_url }}) are careless observers. Rather, they demonstrate how rapidly changing space infrastructure has created unfamiliar visual phenomena that can appear extraordinary when viewed from an aircraft cockpit, especially at night or during twilight conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
 
 ## How Satellite Trains Appear from Aircraft
 
@@ -282,19 +281,17 @@ The effect becomes more striking from an aircraft. Pilots operate above much of 
 
 Researchers studying pilot sightings have identified several factors that contribute to confusion:
 
-
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
 * Large numbers of satellites moving together.
 * Rapid changes in brightness caused by reflection geometry.
 * Lack of familiar visual references over oceans or sparsely populated regions.
 * Difficulty estimating distance, altitude, and speed at night.
-* Limited awareness of recent satellite launches among flight crews. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivEnhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
+* Limited awareness of recent satellite launches among flight crews. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
 
 </div>
 
-Importantly, many sightings involve no physical manoeuvring by the satellites themselves. Instead, changing angles between the Sun, the satellite, and the observer can create the illusion of motion, acceleration, or appearance and disappearance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivEnhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
-
+Importantly, many sightings involve no physical manoeuvring by the satellites themselves. Instead, changing angles between the Sun, the satellite, and the observer can create the illusion of motion, acceleration, or appearance and disappearance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OdwYfIlk-yM" title="LIFTOFF! SpaceX Starlink 12-22 Launch from Cape Canaveral, Florida" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OdwYfIlk-yM" target="_blank" rel="noopener noreferrer">LIFTOFF! SpaceX Starlink 12-22 Launch from Cape Canaveral, Florida</a></p><p class="youtube-embed-meta">Channel: The Launch Pad &middot; Views: 8.3K &middot; Uploaded: May 2025 &middot; Length: 25 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OdwYfIlk-yM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OdwYfIlk-yM">Open on YouTube</a></p></div></div></div>
 
@@ -308,7 +305,6 @@ The case is notable because it illustrates the investigative process behind many
 
 AARO has since stated that it is receiving an increasing number of reports that can be attributed to Starlink and other large low-Earth-orbit satellite constellations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arstechnica.com/space/2024/11/a-lot-of-people-are-mistaking-elon-musks-starlink-satellites-for-uaps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arstechnica.com">[Ars Technica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arstechnica.com</span><span class="citation-popover-title">a lot of people are mistaking elon musks starlink satellites for uaps</span><span class="citation-popover-snippet">Ars TechnicaA lot of people are mistaking Elon Musk&#x27;s Starlink satellites...15 Nov 2024 — AARO assessed that this sighting of flashing l...</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261_starlink_pilot_repor_45c29c-Illustration-2-dark.svg" | relative_url }}" alt="Starlink illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261_starlink_pilot_repor_45c29c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261_starlink_pilot_repor_45c29c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Timing and Flight Paths Matter
 
@@ -316,10 +312,9 @@ The strongest Starlink-related identifications depend on precise timing.
 
 Newly launched satellites occupy predictable orbital tracks. Because satellites in low Earth orbit circle the planet roughly every ninety minutes, analysts can reconstruct where a satellite train would have been visible at a particular moment. By combining orbital data with aircraft positions, investigators can determine whether a pilot’s line of sight intersected the satellite formation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">Operating at 550 km altitude, the second-generation V2 satellites are larger and more capable, aiming to deliver enhanced data capacity a...</span></span></span>
 
-A detailed 2024 case study examined an incident over the Pacific Ocean in which five pilots aboard two commercial flights reported an unusual aerial phenomenon. Researchers used flight-tracking data and satellite orbital information to reconstruct the view from the cockpit. Their analysis showed that a Starlink train launched earlier that day would have appeared in the same location and configuration reported by the crews. The reconstruction successfully reproduced the appearance captured in photographs and video. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivEnhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
+A detailed 2024 case study examined an incident over the Pacific Ocean in which five pilots aboard two commercial flights reported an unusual aerial phenomenon. Researchers used flight-tracking data and satellite orbital information to reconstruct the view from the cockpit. Their analysis showed that a Starlink train launched earlier that day would have appeared in the same location and configuration reported by the crews. The reconstruction successfully reproduced the appearance captured in photographs and video. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
 
-This type of analysis has become increasingly important because Starlink launches occur frequently. A sighting that once might have lacked an obvious explanation can now often be checked against a dense catalogue of satellite positions and recent launch events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/spacex-counters-faa-claims-starlink-space-junk-dangers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">x counters faa claims starlink space junk dangers</span><span class="citation-popover-snippet">SpaceX counters FAA claims that its reentering Starlink...25 Oct 2023 — The report stated that SpaceX&#x27;s Starlink satellites will account...</span></span></span>
-
+This type of analysis has become increasingly important because Starlink launches occur frequently. A sighting that once might have lacked an obvious explanation can now often be checked against a dense catalogue of satellite positions and recent launch events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/spacex-counters-faa-claims-starlink-space-junk-dangers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">x counters faa claims starlink space junk dangers</span><span class="citation-popover-snippet">X counters FAA claims that its reentering Starlink...25 Oct 2023 — The report stated that SpaceX&#x27;s Starlink satellites will account...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aWpeN3cU17Q" title="SpaceX&#x27;s Starlink, satellite flares, and spectacular twilight rocket plumes: EXPLAINED!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aWpeN3cU17Q" target="_blank" rel="noopener noreferrer">SpaceX&#x27;s Starlink, satellite flares, and spectacular twilight rocket plumes: EXPLAINED!</a></p><p class="youtube-embed-meta">Channel: AlphaPhoenix &middot; Views: 39.4K &middot; Uploaded: July 2020 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aWpeN3cU17Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aWpeN3cU17Q">Open on YouTube</a></p></div></div></div>
 
@@ -327,23 +322,20 @@ This type of analysis has become increasingly important because Starlink launche
 
 Not every Starlink-related UAP report involves a neat row of lights.
 
-Researchers have documented “extreme flaring” events in which sunlight reflects from satellite surfaces directly toward an observer. These reflections can produce intense flashes that appear suddenly and may outshine surrounding stars. When multiple satellites flare in sequence, observers can perceive clusters of [bright objects]({{ 'bright-objects/' | relative_url }}) that seem to move independently or perform coordinated actions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivEnhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
+Researchers have documented “extreme flaring” events in which sunlight reflects from satellite surfaces directly toward an observer. These reflections can produce intense flashes that appear suddenly and may outshine surrounding [stars]({{ 'stars/' | relative_url }}). When multiple satellites flare in sequence, observers can perceive clusters of [bright objects]({{ 'bright-objects/' | relative_url }}) that seem to move independently or perform coordinated actions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
 
 Some pilot reports describe lights that appear to race across the horizon, form racetrack-like patterns, or repeatedly brighten and fade. Investigators have found that many of these observations can result from changing reflection geometry rather than unusual aircraft performance. The perceived motion often comes from the observer’s aircraft moving through space while viewing satellites at great distances. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skyandtelescope.org/astronomy-news/starlink-flares-can-fool-anyone-even-airline-pilots/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyandtelescope.org">[Sky &amp; Telescope]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyandtelescope.org</span><span class="citation-popover-title">starlink flares can fool anyone even airline pilots</span><span class="citation-popover-snippet">Sky &amp; TelescopeStarlink Flares Can Fool Anyone — Even Airline PilotsJun 10, 2024 — The flare from numerous Starlink satellites, launched...</span></span></span> 2arXiv
 
-The effect can be convincing enough that experienced flight crews, observing independently, may all report the same phenomenon. That consistency does not necessarily indicate an unknown object; it can simply mean that multiple observers witnessed the same unusual but explainable satellite event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivEnhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
-
+The effect can be convincing enough that experienced flight crews, observing independently, may all report the same phenomenon. That consistency does not necessarily indicate an unknown object; it can simply mean that multiple observers witnessed the same unusual but explainable satellite event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261_starlink_pilot_repor_45c29c-Illustration-3-dark.svg" | relative_url }}" alt="Starlink illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261_starlink_pilot_repor_45c29c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261_starlink_pilot_repor_45c29c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What These Cases Show About Modern UAP Investigations
 
-Starlink-related pilot reports have become an important example of how contemporary UAP investigations differ from earlier UFO eras. Investigators now have access to detailed launch records, orbital databases, aircraft tracking information, and modelling tools that allow many sightings to be reconstructed after the fact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivEnhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
+Starlink-related pilot reports have become an important example of how contemporary UAP investigations differ from earlier UFO eras. Investigators now have access to detailed launch records, orbital databases, aircraft tracking information, and modelling tools that allow many sightings to be reconstructed after the fact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
 
 For the study of identified flying objects, these cases are valuable because they demonstrate that an “unidentified” report can arise from a genuinely unusual visual experience without requiring an exotic explanation. The observer may accurately describe what was seen, yet the underlying cause remains hidden until timing, orbital mechanics, and viewing geometry are analysed together. As AARO’s recent assessments indicate, expanding satellite constellations have become a significant new source of such reports, particularly among pilots operating during the narrow time windows when sunlight and orbital position combine to create striking visual effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arstechnica.com/space/2024/11/a-lot-of-people-are-mistaking-elon-musks-starlink-satellites-for-uaps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arstechnica.com">[Ars Technica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arstechnica.com</span><span class="citation-popover-title">a lot of people are mistaking elon musks starlink satellites for uaps</span><span class="citation-popover-snippet">Ars TechnicaA lot of people are mistaking Elon Musk&#x27;s Starlink satellites...15 Nov 2024 — AARO assessed that this sighting of flashing l...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ntd.com/hundreds-of-new-ufo-sightings-reported-to-pentagon_1029030.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntd.com">[NTD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntd.com</span><span class="citation-popover-title">hundreds of new ufo sightings reported to pentagon 1029030</span><span class="citation-popover-snippet">Hundreds of New UFO Sightings Reported to Pentagon15 Nov 2024 — In one such case, the AARO resolved a commercial pilot&#x27;s sighting of whit...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GvxF3sUbPrI" title="6 Most Incredible Starlink Satellites Train seen from earth - Elon Musk SpaceX" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GvxF3sUbPrI" target="_blank" rel="noopener noreferrer">6 Most Incredible Starlink Satellites Train seen from earth - Elon Musk SpaceX</a></p><p class="youtube-embed-meta">Channel: ViralVideoLab &middot; Views: 1.6K &middot; Uploaded: May 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GvxF3sUbPrI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GvxF3sUbPrI">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -462,15 +454,15 @@ For the study of identified flying objects, these cases are valuable because the
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-why-starlink-can-look-like-uap-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="starlink-why-starlink-can-look-like-uap-ifos-causes-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-can-look-like-uap-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="starlink satellite model" data-ebay-reference="why-starlink-can-look-like-uap-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SpaceX Starlink Satellite Complete System with Original Parts"><img src="https://i.ebayimg.com/images/g/uaQAAeSwZIpqKYLo/s-l225.jpg" alt="Listing image for SpaceX Starlink Satellite Complete System with Original Parts" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-why-starlink-can-look-like-uap-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="starlink-why-starlink-can-look-like-uap-ifos-causes-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-can-look-like-uap-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="starlink satellite model" data-ebay-reference="why-starlink-can-look-like-uap-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer">SpaceX Starlink Satellite Complete System with Original Parts</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-why-starlink-can-look-like-uap-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="starlink-why-starlink-can-look-like-uap-ifos-causes-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-can-look-like-uap-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="starlink satellite model" data-ebay-reference="why-starlink-can-look-like-uap-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for starlink satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: starlink satellite model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-why-starlink-can-look-like-uap-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="starlink-why-starlink-can-look-like-uap-ifos-causes-of-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-can-look-like-uap-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="starlink satellite model" data-ebay-reference="why-starlink-can-look-like-uap-starlink-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -478,15 +470,15 @@ For the study of identified flying objects, these cases are valuable because the
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-why-starlink-can-look-like-uap-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="starlink-why-starlink-can-look-like-uap-ifos-causes-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-can-look-like-uap-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="starlink satellite model" data-ebay-reference="why-starlink-can-look-like-uap-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Perlegear Satellite Dish Mount Model PGSDM01 for Starlink"><img src="https://i.ebayimg.com/images/g/jogAAeSw9fxoxgen/s-l225.jpg" alt="Listing image for Perlegear Satellite Dish Mount Model PGSDM01 for Starlink" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-why-starlink-can-look-like-uap-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="starlink-why-starlink-can-look-like-uap-ifos-causes-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-can-look-like-uap-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="starlink satellite model" data-ebay-reference="why-starlink-can-look-like-uap-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Perlegear Satellite Dish Mount Model PGSDM01 for Starlink</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-why-starlink-can-look-like-uap-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="starlink-why-starlink-can-look-like-uap-ifos-causes-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-can-look-like-uap-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="starlink satellite model" data-ebay-reference="why-starlink-can-look-like-uap-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for starlink satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: starlink satellite model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-why-starlink-can-look-like-uap-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="starlink-why-starlink-can-look-like-uap-ifos-causes-of-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-can-look-like-uap-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="starlink satellite model" data-ebay-reference="why-starlink-can-look-like-uap-starlink-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -494,15 +486,15 @@ For the study of identified flying objects, these cases are valuable because the
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-why-starlink-can-look-like-uap-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="starlink-why-starlink-can-look-like-uap-ifos-causes-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-can-look-like-uap-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="starlink satellite model" data-ebay-reference="why-starlink-can-look-like-uap-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starlink Gen 3 30M/98FT Waterproof Outdoor Cable for Mini/Rectangular Satellite"><img src="https://i.ebayimg.com/images/g/X80AAeSwO6VqDvZU/s-l225.jpg" alt="Listing image for Starlink Gen 3 30M/98FT Waterproof Outdoor Cable for Mini/Rectangular Satellite" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-why-starlink-can-look-like-uap-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="starlink-why-starlink-can-look-like-uap-ifos-causes-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-can-look-like-uap-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="starlink satellite model" data-ebay-reference="why-starlink-can-look-like-uap-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Starlink Gen 3 30M/98FT Waterproof Outdoor Cable for Mini/Rectangular Satellite</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-why-starlink-can-look-like-uap-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="starlink-why-starlink-can-look-like-uap-ifos-causes-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-can-look-like-uap-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="starlink satellite model" data-ebay-reference="why-starlink-can-look-like-uap-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for starlink satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: starlink satellite model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-why-starlink-can-look-like-uap-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="starlink-why-starlink-can-look-like-uap-ifos-causes-of-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-can-look-like-uap-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="starlink satellite model" data-ebay-reference="why-starlink-can-look-like-uap-starlink-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -510,15 +502,15 @@ For the study of identified flying objects, these cases are valuable because the
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-why-starlink-can-look-like-uap-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="starlink-why-starlink-can-look-like-uap-ifos-causes-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-can-look-like-uap-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="starlink satellite model" data-ebay-reference="why-starlink-can-look-like-uap-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starlink Satellite Dish Gen 2 kit Brand new sealed not registered to any account"><img src="https://i.ebayimg.com/images/g/W~YAAeSwNBlqEE6m/s-l225.jpg" alt="Listing image for Starlink Satellite Dish Gen 2 kit Brand new sealed not registered to any account" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-why-starlink-can-look-like-uap-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="starlink-why-starlink-can-look-like-uap-ifos-causes-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-can-look-like-uap-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="starlink satellite model" data-ebay-reference="why-starlink-can-look-like-uap-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Starlink Satellite Dish Gen 2 kit Brand new sealed not registered to any account</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-why-starlink-can-look-like-uap-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="starlink-why-starlink-can-look-like-uap-ifos-causes-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-can-look-like-uap-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="starlink satellite model" data-ebay-reference="why-starlink-can-look-like-uap-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for starlink satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: starlink satellite model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-why-starlink-can-look-like-uap-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="starlink-why-starlink-can-look-like-uap-ifos-causes-of-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-can-look-like-uap-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="starlink satellite model" data-ebay-reference="why-starlink-can-look-like-uap-starlink-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -526,7 +518,7 @@ For the study of identified flying objects, these cases are valuable because the
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-why-starlink-can-look-like-uap-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="starlink-why-starlink-can-look-like-uap-ifos-causes-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-starlink-can-look-like-uap-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="starlink satellite model" data-ebay-reference="why-starlink-can-look-like-uap-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -741,180 +733,180 @@ For the study of identified flying objects, these cases are valuable because the
 
 1. <a id="endnote-1"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2403.08155](https://arxiv.org/abs/2403.08155)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivEnhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</p></details>
+   Link: <a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: space.com  
    Title: Starlink satellite train: how to see and track it in the night sky  
-   Link: [https://www.space.com/starlink-satellite-train-how-to-see-and-track-it](https://www.space.com/starlink-satellite-train-how-to-see-and-track-it)  
+   Link: <a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>These satellites initially travel in a tight, bright line resembling a &quot;train,&quot; captivating skywatchers and often being mistaken for UFOs...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: space.com  
-   Link: [https://www.space.com/spacex-starlink-satellites.html](https://www.space.com/spacex-starlink-satellites.html)  
+   Link: <a href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-starlink-satellites.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Operating at 550 km altitude, the second-generation V2 satellites are larger and more capable, aiming to deliver enhanced data capacity a...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv Extreme Flaring of Starlink Satellites  
-   Link: [https://arxiv.org/abs/2405.13091](https://arxiv.org/abs/2405.13091)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivExtreme Flaring of Starlink SatellitesMay 21, 2024...</p></details>
+   Link: <a href="https://arxiv.org/abs/2405.13091" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2405.13091</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Extreme Flaring of Starlink SatellitesMay 21, 2024...</p></details>
    Published: May 21, 2024  
 
 5. <a id="endnote-5"></a>
    Source: ntd.com  
    Title: hundreds of new ufo sightings reported to pentagon 1029030  
-   Link: [https://www.ntd.com/hundreds-of-new-ufo-sightings-reported-to-pentagon_1029030.html](https://www.ntd.com/hundreds-of-new-ufo-sightings-reported-to-pentagon_1029030.html)  
+   Link: <a href="https://www.ntd.com/hundreds-of-new-ufo-sightings-reported-to-pentagon_1029030.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ntd.com/hundreds-of-new-ufo-sightings-reported-to-pentagon_1029030.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hundreds of New UFO Sightings Reported to Pentagon15 Nov 2024 — In one such case, the AARO resolved a commercial pilot&#x27;s sighting of whit...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: aaro.mil  
    Title: AARO Satellite Flaring Paper 508 FINAL 04222025  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper_508_FINAL_04222025.pdf](https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper_508_FINAL_04222025.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper_508_FINAL_04222025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper_508_FINAL_04222025.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Correlations of Starlink Satellite Flaring with UAP...by A An · 2024 — AARO received a Federal Aviation Administration UAP report from a...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeUAP Cases. Official UAP Imagery · UAP Case Resolution Reports · UAP Reporting Trends · UAP Records · Congressional/Press Product...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: aaro.mil  
    Title: Satellite Flaring Paper  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf](https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Correlations of Starlink Satellite Flaring with UAP...by A An · 2024 — AARO received a Federal Aviation Administration UAP report from a...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: space.com  
    Title: x counters faa claims starlink space junk dangers  
-   Link: [https://www.space.com/spacex-counters-faa-claims-starlink-space-junk-dangers](https://www.space.com/spacex-counters-faa-claims-starlink-space-junk-dangers)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX counters FAA claims that its reentering Starlink...25 Oct 2023 — The report stated that SpaceX&#x27;s Starlink satellites will account...</p></details>
+   Link: <a href="https://www.space.com/spacex-counters-faa-claims-starlink-space-junk-dangers" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-counters-faa-claims-starlink-space-junk-dangers</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>X counters FAA claims that its reentering Starlink...25 Oct 2023 — The report stated that SpaceX&#x27;s Starlink satellites will account...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: spacex.com  
    Title: Space X  
-   Link: [https://www.spacex.com/updates](https://www.spacex.com/updates)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX - UpdatesAs a result, all 20 Starlink satellites from this launch re-entered the Earth&#x27;s atmosphere. By design, Starlink satellite...</p></details>
+   Link: <a href="https://www.spacex.com/updates" target="_blank" rel="noopener noreferrer nofollow">https://www.spacex.com/updates</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UpdatesAs a result, all 20 Starlink satellites from this launch re-entered the Earth&#x27;s atmosphere. By design, Starlink satellite...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/pdf/2405.13091](https://arxiv.org/pdf/2405.13091)  
+   Link: <a href="https://arxiv.org/pdf/2405.13091" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2405.13091</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Enhancing space situational awareness to mitigate risk: a case study in the misidentification of Starlink Satellites as UAP in...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/pdf/2403.08155](https://arxiv.org/pdf/2403.08155)  
+   Link: <a href="https://arxiv.org/pdf/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2403.08155</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Over the past several years, the misidentification of some SpaceX/Starlink satellites as Unidentified Aerospace Phenomena (UAP) by...Rea...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: 6 Most Incredible Starlink Satellites Train seen from earth  
-   Link: [https://www.youtube.com/watch?v=GvxF3sUbPrI](https://www.youtube.com/watch?v=GvxF3sUbPrI)  
+   Link: <a href="https://www.youtube.com/watch?v=GvxF3sUbPrI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GvxF3sUbPrI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX Starlink &quot;train&quot; of satellites seen in the night sky...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: Space X Starlink "train" of satellites seen in the night sky  
-   Link: [https://www.youtube.com/watch?v=482JzH2-M40](https://www.youtube.com/watch?v=482JzH2-M40)  
+   Link: <a href="https://www.youtube.com/watch?v=482JzH2-M40" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=482JzH2-M40</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What Are Those Moving Lights? Starlink Explained...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: flyingmag.com  
    Title: dod nearly 800 uap reports received in past year  
-   Link: [https://www.flyingmag.com/dod-nearly-800-uap-reports-received-in-past-year/](https://www.flyingmag.com/dod-nearly-800-uap-reports-received-in-past-year/)  
+   Link: <a href="https://www.flyingmag.com/dod-nearly-800-uap-reports-received-in-past-year/" target="_blank" rel="noopener noreferrer nofollow">https://www.flyingmag.com/dod-nearly-800-uap-reports-received-in-past-year/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FLYING MagazineDOD: Nearly 800 UAP Reports Received in Past Year14 Nov 2024 — “AARO assessed that this sighting of flashing lights correl...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: arstechnica.com  
    Title: a lot of people are mistaking elon musks starlink satellites for uaps  
-   Link: [https://arstechnica.com/space/2024/11/a-lot-of-people-are-mistaking-elon-musks-starlink-satellites-for-uaps/](https://arstechnica.com/space/2024/11/a-lot-of-people-are-mistaking-elon-musks-starlink-satellites-for-uaps/)  
+   Link: <a href="https://arstechnica.com/space/2024/11/a-lot-of-people-are-mistaking-elon-musks-starlink-satellites-for-uaps/" target="_blank" rel="noopener noreferrer nofollow">https://arstechnica.com/space/2024/11/a-lot-of-people-are-mistaking-elon-musks-starlink-satellites-for-uaps/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ars TechnicaA lot of people are mistaking Elon Musk&#x27;s Starlink satellites...15 Nov 2024 — AARO assessed that this sighting of flashing l...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: skyandtelescope.org  
-   Title: [starlink flares](&#123;&#123; 'flares-6fea4c/' | relative_url &#125;&#125;) can fool anyone even airline pilots  
-   Link: [https://skyandtelescope.org/astronomy-news/starlink-flares-can-fool-anyone-even-airline-pilots/](https://skyandtelescope.org/astronomy-news/starlink-flares-can-fool-anyone-even-airline-pilots/)  
+   Title: starlink flares can fool anyone even airline pilots  
+   Link: <a href="https://skyandtelescope.org/astronomy-news/starlink-flares-can-fool-anyone-even-airline-pilots/" target="_blank" rel="noopener noreferrer nofollow">https://skyandtelescope.org/astronomy-news/starlink-flares-can-fool-anyone-even-airline-pilots/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky &amp; TelescopeStarlink Flares Can Fool Anyone — Even Airline PilotsJun 10, 2024 — The flare from numerous Starlink satellites, launched...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=aWpeN3cU17Q](https://www.youtube.com/watch?v=aWpeN3cU17Q)  
+   Link: <a href="https://www.youtube.com/watch?v=aWpeN3cU17Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aWpeN3cU17Q</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX&#x27;s Starlink, satellite flares, and spectacular twilight...The geometry behind satellite flare and how you can see sunlight and ref...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: foxweather.com  
    Title: united states ufo report dod  
-   Link: [https://www.foxweather.com/earth-space/united-states-ufo-report-dod](https://www.foxweather.com/earth-space/united-states-ufo-report-dod)  
+   Link: <a href="https://www.foxweather.com/earth-space/united-states-ufo-report-dod" target="_blank" rel="noopener noreferrer nofollow">https://www.foxweather.com/earth-space/united-states-ufo-report-dod</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US Department of Defense report reveals hundreds of UFO...16 Nov 2024 — AARO assessed that this sighting of flashing lights correlated w...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: thedebrief.org  
-   Link: [https://thedebrief.org/spacex-starlink-extreme-flaring-increases-reported-uap-sightings-and-poses-aviation-risks-new-research-finds/](https://thedebrief.org/spacex-starlink-extreme-flaring-increases-reported-uap-sightings-and-poses-aviation-risks-new-research-finds/)  
+   Link: <a href="https://thedebrief.org/spacex-starlink-extreme-flaring-increases-reported-uap-sightings-and-poses-aviation-risks-new-research-finds/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/spacex-starlink-extreme-flaring-increases-reported-uap-sightings-and-poses-aviation-risks-new-research-finds/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX Starlink &quot;Extreme Flaring&quot; Increases Reported...28 May 2024 — As of April 2024, over 5,800 Starlink satellites were in orbit...</p></details>
    Published: May 2024  
 
 21. <a id="endnote-21"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/video/950338/satellite-flaring-phenomenon](https://www.dvidshub.net/video/950338/satellite-flaring-phenomenon)  
+   Link: <a href="https://www.dvidshub.net/video/950338/satellite-flaring-phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/950338/satellite-flaring-phenomenon</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Satellite Flaring PhenomenonThis brief animation shows how the effects of satellite flaring can be misinterpreted as unidentified ano...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: wral.com  
-   Link: [https://www.wral.com/story/spacex-fires-back-at-faa-report-suggesting-its-starlink-internet-constellation-could-be-deadly/21090322/](https://www.wral.com/story/spacex-fires-back-at-faa-report-suggesting-its-starlink-internet-constellation-could-be-deadly/21090322/)  
+   Link: <a href="https://www.wral.com/story/spacex-fires-back-at-faa-report-suggesting-its-starlink-internet-constellation-could-be-deadly/21090322/" target="_blank" rel="noopener noreferrer nofollow">https://www.wral.com/story/spacex-fires-back-at-faa-report-suggesting-its-starlink-internet-constellation-could-be-deadly/21090322/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX fires back at FAA report suggesting its Starlink...10 Oct 2023 — The FAA analysis does acknowledge that SpaceX says its Starlink...</p></details>
 
 ### Additional References
 
 23. <a id="endnote-23"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/newsroom/statements/general-statements](https://www.faa.gov/newsroom/statements/general-statements)  
+   Link: <a href="https://www.faa.gov/newsroom/statements/general-statements" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/newsroom/statements/general-statements</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FAA General Statements | Federal Aviation AdministrationThe FAA is testing Starlink at non-safety critical sites in Alaska to restore sta...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Stargazing/comments/17997ac/pulsing_satellitelike_object_that_took_a_90/](https://www.reddit.com/r/Stargazing/comments/17997ac/pulsing_satellitelike_object_that_took_a_90/)  
+   Link: <a href="https://www.reddit.com/r/Stargazing/comments/17997ac/pulsing_satellitelike_object_that_took_a_90/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Stargazing/comments/17997ac/pulsing_satellitelike_object_that_took_a_90/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Pulsing&quot; satellite-like object that took a 90 degree turnI&#x27;ve been seeing these strange, barely visible satellite-like objects that I ca...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1i9iqy3/aaro_paper_on_uap_starlink_flares/](https://www.reddit.com/r/UFOs/comments/1i9iqy3/aaro_paper_on_uap_starlink_flares/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1i9iqy3/aaro_paper_on_uap_starlink_flares/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1i9iqy3/aaro_paper_on_uap_starlink_flares/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO paper on UAP &amp; Starlink Flares: r/UFOsAARO has published a paper detailing the phenomenon of Starlink flares that have been reporte...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/flying/comments/1pm40z9/airline_pilots_chime_in_explain_the_unexplainable/](https://www.reddit.com/r/flying/comments/1pm40z9/airline_pilots_chime_in_explain_the_unexplainable/)  
+   Link: <a href="https://www.reddit.com/r/flying/comments/1pm40z9/airline_pilots_chime_in_explain_the_unexplainable/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/flying/comments/1pm40z9/airline_pilots_chime_in_explain_the_unexplainable/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Airline pilots chime in: Explain the unexplainable: r/flyingLike others have already said, you were seeing Starlink satellites as they w...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: uapsightings.org  
-   Link: [https://uapsightings.org/common-uap-misidentifications/](https://uapsightings.org/common-uap-misidentifications/)  
+   Link: <a href="https://uapsightings.org/common-uap-misidentifications/" target="_blank" rel="noopener noreferrer nofollow">https://uapsightings.org/common-uap-misidentifications/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Common UAP MisidentificationsStarlink satellites can appear one of two ways: 1) as a straight line or “train” of lights very close togeth...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/2365809903441367/posts/6866734786682167/](https://www.facebook.com/groups/2365809903441367/posts/6866734786682167/)  
+   Link: <a href="https://www.facebook.com/groups/2365809903441367/posts/6866734786682167/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/6866734786682167/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink flares study by pilot and air crash investigatorAnother report of pilots seeing UFOs that turned out to be Starlink satellites f...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=OdwYfIlk-yM](https://www.youtube.com/watch?v=OdwYfIlk-yM)  
+   Link: <a href="https://www.youtube.com/watch?v=OdwYfIlk-yM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OdwYfIlk-yM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LIFTOFF! SpaceX Starlink 12-22 Launch from Cape...LIFTOFF! SpaceX launches more Starlink satellites aboard Falcon 9, to low-Earth orbit...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: popularmechanics.com  
    Title: Popular Mechanics Airline Pilots Couldn't Stop Seeing UFOs  
-   Link: [https://www.popularmechanics.com/space/satellites/a60207287/airline-pilots-starlink-satellites-ufos/](https://www.popularmechanics.com/space/satellites/a60207287/airline-pilots-starlink-satellites-ufos/)  
+   Link: <a href="https://www.popularmechanics.com/space/satellites/a60207287/airline-pilots-starlink-satellites-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/space/satellites/a60207287/airline-pilots-starlink-satellites-ufos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Turns Out They...19 Mar 2024 — Researchers from the University of Utah explain how Starlink&#x27;s high number of orbiting satellites is caus...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: avitrader.com  
    Title: faa tests starlink as part of air traffic control upgrade  
-   Link: [https://avitrader.com/2025/03/05/faa-tests-starlink-as-part-of-air-traffic-control-upgrade/](https://avitrader.com/2025/03/05/faa-tests-starlink-as-part-of-air-traffic-control-upgrade/)  
+   Link: <a href="https://avitrader.com/2025/03/05/faa-tests-starlink-as-part-of-air-traffic-control-upgrade/" target="_blank" rel="noopener noreferrer nofollow">https://avitrader.com/2025/03/05/faa-tests-starlink-as-part-of-air-traffic-control-upgrade/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Mar 2025 — The U.S. Federal Aviation Administration (FAA) is testing multiple technologies, including Elon Musk&#x27;s Starlink satellite se...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: safesky.app  
    Title: starlink in light aviation what it changes for pilots  
-   Link: [https://www.safesky.app/post/starlink-in-light-aviation-what-it-changes-for-pilots](https://www.safesky.app/post/starlink-in-light-aviation-what-it-changes-for-pilots)  
+   Link: <a href="https://www.safesky.app/post/starlink-in-light-aviation-what-it-changes-for-pilots" target="_blank" rel="noopener noreferrer nofollow">https://www.safesky.app/post/starlink-in-light-aviation-what-it-changes-for-pilots</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink in Light Aviation: What It Changes for Pilots29 Jan 2026 — The article explains why Starlink is different from previous solution...</p></details>

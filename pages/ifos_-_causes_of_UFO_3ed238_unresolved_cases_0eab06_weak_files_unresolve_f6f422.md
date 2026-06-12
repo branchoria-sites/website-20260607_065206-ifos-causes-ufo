@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_starlink_like_lights_681edf
 - ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_witness_estimates_uf_4a62d6
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - unresolved-cases
 - weak-files
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - unresolved-cases
 - weak-files
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: A weak UFO file can be more honest as unresolved than as a forced identification with evidence it does not actually support.
 hero_summary: A weak UFO file can be more honest as unresolved than as a forced identification with evidence it does not actually support.
 layout: default
 permalink: /weak-files/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /unresolved-cases/
 nav_short_title: Weak Files
 title: When Is Unresolved the Honest Answer?
-title_full: When Is Unresolved the Honest Answer? | Unresolved Cases
+title_full: When Is Unresolved the Honest Answer?
 display_title_short: Weak Files
 display_title: Weak Files
 heading_title: When Is Unresolved the Honest Answer?
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Some UFO Cases Stay Open | IFOs
+parent_title: Why Some UFO Cases Stay Open
 parent_permalink: /unresolved-cases/
 parent_nav_short_title: Unresolved Cases
 parent_heading_title: Why Some UFO Cases Stay Open
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06
-  title: Unresolved Cases | Ifos Causes Of
+  title: Unresolved Cases | ifos causes of UFO 3 ed 238
   permalink: /unresolved-cases/
   short_title: Unresolved Cases
   heading_title: Why Some UFO Cases Stay Open
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06
-  title: Unresolved Cases | Ifos Causes Of
+  title: Unresolved Cases | ifos causes of UFO 3 ed 238
   permalink: /unresolved-cases/
   short_title: Unresolved Cases
   heading_title: Why Some UFO Cases Stay Open
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why Sky Witnesses Disagree So Often
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06
-  title: Unresolved Cases | Ifos Causes Of
+  title: Unresolved Cases | ifos causes of UFO 3 ed 238
   permalink: /unresolved-cases/
   short_title: Unresolved Cases
   heading_title: Why Some UFO Cases Stay Open
@@ -265,7 +265,7 @@ next_link:
   permalink: /witness-limits/
   short_title: Witness Limits
   heading_title: Why Sky Witnesses Disagree So Often
-date: '2026-06-07 06:17:44 '
+date: '2026-06-12 00:40:29 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_weak_files_unresolve_f6f422-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_weak_files_unresolve_f6f422-Illustration-1.webp
@@ -275,7 +275,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_weak_f
 ## Introduction
 
 A weak UFO file should remain unresolved when the available evidence is too limited to support a confident identification. That may sound unsatisfying, but it is often the most honest outcome. In UFO investigations, the goal is not to assign an explanation to every report. The goal is to match explanations to evidence. When the record lacks critical details, forcing a case into a category such as aircraft, balloon, satellite or astronomical object can create a false sense of certainty and degrade the quality of the dataset. Historical and modern investigation programmes alike have recognised this problem by maintaining separate categories for cases that cannot be responsibly closed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Logistics Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">2) insufficient data, and (3) unidentified. 1. Page 3. -.Read more</span><span class="citation-popover-snippet">Defense Logistics AgencyProject Blue BookSeptember 25, 2012 — The Air Force groups its evaluations of UFO reports under three general hea...</span><span class="citation-popover-meta">Published: September 25, 2012</span></span></span>
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_weak_files_unresolve_f6f422-Illustration-1-dark.svg" | relative_url }}" alt="Weak Files illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_weak_files_unresolve_f6f422-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_weak_files_unresolve_f6f422-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within the broader question of why some cases remain unresolved after investigation, weak files occupy a distinct category. They are not necessarily the most mysterious cases. Often they are simply the least informative.
@@ -297,19 +296,15 @@ Common weaknesses include:
 
 A simple example illustrates the problem. A witness reports a bright light moving rapidly across the night sky. If investigators know the exact time and location, they can compare the sighting with aircraft movements, satellite passes, meteor activity and astronomical objects. If the report only states that it occurred "one evening last month", most of those checks become impossible.
 
-This distinction was built into [Project Blue Book]({{ 'blue-book/' | relative_url }})'s procedures. The Air Force classified reports as "identified", "[insufficient data]({{ 'missing-data/' | relative_url }})" or "unidentified", recognising that some cases lacked enough information even to attempt a reliable solution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Logistics Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">2) insufficient data, and (3) unidentified. 1. Page 3. -.Read more</span><span class="citation-popover-snippet">Defense Logistics AgencyProject Blue BookSeptember 25, 2012 — The Air Force groups its evaluations of UFO reports under three general hea...</span><span class="citation-popover-meta">Published: September 25, 2012</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prologue.blogs.archives.gov">[Pieces of History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prologue.blogs.archives.gov</span><span class="citation-popover-snippet">Pieces of HistoryUFOs: Natural Explanations - Pieces of History16 Apr 2018 — After investigating a case, the Air Force placed it into one...</span></span></span>
+This distinction was built into Project Blue Book's procedures. The Air Force classified reports as "identified", "insufficient data" or "unidentified", recognising that some cases lacked enough information even to attempt a reliable solution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Logistics Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">2) insufficient data, and (3) unidentified. 1. Page 3. -.Read more</span><span class="citation-popover-snippet">Defense Logistics AgencyProject Blue BookSeptember 25, 2012 — The Air Force groups its evaluations of UFO reports under three general hea...</span><span class="citation-popover-meta">Published: September 25, 2012</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prologue.blogs.archives.gov">[Pieces of History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prologue.blogs.archives.gov</span><span class="citation-popover-snippet">Pieces of HistoryUFOs: Natural Explanations - Pieces of History16 Apr 2018 — After investigating a case, the Air Force placed it into one...</span></span></span>
 
 The weakness of a file therefore concerns evidential quality, not the strangeness of the sighting itself.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/m4eR8n2IJAA" title="Editor Fixes Common Prose Mistakes (Part 1)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=m4eR8n2IJAA" target="_blank" rel="noopener noreferrer">Editor Fixes Common Prose Mistakes (Part 1)</a></p><p class="youtube-embed-meta">Channel: The Plottery</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=m4eR8n2IJAA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=m4eR8n2IJAA">Open on YouTube</a></p></div></div></div>
 
 ## Why a Likely IFO Is Not Always Provable
 
 Many unresolved reports probably originated from ordinary objects or phenomena. However, probability is not proof.
 
 Investigators often encounter situations where one explanation appears more plausible than its competitors but cannot be demonstrated from the available evidence. For example:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -326,7 +321,6 @@ This issue remains central to modern UAP investigations. NASA's independent UAP 
 
 The honest position may therefore be: "probably explained, but not demonstrably explained."
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_weak_files_unresolve_f6f422-Illustration-2-dark.svg" | relative_url }}" alt="Weak Files illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_weak_files_unresolve_f6f422-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_weak_files_unresolve_f6f422-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Risk of Forced Identifications
 
@@ -342,9 +336,7 @@ The opposite mistake is equally problematic. Treating every unresolved case as e
 
 The most rigorous approach is to separate "unexplained because unusual" from "unexplained because under-documented".
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/G5R8uq3sPxI" title="US intelligence report on UFOs: No aliens, But Government Transparency and Desire For Better Data" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=G5R8uq3sPxI" target="_blank" rel="noopener noreferrer">US intelligence report on UFOs: No aliens, But Government Transparency and Desire For Better Data</a></p><p class="youtube-embed-meta">Channel: Science And Beyond</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=G5R8uq3sPxI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=G5R8uq3sPxI">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_weak_files_unresolve_f6f422-Illustration-3-dark.svg" | relative_url }}" alt="Weak Files illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_weak_files_unresolve_f6f422-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_weak_files_unresolve_f6f422-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Weak Cases Can Still Reveal Useful Patterns
 
 Leaving a case unresolved does not make it worthless.
@@ -361,21 +353,15 @@ Modern UAP programmes continue to preserve unresolved files for exactly this rea
 
 A weak case may contribute little on its own, yet become valuable when viewed alongside hundreds of similar reports.
 
-
-<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_weak_files_unresolve_f6f422-Illustration-3-dark.svg" | relative_url }}" alt="Weak Files illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_weak_files_unresolve_f6f422-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06_weak_files_unresolve_f6f422-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When "Unresolved" Reflects Good Investigative Practice
 
 An unresolved classification is often portrayed as a failure. In reality, it can represent methodological discipline.
 
 Scientific and investigative standards require conclusions to match evidence. If the evidence cannot support a positive identification, acknowledging uncertainty is preferable to presenting speculation as fact.
 
-This principle appears repeatedly across UFO investigation history. Project Blue Book maintained categories for insufficient information, while contemporary studies emphasise the need for calibrated sensors, complete metadata and multiple independent observations before firm conclusions can be reached. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Logistics Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">2) insufficient data, and (3) unidentified. 1. Page 3. -.Read more</span><span class="citation-popover-snippet">Defense Logistics AgencyProject Blue BookSeptember 25, 2012 — The Air Force groups its evaluations of UFO reports under three general hea...</span><span class="citation-popover-meta">Published: September 25, 2012</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
+This principle appears repeatedly across UFO investigation history. Project Blue Book maintained categories for insufficient information, while contemporary studies emphasise the need for [calibrated sensors]({{ 'sensor-artefacts/' | relative_url }}), complete metadata and multiple independent observations before firm conclusions can be reached. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Logistics Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">2) insufficient data, and (3) unidentified. 1. Page 3. -.Read more</span><span class="citation-popover-snippet">Defense Logistics AgencyProject Blue BookSeptember 25, 2012 — The Air Force groups its evaluations of UFO reports under three general hea...</span><span class="citation-popover-meta">Published: September 25, 2012</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
 
 The result is a simple but important lesson: a weak UFO file should stay unresolved when the available record cannot reliably distinguish between competing explanations. In such cases, uncertainty is not a flaw in the investigation. It is an accurate description of what the evidence can and cannot support.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UoAIrQ1uAEo" title="The UFO Files Didn’t Prove Aliens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UoAIrQ1uAEo" target="_blank" rel="noopener noreferrer">The UFO Files Didn’t Prove Aliens</a></p><p class="youtube-embed-meta">Channel: Render State</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UoAIrQ1uAEo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UoAIrQ1uAEo">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -494,15 +480,15 @@ The result is a simple but important lesson: a weak UFO file should stay unresol
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-files-when-is-unresolved-the-honest-answer-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="weak-files-when-is-unresolved-the-honest-answer-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-unresolved-the-honest-answer-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-is-unresolved-the-honest-answer-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-files-when-is-unresolved-the-honest-answer-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="weak-files-when-is-unresolved-the-honest-answer-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-unresolved-the-honest-answer-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-is-unresolved-the-honest-answer-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-files-when-is-unresolved-the-honest-answer-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="weak-files-when-is-unresolved-the-honest-answer-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-unresolved-the-honest-answer-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-is-unresolved-the-honest-answer-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-files-when-is-unresolved-the-honest-answer-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="weak-files-when-is-unresolved-the-honest-answer-ifos-causes-of-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-unresolved-the-honest-answer-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-is-unresolved-the-honest-answer-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -510,15 +496,15 @@ The result is a simple but important lesson: a weak UFO file should stay unresol
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-files-when-is-unresolved-the-honest-answer-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="weak-files-when-is-unresolved-the-honest-answer-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-unresolved-the-honest-answer-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-is-unresolved-the-honest-answer-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-files-when-is-unresolved-the-honest-answer-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="weak-files-when-is-unresolved-the-honest-answer-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-unresolved-the-honest-answer-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-is-unresolved-the-honest-answer-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-files-when-is-unresolved-the-honest-answer-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="weak-files-when-is-unresolved-the-honest-answer-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-unresolved-the-honest-answer-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-is-unresolved-the-honest-answer-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-files-when-is-unresolved-the-honest-answer-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="weak-files-when-is-unresolved-the-honest-answer-ifos-causes-of-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-unresolved-the-honest-answer-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-is-unresolved-the-honest-answer-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -526,15 +512,15 @@ The result is a simple but important lesson: a weak UFO file should stay unresol
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-files-when-is-unresolved-the-honest-answer-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="weak-files-when-is-unresolved-the-honest-answer-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-unresolved-the-honest-answer-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-is-unresolved-the-honest-answer-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-files-when-is-unresolved-the-honest-answer-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="weak-files-when-is-unresolved-the-honest-answer-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-unresolved-the-honest-answer-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-is-unresolved-the-honest-answer-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-files-when-is-unresolved-the-honest-answer-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="weak-files-when-is-unresolved-the-honest-answer-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-unresolved-the-honest-answer-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-is-unresolved-the-honest-answer-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-files-when-is-unresolved-the-honest-answer-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="weak-files-when-is-unresolved-the-honest-answer-ifos-causes-of-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-unresolved-the-honest-answer-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-is-unresolved-the-honest-answer-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -542,15 +528,15 @@ The result is a simple but important lesson: a weak UFO file should stay unresol
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-files-when-is-unresolved-the-honest-answer-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="weak-files-when-is-unresolved-the-honest-answer-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-unresolved-the-honest-answer-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-is-unresolved-the-honest-answer-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-files-when-is-unresolved-the-honest-answer-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="weak-files-when-is-unresolved-the-honest-answer-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-unresolved-the-honest-answer-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-is-unresolved-the-honest-answer-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-files-when-is-unresolved-the-honest-answer-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="weak-files-when-is-unresolved-the-honest-answer-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-unresolved-the-honest-answer-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-is-unresolved-the-honest-answer-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-files-when-is-unresolved-the-honest-answer-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="weak-files-when-is-unresolved-the-honest-answer-ifos-causes-of-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-unresolved-the-honest-answer-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-is-unresolved-the-honest-answer-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -558,7 +544,7 @@ The result is a simple but important lesson: a weak UFO file should stay unresol
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-files-when-is-unresolved-the-honest-answer-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="weak-files-when-is-unresolved-the-honest-answer-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-unresolved-the-honest-answer-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-is-unresolved-the-honest-answer-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -773,60 +759,60 @@ The result is a simple but important lesson: a weak UFO file should stay unresol
 
 1. <a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: [https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/](https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/)  
+   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — NASA&#x27;s new Director of UAP Research will develop and oversee the implement...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — The UAP Independent Study serves as a community-based, interdisciplinary forum for soliciting and coordinating co...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>8 May 2026 — The UAP independent study team&#x27;s main focus for the report was to come up with a way in which to evaluate and study UAPs goi...</p></details>
    Published: May 2026  
 
 5. <a id="endnote-5"></a>
    Source: esd.whs.mil  
    Title: (2) insufficient data, and (3) unidentified. 1. Page 3. -.Read more  
-   Link: [https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837](https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837)  
+   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Logistics AgencyProject Blue BookSeptember 25, 2012 — The Air Force groups its evaluations of UFO reports under three general hea...</p></details>
    Published: September 25, 2012  
 
 6. <a id="endnote-6"></a>
    Source: prologue.blogs.archives.gov  
-   Link: [https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/](https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/)  
+   Link: <a href="https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pieces of HistoryUFOs: Natural Explanations - Pieces of History16 Apr 2018 — After investigating a case, the Air Force placed it into one...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: cbsnews.com  
    Title: nasa ufo report uap study  
-   Link: [https://www.cbsnews.com/news/nasa-ufo-report-uap-study/](https://www.cbsnews.com/news/nasa-ufo-report-uap-study/)  
+   Link: <a href="https://www.cbsnews.com/news/nasa-ufo-report-uap-study/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/nasa-ufo-report-uap-study/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UAP report finds no evidence of &quot;extraterrestrial...14 Sept 2023 — Current data collection, Thursday&#x27;s report noted, &quot;is hampered b...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: dni.gov  
    Title: DOD AARO Consolidated Annual Report on UAP Nov2024  
-   Link: [https://www.dni.gov/files/ODNI/documents/assessments/DOD-AARO-Consolidated-Annual-Report-on-UAP-Nov2024.pdf](https://www.dni.gov/files/ODNI/documents/assessments/DOD-AARO-Consolidated-Annual-Report-on-UAP-Nov2024.pdf)  
+   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/DOD-AARO-Consolidated-Annual-Report-on-UAP-Nov2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/DOD-AARO-Consolidated-Annual-Report-on-UAP-Nov2024.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Director of National IntelligenceAll-domain Anomaly Resolution Office FY 2024...The remaining 444 cases lacked sufficient data to facili...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookProject Blue Book was the code name for the systematic study of unidentified... category of &quot;insufficient informatio...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, History, Aliens, UFOs, &amp; Facts16 May 2026 — From 1952 to 1969 Project Blue Book compiled reports of 12,618 sightings or event...</p></details>
    Published: May 2026  
 
@@ -834,56 +820,56 @@ The result is a simple but important lesson: a weak UFO file should stay unresol
 
 11. <a id="endnote-11"></a>
    Source: studocu.com  
-   Link: [https://www.studocu.com/en-us/document/harvard-medical-school/estadistica/nasa-uap-independent-study-team-final-report-key-findings-and-recommendations/157385671](https://www.studocu.com/en-us/document/harvard-medical-school/estadistica/nasa-uap-independent-study-team-final-report-key-findings-and-recommendations/157385671)  
+   Link: <a href="https://www.studocu.com/en-us/document/harvard-medical-school/estadistica/nasa-uap-independent-study-team-final-report-key-findings-and-recommendations/157385671" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/en-us/document/harvard-medical-school/estadistica/nasa-uap-independent-study-team-final-report-key-findings-and-recommendations/157385671</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UAP Independent Study Team Final ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the. lack of multipl...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/profile/Athanasios-Valavanidis/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin/links/651a94fab0df2f20a2072826/UFOs-and-Unidentified-Anomalous-Phenomena-The-NASA-report-1492023-has-found-no-evidence-to-suggest-that-UAPs-are-extraterrestrial-in-origin.pdf](https://www.researchgate.net/profile/Athanasios-Valavanidis/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin/links/651a94fab0df2f20a2072826/UFOs-and-Unidentified-Anomalous-Phenomena-The-NASA-report-1492023-has-found-no-evidence-to-suggest-that-UAPs-are-extraterrestrial-in-origin.pdf)  
+   Link: <a href="https://www.researchgate.net/profile/Athanasios-Valavanidis/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin/links/651a94fab0df2f20a2072826/UFOs-and-Unidentified-Anomalous-Phenomena-The-NASA-report-1492023-has-found-no-evidence-to-suggest-that-UAPs-are-extraterrestrial-in-origin.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Athanasios-Valavanidis/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin/links/651a94fab0df2f20a2072826/UFOs-and-Unidentified-Anomalous-Phenomena-The-NASA-report-1492023-has-found-no-evidence-to-suggest-that-UAPs-are-extraterrestrial-in-origin.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and Unidentified Anomalous Phenomena.At present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple m...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: af.mil  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue BookWith the termination of Project Blue Book, the Air Force regulation establishi...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/Kennywood/posts/1503196736437197/](https://www.facebook.com/groups/Kennywood/posts/1503196736437197/)  
+   Link: <a href="https://www.facebook.com/groups/Kennywood/posts/1503196736437197/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/Kennywood/posts/1503196736437197/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US Air Force&#x27;s Project Blue Book UFO studyThe main results of the statistical analysis were: About 69% of the cases were judged known or...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: unwritten-record.blogs.archives.gov  
    Title: The Unwritten Record Aliens at the Archives  
-   Link: [https://unwritten-record.blogs.archives.gov/2017/04/26/aliens-at-the-archives/](https://unwritten-record.blogs.archives.gov/2017/04/26/aliens-at-the-archives/)  
+   Link: <a href="https://unwritten-record.blogs.archives.gov/2017/04/26/aliens-at-the-archives/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2017/04/26/aliens-at-the-archives/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>at the Archives - The Unwritten Record26 Apr 2017 — Project Blue Book grouped these sightings into three categories: identified, insuffic...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: meritalk.com  
    Title: nasa urged to take more permanent role in uap research effort  
-   Link: [https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/](https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/)  
+   Link: <a href="https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/" target="_blank" rel="noopener noreferrer nofollow">https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Urged to Take More Permanent Role in UAP...15 Sept 2023 — The study team found that most UAP data is “hampered by poor sensor calib...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: cepr.net  
    Title: preying on the dying private equity gets rich in hospice care  
-   Link: [https://cepr.net/publications/preying-on-the-dying-private-equity-gets-rich-in-hospice-care/](https://cepr.net/publications/preying-on-the-dying-private-equity-gets-rich-in-hospice-care/)  
+   Link: <a href="https://cepr.net/publications/preying-on-the-dying-private-equity-gets-rich-in-hospice-care/" target="_blank" rel="noopener noreferrer nofollow">https://cepr.net/publications/preying-on-the-dying-private-equity-gets-rich-in-hospice-care/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Preying on the Dying: Private Equity Gets Rich in Hospice...25 Apr 2023 — The report concluded that inadequate licensing and investigati...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: Wikipedia  
    Title: NASA Unidentified Anomalous Phenomena Independent Study Team  
-   Link: [https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team](https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team)  
+   Link: <a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Unidentified Anomalous Phenomena Independent...The team&#x27;s report was released on September 14, 2023, and did not find evidence t...</p></details>
    Published: September 14, 2023  
 
 19. <a id="endnote-19"></a>
    Source: nevadacurrent.com  
    Title: nasa report finds no evidence that ufos are extraterrestrial  
-   Link: [https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/](https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/)  
+   Link: <a href="https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow">https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>18 Sept 2023 — Analysis of this data is “hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor metad...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: sacred-texts.com  
-   Link: [https://sacred-texts.com/ufo/rufo/rufo16.htm](https://sacred-texts.com/ufo/rufo/rufo16.htm)  
+   Link: <a href="https://sacred-texts.com/ufo/rufo/rufo16.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/rufo/rufo16.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ists in the U.S., and indirectly in Europe, telling them about our data, and...Read more...</p></details>

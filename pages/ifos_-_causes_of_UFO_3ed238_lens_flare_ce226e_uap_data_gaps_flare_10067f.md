@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_night_phone_video_ar_b34cfa
 - ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_phone_green_orbs_745199
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - lens-flare
 - data-gaps
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - lens-flare
 - data-gaps
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: NASA's UAP study highlights why poor calibration, missing metadata and few simultaneous measurements make flare explanations harder to prove or reject.
 hero_summary: NASA's UAP study highlights why poor calibration, missing metadata and few simultaneous measurements make flare explanations harder to prove or reject.
 layout: default
 permalink: /data-gaps/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /lens-flare/
 nav_short_title: Data gaps
 title: Why better UAP data matters for flare claims
-title_full: Why better UAP data matters for flare claims | Lens Flare
+title_full: Why better UAP data matters for flare claims
 display_title_short: Data gaps
 display_title: Data gaps
 heading_title: Why better UAP data matters for flare claims
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 15:30:28'
-parent_title: When Cameras Invent Extra Lights | IFOs
+parent_title: When Cameras Invent Extra Lights
 parent_permalink: /lens-flare/
 parent_nav_short_title: Lens Flare
 parent_heading_title: When Cameras Invent Extra Lights
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e
-  title: Lens Flare | Ifos Causes Of
+  title: Lens Flare | ifos causes of UFO 3 ed 238
   permalink: /lens-flare/
   short_title: Lens Flare
   heading_title: When Cameras Invent Extra Lights
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e
-  title: Lens Flare | Ifos Causes Of
+  title: Lens Flare | ifos causes of UFO 3 ed 238
   permalink: /lens-flare/
   short_title: Lens Flare
   heading_title: When Cameras Invent Extra Lights
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: Why night UFO videos fool the eye
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e
-  title: Lens Flare | Ifos Causes Of
+  title: Lens Flare | ifos causes of UFO 3 ed 238
   permalink: /lens-flare/
   short_title: Lens Flare
   heading_title: When Cameras Invent Extra Lights
@@ -260,6 +259,7 @@ next_link:
   permalink: /gimbal-glare/
   short_title: Gimbal glare
   heading_title: Was Gimbal rotation a camera effect?
+date: '2026-06-12 00:16:25 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_uap_data_gaps_flare_10067f-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_uap_data_gaps_flare_10067f-Illustration-1.webp
@@ -270,18 +270,16 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_uap_data_gap
 
 NASA’s 2023 Independent Study Team report did not set out to prove or disprove any particular UFO explanation. Instead, it highlighted a more basic problem: most unidentified anomalous phenomena (UAP) reports contain too little high-quality information to determine whether a strange object is a real external target, a sensor malfunction, or an optical artefact such as [lens flare]({{ 'lens-flare/' | relative_url }}). The report repeatedly emphasised that poor calibration, [missing metadata]({{ 'missing-metadata/' | relative_url }}), limited sensor information and the absence of simultaneous observations make reliable analysis difficult. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportIn short, calibration ensures that future data gathered are reliable and accurate, while gatheri...</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_uap_data_gaps_flare_10067f-Illustration-1-dark.svg" | relative_url }}" alt="Data gaps illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_uap_data_gaps_flare_10067f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_uap_data_gaps_flare_10067f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For claims involving lens flare and other optical artefacts, this finding is especially important. A flare explanation is often testable, but only if investigators know exactly how the image was captured and can compare it with independent measurements. Without that information, both sceptical and extraordinary interpretations can end up resting on incomplete evidence rather than demonstrable facts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:UAP Independent Study Team</span><span class="citation-popover-snippet">WikisourcePage:UAP Independent Study Team - Final Report.pdf/512 Nov 2023 — At present, analysis of UAP data is hampered by poor sensor c...</span></span></span>
+For claims involving lens flare and other optical artefacts, this finding is especially important. A flare explanation is often testable, but only if investigators know exactly how the image was captured and can compare it with independent measurements. Without that information, both sceptical and extraordinary interpretations can end up resting on incomplete evidence rather than demonstrable facts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:UAP Independent Study Team</span><span class="citation-popover-snippet">Page:UAP Independent Study Team - Final Report.pdf/512 Nov 2023 — At present, analysis of UAP data is hampered by poor sensor c...</span></span></span>
 
 ## Calibration and metadata missing from many clips
 
-One of NASA’s central conclusions was that many UAP cases suffer from inadequate sensor calibration and incomplete metadata. Metadata includes information such as the recording time, camera model, sensor type, viewing direction, zoom setting, exposure parameters and other technical details needed to reconstruct what happened. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportIn short, calibration ensures that future data gathered are reliable and accurate, while gatheri...</span></span></span> Wikisource This matters because optical artefacts are highly dependent on the imaging system. A bright light that produces a ghost image in one camera m <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[en.wikisource.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:UAP Independent Study Team</span><span class="citation-popover-snippet">WikisourcePage:UAP Independent Study Team - Final Report.pdf/512 Nov 2023 — At present, analysis of UAP data is hampered by poor sensor c...</span></span></span> ay not do so in another. Internal [reflections]({{ 'reflections/' | relative_url }}), sensor bloom, [infrared]({{ 'infrared/' | relative_url }}) glare and lens flare patterns all depend on the design and condition of the optics. Without knowing the characteristics of the recording device, investigators cannot confidently model whether an apparent object could have been generated by the camera itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportIn short, calibration ensures that future data gathered are reliable and accurate, while gatheri...</span></span></span>
+One of NASA’s central conclusions was that many UAP cases suffer from inadequate sensor calibration and incomplete metadata. Metadata includes information such as the recording time, camera model, sensor type, viewing direction, zoom setting, exposure parameters and other technical details needed to reconstruct what happened. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportIn short, calibration ensures that future data gathered are reliable and accurate, while gatheri...</span></span></span> Wikisource This matters because optical artefacts are highly dependent on the imaging system. A bright light that produces a ghost image in one camera m <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[en.wikisource.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:UAP Independent Study Team</span><span class="citation-popover-snippet">Page:UAP Independent Study Team - Final Report.pdf/512 Nov 2023 — At present, analysis of UAP data is hampered by poor sensor c...</span></span></span> ay not do so in another. Internal [reflections]({{ 'reflections/' | relative_url }}), sensor bloom, [infrared]({{ 'infrared/' | relative_url }}) glare and lens flare patterns all depend on the design and condition of the optics. Without knowing the characteristics of the recording device, investigators cannot confidently model whether an apparent object could have been generated by the camera itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportIn short, calibration ensures that future data gathered are reliable and accurate, while gatheri...</span></span></span>
 
-NASA's report noted that some apparent UAP have later been shown to be [sensor artefacts]({{ 'sensor-artefacts/' | relative_url }}) once calibration information and metadata were examined in sufficient detail. That observation is significant because it demonstrates that unexplained footage can sometimes move from “unknown” to “explained” when the underlying technical information becomes available. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:UAP Independent Study Team</span><span class="citation-popover-snippet">WikisourcePage:UAP Independent Study Team - Final Report.pdf/1512 Nov 2023 — Indeed, several apparent UAP have been demonstrated to be se...</span></span></span>
+NASA's report noted that some apparent UAP have later been shown to be [sensor artefacts]({{ 'sensor-artefacts/' | relative_url }}) once calibration information and metadata were examined in sufficient detail. That observation is significant because it demonstrates that unexplained footage can sometimes move from “unknown” to “explained” when the underlying technical information becomes available. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:UAP Independent Study Team</span><span class="citation-popover-snippet">Page:UAP Independent Study Team - Final Report.pdf/1512 Nov 2023 — Indeed, several apparent UAP have been demonstrated to be se...</span></span></span>
 
 The converse is also true. If metadata are absent, investigators may be unable to demonstrate that a suspected flare really is a flare. In that situation, the case often remains unresolved rather than conclusively explained.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YXBsIOGsZE0" title="REPLAY! NASA Unidentified Anomalous Phenomena Independent Study Report Update" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YXBsIOGsZE0" target="_blank" rel="noopener noreferrer">REPLAY! NASA Unidentified Anomalous Phenomena Independent Study Report Update</a></p><p class="youtube-embed-meta">Channel: The Launch Pad &middot; Views: 6.2K &middot; Uploaded: September 2023 &middot; Length: 1 hour 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YXBsIOGsZE0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YXBsIOGsZE0">Open on YouTube</a></p></div></div></div>
 
@@ -297,14 +295,12 @@ For example:
 
 NASA noted that the ideal [evidence package]({{ 'evidence-package/' | relative_url }}) would combine optical imagery, infrared observations and radar measurements, yet very few reported cases contain all three. The absence of these overlapping data streams makes it much harder to distinguish between a real object and an imaging artefact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nevadacurrent.com">[nevadacurrent.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nevadacurrent.com</span><span class="citation-popover-title">nasa report finds no evidence that ufos are extraterrestrial</span><span class="citation-popover-snippet">18 Sept 2023 — Analysis of this data is “hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor metad...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nextgov.com/ideas/2023/09/nasa-report-finds-no-evidence-ufos-are-extraterrestrial/390350/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nextgov.com">[nextgov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nextgov.com</span><span class="citation-popover-title">nasa report finds no evidence ufos are extraterrestrial</span><span class="citation-popover-snippet">NASA report finds no evidence that UFOs are extraterrestrial15 Sept 2023 — Analysis of this data is “hampered by poor sensor calibration...</span></span></span> This is a key governance issue rather than merely a technical one. Investigators can only apply rigorous tests when data collection standards require multiple sensors and synchronised records from the outset. NASA's recommendations therefore focused heavily on improving data acquisition rather than debating individual sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportIn short, calibration ensures that future data gathered are reliable and accurate, while gatheri...</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_uap_data_gaps_flare_10067f-Illustration-2-dark.svg" | relative_url }}" alt="Data gaps illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_uap_data_gaps_flare_10067f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_uap_data_gaps_flare_10067f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why a lack of baseline data creates confusion
 
 Another problem identified by NASA is the lack of baseline data. Baseline data are ordinary observations collected under known conditions that allow analysts to recognise what normal sensor behaviour looks like. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Responses to Statement of Task</span><span class="citation-popover-snippet">Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — Indeed, several apparent UAP have been demonstrated to be sensor artifacts...</span></span></span>
 
 In optical artefact investigations, baseline information can include:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -317,15 +313,12 @@ In optical artefact investigations, baseline information can include:
 
 Without these reference points, an unusual image can appear more mysterious than it really is. Analysts may know that a flare explanation is plausible but lack the comparative material needed to demonstrate it. NASA's report therefore framed many UAP challenges as problems of data quality and context rather than simply a shortage of sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportIn short, calibration ensures that future data gathered are reliable and accurate, while gatheri...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Executive_Summary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">Unidentified Anomalous Phenomena14 Oct 2023 — The study of Unidentified Anomalous Phenomena (UAP) presents a unique scientific opportunit...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nuBMnluJfs0" title="Replay! NASA&#x27;s Release of the Unidentified Anomalous Phenomena Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nuBMnluJfs0" target="_blank" rel="noopener noreferrer">Replay! NASA&#x27;s Release of the Unidentified Anomalous Phenomena Report</a></p><p class="youtube-embed-meta">Channel: VideoFromSpace &middot; Views: 71.9K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nuBMnluJfs0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nuBMnluJfs0">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_uap_data_gaps_flare_10067f-Illustration-3-dark.svg" | relative_url }}" alt="Data gaps illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_uap_data_gaps_flare_10067f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_uap_data_gaps_flare_10067f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What better evidence packages would include
 
 NASA's recommendations point toward a more testable approach to optical artefact claims. Instead of relying on isolated clips circulating online, investigators would ideally receive a complete evidence package. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportIn short, calibration ensures that future data gathered are reliable and accurate, while gatheri...</span></span></span>
 
 Such a package would include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -339,19 +332,15 @@ Such a package would include:
 
 </div>
 
-With these elements available, investigators can perform reconstruction exercises, model flare geometries, compare observations across instruments and determine whether a reported object behaves like an external target or an artefact generated by the imaging system. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportIn short, calibration ensures that future data gathered are reliable and accurate, while gatheri...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:UAP Independent Study Team</span><span class="citation-popover-snippet">WikisourcePage:UAP Independent Study Team - Final Report.pdf/512 Nov 2023 — At present, analysis of UAP data is hampered by poor sensor c...</span></span></span>
+With these elements available, investigators can perform reconstruction exercises, model flare geometries, compare observations across instruments and determine whether a reported object behaves like an external target or an artefact generated by the imaging system. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportIn short, calibration ensures that future data gathered are reliable and accurate, while gatheri...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:UAP Independent Study Team</span><span class="citation-popover-snippet">Page:UAP Independent Study Team - Final Report.pdf/512 Nov 2023 — At present, analysis of UAP data is hampered by poor sensor c...</span></span></span>
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nuBMnluJfs0" title="Replay! NASA&#x27;s Release of the Unidentified Anomalous Phenomena Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nuBMnluJfs0" target="_blank" rel="noopener noreferrer">Replay! NASA&#x27;s Release of the Unidentified Anomalous Phenomena Report</a></p><p class="youtube-embed-meta">Channel: VideoFromSpace &middot; Views: 71.9K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nuBMnluJfs0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nuBMnluJfs0">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_uap_data_gaps_flare_10067f-Illustration-3-dark.svg" | relative_url }}" alt="Data gaps illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_uap_data_gaps_flare_10067f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_uap_data_gaps_flare_10067f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The practical lesson for flare claims
 
 NASA's UAP study did not conclude that unidentified sightings are merely [lens flares]({{ 'lens-flare/' | relative_url }}). Nor did it conclude that unusual videos represent extraordinary objects. Its more restrained conclusion was that current evidence is often insufficient to make either case convincingly. Most reports provide too little calibrated, contextualised data for definitive analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportIn short, calibration ensures that future data gathered are reliable and accurate, while gatheri...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/nasa-ufo-report-uap-study/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">nasa ufo report uap study</span><span class="citation-popover-snippet">But we don&#x27;t know what these UAP are.Read more...</span></span></span>
 
-For optical artefact claims, the lesson is straightforward: the strongest way to test a flare hypothesis is not argument but data. When original files, calibration records, metadata and independent measurements are available, suspected artefacts can often be confirmed or rejected. When those elements are missing, uncertainty tends to persist, leaving many cases in the category that NASA regarded as the central challenge of UAP research: not necessarily unexplained phenomena, but inadequately documented ones. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportIn short, calibration ensures that future data gathered are reliable and accurate, while gatheri...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:UAP Independent Study Team</span><span class="citation-popover-snippet">WikisourcePage:UAP Independent Study Team - Final Report.pdf/1512 Nov 2023 — Indeed, several apparent UAP have been demonstrated to be se...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FWmKQDDf64U" title="NASA puts together a team to look into sightings of UAPs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FWmKQDDf64U" target="_blank" rel="noopener noreferrer">NASA puts together a team to look into sightings of UAPs</a></p><p class="youtube-embed-meta">Channel: Behind the News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FWmKQDDf64U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FWmKQDDf64U">Open on YouTube</a></p></div></div></div>
-
+For optical artefact claims, the lesson is straightforward: the strongest way to test a flare hypothesis is not argument but data. When original files, calibration records, metadata and independent measurements are available, suspected artefacts can often be confirmed or rejected. When those elements are missing, uncertainty tends to persist, leaving many cases in the category that NASA regarded as the central challenge of UAP research: not necessarily unexplained phenomena, but inadequately documented ones. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportIn short, calibration ensures that future data gathered are reliable and accurate, while gatheri...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:UAP Independent Study Team</span><span class="citation-popover-snippet">Page:UAP Independent Study Team - Final Report.pdf/1512 Nov 2023 — Indeed, several apparent UAP have been demonstrated to be se...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -470,15 +459,15 @@ For optical artefact claims, the lesson is straightforward: the strongest way to
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-gaps-why-better-uap-data-matters-for-flare-claims-ifos-causes-of-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="data-gaps-why-better-uap-data-matters-for-flare-claims-ifos-causes-of-camera-lens" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Canon EF 35-105mm f4.5-5.6 Auto Focus Lens for Canon EOS Cameras #2 **READ**"><img src="{{ '/assets/images/marketplace-covers/8d9e9124f1c24971b104.jpg' | relative_url }}" alt="Listing image for Canon EF 35-105mm f4.5-5.6 Auto Focus Lens for Canon EOS Cameras #2 **READ**" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=infrared+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-better-uap-data-matters-for-flare-claims-infrared-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="infrared camera" data-ebay-reference="why-better-uap-data-matters-for-flare-claims-infrared-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nikon D3100 Full Spectrum converted camera. For infrared photography."><img src="https://i.ebayimg.com/images/g/YgEAAOSwtgxmm6-5/s-l225.jpg" alt="Listing image for Nikon D3100 Full Spectrum converted camera. For infrared photography." loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-gaps-why-better-uap-data-matters-for-flare-claims-ifos-causes-of-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="data-gaps-why-better-uap-data-matters-for-flare-claims-ifos-causes-of-camera-lens" target="_blank" rel="sponsored noopener noreferrer">Canon EF 35-105mm f4.5-5.6 Auto Focus Lens for Canon EOS Cameras #2 **READ**</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=infrared+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-better-uap-data-matters-for-flare-claims-infrared-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="infrared camera" data-ebay-reference="why-better-uap-data-matters-for-flare-claims-infrared-camera" target="_blank" rel="sponsored noopener noreferrer">Nikon D3100 Full Spectrum converted camera. For infrared photography.</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-gaps-why-better-uap-data-matters-for-flare-claims-ifos-causes-of-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="data-gaps-why-better-uap-data-matters-for-flare-claims-ifos-causes-of-camera-lens" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera lens">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera lens</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=infrared+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-better-uap-data-matters-for-flare-claims-infrared-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="infrared camera" data-ebay-reference="why-better-uap-data-matters-for-flare-claims-infrared-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for infrared camera">Search <span data-ebay-domain-label>eBay.co.uk</span>: infrared camera</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-gaps-why-better-uap-data-matters-for-flare-claims-ifos-causes-of-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="data-gaps-why-better-uap-data-matters-for-flare-claims-ifos-causes-of-camera-lens" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=infrared+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-better-uap-data-matters-for-flare-claims-infrared-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="infrared camera" data-ebay-reference="why-better-uap-data-matters-for-flare-claims-infrared-camera" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -486,15 +475,15 @@ For optical artefact claims, the lesson is straightforward: the strongest way to
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-gaps-why-better-uap-data-matters-for-flare-claims-ifos-causes-of-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="data-gaps-why-better-uap-data-matters-for-flare-claims-ifos-causes-of-camera-lens" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Camera Lens, Manual-Focus Tokina SD 70-210mm f/4-5.6"><img src="{{ '/assets/images/marketplace-covers/ec44e1e001216fc598e3.jpg' | relative_url }}" alt="Listing image for Vintage Camera Lens, Manual-Focus Tokina SD 70-210mm f/4-5.6" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=infrared+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-better-uap-data-matters-for-flare-claims-infrared-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="infrared camera" data-ebay-reference="why-better-uap-data-matters-for-flare-claims-infrared-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Transit custom reverse camera HD sync 2.5/3 rear factory full kit to install"><img src="https://i.ebayimg.com/images/g/qesAAeSwVlFoaXTp/s-l225.jpg" alt="Listing image for Transit custom reverse camera HD sync 2.5/3 rear factory full kit to install" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-gaps-why-better-uap-data-matters-for-flare-claims-ifos-causes-of-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="data-gaps-why-better-uap-data-matters-for-flare-claims-ifos-causes-of-camera-lens" target="_blank" rel="sponsored noopener noreferrer">Vintage Camera Lens, Manual-Focus Tokina SD 70-210mm f/4-5.6</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=infrared+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-better-uap-data-matters-for-flare-claims-infrared-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="infrared camera" data-ebay-reference="why-better-uap-data-matters-for-flare-claims-infrared-camera" target="_blank" rel="sponsored noopener noreferrer">Transit custom reverse camera HD sync 2.5/3 rear factory full kit to install</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-gaps-why-better-uap-data-matters-for-flare-claims-ifos-causes-of-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="data-gaps-why-better-uap-data-matters-for-flare-claims-ifos-causes-of-camera-lens" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera lens">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera lens</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=infrared+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-better-uap-data-matters-for-flare-claims-infrared-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="infrared camera" data-ebay-reference="why-better-uap-data-matters-for-flare-claims-infrared-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for infrared camera">Search <span data-ebay-domain-label>eBay.co.uk</span>: infrared camera</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-gaps-why-better-uap-data-matters-for-flare-claims-ifos-causes-of-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="data-gaps-why-better-uap-data-matters-for-flare-claims-ifos-causes-of-camera-lens" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=infrared+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-better-uap-data-matters-for-flare-claims-infrared-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="infrared camera" data-ebay-reference="why-better-uap-data-matters-for-flare-claims-infrared-camera" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -502,15 +491,15 @@ For optical artefact claims, the lesson is straightforward: the strongest way to
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-gaps-why-better-uap-data-matters-for-flare-claims-ifos-causes-of-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="data-gaps-why-better-uap-data-matters-for-flare-claims-ifos-causes-of-camera-lens" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Praktica MTL 50 Camera w/ Germany SLR 35mm Pentacon Lens"><img src="{{ '/assets/images/marketplace-covers/8a64e5218ac82b816cfe.jpg' | relative_url }}" alt="Listing image for Vintage Praktica MTL 50 Camera w/ Germany SLR 35mm Pentacon Lens" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=infrared+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-better-uap-data-matters-for-flare-claims-infrared-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="infrared camera" data-ebay-reference="why-better-uap-data-matters-for-flare-claims-infrared-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Infrared Thermal Imager Temperature Imaging Camera IR Resolution 192*192 25 HZ"><img src="https://i.ebayimg.com/images/g/h8QAAeSwjfBpQ5hl/s-l225.jpg" alt="Listing image for Infrared Thermal Imager Temperature Imaging Camera IR Resolution 192*192 25 HZ" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-gaps-why-better-uap-data-matters-for-flare-claims-ifos-causes-of-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="data-gaps-why-better-uap-data-matters-for-flare-claims-ifos-causes-of-camera-lens" target="_blank" rel="sponsored noopener noreferrer">Vintage Praktica MTL 50 Camera w/ Germany SLR 35mm Pentacon Lens</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=infrared+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-better-uap-data-matters-for-flare-claims-infrared-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="infrared camera" data-ebay-reference="why-better-uap-data-matters-for-flare-claims-infrared-camera" target="_blank" rel="sponsored noopener noreferrer">Infrared Thermal Imager Temperature Imaging Camera IR Resolution 192*192 25 HZ</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-gaps-why-better-uap-data-matters-for-flare-claims-ifos-causes-of-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="data-gaps-why-better-uap-data-matters-for-flare-claims-ifos-causes-of-camera-lens" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera lens">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera lens</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=infrared+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-better-uap-data-matters-for-flare-claims-infrared-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="infrared camera" data-ebay-reference="why-better-uap-data-matters-for-flare-claims-infrared-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for infrared camera">Search <span data-ebay-domain-label>eBay.co.uk</span>: infrared camera</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-gaps-why-better-uap-data-matters-for-flare-claims-ifos-causes-of-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="data-gaps-why-better-uap-data-matters-for-flare-claims-ifos-causes-of-camera-lens" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=infrared+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-better-uap-data-matters-for-flare-claims-infrared-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="infrared camera" data-ebay-reference="why-better-uap-data-matters-for-flare-claims-infrared-camera" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -518,15 +507,15 @@ For optical artefact claims, the lesson is straightforward: the strongest way to
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-gaps-why-better-uap-data-matters-for-flare-claims-ifos-causes-of-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="data-gaps-why-better-uap-data-matters-for-flare-claims-ifos-causes-of-camera-lens" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for For Sony E Mount Mirrorless Camera Lens Pancake Biscuit Focus Free Filmy Lens"><img src="{{ '/assets/images/marketplace-covers/e5989c59561a54201a9e.jpg' | relative_url }}" alt="Listing image for For Sony E Mount Mirrorless Camera Lens Pancake Biscuit Focus Free Filmy Lens" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=infrared+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-better-uap-data-matters-for-flare-claims-infrared-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="infrared camera" data-ebay-reference="why-better-uap-data-matters-for-flare-claims-infrared-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 32GB Wildlife Trail Camera 1080P Game Night Vision Outdoor Motion Hunting Cam UK"><img src="https://i.ebayimg.com/images/g/-G8AAeSwS3xp11fe/s-l225.jpg" alt="Listing image for 32GB Wildlife Trail Camera 1080P Game Night Vision Outdoor Motion Hunting Cam UK" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-gaps-why-better-uap-data-matters-for-flare-claims-ifos-causes-of-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="data-gaps-why-better-uap-data-matters-for-flare-claims-ifos-causes-of-camera-lens" target="_blank" rel="sponsored noopener noreferrer">For Sony E Mount Mirrorless Camera Lens Pancake Biscuit Focus Free Filmy Lens</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=infrared+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-better-uap-data-matters-for-flare-claims-infrared-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="infrared camera" data-ebay-reference="why-better-uap-data-matters-for-flare-claims-infrared-camera" target="_blank" rel="sponsored noopener noreferrer">32GB Wildlife Trail Camera 1080P Game Night Vision Outdoor Motion Hunting Cam UK</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-gaps-why-better-uap-data-matters-for-flare-claims-ifos-causes-of-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="data-gaps-why-better-uap-data-matters-for-flare-claims-ifos-causes-of-camera-lens" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera lens">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera lens</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=infrared+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-better-uap-data-matters-for-flare-claims-infrared-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="infrared camera" data-ebay-reference="why-better-uap-data-matters-for-flare-claims-infrared-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for infrared camera">Search <span data-ebay-domain-label>eBay.co.uk</span>: infrared camera</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-gaps-why-better-uap-data-matters-for-flare-claims-ifos-causes-of-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="data-gaps-why-better-uap-data-matters-for-flare-claims-ifos-causes-of-camera-lens" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=infrared+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-better-uap-data-matters-for-flare-claims-infrared-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="infrared camera" data-ebay-reference="why-better-uap-data-matters-for-flare-claims-infrared-camera" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -534,7 +523,7 @@ For optical artefact claims, the lesson is straightforward: the strongest way to
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-gaps-why-better-uap-data-matters-for-flare-claims-ifos-causes-of-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="data-gaps-why-better-uap-data-matters-for-flare-claims-ifos-causes-of-camera-lens" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=infrared+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-better-uap-data-matters-for-flare-claims-infrared-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="infrared camera" data-ebay-reference="why-better-uap-data-matters-for-flare-claims-infrared-camera" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -749,132 +738,132 @@ For optical artefact claims, the lesson is straightforward: the strongest way to
 
 1. <a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportIn short, calibration ensures that future data gathered are reliable and accurate, while gatheri...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: en.wikisource.org  
    Title: Page:UAP Independent Study Team  
-   Link: [https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5](https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WikisourcePage:UAP Independent Study Team - Final Report.pdf/512 Nov 2023 — At present, analysis of UAP data is hampered by poor sensor c...</p></details>
+   Link: <a href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Page:UAP Independent Study Team - Final Report.pdf/512 Nov 2023 — At present, analysis of UAP data is hampered by poor sensor c...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: en.wikisource.org  
    Title: Page:UAP Independent Study Team  
-   Link: [https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15](https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WikisourcePage:UAP Independent Study Team - Final Report.pdf/1512 Nov 2023 — Indeed, several apparent UAP have been demonstrated to be se...</p></details>
+   Link: <a href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Page:UAP Independent Study Team - Final Report.pdf/1512 Nov 2023 — Indeed, several apparent UAP have been demonstrated to be se...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: en.wikisource.org  
    Title: Responses to Statement of Task  
-   Link: [https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task](https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task)  
+   Link: <a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — Indeed, several apparent UAP have been demonstrated to be sensor artifacts...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: nextgov.com  
    Title: nasa report finds no evidence ufos are extraterrestrial  
-   Link: [https://www.nextgov.com/ideas/2023/09/nasa-report-finds-no-evidence-ufos-are-extraterrestrial/390350/](https://www.nextgov.com/ideas/2023/09/nasa-report-finds-no-evidence-ufos-are-extraterrestrial/390350/)  
+   Link: <a href="https://www.nextgov.com/ideas/2023/09/nasa-report-finds-no-evidence-ufos-are-extraterrestrial/390350/" target="_blank" rel="noopener noreferrer nofollow">https://www.nextgov.com/ideas/2023/09/nasa-report-finds-no-evidence-ufos-are-extraterrestrial/390350/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA report finds no evidence that UFOs are extraterrestrial15 Sept 2023 — Analysis of this data is “hampered by poor sensor calibration...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: nevadacurrent.com  
    Title: nasa report finds no evidence that ufos are extraterrestrial  
-   Link: [https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/](https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/)  
+   Link: <a href="https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow">https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>18 Sept 2023 — Analysis of this data is “hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor metad...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: [https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/](https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASAUPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through...</p></details>
+   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: en.wikisource.org  
-   Link: [https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Executive_Summary](https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Executive_Summary)  
+   Link: <a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Executive_Summary" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Executive_Summary</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena14 Oct 2023 — The study of Unidentified Anomalous Phenomena (UAP) presents a unique scientific opportunit...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP FAQs8 May 2026 — Are there any data supporting the idea that UAP are evidence of alien technologies? No. Most UAP sightin...</p></details>
    Published: May 2026  
 
 10. <a id="endnote-10"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — The UAP Independent Study shall report on the following questions: What types of scientific data currently collec...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: nasa.gov  
    Title: nasa to release discuss unidentified anomalous phenomena report  
-   Link: [https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/](https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/)  
+   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to Release, Discuss Unidentified Anomalous...NASA commissioned the study to examine UAP from a scientific perspective and create a...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: nasa.gov  
    Title: provides coverage of unidentified anomalous phenomena meeting  
-   Link: [https://www.nasa.gov/news-release/nasa-provides-coverage-of-unidentified-anomalous-phenomena-meeting/](https://www.nasa.gov/news-release/nasa-provides-coverage-of-unidentified-anomalous-phenomena-meeting/)  
+   Link: <a href="https://www.nasa.gov/news-release/nasa-provides-coverage-of-unidentified-anomalous-phenomena-meeting/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-provides-coverage-of-unidentified-anomalous-phenomena-meeting/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Provides Coverage of Unidentified Anomalous...12 May 2023 — NASA commissioned the nine-month study to examine UAP from a scientific...</p></details>
    Published: May 2023  
 
 13. <a id="endnote-13"></a>
    Source: cbsnews.com  
    Title: nasa ufo report uap study  
-   Link: [https://www.cbsnews.com/news/nasa-ufo-report-uap-study/](https://www.cbsnews.com/news/nasa-ufo-report-uap-study/)  
+   Link: <a href="https://www.cbsnews.com/news/nasa-ufo-report-uap-study/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/nasa-ufo-report-uap-study/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>But we don&#x27;t know what these UAP are.Read more...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/](https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/)  
+   Link: <a href="https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...The report contains the external study team&#x27;s findings and recommendations which aim to i...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: managingexpectations.net  
-   Link: [https://managingexpectations.net/blog/articles/nasa-uap-study-managing-expectations.html](https://managingexpectations.net/blog/articles/nasa-uap-study-managing-expectations.html)  
+   Link: <a href="https://managingexpectations.net/blog/articles/nasa-uap-study-managing-expectations.html" target="_blank" rel="noopener noreferrer nofollow">https://managingexpectations.net/blog/articles/nasa-uap-study-managing-expectations.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s UAP Study: What It Did — and Did Not — ConcludeThe panel said UAP analysis is hampered by “poor sensor calibration,” a lack of mul...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: primitiveproton.com  
-   Link: [https://primitiveproton.com/unidentified-anomalous-phenomena-uap/](https://primitiveproton.com/unidentified-anomalous-phenomena-uap/)  
+   Link: <a href="https://primitiveproton.com/unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://primitiveproton.com/unidentified-anomalous-phenomena-uap/</a>  
 
 17. <a id="endnote-17"></a>
    Source: thenationalnews.com  
    Title: nasas ufo report advises us government on how to detect mysterious objects  
-   Link: [https://www.thenationalnews.com/world/us-news/2023/09/14/nasas-ufo-report-advises-us-government-on-how-to-detect-mysterious-objects/](https://www.thenationalnews.com/world/us-news/2023/09/14/nasas-ufo-report-advises-us-government-on-how-to-detect-mysterious-objects/)  
+   Link: <a href="https://www.thenationalnews.com/world/us-news/2023/09/14/nasas-ufo-report-advises-us-government-on-how-to-detect-mysterious-objects/" target="_blank" rel="noopener noreferrer nofollow">https://www.thenationalnews.com/world/us-news/2023/09/14/nasas-ufo-report-advises-us-government-on-how-to-detect-mysterious-objects/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nasa&#x27;s UFO report reveals how public can help hunt for...14 Sept 2023 — Released online on Thursday, the 36-page document says that exis...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=nuBMnluJfs0](https://www.youtube.com/watch?v=nuBMnluJfs0)  
+   Link: <a href="https://www.youtube.com/watch?v=nuBMnluJfs0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nuBMnluJfs0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Replay! NASA&#x27;s Release of the Unidentified Anomalous...NASA commissioned an independent study team to examine unidentified anomalous phe...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=TQcqOW39ksk](https://www.youtube.com/watch?v=TQcqOW39ksk)  
+   Link: <a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study ReportNASA commissioned an independent study team to examine unidentified anomalous ph...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: skyandtelescope.org  
    Title: nasa finds no evidence ufos are extraterrestrial promises further study  
-   Link: [https://skyandtelescope.org/astronomy-news/nasa-finds-no-evidence-ufos-are-extraterrestrial-promises-further-study/](https://skyandtelescope.org/astronomy-news/nasa-finds-no-evidence-ufos-are-extraterrestrial-promises-further-study/)  
+   Link: <a href="https://skyandtelescope.org/astronomy-news/nasa-finds-no-evidence-ufos-are-extraterrestrial-promises-further-study/" target="_blank" rel="noopener noreferrer nofollow">https://skyandtelescope.org/astronomy-news/nasa-finds-no-evidence-ufos-are-extraterrestrial-promises-further-study/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>First, UAP reports are typically single sightings and lack multiple measurements. Those individual reports also often lack sensor metadat...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: salon.com  
    Title: nasa report finds no evidence that ufos are extraterrestrial partner  
-   Link: [https://www.salon.com/2023/09/19/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial_partner/](https://www.salon.com/2023/09/19/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial_partner/)  
+   Link: <a href="https://www.salon.com/2023/09/19/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial_partner/" target="_blank" rel="noopener noreferrer nofollow">https://www.salon.com/2023/09/19/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial_partner/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP data considered by the study team comes from U.S. military aircraft. Analysis of this data is “hampered by poor sensor calibration, t...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: meritalk.com  
    Title: nasa urged to take more permanent role in uap research effort  
-   Link: [https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/](https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/)  
+   Link: <a href="https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/" target="_blank" rel="noopener noreferrer nofollow">https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Urged to Take More Permanent Role in UAP...15 Sept 2023 — The study team found that most UAP data is “hampered by poor sensor calib...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: mississippifreepress.org  
    Title: nasa report finds no evidence that ufos are extraterrestrial  
-   Link: [https://www.mississippifreepress.org/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/](https://www.mississippifreepress.org/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/)  
+   Link: <a href="https://www.mississippifreepress.org/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow">https://www.mississippifreepress.org/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Report Finds No Evidence That UFOs Are...11 Jun 2024 — Analysis of this data is “hampered by poor sensor calibration, the lack of m...</p></details>

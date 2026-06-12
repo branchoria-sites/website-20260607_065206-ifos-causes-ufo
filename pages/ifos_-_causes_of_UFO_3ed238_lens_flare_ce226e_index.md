@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ifos-causes-of-ufo-3ed238-lens-flare/
 description: Focused pages that expand on Lens Flare.
-date: '2026-06-07'
+date: '2026-06-12'
 layout: default
 parent_basename: ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e
-parent_title: Lens Flare | Ifos Causes Of
+parent_title: Lens Flare
 parent_nav_short_title: Lens Flare
 parent_permalink: /lens-flare/
 ---

@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_standard_civilian_ua_e295b0
 - ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_uap_baseline_librari_a298b8
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - nasa-study
 - missing-metadata
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - nasa-study
 - missing-metadata
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Many sightings stay unidentified because the original report lacks the time, location, direction, sensor details, or weather needed to test ordinary causes.
 hero_summary: Many sightings stay unidentified because the original report lacks the time, location, direction, sensor details, or weather needed to test ordinary causes.
 layout: default
 permalink: /missing-metadata/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /nasa-study/
 nav_short_title: Missing metadata
 title: Why missing metadata creates false UFO mysteries
-title_full: Why missing metadata creates false UFO mysteries | NASA Study
+title_full: Why missing metadata creates false UFO mysteries
 display_title_short: Missing metadata
 display_title: Missing metadata
 heading_title: Why missing metadata creates false UFO mysteries
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 23:05:45'
-parent_title: Why Better UFO Data Matters | IFOs
+parent_title: Why Better UFO Data Matters
 parent_permalink: /nasa-study/
 parent_nav_short_title: NASA Study
 parent_heading_title: Why Better UFO Data Matters
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183
-  title: NASA Study | Ifos Causes Of
+  title: NASA Study | ifos causes of UFO 3 ed 238
   permalink: /nasa-study/
   short_title: NASA Study
   heading_title: Why Better UFO Data Matters
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183
-  title: NASA Study | Ifos Causes Of
+  title: NASA Study | ifos causes of UFO 3 ed 238
   permalink: /nasa-study/
   short_title: NASA Study
   heading_title: Why Better UFO Data Matters
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: When the UFO is inside the camera
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183
-  title: NASA Study | Ifos Causes Of
+  title: NASA Study | ifos causes of UFO 3 ed 238
   permalink: /nasa-study/
   short_title: NASA Study
   heading_title: Why Better UFO Data Matters
@@ -266,6 +265,7 @@ next_link:
   permalink: /phone-networks/
   short_title: Phone networks
   heading_title: Could phones make UFO reports scientific?
+date: '2026-06-12 00:21:52 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_missing_uap_metadata_69ee84-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_missing_uap_metadata_69ee84-Illustration-1.webp
@@ -276,9 +276,8 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_missing_u
 
 Many UFO or UAP cases remain unresolved for a simple reason: investigators do not have enough information to test ordinary explanations. A witness may be sincere, a photograph may be genuine, and a video may show something unusual, yet the report can still be impossible to identify if key details were never recorded. NASA's independent UAP study concluded that the biggest obstacle to understanding many sightings is not necessarily the object itself but the lack of high-quality data, calibration information, and metadata surrounding the observation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — Unidentified Anomalous Phenomena (UAP) are one of our planet&#x27;s greatest mys...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_missing_uap_metadata_69ee84-Illustration-1-dark.svg" | relative_url }}" alt="Missing metadata illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_missing_uap_metadata_69ee84-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_missing_uap_metadata_69ee84-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-In the context of identified flying objects (IFOs), metadata is often what transforms a mystery into a solvable case. Without precise timing, location, viewing direction, sensor settings, weather conditions, and other contextual information, investigators cannot reliably compare a sighting against aircraft, [satellites]({{ 'satellites/' | relative_url }}), balloons, [drones]({{ 'drones/' | relative_url }}), astronomical objects, or atmospheric phenomena. As a result, many cases stay in the category of "unidentified" even when a conventional explanation may exist. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — Unidentified Anomalous Phenomena (UAP) are one of our planet&#x27;s greatest mys...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information_for_UAP_Analysis-20240125.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROAbout the PhenomenonAbout the Observer. ▫ Observer&#x27;s date, time, location, and travel path for first and last observation of the UAP...</span></span></span>
+In the context of identified flying objects (IFOs), metadata is often what transforms a mystery into a solvable case. Without precise timing, location, viewing direction, sensor settings, weather conditions, and other contextual information, investigators cannot reliably compare a sighting against aircraft, [satellites]({{ 'satellites/' | relative_url }}), balloons, [drones]({{ 'drones/' | relative_url }}), astronomical objects, or atmospheric phenomena. As a result, many cases stay in the category of "unidentified" even when a conventional explanation may exist. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — Unidentified Anomalous Phenomena (UAP) are one of our planet&#x27;s greatest mys...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information_for_UAP_Analysis-20240125.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">About the PhenomenonAbout the Observer. ▫ Observer&#x27;s date, time, location, and travel path for first and last observation of the UAP...</span></span></span>
 
 ## What metadata means in a UFO report
 
@@ -287,7 +286,7 @@ Metadata is the information about an observation rather than the observation its
 For a UAP investigation, useful metadata commonly includes:
 
 * Exact date and time of the observation.
-* Observer location and movement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/Information_for_UAP_Analysis-20240125.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROAbout the PhenomenonAbout the Observer. ▫ Observer&#x27;s date, time, location, and travel path for first and last observation of the UAP...</span></span></span>
+* Observer location and movement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/Information_for_UAP_Analysis-20240125.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">About the PhenomenonAbout the Observer. ▫ Observer&#x27;s date, time, location, and travel path for first and last observation of the UAP...</span></span></span>
 * Direction of view and elevation angle.
 * Camera or sensor type.
 * Lens settings, zoom level, exposure, and field of view.
@@ -297,7 +296,7 @@ For a UAP investigation, useful metadata commonly includes:
 * Whether [radar]({{ 'radar/' | relative_url }}), [infrared]({{ 'infrared/' | relative_url }}), visual, or other sensors were involved.
 * Original image or video files rather than compressed copies. AARO <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — Unidentified Anomalous Phenomena (UAP) are one of our planet&#x27;s greatest mys...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
-The All-domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})), the US government's UAP investigation office, specifically requests detailed information about observer location, timing, travel path, and sensor data because these details are often essential for later analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/2025_UAP_Workshop_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">2025 UAP Workshop Paper</span><span class="citation-popover-snippet">AARO2025 UAP Workshop: Narrative Data, Infrastructures, and...First, effective progress requires clear standards and common reporting te...</span></span></span>
+The All-domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})), the US government's UAP investigation office, specifically requests detailed information about observer location, timing, travel path, and sensor data because these details are often essential for later analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/2025_UAP_Workshop_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">2025 UAP Workshop Paper</span><span class="citation-popover-snippet">2025 UAP Workshop: Narrative Data, Infrastructures, and...First, effective progress requires clear standards and common reporting te...</span></span></span>
 
 A useful way to think about metadata is that it provides the missing dimensions of a sighting. A bright light in the sky means very little by itself. A bright light observed at a known azimuth and elevation from a known location at a known time can be checked against astronomical databases, aircraft records, satellite passes, and weather information.
 
@@ -309,7 +308,6 @@ One of the biggest problems in UFO investigations is determining how far away an
 
 A witness usually sees only an angle in the sky, not a distance. Without additional measurements, investigators may have no way to tell whether an object was:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * A drone a few hundred metres away.
@@ -320,9 +318,6 @@ A witness usually sees only an angle in the sky, not a distance. Without additio
 </div>
 
 Because size and speed calculations depend on distance, uncertainty in [range]({{ 'range/' | relative_url }}) can create dramatic but misleading impressions. A small nearby object can appear to move extraordinarily fast, while a distant object can seem enormous. NASA's report emphasised that many UAP observations lack the multiple measurements needed to determine basic physical characteristics reliably. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — Unidentified Anomalous Phenomena (UAP) are one of our planet&#x27;s greatest mys...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iAVQOL8g6iQ" title="NASA holds news brief on Unidentified Anomalous Phenomena (UAP) Independent Study Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iAVQOL8g6iQ" target="_blank" rel="noopener noreferrer">NASA holds news brief on Unidentified Anomalous Phenomena (UAP) Independent Study Report</a></p><p class="youtube-embed-meta">Channel: Yahoo Finance</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iAVQOL8g6iQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iAVQOL8g6iQ">Open on YouTube</a></p></div></div></div>
 
 ### Apparent motion can be misread
 
@@ -336,7 +331,7 @@ This means a report that seems to show extraordinary movement may simply lack th
 
 Modern UAP reports increasingly involve cameras, infrared systems, radar, and other sensors. Yet a sensor's output is meaningful only when investigators understand how the instrument was operating.
 
-NASA noted that many UAP observations originate from systems that were not designed for scientific measurement of unidentified objects. Poor calibration, incomplete sensor information, and missing operational details can make ordinary artefacts appear mysterious. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — Unidentified Anomalous Phenomena (UAP) are one of our planet&#x27;s greatest mys...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">update nasa shares uap independent study report names director</span><span class="citation-popover-snippet">NASAUPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through...</span></span></span>
+NASA noted that many UAP observations originate from systems that were not designed for scientific measurement of unidentified objects. Poor calibration, incomplete sensor information, and missing operational details can make ordinary artefacts appear mysterious. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — Unidentified Anomalous Phenomena (UAP) are one of our planet&#x27;s greatest mys...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">update nasa shares uap independent study report names director</span><span class="citation-popover-snippet">UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through...</span></span></span>
 
 For example:
 
@@ -347,14 +342,12 @@ For example:
 
 Without metadata describing the sensor and its settings, investigators may be unable to distinguish a genuine object from an instrument effect.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_missing_uap_metadata_69ee84-Illustration-2-dark.svg" | relative_url }}" alt="Missing metadata illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_missing_uap_metadata_69ee84-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_missing_uap_metadata_69ee84-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Weather explanations cannot be tested
 
 Many reports involve lights, reflections, clouds, atmospheric optics, or weather-related phenomena.
 
 However, weather explanations require weather data. If a report lacks the exact time and location of the sighting, investigators may not be able to reconstruct:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -367,9 +360,6 @@ However, weather explanations require weather data. If a report lacks the exact 
 </div>
 
 A sighting that appears inexplicable may simply lack the contextual information needed to compare it with local environmental conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_UAP_Program_Report_User_Guide-20231211.pdf?ver=dJtqTlbDr3HqkIVDW8MP4Q%3D%3D" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">The reporting form is intended as an initial point of contact...Read more...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/G5R8uq3sPxI" title="US intelligence report on UFOs: No aliens, But Government Transparency and Desire For Better Data" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=G5R8uq3sPxI" target="_blank" rel="noopener noreferrer">US intelligence report on UFOs: No aliens, But Government Transparency and Desire For Better Data</a></p><p class="youtube-embed-meta">Channel: Science And Beyond</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=G5R8uq3sPxI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=G5R8uq3sPxI">Open on YouTube</a></p></div></div></div>
 
 ## Why unresolved does not mean extraordinary
 
@@ -386,7 +376,6 @@ Both may be labelled "unidentified", but they are not equally mysterious. The fi
 
 The category "unresolved" therefore contains a mixture of genuinely puzzling events and reports that simply lack enough evidence for identification.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_missing_uap_metadata_69ee84-Illustration-3-dark.svg" | relative_url }}" alt="Missing metadata illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_missing_uap_metadata_69ee84-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_missing_uap_metadata_69ee84-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A simple example of how metadata solves a case
 
@@ -395,7 +384,6 @@ Imagine a witness reports a bright object moving slowly across the western sky.
 Without metadata, investigators know only that a light was observed.
 
 Now add:
-
 
 <div class="content-enhancement content-enhancement--example" markdown="1">
 
@@ -413,9 +401,6 @@ The unusual appearance has not changed. Only the information surrounding the obs
 
 This is the central mechanism behind many UFO identifications: context often provides the answer.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fDzDREe9iiw" title="Making UFO Data Useful for Scientific Research | Ross A. Davis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fDzDREe9iiw" target="_blank" rel="noopener noreferrer">Making UFO Data Useful for Scientific Research | Ross A. Davis</a></p><p class="youtube-embed-meta">Channel: Society for Scientific Exploration</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fDzDREe9iiw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fDzDREe9iiw">Open on YouTube</a></p></div></div></div>
-
 ## What a stronger sighting record would include
 
 NASA's recommendations and subsequent discussions within the UAP research community have consistently pointed toward more systematic reporting standards. The goal is not to prove unusual claims but to collect information that allows ordinary explanations to be tested properly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — Unidentified Anomalous Phenomena (UAP) are one of our planet&#x27;s greatest mys...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">nasa.govUAP9 Jun 2022 — On September 14, 2023, the NASA Unidentified Anomalous Phenomena Independent Study Team published its final repor...</span><span class="citation-popover-meta">Published: September 14, 2023</span></span></span>
@@ -432,7 +417,7 @@ A stronger sighting record would ideally include:
 * Information about the recording equipment.
 * Weather and environmental data.
 * Multiple observers where possible.
-* Multiple independent sensor types. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">update nasa shares uap independent study report names director</span><span class="citation-popover-snippet">NASAUPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through...</span></span></span>
+* Multiple independent sensor types. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">update nasa shares uap independent study report names director</span><span class="citation-popover-snippet">UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through...</span></span></span>
 * Long enough observation periods to reconstruct motion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeUnidentified Anomalous Phenomena (UAP) means (A) airborne objects that are not immediately identifiable; (B) transmedium objects...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
 
 </div>
@@ -564,15 +549,15 @@ For that reason, many UFO mysteries persist not because investigators have exhau
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-metadata-why-missing-metadata-creates-false-ufo-mysteries-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="missing-metadata-why-missing-metadata-creates-false-ufo-mysteries-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-missing-metadata-creates-false-ufo-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-missing-metadata-creates-false-ufo-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-metadata-why-missing-metadata-creates-false-ufo-mysteries-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="missing-metadata-why-missing-metadata-creates-false-ufo-mysteries-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-missing-metadata-creates-false-ufo-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-missing-metadata-creates-false-ufo-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-metadata-why-missing-metadata-creates-false-ufo-mysteries-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="missing-metadata-why-missing-metadata-creates-false-ufo-mysteries-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-missing-metadata-creates-false-ufo-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-missing-metadata-creates-false-ufo-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-metadata-why-missing-metadata-creates-false-ufo-mysteries-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="missing-metadata-why-missing-metadata-creates-false-ufo-mysteries-ifos-causes-of-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-missing-metadata-creates-false-ufo-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-missing-metadata-creates-false-ufo-mysteries-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -580,15 +565,15 @@ For that reason, many UFO mysteries persist not because investigators have exhau
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-metadata-why-missing-metadata-creates-false-ufo-mysteries-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="missing-metadata-why-missing-metadata-creates-false-ufo-mysteries-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-missing-metadata-creates-false-ufo-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-missing-metadata-creates-false-ufo-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-metadata-why-missing-metadata-creates-false-ufo-mysteries-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="missing-metadata-why-missing-metadata-creates-false-ufo-mysteries-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-missing-metadata-creates-false-ufo-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-missing-metadata-creates-false-ufo-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-metadata-why-missing-metadata-creates-false-ufo-mysteries-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="missing-metadata-why-missing-metadata-creates-false-ufo-mysteries-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-missing-metadata-creates-false-ufo-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-missing-metadata-creates-false-ufo-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-metadata-why-missing-metadata-creates-false-ufo-mysteries-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="missing-metadata-why-missing-metadata-creates-false-ufo-mysteries-ifos-causes-of-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-missing-metadata-creates-false-ufo-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-missing-metadata-creates-false-ufo-mysteries-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -596,15 +581,15 @@ For that reason, many UFO mysteries persist not because investigators have exhau
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-metadata-why-missing-metadata-creates-false-ufo-mysteries-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="missing-metadata-why-missing-metadata-creates-false-ufo-mysteries-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1960s set of three UFO wall art"><img src="{{ '/assets/images/marketplace-covers/be68d6dc5e42b0f085ad.jpg' | relative_url }}" alt="Listing image for Vintage 1960s set of three UFO wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-missing-metadata-creates-false-ufo-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-missing-metadata-creates-false-ufo-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-metadata-why-missing-metadata-creates-false-ufo-mysteries-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="missing-metadata-why-missing-metadata-creates-false-ufo-mysteries-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vintage 1960s set of three UFO wall art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-missing-metadata-creates-false-ufo-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-missing-metadata-creates-false-ufo-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-metadata-why-missing-metadata-creates-false-ufo-mysteries-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="missing-metadata-why-missing-metadata-creates-false-ufo-mysteries-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-missing-metadata-creates-false-ufo-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-missing-metadata-creates-false-ufo-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-metadata-why-missing-metadata-creates-false-ufo-mysteries-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="missing-metadata-why-missing-metadata-creates-false-ufo-mysteries-ifos-causes-of-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-missing-metadata-creates-false-ufo-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-missing-metadata-creates-false-ufo-mysteries-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -612,15 +597,15 @@ For that reason, many UFO mysteries persist not because investigators have exhau
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-metadata-why-missing-metadata-creates-false-ufo-mysteries-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="missing-metadata-why-missing-metadata-creates-false-ufo-mysteries-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-missing-metadata-creates-false-ufo-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-missing-metadata-creates-false-ufo-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-metadata-why-missing-metadata-creates-false-ufo-mysteries-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="missing-metadata-why-missing-metadata-creates-false-ufo-mysteries-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-missing-metadata-creates-false-ufo-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-missing-metadata-creates-false-ufo-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-metadata-why-missing-metadata-creates-false-ufo-mysteries-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="missing-metadata-why-missing-metadata-creates-false-ufo-mysteries-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-missing-metadata-creates-false-ufo-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-missing-metadata-creates-false-ufo-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-metadata-why-missing-metadata-creates-false-ufo-mysteries-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="missing-metadata-why-missing-metadata-creates-false-ufo-mysteries-ifos-causes-of-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-missing-metadata-creates-false-ufo-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-missing-metadata-creates-false-ufo-mysteries-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -628,7 +613,7 @@ For that reason, many UFO mysteries persist not because investigators have exhau
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-metadata-why-missing-metadata-creates-false-ufo-mysteries-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="missing-metadata-why-missing-metadata-creates-false-ufo-mysteries-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-missing-metadata-creates-false-ufo-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-missing-metadata-creates-false-ufo-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -843,55 +828,55 @@ For that reason, many UFO mysteries persist not because investigators have exhau
 
 1. <a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — Unidentified Anomalous Phenomena (UAP) are one of our planet&#x27;s greatest mys...</p></details>
    Published: September 13, 2023  
 
 2. <a id="endnote-2"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: [https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/](https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASAUPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through...</p></details>
+   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/Information_for_UAP_Analysis-20240125.pdf](https://www.aaro.mil/Portals/136/PDFs/Information_for_UAP_Analysis-20240125.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROAbout the PhenomenonAbout the Observer. ▫ Observer&#x27;s date, time, location, and travel path for first and last observation of the UAP...</p></details>
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information_for_UAP_Analysis-20240125.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information_for_UAP_Analysis-20240125.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>About the PhenomenonAbout the Observer. ▫ Observer&#x27;s date, time, location, and travel path for first and last observation of the UAP...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: en.wikisource.org  
    Title: Responses to Statement of Task  
-   Link: [https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task](https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task)  
+   Link: <a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — To date, UAP data often consist of observations initially acquired for oth...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: aaro.mil  
    Title: 2025 UAP Workshop Paper  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/2025_UAP_Workshop_Paper.pdf](https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/2025_UAP_Workshop_Paper.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO2025 UAP Workshop: Narrative Data, Infrastructures, and...First, effective progress requires clear standards and common reporting te...</p></details>
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/2025_UAP_Workshop_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/2025_UAP_Workshop_Paper.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>2025 UAP Workshop: Narrative Data, Infrastructures, and...First, effective progress requires clear standards and common reporting te...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_UAP_Program_Report_User_Guide-20231211.pdf?ver=dJtqTlbDr3HqkIVDW8MP4Q%3D%3D](https://www.aaro.mil/Portals/136/PDFs/AARO_UAP_Program_Report_User_Guide-20231211.pdf?ver=dJtqTlbDr3HqkIVDW8MP4Q%3D%3D)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_UAP_Program_Report_User_Guide-20231211.pdf?ver=dJtqTlbDr3HqkIVDW8MP4Q%3D%3D" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_UAP_Program_Report_User_Guide-20231211.pdf?ver=dJtqTlbDr3HqkIVDW8MP4Q%3D%3D</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The reporting form is intended as an initial point of contact...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeUnidentified Anomalous Phenomena (UAP) means (A) airborne objects that are not immediately identifiable; (B) transmedium objects...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Submit-A-Report/](https://www.aaro.mil/Submit-A-Report/)  
+   Link: <a href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Submit-A-Report/</a>  
 
 9. <a id="endnote-9"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/FAQ/](https://www.aaro.mil/FAQ/)  
+   Link: <a href="https://www.aaro.mil/FAQ/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/FAQ/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO FAQAARO will announce when a reporting mechanism is available to the public. What are the leading explanations to account for UAP re...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — On September 14, 2023, the NASA Unidentified Anomalous Phenomena Independent Study Team published its final repor...</p></details>
    Published: September 14, 2023  
 
@@ -900,55 +885,55 @@ For that reason, many UFO mysteries persist not because investigators have exhau
 11. <a id="endnote-11"></a>
    Source: war.gov  
    Title: dr jon kosloski director aaro media roundtable on the fy24 consolidated annual  
-   Link: [https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/](https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/)  
+   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDr. Jon Kosloski, Director, AARO, Media Roundtable on the...14 Nov 2024 — AARO has taken meaningful steps to improve da...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/](https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/)  
+   Link: <a href="https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...The report contains the external study team&#x27;s findings and recommendations which aim to i...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/AstroAlexandraOfficial/posts/nasa-uap-ufo-report-released-today-offers-a-few-answers-but-doesnt-find-or-rule-/319484690604324/](https://www.facebook.com/AstroAlexandraOfficial/posts/nasa-uap-ufo-report-released-today-offers-a-few-answers-but-doesnt-find-or-rule-/319484690604324/)  
+   Link: <a href="https://www.facebook.com/AstroAlexandraOfficial/posts/nasa-uap-ufo-report-released-today-offers-a-few-answers-but-doesnt-find-or-rule-/319484690604324/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AstroAlexandraOfficial/posts/nasa-uap-ufo-report-released-today-offers-a-few-answers-but-doesnt-find-or-rule-/319484690604324/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UAP (UFO) report released today offers a few...The report acknowledges that analyzing UAP data faces challenges due to sensor calib...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: thedebrief.org  
-   Link: [https://thedebrief.org/all-domain-anomaly-resolution-office-hosts-private-workshop-with-civilian-researchers-universities-and-government-agencies/](https://thedebrief.org/all-domain-anomaly-resolution-office-hosts-private-workshop-with-civilian-researchers-universities-and-government-agencies/)  
+   Link: <a href="https://thedebrief.org/all-domain-anomaly-resolution-office-hosts-private-workshop-with-civilian-researchers-universities-and-government-agencies/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/all-domain-anomaly-resolution-office-hosts-private-workshop-with-civilian-researchers-universities-and-government-agencies/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution Office Hosts Private...26 Feb 2026 — A recent AARO report outlines new standards for data collection, AI u...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: ralphbuncheinstitute.org  
    Title: nasa unidentified anomalous phenomena independent study team report  
-   Link: [https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/](https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/)  
+   Link: <a href="https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/" target="_blank" rel="noopener noreferrer nofollow">https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Figuring out the truth behind Unidentified Anomalous Phenomena (UAPs) takes more than speculation, it requires hard science.Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: Wikipedia  
    Title: NASA Unidentified Anomalous Phenomena Independent Study Team  
-   Link: [https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team](https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team)  
+   Link: <a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Unidentified Anomalous Phenomena Independent...UAPs are defined as phenomena or observations of events in the air, sea, space, a...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: nevadacurrent.com  
    Title: nasa report finds no evidence that ufos are extraterrestrial  
-   Link: [https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/](https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/)  
+   Link: <a href="https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow">https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP data considered by the study team comes from U.S. military aircraft. Analysis of this data is “hampered by poor sensor calibration, t...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: leonarddavid.com  
    Title: nasa report released unidentified anomalous phenomena uap  
-   Link: [https://www.leonarddavid.com/nasa-report-released-unidentified-anomalous-phenomena-uap/](https://www.leonarddavid.com/nasa-report-released-unidentified-anomalous-phenomena-uap/)  
+   Link: <a href="https://www.leonarddavid.com/nasa-report-released-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/nasa-report-released-unidentified-anomalous-phenomena-uap/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena (UAP) – UPDATED14 Sept 2023 — NASA has released its Unidentified Anomalous Phenomena (UAP) report comple...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: science.org  
-   Link: [https://www.science.org/content/article/nasa-ufo-team-calls-higher-quality-data-first-public-meeting](https://www.science.org/content/article/nasa-ufo-team-calls-higher-quality-data-first-public-meeting)  
+   Link: <a href="https://www.science.org/content/article/nasa-ufo-team-calls-higher-quality-data-first-public-meeting" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/article/nasa-ufo-team-calls-higher-quality-data-first-public-meeting</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO team calls for higher quality data in first public...31 May 2023 — “Getting new data of high quality, where you calibrate the i...</p></details>
    Published: May 2023  
 
 20. <a id="endnote-20"></a>
    Source: rev.com  
-   Link: [https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript](https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript)  
+   Link: <a href="https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>s phenomena, and we did so with a few goals in mind: first, to...Read more...</p></details>

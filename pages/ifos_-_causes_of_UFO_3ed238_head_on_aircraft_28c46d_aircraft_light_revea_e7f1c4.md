@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_delayed_aircraft_sou_3c6540
 - ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_landing_lights_final_d358b9
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - head-on-planes
 - light-reveal
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - head-on-planes
 - light-reveal
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: A mysterious white light often becomes identifiable when the viewing angle exposes wingtip, tail, strobe, or anti-collision lights.
 hero_summary: A mysterious white light often becomes identifiable when the viewing angle exposes wingtip, tail, strobe, or anti-collision lights.
 layout: default
 permalink: /light-reveal/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /a-head-on-aircraft-can-look-like-a/
 nav_short_title: Light reveal
 title: When a white orb turns into an aircraft
-title_full: When a white orb turns into an aircraft | A Head On Aircraft Can Look Like A Stationary Light...
+title_full: When a white orb turns into an aircraft
 display_title_short: Light reveal
 display_title: Light reveal
 heading_title: When a white orb turns into an aircraft
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 21:41:16'
-parent_title: The Stationary Light That Is Moving | IFOs
+parent_title: The Stationary Light That Is Moving
 parent_permalink: /a-head-on-aircraft-can-look-like-a/
 parent_nav_short_title: A Head On Aircraft Can Look Like A Stationary Light...
 parent_heading_title: The Stationary Light That Is Moving
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d
-  title: A Head On Aircraft Can Look Like A Stationary Light... | Ifos Causes Of
+  title: A Head On Aircraft Can Look Like A Stationary Light... | ifos causes of UFO 3 ed 238
   permalink: /a-head-on-aircraft-can-look-like-a/
   short_title: A Head On Aircraft Can Look Like A Stationary Light...
   heading_title: The Stationary Light That Is Moving
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d
-  title: A Head On Aircraft Can Look Like A Stationary Light... | Ifos Causes Of
+  title: A Head On Aircraft Can Look Like A Stationary Light... | ifos causes of UFO 3 ed 238
   permalink: /a-head-on-aircraft-can-look-like-a/
   short_title: A Head On Aircraft Can Look Like A Stationary Light...
   heading_title: The Stationary Light That Is Moving
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: Why landing lights can look like hovering UFOs
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d
-  title: A Head On Aircraft Can Look Like A Stationary Light... | Ifos Causes Of
+  title: A Head On Aircraft Can Look Like A Stationary Light... | ifos causes of UFO 3 ed 238
   permalink: /a-head-on-aircraft-can-look-like-a/
   short_title: A Head On Aircraft Can Look Like A Stationary Light...
   heading_title: The Stationary Light That Is Moving
@@ -260,6 +259,7 @@ prev_link:
   permalink: /landing-lights/
   short_title: Landing lights
   heading_title: Why landing lights can look like hovering UFOs
+date: '2026-06-12 00:36:47 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_aircraft_light_revea_e7f1c4-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_aircraft_light_revea_e7f1c4-Illustration-1.webp
@@ -270,10 +270,8 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_aircra
 
 Many reports of a mysterious “white orb” in the night sky reach a turning point when additional lights suddenly become visible. What first appeared to be a single hovering object reveals a familiar aviation pattern: a red light on one side, a green light on the other, and one or more white lights. For observers investigating possible UFO sightings, this moment is often the strongest clue that the object is an ordinary aircraft rather than an unknown phenomenon.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_aircraft_light_revea_e7f1c4-Illustration-1-dark.svg" | relative_url }}" alt="Light reveal illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_aircraft_light_revea_e7f1c4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_aircraft_light_revea_e7f1c4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Aircraft lighting is designed to communicate orientation and direction. Yet when an aeroplane is approaching nearly head-on, those directional cues can be hidden by the glare of bright [landing lights]({{ 'landing-lights/' | relative_url }}). Only when the viewing angle changes does the full lighting arrangement emerge, transforming an apparently anomalous white light into an identifiable aircraft. Aircraft navigation lights are internationally standardised, with red on the left side, green on the right side, and white to the rear, specifically so observers can determine an aircraft’s orientation at night. <span class="citation-chip-wrap"><a class="citation-chip" href="https://regulatorylibrary.caa.co.uk/923-2012/Content/Regs/00880_SERA3215_Lights_to_be_displayed_by_aircraft.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: regulatorylibrary.caa.co.uk">[Regulatory Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">regulatorylibrary.caa.co.uk</span><span class="citation-popover-title">00880 SERA3215 Lights to be displayed by aircraft</span><span class="citation-popover-snippet">Regulatory LibrarySERA.3215 Lights to be displayed by aircraftAll aircraft in flight shall display: (1) anti-collision lights intended to...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.law.cornell.edu/cfr/text/14/25.1385" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law.cornell.edu">[Legal Information Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law.cornell.edu</span><span class="citation-popover-snippet">Legal Information Institute14 CFR § 25.1385 - Position light system installation.Forward position lights must consist of a red and a gree...</span></span></span>
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_aircraft_light_revea_e7f1c4-Illustration-3-dark.svg" | relative_url }}" alt="Light reveal illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_aircraft_light_revea_e7f1c4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_aircraft_light_revea_e7f1c4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What position lights reveal about direction
@@ -290,7 +288,6 @@ For someone watching from the ground:
 * **Mostly white visible** often indicates the aircraft is moving away. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wiki.ivao.aero/en/home/training/documentation/Aeroplane_lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wiki.ivao.aero">[ivao]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wiki.ivao.aero</span><span class="citation-popover-snippet">IVAO Documentation LibraryAeroplane lightsIf a white and a red light are seen, this aircraft fly away from right to left: collision is po...</span></span></span> Documentation Library LinkedIn This explains why a head-on aircraft can initially appear as a single brilliant white object. The forward-facing landing lights dominate the <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.linkedin.com/posts/dviationgroup_why-do-airplanes-have-red-and-green-lights-activity-7328992615448694784-G-tl" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[linkedin.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">What do red and green lights on airplanes mean?They&#x27;re nav lights. The red light sits on the left (port) wingtip. The green light marks t...</span></span></span> view, while the coloured position lights remain difficult to see because of distance, glare, atmospheric haze, or the geometry of the encounter. Only after the aircraft turns slightly, banks, or passes across the observer’s field of view do the coloured lights separate visually from the bright central glow. Federal Aviation Administration <span class="citation-chip-wrap"><a class="citation-chip" href="https://pilotinstitute.com/airplane-lights/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pilotinstitute.com">[Pilot Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pilotinstitute.com</span><span class="citation-popover-snippet">Pilot InstituteAirplane Lights: What Each Light Does (Red/Green, Strobe...26 Dec 2024 — The right wingtip contains the green light, wit...</span></span></span>
 
 In many UFO reports, witnesses describe exactly this sequence: a solitary bright light that later “sprouts” red and green lights. From an identification perspective, that transition is often more significant than the initial sighting itself because it reveals the object’s orientation in a way that a single white light cannot.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7carMw8ndvM" title="STRANGE LIGHTS IN THE SKY | Pilots UFO Report at High Altitude" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7carMw8ndvM" target="_blank" rel="noopener noreferrer">STRANGE LIGHTS IN THE SKY | Pilots UFO Report at High Altitude</a></p><p class="youtube-embed-meta">Channel: VASAviation - &middot; Views: 44.4K &middot; Uploaded: February 2024 &middot; Length: 4 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7carMw8ndvM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7carMw8ndvM">Open on YouTube</a></p></div></div></div>
 
@@ -309,9 +306,7 @@ From long distances, however, strobes rarely look like they do in close-up photo
 
 This is one reason aviation investigators often pay close attention when a report includes periodic flashing behaviour. The pattern does not automatically identify an aircraft, but it is a recognised clue that conventional aviation lighting may be involved.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0M1J9qQX1TQ" title="Aircraft lights | They&#x27;re not UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0M1J9qQX1TQ" target="_blank" rel="noopener noreferrer">Aircraft lights | They&#x27;re not UFOs</a></p><p class="youtube-embed-meta">Channel: flight-club &middot; Views: 99.1K &middot; Uploaded: February 2020 &middot; Length: 3 minutes 28 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0M1J9qQX1TQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0M1J9qQX1TQ">Open on YouTube</a></p></div></div></div>
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_aircraft_light_revea_e7f1c4-Illustration-2-dark.svg" | relative_url }}" alt="Light reveal illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_aircraft_light_revea_e7f1c4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_aircraft_light_revea_e7f1c4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How changing angle transforms the report
@@ -326,9 +321,7 @@ Observers frequently describe this transition as a sudden revelation rather than
 
 For UFO investigators and careful observers alike, this lighting reveal is one of the most valuable identification clues available. A distant white light can be ambiguous. A red-green-white pattern, by contrast, carries directional information that was deliberately designed into aircraft lighting systems for exactly that purpose. When those colours emerge, they often provide the missing piece that converts a puzzling night-time light into a conventional aviation explanation.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3yfEYmyH-Ro" title="Aircraft Lights: Red and Green Airplane Light Meaning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3yfEYmyH-Ro" target="_blank" rel="noopener noreferrer">Aircraft Lights: Red and Green Airplane Light Meaning</a></p><p class="youtube-embed-meta">Channel: Pilot Institute Airplanes &middot; Views: 92.7K &middot; Uploaded: May 2021 &middot; Length: 4 minutes 59 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3yfEYmyH-Ro" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3yfEYmyH-Ro">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -447,15 +440,15 @@ For UFO investigators and careful observers alike, this lighting reveal is one o
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-reveal-when-a-white-orb-turns-into-an-aircraft-ifos-causes-of-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="light-reveal-when-a-white-orb-turns-into-an-aircraft-ifos-causes-of-telescope-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Telescope accessory bracket for finderscopes, red dot finder etc. 2 hole"><img src="{{ '/assets/images/marketplace-covers/45ccd233aec2ae769a02.jpg' | relative_url }}" alt="Listing image for Telescope accessory bracket for finderscopes, red dot finder etc. 2 hole" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-white-orb-turns-into-an-aircraft-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="when-a-white-orb-turns-into-an-aircraft-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NEW 16cm British Airways Concorde Die Cast Metal Aircraft Plane Model UK SELLER"><img src="https://i.ebayimg.com/images/g/wvkAAOSwwBdmhELe/s-l225.jpg" alt="Listing image for NEW 16cm British Airways Concorde Die Cast Metal Aircraft Plane Model UK SELLER" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-reveal-when-a-white-orb-turns-into-an-aircraft-ifos-causes-of-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="light-reveal-when-a-white-orb-turns-into-an-aircraft-ifos-causes-of-telescope-accessory" target="_blank" rel="sponsored noopener noreferrer">Telescope accessory bracket for finderscopes, red dot finder etc. 2 hole</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-white-orb-turns-into-an-aircraft-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="when-a-white-orb-turns-into-an-aircraft-airplane-model" target="_blank" rel="sponsored noopener noreferrer">NEW 16cm British Airways Concorde Die Cast Metal Aircraft Plane Model UK SELLER</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-reveal-when-a-white-orb-turns-into-an-aircraft-ifos-causes-of-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="light-reveal-when-a-white-orb-turns-into-an-aircraft-ifos-causes-of-telescope-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for telescope accessory">Search <span data-ebay-domain-label>eBay.co.uk</span>: telescope accessory</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-white-orb-turns-into-an-aircraft-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="when-a-white-orb-turns-into-an-aircraft-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-reveal-when-a-white-orb-turns-into-an-aircraft-ifos-causes-of-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="light-reveal-when-a-white-orb-turns-into-an-aircraft-ifos-causes-of-telescope-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-white-orb-turns-into-an-aircraft-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="when-a-white-orb-turns-into-an-aircraft-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -463,15 +456,15 @@ For UFO investigators and careful observers alike, this lighting reveal is one o
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-reveal-when-a-white-orb-turns-into-an-aircraft-ifos-causes-of-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="light-reveal-when-a-white-orb-turns-into-an-aircraft-ifos-causes-of-telescope-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Telescope Accessory Lot Celestron 2x Barlow Orbinar PL4mm Illuminated Reticle EP"><img src="{{ '/assets/images/marketplace-covers/d058e6a83e7e59635662.jpg' | relative_url }}" alt="Listing image for Telescope Accessory Lot Celestron 2x Barlow Orbinar PL4mm Illuminated Reticle EP" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-white-orb-turns-into-an-aircraft-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="when-a-white-orb-turns-into-an-aircraft-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 16CM Concorde British Airways Metal Die Cast Plane Model Aircraft Toy Aeroplane"><img src="https://i.ebayimg.com/images/g/aREAAeSw-tZqKYIQ/s-l225.jpg" alt="Listing image for 16CM Concorde British Airways Metal Die Cast Plane Model Aircraft Toy Aeroplane" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-reveal-when-a-white-orb-turns-into-an-aircraft-ifos-causes-of-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="light-reveal-when-a-white-orb-turns-into-an-aircraft-ifos-causes-of-telescope-accessory" target="_blank" rel="sponsored noopener noreferrer">Telescope Accessory Lot Celestron 2x Barlow Orbinar PL4mm Illuminated Reticle EP</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-white-orb-turns-into-an-aircraft-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="when-a-white-orb-turns-into-an-aircraft-airplane-model" target="_blank" rel="sponsored noopener noreferrer">16CM Concorde British Airways Metal Die Cast Plane Model Aircraft Toy Aeroplane</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-reveal-when-a-white-orb-turns-into-an-aircraft-ifos-causes-of-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="light-reveal-when-a-white-orb-turns-into-an-aircraft-ifos-causes-of-telescope-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for telescope accessory">Search <span data-ebay-domain-label>eBay.co.uk</span>: telescope accessory</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-white-orb-turns-into-an-aircraft-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="when-a-white-orb-turns-into-an-aircraft-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-reveal-when-a-white-orb-turns-into-an-aircraft-ifos-causes-of-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="light-reveal-when-a-white-orb-turns-into-an-aircraft-ifos-causes-of-telescope-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-white-orb-turns-into-an-aircraft-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="when-a-white-orb-turns-into-an-aircraft-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -479,15 +472,15 @@ For UFO investigators and careful observers alike, this lighting reveal is one o
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-reveal-when-a-white-orb-turns-into-an-aircraft-ifos-causes-of-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="light-reveal-when-a-white-orb-turns-into-an-aircraft-ifos-causes-of-telescope-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Astronomical Telescope Case Heavy Duty Telescope Bag for Telescope Accessory"><img src="{{ '/assets/images/marketplace-covers/5dc3940b51aa5f8517f2.jpg' | relative_url }}" alt="Listing image for Astronomical Telescope Case Heavy Duty Telescope Bag for Telescope Accessory" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-white-orb-turns-into-an-aircraft-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="when-a-white-orb-turns-into-an-aircraft-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Airbus A380 Emirates Model Plane 18in LED Light Touch Sound Control Aircraft"><img src="https://i.ebayimg.com/images/g/ofMAAeSwJe1psX3h/s-l225.jpg" alt="Listing image for Airbus A380 Emirates Model Plane 18in LED Light Touch Sound Control Aircraft" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-reveal-when-a-white-orb-turns-into-an-aircraft-ifos-causes-of-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="light-reveal-when-a-white-orb-turns-into-an-aircraft-ifos-causes-of-telescope-accessory" target="_blank" rel="sponsored noopener noreferrer">Astronomical Telescope Case Heavy Duty Telescope Bag for Telescope Accessory</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-white-orb-turns-into-an-aircraft-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="when-a-white-orb-turns-into-an-aircraft-airplane-model" target="_blank" rel="sponsored noopener noreferrer">Airbus A380 Emirates Model Plane 18in LED Light Touch Sound Control Aircraft</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-reveal-when-a-white-orb-turns-into-an-aircraft-ifos-causes-of-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="light-reveal-when-a-white-orb-turns-into-an-aircraft-ifos-causes-of-telescope-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for telescope accessory">Search <span data-ebay-domain-label>eBay.co.uk</span>: telescope accessory</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-white-orb-turns-into-an-aircraft-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="when-a-white-orb-turns-into-an-aircraft-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-reveal-when-a-white-orb-turns-into-an-aircraft-ifos-causes-of-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="light-reveal-when-a-white-orb-turns-into-an-aircraft-ifos-causes-of-telescope-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-white-orb-turns-into-an-aircraft-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="when-a-white-orb-turns-into-an-aircraft-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -495,15 +488,15 @@ For UFO investigators and careful observers alike, this lighting reveal is one o
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-reveal-when-a-white-orb-turns-into-an-aircraft-ifos-causes-of-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="light-reveal-when-a-white-orb-turns-into-an-aircraft-ifos-causes-of-telescope-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Celestron StarSense Autoalign Telescope Alignment Accessory #94005"><img src="{{ '/assets/images/marketplace-covers/b69feaad9beeb975a2b5.jpg' | relative_url }}" alt="Listing image for Celestron StarSense Autoalign Telescope Alignment Accessory #94005" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-white-orb-turns-into-an-aircraft-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="when-a-white-orb-turns-into-an-aircraft-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ryanair Boeing 737 Single Die Cast Toy Plane - RT0011"><img src="https://i.ebayimg.com/images/g/lbAAAOSwEH5nc7Cg/s-l225.jpg" alt="Listing image for Ryanair Boeing 737 Single Die Cast Toy Plane - RT0011" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-reveal-when-a-white-orb-turns-into-an-aircraft-ifos-causes-of-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="light-reveal-when-a-white-orb-turns-into-an-aircraft-ifos-causes-of-telescope-accessory" target="_blank" rel="sponsored noopener noreferrer">Celestron StarSense Autoalign Telescope Alignment Accessory #94005</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-white-orb-turns-into-an-aircraft-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="when-a-white-orb-turns-into-an-aircraft-airplane-model" target="_blank" rel="sponsored noopener noreferrer">Ryanair Boeing 737 Single Die Cast Toy Plane - RT0011</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-reveal-when-a-white-orb-turns-into-an-aircraft-ifos-causes-of-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="light-reveal-when-a-white-orb-turns-into-an-aircraft-ifos-causes-of-telescope-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for telescope accessory">Search <span data-ebay-domain-label>eBay.co.uk</span>: telescope accessory</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-white-orb-turns-into-an-aircraft-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="when-a-white-orb-turns-into-an-aircraft-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-reveal-when-a-white-orb-turns-into-an-aircraft-ifos-causes-of-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="light-reveal-when-a-white-orb-turns-into-an-aircraft-ifos-causes-of-telescope-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-white-orb-turns-into-an-aircraft-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="when-a-white-orb-turns-into-an-aircraft-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -511,7 +504,7 @@ For UFO investigators and careful observers alike, this lighting reveal is one o
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-reveal-when-a-white-orb-turns-into-an-aircraft-ifos-causes-of-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="light-reveal-when-a-white-orb-turns-into-an-aircraft-ifos-causes-of-telescope-accessory" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-white-orb-turns-into-an-aircraft-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="when-a-white-orb-turns-into-an-aircraft-airplane-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -726,113 +719,113 @@ For UFO investigators and careful observers alike, this lighting reveal is one o
 
 1. <a id="endnote-1"></a>
    Source: wiki.ivao.aero  
-   Link: [https://wiki.ivao.aero/en/home/training/documentation/Aeroplane_lights](https://wiki.ivao.aero/en/home/training/documentation/Aeroplane_lights)  
+   Link: <a href="https://wiki.ivao.aero/en/home/training/documentation/Aeroplane_lights" target="_blank" rel="noopener noreferrer nofollow">https://wiki.ivao.aero/en/home/training/documentation/Aeroplane_lights</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>IVAO Documentation LibraryAeroplane lightsIf a white and a red light are seen, this aircraft fly away from right to left: collision is po...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/dviationgroup_why-do-airplanes-have-red-and-green-lights-activity-7328992615448694784-G-tl](https://www.linkedin.com/posts/dviationgroup_why-do-airplanes-have-red-and-green-lights-activity-7328992615448694784-G-tl)  
+   Link: <a href="https://www.linkedin.com/posts/dviationgroup_why-do-airplanes-have-red-and-green-lights-activity-7328992615448694784-G-tl" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/dviationgroup_why-do-airplanes-have-red-and-green-lights-activity-7328992615448694784-G-tl</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>What do red and green lights on airplanes mean?They&#x27;re [nav lights](&amp;#123;&amp;#123; &#x27;nav-lights/&#x27; | relative_url &amp;#125;&amp;#125;). The red light sits on the left (port) wingtip. The green light marks t...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: migflug.com  
    Title: red green white flash what every light on a plane means  
-   Link: [https://migflug.com/jetflights/red-green-white-flash-what-every-light-on-a-plane-means/](https://migflug.com/jetflights/red-green-white-flash-what-every-light-on-a-plane-means/)  
+   Link: <a href="https://migflug.com/jetflights/red-green-white-flash-what-every-light-on-a-plane-means/" target="_blank" rel="noopener noreferrer nofollow">https://migflug.com/jetflights/red-green-white-flash-what-every-light-on-a-plane-means/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Red, Green, White, Flash: What Every Light on a Plane...Apr 8, 2026 — Anti-Collision Lights, Red rotating beacon (top and bottom of fuse...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/koenkarsbergen_aviation-airlines-avgeek-activity-7389654909127770112-3DJg](https://www.linkedin.com/posts/koenkarsbergen_aviation-airlines-avgeek-activity-7389654909127770112-3DJg)  
+   Link: <a href="https://www.linkedin.com/posts/koenkarsbergen_aviation-airlines-avgeek-activity-7389654909127770112-3DJg" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/koenkarsbergen_aviation-airlines-avgeek-activity-7389654909127770112-3DJg</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>collision avoidance systems borrowed from maritime tradition...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/sumon-sarkar-54baa433_why-are-there-red-and-green-lights-on-aircraft-activity-7413352546263597056-4IMj](https://www.linkedin.com/posts/sumon-sarkar-54baa433_why-are-there-red-and-green-lights-on-aircraft-activity-7413352546263597056-4IMj)  
+   Link: <a href="https://www.linkedin.com/posts/sumon-sarkar-54baa433_why-are-there-red-and-green-lights-on-aircraft-activity-7413352546263597056-4IMj" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/sumon-sarkar-54baa433_why-are-there-red-and-green-lights-on-aircraft-activity-7413352546263597056-4IMj</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft Navigation Lights: Red, Green, and WhiteRed Light (Left Wing): Shows the aircraft&#x27;s left side. • Green Light (Right Wing): Indic...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/sumon-sarkar-54baa433_how-navigation-lights-work-red-and-green-activity-7413354282868998145-jKQa](https://www.linkedin.com/posts/sumon-sarkar-54baa433_how-navigation-lights-work-red-and-green-activity-7413354282868998145-jKQa)  
+   Link: <a href="https://www.linkedin.com/posts/sumon-sarkar-54baa433_how-navigation-lights-work-red-and-green-activity-7413354282868998145-jKQa" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/sumon-sarkar-54baa433_how-navigation-lights-work-red-and-green-activity-7413354282868998145-jKQa</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft Navigation Lights: Red, Green, WhiteGreen Light (Right Wing): Shows the aircraft&#x27;s right (starboard) side. White Light (Tail): I...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/sumon-sarkar-54baa433_at-night-airplanes-are-equipped-with-navigation-activity-7350468518938562563-OWji](https://www.linkedin.com/posts/sumon-sarkar-54baa433_at-night-airplanes-are-equipped-with-navigation-activity-7350468518938562563-OWji)  
+   Link: <a href="https://www.linkedin.com/posts/sumon-sarkar-54baa433_at-night-airplanes-are-equipped-with-navigation-activity-7350468518938562563-OWji" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/sumon-sarkar-54baa433_at-night-airplanes-are-equipped-with-navigation-activity-7350468518938562563-OWji</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Airplane Navigation Lights: How to Read ThemNavigation (Nav) Lights – Green on right wing, red on left wing, white at the tail; show posi...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: regulatorylibrary.caa.co.uk  
    Title: 00880 SERA3215 Lights to be displayed by aircraft  
-   Link: [https://regulatorylibrary.caa.co.uk/923-2012/Content/Regs/00880_SERA3215_Lights_to_be_displayed_by_aircraft.htm](https://regulatorylibrary.caa.co.uk/923-2012/Content/Regs/00880_SERA3215_Lights_to_be_displayed_by_aircraft.htm)  
+   Link: <a href="https://regulatorylibrary.caa.co.uk/923-2012/Content/Regs/00880_SERA3215_Lights_to_be_displayed_by_aircraft.htm" target="_blank" rel="noopener noreferrer nofollow">https://regulatorylibrary.caa.co.uk/923-2012/Content/Regs/00880_SERA3215_Lights_to_be_displayed_by_aircraft.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Regulatory LibrarySERA.3215 Lights to be displayed by aircraftAll aircraft in flight shall display: (1) anti-collision lights intended to...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: law.cornell.edu  
-   Link: [https://www.law.cornell.edu/cfr/text/14/25.1385](https://www.law.cornell.edu/cfr/text/14/25.1385)  
+   Link: <a href="https://www.law.cornell.edu/cfr/text/14/25.1385" target="_blank" rel="noopener noreferrer nofollow">https://www.law.cornell.edu/cfr/text/14/25.1385</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Legal Information Institute14 CFR § 25.1385 - Position light system installation.Forward position lights must consist of a red and a gree...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pilotinstitute.com  
-   Link: [https://pilotinstitute.com/airplane-lights/](https://pilotinstitute.com/airplane-lights/)  
+   Link: <a href="https://pilotinstitute.com/airplane-lights/" target="_blank" rel="noopener noreferrer nofollow">https://pilotinstitute.com/airplane-lights/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pilot InstituteAirplane Lights: What Each Light Does (Red/Green, Strobe...26 Dec 2024 — The right wingtip contains the green light, wit...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: cfinotebook.net  
-   Link: [https://www.cfinotebook.net/notebook/operation-of-aircraft-systems/aircraft-lighting](https://www.cfinotebook.net/notebook/operation-of-aircraft-systems/aircraft-lighting)  
+   Link: <a href="https://www.cfinotebook.net/notebook/operation-of-aircraft-systems/aircraft-lighting" target="_blank" rel="noopener noreferrer nofollow">https://www.cfinotebook.net/notebook/operation-of-aircraft-systems/aircraft-lighting</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CFI NotebookAircraft LightingAn aircraft anti-collision light system can use one or more rotating beacons and strobe lights and be colore...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: aviationhunt.com  
    Title: aircraft navigation lights  
-   Link: [https://www.aviationhunt.com/aircraft-navigation-lights/](https://www.aviationhunt.com/aircraft-navigation-lights/)  
+   Link: <a href="https://www.aviationhunt.com/aircraft-navigation-lights/" target="_blank" rel="noopener noreferrer nofollow">https://www.aviationhunt.com/aircraft-navigation-lights/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>21 Nov 2024 — The red and green lights indicate the aircraft&#x27;s lateral orientation, helping identify its direction. · The white tail ligh...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
 14. <a id="endnote-14"></a>
    Source: flywat.com  
-   Link: [https://flywat.com/pages/aircraft-lighting-regulations](https://flywat.com/pages/aircraft-lighting-regulations)  
+   Link: <a href="https://flywat.com/pages/aircraft-lighting-regulations" target="_blank" rel="noopener noreferrer nofollow">https://flywat.com/pages/aircraft-lighting-regulations</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft Lighting RegulationsThe position lights consist of an Aviation Red on the left side, an Aviation Green on the right and an Aviat...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Glitch_in_the_Matrix/comments/asnym7/i_saw_a_plane_in_the_sky_that_wasnt_moving/](https://www.reddit.com/r/Glitch_in_the_Matrix/comments/asnym7/i_saw_a_plane_in_the_sky_that_wasnt_moving/)  
+   Link: <a href="https://www.reddit.com/r/Glitch_in_the_Matrix/comments/asnym7/i_saw_a_plane_in_the_sky_that_wasnt_moving/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Glitch_in_the_Matrix/comments/asnym7/i_saw_a_plane_in_the_sky_that_wasnt_moving/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I Saw a Plane in the Sky That Wasn&#x27;t MovingMy only theory is that friendly UFO&#x27;s or aliens are able to stop plane crashes by “freezing” p...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: sky-lens.com  
-   Link: [https://sky-lens.com/guide](https://sky-lens.com/guide)  
+   Link: <a href="https://sky-lens.com/guide" target="_blank" rel="noopener noreferrer nofollow">https://sky-lens.com/guide</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Night Sky Observer&#x27;s Field GuideExpectation Bias &amp; Anchoring. Once an observer hypothesises what an object is (e.g. &quot;drone&quot; or &quot;UFO&quot;), al...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: examograms.com  
-   Link: [https://www.examograms.com/VFR-Gram03/default.htm](https://www.examograms.com/VFR-Gram03/default.htm)  
+   Link: <a href="https://www.examograms.com/VFR-Gram03/default.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.examograms.com/VFR-Gram03/default.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FAA Exam-O-GramsRemember: the navigation/position lights are required for night operation; sunset to sunrise. The anticollision light is...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: icao.int  
-   Link: [https://www.icao.int/](https://www.icao.int/)  
+   Link: <a href="https://www.icao.int/" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/</a>  
 
 19. <a id="endnote-19"></a>
    Source: paclights.com  
-   Link: [https://www.paclights.com/learning-center/ufo-lights-lighting-explained/](https://www.paclights.com/learning-center/ufo-lights-lighting-explained/)  
+   Link: <a href="https://www.paclights.com/learning-center/ufo-lights-lighting-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.paclights.com/learning-center/ufo-lights-lighting-explained/</a>  
 
 20. <a id="endnote-20"></a>
    Source: revonlighting.com  
    Title: Aircraft Navigation Lights Essential Guide to Visibility and Safety in Aviation  
-   Link: [https://www.revonlighting.com/n/Aircraft-Navigation-Lights--Essential-Guide-to-Visibility-and-Safety-in-Aviation/512](https://www.revonlighting.com/n/Aircraft-Navigation-Lights--Essential-Guide-to-Visibility-and-Safety-in-Aviation/512)  
+   Link: <a href="https://www.revonlighting.com/n/Aircraft-Navigation-Lights--Essential-Guide-to-Visibility-and-Safety-in-Aviation/512" target="_blank" rel="noopener noreferrer nofollow">https://www.revonlighting.com/n/Aircraft-Navigation-Lights--Essential-Guide-to-Visibility-and-Safety-in-Aviation/512</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft Navigation Lights: Essential Guide to Visibility and...Apr 21, 2025 — White Light (Tail): Positioned at the rear, the white lig...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: aerosavvy.com  
-   Link: [https://aerosavvy.com/airplane-lights/](https://aerosavvy.com/airplane-lights/)  
+   Link: <a href="https://aerosavvy.com/airplane-lights/" target="_blank" rel="noopener noreferrer nofollow">https://aerosavvy.com/airplane-lights/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Red ○ is always on the left wing, green ○ on the right. White position lights are mounted on wingtips...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=3yfEYmyH-Ro](https://www.youtube.com/watch?v=3yfEYmyH-Ro)  
+   Link: <a href="https://www.youtube.com/watch?v=3yfEYmyH-Ro" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3yfEYmyH-Ro</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[Aircraft Lights](&amp;#123;&amp;#123; &#x27;aircraft-lights/&#x27; | relative_url &amp;#125;&amp;#125;): Red and Green Airplane Light MeaningEach light serves a purpose and they are either red, green, or white.... It is a wh...</p></details>

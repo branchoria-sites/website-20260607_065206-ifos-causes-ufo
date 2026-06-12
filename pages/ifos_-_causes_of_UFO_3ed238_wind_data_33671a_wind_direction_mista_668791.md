@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_wind_data_33671a_trajectory_model_tes_2a4d4e
 - ifos_-_causes_of_UFO_3ed238_wind_data_33671a_upper_air_soundings_5b2a89
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - wind-data
 - wind-direction
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - wind-data
 - wind-direction
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Wind direction labels say where air comes from, not where a balloon goes, so a simple reversal can spoil a drift test.
 hero_summary: Wind direction labels say where air comes from, not where a balloon goes, so a simple reversal can spoil a drift test.
 layout: default
 permalink: /wind-direction/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /wind-data/
 nav_short_title: Wind Direction
 title: Are you reading the wind backwards?
-title_full: Are you reading the wind backwards? | Wind Data
+title_full: Are you reading the wind backwards?
 display_title_short: Wind Direction
 display_title: Wind Direction
 heading_title: Are you reading the wind backwards?
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 21:48:37'
-parent_title: Following a UFO With the Wind | IFOs
+parent_title: Following a UFO With the Wind
 parent_permalink: /wind-data/
 parent_nav_short_title: Wind Data
 parent_heading_title: Following a UFO With the Wind
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_wind_data_33671a
-  title: Wind Data | Ifos Causes Of
+  title: Wind Data | ifos causes of UFO 3 ed 238
   permalink: /wind-data/
   short_title: Wind Data
   heading_title: Following a UFO With the Wind
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_wind_data_33671a
-  title: Wind Data | Ifos Causes Of
+  title: Wind Data | ifos causes of UFO 3 ed 238
   permalink: /wind-data/
   short_title: Wind Data
   heading_title: Following a UFO With the Wind
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: Can a model trace the UFO's drift?
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_wind_data_33671a
-  title: Wind Data | Ifos Causes Of
+  title: Wind Data | ifos causes of UFO 3 ed 238
   permalink: /wind-data/
   short_title: Wind Data
   heading_title: Following a UFO With the Wind
@@ -260,6 +259,7 @@ prev_link:
   permalink: /trajectories/
   short_title: Trajectories
   heading_title: Can a model trace the UFO's drift?
+date: '2026-06-12 00:17:18 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a_wind_direction_mista_668791-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a_wind_direction_mista_668791-Illustration-1.webp
@@ -270,7 +270,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a_wind_directio
 
 When investigators test whether a reported UFO could have been a balloon, sky lantern or other drifting object, one of the easiest mistakes is reading the wind backwards. In meteorology, wind direction describes where the air comes from, not where it is going. A reported “westerly wind” means air is moving from west to east, carrying a free-floating object eastward. If that convention is misunderstood, a balloon track can be reconstructed in the wrong direction and a simple drift explanation may be incorrectly rejected or accepted. Meteorological agencies, weather services and aviation guidance all use the same convention, making this one of the most common implementation errors in quick UFO drift analyses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://forecast.weather.gov/glossary.php?word=wind+direction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forecast.weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forecast.weather.gov</span><span class="citation-popover-snippet">National Weather ServiceNOAA&#x27;s National Weather Service - GlossaryWind Direction: The true direction from which the wind is blowing at a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/met-office-for-schools/other-content/other-resources/understanding-weather" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeUnderstanding weatherThe direction given for the wind refers to the direction from which it comes. For example, a westerly wind...</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a_wind_direction_mista_668791-Illustration-1-dark.svg" | relative_url }}" alt="Wind Direction illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a_wind_direction_mista_668791-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a_wind_direction_mista_668791-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Are you reading the wind backwards?
 
@@ -279,7 +278,6 @@ When investigators test whether a reported UFO could have been a balloon, sky la
 The core issue is simple but surprisingly easy to overlook. Meteorologists name winds according to their origin. A northerly wind blows from north to south. A westerly wind blows from west to east. A balloon does not travel in the named direction of the wind; it travels with the moving air mass in the opposite direction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://forecast.weather.gov/glossary.php?word=wind+direction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forecast.weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forecast.weather.gov</span><span class="citation-popover-snippet">National Weather ServiceNOAA&#x27;s National Weather Service - GlossaryWind Direction: The true direction from which the wind is blowing at a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/met-office-for-schools/other-content/other-resources/understanding-weather" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeUnderstanding weatherThe direction given for the wind refers to the direction from which it comes. For example, a westerly wind...</span></span></span>
 
 In UFO discussions, this confusion often appears when someone compares a witness report with a weather observation:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -291,7 +289,6 @@ In UFO discussions, this confusion often appears when someone compares a witness
 In reality, a westerly wind would be expected to carry a drifting object eastward. The observation may therefore support, rather than contradict, a balloon hypothesis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/met-office-for-schools/other-content/other-resources/understanding-weather" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeUnderstanding weatherThe direction given for the wind refers to the direction from which it comes. For example, a westerly wind...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://forecast.weather.gov/glossary.php?word=wind+direction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forecast.weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forecast.weather.gov</span><span class="citation-popover-snippet">National Weather ServiceNOAA&#x27;s National Weather Service - GlossaryWind Direction: The true direction from which the wind is blowing at a...</span></span></span>
 
 The error becomes especially significant when a sighting report contains only a rough movement description such as “it drifted towards the north-east”. If the investigator reverses the wind convention, the entire comparison may be inverted.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SqbTrbxWT1o" title="Wind direction and speed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SqbTrbxWT1o" target="_blank" rel="noopener noreferrer">Wind direction and speed</a></p><p class="youtube-embed-meta">Channel: Met Office - UK Weather &middot; Views: 699.5K &middot; Uploaded: August 2014 &middot; Length: 2 minutes 10 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SqbTrbxWT1o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SqbTrbxWT1o">Open on YouTube</a></p></div></div></div>
 
@@ -312,7 +309,6 @@ Wind reported asAir comes fromExpected balloon driftNorth (360°)NorthSouthEast 
 This conversion follows standard meteorological definitions used by weather services and forecasting systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://forecast.weather.gov/glossary.php?word=wind+direction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forecast.weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forecast.weather.gov</span><span class="citation-popover-snippet">National Weather ServiceNOAA&#x27;s National Weather Service - GlossaryWind Direction: The true direction from which the wind is blowing at a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://courses.ems.psu.edu/meteo300/node/719" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: courses.ems.psu.edu">[EMS Online Courses]</a><span class="citation-popover" role="note"><span class="citation-popover-source">courses.ems.psu.edu</span><span class="citation-popover-title">The wind vector points to the direction the wind is coming from.Read more</span><span class="citation-popover-snippet">EMS Online Courses8.4 Do you need a weathervane to see which way the wind...The meteorology wind convention is often used in meteorology...</span></span></span>
 
 For example, if witnesses report a glowing light moving slowly towards the north-east and upper-air data indicate a south-westerly wind at the relevant altitude, that movement is broadly consistent with passive drift. If the analyst instead interprets the south-westerly wind as travelling towards the south-west, the comparison becomes completely reversed.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a_wind_direction_mista_668791-Illustration-2-dark.svg" | relative_url }}" alt="Wind Direction illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a_wind_direction_mista_668791-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a_wind_direction_mista_668791-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Wind barbs and map symbols create extra confusion
@@ -343,16 +339,22 @@ Some mapping tools display motion vectors pointing where movement is going, whil
 
 Weather maps shared online are often stripped of legends or explanatory text. A user may interpret a barb or directional marker as an arrow showing travel rather than origin. <span class="citation-chip-wrap"><a class="citation-chip" href="https://forecast.weather.gov/glossary.php?word=wind+direction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forecast.weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forecast.weather.gov</span><span class="citation-popover-snippet">National Weather ServiceNOAA&#x27;s National Weather Service - GlossaryWind Direction: The true direction from which the wind is blowing at a...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yU6CIoGDY2Q" title="Met Office: Wind Direction and Speed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yU6CIoGDY2Q" target="_blank" rel="noopener noreferrer">Met Office: Wind Direction and Speed</a></p><p class="youtube-embed-meta">Channel: Drive Creative Studio &middot; Views: 17.9K &middot; Uploaded: October 2014 &middot; Length: 2 minutes 10 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yU6CIoGDY2Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yU6CIoGDY2Q">Open on YouTube</a></p></div></div></div>
 
 ## A simple check before rejecting a balloon explanation
 
 When evaluating whether a reported UFO moved with or against the wind, a practical safeguard is to perform a two-step conversion:
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IbXJGg4XKJA" title="Meteorology: How to Read Wind Barbs/Vectors" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IbXJGg4XKJA" target="_blank" rel="noopener noreferrer">Meteorology: How to Read Wind Barbs/Vectors</a></p><p class="youtube-embed-meta">Channel: MS Meteorology &middot; Views: 27.3K &middot; Uploaded: April 2019 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IbXJGg4XKJA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IbXJGg4XKJA">Open on YouTube</a></p></div></div></div>
 
+1. Identify the reported wind direction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metoffice.gov.uk/blog/2025/why-do-we-measure-wind-at-less-than-500m" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metoffice.gov.uk">[metoffice.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metoffice.gov.uk</span><span class="citation-popover-title">why do we measure wind at less than 500m</span><span class="citation-popover-snippet">For example, an easterly wind...Read more...</span></span></span>
+2. Reverse it by 180 degrees to estimate the drift direction of a free-floating object.
+
+Only then should the object's reported path be compared with the weather data.
+
+This does not prove that an object was a balloon. Altitude uncertainties, changing winds with height, observer perspective and reporting errors can still complicate the analysis. However, correcting the wind-direction convention removes one of the most common and avoidable mistakes in balloon path reconstruction. In many disputed UFO cases, the difference between a puzzling anomaly and an ordinary drifting object begins with that simple reversal. <span class="citation-chip-wrap"><a class="citation-chip" href="https://forecast.weather.gov/glossary.php?word=wind+direction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forecast.weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forecast.weather.gov</span><span class="citation-popover-snippet">National Weather ServiceNOAA&#x27;s National Weather Service - GlossaryWind Direction: The true direction from which the wind is blowing at a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/met-office-for-schools/other-content/other-resources/understanding-weather" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeUnderstanding weatherThe direction given for the wind refers to the direction from which it comes. For example, a westerly wind...</span></span></span>
+
+<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a_wind_direction_mista_668791-Illustration-3-dark.svg" | relative_url }}" alt="Wind Direction illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a_wind_direction_mista_668791-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a_wind_direction_mista_668791-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -447,7 +449,7 @@ When evaluating whether a reported UFO moved with or against the wind, a practic
         <p class="fr-section-kicker">eBay marketplace picks</p>
         <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
       </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
       <div class="fr-ebay-market-toolbar">
         <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
@@ -471,15 +473,15 @@ When evaluating whether a reported UFO moved with or against the wind, a practic
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-direction-are-you-reading-the-wind-backwards-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="wind-direction-are-you-reading-the-wind-backwards-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for U/ROCK BAND SPACE SHIP IRON OR SEW ON QUALITY EMBROIDERED PATCH UK SELLER/UFO"><img src="{{ '/assets/images/marketplace-covers/fc0f59ffafe53c3f0099.jpg' | relative_url }}" alt="Listing image for U/ROCK BAND SPACE SHIP IRON OR SEW ON QUALITY EMBROIDERED PATCH UK SELLER/UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-reading-the-wind-backwards-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="are-you-reading-the-wind-backwards-wind-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Poster Beaufort Wind Force Scale Educational Classroom Chart"><img src="https://i.ebayimg.com/images/g/vQsAAOSw-BRn12nv/s-l225.jpg" alt="Listing image for Poster Beaufort Wind Force Scale Educational Classroom Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-direction-are-you-reading-the-wind-backwards-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="wind-direction-are-you-reading-the-wind-backwards-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">U/ROCK BAND SPACE SHIP IRON OR SEW ON QUALITY EMBROIDERED PATCH UK SELLER/UFO</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-reading-the-wind-backwards-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="are-you-reading-the-wind-backwards-wind-chart-poster" target="_blank" rel="sponsored noopener noreferrer">Poster Beaufort Wind Force Scale Educational Classroom Chart</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-direction-are-you-reading-the-wind-backwards-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="wind-direction-are-you-reading-the-wind-backwards-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-reading-the-wind-backwards-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="are-you-reading-the-wind-backwards-wind-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for wind chart poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: wind chart poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-direction-are-you-reading-the-wind-backwards-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="wind-direction-are-you-reading-the-wind-backwards-ifos-causes-of-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-reading-the-wind-backwards-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="are-you-reading-the-wind-backwards-wind-chart-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -487,15 +489,15 @@ When evaluating whether a reported UFO moved with or against the wind, a practic
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-direction-are-you-reading-the-wind-backwards-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="wind-direction-are-you-reading-the-wind-backwards-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo"><img src="{{ '/assets/images/marketplace-covers/338af33276410882a5b1.jpg' | relative_url }}" alt="Listing image for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-reading-the-wind-backwards-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="are-you-reading-the-wind-backwards-wind-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1955 Selmer Band Wind Instruments Chart Poster Instructional 22 x 33"><img src="https://i.ebayimg.com/images/g/h3EAAeSwoVJplySc/s-l225.jpg" alt="Listing image for Vintage 1955 Selmer Band Wind Instruments Chart Poster Instructional 22 x 33" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-direction-are-you-reading-the-wind-backwards-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="wind-direction-are-you-reading-the-wind-backwards-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-reading-the-wind-backwards-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="are-you-reading-the-wind-backwards-wind-chart-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1955 Selmer Band Wind Instruments Chart Poster Instructional 22 x 33</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-direction-are-you-reading-the-wind-backwards-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="wind-direction-are-you-reading-the-wind-backwards-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-reading-the-wind-backwards-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="are-you-reading-the-wind-backwards-wind-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for wind chart poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: wind chart poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-direction-are-you-reading-the-wind-backwards-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="wind-direction-are-you-reading-the-wind-backwards-ifos-causes-of-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-reading-the-wind-backwards-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="are-you-reading-the-wind-backwards-wind-chart-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -503,15 +505,15 @@ When evaluating whether a reported UFO moved with or against the wind, a practic
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-direction-are-you-reading-the-wind-backwards-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="wind-direction-are-you-reading-the-wind-backwards-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-reading-the-wind-backwards-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="are-you-reading-the-wind-backwards-wind-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1747 A Circle of Winds - Artificial Sphere Mariners Compass Celestial Poster"><img src="https://i.ebayimg.com/images/g/iyYAAOSw2Ndn5YWi/s-l225.jpg" alt="Listing image for 1747 A Circle of Winds - Artificial Sphere Mariners Compass Celestial Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-direction-are-you-reading-the-wind-backwards-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="wind-direction-are-you-reading-the-wind-backwards-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-reading-the-wind-backwards-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="are-you-reading-the-wind-backwards-wind-chart-poster" target="_blank" rel="sponsored noopener noreferrer">1747 A Circle of Winds - Artificial Sphere Mariners Compass Celestial Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-direction-are-you-reading-the-wind-backwards-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="wind-direction-are-you-reading-the-wind-backwards-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-reading-the-wind-backwards-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="are-you-reading-the-wind-backwards-wind-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for wind chart poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: wind chart poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-direction-are-you-reading-the-wind-backwards-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="wind-direction-are-you-reading-the-wind-backwards-ifos-causes-of-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-reading-the-wind-backwards-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="are-you-reading-the-wind-backwards-wind-chart-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -519,15 +521,15 @@ When evaluating whether a reported UFO moved with or against the wind, a practic
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-direction-are-you-reading-the-wind-backwards-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="wind-direction-are-you-reading-the-wind-backwards-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-reading-the-wind-backwards-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="are-you-reading-the-wind-backwards-wind-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wind Surfing Water Sports Surfer 3d Window View Wall Sticker Poster Decal A359"><img src="https://i.ebayimg.com/images/g/PXEAAOSwq1xh-Y0~/s-l225.jpg" alt="Listing image for Wind Surfing Water Sports Surfer 3d Window View Wall Sticker Poster Decal A359" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-direction-are-you-reading-the-wind-backwards-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="wind-direction-are-you-reading-the-wind-backwards-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-reading-the-wind-backwards-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="are-you-reading-the-wind-backwards-wind-chart-poster" target="_blank" rel="sponsored noopener noreferrer">Wind Surfing Water Sports Surfer 3d Window View Wall Sticker Poster Decal A359</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-direction-are-you-reading-the-wind-backwards-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="wind-direction-are-you-reading-the-wind-backwards-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-reading-the-wind-backwards-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="are-you-reading-the-wind-backwards-wind-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for wind chart poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: wind chart poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-direction-are-you-reading-the-wind-backwards-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="wind-direction-are-you-reading-the-wind-backwards-ifos-causes-of-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-reading-the-wind-backwards-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="are-you-reading-the-wind-backwards-wind-chart-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -535,7 +537,7 @@ When evaluating whether a reported UFO moved with or against the wind, a practic
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-direction-are-you-reading-the-wind-backwards-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="wind-direction-are-you-reading-the-wind-backwards-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=wind+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-you-reading-the-wind-backwards-wind-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind chart poster" data-ebay-reference="are-you-reading-the-wind-backwards-wind-chart-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -746,178 +748,169 @@ When evaluating whether a reported UFO moved with or against the wind, a practic
 </script>
 </section>
 
-1. Identify the reported wind direction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metoffice.gov.uk/blog/2025/why-do-we-measure-wind-at-less-than-500m" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metoffice.gov.uk">[metoffice.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metoffice.gov.uk</span><span class="citation-popover-title">why do we measure wind at less than 500m</span><span class="citation-popover-snippet">For example, an easterly wind...Read more...</span></span></span>
-2. Reverse it by 180 degrees to estimate the drift direction of a free-floating object.
-
-Only then should the object's reported path be compared with the weather data.
-
-This does not prove that an object was a balloon. Altitude uncertainties, changing winds with height, observer perspective and reporting errors can still complicate the analysis. However, correcting the wind-direction convention removes one of the most common and avoidable mistakes in balloon path reconstruction. In many disputed UFO cases, the difference between a puzzling anomaly and an ordinary drifting object begins with that simple reversal. <span class="citation-chip-wrap"><a class="citation-chip" href="https://forecast.weather.gov/glossary.php?word=wind+direction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forecast.weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forecast.weather.gov</span><span class="citation-popover-snippet">National Weather ServiceNOAA&#x27;s National Weather Service - GlossaryWind Direction: The true direction from which the wind is blowing at a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/met-office-for-schools/other-content/other-resources/understanding-weather" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeUnderstanding weatherThe direction given for the wind refers to the direction from which it comes. For example, a westerly wind...</span></span></span>
-
-
-<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a_wind_direction_mista_668791-Illustration-3-dark.svg" | relative_url }}" alt="Wind Direction illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a_wind_direction_mista_668791-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a_wind_direction_mista_668791-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: forecast.weather.gov  
-   Link: [https://forecast.weather.gov/glossary.php?word=wind+direction](https://forecast.weather.gov/glossary.php?word=wind+direction)  
+   Link: <a href="https://forecast.weather.gov/glossary.php?word=wind+direction" target="_blank" rel="noopener noreferrer nofollow">https://forecast.weather.gov/glossary.php?word=wind+direction</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Weather ServiceNOAA&#x27;s National Weather Service - GlossaryWind Direction: The true direction from which the wind is blowing at a...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: weather.metoffice.gov.uk  
-   Link: [https://weather.metoffice.gov.uk/learn-about/met-office-for-schools/other-content/other-resources/understanding-weather](https://weather.metoffice.gov.uk/learn-about/met-office-for-schools/other-content/other-resources/understanding-weather)  
+   Link: <a href="https://weather.metoffice.gov.uk/learn-about/met-office-for-schools/other-content/other-resources/understanding-weather" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/met-office-for-schools/other-content/other-resources/understanding-weather</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Met OfficeUnderstanding weatherThe direction given for the wind refers to the direction from which it comes. For example, a westerly wind...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: metoffice.gov.uk  
    Title: why do we measure wind at less than 500m  
-   Link: [https://www.metoffice.gov.uk/blog/2025/why-do-we-measure-wind-at-less-than-500m](https://www.metoffice.gov.uk/blog/2025/why-do-we-measure-wind-at-less-than-500m)  
+   Link: <a href="https://www.metoffice.gov.uk/blog/2025/why-do-we-measure-wind-at-less-than-500m" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2025/why-do-we-measure-wind-at-less-than-500m</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>For example, an easterly wind...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/hfo/windbarbinfo](https://www.weather.gov/hfo/windbarbinfo)  
+   Link: <a href="https://www.weather.gov/hfo/windbarbinfo" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/hfo/windbarbinfo</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The shaft will point to the direction FROM which the wind is blowing. The direction is based upon a 36-point...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: ocean.weather.gov  
-   Link: [https://ocean.weather.gov/product_description/keyterm.php](https://ocean.weather.gov/product_description/keyterm.php)  
+   Link: <a href="https://ocean.weather.gov/product_description/keyterm.php" target="_blank" rel="noopener noreferrer nofollow">https://ocean.weather.gov/product_description/keyterm.php</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Terminology and Weather SymbolsDirection: Wind barbs point in the direction the wind is coming from. Fog... National Weather Service · N...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/ilx/swop-springtopics](https://www.weather.gov/ilx/swop-springtopics)  
+   Link: <a href="https://www.weather.gov/ilx/swop-springtopics" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/ilx/swop-springtopics</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Weather ServiceSevere Weather TopicsThe direction the wind barb points tells us the direction from which the wind is blowing and...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: metoffice.gov.uk  
-   Link: [https://www.metoffice.gov.uk/blog/2025/what-is-wind-and-how-do-we-measure-it](https://www.metoffice.gov.uk/blog/2025/what-is-wind-and-how-do-we-measure-it)  
+   Link: <a href="https://www.metoffice.gov.uk/blog/2025/what-is-wind-and-how-do-we-measure-it" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2025/what-is-wind-and-how-do-we-measure-it</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is wind and how do we measure it?16 Aug 2025 — Wind speed is typically measured in knots (nautical miles per hour), and direction is...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: weather.metoffice.gov.uk  
-   Link: [https://weather.metoffice.gov.uk/maps-and-charts/wind-map](https://weather.metoffice.gov.uk/maps-and-charts/wind-map)  
+   Link: <a href="https://weather.metoffice.gov.uk/maps-and-charts/wind-map" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/maps-and-charts/wind-map</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>wind mapOur wind map shows you the wind speed and direction across the UK. Includes forecasts up to 5 days and observations from the last...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: weather.metoffice.gov.uk  
-   Link: [https://weather.metoffice.gov.uk/guides/observations/how-we-measure-wind](https://weather.metoffice.gov.uk/guides/observations/how-we-measure-wind)  
+   Link: <a href="https://weather.metoffice.gov.uk/guides/observations/how-we-measure-wind" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/guides/observations/how-we-measure-wind</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>we measure windWind direction is measured by a vane consisting of a thin horizontal arm carrying a vertical flat plate at one end with it...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: weather.metoffice.gov.uk  
-   Link: [https://weather.metoffice.gov.uk/learn-about/weather/how-weather-works/high-and-low-pressure/wind-flow](https://weather.metoffice.gov.uk/learn-about/weather/how-weather-works/high-and-low-pressure/wind-flow)  
+   Link: <a href="https://weather.metoffice.gov.uk/learn-about/weather/how-weather-works/high-and-low-pressure/wind-flow" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/how-weather-works/high-and-low-pressure/wind-flow</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>flowIn the northern hemisphere this wind spiral flows in an anticlockwise direction around areas of low pressure and in a clockwise direc...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: weather.metoffice.gov.uk  
-   Link: [https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/wind/wind-names](https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/wind/wind-names)  
+   Link: <a href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/wind/wind-names" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/wind/wind-names</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of the worldA dry wind blowing from a north-east / easterly direction over north-west Africa. Being both dry and relatively cool, it form...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: weather.metoffice.gov.uk  
-   Link: [https://weather.metoffice.gov.uk/guides/what-does-this-forecast-mean](https://weather.metoffice.gov.uk/guides/what-does-this-forecast-mean)  
+   Link: <a href="https://weather.metoffice.gov.uk/guides/what-does-this-forecast-mean" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/guides/what-does-this-forecast-mean</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>does this forecast mean?The letter shows the direction the wind is blowing from (on a standard 16-point compass rose). For example, an ar...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: forecast.weather.gov  
-   Link: [https://forecast.weather.gov/glossary.php?word=wind](https://forecast.weather.gov/glossary.php?word=wind)  
+   Link: <a href="https://forecast.weather.gov/glossary.php?word=wind" target="_blank" rel="noopener noreferrer nofollow">https://forecast.weather.gov/glossary.php?word=wind</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>weather.govNOAA&#x27;s National Weather Service - GlossaryThe true direction from which the wind is blowing at a given location (i.e., wind bl...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: digital.weather.gov  
-   Link: [https://digital.weather.gov/?barbs=true&coords=latlon&element=12&lat=37&layers=F000BTTTTTT&lon=-96.5&mxmz=false&region=0&subl=TFFFF&tunits=localt&units=english&wunits=nautical&zoom=4](https://digital.weather.gov/?barbs=true&coords=latlon&element=12&lat=37&layers=F000BTTTTTT&lon=-96.5&mxmz=false&region=0&subl=TFFFF&tunits=localt&units=english&wunits=nautical&zoom=4)  
+   Link: <a href="https://digital.weather.gov/?barbs=true&amp;coords=latlon&amp;element=12&amp;lat=37&amp;layers=F000BTTTTTT&amp;lon=-96.5&amp;mxmz=false&amp;region=0&amp;subl=TFFFF&amp;tunits=localt&amp;units=english&amp;wunits=nautical&amp;zoom=4" target="_blank" rel="noopener noreferrer nofollow">https://digital.weather.gov/?barbs=true&amp;coords=latlon&amp;element=12&amp;lat=37&amp;layers=F000BTTTTTT&amp;lon=-96.5&amp;mxmz=false&amp;region=0&amp;subl=TFFFF&amp;tunits=localt&amp;units=english&amp;wunits=nautical&amp;zoom=4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Weather Service - Graphical ForecastCurrent graphical forecast maps, rivers, marine, offshore and high seas, hurricanes, aviation weather...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/source/zhu/ZHU_Training_Page/winds/Wx_Terms/Flight_Environment.htm](https://www.weather.gov/source/zhu/ZHU_Training_Page/winds/Wx_Terms/Flight_Environment.htm)  
+   Link: <a href="https://www.weather.gov/source/zhu/ZHU_Training_Page/winds/Wx_Terms/Flight_Environment.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/source/zhu/ZHU_Training_Page/winds/Wx_Terms/Flight_Environment.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Prevailing WindsIn a discussion of wind direction, the compass point from which the wind is blowing is considered to be its direction. Th...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/media/shv/education_resource_library/forecasting/Forecasting_AnswerKey.pdf](https://www.weather.gov/media/shv/education_resource_library/forecasting/Forecasting_AnswerKey.pdf)  
+   Link: <a href="https://www.weather.gov/media/shv/education_resource_library/forecasting/Forecasting_AnswerKey.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/media/shv/education_resource_library/forecasting/Forecasting_AnswerKey.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>he east. Question 9. The force...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: bom.gov.au  
-   Link: [https://www.bom.gov.au/marine/about/about-forecast-wind.shtml](https://www.bom.gov.au/marine/about/about-forecast-wind.shtml)  
+   Link: <a href="https://www.bom.gov.au/marine/about/about-forecast-wind.shtml" target="_blank" rel="noopener noreferrer nofollow">https://www.bom.gov.au/marine/about/about-forecast-wind.shtml</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>About Forecast WindWind direction. Wind direction is indicated by the arrow direction. Winds are typically named for the direction they b...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: courses.ems.psu.edu  
    Title: The wind vector points to the direction the wind is coming from.Read more  
-   Link: [https://courses.ems.psu.edu/meteo300/node/719](https://courses.ems.psu.edu/meteo300/node/719)  
+   Link: <a href="https://courses.ems.psu.edu/meteo300/node/719" target="_blank" rel="noopener noreferrer nofollow">https://courses.ems.psu.edu/meteo300/node/719</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EMS Online Courses8.4 Do you need a weathervane to see which way the wind...The meteorology wind convention is often used in meteorology...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: courses.ems.psu.edu  
-   Link: [https://courses.ems.psu.edu/meteo101/node/2239](https://courses.ems.psu.edu/meteo101/node/2239)  
+   Link: <a href="https://courses.ems.psu.edu/meteo101/node/2239" target="_blank" rel="noopener noreferrer nofollow">https://courses.ems.psu.edu/meteo101/node/2239</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EMS Online CoursesWatching the Wind | METEO 101 - EMS Online CoursesFor sake of illustration, the wind direction from the north blows fro...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: Wikipedia  
    Title: Wind direction  
-   Link: [https://en.wikipedia.org/wiki/Wind_direction](https://en.wikipedia.org/wiki/Wind_direction)  
+   Link: <a href="https://en.wikipedia.org/wiki/Wind_direction" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wind_direction</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Wind directionWind direction is generally reported by the direction from which the wind originates. For example, a north or northerly...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=yU6CIoGDY2Q](https://www.youtube.com/watch?v=yU6CIoGDY2Q)  
+   Link: <a href="https://www.youtube.com/watch?v=yU6CIoGDY2Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yU6CIoGDY2Q</a>  
 
 22. <a id="endnote-22"></a>
    Source: predictwind.com  
    Title: wind direction  
-   Link: [https://www.predictwind.com/glossary/w/wind-direction](https://www.predictwind.com/glossary/w/wind-direction)  
+   Link: <a href="https://www.predictwind.com/glossary/w/wind-direction" target="_blank" rel="noopener noreferrer nofollow">https://www.predictwind.com/glossary/w/wind-direction</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; Examples27 Feb 2025 — Wind direction is a crucial concept in maritime navigation, referring to the direction from which the...</p></details>
 
 ### Additional References
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TxStormChasers/posts/meteorology-monday-describing-wind-directionin-meteorology-winds-are-described-b/1491307272653905/](https://www.facebook.com/TxStormChasers/posts/meteorology-monday-describing-wind-directionin-meteorology-winds-are-described-b/1491307272653905/)  
+   Link: <a href="https://www.facebook.com/TxStormChasers/posts/meteorology-monday-describing-wind-directionin-meteorology-winds-are-described-b/1491307272653905/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TxStormChasers/posts/meteorology-monday-describing-wind-directionin-meteorology-winds-are-described-b/1491307272653905/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DESCRIBING WIND DIRECTION In meteorology...For example, a &quot;southerly&quot; wind is a wind blowing from the south toward the north. A &quot;northwe...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: meteoswiss.admin.ch  
-   Link: [https://www.meteoswiss.admin.ch/weather/weather-and-climate-from-a-to-z/wind.html](https://www.meteoswiss.admin.ch/weather/weather-and-climate-from-a-to-z/wind.html)  
+   Link: <a href="https://www.meteoswiss.admin.ch/weather/weather-and-climate-from-a-to-z/wind.html" target="_blank" rel="noopener noreferrer nofollow">https://www.meteoswiss.admin.ch/weather/weather-and-climate-from-a-to-z/wind.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>direction is given either in degrees (1° to 360°) or with the cardinal direction, and indicates where the wind comes from. For example, a...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: windy.app  
-   Link: [https://windy.app/blog/what-is-wind-direction.html](https://windy.app/blog/what-is-wind-direction.html)  
+   Link: <a href="https://windy.app/blog/what-is-wind-direction.html" target="_blank" rel="noopener noreferrer nofollow">https://windy.app/blog/what-is-wind-direction.html</a>  
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=SqbTrbxWT1o](https://www.youtube.com/watch?v=SqbTrbxWT1o)  
+   Link: <a href="https://www.youtube.com/watch?v=SqbTrbxWT1o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SqbTrbxWT1o</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Wind direction and speedLearn about wind direction and speed and what we call different types of wind. Find out more about wind direction...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: noaa.gov  
-   Link: [https://www.noaa.gov/jetstream/synoptic/origin-of-wind](https://www.noaa.gov/jetstream/synoptic/origin-of-wind)  
+   Link: <a href="https://www.noaa.gov/jetstream/synoptic/origin-of-wind" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/jetstream/synoptic/origin-of-wind</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Origin of Wind | National Oceanic and Atmospheric...3 Apr 2023 — For example, a flag points in the opposite direction of the wind...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: aviation.stackexchange.com  
-   Link: [https://aviation.stackexchange.com/questions/26549/how-is-wind-direction-reported-blowing-from-or-blowing-to](https://aviation.stackexchange.com/questions/26549/how-is-wind-direction-reported-blowing-from-or-blowing-to)  
+   Link: <a href="https://aviation.stackexchange.com/questions/26549/how-is-wind-direction-reported-blowing-from-or-blowing-to" target="_blank" rel="noopener noreferrer nofollow">https://aviation.stackexchange.com/questions/26549/how-is-wind-direction-reported-blowing-from-or-blowing-to</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation Stack ExchangeHow is wind direction reported (blowing from or blowing to)?30 Mar 2016 — Wind 270 means that the wind is coming f...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/figure/Forecast-wind-speed-and-direction-from-NOAA-national-weather-service-6_fig2_285006243](https://www.researchgate.net/figure/Forecast-wind-speed-and-direction-from-NOAA-national-weather-service-6_fig2_285006243)  
+   Link: <a href="https://www.researchgate.net/figure/Forecast-wind-speed-and-direction-from-NOAA-national-weather-service-6_fig2_285006243" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Forecast-wind-speed-and-direction-from-NOAA-national-weather-service-6_fig2_285006243</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>t eliminates the need for direct wind and conductor temperature measurements.Read more...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/weather/comments/nlpw8s/how_to_understand_wind_direction_on_weathergov/](https://www.reddit.com/r/weather/comments/nlpw8s/how_to_understand_wind_direction_on_weathergov/)  
+   Link: <a href="https://www.reddit.com/r/weather/comments/nlpw8s/how_to_understand_wind_direction_on_weathergov/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/weather/comments/nlpw8s/how_to_understand_wind_direction_on_weathergov/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>First, on the text version, what direction would the wind be blowing if...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: naturalnavigator.com  
-   Link: [https://www.naturalnavigator.com/news/2025/01/the-naming-convention-of-winds/](https://www.naturalnavigator.com/news/2025/01/the-naming-convention-of-winds/)  
+   Link: <a href="https://www.naturalnavigator.com/news/2025/01/the-naming-convention-of-winds/" target="_blank" rel="noopener noreferrer nofollow">https://www.naturalnavigator.com/news/2025/01/the-naming-convention-of-winds/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Naming Convention of Winds8 Jan 2025 — Winds are labelled with the direction they have come from, not the direction they head towards...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: nesdis.noaa.gov  
    Title: what are trade winds  
-   Link: [https://www.nesdis.noaa.gov/about/k-12-education/[atmosphere](https://www.nesdis.noaa.gov/about/k-12-education/[atmosphere)  
+   Link: <a href="https://www.nesdis.noaa.gov/about/k-12-education/[atmosphere" target="_blank" rel="noopener noreferrer nofollow">https://www.nesdis.noaa.gov/about/k-12-education/[atmosphere</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Are Trade Winds? | NESDIS - NOAAThe trade winds are winds that reliably blow east to west just north and south of the equator. The winds...</p></details>

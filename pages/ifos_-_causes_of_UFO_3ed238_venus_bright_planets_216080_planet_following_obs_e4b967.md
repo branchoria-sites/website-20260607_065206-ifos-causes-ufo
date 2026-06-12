@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_planet_alignment_ufo_8c38eb
 - ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_venus_false_distance_bfe908
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - venus
 - following-lights
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - venus
 - following-lights
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: A fixed planet can seem to follow a car or drift against buildings when foreground objects move across the line of sight.
 hero_summary: A fixed planet can seem to follow a car or drift against buildings when foreground objects move across the line of sight.
 layout: default
 permalink: /following-lights/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /venus/
 nav_short_title: Following Lights
 title: Why a Planet Seems to Follow You
-title_full: Why a Planet Seems to Follow You | Venus
+title_full: Why a Planet Seems to Follow You
 display_title_short: Following Lights
 display_title: Following Lights
 heading_title: Why a Planet Seems to Follow You
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 03:53:43'
-parent_title: Is That UFO Really Venus? | IFOs
+parent_title: Is That UFO Really Venus?
 parent_permalink: /venus/
 parent_nav_short_title: Venus
 parent_heading_title: Is That UFO Really Venus?
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080
-  title: Venus | Ifos Causes Of
+  title: Venus | ifos causes of UFO 3 ed 238
   permalink: /venus/
   short_title: Venus
   heading_title: Is That UFO Really Venus?
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080
-  title: Venus | Ifos Causes Of
+  title: Venus | ifos causes of UFO 3 ed 238
   permalink: /venus/
   short_title: Venus
   heading_title: Is That UFO Really Venus?
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: How to Test the Planet Explanation
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080
-  title: Venus | Ifos Causes Of
+  title: Venus | ifos causes of UFO 3 ed 238
   permalink: /venus/
   short_title: Venus
   heading_title: Is That UFO Really Venus?
@@ -266,6 +265,7 @@ next_link:
   permalink: /formations-183e77/
   short_title: Formations
   heading_title: When Planets Look Like a Formation
+date: '2026-06-12 00:54:13 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_planet_following_obs_e4b967-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_planet_following_obs_e4b967-Illustration-1.webp
@@ -276,7 +276,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_pl
 
 Many reports of a “hovering UFO” that seems to follow a car, drift alongside a road, or remain fixed over a landmark begin with a bright planet such as [Venus]({{ 'venus/' | relative_url }}) low on the horizon. The object itself is not moving in any unusual way. Instead, the combination of observer motion, distant celestial geometry, foreground scenery and human visual perception can create a convincing illusion of movement. Astronomers and UFO investigators have long recognised that bright planets are among the most common sources of misidentified aerial phenomena, particularly when seen near sunrise or sunset. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nightsky.jpl.nasa.gov">[Night Sky Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nightsky.jpl.nasa.gov</span><span class="citation-popover-title">Night Sky Network Identifying UFOs and UAPs</span><span class="citation-popover-snippet">Venus shining bright and low has been reported many times as a UFO.... lights...Read more...</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_planet_following_obs_e4b967-Illustration-1-dark.svg" | relative_url }}" alt="Following Lights illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_planet_following_obs_e4b967-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_planet_following_obs_e4b967-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 What makes these sightings compelling is that the illusion often feels dynamic. Witnesses may describe a light that follows them for miles, hovers above a neighbourhood, slides behind buildings, or slowly changes position against clouds. Understanding why this happens helps explain a large category of sincere UFO reports without dismissing the experience itself.
 
@@ -284,7 +283,7 @@ What makes these sightings compelling is that the illusion often feels dynamic. 
 
 The most common version of the illusion occurs while driving. A bright planet near the horizon is so distant that changes in a person's position on Earth have almost no effect on its apparent location in the sky. Nearby objects, however, shift dramatically as the observer moves.
 
-Trees, lamp posts, houses and road signs sweep across the field of view because they are close. Venus or Jupiter remains nearly fixed against the distant background sky. The contrast creates a powerful impression that the light is travelling with the observer. The same geometric principle explains why the Moon often appears to follow a moving vehicle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/astronomy-essentials/moon-and-[stars" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-snippet">EarthSkyWhy does the moon seem to follow me when I&#x27;m in a car?April 19, 2024 — 19 Apr 2024 — The reason is that the moon is so distant co...</span><span class="citation-popover-meta">Published: April 19, 2024</span></span></span>
+Trees, lamp posts, houses and road signs sweep across the field of view because they are close. Venus or Jupiter remains nearly fixed against the distant background sky. The contrast creates a powerful impression that the light is travelling with the observer. The same geometric principle explains why the Moon often appears to follow a moving vehicle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/astronomy-essentials/moon-and-[stars" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-snippet">Why does the moon seem to follow me when I&#x27;m in a car?April 19, 2024 — 19 Apr 2024 — The reason is that the moon is so distant co...</span><span class="citation-popover-meta">Published: April 19, 2024</span></span></span>
 
 Several features can make the effect especially convincing:
 
@@ -294,17 +293,15 @@ Several features can make the effect especially convincing:
 
 A witness may therefore conclude that a hovering object is maintaining position over a road, field or town when the object is actually a planet tens of millions of kilometres away.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UXpmM7BzTfI" title="Why is the moon following me?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UXpmM7BzTfI" target="_blank" rel="noopener noreferrer">Why is the moon following me?</a></p><p class="youtube-embed-meta">Channel: Moe The Knowbot</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UXpmM7BzTfI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UXpmM7BzTfI">Open on YouTube</a></p></div></div></div>
-
 ### Why Buildings Make a Planet Seem to Drift
 
 The illusion becomes stronger in urban environments. As a person walks through streets or looks between buildings, the apparent alignment between the planet and nearby structures constantly changes.
 
 Suppose Venus appears above a tower block. A few steps later it appears beside the building. A short distance farther on, it may seem to have moved behind another structure. Because the foreground is changing rapidly while the planet remains fixed, the brain can interpret the shifting alignment as motion by the light itself.
 
-This effect is closely related to parallax, the everyday phenomenon in which nearby objects appear to move more than distant ones when the observer changes position. The enormous distance to a planet means its position changes negligibly compared with the surrounding landscape. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/astronomy-essentials/moon-and-[stars" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-snippet">EarthSkyWhy does the moon seem to follow me when I&#x27;m in a car?April 19, 2024 — 19 Apr 2024 — The reason is that the moon is so distant co...</span><span class="citation-popover-meta">Published: April 19, 2024</span></span></span>
+This effect is closely related to parallax, the everyday phenomenon in which nearby objects appear to move more than distant ones when the observer changes position. The enormous distance to a planet means its position changes negligibly compared with the surrounding landscape. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/astronomy-essentials/moon-and-[stars" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-snippet">Why does the moon seem to follow me when I&#x27;m in a car?April 19, 2024 — 19 Apr 2024 — The reason is that the moon is so distant co...</span><span class="citation-popover-meta">Published: April 19, 2024</span></span></span>
 
+<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_planet_following_obs_e4b967-Illustration-2-dark.svg" | relative_url }}" alt="Following Lights illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_planet_following_obs_e4b967-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_planet_following_obs_e4b967-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Cloud Motion and Apparent Drift
 
 Even when the observer is standing still, moving clouds can create the impression that a planet is drifting.
@@ -312,7 +309,6 @@ Even when the observer is standing still, moving clouds can create the impressio
 A bright planet viewed through thin cloud layers may alternately brighten, dim or disappear. As cloud edges pass in front of it, the light can appear to slide relative to the cloud structure. Because clouds provide a visible frame of reference, observers often unconsciously judge the planet's motion against them rather than against the much more stable celestial background.
 
 Several effects can combine:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -325,8 +321,7 @@ Several effects can combine:
 
 In UFO reports, this frequently appears as a description of a luminous object “hovering in one place but slowly drifting” or “moving with the clouds while remaining separate from them”. The actual motion belongs to the [atmosphere]({{ 'atmosphere/' | relative_url }}), not the planet.
 
-
-<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_planet_following_obs_e4b967-Illustration-2-dark.svg" | relative_url }}" alt="Following Lights illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_planet_following_obs_e4b967-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_planet_following_obs_e4b967-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_planet_following_obs_e4b967-Illustration-3-dark.svg" | relative_url }}" alt="Following Lights illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_planet_following_obs_e4b967-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_planet_following_obs_e4b967-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Autokinesis in Dark Empty Skies
 
 When a bright planet is observed in a largely featureless sky, another illusion can take over: autokinesis, also known as the autokinetic effect.
@@ -343,9 +338,6 @@ Importantly, the motion is perceived as real. The observer is not imagining the 
 
 Researchers note that the illusion becomes stronger when there are few reference points and when the observer stares at the object for extended periods. Adding a fixed reference such as a roofline, tree or power line often causes the apparent movement to disappear. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sky-lens.com/guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sky-lens.com">[Sky Lens]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sky-lens.com</span><span class="citation-popover-snippet">Sky LensNight Sky Observer&#x27;s Field GuideWhen you fixate on a stationary light against a featureless dark sky, the light appears to drift...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RZPeB_i05JQ" title="This Optical Illusion Made A Driver Scared Of A Giant Hole In The Road" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RZPeB_i05JQ" target="_blank" rel="noopener noreferrer">This Optical Illusion Made A Driver Scared Of A Giant Hole In The Road</a></p><p class="youtube-embed-meta">Channel: TODAY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RZPeB_i05JQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RZPeB_i05JQ">Open on YouTube</a></p></div></div></div>
-
 ## Why Hovering-Planet Reports Feel So Convincing
 
 The strength of the moving-observer illusion comes from the fact that several mechanisms can operate simultaneously.
@@ -354,15 +346,9 @@ A witness may be driving, providing strong foreground motion. Venus may be low o
 
 Taken together, these influences can produce a remarkably detailed impression of an intelligent, hovering object that tracks the observer, changes position relative to landmarks and occasionally seems to manoeuvre. Yet each apparent movement can arise from well-understood geometric and perceptual processes rather than from motion of the celestial object itself. Astronomical organisations and experienced UFO investigators routinely identify bright planets, especially Venus, as common sources of such reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nightsky.jpl.nasa.gov">[Night Sky Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nightsky.jpl.nasa.gov</span><span class="citation-popover-title">Night Sky Network Identifying UFOs and UAPs</span><span class="citation-popover-snippet">Venus shining bright and low has been reported many times as a UFO.... lights...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2018/11/ufo-identification-process/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerUFO Identification ProcessAs we saw earlier, their seeming ability to dart, wobble, or zigzag and to change color rapid...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5IqkhhSycc4" title="R.E.M - Losing My Religion (Lyrics)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5IqkhhSycc4" target="_blank" rel="noopener noreferrer">R.E.M - Losing My Religion (Lyrics)</a></p><p class="youtube-embed-meta">Channel: Young Pilgrim Music</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5IqkhhSycc4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5IqkhhSycc4">Open on YouTube</a></p></div></div></div>
-
 ## A Simple Reality Check
 
 One practical test distinguishes many of these sightings from genuinely moving objects. If the light is compared with a fixed reference point—a rooftop edge, telephone pole or distant hill—it will usually remain in the same position over short periods if it is a planet. Apparent motion tends to vanish once the observer stops moving and uses stable visual references. This is why astronomical identification guides recommend checking bright, low lights against landmarks and planetarium software before concluding that an unexplained aerial object is present. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nightsky.jpl.nasa.gov">[Night Sky Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nightsky.jpl.nasa.gov</span><span class="citation-popover-title">Night Sky Network Identifying UFOs and UAPs</span><span class="citation-popover-snippet">Venus shining bright and low has been reported many times as a UFO.... lights...Read more...</span></span></span>
-
-
-<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_planet_following_obs_e4b967-Illustration-3-dark.svg" | relative_url }}" alt="Following Lights illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_planet_following_obs_e4b967-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_planet_following_obs_e4b967-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -481,15 +467,15 @@ One practical test distinguishes many of these sightings from genuinely moving o
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-lights-why-a-planet-seems-to-follow-you-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="following-lights-why-a-planet-seems-to-follow-you-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51"><img src="{{ '/assets/images/marketplace-covers/43c4ee420e151dd41424.jpg' | relative_url }}" alt="Listing image for Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-planet-seems-to-follow-you-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="why-a-planet-seems-to-follow-you-venus-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MEETING VENUS / VINTAGE VIDEO FILM POSTER 1990’S MOVIE PROMO GLENN CLOSE"><img src="https://i.ebayimg.com/images/g/ZbkAAeSw2RNqKyPQ/s-l225.jpg" alt="Listing image for MEETING VENUS / VINTAGE VIDEO FILM POSTER 1990’S MOVIE PROMO GLENN CLOSE" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-lights-why-a-planet-seems-to-follow-you-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="following-lights-why-a-planet-seems-to-follow-you-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-planet-seems-to-follow-you-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="why-a-planet-seems-to-follow-you-venus-poster" target="_blank" rel="sponsored noopener noreferrer">MEETING VENUS / VINTAGE VIDEO FILM POSTER 1990’S MOVIE PROMO GLENN CLOSE</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-lights-why-a-planet-seems-to-follow-you-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="following-lights-why-a-planet-seems-to-follow-you-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-planet-seems-to-follow-you-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="why-a-planet-seems-to-follow-you-venus-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for venus poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: venus poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-lights-why-a-planet-seems-to-follow-you-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="following-lights-why-a-planet-seems-to-follow-you-ifos-causes-of-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-planet-seems-to-follow-you-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="why-a-planet-seems-to-follow-you-venus-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -497,15 +483,15 @@ One practical test distinguishes many of these sightings from genuinely moving o
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-lights-why-a-planet-seems-to-follow-you-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="following-lights-why-a-planet-seems-to-follow-you-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 90s Looney Tunes UFO Alien All Over Print Double Sided T Shirt Mens L"><img src="{{ '/assets/images/marketplace-covers/a7247ae98e9ebed04955.jpg' | relative_url }}" alt="Listing image for Vintage 90s Looney Tunes UFO Alien All Over Print Double Sided T Shirt Mens L" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-planet-seems-to-follow-you-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="why-a-planet-seems-to-follow-you-venus-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Titian Venus of Urbino CANVAS PAINTING ART PRINT POSTER 1009"><img src="https://i.ebayimg.com/images/g/x4IAAOSwUu9kLBjI/s-l225.jpg" alt="Listing image for Titian Venus of Urbino CANVAS PAINTING ART PRINT POSTER 1009" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-lights-why-a-planet-seems-to-follow-you-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="following-lights-why-a-planet-seems-to-follow-you-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Vintage 90s Looney Tunes UFO Alien All Over Print Double Sided T Shirt Mens L</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-planet-seems-to-follow-you-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="why-a-planet-seems-to-follow-you-venus-poster" target="_blank" rel="sponsored noopener noreferrer">Titian Venus of Urbino CANVAS PAINTING ART PRINT POSTER 1009</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-lights-why-a-planet-seems-to-follow-you-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="following-lights-why-a-planet-seems-to-follow-you-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-planet-seems-to-follow-you-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="why-a-planet-seems-to-follow-you-venus-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for venus poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: venus poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-lights-why-a-planet-seems-to-follow-you-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="following-lights-why-a-planet-seems-to-follow-you-ifos-causes-of-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-planet-seems-to-follow-you-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="why-a-planet-seems-to-follow-you-venus-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -513,15 +499,15 @@ One practical test distinguishes many of these sightings from genuinely moving o
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-lights-why-a-planet-seems-to-follow-you-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="following-lights-why-a-planet-seems-to-follow-you-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone"><img src="{{ '/assets/images/marketplace-covers/c55bd17eeaec578c24e2.jpg' | relative_url }}" alt="Listing image for Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-planet-seems-to-follow-you-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="why-a-planet-seems-to-follow-you-venus-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Venus Poster - one of the 4 terrest Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/4KYAAeSwpmFp1TfL/s-l225.jpg" alt="Listing image for Venus Poster - one of the 4 terrest Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-lights-why-a-planet-seems-to-follow-you-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="following-lights-why-a-planet-seems-to-follow-you-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-planet-seems-to-follow-you-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="why-a-planet-seems-to-follow-you-venus-poster" target="_blank" rel="sponsored noopener noreferrer">Venus Poster - one of the 4 terrest Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-lights-why-a-planet-seems-to-follow-you-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="following-lights-why-a-planet-seems-to-follow-you-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-planet-seems-to-follow-you-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="why-a-planet-seems-to-follow-you-venus-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for venus poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: venus poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-lights-why-a-planet-seems-to-follow-you-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="following-lights-why-a-planet-seems-to-follow-you-ifos-causes-of-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-planet-seems-to-follow-you-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="why-a-planet-seems-to-follow-you-venus-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -529,15 +515,15 @@ One practical test distinguishes many of these sightings from genuinely moving o
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-lights-why-a-planet-seems-to-follow-you-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="following-lights-why-a-planet-seems-to-follow-you-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN UFO AREA 51 GROOM DRY LAKE TEST FACILITY T-SHIRT"><img src="{{ '/assets/images/marketplace-covers/5eb844375d885ea9eb20.jpg' | relative_url }}" alt="Listing image for ALIEN UFO AREA 51 GROOM DRY LAKE TEST FACILITY T-SHIRT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-planet-seems-to-follow-you-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="why-a-planet-seems-to-follow-you-venus-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for THE BIRTH OF VENUS, ALEXANDRE CABANEL- FRAMED WALL ART PAPER PRINT POSTER"><img src="https://i.ebayimg.com/images/g/hKIAAeSwCCloxI3F/s-l225.jpg" alt="Listing image for THE BIRTH OF VENUS, ALEXANDRE CABANEL- FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-lights-why-a-planet-seems-to-follow-you-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="following-lights-why-a-planet-seems-to-follow-you-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">ALIEN UFO AREA 51 GROOM DRY LAKE TEST FACILITY T-SHIRT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-planet-seems-to-follow-you-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="why-a-planet-seems-to-follow-you-venus-poster" target="_blank" rel="sponsored noopener noreferrer">THE BIRTH OF VENUS, ALEXANDRE CABANEL- FRAMED WALL ART PAPER PRINT POSTER</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-lights-why-a-planet-seems-to-follow-you-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="following-lights-why-a-planet-seems-to-follow-you-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-planet-seems-to-follow-you-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="why-a-planet-seems-to-follow-you-venus-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for venus poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: venus poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-lights-why-a-planet-seems-to-follow-you-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="following-lights-why-a-planet-seems-to-follow-you-ifos-causes-of-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-planet-seems-to-follow-you-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="why-a-planet-seems-to-follow-you-venus-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -545,7 +531,7 @@ One practical test distinguishes many of these sightings from genuinely moving o
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-lights-why-a-planet-seems-to-follow-you-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="following-lights-why-a-planet-seems-to-follow-you-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-planet-seems-to-follow-you-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="why-a-planet-seems-to-follow-you-venus-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -760,101 +746,101 @@ One practical test distinguishes many of these sightings from genuinely moving o
 
 1. <a id="endnote-1"></a>
    Source: earthsky.org  
-   Link: [https://earthsky.org/astronomy-essentials/moon-and-[stars](https://earthsky.org/astronomy-essentials/moon-and-[stars)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EarthSkyWhy does the moon seem to follow me when I&#x27;m in a car?April 19, 2024 — 19 Apr 2024 — The reason is that the moon is so distant co...</p></details>
+   Link: <a href="https://earthsky.org/astronomy-essentials/moon-and-[stars" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/astronomy-essentials/moon-and-[stars</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why does the moon seem to follow me when I&#x27;m in a car?April 19, 2024 — 19 Apr 2024 — The reason is that the moon is so distant co...</p></details>
    Published: April 19, 2024  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Autokinetic effect  
-   Link: [https://en.wikipedia.org/wiki/Autokinetic_effect](https://en.wikipedia.org/wiki/Autokinetic_effect)  
+   Link: <a href="https://en.wikipedia.org/wiki/Autokinetic_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Autokinetic_effect</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 24, 2025 — The autokinetic effect is a phenomenon of visual perception in which a stationary, small point of light in an otherwise da...</p></details>
    Published: May 24, 2025  
 
 3. <a id="endnote-3"></a>
    Source: skybrary.aero  
-   Link: [https://skybrary.aero/articles/autokinetic-effect](https://skybrary.aero/articles/autokinetic-effect)  
+   Link: <a href="https://skybrary.aero/articles/autokinetic-effect" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/autokinetic-effect</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>light in an otherwise dark or featureless environment appears to move...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: sky-lens.com  
-   Link: [https://sky-lens.com/guide](https://sky-lens.com/guide)  
+   Link: <a href="https://sky-lens.com/guide" target="_blank" rel="noopener noreferrer nofollow">https://sky-lens.com/guide</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky LensNight Sky Observer&#x27;s Field GuideWhen you fixate on a stationary light against a featureless dark sky, the light appears to drift...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Sensory illusions in aviation  
-   Link: [https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation](https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation)  
+   Link: <a href="https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation</a>  
 
 6. <a id="endnote-6"></a>
    Source: nightsky.jpl.nasa.gov  
    Title: Night Sky Network Identifying UFOs and UAPs  
-   Link: [https://nightsky.jpl.nasa.gov/news/39/](https://nightsky.jpl.nasa.gov/news/39/)  
+   Link: <a href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow">https://nightsky.jpl.nasa.gov/news/39/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Venus shining bright and low has been reported many times as a UFO.... lights...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/2018/11/ufo-identification-process/](https://skepticalinquirer.org/2018/11/ufo-identification-process/)  
+   Link: <a href="https://skepticalinquirer.org/2018/11/ufo-identification-process/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2018/11/ufo-identification-process/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical InquirerUFO Identification ProcessAs we saw earlier, their seeming ability to dart, wobble, or zigzag and to change color rapid...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: popsci.com  
    Title: Popular Science You didn't see a UFO  
-   Link: [https://www.popsci.com/science/ufo-sightings-explained-rocket-satellite-venus/](https://www.popsci.com/science/ufo-sightings-explained-rocket-satellite-venus/)  
+   Link: <a href="https://www.popsci.com/science/ufo-sightings-explained-rocket-satellite-venus/" target="_blank" rel="noopener noreferrer nofollow">https://www.popsci.com/science/ufo-sightings-explained-rocket-satellite-venus/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>It was probably one of these things.10 Sept 2023 — &#x27; No, it&#x27;s just a meteor, because it blew up in only two seconds. Or: &#x27;Is this a UFO?&#x27;...</p></details>
 
 ### Additional References
 
 9. <a id="endnote-9"></a>
    Source: ianridpath.com  
-   Link: [https://www.ianridpath.com/ufo/astroufo1.html](https://www.ianridpath.com/ufo/astroufo1.html)  
+   Link: <a href="https://www.ianridpath.com/ufo/astroufo1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/astroufo1.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Astronomical causes of UFOsAutokinetic motion can be uncanny when watching artificial [satellites](&amp;#123;&amp;#123; &#x27;satellites/&#x27; | relative_url &amp;#125;&amp;#125;), which often appear to zig zag or even m...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: newworldencyclopedia.org  
-   Link: [https://www.newworldencyclopedia.org/entry/Autokinesis](https://www.newworldencyclopedia.org/entry/Autokinesis)  
+   Link: <a href="https://www.newworldencyclopedia.org/entry/Autokinesis" target="_blank" rel="noopener noreferrer nofollow">https://www.newworldencyclopedia.org/entry/Autokinesis</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AutokinesisSometimes called the autokinetic effect, autokinesis is a visual illusion where a light can appear to move when stared at in t...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: cnes-[geipan](&#123;&#123; 'geipan/' | relative_url &#125;&#125;). fr  
-   Link: [https://www.cnes-geipan.fr/en/node/58788](https://www.cnes-geipan.fr/en/node/58788)  
+   Link: <a href="https://www.cnes-geipan.fr/en/node/58788" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58788</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MethodologyPerception mistakes due to the brain short-term processing (autokinetic effect) or due to psychological constructs (distance a...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/dullmensclub/posts/2101840190472511/?comment_id=2107235196599677](https://www.facebook.com/groups/dullmensclub/posts/2101840190472511/?comment_id=2107235196599677)  
+   Link: <a href="https://www.facebook.com/groups/dullmensclub/posts/2101840190472511/?comment_id=2107235196599677" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/dullmensclub/posts/2101840190472511/?comment_id=2107235196599677</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Venus appears as a bright light while drivingSo… I always wondered what this bright light was while driving to work. It turns out that it...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: instagram.com  
    Title: There were many who reported this as UFO sighting. I  
-   Link: [https://www.instagram.com/reel/CpBbiWfvYGT/](https://www.instagram.com/reel/CpBbiWfvYGT/)  
+   Link: <a href="https://www.instagram.com/reel/CpBbiWfvYGT/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/CpBbiWfvYGT/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A beautiful planetary conjunction of Venus and Jupiter, the...The last image was the rare conjunction of 1999 where the two almost merge...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: iflscience.com  
-   Link: [https://www.iflscience.com/what-did-galileo-see-in-venus-and-jupiter-that-convinced-him-that-earth-goes-around-the-sun-83411](https://www.iflscience.com/what-did-galileo-see-in-venus-and-jupiter-that-convinced-him-that-earth-goes-around-the-sun-83411)  
+   Link: <a href="https://www.iflscience.com/what-did-galileo-see-in-venus-and-jupiter-that-convinced-him-that-earth-goes-around-the-sun-83411" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/what-did-galileo-see-in-venus-and-jupiter-that-convinced-him-that-earth-goes-around-the-sun-83411</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What Did Galileo See In Venus And Jupiter That...5 May 2026 — This sphere rotated, explaining the apparent movement of the celestial bodies...</p></details>
    Published: May 2026  
 
 15. <a id="endnote-15"></a>
    Source: aol.com  
-   Link: [https://www.aol.com/articles/ufo-improbability-summer-solstice-venus-090211346.html](https://www.aol.com/articles/ufo-improbability-summer-solstice-venus-090211346.html)  
+   Link: <a href="https://www.aol.com/articles/ufo-improbability-summer-solstice-venus-090211346.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/articles/ufo-improbability-summer-solstice-venus-090211346.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO improbability, summer solstice and Venus hugging a...4 days ago — UFO improbability, summer solstice and Venus hugging a crescent moon...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/space/comments/d6ne8j/i_saw_a_phenomenon_in_the_sky_last_night_that_i/](https://www.reddit.com/r/space/comments/d6ne8j/i_saw_a_phenomenon_in_the_sky_last_night_that_i/)  
+   Link: <a href="https://www.reddit.com/r/space/comments/d6ne8j/i_saw_a_phenomenon_in_the_sky_last_night_that_i/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/d6ne8j/i_saw_a_phenomenon_in_the_sky_last_night_that_i/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>c effect is an optical illusion that makes stars look like UFO&#x27;s...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: kqed.org  
    Title: ufo lgm omg what is that thing in the sky  
-   Link: [https://www.kqed.org/quest/35359/ufo-lgm-omg-what-is-that-thing-in-the-sky](https://www.kqed.org/quest/35359/ufo-lgm-omg-what-is-that-thing-in-the-sky)  
+   Link: <a href="https://www.kqed.org/quest/35359/ufo-lgm-omg-what-is-that-thing-in-the-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.kqed.org/quest/35359/ufo-lgm-omg-what-is-that-thing-in-the-sky</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO? LGM? OMG! What is That Thing in the Sky?20 Apr 2012 — UFO? LGM? OMG! What is That Thing in the Sky? Ever seen something in the sky t...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: csmonitor.com  
    Title: [Bright Venus](&#123;&#123; 'bright-venus/' | relative_url &#125;&#125;) may prompt UFO sightings  
-   Link: [https://www.csmonitor.com/Science/2010/1102/Bright-Venus-may-prompt-UFO-sightings](https://www.csmonitor.com/Science/2010/1102/Bright-Venus-may-prompt-UFO-sightings)  
+   Link: <a href="https://www.csmonitor.com/Science/2010/1102/Bright-Venus-may-prompt-UFO-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.csmonitor.com/Science/2010/1102/Bright-Venus-may-prompt-UFO-sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2 Nov 2010 — An extended daylight savings time will mean that Venus will shine bright in the eastern sky in the morning, likely prompting...</p></details>

@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_motion_blur_rods_96a808
 - ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_range_evidence_camer_8b4dfe
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - insects
 - false-speed
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - insects
 - false-speed
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: A tiny insect close to a camera can look like a distant craft making impossible moves when its range is only assumed.
 hero_summary: A tiny insect close to a camera can look like a distant craft making impossible moves when its range is only assumed.
 layout: default
 permalink: /false-speed/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /insects/
 nav_short_title: False Speed
 title: Why Bugs Can Look Impossibly Fast
-title_full: Why Bugs Can Look Impossibly Fast | Insects
+title_full: Why Bugs Can Look Impossibly Fast
 display_title_short: False Speed
 display_title: False Speed
 heading_title: Why Bugs Can Look Impossibly Fast
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 07:56:57'
-parent_title: The Tiny Things Cameras Make Huge | IFOs
+parent_title: The Tiny Things Cameras Make Huge
 parent_permalink: /insects/
 parent_nav_short_title: Insects
 parent_heading_title: The Tiny Things Cameras Make Huge
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74
-  title: Insects | Ifos Causes Of
+  title: Insects | ifos causes of UFO 3 ed 238
   permalink: /insects/
   short_title: Insects
   heading_title: The Tiny Things Cameras Make Huge
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74
-  title: Insects | Ifos Causes Of
+  title: Insects | ifos causes of UFO 3 ed 238
   permalink: /insects/
   short_title: Insects
   heading_title: The Tiny Things Cameras Make Huge
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: What Evidence Rules Out Camera Bugs?
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74
-  title: Insects | Ifos Causes Of
+  title: Insects | ifos causes of UFO 3 ed 238
   permalink: /insects/
   short_title: Insects
   heading_title: The Tiny Things Cameras Make Huge
@@ -266,6 +265,7 @@ next_link:
   permalink: /flying-rods/
   short_title: Flying Rods
   heading_title: Are Flying Rods Really Camera Bugs?
+date: '2026-06-12 00:25:43 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_bugs_false_speed_a0c362-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_bugs_false_speed_a0c362-Illustration-1.webp
@@ -276,11 +276,10 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_bugs
 
 A common mistake in UFO video analysis is to assume that an object seen crossing the frame is far away. If that assumption is wrong, a tiny insect only centimetres from the lens can be transformed into an apparently distant object travelling at extraordinary speed. The video itself often contains no direct distance information, yet viewers instinctively assign the object a location somewhere in the sky. Once that happens, ordinary insect motion can be converted into calculations suggesting impossible acceleration, hypersonic velocity or abrupt changes of direction. This is one of the simplest ways that genuine objects become apparent UFOs. The effect is not caused by unusual flight behaviour but by a [range]({{ 'range/' | relative_url }})-estimation error: the object's distance is guessed rather than measured. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_bugs_false_speed_a0c362-Illustration-1-dark.svg" | relative_url }}" alt="False Speed illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_bugs_false_speed_a0c362-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_bugs_false_speed_a0c362-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Single Cameras Cannot Measure Range
 
-A standard video camera records where an object appears in the image, not how far away it is. A small nearby object and a large distant object can occupy the same number of pixels on the screen. Without independent distance information, the camera cannot automatically distinguish between the two possibilities. This limitation is well known in computer vision and is one reason why accurate distance measurement from a single image is a difficult technical problem requiring extra assumptions, calibration or multiple viewpoints. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7412466/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCObject Distance Estimation Using a Single Image Taken from...by N Kim · 2020 · Cited by 20 — This paper proposes a technique to estim...</span></span></span> 2arXiv
+A standard video camera records where an object appears in the image, not how far away it is. A small nearby object and a large distant object can occupy the same number of pixels on the screen. Without independent distance information, the camera cannot automatically distinguish between the two possibilities. This limitation is well known in computer vision and is one reason why accurate distance measurement from a single image is a difficult technical problem requiring extra assumptions, calibration or multiple viewpoints. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7412466/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Object Distance Estimation Using a Single Image Taken from...by N Kim · 2020 · Cited by 20 — This paper proposes a technique to estim...</span></span></span> 2arXiv
 
 For UFO footage, the problem is particularly severe when the object appears as a dot, blur or streak against an empty sky. There may be no landmarks, shadows, [radar]({{ 'radar/' | relative_url }}) data or stereo views available to establish range. In such cases, assigning a distance becomes an interpretation rather than a measurement.
 
@@ -292,10 +291,7 @@ Imagine an insect 10 centimetres from a camera lens. It moves 20 centimetres sid
 
 Now imagine a viewer assumes the object is 500 metres away. The same angular movement would imply that the object covered tens or hundreds of metres in the same time interval. The calculated speed suddenly becomes extraordinary even though the actual motion was that of a common fly.
 
-The image does not tell the viewer which interpretation is correct. Additional evidence is needed to choose between them. Until that evidence exists, speed estimates based solely on the assumed distance are speculative. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7412466/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCObject Distance Estimation Using a Single Image Taken from...by N Kim · 2020 · Cited by 20 — This paper proposes a technique to estim...</span></span></span> 2arXiv
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sMuWEaSsxZg" title="How to Estimate Real Distance to Objects with a Single Camera and YOLO11" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sMuWEaSsxZg" target="_blank" rel="noopener noreferrer">How to Estimate Real Distance to Objects with a Single Camera and YOLO11</a></p><p class="youtube-embed-meta">Channel: Nicolai Nielsen &middot; Views: 23.4K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sMuWEaSsxZg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sMuWEaSsxZg">Open on YouTube</a></p></div></div></div>
+The image does not tell the viewer which interpretation is correct. Additional evidence is needed to choose between them. Until that evidence exists, speed estimates based solely on the assumed distance are speculative. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7412466/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Object Distance Estimation Using a Single Image Taken from...by N Kim · 2020 · Cited by 20 — This paper proposes a technique to estim...</span></span></span> 2arXiv
 
 ## How Close Motion Inflates Speed Estimates
 
@@ -306,7 +302,6 @@ A useful everyday comparison is looking out of a moving train. Fence posts close
 Near-lens [insects]({{ 'insects/' | relative_url }}) exploit the same principle. A fly moving a few centimetres near the camera can generate a dramatic angular shift. If that angular shift is interpreted as motion occurring hundreds or thousands of metres away, the inferred speed can become enormous.
 
 This is why some UFO videos appear to show objects:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -325,18 +320,16 @@ Distance errors do not merely introduce small inaccuracies. They can alter concl
 
 If an object is assumed to be 1,000 times farther away than it really is, its inferred size and travelled distance may also be inflated by roughly the same factor. A movement of centimetres can become interpreted as movement of tens or hundreds of metres. Because speed is distance divided by time, the speed estimate grows accordingly.
 
-This is one reason why extraordinary performance claims based on a single ambiguous video should be treated cautiously. The uncertainty is often dominated by the unknown distance rather than by the quality of the timing measurements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7412466/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCObject Distance Estimation Using a Single Image Taken from...by N Kim · 2020 · Cited by 20 — This paper proposes a technique to estim...</span></span></span>
-
+This is one reason why extraordinary performance claims based on a single ambiguous video should be treated cautiously. The uncertainty is often dominated by the unknown distance rather than by the quality of the timing measurements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7412466/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Object Distance Estimation Using a Single Image Taken from...by N Kim · 2020 · Cited by 20 — This paper proposes a technique to estim...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_bugs_false_speed_a0c362-Illustration-2-dark.svg" | relative_url }}" alt="False Speed illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_bugs_false_speed_a0c362-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_bugs_false_speed_a0c362-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A Useful Example: The Denver "UFO" Videos
 
 One of the best-known examples involved videos from Denver that were promoted as showing fast-moving unidentified objects. The objects appeared to dart across the frame at remarkable speed and were difficult to identify visually.
 
-Astronomer Phil Plait analysed the footage and argued that the behaviour was consistent with insects passing close to the camera rather than distant aerial craft. The apparent mystery depended on treating the objects as far away. Once the near-camera explanation was considered, the observed motion no longer required unusual performance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.slate.com/blogs/bad_astronomy/2012/11/28/ufos_over_denver_are_insects.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slate.com">[Slate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slate.com</span><span class="citation-popover-title">UFOs over Denver are insects</span><span class="citation-popover-snippet">SlateUFOs over Denver are insectsNovember 28, 2012 — 28 Nov 2012 — As a skeptic and an astronomer, I&#x27;m sometimes asked what it would take...</span><span class="citation-popover-meta">Published: November 28, 2012</span></span></span>
+Astronomer Phil Plait analysed the footage and argued that the behaviour was consistent with insects passing close to the camera rather than distant aerial craft. The apparent mystery depended on treating the objects as far away. Once the near-camera explanation was considered, the observed motion no longer required unusual performance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.slate.com/blogs/bad_astronomy/2012/11/28/ufos_over_denver_are_insects.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slate.com">[Slate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slate.com</span><span class="citation-popover-title">UFOs over Denver are insects</span><span class="citation-popover-snippet">UFOs over Denver are insectsNovember 28, 2012 — 28 Nov 2012 — As a skeptic and an astronomer, I&#x27;m sometimes asked what it would take...</span><span class="citation-popover-meta">Published: November 28, 2012</span></span></span>
 
 The case illustrates a recurring pattern in UFO video analysis:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -349,8 +342,7 @@ The case illustrates a recurring pattern in UFO video analysis:
 
 The crucial step is not the speed calculation itself but the range estimate that precedes it.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8otYXiQlqRE" title="Horsefly Vision Through Glare The Hidden Perspective (53)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8otYXiQlqRE" target="_blank" rel="noopener noreferrer">Horsefly Vision Through Glare The Hidden Perspective (53)</a></p><p class="youtube-embed-meta">Channel: Omni Eyes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8otYXiQlqRE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8otYXiQlqRE">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sMuWEaSsxZg" title="How to Estimate Real Distance to Objects with a Single Camera and YOLO11" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sMuWEaSsxZg" target="_blank" rel="noopener noreferrer">How to Estimate Real Distance to Objects with a Single Camera and YOLO11</a></p><p class="youtube-embed-meta">Channel: Nicolai Nielsen &middot; Views: 23.4K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sMuWEaSsxZg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sMuWEaSsxZg">Open on YouTube</a></p></div></div></div>
 
 ## Simple Checks Before Calling It Anomalous
 
@@ -380,17 +372,12 @@ Many near-lens insects cross the frame rapidly without showing the consistent tr
 
 If so, the conclusion may be driven more by geometry than by observed behaviour.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_bugs_false_speed_a0c362-Illustration-3-dark.svg" | relative_url }}" alt="False Speed illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_bugs_false_speed_a0c362-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_bugs_false_speed_a0c362-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What This Mechanism Explains
 
 The "fast bug" explanation does not require camera malfunction, [hoaxes]({{ 'hoaxes/' | relative_url }}) or mistaken timing. It relies on a simpler issue: humans naturally infer distance from a flat image even when the image contains insufficient information to support that inference.
 
 Once a nearby insect is mentally relocated to the distant sky, every subsequent estimate becomes distorted. Its size grows, its speed increases and its ordinary flight path can begin to resemble extraordinary manoeuvres. In many UFO videos, the apparent anomaly is therefore not the object's motion itself but the hidden assumption about where the object was located when the video was recorded. Slate <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RLhGVmdEC-E" title="All about LENSES! How do they work? What is FOCAL length? What LENS should YOU BUY?! [04/10]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RLhGVmdEC-E" target="_blank" rel="noopener noreferrer">All about LENSES! How do they work? What is FOCAL length? What LENS should YOU BUY?! [04/10]</a></p><p class="youtube-embed-meta">Channel: Nicolas Doretti</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RLhGVmdEC-E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RLhGVmdEC-E">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -509,15 +496,15 @@ Once a nearby insect is mentally relocated to the distant sky, every subsequent 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-speed-why-bugs-can-look-impossibly-fast-ifos-causes-of-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="false-speed-why-bugs-can-look-impossibly-fast-ifos-causes-of-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for space rocket plastic model kits Mercury Atlas and Friendship 7 Duo"><img src="{{ '/assets/images/marketplace-covers/cf03186a904199df8832.jpg' | relative_url }}" alt="Listing image for space rocket plastic model kits Mercury Atlas and Friendship 7 Duo" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bugs-can-look-impossibly-fast-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="why-bugs-can-look-impossibly-fast-insect-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Rosea Grasshopper (Chondracris rosea) Shadow Frame Display Beetle Insect"><img src="https://i.ebayimg.com/images/g/AfgAAOSw03JiOdxq/s-l225.jpg" alt="Listing image for The Rosea Grasshopper (Chondracris rosea) Shadow Frame Display Beetle Insect" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-speed-why-bugs-can-look-impossibly-fast-ifos-causes-of-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="false-speed-why-bugs-can-look-impossibly-fast-ifos-causes-of-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer">space rocket plastic model kits Mercury Atlas and Friendship 7 Duo</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bugs-can-look-impossibly-fast-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="why-bugs-can-look-impossibly-fast-insect-display" target="_blank" rel="sponsored noopener noreferrer">The Rosea Grasshopper (Chondracris rosea) Shadow Frame Display Beetle Insect</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-speed-why-bugs-can-look-impossibly-fast-ifos-causes-of-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="false-speed-why-bugs-can-look-impossibly-fast-ifos-causes-of-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for spacecraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: spacecraft model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bugs-can-look-impossibly-fast-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="why-bugs-can-look-impossibly-fast-insect-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for insect display">Search <span data-ebay-domain-label>eBay.co.uk</span>: insect display</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-speed-why-bugs-can-look-impossibly-fast-ifos-causes-of-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="false-speed-why-bugs-can-look-impossibly-fast-ifos-causes-of-spacecraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bugs-can-look-impossibly-fast-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="why-bugs-can-look-impossibly-fast-insect-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -525,15 +512,15 @@ Once a nearby insect is mentally relocated to the distant sky, every subsequent 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-speed-why-bugs-can-look-impossibly-fast-ifos-causes-of-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="false-speed-why-bugs-can-look-impossibly-fast-ifos-causes-of-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Apollo 11 Astronaut On The Moon Revell Model 1/8 Kit"><img src="{{ '/assets/images/marketplace-covers/914dfe7a66c0d09c8a21.jpg' | relative_url }}" alt="Listing image for Apollo 11 Astronaut On The Moon Revell Model 1/8 Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bugs-can-look-impossibly-fast-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="why-bugs-can-look-impossibly-fast-insect-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Solid Wood Insect Bug Specimen Box Plant Display Case Frame Butterfly Making DIY"><img src="https://i.ebayimg.com/images/g/G2wAAOSwKrNjY3Fo/s-l225.jpg" alt="Listing image for Solid Wood Insect Bug Specimen Box Plant Display Case Frame Butterfly Making DIY" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-speed-why-bugs-can-look-impossibly-fast-ifos-causes-of-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="false-speed-why-bugs-can-look-impossibly-fast-ifos-causes-of-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer">Apollo 11 Astronaut On The Moon Revell Model 1/8 Kit</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bugs-can-look-impossibly-fast-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="why-bugs-can-look-impossibly-fast-insect-display" target="_blank" rel="sponsored noopener noreferrer">Solid Wood Insect Bug Specimen Box Plant Display Case Frame Butterfly Making DIY</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-speed-why-bugs-can-look-impossibly-fast-ifos-causes-of-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="false-speed-why-bugs-can-look-impossibly-fast-ifos-causes-of-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for spacecraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: spacecraft model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bugs-can-look-impossibly-fast-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="why-bugs-can-look-impossibly-fast-insect-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for insect display">Search <span data-ebay-domain-label>eBay.co.uk</span>: insect display</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-speed-why-bugs-can-look-impossibly-fast-ifos-causes-of-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="false-speed-why-bugs-can-look-impossibly-fast-ifos-causes-of-spacecraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bugs-can-look-impossibly-fast-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="why-bugs-can-look-impossibly-fast-insect-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -541,15 +528,15 @@ Once a nearby insect is mentally relocated to the distant sky, every subsequent 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-speed-why-bugs-can-look-impossibly-fast-ifos-causes-of-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="false-speed-why-bugs-can-look-impossibly-fast-ifos-causes-of-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Halcyon Alien Nostromo, HT03, 1:960 Scale Model Kit"><img src="{{ '/assets/images/marketplace-covers/eefe1a24f03345369793.jpg' | relative_url }}" alt="Listing image for Halcyon Alien Nostromo, HT03, 1:960 Scale Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bugs-can-look-impossibly-fast-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="why-bugs-can-look-impossibly-fast-insect-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Emperor Dragonfly (Anax gibbosulus) Shadow Box Frame Display Beetle Insect"><img src="https://i.ebayimg.com/images/g/IkwAAOSwCa1gEB-q/s-l225.jpg" alt="Listing image for Green Emperor Dragonfly (Anax gibbosulus) Shadow Box Frame Display Beetle Insect" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-speed-why-bugs-can-look-impossibly-fast-ifos-causes-of-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="false-speed-why-bugs-can-look-impossibly-fast-ifos-causes-of-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer">Halcyon Alien Nostromo, HT03, 1:960 Scale Model Kit</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bugs-can-look-impossibly-fast-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="why-bugs-can-look-impossibly-fast-insect-display" target="_blank" rel="sponsored noopener noreferrer">Green Emperor Dragonfly (Anax gibbosulus) Shadow Box Frame Display Beetle Insect</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-speed-why-bugs-can-look-impossibly-fast-ifos-causes-of-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="false-speed-why-bugs-can-look-impossibly-fast-ifos-causes-of-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for spacecraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: spacecraft model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bugs-can-look-impossibly-fast-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="why-bugs-can-look-impossibly-fast-insect-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for insect display">Search <span data-ebay-domain-label>eBay.co.uk</span>: insect display</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-speed-why-bugs-can-look-impossibly-fast-ifos-causes-of-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="false-speed-why-bugs-can-look-impossibly-fast-ifos-causes-of-spacecraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bugs-can-look-impossibly-fast-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="why-bugs-can-look-impossibly-fast-insect-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -557,15 +544,15 @@ Once a nearby insect is mentally relocated to the distant sky, every subsequent 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-speed-why-bugs-can-look-impossibly-fast-ifos-causes-of-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="false-speed-why-bugs-can-look-impossibly-fast-ifos-causes-of-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Airfix Apollo Saturn V Space Rocket 1/144 Model Kit 9170 Unopened"><img src="{{ '/assets/images/marketplace-covers/5f775e382bd29a784038.jpg' | relative_url }}" alt="Listing image for Vintage Airfix Apollo Saturn V Space Rocket 1/144 Model Kit 9170 Unopened" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bugs-can-look-impossibly-fast-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="why-bugs-can-look-impossibly-fast-insect-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Colourful Lanternfly (Pyrops gunjii) Cicada Insect Glass Bell Dome Display Jar"><img src="https://i.ebayimg.com/images/g/cZEAAOSwXZBggEot/s-l225.jpg" alt="Listing image for Colourful Lanternfly (Pyrops gunjii) Cicada Insect Glass Bell Dome Display Jar" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-speed-why-bugs-can-look-impossibly-fast-ifos-causes-of-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="false-speed-why-bugs-can-look-impossibly-fast-ifos-causes-of-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer">Vintage Airfix Apollo Saturn V Space Rocket 1/144 Model Kit 9170 Unopened</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bugs-can-look-impossibly-fast-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="why-bugs-can-look-impossibly-fast-insect-display" target="_blank" rel="sponsored noopener noreferrer">Colourful Lanternfly (Pyrops gunjii) Cicada Insect Glass Bell Dome Display Jar</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-speed-why-bugs-can-look-impossibly-fast-ifos-causes-of-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="false-speed-why-bugs-can-look-impossibly-fast-ifos-causes-of-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for spacecraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: spacecraft model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bugs-can-look-impossibly-fast-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="why-bugs-can-look-impossibly-fast-insect-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for insect display">Search <span data-ebay-domain-label>eBay.co.uk</span>: insect display</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-speed-why-bugs-can-look-impossibly-fast-ifos-causes-of-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="false-speed-why-bugs-can-look-impossibly-fast-ifos-causes-of-spacecraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bugs-can-look-impossibly-fast-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="why-bugs-can-look-impossibly-fast-insect-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -573,7 +560,7 @@ Once a nearby insect is mentally relocated to the distant sky, every subsequent 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-speed-why-bugs-can-look-impossibly-fast-ifos-causes-of-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="false-speed-why-bugs-can-look-impossibly-fast-ifos-causes-of-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bugs-can-look-impossibly-fast-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="why-bugs-can-look-impossibly-fast-insect-display" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -788,53 +775,53 @@ Once a nearby insect is mentally relocated to the distant sky, every subsequent 
 
 1. <a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: [https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/](https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/)  
+   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through sys...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7412466/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7412466/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCObject Distance Estimation Using a Single Image Taken from...by N Kim · 2020 · Cited by 20 — This paper proposes a technique to estim...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7412466/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7412466/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Object Distance Estimation Using a Single Image Taken from...by N Kim · 2020 · Cited by 20 — This paper proposes a technique to estim...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2210.12596](https://arxiv.org/abs/2210.12596)  
+   Link: <a href="https://arxiv.org/abs/2210.12596" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2210.12596</a>  
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2208.05319](https://arxiv.org/abs/2208.05319)  
+   Link: <a href="https://arxiv.org/abs/2208.05319" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2208.05319</a>  
 
 6. <a id="endnote-6"></a>
    Source: slate.com  
    Title: UFOs over Denver are insects  
-   Link: [https://www.slate.com/blogs/bad_astronomy/2012/11/28/ufos_over_denver_are_insects.html](https://www.slate.com/blogs/bad_astronomy/2012/11/28/ufos_over_denver_are_insects.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SlateUFOs over Denver are insectsNovember 28, 2012 — 28 Nov 2012 — As a skeptic and an astronomer, I&#x27;m sometimes asked what it would take...</p></details>
+   Link: <a href="https://www.slate.com/blogs/bad_astronomy/2012/11/28/ufos_over_denver_are_insects.html" target="_blank" rel="noopener noreferrer nofollow">https://www.slate.com/blogs/bad_astronomy/2012/11/28/ufos_over_denver_are_insects.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs over Denver are insectsNovember 28, 2012 — 28 Nov 2012 — As a skeptic and an astronomer, I&#x27;m sometimes asked what it would take...</p></details>
    Published: November 28, 2012  
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1702.06441](https://arxiv.org/abs/1702.06441)  
+   Link: <a href="https://arxiv.org/abs/1702.06441" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1702.06441</a>  
 
 8. <a id="endnote-8"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — The study will focus on identifying available data, how best to collect future data, and how NASA can use that da...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: slate.com  
    Title: webcam ufo night apparation isn t quite what it s claimed to be  
-   Link: [https://www.slate.com/blogs/bad_astronomy/2014/04/10/webcam_ufo_night_apparation_isn_t_quite_what_it_s_claimed_to_be.html](https://www.slate.com/blogs/bad_astronomy/2014/04/10/webcam_ufo_night_apparation_isn_t_quite_what_it_s_claimed_to_be.html)  
+   Link: <a href="https://www.slate.com/blogs/bad_astronomy/2014/04/10/webcam_ufo_night_apparation_isn_t_quite_what_it_s_claimed_to_be.html" target="_blank" rel="noopener noreferrer nofollow">https://www.slate.com/blogs/bad_astronomy/2014/04/10/webcam_ufo_night_apparation_isn_t_quite_what_it_s_claimed_to_be.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bambi Versus the Space Alien10 Apr 2014 — A Mississippi couple talking about some footage from a camera they set up outside their house...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2506.00125v1](https://arxiv.org/html/2506.00125v1)  
+   Link: <a href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.00125v1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Introduction30 May 2025 —... (UAP) is limited by poor data quality and incomplete data sets. Existing data are often fragmented, uncal...</p></details>
    Published: May 2025  
 
@@ -842,54 +829,54 @@ Once a nearby insect is mentally relocated to the distant sky, every subsequent 
 
 11. <a id="endnote-11"></a>
    Source: scientificamerican.com  
-   Link: [https://www.scientificamerican.com/article/insects-destructive-to-photographs/](https://www.scientificamerican.com/article/insects-destructive-to-photographs/)  
+   Link: <a href="https://www.scientificamerican.com/article/insects-destructive-to-photographs/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/insects-destructive-to-photographs/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Insects Destructive to PhotographsThis article was published with the title “Insects Destructive to Photographs” in SA Supplements Vol. 5...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: primitiveproton.com  
-   Link: [https://primitiveproton.com/unidentified-anomalous-phenomena-uap/](https://primitiveproton.com/unidentified-anomalous-phenomena-uap/)  
+   Link: <a href="https://primitiveproton.com/unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://primitiveproton.com/unidentified-anomalous-phenomena-uap/</a>  
 
 13. <a id="endnote-13"></a>
    Source: fastcompany.com  
    Title: nasa just threw cold water on the idea that ufo sightings are extraterrestrial  
-   Link: [https://www.fastcompany.com/90954823/nasa-just-threw-cold-water-on-the-idea-that-ufo-sightings-are-extraterrestrial](https://www.fastcompany.com/90954823/nasa-just-threw-cold-water-on-the-idea-that-ufo-sightings-are-extraterrestrial)  
+   Link: <a href="https://www.fastcompany.com/90954823/nasa-just-threw-cold-water-on-the-idea-that-ufo-sightings-are-extraterrestrial" target="_blank" rel="noopener noreferrer nofollow">https://www.fastcompany.com/90954823/nasa-just-threw-cold-water-on-the-idea-that-ufo-sightings-are-extraterrestrial</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA just threw cold water on the idea that UFO sightings...19 Sept 2023 — Analysis of this data is “hampered by poor sensor calibration...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=TQcqOW39ksk](https://www.youtube.com/watch?v=TQcqOW39ksk)  
+   Link: <a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study ReportNASA commissioned an independent study team to examine unidentified anomalous ph...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: fallscityne.biblionix.com  
-   Link: [https://fallscityne.biblionix.com/catalog/titles/](https://fallscityne.biblionix.com/catalog/titles/)  
+   Link: <a href="https://fallscityne.biblionix.com/catalog/titles/" target="_blank" rel="noopener noreferrer nofollow">https://fallscityne.biblionix.com/catalog/titles/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>owned by Falls City Library and Arts Center - BiblionixSo, you wanna be a comic book artist written by Philip Amara; illustrated by Pop...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: meritalk.com  
    Title: nasa urged to take more permanent role in uap research effort  
-   Link: [https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/](https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/)  
+   Link: <a href="https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/" target="_blank" rel="noopener noreferrer nofollow">https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Urged to Take More Permanent Role in UAP...15 Sept 2023 — The study team found that most UAP data is “hampered by poor sensor calib...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: nevadacurrent.com  
    Title: nasa report finds no evidence that ufos are extraterrestrial  
-   Link: [https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/](https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/)  
+   Link: <a href="https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow">https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>18 Sept 2023 — Analysis of this data is “hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor metad...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: thedebrief.org  
    Title: nasas unidentified anomalous phenomena report key takeaways  
-   Link: [https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/](https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/)  
+   Link: <a href="https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s Unidentified Anomalous Phenomena Report14 Sept 2023 — “At present, analysis of UAP data is hampered by poor sensor calibration, th...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: scispace.com  
-   Link: [https://scispace.com/pdf/object-distance-measurement-using-a-single-camera-for-3dljjvt2n9.pdf](https://scispace.com/pdf/object-distance-measurement-using-a-single-camera-for-3dljjvt2n9.pdf)  
+   Link: <a href="https://scispace.com/pdf/object-distance-measurement-using-a-single-camera-for-3dljjvt2n9.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/object-distance-measurement-using-a-single-camera-for-3dljjvt2n9.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>based systems in order to develop an accurate, fast, and efficient algorithm to.Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: avweb.com  
    Title: nasa report no aliens but more uap investigations needed  
-   Link: [https://avweb.com/aviation-news/nasa-report-no-aliens-but-more-uap-investigations-needed/](https://avweb.com/aviation-news/nasa-report-no-aliens-but-more-uap-investigations-needed/)  
+   Link: <a href="https://avweb.com/aviation-news/nasa-report-no-aliens-but-more-uap-investigations-needed/" target="_blank" rel="noopener noreferrer nofollow">https://avweb.com/aviation-news/nasa-report-no-aliens-but-more-uap-investigations-needed/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Report: No Aliens, But More UAP Investigations...15 Sept 2023 — The report said investigations have thus far “been hampered by poor...</p></details>

@@ -50,22 +50,22 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13
 - ifos_-_causes_of_UFO_3ed238_wind_data_33671a
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - reflections
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - reflections
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Window, windscreen and cockpit reflections can place a real-looking light in the sky where no outside object exists.
 hero_summary: Window, windscreen and cockpit reflections can place a real-looking light in the sky where no outside object exists.
 layout: default
 permalink: /reflections/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 nav_short_title: Reflections
 title: The UFO Inside the Glass
-title_full: The UFO Inside the Glass | IFOs
+title_full: The UFO Inside the Glass
 display_title_short: Reflections
 display_title: Reflections
 heading_title: The UFO Inside the Glass
@@ -240,213 +240,212 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 09:28:50'
 parent_title: IFOs
-parent_permalink: /ifos-causes-of/
+parent_permalink: /ifos-causes-of-ufo-3-ed-238/
 parent_nav_short_title: IFOs
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 sibling_links:
 - basename: ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d
-  title: A Head On Aircraft Can Look Like A Stationary Light... | Ifos Causes Of
+  title: A Head On Aircraft Can Look Like A Stationary Light... | ifos causes of UFO 3 ed 238
   permalink: /a-head-on-aircraft-can-look-like-a/
   short_title: A Head On Aircraft Can Look Like A Stationary Light...
   heading_title: The Stationary Light That Is Moving
 - basename: ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261
-  title: AARO | Ifos Causes Of
+  title: AARO | ifos causes of UFO 3 ed 238
   permalink: /aaro/
   short_title: AARO
   heading_title: What Modern UAP Reviews Resolve
 - basename: ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253
-  title: Aircraft Lights | Ifos Causes Of
+  title: Aircraft Lights | ifos causes of UFO 3 ed 238
   permalink: /aircraft-lights/
   short_title: Aircraft Lights
   heading_title: Why Ordinary Aircraft Look So Strange
 - basename: ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043
-  title: Atmosphere | Ifos Causes Of
+  title: Atmosphere | ifos causes of UFO 3 ed 238
   permalink: /atmosphere/
   short_title: Atmosphere
   heading_title: When Weather Makes Shapes in the Sky
 - basename: ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057
-  title: Balloons | Ifos Causes Of
+  title: Balloons | ifos causes of UFO 3 ed 238
   permalink: /balloons/
   short_title: Balloons
   heading_title: Why Balloons Become Flying Saucers
 - basename: ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40
-  title: Birds | Ifos Causes Of
+  title: Birds | ifos causes of UFO 3 ed 238
   permalink: /birds/
   short_title: Birds
   heading_title: How Birds Become Fast UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81
-  title: Blue Book | Ifos Causes Of
+  title: Blue Book | ifos causes of UFO 3 ed 238
   permalink: /blue-book/
   short_title: Blue Book
   heading_title: What Blue Book Teaches About IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e
-  title: Contrails | Ifos Causes Of
+  title: Contrails | ifos causes of UFO 3 ed 238
   permalink: /contrails/
   short_title: Contrails
   heading_title: Why Jet Trails Glow Like UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c
-  title: Drones | Ifos Causes Of
+  title: Drones | ifos causes of UFO 3 ed 238
   permalink: /drones/
   short_title: Drones
   heading_title: When a Drone Becomes a UFO
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e
-  title: First Checks | Ifos Causes Of
+  title: First Checks | ifos causes of UFO 3 ed 238
   permalink: /first-checks/
   short_title: First Checks
   heading_title: What to Check Before Calling It a UFO
 - basename: ifos_-_causes_of_UFO_3ed238_military_flares_abb62f
-  title: Flares | Ifos Causes Of
+  title: Flares | ifos causes of UFO 3 ed 238
   permalink: /flares/
   short_title: Flares
   heading_title: Why Flares Look Like Hovering Craft
 - basename: ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590
-  title: Flight Tracking | Ifos Causes Of
+  title: Flight Tracking | ifos causes of UFO 3 ed 238
   permalink: /flight-tracking/
   short_title: Flight Tracking
   heading_title: How Flight Data Solves UFO Sightings
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965
-  title: Hoaxes | Ifos Causes Of
+  title: Hoaxes | ifos causes of UFO 3 ed 238
   permalink: /hoaxes/
   short_title: Hoaxes
   heading_title: When UFO Reports Are Manufactured
 - basename: ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f
-  title: Infrared | Ifos Causes Of
+  title: Infrared | ifos causes of UFO 3 ed 238
   permalink: /infrared/
   short_title: Infrared
   heading_title: Why Infrared UFO Videos Mislead
 - basename: ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74
-  title: Insects | Ifos Causes Of
+  title: Insects | ifos causes of UFO 3 ed 238
   permalink: /insects/
   short_title: Insects
   heading_title: The Tiny Things Cameras Make Huge
 - basename: ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5
-  title: Lanterns | Ifos Causes Of
+  title: Lanterns | ifos causes of UFO 3 ed 238
   permalink: /lanterns/
   short_title: Lanterns
   heading_title: The Orange Lights That Start UFO Reports
 - basename: ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e
-  title: Lens Flare | Ifos Causes Of
+  title: Lens Flare | ifos causes of UFO 3 ed 238
   permalink: /lens-flare/
   short_title: Lens Flare
   heading_title: When Cameras Invent Extra Lights
 - basename: ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28
-  title: Mass Sightings | Ifos Causes Of
+  title: Mass Sightings | ifos causes of UFO 3 ed 238
   permalink: /mass-sightings/
   short_title: Mass Sightings
   heading_title: Why Groups Can Share One Mistake
 - basename: ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504
-  title: Meteors | Ifos Causes Of
+  title: Meteors | ifos causes of UFO 3 ed 238
   permalink: /meteors/
   short_title: Meteors
   heading_title: When Fireballs Become UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca
-  title: Missing Data | Ifos Causes Of
+  title: Missing Data | ifos causes of UFO 3 ed 238
   permalink: /missing-data/
   short_title: Missing Data
   heading_title: Unsolved Does Not Always Mean Strange
 - basename: ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183
-  title: NASA Study | Ifos Causes Of
+  title: NASA Study | ifos causes of UFO 3 ed 238
   permalink: /nasa-study/
   short_title: NASA Study
   heading_title: Why Better UFO Data Matters
 - basename: ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b
-  title: Parallax | Ifos Causes Of
+  title: Parallax | ifos causes of UFO 3 ed 238
   permalink: /parallax/
   short_title: Parallax
   heading_title: The Speed Illusion in UFO Footage
 - basename: ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a
-  title: Pilots | Ifos Causes Of
+  title: Pilots | ifos causes of UFO 3 ed 238
   permalink: /pilots/
   short_title: Pilots
   heading_title: Why Pilots Can Misidentify UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357
-  title: Radar | Ifos Causes Of
+  title: Radar | ifos causes of UFO 3 ed 238
   permalink: /radar/
   short_title: Radar
   heading_title: When Radar Sees a UFO That Isnt There
 - basename: ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132
-  title: Rocket Plumes | Ifos Causes Of
+  title: Rocket Plumes | ifos causes of UFO 3 ed 238
   permalink: /rocket-plumes/
   short_title: Rocket Plumes
   heading_title: The Strange Clouds Rockets Leave Behind
 - basename: ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b
-  title: Satellites | Ifos Causes Of
+  title: Satellites | ifos causes of UFO 3 ed 238
   permalink: /satellites/
   short_title: Satellites
   heading_title: Why Satellites Surprise Night Watchers
 - basename: ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1
-  title: Searchlights | Ifos Causes Of
+  title: Searchlights | ifos causes of UFO 3 ed 238
   permalink: /searchlights/
   short_title: Searchlights
   heading_title: How Searchlights Paint UFOs in Clouds
 - basename: ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b
-  title: Sensor Operators | Ifos Causes Of
+  title: Sensor Operators | ifos causes of UFO 3 ed 238
   permalink: /sensor-operators/
   short_title: Sensor Operators
   heading_title: When Sensors Need Human Context
 - basename: ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391
-  title: Short Clips | Ifos Causes Of
+  title: Short Clips | ifos causes of UFO 3 ed 238
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: Why Short UFO Videos Are Hard to Trust
 - basename: ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f
-  title: Size Errors | Ifos Causes Of
+  title: Size Errors | ifos causes of UFO 3 ed 238
   permalink: /size-errors/
   short_title: Size Errors
   heading_title: Why Honest Witnesses Misjudge UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725
-  title: Sky Charts | Ifos Causes Of
+  title: Sky Charts | ifos causes of UFO 3 ed 238
   permalink: /sky-charts/
   short_title: Sky Charts
   heading_title: How to Check a UFO Against the Sky
 - basename: ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32
-  title: Stars | Ifos Causes Of
+  title: Stars | ifos causes of UFO 3 ed 238
   permalink: /stars/
   short_title: Stars
   heading_title: Why Stars Flash Like Machines
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb
-  title: Status Labels | Ifos Causes Of
+  title: Status Labels | ifos causes of UFO 3 ed 238
   permalink: /status-labels/
   short_title: Status Labels
   heading_title: UFO Does Not Mean Alien
 - basename: ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d
-  title: Strong Cases | Ifos Causes Of
+  title: Strong Cases | ifos causes of UFO 3 ed 238
   permalink: /strong-cases/
   short_title: Strong Cases
   heading_title: What Makes a UFO Report Harder to Explain
 - basename: ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948
-  title: UK Files | Ifos Causes Of
+  title: UK Files | ifos causes of UFO 3 ed 238
   permalink: /uk-files/
   short_title: UK Files
   heading_title: What the UK UFO Files Reveal
 - basename: ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06
-  title: Unresolved Cases | Ifos Causes Of
+  title: Unresolved Cases | ifos causes of UFO 3 ed 238
   permalink: /unresolved-cases/
   short_title: Unresolved Cases
   heading_title: Why Some UFO Cases Stay Open
 - basename: ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080
-  title: Venus | Ifos Causes Of
+  title: Venus | ifos causes of UFO 3 ed 238
   permalink: /venus/
   short_title: Venus
   heading_title: Is That UFO Really Venus?
 - basename: ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13
-  title: Weather Records | Ifos Causes Of
+  title: Weather Records | ifos causes of UFO 3 ed 238
   permalink: /weather-records/
   short_title: Weather Records
   heading_title: Weather Clues That Explain Strange Lights
 - basename: ifos_-_causes_of_UFO_3ed238_wind_data_33671a
-  title: Wind Data | Ifos Causes Of
+  title: Wind Data | ifos causes of UFO 3 ed 238
   permalink: /wind-data/
   short_title: Wind Data
   heading_title: Following a UFO With the Wind
@@ -479,20 +478,21 @@ child_links:
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 prev_link:
   basename: ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357
-  title: Radar | Ifos Causes Of
+  title: Radar | ifos causes of UFO 3 ed 238
   permalink: /radar/
   short_title: Radar
   heading_title: When Radar Sees a UFO That Isnt There
 next_link:
   basename: ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132
-  title: Rocket Plumes | Ifos Causes Of
+  title: Rocket Plumes | ifos causes of UFO 3 ed 238
   permalink: /rocket-plumes/
   short_title: Rocket Plumes
   heading_title: The Strange Clouds Rockets Leave Behind
+date: '2026-06-12 00:12:55 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c-overview-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c-overview.webp
@@ -502,7 +502,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c-over
 ## Introduction
 
 Reflections through windows, [windscreens]({{ 'windscreens/' | relative_url }}) and cockpit glass are a quiet but important cause of UFO reports. They can put a crisp, bright, moving-looking “object” into the sky even when nothing outside the glass is there. The witness is not necessarily careless: a reflected ceiling light, phone screen, instrument panel, dashboard glow or cabin lamp can appear to float beyond clouds, roads, hills or aircraft wings because the brain naturally treats the window as something looked through, not as an optical surface in its own right.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c-overview.webp" | relative_url }}" alt="Overview image for Reflections" loading="eager" decoding="sync" fetchpriority="high">
 This mechanism matters because it sits between two common mistakes in UFO discussion. It is too mundane to feel satisfying, yet too visually convincing to dismiss without checking. Glass reflections can be photographed, can move when the observer moves, can appear at night, can be seen from cars and aircraft, and can survive first impressions as a “light in the sky”. The practical question is not whether witnesses saw something, but whether the thing they saw was outside the glass or inside the reflection path.
@@ -514,7 +513,6 @@ A window is not a perfect transparent hole. It transmits most light, but it also
 That small percentage becomes powerful when the outside scene is dark and the inside source is bright. A ceiling light reflected in a night-time window may be much brighter than the clouds, tree line or horizon behind it. The result is a ghost image that seems to occupy the outside world. The glass has not created a new object; it has overlaid one light path on another.
 
 This is why window-reflection UFOs often have a distinctive pattern:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -528,7 +526,6 @@ This is why window-reflection UFOs often have a distinctive pattern:
 
 The key point is that a reflection can be optically real while the interpreted object is not. A camera sensor records photons; it does not know whether they came from a lamp reflected in glass or from an aircraft outside. That distinction has to be reconstructed from geometry, movement, lighting and context.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c-Illustration-1-dark.svg" | relative_url }}" alt="Reflections illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Indoor and vehicle reflections
 
@@ -538,16 +535,15 @@ A useful concrete example comes from UFO-sceptical demonstrations in which ordin
 
 Cars add another layer. A windscreen is curved, sloped and often dirty, scratched, heated, tinted or laminated. It can reflect dashboard displays, instrument lights, phone screens, infotainment panels, streetlamps, emergency lights and the headlights of vehicles behind or beside the observer. Because a driver or passenger is looking through the glass while moving through a dark environment, the reflected light may seem to shift against trees, buildings or the horizon. That apparent motion can be mistaken for an object manoeuvring in the sky.
 
-Historical UFO literature includes exactly this kind of warning. Edward Ruppelt, who led the U.S. Air Force’s [Project Blue Book]({{ 'blue-book/' | relative_url }}), wrote that prominent military figures had seen “flying saucers” that later proved to be reflections, including a reported saucer that was “just a reflection on the windshield” of a B-17. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> The anecdote is useful because it undercuts a lazy assumption: [pilots]({{ 'pilots/' | relative_url }}), officers and trained observers can still be fooled by reflections when the geometry and lighting are awkward.
+Historical UFO literature includes exactly this kind of warning. Edward Ruppelt, who led the U.S. Air Force’s Project Blue Book, wrote that prominent military figures had seen “flying saucers” that later proved to be reflections, including a reported saucer that was “just a reflection on the windshield” of a B-17. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> The anecdote is useful because it undercuts a lazy assumption: [pilots]({{ 'pilots/' | relative_url }}), officers and trained observers can still be fooled by reflections when the geometry and lighting are awkward.
 
 A vehicle reflection is especially easy to over-interpret because the observer is already in motion. A fixed reflection on the windscreen can appear to slide across the outside world as the car turns. A light on the dashboard can seem to hover over the road ahead. A reflection from a side window can appear to pace the vehicle. If the witness is alarmed, the sighting may end before anyone thinks to test the window by turning off interior lights, changing seat position or opening the glass.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/A4jseVHjI_4" title="Laws of Reflection of Light : Best Demonstration" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=A4jseVHjI_4" target="_blank" rel="noopener noreferrer">Laws of Reflection of Light : Best Demonstration</a></p><p class="youtube-embed-meta">Channel: Make Me Scientific &middot; Views: 965.0K &middot; Uploaded: April 2020 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=A4jseVHjI_4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=A4jseVHjI_4">Open on YouTube</a></p></div></div></div>
 
 ## Cockpit and cabin glass
 
-Aircraft sightings deserve special care because pilots are trained observers and aircraft cabins create unusual optical conditions. A cockpit windscreen is not a simple domestic pane: it may be multi-layered, angled, curved, heated and surrounded by illuminated instruments. [Passenger windows]({{ 'cabin-videos/' | relative_url }}) are also multi-pane assemblies, often with scratches, ice crystals, grease, dust or internal reflections. These features can produce ghost lights, arcs, doubled images and glare that appear outside the aircraft.
+Aircraft sightings deserve special care because pilots are trained observers and aircraft cabins create unusual optical conditions. A cockpit windscreen is not a simple domestic pane: it may be multi-layered, angled, curved, heated and surrounded by illuminated instruments. Passenger windows are also multi-pane assemblies, often with scratches, ice crystals, grease, dust or internal reflections. These features can produce ghost lights, arcs, doubled images and glare that appear outside the aircraft.
 
 Aviation training material treats cockpit reflections as a practical safety issue, not a UFO curiosity. The FAA’s night-flying guidance, reproduced by the Australian Transport Safety Bureau, advises pilots to set cockpit lights low enough to read instruments without impairing outside vision, specifically noting that this also eliminates light reflections on the windscreen and windows. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.atsb.gov.au/sites/default/files/2024-05/FAA-H-8083-3B%20Chapter%2010.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atsb.gov.au">[ATSB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atsb.gov.au</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That is directly relevant to UFO analysis: the same reflection that distracts or degrades a pilot’s night vision can also look like an unexplained light outside the aircraft.
 
@@ -556,7 +552,6 @@ Night flight also removes many of the cues that normally help the brain judge di
 Passenger videos can be even trickier. A phone camera pressed close to an aircraft window may capture cabin lights, seat-back screens, reflections from other windows, glints from scratches or moisture between panes. The wing, clouds or horizon in the same frame can make the reflected light seem outside the aircraft. Because the aircraft is moving, parallax and vibration can make the reflection appear to drift or pulse. A short clip may not include the simple diagnostic movements — camera shifted sideways, cabin light covered, window shade moved — that would reveal the source.
 
 This does not mean every cockpit or cabin sighting is a reflection. It means glass has to be treated as part of the optical system. A credible aviation report should ask where the light appeared relative to the windscreen frame, whether it moved with head movement, whether other crew saw it from different seats, whether it was visible outside the window line, and whether it correlated with [radar]({{ 'radar/' | relative_url }}), traffic, satellite passes or other independent data.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c-Illustration-2-dark.svg" | relative_url }}" alt="Reflections illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why reflections feel like real distant objects
@@ -577,7 +572,6 @@ Several effects reinforce the mistake:
 
 Modern UAP analysis shows why this distinction matters. [AARO]({{ 'aaro/' | relative_url }})’s public case page includes examples where official analysts separate resolved objects, unresolved reports and cases where data are insufficient; one entry explicitly notes uncertainty over whether a heat signature comes from a physical source, a thermal reflection, an environmental heat differential or sensor display error. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">AARO UAP Imagery...</span></span></span> That is not a window-reflection case in the domestic sense, but it illustrates the same investigative discipline: before treating a signal as an external object, analysts must ask how the observing system might have generated or transformed it.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/t_edEM8Ztt0" title="The Amazing Mirror Experiment: Watch Reflections Multiply" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=t_edEM8Ztt0" target="_blank" rel="noopener noreferrer">The Amazing Mirror Experiment: Watch Reflections Multiply</a></p><p class="youtube-embed-meta">Channel: Damián Gulich &middot; Views: 572.5K &middot; Uploaded: February 2023 &middot; Length: 17 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=t_edEM8Ztt0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=t_edEM8Ztt0">Open on YouTube</a></p></div></div></div>
 
 ## Simple reflection tests
@@ -596,7 +590,6 @@ A practical test sequence is:
 
 These tests are deliberately simple because reflection cases often fail on simple evidence. A single extra step — turning off a light, shifting the phone, opening a window — can separate an unexplained aerial object from a false object inside the glass.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c-Illustration-3-dark.svg" | relative_url }}" alt="Reflections illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What makes a reflection explanation strong or weak
 
@@ -604,7 +597,7 @@ A reflection explanation is strongest when it predicts details that are otherwis
 
 It is weaker when the object is seen simultaneously from different locations without shared glass, when it is tracked independently by [calibrated sensors]({{ 'sensor-artefacts/' | relative_url }}), when it passes behind or in front of known external objects in a way consistent with distance, or when witnesses deliberately eliminate reflections during the event. Kenneth Arnold, whose 1947 report helped popularise the “flying saucer” phrase, reportedly considered reflection as a possibility and checked by opening a window; that kind of witness behaviour matters because it addresses the mechanism directly rather than merely insisting on the impression.
 
-Serious UFO investigation therefore treats glass as an early exclusion test, not as a universal answer. The Condon-era and Project Blue Book record shows that many UFO reports historically resolved into commonplace causes, while some remained unexplained because available data were incomplete or ambiguous. Britannica summarises the Condon Committee’s conclusion as finding no evidence beyond commonplace phenomena in the reports it examined and no scientific case for continued UFO investigation at that time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/unidentified-flying-object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Reflections belong in that broader IFO pattern: common, sometimes convincing, and often resolvable only when the viewing circumstances are reconstructed.
+Serious UFO investigation therefore treats glass as an early exclusion test, not as a universal answer. The Condon-era and Project Blue Book record shows that many UFO reports historically resolved into commonplace causes, while some remained unexplained because available data were incomplete or ambiguous. Britannica summarises the Condon Committee’s conclusion as finding no evidence beyond commonplace phenomena in the reports it examined and no scientific case for continued UFO investigation at that time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/unidentified-flying-object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Reflections belong in that broader [IFO pattern]({{ 'ifo-pattern/' | relative_url }}): common, sometimes convincing, and often resolvable only when the viewing circumstances are reconstructed.
 
 ## The takeaway for UFO reports
 
@@ -614,9 +607,7 @@ For UFO reporting, the most useful habit is to document the glass. Was the sight
 
 Those questions do not make a sighting less sincere. They make it more testable. In the IFO branch of UFO causes, reflections are a reminder that the first “object” to investigate is sometimes not in the sky at all, but in the transparent barrier between the witness and the sky.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hdniTrJKbus" title="UFO Glass - Real Or Fake - Like They Live In Real Life - Captain Steve Talks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hdniTrJKbus" target="_blank" rel="noopener noreferrer">UFO Glass - Real Or Fake - Like They Live In Real Life - Captain Steve Talks</a></p><p class="youtube-embed-meta">Channel: Captain Steve Plays Vlogs Talks &middot; Views: 5.3K &middot; Uploaded: April 2024 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hdniTrJKbus" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hdniTrJKbus">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -735,15 +726,15 @@ Those questions do not make a sighting less sincere. They make it more testable.
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-the-ufo-inside-the-glass-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="reflections-the-ufo-inside-the-glass-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/16d7257b5b6fa9c07f55.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-ufo-inside-the-glass-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-ufo-inside-the-glass-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-the-ufo-inside-the-glass-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="reflections-the-ufo-inside-the-glass-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-ufo-inside-the-glass-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-ufo-inside-the-glass-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-the-ufo-inside-the-glass-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="reflections-the-ufo-inside-the-glass-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-ufo-inside-the-glass-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-ufo-inside-the-glass-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-the-ufo-inside-the-glass-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="reflections-the-ufo-inside-the-glass-ifos-causes-of-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-ufo-inside-the-glass-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-ufo-inside-the-glass-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -751,15 +742,15 @@ Those questions do not make a sighting less sincere. They make it more testable.
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-the-ufo-inside-the-glass-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="reflections-the-ufo-inside-the-glass-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="{{ '/assets/images/marketplace-covers/c69c50419429aba53ee5.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-ufo-inside-the-glass-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-ufo-inside-the-glass-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-the-ufo-inside-the-glass-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="reflections-the-ufo-inside-the-glass-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-ufo-inside-the-glass-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-ufo-inside-the-glass-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-the-ufo-inside-the-glass-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="reflections-the-ufo-inside-the-glass-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-ufo-inside-the-glass-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-ufo-inside-the-glass-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-the-ufo-inside-the-glass-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="reflections-the-ufo-inside-the-glass-ifos-causes-of-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-ufo-inside-the-glass-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-ufo-inside-the-glass-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -767,15 +758,15 @@ Those questions do not make a sighting less sincere. They make it more testable.
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-the-ufo-inside-the-glass-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="reflections-the-ufo-inside-the-glass-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anderson Entertainment UFO Saucer Collectable"><img src="{{ '/assets/images/marketplace-covers/3fcedd05f4d4333b7b2b.jpg' | relative_url }}" alt="Listing image for Anderson Entertainment UFO Saucer Collectable" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-ufo-inside-the-glass-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-ufo-inside-the-glass-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-the-ufo-inside-the-glass-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="reflections-the-ufo-inside-the-glass-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Anderson Entertainment UFO Saucer Collectable</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-ufo-inside-the-glass-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-ufo-inside-the-glass-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-the-ufo-inside-the-glass-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="reflections-the-ufo-inside-the-glass-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-ufo-inside-the-glass-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-ufo-inside-the-glass-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-the-ufo-inside-the-glass-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="reflections-the-ufo-inside-the-glass-ifos-causes-of-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-ufo-inside-the-glass-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-ufo-inside-the-glass-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -783,15 +774,15 @@ Those questions do not make a sighting less sincere. They make it more testable.
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-the-ufo-inside-the-glass-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="reflections-the-ufo-inside-the-glass-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE"><img src="{{ '/assets/images/marketplace-covers/be015d518def7513643e.jpg' | relative_url }}" alt="Listing image for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-ufo-inside-the-glass-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-ufo-inside-the-glass-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-the-ufo-inside-the-glass-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="reflections-the-ufo-inside-the-glass-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-ufo-inside-the-glass-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-ufo-inside-the-glass-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-the-ufo-inside-the-glass-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="reflections-the-ufo-inside-the-glass-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-ufo-inside-the-glass-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-ufo-inside-the-glass-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-the-ufo-inside-the-glass-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="reflections-the-ufo-inside-the-glass-ifos-causes-of-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-ufo-inside-the-glass-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-ufo-inside-the-glass-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -799,7 +790,7 @@ Those questions do not make a sighting less sincere. They make it more testable.
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-the-ufo-inside-the-glass-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="reflections-the-ufo-inside-the-glass-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-ufo-inside-the-glass-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-ufo-inside-the-glass-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -1015,99 +1006,99 @@ Those questions do not make a sighting less sincere. They make it more testable.
 1. <a id="endnote-1"></a>
    Source: glassproperties.com  
    Title: Light Reflection and Transmission in Glass  
-   Link: [https://glassproperties.com/reflection/](https://glassproperties.com/reflection/)  
+   Link: <a href="https://glassproperties.com/reflection/" target="_blank" rel="noopener noreferrer nofollow">https://glassproperties.com/reflection/</a>  
 
 2. <a id="endnote-2"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/figure/Misinterpreted-ordinary-light-reflection-The-light-of-a-big-chandelier-reflected-on-the_fig4_258369609](https://www.researchgate.net/figure/Misinterpreted-ordinary-light-reflection-The-light-of-a-big-chandelier-reflected-on-the_fig4_258369609)  
+   Link: <a href="https://www.researchgate.net/figure/Misinterpreted-ordinary-light-reflection-The-light-of-a-big-chandelier-reflected-on-the_fig4_258369609" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Misinterpreted-ordinary-light-reflection-The-light-of-a-big-chandelier-reflected-on-the_fig4_258369609</a>  
 
 3. <a id="endnote-3"></a>
    Source: gutenberg.org  
-   Link: [https://www.gutenberg.org/cache/epub/17346/pg17346-images.html](https://www.gutenberg.org/cache/epub/17346/pg17346-images.html)  
+   Link: <a href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/17346/pg17346-images.html</a>  
 
 4. <a id="endnote-4"></a>
    Source: atsb.gov.au  
-   Link: [https://www.atsb.gov.au/sites/default/files/2024-05/FAA-H-8083-3B%20Chapter%2010.pdf](https://www.atsb.gov.au/sites/default/files/2024-05/FAA-H-8083-3B%20Chapter%2010.pdf)  
+   Link: <a href="https://www.atsb.gov.au/sites/default/files/2024-05/FAA-H-8083-3B%20Chapter%2010.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.atsb.gov.au/sites/default/files/2024-05/FAA-H-8083-3B%20Chapter%2010.pdf</a>  
 
 5. <a id="endnote-5"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/unidentified-flying-object](https://www.britannica.com/topic/unidentified-flying-object)  
+   Link: <a href="https://www.britannica.com/topic/unidentified-flying-object" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/unidentified-flying-object</a>  
 
 7. <a id="endnote-7"></a>
    Source: researchgate.net  
    Title: 258369609 Need to Know vs Need to Believe in UFOlogy  
-   Link: [https://www.researchgate.net/publication/258369609_Need_to_Know_vs_Need_to_Believe_in_UFOlogy](https://www.researchgate.net/publication/258369609_Need_to_Know_vs_Need_to_Believe_in_UFOlogy)  
+   Link: <a href="https://www.researchgate.net/publication/258369609_Need_to_Know_vs_Need_to_Believe_in_UFOlogy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/258369609_Need_to_Know_vs_Need_to_Believe_in_UFOlogy</a>  
 
 8. <a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/359217358_The_Impact_of_Physical_Sciences_on_the_Study_of_Unidentified_Aerial_Phenomena_UAP_in_Extraterrestrial_Intelligence_-_Academic_and_Societal_Implications_Cambridge_Scholars_Publishing_pp_124-141](https://www.researchgate.net/publication/359217358_The_Impact_of_Physical_Sciences_on_the_Study_of_Unidentified_Aerial_Phenomena_UAP_in_Extraterrestrial_Intelligence_-_Academic_and_Societal_Implications_Cambridge_Scholars_Publishing_pp_124-141)  
+   Link: <a href="https://www.researchgate.net/publication/359217358_The_Impact_of_Physical_Sciences_on_the_Study_of_Unidentified_Aerial_Phenomena_UAP_in_Extraterrestrial_Intelligence_-_Academic_and_Societal_Implications_Cambridge_Scholars_Publishing_pp_124-141" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/359217358_The_Impact_of_Physical_Sciences_on_the_Study_of_Unidentified_Aerial_Phenomena_UAP_in_Extraterrestrial_Intelligence_-_Academic_and_Societal_Implications_Cambridge_Scholars_Publishing_pp_124-141</a>  
 
 9. <a id="endnote-9"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/sites/faa.gov/files/Night_Ops_Ch13.pdf](https://www.faa.gov/sites/faa.gov/files/Night_Ops_Ch13.pdf)  
+   Link: <a href="https://www.faa.gov/sites/faa.gov/files/Night_Ops_Ch13.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/Night_Ops_Ch13.pdf</a>  
 
 10. <a id="endnote-10"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/story/unidentified-flying-objects-what-we-know](https://www.britannica.com/story/unidentified-flying-objects-what-we-know)  
+   Link: <a href="https://www.britannica.com/story/unidentified-flying-objects-what-we-know" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/story/unidentified-flying-objects-what-we-know</a>  
 
 11. <a id="endnote-11"></a>
    Source: flightsafety.org  
    Title: Flight Safety Foundation FSF ALAR Briefing Note 5.3 -- Visual Illusions  
-   Link: [https://flightsafety.org/wp-content/uploads/2016/09/alar_bn5-3-illusions.pdf](https://flightsafety.org/wp-content/uploads/2016/09/alar_bn5-3-illusions.pdf)  
+   Link: <a href="https://flightsafety.org/wp-content/uploads/2016/09/alar_bn5-3-illusions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://flightsafety.org/wp-content/uploads/2016/09/alar_bn5-3-illusions.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Condon Committee  
-   Link: [https://en.wikipedia.org/wiki/Condon_Committee](https://en.wikipedia.org/wiki/Condon_Committee)  
+   Link: <a href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Condon_Committee</a>  
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: The Amazing Mirror Experiment: Watch Reflections Multiply  
-   Link: [http://www.youtube.com/watch?v=t_edEM8Ztt0](http://www.youtube.com/watch?v=t_edEM8Ztt0)  
+   Link: <a href="http://www.youtube.com/watch?v=t_edEM8Ztt0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=t_edEM8Ztt0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Reflections in car windows appearing as flying objects Meteor falls from sky CAUGHT ON CAMERA InsanePatient2...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2502.06794v2](https://arxiv.org/html/2502.06794v2)  
+   Link: <a href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v2</a>  
 
 15. <a id="endnote-15"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
 
 16. <a id="endnote-16"></a>
    Source: nhtsa.gov  
-   Link: [https://www.nhtsa.gov/sites/nhtsa.gov/files/glare_congressional_report.pdf](https://www.nhtsa.gov/sites/nhtsa.gov/files/glare_congressional_report.pdf)  
+   Link: <a href="https://www.nhtsa.gov/sites/nhtsa.gov/files/glare_congressional_report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nhtsa.gov/sites/nhtsa.gov/files/glare_congressional_report.pdf</a>  
 
 17. <a id="endnote-17"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: Laws of Reflection of Light: Best Demonstration  
-   Link: [http://www.youtube.com/watch?v=A4jseVHjI_4](http://www.youtube.com/watch?v=A4jseVHjI_4)  
+   Link: <a href="http://www.youtube.com/watch?v=A4jseVHjI_4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=A4jseVHjI_4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pepper&#x27;s Ghost &amp; Ray Diagrams for Plane Mirrors (Experiment) - GCSE Physics...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/74815094/Spherical_Unidentified_Anomalous_Phenomena_Scientific_Observations_and_Physical_Hypotheses_Danger_Evaluation_For_Aviation_and_Future_Observational_Plans](https://www.academia.edu/74815094/Spherical_Unidentified_Anomalous_Phenomena_Scientific_Observations_and_Physical_Hypotheses_Danger_Evaluation_For_Aviation_and_Future_Observational_Plans)  
+   Link: <a href="https://www.academia.edu/74815094/Spherical_Unidentified_Anomalous_Phenomena_Scientific_Observations_and_Physical_Hypotheses_Danger_Evaluation_For_Aviation_and_Future_Observational_Plans" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/74815094/Spherical_Unidentified_Anomalous_Phenomena_Scientific_Observations_and_Physical_Hypotheses_Danger_Evaluation_For_Aviation_and_Future_Observational_Plans</a>  
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/FriendsOfDeepCreek/posts/aside-ufo-sightingthis-would-have-been-more-scary-to-come-across-in-a-lakeappare/1019089173735076/](https://www.facebook.com/FriendsOfDeepCreek/posts/aside-ufo-sightingthis-would-have-been-more-scary-to-come-across-in-a-lakeappare/1019089173735076/)  
+   Link: <a href="https://www.facebook.com/FriendsOfDeepCreek/posts/aside-ufo-sightingthis-would-have-been-more-scary-to-come-across-in-a-lakeappare/1019089173735076/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FriendsOfDeepCreek/posts/aside-ufo-sightingthis-would-have-been-more-scary-to-come-across-in-a-lakeappare/1019089173735076/</a>  
 
 21. <a id="endnote-21"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DTn7I8BCn94/](https://www.instagram.com/reel/DTn7I8BCn94/)  
+   Link: <a href="https://www.instagram.com/reel/DTn7I8BCn94/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DTn7I8BCn94/</a>  
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/LovinMalta/posts/an-airplane-passenger-caused-a-lot-of-speculation-when-she-spotted-a-mysterious-/837162505118936/](https://www.facebook.com/LovinMalta/posts/an-airplane-passenger-caused-a-lot-of-speculation-when-she-spotted-a-mysterious-/837162505118936/)  
+   Link: <a href="https://www.facebook.com/LovinMalta/posts/an-airplane-passenger-caused-a-lot-of-speculation-when-she-spotted-a-mysterious-/837162505118936/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LovinMalta/posts/an-airplane-passenger-caused-a-lot-of-speculation-when-she-spotted-a-mysterious-/837162505118936/</a>

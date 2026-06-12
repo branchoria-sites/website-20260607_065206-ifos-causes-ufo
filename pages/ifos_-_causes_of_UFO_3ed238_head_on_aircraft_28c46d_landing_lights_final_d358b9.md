@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_constant_bearing_ill_d4dad4
 - ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_delayed_aircraft_sou_3c6540
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - head-on-planes
 - landing-lights
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - head-on-planes
 - landing-lights
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: A straight-in approach can turn bright landing lights into a fixed-looking white object until the aircraft's angle changes.
 hero_summary: A straight-in approach can turn bright landing lights into a fixed-looking white object until the aircraft's angle changes.
 layout: default
 permalink: /landing-lights/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /a-head-on-aircraft-can-look-like-a/
 nav_short_title: Landing lights
 title: Why landing lights can look like hovering UFOs
-title_full: Why landing lights can look like hovering UFOs | A Head On Aircraft Can Look Like A Stationary Light...
+title_full: Why landing lights can look like hovering UFOs
 display_title_short: Landing lights
 display_title: Landing lights
 heading_title: Why landing lights can look like hovering UFOs
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 21:40:27'
-parent_title: The Stationary Light That Is Moving | IFOs
+parent_title: The Stationary Light That Is Moving
 parent_permalink: /a-head-on-aircraft-can-look-like-a/
 parent_nav_short_title: A Head On Aircraft Can Look Like A Stationary Light...
 parent_heading_title: The Stationary Light That Is Moving
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d
-  title: A Head On Aircraft Can Look Like A Stationary Light... | Ifos Causes Of
+  title: A Head On Aircraft Can Look Like A Stationary Light... | ifos causes of UFO 3 ed 238
   permalink: /a-head-on-aircraft-can-look-like-a/
   short_title: A Head On Aircraft Can Look Like A Stationary Light...
   heading_title: The Stationary Light That Is Moving
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d
-  title: A Head On Aircraft Can Look Like A Stationary Light... | Ifos Causes Of
+  title: A Head On Aircraft Can Look Like A Stationary Light... | ifos causes of UFO 3 ed 238
   permalink: /a-head-on-aircraft-can-look-like-a/
   short_title: A Head On Aircraft Can Look Like A Stationary Light...
   heading_title: The Stationary Light That Is Moving
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: When a white orb turns into an aircraft
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d
-  title: A Head On Aircraft Can Look Like A Stationary Light... | Ifos Causes Of
+  title: A Head On Aircraft Can Look Like A Stationary Light... | ifos causes of UFO 3 ed 238
   permalink: /a-head-on-aircraft-can-look-like-a/
   short_title: A Head On Aircraft Can Look Like A Stationary Light...
   heading_title: The Stationary Light That Is Moving
@@ -266,6 +265,7 @@ next_link:
   permalink: /light-reveal/
   short_title: Light reveal
   heading_title: When a white orb turns into an aircraft
+date: '2026-06-12 00:37:28 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_landing_lights_final_d358b9-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_landing_lights_final_d358b9-Illustration-1.webp
@@ -276,7 +276,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_landin
 
 Many night-time UFO reports begin with a bright white light that appears to hang motionless in the sky. In a significant number of cases near airports, the object later resolves into an ordinary aircraft on final approach. The effect is created by a combination of geometry and lighting: an aircraft flying almost directly towards an observer shows very little sideways movement, while its forward-facing landing lights remain pointed at the viewer. The result can be a brilliant, apparently stationary light that seems too bright, too steady, or too isolated to be an aeroplane. Only when the aircraft changes angle, draws much closer, or reveals its navigation lights does its true identity become obvious. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationAirplane Flying Handbook (3C) Chapter 11September 24, 2021 — Pilots are encouraged to turn on their landin...</span><span class="citation-popover-meta">Published: September 24, 2021</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://faraim.org/faa/aim/chapter-4/section-4-3-24.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faraim.org">[2faraim.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faraim.org</span><span class="citation-popover-snippet">AIM § 4-3-24 Use of Aircraft Lights3 Apr 2024 — AIM § 4-3-24 Use of Aircraft Lights - Aeronautical Information Manual. a. Aircraft positi...</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_landing_lights_final_d358b9-Illustration-1-dark.svg" | relative_url }}" alt="Landing lights illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_landing_lights_final_d358b9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_landing_lights_final_d358b9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why forward-facing lights dominate the view
 
@@ -285,7 +284,6 @@ Landing lights are among the brightest lights carried by aircraft. Their purpose
 From a distance, these lights can overwhelm other visual information. The fuselage, wings, and tail may be invisible against a dark sky. Even the aircraft's red and green navigation lights can be difficult to distinguish when a powerful white landing light is aimed almost directly at the observer. Instead of seeing an aeroplane, a witness may perceive only a single intense point of light. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationAirplane Flying Handbook (3C) Chapter 11September 24, 2021 — Pilots are encouraged to turn on their landin...</span><span class="citation-popover-meta">Published: September 24, 2021</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://data.ntsb.gov/Docket/Document/docBLOB?FileExtension=.PDF&amp;FileName=Pages+from+Airplane+Flying+Handbook+%28FAA-H-8083-3B%29+Chapter-Master.PDF&amp;ID=40484326" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: data.ntsb.gov">[NTSB Data]</a><span class="citation-popover" role="note"><span class="citation-popover-source">data.ntsb.gov</span><span class="citation-popover-snippet">NTSB DataAirplane Flying Handbook (FAA-H-8083-3B) Chapter 10Pilots are encouraged to turn on their landing lights when operating within 1...</span></span></span>
 
 Atmospheric conditions often strengthen the illusion. Haze, humidity, thin cloud, or airborne particles can scatter the beam, creating a glowing halo that makes the light appear larger and less aircraft-like. The observer sees brightness but receives few clues about size, distance, or speed.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7carMw8ndvM" title="STRANGE LIGHTS IN THE SKY | Pilots UFO Report at High Altitude" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7carMw8ndvM" target="_blank" rel="noopener noreferrer">STRANGE LIGHTS IN THE SKY | Pilots UFO Report at High Altitude</a></p><p class="youtube-embed-meta">Channel: VASAviation - &middot; Views: 44.4K &middot; Uploaded: February 2024 &middot; Length: 4 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7carMw8ndvM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7carMw8ndvM">Open on YouTube</a></p></div></div></div>
 
@@ -299,9 +297,7 @@ The brightness of the light, however, does change. As the aircraft approaches, t
 
 A common sequence reported in UFO sightings is:
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/d5BUXAozb08" title="Dangerous Optical Illusions On Approach - Too High or Too Low?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=d5BUXAozb08" target="_blank" rel="noopener noreferrer">Dangerous Optical Illusions On Approach - Too High or Too Low?</a></p><p class="youtube-embed-meta">Channel: Easyjetsimpilot &middot; Views: 4.1K &middot; Uploaded: May 2024 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=d5BUXAozb08" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=d5BUXAozb08">Open on YouTube</a></p></div></div></div>
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -314,7 +310,6 @@ A common sequence reported in UFO sightings is:
 </div>
 
 This progression matches the geometry of an aircraft approaching almost head-on with landing lights illuminated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1g3xs9k/can_someone_explain_to_me_what_this_is/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Can someone explain to me what this is?</span><span class="citation-popover-snippet">Specifically the light...October 15, 2024 — You can see the navigation lights blinking in that location before the light appears.... If...</span><span class="citation-popover-meta">Published: October 15, 2024</span></span></span>
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_landing_lights_final_d358b9-Illustration-2-dark.svg" | relative_url }}" alt="Landing lights illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_landing_lights_final_d358b9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_landing_lights_final_d358b9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the object can seem to hover
@@ -339,7 +334,6 @@ Although the illusion can be persuasive, several indicators often reveal an appr
 
 Modern flight-tracking tools frequently allow witnesses to check whether an aircraft was on approach at the time of the observation, and many apparently mysterious lights have been matched to scheduled arrivals using this method.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_landing_lights_final_d358b9-Illustration-3-dark.svg" | relative_url }}" alt="Landing lights illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_landing_lights_final_d358b9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_landing_lights_final_d358b9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why this explanation appears so often in UFO reports
 
@@ -347,9 +341,7 @@ The landing-light illusion combines several factors that humans find difficult t
 
 Because aircraft are deliberately equipped with powerful forward-facing lights and routinely fly long straight-in approaches, they create exactly the sort of visual stimulus that people often describe as a hovering UFO. This does not explain every unidentified sighting, but it is one of the most common and well-understood mechanisms behind reports of bright, apparently stationary lights seen near airports after dark. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationAirplane Flying Handbook (3C) Chapter 11September 24, 2021 — Pilots are encouraged to turn on their landin...</span><span class="citation-popover-meta">Published: September 24, 2021</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://data.ntsb.gov/Docket/Document/docBLOB?FileExtension=.PDF&amp;FileName=Pages+from+Airplane+Flying+Handbook+%28FAA-H-8083-3B%29+Chapter-Master.PDF&amp;ID=40484326" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: data.ntsb.gov">[NTSB Data]</a><span class="citation-popover" role="note"><span class="citation-popover-source">data.ntsb.gov</span><span class="citation-popover-snippet">NTSB DataAirplane Flying Handbook (FAA-H-8083-3B) Chapter 10Pilots are encouraged to turn on their landing lights when operating within 1...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/75ypFC-zU-w" title="The Secret Power of Approach Lights: How ALSF-2 Lets You Decipher Visibility and Landing Rules" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=75ypFC-zU-w" target="_blank" rel="noopener noreferrer">The Secret Power of Approach Lights: How ALSF-2 Lets You Decipher Visibility and Landing Rules</a></p><p class="youtube-embed-meta">Channel: FlightInsight &middot; Views: 16.6K &middot; Uploaded: November 2025 &middot; Length: 3 minutes 59 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=75ypFC-zU-w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=75ypFC-zU-w">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -468,15 +460,15 @@ Because aircraft are deliberately equipped with powerful forward-facing lights a
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-lights-why-landing-lights-can-look-like-hovering-ufos-ifos-causes-of-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="landing-lights-why-landing-lights-can-look-like-hovering-ufos-ifos-causes-of-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Satellite Base Building Block MOC Toy Model Set for Kids Gift"><img src="{{ '/assets/images/marketplace-covers/e322cc9ac8d8a2d50029.jpg' | relative_url }}" alt="Listing image for Space Satellite Base Building Block MOC Toy Model Set for Kids Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-landing-lights-can-look-like-hovering-ufos-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-landing-lights-can-look-like-hovering-ufos-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 20cm FedEx Express ATR Airplane Model Diecast Metal Aircraft Collectible Gift"><img src="https://i.ebayimg.com/images/g/~BwAAeSwmr1pB~na/s-l225.jpg" alt="Listing image for 20cm FedEx Express ATR Airplane Model Diecast Metal Aircraft Collectible Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-lights-why-landing-lights-can-look-like-hovering-ufos-ifos-causes-of-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="landing-lights-why-landing-lights-can-look-like-hovering-ufos-ifos-causes-of-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Space Satellite Base Building Block MOC Toy Model Set for Kids Gift</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-landing-lights-can-look-like-hovering-ufos-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-landing-lights-can-look-like-hovering-ufos-airplane-model" target="_blank" rel="sponsored noopener noreferrer">20cm FedEx Express ATR Airplane Model Diecast Metal Aircraft Collectible Gift</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-lights-why-landing-lights-can-look-like-hovering-ufos-ifos-causes-of-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="landing-lights-why-landing-lights-can-look-like-hovering-ufos-ifos-causes-of-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-landing-lights-can-look-like-hovering-ufos-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-landing-lights-can-look-like-hovering-ufos-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-lights-why-landing-lights-can-look-like-hovering-ufos-ifos-causes-of-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="landing-lights-why-landing-lights-can-look-like-hovering-ufos-ifos-causes-of-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-landing-lights-can-look-like-hovering-ufos-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-landing-lights-can-look-like-hovering-ufos-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -484,15 +476,15 @@ Because aircraft are deliberately equipped with powerful forward-facing lights a
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-lights-why-landing-lights-can-look-like-hovering-ufos-ifos-causes-of-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="landing-lights-why-landing-lights-can-look-like-hovering-ufos-ifos-causes-of-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Handmade DIY Solar Satellite Model for Home Decor"><img src="{{ '/assets/images/marketplace-covers/87b7df0115ea70d84fcb.jpg' | relative_url }}" alt="Listing image for Handmade DIY Solar Satellite Model for Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-landing-lights-can-look-like-hovering-ufos-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-landing-lights-can-look-like-hovering-ufos-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ryanair Boeing 737 Single Die Cast Toy Plane - RT0011"><img src="https://i.ebayimg.com/images/g/lbAAAOSwEH5nc7Cg/s-l225.jpg" alt="Listing image for Ryanair Boeing 737 Single Die Cast Toy Plane - RT0011" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-lights-why-landing-lights-can-look-like-hovering-ufos-ifos-causes-of-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="landing-lights-why-landing-lights-can-look-like-hovering-ufos-ifos-causes-of-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Handmade DIY Solar Satellite Model for Home Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-landing-lights-can-look-like-hovering-ufos-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-landing-lights-can-look-like-hovering-ufos-airplane-model" target="_blank" rel="sponsored noopener noreferrer">Ryanair Boeing 737 Single Die Cast Toy Plane - RT0011</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-lights-why-landing-lights-can-look-like-hovering-ufos-ifos-causes-of-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="landing-lights-why-landing-lights-can-look-like-hovering-ufos-ifos-causes-of-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-landing-lights-can-look-like-hovering-ufos-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-landing-lights-can-look-like-hovering-ufos-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-lights-why-landing-lights-can-look-like-hovering-ufos-ifos-causes-of-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="landing-lights-why-landing-lights-can-look-like-hovering-ufos-ifos-causes-of-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-landing-lights-can-look-like-hovering-ufos-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-landing-lights-can-look-like-hovering-ufos-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -500,15 +492,15 @@ Because aircraft are deliberately equipped with powerful forward-facing lights a
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-lights-why-landing-lights-can-look-like-hovering-ufos-ifos-causes-of-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="landing-lights-why-landing-lights-can-look-like-hovering-ufos-ifos-causes-of-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Model Boat Fittings Satellite Antenna Unit - Choice of Sizes Available"><img src="{{ '/assets/images/marketplace-covers/c5d2eb571b6fbccf54b4.jpg' | relative_url }}" alt="Listing image for Model Boat Fittings Satellite Antenna Unit - Choice of Sizes Available" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-landing-lights-can-look-like-hovering-ufos-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-landing-lights-can-look-like-hovering-ufos-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 16cm Virgin Atlantic B747 Airplane Model 1:400 Alloy Simulation Plane Ornaments"><img src="https://i.ebayimg.com/images/g/chUAAeSwyX9peIiz/s-l225.jpg" alt="Listing image for 16cm Virgin Atlantic B747 Airplane Model 1:400 Alloy Simulation Plane Ornaments" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-lights-why-landing-lights-can-look-like-hovering-ufos-ifos-causes-of-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="landing-lights-why-landing-lights-can-look-like-hovering-ufos-ifos-causes-of-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Model Boat Fittings Satellite Antenna Unit - Choice of Sizes Available</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-landing-lights-can-look-like-hovering-ufos-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-landing-lights-can-look-like-hovering-ufos-airplane-model" target="_blank" rel="sponsored noopener noreferrer">16cm Virgin Atlantic B747 Airplane Model 1:400 Alloy Simulation Plane Ornaments</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-lights-why-landing-lights-can-look-like-hovering-ufos-ifos-causes-of-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="landing-lights-why-landing-lights-can-look-like-hovering-ufos-ifos-causes-of-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-landing-lights-can-look-like-hovering-ufos-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-landing-lights-can-look-like-hovering-ufos-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-lights-why-landing-lights-can-look-like-hovering-ufos-ifos-causes-of-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="landing-lights-why-landing-lights-can-look-like-hovering-ufos-ifos-causes-of-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-landing-lights-can-look-like-hovering-ufos-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-landing-lights-can-look-like-hovering-ufos-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -516,15 +508,15 @@ Because aircraft are deliberately equipped with powerful forward-facing lights a
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-lights-why-landing-lights-can-look-like-hovering-ufos-ifos-causes-of-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="landing-lights-why-landing-lights-can-look-like-hovering-ufos-ifos-causes-of-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moebius 1215 1965 Plymouth Satellite 1/25 Scale Model Kit MISB Last One!"><img src="{{ '/assets/images/marketplace-covers/9bf58eaacb4a953fd330.jpg' | relative_url }}" alt="Listing image for Moebius 1215 1965 Plymouth Satellite 1/25 Scale Model Kit MISB Last One!" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-landing-lights-can-look-like-hovering-ufos-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-landing-lights-can-look-like-hovering-ufos-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 20cm Diecast Metal Alloy Antonov An-225 &quot;Mriya&quot; Airplane Model 1/400 Scale"><img src="https://i.ebayimg.com/images/g/0uEAAeSw-btow-71/s-l225.jpg" alt="Listing image for 20cm Diecast Metal Alloy Antonov An-225 &quot;Mriya&quot; Airplane Model 1/400 Scale" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-lights-why-landing-lights-can-look-like-hovering-ufos-ifos-causes-of-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="landing-lights-why-landing-lights-can-look-like-hovering-ufos-ifos-causes-of-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Moebius 1215 1965 Plymouth Satellite 1/25 Scale Model Kit MISB Last One!</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-landing-lights-can-look-like-hovering-ufos-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-landing-lights-can-look-like-hovering-ufos-airplane-model" target="_blank" rel="sponsored noopener noreferrer">20cm Diecast Metal Alloy Antonov An-225 &quot;Mriya&quot; Airplane Model 1/400 Scale</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-lights-why-landing-lights-can-look-like-hovering-ufos-ifos-causes-of-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="landing-lights-why-landing-lights-can-look-like-hovering-ufos-ifos-causes-of-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-landing-lights-can-look-like-hovering-ufos-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-landing-lights-can-look-like-hovering-ufos-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-lights-why-landing-lights-can-look-like-hovering-ufos-ifos-causes-of-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="landing-lights-why-landing-lights-can-look-like-hovering-ufos-ifos-causes-of-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-landing-lights-can-look-like-hovering-ufos-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-landing-lights-can-look-like-hovering-ufos-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -532,7 +524,7 @@ Because aircraft are deliberately equipped with powerful forward-facing lights a
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-lights-why-landing-lights-can-look-like-hovering-ufos-ifos-causes-of-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="landing-lights-why-landing-lights-can-look-like-hovering-ufos-ifos-causes-of-satellite-model" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-landing-lights-can-look-like-hovering-ufos-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-landing-lights-can-look-like-hovering-ufos-airplane-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -747,162 +739,162 @@ Because aircraft are deliberately equipped with powerful forward-facing lights a
 
 1. <a id="endnote-1"></a>
    Source: faraim.org  
-   Link: [https://faraim.org/faa/aim/chapter-4/section-4-3-24.html](https://faraim.org/faa/aim/chapter-4/section-4-3-24.html)  
+   Link: <a href="https://faraim.org/faa/aim/chapter-4/section-4-3-24.html" target="_blank" rel="noopener noreferrer nofollow">https://faraim.org/faa/aim/chapter-4/section-4-3-24.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AIM § 4-3-24 Use of Aircraft Lights3 Apr 2024 — AIM § 4-3-24 Use of [Aircraft Lights](&amp;#123;&amp;#123; &#x27;aircraft-lights/&#x27; | relative_url &amp;#125;&amp;#125;) - Aeronautical Information Manual. a. Aircraft positi...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: data.ntsb.gov  
-   Link: [https://data.ntsb.gov/Docket/Document/docBLOB?FileExtension=.PDF&FileName=Pages+from+Airplane+Flying+Handbook+%28FAA-H-8083-3B%29+Chapter-Master.PDF&ID=40484326](https://data.ntsb.gov/Docket/Document/docBLOB?FileExtension=.PDF&FileName=Pages+from+Airplane+Flying+Handbook+%28FAA-H-8083-3B%29+Chapter-Master.PDF&ID=40484326)  
+   Link: <a href="https://data.ntsb.gov/Docket/Document/docBLOB?FileExtension=.PDF&amp;FileName=Pages+from+Airplane+Flying+Handbook+%28FAA-H-8083-3B%29+Chapter-Master.PDF&amp;ID=40484326" target="_blank" rel="noopener noreferrer nofollow">https://data.ntsb.gov/Docket/Document/docBLOB?FileExtension=.PDF&amp;FileName=Pages+from+Airplane+Flying+Handbook+%28FAA-H-8083-3B%29+Chapter-Master.PDF&amp;ID=40484326</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NTSB DataAirplane Flying Handbook (FAA-H-8083-3B) Chapter 10Pilots are encouraged to turn on their landing lights when operating within 1...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/explainlikeimfive/comments/1754ryp/eli5_how_can_a_plane_appear_still_in_the_air/](https://www.reddit.com/r/explainlikeimfive/comments/1754ryp/eli5_how_can_a_plane_appear_still_in_the_air/)  
+   Link: <a href="https://www.reddit.com/r/explainlikeimfive/comments/1754ryp/eli5_how_can_a_plane_appear_still_in_the_air/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/explainlikeimfive/comments/1754ryp/eli5_how_can_a_plane_appear_still_in_the_air/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>seem to remain stagnant at times when flying in the air? 0. 4. I&#x27;ve seen a ufo out of a plane · r/UFOs. • 3y ago. I&#x27;ve seen a ufo out of...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
    Title: Can someone explain to me what this is?  
-   Link: [https://www.reddit.com/r/UFOs/comments/1g3xs9k/can_someone_explain_to_me_what_this_is/](https://www.reddit.com/r/UFOs/comments/1g3xs9k/can_someone_explain_to_me_what_this_is/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1g3xs9k/can_someone_explain_to_me_what_this_is/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1g3xs9k/can_someone_explain_to_me_what_this_is/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Specifically the light...October 15, 2024 — You can see the navigation lights blinking in that location before the light appears.... If...</p></details>
    Published: October 15, 2024  
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1jemuds/stationary_orb_begins_to_mimic_faa_lights_and/](https://www.reddit.com/r/UFOs/comments/1jemuds/stationary_orb_begins_to_mimic_faa_lights_and/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1jemuds/stationary_orb_begins_to_mimic_faa_lights_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1jemuds/stationary_orb_begins_to_mimic_faa_lights_and/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stationary Orb begins to mimic FAA lights and blink off: r/UFOsWhen an aircraft is on approach for landing, its landing lights are... p...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: medium.com  
-   Link: [https://medium.com/faa/mitigating-the-hazard-of-visual-illusions-fb3c35009471](https://medium.com/faa/mitigating-the-hazard-of-visual-illusions-fb3c35009471)  
+   Link: <a href="https://medium.com/faa/mitigating-the-hazard-of-visual-illusions-fb3c35009471" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/faa/mitigating-the-hazard-of-visual-illusions-fb3c35009471</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mitigating the Hazard of Visual IllusionsA review of aircraft mishaps quickly reveals that visual illusions and/or poor visibility have b...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
    Title: We both saw a green light  
-   Link: [https://www.reddit.com/r/UFOs/comments/164uga8/i_pilot_came_head_on_with_an_object_glowing_green/](https://www.reddit.com/r/UFOs/comments/164uga8/i_pilot_came_head_on_with_an_object_glowing_green/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/164uga8/i_pilot_came_head_on_with_an_object_glowing_green/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/164uga8/i_pilot_came_head_on_with_an_object_glowing_green/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>I (pilot) came head on with an object glowing green during flying at...August 29, 2023 — This happened a few hours ago while I was flyin...</p></details>
    Published: August 29, 2023  
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
    Title: is this how planes might occasionally look like  
-   Link: [https://www.reddit.com/r/UFOs/comments/q7h52v/is_this_how_planes_might_occasionally_look_like/](https://www.reddit.com/r/UFOs/comments/q7h52v/is_this_how_planes_might_occasionally_look_like/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/q7h52v/is_this_how_planes_might_occasionally_look_like/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/q7h52v/is_this_how_planes_might_occasionally_look_like/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO&#x27;s · r/UFOs. • 11d ago. We&#x27;re fundamentally misunderstanding UFO&#x27;s. 1. 37. Strange lights in the sky? r/UFOs. • 2mo ago. Strange light...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
    Title: pilots i have a question landing lights must be  
-   Link: [https://www.reddit.com/r/aviation/comments/1aoe9s6/pilots_i_have_a_question_landing_lights_must_be/](https://www.reddit.com/r/aviation/comments/1aoe9s6/pilots_i_have_a_question_landing_lights_must_be/)  
+   Link: <a href="https://www.reddit.com/r/aviation/comments/1aoe9s6/pilots_i_have_a_question_landing_lights_must_be/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aviation/comments/1aoe9s6/pilots_i_have_a_question_landing_lights_must_be/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Landing lights must be switched on below 10000 ft and...10,000 ft OR 10NM is a good rule. Following the 10NM rule is good for landing at...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aviation/comments/140jh0v/small_aircraft_always_have_to_keep_landing_lights/](https://www.reddit.com/r/aviation/comments/140jh0v/small_aircraft_always_have_to_keep_landing_lights/)  
+   Link: <a href="https://www.reddit.com/r/aviation/comments/140jh0v/small_aircraft_always_have_to_keep_landing_lights/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aviation/comments/140jh0v/small_aircraft_always_have_to_keep_landing_lights/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>miles of an airport and below 10,000 feet. Operation lights...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ufo/comments/1hi3w09/why_would_nhi_ufos_use_lights_on_their_craft/](https://www.reddit.com/r/ufo/comments/1hi3w09/why_would_nhi_ufos_use_lights_on_their_craft/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/1hi3w09/why_would_nhi_ufos_use_lights_on_their_craft/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1hi3w09/why_would_nhi_ufos_use_lights_on_their_craft/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>id human aircraft that gets close, why do so many declared...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/askastronomy/comments/1os4a0p/any_idea_what_this_is/](https://www.reddit.com/r/askastronomy/comments/1os4a0p/any_idea_what_this_is/)  
+   Link: <a href="https://www.reddit.com/r/askastronomy/comments/1os4a0p/any_idea_what_this_is/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askastronomy/comments/1os4a0p/any_idea_what_this_is/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Any idea what this is?: r/askastronomyIt appears to be some sort of automobile. ShotGlassLens. •. 7mo ago. A car driving in front of gra...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf)  
+   Link: <a href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationAirplane Flying Handbook (3C) Chapter 11September 24, 2021 — Pilots are encouraged to turn on their landin...</p></details>
    Published: September 24, 2021  
 
 14. <a id="endnote-14"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/air_traffic/publications/atpubs/aip_html/part2_enr_section_1.1.html](https://www.faa.gov/air_traffic/publications/atpubs/aip_html/part2_enr_section_1.1.html)  
+   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/aip_html/part2_enr_section_1.1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aip_html/part2_enr_section_1.1.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationENR 1.1: General RulesPilots are further encouraged to turn on their landing lights when operating below 1...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_1.html](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_1.html)  
+   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_1.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aeronautical Lighting and Other Airport Visual...Approach Light Systems (ALS). ALS provide the basic means to transition from instrument...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/](https://www.faa.gov/)  
+   Link: <a href="https://www.faa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/</a>  
 
 17. <a id="endnote-17"></a>
    Source: faa.gov  
    Title: glossary c  
-   Link: [https://www.faa.gov/air_traffic/publications/atpubs/pcg_html/glossary-c.html](https://www.faa.gov/air_traffic/publications/atpubs/pcg_html/glossary-c.html)  
+   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/pcg_html/glossary-c.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/pcg_html/glossary-c.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>C - Pilot/Controller GlossaryCHARTED VISUAL FLIGHT PROCEDURE APPROACH - An approach conducted while operating on an instrument flight rul...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: faasafety.gov  
    Title: Library Contents  
-   Link: [https://www.faasafety.gov/gslac/alc/libview_normal.aspx?id=6580](https://www.faasafety.gov/gslac/alc/libview_normal.aspx?id=6580)  
+   Link: <a href="https://www.faasafety.gov/gslac/alc/libview_normal.aspx?id=6580" target="_blank" rel="noopener noreferrer nofollow">https://www.faasafety.gov/gslac/alc/libview_normal.aspx?id=6580</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FAA - FAASTeam - FAASafety.govBright runway and approach light systems, especially when few lights illuminate the surrounding terrain, ma...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Landing lights  
-   Link: [https://en.wikipedia.org/wiki/Landing_lights](https://en.wikipedia.org/wiki/Landing_lights)  
+   Link: <a href="https://en.wikipedia.org/wiki/Landing_lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Landing_lights</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Landing lightsLanding lights are lights, mounted on aircraft, that illuminate the terrain and runway ahead during takeoff and landingR...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=0M1J9qQX1TQ](https://www.youtube.com/watch?v=0M1J9qQX1TQ)  
+   Link: <a href="https://www.youtube.com/watch?v=0M1J9qQX1TQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0M1J9qQX1TQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft lights | They&#x27;re not UFOsAll aeroplanes China specific arrangement of multicolored lights and in this video we&#x27;ll discuss some o...</p></details>
 
 ### Additional References
 
 21. <a id="endnote-21"></a>
    Source: pvaaust.com  
-   Link: [https://pvaaust.com/faa-encourages-the-use-of-landing-lights-for-increased-visibility/](https://pvaaust.com/faa-encourages-the-use-of-landing-lights-for-increased-visibility/)  
+   Link: <a href="https://pvaaust.com/faa-encourages-the-use-of-landing-lights-for-increased-visibility/" target="_blank" rel="noopener noreferrer nofollow">https://pvaaust.com/faa-encourages-the-use-of-landing-lights-for-increased-visibility/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FAA ENCOURAGES THE USE OF LANDING LIGHTS FOR...To enhance the “see and avoid” concept, the FAA encourages pilots to turn on their landin...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: sky-lens.com  
-   Link: [https://sky-lens.com/guide](https://sky-lens.com/guide)  
+   Link: <a href="https://sky-lens.com/guide" target="_blank" rel="noopener noreferrer nofollow">https://sky-lens.com/guide</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Night Sky Observer&#x27;s Field GuideExpectation Bias &amp; Anchoring. Once an observer hypothesises what an object is (e.g. &quot;drone&quot; or &quot;UFO&quot;), al...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: cfinotebook.net  
-   Link: [https://www.cfinotebook.net/notebook/operation-of-aircraft-systems/aircraft-lighting](https://www.cfinotebook.net/notebook/operation-of-aircraft-systems/aircraft-lighting)  
+   Link: <a href="https://www.cfinotebook.net/notebook/operation-of-aircraft-systems/aircraft-lighting" target="_blank" rel="noopener noreferrer nofollow">https://www.cfinotebook.net/notebook/operation-of-aircraft-systems/aircraft-lighting</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft LightingThe FAA recommends pilots turn their landing lights on when operating below 10,000&#x27;, day or night, especially within 10...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DRAUjP1jKoo/?hl=en](https://www.instagram.com/reel/DRAUjP1jKoo/?hl=en)  
+   Link: <a href="https://www.instagram.com/reel/DRAUjP1jKoo/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DRAUjP1jKoo/?hl=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>There&#x27;s no such thing as UFO&#x27;s??? Earlier this week...STRANGE LIGHTS IN THE SKY | Pilots UFO Report at High Altitude... #Aliens#Fourth...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: paclights.com  
-   Link: [https://www.paclights.com/learning-center/ufo-lights-lighting-explained/](https://www.paclights.com/learning-center/ufo-lights-lighting-explained/)  
+   Link: <a href="https://www.paclights.com/learning-center/ufo-lights-lighting-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.paclights.com/learning-center/ufo-lights-lighting-explained/</a>  
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=7carMw8ndvM](https://www.youtube.com/watch?v=7carMw8ndvM)  
+   Link: <a href="https://www.youtube.com/watch?v=7carMw8ndvM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7carMw8ndvM</a>  
 
 27. <a id="endnote-27"></a>
    Source: pilotworkshop.com  
    Title: This runway lighting video includes graphics & detailed descriptions  
-   Link: [https://pilotworkshop.com/videos/approach-lighting/](https://pilotworkshop.com/videos/approach-lighting/)  
+   Link: <a href="https://pilotworkshop.com/videos/approach-lighting/" target="_blank" rel="noopener noreferrer nofollow">https://pilotworkshop.com/videos/approach-lighting/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Runway Approach Lighting Systems Explained | PilotWorkshopsIn this simulation video, a flight instructor explains approach lighting systems...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: migflug.com  
    Title: your first night flight why everything changes after sunset  
-   Link: [https://migflug.com/jetflights/your-first-night-flight-why-everything-changes-after-sunset/](https://migflug.com/jetflights/your-first-night-flight-why-everything-changes-after-sunset/)  
+   Link: <a href="https://migflug.com/jetflights/your-first-night-flight-why-everything-changes-after-sunset/" target="_blank" rel="noopener noreferrer nofollow">https://migflug.com/jetflights/your-first-night-flight-why-everything-changes-after-sunset/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Your First Night Flight: Illusions &amp; Skills9 Apr 2026 — Master the sensory illusions and practical skills needed for your first night fli...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: eazypilot.com  
    Title: night illusions while flying what every pilot should know  
-   Link: [https://eazypilot.com/blog/night-illusions-while-flying-what-every-pilot-should-know/](https://eazypilot.com/blog/night-illusions-while-flying-what-every-pilot-should-know/)  
+   Link: <a href="https://eazypilot.com/blog/night-illusions-while-flying-what-every-pilot-should-know/" target="_blank" rel="noopener noreferrer nofollow">https://eazypilot.com/blog/night-illusions-while-flying-what-every-pilot-should-know/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Night Illusions While Flying: What Every Pilot Should Know10 Aug 2025 — Night illusions are visual and sensory misinterpretations that ca...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/AVIO.KNOWLEDGE/posts/captured-a-stunning-parallax-effect-from-one-aircraft-to-another-in-flight-this-/1526781522821665/](https://www.facebook.com/AVIO.KNOWLEDGE/posts/captured-a-stunning-parallax-effect-from-one-aircraft-to-another-in-flight-this-/1526781522821665/)  
+   Link: <a href="https://www.facebook.com/AVIO.KNOWLEDGE/posts/captured-a-stunning-parallax-effect-from-one-aircraft-to-another-in-flight-this-/1526781522821665/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AVIO.KNOWLEDGE/posts/captured-a-stunning-parallax-effect-from-one-aircraft-to-another-in-flight-this-/1526781522821665/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the two planes and the background, making the distant aircraft...Read more...</p></details>

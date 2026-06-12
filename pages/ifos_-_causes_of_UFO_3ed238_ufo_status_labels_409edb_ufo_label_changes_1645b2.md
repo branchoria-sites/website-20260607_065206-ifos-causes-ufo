@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb_ufo_reporting_stigma_5d03a6
 - ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb_unresolved_not_alien_f8453e
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - status-labels
 - label-changes
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - status-labels
 - label-changes
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: A sighting can move from unidentified to identified when new timing, location, sensor, or comparison data support a prosaic match.
 hero_summary: A sighting can move from unidentified to identified when new timing, location, sensor, or comparison data support a prosaic match.
 layout: default
 permalink: /label-changes/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /status-labels/
 nav_short_title: Label Changes
 title: When Does a UFO Stop Being a UFO?
-title_full: When Does a UFO Stop Being a UFO? | Status Labels
+title_full: When Does a UFO Stop Being a UFO?
 display_title_short: Label Changes
 display_title: Label Changes
 heading_title: When Does a UFO Stop Being a UFO?
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: UFO Does Not Mean Alien | IFOs
+parent_title: UFO Does Not Mean Alien
 parent_permalink: /status-labels/
 parent_nav_short_title: Status Labels
 parent_heading_title: UFO Does Not Mean Alien
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb
-  title: Status Labels | Ifos Causes Of
+  title: Status Labels | ifos causes of UFO 3 ed 238
   permalink: /status-labels/
   short_title: Status Labels
   heading_title: UFO Does Not Mean Alien
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb
-  title: Status Labels | Ifos Causes Of
+  title: Status Labels | ifos causes of UFO 3 ed 238
   permalink: /status-labels/
   short_title: Status Labels
   heading_title: UFO Does Not Mean Alien
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why Unresolved Does Not Mean Alien
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb
-  title: Status Labels | Ifos Causes Of
+  title: Status Labels | ifos causes of UFO 3 ed 238
   permalink: /status-labels/
   short_title: Status Labels
   heading_title: UFO Does Not Mean Alien
@@ -265,7 +265,7 @@ next_link:
   permalink: /nasa-data/
   short_title: NASA Data
   heading_title: Why NASA Focused on Better UAP Data
-date: '2026-06-07 05:51:57 '
+date: '2026-06-12 00:27:22 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb_ufo_label_changes_1645b2-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb_ufo_label_changes_1645b2-Illustration-1.webp
@@ -274,18 +274,14 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb_ufo_l
 
 ## Introduction
 
-A UFO does not stop being a UFO when investigators achieve absolute proof of what was seen. It stops being a UFO when the available evidence supports a specific explanation with sufficient confidence. In other words, the label changes because the balance of evidence changes, not because every possible doubt disappears. This distinction is central to understanding identified flying objects (IFOs): many reports begin as genuinely unidentified and later become identified after new information is obtained. [Project Blue Book]({{ 'blue-book/' | relative_url }}), modern UAP investigations, and scientific reviews all treat identification as an evidence-based status decision rather than a declaration of certainty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Logistics Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">2) insufficient data, and (3) unidentified. 1. Page 3. -.Read more</span><span class="citation-popover-snippet">Defense Logistics AgencyProject Blue BookSeptember 25, 2012 — The Air Force groups its evaluations of UFO reports under three general hea...</span><span class="citation-popover-meta">Published: September 25, 2012</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prologue.blogs.archives.gov">[Pieces of History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prologue.blogs.archives.gov</span><span class="citation-popover-snippet">Pieces of HistoryUFOs: Natural Explanations - Pieces of History16 Apr 2018 — After investigating a case, the Air Force placed it into one...</span></span></span>
-
+A UFO does not stop being a UFO when investigators achieve absolute proof of what was seen. It stops being a UFO when the available evidence supports a specific explanation with sufficient confidence. In other words, the label changes because the balance of evidence changes, not because every possible doubt disappears. This distinction is central to understanding identified flying objects (IFOs): many reports begin as genuinely unidentified and later become identified after new information is obtained. Project Blue Book, modern UAP investigations, and scientific reviews all treat identification as an evidence-based status decision rather than a declaration of certainty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Logistics Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">2) insufficient data, and (3) unidentified. 1. Page 3. -.Read more</span><span class="citation-popover-snippet">Defense Logistics AgencyProject Blue BookSeptember 25, 2012 — The Air Force groups its evaluations of UFO reports under three general hea...</span><span class="citation-popover-meta">Published: September 25, 2012</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prologue.blogs.archives.gov">[Pieces of History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prologue.blogs.archives.gov</span><span class="citation-popover-snippet">Pieces of HistoryUFOs: Natural Explanations - Pieces of History16 Apr 2018 — After investigating a case, the Air Force placed it into one...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb_ufo_label_changes_1645b2-Illustration-1-dark.svg" | relative_url }}" alt="Label Changes illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb_ufo_label_changes_1645b2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb_ufo_label_changes_1645b2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What the Original Label Really Means
 
 A UFO or UAP designation is a temporary description of investigative status. It means that observers or analysts cannot yet match an observation to a known object, phenomenon, or process using the information currently available. It does not imply extraterrestrial origin, advanced technology, or any particular explanation. NASA's recent UAP work has repeatedly emphasised that unidentified reports reflect limits in available data rather than evidence for a specific origin claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt this point there is no reason to conclude that existing UAP reports have an extraterrestrial...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt this point there is no reason to conclude that existing UAP reports have an extraterrestrial...</span></span></span>
 
-Historically, Project Blue Book distinguished between three outcomes: identified, [insufficient data]({{ 'missing-data/' | relative_url }}), and unidentified. A case could move from one category to another as additional information became available. The important point is that "unidentified" was never intended to be a permanent label. It was a provisional assessment based on what investigators knew at that moment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Logistics Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">2) insufficient data, and (3) unidentified. 1. Page 3. -.Read more</span><span class="citation-popover-snippet">Defense Logistics AgencyProject Blue BookSeptember 25, 2012 — The Air Force groups its evaluations of UFO reports under three general hea...</span><span class="citation-popover-meta">Published: September 25, 2012</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prologue.blogs.archives.gov">[Pieces of History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prologue.blogs.archives.gov</span><span class="citation-popover-snippet">Pieces of HistoryUFOs: Natural Explanations - Pieces of History16 Apr 2018 — After investigating a case, the Air Force placed it into one...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YcHt-OBkabU" title="UFO insider reveals pattern behind missing scientists | CUOMO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YcHt-OBkabU" target="_blank" rel="noopener noreferrer">UFO insider reveals pattern behind missing scientists | CUOMO</a></p><p class="youtube-embed-meta">Channel: NewsNation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YcHt-OBkabU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YcHt-OBkabU">Open on YouTube</a></p></div></div></div>
+Historically, Project Blue Book distinguished between three outcomes: identified, insufficient data, and unidentified. A case could move from one category to another as additional information became available. The important point is that "unidentified" was never intended to be a permanent label. It was a provisional assessment based on what investigators knew at that moment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Logistics Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">2) insufficient data, and (3) unidentified. 1. Page 3. -.Read more</span><span class="citation-popover-snippet">Defense Logistics AgencyProject Blue BookSeptember 25, 2012 — The Air Force groups its evaluations of UFO reports under three general hea...</span><span class="citation-popover-meta">Published: September 25, 2012</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prologue.blogs.archives.gov">[Pieces of History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prologue.blogs.archives.gov</span><span class="citation-popover-snippet">Pieces of HistoryUFOs: Natural Explanations - Pieces of History16 Apr 2018 — After investigating a case, the Air Force placed it into one...</span></span></span>
 
 ## What Evidence Can Change the Status?
 
@@ -307,13 +303,11 @@ A report may be reclassified when investigators obtain:
 
 </div>
 
-Many apparently unusual observations become understandable once these details are added. A bright light may match Venus after the viewing direction is confirmed. A formation of lights may correspond to recently launched [satellites]({{ 'satellites/' | relative_url }}) once timing is checked. An apparently stationary object may prove to be a balloon after wind data and altitude estimates are analysed. U.S. Department of War <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Logistics Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">2) insufficient data, and (3) unidentified. 1. Page 3. -.Read more</span><span class="citation-popover-snippet">Defense Logistics AgencyProject Blue BookSeptember 25, 2012 — The Air Force groups its evaluations of UFO reports under three general hea...</span><span class="citation-popover-meta">Published: September 25, 2012</span></span></span>
+Many apparently unusual observations become understandable once these details are added. A bright light may match Venus after the viewing direction is confirmed. A formation of lights may correspond to recently launched [satellites]({{ 'satellites/' | relative_url }}) once timing is checked. An apparently stationary object may prove to be a balloon after [wind data]({{ 'wind-data/' | relative_url }}) and altitude estimates are analysed. U.S. Department of War <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Logistics Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">2) insufficient data, and (3) unidentified. 1. Page 3. -.Read more</span><span class="citation-popover-snippet">Defense Logistics AgencyProject Blue BookSeptember 25, 2012 — The Air Force groups its evaluations of UFO reports under three general hea...</span><span class="citation-popover-meta">Published: September 25, 2012</span></span></span>
 
 The mechanism is often one of comparison. Investigators take the reported characteristics—position, movement, brightness, duration, shape, speed, altitude, sensor signatures—and compare them against known candidates. When a candidate explains the observed features significantly better than competing explanations, the case can move from unidentified to identified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Logistics Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">2) insufficient data, and (3) unidentified. 1. Page 3. -.Read more</span><span class="citation-popover-snippet">Defense Logistics AgencyProject Blue BookSeptember 25, 2012 — The Air Force groups its evaluations of UFO reports under three general hea...</span><span class="citation-popover-meta">Published: September 25, 2012</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[2U.S.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — Project BLUE BOOK organized its cases into one of three categories: i...</span></span></span> Department of War
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bR0PaotZxD0" title="NASA UFO report finds no evidence UAP have extraterrestrial origins | FULL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bR0PaotZxD0" target="_blank" rel="noopener noreferrer">NASA UFO report finds no evidence UAP have extraterrestrial origins | FULL</a></p><p class="youtube-embed-meta">Channel: Global News &middot; Views: 37.7K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bR0PaotZxD0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bR0PaotZxD0">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb_ufo_label_changes_1645b2-Illustration-2-dark.svg" | relative_url }}" alt="Label Changes illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb_ufo_label_changes_1645b2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb_ufo_label_changes_1645b2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How New Data Resolves Old Mysteries
 
 Many UFO cases remain unidentified not because they are extraordinary but because key information is missing. NASA's independent UAP study highlighted recurring problems such as poor sensor calibration, limited metadata, lack of multiple observations, and incomplete contextual information. These limitations can prevent analysts from making reliable identifications. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt this point there is no reason to conclude that existing UAP reports have an extraterrestrial...</span></span></span>
@@ -326,14 +320,14 @@ For example:
 
 **A visual sighting gains astronomical context.** Investigators may discover that a bright object appeared in the same direction and at the same time as a planet, meteor, or other celestial object.
 
-**An infrared video gains range information.** Apparent extreme speed or manoeuvrability may turn out to be an effect of viewing geometry, distance, or sensor movement once accurate measurements are available.
+**An [infrared]({{ 'infrared/' | relative_url }}) video gains [range]({{ 'range/' | relative_url }}) information.** Apparent extreme speed or manoeuvrability may turn out to be an effect of viewing geometry, distance, or sensor movement once accurate measurements are available.
 
-**A military report gains intelligence data.** A previously unidentified object may correspond to a balloon, drone, or other conventional platform once additional operational information is reviewed. [AARO]({{ 'aaro/' | relative_url }}) has published case resolutions in which reports were later assessed with high confidence as balloons after further analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROUAP Case Resolution ReportsAARO assesses with high confidence that the object was consistent with a cluster of fully and partially in...</span></span></span>
+**A military report gains intelligence data.** A previously unidentified object may correspond to a balloon, drone, or other conventional platform once additional operational information is reviewed. AARO has published case resolutions in which reports were later assessed with high confidence as balloons after further analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP Case Resolution ReportsAARO assesses with high confidence that the object was consistent with a cluster of fully and partially in...</span></span></span>
 
 In each case, the object itself has not changed. What changed is the amount and quality of information available to investigators.
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bR0PaotZxD0" title="NASA UFO report finds no evidence UAP have extraterrestrial origins | FULL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bR0PaotZxD0" target="_blank" rel="noopener noreferrer">NASA UFO report finds no evidence UAP have extraterrestrial origins | FULL</a></p><p class="youtube-embed-meta">Channel: Global News &middot; Views: 37.7K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bR0PaotZxD0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bR0PaotZxD0">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb_ufo_label_changes_1645b2-Illustration-2-dark.svg" | relative_url }}" alt="Label Changes illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb_ufo_label_changes_1645b2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb_ufo_label_changes_1645b2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Identification Is About Confidence, Not Certainty
 
 A common misunderstanding is that a case should remain a UFO until investigators can prove an explanation beyond all doubt. That is not how most scientific or investigative classification systems work.
@@ -344,9 +338,6 @@ This approach mirrors other fields of inquiry. Meteorologists, accident investig
 
 The reverse can also happen. If evidence is too sparse or contradictory, investigators may refuse to identify a case even when they suspect a likely explanation. Project Blue Book's separate "insufficient data" category existed precisely because some reports lacked enough information to support a reliable conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Logistics Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">2) insufficient data, and (3) unidentified. 1. Page 3. -.Read more</span><span class="citation-popover-snippet">Defense Logistics AgencyProject Blue BookSeptember 25, 2012 — The Air Force groups its evaluations of UFO reports under three general hea...</span><span class="citation-popover-meta">Published: September 25, 2012</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/awQy-rTcoRQ" title="Ep 56 Project Blue Book" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=awQy-rTcoRQ" target="_blank" rel="noopener noreferrer">Ep 56 Project Blue Book</a></p><p class="youtube-embed-meta">Channel: Feegle Films</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=awQy-rTcoRQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=awQy-rTcoRQ">Open on YouTube</a></p></div></div></div>
-
 ## A UFO Can Be Real and Still Become Identified
 
 One of the most important points in discussions of IFOs is that identification does not mean the original witnesses were mistaken about seeing something unusual.
@@ -354,7 +345,6 @@ One of the most important points in discussions of IFOs is that identification d
 Witnesses may accurately report a bright light, strange motion, unusual shape, or unexpected behaviour. The observation itself can be genuine. What changes is the interpretation after further investigation.
 
 An identified case is therefore not necessarily a debunked case. It is a case where the evidence eventually supports a known explanation strongly enough that the "unidentified" label is no longer the most accurate description. That is why UFO and UAP should be understood as temporary investigative categories rather than permanent statements about origin. A sighting remains unidentified only until the available evidence supports a better answer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt this point there is no reason to conclude that existing UAP reports have an extraterrestrial...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt this point there is no reason to conclude that existing UAP reports have an extraterrestrial...</span></span></span>
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb_ufo_label_changes_1645b2-Illustration-3-dark.svg" | relative_url }}" alt="Label Changes illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb_ufo_label_changes_1645b2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb_ufo_label_changes_1645b2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -475,15 +465,15 @@ An identified case is therefore not necessarily a debunked case. It is a case wh
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=label-changes-when-does-a-ufo-stop-being-a-ufo-ifos-causes-of-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="label-changes-when-does-a-ufo-stop-being-a-ufo-ifos-causes-of-alien-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USCSS Nostromo Crew Patch | Alien Movie Replica Embroidered Badge"><img src="{{ '/assets/images/marketplace-covers/81117f863db66f4843c8.jpg' | relative_url }}" alt="Listing image for USCSS Nostromo Crew Patch | Alien Movie Replica Embroidered Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-ufo-stop-being-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-does-a-ufo-stop-being-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=label-changes-when-does-a-ufo-stop-being-a-ufo-ifos-causes-of-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="label-changes-when-does-a-ufo-stop-being-a-ufo-ifos-causes-of-alien-patch" target="_blank" rel="sponsored noopener noreferrer">USCSS Nostromo Crew Patch | Alien Movie Replica Embroidered Badge</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-ufo-stop-being-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-does-a-ufo-stop-being-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=label-changes-when-does-a-ufo-stop-being-a-ufo-ifos-causes-of-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="label-changes-when-does-a-ufo-stop-being-a-ufo-ifos-causes-of-alien-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-ufo-stop-being-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-does-a-ufo-stop-being-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=label-changes-when-does-a-ufo-stop-being-a-ufo-ifos-causes-of-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="label-changes-when-does-a-ufo-stop-being-a-ufo-ifos-causes-of-alien-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-ufo-stop-being-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-does-a-ufo-stop-being-a-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -491,15 +481,15 @@ An identified case is therefore not necessarily a debunked case. It is a case wh
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=label-changes-when-does-a-ufo-stop-being-a-ufo-ifos-causes-of-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="label-changes-when-does-a-ufo-stop-being-a-ufo-ifos-causes-of-alien-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Space Embroidery Patch Iron Or Sewn On"><img src="{{ '/assets/images/marketplace-covers/ebfabc2ced200bfb4958.jpg' | relative_url }}" alt="Listing image for Alien Space Embroidery Patch Iron Or Sewn On" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-ufo-stop-being-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-does-a-ufo-stop-being-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=label-changes-when-does-a-ufo-stop-being-a-ufo-ifos-causes-of-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="label-changes-when-does-a-ufo-stop-being-a-ufo-ifos-causes-of-alien-patch" target="_blank" rel="sponsored noopener noreferrer">Alien Space Embroidery Patch Iron Or Sewn On</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-ufo-stop-being-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-does-a-ufo-stop-being-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=label-changes-when-does-a-ufo-stop-being-a-ufo-ifos-causes-of-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="label-changes-when-does-a-ufo-stop-being-a-ufo-ifos-causes-of-alien-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-ufo-stop-being-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-does-a-ufo-stop-being-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=label-changes-when-does-a-ufo-stop-being-a-ufo-ifos-causes-of-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="label-changes-when-does-a-ufo-stop-being-a-ufo-ifos-causes-of-alien-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-ufo-stop-being-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-does-a-ufo-stop-being-a-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -507,15 +497,15 @@ An identified case is therefore not necessarily a debunked case. It is a case wh
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=label-changes-when-does-a-ufo-stop-being-a-ufo-ifos-causes-of-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="label-changes-when-does-a-ufo-stop-being-a-ufo-ifos-causes-of-alien-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN Movie Weyland-Yutani Iron on Sew on Embroidered Patch"><img src="{{ '/assets/images/marketplace-covers/38cde06e995347640daf.jpg' | relative_url }}" alt="Listing image for ALIEN Movie Weyland-Yutani Iron on Sew on Embroidered Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-ufo-stop-being-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-does-a-ufo-stop-being-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=label-changes-when-does-a-ufo-stop-being-a-ufo-ifos-causes-of-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="label-changes-when-does-a-ufo-stop-being-a-ufo-ifos-causes-of-alien-patch" target="_blank" rel="sponsored noopener noreferrer">ALIEN Movie Weyland-Yutani Iron on Sew on Embroidered Patch</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-ufo-stop-being-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-does-a-ufo-stop-being-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=label-changes-when-does-a-ufo-stop-being-a-ufo-ifos-causes-of-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="label-changes-when-does-a-ufo-stop-being-a-ufo-ifos-causes-of-alien-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-ufo-stop-being-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-does-a-ufo-stop-being-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=label-changes-when-does-a-ufo-stop-being-a-ufo-ifos-causes-of-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="label-changes-when-does-a-ufo-stop-being-a-ufo-ifos-causes-of-alien-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-ufo-stop-being-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-does-a-ufo-stop-being-a-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -523,15 +513,15 @@ An identified case is therefore not necessarily a debunked case. It is a case wh
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=label-changes-when-does-a-ufo-stop-being-a-ufo-ifos-causes-of-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="label-changes-when-does-a-ufo-stop-being-a-ufo-ifos-causes-of-alien-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weyland-Yutani Corp Patch- Alien Movie Embroidered Patch Sew/Iron On UK GB Badge"><img src="{{ '/assets/images/marketplace-covers/2e8368c072143378fdb0.jpg' | relative_url }}" alt="Listing image for Weyland-Yutani Corp Patch- Alien Movie Embroidered Patch Sew/Iron On UK GB Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-ufo-stop-being-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-does-a-ufo-stop-being-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=label-changes-when-does-a-ufo-stop-being-a-ufo-ifos-causes-of-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="label-changes-when-does-a-ufo-stop-being-a-ufo-ifos-causes-of-alien-patch" target="_blank" rel="sponsored noopener noreferrer">Weyland-Yutani Corp Patch- Alien Movie Embroidered Patch Sew/Iron On UK GB Badge</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-ufo-stop-being-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-does-a-ufo-stop-being-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=label-changes-when-does-a-ufo-stop-being-a-ufo-ifos-causes-of-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="label-changes-when-does-a-ufo-stop-being-a-ufo-ifos-causes-of-alien-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-ufo-stop-being-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-does-a-ufo-stop-being-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=label-changes-when-does-a-ufo-stop-being-a-ufo-ifos-causes-of-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="label-changes-when-does-a-ufo-stop-being-a-ufo-ifos-causes-of-alien-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-ufo-stop-being-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-does-a-ufo-stop-being-a-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -539,7 +529,7 @@ An identified case is therefore not necessarily a debunked case. It is a case wh
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=label-changes-when-does-a-ufo-stop-being-a-ufo-ifos-causes-of-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="label-changes-when-does-a-ufo-stop-being-a-ufo-ifos-causes-of-alien-patch" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-ufo-stop-being-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-does-a-ufo-stop-being-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -755,93 +745,93 @@ An identified case is therefore not necessarily a debunked case. It is a case wh
 1. <a id="endnote-1"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 18 Mar 2024 — Project BLUE BOOK organized its cases into one of three categories: i...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportAt this point there is no reason to conclude that existing UAP reports have an extraterrestrial...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP9 Jun 2022 — A study team to examine unidentified anomalous phenomena (UAPs) – that is, observations of events in the sky...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP FAQs8 May 2026 — One of NASA&#x27;s key priorities is the search for life elsewhere in the universe: NASA has not found any cr...</p></details>
    Published: May 2026  
 
 5. <a id="endnote-5"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/](https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROUAP Case Resolution ReportsAARO assesses with high confidence that the object was consistent with a cluster of fully and partially in...</p></details>
+   Link: <a href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Case Resolution ReportsAARO assesses with high confidence that the object was consistent with a cluster of fully and partially in...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryPR-010, UAP Report Resolved as a Balloon, Europe 2022, PR-010, UAP Report Resolved as a Balloon, Europe 2022, The United State...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeUAP Cases. Official UAP Imagery · UAP Case Resolution Reports · UAP Reporting Trends · UAP Records · Congressional/Press Product...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/UAP-Reporting-Trends/](https://www.aaro.mil/UAP-Cases/UAP-Reporting-Trends/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/UAP-Reporting-Trends/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Reporting-Trends/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Reporting TrendsClosed Cases Resolution Outcomes. Bird(s): 28 (2.9%). Satellite(s): 314 (32.1%). Balloon(s): 510 (52.1%). UAS: 76 (7...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: aaro.mil  
    Title: Case Resolution of Eglin UAP 2 508  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf](https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eglin UAP Case Resolution(U) On 26 January 2023, a military pilot reported four potential unidentified anomalous phenomena (UAP) while op...</p></details>
    Published: January 2023  
 
 10. <a id="endnote-10"></a>
    Source: nasa.gov  
    Title: nasa to release discuss unidentified anomalous phenomena report  
-   Link: [https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/](https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/)  
+   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to Release, Discuss Unidentified Anomalous...NASA commissioned the study to examine UAP from a scientific perspective and create a...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/](https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>14 Nov 2024 — &quot;AARO has successfully resolved hundreds of cases in its holdings to commonplace objects such as balloons, birds, [drones](&amp;#123;&amp;#123; &#x27;drones/&#x27; | relative_url &amp;#125;&amp;#125;), s...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: esd.whs.mil  
    Title: (2) insufficient data, and (3) unidentified. 1. Page 3. -.Read more  
-   Link: [https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837](https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837)  
+   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Logistics AgencyProject Blue BookSeptember 25, 2012 — The Air Force groups its evaluations of UFO reports under three general hea...</p></details>
    Published: September 25, 2012  
 
 13. <a id="endnote-13"></a>
    Source: prologue.blogs.archives.gov  
-   Link: [https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/](https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/)  
+   Link: <a href="https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pieces of HistoryUFOs: Natural Explanations - Pieces of History16 Apr 2018 — After investigating a case, the Air Force placed it into one...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The project closed in 1969 and we have no...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookProject Blue Book was the code name for the systematic study of unidentified flying objects (UFOs) by the United Stat...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, History, Aliens, UFOs, &amp; Facts16 May 2026 — Project Blue Book, code name for the United States&#x27; longest-running Air Force pro...</p></details>
    Published: May 2026  
 
@@ -849,50 +839,50 @@ An identified case is therefore not necessarily a debunked case. It is a case wh
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/EverythingScience/comments/16ithu9/nasa_ufo_report_finds_no_evidence_of/](https://www.reddit.com/r/EverythingScience/comments/16ithu9/nasa_ufo_report_finds_no_evidence_of/)  
+   Link: <a href="https://www.reddit.com/r/EverythingScience/comments/16ithu9/nasa_ufo_report_finds_no_evidence_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/EverythingScience/comments/16ithu9/nasa_ufo_report_finds_no_evidence_of/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence of &#x27;extraterrestrial...&quot;The NASA independent study team did not find any evidence that UAP have an ext...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/OriginsOSU/posts/recently-the-pentagon-released-more-files-on-ufos-it-seems-like-every-few-months/1809383503713749/](https://www.facebook.com/OriginsOSU/posts/recently-the-pentagon-released-more-files-on-ufos-it-seems-like-every-few-months/1809383503713749/)  
+   Link: <a href="https://www.facebook.com/OriginsOSU/posts/recently-the-pentagon-released-more-files-on-ufos-it-seems-like-every-few-months/1809383503713749/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OriginsOSU/posts/recently-the-pentagon-released-more-files-on-ufos-it-seems-like-every-few-months/1809383503713749/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Air Force Investigation into UFOsWhat were the main findings of Project Blue Book? More than 90% of the 12,618 ufo sightings or relat...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: gutenberg.org  
-   Link: [https://www.gutenberg.org/cache/epub/17346/pg17346-images.html](https://www.gutenberg.org/cache/epub/17346/pg17346-images.html)  
+   Link: <a href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/17346/pg17346-images.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Report on Unidentified Flying ObjectsThis type of UFO report, if it was received by Project Blue Book, was stamped &quot;Insufficient Data...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: 315aw.afrc.af.mil  
-   Link: [https://www.315aw.afrc.af.mil/News/Article/3966012/dod-examining-unidentified-anomalous-phenomena/](https://www.315aw.afrc.af.mil/News/Article/3966012/dod-examining-unidentified-anomalous-phenomena/)  
+   Link: <a href="https://www.315aw.afrc.af.mil/News/Article/3966012/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.315aw.afrc.af.mil/News/Article/3966012/dod-examining-unidentified-anomalous-phenomena/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Examining Unidentified Anomalous Phenomena&quot;AARO has successfully resolved hundreds of cases in its holdings to commonplace objects such a...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/](https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/)  
+   Link: <a href="https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/</a>  
 
 22. <a id="endnote-22"></a>
    Source: wired.com  
-   Link: [https://www.wired.com/story/nasa-ufos-aliens-report-2023](https://www.wired.com/story/nasa-ufos-aliens-report-2023)  
+   Link: <a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The agency stressed the need to shift the conversation from sensationalism to science and eliminate the [stigma](&amp;#123;&amp;#123; &#x27;stigma/&#x27; | relative_url &amp;#125;&amp;#125;) associated with reporting...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: defensescoop.com  
-   Link: [https://defensescoop.com/2023/10/18/dods-all-domain-anomaly-resolution-office-is-now-investigating-more-than-800-uap-cases/](https://defensescoop.com/2023/10/18/dods-all-domain-anomaly-resolution-office-is-now-investigating-more-than-800-uap-cases/)  
+   Link: <a href="https://defensescoop.com/2023/10/18/dods-all-domain-anomaly-resolution-office-is-now-investigating-more-than-800-uap-cases/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2023/10/18/dods-all-domain-anomaly-resolution-office-is-now-investigating-more-than-800-uap-cases/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DOD&#x27;s All-domain Anomaly Resolution Office confirms...18 Oct 2023 — A new Pentagon report confirms that AARO has received a total of 801...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SPECIAL REPORT NO. 14. (ANALYSIS OF REPORTS OF UNIDENTIFIED... Insufficient Info - 17%. Unknown. 9% -. As the study of the current cases...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: read-me.org  
    Title: fiscal year 2024 consolidated annual report on unidentified anomalous phenomena  
-   Link: [https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena](https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena)  
+   Link: <a href="https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fiscal Year 2024 Consolidated Annual Report on...21 Dec 2024 — AARO resolved 118 cases during the reporting period, all of which resolve...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=TQcqOW39ksk](https://www.youtube.com/watch?v=TQcqOW39ksk)  
+   Link: <a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study ReportNASA commissioned an independent study team to examine unidentified anomalous ph...</p></details>

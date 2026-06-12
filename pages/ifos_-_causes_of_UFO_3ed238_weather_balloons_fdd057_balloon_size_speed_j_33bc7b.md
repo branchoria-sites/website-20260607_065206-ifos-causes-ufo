@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057_roswell_balloon_cont_200434
 - ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057_upper_wind_balloon_m_749503
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - balloons
 - sky-scale
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - balloons
 - sky-scale
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: High-altitude balloons can look huge, fast, or motionless because viewers have few reliable sky cues for distance and scale.
 hero_summary: High-altitude balloons can look huge, fast, or motionless because viewers have few reliable sky cues for distance and scale.
 layout: default
 permalink: /sky-scale/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /balloons/
 nav_short_title: Sky Scale
 title: Why Balloons Look Bigger Than They Are
-title_full: Why Balloons Look Bigger Than They Are | Balloons
+title_full: Why Balloons Look Bigger Than They Are
 display_title_short: Sky Scale
 display_title: Sky Scale
 heading_title: Why Balloons Look Bigger Than They Are
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 01:48:24'
-parent_title: Why Balloons Become Flying Saucers | IFOs
+parent_title: Why Balloons Become Flying Saucers
 parent_permalink: /balloons/
 parent_nav_short_title: Balloons
 parent_heading_title: Why Balloons Become Flying Saucers
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057
-  title: Balloons | Ifos Causes Of
+  title: Balloons | ifos causes of UFO 3 ed 238
   permalink: /balloons/
   short_title: Balloons
   heading_title: Why Balloons Become Flying Saucers
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057
-  title: Balloons | Ifos Causes Of
+  title: Balloons | ifos causes of UFO 3 ed 238
   permalink: /balloons/
   short_title: Balloons
   heading_title: Why Balloons Become Flying Saucers
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: When Wind Drift Looks Like Control
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057
-  title: Balloons | Ifos Causes Of
+  title: Balloons | ifos causes of UFO 3 ed 238
   permalink: /balloons/
   short_title: Balloons
   heading_title: Why Balloons Become Flying Saucers
@@ -266,6 +265,7 @@ next_link:
   permalink: /wind-drift-8cd157/
   short_title: Wind Drift
   heading_title: When Wind Drift Looks Like Control
+date: '2026-06-12 00:40:53 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057_balloon_size_speed_j_33bc7b-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057_balloon_size_speed_j_33bc7b-Illustration-1.webp
@@ -274,18 +274,16 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057_balloo
 
 ## Introduction
 
-Many UFO reports begin with a real object seen in a part of the sky that offers almost no reliable clues about distance, size or motion. [Weather balloons]({{ 'balloons/' | relative_url }}) are especially good at exploiting this weakness in human perception. A balloon only a few metres across can appear enormous if an observer assumes it is far away, while a large balloon high in the stratosphere can seem surprisingly small. The same uncertainty affects speed: an object drifting with the wind may appear stationary, crawling slowly, or racing across the sky depending on how its distance is judged. These effects arise from basic visual geometry rather than from anything unusual about the balloon itself. Understanding how the eye and brain estimate scale helps explain why ordinary high-altitude balloons have repeatedly been reported as mysterious aerial objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/upperair/factsheet" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">National Weather ServiceRadiosonde ObservationIf the radiosonde enters a strong jet stream it can travel at speeds exceeding 400 km/hr (2...</span></span></span>
-
+Many UFO reports begin with a real object seen in a part of the sky that offers almost no reliable clues about distance, size or motion. Weather balloons are especially good at exploiting this weakness in human perception. A balloon only a few metres across can appear enormous if an observer assumes it is far away, while a large balloon high in the stratosphere can seem surprisingly small. The same uncertainty affects speed: an object drifting with the wind may appear stationary, crawling slowly, or racing across the sky depending on how its distance is judged. These effects arise from basic visual geometry rather than from anything unusual about the balloon itself. Understanding how the eye and brain estimate scale helps explain why ordinary high-altitude balloons have repeatedly been reported as mysterious aerial objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/upperair/factsheet" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">National Weather ServiceRadiosonde ObservationIf the radiosonde enters a strong jet stream it can travel at speeds exceeding 400 km/hr (2...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057_balloon_size_speed_j_33bc7b-Illustration-1-dark.svg" | relative_url }}" alt="Sky Scale illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057_balloon_size_speed_j_33bc7b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057_balloon_size_speed_j_33bc7b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Blank Sky Removes Scale Cues
 
 On the ground, people judge size and distance by comparing objects with familiar references such as buildings, trees, roads or clouds. A high-altitude balloon is often seen against a nearly featureless blue sky, leaving the brain with little information to work with.
 
-This problem is well known in aviation and vision science. When reliable visual references disappear, people become much more prone to errors in judging distance, height and motion. Aviation safety literature repeatedly identifies the absence of external visual cues as a major source of visual illusions and misperception. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/sites/default/files/bookshelf/177.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">SkybraryVisual Illusions AwarenessSeptember 22, 2005 — Visual illusions take place when conditions modify the pilot&#x27;s perception of the e...</span><span class="citation-popover-meta">Published: September 22, 2005</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/[pilots" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Spatial Disorientation: Visual IllusionsStatistics show that between 5 to. 10% of all general aviation accidents can be attributed to spa...</span></span></span>
+This problem is well known in aviation and vision science. When reliable visual references disappear, people become much more prone to errors in judging distance, height and motion. Aviation safety literature repeatedly identifies the absence of external visual cues as a major source of visual illusions and misperception. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/sites/default/files/bookshelf/177.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Visual Illusions AwarenessSeptember 22, 2005 — Visual illusions take place when conditions modify the pilot&#x27;s perception of the e...</span><span class="citation-popover-meta">Published: September 22, 2005</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/[pilots" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Spatial Disorientation: Visual IllusionsStatistics show that between 5 to. 10% of all general aviation accidents can be attributed to spa...</span></span></span>
 
 For a weather balloon, the difficulty is amplified because the observer usually does not know:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -300,9 +298,6 @@ Without those reference points, the brain fills in missing information with assu
 
 A useful comparison is the Moon. Its apparent size changes little, yet it can look dramatically larger near the horizon because the brain interprets it differently depending on surrounding visual cues. Similar perceptual processes affect objects seen in an otherwise empty sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Perceived_visual_angle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Perceived visual angle</span><span class="citation-popover-snippet">Perceived visual angle</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vUpGTV8Of7U" title="Weather IQ: Weather Balloons" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vUpGTV8Of7U" target="_blank" rel="noopener noreferrer">Weather IQ: Weather Balloons</a></p><p class="youtube-embed-meta">Channel: WCNC Charlotte Weather IQ &middot; Views: 1.0K &middot; Uploaded: August 2021 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vUpGTV8Of7U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vUpGTV8Of7U">Open on YouTube</a></p></div></div></div>
-
 ## Angular Size, Distance and False Speed
 
 ### The Geometry Behind the Illusion
@@ -310,7 +305,6 @@ A useful comparison is the Moon. Its apparent size changes little, yet it can lo
 What the eye actually measures is not an object's true size but its angular size: the angle it occupies in the observer's field of view. Different combinations of size and distance can produce the same angular size. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Visual_angle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Visual angle</span><span class="citation-popover-snippet">Visual angle</span></span></span>
 
 For example:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -323,7 +317,6 @@ For example:
 This is one reason witnesses sometimes describe a balloon as being hundreds of metres wide when later investigation shows it was only a few metres across.
 
 Weather balloons also physically expand during flight. National Weather Service data show that a balloon released at roughly 1.5 metres in diameter can grow to around 6–8 metres before bursting. An observer who sees the balloon at different stages of ascent may unknowingly be viewing an object whose actual size has changed significantly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/upperair/factsheet" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">National Weather ServiceRadiosonde ObservationIf the radiosonde enters a strong jet stream it can travel at speeds exceeding 400 km/hr (2...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/upperair/factsheet" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">National Weather ServiceRadiosonde ObservationIf the radiosonde enters a strong jet stream it can travel at speeds exceeding 400 km/hr (2...</span></span></span>
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057_balloon_size_speed_j_33bc7b-Illustration-2-dark.svg" | relative_url }}" alt="Sky Scale illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057_balloon_size_speed_j_33bc7b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057_balloon_size_speed_j_33bc7b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Why Slow Objects Can Look Fast
@@ -339,16 +332,15 @@ This effect regularly appears in UFO reports. Witnesses may report extraordinary
 
 Weather balloons create another complication. Although they have no propulsion, they can encounter strong winds at altitude. National Weather Service guidance notes that radiosondes carried by weather balloons can enter jet-stream winds exceeding 400 km/h. To a ground observer who is unaware of those atmospheric conditions, the balloon's motion may appear surprisingly rapid and therefore controlled or powered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/upperair/factsheet" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">National Weather ServiceRadiosonde ObservationIf the radiosonde enters a strong jet stream it can travel at speeds exceeding 400 km/hr (2...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nqi4QNFXu-c" title="Bizarre Midair UFO Sighting Freaks Out Plane Passengers | New York Post" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nqi4QNFXu-c" target="_blank" rel="noopener noreferrer">Bizarre Midair UFO Sighting Freaks Out Plane Passengers | New York Post</a></p><p class="youtube-embed-meta">Channel: New York Post</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nqi4QNFXu-c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nqi4QNFXu-c">Open on YouTube</a></p></div></div></div>
-
 ### Why Fast Objects Can Look Motionless
 
 The opposite error is equally common.
 
 When an object moves largely towards or away from an observer rather than across their field of view, its apparent position changes very little. Even a moving balloon can therefore seem to hover.
 
-A balloon drifting at high altitude may maintain nearly the same position relative to distant background sky for long periods. The observer sees little angular movement and concludes that the object is stationary. This interpretation can be especially persuasive because hovering is often viewed as evidence against a conventional aircraft. Yet the apparent stillness may result entirely from viewing geometry rather than from the object's actual behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/sites/default/files/bookshelf/177.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">SkybraryVisual Illusions AwarenessSeptember 22, 2005 — Visual illusions take place when conditions modify the pilot&#x27;s perception of the e...</span><span class="citation-popover-meta">Published: September 22, 2005</span></span></span>
+A balloon drifting at high altitude may maintain nearly the same position relative to distant background sky for long periods. The observer sees little angular movement and concludes that the object is stationary. This interpretation can be especially persuasive because hovering is often viewed as evidence against a conventional aircraft. Yet the apparent stillness may result entirely from viewing geometry rather than from the object's actual behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/sites/default/files/bookshelf/177.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Visual Illusions AwarenessSeptember 22, 2005 — Visual illusions take place when conditions modify the pilot&#x27;s perception of the e...</span><span class="citation-popover-meta">Published: September 22, 2005</span></span></span>
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vUpGTV8Of7U" title="Weather IQ: Weather Balloons" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vUpGTV8Of7U" target="_blank" rel="noopener noreferrer">Weather IQ: Weather Balloons</a></p><p class="youtube-embed-meta">Channel: WCNC Charlotte Weather IQ &middot; Views: 1.0K &middot; Uploaded: August 2021 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vUpGTV8Of7U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vUpGTV8Of7U">Open on YouTube</a></p></div></div></div>
 
 ## How Glare and Zoom Change Apparent Shape
 
@@ -357,7 +349,6 @@ Size and speed judgments are often accompanied by shape distortions.
 Bright sunlight can create intense [reflections]({{ 'reflections/' | relative_url }}) from a balloon's surface, especially when the balloon is high enough to remain illuminated while the ground below is in shadow. The reflected light can overwhelm fine detail and make a round object appear larger than it really is. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/news/2023/mar/09/weather-balloons-ufos-weatherwatch-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianHow helium-filled weather balloons keep an eye on our sky9 Mar 2023 — The radiosonde sends back readings of temperature, pres...</span></span></span>
 
 Camera zoom frequently worsens the effect. Digital zoom enlarges not only the object but also atmospheric blur, [compression]({{ 'compression/' | relative_url }}) artefacts and focus errors. Small bright targets often become:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -372,12 +363,10 @@ The observer then interprets the enlarged image as evidence of a structured craf
 
 Glare can also affect perceived motion. A bright reflection may suddenly appear, disappear or shift position as the balloon rotates. To a witness, this can resemble acceleration, abrupt course changes or flashing lights even though the balloon continues drifting normally with the wind.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057_balloon_size_speed_j_33bc7b-Illustration-3-dark.svg" | relative_url }}" alt="Sky Scale illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057_balloon_size_speed_j_33bc7b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057_balloon_size_speed_j_33bc7b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why These Errors Matter in UFO Reports
 
 The combination of uncertain distance, uncertain size and uncertain speed creates a powerful recipe for misidentification. A weather balloon seen in a featureless sky may simultaneously appear:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -389,11 +378,7 @@ The combination of uncertain distance, uncertain size and uncertain speed create
 
 </div>
 
-None of these impressions require deliberate exaggeration or poor observation. They emerge naturally from the way human perception handles objects when visual reference points are missing. In the context of UFO reports, weather balloons are therefore important not because they are exotic, but because they exploit a fundamental limitation of how people judge scale and motion in the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/upperair/factsheet" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">National Weather ServiceRadiosonde ObservationIf the radiosonde enters a strong jet stream it can travel at speeds exceeding 400 km/hr (2...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/sites/default/files/bookshelf/177.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">SkybraryVisual Illusions AwarenessSeptember 22, 2005 — Visual illusions take place when conditions modify the pilot&#x27;s perception of the e...</span><span class="citation-popover-meta">Published: September 22, 2005</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/[pilots" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Spatial Disorientation: Visual IllusionsStatistics show that between 5 to. 10% of all general aviation accidents can be attributed to spa...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DIysZZdaKLo" title="🔥After the School Beauty Betrayed Him, He Sacrificed Her to Contract the Powerful Succubus Queen!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DIysZZdaKLo" target="_blank" rel="noopener noreferrer">🔥After the School Beauty Betrayed Him, He Sacrificed Her to Contract the Powerful Succubus Queen!</a></p><p class="youtube-embed-meta">Channel: Bella&#x27;s Comic Chronicles</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DIysZZdaKLo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DIysZZdaKLo">Open on YouTube</a></p></div></div></div>
-
+None of these impressions require deliberate exaggeration or poor observation. They emerge naturally from the way human perception handles objects when visual reference points are missing. In the context of UFO reports, weather balloons are therefore important not because they are exotic, but because they exploit a fundamental limitation of how people judge scale and motion in the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/upperair/factsheet" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">National Weather ServiceRadiosonde ObservationIf the radiosonde enters a strong jet stream it can travel at speeds exceeding 400 km/hr (2...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/sites/default/files/bookshelf/177.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Visual Illusions AwarenessSeptember 22, 2005 — Visual illusions take place when conditions modify the pilot&#x27;s perception of the e...</span><span class="citation-popover-meta">Published: September 22, 2005</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/[pilots" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Spatial Disorientation: Visual IllusionsStatistics show that between 5 to. 10% of all general aviation accidents can be attributed to spa...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -512,15 +497,15 @@ None of these impressions require deliberate exaggeration or poor observation. T
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-scale-why-balloons-look-bigger-than-they-are-ifos-causes-of-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="sky-scale-why-balloons-look-bigger-than-they-are-ifos-causes-of-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dr Who - Dalek Invasion of Earth 2150 Flying Saucer - Display Model Memorabilia"><img src="{{ '/assets/images/marketplace-covers/052e97c6a09b40adcc39.jpg' | relative_url }}" alt="Listing image for Dr Who - Dalek Invasion of Earth 2150 Flying Saucer - Display Model Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-balloons-look-bigger-than-they-are-weather-balloon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon model" data-ebay-reference="why-balloons-look-bigger-than-they-are-weather-balloon-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Madewell Ottoman Rib Square Neck Top Size Medium Brown Style MB170"><img src="https://i.ebayimg.com/images/g/RVcAAOSwh65oEBIv/s-l225.jpg" alt="Listing image for Madewell Ottoman Rib Square Neck Top Size Medium Brown Style MB170" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-scale-why-balloons-look-bigger-than-they-are-ifos-causes-of-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="sky-scale-why-balloons-look-bigger-than-they-are-ifos-causes-of-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Dr Who - Dalek Invasion of Earth 2150 Flying Saucer - Display Model Memorabilia</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-balloons-look-bigger-than-they-are-weather-balloon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon model" data-ebay-reference="why-balloons-look-bigger-than-they-are-weather-balloon-model" target="_blank" rel="sponsored noopener noreferrer">Madewell Ottoman Rib Square Neck Top Size Medium Brown Style MB170</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-scale-why-balloons-look-bigger-than-they-are-ifos-causes-of-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="sky-scale-why-balloons-look-bigger-than-they-are-ifos-causes-of-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-balloons-look-bigger-than-they-are-weather-balloon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon model" data-ebay-reference="why-balloons-look-bigger-than-they-are-weather-balloon-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather balloon model">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather balloon model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-scale-why-balloons-look-bigger-than-they-are-ifos-causes-of-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="sky-scale-why-balloons-look-bigger-than-they-are-ifos-causes-of-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-balloons-look-bigger-than-they-are-weather-balloon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon model" data-ebay-reference="why-balloons-look-bigger-than-they-are-weather-balloon-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -528,47 +513,15 @@ None of these impressions require deliberate exaggeration or poor observation. T
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-scale-why-balloons-look-bigger-than-they-are-ifos-causes-of-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="sky-scale-why-balloons-look-bigger-than-they-are-ifos-causes-of-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scratchbuilt UFO Flying Saucer Shape Desktop Model !"><img src="{{ '/assets/images/marketplace-covers/8a4534533a90e386a891.jpg' | relative_url }}" alt="Listing image for Scratchbuilt UFO Flying Saucer Shape Desktop Model !" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-balloons-look-bigger-than-they-are-weather-balloon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon model" data-ebay-reference="why-balloons-look-bigger-than-they-are-weather-balloon-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Balloon Modelling Twisting Balloons Balloon Bender Gifts Unisex T-Shirt"><img src="https://i.ebayimg.com/images/g/SEoAAOSwIw5mlmkj/s-l225.jpg" alt="Listing image for Balloon Modelling Twisting Balloons Balloon Bender Gifts Unisex T-Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-scale-why-balloons-look-bigger-than-they-are-ifos-causes-of-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="sky-scale-why-balloons-look-bigger-than-they-are-ifos-causes-of-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Scratchbuilt UFO Flying Saucer Shape Desktop Model !</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-balloons-look-bigger-than-they-are-weather-balloon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon model" data-ebay-reference="why-balloons-look-bigger-than-they-are-weather-balloon-model" target="_blank" rel="sponsored noopener noreferrer">Balloon Modelling Twisting Balloons Balloon Bender Gifts Unisex T-Shirt</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-scale-why-balloons-look-bigger-than-they-are-ifos-causes-of-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="sky-scale-why-balloons-look-bigger-than-they-are-ifos-causes-of-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-balloons-look-bigger-than-they-are-weather-balloon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon model" data-ebay-reference="why-balloons-look-bigger-than-they-are-weather-balloon-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather balloon model">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather balloon model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-scale-why-balloons-look-bigger-than-they-are-ifos-causes-of-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="sky-scale-why-balloons-look-bigger-than-they-are-ifos-causes-of-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-scale-why-balloons-look-bigger-than-they-are-ifos-causes-of-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="sky-scale-why-balloons-look-bigger-than-they-are-ifos-causes-of-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FLYING SAUCER MODEL KIT ATLANTIS &quot;MINT IN THE BAG&quot;"><img src="{{ '/assets/images/marketplace-covers/da990540ea3238a52d7f.jpg' | relative_url }}" alt="Listing image for FLYING SAUCER MODEL KIT ATLANTIS &quot;MINT IN THE BAG&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-scale-why-balloons-look-bigger-than-they-are-ifos-causes-of-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="sky-scale-why-balloons-look-bigger-than-they-are-ifos-causes-of-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">FLYING SAUCER MODEL KIT ATLANTIS &quot;MINT IN THE BAG&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-scale-why-balloons-look-bigger-than-they-are-ifos-causes-of-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="sky-scale-why-balloons-look-bigger-than-they-are-ifos-causes-of-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-scale-why-balloons-look-bigger-than-they-are-ifos-causes-of-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="sky-scale-why-balloons-look-bigger-than-they-are-ifos-causes-of-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-scale-why-balloons-look-bigger-than-they-are-ifos-causes-of-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="sky-scale-why-balloons-look-bigger-than-they-are-ifos-causes-of-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scratchbuilt UFO Flying Saucer Light Up Desktop Model !"><img src="{{ '/assets/images/marketplace-covers/3ef81f2f0d2a9cad1cde.jpg' | relative_url }}" alt="Listing image for Scratchbuilt UFO Flying Saucer Light Up Desktop Model !" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-scale-why-balloons-look-bigger-than-they-are-ifos-causes-of-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="sky-scale-why-balloons-look-bigger-than-they-are-ifos-causes-of-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Scratchbuilt UFO Flying Saucer Light Up Desktop Model !</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-scale-why-balloons-look-bigger-than-they-are-ifos-causes-of-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="sky-scale-why-balloons-look-bigger-than-they-are-ifos-causes-of-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-scale-why-balloons-look-bigger-than-they-are-ifos-causes-of-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="sky-scale-why-balloons-look-bigger-than-they-are-ifos-causes-of-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-balloons-look-bigger-than-they-are-weather-balloon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon model" data-ebay-reference="why-balloons-look-bigger-than-they-are-weather-balloon-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -576,7 +529,7 @@ None of these impressions require deliberate exaggeration or poor observation. T
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-scale-why-balloons-look-bigger-than-they-are-ifos-causes-of-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="sky-scale-why-balloons-look-bigger-than-they-are-ifos-causes-of-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-balloons-look-bigger-than-they-are-weather-balloon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon model" data-ebay-reference="why-balloons-look-bigger-than-they-are-weather-balloon-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -791,128 +744,128 @@ None of these impressions require deliberate exaggeration or poor observation. T
 
 1. <a id="endnote-1"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/upperair/factsheet](https://www.weather.gov/upperair/factsheet)  
+   Link: <a href="https://www.weather.gov/upperair/factsheet" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/upperair/factsheet</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Weather ServiceRadiosonde ObservationIf the radiosonde enters a strong jet stream it can travel at speeds exceeding 400 km/hr (2...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/chs/upperair](https://www.weather.gov/chs/upperair)  
+   Link: <a href="https://www.weather.gov/chs/upperair" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/chs/upperair</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Weather ServiceWeather Balloon / Upper Air ObservationsDuring that that time the weather balloon can reach over 100,000 feet in...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: skybrary.aero  
-   Link: [https://skybrary.aero/sites/default/files/bookshelf/177.pdf](https://skybrary.aero/sites/default/files/bookshelf/177.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SkybraryVisual Illusions AwarenessSeptember 22, 2005 — Visual illusions take place when conditions modify the pilot&#x27;s perception of the e...</p></details>
+   Link: <a href="https://skybrary.aero/sites/default/files/bookshelf/177.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/sites/default/files/bookshelf/177.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Visual Illusions AwarenessSeptember 22, 2005 — Visual illusions take place when conditions modify the pilot&#x27;s perception of the e...</p></details>
    Published: September 22, 2005  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Perceived visual angle  
-   Link: [https://en.wikipedia.org/wiki/Perceived_visual_angle](https://en.wikipedia.org/wiki/Perceived_visual_angle)  
+   Link: <a href="https://en.wikipedia.org/wiki/Perceived_visual_angle" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Perceived_visual_angle</a>  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Visual angle  
-   Link: [https://en.wikipedia.org/wiki/Visual_angle](https://en.wikipedia.org/wiki/Visual_angle)  
+   Link: <a href="https://en.wikipedia.org/wiki/Visual_angle" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Visual_angle</a>  
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Angular diameter  
-   Link: [https://en.wikipedia.org/wiki/Angular_diameter](https://en.wikipedia.org/wiki/Angular_diameter)  
+   Link: <a href="https://en.wikipedia.org/wiki/Angular_diameter" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Angular_diameter</a>  
 
 7. <a id="endnote-7"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/rah/virtualtourballoon](https://www.weather.gov/rah/virtualtourballoon)  
+   Link: <a href="https://www.weather.gov/rah/virtualtourballoon" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/rah/virtualtourballoon</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Because the pressure lessens as the balloon goes higher in the [atmosphere](&amp;#123;&amp;#123; &#x27;atmosphere/&#x27; | relative_url &amp;#125;&amp;#125;), the balloon expands. By...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Spatial disorientation  
-   Link: [https://en.wikipedia.org/wiki/Spatial_disorientation](https://en.wikipedia.org/wiki/Spatial_disorientation)  
+   Link: <a href="https://en.wikipedia.org/wiki/Spatial_disorientation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Spatial_disorientation</a>  
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Weather balloon  
-   Link: [https://en.wikipedia.org/wiki/Weather_balloon](https://en.wikipedia.org/wiki/Weather_balloon)  
+   Link: <a href="https://en.wikipedia.org/wiki/Weather_balloon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Weather_balloon</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Weather balloonA weather balloon, also known as a sounding balloon, is a high-altitude balloon (HAB) that carries instruments into the...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Sensory illusions in aviation  
-   Link: [https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation](https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation)  
+   Link: <a href="https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sensory illusions in aviationPilots may experience disorientation and loss of perspective, creating illusions that [range](&amp;#123;&amp;#123; &#x27;range/&#x27; | relative_url &amp;#125;&amp;#125;) from false ho...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/gjt/education_corner_balloon](https://www.weather.gov/gjt/education_corner_balloon)  
+   Link: <a href="https://www.weather.gov/gjt/education_corner_balloon" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/gjt/education_corner_balloon</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Education Corner weather balloonDuring that that time, the weather balloon can reach over 100,000 feet in altitude and may drift over 100...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/[pilots](https://www.faa.gov/[pilots)  
+   Link: <a href="https://www.faa.gov/[pilots" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/[pilots</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spatial Disorientation: Visual IllusionsStatistics show that between 5 to. 10% of all general aviation accidents can be attributed to spa...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/news/2023/mar/09/weather-balloons-ufos-weatherwatch-sky](https://www.theguardian.com/news/2023/mar/09/weather-balloons-ufos-weatherwatch-sky)  
+   Link: <a href="https://www.theguardian.com/news/2023/mar/09/weather-balloons-ufos-weatherwatch-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/news/2023/mar/09/weather-balloons-ufos-weatherwatch-sky</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianHow helium-filled weather balloons keep an eye on our sky9 Mar 2023 — The radiosonde sends back readings of temperature, pres...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: fly8ma.com  
    Title: Spatial Disorientation  
-   Link: [https://fly8ma.com/topic/spatial-disorientation/](https://fly8ma.com/topic/spatial-disorientation/)  
+   Link: <a href="https://fly8ma.com/topic/spatial-disorientation/" target="_blank" rel="noopener noreferrer nofollow">https://fly8ma.com/topic/spatial-disorientation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FLY8MA Online Flight...25 Feb 2018 — Spatial disorientation results from the brain not properly interpreting the signals it is receiving...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/AlliePotterTV/posts/check-this-out-ceo-of-world-view-ryan-hartman-told-me-to-look-outside-he-said-th/1233627258570427/](https://www.facebook.com/AlliePotterTV/posts/check-this-out-ceo-of-world-view-ryan-hartman-told-me-to-look-outside-he-said-th/1233627258570427/)  
+   Link: <a href="https://www.facebook.com/AlliePotterTV/posts/check-this-out-ceo-of-world-view-ryan-hartman-told-me-to-look-outside-he-said-th/1233627258570427/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AlliePotterTV/posts/check-this-out-ceo-of-world-view-ryan-hartman-told-me-to-look-outside-he-said-th/1233627258570427/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CHECK THIS OUT! CEO of World View Ryan Hartman told...Weather balloons can travel upwards of 115,000ft or 22 miles above the earth and c...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: danlj.org  
-   Link: [https://www.danlj.org/~danlj/Soaring/Clues/SDO.html](https://www.danlj.org/~danlj/Soaring/Clues/SDO.html)  
+   Link: <a href="https://www.danlj.org/~danlj/Soaring/Clues/SDO.html" target="_blank" rel="noopener noreferrer nofollow">https://www.danlj.org/~danlj/Soaring/Clues/SDO.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spatial DisorientationThis illusion is prominent in instrument flight, but not in visual flight because visual cues are overriding. The f...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=vUpGTV8Of7U](https://www.youtube.com/watch?v=vUpGTV8Of7U)  
+   Link: <a href="https://www.youtube.com/watch?v=vUpGTV8Of7U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vUpGTV8Of7U</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Weather IQ: Weather BalloonsBy tracking the position of the radiosonde, we can also calculate wind speed and [wind direction](&amp;#123;&amp;#123; &#x27;wind-direction/&#x27; | relative_url &amp;#125;&amp;#125;). The radioson...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: abc7news.com  
    Title: ABC7 San Francisco What's that weather balloon doing in the sky?  
-   Link: [https://abc7news.com/post/weather-balloons-national-service-chinese-spy-balloon-radiosonde/12819444/](https://abc7news.com/post/weather-balloons-national-service-chinese-spy-balloon-radiosonde/12819444/)  
+   Link: <a href="https://abc7news.com/post/weather-balloons-national-service-chinese-spy-balloon-radiosonde/12819444/" target="_blank" rel="noopener noreferrer nofollow">https://abc7news.com/post/weather-balloons-national-service-chinese-spy-balloon-radiosonde/12819444/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What&#x27;s that weather balloon doing in the sky?...15 Feb 2023 — Weather balloons can ascend way up into the atmosphere to altitudes of 115...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: ncbi.nlm.nih.gov  
    Title: NCBIPhysiology Of Spatial Orientation  
-   Link: [https://www.ncbi.nlm.nih.gov/books/NBK518976/](https://www.ncbi.nlm.nih.gov/books/NBK518976/)  
+   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK518976/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK518976/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Of Spatial Orientation - StatPearls - NCBI - NIHby RK Meeks · 2023 · Cited by 18 — These illusions usually are triggered when the brain i...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/explainlikeimfive/comments/yx8u73/eli5_why_are_weather_balloons_so_often_mistaken/](https://www.reddit.com/r/explainlikeimfive/comments/yx8u73/eli5_why_are_weather_balloons_so_often_mistaken/)  
+   Link: <a href="https://www.reddit.com/r/explainlikeimfive/comments/yx8u73/eli5_why_are_weather_balloons_so_often_mistaken/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/explainlikeimfive/comments/yx8u73/eli5_why_are_weather_balloons_so_often_mistaken/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ELI5 Why are weather balloons so often mistaken for UFOs?With that said, weather balloons are huge and don&#x27;t really look like a party bal...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/stormchaservince/posts/every-weather-balloon-is-filled-with-helium-or-hydrogen-and-carries-a-tiny-highl/1395745245681725/](https://www.facebook.com/stormchaservince/posts/every-weather-balloon-is-filled-with-helium-or-hydrogen-and-carries-a-tiny-highl/1395745245681725/)  
+   Link: <a href="https://www.facebook.com/stormchaservince/posts/every-weather-balloon-is-filled-with-helium-or-hydrogen-and-carries-a-tiny-highl/1395745245681725/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/stormchaservince/posts/every-weather-balloon-is-filled-with-helium-or-hydrogen-and-carries-a-tiny-highl/1395745245681725/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>h, the balloon ascends steadily through the atmosphere...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/kytxcbs19/posts/a-behind-the-scenes-look-at-the-nws-releasing-a-weather-balloon-to-figure-out-te/1376434954530545/](https://www.facebook.com/kytxcbs19/posts/a-behind-the-scenes-look-at-the-nws-releasing-a-weather-balloon-to-figure-out-te/1376434954530545/)  
+   Link: <a href="https://www.facebook.com/kytxcbs19/posts/a-behind-the-scenes-look-at-the-nws-releasing-a-weather-balloon-to-figure-out-te/1376434954530545/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/kytxcbs19/posts/a-behind-the-scenes-look-at-the-nws-releasing-a-weather-balloon-to-figure-out-te/1376434954530545/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ing altitudes near 100,000 feet. As air pressure decreases with...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/397370562/Av-Med-Visual-Illusion-Superstall](https://www.scribd.com/document/397370562/Av-Med-Visual-Illusion-Superstall)  
+   Link: <a href="https://www.scribd.com/document/397370562/Av-Med-Visual-Illusion-Superstall" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/397370562/Av-Med-Visual-Illusion-Superstall</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It provides examples like runways that are sloped...Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: quizlet.com  
-   Link: [https://quizlet.com/81691267/aeromed-visual-illusions-types-of-vision-and-monocular-cues-flash-cards/](https://quizlet.com/81691267/aeromed-visual-illusions-types-of-vision-and-monocular-cues-flash-cards/)  
+   Link: <a href="https://quizlet.com/81691267/aeromed-visual-illusions-types-of-vision-and-monocular-cues-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/81691267/aeromed-visual-illusions-types-of-vision-and-monocular-cues-flash-cards/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Visual Illusions, Types of Vision and Monocular Cues...These illusions can occur if visual cues such as a runway or trees are of a diffe...</p></details>

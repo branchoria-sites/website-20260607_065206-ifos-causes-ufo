@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b_ufo_parallax_checks_983877
 - ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b_zoom_stabilization_e_a85ec1
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - parallax
 - distance-cues
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - parallax
 - distance-cues
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Open sky, haze, clouds, and ocean horizons often remove the visual references needed to judge an object's true range and speed.
 hero_summary: Open sky, haze, clouds, and ocean horizons often remove the visual references needed to judge an object's true range and speed.
 layout: default
 permalink: /distance-cues/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /parallax/
 nav_short_title: Distance Cues
 title: Why Empty Backgrounds Fool UFO Viewers
-title_full: Why Empty Backgrounds Fool UFO Viewers | Parallax
+title_full: Why Empty Backgrounds Fool UFO Viewers
 display_title_short: Distance Cues
 display_title: Distance Cues
 heading_title: Why Empty Backgrounds Fool UFO Viewers
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 21:37:53'
-parent_title: The Speed Illusion in UFO Footage | IFOs
+parent_title: The Speed Illusion in UFO Footage
 parent_permalink: /parallax/
 parent_nav_short_title: Parallax
 parent_heading_title: The Speed Illusion in UFO Footage
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b
-  title: Parallax | Ifos Causes Of
+  title: Parallax | ifos causes of UFO 3 ed 238
   permalink: /parallax/
   short_title: Parallax
   heading_title: The Speed Illusion in UFO Footage
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b
-  title: Parallax | Ifos Causes Of
+  title: Parallax | ifos causes of UFO 3 ed 238
   permalink: /parallax/
   short_title: Parallax
   heading_title: The Speed Illusion in UFO Footage
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: Why Zoom Makes UFOs Look Faster
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b
-  title: Parallax | Ifos Causes Of
+  title: Parallax | ifos causes of UFO 3 ed 238
   permalink: /parallax/
   short_title: Parallax
   heading_title: The Speed Illusion in UFO Footage
@@ -260,6 +259,7 @@ next_link:
   permalink: /gofast/
   short_title: GOFAST
   heading_title: Did GOFAST Really Show Extreme Speed?
+date: '2026-06-12 00:31:32 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b_missing_distance_cue_e6e0e3-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b_missing_distance_cue_e6e0e3-Illustration-1.webp
@@ -268,8 +268,7 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b_missing
 
 ## Introduction
 
-A UFO video can look compelling while still providing almost no reliable information about an object's distance, size, or speed. This problem is especially common in recordings made against open sky, clouds, haze, or the ocean. When a viewer cannot tell whether an object is hundreds of metres away or tens of kilometres distant, estimates of its motion become highly uncertain. In many cases, dramatic claims about acceleration or extraordinary speed arise not from what the object is doing, but from the absence of visual references needed to judge [range]({{ 'range/' | relative_url }}) accurately. Analyses of military and civilian UFO footage repeatedly show that missing distance cues are one of the main reasons ordinary objects can appear extraordinary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution</span><span class="citation-popover-snippet">AAROAARO GoFast Case ResolutionFebruary 24, 2025 — 6 Feb 2025 — The video display provided sufficient information to assess the object&#x27;s...</span><span class="citation-popover-meta">Published: February 24, 2025</span></span></span>
-
+A UFO video can look compelling while still providing almost no reliable information about an object's distance, size, or speed. This problem is especially common in recordings made against open sky, clouds, haze, or the ocean. When a viewer cannot tell whether an object is hundreds of metres away or tens of kilometres distant, estimates of its motion become highly uncertain. In many cases, dramatic claims about acceleration or extraordinary speed arise not from what the object is doing, but from the absence of visual references needed to judge [range]({{ 'range/' | relative_url }}) accurately. Analyses of military and civilian UFO footage repeatedly show that missing distance cues are one of the main reasons ordinary objects can appear extraordinary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution</span><span class="citation-popover-snippet">AARO GoFast Case ResolutionFebruary 24, 2025 — 6 Feb 2025 — The video display provided sufficient information to assess the object&#x27;s...</span><span class="citation-popover-meta">Published: February 24, 2025</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b_missing_distance_cue_e6e0e3-Illustration-1-dark.svg" | relative_url }}" alt="Distance Cues illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b_missing_distance_cue_e6e0e3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b_missing_distance_cue_e6e0e3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within the broader category of parallax and motion errors, the key issue is simple: apparent movement across a screen does not reveal true speed unless the object's distance is known.
@@ -284,7 +283,6 @@ The problem becomes even more severe in heavily zoomed footage. Zoom magnifies t
 
 This limitation is not unique to UFO reports. Aviation safety research has long documented how featureless visual environments reduce a pilot's ability to judge distance, altitude, and motion accurately. The same perceptual weaknesses affect people analysing videos after the fact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationSpatial Disorientation: Visual IllusionsFalse Visual Reference Illusions may cause you to orient your airc...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationSpatial Disorientation: Visual IllusionsFalse Visual Reference Illusions may cause you to orient your airc...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6BD9fyyIJzY" title="Spatial Disorientation Explained: Deadly Flight Illusions Every Pilot Must Know" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6BD9fyyIJzY" target="_blank" rel="noopener noreferrer">Spatial Disorientation Explained: Deadly Flight Illusions Every Pilot Must Know</a></p><p class="youtube-embed-meta">Channel: Epic Flight Academy &middot; Views: 9.1K &middot; Uploaded: December 2025 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6BD9fyyIJzY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6BD9fyyIJzY">Open on YouTube</a></p></div></div></div>
 
 ## How Clouds and Horizons Mislead Scale Estimates
@@ -296,7 +294,6 @@ When an object appears to pass "behind" or "through" clouds, viewers sometimes i
 Haze introduces another source of error. Aviation guidance notes that atmospheric haze can make objects appear farther away than they really are, while unusually clear conditions can create the opposite impression. These effects can distort intuitive judgments of both distance and speed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.boldmethod.com/blog/lists/2025/04/8-optical-illusions-pilots-should-understand/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: boldmethod.com">[boldmethod.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">boldmethod.com</span><span class="citation-popover-snippet">8 Optical Illusions Pilots Should Understand And Know...Apr 19, 2025 — According to the FAA, &quot;atmospheric haze can create an illusion of...</span></span></span>
 
 Even the horizon can be misleading. Over open water, the visible horizon provides orientation but contributes little information about the range of an airborne object. A target that appears just above the horizon could be relatively close and low, or extremely distant and high. The visual geometry alone may not distinguish between those possibilities.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ciopi2r7j-k" title="Not As They Seem - Mick West on UFOs, Conspiracy Theories, and Pseudoscience" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ciopi2r7j-k" target="_blank" rel="noopener noreferrer">Not As They Seem - Mick West on UFOs, Conspiracy Theories, and Pseudoscience</a></p><p class="youtube-embed-meta">Channel: This Week in Space &middot; Views: 7.0K &middot; Uploaded: February 2025 &middot; Length: 1 hour 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ciopi2r7j-k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ciopi2r7j-k">Open on YouTube</a></p></div></div></div>
 
@@ -312,16 +309,14 @@ For UFO analysis, this means that an object skimming above the ocean can appear 
 
 The ocean horizon also creates a powerful psychological anchor. Viewers often assume that any object appearing near the horizon must be close to the water surface. In reality, without accurate range information, apparent height above the horizon can be highly deceptive.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b_missing_distance_cue_e6e0e3-Illustration-2-dark.svg" | relative_url }}" alt="Distance Cues illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b_missing_distance_cue_e6e0e3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b_missing_distance_cue_e6e0e3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The GOFAST Case and the Importance of Known Distance
 
 One of the most discussed examples is the U.S. Navy's [GOFAST]({{ 'gofast/' | relative_url }}) video. To many viewers, the object appears to race just above the ocean at remarkable speed.
 
-However, later analyses focused heavily on geometry rather than visual impressions. The crucial factor was that the aircraft's sensor display included range and aircraft-state information. Using those data, analysts could estimate altitude and constrain possible speeds instead of relying on intuition alone. The Pentagon's All-domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})) concluded that the available information allowed a conventional analysis of the object's motion and that the dramatic appearance of speed was influenced by viewing geometry and distance-related effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution</span><span class="citation-popover-snippet">AAROAARO GoFast Case ResolutionFebruary 24, 2025 — 6 Feb 2025 — The video display provided sufficient information to assess the object&#x27;s...</span><span class="citation-popover-meta">Published: February 24, 2025</span></span></span>
+However, later analyses focused heavily on geometry rather than visual impressions. The crucial factor was that the aircraft's sensor display included range and aircraft-state information. Using those data, analysts could estimate altitude and constrain possible speeds instead of relying on intuition alone. The Pentagon's All-domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})) concluded that the available information allowed a conventional analysis of the object's motion and that the dramatic appearance of speed was influenced by viewing geometry and distance-related effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution</span><span class="citation-popover-snippet">AARO GoFast Case ResolutionFebruary 24, 2025 — 6 Feb 2025 — The video display provided sufficient information to assess the object&#x27;s...</span><span class="citation-popover-meta">Published: February 24, 2025</span></span></span>
 
 The GOFAST discussion illustrates a broader lesson: once reliable distance measurements become available, many seemingly extraordinary motion claims can be tested quantitatively rather than visually.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-_4QF__92q0" title="UFO Videos Explained: Mick West&#x27;s Expert Analysis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-_4QF__92q0" target="_blank" rel="noopener noreferrer">UFO Videos Explained: Mick West&#x27;s Expert Analysis</a></p><p class="youtube-embed-meta">Channel: TWiT Tech Podcast Network &middot; Views: 2.5K &middot; Uploaded: February 2025 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-_4QF__92q0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-_4QF__92q0">Open on YouTube</a></p></div></div></div>
 
@@ -337,15 +332,14 @@ Useful reference cues include:
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
-* Radar-derived range information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution</span><span class="citation-popover-snippet">AAROAARO GoFast Case ResolutionFebruary 24, 2025 — 6 Feb 2025 — The video display provided sufficient information to assess the object&#x27;s...</span><span class="citation-popover-meta">Published: February 24, 2025</span></span></span>
+* Radar-derived range information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution</span><span class="citation-popover-snippet">AARO GoFast Case ResolutionFebruary 24, 2025 — 6 Feb 2025 — The video display provided sufficient information to assess the object&#x27;s...</span><span class="citation-popover-meta">Published: February 24, 2025</span></span></span>
 * Sensor displays showing distance and viewing angles.
 * Aircraft telemetry and flight data.
 * Objects passing in front of or behind landmarks whose positions are known.
 
 </div>
 
-When such references are present, investigators can calculate angular motion, estimate range, and test whether reported speeds are physically plausible. Without them, apparent motion remains largely an impression rather than a measurement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution</span><span class="citation-popover-snippet">AAROAARO GoFast Case ResolutionFebruary 24, 2025 — 6 Feb 2025 — The video display provided sufficient information to assess the object&#x27;s...</span><span class="citation-popover-meta">Published: February 24, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-snippet">3 ways scientists use math to help debunk UFO videosNASA and the US government have turned to math and science publicly to help show how...</span></span></span>
-
+When such references are present, investigators can calculate angular motion, estimate range, and test whether reported speeds are physically plausible. Without them, apparent motion remains largely an impression rather than a measurement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution</span><span class="citation-popover-snippet">AARO GoFast Case ResolutionFebruary 24, 2025 — 6 Feb 2025 — The video display provided sufficient information to assess the object&#x27;s...</span><span class="citation-popover-meta">Published: February 24, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-snippet">3 ways scientists use math to help debunk UFO videosNASA and the US government have turned to math and science publicly to help show how...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b_missing_distance_cue_e6e0e3-Illustration-3-dark.svg" | relative_url }}" alt="Distance Cues illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b_missing_distance_cue_e6e0e3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b_missing_distance_cue_e6e0e3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Empty Backgrounds Really Tell Us
@@ -471,15 +465,15 @@ This is why experienced analysts treat videos against blank skies, distant cloud
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=distance-cues-why-empty-backgrounds-fool-ufo-viewers-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="distance-cues-why-empty-backgrounds-fool-ufo-viewers-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-empty-backgrounds-fool-ufo-viewers-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-empty-backgrounds-fool-ufo-viewers-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire aviation poster wall art print un framed various size options available"><img src="https://i.ebayimg.com/images/g/nl0AAeSwgYNoyb7F/s-l225.jpg" alt="Listing image for Spitfire aviation poster wall art print un framed various size options available" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=distance-cues-why-empty-backgrounds-fool-ufo-viewers-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="distance-cues-why-empty-backgrounds-fool-ufo-viewers-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-empty-backgrounds-fool-ufo-viewers-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-empty-backgrounds-fool-ufo-viewers-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Spitfire aviation poster wall art print un framed various size options available</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=distance-cues-why-empty-backgrounds-fool-ufo-viewers-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="distance-cues-why-empty-backgrounds-fool-ufo-viewers-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo enamel pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-empty-backgrounds-fool-ufo-viewers-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-empty-backgrounds-fool-ufo-viewers-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=distance-cues-why-empty-backgrounds-fool-ufo-viewers-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="distance-cues-why-empty-backgrounds-fool-ufo-viewers-ifos-causes-of-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-empty-backgrounds-fool-ufo-viewers-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-empty-backgrounds-fool-ufo-viewers-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -487,15 +481,15 @@ This is why experienced analysts treat videos against blank skies, distant cloud
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=distance-cues-why-empty-backgrounds-fool-ufo-viewers-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="distance-cues-why-empty-backgrounds-fool-ufo-viewers-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-empty-backgrounds-fool-ufo-viewers-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-empty-backgrounds-fool-ufo-viewers-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Canvas Poster &quot;Dambuster Lancaster&quot; by photographer Paul Heasman. Avro. (bc)"><img src="https://i.ebayimg.com/images/g/PgMAAeSw0gNpkH~g/s-l225.jpg" alt="Listing image for Canvas Poster &quot;Dambuster Lancaster&quot; by photographer Paul Heasman. Avro. (bc)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=distance-cues-why-empty-backgrounds-fool-ufo-viewers-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="distance-cues-why-empty-backgrounds-fool-ufo-viewers-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-empty-backgrounds-fool-ufo-viewers-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-empty-backgrounds-fool-ufo-viewers-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Canvas Poster &quot;Dambuster Lancaster&quot; by photographer Paul Heasman. Avro. (bc)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=distance-cues-why-empty-backgrounds-fool-ufo-viewers-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="distance-cues-why-empty-backgrounds-fool-ufo-viewers-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo enamel pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-empty-backgrounds-fool-ufo-viewers-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-empty-backgrounds-fool-ufo-viewers-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=distance-cues-why-empty-backgrounds-fool-ufo-viewers-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="distance-cues-why-empty-backgrounds-fool-ufo-viewers-ifos-causes-of-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-empty-backgrounds-fool-ufo-viewers-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-empty-backgrounds-fool-ufo-viewers-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -503,15 +497,15 @@ This is why experienced analysts treat videos against blank skies, distant cloud
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=distance-cues-why-empty-backgrounds-fool-ufo-viewers-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="distance-cues-why-empty-backgrounds-fool-ufo-viewers-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black"><img src="{{ '/assets/images/marketplace-covers/078b55bb70d6b61d9af5.jpg' | relative_url }}" alt="Listing image for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-empty-backgrounds-fool-ufo-viewers-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-empty-backgrounds-fool-ufo-viewers-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FIGHTER JET POSTER WALL ART SKY PRINT IMAGE AVIATION USA ARMY"><img src="https://i.ebayimg.com/images/g/WzgAAOSwR9xip7fr/s-l225.jpg" alt="Listing image for FIGHTER JET POSTER WALL ART SKY PRINT IMAGE AVIATION USA ARMY" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=distance-cues-why-empty-backgrounds-fool-ufo-viewers-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="distance-cues-why-empty-backgrounds-fool-ufo-viewers-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-empty-backgrounds-fool-ufo-viewers-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-empty-backgrounds-fool-ufo-viewers-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">FIGHTER JET POSTER WALL ART SKY PRINT IMAGE AVIATION USA ARMY</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=distance-cues-why-empty-backgrounds-fool-ufo-viewers-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="distance-cues-why-empty-backgrounds-fool-ufo-viewers-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo enamel pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-empty-backgrounds-fool-ufo-viewers-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-empty-backgrounds-fool-ufo-viewers-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=distance-cues-why-empty-backgrounds-fool-ufo-viewers-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="distance-cues-why-empty-backgrounds-fool-ufo-viewers-ifos-causes-of-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-empty-backgrounds-fool-ufo-viewers-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-empty-backgrounds-fool-ufo-viewers-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -519,15 +513,15 @@ This is why experienced analysts treat videos against blank skies, distant cloud
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=distance-cues-why-empty-backgrounds-fool-ufo-viewers-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="distance-cues-why-empty-backgrounds-fool-ufo-viewers-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag"><img src="{{ '/assets/images/marketplace-covers/423dfe011ecd80a392ff.jpg' | relative_url }}" alt="Listing image for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-empty-backgrounds-fool-ufo-viewers-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-empty-backgrounds-fool-ufo-viewers-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire aviation poster wall art print un framed various size options available"><img src="https://i.ebayimg.com/images/g/2Q0AAeSwRXpo1A63/s-l225.jpg" alt="Listing image for Spitfire aviation poster wall art print un framed various size options available" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=distance-cues-why-empty-backgrounds-fool-ufo-viewers-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="distance-cues-why-empty-backgrounds-fool-ufo-viewers-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-empty-backgrounds-fool-ufo-viewers-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-empty-backgrounds-fool-ufo-viewers-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Spitfire aviation poster wall art print un framed various size options available</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=distance-cues-why-empty-backgrounds-fool-ufo-viewers-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="distance-cues-why-empty-backgrounds-fool-ufo-viewers-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo enamel pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-empty-backgrounds-fool-ufo-viewers-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-empty-backgrounds-fool-ufo-viewers-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=distance-cues-why-empty-backgrounds-fool-ufo-viewers-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="distance-cues-why-empty-backgrounds-fool-ufo-viewers-ifos-causes-of-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-empty-backgrounds-fool-ufo-viewers-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-empty-backgrounds-fool-ufo-viewers-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -535,7 +529,7 @@ This is why experienced analysts treat videos against blank skies, distant cloud
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=distance-cues-why-empty-backgrounds-fool-ufo-viewers-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="distance-cues-why-empty-backgrounds-fool-ufo-viewers-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-empty-backgrounds-fool-ufo-viewers-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-empty-backgrounds-fool-ufo-viewers-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -751,104 +745,104 @@ This is why experienced analysts treat videos against blank skies, distant cloud
 1. <a id="endnote-1"></a>
    Source: aaro.mil  
    Title: Go Fast Case Resolution  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf](https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROAARO GoFast Case ResolutionFebruary 24, 2025 — 6 Feb 2025 — The video display provided sufficient information to assess the object&#x27;s...</p></details>
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO GoFast Case ResolutionFebruary 24, 2025 — 6 Feb 2025 — The video display provided sufficient information to assess the object&#x27;s...</p></details>
    Published: February 24, 2025  
 
 2. <a id="endnote-2"></a>
    Source: pbs.org  
-   Link: [https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos](https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos)  
+   Link: <a href="https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos</a>  
 
 3. <a id="endnote-3"></a>
    Source: faasafety.gov  
    Title: Your Senses in the Shadows  
-   Link: [https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf](https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf)  
+   Link: <a href="https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nighttime Visual Illusions...By using visual references, the pilot can gather information about distance, speed, and depth. Any conditio...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: boldmethod.com  
-   Link: [https://www.boldmethod.com/blog/lists/2025/04/8-optical-illusions-pilots-should-understand/](https://www.boldmethod.com/blog/lists/2025/04/8-optical-illusions-pilots-should-understand/)  
+   Link: <a href="https://www.boldmethod.com/blog/lists/2025/04/8-optical-illusions-pilots-should-understand/" target="_blank" rel="noopener noreferrer nofollow">https://www.boldmethod.com/blog/lists/2025/04/8-optical-illusions-pilots-should-understand/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>8 Optical Illusions Pilots Should Understand And Know...Apr 19, 2025 — According to the FAA, &quot;atmospheric haze can create an illusion of...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: skepticalinquirer.org  
    Title: Over the past decade, I have analyzed hundreds of UAP/UFO cases,  
-   Link: [https://skepticalinquirer.org/2024/12/quick-guide-to-modern-video-analysis-techniques-for-uap-and-ufos/](https://skepticalinquirer.org/2024/12/quick-guide-to-modern-video-analysis-techniques-for-uap-and-ufos/)  
+   Link: <a href="https://skepticalinquirer.org/2024/12/quick-guide-to-modern-video-analysis-techniques-for-uap-and-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2024/12/quick-guide-to-modern-video-analysis-techniques-for-uap-and-ufos/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical InquirerQuick Guide to Modern Video Analysis Techniques for UAP...December 30, 2024 — While the [stigma](&amp;#123;&amp;#123; &#x27;stigma/&#x27; | relative_url &amp;#125;&amp;#125;) of UFOs remains, there...</p></details>
    Published: December 30, 2024  
 
 6. <a id="endnote-6"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf](https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf)  
+   Link: <a href="https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationSpatial Disorientation: Visual IllusionsFalse Visual Reference Illusions may cause you to orient your airc...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: faa.gov  
    Title: pilot vision  
-   Link: [https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/pilot_vision.pdf](https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/pilot_vision.pdf)  
+   Link: <a href="https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/pilot_vision.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/pilot_vision.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>17-2021 CAMI Pilot Vision brochureAny pilot can experience visual illusions–rely on instruments to confirm visual perceptions during flig...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: flyaeroguard.com  
    Title: An absence of ground features as when landing over water  
-   Link: [https://www.flyaeroguard.com/learning-center/visual-illusions/](https://www.flyaeroguard.com/learning-center/visual-illusions/)  
+   Link: <a href="https://www.flyaeroguard.com/learning-center/visual-illusions/" target="_blank" rel="noopener noreferrer nofollow">https://www.flyaeroguard.com/learning-center/visual-illusions/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AeroGuardBeing Aware of Visual Illusions in Flight for Pilots [Video]Next, we&#x27;ll cover featureless terrain illusion which sometimes you&#x27;l...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf)  
+   Link: <a href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ng terrain, may create the illusion of less distance to the...Read more...</p></details>
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/365937745_Parallax_Inference_for_Robust_Temporal_Monocular_Depth_Estimation_in_Unstructured_Environments](https://www.researchgate.net/publication/365937745_Parallax_Inference_for_Robust_Temporal_Monocular_Depth_Estimation_in_Unstructured_Environments)  
+   Link: <a href="https://www.researchgate.net/publication/365937745_Parallax_Inference_for_Robust_Temporal_Monocular_Depth_Estimation_in_Unstructured_Environments" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/365937745_Parallax_Inference_for_Robust_Temporal_Monocular_Depth_Estimation_in_Unstructured_Environments</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Parallax Inference for Robust Temporal Monocular Depth...1 Dec 2022 — First, we establish a bijective relationship between depth and the...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skeptic/comments/nzmkvc/gofast_ufo_analysis_yeah_no_probably_just_a/](https://www.reddit.com/r/skeptic/comments/nzmkvc/gofast_ufo_analysis_yeah_no_probably_just_a/)  
+   Link: <a href="https://www.reddit.com/r/skeptic/comments/nzmkvc/gofast_ufo_analysis_yeah_no_probably_just_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skeptic/comments/nzmkvc/gofast_ufo_analysis_yeah_no_probably_just_a/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>GOFAST UFO Analysis (yeah no, probably just a balloon...This is a great piece of work with careful, well justified calculations. Makes t...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: uapedia.ai  
-   Link: [https://uapedia.ai/wiki/flir-gimbal-gofast-an-explainer/](https://uapedia.ai/wiki/flir-gimbal-gofast-an-explainer/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAPedia - Unlocking New RealitiesFLIR, Gimbal, GoFast: An ExplainerExplore how the Navy&#x27;s FLIR, Gimbal, and GoFast UAP videos shaped mode...</p></details>
+   Link: <a href="https://uapedia.ai/wiki/flir-gimbal-gofast-an-explainer/" target="_blank" rel="noopener noreferrer nofollow">https://uapedia.ai/wiki/flir-gimbal-gofast-an-explainer/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unlocking New RealitiesFLIR, Gimbal, GoFast: An ExplainerExplore how the Navy&#x27;s FLIR, Gimbal, and GoFast UAP videos shaped mode...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: library.cfi.fyi  
-   Link: [https://library.cfi.fyi/Library/Aeromedical%2BFactors/links/Optical%2BIllusions](https://library.cfi.fyi/Library/Aeromedical%2BFactors/links/Optical%2BIllusions)  
+   Link: <a href="https://library.cfi.fyi/Library/Aeromedical%2BFactors/links/Optical%2BIllusions" target="_blank" rel="noopener noreferrer nofollow">https://library.cfi.fyi/Library/Aeromedical%2BFactors/links/Optical%2BIllusions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>IllusionsThe FAA brochure linked below goes into detail on some of the common visual illusions that are experienced during flight: FAA Br...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: cfinotebook.net  
-   Link: [https://www.cfinotebook.net/notebook/aeromedical-and-human-factors/spatial-disorientation-and-illusions-in-flight](https://www.cfinotebook.net/notebook/aeromedical-and-human-factors/spatial-disorientation-and-illusions-in-flight)  
+   Link: <a href="https://www.cfinotebook.net/notebook/aeromedical-and-human-factors/spatial-disorientation-and-illusions-in-flight" target="_blank" rel="noopener noreferrer nofollow">https://www.cfinotebook.net/notebook/aeromedical-and-human-factors/spatial-disorientation-and-illusions-in-flight</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CFI NotebookSpatial Disorientation &amp; Illusions in FlightDifferences in runway size, width, and slope can also lead to illusions during la...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/701369547/8-Optical-Illusions-Every-Pilot-Should-Understand-3](https://www.scribd.com/document/701369547/8-Optical-Illusions-Every-Pilot-Should-Understand-3)  
+   Link: <a href="https://www.scribd.com/document/701369547/8-Optical-Illusions-Every-Pilot-Should-Understand-3" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/701369547/8-Optical-Illusions-Every-Pilot-Should-Understand-3</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>8 Optical Illusions Every Pilot Should Understand 3 | PDFThe illusions include illusions caused by runway width and slope, featureless te...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/iskysthelimit/posts/human-factors-optical-illusionssafersmarter-more-confident-pilotsbecousesmartpil/722325211571593/](https://www.facebook.com/iskysthelimit/posts/human-factors-optical-illusionssafersmarter-more-confident-pilotsbecousesmartpil/722325211571593/)  
+   Link: <a href="https://www.facebook.com/iskysthelimit/posts/human-factors-optical-illusionssafersmarter-more-confident-pilotsbecousesmartpil/722325211571593/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/iskysthelimit/posts/human-factors-optical-illusionssafersmarter-more-confident-pilotsbecousesmartpil/722325211571593/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>s in an overwater approach over darkened areas or terrain made...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ufo/comments/1iooz44/pentagon_releases_aaro_report_on_go_fast_video/](https://www.reddit.com/r/ufo/comments/1iooz44/pentagon_releases_aaro_report_on_go_fast_video/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/1iooz44/pentagon_releases_aaro_report_on_go_fast_video/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1iooz44/pentagon_releases_aaro_report_on_go_fast_video/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>he coast of Florida in January 2015. The footage, taken...Read more...</p></details>
    Published: January 2015  
 
 18. <a id="endnote-18"></a>
    Source: researchgate.net  
    Title: 398661390 Physical characteristics of UFOs  
-   Link: [https://www.researchgate.net/publication/398661390_Physical_characteristics_of_UFOs](https://www.researchgate.net/publication/398661390_Physical_characteristics_of_UFOs)  
+   Link: <a href="https://www.researchgate.net/publication/398661390_Physical_characteristics_of_UFOs" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/398661390_Physical_characteristics_of_UFOs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Physical characteristics of UFOs15 Dec 2025 — UFOs are observed on Earth, in near-Earth space. We believe that the Moon is a UFO base...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/445443079632684/posts/1790555705121408/](https://www.facebook.com/groups/445443079632684/posts/1790555705121408/)  
+   Link: <a href="https://www.facebook.com/groups/445443079632684/posts/1790555705121408/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/445443079632684/posts/1790555705121408/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>r reality is created by the patterns of sacred geometry. We...</p></details>

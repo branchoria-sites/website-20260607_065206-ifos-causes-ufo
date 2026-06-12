@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_bird_parallax_aircra_8103a2
 - ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_migrating_flocks_str_882181
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - birds
 - pelican-glints
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - birds
 - pelican-glints
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Large white pelicans can flash, vanish and change shape in ways that overlap with classic metallic UFO descriptions.
 hero_summary: Large white pelicans can flash, vanish and change shape in ways that overlap with classic metallic UFO descriptions.
 layout: default
 permalink: /pelican-glints/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /birds/
 nav_short_title: Pelican glints
 title: Can Pelicans Look Like Silver Discs?
-title_full: Can Pelicans Look Like Silver Discs? | Birds
+title_full: Can Pelicans Look Like Silver Discs?
 display_title_short: Pelican glints
 display_title: Pelican glints
 heading_title: Can Pelicans Look Like Silver Discs?
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 07:56:27'
-parent_title: How Birds Become Fast UFOs | IFOs
+parent_title: How Birds Become Fast UFOs
 parent_permalink: /birds/
 parent_nav_short_title: Birds
 parent_heading_title: How Birds Become Fast UFOs
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40
-  title: Birds | Ifos Causes Of
+  title: Birds | ifos causes of UFO 3 ed 238
   permalink: /birds/
   short_title: Birds
   heading_title: How Birds Become Fast UFOs
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40
-  title: Birds | Ifos Causes Of
+  title: Birds | ifos causes of UFO 3 ed 238
   permalink: /birds/
   short_title: Birds
   heading_title: How Birds Become Fast UFOs
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: Why Nearby Birds Can Look Impossibly Fast
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40
-  title: Birds | Ifos Causes Of
+  title: Birds | ifos causes of UFO 3 ed 238
   permalink: /birds/
   short_title: Birds
   heading_title: How Birds Become Fast UFOs
@@ -260,6 +259,7 @@ prev_link:
   permalink: /parallax-a7662a/
   short_title: Parallax
   heading_title: Why Nearby Birds Can Look Impossibly Fast
+date: '2026-06-12 00:28:57 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_pelican_glints_ufo_8026ee-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_pelican_glints_ufo_8026ee-Illustration-1.webp
@@ -268,23 +268,20 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_pelic
 
 ## Introduction
 
-Large white pelicans can, under the right viewing conditions, resemble the classic “silver disc” descriptions found in some UFO reports. At long [range]({{ 'range/' | relative_url }}), observers lose reliable cues to size, shape and distance. A pelican banking in bright sunlight may appear first as a brilliant metallic flash, then as a dark sliver, and then disappear altogether as its broad wings turn edge-on to the observer. This sequence can create the impression of a reflective object that changes shape, accelerates, or vanishes suddenly. Such effects have made pelicans a recurring candidate explanation in discussions of certain historical UFO sightings, particularly those involving bright flashes and apparently disc-like objects seen against clear skies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lurch2.blogspot.com/2013/08/kenneth-arnold-ufo-sighting.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lurch2.blogspot.com">[Lurch2]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lurch2.blogspot.com</span><span class="citation-popover-title">kenneth arnold ufo sighting</span><span class="citation-popover-snippet">Lurch2Kenneth Arnold UFO sighting25 Aug 2013 — James Easton was the first of several skeptics to suggest that Arnold may have misidentifi...</span></span></span>
-
+Large white pelicans can, under the right viewing conditions, resemble the classic “silver disc” descriptions found in some UFO reports. At long [range]({{ 'range/' | relative_url }}), observers lose reliable cues to size, shape and distance. A pelican banking in bright sunlight may appear first as a brilliant metallic flash, then as a dark sliver, and then disappear altogether as its broad wings turn edge-on to the observer. This sequence can create the impression of a reflective object that changes shape, accelerates, or vanishes suddenly. Such effects have made pelicans a recurring candidate explanation in discussions of certain historical UFO sightings, particularly those involving bright flashes and apparently disc-like objects seen against clear skies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lurch2.blogspot.com/2013/08/kenneth-arnold-ufo-sighting.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lurch2.blogspot.com">[Lurch2]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lurch2.blogspot.com</span><span class="citation-popover-title">kenneth arnold ufo sighting</span><span class="citation-popover-snippet">Kenneth Arnold UFO sighting25 Aug 2013 — James Easton was the first of several skeptics to suggest that Arnold may have misidentifi...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_pelican_glints_ufo_8026ee-Illustration-1-dark.svg" | relative_url }}" alt="Pelican glints illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_pelican_glints_ufo_8026ee-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_pelican_glints_ufo_8026ee-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Can Pelicans Look Like Silver Discs?
 
-The answer is yes—at least from a distance and under favourable lighting conditions. American white pelicans are among the largest flying birds in North America, with broad pale wings and dark outer flight feathers. When sunlight strikes the white surfaces at the correct angle, the bird can produce intense flashes that resemble [reflections]({{ 'reflections/' | relative_url }}) from polished metal. As the bird changes orientation, those reflections can disappear almost instantly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lurch2.blogspot.com/2013/08/kenneth-arnold-ufo-sighting.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lurch2.blogspot.com">[Lurch2]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lurch2.blogspot.com</span><span class="citation-popover-title">kenneth arnold ufo sighting</span><span class="citation-popover-snippet">Lurch2Kenneth Arnold UFO sighting25 Aug 2013 — James Easton was the first of several skeptics to suggest that Arnold may have misidentifi...</span></span></span>
+The answer is yes—at least from a distance and under favourable lighting conditions. American white pelicans are among the largest flying birds in North America, with broad pale wings and dark outer flight feathers. When sunlight strikes the white surfaces at the correct angle, the bird can produce intense flashes that resemble [reflections]({{ 'reflections/' | relative_url }}) from polished metal. As the bird changes orientation, those reflections can disappear almost instantly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lurch2.blogspot.com/2013/08/kenneth-arnold-ufo-sighting.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lurch2.blogspot.com">[Lurch2]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lurch2.blogspot.com</span><span class="citation-popover-title">kenneth arnold ufo sighting</span><span class="citation-popover-snippet">Kenneth Arnold UFO sighting25 Aug 2013 — James Easton was the first of several skeptics to suggest that Arnold may have misidentifi...</span></span></span>
 
-Unlike an aircraft, a soaring pelican often spends long periods gliding without visible wingbeats. When viewed at great distance, its body and wings may merge into a single bright shape. The observer may perceive only the reflected sunlight rather than a recognisable bird outline. A flock can amplify the effect, producing a sequence of flashes that seem to come from multiple structured objects rather than individual animals. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lurch2.blogspot.com/2013/08/kenneth-arnold-ufo-sighting.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lurch2.blogspot.com">[Lurch2]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lurch2.blogspot.com</span><span class="citation-popover-title">kenneth arnold ufo sighting</span><span class="citation-popover-snippet">Lurch2Kenneth Arnold UFO sighting25 Aug 2013 — James Easton was the first of several skeptics to suggest that Arnold may have misidentifi...</span></span></span>
+Unlike an aircraft, a soaring pelican often spends long periods gliding without visible wingbeats. When viewed at great distance, its body and wings may merge into a single bright shape. The observer may perceive only the reflected sunlight rather than a recognisable bird outline. A flock can amplify the effect, producing a sequence of flashes that seem to come from multiple structured objects rather than individual animals. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lurch2.blogspot.com/2013/08/kenneth-arnold-ufo-sighting.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lurch2.blogspot.com">[Lurch2]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lurch2.blogspot.com</span><span class="citation-popover-title">kenneth arnold ufo sighting</span><span class="citation-popover-snippet">Kenneth Arnold UFO sighting25 Aug 2013 — James Easton was the first of several skeptics to suggest that Arnold may have misidentifi...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JWQNHJL90v4" title="Hundreds of Birds ‘Free Fall’ Out of the Sky" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JWQNHJL90v4" target="_blank" rel="noopener noreferrer">Hundreds of Birds ‘Free Fall’ Out of the Sky</a></p><p class="youtube-embed-meta">Channel: Inside Edition &middot; Views: 6.4M &middot; Uploaded: February 2022 &middot; Length: 1 minute 1 second</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JWQNHJL90v4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JWQNHJL90v4">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uPOjpabUZSQ" title="Pelican-American white Pelican with relaxing music 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uPOjpabUZSQ" target="_blank" rel="noopener noreferrer">Pelican-American white Pelican with relaxing music 2022</a></p><p class="youtube-embed-meta">Channel: Landscape Universe &middot; Views: 29 &middot; Uploaded: March 2022 &middot; Length: 3 minutes 49 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uPOjpabUZSQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uPOjpabUZSQ">Open on YouTube</a></p></div></div></div>
 
 ### White Wings, Black Tips and Banking Flashes
 
 The visual characteristics of pelicans create several opportunities for misidentification:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -295,8 +292,7 @@ The visual characteristics of pelicans create several opportunities for misident
 
 </div>
 
-These factors become particularly important when the observer is many kilometres away. Human vision is excellent at detecting contrast and movement but poor at judging the size of distant objects without reference points. A large bird can therefore be interpreted as a much larger object located far away. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lurch2.blogspot.com/2013/08/kenneth-arnold-ufo-sighting.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lurch2.blogspot.com">[Lurch2]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lurch2.blogspot.com</span><span class="citation-popover-title">kenneth arnold ufo sighting</span><span class="citation-popover-snippet">Lurch2Kenneth Arnold UFO sighting25 Aug 2013 — James Easton was the first of several skeptics to suggest that Arnold may have misidentifi...</span></span></span>
-
+These factors become particularly important when the observer is many kilometres away. Human vision is excellent at detecting contrast and movement but poor at judging the size of distant objects without reference points. A large bird can therefore be interpreted as a much larger object located far away. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lurch2.blogspot.com/2013/08/kenneth-arnold-ufo-sighting.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lurch2.blogspot.com">[Lurch2]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lurch2.blogspot.com</span><span class="citation-popover-title">kenneth arnold ufo sighting</span><span class="citation-popover-snippet">Kenneth Arnold UFO sighting25 Aug 2013 — James Easton was the first of several skeptics to suggest that Arnold may have misidentifi...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xLuHgsXGpqc" title="Kenneth Arnold UFO Sighting The First UFOs - Jimmy Akin&#x27;s Mysterious World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xLuHgsXGpqc" target="_blank" rel="noopener noreferrer">Kenneth Arnold UFO Sighting The First UFOs - Jimmy Akin&#x27;s Mysterious World</a></p><p class="youtube-embed-meta">Channel: Jimmy Akin &middot; Views: 10.0K &middot; Uploaded: October 2025 &middot; Length: 1 hour 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xLuHgsXGpqc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xLuHgsXGpqc">Open on YouTube</a></p></div></div></div>
 
@@ -308,23 +304,20 @@ When a large bird banks, the visible area presented to the observer can change d
 
 Distance compounds the illusion. At [ranges]({{ 'ranges/' | relative_url }}) where the bird itself cannot be resolved, the observer is effectively tracking a moving reflection rather than a recognisable animal. The result is a sighting dominated by flashes, shape changes and apparent disappearances—features commonly reported in metallic UFO accounts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1947 flying disc craze</span><span class="citation-popover-snippet">1947 flying disc crazeIn 1947, from June to July, a rash of reported sightings of unidentified flying objects (UFOs) in the United Sta...</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_pelican_glints_ufo_8026ee-Illustration-2-dark.svg" | relative_url }}" alt="Pelican glints illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_pelican_glints_ufo_8026ee-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_pelican_glints_ufo_8026ee-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Kenneth Arnold and the Contested Pelican Comparison
 
 The most famous pelican-related UFO debate concerns the 24 June 1947 sighting by pilot Kenneth Arnold near Mount Rainier, the event that helped launch the modern “flying saucer” era. Arnold reported seeing nine highly reflective objects that produced bright flashes and appeared to move in an unusual formation. He described moments when the objects seemed extremely thin, nearly vanished from view, and then emitted mirror-like flashes as they turned. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kenneth_Arnold" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kenneth Arnold</span><span class="citation-popover-snippet">Kenneth Arnold</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Flight_105_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Flight 105 UFO sighting</span><span class="citation-popover-snippet">Flight 105 UFO sighting</span></span></span>
 
-Decades later, some sceptical researchers proposed that pelicans could account for aspects of Arnold’s observation. James Easton and other proponents of the idea argued that pelicans are large, pale birds capable of producing bright reflections, and that their crescent-like profile during certain phases of flight resembles some of Arnold’s later sketches. They also noted that pelicans occur in the Pacific Northwest and can fly at considerable altitudes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lurch2.blogspot.com/2013/08/kenneth-arnold-ufo-sighting.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lurch2.blogspot.com">[Lurch2]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lurch2.blogspot.com</span><span class="citation-popover-title">kenneth arnold ufo sighting</span><span class="citation-popover-snippet">Lurch2Kenneth Arnold UFO sighting25 Aug 2013 — James Easton was the first of several skeptics to suggest that Arnold may have misidentifi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://martinshough.com/aerialphenomena/Arnold%20analysis2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: martinshough.com">[2martinshough.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">martinshough.com</span><span class="citation-popover-title">The Singular Adventure of Mr Kenneth Arnold</span><span class="citation-popover-snippet">Nickell is incorrect. There are no such...Read more...</span></span></span>
+Decades later, some sceptical researchers proposed that pelicans could account for aspects of Arnold’s observation. James Easton and other proponents of the idea argued that pelicans are large, pale birds capable of producing bright reflections, and that their crescent-like profile during certain phases of flight resembles some of Arnold’s later sketches. They also noted that pelicans occur in the Pacific Northwest and can fly at considerable altitudes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lurch2.blogspot.com/2013/08/kenneth-arnold-ufo-sighting.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lurch2.blogspot.com">[Lurch2]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lurch2.blogspot.com</span><span class="citation-popover-title">kenneth arnold ufo sighting</span><span class="citation-popover-snippet">Kenneth Arnold UFO sighting25 Aug 2013 — James Easton was the first of several skeptics to suggest that Arnold may have misidentifi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://martinshough.com/aerialphenomena/Arnold%20analysis2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: martinshough.com">[2martinshough.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">martinshough.com</span><span class="citation-popover-title">The Singular Adventure of Mr Kenneth Arnold</span><span class="citation-popover-snippet">Nickell is incorrect. There are no such...Read more...</span></span></span>
 
 The comparison remains controversial. Critics point out that Arnold was an experienced pilot who specifically considered and rejected the possibility that he was looking at birds. They also argue that the reported formation length, estimated speed and duration of the sighting are difficult to reconcile with a flock of pelicans. Arnold himself stated that he initially wondered whether the flashes might come from birds before dismissing the idea. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/kenneth-arnold" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[History As a result]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">Kenneth Arnold</span><span class="citation-popover-snippet">UFO, 1947 &amp; Flying Saucer22 Feb 2010 — Regarding the June 1947 sighting over Mount Rainier, Air Force investigators deemed both Arnold an...</span><span class="citation-popover-meta">Published: June 1947</span></span></span>, the pelican hypothesis has never become a consensus explanation for the Arnold sighting. Instead, it is best understood as a demonstration of how closely some bird-flight effects overlap with classic UFO descriptions. Even if pelicans do not explain that particular case, the comparison highlights the optical mechanisms by which bright birds can generate reports of reflective discs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://martinshough.com/aerialphenomena/Arnold%20analysis2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: martinshough.com">[martinshough.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">martinshough.com</span><span class="citation-popover-title">The Singular Adventure of Mr Kenneth Arnold</span><span class="citation-popover-snippet">Nickell is incorrect. There are no such...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">National Air and Space Museum1947: Year of the Flying Saucer24 Jun 2022 — Whatever Kenneth Arnold saw remains unexplained but subsequent...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BfEboMmwAMw" title="How Do Pelicans Survive Their Death-Defying Dives? | Deep Look" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BfEboMmwAMw" target="_blank" rel="noopener noreferrer">How Do Pelicans Survive Their Death-Defying Dives? | Deep Look</a></p><p class="youtube-embed-meta">Channel: Deep Look &middot; Views: 2.5M &middot; Uploaded: April 2017 &middot; Length: 3 minutes 48 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BfEboMmwAMw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BfEboMmwAMw">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JWQNHJL90v4" title="Hundreds of Birds ‘Free Fall’ Out of the Sky" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JWQNHJL90v4" target="_blank" rel="noopener noreferrer">Hundreds of Birds ‘Free Fall’ Out of the Sky</a></p><p class="youtube-embed-meta">Channel: Inside Edition &middot; Views: 6.4M &middot; Uploaded: February 2022 &middot; Length: 1 minute 1 second</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JWQNHJL90v4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JWQNHJL90v4">Open on YouTube</a></p></div></div></div>
 
 ## What the Pelican Example Reveals About Metallic UFO Reports
 
 The importance of the pelican comparison lies less in any single case than in the visual principles it illustrates. A large white bird at long range can:
-
 
 <div class="content-enhancement content-enhancement--example" markdown="1">
 
@@ -336,8 +329,7 @@ The importance of the pelican comparison lies less in any single case than in th
 
 </div>
 
-These characteristics overlap strikingly with recurring descriptions of silver discs, shining craft and flashing aerial objects. In investigations of UFO reports, pelicans therefore serve as a useful reminder that unusual appearance does not necessarily require unusual objects. Sometimes the combination of distance, lighting and bird flight is enough to transform a familiar animal into something that looks remarkably like a metallic flying saucer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lurch2.blogspot.com/2013/08/kenneth-arnold-ufo-sighting.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lurch2.blogspot.com">[Lurch2]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lurch2.blogspot.com</span><span class="citation-popover-title">kenneth arnold ufo sighting</span><span class="citation-popover-snippet">Lurch2Kenneth Arnold UFO sighting25 Aug 2013 — James Easton was the first of several skeptics to suggest that Arnold may have misidentifi...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kenneth Arnold UFO sighting</span><span class="citation-popover-snippet">Kenneth Arnold UFO sighting</span></span></span>
-
+These characteristics overlap strikingly with recurring descriptions of silver discs, shining craft and flashing aerial objects. In investigations of UFO reports, pelicans therefore serve as a useful reminder that unusual appearance does not necessarily require unusual objects. Sometimes the combination of distance, lighting and bird flight is enough to transform a familiar animal into something that looks remarkably like a metallic flying saucer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lurch2.blogspot.com/2013/08/kenneth-arnold-ufo-sighting.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lurch2.blogspot.com">[Lurch2]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lurch2.blogspot.com</span><span class="citation-popover-title">kenneth arnold ufo sighting</span><span class="citation-popover-snippet">Kenneth Arnold UFO sighting25 Aug 2013 — James Easton was the first of several skeptics to suggest that Arnold may have misidentifi...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kenneth Arnold UFO sighting</span><span class="citation-popover-snippet">Kenneth Arnold UFO sighting</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_pelican_glints_ufo_8026ee-Illustration-3-dark.svg" | relative_url }}" alt="Pelican glints illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_pelican_glints_ufo_8026ee-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_pelican_glints_ufo_8026ee-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -458,15 +450,15 @@ These characteristics overlap strikingly with recurring descriptions of silver d
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pelican-glints-can-pelicans-look-like-silver-discs-ifos-causes-of-military-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation patch" data-ebay-reference="pelican-glints-can-pelicans-look-like-silver-discs-ifos-causes-of-military-aviation-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Collection of 20 USAF Aviation Squadron Patches - *JOB LOT* - Lot 7"><img src="{{ '/assets/images/marketplace-covers/88c89fa0120bb1e83a70.jpg' | relative_url }}" alt="Listing image for Collection of 20 USAF Aviation Squadron Patches - *JOB LOT* - Lot 7" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pelican+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pelicans-look-like-silver-discs-pelican-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pelican art print" data-ebay-reference="can-pelicans-look-like-silver-discs-pelican-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for American White Pelican Wall Art, Vintage Bird Illustration Print by John James"><img src="https://i.ebayimg.com/images/g/tZYAAOSwBvBlldpz/s-l225.jpg" alt="Listing image for American White Pelican Wall Art, Vintage Bird Illustration Print by John James" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pelican-glints-can-pelicans-look-like-silver-discs-ifos-causes-of-military-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation patch" data-ebay-reference="pelican-glints-can-pelicans-look-like-silver-discs-ifos-causes-of-military-aviation-patch" target="_blank" rel="sponsored noopener noreferrer">Collection of 20 USAF Aviation Squadron Patches - *JOB LOT* - Lot 7</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pelican+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pelicans-look-like-silver-discs-pelican-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pelican art print" data-ebay-reference="can-pelicans-look-like-silver-discs-pelican-art-print" target="_blank" rel="sponsored noopener noreferrer">American White Pelican Wall Art, Vintage Bird Illustration Print by John James</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pelican-glints-can-pelicans-look-like-silver-discs-ifos-causes-of-military-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation patch" data-ebay-reference="pelican-glints-can-pelicans-look-like-silver-discs-ifos-causes-of-military-aviation-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: military aviation patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pelican+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pelicans-look-like-silver-discs-pelican-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pelican art print" data-ebay-reference="can-pelicans-look-like-silver-discs-pelican-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pelican art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: pelican art print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pelican-glints-can-pelicans-look-like-silver-discs-ifos-causes-of-military-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation patch" data-ebay-reference="pelican-glints-can-pelicans-look-like-silver-discs-ifos-causes-of-military-aviation-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pelican+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pelicans-look-like-silver-discs-pelican-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pelican art print" data-ebay-reference="can-pelicans-look-like-silver-discs-pelican-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -474,15 +466,15 @@ These characteristics overlap strikingly with recurring descriptions of silver d
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pelican-glints-can-pelicans-look-like-silver-discs-ifos-causes-of-military-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation patch" data-ebay-reference="pelican-glints-can-pelicans-look-like-silver-discs-ifos-causes-of-military-aviation-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Joint Aviation Command JAC TRF x3 TRF Pack"><img src="{{ '/assets/images/marketplace-covers/d2386587f3be570b369c.jpg' | relative_url }}" alt="Listing image for Joint Aviation Command JAC TRF x3 TRF Pack" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pelican+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pelicans-look-like-silver-discs-pelican-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pelican art print" data-ebay-reference="can-pelicans-look-like-silver-discs-pelican-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Framed Brown Pelican by John James Audubon Nature Art Poster Print Wall Art"><img src="https://i.ebayimg.com/images/g/8igAAOSwS0Rlw1mT/s-l225.jpg" alt="Listing image for Framed Brown Pelican by John James Audubon Nature Art Poster Print Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pelican-glints-can-pelicans-look-like-silver-discs-ifos-causes-of-military-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation patch" data-ebay-reference="pelican-glints-can-pelicans-look-like-silver-discs-ifos-causes-of-military-aviation-patch" target="_blank" rel="sponsored noopener noreferrer">Joint Aviation Command JAC TRF x3 TRF Pack</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pelican+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pelicans-look-like-silver-discs-pelican-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pelican art print" data-ebay-reference="can-pelicans-look-like-silver-discs-pelican-art-print" target="_blank" rel="sponsored noopener noreferrer">Framed Brown Pelican by John James Audubon Nature Art Poster Print Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pelican-glints-can-pelicans-look-like-silver-discs-ifos-causes-of-military-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation patch" data-ebay-reference="pelican-glints-can-pelicans-look-like-silver-discs-ifos-causes-of-military-aviation-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: military aviation patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pelican+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pelicans-look-like-silver-discs-pelican-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pelican art print" data-ebay-reference="can-pelicans-look-like-silver-discs-pelican-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pelican art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: pelican art print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pelican-glints-can-pelicans-look-like-silver-discs-ifos-causes-of-military-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation patch" data-ebay-reference="pelican-glints-can-pelicans-look-like-silver-discs-ifos-causes-of-military-aviation-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pelican+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pelicans-look-like-silver-discs-pelican-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pelican art print" data-ebay-reference="can-pelicans-look-like-silver-discs-pelican-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -490,15 +482,15 @@ These characteristics overlap strikingly with recurring descriptions of silver d
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pelican-glints-can-pelicans-look-like-silver-discs-ifos-causes-of-military-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation patch" data-ebay-reference="pelican-glints-can-pelicans-look-like-silver-discs-ifos-causes-of-military-aviation-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 14 assorted USAF/ USN aviation Military Patches."><img src="{{ '/assets/images/marketplace-covers/e49e13bcbcde85c76dfd.jpg' | relative_url }}" alt="Listing image for 14 assorted USAF/ USN aviation Military Patches." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pelican+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pelicans-look-like-silver-discs-pelican-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pelican art print" data-ebay-reference="can-pelicans-look-like-silver-discs-pelican-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for American White Pelican by John James Audubon - Canvas Wall Art Framed Print"><img src="https://i.ebayimg.com/images/g/W5UAAOSwGxpiM1Gz/s-l225.jpg" alt="Listing image for American White Pelican by John James Audubon - Canvas Wall Art Framed Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pelican-glints-can-pelicans-look-like-silver-discs-ifos-causes-of-military-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation patch" data-ebay-reference="pelican-glints-can-pelicans-look-like-silver-discs-ifos-causes-of-military-aviation-patch" target="_blank" rel="sponsored noopener noreferrer">14 assorted USAF/ USN aviation Military Patches.</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pelican+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pelicans-look-like-silver-discs-pelican-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pelican art print" data-ebay-reference="can-pelicans-look-like-silver-discs-pelican-art-print" target="_blank" rel="sponsored noopener noreferrer">American White Pelican by John James Audubon - Canvas Wall Art Framed Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pelican-glints-can-pelicans-look-like-silver-discs-ifos-causes-of-military-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation patch" data-ebay-reference="pelican-glints-can-pelicans-look-like-silver-discs-ifos-causes-of-military-aviation-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: military aviation patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pelican+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pelicans-look-like-silver-discs-pelican-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pelican art print" data-ebay-reference="can-pelicans-look-like-silver-discs-pelican-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pelican art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: pelican art print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pelican-glints-can-pelicans-look-like-silver-discs-ifos-causes-of-military-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation patch" data-ebay-reference="pelican-glints-can-pelicans-look-like-silver-discs-ifos-causes-of-military-aviation-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pelican+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pelicans-look-like-silver-discs-pelican-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pelican art print" data-ebay-reference="can-pelicans-look-like-silver-discs-pelican-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -506,15 +498,15 @@ These characteristics overlap strikingly with recurring descriptions of silver d
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pelican-glints-can-pelicans-look-like-silver-discs-ifos-causes-of-military-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation patch" data-ebay-reference="pelican-glints-can-pelicans-look-like-silver-discs-ifos-causes-of-military-aviation-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BRITISH ARMY - Army Air Corps Aviation Recce - Sew On Patch - No3803"><img src="{{ '/assets/images/marketplace-covers/02545280e7a9a2884b7c.jpg' | relative_url }}" alt="Listing image for BRITISH ARMY - Army Air Corps Aviation Recce - Sew On Patch - No3803" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pelican+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pelicans-look-like-silver-discs-pelican-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pelican art print" data-ebay-reference="can-pelicans-look-like-silver-discs-pelican-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage American White Pelican Art Original Framed Wall Art Print Large Picture"><img src="https://i.ebayimg.com/images/g/JywAAeSwgHhpv~KO/s-l225.jpg" alt="Listing image for Vintage American White Pelican Art Original Framed Wall Art Print Large Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pelican-glints-can-pelicans-look-like-silver-discs-ifos-causes-of-military-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation patch" data-ebay-reference="pelican-glints-can-pelicans-look-like-silver-discs-ifos-causes-of-military-aviation-patch" target="_blank" rel="sponsored noopener noreferrer">BRITISH ARMY - Army Air Corps Aviation Recce - Sew On Patch - No3803</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pelican+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pelicans-look-like-silver-discs-pelican-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pelican art print" data-ebay-reference="can-pelicans-look-like-silver-discs-pelican-art-print" target="_blank" rel="sponsored noopener noreferrer">Vintage American White Pelican Art Original Framed Wall Art Print Large Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pelican-glints-can-pelicans-look-like-silver-discs-ifos-causes-of-military-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation patch" data-ebay-reference="pelican-glints-can-pelicans-look-like-silver-discs-ifos-causes-of-military-aviation-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: military aviation patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pelican+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pelicans-look-like-silver-discs-pelican-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pelican art print" data-ebay-reference="can-pelicans-look-like-silver-discs-pelican-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pelican art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: pelican art print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pelican-glints-can-pelicans-look-like-silver-discs-ifos-causes-of-military-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation patch" data-ebay-reference="pelican-glints-can-pelicans-look-like-silver-discs-ifos-causes-of-military-aviation-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pelican+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pelicans-look-like-silver-discs-pelican-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pelican art print" data-ebay-reference="can-pelicans-look-like-silver-discs-pelican-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -522,7 +514,7 @@ These characteristics overlap strikingly with recurring descriptions of silver d
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pelican-glints-can-pelicans-look-like-silver-discs-ifos-causes-of-military-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation patch" data-ebay-reference="pelican-glints-can-pelicans-look-like-silver-discs-ifos-causes-of-military-aviation-patch" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=pelican+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pelicans-look-like-silver-discs-pelican-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pelican art print" data-ebay-reference="can-pelicans-look-like-silver-discs-pelican-art-print" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -738,105 +730,105 @@ These characteristics overlap strikingly with recurring descriptions of silver d
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Kenneth Arnold UFO sighting  
-   Link: [https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting](https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting)  
+   Link: <a href="https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting</a>  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: 1947 flying disc craze  
-   Link: [https://en.wikipedia.org/wiki/1947_flying_disc_craze](https://en.wikipedia.org/wiki/1947_flying_disc_craze)  
+   Link: <a href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1947_flying_disc_craze</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>1947 flying disc crazeIn 1947, from June to July, a rash of reported sightings of unidentified flying objects (UFOs) in the United Sta...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Kenneth Arnold  
-   Link: [https://en.wikipedia.org/wiki/Kenneth_Arnold](https://en.wikipedia.org/wiki/Kenneth_Arnold)  
+   Link: <a href="https://en.wikipedia.org/wiki/Kenneth_Arnold" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kenneth_Arnold</a>  
 
 4. <a id="endnote-4"></a>
    Source: martinshough.com  
    Title: The Singular Adventure of Mr Kenneth Arnold  
-   Link: [https://martinshough.com/aerialphenomena/Arnold%20analysis2.pdf](https://martinshough.com/aerialphenomena/Arnold%20analysis2.pdf)  
+   Link: <a href="https://martinshough.com/aerialphenomena/Arnold%20analysis2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://martinshough.com/aerialphenomena/Arnold%20analysis2.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nickell is incorrect. There are no such...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: space.com  
    Title: Flying Saucers Turn 64!  
-   Link: [https://www.space.com/amp/12066-flying-saucers-turn-64-ufos-origins.html](https://www.space.com/amp/12066-flying-saucers-turn-64-ufos-origins.html)  
+   Link: <a href="https://www.space.com/amp/12066-flying-saucers-turn-64-ufos-origins.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/amp/12066-flying-saucers-turn-64-ufos-origins.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Look Back at the Origin of UFOs23 Jun 2011 — Arnold did see UFOs, but they were probably just pelicans... A crescent-shaped UFO seen a...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: history.com  
    Title: Kenneth Arnold  
-   Link: [https://www.history.com/articles/kenneth-arnold](https://www.history.com/articles/kenneth-arnold)  
+   Link: <a href="https://www.history.com/articles/kenneth-arnold" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/kenneth-arnold</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO, 1947 &amp; Flying Saucer22 Feb 2010 — Regarding the June 1947 sighting over Mount Rainier, Air Force investigators deemed both Arnold an...</p></details>
    Published: June 1947  
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Flight 105 UFO sighting  
-   Link: [https://en.wikipedia.org/wiki/Flight_105_UFO_sighting](https://en.wikipedia.org/wiki/Flight_105_UFO_sighting)  
+   Link: <a href="https://en.wikipedia.org/wiki/Flight_105_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flight_105_UFO_sighting</a>  
 
 8. <a id="endnote-8"></a>
    Source: lurch2.blogspot.com  
    Title: kenneth arnold ufo sighting  
-   Link: [https://lurch2.blogspot.com/2013/08/kenneth-arnold-ufo-sighting.html](https://lurch2.blogspot.com/2013/08/kenneth-arnold-ufo-sighting.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lurch2Kenneth Arnold UFO sighting25 Aug 2013 — James Easton was the first of several skeptics to suggest that Arnold may have misidentifi...</p></details>
+   Link: <a href="https://lurch2.blogspot.com/2013/08/kenneth-arnold-ufo-sighting.html" target="_blank" rel="noopener noreferrer nofollow">https://lurch2.blogspot.com/2013/08/kenneth-arnold-ufo-sighting.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Arnold UFO sighting25 Aug 2013 — James Easton was the first of several skeptics to suggest that Arnold may have misidentifi...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: airandspace.si.edu  
    Title: 1947 year flying saucer  
-   Link: [https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer](https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer)  
+   Link: <a href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Air and Space Museum1947: Year of the Flying Saucer24 Jun 2022 — Whatever Kenneth Arnold saw remains unexplained but subsequent...</p></details>
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: gutenberg.org  
-   Link: [https://www.gutenberg.org/cache/epub/66639/pg66639-images.html](https://www.gutenberg.org/cache/epub/66639/pg66639-images.html)  
+   Link: <a href="https://www.gutenberg.org/cache/epub/66639/pg66639-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/66639/pg66639-images.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project GutenbergThe World of Flying SaucersArnold&#x27;s Nine Disks. The first man to report a flying saucer was a veteran pilot named Kennet...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/libraryofcongress/posts/on-this-day-in-1947-what-many-consider-to-be-the-first-modern-ufo-sighting-took-/1150298620475987/](https://www.facebook.com/libraryofcongress/posts/on-this-day-in-1947-what-many-consider-to-be-the-first-modern-ufo-sighting-took-/1150298620475987/)  
+   Link: <a href="https://www.facebook.com/libraryofcongress/posts/on-this-day-in-1947-what-many-consider-to-be-the-first-modern-ufo-sighting-took-/1150298620475987/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/libraryofcongress/posts/on-this-day-in-1947-what-many-consider-to-be-the-first-modern-ufo-sighting-took-/1150298620475987/</a>  
 
 12. <a id="endnote-12"></a>
    Source: thedebrief.org  
-   Link: [https://thedebrief.org/after-kenneth-arnold-saw-flying-discs-this-is-the-journalist-who-tracked-one-down/](https://thedebrief.org/after-kenneth-arnold-saw-flying-discs-this-is-the-journalist-who-tracked-one-down/)  
+   Link: <a href="https://thedebrief.org/after-kenneth-arnold-saw-flying-discs-this-is-the-journalist-who-tracked-one-down/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/after-kenneth-arnold-saw-flying-discs-this-is-the-journalist-who-tracked-one-down/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>After Kenneth Arnold Saw &quot;Flying Discs&quot;, This is...1 Apr 2022 — Recognized as the first UFO sighting of the modern era, there are two li...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/HISTORY/posts/a-pilot-reports-sight-of-a-number-of-flying-discs-near-mount-rainier-historysgre/1536344454725192/](https://www.facebook.com/HISTORY/posts/a-pilot-reports-sight-of-a-number-of-flying-discs-near-mount-rainier-historysgre/1536344454725192/)  
+   Link: <a href="https://www.facebook.com/HISTORY/posts/a-pilot-reports-sight-of-a-number-of-flying-discs-near-mount-rainier-historysgre/1536344454725192/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/a-pilot-reports-sight-of-a-number-of-flying-discs-near-mount-rainier-historysgre/1536344454725192/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>mountain in 1947, when pilot Kenneth Arnold reported “nine shining...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: discoveryuk.com  
    Title: legendary flying saucer re examining the kenneth arnold ufo sighting  
-   Link: [https://www.discoveryuk.com/mysteries/legendary-flying-saucer-re-examining-the-kenneth-arnold-ufo-sighting/](https://www.discoveryuk.com/mysteries/legendary-flying-saucer-re-examining-the-kenneth-arnold-ufo-sighting/)  
+   Link: <a href="https://www.discoveryuk.com/mysteries/legendary-flying-saucer-re-examining-the-kenneth-arnold-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/legendary-flying-saucer-re-examining-the-kenneth-arnold-ufo-sighting/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Arnold&#x27;s account continues to puzzle aviation experts, historians, and UFO researchers alike. Could...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: dailygrail.com  
    Title: return of the flying saucers re evaluating the kenneth arnold ufo sighting  
-   Link: [https://www.dailygrail.com/2018/07/return-of-the-flying-saucers-re-evaluating-the-kenneth-arnold-ufo-sighting/](https://www.dailygrail.com/2018/07/return-of-the-flying-saucers-re-evaluating-the-kenneth-arnold-ufo-sighting/)  
+   Link: <a href="https://www.dailygrail.com/2018/07/return-of-the-flying-saucers-re-evaluating-the-kenneth-arnold-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.dailygrail.com/2018/07/return-of-the-flying-saucers-re-evaluating-the-kenneth-arnold-ufo-sighting/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It is unique inasmuch as his initial sighting report was born naked, as it were. By...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1ffvc1r/the_only_recorded_interview_of_kenneth_arnold/](https://www.reddit.com/r/UFOs/comments/1ffvc1r/the_only_recorded_interview_of_kenneth_arnold/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ffvc1r/the_only_recorded_interview_of_kenneth_arnold/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ffvc1r/the_only_recorded_interview_of_kenneth_arnold/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>re being truly skeptical, we should assume that memory fades over time...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/397526214154529/posts/1264748560765619/](https://www.facebook.com/groups/397526214154529/posts/1264748560765619/)  
+   Link: <a href="https://www.facebook.com/groups/397526214154529/posts/1264748560765619/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/397526214154529/posts/1264748560765619/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of disc-shaped lenticular clouds, which often form over...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: dn721804.ca.archive.org  
    Title: Bad UFOs critical thinking about UFO claims  
-   Link: [https://dn721804.ca.archive.org/0/items/bad-ufos/Bad%20UFOs%20-%20critical%20thinking%20about%20UFO%20claims.pdf](https://dn721804.ca.archive.org/0/items/bad-ufos/Bad%20UFOs%20-%20critical%20thinking%20about%20UFO%20claims.pdf)  
+   Link: <a href="https://dn721804.ca.archive.org/0/items/bad-ufos/Bad%20UFOs%20-%20critical%20thinking%20about%20UFO%20claims.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dn721804.ca.archive.org/0/items/bad-ufos/Bad%20UFOs%20-%20critical%20thinking%20about%20UFO%20claims.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs_ Critical Thinking About UFO Claims14 Jan 2016 — For at least twenty years after Kenneth Arnold&#x27;s sighting, believers expected that...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ufo/comments/vhee5w/kenneth_arnold_most_likely_did_see_flying_discs/](https://www.reddit.com/r/ufo/comments/vhee5w/kenneth_arnold_most_likely_did_see_flying_discs/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/vhee5w/kenneth_arnold_most_likely_did_see_flying_discs/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/vhee5w/kenneth_arnold_most_likely_did_see_flying_discs/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>t matter anyway because flying discs go back into history way too...</p></details>

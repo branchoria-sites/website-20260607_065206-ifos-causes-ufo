@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e_sky_object_checks_0aecd8
 - ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e_weather_record_check_4a5789
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - first-checks
 - original-files
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - first-checks
 - original-files
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: The original file, not a cropped social-media copy, often contains the timing, camera and context needed to test a claim.
 hero_summary: The original file, not a cropped social-media copy, often contains the timing, camera and context needed to test a claim.
 layout: default
 permalink: /original-files/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /first-checks/
 nav_short_title: Original files
 title: Why the original UFO file matters
-title_full: Why the original UFO file matters | First Checks
+title_full: Why the original UFO file matters
 display_title_short: Original files
 display_title: Original files
 heading_title: Why the original UFO file matters
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What to Check Before Calling It a UFO | IFOs
+parent_title: What to Check Before Calling It a UFO
 parent_permalink: /first-checks/
 parent_nav_short_title: First Checks
 parent_heading_title: What to Check Before Calling It a UFO
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e
-  title: First Checks | Ifos Causes Of
+  title: First Checks | ifos causes of UFO 3 ed 238
   permalink: /first-checks/
   short_title: First Checks
   heading_title: What to Check Before Calling It a UFO
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e
-  title: First Checks | Ifos Causes Of
+  title: First Checks | ifos causes of UFO 3 ed 238
   permalink: /first-checks/
   short_title: First Checks
   heading_title: What to Check Before Calling It a UFO
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Did the weather make it look strange?
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e
-  title: First Checks | Ifos Causes Of
+  title: First Checks | ifos causes of UFO 3 ed 238
   permalink: /first-checks/
   short_title: First Checks
   heading_title: What to Check Before Calling It a UFO
@@ -265,7 +265,7 @@ next_link:
   permalink: /sky-maps/
   short_title: Sky maps
   heading_title: Was it already in the sky?
-date: '2026-06-07 06:15:54 '
+date: '2026-06-12 00:39:42 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e_original_photo_files_5c5c93-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e_original_photo_files_5c5c93-Illustration-1.webp
@@ -275,7 +275,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e_origin
 ## Introduction
 
 When a photograph or video is offered as evidence of a UFO sighting, the most important file is usually the one that never appears on social media: the original recording from the camera or phone. Before a sighting can be considered genuinely anomalous, investigators need to know when the image was taken, what device recorded it, whether it has been edited, and how it relates to the surrounding sequence of images. Those answers often come from the original file itself rather than from the visible picture. NASA's recent work on unidentified anomalous phenomena has repeatedly stressed that investigations are limited by [missing metadata]({{ 'missing-metadata/' | relative_url }}) and poor-quality source data rather than by a lack of analytical techniques. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e_original_photo_files_5c5c93-Illustration-1-dark.svg" | relative_url }}" alt="Original files illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e_original_photo_files_5c5c93-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e_original_photo_files_5c5c93-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 In practical terms, preserving the original file is one of the simplest and most valuable checks that can be performed before a sighting is treated as unexplained. A cropped screenshot, compressed upload, or edited clip may still show something interesting, but it often removes exactly the information needed to determine whether the object was a planet, aircraft, satellite, camera artefact, balloon, drone, or something that genuinely requires further study.
@@ -298,15 +297,11 @@ The importance of metadata is not unique to UFO research. Across scientific and 
 
 An image without context can be intriguing. An image with reliable metadata can often be tested.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PZo-LoWC5jc" title="Understand EXIF data for better pictures, AND staying safe with EXIF DATA!!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PZo-LoWC5jc" target="_blank" rel="noopener noreferrer">Understand EXIF data for better pictures, AND staying safe with EXIF DATA!!</a></p><p class="youtube-embed-meta">Channel: First Choice Photo</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PZo-LoWC5jc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PZo-LoWC5jc">Open on YouTube</a></p></div></div></div>
-
 ## How apps and edits strip context
 
 Many people unknowingly destroy useful evidence before sharing it. The most common problem is not deliberate manipulation but routine digital handling.
 
 Social-media platforms frequently remove metadata when photographs are uploaded. Independent testing and long-running metadata studies have found that major platforms often strip GPS information, camera details, [timestamps]({{ 'timestamps/' | relative_url }}), and other embedded records from publicly downloadable copies of images. The Library of Congress Fastio The process can happen in several ways: <span class="citation-chip-wrap"><a class="citation-chip" href="https://proton.me/blog/exif-data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: proton.me">[proton.me]</a><span class="citation-popover" role="note"><span class="citation-popover-source">proton.me</span><span class="citation-popover-title">exif data</span><span class="citation-popover-snippet">Always delete metadata before uploading your photos to websites, cloud storage, or messaging apps.Read more...</span></span></span>
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -315,14 +310,13 @@ Social-media platforms frequently remove metadata when photographs are uploaded.
 * Taking a screenshot of the original photo.
 * Cropping or editing the image and saving a new version.
 * Exporting the file through photo-editing software.
-* Converting between file formats. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fast.io/resources/social-media-photo-metadata-platforms-strip/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fast.io">[Fastio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fast.io</span><span class="citation-popover-snippet">FastioWhich Social Media Platforms Strip Photo Metadata?See which social media platforms strip EXIF data from photos. Tested results for...</span></span></span>
+* Converting between file formats. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fast.io/resources/social-media-photo-metadata-platforms-strip/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fast.io">[Fastio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fast.io</span><span class="citation-popover-snippet">ioWhich Social Media Platforms Strip Photo Metadata?See which social media platforms strip EXIF data from photos. Tested results for...</span></span></span>
 
 </div>
 
 Even when the visible content appears unchanged, the surrounding information may be gone. Researchers examining a UFO claim often discover that the only available copy is a heavily compressed social-media image. At that point, it may be impossible to verify the exact capture time, determine whether the image has been altered, or inspect the original pixel structure.
 
 This loss of context matters because many disputed UFO photographs depend on small details. A bright object that appears extraordinary in a reposted image may prove to be an aircraft landing light or a star once the original capture time and viewing direction are established. Without those details, the case remains harder to evaluate.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e_original_photo_files_5c5c93-Illustration-2-dark.svg" | relative_url }}" alt="Original files illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e_original_photo_files_5c5c93-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e_original_photo_files_5c5c93-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the original file is often more valuable than the image itself
@@ -340,15 +334,12 @@ An original file can help answer questions such as:
 
 This is one reason that scientific approaches to UAP investigations increasingly emphasise data quality. A blurry but well-documented original recording may be more useful than a dramatic-looking image that has passed through several rounds of editing and reposting. NASA Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/d3NsT8lJRlE" title="OSINT At Home #2 - Five ways to find EXIF/metadata in a photo or video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=d3NsT8lJRlE" target="_blank" rel="noopener noreferrer">OSINT At Home #2 - Five ways to find EXIF/metadata in a photo or video</a></p><p class="youtube-embed-meta">Channel: Bendobrown</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=d3NsT8lJRlE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=d3NsT8lJRlE">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e_original_photo_files_5c5c93-Illustration-3-dark.svg" | relative_url }}" alt="Original files illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e_original_photo_files_5c5c93-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e_original_photo_files_5c5c93-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What to save before sharing footage
 
 If a witness believes they have captured something unusual, preserving evidence should happen before posting it online.
 
 Useful steps include:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -358,6 +349,17 @@ Useful steps include:
 4. **Record the viewing location.** A map pin, coordinates, or exact address may help later comparisons.
 5. **Note the direction of observation.** Landmarks and compass bearings can be as valuable as the image itself.
 6. **Preserve witness notes.** Time, duration, weather, and observations should be recorded while memories are fresh.
+7. **Retain the full-resolution version.** Avoid relying solely on screenshots or platform downloads. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
+
+</div>
+
+A simple rule is that every additional processing step risks removing information. Once metadata has been stripped and the original file lost, that information is often impossible to recover.
+
+## A practical standard before calling a sighting anomalous
+
+Within UFO investigation, preserving original files is not a technical luxury; it is a basic evidential safeguard. Many sightings remain unresolved not because they defy explanation, but because the information needed to test ordinary explanations was discarded before analysis began.
+
+The original photo or video provides a bridge between the witness account and the physical circumstances of the event. It can anchor timing, device characteristics, image provenance, and observational context. When that bridge is preserved, investigators can compare a claim against known aircraft, [satellites]({{ 'satellites/' | relative_url }}), astronomical objects, atmospheric effects, and camera artefacts. When it is lost, even a sincere and potentially important report becomes much harder to evaluate. As modern UAP studies have repeatedly concluded, better conclusions depend first on better data, and preserving the original file is one of the easiest ways to improve it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skyandtelescope.org/astronomy-news/nasa-finds-no-evidence-ufos-are-extraterrestrial-promises-further-study/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyandtelescope.org">[skyandtelescope.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyandtelescope.org</span><span class="citation-popover-title">nasa finds no evidence ufos are extraterrestrial promises further study</span><span class="citation-popover-snippet">First, UAP reports are typically single sightings and lack multiple measurements. Those individual reports also often lack sensor metadat...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -476,15 +478,15 @@ Useful steps include:
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=original-files-why-the-original-ufo-file-matters-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="original-files-why-the-original-ufo-file-matters-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black"><img src="{{ '/assets/images/marketplace-covers/078b55bb70d6b61d9af5.jpg' | relative_url }}" alt="Listing image for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="why-the-original-ufo-file-matters-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Full Size Ultra SD Memory Card 32GB 64GB 128GB 256GB SDHC Class 10 For Cameras"><img src="https://i.ebayimg.com/images/g/51sAAeSwO~No14Aj/s-l225.jpg" alt="Listing image for Full Size Ultra SD Memory Card 32GB 64GB 128GB 256GB SDHC Class 10 For Cameras" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=original-files-why-the-original-ufo-file-matters-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="original-files-why-the-original-ufo-file-matters-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="why-the-original-ufo-file-matters-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer">Full Size Ultra SD Memory Card 32GB 64GB 128GB 256GB SDHC Class 10 For Cameras</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=original-files-why-the-original-ufo-file-matters-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="original-files-why-the-original-ufo-file-matters-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo enamel pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="why-the-original-ufo-file-matters-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera memory card">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera memory card</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=original-files-why-the-original-ufo-file-matters-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="original-files-why-the-original-ufo-file-matters-ifos-causes-of-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="why-the-original-ufo-file-matters-camera-memory-card" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -492,15 +494,15 @@ Useful steps include:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=original-files-why-the-original-ufo-file-matters-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="original-files-why-the-original-ufo-file-matters-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="why-the-original-ufo-file-matters-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FAST SPEED CLASS 10 SD CARD 16GB 32GB 64GB 128GB 256GB, MEMORY CARD FOR CAMERAS"><img src="https://i.ebayimg.com/images/g/Ys8AAeSwK-9qJeGZ/s-l225.jpg" alt="Listing image for FAST SPEED CLASS 10 SD CARD 16GB 32GB 64GB 128GB 256GB, MEMORY CARD FOR CAMERAS" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=original-files-why-the-original-ufo-file-matters-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="original-files-why-the-original-ufo-file-matters-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="why-the-original-ufo-file-matters-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer">FAST SPEED CLASS 10 SD CARD 16GB 32GB 64GB 128GB 256GB, MEMORY CARD FOR CAMERAS</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=original-files-why-the-original-ufo-file-matters-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="original-files-why-the-original-ufo-file-matters-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo enamel pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="why-the-original-ufo-file-matters-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera memory card">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera memory card</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=original-files-why-the-original-ufo-file-matters-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="original-files-why-the-original-ufo-file-matters-ifos-causes-of-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="why-the-original-ufo-file-matters-camera-memory-card" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -508,15 +510,15 @@ Useful steps include:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=original-files-why-the-original-ufo-file-matters-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="original-files-why-the-original-ufo-file-matters-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac"><img src="{{ '/assets/images/marketplace-covers/cdbe73a199cf9b4b48c0.jpg' | relative_url }}" alt="Listing image for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="why-the-original-ufo-file-matters-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sandisk 32/64/128 GB Ultra Extreme Pro SD SDHC Class 10 4 Memory Card for Camera"><img src="https://i.ebayimg.com/images/g/htMAAOSw3FledlDs/s-l225.jpg" alt="Listing image for Sandisk 32/64/128 GB Ultra Extreme Pro SD SDHC Class 10 4 Memory Card for Camera" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=original-files-why-the-original-ufo-file-matters-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="original-files-why-the-original-ufo-file-matters-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="why-the-original-ufo-file-matters-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer">Sandisk 32/64/128 GB Ultra Extreme Pro SD SDHC Class 10 4 Memory Card for Camera</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=original-files-why-the-original-ufo-file-matters-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="original-files-why-the-original-ufo-file-matters-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo enamel pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="why-the-original-ufo-file-matters-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera memory card">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera memory card</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=original-files-why-the-original-ufo-file-matters-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="original-files-why-the-original-ufo-file-matters-ifos-causes-of-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="why-the-original-ufo-file-matters-camera-memory-card" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -524,15 +526,15 @@ Useful steps include:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=original-files-why-the-original-ufo-file-matters-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="original-files-why-the-original-ufo-file-matters-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag"><img src="{{ '/assets/images/marketplace-covers/423dfe011ecd80a392ff.jpg' | relative_url }}" alt="Listing image for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="why-the-original-ufo-file-matters-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SanDisk Ultra SD Memory Card 16GB 32GB 64GB 128GB SDHC Class 10 Cameras UK"><img src="https://i.ebayimg.com/images/g/3XAAAeSweJZqDw~b/s-l225.jpg" alt="Listing image for SanDisk Ultra SD Memory Card 16GB 32GB 64GB 128GB SDHC Class 10 Cameras UK" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=original-files-why-the-original-ufo-file-matters-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="original-files-why-the-original-ufo-file-matters-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="why-the-original-ufo-file-matters-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer">SanDisk Ultra SD Memory Card 16GB 32GB 64GB 128GB SDHC Class 10 Cameras UK</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=original-files-why-the-original-ufo-file-matters-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="original-files-why-the-original-ufo-file-matters-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo enamel pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="why-the-original-ufo-file-matters-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera memory card">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera memory card</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=original-files-why-the-original-ufo-file-matters-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="original-files-why-the-original-ufo-file-matters-ifos-causes-of-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="why-the-original-ufo-file-matters-camera-memory-card" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -540,7 +542,7 @@ Useful steps include:
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=original-files-why-the-original-ufo-file-matters-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="original-files-why-the-original-ufo-file-matters-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-ufo-file-matters-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="why-the-original-ufo-file-matters-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -751,127 +753,110 @@ Useful steps include:
 </script>
 </section>
 
-7. **Retain the full-resolution version.** Avoid relying solely on screenshots or platform downloads. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
-
-</div>
-
-A simple rule is that every additional processing step risks removing information. Once metadata has been stripped and the original file lost, that information is often impossible to recover.
-
-
-<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e_original_photo_files_5c5c93-Illustration-3-dark.svg" | relative_url }}" alt="Original files illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e_original_photo_files_5c5c93-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e_original_photo_files_5c5c93-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## A practical standard before calling a sighting anomalous
-
-Within UFO investigation, preserving original files is not a technical luxury; it is a basic evidential safeguard. Many sightings remain unresolved not because they defy explanation, but because the information needed to test ordinary explanations was discarded before analysis began.
-
-The original photo or video provides a bridge between the witness account and the physical circumstances of the event. It can anchor timing, device characteristics, image provenance, and observational context. When that bridge is preserved, investigators can compare a claim against known aircraft, [satellites]({{ 'satellites/' | relative_url }}), astronomical objects, atmospheric effects, and camera artefacts. When it is lost, even a sincere and potentially important report becomes much harder to evaluate. As modern UAP studies have repeatedly concluded, better conclusions depend first on better data, and preserving the original file is one of the easiest ways to improve it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skyandtelescope.org/astronomy-news/nasa-finds-no-evidence-ufos-are-extraterrestrial-promises-further-study/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyandtelescope.org">[skyandtelescope.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyandtelescope.org</span><span class="citation-popover-title">nasa finds no evidence ufos are extraterrestrial promises further study</span><span class="citation-popover-snippet">First, UAP reports are typically single sightings and lack multiple measurements. Those individual reports also often lack sensor metadat...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UoAIrQ1uAEo" title="The UFO Files Didn’t Prove Aliens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UoAIrQ1uAEo" target="_blank" rel="noopener noreferrer">The UFO Files Didn’t Prove Aliens</a></p><p class="youtube-embed-meta">Channel: Render State</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UoAIrQ1uAEo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UoAIrQ1uAEo">Open on YouTube</a></p></div></div></div>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: [https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/](https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/)  
+   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through sys...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: sciepublish.com  
-   Link: [https://www.sciepublish.com/article/pii/567](https://www.sciepublish.com/article/pii/567)  
+   Link: <a href="https://www.sciepublish.com/article/pii/567" target="_blank" rel="noopener noreferrer nofollow">https://www.sciepublish.com/article/pii/567</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic Value of Exif Data: An Analytical Evaluation...by N Soni · 2025 · Cited by 6 — This research adopts an empirical approach to an...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: skyandtelescope.org  
    Title: nasa finds no evidence ufos are extraterrestrial promises further study  
-   Link: [https://skyandtelescope.org/astronomy-news/nasa-finds-no-evidence-ufos-are-extraterrestrial-promises-further-study/](https://skyandtelescope.org/astronomy-news/nasa-finds-no-evidence-ufos-are-extraterrestrial-promises-further-study/)  
+   Link: <a href="https://skyandtelescope.org/astronomy-news/nasa-finds-no-evidence-ufos-are-extraterrestrial-promises-further-study/" target="_blank" rel="noopener noreferrer nofollow">https://skyandtelescope.org/astronomy-news/nasa-finds-no-evidence-ufos-are-extraterrestrial-promises-further-study/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>First, UAP reports are typically single sightings and lack multiple measurements. Those individual reports also often lack sensor metadat...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — The UAP Independent Study shall report on the following questions: What types of scientific data currently collec...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: ojp.gov  
    Title: Office of Justice Programs EXIF: A Format Is Worth A Thousand Words  
-   Link: [https://www.ojp.gov/pdffiles1/nij/nlectc/218283.pdf](https://www.ojp.gov/pdffiles1/nij/nlectc/218283.pdf)  
+   Link: <a href="https://www.ojp.gov/pdffiles1/nij/nlectc/218283.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ojp.gov/pdffiles1/nij/nlectc/218283.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Office of Justice ProgramsEXIF: A Format Is Worth A Thousand WordsJune 25, 2020 — The National Center for Missing &amp; Exploited Children re...</p></details>
    Published: June 25, 2020  
 
 7. <a id="endnote-7"></a>
    Source: fast.io  
-   Link: [https://fast.io/resources/social-media-photo-metadata-platforms-strip/](https://fast.io/resources/social-media-photo-metadata-platforms-strip/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FastioWhich Social Media Platforms Strip Photo Metadata?See which social media platforms strip EXIF data from photos. Tested results for...</p></details>
+   Link: <a href="https://fast.io/resources/social-media-photo-metadata-platforms-strip/" target="_blank" rel="noopener noreferrer nofollow">https://fast.io/resources/social-media-photo-metadata-platforms-strip/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ioWhich Social Media Platforms Strip Photo Metadata?See which social media platforms strip EXIF data from photos. Tested results for...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: science.org  
    Title: nasa ufo team calls higher quality data first public meeting  
-   Link: [https://www.science.org/content/article/nasa-ufo-team-calls-higher-quality-data-first-public-meeting](https://www.science.org/content/article/nasa-ufo-team-calls-higher-quality-data-first-public-meeting)  
+   Link: <a href="https://www.science.org/content/article/nasa-ufo-team-calls-higher-quality-data-first-public-meeting" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/article/nasa-ufo-team-calls-higher-quality-data-first-public-meeting</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO team calls for higher quality data in first public...31 May 2023 — But any existing data sets applied to the question of UAPs w...</p></details>
    Published: May 2023  
 
 9. <a id="endnote-9"></a>
    Source: proton.me  
    Title: exif data  
-   Link: [https://proton.me/blog/exif-data](https://proton.me/blog/exif-data)  
+   Link: <a href="https://proton.me/blog/exif-data" target="_blank" rel="noopener noreferrer nofollow">https://proton.me/blog/exif-data</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Always delete metadata before uploading your photos to websites, cloud storage, or messaging apps.Read more...</p></details>
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: globalchildexploitationpolicy.org  
-   Link: [https://globalchildexploitationpolicy.org/content/gpp-ncmec/us/en/policy-advocacy/exploitative-content.html](https://globalchildexploitationpolicy.org/content/gpp-ncmec/us/en/policy-advocacy/exploitative-content.html)  
+   Link: <a href="https://globalchildexploitationpolicy.org/content/gpp-ncmec/us/en/policy-advocacy/exploitative-content.html" target="_blank" rel="noopener noreferrer nofollow">https://globalchildexploitationpolicy.org/content/gpp-ncmec/us/en/policy-advocacy/exploitative-content.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Briefly: Exploitative ContentExploitative content refers to imagery that may not be considered unlawful child sexual abuse material (CSAM...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: exifremover.com  
-   Link: [https://exifremover.com/](https://exifremover.com/)  
+   Link: <a href="https://exifremover.com/" target="_blank" rel="noopener noreferrer nofollow">https://exifremover.com/</a>  
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/hacking/comments/18no8ar/i_dont_know_how_relevant_this_is_but/](https://www.reddit.com/r/hacking/comments/18no8ar/i_dont_know_how_relevant_this_is_but/)  
+   Link: <a href="https://www.reddit.com/r/hacking/comments/18no8ar/i_dont_know_how_relevant_this_is_but/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/hacking/comments/18no8ar/i_dont_know_how_relevant_this_is_but/</a>  
 
 13. <a id="endnote-13"></a>
    Source: blogs.loc.gov  
    Title: social media networks stripping data from your digital photos  
-   Link: [https://blogs.loc.gov/thesignal/2013/04/social-media-networks-stripping-data-from-your-digital-photos/](https://blogs.loc.gov/thesignal/2013/04/social-media-networks-stripping-data-from-your-digital-photos/)  
+   Link: <a href="https://blogs.loc.gov/thesignal/2013/04/social-media-networks-stripping-data-from-your-digital-photos/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.loc.gov/thesignal/2013/04/social-media-networks-stripping-data-from-your-digital-photos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Library of CongressSocial Media Networks Stripping Data from Your Digital...11 Apr 2013 — This survey shows that a number of the mor...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/cybersecurity_help/comments/plhqut/is_it_possible_to_extract_metadata_from_images_if/](https://www.reddit.com/r/cybersecurity_help/comments/plhqut/is_it_possible_to_extract_metadata_from_images_if/)  
+   Link: <a href="https://www.reddit.com/r/cybersecurity_help/comments/plhqut/is_it_possible_to_extract_metadata_from_images_if/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/cybersecurity_help/comments/plhqut/is_it_possible_to_extract_metadata_from_images_if/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How much information can be collected from an image uploaded to a social media account? What kind of information...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=TQcqOW39ksk](https://www.youtube.com/watch?v=TQcqOW39ksk)  
+   Link: <a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study ReportNASA commissioned an independent study team to examine unidentified anomalous ph...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: utica.edu  
-   Link: [https://www.utica.edu/academic/institutes/ecii/publications/articles/A0B1F944-FF4E-4788-E75541A7418DAE24.pdf](https://www.utica.edu/academic/institutes/ecii/publications/articles/A0B1F944-FF4E-4788-E75541A7418DAE24.pdf)  
+   Link: <a href="https://www.utica.edu/academic/institutes/ecii/publications/articles/A0B1F944-FF4E-4788-E75541A7418DAE24.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.utica.edu/academic/institutes/ecii/publications/articles/A0B1F944-FF4E-4788-E75541A7418DAE24.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ta in files when written to file formats that support arbitrary extra data (PSD TIFF, EPS and PDF), and...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: 1854.photography  
    Title: study exposes social media sites that delete photographs metadata  
-   Link: [https://www.1854.photography/2013/03/study-exposes-social-media-sites-that-delete-photographs-metadata/](https://www.1854.photography/2013/03/study-exposes-social-media-sites-that-delete-photographs-metadata/)  
+   Link: <a href="https://www.1854.photography/2013/03/study-exposes-social-media-sites-that-delete-photographs-metadata/" target="_blank" rel="noopener noreferrer nofollow">https://www.1854.photography/2013/03/study-exposes-social-media-sites-that-delete-photographs-metadata/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Study exposes social media sites that delete photographs&#x27;...13 Mar 2013 — The results show that Facebook and Flickr are some of the wors...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: port.ac.uk  
    Title: ufos what well learn from the nasa panel investigating sightings  
-   Link: [https://www.port.ac.uk/news-events-and-blogs/blogs/developing-enhanced-technologies/ufos-what-well-learn-from-the-nasa-panel-investigating-sightings](https://www.port.ac.uk/news-events-and-blogs/blogs/developing-enhanced-technologies/ufos-what-well-learn-from-the-nasa-panel-investigating-sightings)  
+   Link: <a href="https://www.port.ac.uk/news-events-and-blogs/blogs/developing-enhanced-technologies/ufos-what-well-learn-from-the-nasa-panel-investigating-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.port.ac.uk/news-events-and-blogs/blogs/developing-enhanced-technologies/ufos-what-well-learn-from-the-nasa-panel-investigating-sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>what we&#x27;ll learn from the Nasa panel investigating sightings13 Jun 2023 — A committee set up by Nasa has examined about 800 reports of un...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: nevadacurrent.com  
    Title: nasa report finds no evidence that ufos are extraterrestrial  
-   Link: [https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/](https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/)  
+   Link: <a href="https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow">https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>18 Sept 2023 — Analysis of this data is “hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor metad...</p></details>

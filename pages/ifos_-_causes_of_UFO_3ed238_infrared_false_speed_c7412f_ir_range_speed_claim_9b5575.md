@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f_puerto_rico_transmed_37f0b5
 - ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f_thermal_contrast_mis_f4b651
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - infrared
 - range
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - infrared
 - range
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Without reliable range, an infrared UFO clip cannot turn screen motion into trustworthy size, altitude or speed.
 hero_summary: Without reliable range, an infrared UFO clip cannot turn screen motion into trustworthy size, altitude or speed.
 layout: default
 permalink: /range/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /infrared/
 nav_short_title: Range
 title: Why range makes or breaks UFO speed claims
-title_full: Why range makes or breaks UFO speed claims | Infrared
+title_full: Why range makes or breaks UFO speed claims
 display_title_short: Range
 display_title: Range
 heading_title: Why range makes or breaks UFO speed claims
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 15:31:07'
-parent_title: Why Infrared UFO Videos Mislead | IFOs
+parent_title: Why Infrared UFO Videos Mislead
 parent_permalink: /infrared/
 parent_nav_short_title: Infrared
 parent_heading_title: Why Infrared UFO Videos Mislead
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f
-  title: Infrared | Ifos Causes Of
+  title: Infrared | ifos causes of UFO 3 ed 238
   permalink: /infrared/
   short_title: Infrared
   heading_title: Why Infrared UFO Videos Mislead
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f
-  title: Infrared | Ifos Causes Of
+  title: Infrared | ifos causes of UFO 3 ed 238
   permalink: /infrared/
   short_title: Infrared
   heading_title: Why Infrared UFO Videos Mislead
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: When infrared brightness fools UFO viewers
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f
-  title: Infrared | Ifos Causes Of
+  title: Infrared | ifos causes of UFO 3 ed 238
   permalink: /infrared/
   short_title: Infrared
   heading_title: Why Infrared UFO Videos Mislead
@@ -266,6 +265,7 @@ next_link:
   permalink: /thermal-contrast/
   short_title: Thermal contrast
   heading_title: When infrared brightness fools UFO viewers
+date: '2026-06-12 00:51:34 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f_ir_range_speed_claim_9b5575-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f_ir_range_speed_claim_9b5575-Illustration-1.webp
@@ -274,8 +274,7 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f_ir
 
 ## Introduction
 
-Many dramatic speed estimates in [infrared]({{ 'infrared/' | relative_url }}) UFO videos fail at the same point: the distance to the object is unknown. A camera can measure how quickly something moves across its field of view, but that is only angular motion — a change in direction from the observer's perspective. Converting that angular motion into a real speed requires range. Without range, it is impossible to determine reliably whether an object is small and nearby, large and distant, slow or fast. This is one of the most important mechanisms behind false impressions of extraordinary performance in infrared UFO footage. Analyses by the US Department of Defense's All-domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})) repeatedly emphasise that apparent motion can be heavily influenced by geometry, parallax and observer movement rather than by extreme object speed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution</span><span class="citation-popover-snippet">AAROAARO GoFast Case ResolutionFebruary 24, 2025 — 6 Feb 2025 — Motion parallax is an optical effect that induces an observer to perceive...</span><span class="citation-popover-meta">Published: February 24, 2025</span></span></span>
-
+Many dramatic speed estimates in [infrared]({{ 'infrared/' | relative_url }}) UFO videos fail at the same point: the distance to the object is unknown. A camera can measure how quickly something moves across its field of view, but that is only angular motion — a change in direction from the observer's perspective. Converting that angular motion into a real speed requires range. Without range, it is impossible to determine reliably whether an object is small and nearby, large and distant, slow or fast. This is one of the most important mechanisms behind false impressions of extraordinary performance in infrared UFO footage. Analyses by the US Department of Defense's All-domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})) repeatedly emphasise that apparent motion can be heavily influenced by geometry, parallax and observer movement rather than by extreme object speed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution</span><span class="citation-popover-snippet">AARO GoFast Case ResolutionFebruary 24, 2025 — 6 Feb 2025 — Motion parallax is an optical effect that induces an observer to perceive...</span><span class="citation-popover-meta">Published: February 24, 2025</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f_ir_range_speed_claim_9b5575-Illustration-1-dark.svg" | relative_url }}" alt="Range illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f_ir_range_speed_claim_9b5575-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f_ir_range_speed_claim_9b5575-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 In the context of UFO reports, this means that a striking infrared clip may record a real object while still providing insufficient information to calculate its true velocity. The missing number is often not time, but distance.
@@ -286,14 +285,11 @@ An infrared video directly records where an object appears in the image. It does
 
 Imagine an object crossing ten degrees of the camera's view in ten seconds. That measurement is real. However, the corresponding physical distance travelled depends entirely on range. If the object is 500 metres away, the distance covered is modest. If it is 50 kilometres away, the same angular movement represents a vastly larger physical displacement.
 
-This distinction is fundamental in tracking and guidance systems. Engineers frequently work with line-of-sight rate — the rate at which an object's apparent direction changes — because angular measurements are available even when range is uncertain. Converting line-of-sight motion into physical motion requires additional distance information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.astesj.com/publications/ASTESJ_030626.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astesj.com">[ASTESJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astesj.com</span><span class="citation-popover-title">Guidance Law Based on Line-of-Sight Rate Information</span><span class="citation-popover-snippet">ASTESJGuidance Law Based on Line-of-Sight Rate Information...June 20, 2019 — 15 Nov 2018 — The goal of the missile intercept problem is...</span><span class="citation-popover-meta">Published: June 20, 2019</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://secwww.jhuapl.edu/techdigest/content/techdigest/pdf/V29-N01/29-01-Palumbo_Principles_Rev2018.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: secjhuapl.edu">[JHU Applied Physics Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">secjhuapl.edu</span><span class="citation-popover-title">29 01 Palumbo Principles Rev2018</span><span class="citation-popover-snippet">Principles of Homing Guidanceby NF Palumbo · 2010 · Cited by 188 — INTRODUCTION. The key objective of this article is to provide a broad...</span></span></span>
+This distinction is fundamental in tracking and guidance systems. Engineers frequently work with line-of-sight rate — the rate at which an object's apparent direction changes — because angular measurements are available even when range is uncertain. Converting line-of-sight motion into physical motion requires additional distance information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.astesj.com/publications/ASTESJ_030626.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astesj.com">[ASTESJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astesj.com</span><span class="citation-popover-title">Guidance Law Based on Line-of-Sight Rate Information</span><span class="citation-popover-snippet">Guidance Law Based on Line-of-Sight Rate Information...June 20, 2019 — 15 Nov 2018 — The goal of the missile intercept problem is...</span><span class="citation-popover-meta">Published: June 20, 2019</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://secwww.jhuapl.edu/techdigest/content/techdigest/pdf/V29-N01/29-01-Palumbo_Principles_Rev2018.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: secjhuapl.edu">[JHU Applied Physics Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">secjhuapl.edu</span><span class="citation-popover-title">29 01 Palumbo Principles Rev2018</span><span class="citation-popover-snippet">Principles of Homing Guidanceby NF Palumbo · 2010 · Cited by 188 — INTRODUCTION. The key objective of this article is to provide a broad...</span></span></span>
 
 Infrared UFO debates often skip this step. Viewers see an object moving rapidly across the screen and intuitively assume high speed. Yet the screen only shows angular movement. The actual velocity remains unknown until range is established.
 
 AARO's discussion of forced perspective highlights the same problem. Humans naturally estimate size and distance using visual references. When those references are absent or ambiguous, errors in distance estimation lead directly to errors in size and speed estimation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Observers will often compare unknown objects to clouds, trees, buildings, or other non-...Read more...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dDgr4uvet-g" title="Ancient Aliens: Great Pyramid&#x27;s Shocking Precision (Season 12) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dDgr4uvet-g" target="_blank" rel="noopener noreferrer">Ancient Aliens: Great Pyramid&#x27;s Shocking Precision (Season 12) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dDgr4uvet-g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dDgr4uvet-g">Open on YouTube</a></p></div></div></div>
 
 ## How nearby small objects mimic distant fast ones
 
@@ -303,7 +299,6 @@ A small object close to the sensor can subtend the same angle as a much larger o
 
 This creates a classic ambiguity:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * A nearby bird may appear similar in size to a distant aircraft.
@@ -312,12 +307,9 @@ This creates a classic ambiguity:
 
 </div>
 
-Because infrared footage often removes familiar visual cues such as colour, markings, windows or wing shapes, the ambiguity becomes even harder to resolve. AARO notes that observers frequently struggle to judge the size and distance of unknown aerial objects when reliable reference points are absent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution</span><span class="citation-popover-snippet">AAROAARO GoFast Case ResolutionFebruary 24, 2025 — 6 Feb 2025 — Motion parallax is an optical effect that induces an observer to perceive...</span><span class="citation-popover-meta">Published: February 24, 2025</span></span></span>
+Because infrared footage often removes familiar visual cues such as colour, markings, windows or wing shapes, the ambiguity becomes even harder to resolve. AARO notes that observers frequently struggle to judge the size and distance of unknown aerial objects when reliable reference points are absent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution</span><span class="citation-popover-snippet">AARO GoFast Case ResolutionFebruary 24, 2025 — 6 Feb 2025 — Motion parallax is an optical effect that induces an observer to perceive...</span><span class="citation-popover-meta">Published: February 24, 2025</span></span></span>
 
 The result is that a mundane object can appear to possess extraordinary speed simply because the observer has unconsciously chosen the wrong distance estimate.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aTXR-Q1TDTg" title="Proper Motion and Parallax" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aTXR-Q1TDTg" target="_blank" rel="noopener noreferrer">Proper Motion and Parallax</a></p><p class="youtube-embed-meta">Channel: Jason Kendall &middot; Views: 9.7K &middot; Uploaded: July 2018 &middot; Length: 29 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aTXR-Q1TDTg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aTXR-Q1TDTg">Open on YouTube</a></p></div></div></div>
 
 ## Parallax: the illusion that creates extreme speed
 
@@ -332,7 +324,6 @@ Infrared footage recorded from aircraft introduces the same problem. The camera 
 AARO's formal resolution of the well-known "[GoFast]({{ 'gofast/' | relative_url }})" video concluded that the object's apparently extraordinary speed was attributable to motion parallax. According to the office's analysis, the visual impression of extreme velocity resulted from viewing geometry and aircraft motion rather than evidence of a remarkably fast object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Observers will often compare unknown objects to clouds, trees, buildings, or other non-...Read more...</span></span></span>
 
 This is why screen motion alone is a poor indicator of performance. A fast-moving image is not necessarily an image of a fast-moving object.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f_ir_range_speed_claim_9b5575-Illustration-2-dark.svg" | relative_url }}" alt="Range illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f_ir_range_speed_claim_9b5575-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f_ir_range_speed_claim_9b5575-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why infrared footage often lacks depth clues
@@ -358,8 +349,7 @@ The result is a measurement problem. The sensor may provide accurate bearing and
 
 This explains why analysts frequently seek additional sensor data rather than relying on the video alone. A clip may show that an object exists and moves, yet still fail to reveal how far away it is.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oM9WfDBRNcg" title="UFO&#x27;s Are Real | FULL MOVIE | Aliens Sci-Fi Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oM9WfDBRNcg" target="_blank" rel="noopener noreferrer">UFO&#x27;s Are Real | FULL MOVIE | Aliens Sci-Fi Documentary</a></p><p class="youtube-embed-meta">Channel: Shout! Studios</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oM9WfDBRNcg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oM9WfDBRNcg">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aTXR-Q1TDTg" title="Proper Motion and Parallax" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aTXR-Q1TDTg" target="_blank" rel="noopener noreferrer">Proper Motion and Parallax</a></p><p class="youtube-embed-meta">Channel: Jason Kendall &middot; Views: 9.7K &middot; Uploaded: July 2018 &middot; Length: 29 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aTXR-Q1TDTg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aTXR-Q1TDTg">Open on YouTube</a></p></div></div></div>
 
 ## What data an evidence package needs
 
@@ -382,7 +372,6 @@ To estimate true velocity reliably, investigators ideally need:
 When these elements are available, analysts can reconstruct the geometry of the encounter and determine whether an object's motion was genuinely unusual.
 
 When they are absent, multiple interpretations often remain possible. A speed estimate may vary enormously depending on the assumed distance. An object thought to be travelling at hundreds or thousands of kilometres per hour can sometimes become consistent with a balloon, bird or other ordinary aerial target once a different range estimate is applied. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Observers will often compare unknown objects to clouds, trees, buildings, or other non-...Read more...</span></span></span>
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f_ir_range_speed_claim_9b5575-Illustration-3-dark.svg" | relative_url }}" alt="Range illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f_ir_range_speed_claim_9b5575-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f_ir_range_speed_claim_9b5575-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why range makes or breaks UFO speed claims
@@ -510,15 +499,15 @@ For that reason, the strongest UFO investigations treat infrared video as only o
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-why-range-makes-or-breaks-ufo-speed-claims-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="range-why-range-makes-or-breaks-ufo-speed-claims-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO"><img src="{{ '/assets/images/marketplace-covers/804a6ca65be816e4a5d9.jpg' | relative_url }}" alt="Listing image for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal monocular" data-ebay-reference="why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flir Scout II 240 -Thermal Optic Monocular Scope"><img src="https://i.ebayimg.com/images/g/OiYAAeSwYDhqKHoH/s-l225.jpg" alt="Listing image for Flir Scout II 240 -Thermal Optic Monocular Scope" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-why-range-makes-or-breaks-ufo-speed-claims-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="range-why-range-makes-or-breaks-ufo-speed-claims-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal monocular" data-ebay-reference="why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular" target="_blank" rel="sponsored noopener noreferrer">Flir Scout II 240 -Thermal Optic Monocular Scope</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-why-range-makes-or-breaks-ufo-speed-claims-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="range-why-range-makes-or-breaks-ufo-speed-claims-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal monocular" data-ebay-reference="why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for thermal monocular">Search <span data-ebay-domain-label>eBay.co.uk</span>: thermal monocular</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-why-range-makes-or-breaks-ufo-speed-claims-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="range-why-range-makes-or-breaks-ufo-speed-claims-ifos-causes-of-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal monocular" data-ebay-reference="why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -526,15 +515,15 @@ For that reason, the strongest UFO investigations treat infrared video as only o
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-why-range-makes-or-breaks-ufo-speed-claims-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="range-why-range-makes-or-breaks-ufo-speed-claims-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/16d7257b5b6fa9c07f55.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal monocular" data-ebay-reference="why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HIKMICRO Lynx 3.0 10mm Thermal Monocular LE10"><img src="https://i.ebayimg.com/images/g/8tkAAeSwzmBp8fPT/s-l225.jpg" alt="Listing image for HIKMICRO Lynx 3.0 10mm Thermal Monocular LE10" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-why-range-makes-or-breaks-ufo-speed-claims-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="range-why-range-makes-or-breaks-ufo-speed-claims-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal monocular" data-ebay-reference="why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular" target="_blank" rel="sponsored noopener noreferrer">HIKMICRO Lynx 3.0 10mm Thermal Monocular LE10</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-why-range-makes-or-breaks-ufo-speed-claims-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="range-why-range-makes-or-breaks-ufo-speed-claims-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal monocular" data-ebay-reference="why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for thermal monocular">Search <span data-ebay-domain-label>eBay.co.uk</span>: thermal monocular</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-why-range-makes-or-breaks-ufo-speed-claims-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="range-why-range-makes-or-breaks-ufo-speed-claims-ifos-causes-of-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal monocular" data-ebay-reference="why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -542,15 +531,15 @@ For that reason, the strongest UFO investigations treat infrared video as only o
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-why-range-makes-or-breaks-ufo-speed-claims-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="range-why-range-makes-or-breaks-ufo-speed-claims-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE"><img src="{{ '/assets/images/marketplace-covers/be015d518def7513643e.jpg' | relative_url }}" alt="Listing image for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal monocular" data-ebay-reference="why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MiLESEEY TNV30i Thermal Imaging Monocular Night Vision Camera for Android"><img src="https://i.ebayimg.com/images/g/zXMAAeSw6glodzyw/s-l225.jpg" alt="Listing image for MiLESEEY TNV30i Thermal Imaging Monocular Night Vision Camera for Android" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-why-range-makes-or-breaks-ufo-speed-claims-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="range-why-range-makes-or-breaks-ufo-speed-claims-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal monocular" data-ebay-reference="why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular" target="_blank" rel="sponsored noopener noreferrer">MiLESEEY TNV30i Thermal Imaging Monocular Night Vision Camera for Android</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-why-range-makes-or-breaks-ufo-speed-claims-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="range-why-range-makes-or-breaks-ufo-speed-claims-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal monocular" data-ebay-reference="why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for thermal monocular">Search <span data-ebay-domain-label>eBay.co.uk</span>: thermal monocular</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-why-range-makes-or-breaks-ufo-speed-claims-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="range-why-range-makes-or-breaks-ufo-speed-claims-ifos-causes-of-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal monocular" data-ebay-reference="why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -558,15 +547,15 @@ For that reason, the strongest UFO investigations treat infrared video as only o
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-why-range-makes-or-breaks-ufo-speed-claims-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="range-why-range-makes-or-breaks-ufo-speed-claims-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anderson Entertainment UFO Saucer Collectable"><img src="{{ '/assets/images/marketplace-covers/3fcedd05f4d4333b7b2b.jpg' | relative_url }}" alt="Listing image for Anderson Entertainment UFO Saucer Collectable" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal monocular" data-ebay-reference="why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pixfra Sirius S435 Thermal Imaging Monocular 384x288 35mm"><img src="https://i.ebayimg.com/images/g/5XoAAeSwIXFpxquC/s-l225.jpg" alt="Listing image for Pixfra Sirius S435 Thermal Imaging Monocular 384x288 35mm" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-why-range-makes-or-breaks-ufo-speed-claims-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="range-why-range-makes-or-breaks-ufo-speed-claims-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Anderson Entertainment UFO Saucer Collectable</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal monocular" data-ebay-reference="why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular" target="_blank" rel="sponsored noopener noreferrer">Pixfra Sirius S435 Thermal Imaging Monocular 384x288 35mm</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-why-range-makes-or-breaks-ufo-speed-claims-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="range-why-range-makes-or-breaks-ufo-speed-claims-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal monocular" data-ebay-reference="why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for thermal monocular">Search <span data-ebay-domain-label>eBay.co.uk</span>: thermal monocular</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-why-range-makes-or-breaks-ufo-speed-claims-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="range-why-range-makes-or-breaks-ufo-speed-claims-ifos-causes-of-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal monocular" data-ebay-reference="why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -574,7 +563,7 @@ For that reason, the strongest UFO investigations treat infrared video as only o
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-why-range-makes-or-breaks-ufo-speed-claims-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="range-why-range-makes-or-breaks-ufo-speed-claims-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal monocular" data-ebay-reference="why-range-makes-or-breaks-ufo-speed-claims-thermal-monocular" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -790,94 +779,94 @@ For that reason, the strongest UFO investigations treat infrared video as only o
 1. <a id="endnote-1"></a>
    Source: aaro.mil  
    Title: Go Fast Case Resolution  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf](https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROAARO GoFast Case ResolutionFebruary 24, 2025 — 6 Feb 2025 — Motion parallax is an optical effect that induces an observer to perceive...</p></details>
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO GoFast Case ResolutionFebruary 24, 2025 — 6 Feb 2025 — Motion parallax is an optical effect that induces an observer to perceive...</p></details>
    Published: February 24, 2025  
 
 2. <a id="endnote-2"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Observers will often compare unknown objects to clouds, trees, buildings, or other non-...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: astesj.com  
    Title: Guidance Law Based on Line-of-Sight Rate Information  
-   Link: [https://www.astesj.com/publications/ASTESJ_030626.pdf](https://www.astesj.com/publications/ASTESJ_030626.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ASTESJGuidance Law Based on Line-of-Sight Rate Information...June 20, 2019 — 15 Nov 2018 — The goal of the missile intercept problem is...</p></details>
+   Link: <a href="https://www.astesj.com/publications/ASTESJ_030626.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.astesj.com/publications/ASTESJ_030626.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Guidance Law Based on Line-of-Sight Rate Information...June 20, 2019 — 15 Nov 2018 — The goal of the missile intercept problem is...</p></details>
    Published: June 20, 2019  
 
 4. <a id="endnote-4"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Historical Record Report Volume 18 Mar 2024 — SECTION I: Introduction. This report represents Volume I of the All-domain Anomaly Resoluti...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: secjhuapl.edu  
    Title: 29 01 Palumbo Principles Rev2018  
-   Link: [https://secwww.jhuapl.edu/techdigest/content/techdigest/pdf/V29-N01/29-01-Palumbo_Principles_Rev2018.pdf](https://secwww.jhuapl.edu/techdigest/content/techdigest/pdf/V29-N01/29-01-Palumbo_Principles_Rev2018.pdf)  
+   Link: <a href="https://secwww.jhuapl.edu/techdigest/content/techdigest/pdf/V29-N01/29-01-Palumbo_Principles_Rev2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://secwww.jhuapl.edu/techdigest/content/techdigest/pdf/V29-N01/29-01-Palumbo_Principles_Rev2018.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Principles of Homing Guidanceby NF Palumbo · 2010 · Cited by 188 — INTRODUCTION. The key objective of this article is to provide a broad...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Forced perspective  
-   Link: [https://en.wikipedia.org/wiki/Forced_perspective](https://en.wikipedia.org/wiki/Forced_perspective)  
+   Link: <a href="https://en.wikipedia.org/wiki/Forced_perspective" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Forced_perspective</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Forced perspectiveForced perspective is a technique that employs optical illusion to make an object appear farther away, closer, large...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Parallax](https://en.wikipedia.org/wiki/Parallax)  
+   Link: <a href="https://en.wikipedia.org/wiki/Parallax" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Parallax</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ParallaxParallax is a displacement or difference in the apparent position of an object viewed along two different lines of sightRead more...</p></details>
 
 ### Additional References
 
 8. <a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/398474116_Real-time_Motion_Parallax_Generation_System_using_Spherical_Rendering_and_View_Morphing_in_Unknown_Environments](https://www.researchgate.net/publication/398474116_Real-time_Motion_Parallax_Generation_System_using_Spherical_Rendering_and_View_Morphing_in_Unknown_Environments)  
+   Link: <a href="https://www.researchgate.net/publication/398474116_Real-time_Motion_Parallax_Generation_System_using_Spherical_Rendering_and_View_Morphing_in_Unknown_Environments" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/398474116_Real-time_Motion_Parallax_Generation_System_using_Spherical_Rendering_and_View_Morphing_in_Unknown_Environments</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Real-Time Motion Parallax Generation System...16 Mar 2026 — This paper presents a novel intermediate viewpoint generation system t...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/](https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>According to AARO&#x27;s new website, the FLIR, Gimbal and...According to AARO, the FLIR (Tic Tac UAP), Gimbal, and GoFast videos are “unreso...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/254011144_Measurement_angular_velocity_based_on_video_technology](https://www.researchgate.net/publication/254011144_Measurement_angular_velocity_based_on_video_technology)  
+   Link: <a href="https://www.researchgate.net/publication/254011144_Measurement_angular_velocity_based_on_video_technology" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/254011144_Measurement_angular_velocity_based_on_video_technology</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Measurement angular velocity based on video technologyTo measure the angular velocity of the object with video measurement technique is a...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Proportional_navigation](https://en.wikipedia.org/wiki/Proportional_navigation)  
+   Link: <a href="https://en.wikipedia.org/wiki/Proportional_navigation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Proportional_navigation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Proportional navigationProportional navigation is a guidance law (analogous to proportional control) used in some form or another by m...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: resources.mpi-inf.mpg.de  
-   Link: [https://resources.mpi-inf.mpg.de/StereoParallax/supplemental.pdf](https://resources.mpi-inf.mpg.de/StereoParallax/supplemental.pdf)  
+   Link: <a href="https://resources.mpi-inf.mpg.de/StereoParallax/supplemental.pdf" target="_blank" rel="noopener noreferrer nofollow">https://resources.mpi-inf.mpg.de/StereoParallax/supplemental.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Parallax in Stereo 3D: Model and Applicationsby P Kellnhofer · Cited by 43 — This is a supplemental text for the SIGGRAPH Asia 2016 paper...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/245615969_Increasing_the_range_of_self-generated_motion_parallax_increases_its_effectiveness](https://www.researchgate.net/publication/245615969_Increasing_the_range_of_self-generated_motion_parallax_increases_its_effectiveness)  
+   Link: <a href="https://www.researchgate.net/publication/245615969_Increasing_the_range_of_self-generated_motion_parallax_increases_its_effectiveness" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/245615969_Increasing_the_range_of_self-generated_motion_parallax_increases_its_effectiveness</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Increasing the range of self-generated motion parallax...28 Feb 2026 — Motion parallax is an effective source of depth information, Its...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/370446562_Manipulation_of_Motion_Parallax_Gain_Distorts_Perceived_Distance_and_Object_Depth_in_Virtual_Reality](https://www.researchgate.net/publication/370446562_Manipulation_of_Motion_Parallax_Gain_Distorts_Perceived_Distance_and_Object_Depth_in_Virtual_Reality)  
+   Link: <a href="https://www.researchgate.net/publication/370446562_Manipulation_of_Motion_Parallax_Gain_Distorts_Perceived_Distance_and_Object_Depth_in_Virtual_Reality" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/370446562_Manipulation_of_Motion_Parallax_Gain_Distorts_Perceived_Distance_and_Object_Depth_in_Virtual_Reality</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Manipulation of Motion Parallax Gain Distorts Perceived...9 May 2023 — PDF | On Mar 1, 2023, Xue Teng and others published Manipulation...</p></details>
    Published: May 2023  
 
 15. <a id="endnote-15"></a>
    Source: colinzheng.com  
-   Link: [https://www.colinzheng.com/wp-content/data/research/papers/thesis_uw08.pdf](https://www.colinzheng.com/wp-content/data/research/papers/thesis_uw08.pdf)  
+   Link: <a href="https://www.colinzheng.com/wp-content/data/research/papers/thesis_uw08.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.colinzheng.com/wp-content/data/research/papers/thesis_uw08.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Parallax Photography: Creating 3D Motions from Stillsby KC Zheng · 2008 · Cited by 1 — A full-view panorama extends the sampling of a pho...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: jenrs.com  
-   Link: [https://www.jenrs.com/publications/JENRS_0303003.pdf](https://www.jenrs.com/publications/JENRS_0303003.pdf)  
+   Link: <a href="https://www.jenrs.com/publications/JENRS_0303003.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.jenrs.com/publications/JENRS_0303003.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>tion proportional to line of sight (LOS) angular rate, so that missile velocity vector...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: etd.lib.metu.edu.tr  
-   Link: [https://etd.lib.metu.edu.tr/upload/12621850/index.pdf](https://etd.lib.metu.edu.tr/upload/12621850/index.pdf)  
+   Link: <a href="https://etd.lib.metu.edu.tr/upload/12621850/index.pdf" target="_blank" rel="noopener noreferrer nofollow">https://etd.lib.metu.edu.tr/upload/12621850/index.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>method for estimating target velocity and range withby BCAN BABAOĞLU · 2018 — A new algorithm for both target speed and range estimation...</p></details>

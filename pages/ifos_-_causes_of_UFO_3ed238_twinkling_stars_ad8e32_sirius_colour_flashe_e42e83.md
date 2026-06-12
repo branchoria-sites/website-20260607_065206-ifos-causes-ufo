@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_stars_vs_planets_twi_434330
 - ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_thin_cloud_vanishing_121732
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - stars
 - sirius
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - stars
 - sirius
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Sirius can look like a pulsing red, green and white object when it sits low in turbulent air.
 hero_summary: Sirius can look like a pulsing red, green and white object when it sits low in turbulent air.
 layout: default
 permalink: /sirius/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /stars/
 nav_short_title: Sirius
 title: Why Sirius So Often Looks Like a UFO
-title_full: Why Sirius So Often Looks Like a UFO | Stars
+title_full: Why Sirius So Often Looks Like a UFO
 display_title_short: Sirius
 display_title: Sirius
 heading_title: Why Sirius So Often Looks Like a UFO
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 03:53:49'
-parent_title: Why Stars Flash Like Machines | IFOs
+parent_title: Why Stars Flash Like Machines
 parent_permalink: /stars/
 parent_nav_short_title: Stars
 parent_heading_title: Why Stars Flash Like Machines
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32
-  title: Stars | Ifos Causes Of
+  title: Stars | ifos causes of UFO 3 ed 238
   permalink: /stars/
   short_title: Stars
   heading_title: Why Stars Flash Like Machines
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32
-  title: Stars | Ifos Causes Of
+  title: Stars | ifos causes of UFO 3 ed 238
   permalink: /stars/
   short_title: Stars
   heading_title: Why Stars Flash Like Machines
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: When a Star Suddenly Switches Off
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32
-  title: Stars | Ifos Causes Of
+  title: Stars | ifos causes of UFO 3 ed 238
   permalink: /stars/
   short_title: Stars
   heading_title: Why Stars Flash Like Machines
@@ -266,6 +265,7 @@ next_link:
   permalink: /sky-checks/
   short_title: Sky Checks
   heading_title: How to Check a Flashing Light Against the Sky
+date: '2026-06-12 00:34:28 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_sirius_colour_flashe_e42e83-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_sirius_colour_flashe_e42e83-Illustration-1.webp
@@ -274,25 +274,20 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_sirius_
 
 ## Introduction
 
-Among all the astronomical objects that generate UFO reports, Sirius has an unusually strong track record. The reason is not that Sirius behaves strangely, but that it is the brightest star visible in the night sky and often appears low above the horizon for observers in the Northern Hemisphere. Under those conditions it can flash rapidly between red, green, blue and white, pulse in brightness and seem to shimmer or move. To an observer expecting a distant aircraft, drone or unidentified craft, the display can look remarkably artificial. Astronomers have long noted that Sirius's brightness, colour changes and twinkling frequently lead people to mistake it for a UFO. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-snippet">EarthSky | Updates on your cosmos and worldSun news for May 15, 2026. A G2 geomagetic storm is expected today as solar winds ramp up. Aur...</span><span class="citation-popover-meta">Published: May 15, 2026</span></span></span>
-
+Among all the astronomical objects that generate UFO reports, Sirius has an unusually strong track record. The reason is not that Sirius behaves strangely, but that it is the brightest star visible in the night sky and often appears low above the horizon for observers in the Northern Hemisphere. Under those conditions it can flash rapidly between red, green, blue and white, pulse in brightness and seem to shimmer or move. To an observer expecting a distant aircraft, drone or unidentified craft, the display can look remarkably artificial. Astronomers have long noted that Sirius's brightness, colour changes and twinkling frequently lead people to mistake it for a UFO. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-snippet">Updates on your cosmos and worldSun news for May 15, 2026. A G2 geomagetic storm is expected today as solar winds ramp up. Aur...</span><span class="citation-popover-meta">Published: May 15, 2026</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_sirius_colour_flashe_e42e83-Illustration-1-dark.svg" | relative_url }}" alt="Sirius illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_sirius_colour_flashe_e42e83-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_sirius_colour_flashe_e42e83-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Sirius Draws Attention Near the Horizon
 
-Sirius stands out because it is exceptionally bright. Its apparent brightness makes atmospheric effects much easier to notice than they are on fainter [stars]({{ 'stars/' | relative_url }}). When Sirius is viewed low in the sky, its light must pass through a much thicker layer of Earth's [atmosphere]({{ 'atmosphere/' | relative_url }}) than it would if it were overhead. Turbulent air, temperature gradients, dust and moisture distort the incoming light, producing dramatic scintillation—the scientific term for twinkling. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-snippet">EarthSky | Updates on your cosmos and worldSun news for May 15, 2026. A G2 geomagetic storm is expected today as solar winds ramp up. Aur...</span><span class="citation-popover-meta">Published: May 15, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://skyandtelescope.org/astronomy-blogs/sirius-ly-scintillating-holiday12222014/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyandtelescope.org">[Sky &amp; Telescope]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyandtelescope.org</span><span class="citation-popover-title">sirius ly scintillating holiday12222014</span><span class="citation-popover-snippet">Sky &amp; TelescopeHave a Sirius-ly Scintillating Holiday!Dec 22, 2014 — Sirius twinkles more than most stars because it&#x27;s bright, making twi...</span></span></span>
+Sirius stands out because it is exceptionally bright. Its apparent brightness makes atmospheric effects much easier to notice than they are on fainter [stars]({{ 'stars/' | relative_url }}). When Sirius is viewed low in the sky, its light must pass through a much thicker layer of Earth's [atmosphere]({{ 'atmosphere/' | relative_url }}) than it would if it were overhead. Turbulent air, temperature gradients, dust and moisture distort the incoming light, producing dramatic scintillation—the scientific term for twinkling. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-snippet">Updates on your cosmos and worldSun news for May 15, 2026. A G2 geomagetic storm is expected today as solar winds ramp up. Aur...</span><span class="citation-popover-meta">Published: May 15, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://skyandtelescope.org/astronomy-blogs/sirius-ly-scintillating-holiday12222014/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyandtelescope.org">[Sky &amp; Telescope]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyandtelescope.org</span><span class="citation-popover-title">sirius ly scintillating holiday12222014</span><span class="citation-popover-snippet">Sky &amp; TelescopeHave a Sirius-ly Scintillating Holiday!Dec 22, 2014 — Sirius twinkles more than most stars because it&#x27;s bright, making twi...</span></span></span>
 
-This combination of brightness and low altitude is what makes Sirius such a common UFO trigger. Other stars twinkle too, but Sirius is bright enough for the colour changes to become obvious to the naked eye. Observers often report a stationary object that appears brighter than surrounding stars and flashes in a way that seems deliberate rather than natural. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-snippet">EarthSky | Updates on your cosmos and worldSun news for May 15, 2026. A G2 geomagetic storm is expected today as solar winds ramp up. Aur...</span><span class="citation-popover-meta">Published: May 15, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[Earth Sky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-snippet">EarthSky | Updates on your cosmos and worldSun news for May 15, 2026. A G2 geomagetic storm is expected today as solar winds ramp up. Aur...</span><span class="citation-popover-meta">Published: May 15, 2026</span></span></span> The effect is especially noticeable from locations in northern Europe and similar latitudes, where Sirius never climbs particularly high above the southern horizon. Amateur astronomers in the United Kingdom frequently remark that Sirius displays unusually strong colour flashes because it remains relatively low in the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://stargazerslounge.com/topic/57590-why-does-sirius-sparkle-with-different-colours/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stargazerslounge.com">[Stargazers Lounge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stargazerslounge.com</span><span class="citation-popover-title">Stargazers Lounge Why does Sirius sparkle with different colours?</span><span class="citation-popover-snippet">Observing23 Jan 2010 — Sirius twinkles because it is so low down to the horizon as seen from the UK. The light from it has to travel thro...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jklTpEDMCFk" title="Why Do Stars Twinkle?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jklTpEDMCFk" target="_blank" rel="noopener noreferrer">Why Do Stars Twinkle?</a></p><p class="youtube-embed-meta">Channel: StarStuff</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jklTpEDMCFk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jklTpEDMCFk">Open on YouTube</a></p></div></div></div>
+This combination of brightness and low altitude is what makes Sirius such a common UFO trigger. Other stars twinkle too, but Sirius is bright enough for the colour changes to become obvious to the naked eye. Observers often report a stationary object that appears brighter than surrounding stars and flashes in a way that seems deliberate rather than natural. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-snippet">Updates on your cosmos and worldSun news for May 15, 2026. A G2 geomagetic storm is expected today as solar winds ramp up. Aur...</span><span class="citation-popover-meta">Published: May 15, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[Earth Sky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-snippet">Updates on your cosmos and worldSun news for May 15, 2026. A G2 geomagetic storm is expected today as solar winds ramp up. Aur...</span><span class="citation-popover-meta">Published: May 15, 2026</span></span></span> The effect is especially noticeable from locations in northern Europe and similar latitudes, where Sirius never climbs particularly high above the southern horizon. Amateur astronomers in the United Kingdom frequently remark that Sirius displays unusually strong colour flashes because it remains relatively low in the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://stargazerslounge.com/topic/57590-why-does-sirius-sparkle-with-different-colours/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stargazerslounge.com">[Stargazers Lounge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stargazerslounge.com</span><span class="citation-popover-title">Stargazers Lounge Why does Sirius sparkle with different colours?</span><span class="citation-popover-snippet">Observing23 Jan 2010 — Sirius twinkles because it is so low down to the horizon as seen from the UK. The light from it has to travel thro...</span></span></span>
 
 ## How Colour Flashes Mimic Navigation Lights
 
-The most convincing aspect of the illusion is the colour pattern. White starlight contains all visible colours. Near the horizon, atmospheric refraction can separate those colours slightly, while constantly changing air currents redirect them toward the observer. The result is a rapid sequence of red, green, blue and white flashes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-snippet">EarthSky | Updates on your cosmos and worldSun news for May 15, 2026. A G2 geomagetic storm is expected today as solar winds ramp up. Aur...</span><span class="citation-popover-meta">Published: May 15, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universetoday.com/articles/sirius-ufo-trickster-extraordinaire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-title">sirius ufo trickster extraordinaire</span><span class="citation-popover-snippet">Universe TodaySirius, UFO trickster extraordinaire23 Mar 2014 — When Sirius is low above the horizon, refraction (bending of light) is st...</span></span></span>
+The most convincing aspect of the illusion is the colour pattern. White starlight contains all visible colours. Near the horizon, atmospheric refraction can separate those colours slightly, while constantly changing air currents redirect them toward the observer. The result is a rapid sequence of red, green, blue and white flashes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-snippet">Updates on your cosmos and worldSun news for May 15, 2026. A G2 geomagetic storm is expected today as solar winds ramp up. Aur...</span><span class="citation-popover-meta">Published: May 15, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universetoday.com/articles/sirius-ufo-trickster-extraordinaire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-title">sirius ufo trickster extraordinaire</span><span class="citation-popover-snippet">Universe TodaySirius, UFO trickster extraordinaire23 Mar 2014 — When Sirius is low above the horizon, refraction (bending of light) is st...</span></span></span>
 
 To a witness unfamiliar with atmospheric optics, these flashes can resemble the navigation lights of an aircraft. Unlike a distant plane, however, Sirius remains fixed relative to the background stars. Yet human perception often interprets the changing colours and brightness as evidence of motion or manoeuvring. Witnesses may describe the object as:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -306,15 +301,12 @@ To a witness unfamiliar with atmospheric optics, these flashes can resemble the 
 
 These descriptions closely match many UFO reports involving a single bright light low in the sky. Astronomical publications have repeatedly highlighted Sirius as a classic example of a natural object mistaken for an unidentified craft because of these effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universetoday.com/articles/sirius-ufo-trickster-extraordinaire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-title">sirius ufo trickster extraordinaire</span><span class="citation-popover-snippet">Universe TodaySirius, UFO trickster extraordinaire23 Mar 2014 — When Sirius is low above the horizon, refraction (bending of light) is st...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/N3IgVidGjQk" title="Why Do Stars Twinkle?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=N3IgVidGjQk" target="_blank" rel="noopener noreferrer">Why Do Stars Twinkle?</a></p><p class="youtube-embed-meta">Channel: SciShow</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=N3IgVidGjQk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=N3IgVidGjQk">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_sirius_colour_flashe_e42e83-Illustration-2-dark.svg" | relative_url }}" alt="Sirius illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_sirius_colour_flashe_e42e83-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_sirius_colour_flashe_e42e83-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Real UFO Reports and the Sirius Pattern
 
-A recurring pattern appears in UFO communities and observational forums. Witnesses often report a bright, stationary object displaying vivid colours and unusual flashing behaviour. After checking the location against star charts or astronomy apps, the object frequently turns out to be Sirius. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1k3wguz/what_is_this/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">What is this??: r/UFOs</span><span class="citation-popover-snippet">RedditWhat is this??: r/UFOsApril 20, 2025 — It&#x27;s a star. Most likely Sirius. The flashing colors are called scintillation due to the e...</span><span class="citation-popover-meta">Published: April 20, 2025</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/15yolb6/see_a_stationary_orb_emitting_different_colors/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">See a stationary orb emitting different colors?</span><span class="citation-popover-snippet">It&#x27;s the star...Scintillation (the changing colors and &#x27;shimmering&#x27; appearance) is noticeable both in and out of focus with very bright...</span></span></span>
+A recurring pattern appears in UFO communities and observational forums. Witnesses often report a bright, stationary object displaying vivid colours and unusual flashing behaviour. After checking the location against star charts or astronomy apps, the object frequently turns out to be Sirius. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1k3wguz/what_is_this/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">What is this??: r/UFOs</span><span class="citation-popover-snippet">What is this??: r/UFOsApril 20, 2025 — It&#x27;s a star. Most likely Sirius. The flashing colors are called scintillation due to the e...</span><span class="citation-popover-meta">Published: April 20, 2025</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/15yolb6/see_a_stationary_orb_emitting_different_colors/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">See a stationary orb emitting different colors?</span><span class="citation-popover-snippet">It&#x27;s the star...Scintillation (the changing colors and &#x27;shimmering&#x27; appearance) is noticeable both in and out of focus with very bright...</span></span></span>
 
 The reports tend to share several characteristics:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -326,10 +318,9 @@ The reports tend to share several characteristics:
 
 </div>
 
-This does not mean every report involving flashing lights is Sirius. However, when a sighting centres on a bright stationary object displaying rapidly changing colours near the horizon, Sirius becomes one of the first conventional explanations investigators consider. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-snippet">EarthSky | Updates on your cosmos and worldSun news for May 15, 2026. A G2 geomagetic storm is expected today as solar winds ramp up. Aur...</span><span class="citation-popover-meta">Published: May 15, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universetoday.com/articles/sirius-ufo-trickster-extraordinaire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-title">sirius ufo trickster extraordinaire</span><span class="citation-popover-snippet">Universe TodaySirius, UFO trickster extraordinaire23 Mar 2014 — When Sirius is low above the horizon, refraction (bending of light) is st...</span></span></span>
+This does not mean every report involving flashing lights is Sirius. However, when a sighting centres on a bright stationary object displaying rapidly changing colours near the horizon, Sirius becomes one of the first conventional explanations investigators consider. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-snippet">Updates on your cosmos and worldSun news for May 15, 2026. A G2 geomagetic storm is expected today as solar winds ramp up. Aur...</span><span class="citation-popover-meta">Published: May 15, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universetoday.com/articles/sirius-ufo-trickster-extraordinaire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-title">sirius ufo trickster extraordinaire</span><span class="citation-popover-snippet">Universe TodaySirius, UFO trickster extraordinaire23 Mar 2014 — When Sirius is low above the horizon, refraction (bending of light) is st...</span></span></span>
 
-
-<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_sirius_colour_flashe_e42e83-Illustration-2-dark.svg" | relative_url }}" alt="Sirius illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_sirius_colour_flashe_e42e83-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_sirius_colour_flashe_e42e83-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_sirius_colour_flashe_e42e83-Illustration-3-dark.svg" | relative_url }}" alt="Sirius illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_sirius_colour_flashe_e42e83-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_sirius_colour_flashe_e42e83-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to Check Sirius Against a Sighting Time
 
 Because Sirius follows a predictable path, it is usually straightforward to test whether it could explain a reported sighting.
@@ -337,7 +328,6 @@ Because Sirius follows a predictable path, it is usually straightforward to test
 First, determine the exact time and location of the observation. Then compare that information with a planetarium application or star chart. If Sirius occupied the same part of the sky at that moment, the identification becomes plausible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Astronomy/comments/1aw3slg/does_sirius_always_flicker_this_much/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Open source on reddit.com.</span></span></span>
 
 Several clues strengthen the Sirius explanation:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -351,15 +341,9 @@ Several clues strengthen the Sirius explanation:
 
 A useful practical test is simply to observe the object later in the night. If it becomes steadier and less colourful as it rises, atmospheric scintillation is the likely cause. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skyandtelescope.org/astronomy-blogs/sirius-ly-scintillating-holiday12222014/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyandtelescope.org">[Sky &amp; Telescope]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyandtelescope.org</span><span class="citation-popover-title">sirius ly scintillating holiday12222014</span><span class="citation-popover-snippet">Sky &amp; TelescopeHave a Sirius-ly Scintillating Holiday!Dec 22, 2014 — Sirius twinkles more than most stars because it&#x27;s bright, making twi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/why-do-stars-twinkle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">why do stars twinkle</span><span class="citation-popover-snippet">?2 May 2025 — Stars appear to twinkle because their light passes through our atmosphere and is bent and distorted by varying temperatures...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NGAtZaNfshE" title="(E)IFO image collection misidentified as UFO/UAP. Things that can easily be mistaken for UFO or UAP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NGAtZaNfshE" target="_blank" rel="noopener noreferrer">(E)IFO image collection misidentified as UFO/UAP. Things that can easily be mistaken for UFO or UAP</a></p><p class="youtube-embed-meta">Channel: Space Phenomena Observatory Center (SPOC)</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NGAtZaNfshE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NGAtZaNfshE">Open on YouTube</a></p></div></div></div>
-
 ## Why Sirius Remains a Persistent UFO Trigger
 
-Sirius occupies a perfect intersection of factors that encourage misidentification. It is bright enough to dominate the sky, low enough to experience strong atmospheric distortion, and visually dramatic enough to seem unlike an ordinary star. The resulting flashes of red, green and white can resemble technological lighting far more closely than most people expect from a celestial object. For that reason, Sirius continues to be one of the most frequently identified astronomical sources behind reports of hovering, colour-changing UFOs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-snippet">EarthSky | Updates on your cosmos and worldSun news for May 15, 2026. A G2 geomagetic storm is expected today as solar winds ramp up. Aur...</span><span class="citation-popover-meta">Published: May 15, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universetoday.com/articles/sirius-ufo-trickster-extraordinaire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-title">sirius ufo trickster extraordinaire</span><span class="citation-popover-snippet">Universe TodaySirius, UFO trickster extraordinaire23 Mar 2014 — When Sirius is low above the horizon, refraction (bending of light) is st...</span></span></span>
-
-
-<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_sirius_colour_flashe_e42e83-Illustration-3-dark.svg" | relative_url }}" alt="Sirius illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_sirius_colour_flashe_e42e83-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_sirius_colour_flashe_e42e83-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+Sirius occupies a perfect intersection of factors that encourage misidentification. It is bright enough to dominate the sky, low enough to experience strong atmospheric distortion, and visually dramatic enough to seem unlike an ordinary star. The resulting flashes of red, green and white can resemble technological lighting far more closely than most people expect from a celestial object. For that reason, Sirius continues to be one of the most frequently identified astronomical sources behind reports of hovering, colour-changing UFOs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-snippet">Updates on your cosmos and worldSun news for May 15, 2026. A G2 geomagetic storm is expected today as solar winds ramp up. Aur...</span><span class="citation-popover-meta">Published: May 15, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universetoday.com/articles/sirius-ufo-trickster-extraordinaire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-title">sirius ufo trickster extraordinaire</span><span class="citation-popover-snippet">Universe TodaySirius, UFO trickster extraordinaire23 Mar 2014 — When Sirius is low above the horizon, refraction (bending of light) is st...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -478,15 +462,15 @@ Sirius occupies a perfect intersection of factors that encourage misidentificati
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sirius-why-sirius-so-often-looks-like-a-ufo-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="sirius-why-sirius-so-often-looks-like-a-ufo-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone"><img src="{{ '/assets/images/marketplace-covers/c55bd17eeaec578c24e2.jpg' | relative_url }}" alt="Listing image for Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sirius+star+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sirius-so-often-looks-like-a-ufo-sirius-star-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sirius star poster" data-ebay-reference="why-sirius-so-often-looks-like-a-ufo-sirius-star-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space NASA Binary Stars Sirius A B Illustration Wall Art Canvas Print 18X24 In"><img src="https://i.ebayimg.com/images/g/L3gAAOSwtvBnR1Y7/s-l225.jpg" alt="Listing image for Space NASA Binary Stars Sirius A B Illustration Wall Art Canvas Print 18X24 In" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sirius-why-sirius-so-often-looks-like-a-ufo-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="sirius-why-sirius-so-often-looks-like-a-ufo-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sirius+star+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sirius-so-often-looks-like-a-ufo-sirius-star-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sirius star poster" data-ebay-reference="why-sirius-so-often-looks-like-a-ufo-sirius-star-poster" target="_blank" rel="sponsored noopener noreferrer">Space NASA Binary Stars Sirius A B Illustration Wall Art Canvas Print 18X24 In</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sirius-why-sirius-so-often-looks-like-a-ufo-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="sirius-why-sirius-so-often-looks-like-a-ufo-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sirius+star+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sirius-so-often-looks-like-a-ufo-sirius-star-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sirius star poster" data-ebay-reference="why-sirius-so-often-looks-like-a-ufo-sirius-star-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sirius star poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: sirius star poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sirius-why-sirius-so-often-looks-like-a-ufo-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="sirius-why-sirius-so-often-looks-like-a-ufo-ifos-causes-of-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sirius+star+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sirius-so-often-looks-like-a-ufo-sirius-star-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sirius star poster" data-ebay-reference="why-sirius-so-often-looks-like-a-ufo-sirius-star-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -494,15 +478,15 @@ Sirius occupies a perfect intersection of factors that encourage misidentificati
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sirius-why-sirius-so-often-looks-like-a-ufo-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="sirius-why-sirius-so-often-looks-like-a-ufo-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design"><img src="{{ '/assets/images/marketplace-covers/f0858731bf83f620568a.jpg' | relative_url }}" alt="Listing image for Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sirius+star+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sirius-so-often-looks-like-a-ufo-sirius-star-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sirius star poster" data-ebay-reference="why-sirius-so-often-looks-like-a-ufo-sirius-star-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space NASA Binary Stars Sirius A And B Framed Canvas Wall Art Print"><img src="https://i.ebayimg.com/images/g/~z4AAeSwRtho-QZu/s-l225.jpg" alt="Listing image for Space NASA Binary Stars Sirius A And B Framed Canvas Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sirius-why-sirius-so-often-looks-like-a-ufo-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="sirius-why-sirius-so-often-looks-like-a-ufo-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sirius+star+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sirius-so-often-looks-like-a-ufo-sirius-star-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sirius star poster" data-ebay-reference="why-sirius-so-often-looks-like-a-ufo-sirius-star-poster" target="_blank" rel="sponsored noopener noreferrer">Space NASA Binary Stars Sirius A And B Framed Canvas Wall Art Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sirius-why-sirius-so-often-looks-like-a-ufo-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="sirius-why-sirius-so-often-looks-like-a-ufo-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sirius+star+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sirius-so-often-looks-like-a-ufo-sirius-star-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sirius star poster" data-ebay-reference="why-sirius-so-often-looks-like-a-ufo-sirius-star-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sirius star poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: sirius star poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sirius-why-sirius-so-often-looks-like-a-ufo-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="sirius-why-sirius-so-often-looks-like-a-ufo-ifos-causes-of-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sirius+star+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sirius-so-often-looks-like-a-ufo-sirius-star-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sirius star poster" data-ebay-reference="why-sirius-so-often-looks-like-a-ufo-sirius-star-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -510,15 +494,15 @@ Sirius occupies a perfect intersection of factors that encourage misidentificati
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sirius-why-sirius-so-often-looks-like-a-ufo-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="sirius-why-sirius-so-often-looks-like-a-ufo-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN UFO AREA 51 GROOM DRY LAKE TEST FACILITY T-SHIRT"><img src="{{ '/assets/images/marketplace-covers/5eb844375d885ea9eb20.jpg' | relative_url }}" alt="Listing image for ALIEN UFO AREA 51 GROOM DRY LAKE TEST FACILITY T-SHIRT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sirius+star+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sirius-so-often-looks-like-a-ufo-sirius-star-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sirius star poster" data-ebay-reference="why-sirius-so-often-looks-like-a-ufo-sirius-star-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space NASA Binary Stars Sirius A B Illustration Canvas Wall Art Print Poster"><img src="https://i.ebayimg.com/images/g/MC8AAOSwdn5kUl86/s-l225.jpg" alt="Listing image for Space NASA Binary Stars Sirius A B Illustration Canvas Wall Art Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sirius-why-sirius-so-often-looks-like-a-ufo-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="sirius-why-sirius-so-often-looks-like-a-ufo-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">ALIEN UFO AREA 51 GROOM DRY LAKE TEST FACILITY T-SHIRT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sirius+star+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sirius-so-often-looks-like-a-ufo-sirius-star-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sirius star poster" data-ebay-reference="why-sirius-so-often-looks-like-a-ufo-sirius-star-poster" target="_blank" rel="sponsored noopener noreferrer">Space NASA Binary Stars Sirius A B Illustration Canvas Wall Art Print Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sirius-why-sirius-so-often-looks-like-a-ufo-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="sirius-why-sirius-so-often-looks-like-a-ufo-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sirius+star+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sirius-so-often-looks-like-a-ufo-sirius-star-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sirius star poster" data-ebay-reference="why-sirius-so-often-looks-like-a-ufo-sirius-star-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sirius star poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: sirius star poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sirius-why-sirius-so-often-looks-like-a-ufo-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="sirius-why-sirius-so-often-looks-like-a-ufo-ifos-causes-of-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sirius+star+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sirius-so-often-looks-like-a-ufo-sirius-star-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sirius star poster" data-ebay-reference="why-sirius-so-often-looks-like-a-ufo-sirius-star-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -526,15 +510,15 @@ Sirius occupies a perfect intersection of factors that encourage misidentificati
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sirius-why-sirius-so-often-looks-like-a-ufo-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="sirius-why-sirius-so-often-looks-like-a-ufo-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 90s Looney Tunes UFO Alien All Over Print Double Sided T Shirt Mens L"><img src="{{ '/assets/images/marketplace-covers/a7247ae98e9ebed04955.jpg' | relative_url }}" alt="Listing image for Vintage 90s Looney Tunes UFO Alien All Over Print Double Sided T Shirt Mens L" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sirius+star+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sirius-so-often-looks-like-a-ufo-sirius-star-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sirius star poster" data-ebay-reference="why-sirius-so-often-looks-like-a-ufo-sirius-star-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space NASA Binary Stars Sirius A B Illustration Square Framed Wall Art 8X8 In"><img src="https://i.ebayimg.com/images/g/slkAAOSwwnlj68KR/s-l225.jpg" alt="Listing image for Space NASA Binary Stars Sirius A B Illustration Square Framed Wall Art 8X8 In" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sirius-why-sirius-so-often-looks-like-a-ufo-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="sirius-why-sirius-so-often-looks-like-a-ufo-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Vintage 90s Looney Tunes UFO Alien All Over Print Double Sided T Shirt Mens L</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sirius+star+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sirius-so-often-looks-like-a-ufo-sirius-star-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sirius star poster" data-ebay-reference="why-sirius-so-often-looks-like-a-ufo-sirius-star-poster" target="_blank" rel="sponsored noopener noreferrer">Space NASA Binary Stars Sirius A B Illustration Square Framed Wall Art 8X8 In</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sirius-why-sirius-so-often-looks-like-a-ufo-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="sirius-why-sirius-so-often-looks-like-a-ufo-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sirius+star+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sirius-so-often-looks-like-a-ufo-sirius-star-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sirius star poster" data-ebay-reference="why-sirius-so-often-looks-like-a-ufo-sirius-star-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sirius star poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: sirius star poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sirius-why-sirius-so-often-looks-like-a-ufo-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="sirius-why-sirius-so-often-looks-like-a-ufo-ifos-causes-of-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sirius+star+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sirius-so-often-looks-like-a-ufo-sirius-star-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sirius star poster" data-ebay-reference="why-sirius-so-often-looks-like-a-ufo-sirius-star-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -542,7 +526,7 @@ Sirius occupies a perfect intersection of factors that encourage misidentificati
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sirius-why-sirius-so-often-looks-like-a-ufo-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="sirius-why-sirius-so-often-looks-like-a-ufo-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=sirius+star+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sirius-so-often-looks-like-a-ufo-sirius-star-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sirius star poster" data-ebay-reference="why-sirius-so-often-looks-like-a-ufo-sirius-star-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -757,170 +741,170 @@ Sirius occupies a perfect intersection of factors that encourage misidentificati
 
 1. <a id="endnote-1"></a>
    Source: earthsky.org  
-   Link: [https://earthsky.org/brightest-stars/sirius-the-brightest-star/](https://earthsky.org/brightest-stars/sirius-the-brightest-star/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EarthSkySee Sirius, the brightest star in the night skyFeb 10, 2026 — The brightness, twinkling and color changes sometimes prompt people...</p></details>
+   Link: <a href="https://earthsky.org/brightest-stars/sirius-the-brightest-star/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/brightest-stars/sirius-the-brightest-star/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>See Sirius, the brightest star in the night skyFeb 10, 2026 — The brightness, twinkling and color changes sometimes prompt people...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: earthsky.org  
    Title: is sirius the most luminous star in the sky  
-   Link: [https://earthsky.org/astronomy-essentials/is-sirius-the-most-luminous-star-in-the-sky/](https://earthsky.org/astronomy-essentials/is-sirius-the-most-luminous-star-in-the-sky/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EarthSkyIs Sirius the most luminous star in the sky?4 Mar 2026 — The colors of Sirius. Many people comment that they see Sirius flashing...</p></details>
+   Link: <a href="https://earthsky.org/astronomy-essentials/is-sirius-the-most-luminous-star-in-the-sky/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/astronomy-essentials/is-sirius-the-most-luminous-star-in-the-sky/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Is Sirius the most luminous star in the sky?4 Mar 2026 — The colors of Sirius. Many people comment that they see Sirius flashing...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: earthsky.org  
    Title: the skys brightest star sirius before dawn  
-   Link: [https://earthsky.org/tonight/the-skys-brightest-star-sirius-before-dawn/](https://earthsky.org/tonight/the-skys-brightest-star-sirius-before-dawn/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EarthSkySee brightest star, Sirius, in your morning sky29 Oct 2025 — Sirius appears to flash different colors when it&#x27;s low in the sky...</p></details>
+   Link: <a href="https://earthsky.org/tonight/the-skys-brightest-star-sirius-before-dawn/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/tonight/the-skys-brightest-star-sirius-before-dawn/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>See brightest star, Sirius, in your morning sky29 Oct 2025 — Sirius appears to flash different colors when it&#x27;s low in the sky...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: earthsky.org  
-   Link: [https://earthsky.org/todays-image/photo-sirius-in-many-colors/](https://earthsky.org/todays-image/photo-sirius-in-many-colors/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EarthSkySirius in many colors | Astronomy Essentials15 Dec 2017 — When you see this very bright star low in the sky, it appears to flash...</p></details>
+   Link: <a href="https://earthsky.org/todays-image/photo-sirius-in-many-colors/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/todays-image/photo-sirius-in-many-colors/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sirius in many colors | Astronomy Essentials15 Dec 2017 — When you see this very bright star low in the sky, it appears to flash...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
    Title: What is this??: r/UFOs  
-   Link: [https://www.reddit.com/r/UFOs/comments/1k3wguz/what_is_this/](https://www.reddit.com/r/UFOs/comments/1k3wguz/what_is_this/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditWhat is this??: r/UFOsApril 20, 2025 — It&#x27;s a star. Most likely Sirius. The flashing colors are called scintillation due to the e...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1k3wguz/what_is_this/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1k3wguz/what_is_this/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>What is this??: r/UFOsApril 20, 2025 — It&#x27;s a star. Most likely Sirius. The flashing colors are called scintillation due to the e...</p></details>
    Published: April 20, 2025  
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
    Title: See a stationary orb emitting different colors?  
-   Link: [https://www.reddit.com/r/UFOs/comments/15yolb6/see_a_stationary_orb_emitting_different_colors/](https://www.reddit.com/r/UFOs/comments/15yolb6/see_a_stationary_orb_emitting_different_colors/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/15yolb6/see_a_stationary_orb_emitting_different_colors/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/15yolb6/see_a_stationary_orb_emitting_different_colors/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s the star...Scintillation (the changing colors and &#x27;shimmering&#x27; appearance) is noticeable both in and out of focus with very bright...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Astronomy/comments/1aw3slg/does_sirius_always_flicker_this_much/](https://www.reddit.com/r/Astronomy/comments/1aw3slg/does_sirius_always_flicker_this_much/)  
+   Link: <a href="https://www.reddit.com/r/Astronomy/comments/1aw3slg/does_sirius_always_flicker_this_much/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Astronomy/comments/1aw3slg/does_sirius_always_flicker_this_much/</a>  
 
 8. <a id="endnote-8"></a>
    Source: earthsky.org  
    Title: flashing star autumn capella arcturus sirius  
-   Link: [https://earthsky.org/astronomy-essentials/flashing-star-autumn-capella-arcturus-sirius/](https://earthsky.org/astronomy-essentials/flashing-star-autumn-capella-arcturus-sirius/)  
+   Link: <a href="https://earthsky.org/astronomy-essentials/flashing-star-autumn-capella-arcturus-sirius/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/astronomy-essentials/flashing-star-autumn-capella-arcturus-sirius/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Flashing star in autumn? Here are 3 candidates3 Oct 2024 — Sirius appears to flash different colors when it&#x27;s low in the sky. Really, all...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: earthsky.org  
-   Link: [https://earthsky.org/](https://earthsky.org/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EarthSky | Updates on your cosmos and worldSun news for May 15, 2026. A G2 geomagetic storm is expected today as solar winds ramp up. Aur...</p></details>
+   Link: <a href="https://earthsky.org/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Updates on your cosmos and worldSun news for May 15, 2026. A G2 geomagetic storm is expected today as solar winds ramp up. Aur...</p></details>
    Published: May 15, 2026  
 
 10. <a id="endnote-10"></a>
    Source: earthsky.org  
    Title: What star in the northeast flashes colorfully?  
-   Link: [https://earthsky.org/tonight/what-star-in-the-northeast-flashes-red-and-green/](https://earthsky.org/tonight/what-star-in-the-northeast-flashes-red-and-green/)  
+   Link: <a href="https://earthsky.org/tonight/what-star-in-the-northeast-flashes-red-and-green/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/tonight/what-star-in-the-northeast-flashes-red-and-green/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s Capella!Oct 10, 2025 — The bright star Capella in the constellation Auriga the Charioteer is the star in the northeast that flashes...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: astronomy.com  
    Title: simply scintillating  
-   Link: [https://www.astronomy.com/science/simply-scintillating/](https://www.astronomy.com/science/simply-scintillating/)  
+   Link: <a href="https://www.astronomy.com/science/simply-scintillating/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomy.com/science/simply-scintillating/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>18 May 2023 — Twinkling, the common term for stellar “scintillation,” refers to tiny, rapid changes in a star&#x27;s apparent pos...</p></details>
    Published: May 2023  
 
 12. <a id="endnote-12"></a>
    Source: universetoday.com  
    Title: sirius ufo trickster extraordinaire  
-   Link: [https://www.universetoday.com/articles/sirius-ufo-trickster-extraordinaire](https://www.universetoday.com/articles/sirius-ufo-trickster-extraordinaire)  
+   Link: <a href="https://www.universetoday.com/articles/sirius-ufo-trickster-extraordinaire" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/sirius-ufo-trickster-extraordinaire</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Universe TodaySirius, UFO trickster extraordinaire23 Mar 2014 — When Sirius is low above the horizon, refraction (bending of light) is st...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: skyandtelescope.org  
    Title: sirius ly scintillating holiday12222014  
-   Link: [https://skyandtelescope.org/astronomy-blogs/sirius-ly-scintillating-holiday12222014/](https://skyandtelescope.org/astronomy-blogs/sirius-ly-scintillating-holiday12222014/)  
+   Link: <a href="https://skyandtelescope.org/astronomy-blogs/sirius-ly-scintillating-holiday12222014/" target="_blank" rel="noopener noreferrer nofollow">https://skyandtelescope.org/astronomy-blogs/sirius-ly-scintillating-holiday12222014/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky &amp; TelescopeHave a Sirius-ly Scintillating Holiday!Dec 22, 2014 — Sirius twinkles more than most stars because it&#x27;s bright, making twi...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: skyatnightmagazine.com  
    Title: why do stars twinkle  
-   Link: [https://www.skyatnightmagazine.com/space-science/why-do-stars-twinkle](https://www.skyatnightmagazine.com/space-science/why-do-stars-twinkle)  
+   Link: <a href="https://www.skyatnightmagazine.com/space-science/why-do-stars-twinkle" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/why-do-stars-twinkle</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>?2 May 2025 — Stars appear to twinkle because their light passes through our atmosphere and is bent and distorted by varying temperatures...</p></details>
    Published: May 2025  
 
 15. <a id="endnote-15"></a>
    Source: stargazerslounge.com  
    Title: Stargazers Lounge Why does Sirius sparkle with different colours?  
-   Link: [https://stargazerslounge.com/topic/57590-why-does-sirius-sparkle-with-different-colours/](https://stargazerslounge.com/topic/57590-why-does-sirius-sparkle-with-different-colours/)  
+   Link: <a href="https://stargazerslounge.com/topic/57590-why-does-sirius-sparkle-with-different-colours/" target="_blank" rel="noopener noreferrer nofollow">https://stargazerslounge.com/topic/57590-why-does-sirius-sparkle-with-different-colours/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Observing23 Jan 2010 — Sirius twinkles because it is so low down to the horizon as seen from the UK. The light from it has to travel thro...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Sirius](https://en.wikipedia.org/wiki/Sirius)  
+   Link: <a href="https://en.wikipedia.org/wiki/Sirius" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sirius</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SiriusSirius is the brightest star in the night sky, located in the southern constellation of Canis Major. Its name is derived from th...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: stargazerslounge.com  
    Title: stars flashing colors  
-   Link: [https://stargazerslounge.com/topic/157704-stars-flashing-colors/](https://stargazerslounge.com/topic/157704-stars-flashing-colors/)  
+   Link: <a href="https://stargazerslounge.com/topic/157704-stars-flashing-colors/" target="_blank" rel="noopener noreferrer nofollow">https://stargazerslounge.com/topic/157704-stars-flashing-colors/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Astro Lounge1 Aug 2012 — The twinkle (rather than flash) of stars has to do with scintillation, one of the principle factors wrapped...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: skyatnightmagazine.com  
    Title: green flash sirius  
-   Link: [https://www.skyatnightmagazine.com/astrophotography/green-flash-sirius](https://www.skyatnightmagazine.com/astrophotography/green-flash-sirius)  
+   Link: <a href="https://www.skyatnightmagazine.com/astrophotography/green-flash-sirius" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/astrophotography/green-flash-sirius</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sirius flashes green and twinkles as it sets in smartphone...16 May 2024 — The green flash of Sirius is captured in a composite image an...</p></details>
    Published: May 2024  
 
 19. <a id="endnote-19"></a>
    Source: meteorwatch.org  
    Title: It is very bright, which can amplify atmospheric effects.Read more  
-   Link: [https://meteorwatch.org/sirius-twinkle/](https://meteorwatch.org/sirius-twinkle/)  
+   Link: <a href="https://meteorwatch.org/sirius-twinkle/" target="_blank" rel="noopener noreferrer nofollow">https://meteorwatch.org/sirius-twinkle/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sirius - The Multicoloured Star and Why it TwinklesJan 10, 2019 — Sirius appears to twinkle or shimmer more than other stars due to some...</p></details>
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/Sirius](https://www.merriam-webster.com/dictionary/Sirius)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/Sirius" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/Sirius</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SIRIUS Definition &amp; MeaningThe meaning of SIRIUS is a star of the constellation Canis Major that is the brightest star in the heavens —ca...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: space.com  
-   Link: [https://www.space.com/stargazing/the-brightest-star-in-the-night-sky-shows-off-this-spring-how-to-see-a-scintillating-sirius](https://www.space.com/stargazing/the-brightest-star-in-the-night-sky-shows-off-this-spring-how-to-see-a-scintillating-sirius)  
+   Link: <a href="https://www.space.com/stargazing/the-brightest-star-in-the-night-sky-shows-off-this-spring-how-to-see-a-scintillating-sirius" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/the-brightest-star-in-the-night-sky-shows-off-this-spring-how-to-see-a-scintillating-sirius</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The brightest star in the night sky shows off this spring25 Apr 2025 — The lustrous star Sirius will be putting on its best show for even...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/StarAdventurer/posts/3168203500127958/](https://www.facebook.com/groups/StarAdventurer/posts/3168203500127958/)  
+   Link: <a href="https://www.facebook.com/groups/StarAdventurer/posts/3168203500127958/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/StarAdventurer/posts/3168203500127958/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The atmospheric turbulence causes Sirius to twinkle with all the colours of the rainbow.Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/AlbertaAuroraChasers/posts/6831445323538761/](https://www.facebook.com/groups/AlbertaAuroraChasers/posts/6831445323538761/)  
+   Link: <a href="https://www.facebook.com/groups/AlbertaAuroraChasers/posts/6831445323538761/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/AlbertaAuroraChasers/posts/6831445323538761/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>on it appears to flash bright green and red in the eyepiece of my...Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: physicsforums.com  
    Title: why does sirius a blink in many colors.902706  
-   Link: [https://www.physicsforums.com/threads/why-does-sirius-a-blink-in-many-colors.902706/](https://www.physicsforums.com/threads/why-does-sirius-a-blink-in-many-colors.902706/)  
+   Link: <a href="https://www.physicsforums.com/threads/why-does-sirius-a-blink-in-many-colors.902706/" target="_blank" rel="noopener noreferrer nofollow">https://www.physicsforums.com/threads/why-does-sirius-a-blink-in-many-colors.902706/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why does Sirius A blink in many colors?5 Feb 2017 — Basically this happens due to atmospheric refraction and to every stars but Sirius is...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: cloudynights.com  
    Title: 448822 does sirius flicker or change colors  
-   Link: [https://www.cloudynights.com/forums/topic/448822-does-sirius-flicker-or-change-colors/](https://www.cloudynights.com/forums/topic/448822-does-sirius-flicker-or-change-colors/)  
+   Link: <a href="https://www.cloudynights.com/forums/topic/448822-does-sirius-flicker-or-change-colors/" target="_blank" rel="noopener noreferrer nofollow">https://www.cloudynights.com/forums/topic/448822-does-sirius-flicker-or-change-colors/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Does Sirius flicker or change colors?15 Jan 2014 — Stellar scintillation and atmospheric prismatic dispersion are responsible for the fli...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DTYdWyLDWLP/](https://www.instagram.com/reel/DTYdWyLDWLP/)  
+   Link: <a href="https://www.instagram.com/reel/DTYdWyLDWLP/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DTYdWyLDWLP/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>color. What you&#x27;re witnessing is an atmospheric optical illusion...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: facebook.com  
    Title: You can see it changing colours in real  
-   Link: [https://www.facebook.com/groups/AstronomyNo1/posts/5192188810826159/](https://www.facebook.com/groups/AstronomyNo1/posts/5192188810826159/)  
+   Link: <a href="https://www.facebook.com/groups/AstronomyNo1/posts/5192188810826159/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/AstronomyNo1/posts/5192188810826159/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Can anyone explain what this is please it seemed to be...Can anyone explain what this is please it seemed to be some sort of star but it...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: instagram.com  
    Title: The Star that Dances  
-   Link: [https://www.instagram.com/reel/DTk57-XDzY8/?hl=en](https://www.instagram.com/reel/DTk57-XDzY8/?hl=en)  
+   Link: <a href="https://www.instagram.com/reel/DTk57-XDzY8/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DTk57-XDzY8/?hl=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>When you point a telescope at Sirius...Earth&#x27;s atmosphere bends and distorts the starlight as it travels toward us, making Sirius appear...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: starwalk.space  
    Title: why do stars twinkle  
-   Link: [https://starwalk.space/en/news/why-do-stars-twinkle](https://starwalk.space/en/news/why-do-stars-twinkle)  
+   Link: <a href="https://starwalk.space/en/news/why-do-stars-twinkle" target="_blank" rel="noopener noreferrer nofollow">https://starwalk.space/en/news/why-do-stars-twinkle</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Do Stars Flicker | What Causes Stars to TwinkleSep 23, 2022 — The stars seem to twinkle red and blue due to scintillation – distortio...</p></details>

@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_doorbell_glowing_orb_6acf1d
 - ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_range_evidence_camer_8b4dfe
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - insects
 - flying-rods
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - insects
 - flying-rods
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Flying rods and skyfish videos often come from insects or birds stretched into strange shapes by exposure and frame timing.
 hero_summary: Flying rods and skyfish videos often come from insects or birds stretched into strange shapes by exposure and frame timing.
 layout: default
 permalink: /flying-rods/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /insects/
 nav_short_title: Flying Rods
 title: Are Flying Rods Really Camera Bugs?
-title_full: Are Flying Rods Really Camera Bugs? | Insects
+title_full: Are Flying Rods Really Camera Bugs?
 display_title_short: Flying Rods
 display_title: Flying Rods
 heading_title: Are Flying Rods Really Camera Bugs?
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 07:57:04'
-parent_title: The Tiny Things Cameras Make Huge | IFOs
+parent_title: The Tiny Things Cameras Make Huge
 parent_permalink: /insects/
 parent_nav_short_title: Insects
 parent_heading_title: The Tiny Things Cameras Make Huge
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74
-  title: Insects | Ifos Causes Of
+  title: Insects | ifos causes of UFO 3 ed 238
   permalink: /insects/
   short_title: Insects
   heading_title: The Tiny Things Cameras Make Huge
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74
-  title: Insects | Ifos Causes Of
+  title: Insects | ifos causes of UFO 3 ed 238
   permalink: /insects/
   short_title: Insects
   heading_title: The Tiny Things Cameras Make Huge
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: What Evidence Rules Out Camera Bugs?
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74
-  title: Insects | Ifos Causes Of
+  title: Insects | ifos causes of UFO 3 ed 238
   permalink: /insects/
   short_title: Insects
   heading_title: The Tiny Things Cameras Make Huge
@@ -266,6 +265,7 @@ next_link:
   permalink: /glowing-orbs/
   short_title: Glowing Orbs
   heading_title: Why Night Cameras Create UFO Orbs
+date: '2026-06-12 00:25:52 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_motion_blur_rods_96a808-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_motion_blur_rods_96a808-Illustration-1.webp
@@ -276,7 +276,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_moti
 
 The short answer is that most “flying rods” or “skyfish” videos are not showing unknown aerial creatures. They are usually ordinary [insects]({{ 'insects/' | relative_url }}), and sometimes birds or bats, recorded in a way that stretches their appearance into long, segmented shapes. The combination of wingbeats, camera exposure time, frame rate and motion blur can transform a small flying animal into something that looks like a translucent rod crossing the sky at impossible speed. Investigations of the phenomenon since the late 1990s repeatedly found that the strange forms could be reproduced with known insects and camera artefacts, and several high-profile rod mysteries faded once videographers examined the relationship between wing motion and image capture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rod_%28optical_phenomenon%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rod (optical phenomenon</span><span class="citation-popover-snippet">Rod (optical phenomenon</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_motion_blur_rods_96a808-Illustration-1-dark.svg" | relative_url }}" alt="Flying Rods illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_motion_blur_rods_96a808-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_motion_blur_rods_96a808-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within the broader category of UFO and anomalous-object reports caused by nearby objects on camera, flying rods are one of the clearest examples of how recording technology can create an apparently exotic shape from an ordinary subject.
 
@@ -286,8 +285,7 @@ The flying-rod phenomenon became widely known after videos promoted by José Esc
 
 What made the debate unusual was that the objects often appeared neither like insects nor birds. Instead, they looked like flexible tubes with rippling fins along the sides. That appearance initially seemed difficult to reconcile with ordinary wildlife. The breakthrough came when investigators considered not only what was being filmed but how the camera was recording it. Entomological and photographic analyses concluded that many rods were insects captured over multiple wingbeat cycles during a single exposure or video frame. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rod_%28optical_phenomenon%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rod (optical phenomenon</span><span class="citation-popover-snippet">Rod (optical phenomenon</span></span></span>
 
-As cameras improved and higher shutter speeds became more common, many of the same “creatures” began appearing as recognisable moths, flies and other insects rather than mysterious rods. <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/%40jefferey.d.moore/skyfish-and-flying-rods-the-strangest-animal-that-never-existed-5073da592cb0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-title">Skyfish and Flying Rods: The Strangest Animals that</span><span class="citation-popover-snippet">MediumSkyfish and Flying Rods: The Strangest Animals that...March 9, 2023 — A more likely explanation, according to the skeptics, was th...</span><span class="citation-popover-meta">Published: March 9, 2023</span></span></span>
-
+As cameras improved and higher shutter speeds became more common, many of the same “creatures” began appearing as recognisable moths, flies and other insects rather than mysterious rods. <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/%40jefferey.d.moore/skyfish-and-flying-rods-the-strangest-animal-that-never-existed-5073da592cb0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-title">Skyfish and Flying Rods: The Strangest Animals that</span><span class="citation-popover-snippet">Skyfish and Flying Rods: The Strangest Animals that...March 9, 2023 — A more likely explanation, according to the skeptics, was th...</span><span class="citation-popover-meta">Published: March 9, 2023</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dZTLDeHmZns" title="How Shutter Speed Actually Works (and Why it Matters)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dZTLDeHmZns" target="_blank" rel="noopener noreferrer">How Shutter Speed Actually Works (and Why it Matters)</a></p><p class="youtube-embed-meta">Channel: CNOMADIC &middot; Views: 592 &middot; Uploaded: May 2024 &middot; Length: 4 minutes 55 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dZTLDeHmZns" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dZTLDeHmZns">Open on YouTube</a></p></div></div></div>
 
@@ -296,7 +294,6 @@ As cameras improved and higher shutter speeds became more common, many of the sa
 The key mechanism is motion blur. A camera does not record an instant in time; it gathers light over a short interval. If an insect moves significantly during that interval, its image is smeared across the sensor.
 
 For a fast-moving insect close to the camera, several things happen simultaneously:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -310,7 +307,6 @@ For a fast-moving insect close to the camera, several things happen simultaneous
 Instead of seeing a small insect with two wings, the viewer sees a long central streak bordered by repeated wing traces. Those repeated traces can resemble ribs, fins or segmented appendages. Investigators consulting entomologists noted that the insect effectively appears multiple times within the same image while moving forward, producing the illusion of a single rod-shaped organism. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Insect_flight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Insect flight</span><span class="citation-popover-snippet">Insect flight</span></span></span>
 
 The effect becomes especially strong with older video systems, lower frame rates, longer exposure times and low-light recording conditions. Security cameras and consumer camcorders historically produced ideal conditions for creating rod-like artefacts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discoveryuk.com/mysteries/flying-rods-elusive-sky-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-snippet">Discovery UKFlying Rods: Elusive Sky Phenomena - Discovery UK21 Oct 2024 — Low shutter speeds create motion blur, making the creatures ap...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_yZrtP2WSr0" title="RARE SKYFISH SIGHTING ON CRITTERCAM (FLYING RODS)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_yZrtP2WSr0" target="_blank" rel="noopener noreferrer">RARE SKYFISH SIGHTING ON CRITTERCAM (FLYING RODS)</a></p><p class="youtube-embed-meta">Channel: 805ROADKING &middot; Views: 138.4K &middot; Uploaded: July 2020 &middot; Length: 1 minute 5 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_yZrtP2WSr0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_yZrtP2WSr0">Open on YouTube</a></p></div></div></div>
 
@@ -328,8 +324,7 @@ Photographic analysis offered a simpler explanation. The “segments” correspo
 
 Translucency has a similar explanation. Insects are usually small relative to the frame and may be out of focus. Motion blur reduces contrast, while transparent wings contribute only partial image information. The result is a ghostly, semi-transparent rod rather than a sharply defined animal. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discoveryuk.com/mysteries/flying-rods-elusive-sky-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-snippet">Discovery UKFlying Rods: Elusive Sky Phenomena - Discovery UK21 Oct 2024 — Low shutter speeds create motion blur, making the creatures ap...</span></span></span>
 
-Some recordings also used interlaced video systems, which combined information from different moments into what viewers perceived as a single frame. This could exaggerate elongation and make the repeated wing patterns appear even more dramatic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cryptidz.fandom.com/wiki/Air_Rods" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptidz.fandom.com">[Cryptid Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptidz.fandom.com</span><span class="citation-popover-title">Cryptid Wiki Air Rods | Cryptid Wiki</span><span class="citation-popover-snippet">Cryptid WikiAir Rods | Cryptid Wiki - FandomAir rods are video artifacts created from motion blur, especially in interlaced video recordi...</span></span></span>
-
+Some recordings also used interlaced video systems, which combined information from different moments into what viewers perceived as a single frame. This could exaggerate elongation and make the repeated wing patterns appear even more dramatic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cryptidz.fandom.com/wiki/Air_Rods" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptidz.fandom.com">[Cryptid Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptidz.fandom.com</span><span class="citation-popover-title">Cryptid Wiki Air Rods &#124; Cryptid Wiki</span><span class="citation-popover-snippet">Cryptid WikiAir Rods &#124; Cryptid Wiki - FandomAir rods are video artifacts created from motion blur, especially in interlaced video recordi...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_motion_blur_rods_96a808-Illustration-2-dark.svg" | relative_url }}" alt="Flying Rods illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_motion_blur_rods_96a808-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_motion_blur_rods_96a808-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Cases That Shifted Opinion
@@ -342,13 +337,11 @@ Earlier analyses by sceptical investigators and entomologists reached similar co
 
 The significance of these investigations was not merely that they explained individual videos. They demonstrated a repeatable mechanism capable of producing the characteristic rod shape under controlled conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discoveryuk.com/mysteries/flying-rods-elusive-sky-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-snippet">Discovery UKFlying Rods: Elusive Sky Phenomena - Discovery UK21 Oct 2024 — Low shutter speeds create motion blur, making the creatures ap...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mWAHdbOjbIs" title="What are Skyfish?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mWAHdbOjbIs" target="_blank" rel="noopener noreferrer">What are Skyfish?</a></p><p class="youtube-embed-meta">Channel: AVNJ &middot; Views: 19.8K &middot; Uploaded: October 2023 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mWAHdbOjbIs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mWAHdbOjbIs">Open on YouTube</a></p></div></div></div>
 
 ## When a Rod Clip Needs Another Explanation
 
 Not every elongated object in a video is necessarily an insect. The flying-rod explanation is strongest when several clues appear together:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -363,7 +356,6 @@ Not every elongated object in a video is necessarily an insect. The flying-rod e
 When those clues are absent, other explanations may be more appropriate. Birds, bats, airborne debris and ordinary motion blur from different sources can also create elongated shapes. A genuine analysis therefore starts with image geometry, focus, exposure settings and scene context rather than assuming every rod is the same phenomenon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Insect_flight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Insect flight</span><span class="citation-popover-snippet">Insect flight</span></span></span>
 
 What distinguishes the classic flying-rod cases is that they consistently display the specific combination of elongation and repeated wingbeat patterns expected from insects moving through the camera’s exposure window.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_motion_blur_rods_96a808-Illustration-3-dark.svg" | relative_url }}" alt="Flying Rods illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_motion_blur_rods_96a808-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_motion_blur_rods_96a808-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Flying Rods Matter in UFO Analysis
@@ -489,15 +481,15 @@ For UFO investigations, the lesson is broader than the rod debate. Before assign
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+stabilizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flying-rods-are-flying-rods-really-camera-bugs-ifos-causes-of-camera-stabilizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera stabilizer" data-ebay-reference="flying-rods-are-flying-rods-really-camera-bugs-ifos-causes-of-camera-stabilizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DJI RSC 2 Ronin Gimbal Stabiliser Boxed UNUSED Missing Cables"><img src="{{ '/assets/images/marketplace-covers/7d965de6b0ff6e512e25.jpg' | relative_url }}" alt="Listing image for DJI RSC 2 Ronin Gimbal Stabiliser Boxed UNUSED Missing Cables" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=macro+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-flying-rods-really-camera-bugs-macro-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="macro lens" data-ebay-reference="are-flying-rods-really-camera-bugs-macro-lens" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moment T-Series 75mm Macro Mobile Lens Mint Condition Boxed Free UK Postage"><img src="https://i.ebayimg.com/images/g/GDwAAeSwU0pp9wNe/s-l225.jpg" alt="Listing image for Moment T-Series 75mm Macro Mobile Lens Mint Condition Boxed Free UK Postage" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+stabilizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flying-rods-are-flying-rods-really-camera-bugs-ifos-causes-of-camera-stabilizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera stabilizer" data-ebay-reference="flying-rods-are-flying-rods-really-camera-bugs-ifos-causes-of-camera-stabilizer" target="_blank" rel="sponsored noopener noreferrer">DJI RSC 2 Ronin Gimbal Stabiliser Boxed UNUSED Missing Cables</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=macro+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-flying-rods-really-camera-bugs-macro-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="macro lens" data-ebay-reference="are-flying-rods-really-camera-bugs-macro-lens" target="_blank" rel="sponsored noopener noreferrer">Moment T-Series 75mm Macro Mobile Lens Mint Condition Boxed Free UK Postage</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+stabilizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flying-rods-are-flying-rods-really-camera-bugs-ifos-causes-of-camera-stabilizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera stabilizer" data-ebay-reference="flying-rods-are-flying-rods-really-camera-bugs-ifos-causes-of-camera-stabilizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera stabilizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera stabilizer</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=macro+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-flying-rods-really-camera-bugs-macro-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="macro lens" data-ebay-reference="are-flying-rods-really-camera-bugs-macro-lens" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for macro lens">Search <span data-ebay-domain-label>eBay.co.uk</span>: macro lens</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+stabilizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flying-rods-are-flying-rods-really-camera-bugs-ifos-causes-of-camera-stabilizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera stabilizer" data-ebay-reference="flying-rods-are-flying-rods-really-camera-bugs-ifos-causes-of-camera-stabilizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=macro+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-flying-rods-really-camera-bugs-macro-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="macro lens" data-ebay-reference="are-flying-rods-really-camera-bugs-macro-lens" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -505,15 +497,15 @@ For UFO investigations, the lesson is broader than the rod debate. Before assign
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+stabilizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flying-rods-are-flying-rods-really-camera-bugs-ifos-causes-of-camera-stabilizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera stabilizer" data-ebay-reference="flying-rods-are-flying-rods-really-camera-bugs-ifos-causes-of-camera-stabilizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DSLR 3-Axis Gimbal Stabiliser Zhiyun Crane Brand New Mint Condition Checked ✅"><img src="{{ '/assets/images/marketplace-covers/d0728ccecae98aa3763f.jpg' | relative_url }}" alt="Listing image for DSLR 3-Axis Gimbal Stabiliser Zhiyun Crane Brand New Mint Condition Checked ✅" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=macro+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-flying-rods-really-camera-bugs-macro-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="macro lens" data-ebay-reference="are-flying-rods-really-camera-bugs-macro-lens" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Minolta 35-70mm, f/3.5 Macro Zoom Lens,"><img src="https://i.ebayimg.com/images/g/WngAAeSwK8dqKVvw/s-l225.jpg" alt="Listing image for Minolta 35-70mm, f/3.5 Macro Zoom Lens," loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+stabilizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flying-rods-are-flying-rods-really-camera-bugs-ifos-causes-of-camera-stabilizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera stabilizer" data-ebay-reference="flying-rods-are-flying-rods-really-camera-bugs-ifos-causes-of-camera-stabilizer" target="_blank" rel="sponsored noopener noreferrer">DSLR 3-Axis Gimbal Stabiliser Zhiyun Crane Brand New Mint Condition Checked ✅</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=macro+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-flying-rods-really-camera-bugs-macro-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="macro lens" data-ebay-reference="are-flying-rods-really-camera-bugs-macro-lens" target="_blank" rel="sponsored noopener noreferrer">Minolta 35-70mm, f/3.5 Macro Zoom Lens,</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+stabilizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flying-rods-are-flying-rods-really-camera-bugs-ifos-causes-of-camera-stabilizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera stabilizer" data-ebay-reference="flying-rods-are-flying-rods-really-camera-bugs-ifos-causes-of-camera-stabilizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera stabilizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera stabilizer</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=macro+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-flying-rods-really-camera-bugs-macro-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="macro lens" data-ebay-reference="are-flying-rods-really-camera-bugs-macro-lens" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for macro lens">Search <span data-ebay-domain-label>eBay.co.uk</span>: macro lens</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+stabilizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flying-rods-are-flying-rods-really-camera-bugs-ifos-causes-of-camera-stabilizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera stabilizer" data-ebay-reference="flying-rods-are-flying-rods-really-camera-bugs-ifos-causes-of-camera-stabilizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=macro+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-flying-rods-really-camera-bugs-macro-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="macro lens" data-ebay-reference="are-flying-rods-really-camera-bugs-macro-lens" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -521,15 +513,15 @@ For UFO investigations, the lesson is broader than the rod debate. Before assign
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+stabilizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flying-rods-are-flying-rods-really-camera-bugs-ifos-causes-of-camera-stabilizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera stabilizer" data-ebay-reference="flying-rods-are-flying-rods-really-camera-bugs-ifos-causes-of-camera-stabilizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Neewer 23.6 inches/60 Centimeters Carbon Fiber Camera Slider Video Stabilizer"><img src="{{ '/assets/images/marketplace-covers/4bec603dc9aad72884fd.jpg' | relative_url }}" alt="Listing image for Neewer 23.6 inches/60 Centimeters Carbon Fiber Camera Slider Video Stabilizer" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=macro+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-flying-rods-really-camera-bugs-macro-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="macro lens" data-ebay-reference="are-flying-rods-really-camera-bugs-macro-lens" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sigma 18-50mm f/2.8 EX DC Macro lens -olympus 4/3 not nicro"><img src="https://i.ebayimg.com/images/g/kacAAeSw9Z5qJWlY/s-l225.jpg" alt="Listing image for Sigma 18-50mm f/2.8 EX DC Macro lens -olympus 4/3 not nicro" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+stabilizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flying-rods-are-flying-rods-really-camera-bugs-ifos-causes-of-camera-stabilizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera stabilizer" data-ebay-reference="flying-rods-are-flying-rods-really-camera-bugs-ifos-causes-of-camera-stabilizer" target="_blank" rel="sponsored noopener noreferrer">Neewer 23.6 inches/60 Centimeters Carbon Fiber Camera Slider Video Stabilizer</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=macro+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-flying-rods-really-camera-bugs-macro-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="macro lens" data-ebay-reference="are-flying-rods-really-camera-bugs-macro-lens" target="_blank" rel="sponsored noopener noreferrer">Sigma 18-50mm f/2.8 EX DC Macro lens -olympus 4/3 not nicro</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+stabilizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flying-rods-are-flying-rods-really-camera-bugs-ifos-causes-of-camera-stabilizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera stabilizer" data-ebay-reference="flying-rods-are-flying-rods-really-camera-bugs-ifos-causes-of-camera-stabilizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera stabilizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera stabilizer</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=macro+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-flying-rods-really-camera-bugs-macro-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="macro lens" data-ebay-reference="are-flying-rods-really-camera-bugs-macro-lens" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for macro lens">Search <span data-ebay-domain-label>eBay.co.uk</span>: macro lens</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+stabilizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flying-rods-are-flying-rods-really-camera-bugs-ifos-causes-of-camera-stabilizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera stabilizer" data-ebay-reference="flying-rods-are-flying-rods-really-camera-bugs-ifos-causes-of-camera-stabilizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=macro+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-flying-rods-really-camera-bugs-macro-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="macro lens" data-ebay-reference="are-flying-rods-really-camera-bugs-macro-lens" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -537,15 +529,15 @@ For UFO investigations, the lesson is broader than the rod debate. Before assign
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+stabilizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flying-rods-are-flying-rods-really-camera-bugs-ifos-causes-of-camera-stabilizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera stabilizer" data-ebay-reference="flying-rods-are-flying-rods-really-camera-bugs-ifos-causes-of-camera-stabilizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DJI Ronin-M Professional Camera Stabiliser Gimbal"><img src="{{ '/assets/images/marketplace-covers/093b8220656a4ce3342c.jpg' | relative_url }}" alt="Listing image for DJI Ronin-M Professional Camera Stabiliser Gimbal" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=macro+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-flying-rods-really-camera-bugs-macro-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="macro lens" data-ebay-reference="are-flying-rods-really-camera-bugs-macro-lens" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sigma 70-300mm f/4-5.6 dg macro Lens"><img src="https://i.ebayimg.com/images/g/7YoAAeSwG5Vp8IqW/s-l225.jpg" alt="Listing image for Sigma 70-300mm f/4-5.6 dg macro Lens" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+stabilizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flying-rods-are-flying-rods-really-camera-bugs-ifos-causes-of-camera-stabilizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera stabilizer" data-ebay-reference="flying-rods-are-flying-rods-really-camera-bugs-ifos-causes-of-camera-stabilizer" target="_blank" rel="sponsored noopener noreferrer">DJI Ronin-M Professional Camera Stabiliser Gimbal</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=macro+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-flying-rods-really-camera-bugs-macro-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="macro lens" data-ebay-reference="are-flying-rods-really-camera-bugs-macro-lens" target="_blank" rel="sponsored noopener noreferrer">Sigma 70-300mm f/4-5.6 dg macro Lens</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+stabilizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flying-rods-are-flying-rods-really-camera-bugs-ifos-causes-of-camera-stabilizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera stabilizer" data-ebay-reference="flying-rods-are-flying-rods-really-camera-bugs-ifos-causes-of-camera-stabilizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera stabilizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera stabilizer</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=macro+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-flying-rods-really-camera-bugs-macro-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="macro lens" data-ebay-reference="are-flying-rods-really-camera-bugs-macro-lens" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for macro lens">Search <span data-ebay-domain-label>eBay.co.uk</span>: macro lens</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+stabilizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flying-rods-are-flying-rods-really-camera-bugs-ifos-causes-of-camera-stabilizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera stabilizer" data-ebay-reference="flying-rods-are-flying-rods-really-camera-bugs-ifos-causes-of-camera-stabilizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=macro+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-flying-rods-really-camera-bugs-macro-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="macro lens" data-ebay-reference="are-flying-rods-really-camera-bugs-macro-lens" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -553,7 +545,7 @@ For UFO investigations, the lesson is broader than the rod debate. Before assign
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+stabilizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flying-rods-are-flying-rods-really-camera-bugs-ifos-causes-of-camera-stabilizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera stabilizer" data-ebay-reference="flying-rods-are-flying-rods-really-camera-bugs-ifos-causes-of-camera-stabilizer" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=macro+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-flying-rods-really-camera-bugs-macro-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="macro lens" data-ebay-reference="are-flying-rods-really-camera-bugs-macro-lens" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -769,88 +761,88 @@ For UFO investigations, the lesson is broader than the rod debate. Before assign
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Rod (optical phenomenon)  
-   Link: [https://en.wikipedia.org/wiki/Rod_%28optical_phenomenon%29](https://en.wikipedia.org/wiki/Rod_%28optical_phenomenon%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Rod_%28optical_phenomenon%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rod_%28optical_phenomenon%29</a>  
 
 2. <a id="endnote-2"></a>
    Source: discoveryuk.com  
-   Link: [https://www.discoveryuk.com/mysteries/flying-rods-elusive-sky-phenomena/](https://www.discoveryuk.com/mysteries/flying-rods-elusive-sky-phenomena/)  
+   Link: <a href="https://www.discoveryuk.com/mysteries/flying-rods-elusive-sky-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/flying-rods-elusive-sky-phenomena/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Discovery UKFlying Rods: Elusive Sky Phenomena - Discovery UK21 Oct 2024 — Low shutter speeds create motion blur, making the creatures ap...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: cdn.centerforinquiry.org  
-   Link: [https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2010/07/22164359/p28.pdf](https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2010/07/22164359/p28.pdf)  
+   Link: <a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2010/07/22164359/p28.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2010/07/22164359/p28.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>little dark spot will be seen to zip across at high...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: medium.com  
    Title: Skyfish and Flying Rods: The Strangest Animals that  
-   Link: [https://medium.com/%40jefferey.d.moore/skyfish-and-flying-rods-the-strangest-animal-that-never-existed-5073da592cb0](https://medium.com/%40jefferey.d.moore/skyfish-and-flying-rods-the-strangest-animal-that-never-existed-5073da592cb0)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MediumSkyfish and Flying Rods: The Strangest Animals that...March 9, 2023 — A more likely explanation, according to the skeptics, was th...</p></details>
+   Link: <a href="https://medium.com/%40jefferey.d.moore/skyfish-and-flying-rods-the-strangest-animal-that-never-existed-5073da592cb0" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40jefferey.d.moore/skyfish-and-flying-rods-the-strangest-animal-that-never-existed-5073da592cb0</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Skyfish and Flying Rods: The Strangest Animals that...March 9, 2023 — A more likely explanation, according to the skeptics, was th...</p></details>
    Published: March 9, 2023  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Insect flight  
-   Link: [https://en.wikipedia.org/wiki/Insect_flight](https://en.wikipedia.org/wiki/Insect_flight)  
+   Link: <a href="https://en.wikipedia.org/wiki/Insect_flight" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Insect_flight</a>  
 
 6. <a id="endnote-6"></a>
    Source: cryptidz.fandom.com  
    Title: Cryptid Wiki Air Rods | Cryptid Wiki  
-   Link: [https://cryptidz.fandom.com/wiki/Air_Rods](https://cryptidz.fandom.com/wiki/Air_Rods)  
+   Link: <a href="https://cryptidz.fandom.com/wiki/Air_Rods" target="_blank" rel="noopener noreferrer nofollow">https://cryptidz.fandom.com/wiki/Air_Rods</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cryptid WikiAir Rods | Cryptid Wiki - FandomAir rods are video artifacts created from motion blur, especially in interlaced video recordi...</p></details>
 
 ### Additional References
 
 7. <a id="endnote-7"></a>
    Source: livescience.com  
-   Link: [https://www.livescience.com/author/benjamin-radford](https://www.livescience.com/author/benjamin-radford)  
+   Link: <a href="https://www.livescience.com/author/benjamin-radford" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/author/benjamin-radford</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Benjamin RadfordBenjamin Radford is the Bad Science columnist for Live Science. He covers pseudoscience, psychology, urban legends and th...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: benjaminradford.com  
-   Link: [https://benjaminradford.com/radiopodcasts/](https://benjaminradford.com/radiopodcasts/)  
+   Link: <a href="https://benjaminradford.com/radiopodcasts/" target="_blank" rel="noopener noreferrer nofollow">https://benjaminradford.com/radiopodcasts/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Radio / Podcasts | Benjamin RadfordBen has appeared in hundreds of podcasts, both as a presented and a guest. He also co-founded two podc...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=_yZrtP2WSr0](https://www.youtube.com/watch?v=_yZrtP2WSr0)  
+   Link: <a href="https://www.youtube.com/watch?v=_yZrtP2WSr0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_yZrtP2WSr0</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>RARE SKYFISH SIGHTING ON CRITTERCAM (FLYING RODS)I caught a rare sighting of some Skyfish, sometimes called Flying Rods or just Rods on m...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/100068711387788/posts/rods-also-known-as-skyfish-air-rods-or-solar-entities-are-elongated-visual-artif/831645315802507/](https://www.facebook.com/100068711387788/posts/rods-also-known-as-skyfish-air-rods-or-solar-entities-are-elongated-visual-artif/831645315802507/)  
+   Link: <a href="https://www.facebook.com/100068711387788/posts/rods-also-known-as-skyfish-air-rods-or-solar-entities-are-elongated-visual-artif/831645315802507/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100068711387788/posts/rods-also-known-as-skyfish-air-rods-or-solar-entities-are-elongated-visual-artif/831645315802507/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>hat sometimes appear in photos or videos, typically in the sky or near clouds...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Cryptozoology/comments/144ag44/air_rods_or_rods_are_described_as_flying_living/](https://www.reddit.com/r/Cryptozoology/comments/144ag44/air_rods_or_rods_are_described_as_flying_living/)  
+   Link: <a href="https://www.reddit.com/r/Cryptozoology/comments/144ag44/air_rods_or_rods_are_described_as_flying_living/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Cryptozoology/comments/144ag44/air_rods_or_rods_are_described_as_flying_living/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ras. There are many nighttime security footage sightings of skyfish...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: aliensoup.com  
    Title: skyfish flying rods.2700  
-   Link: [https://aliensoup.com/threads/skyfish-flying-rods.2700/](https://aliensoup.com/threads/skyfish-flying-rods.2700/)  
+   Link: <a href="https://aliensoup.com/threads/skyfish-flying-rods.2700/" target="_blank" rel="noopener noreferrer nofollow">https://aliensoup.com/threads/skyfish-flying-rods.2700/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Skyfish Flying Rods7 Aug 2009 — Slowing the video down reveals a long cigar shaped object with some type of wavey wings. Theories have be...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: Security Camera Anomalies and Artifacts  
-   Link: [https://www.youtube.com/watch?v=iB-a0g70c-Y](https://www.youtube.com/watch?v=iB-a0g70c-Y)  
+   Link: <a href="https://www.youtube.com/watch?v=iB-a0g70c-Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iB-a0g70c-Y</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>These videos explain how motion blur, shutter speeds, and sensor artifacts can transform common flying insects into elongated &quot;rod&quot; or &quot;s...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/artcollectorsinternational/posts/9005138862900751/](https://www.facebook.com/groups/artcollectorsinternational/posts/9005138862900751/)  
+   Link: <a href="https://www.facebook.com/groups/artcollectorsinternational/posts/9005138862900751/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/artcollectorsinternational/posts/9005138862900751/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What do you find most intriguing about skyfish and solar...These mysterious entities are often described as elongated, rod-like shapes t...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: gurneyjourney.blogspot.com  
    Title: skyfish rods  
-   Link: [https://gurneyjourney.blogspot.com/2019/01/skyfish-rods.html](https://gurneyjourney.blogspot.com/2019/01/skyfish-rods.html)  
+   Link: <a href="https://gurneyjourney.blogspot.com/2019/01/skyfish-rods.html" target="_blank" rel="noopener noreferrer nofollow">https://gurneyjourney.blogspot.com/2019/01/skyfish-rods.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>17 Jan 2019 — &quot;Skyfish rods&quot; are strange visual artifacts that have appeared on people&#x27;s digital photos. When you enlarge them, they appe...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: space.com  
    Title: Latest articles by Benjamin Radford  
-   Link: [https://www.space.com/author/benjamin-radford](https://www.space.com/author/benjamin-radford)  
+   Link: <a href="https://www.space.com/author/benjamin-radford" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/author/benjamin-radford</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>He covers pseudoscience, psychology, urban legends and the...</p></details>

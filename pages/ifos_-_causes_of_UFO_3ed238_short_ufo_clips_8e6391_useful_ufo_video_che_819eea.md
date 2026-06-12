@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_out_of_focus_ufo_orb_9fdbb4
 - ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_parallax_speed_illus_714144
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - short-clips
 - useful-clips
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - short-clips
 - useful-clips
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: The strongest UFO clips are not the most dramatic ones, but the ones tied to time, place, direction, metadata, and outside records.
 hero_summary: The strongest UFO clips are not the most dramatic ones, but the ones tied to time, place, direction, metadata, and outside records.
 layout: default
 permalink: /useful-clips/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /short-clips/
 nav_short_title: Useful Clips
 title: What Makes a UFO Clip Useful
-title_full: What Makes a UFO Clip Useful | Short Clips
+title_full: What Makes a UFO Clip Useful
 display_title_short: Useful Clips
 display_title: Useful Clips
 heading_title: What Makes a UFO Clip Useful
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-07 00:24:58'
-parent_title: Why Short UFO Videos Are Hard to Trust | IFOs
+parent_title: Why Short UFO Videos Are Hard to Trust
 parent_permalink: /short-clips/
 parent_nav_short_title: Short Clips
 parent_heading_title: Why Short UFO Videos Are Hard to Trust
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391
-  title: Short Clips | Ifos Causes Of
+  title: Short Clips | ifos causes of UFO 3 ed 238
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: Why Short UFO Videos Are Hard to Trust
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391
-  title: Short Clips | Ifos Causes Of
+  title: Short Clips | ifos causes of UFO 3 ed 238
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: Why Short UFO Videos Are Hard to Trust
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: Why Night Lights Become Orbs
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391
-  title: Short Clips | Ifos Causes Of
+  title: Short Clips | ifos causes of UFO 3 ed 238
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: Why Short UFO Videos Are Hard to Trust
@@ -260,6 +259,7 @@ prev_link:
   permalink: /ufo-orbs/
   short_title: UFO Orbs
   heading_title: Why Night Lights Become Orbs
+date: '2026-06-12 00:34:05 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_useful_ufo_video_che_819eea-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_useful_ufo_video_che_819eea-Illustration-1.webp
@@ -269,7 +269,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_useful_
 ## Introduction
 
 Most UFO videos are poor evidence not because they are fake, but because they fail to capture the information needed to identify what was recorded. A bright light, distant dot, or brief manoeuvre can look mysterious when isolated from its surroundings. What investigators need is not merely a striking image but enough context to reconstruct the event. NASA's independent UAP study concluded that many cases remain difficult to analyse because of [missing metadata]({{ 'missing-metadata/' | relative_url }}), poor sensor calibration, and a lack of multiple measurements. It also noted that consistent, detailed, curated observations are often absent. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_useful_ufo_video_che_819eea-Illustration-1-dark.svg" | relative_url }}" alt="Useful Clips illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_useful_ufo_video_che_819eea-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_useful_ufo_video_che_819eea-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This distinction matters when assessing possible IFOs (identified flying objects). A useful video increases the chances that an apparently unusual object can be matched to an aircraft, satellite, balloon, astronomical object, atmospheric effect, or other known cause. In the minority of cases that remain unresolved, strong documentation helps show whether the uncertainty is genuine rather than simply the result of missing information.
@@ -292,12 +291,11 @@ A useful clip should answer several basic questions:
 
 </div>
 
-The U.S. All-domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})) specifically asks for information such as the observer's date, time, location, travel path, sensor type, and all available recordings because these details are often necessary for analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information_for_UAP_Analysis-20240125.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">About the Phenomenon</span><span class="citation-popover-snippet">AAROAbout the PhenomenonJanuary 25, 2024 — About the Observer. ▫ Observer&#x27;s date, time, location, and travel path for first and last obse...</span><span class="citation-popover-meta">Published: January 25, 2024</span></span></span>
+The U.S. All-domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})) specifically asks for information such as the observer's date, time, location, travel path, sensor type, and all available recordings because these details are often necessary for analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information_for_UAP_Analysis-20240125.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">About the Phenomenon</span><span class="citation-popover-snippet">About the PhenomenonJanuary 25, 2024 — About the Observer. ▫ Observer&#x27;s date, time, location, and travel path for first and last obse...</span><span class="citation-popover-meta">Published: January 25, 2024</span></span></span>
 
 A dramatic zoomed-in image may attract attention online, but a wider shot that includes the horizon, buildings, trees, clouds, or [stars]({{ 'stars/' | relative_url }}) is usually far more useful. Reference points help investigators estimate motion, altitude, and direction instead of relying on guesswork.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/u1eCjUsaK0s" title="UFO report provided no explanation for hundreds of sightings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=u1eCjUsaK0s" target="_blank" rel="noopener noreferrer">UFO report provided no explanation for hundreds of sightings</a></p><p class="youtube-embed-meta">Channel: Fox News &middot; Views: 117.9K &middot; Uploaded: June 2021 &middot; Length: 4 minutes 11 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=u1eCjUsaK0s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=u1eCjUsaK0s">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cVzyPnDYX2Y" title="Most Unbelievable UFO Encounters Ever | The Proof Is Out There | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cVzyPnDYX2Y" target="_blank" rel="noopener noreferrer">Most Unbelievable UFO Encounters Ever | The Proof Is Out There | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 1.4M &middot; Uploaded: January 2025 &middot; Length: 1 hour 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cVzyPnDYX2Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cVzyPnDYX2Y">Open on YouTube</a></p></div></div></div>
 
 ## Why Original Files and Metadata Matter
 
@@ -305,10 +303,9 @@ Many UFO videos reach the public only after being uploaded to social media. By t
 
 Modern cameras and smartphones often embed metadata containing:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* Recording time and date <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/Information_for_UAP_Analysis-20240125.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">About the Phenomenon</span><span class="citation-popover-snippet">AAROAbout the PhenomenonJanuary 25, 2024 — About the Observer. ▫ Observer&#x27;s date, time, location, and travel path for first and last obse...</span><span class="citation-popover-meta">Published: January 25, 2024</span></span></span>
+* Recording time and date <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/Information_for_UAP_Analysis-20240125.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">About the Phenomenon</span><span class="citation-popover-snippet">About the PhenomenonJanuary 25, 2024 — About the Observer. ▫ Observer&#x27;s date, time, location, and travel path for first and last obse...</span><span class="citation-popover-meta">Published: January 25, 2024</span></span></span>
 * Device information
 * GPS coordinates (if enabled)
 * Exposure settings
@@ -331,7 +328,6 @@ NASA has repeatedly emphasised the value of multiple measurements. Optical image
 
 Even two videos taken from different locations can help estimate distance and altitude through triangulation. Without such data, a nearby balloon and a distant aircraft can appear remarkably similar.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_useful_ufo_video_che_819eea-Illustration-2-dark.svg" | relative_url }}" alt="Useful Clips illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_useful_ufo_video_che_819eea-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_useful_ufo_video_che_819eea-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Flight, Weather, and Satellite Data Help Resolve Cases
 
@@ -345,17 +341,15 @@ Modern aircraft frequently broadcast position information through Automatic Depe
 
 When a video includes precise time and location information, investigators can compare the sighting with recorded aircraft movements. In many cases, apparent anomalies turn out to match commercial flights, business jets, helicopters, or military aircraft operating in the area.
 
-Flight records are not perfect and may have coverage gaps or missing transmissions, but they remain one of the most powerful tools available for identifying aerial objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/2306-5729/3/2/19" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">MDPIUAT ADS-B Data Anomalies and the Effect of Flight...by A Tabassum · 2018 · Cited by 38 — The data investigation revealed ADS-B messa...</span></span></span>
+Flight records are not perfect and may have coverage gaps or missing transmissions, but they remain one of the most powerful tools available for identifying aerial objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/2306-5729/3/2/19" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">UAT ADS-B Data Anomalies and the Effect of Flight...by A Tabassum · 2018 · Cited by 38 — The data investigation revealed ADS-B messa...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/A5q8Trv3sC0" title="NASA holds public address about UFO sightings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=A5q8Trv3sC0" target="_blank" rel="noopener noreferrer">NASA holds public address about UFO sightings</a></p><p class="youtube-embed-meta">Channel: The Australian &middot; Views: 3.0M &middot; Uploaded: June 2023 &middot; Length: 57 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=A5q8Trv3sC0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=A5q8Trv3sC0">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mvsU4p0Gsas" title="Breaking Down UAP Footage with the Head of The Pentagon’s UAP Taskforce, Dr. Jon Kosloski" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mvsU4p0Gsas" target="_blank" rel="noopener noreferrer">Breaking Down UAP Footage with the Head of The Pentagon’s UAP Taskforce, Dr. Jon Kosloski</a></p><p class="youtube-embed-meta">Channel: StarTalk &middot; Views: 1.5M &middot; Uploaded: August 2025 &middot; Length: 51 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mvsU4p0Gsas" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mvsU4p0Gsas">Open on YouTube</a></p></div></div></div>
 
 ### Weather Data
 
 Weather records often explain sightings that initially seem unusual.
 
 Relevant information includes:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -370,13 +364,12 @@ Relevant information includes:
 
 A balloon drifting with upper-level winds may appear to manoeuvre unexpectedly when viewed from the ground. Bright reflections from ice crystals can create unusual lights and shapes. Knowing the atmospheric conditions at the time can quickly narrow the list of possibilities.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_useful_ufo_video_che_819eea-Illustration-3-dark.svg" | relative_url }}" alt="Useful Clips illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_useful_ufo_video_che_819eea-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_useful_ufo_video_che_819eea-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Satellite and Astronomical Data
 
 Satellite databases and astronomical software have become increasingly important in UFO investigations.
 
-A notable example involved commercial airline pilots who reported an unusual formation accompanied by photographs and video. Researchers later reconstructed the event using satellite orbital data and flight-position information, showing that recently launched Starlink [satellites]({{ 'satellites/' | relative_url }}) could account for the observation. The case demonstrated how seemingly puzzling visual evidence can be resolved when time, location, and external records are available. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2505.06254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivOpenSky Report 2025: Improving Crowdsourced Flight Trajectories with ADS-C Data...</span></span></span>
+A notable example involved commercial airline pilots who reported an unusual formation accompanied by photographs and video. Researchers later reconstructed the event using satellite orbital data and flight-position information, showing that recently launched Starlink [satellites]({{ 'satellites/' | relative_url }}) could account for the observation. The case demonstrated how seemingly puzzling visual evidence can be resolved when time, location, and external records are available. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2505.06254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">OpenSky Report 2025: Improving Crowdsourced Flight Trajectories with ADS-C Data...</span></span></span>
 
 Likewise, precise timing can reveal whether a sighting coincided with visible planets, satellite passes, rocket launches, re-entries, or other known events.
 
@@ -385,7 +378,6 @@ Likewise, precise timing can reveal whether a sighting coincided with visible pl
 The videos most likely to spread online are often the least informative. Extreme zoom, short duration, heavy cropping, and dramatic narration can make an object appear more mysterious while simultaneously removing the clues needed for identification.
 
 A useful UFO video tends to have the opposite characteristics:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -401,9 +393,7 @@ A useful UFO video tends to have the opposite characteristics:
 
 These standards do not guarantee that every sighting will be identified. Some cases may remain unresolved even after careful investigation. However, better documentation helps distinguish between events that are unresolved because the evidence is incomplete and those that remain unresolved despite having enough information for serious analysis. That distinction is crucial when assessing the true causes of UFO reports.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mvsU4p0Gsas" title="Breaking Down UAP Footage with the Head of The Pentagon’s UAP Taskforce, Dr. Jon Kosloski" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mvsU4p0Gsas" target="_blank" rel="noopener noreferrer">Breaking Down UAP Footage with the Head of The Pentagon’s UAP Taskforce, Dr. Jon Kosloski</a></p><p class="youtube-embed-meta">Channel: StarTalk &middot; Views: 1.5M &middot; Uploaded: August 2025 &middot; Length: 51 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mvsU4p0Gsas" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mvsU4p0Gsas">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/u1eCjUsaK0s" title="UFO report provided no explanation for hundreds of sightings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=u1eCjUsaK0s" target="_blank" rel="noopener noreferrer">UFO report provided no explanation for hundreds of sightings</a></p><p class="youtube-embed-meta">Channel: Fox News &middot; Views: 117.9K &middot; Uploaded: June 2021 &middot; Length: 4 minutes 11 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=u1eCjUsaK0s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=u1eCjUsaK0s">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -522,15 +512,15 @@ These standards do not guarantee that every sighting will be identified. Some ca
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=useful-clips-what-makes-a-ufo-clip-useful-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="useful-clips-what-makes-a-ufo-clip-useful-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO, Sticker Vinyl Version v6"><img src="{{ '/assets/images/marketplace-covers/b2a8befcf874884cb729.jpg' | relative_url }}" alt="Listing image for UFO, Sticker Vinyl Version v6" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-ufo-clip-useful-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="what-makes-a-ufo-clip-useful-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for K&amp;F CONCEPT 75&quot; Camera Phone Tripod Lightweight Travel with Remote S255A3+BH-36"><img src="https://i.ebayimg.com/images/g/KvgAAeSwwUJpDBEE/s-l225.jpg" alt="Listing image for K&amp;F CONCEPT 75&quot; Camera Phone Tripod Lightweight Travel with Remote S255A3+BH-36" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=useful-clips-what-makes-a-ufo-clip-useful-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="useful-clips-what-makes-a-ufo-clip-useful-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">UFO, Sticker Vinyl Version v6</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-ufo-clip-useful-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="what-makes-a-ufo-clip-useful-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">K&amp;F CONCEPT 75&quot; Camera Phone Tripod Lightweight Travel with Remote S255A3+BH-36</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=useful-clips-what-makes-a-ufo-clip-useful-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="useful-clips-what-makes-a-ufo-clip-useful-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo sticker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-ufo-clip-useful-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="what-makes-a-ufo-clip-useful-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=useful-clips-what-makes-a-ufo-clip-useful-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="useful-clips-what-makes-a-ufo-clip-useful-ifos-causes-of-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-ufo-clip-useful-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="what-makes-a-ufo-clip-useful-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -538,15 +528,15 @@ These standards do not guarantee that every sighting will be identified. Some ca
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=useful-clips-what-makes-a-ufo-clip-useful-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="useful-clips-what-makes-a-ufo-clip-useful-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing"><img src="{{ '/assets/images/marketplace-covers/758272a90147e0fdd168.jpg' | relative_url }}" alt="Listing image for Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-ufo-clip-useful-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="what-makes-a-ufo-clip-useful-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for K&amp;F CONCEPT 63&#x27;&#x27; Camera Tripod 360° Ball Head for DSLR Sony Nikon K234A0+BH-28L"><img src="https://i.ebayimg.com/images/g/wHkAAOSwQa5lLigt/s-l225.jpg" alt="Listing image for K&amp;F CONCEPT 63&#x27;&#x27; Camera Tripod 360° Ball Head for DSLR Sony Nikon K234A0+BH-28L" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=useful-clips-what-makes-a-ufo-clip-useful-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="useful-clips-what-makes-a-ufo-clip-useful-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-ufo-clip-useful-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="what-makes-a-ufo-clip-useful-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">K&amp;F CONCEPT 63&#x27;&#x27; Camera Tripod 360° Ball Head for DSLR Sony Nikon K234A0+BH-28L</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=useful-clips-what-makes-a-ufo-clip-useful-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="useful-clips-what-makes-a-ufo-clip-useful-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo sticker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-ufo-clip-useful-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="what-makes-a-ufo-clip-useful-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=useful-clips-what-makes-a-ufo-clip-useful-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="useful-clips-what-makes-a-ufo-clip-useful-ifos-causes-of-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-ufo-clip-useful-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="what-makes-a-ufo-clip-useful-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -554,15 +544,15 @@ These standards do not guarantee that every sighting will be identified. Some ca
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=useful-clips-what-makes-a-ufo-clip-useful-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="useful-clips-what-makes-a-ufo-clip-useful-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker"><img src="{{ '/assets/images/marketplace-covers/eb968c20f3ed6c11e2af.jpg' | relative_url }}" alt="Listing image for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-ufo-clip-useful-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="what-makes-a-ufo-clip-useful-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for K&amp;F CONCEPT 60&quot;/152cm Travel Tripod For Phone Camera 1/4&quot; Screw Mount &amp; Remote"><img src="https://i.ebayimg.com/images/g/L~sAAeSwmmlp4GQN/s-l225.jpg" alt="Listing image for K&amp;F CONCEPT 60&quot;/152cm Travel Tripod For Phone Camera 1/4&quot; Screw Mount &amp; Remote" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=useful-clips-what-makes-a-ufo-clip-useful-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="useful-clips-what-makes-a-ufo-clip-useful-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-ufo-clip-useful-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="what-makes-a-ufo-clip-useful-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">K&amp;F CONCEPT 60&quot;/152cm Travel Tripod For Phone Camera 1/4&quot; Screw Mount &amp; Remote</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=useful-clips-what-makes-a-ufo-clip-useful-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="useful-clips-what-makes-a-ufo-clip-useful-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo sticker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-ufo-clip-useful-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="what-makes-a-ufo-clip-useful-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=useful-clips-what-makes-a-ufo-clip-useful-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="useful-clips-what-makes-a-ufo-clip-useful-ifos-causes-of-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-ufo-clip-useful-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="what-makes-a-ufo-clip-useful-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -570,15 +560,15 @@ These standards do not guarantee that every sighting will be identified. Some ca
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=useful-clips-what-makes-a-ufo-clip-useful-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="useful-clips-what-makes-a-ufo-clip-useful-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO, Sticker Cut Vinyl v2"><img src="{{ '/assets/images/marketplace-covers/363ae3bd666c4dfeb51c.jpg' | relative_url }}" alt="Listing image for UFO, Sticker Cut Vinyl v2" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-ufo-clip-useful-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="what-makes-a-ufo-clip-useful-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Stretchable Camera Tripod Stand Phone Holder For iPhone Samsung Sony+ Bag UK"><img src="https://i.ebayimg.com/images/g/EdIAAOSwzlZnsETi/s-l225.jpg" alt="Listing image for Stretchable Camera Tripod Stand Phone Holder For iPhone Samsung Sony+ Bag UK" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=useful-clips-what-makes-a-ufo-clip-useful-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="useful-clips-what-makes-a-ufo-clip-useful-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">UFO, Sticker Cut Vinyl v2</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-ufo-clip-useful-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="what-makes-a-ufo-clip-useful-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">Stretchable Camera Tripod Stand Phone Holder For iPhone Samsung Sony+ Bag UK</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=useful-clips-what-makes-a-ufo-clip-useful-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="useful-clips-what-makes-a-ufo-clip-useful-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo sticker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-ufo-clip-useful-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="what-makes-a-ufo-clip-useful-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=useful-clips-what-makes-a-ufo-clip-useful-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="useful-clips-what-makes-a-ufo-clip-useful-ifos-causes-of-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-ufo-clip-useful-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="what-makes-a-ufo-clip-useful-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -586,7 +576,7 @@ These standards do not guarantee that every sighting will be identified. Some ca
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=useful-clips-what-makes-a-ufo-clip-useful-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="useful-clips-what-makes-a-ufo-clip-useful-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-ufo-clip-useful-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="what-makes-a-ufo-clip-useful-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -801,115 +791,115 @@ These standards do not guarantee that every sighting will be identified. Some ca
 
 1. <a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: en.wikisource.org  
-   Link: [https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Foreword](https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Foreword)  
+   Link: <a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Foreword" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Foreword</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Study Team Report/Foreword14 Oct 2023 — Despite numerous accounts and visuals, the absence of consistent, detailed, and curated observati...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: aaro.mil  
    Title: About the Phenomenon  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/Information_for_UAP_Analysis-20240125.pdf](https://www.aaro.mil/Portals/136/PDFs/Information_for_UAP_Analysis-20240125.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROAbout the PhenomenonJanuary 25, 2024 — About the Observer. ▫ Observer&#x27;s date, time, location, and travel path for first and last obse...</p></details>
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information_for_UAP_Analysis-20240125.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information_for_UAP_Analysis-20240125.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>About the PhenomenonJanuary 25, 2024 — About the Observer. ▫ Observer&#x27;s date, time, location, and travel path for first and last obse...</p></details>
    Published: January 25, 2024  
 
 4. <a id="endnote-4"></a>
    Source: aaro.mil  
    Title: 2025 UAP Workshop Paper  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/2025_UAP_Workshop_Paper.pdf](https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/2025_UAP_Workshop_Paper.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/2025_UAP_Workshop_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/2025_UAP_Workshop_Paper.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>2025 UAP Workshop: Narrative Data, Infrastructures, and...First, effective progress requires clear standards and common reporting templa...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: en.wikisource.org  
    Title: Page:UAP Independent Study Team  
-   Link: [https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5](https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5)  
+   Link: <a href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgPage:UAP Independent Study Team - Final Report.pdf/512 Nov 2023 — At present, analysis of UAP data is hampered by poor sens...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/2306-5729/3/2/19](https://www.mdpi.com/2306-5729/3/2/19)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MDPIUAT ADS-B Data Anomalies and the Effect of Flight...by A Tabassum · 2018 · Cited by 38 — The data investigation revealed ADS-B messa...</p></details>
+   Link: <a href="https://www.mdpi.com/2306-5729/3/2/19" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2306-5729/3/2/19</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAT ADS-B Data Anomalies and the Effect of Flight...by A Tabassum · 2018 · Cited by 38 — The data investigation revealed ADS-B messa...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2505.06254](https://arxiv.org/abs/2505.06254)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivOpenSky Report 2025: Improving Crowdsourced Flight [Trajectories](&amp;#123;&amp;#123; &#x27;trajectories/&#x27; | relative_url &amp;#125;&amp;#125;) with ADS-C Data...</p></details>
+   Link: <a href="https://arxiv.org/abs/2505.06254" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2505.06254</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>OpenSky Report 2025: Improving Crowdsourced Flight [Trajectories](&amp;#123;&amp;#123; &#x27;trajectories/&#x27; | relative_url &amp;#125;&amp;#125;) with ADS-C Data...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2403.08155](https://arxiv.org/abs/2403.08155)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivEnhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</p></details>
+   Link: <a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — The UAP Independent Study serves as a community-based, interdisciplinary forum for soliciting and coordinating co...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: [https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/](https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/)  
+   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — The report contains the external study team&#x27;s findings and recommendations...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>6 days ago — The UAP independent study team&#x27;s main focus for the report was to come up with a way in which to evaluate and study UAPs goi...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: asrs.arc.nasa.gov  
-   Link: [https://asrs.arc.nasa.gov/docs/rpsts/penetrat.pdf](https://asrs.arc.nasa.gov/docs/rpsts/penetrat.pdf)  
+   Link: <a href="https://asrs.arc.nasa.gov/docs/rpsts/penetrat.pdf" target="_blank" rel="noopener noreferrer nofollow">https://asrs.arc.nasa.gov/docs/rpsts/penetrat.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of Prohibited Airspace IncidentsChanges to prevent airspace violations will be checking 1800wxbrief, before you fly, and foreflight, and...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_UAP_Program_Report_User_Guide-20231211.pdf?ver=dJtqTlbDr3HqkIVDW8MP4Q%3D%3D](https://www.aaro.mil/Portals/136/PDFs/AARO_UAP_Program_Report_User_Guide-20231211.pdf?ver=dJtqTlbDr3HqkIVDW8MP4Q%3D%3D)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_UAP_Program_Report_User_Guide-20231211.pdf?ver=dJtqTlbDr3HqkIVDW8MP4Q%3D%3D" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_UAP_Program_Report_User_Guide-20231211.pdf?ver=dJtqTlbDr3HqkIVDW8MP4Q%3D%3D</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The reporting form is intended as an initial point of contact...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeUnidentified Anomalous Phenomena (UAP) means (A) airborne objects that are not immediately identifiable; (B) transmedium objects...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Submit-A-Report/](https://www.aaro.mil/Submit-A-Report/)  
+   Link: <a href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Submit-A-Report/</a>  
 
 16. <a id="endnote-16"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/FAQ/](https://www.aaro.mil/FAQ/)  
+   Link: <a href="https://www.aaro.mil/FAQ/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/FAQ/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO FAQAARO will announce when a reporting mechanism is available to the public. What are the leading explanations to account for UAP re...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: aaro.mil  
    Title: Next UAP Report Documents  
-   Link: [https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/](https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/)  
+   Link: <a href="https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Report DocumentsFeb 29, 2024 — Incident Location, Incident Date, Title, Documents, Video(s). 05/08/2026... timestamp 00:10, annotate...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: en.wikisource.org  
    Title: Responses to Statement of Task  
-   Link: [https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task](https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task)  
+   Link: <a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — It is essential to note the pivotal role that structured data curation pla...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/pdf/2403.15368](https://arxiv.org/pdf/2403.15368)  
+   Link: <a href="https://arxiv.org/pdf/2403.15368" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2403.15368</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Closing the Information Gap in Unidentified Anomalous...by GR Stahlman · 2024 · Cited by 8 — While the study team reports no conclusive...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: faa.gov  
    Title: Federal Aviation Administration Automatic Dependent Surveillance  
-   Link: [https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b](https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b)  
+   Link: <a href="https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationAutomatic Dependent Surveillance - Broadcast (ADS-B)29 Sept 2025 — ADS-B is an advanced surveillance techn...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: pwkinternational.com  
    Title: uap unidentified anomaly or demand signal  
-   Link: [https://pwkinternational.com/2025/11/11/uap-unidentified-anomaly-or-demand-signal/](https://pwkinternational.com/2025/11/11/uap-unidentified-anomaly-or-demand-signal/)  
+   Link: <a href="https://pwkinternational.com/2025/11/11/uap-unidentified-anomaly-or-demand-signal/" target="_blank" rel="noopener noreferrer nofollow">https://pwkinternational.com/2025/11/11/uap-unidentified-anomaly-or-demand-signal/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP | An Uncertainty Tax &amp; Demand Signal |11 Nov 2025 — Show how you will deliver calibrated, documented sensor outputs, not just raw vid...</p></details>
 
 ### Additional References
@@ -917,51 +907,51 @@ These standards do not guarantee that every sighting will be identified. Some ca
 22. <a id="endnote-22"></a>
    Source: war.gov  
    Title: dr jon kosloski director aaro media roundtable on the fy24 consolidated annual  
-   Link: [https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/](https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/)  
+   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jon Kosloski, Director, AARO, Media Roundtable on the...14 Nov 2024 — AARO has taken meaningful steps to improve data collection and ret...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: aui.edu  
-   Link: [https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/](https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/)  
+   Link: <a href="https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Releases Report on Unidentified Anomalous...Key findings of the report relate to overcoming such barriers, effective use of UAP dat...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/167nwhe/aaros_videos_the_us_government_cannot_identify/](https://www.reddit.com/r/UFOs/comments/167nwhe/aaros_videos_the_us_government_cannot_identify/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/167nwhe/aaros_videos_the_us_government_cannot_identify/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/167nwhe/aaros_videos_the_us_government_cannot_identify/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROs Videos: The US Government cannot identify...AARO has posted another unresolved case (video): &quot;This footage, captured by an infrare...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: spire.com  
-   Link: [https://spire.com/wiki/ads-b-data-understanding-regulatory-requirements/](https://spire.com/wiki/ads-b-data-understanding-regulatory-requirements/)  
+   Link: <a href="https://spire.com/wiki/ads-b-data-understanding-regulatory-requirements/" target="_blank" rel="noopener noreferrer nofollow">https://spire.com/wiki/ads-b-data-understanding-regulatory-requirements/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B data: understanding basic regulatory contextIn this article, we&#x27;ll take you through the current regulatory requirements for ADS-B s...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/](https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/)  
+   Link: <a href="https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...The evidence of aliens that NASA will find is going to be &quot;We&#x27;ve detected animal farts on...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: ufofileswatch.com  
-   Link: [https://ufofileswatch.com/](https://ufofileswatch.com/)  
+   Link: <a href="https://ufofileswatch.com/" target="_blank" rel="noopener noreferrer nofollow">https://ufofileswatch.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Files Watch | UAP Release Tracker6 days ago — AARO Historical Record Program Volume 1. AARO released Volume 1 of its historical recor...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: thedebrief.org  
-   Link: [https://thedebrief.org/all-domain-anomaly-resolution-office-hosts-private-workshop-with-civilian-researchers-universities-and-government-agencies/](https://thedebrief.org/all-domain-anomaly-resolution-office-hosts-private-workshop-with-civilian-researchers-universities-and-government-agencies/)  
+   Link: <a href="https://thedebrief.org/all-domain-anomaly-resolution-office-hosts-private-workshop-with-civilian-researchers-universities-and-government-agencies/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/all-domain-anomaly-resolution-office-hosts-private-workshop-with-civilian-researchers-universities-and-government-agencies/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution Office Hosts Private...26 Feb 2026 — A recent AARO report outlines new standards for data collection, AI u...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: rev.com  
-   Link: [https://www.rev.com/transcripts/nasa-holds-first-public-meeting-on-ufos-transcript](https://www.rev.com/transcripts/nasa-holds-first-public-meeting-on-ufos-transcript)  
+   Link: <a href="https://www.rev.com/transcripts/nasa-holds-first-public-meeting-on-ufos-transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/nasa-holds-first-public-meeting-on-ufos-transcript</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Holds First Public Meeting on UFOs TranscriptThe UAP independent study was commissioned to create a roadmap on how to use the tools...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: wired.com  
-   Link: [https://www.wired.com/story/nasa-ufos-aliens-report-2023](https://www.wired.com/story/nasa-ufos-aliens-report-2023)  
+   Link: <a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The agency stressed the need to shift the conversation from sensationalism to science and eliminate the [stigma](&amp;#123;&amp;#123; &#x27;stigma/&#x27; | relative_url &amp;#125;&amp;#125;) associated with reporting...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: war.gov  
    Title: A collection of UAP reports and documents from a national security site  
-   Link: [https://www.war.gov/UFO/](https://www.war.gov/UFO/)  
+   Link: <a href="https://www.war.gov/UFO/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/UFO/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Presidential Unsealing and Reporting System for UAP...A screenshot from a video likely derived from an infrared sensor, with several are...</p></details>

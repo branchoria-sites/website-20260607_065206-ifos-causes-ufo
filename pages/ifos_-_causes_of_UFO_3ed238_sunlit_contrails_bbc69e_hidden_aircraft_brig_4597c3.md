@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_missile_launch_contr_3a26cf
 - ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_twilight_fireball_co_d82707
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - contrails
 - hidden-aircraft
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - contrails
 - hidden-aircraft
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: The visible UFO may be the sunlit ice cloud, while the aircraft itself is too small, dark, distant, or glare-hidden to notice.
 hero_summary: The visible UFO may be the sunlit ice cloud, while the aircraft itself is too small, dark, distant, or glare-hidden to notice.
 layout: default
 permalink: /hidden-aircraft/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /contrails/
 nav_short_title: Hidden aircraft
 title: Why the Plane Vanishes but the Trail Glows
-title_full: Why the Plane Vanishes but the Trail Glows | Contrails
+title_full: Why the Plane Vanishes but the Trail Glows
 display_title_short: Hidden aircraft
 display_title: Hidden aircraft
 heading_title: Why the Plane Vanishes but the Trail Glows
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 21:42:22'
-parent_title: Why Jet Trails Glow Like UFOs | IFOs
+parent_title: Why Jet Trails Glow Like UFOs
 parent_permalink: /contrails/
 parent_nav_short_title: Contrails
 parent_heading_title: Why Jet Trails Glow Like UFOs
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e
-  title: Contrails | Ifos Causes Of
+  title: Contrails | ifos causes of UFO 3 ed 238
   permalink: /contrails/
   short_title: Contrails
   heading_title: Why Jet Trails Glow Like UFOs
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e
-  title: Contrails | Ifos Causes Of
+  title: Contrails | ifos causes of UFO 3 ed 238
   permalink: /contrails/
   short_title: Contrails
   heading_title: Why Jet Trails Glow Like UFOs
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: When a Jet Trail Looks Like a Missile
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e
-  title: Contrails | Ifos Causes Of
+  title: Contrails | ifos causes of UFO 3 ed 238
   permalink: /contrails/
   short_title: Contrails
   heading_title: Why Jet Trails Glow Like UFOs
@@ -266,6 +265,7 @@ next_link:
   permalink: /missile-illusion/
   short_title: Missile illusion
   heading_title: When a Jet Trail Looks Like a Missile
+date: '2026-06-12 00:39:05 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_hidden_aircraft_brig_4597c3-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_hidden_aircraft_brig_4597c3-Illustration-1.webp
@@ -274,20 +274,16 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_hidden
 
 ## Introduction
 
-Many UFO reports involving glowing streaks, bright cigar-shaped objects, or apparently stationary lights near the horizon are not caused by unusual aircraft behaviour but by a simple visibility mismatch: the contrail is easy to see while the aircraft creating it is not. At high altitude, a jet may be tens of kilometres away and occupy only a tiny fraction of the observer’s field of view. Meanwhile, the ice-crystal cloud behind it can stretch for kilometres and reflect sunlight efficiently, making the trail appear far brighter and larger than the aircraft itself. In some cases, witnesses accurately describe what they see—a luminous object or glowing cloud—while understandably failing to notice the distant jet responsible for it. This effect is especially important in UFO reports linked to [sunlit contrails]({{ 'contrails/' | relative_url }}) and low-angle sunlight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/contrails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationContrails | Federal Aviation Administration21 Jul 2025 — Contrails are created when airplanes fly in cold...</span></span></span>
-
+Many UFO reports involving glowing streaks, bright cigar-shaped objects, or apparently stationary lights near the horizon are not caused by unusual aircraft behaviour but by a simple visibility mismatch: the contrail is easy to see while the aircraft creating it is not. At high altitude, a jet may be tens of kilometres away and occupy only a tiny fraction of the observer’s field of view. Meanwhile, the ice-crystal cloud behind it can stretch for kilometres and reflect sunlight efficiently, making the trail appear far brighter and larger than the aircraft itself. In some cases, witnesses accurately describe what they see—a luminous object or glowing cloud—while understandably failing to notice the distant jet responsible for it. This effect is especially important in UFO reports linked to sunlit [contrails]({{ 'contrails/' | relative_url }}) and low-angle sunlight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/contrails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationContrails &#124; Federal Aviation Administration21 Jul 2025 — Contrails are created when airplanes fly in cold...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_hidden_aircraft_brig_4597c3-Illustration-1-dark.svg" | relative_url }}" alt="Hidden aircraft illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_hidden_aircraft_brig_4597c3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_hidden_aircraft_brig_4597c3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Contrails Are Larger and Brighter Than Distant Aircraft
 
 A high-altitude airliner is surprisingly difficult to see. At cruising altitude, an aircraft may be only a few dozen metres long yet located 10 kilometres or more above the ground and many additional kilometres away horizontally. Under these conditions, the aircraft can appear as a tiny dark speck, or become effectively invisible against a bright or hazy sky.
 
-The contrail behind it is a different matter. [Contrails]({{ 'contrails/' | relative_url }}) are line-shaped ice clouds formed when aircraft exhaust interacts with very cold, humid air. Depending on atmospheric conditions, they can extend for many kilometres and contain vast numbers of ice crystals that scatter and reflect sunlight. Because the trail occupies a much larger apparent area than the aircraft, it often becomes the dominant visible feature. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/contrails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationContrails | Federal Aviation Administration21 Jul 2025 — Contrails are created when airplanes fly in cold...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rmets.org/metmatters/contrail-clouds-and-climate-change" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmets.org">[RMetS Near sunset or sunrise]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmets.org</span><span class="citation-popover-title">contrail clouds and climate change</span><span class="citation-popover-snippet">9 Feb 2023 — Contrails, or condensation trails, are the long, thin, wispy lines of cloud formed when water vapour and fine soot particles...</span></span></span>, the contrast can become dramatic. The aircraft itself may be silhouetted, hidden by atmospheric haze, or overwhelmed by glare from the illuminated trail. The observer's eye naturally locks onto the brightest and largest feature in the scene. What is remembered afterwards is not a small aeroplane but a glowing object with an unusual shape. <span class="citation-chip-wrap"><a class="citation-chip" href="https://contrailscience.com/contrails-dark-lines-chemtrails/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: contrailscience.com">[contrailscience.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">contrailscience.com</span><span class="citation-popover-title">There are actually three main kinds of dark line related to contrails.Read more</span><span class="citation-popover-snippet">Contrails, Dark Lines, Black Beams, &amp; “Chemtrails”These “dark lines” or “black beams” are simply various kinds of shadows...</span></span></span>
+The contrail behind it is a different matter. Contrails are line-shaped ice clouds formed when aircraft exhaust interacts with very cold, humid air. Depending on atmospheric conditions, they can extend for many kilometres and contain vast numbers of ice crystals that scatter and reflect sunlight. Because the trail occupies a much larger apparent area than the aircraft, it often becomes the dominant visible feature. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/contrails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationContrails &#124; Federal Aviation Administration21 Jul 2025 — Contrails are created when airplanes fly in cold...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rmets.org/metmatters/contrail-clouds-and-climate-change" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmets.org">[RMetS Near sunset or sunrise]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmets.org</span><span class="citation-popover-title">contrail clouds and climate change</span><span class="citation-popover-snippet">9 Feb 2023 — Contrails, or condensation trails, are the long, thin, wispy lines of cloud formed when water vapour and fine soot particles...</span></span></span>, the contrast can become dramatic. The aircraft itself may be silhouetted, hidden by atmospheric haze, or overwhelmed by glare from the illuminated trail. The observer's eye naturally locks onto the brightest and largest feature in the scene. What is remembered afterwards is not a small aeroplane but a glowing object with an unusual shape. <span class="citation-chip-wrap"><a class="citation-chip" href="https://contrailscience.com/contrails-dark-lines-chemtrails/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: contrailscience.com">[contrailscience.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">contrailscience.com</span><span class="citation-popover-title">There are actually three main kinds of dark line related to contrails.Read more</span><span class="citation-popover-snippet">Contrails, Dark Lines, Black Beams, &amp; “Chemtrails”These “dark lines” or “black beams” are simply various kinds of shadows...</span></span></span>
 
 This creates a common misconception in UFO reports: if no aircraft is visible, witnesses may assume there is no aircraft present. In reality, the aircraft may simply be below the threshold of easy visual detection while the much larger ice cloud remains conspicuous.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Q7jcBGLIpus" title="Explained: New Navy UFO Videos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Q7jcBGLIpus" target="_blank" rel="noopener noreferrer">Explained: New Navy UFO Videos</a></p><p class="youtube-embed-meta">Channel: Mick West</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Q7jcBGLIpus" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Q7jcBGLIpus">Open on YouTube</a></p></div></div></div>
 
 ## Why the Plane Can Disappear Completely
 
@@ -295,7 +291,7 @@ Several factors can hide the aircraft even when the contrail remains obvious.
 
 **Distance and angular size.** A commercial jet at cruising altitude can be too small for the unaided eye to resolve clearly. The contrail, by contrast, may span several degrees of the sky.
 
-**Backlighting and glare.** Low-angle sunlight can make the surrounding sky bright while leaving the aircraft itself in shadow. The illuminated trail remains visible, but the darker aircraft becomes difficult to distinguish. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/contrails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationContrails | Federal Aviation Administration21 Jul 2025 — Contrails are created when airplanes fly in cold...</span></span></span>
+**Backlighting and glare.** Low-angle sunlight can make the surrounding sky bright while leaving the aircraft itself in shadow. The illuminated trail remains visible, but the darker aircraft becomes difficult to distinguish. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/contrails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationContrails &#124; Federal Aviation Administration21 Jul 2025 — Contrails are created when airplanes fly in cold...</span></span></span>
 
 **Atmospheric haze.** Dust, moisture and pollution scatter light and reduce contrast. Small objects disappear first, while larger bright features remain visible.
 
@@ -303,22 +299,18 @@ Several factors can hide the aircraft even when the contrail remains obvious.
 
 These effects can be strong enough that photographs of ordinary aircraft contrails are sometimes interpreted as showing self-luminous craft even though the aircraft is present within the image.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_hidden_aircraft_brig_4597c3-Illustration-2-dark.svg" | relative_url }}" alt="Hidden aircraft illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_hidden_aircraft_brig_4597c3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_hidden_aircraft_brig_4597c3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Persistence Lets Trails Remain After the Jet Moves On
 
 Another source of confusion is that the visible feature can survive long after the aircraft has moved away.
 
-Contrails do not always evaporate immediately. When upper-level air contains sufficient moisture, the ice crystals can remain stable for extended periods. Persistent contrails may continue as long white lines after the aircraft has travelled far beyond the observer's attention or even beyond visibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.globe.gov/web/s-cool/home/observation-and-reporting/contrails/the-science-of-contrails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globe.gov">[GLOBE.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globe.gov</span><span class="citation-popover-title">The Science of Contrails</span><span class="citation-popover-snippet">Clouds ProtocolThe ice particles that do form quickly return again to a vapor state. Persistent (non-spreading) contrails look like long...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/contrails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationContrails | Federal Aviation Administration21 Jul 2025 — Contrails are created when airplanes fly in cold...</span></span></span>
+Contrails do not always evaporate immediately. When upper-level air contains sufficient moisture, the ice crystals can remain stable for extended periods. Persistent contrails may continue as long white lines after the aircraft has travelled far beyond the observer's attention or even beyond visibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.globe.gov/web/s-cool/home/observation-and-reporting/contrails/the-science-of-contrails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globe.gov">[GLOBE.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globe.gov</span><span class="citation-popover-title">The Science of Contrails</span><span class="citation-popover-snippet">Clouds ProtocolThe ice particles that do form quickly return again to a vapor state. Persistent (non-spreading) contrails look like long...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/contrails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationContrails &#124; Federal Aviation Administration21 Jul 2025 — Contrails are created when airplanes fly in cold...</span></span></span>
 
 To someone who did not witness the aircraft's earlier passage, the remaining cloud can appear to have no obvious source. A bright streak suspended in the sky may seem disconnected from any conventional aircraft activity.
 
 This persistence can also distort perceptions of motion. An observer may watch a glowing feature that appears nearly stationary while assuming it is a solid object. In reality, the aircraft has already moved on and only the illuminated cloud remains. Because the trail evolves slowly, the scene can look unlike the rapidly moving aircraft that originally produced it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.globe.gov/web/s-cool/home/observation-and-reporting/contrails/the-science-of-contrails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globe.gov">[GLOBE.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globe.gov</span><span class="citation-popover-title">The Science of Contrails</span><span class="citation-popover-snippet">Clouds ProtocolThe ice particles that do form quickly return again to a vapor state. Persistent (non-spreading) contrails look like long...</span></span></span>
 
 The effect becomes especially convincing near the horizon, where perspective compresses distances and makes changes in position difficult to judge.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7YHXJsCAlUc" title="Did Aliens Land in the Backyard of This Las Vegas Home?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7YHXJsCAlUc" target="_blank" rel="noopener noreferrer">Did Aliens Land in the Backyard of This Las Vegas Home?</a></p><p class="youtube-embed-meta">Channel: Inside Edition</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7YHXJsCAlUc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7YHXJsCAlUc">Open on YouTube</a></p></div></div></div>
 
 ## Practical Signs That the Visible Feature Is a Cloud
 
@@ -332,17 +324,12 @@ When assessing reports involving glowing objects associated with contrails, seve
 
 Observers sometimes interpret these characteristics as evidence of unusual propulsion or an object changing shape. However, they are expected behaviours of high-altitude ice clouds subjected to varying winds and illumination.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_hidden_aircraft_brig_4597c3-Illustration-3-dark.svg" | relative_url }}" alt="Hidden aircraft illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_hidden_aircraft_brig_4597c3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_hidden_aircraft_brig_4597c3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why This Matters for UFO Interpretation
 
 The hidden-aircraft effect demonstrates that a witness can accurately report a strange glowing object while still reaching an incorrect conclusion about its nature. The observation itself may be genuine: a bright, elongated, luminous feature was indeed present. The error arises when the observer assumes that the visible feature must be the craft.
 
-In many contrail-related UFO reports, the most conspicuous object is not the aircraft at all. It is the sunlight reflecting from a much larger cloud of ice crystals. Once the difference between the tiny source aircraft and the expansive illuminated trail is understood, many reports of glowing rods, fiery objects, [hovering lights]({{ 'hovering-lights/' | relative_url }}) and distant cigar-shaped UFOs become easier to explain without questioning the witness's honesty or observational ability. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/contrails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationContrails | Federal Aviation Administration21 Jul 2025 — Contrails are created when airplanes fly in cold...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.globe.gov/web/s-cool/home/observation-and-reporting/contrails/the-science-of-contrails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globe.gov">[GLOBE.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globe.gov</span><span class="citation-popover-title">The Science of Contrails</span><span class="citation-popover-snippet">Clouds ProtocolThe ice particles that do form quickly return again to a vapor state. Persistent (non-spreading) contrails look like long...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6EQa9P88O6E" title="Awesome Noctilucent Cloud Timelapse! 21st/22nd June 2020" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6EQa9P88O6E" target="_blank" rel="noopener noreferrer">Awesome Noctilucent Cloud Timelapse! 21st/22nd June 2020</a></p><p class="youtube-embed-meta">Channel: Mary McIntyre FRAS</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6EQa9P88O6E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6EQa9P88O6E">Open on YouTube</a></p></div></div></div>
-
+In many contrail-related UFO reports, the most conspicuous object is not the aircraft at all. It is the sunlight reflecting from a much larger cloud of ice crystals. Once the difference between the tiny source aircraft and the expansive illuminated trail is understood, many reports of glowing rods, fiery objects, [hovering lights]({{ 'hovering-lights/' | relative_url }}) and distant cigar-shaped UFOs become easier to explain without questioning the witness's honesty or observational ability. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/contrails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationContrails &#124; Federal Aviation Administration21 Jul 2025 — Contrails are created when airplanes fly in cold...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.globe.gov/web/s-cool/home/observation-and-reporting/contrails/the-science-of-contrails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globe.gov">[GLOBE.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globe.gov</span><span class="citation-popover-title">The Science of Contrails</span><span class="citation-popover-snippet">Clouds ProtocolThe ice particles that do form quickly return again to a vapor state. Persistent (non-spreading) contrails look like long...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -461,15 +448,15 @@ In many contrail-related UFO reports, the most conspicuous object is not the air
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model+aircraft&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-aircraft-why-the-plane-vanishes-but-the-trail-glows-ifos-causes-of-airliner-model-aircraft&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model aircraft" data-ebay-reference="hidden-aircraft-why-the-plane-vanishes-but-the-trail-glows-ifos-causes-of-airliner-model-aircraft" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Diecast Model Aircraft Airliner Boeing 747B VC25A Air Force One 1:450"><img src="{{ '/assets/images/marketplace-covers/5adbcbb4aa17e0d078fd.jpg' | relative_url }}" alt="Listing image for Diecast Model Aircraft Airliner Boeing 747B VC25A Air Force One 1:450" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-plane-vanishes-but-the-trail-glows-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="why-the-plane-vanishes-but-the-trail-glows-airliner-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ARD Models 1:400 Boeing 787-8 British Airways Chatham G-ZBJK with stand ARD4BA18"><img src="https://i.ebayimg.com/images/g/EI8AAeSwl4pqKrMQ/s-l225.jpg" alt="Listing image for ARD Models 1:400 Boeing 787-8 British Airways Chatham G-ZBJK with stand ARD4BA18" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model+aircraft&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-aircraft-why-the-plane-vanishes-but-the-trail-glows-ifos-causes-of-airliner-model-aircraft&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model aircraft" data-ebay-reference="hidden-aircraft-why-the-plane-vanishes-but-the-trail-glows-ifos-causes-of-airliner-model-aircraft" target="_blank" rel="sponsored noopener noreferrer">Diecast Model Aircraft Airliner Boeing 747B VC25A Air Force One 1:450</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-plane-vanishes-but-the-trail-glows-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="why-the-plane-vanishes-but-the-trail-glows-airliner-model" target="_blank" rel="sponsored noopener noreferrer">ARD Models 1:400 Boeing 787-8 British Airways Chatham G-ZBJK with stand ARD4BA18</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model+aircraft&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-aircraft-why-the-plane-vanishes-but-the-trail-glows-ifos-causes-of-airliner-model-aircraft&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model aircraft" data-ebay-reference="hidden-aircraft-why-the-plane-vanishes-but-the-trail-glows-ifos-causes-of-airliner-model-aircraft" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airliner model aircraft">Search <span data-ebay-domain-label>eBay.co.uk</span>: airliner model aircraft</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-plane-vanishes-but-the-trail-glows-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="why-the-plane-vanishes-but-the-trail-glows-airliner-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airliner model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airliner model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model+aircraft&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-aircraft-why-the-plane-vanishes-but-the-trail-glows-ifos-causes-of-airliner-model-aircraft&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model aircraft" data-ebay-reference="hidden-aircraft-why-the-plane-vanishes-but-the-trail-glows-ifos-causes-of-airliner-model-aircraft" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-plane-vanishes-but-the-trail-glows-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="why-the-plane-vanishes-but-the-trail-glows-airliner-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -477,15 +464,15 @@ In many contrail-related UFO reports, the most conspicuous object is not the air
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model+aircraft&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-aircraft-why-the-plane-vanishes-but-the-trail-glows-ifos-causes-of-airliner-model-aircraft&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model aircraft" data-ebay-reference="hidden-aircraft-why-the-plane-vanishes-but-the-trail-glows-ifos-causes-of-airliner-model-aircraft" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Air Europe Boeing 757 Model No 9 Wooster 1989 Model Aircraft"><img src="{{ '/assets/images/marketplace-covers/df7d75b428b1f5abe578.jpg' | relative_url }}" alt="Listing image for Air Europe Boeing 757 Model No 9 Wooster 1989 Model Aircraft" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-plane-vanishes-but-the-trail-glows-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="why-the-plane-vanishes-but-the-trail-glows-airliner-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tupolev TU - 154M"><img src="https://i.ebayimg.com/images/g/ooEAAeSw2AdpicpR/s-l225.jpg" alt="Listing image for Tupolev TU - 154M" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model+aircraft&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-aircraft-why-the-plane-vanishes-but-the-trail-glows-ifos-causes-of-airliner-model-aircraft&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model aircraft" data-ebay-reference="hidden-aircraft-why-the-plane-vanishes-but-the-trail-glows-ifos-causes-of-airliner-model-aircraft" target="_blank" rel="sponsored noopener noreferrer">Air Europe Boeing 757 Model No 9 Wooster 1989 Model Aircraft</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-plane-vanishes-but-the-trail-glows-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="why-the-plane-vanishes-but-the-trail-glows-airliner-model" target="_blank" rel="sponsored noopener noreferrer">Tupolev TU - 154M</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model+aircraft&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-aircraft-why-the-plane-vanishes-but-the-trail-glows-ifos-causes-of-airliner-model-aircraft&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model aircraft" data-ebay-reference="hidden-aircraft-why-the-plane-vanishes-but-the-trail-glows-ifos-causes-of-airliner-model-aircraft" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airliner model aircraft">Search <span data-ebay-domain-label>eBay.co.uk</span>: airliner model aircraft</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-plane-vanishes-but-the-trail-glows-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="why-the-plane-vanishes-but-the-trail-glows-airliner-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airliner model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airliner model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model+aircraft&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-aircraft-why-the-plane-vanishes-but-the-trail-glows-ifos-causes-of-airliner-model-aircraft&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model aircraft" data-ebay-reference="hidden-aircraft-why-the-plane-vanishes-but-the-trail-glows-ifos-causes-of-airliner-model-aircraft" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-plane-vanishes-but-the-trail-glows-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="why-the-plane-vanishes-but-the-trail-glows-airliner-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -493,15 +480,15 @@ In many contrail-related UFO reports, the most conspicuous object is not the air
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model+aircraft&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-aircraft-why-the-plane-vanishes-but-the-trail-glows-ifos-causes-of-airliner-model-aircraft&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model aircraft" data-ebay-reference="hidden-aircraft-why-the-plane-vanishes-but-the-trail-glows-ifos-causes-of-airliner-model-aircraft" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Singapore Airlines Airbus A350 Model Aircraft Large Display Plane"><img src="{{ '/assets/images/marketplace-covers/ed63f40c947feea81f55.jpg' | relative_url }}" alt="Listing image for Singapore Airlines Airbus A350 Model Aircraft Large Display Plane" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-plane-vanishes-but-the-trail-glows-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="why-the-plane-vanishes-but-the-trail-glows-airliner-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Skymarks Flybe Dash-8 Model"><img src="https://i.ebayimg.com/images/g/AagAAeSwKhRqKeb1/s-l225.jpg" alt="Listing image for Skymarks Flybe Dash-8 Model" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model+aircraft&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-aircraft-why-the-plane-vanishes-but-the-trail-glows-ifos-causes-of-airliner-model-aircraft&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model aircraft" data-ebay-reference="hidden-aircraft-why-the-plane-vanishes-but-the-trail-glows-ifos-causes-of-airliner-model-aircraft" target="_blank" rel="sponsored noopener noreferrer">Singapore Airlines Airbus A350 Model Aircraft Large Display Plane</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-plane-vanishes-but-the-trail-glows-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="why-the-plane-vanishes-but-the-trail-glows-airliner-model" target="_blank" rel="sponsored noopener noreferrer">Skymarks Flybe Dash-8 Model</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model+aircraft&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-aircraft-why-the-plane-vanishes-but-the-trail-glows-ifos-causes-of-airliner-model-aircraft&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model aircraft" data-ebay-reference="hidden-aircraft-why-the-plane-vanishes-but-the-trail-glows-ifos-causes-of-airliner-model-aircraft" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airliner model aircraft">Search <span data-ebay-domain-label>eBay.co.uk</span>: airliner model aircraft</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-plane-vanishes-but-the-trail-glows-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="why-the-plane-vanishes-but-the-trail-glows-airliner-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airliner model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airliner model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model+aircraft&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-aircraft-why-the-plane-vanishes-but-the-trail-glows-ifos-causes-of-airliner-model-aircraft&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model aircraft" data-ebay-reference="hidden-aircraft-why-the-plane-vanishes-but-the-trail-glows-ifos-causes-of-airliner-model-aircraft" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-plane-vanishes-but-the-trail-glows-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="why-the-plane-vanishes-but-the-trail-glows-airliner-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -509,15 +496,15 @@ In many contrail-related UFO reports, the most conspicuous object is not the air
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model+aircraft&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-aircraft-why-the-plane-vanishes-but-the-trail-glows-ifos-causes-of-airliner-model-aircraft&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model aircraft" data-ebay-reference="hidden-aircraft-why-the-plane-vanishes-but-the-trail-glows-ifos-causes-of-airliner-model-aircraft" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MyTravel 3x snap fit aircraft models - Sale Finishing 23.55 Sunday 7 June"><img src="{{ '/assets/images/marketplace-covers/9bc1303e67474cd50300.jpg' | relative_url }}" alt="Listing image for MyTravel 3x snap fit aircraft models - Sale Finishing 23.55 Sunday 7 June" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-plane-vanishes-but-the-trail-glows-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="why-the-plane-vanishes-but-the-trail-glows-airliner-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aer Lingus Airbus A330-300 Diecast Model 1:400 Gemini Jets GJEIN1853 - FREEPOST"><img src="https://i.ebayimg.com/images/g/8oYAAeSwK9lqKq5G/s-l225.jpg" alt="Listing image for Aer Lingus Airbus A330-300 Diecast Model 1:400 Gemini Jets GJEIN1853 - FREEPOST" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model+aircraft&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-aircraft-why-the-plane-vanishes-but-the-trail-glows-ifos-causes-of-airliner-model-aircraft&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model aircraft" data-ebay-reference="hidden-aircraft-why-the-plane-vanishes-but-the-trail-glows-ifos-causes-of-airliner-model-aircraft" target="_blank" rel="sponsored noopener noreferrer">MyTravel 3x snap fit aircraft models - Sale Finishing 23.55 Sunday 7 June</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-plane-vanishes-but-the-trail-glows-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="why-the-plane-vanishes-but-the-trail-glows-airliner-model" target="_blank" rel="sponsored noopener noreferrer">Aer Lingus Airbus A330-300 Diecast Model 1:400 Gemini Jets GJEIN1853 - FREEPOST</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model+aircraft&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-aircraft-why-the-plane-vanishes-but-the-trail-glows-ifos-causes-of-airliner-model-aircraft&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model aircraft" data-ebay-reference="hidden-aircraft-why-the-plane-vanishes-but-the-trail-glows-ifos-causes-of-airliner-model-aircraft" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airliner model aircraft">Search <span data-ebay-domain-label>eBay.co.uk</span>: airliner model aircraft</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-plane-vanishes-but-the-trail-glows-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="why-the-plane-vanishes-but-the-trail-glows-airliner-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airliner model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airliner model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model+aircraft&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-aircraft-why-the-plane-vanishes-but-the-trail-glows-ifos-causes-of-airliner-model-aircraft&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model aircraft" data-ebay-reference="hidden-aircraft-why-the-plane-vanishes-but-the-trail-glows-ifos-causes-of-airliner-model-aircraft" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-plane-vanishes-but-the-trail-glows-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="why-the-plane-vanishes-but-the-trail-glows-airliner-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -525,7 +512,7 @@ In many contrail-related UFO reports, the most conspicuous object is not the air
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model+aircraft&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-aircraft-why-the-plane-vanishes-but-the-trail-glows-ifos-causes-of-airliner-model-aircraft&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model aircraft" data-ebay-reference="hidden-aircraft-why-the-plane-vanishes-but-the-trail-glows-ifos-causes-of-airliner-model-aircraft" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-plane-vanishes-but-the-trail-glows-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="why-the-plane-vanishes-but-the-trail-glows-airliner-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -741,85 +728,85 @@ In many contrail-related UFO reports, the most conspicuous object is not the air
 1. <a id="endnote-1"></a>
    Source: globe.gov  
    Title: The Science of Contrails  
-   Link: [https://www.globe.gov/web/s-cool/home/observation-and-reporting/contrails/the-science-of-contrails](https://www.globe.gov/web/s-cool/home/observation-and-reporting/contrails/the-science-of-contrails)  
+   Link: <a href="https://www.globe.gov/web/s-cool/home/observation-and-reporting/contrails/the-science-of-contrails" target="_blank" rel="noopener noreferrer nofollow">https://www.globe.gov/web/s-cool/home/observation-and-reporting/contrails/the-science-of-contrails</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Clouds ProtocolThe ice particles that do form quickly return again to a vapor state. Persistent (non-spreading) contrails look like long...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: rmets.org  
    Title: contrail clouds and climate change  
-   Link: [https://www.rmets.org/metmatters/contrail-clouds-and-climate-change](https://www.rmets.org/metmatters/contrail-clouds-and-climate-change)  
+   Link: <a href="https://www.rmets.org/metmatters/contrail-clouds-and-climate-change" target="_blank" rel="noopener noreferrer nofollow">https://www.rmets.org/metmatters/contrail-clouds-and-climate-change</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>9 Feb 2023 — Contrails, or condensation trails, are the long, thin, wispy lines of cloud formed when water vapour and fine soot particles...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: contrailscience.com  
    Title: There are actually three main kinds of dark line related to contrails.Read more  
-   Link: [https://contrailscience.com/contrails-dark-lines-chemtrails/](https://contrailscience.com/contrails-dark-lines-chemtrails/)  
+   Link: <a href="https://contrailscience.com/contrails-dark-lines-chemtrails/" target="_blank" rel="noopener noreferrer nofollow">https://contrailscience.com/contrails-dark-lines-chemtrails/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Contrails, Dark Lines, Black Beams, &amp; “Chemtrails”These “dark lines” or “black beams” are simply various kinds of shadows...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/contrails](https://www.faa.gov/contrails)  
+   Link: <a href="https://www.faa.gov/contrails" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/contrails</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationContrails | Federal Aviation Administration21 Jul 2025 — Contrails are created when airplanes fly in cold...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: epa.gov  
-   Link: [https://www.epa.gov/regulations-emissions-vehicles-and-engines/Contrails](https://www.epa.gov/regulations-emissions-vehicles-and-engines/Contrails)  
+   Link: <a href="https://www.epa.gov/regulations-emissions-vehicles-and-engines/Contrails" target="_blank" rel="noopener noreferrer nofollow">https://www.epa.gov/regulations-emissions-vehicles-and-engines/Contrails</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Information on Contrails from Aircraft22 Jul 2025 — Research on the environmental impacts of contrails; What are “chemtrails”? What is in...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Contrail](https://en.wikipedia.org/wiki/Contrail)  
+   Link: <a href="https://en.wikipedia.org/wiki/Contrail" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Contrail</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ContrailContrails or vapour trails are line-shaped clouds produced by aircraft engine exhaust or changes in air pressure, typically at...</p></details>
 
 ### Additional References
 
 7. <a id="endnote-7"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/](https://www.nasa.gov/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASANational Aeronautics and Space Administration. NASA explores the unknown in air and space, innovates for the benefit of humanity, and...</p></details>
+   Link: <a href="https://www.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Aeronautics and Space Administration. NASA explores the unknown in air and space, innovates for the benefit of humanity, and...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...Blue Book UFO investigation, prepared analyses of UFO data for AF, liaison officer between Da...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: northropgrumman.com  
-   Link: [https://www.northropgrumman.com/life-at-northrop-grumman/clearing-the-skies](https://www.northropgrumman.com/life-at-northrop-grumman/clearing-the-skies)  
+   Link: <a href="https://www.northropgrumman.com/life-at-northrop-grumman/clearing-the-skies" target="_blank" rel="noopener noreferrer nofollow">https://www.northropgrumman.com/life-at-northrop-grumman/clearing-the-skies</a>  
 
 10. <a id="endnote-10"></a>
    Source: usgs.gov  
-   Link: [https://www.usgs.gov/media/images/airplane-contrails-are-actually-human-made-clouds](https://www.usgs.gov/media/images/airplane-contrails-are-actually-human-made-clouds)  
+   Link: <a href="https://www.usgs.gov/media/images/airplane-contrails-are-actually-human-made-clouds" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/media/images/airplane-contrails-are-actually-human-made-clouds</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Airplane contrails are actually human-made clouds.Condensation: &quot;Contrails&quot; made by a high-flying airplanes, over Lake Jackson, Florida, USA...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
    Title: National Aeronautics and Space Administration (@NASA)NASA  
-   Link: [https://www.facebook.com/NASA/](https://www.facebook.com/NASA/)  
+   Link: <a href="https://www.facebook.com/NASA/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NASA/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National Aeronautics and Space Administration. 28640727 likes · 80732 talking about this. Explore the universe and discover our home planet...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: pbs.org  
-   Link: [https://www.pbs.org/wgbh/nova/sun/contrail.html](https://www.pbs.org/wgbh/nova/sun/contrail.html)  
+   Link: <a href="https://www.pbs.org/wgbh/nova/sun/contrail.html" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/wgbh/nova/sun/contrail.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NOVA | Dimming the Sun | The Contrail EffectAre vapor trails from aircraft influencing the climate, and if so, should we worry?...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: lot.com  
-   Link: [https://www.lot.com/us/en/explore/inspirations/aviation-trivia/what-is-a-contrail](https://www.lot.com/us/en/explore/inspirations/aviation-trivia/what-is-a-contrail)  
+   Link: <a href="https://www.lot.com/us/en/explore/inspirations/aviation-trivia/what-is-a-contrail" target="_blank" rel="noopener noreferrer nofollow">https://www.lot.com/us/en/explore/inspirations/aviation-trivia/what-is-a-contrail</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What is the white contrail behind an aircraft?The long, white streaks visible in the sky are aircraft contrails—an everyday and natural p...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/airplanes/comments/1szjds4/my_wife_took_this_photo_today_we_have_never_seen/](https://www.reddit.com/r/airplanes/comments/1szjds4/my_wife_took_this_photo_today_we_have_never_seen/)  
+   Link: <a href="https://www.reddit.com/r/airplanes/comments/1szjds4/my_wife_took_this_photo_today_we_have_never_seen/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/airplanes/comments/1szjds4/my_wife_took_this_photo_today_we_have_never_seen/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>shadow is behind the jet and under the contrail. You...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: earthscience.stackexchange.com  
    Title: A contrail was visible in the air,  
-   Link: [https://earthscience.stackexchange.com/questions/24127/explanation-for-contrail-with-a-dark-line](https://earthscience.stackexchange.com/questions/24127/explanation-for-contrail-with-a-dark-line)  
+   Link: <a href="https://earthscience.stackexchange.com/questions/24127/explanation-for-contrail-with-a-dark-line" target="_blank" rel="noopener noreferrer nofollow">https://earthscience.stackexchange.com/questions/24127/explanation-for-contrail-with-a-dark-line</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>for contrail with a dark line5 Aug 2022 — I have recently taken a picture while on a walk, which is showing a phenomenon I cannot really...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/supercarblondie/posts/it-completely-mirrors-the-planes-contrails-but-theres-an-explanation-for-it/1725962358891232/](https://www.facebook.com/supercarblondie/posts/it-completely-mirrors-the-planes-contrails-but-theres-an-explanation-for-it/1725962358891232/)  
+   Link: <a href="https://www.facebook.com/supercarblondie/posts/it-completely-mirrors-the-planes-contrails-but-theres-an-explanation-for-it/1725962358891232/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/supercarblondie/posts/it-completely-mirrors-the-planes-contrails-but-theres-an-explanation-for-it/1725962358891232/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>cks sunlight and casts a dark shadow beneath it...</p></details>

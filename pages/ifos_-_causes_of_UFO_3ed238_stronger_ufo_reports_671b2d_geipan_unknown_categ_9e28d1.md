@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_nimitz_tic_tac_evide_a02edb
 - ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_time_direction_ufo_r_74a6dc
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - strong-cases
 - geipan
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - strong-cases
 - geipan
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: GEIPAN's split between missing-data cases and investigated unknowns offers a clearer way to avoid treating every unexplained UFO report as equal.
 hero_summary: GEIPAN's split between missing-data cases and investigated unknowns offers a clearer way to avoid treating every unexplained UFO report as equal.
 layout: default
 permalink: /geipan/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /strong-cases/
 nav_short_title: GEIPAN
 title: Not All Unidentified UFO Cases Are Equal
-title_full: Not All Unidentified UFO Cases Are Equal | Strong Cases
+title_full: Not All Unidentified UFO Cases Are Equal
 display_title_short: GEIPAN
 display_title: GEIPAN
 heading_title: Not All Unidentified UFO Cases Are Equal
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What Makes a UFO Report Harder to Explain | IFOs
+parent_title: What Makes a UFO Report Harder to Explain
 parent_permalink: /strong-cases/
 parent_nav_short_title: Strong Cases
 parent_heading_title: What Makes a UFO Report Harder to Explain
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d
-  title: Strong Cases | Ifos Causes Of
+  title: Strong Cases | ifos causes of UFO 3 ed 238
   permalink: /strong-cases/
   short_title: Strong Cases
   heading_title: What Makes a UFO Report Harder to Explain
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d
-  title: Strong Cases | Ifos Causes Of
+  title: Strong Cases | ifos causes of UFO 3 ed 238
   permalink: /strong-cases/
   short_title: Strong Cases
   heading_title: What Makes a UFO Report Harder to Explain
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: The Details That Make UFO Reports Testable
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d
-  title: Strong Cases | Ifos Causes Of
+  title: Strong Cases | ifos causes of UFO 3 ed 238
   permalink: /strong-cases/
   short_title: Strong Cases
   heading_title: What Makes a UFO Report Harder to Explain
@@ -259,7 +259,7 @@ next_link:
   permalink: /lakenheath/
   short_title: Lakenheath
   heading_title: The Radar Visual Case That Would Not Settle
-date: '2026-06-07 06:42:30 '
+date: '2026-06-12 00:52:51 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_geipan_unknown_categ_9e28d1-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_geipan_unknown_categ_9e28d1-Illustration-1.webp
@@ -270,7 +270,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_ge
 
 One of the most useful features of the French UFO investigation programme GEIPAN is that it does not treat every unexplained report as equally mysterious. Within its classification system, a sighting can remain unidentified for two very different reasons: because there is not enough information to investigate it properly, or because investigators examined the available evidence and still could not reach a conventional explanation. This distinction is captured by GEIPAN’s Category C and Category D classifications. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.geipan.fr/en/faq-page" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">igation. · Classification C...</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_geipan_unknown_categ_9e28d1-Illustration-1-dark.svg" | relative_url }}" alt="GEIPAN illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_geipan_unknown_categ_9e28d1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_geipan_unknown_categ_9e28d1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For readers trying to understand stronger UFO cases after ordinary identified flying objects (IFOs) have been screened out, the difference matters enormously. A report that lacks basic information is not in the same evidential category as a report supported by detailed testimony, corroborating data and a completed investigation. GEIPAN’s approach offers a practical governance model for separating weak unknowns from stronger unknowns without assuming that either category proves anything extraordinary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.geipan.fr/en/faq-page" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">igation. · Classification C...</span></span></span>
 
@@ -280,17 +279,18 @@ A common problem in UFO archives is that “unidentified” can become a catch-a
 
 GEIPAN explicitly avoids this problem. Its published classification system defines:
 
-* **Category C**: a phenomenon not identified because of [insufficient data]({{ 'missing-data/' | relative_url }}) or information.
+<div class="content-enhancement content-enhancement--metric" markdown="1">
+
+* **Category C**: a phenomenon not identified because of insufficient data or information.
 * **Category D**: a phenomenon not identified after investigation. Geipan <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cnes-geipan.fr/en/node/58787" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">GeipanClassificationClassification C: Phenomenon not identified due to lack of data or information. Classification D: Phenomenon not iden...</span></span></span>
+
+</div>
 
 This distinction recognises a basic investigative principle: an inability to reach a conclusion is not always evidence of a genuine mystery. Sometimes the obstacle is simply missing information.
 
 For example, a witness might report a strange object but provide no precise time, direction, duration, photographs, weather information or independent witnesses. Investigators may be unable to compare the sighting with aircraft movements, astronomical objects, [satellites]({{ 'satellites/' | relative_url }}) or atmospheric phenomena. Such a case may remain unresolved, but the unresolved status tells us little about the phenomenon itself. GEIPAN places these reports in Category C because the evidential foundation is too weak to support meaningful conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.geipan.fr/en/faq-page" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">igation. · Classification C...</span></span></span>
 
 The distinction helps prevent a statistical illusion. If every unresolved report were counted as equally significant, large numbers of poorly documented sightings could create the impression of a substantial unexplained phenomenon when many cases simply lack enough information for analysis.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fRi1VB_CXbI" title="When States Can’t Classify the Sky: Tracking the Global UAP Archive" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fRi1VB_CXbI" target="_blank" rel="noopener noreferrer">When States Can’t Classify the Sky: Tracking the Global UAP Archive</a></p><p class="youtube-embed-meta">Channel: UFO to UAP: The Evolution of the Unexplained</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fRi1VB_CXbI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fRi1VB_CXbI">Open on YouTube</a></p></div></div></div>
 
 ## How Category C Differs from Category D
 
@@ -301,7 +301,6 @@ The practical difference between Categories C and D is not whether a case has an
 Category C cases are essentially evidential dead ends. Investigators cannot confidently identify the phenomenon, but neither can they properly test competing explanations.
 
 Typical reasons include:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -315,7 +314,6 @@ Typical reasons include:
 </div>
 
 A Category C classification therefore says more about the quality of the report than about the object or event being reported.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_geipan_unknown_categ_9e28d1-Illustration-2-dark.svg" | relative_url }}" alt="GEIPAN illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_geipan_unknown_categ_9e28d1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_geipan_unknown_categ_9e28d1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Category D: Unidentified After Investigation
@@ -336,9 +334,7 @@ This means that the majority of unresolved reports in the archive are not strong
 
 For anyone assessing UFO evidence, this is a critical point. Simply citing the percentage of “unidentified” reports can be misleading if Category C and Category D are merged together. GEIPAN's system keeps them separate and thereby provides a more informative picture of the evidential landscape. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.geipan.fr/en/faq-page" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">igation. · Classification C...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HoIaVvU-VUE" title="Scientist explains unidentified aerial phenomena | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HoIaVvU-VUE" target="_blank" rel="noopener noreferrer">Scientist explains unidentified aerial phenomena | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HoIaVvU-VUE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HoIaVvU-VUE">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_geipan_unknown_categ_9e28d1-Illustration-3-dark.svg" | relative_url }}" alt="GEIPAN illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_geipan_unknown_categ_9e28d1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_geipan_unknown_categ_9e28d1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Classification Can and Cannot Prove
 
 The strength of GEIPAN's framework lies in what it prevents investigators from claiming.
@@ -349,7 +345,6 @@ Likewise, a Category C case should not be interpreted as evidence against the re
 
 The classification system therefore supports a more disciplined interpretation of UFO data:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **Category C** means uncertainty caused by inadequate information.
@@ -359,17 +354,11 @@ The classification system therefore supports a more disciplined interpretation o
 
 </div>
 
-
-<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_geipan_unknown_categ_9e28d1-Illustration-3-dark.svg" | relative_url }}" alt="GEIPAN illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_geipan_unknown_categ_9e28d1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_geipan_unknown_categ_9e28d1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why GEIPAN's Approach Matters
 
 Many UFO databases blur the line between weak reports and strong reports. GEIPAN's classification system provides a cleaner alternative by recognising that not all unknowns are equal.
 
-For the study of [stronger UFO reports]({{ 'strong-cases/' | relative_url }}) after IFO screening, the key contribution is methodological rather than sensational. Category C reminds investigators that missing information can create apparent mysteries. Category D identifies the smaller set of cases that remain unresolved despite having enough evidence to examine seriously. By separating these categories, GEIPAN reduces the risk of treating every unexplained sighting as equally significant and creates a clearer framework for judging the evidential weight of UFO reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.geipan.fr/en/faq-page" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">igation. · Classification C...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.geipan.fr/en/faq-page" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">igation. · Classification C...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QC9k17Ct4D0" title="Why UAP Still Remain Unexplained — And What We Might Be Missing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QC9k17Ct4D0" target="_blank" rel="noopener noreferrer">Why UAP Still Remain Unexplained — And What We Might Be Missing</a></p><p class="youtube-embed-meta">Channel: The Idea of Reality</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QC9k17Ct4D0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QC9k17Ct4D0">Open on YouTube</a></p></div></div></div>
-
+For the study of stronger UFO reports after IFO screening, the key contribution is methodological rather than sensational. Category C reminds investigators that missing information can create apparent mysteries. Category D identifies the smaller set of cases that remain unresolved despite having enough evidence to examine seriously. By separating these categories, GEIPAN reduces the risk of treating every unexplained sighting as equally significant and creates a clearer framework for judging the evidential weight of UFO reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.geipan.fr/en/faq-page" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">igation. · Classification C...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.geipan.fr/en/faq-page" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">igation. · Classification C...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -488,15 +477,15 @@ For the study of [stronger UFO reports]({{ 'strong-cases/' | relative_url }}) af
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geipan-not-all-unidentified-ufo-cases-are-equal-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="geipan-not-all-unidentified-ufo-cases-are-equal-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-all-unidentified-ufo-cases-are-equal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="not-all-unidentified-ufo-cases-are-equal-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geipan-not-all-unidentified-ufo-cases-are-equal-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="geipan-not-all-unidentified-ufo-cases-are-equal-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-all-unidentified-ufo-cases-are-equal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="not-all-unidentified-ufo-cases-are-equal-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geipan-not-all-unidentified-ufo-cases-are-equal-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="geipan-not-all-unidentified-ufo-cases-are-equal-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-all-unidentified-ufo-cases-are-equal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="not-all-unidentified-ufo-cases-are-equal-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geipan-not-all-unidentified-ufo-cases-are-equal-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="geipan-not-all-unidentified-ufo-cases-are-equal-ifos-causes-of-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-all-unidentified-ufo-cases-are-equal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="not-all-unidentified-ufo-cases-are-equal-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -504,15 +493,15 @@ For the study of [stronger UFO reports]({{ 'strong-cases/' | relative_url }}) af
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geipan-not-all-unidentified-ufo-cases-are-equal-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="geipan-not-all-unidentified-ufo-cases-are-equal-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo"><img src="{{ '/assets/images/marketplace-covers/338af33276410882a5b1.jpg' | relative_url }}" alt="Listing image for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-all-unidentified-ufo-cases-are-equal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="not-all-unidentified-ufo-cases-are-equal-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geipan-not-all-unidentified-ufo-cases-are-equal-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="geipan-not-all-unidentified-ufo-cases-are-equal-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-all-unidentified-ufo-cases-are-equal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="not-all-unidentified-ufo-cases-are-equal-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geipan-not-all-unidentified-ufo-cases-are-equal-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="geipan-not-all-unidentified-ufo-cases-are-equal-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-all-unidentified-ufo-cases-are-equal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="not-all-unidentified-ufo-cases-are-equal-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geipan-not-all-unidentified-ufo-cases-are-equal-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="geipan-not-all-unidentified-ufo-cases-are-equal-ifos-causes-of-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-all-unidentified-ufo-cases-are-equal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="not-all-unidentified-ufo-cases-are-equal-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -520,15 +509,15 @@ For the study of [stronger UFO reports]({{ 'strong-cases/' | relative_url }}) af
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geipan-not-all-unidentified-ufo-cases-are-equal-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="geipan-not-all-unidentified-ufo-cases-are-equal-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-all-unidentified-ufo-cases-are-equal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="not-all-unidentified-ufo-cases-are-equal-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geipan-not-all-unidentified-ufo-cases-are-equal-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="geipan-not-all-unidentified-ufo-cases-are-equal-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-all-unidentified-ufo-cases-are-equal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="not-all-unidentified-ufo-cases-are-equal-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geipan-not-all-unidentified-ufo-cases-are-equal-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="geipan-not-all-unidentified-ufo-cases-are-equal-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-all-unidentified-ufo-cases-are-equal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="not-all-unidentified-ufo-cases-are-equal-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geipan-not-all-unidentified-ufo-cases-are-equal-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="geipan-not-all-unidentified-ufo-cases-are-equal-ifos-causes-of-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-all-unidentified-ufo-cases-are-equal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="not-all-unidentified-ufo-cases-are-equal-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -536,15 +525,15 @@ For the study of [stronger UFO reports]({{ 'strong-cases/' | relative_url }}) af
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geipan-not-all-unidentified-ufo-cases-are-equal-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="geipan-not-all-unidentified-ufo-cases-are-equal-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-all-unidentified-ufo-cases-are-equal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="not-all-unidentified-ufo-cases-are-equal-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geipan-not-all-unidentified-ufo-cases-are-equal-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="geipan-not-all-unidentified-ufo-cases-are-equal-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-all-unidentified-ufo-cases-are-equal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="not-all-unidentified-ufo-cases-are-equal-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geipan-not-all-unidentified-ufo-cases-are-equal-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="geipan-not-all-unidentified-ufo-cases-are-equal-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-all-unidentified-ufo-cases-are-equal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="not-all-unidentified-ufo-cases-are-equal-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geipan-not-all-unidentified-ufo-cases-are-equal-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="geipan-not-all-unidentified-ufo-cases-are-equal-ifos-causes-of-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-all-unidentified-ufo-cases-are-equal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="not-all-unidentified-ufo-cases-are-equal-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -552,7 +541,7 @@ For the study of [stronger UFO reports]({{ 'strong-cases/' | relative_url }}) af
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geipan-not-all-unidentified-ufo-cases-are-equal-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="geipan-not-all-unidentified-ufo-cases-are-equal-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-all-unidentified-ufo-cases-are-equal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="not-all-unidentified-ufo-cases-are-equal-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -767,118 +756,118 @@ For the study of [stronger UFO reports]({{ 'strong-cases/' | relative_url }}) af
 
 1. <a id="endnote-1"></a>
    Source: cnes-geipan.fr  
-   Link: [https://www.cnes-geipan.fr/en/node/58787](https://www.cnes-geipan.fr/en/node/58787)  
+   Link: <a href="https://www.cnes-geipan.fr/en/node/58787" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58787</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>GeipanClassificationClassification C: Phenomenon not identified due to lack of data or information. Classification D: Phenomenon not iden...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: cnes-geipan.fr  
-   Link: [https://www.cnes-geipan.fr/en/missions-methodes-et-resultats](https://www.cnes-geipan.fr/en/missions-methodes-et-resultats)  
+   Link: <a href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/missions-methodes-et-resultats</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mission &amp; Geipan | GEIPANClassification C: Phenomenon not identified due to lack of data or information. Classification D: Phenomenon not...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: cnes-geipan.fr  
-   Link: [https://www.cnes-geipan.fr/en/node/58788](https://www.cnes-geipan.fr/en/node/58788)  
+   Link: <a href="https://www.cnes-geipan.fr/en/node/58788" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58788</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>GeipanMethodology1. Collecting the testimony · 2. Creating the Record · 3. First analysis · 4. Investigation and Processing · 5. Classifi...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: cnes-geipan.fr  
-   Link: [https://www.cnes-geipan.fr/en/node/412](https://www.cnes-geipan.fr/en/node/412)  
+   Link: <a href="https://www.cnes-geipan.fr/en/node/412" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/412</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>· Classification B: Phenomenon probably identified after investigation. · Classification C:...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: cnes-geipan.fr  
-   Link: [https://www.cnes-geipan.fr/en/faq-page](https://www.cnes-geipan.fr/en/faq-page)  
+   Link: <a href="https://www.cnes-geipan.fr/en/faq-page" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/faq-page</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>FAQClassification A: Phenomenon perfectly identified after investigation. · Classification B: Phenomenon probably identified after invest...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: geipan.fr  
-   Link: [https://www.geipan.fr/en/faq-page](https://www.geipan.fr/en/faq-page)  
+   Link: <a href="https://www.geipan.fr/en/faq-page" target="_blank" rel="noopener noreferrer nofollow">https://www.geipan.fr/en/faq-page</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>igation. · Classification C...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: cnes-geipan.fr  
    Title: Geipan Statistics Probably identified phenomenon  
-   Link: [https://www.cnes-geipan.fr/en/stats](https://www.cnes-geipan.fr/en/stats)  
+   Link: <a href="https://www.cnes-geipan.fr/en/stats" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/stats</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>GeipanStatisticsProbably identified phenomenon - (1285 Cas B). 3.2%. Unidentified phenomenon (after investigation) - (106 Cas D). 30.3%...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: cnes-geipan.fr  
-   Link: [https://www.cnes-geipan.fr/en/node/58792](https://www.cnes-geipan.fr/en/node/58792)  
+   Link: <a href="https://www.cnes-geipan.fr/en/node/58792" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58792</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mission &amp; Geipan | GEIPANClassification C: Phenomenon not identified due to lack of data or information. Classification D: Phenomenon not...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: cnes.fr  
-   Link: [https://cnes.fr/en/projects/geipan](https://cnes.fr/en/projects/geipan)  
+   Link: <a href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow">https://cnes.fr/en/projects/geipan</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>7 Jul 2025 — GEIPAN, the French UAP research and information group created by CNES in 1977, collects, analyses and archives information o...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/GEIPAN](https://en.wikipedia.org/wiki/GEIPAN)  
+   Link: <a href="https://en.wikipedia.org/wiki/GEIPAN" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/GEIPAN</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>GEIPANGEIPAN (an acronym in French for Groupe d&#x27;Études et d&#x27;Informations sur les Phénomènes Aérospatiaux Non-identifiés, or Unidentif...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: uapedia.ai  
-   Link: [https://uapedia.ai/wiki/geipan-frances-official-uap-unit/](https://uapedia.ai/wiki/geipan-frances-official-uap-unit/)  
+   Link: <a href="https://uapedia.ai/wiki/geipan-frances-official-uap-unit/" target="_blank" rel="noopener noreferrer nofollow">https://uapedia.ai/wiki/geipan-frances-official-uap-unit/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>GEIPAN: France&#x27;s Official UAP UnitGEIPAN estimates ~3–3.4% of sightings remain unexplained after investigation, with a drop toward ~2% ov...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/99067452/GEIPAN_classification_with_text_mining_and_machine_learning](https://www.academia.edu/99067452/GEIPAN_classification_with_text_mining_and_machine_learning)  
+   Link: <a href="https://www.academia.edu/99067452/GEIPAN_classification_with_text_mining_and_machine_learning" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/99067452/GEIPAN_classification_with_text_mining_and_machine_learning</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Random Forest consistently outperforms other algorithms...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/369507030_GEIPAN_classification_with_text_mining_and_machine_learning](https://www.researchgate.net/publication/369507030_GEIPAN_classification_with_text_mining_and_machine_learning)  
+   Link: <a href="https://www.researchgate.net/publication/369507030_GEIPAN_classification_with_text_mining_and_machine_learning" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/369507030_GEIPAN_classification_with_text_mining_and_machine_learning</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>GEIPAN classification with text mining and machine learningText mining and machine learning, parts of big data analysis, could effectivel...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: strangemag.com  
-   Link: [https://www.strangemag.com/recentadditions/onlinefrenchufoarchive.html](https://www.strangemag.com/recentadditions/onlinefrenchufoarchive.html)  
+   Link: <a href="https://www.strangemag.com/recentadditions/onlinefrenchufoarchive.html" target="_blank" rel="noopener noreferrer nofollow">https://www.strangemag.com/recentadditions/onlinefrenchufoarchive.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Online French UFO ArchiveThe collation of the sightings and field investigations was the longtime work of the CNES&#x27;s UFO unit GEIPAN (lat...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: ised-isde.canada.ca  
-   Link: [https://ised-isde.canada.ca/site/science/sites/default/files/documents/Sky-Canada-Preview-January-2025.pdf](https://ised-isde.canada.ca/site/science/sites/default/files/documents/Sky-Canada-Preview-January-2025.pdf)  
+   Link: <a href="https://ised-isde.canada.ca/site/science/sites/default/files/documents/Sky-Canada-Preview-January-2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/sites/default/files/documents/Sky-Canada-Preview-January-2025.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of Public Reporting of Unidentified Aerial...Accordingly, this report focuses on the services available to the Canadian public for repor...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: scholarlypublications.universiteitleiden.nl  
-   Link: [https://scholarlypublications.universiteitleiden.nl/access/item%3A3674562/download](https://scholarlypublications.universiteitleiden.nl/access/item%3A3674562/download)  
+   Link: <a href="https://scholarlypublications.universiteitleiden.nl/access/item%3A3674562/download" target="_blank" rel="noopener noreferrer nofollow">https://scholarlypublications.universiteitleiden.nl/access/item%3A3674562/download</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Use of Multiple Imputation and Dealing with Missing...by SE Saffari · Cited by 14 — Once the missing values are imputed, multiple impute...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony](https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony)  
+   Link: <a href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony</a>  
 
 18. <a id="endnote-18"></a>
    Source: thedebrief.org  
-   Link: [https://thedebrief.org/the-new-director-of-geipan-frances-official-uap-investigative-office-discusses-science-and-the-study-of-aerial-mysteries/](https://thedebrief.org/the-new-director-of-geipan-frances-official-uap-investigative-office-discusses-science-and-the-study-of-aerial-mysteries/)  
+   Link: <a href="https://thedebrief.org/the-new-director-of-geipan-frances-official-uap-investigative-office-discusses-science-and-the-study-of-aerial-mysteries/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/the-new-director-of-geipan-frances-official-uap-investigative-office-discusses-science-and-the-study-of-aerial-mysteries/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>D: Unidentified Phenomenon after investigation (3.3%). The following is a transcript of The Debrief&#x27;s interview with Courtade, conducted...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: research.mental-momentum.ai  
    Title: Category D: Unidentified after a full, exhaustive investigation 43. Category D  
-   Link: [https://research.mental-momentum.ai/r/what-official-ufo-uap-investigations-say-ey55om](https://research.mental-momentum.ai/r/what-official-ufo-uap-investigations-say-ey55om)  
+   Link: <a href="https://research.mental-momentum.ai/r/what-official-ufo-uap-investigations-say-ey55om" target="_blank" rel="noopener noreferrer nofollow">https://research.mental-momentum.ai/r/what-official-ufo-uap-investigations-say-ey55om</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Official UFO and UAP Investigations Say Today5 days ago — Category C: Unidentified due to a lack of actionable data 43...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/359217358_The_Impact_of_Physical_Sciences_on_the_Study_of_Unidentified_Aerial_Phenomena_UAP_in_Extraterrestrial_Intelligence_-_Academic_and_Societal_Implications_Cambridge_Scholars_Publishing_pp_124-141](https://www.researchgate.net/publication/359217358_The_Impact_of_Physical_Sciences_on_the_Study_of_Unidentified_Aerial_Phenomena_UAP_in_Extraterrestrial_Intelligence_-_Academic_and_Societal_Implications_Cambridge_Scholars_Publishing_pp_124-141)  
+   Link: <a href="https://www.researchgate.net/publication/359217358_The_Impact_of_Physical_Sciences_on_the_Study_of_Unidentified_Aerial_Phenomena_UAP_in_Extraterrestrial_Intelligence_-_Academic_and_Societal_Implications_Cambridge_Scholars_Publishing_pp_124-141" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/359217358_The_Impact_of_Physical_Sciences_on_the_Study_of_Unidentified_Aerial_Phenomena_UAP_in_Extraterrestrial_Intelligence_-_Academic_and_Societal_Implications_Cambridge_Scholars_Publishing_pp_124-141</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>, in: &quot;Extraterrestrial Intelligence - Academic and Societal Implications&quot;Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories](https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories)  
+   Link: <a href="https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>mena (UAP) using an integrated software and instrumentation system for...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/the-outsiders-guide-to-ufos-volume-1-mystery-and-science-1480854573-9781480854574.html](https://dokumen.pub/the-outsiders-guide-to-ufos-volume-1-mystery-and-science-1480854573-9781480854574.html)  
+   Link: <a href="https://dokumen.pub/the-outsiders-guide-to-ufos-volume-1-mystery-and-science-1480854573-9781480854574.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/the-outsiders-guide-to-ufos-volume-1-mystery-and-science-1480854573-9781480854574.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and D2 into “unexplained” (2016 figures from GEIPAN website) There is...Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/nxkne3/france_ufo_situation_classification_and_list_of/](https://www.reddit.com/r/UFOs/comments/nxkne3/france_ufo_situation_classification_and_list_of/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/nxkne3/france_ufo_situation_classification_and_list_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/nxkne3/france_ufo_situation_classification_and_list_of/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>France: UFO situation, classification and list of sightings.11 Jun 2021 — Hello, I wanted to give r/UFOs a heads-up on the UFO situation...</p></details>

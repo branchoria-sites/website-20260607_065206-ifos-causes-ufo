@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_smartphone_uap_crowd_856d40
 - ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_standard_civilian_ua_e295b0
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - nasa-study
 - baseline-library
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - nasa-study
 - baseline-library
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: A baseline library of normal balloons, birds, satellites, glints, and drones helps investigators see when a report is unusual and when it only looks unusual.
 hero_summary: A baseline library of normal balloons, birds, satellites, glints, and drones helps investigators see when a report is unusual and when it only looks unusual.
 layout: default
 permalink: /baseline-library/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /nasa-study/
 nav_short_title: Baseline library
 title: What normal skies look like to UAP sensors
-title_full: What normal skies look like to UAP sensors | NASA Study
+title_full: What normal skies look like to UAP sensors
 display_title_short: Baseline library
 display_title: Baseline library
 heading_title: What normal skies look like to UAP sensors
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 23:06:23'
-parent_title: Why Better UFO Data Matters | IFOs
+parent_title: Why Better UFO Data Matters
 parent_permalink: /nasa-study/
 parent_nav_short_title: NASA Study
 parent_heading_title: Why Better UFO Data Matters
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183
-  title: NASA Study | Ifos Causes Of
+  title: NASA Study | ifos causes of UFO 3 ed 238
   permalink: /nasa-study/
   short_title: NASA Study
   heading_title: Why Better UFO Data Matters
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183
-  title: NASA Study | Ifos Causes Of
+  title: NASA Study | ifos causes of UFO 3 ed 238
   permalink: /nasa-study/
   short_title: NASA Study
   heading_title: Why Better UFO Data Matters
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: When the UFO is inside the camera
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183
-  title: NASA Study | Ifos Causes Of
+  title: NASA Study | ifos causes of UFO 3 ed 238
   permalink: /nasa-study/
   short_title: NASA Study
   heading_title: Why Better UFO Data Matters
@@ -260,6 +259,7 @@ next_link:
   permalink: /civilian-reports/
   short_title: Civilian reports
   heading_title: What makes a UFO report useful?
+date: '2026-06-12 00:22:28 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_uap_baseline_librari_a298b8-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_uap_baseline_librari_a298b8-Illustration-1.webp
@@ -270,7 +270,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_uap_basel
 
 A central lesson of NASA’s UAP study is that anomaly detection only works when investigators already know what “normal” looks like. An object cannot be judged unusual simply because it appears strange in a photograph, [infrared]({{ 'infrared/' | relative_url }}) image, [radar]({{ 'radar/' | relative_url }}) return, or eyewitness account. The critical comparison is whether it behaves differently from the large population of ordinary objects that regularly appear in the same sensors under similar conditions. NASA identified the lack of high-quality baseline data as a major obstacle to understanding UAP reports, arguing that better catalogues of ordinary phenomena are essential for separating genuine anomalies from routine misidentifications. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportUnidentified Anomalous Phenomena (UAP) are one of our planet&#x27;s greatest mysteries. Observations...</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_uap_baseline_librari_a298b8-Illustration-1-dark.svg" | relative_url }}" alt="Baseline library illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_uap_baseline_librari_a298b8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_uap_baseline_librari_a298b8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within the broader effort to explain UFO reports as identified flying objects (IFOs), a baseline library is therefore not a side project. It is the reference collection against which every new sighting is measured. Balloons, [satellites]({{ 'satellites/' | relative_url }}), birds, drones, aircraft, atmospheric effects and [sensor artefacts]({{ 'sensor-artefacts/' | relative_url }}) must first be documented in detail before investigators can reliably determine whether a report is truly unusual. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportUnidentified Anomalous Phenomena (UAP) are one of our planet&#x27;s greatest mysteries. Observations...</span></span></span>
 
@@ -280,10 +279,9 @@ In many fields of science, anomalies are found by comparing new observations aga
 
 NASA's independent study team repeatedly stressed the need for curated, standardised datasets and better characterisation of ordinary aerial phenomena. Without those reference datasets, investigators can mistake sensor limitations, viewing geometry, or common airborne objects for something extraordinary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportUnidentified Anomalous Phenomena (UAP) are one of our planet&#x27;s greatest mysteries. Observations...</span></span></span>
 
-The importance of this approach is visible in recent government findings. The US All-domain Anomaly Resolution Office (AARO), which reviews military and government reports, has resolved hundreds of cases as ordinary objects. Its published statistics show that balloons account for the largest category of closed cases, followed by satellites, [drones]({{ 'drones/' | relative_url }}), aircraft and birds. These are precisely the types of objects that should populate a baseline library because they repeatedly generate reports that initially appear unidentified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/UAP-Reporting-Trends/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROUAP Reporting TrendsClosed Cases Resolution Outcomes. Bird(s): 28 (2.9%). Satellite(s): 314 (32.1%). Balloon(s): 510 (52.1%). UAS: 76...</span></span></span>
+The importance of this approach is visible in recent government findings. The US All-domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})), which reviews military and government reports, has resolved hundreds of cases as ordinary objects. Its published statistics show that balloons account for the largest category of closed cases, followed by satellites, [drones]({{ 'drones/' | relative_url }}), aircraft and birds. These are precisely the types of objects that should populate a baseline library because they repeatedly generate reports that initially appear unidentified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/UAP-Reporting-Trends/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP Reporting TrendsClosed Cases Resolution Outcomes. Bird(s): 28 (2.9%). Satellite(s): 314 (32.1%). Balloon(s): 510 (52.1%). UAS: 76...</span></span></span>
 
 A useful baseline library therefore records more than object names. It preserves:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -298,25 +296,21 @@ A useful baseline library therefore records more than object names. It preserves
 
 When investigators compare a new case against thousands of examples collected under controlled conditions, the burden of proof shifts. The question becomes not “Could this be a balloon?” but “How does this differ from known balloon behaviour?”
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/m5KZnQlFtpU" title="Tech 101: Unidentified Anomalous Phenomenon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=m5KZnQlFtpU" target="_blank" rel="noopener noreferrer">Tech 101: Unidentified Anomalous Phenomenon</a></p><p class="youtube-embed-meta">Channel: Emerging Technologies Institute &middot; Views: 253 &middot; Uploaded: April 2025 &middot; Length: 1 hour</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=m5KZnQlFtpU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=m5KZnQlFtpU">Open on YouTube</a></p></div></div></div>
-
 ## Ordinary objects that become confusing in sensors
 
 Many UFO reports arise because familiar objects can appear dramatically different when observed through specialised sensors.
 
 ### Balloons
 
-Balloons are among the most commonly resolved UAP explanations. Their slow movement can appear fast when viewed from a moving aircraft, and changing illumination can create the impression of manoeuvres. At high altitude they may also lack visible reference points, making distance and size difficult to judge. AARO's resolution statistics place balloons at the top of identified categories, highlighting their importance in any baseline collection. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">AARO Historical Record Report Vol 1 2024</span><span class="citation-popover-snippet">AAROAARO_Historical_Record_Repor...6 Mar 2024 — misidentified, drones, balloons, aircraft, rockets, rocket exhaust plumes, satellites, in...</span></span></span>
+Balloons are among the most commonly resolved UAP explanations. Their slow movement can appear fast when viewed from a moving aircraft, and changing illumination can create the impression of manoeuvres. At high altitude they may also lack visible reference points, making distance and size difficult to judge. AARO's resolution statistics place balloons at the top of identified categories, highlighting their importance in any baseline collection. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">AARO Historical Record Report Vol 1 2024</span><span class="citation-popover-snippet">AARO_Historical_Record_Repor...6 Mar 2024 — misidentified, drones, balloons, aircraft, rockets, rocket exhaust plumes, satellites, in...</span></span></span>
 
-A strong baseline library would contain examples of [weather balloons]({{ 'balloons/' | relative_url }}), hobby balloons, advertising balloons and high-altitude research balloons viewed from multiple sensor types and angles.
+A strong baseline library would contain examples of weather balloons, hobby balloons, advertising balloons and high-altitude research balloons viewed from multiple sensor types and angles.
 
 ### Satellites and glints
 
 Satellites often create reports because reflected sunlight can produce sudden bright flashes, known as glints. Objects that appear stationary may brighten and fade dramatically, creating the illusion of intelligent control. Satellite passes are predictable, but only if investigators have access to reference data and comparison examples.
 
 AARO's published case statistics identify satellites as one of the largest resolved categories of UAP reports, making them a key component of any normal-sky dataset. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP ImageryThe United States European Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Resolu...</span></span></span>
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_uap_baseline_librari_a298b8-Illustration-2-dark.svg" | relative_url }}" alt="Baseline library illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_uap_baseline_librari_a298b8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_uap_baseline_librari_a298b8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Birds
@@ -331,15 +325,11 @@ Modern drones combine several characteristics that historically triggered UFO re
 
 As drone use expands, reference collections must continually update to include newer models and operational behaviours. Otherwise investigators risk treating emerging but ordinary technology as anomalous. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeUnidentified Anomalous Phenomena (UAP) means (A) airborne objects that are not immediately identifiable; (B) transmedium objects...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6Jb5mI3GpEQ" title="🔥 What Is UAP? How Science Is Tracking The Unknown | Pentagon Files, AARO &amp; The Future" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6Jb5mI3GpEQ" target="_blank" rel="noopener noreferrer">🔥 What Is UAP? How Science Is Tracking The Unknown | Pentagon Files, AARO &amp; The Future</a></p><p class="youtube-embed-meta">Channel: Tony</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6Jb5mI3GpEQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6Jb5mI3GpEQ">Open on YouTube</a></p></div></div></div>
-
 ### Optical and sensor effects
 
 Some of the most misleading cases involve no unusual object at all. AARO's historical review identifies parallax, infrared aberrations, sensor artefacts, vague radar returns and optical effects among recurring causes of misidentification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO and the Declassification ProcessThis includes commonplace images of birds, balloons, commercial drones, and natural phenomena, which...</span></span></span>
 
 For this reason, a baseline library should not be limited to physical objects. It should also include examples of:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -355,13 +345,13 @@ For this reason, a baseline library should not be limited to physical objects. I
 
 These examples help investigators recognise when a sensor is generating the anomaly rather than the observed target.
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/m5KZnQlFtpU" title="Tech 101: Unidentified Anomalous Phenomenon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=m5KZnQlFtpU" target="_blank" rel="noopener noreferrer">Tech 101: Unidentified Anomalous Phenomenon</a></p><p class="youtube-embed-meta">Channel: Emerging Technologies Institute &middot; Views: 253 &middot; Uploaded: April 2025 &middot; Length: 1 hour</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=m5KZnQlFtpU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=m5KZnQlFtpU">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_uap_baseline_librari_a298b8-Illustration-3-dark.svg" | relative_url }}" alt="Baseline library illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_uap_baseline_librari_a298b8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_uap_baseline_librari_a298b8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How baseline examples make stronger cases stand out
 
 A common misconception is that cataloguing ordinary objects somehow discourages the search for genuine anomalies. In practice, the opposite is true.
 
-When researchers build extensive libraries of normal phenomena, they become better at identifying the rare cases that do not fit. This logic underlies several modern scientific UAP observation projects. Proposed multi-sensor observatories emphasise collecting large numbers of routine observations first, creating a statistical census of ordinary aerial activity before attempting to identify outliers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivThe Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based ObservatoriesMay 29, 2023...</span><span class="citation-popover-meta">Published: May 29, 2023</span></span></span>
+When researchers build extensive libraries of normal phenomena, they become better at identifying the rare cases that do not fit. This logic underlies several modern scientific UAP observation projects. Proposed multi-sensor observatories emphasise collecting large numbers of routine observations first, creating a statistical census of ordinary aerial activity before attempting to identify outliers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based ObservatoriesMay 29, 2023...</span><span class="citation-popover-meta">Published: May 29, 2023</span></span></span>
 
 The value of a baseline becomes especially clear when multiple sensors are involved. If an object matches known satellite behaviour in optical imagery, known satellite brightness patterns in photometric data and a predicted orbital track, investigators can confidently classify it. If it consistently fails those comparisons across several independent measurements, it becomes a stronger candidate for further analysis.
 
@@ -375,9 +365,7 @@ Recent AARO reporting reinforces why such libraries matter. The overwhelming maj
 
 For the study of UFO reports as potential IFOs, this is one of the most important lessons of modern UAP research: investigators do not discover anomalies by starting with mysteries. They discover anomalies by first building an exceptionally detailed record of normal skies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportUnidentified Anomalous Phenomena (UAP) are one of our planet&#x27;s greatest mysteries. Observations...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZoSZA7Meneg" title="Historic Senate Hearing on #UAP &amp; #AARO, Dr. Sean Kirkpatrick Testifies #EmergingThreats #Disclosure" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZoSZA7Meneg" target="_blank" rel="noopener noreferrer">Historic Senate Hearing on #UAP &amp; #AARO, Dr. Sean Kirkpatrick Testifies #EmergingThreats #Disclosure</a></p><p class="youtube-embed-meta">Channel: UAPsee</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZoSZA7Meneg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZoSZA7Meneg">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_uap_baseline_librari_a298b8-Illustration-3-dark.svg" | relative_url }}" alt="Baseline library illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_uap_baseline_librari_a298b8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_uap_baseline_librari_a298b8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -496,15 +484,15 @@ For the study of UFO reports as potential IFOs, this is one of the most importan
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baseline-library-what-normal-skies-look-like-to-uap-sensors-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="baseline-library-what-normal-skies-look-like-to-uap-sensors-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-normal-skies-look-like-to-uap-sensors-star-chart-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart print" data-ebay-reference="what-normal-skies-look-like-to-uap-sensors-star-chart-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Capricorn, Aquarius, astrology print 100 year Antique old star chart 1923"><img src="https://i.ebayimg.com/images/g/nvsAAeSwY~ppCKAl/s-l225.jpg" alt="Listing image for Capricorn, Aquarius, astrology print 100 year Antique old star chart 1923" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baseline-library-what-normal-skies-look-like-to-uap-sensors-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="baseline-library-what-normal-skies-look-like-to-uap-sensors-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-normal-skies-look-like-to-uap-sensors-star-chart-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart print" data-ebay-reference="what-normal-skies-look-like-to-uap-sensors-star-chart-print" target="_blank" rel="sponsored noopener noreferrer">Capricorn, Aquarius, astrology print 100 year Antique old star chart 1923</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baseline-library-what-normal-skies-look-like-to-uap-sensors-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="baseline-library-what-normal-skies-look-like-to-uap-sensors-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-normal-skies-look-like-to-uap-sensors-star-chart-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart print" data-ebay-reference="what-normal-skies-look-like-to-uap-sensors-star-chart-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart print">Search <span data-ebay-domain-label>eBay.co.uk</span>: star chart print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baseline-library-what-normal-skies-look-like-to-uap-sensors-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="baseline-library-what-normal-skies-look-like-to-uap-sensors-ifos-causes-of-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-normal-skies-look-like-to-uap-sensors-star-chart-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart print" data-ebay-reference="what-normal-skies-look-like-to-uap-sensors-star-chart-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -512,15 +500,15 @@ For the study of UFO reports as potential IFOs, this is one of the most importan
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baseline-library-what-normal-skies-look-like-to-uap-sensors-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="baseline-library-what-normal-skies-look-like-to-uap-sensors-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO 1982 Tour Programme Book With Poster"><img src="{{ '/assets/images/marketplace-covers/9c0ed3d28411d7c56755.jpg' | relative_url }}" alt="Listing image for UFO 1982 Tour Programme Book With Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-normal-skies-look-like-to-uap-sensors-star-chart-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart print" data-ebay-reference="what-normal-skies-look-like-to-uap-sensors-star-chart-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PEGASUS Constellation Star Chart Astronomy Print c 1880 Mounted"><img src="https://i.ebayimg.com/images/g/iIkAAeSwevZp-iWR/s-l225.jpg" alt="Listing image for PEGASUS Constellation Star Chart Astronomy Print c 1880 Mounted" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baseline-library-what-normal-skies-look-like-to-uap-sensors-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="baseline-library-what-normal-skies-look-like-to-uap-sensors-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO 1982 Tour Programme Book With Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-normal-skies-look-like-to-uap-sensors-star-chart-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart print" data-ebay-reference="what-normal-skies-look-like-to-uap-sensors-star-chart-print" target="_blank" rel="sponsored noopener noreferrer">PEGASUS Constellation Star Chart Astronomy Print c 1880 Mounted</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baseline-library-what-normal-skies-look-like-to-uap-sensors-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="baseline-library-what-normal-skies-look-like-to-uap-sensors-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-normal-skies-look-like-to-uap-sensors-star-chart-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart print" data-ebay-reference="what-normal-skies-look-like-to-uap-sensors-star-chart-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart print">Search <span data-ebay-domain-label>eBay.co.uk</span>: star chart print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baseline-library-what-normal-skies-look-like-to-uap-sensors-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="baseline-library-what-normal-skies-look-like-to-uap-sensors-ifos-causes-of-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-normal-skies-look-like-to-uap-sensors-star-chart-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart print" data-ebay-reference="what-normal-skies-look-like-to-uap-sensors-star-chart-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -528,15 +516,15 @@ For the study of UFO reports as potential IFOs, this is one of the most importan
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baseline-library-what-normal-skies-look-like-to-uap-sensors-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="baseline-library-what-normal-skies-look-like-to-uap-sensors-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Programme Michael Schenker Original Official Misdemeanor World Tour 1986"><img src="{{ '/assets/images/marketplace-covers/afd3d020d3403f6473d1.jpg' | relative_url }}" alt="Listing image for UFO Programme Michael Schenker Original Official Misdemeanor World Tour 1986" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-normal-skies-look-like-to-uap-sensors-star-chart-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart print" data-ebay-reference="what-normal-skies-look-like-to-uap-sensors-star-chart-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NORTHERN HEMISPHERE Constellation Star Chart Astronomy Print c 1880 Mounted"><img src="https://i.ebayimg.com/images/g/towAAeSwwplp-if6/s-l225.jpg" alt="Listing image for NORTHERN HEMISPHERE Constellation Star Chart Astronomy Print c 1880 Mounted" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baseline-library-what-normal-skies-look-like-to-uap-sensors-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="baseline-library-what-normal-skies-look-like-to-uap-sensors-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Programme Michael Schenker Original Official Misdemeanor World Tour 1986</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-normal-skies-look-like-to-uap-sensors-star-chart-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart print" data-ebay-reference="what-normal-skies-look-like-to-uap-sensors-star-chart-print" target="_blank" rel="sponsored noopener noreferrer">NORTHERN HEMISPHERE Constellation Star Chart Astronomy Print c 1880 Mounted</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baseline-library-what-normal-skies-look-like-to-uap-sensors-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="baseline-library-what-normal-skies-look-like-to-uap-sensors-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-normal-skies-look-like-to-uap-sensors-star-chart-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart print" data-ebay-reference="what-normal-skies-look-like-to-uap-sensors-star-chart-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart print">Search <span data-ebay-domain-label>eBay.co.uk</span>: star chart print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baseline-library-what-normal-skies-look-like-to-uap-sensors-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="baseline-library-what-normal-skies-look-like-to-uap-sensors-ifos-causes-of-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-normal-skies-look-like-to-uap-sensors-star-chart-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart print" data-ebay-reference="what-normal-skies-look-like-to-uap-sensors-star-chart-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -544,15 +532,15 @@ For the study of UFO reports as potential IFOs, this is one of the most importan
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baseline-library-what-normal-skies-look-like-to-uap-sensors-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="baseline-library-what-normal-skies-look-like-to-uap-sensors-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-normal-skies-look-like-to-uap-sensors-star-chart-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart print" data-ebay-reference="what-normal-skies-look-like-to-uap-sensors-star-chart-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Star Map Chart &#x27;Night We Met&#x27; - Customizable Print"><img src="https://i.ebayimg.com/images/g/DNQAAOSwgcxlrnAp/s-l225.jpg" alt="Listing image for Star Map Chart &#x27;Night We Met&#x27; - Customizable Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baseline-library-what-normal-skies-look-like-to-uap-sensors-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="baseline-library-what-normal-skies-look-like-to-uap-sensors-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-normal-skies-look-like-to-uap-sensors-star-chart-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart print" data-ebay-reference="what-normal-skies-look-like-to-uap-sensors-star-chart-print" target="_blank" rel="sponsored noopener noreferrer">Star Map Chart &#x27;Night We Met&#x27; - Customizable Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baseline-library-what-normal-skies-look-like-to-uap-sensors-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="baseline-library-what-normal-skies-look-like-to-uap-sensors-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-normal-skies-look-like-to-uap-sensors-star-chart-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart print" data-ebay-reference="what-normal-skies-look-like-to-uap-sensors-star-chart-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart print">Search <span data-ebay-domain-label>eBay.co.uk</span>: star chart print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baseline-library-what-normal-skies-look-like-to-uap-sensors-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="baseline-library-what-normal-skies-look-like-to-uap-sensors-ifos-causes-of-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-normal-skies-look-like-to-uap-sensors-star-chart-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart print" data-ebay-reference="what-normal-skies-look-like-to-uap-sensors-star-chart-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -560,7 +548,7 @@ For the study of UFO reports as potential IFOs, this is one of the most importan
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baseline-library-what-normal-skies-look-like-to-uap-sensors-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="baseline-library-what-normal-skies-look-like-to-uap-sensors-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-normal-skies-look-like-to-uap-sensors-star-chart-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart print" data-ebay-reference="what-normal-skies-look-like-to-uap-sensors-star-chart-print" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -775,130 +763,130 @@ For the study of UFO reports as potential IFOs, this is one of the most importan
 
 1. <a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportUnidentified Anomalous Phenomena (UAP) are one of our planet&#x27;s greatest mysteries. Observations...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP9 Jun 2022 — A study team to examine unidentified anomalous phenomena (UAPs) – that is, observations of events in the sky...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/UAP-Reporting-Trends/](https://www.aaro.mil/UAP-Cases/UAP-Reporting-Trends/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROUAP Reporting TrendsClosed Cases Resolution Outcomes. Bird(s): 28 (2.9%). Satellite(s): 314 (32.1%). Balloon(s): 510 (52.1%). UAS: 76...</p></details>
+   Link: <a href="https://www.aaro.mil/UAP-Cases/UAP-Reporting-Trends/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Reporting-Trends/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Reporting TrendsClosed Cases Resolution Outcomes. Bird(s): 28 (2.9%). Satellite(s): 314 (32.1%). Balloon(s): 510 (52.1%). UAS: 76...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/](https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/)  
+   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to Release, Discuss Unidentified Anomalous...NASA commissioned the study to examine UAP from a scientific perspective and create a...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: war.gov  
    Title: dr jon kosloski director aaro media roundtable on the fy24 consolidated annual  
-   Link: [https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/](https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/)  
+   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDr. Jon Kosloski, Director, AARO, Media Roundtable on the...14 Nov 2024 — AARO has successfully resolved hundreds of ca...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/](https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Examining Unidentified Anomalous Phenomena14 Nov 2024 — &quot;AARO has successfully resolved hundreds of cases in its hol...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: media.defense.gov  
    Title: FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508  
-   Link: [https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF](https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarFiscal Year 2024 Consolidated Annual Report on...14 Nov 2024 — In many other cases, birds are commonly misidentified as...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROAARO_Historical_Record_Repor...6 Mar 2024 — misidentified, drones, balloons, aircraft, rockets, rocket exhaust plumes, satellites, in...</p></details>
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO_Historical_Record_Repor...6 Mar 2024 — misidentified, drones, balloons, aircraft, rockets, rocket exhaust plumes, satellites, in...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2305.18566](https://arxiv.org/abs/2305.18566)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivThe Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based ObservatoriesMay 29, 2023...</p></details>
+   Link: <a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based ObservatoriesMay 29, 2023...</p></details>
    Published: May 29, 2023  
 
 10. <a id="endnote-10"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThe United States European Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Resolu...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeUnidentified Anomalous Phenomena (UAP) means (A) airborne objects that are not immediately identifiable; (B) transmedium objects...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf](https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO and the Declassification ProcessThis includes commonplace images of birds, balloons, commercial drones, and natural phenomena, which...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/FAQ/](https://www.aaro.mil/FAQ/)  
+   Link: <a href="https://www.aaro.mil/FAQ/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/FAQ/</a>  
 
 14. <a id="endnote-14"></a>
    Source: news.sky.com  
-   Link: [https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933](https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933)  
+   Link: <a href="https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO report - live: Scientists release Unidentified...14 Sept 2023 — NASA has released a report on Unidentified Anomalous Phenomena - com...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/](https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/)  
+   Link: <a href="https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...The evidence of aliens that NASA will find is going to be &quot;We&#x27;ve detected animal farts on...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/2023/08/nasa-studies-ufos/](https://skepticalinquirer.org/2023/08/nasa-studies-ufos/)  
+   Link: <a href="https://skepticalinquirer.org/2023/08/nasa-studies-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2023/08/nasa-studies-ufos/</a>  
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=nuBMnluJfs0](https://www.youtube.com/watch?v=nuBMnluJfs0)  
+   Link: <a href="https://www.youtube.com/watch?v=nuBMnluJfs0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nuBMnluJfs0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Replay! NASA&#x27;s Release of the Unidentified Anomalous...NASA commissioned an independent study team to examine unidentified anomalous phe...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=TQcqOW39ksk](https://www.youtube.com/watch?v=TQcqOW39ksk)  
+   Link: <a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study ReportNASA commissioned an independent study team to examine unidentified anomalous ph...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: skyandtelescope.org  
    Title: nasa finds no evidence ufos are extraterrestrial promises further study  
-   Link: [https://skyandtelescope.org/astronomy-news/nasa-finds-no-evidence-ufos-are-extraterrestrial-promises-further-study/](https://skyandtelescope.org/astronomy-news/nasa-finds-no-evidence-ufos-are-extraterrestrial-promises-further-study/)  
+   Link: <a href="https://skyandtelescope.org/astronomy-news/nasa-finds-no-evidence-ufos-are-extraterrestrial-promises-further-study/" target="_blank" rel="noopener noreferrer nofollow">https://skyandtelescope.org/astronomy-news/nasa-finds-no-evidence-ufos-are-extraterrestrial-promises-further-study/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Finds No Evidence UFOs Are Extraterrestrial...15 Sept 2023 — UAPs are defined as objects or events that can&#x27;t (yet) be traced back...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: businessinsider.com  
    Title: nasa ufos probably balloons planes or solar glints not aliens 2023 9  
-   Link: [https://www.businessinsider.com/nasa-ufos-probably-balloons-planes-or-solar-glints-not-aliens-2023-9](https://www.businessinsider.com/nasa-ufos-probably-balloons-planes-or-solar-glints-not-aliens-2023-9)  
+   Link: <a href="https://www.businessinsider.com/nasa-ufos-probably-balloons-planes-or-solar-glints-not-aliens-2023-9" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/nasa-ufos-probably-balloons-planes-or-solar-glints-not-aliens-2023-9</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA: UFOs Are Probably Balloons, Planes, or Solar Glints14 Sept 2023 — NASA says UFOs are probably balloons, planes, or solar glints — b...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: universetoday.com  
    Title: ufo office fails to find anything that defies the laws of physics  
-   Link: [https://www.universetoday.com/articles/ufo-office-fails-to-find-anything-that-defies-the-laws-of-physics](https://www.universetoday.com/articles/ufo-office-fails-to-find-anything-that-defies-the-laws-of-physics)  
+   Link: <a href="https://www.universetoday.com/articles/ufo-office-fails-to-find-anything-that-defies-the-laws-of-physics" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/ufo-office-fails-to-find-anything-that-defies-the-laws-of-physics</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Office Fails to Find Anything That Defies the Laws of...22 Apr 2023 — This approach is critical to resolving UAP reports into the ca...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: avi-loeb.medium.com  
    Title: a new calculation on the fly to the nasa uap study 2dacaf860cac  
-   Link: [https://avi-loeb.medium.com/a-new-calculation-on-the-fly-to-the-nasa-uap-study-2dacaf860cac](https://avi-loeb.medium.com/a-new-calculation-on-the-fly-to-the-nasa-uap-study-2dacaf860cac)  
+   Link: <a href="https://avi-loeb.medium.com/a-new-calculation-on-the-fly-to-the-nasa-uap-study-2dacaf860cac" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/a-new-calculation-on-the-fly-to-the-nasa-uap-study-2dacaf860cac</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New Calculation on the Fly to the NASA UAP Study - Avi LoebThe [NASA Study](&amp;#123;&amp;#123; &#x27;nasa-study/&#x27; | relative_url &amp;#125;&amp;#125;) will examine unclassified data on UAP in an attempt to separate...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: ralphbuncheinstitute.org  
-   Link: [https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/](https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/)  
+   Link: <a href="https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/" target="_blank" rel="noopener noreferrer nofollow">https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Figuring out the truth behind Unidentified Anomalous Phenomena (UAPs) takes more than speculation, it requires hard science.Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: Wikipedia  
    Title: NASA Unidentified Anomalous Phenomena Independent Study Team  
-   Link: [https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team](https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team)  
+   Link: <a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Unidentified Anomalous Phenomena Independent...UAPs are defined as phenomena or observations of events in the air, sea, space, a...</p></details>

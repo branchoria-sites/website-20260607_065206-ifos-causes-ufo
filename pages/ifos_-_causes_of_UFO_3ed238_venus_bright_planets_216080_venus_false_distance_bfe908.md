@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_planet_alignment_ufo_8c38eb
 - ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_planet_following_obs_e4b967
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - venus
 - bright-venus
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - venus
 - bright-venus
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Venus can look unnaturally close because its brightness overwhelms the weak distance cues available in twilight skies.
 hero_summary: Venus can look unnaturally close because its brightness overwhelms the weak distance cues available in twilight skies.
 layout: default
 permalink: /bright-venus/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /venus/
 nav_short_title: Bright Venus
 title: Why Venus Can Look Too Close
-title_full: Why Venus Can Look Too Close | Venus
+title_full: Why Venus Can Look Too Close
 display_title_short: Bright Venus
 display_title: Bright Venus
 heading_title: Why Venus Can Look Too Close
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 03:53:41'
-parent_title: Is That UFO Really Venus? | IFOs
+parent_title: Is That UFO Really Venus?
 parent_permalink: /venus/
 parent_nav_short_title: Venus
 parent_heading_title: Is That UFO Really Venus?
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080
-  title: Venus | Ifos Causes Of
+  title: Venus | ifos causes of UFO 3 ed 238
   permalink: /venus/
   short_title: Venus
   heading_title: Is That UFO Really Venus?
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080
-  title: Venus | Ifos Causes Of
+  title: Venus | ifos causes of UFO 3 ed 238
   permalink: /venus/
   short_title: Venus
   heading_title: Is That UFO Really Venus?
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: How to Test the Planet Explanation
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080
-  title: Venus | Ifos Causes Of
+  title: Venus | ifos causes of UFO 3 ed 238
   permalink: /venus/
   short_title: Venus
   heading_title: Is That UFO Really Venus?
@@ -260,6 +259,7 @@ next_link:
   permalink: /color-shifts/
   short_title: Color Shifts
   heading_title: Why Low Planets Seem to Change Colour
+date: '2026-06-12 00:54:22 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_venus_false_distance_bfe908-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_venus_false_distance_bfe908-Illustration-1.webp
@@ -269,7 +269,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_ve
 ## Introduction
 
 A surprisingly common ingredient in UFO reports is not motion, shape or colour but perceived distance. When [Venus]({{ 'venus/' | relative_url }}) is exceptionally bright and sits low in the twilight sky, many observers do not experience it as a remote planet tens of millions of kilometres away. Instead, it can feel like a nearby object hovering over a hill, road, coastline or neighbourhood. In UFO investigations, this is an important mechanism because the brightness of Venus can overwhelm the weak visual clues people normally use to judge distance. A brilliant light against a darkening sky often feels closer than it really is, even when it remains completely stationary. NASA’s Night Sky Network notes that Venus is among the celestial objects most frequently reported as a UFO, particularly when it appears as a striking bright light near the horizon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nightsky.jpl.nasa.gov">[Night Sky Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nightsky.jpl.nasa.gov</span><span class="citation-popover-snippet">Night Sky NetworkIdentifying UFOs and UAPs - Night Sky Network - NASA1 Dec 2013 — If you&#x27;re an amateur astronomer, you are probably asked...</span></span></span>
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_venus_false_distance_bfe908-Illustration-1-dark.svg" | relative_url }}" alt="Bright Venus illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_venus_false_distance_bfe908-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_venus_false_distance_bfe908-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Venus Is So Bright
@@ -297,7 +296,6 @@ With Venus, the result can be a powerful illusion:
 
 This process does not require poor eyesight, gullibility or unusual beliefs. It is a normal consequence of how human perception handles ambiguous visual information.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PLt1yUKAzJc" title="&quot;Science and the paranormal&quot;, a talk by Dr. Joe Schwarcz" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PLt1yUKAzJc" target="_blank" rel="noopener noreferrer">&quot;Science and the paranormal&quot;, a talk by Dr. Joe Schwarcz</a></p><p class="youtube-embed-meta">Channel: Centre for Inquiry Canada &middot; Views: 9.7K &middot; Uploaded: May 2011 &middot; Length: 1 hour 40 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PLt1yUKAzJc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PLt1yUKAzJc">Open on YouTube</a></p></div></div></div>
 
 ## Why the Horizon Makes the Effect Stronger
@@ -312,7 +310,6 @@ The geometry is deceptive. The hill may be five kilometres away while Venus is m
 
 This is one reason witnesses sometimes report a luminous object "hovering over the ridge" or "staying above the trees" even though the source is an astronomical object.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_venus_false_distance_bfe908-Illustration-2-dark.svg" | relative_url }}" alt="Bright Venus illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_venus_false_distance_bfe908-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_venus_false_distance_bfe908-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Common Witness Descriptions This Explains
 
@@ -326,13 +323,11 @@ Witnesses frequently emphasise that the object did not seem distant. The brightn
 
 A bright planet near the horizon can appear fixed above a hill, road junction, coastline or group of buildings. The observer interprets the light as occupying local airspace rather than celestial space.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EX4oUy9OxU8" title="New NASA Images of Venus Reveal Something We Can’t Explain" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EX4oUy9OxU8" target="_blank" rel="noopener noreferrer">New NASA Images of Venus Reveal Something We Can’t Explain</a></p><p class="youtube-embed-meta">Channel: Bright Side Сosmic Horror &middot; Views: 1.3K &middot; Uploaded: April 2026 &middot; Length: 3 hours 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EX4oUy9OxU8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EX4oUy9OxU8">Open on YouTube</a></p></div></div></div>
 
 ### “It seemed huge”
 
 Brightness and perceived size are closely linked. Extremely bright point sources can appear larger than they physically are because of glare and visual blooming within the eye. Venus is actually a tiny point of light to the naked eye, but many witnesses describe it as much larger.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PkitaN_WVh0" title="Why Venus Became a Hell Planet" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PkitaN_WVh0" target="_blank" rel="noopener noreferrer">Why Venus Became a Hell Planet</a></p><p class="youtube-embed-meta">Channel: Galactic Epoch &middot; Views: 41 &middot; Uploaded: April 2026 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PkitaN_WVh0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PkitaN_WVh0">Open on YouTube</a></p></div></div></div>
 
@@ -347,7 +342,6 @@ The significance of Venus as a false distance cue is not merely that it can be m
 If a witness correctly judges Venus as astronomical, its brightness is unremarkable. If the same witness unconsciously judges it to be a few kilometres away, the brightness becomes extraordinary. The object suddenly appears too intense, too large and too stationary for any familiar aircraft.
 
 This single perceptual mistake can transform an ordinary planetary observation into a genuinely puzzling experience. That is why investigators routinely compare reports of brilliant stationary lights near the horizon with the known positions of Venus and other bright planets. The planet's brightness is not merely part of the sighting—it is often the mechanism that makes the sighting seem anomalous in the first place. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nightsky.jpl.nasa.gov">[Night Sky Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nightsky.jpl.nasa.gov</span><span class="citation-popover-snippet">Night Sky NetworkIdentifying UFOs and UAPs - Night Sky Network - NASA1 Dec 2013 — If you&#x27;re an amateur astronomer, you are probably asked...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gi.alaska.edu/alaska-science-forum/venus" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gi.alaska.edu">[Geophysical Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gi.alaska.edu</span><span class="citation-popover-snippet">Geophysical InstituteVenus9 Feb 1979 — Almost every time Venus approaches the earth and shows its brightest face, there are new UFO repor...</span></span></span>
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_venus_false_distance_bfe908-Illustration-3-dark.svg" | relative_url }}" alt="Bright Venus illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_venus_false_distance_bfe908-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_venus_false_distance_bfe908-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -468,15 +462,15 @@ This single perceptual mistake can transform an ordinary planetary observation i
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-venus-why-venus-can-look-too-close-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="bright-venus-why-venus-can-look-too-close-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-venus-can-look-too-close-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Venus poster" data-ebay-reference="why-venus-can-look-too-close-venus-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Venus Poster - one of the 4 terrest Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/4KYAAeSwpmFp1TfL/s-l225.jpg" alt="Listing image for Venus Poster - one of the 4 terrest Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-venus-why-venus-can-look-too-close-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="bright-venus-why-venus-can-look-too-close-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-venus-can-look-too-close-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Venus poster" data-ebay-reference="why-venus-can-look-too-close-venus-poster" target="_blank" rel="sponsored noopener noreferrer">Venus Poster - one of the 4 terrest Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-venus-why-venus-can-look-too-close-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="bright-venus-why-venus-can-look-too-close-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-venus-can-look-too-close-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Venus poster" data-ebay-reference="why-venus-can-look-too-close-venus-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Venus poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Venus poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-venus-why-venus-can-look-too-close-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="bright-venus-why-venus-can-look-too-close-ifos-causes-of-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-venus-can-look-too-close-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Venus poster" data-ebay-reference="why-venus-can-look-too-close-venus-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -484,15 +478,15 @@ This single perceptual mistake can transform an ordinary planetary observation i
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-venus-why-venus-can-look-too-close-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="bright-venus-why-venus-can-look-too-close-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for U/ROCK BAND SPACE SHIP IRON OR SEW ON QUALITY EMBROIDERED PATCH UK SELLER/UFO"><img src="{{ '/assets/images/marketplace-covers/fc0f59ffafe53c3f0099.jpg' | relative_url }}" alt="Listing image for U/ROCK BAND SPACE SHIP IRON OR SEW ON QUALITY EMBROIDERED PATCH UK SELLER/UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-venus-can-look-too-close-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Venus poster" data-ebay-reference="why-venus-can-look-too-close-venus-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sandro Botticelli the Birth of Venus Art Print Poster Wall Decor Premium Stylish"><img src="https://i.ebayimg.com/images/g/1N0AAeSwJSpp1n0b/s-l225.jpg" alt="Listing image for Sandro Botticelli the Birth of Venus Art Print Poster Wall Decor Premium Stylish" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-venus-why-venus-can-look-too-close-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="bright-venus-why-venus-can-look-too-close-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">U/ROCK BAND SPACE SHIP IRON OR SEW ON QUALITY EMBROIDERED PATCH UK SELLER/UFO</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-venus-can-look-too-close-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Venus poster" data-ebay-reference="why-venus-can-look-too-close-venus-poster" target="_blank" rel="sponsored noopener noreferrer">Sandro Botticelli the Birth of Venus Art Print Poster Wall Decor Premium Stylish</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-venus-why-venus-can-look-too-close-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="bright-venus-why-venus-can-look-too-close-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-venus-can-look-too-close-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Venus poster" data-ebay-reference="why-venus-can-look-too-close-venus-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Venus poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Venus poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-venus-why-venus-can-look-too-close-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="bright-venus-why-venus-can-look-too-close-ifos-causes-of-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-venus-can-look-too-close-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Venus poster" data-ebay-reference="why-venus-can-look-too-close-venus-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -500,15 +494,15 @@ This single perceptual mistake can transform an ordinary planetary observation i
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-venus-why-venus-can-look-too-close-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="bright-venus-why-venus-can-look-too-close-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-venus-can-look-too-close-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Venus poster" data-ebay-reference="why-venus-can-look-too-close-venus-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Venus Movie Poster Art Cinema Film A5 A4 A3 A2 A1 MAXI- 1245"><img src="https://i.ebayimg.com/images/g/DCoAAOSwl9Bj~l~E/s-l225.jpg" alt="Listing image for Venus Movie Poster Art Cinema Film A5 A4 A3 A2 A1 MAXI- 1245" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-venus-why-venus-can-look-too-close-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="bright-venus-why-venus-can-look-too-close-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-venus-can-look-too-close-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Venus poster" data-ebay-reference="why-venus-can-look-too-close-venus-poster" target="_blank" rel="sponsored noopener noreferrer">Venus Movie Poster Art Cinema Film A5 A4 A3 A2 A1 MAXI- 1245</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-venus-why-venus-can-look-too-close-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="bright-venus-why-venus-can-look-too-close-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-venus-can-look-too-close-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Venus poster" data-ebay-reference="why-venus-can-look-too-close-venus-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Venus poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Venus poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-venus-why-venus-can-look-too-close-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="bright-venus-why-venus-can-look-too-close-ifos-causes-of-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-venus-can-look-too-close-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Venus poster" data-ebay-reference="why-venus-can-look-too-close-venus-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -516,15 +510,15 @@ This single perceptual mistake can transform an ordinary planetary observation i
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-venus-why-venus-can-look-too-close-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="bright-venus-why-venus-can-look-too-close-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-venus-can-look-too-close-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Venus poster" data-ebay-reference="why-venus-can-look-too-close-venus-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Venus Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/2qEAAeSwErZpW~3Q/s-l225.jpg" alt="Listing image for Venus Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-venus-why-venus-can-look-too-close-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="bright-venus-why-venus-can-look-too-close-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-venus-can-look-too-close-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Venus poster" data-ebay-reference="why-venus-can-look-too-close-venus-poster" target="_blank" rel="sponsored noopener noreferrer">Venus Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-venus-why-venus-can-look-too-close-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="bright-venus-why-venus-can-look-too-close-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-venus-can-look-too-close-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Venus poster" data-ebay-reference="why-venus-can-look-too-close-venus-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Venus poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Venus poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-venus-why-venus-can-look-too-close-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="bright-venus-why-venus-can-look-too-close-ifos-causes-of-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-venus-can-look-too-close-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Venus poster" data-ebay-reference="why-venus-can-look-too-close-venus-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -532,7 +526,7 @@ This single perceptual mistake can transform an ordinary planetary observation i
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-venus-why-venus-can-look-too-close-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="bright-venus-why-venus-can-look-too-close-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-venus-can-look-too-close-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Venus poster" data-ebay-reference="why-venus-can-look-too-close-venus-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -747,100 +741,100 @@ This single perceptual mistake can transform an ordinary planetary observation i
 
 1. <a id="endnote-1"></a>
    Source: nightsky.jpl.nasa.gov  
-   Link: [https://nightsky.jpl.nasa.gov/news/39/](https://nightsky.jpl.nasa.gov/news/39/)  
+   Link: <a href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow">https://nightsky.jpl.nasa.gov/news/39/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Night Sky NetworkIdentifying UFOs and UAPs - Night Sky Network - NASA1 Dec 2013 — If you&#x27;re an amateur astronomer, you are probably asked...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: science.nasa.gov  
    Title: Science Venus: Facts  
-   Link: [https://science.nasa.gov/venus/venus-facts/](https://science.nasa.gov/venus/venus-facts/)  
+   Link: <a href="https://science.nasa.gov/venus/venus-facts/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/venus/venus-facts/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceVenus: Facts - NASA ScienceNovember 10, 2017 — Venus is the second planet from the Sun, and Earth&#x27;s closest planetary neighbo...</p></details>
    Published: November 10, 2017  
 
 3. <a id="endnote-3"></a>
    Source: space.com  
    Title: 9440 brilliant venus prompt ufo sightings  
-   Link: [https://www.space.com/9440-brilliant-venus-prompt-ufo-sightings.html](https://www.space.com/9440-brilliant-venus-prompt-ufo-sightings.html)  
+   Link: <a href="https://www.space.com/9440-brilliant-venus-prompt-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/9440-brilliant-venus-prompt-ufo-sightings.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Brilliant Venus May Prompt &#x27;UFO&#x27; Sightings1 Nov 2010 — A spike in UFO reports this week may likely stem from the bright planet Venus, whi...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Venus](https://en.wikipedia.org/wiki/Venus)  
+   Link: <a href="https://en.wikipedia.org/wiki/Venus" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Venus</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>VenusFrom Earth, Venus is visible as a star-like point of light, appearing brighter than any other natural point of light in the sky...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: gi.alaska.edu  
-   Link: [https://www.gi.alaska.edu/alaska-science-forum/venus](https://www.gi.alaska.edu/alaska-science-forum/venus)  
+   Link: <a href="https://www.gi.alaska.edu/alaska-science-forum/venus" target="_blank" rel="noopener noreferrer nofollow">https://www.gi.alaska.edu/alaska-science-forum/venus</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Geophysical InstituteVenus9 Feb 1979 — Almost every time Venus approaches the earth and shows its brightest face, there are new UFO repor...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: blog.simulationcurriculum.com  
-   Link: [https://blog.simulationcurriculum.com/articles/2015/6/3/venus-at-its-brightest](https://blog.simulationcurriculum.com/articles/2015/6/3/venus-at-its-brightest)  
+   Link: <a href="https://blog.simulationcurriculum.com/articles/2015/6/3/venus-at-its-brightest" target="_blank" rel="noopener noreferrer nofollow">https://blog.simulationcurriculum.com/articles/2015/6/3/venus-at-its-brightest</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Simulating the UniverseVenus At Its Brightest - Simulating the Universe3 Jun 2015 — Whenever Venus is close to elongation, we begin to he...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: public.nrao.edu  
    Title: why is venus visible in the night sky when its orbit is closer to the sun  
-   Link: [https://public.nrao.edu/ask/why-is-venus-visible-in-the-night-sky-when-its-orbit-is-closer-to-the-sun/](https://public.nrao.edu/ask/why-is-venus-visible-in-the-night-sky-when-its-orbit-is-closer-to-the-sun/)  
+   Link: <a href="https://public.nrao.edu/ask/why-is-venus-visible-in-the-night-sky-when-its-orbit-is-closer-to-the-sun/" target="_blank" rel="noopener noreferrer nofollow">https://public.nrao.edu/ask/why-is-venus-visible-in-the-night-sky-when-its-orbit-is-closer-to-the-sun/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Radio Astronomy ObservatoryWhy is Venus Visible in the Night Sky When it&#x27;s Orbit...6 Oct 2020 — You can only see Venus just bef...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: physics.ucla.edu  
-   Link: [https://www.physics.ucla.edu/~huffman/venus.htm](https://www.physics.ucla.edu/~huffman/venus.htm)  
+   Link: <a href="https://www.physics.ucla.edu/~huffman/venus.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.physics.ucla.edu/~huffman/venus.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>is in crescent phase, it is closer to the Earth and larger. In the gibbous phase, Venus is further away and smaller. Galileo sited this p...</p></details>
 
 ### Additional References
 
 9. <a id="endnote-9"></a>
    Source: livescience.com  
-   Link: [https://www.livescience.com/space/venus/why-is-venus-so-bright](https://www.livescience.com/space/venus/why-is-venus-so-bright)  
+   Link: <a href="https://www.livescience.com/space/venus/why-is-venus-so-bright" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/space/venus/why-is-venus-so-bright</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Its brightness surpasses that of any star and is second only to the moon. A major reason is Venus’ high albedo — it reflects about 76% of...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: ndl.ethernet.edu.et  
-   Link: [https://ndl.ethernet.edu.et/bitstream/123456789/31463/1/Chris%20Impey.pdf](https://ndl.ethernet.edu.et/bitstream/123456789/31463/1/Chris%20Impey.pdf)  
+   Link: <a href="https://ndl.ethernet.edu.et/bitstream/123456789/31463/1/Chris%20Impey.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ndl.ethernet.edu.et/bitstream/123456789/31463/1/Chris%20Impey.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Living Cosmoslids and a spate of UFO sightings. Fermi joked that the two phenomena were connected. They talked about other things for a w...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
    Title: venus is not supposed to look like this but tonight it doesright now venus is re  
-   Link: [https://www.facebook.com/moonlitwhispers.official/posts/venus-is-not-supposed-to-look-like-this-but-tonight-it-doesright-now-venus-is-re/122170654622619028/](https://www.facebook.com/moonlitwhispers.official/posts/venus-is-not-supposed-to-look-like-this-but-tonight-it-doesright-now-venus-is-re/122170654622619028/)  
+   Link: <a href="https://www.facebook.com/moonlitwhispers.official/posts/venus-is-not-supposed-to-look-like-this-but-tonight-it-doesright-now-venus-is-re/122170654622619028/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/moonlitwhispers.official/posts/venus-is-not-supposed-to-look-like-this-but-tonight-it-doesright-now-venus-is-re/122170654622619028/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>VENUS IS NOT SUPPOSED TO LOOK LIKE THIS. But...Venus is currently shining at magnitude -4.5, its peak brilliance for 2026. At this brigh...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/ufos-and-abductions-challenging-the-borders-of-knowledge-0700610324.html](https://dokumen.pub/ufos-and-abductions-challenging-the-borders-of-knowledge-0700610324.html)  
+   Link: <a href="https://dokumen.pub/ufos-and-abductions-challenging-the-borders-of-knowledge-0700610324.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/ufos-and-abductions-challenging-the-borders-of-knowledge-0700610324.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>To claim to have seen a UFO, to have been abducted by aliens, or even to believe those who...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/61567028447127/posts/dont-miss-the-holy-grail-of-planetary-brightness-on-june-9thhow-to-see-the-venus/122205363794567614/](https://www.facebook.com/61567028447127/posts/dont-miss-the-holy-grail-of-planetary-brightness-on-june-9thhow-to-see-the-venus/122205363794567614/)  
+   Link: <a href="https://www.facebook.com/61567028447127/posts/dont-miss-the-holy-grail-of-planetary-brightness-on-june-9thhow-to-see-the-venus/122205363794567614/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61567028447127/posts/dont-miss-the-holy-grail-of-planetary-brightness-on-june-9thhow-to-see-the-venus/122205363794567614/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It is now spanning an angular size of about 12 arc seconds and...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/795041201/Alien-Intrusion](https://www.scribd.com/document/795041201/Alien-Intrusion)  
+   Link: <a href="https://www.scribd.com/document/795041201/Alien-Intrusion" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/795041201/Alien-Intrusion</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and determine whether an astronomical object, such as...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
    Title: After sunset, look west  
-   Link: [https://www.facebook.com/theoldfarmersalmanac/posts/after-sunset-look-west-whats-that-super-bright-object-its-venus-did-you-know-ven/10155635068670773/](https://www.facebook.com/theoldfarmersalmanac/posts/after-sunset-look-west-whats-that-super-bright-object-its-venus-did-you-know-ven/10155635068670773/)  
+   Link: <a href="https://www.facebook.com/theoldfarmersalmanac/posts/after-sunset-look-west-whats-that-super-bright-object-its-venus-did-you-know-ven/10155635068670773/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/theoldfarmersalmanac/posts/after-sunset-look-west-whats-that-super-bright-object-its-venus-did-you-know-ven/10155635068670773/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What&#x27;s that super-bright object? It&#x27;s...Is it a UFO? Have aliens finally arrived? Fear not, stargazers—it&#x27;s just Venus! Tonight, 2/16, V...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: earthsky.org  
    Title: venus after sunset greatest elongation  
-   Link: [https://earthsky.org/astronomy-essentials/venus-after-sunset-greatest-elongation/](https://earthsky.org/astronomy-essentials/venus-after-sunset-greatest-elongation/)  
+   Link: <a href="https://earthsky.org/astronomy-essentials/venus-after-sunset-greatest-elongation/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/astronomy-essentials/venus-after-sunset-greatest-elongation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bright Jupiter shines higher in the sky. Throughout the month, the 2 planets will move closer...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: library.oapen.org  
-   Link: [https://library.oapen.org/bitstream/handle/20.500.12657/24001/1006133.pdf?isAllowed=y&sequence=1](https://library.oapen.org/bitstream/handle/20.500.12657/24001/1006133.pdf?isAllowed=y&sequence=1)  
+   Link: <a href="https://library.oapen.org/bitstream/handle/20.500.12657/24001/1006133.pdf?isAllowed=y&amp;sequence=1" target="_blank" rel="noopener noreferrer nofollow">https://library.oapen.org/bitstream/handle/20.500.12657/24001/1006133.pdf?isAllowed=y&amp;sequence=1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Resonance of Unseen Thingsside by side to talk the night away and search the skies for UFOs. Around... “UFO Abduction Reports: The Super...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: Jupiter and Venus 'could be mistaken for UFOs'  
-   Link: [https://www.youtube.com/watch?v=P-ymwG9mDhE](https://www.youtube.com/watch?v=P-ymwG9mDhE)  
+   Link: <a href="https://www.youtube.com/watch?v=P-ymwG9mDhE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=P-ymwG9mDhE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Science and the paranormal, a talk by Dr. Joe Schwarcz...</p></details>

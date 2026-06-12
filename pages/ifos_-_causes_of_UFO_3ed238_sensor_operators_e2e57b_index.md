@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ifos-causes-of-ufo-3ed238-sensor/
 description: Focused pages that expand on Sensor Operators.
-date: '2026-06-07'
+date: '2026-06-12'
 layout: default
 parent_basename: ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b
-parent_title: Sensor Operators | Ifos Causes Of
+parent_title: Sensor Operators
 parent_nav_short_title: Sensor Operators
 parent_permalink: /sensor-operators/
 ---

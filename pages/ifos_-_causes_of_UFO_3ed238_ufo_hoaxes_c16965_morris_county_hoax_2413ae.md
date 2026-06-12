@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_roswell_slides_promo_a3fb30
 - ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_ufo_hoax_tactics_b1afe1
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - hoaxes
 - morris-county
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - hoaxes
 - morris-county
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: The Morris County lights show how a deliberate prank can create real public alarm and honest eyewitness reports.
 hero_summary: The Morris County lights show how a deliberate prank can create real public alarm and honest eyewitness reports.
 layout: default
 permalink: /morris-county/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /hoaxes/
 nav_short_title: Morris County
 title: When a UFO Hoax Creates Real Witnesses
-title_full: When a UFO Hoax Creates Real Witnesses | Hoaxes
+title_full: When a UFO Hoax Creates Real Witnesses
 display_title_short: Morris County
 display_title: Morris County
 heading_title: When a UFO Hoax Creates Real Witnesses
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-07 00:21:52'
-parent_title: When UFO Reports Are Manufactured | IFOs
+parent_title: When UFO Reports Are Manufactured
 parent_permalink: /hoaxes/
 parent_nav_short_title: Hoaxes
 parent_heading_title: When UFO Reports Are Manufactured
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965
-  title: Hoaxes | Ifos Causes Of
+  title: Hoaxes | ifos causes of UFO 3 ed 238
   permalink: /hoaxes/
   short_title: Hoaxes
   heading_title: When UFO Reports Are Manufactured
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965
-  title: Hoaxes | Ifos Causes Of
+  title: Hoaxes | ifos causes of UFO 3 ed 238
   permalink: /hoaxes/
   short_title: Hoaxes
   heading_title: When UFO Reports Are Manufactured
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: How Promotion Inflated the Roswell Slides
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965
-  title: Hoaxes | Ifos Causes Of
+  title: Hoaxes | ifos causes of UFO 3 ed 238
   permalink: /hoaxes/
   short_title: Hoaxes
   heading_title: When UFO Reports Are Manufactured
@@ -266,6 +265,7 @@ next_link:
   permalink: /roswell-slides/
   short_title: Roswell Slides
   heading_title: How Promotion Inflated the Roswell Slides
+date: '2026-06-12 00:15:43 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_morris_county_hoax_2413ae-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_morris_county_hoax_2413ae-Illustration-1.webp
@@ -275,7 +275,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_morris_count
 ## Introduction
 
 The Morris County lights incident of 2009 is one of the clearest examples of how a deliberate UFO hoax can generate completely sincere eyewitness reports. Residents across parts of Morris County, [New Jersey]({{ 'new-jersey/' | relative_url }}), reported strange red lights hovering and moving in the night sky. Police received emergency calls, airport personnel observed the lights, local media covered the story, and UFO investigators debated possible explanations. Months later, the mystery was resolved when two local men revealed that the lights were road flares suspended beneath helium balloons. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Morristown_UFO_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Morristown UFO hoax</span><span class="citation-popover-snippet">March 7, 2026 — The 2009 Morristown UFO hoax was a series of aerial events involving mysterious floating red lights in the sky, that firs...</span><span class="citation-popover-meta">Published: March 7, 2026</span></span></span> Patch For understanding the causes of UFO reports <span class="citation-link-wrap"><a class="citation-inline-link" href="https://patch.com/new-jersey/morristown/morristown-ufo-hoax-meet-duo-behind-2009-experiment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patch.com">[patch.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patch.com</span><span class="citation-popover-title">morristown ufo hoax meet duo behind 2009 experiment</span><span class="citation-popover-snippet">aliens — 12 years after they revealed they were the puppetmasters behind the Morristown UFO hoax. The phenomenon began Jan. 5, 2009, when...</span></span></span>, the case is important because it demonstrates a crucial distinction: witnesses can be honest and observant even when the object they saw was intentionally staged. The error lies not in the sincerity of the testimony but in the unknown origin of the stimulus that produced it.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_morris_county_hoax_2413ae-Illustration-1-dark.svg" | relative_url }}" alt="Morris County illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_morris_county_hoax_2413ae-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_morris_county_hoax_2413ae-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Happened in the Morris County Lights Case
@@ -287,7 +286,6 @@ The phenomenon did not occur only once. Similar displays appeared on several add
 In April 2009, Joe Rudy and Chris Russo publicly revealed that they had created the displays themselves. Their method was simple: highway flares were attached to helium balloons using fishing line and released at night. They described the operation as a social experiment intended to examine public reactions and the way UFO claims spread through media and investigative communities. Patch <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livescience.com/5398-ufo-hoax-social-experiment.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-title">5398 ufo hoax social experiment</span><span class="citation-popover-snippet">Live ScienceUFO Hoax Was a Social Experiment2 Apr 2009 — Joe Rudy and Chris Russo perpetrated the hoax with helium balloons and flares as...</span></span></span>
 
 The revelation transformed the incident from a UFO mystery into a valuable case study in perception, testimony and hoax-generated reports.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/r6KpjxwZYpk" title="How We Staged the Morristown UFO Hoax, Part 3: The Reactions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=r6KpjxwZYpk" target="_blank" rel="noopener noreferrer">How We Staged the Morristown UFO Hoax, Part 3: The Reactions</a></p><p class="youtube-embed-meta">Channel: Skeptic &middot; Views: 7.8K &middot; Uploaded: April 2011 &middot; Length: 29 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=r6KpjxwZYpk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=r6KpjxwZYpk">Open on YouTube</a></p></div></div></div>
 
@@ -309,7 +307,6 @@ Some witnesses reported lights hovering, holding formation or moving in unusual 
 
 The Morris County hoax succeeded because it exploited normal limitations of night-time observation, not because witnesses were careless or irrational.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_morris_county_hoax_2413ae-Illustration-2-dark.svg" | relative_url }}" alt="Morris County illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_morris_county_hoax_2413ae-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_morris_county_hoax_2413ae-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Honest Witnesses Reported a False UFO
 
@@ -321,7 +318,6 @@ The witnesses were reporting a real event. There really were lights in the sky. 
 
 This distinction is fundamental in UFO investigations:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * A witness may accurately report what was seen.
@@ -332,7 +328,6 @@ This distinction is fundamental in UFO investigations:
 </div>
 
 The Morris County lights therefore demonstrate that sincere testimony and incorrect conclusions can coexist. The presence of many witnesses strengthens evidence that something was observed, but it does not automatically establish what was observed.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RLfQCJlslAI" title="Plan 9 from Morris County 2009" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RLfQCJlslAI" target="_blank" rel="noopener noreferrer">Plan 9 from Morris County 2009</a></p><p class="youtube-embed-meta">Channel: MorristownGreen &middot; Views: 56 &middot; Uploaded: November 2024 &middot; Length: 2 minutes 49 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RLfQCJlslAI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RLfQCJlslAI">Open on YouTube</a></p></div></div></div>
 
@@ -351,10 +346,9 @@ Investigators attempting to resolve unusual aerial reports typically look beyond
 * Photographs and videos with verifiable provenance.
 * Information about potential [hoaxes]({{ 'hoaxes/' | relative_url }}) or deliberate releases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livescience.com/5398-ufo-hoax-social-experiment.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-title">5398 ufo hoax social experiment</span><span class="citation-popover-snippet">Live ScienceUFO Hoax Was a Social Experiment2 Apr 2009 — Joe Rudy and Chris Russo perpetrated the hoax with helium balloons and flares as...</span></span></span>
 
-The Morris County incident also revealed how quickly speculation can outrun verification. Some commentators proposed exotic explanations before basic questions about the lights' origin had been answered. Once the hoax was disclosed, the same witness reports that had seemed mysterious became understandable in light of the actual stimulus. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://patch.com/new-jersey/morristown/remembering-ufo-hoax-morris-county" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patch.com">[Patch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patch.com</span><span class="citation-popover-title">remembering ufo hoax morris county</span><span class="citation-popover-snippet">PatchRemembering The UFO Hoax Of Morris County31 Oct 2025 — Other residents said they saw an “L-shaped” aircraft in the sky accompanying...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://centerforinquiry.org/blog/nj_ufo_hoax_by_skeptics_proves_point_but_raises_questions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.org">[centerforinquiry.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.org</span><span class="citation-popover-title">nj ufo hoax by skeptics proves point but raises questions</span><span class="citation-popover-snippet">2 Apr 2009 — In a posting at www.skeptic.com, the pair said the hoax was a “social experiment on how to create your own media event surro...</span></span></span>
+The Morris County incident also revealed how quickly speculation can outrun verification. Some commentators proposed exotic explanations before basic questions about the lights' origin had been answered. Once the hoax was disclosed, the same witness reports that had seemed mysterious became understandable in light of the actual stimulus. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://patch.com/new-jersey/morristown/remembering-ufo-hoax-morris-county" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patch.com">[Patch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patch.com</span><span class="citation-popover-title">remembering ufo hoax morris county</span><span class="citation-popover-snippet">Remembering The UFO Hoax Of Morris County31 Oct 2025 — Other residents said they saw an “L-shaped” aircraft in the sky accompanying...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://centerforinquiry.org/blog/nj_ufo_hoax_by_skeptics_proves_point_but_raises_questions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.org">[centerforinquiry.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.org</span><span class="citation-popover-title">nj ufo hoax by skeptics proves point but raises questions</span><span class="citation-popover-snippet">2 Apr 2009 — In a posting at www.skeptic.com, the pair said the hoax was a “social experiment on how to create your own media event surro...</span></span></span>
 
 For investigators, the lesson is not that eyewitnesses are worthless. Rather, it is that testimony must be combined with source verification. Honest observers can provide valuable information, but a staged object can still produce a large body of sincere reports.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_morris_county_hoax_2413ae-Illustration-3-dark.svg" | relative_url }}" alt="Morris County illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_morris_county_hoax_2413ae-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_morris_county_hoax_2413ae-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Morris County Hoax Teaches About UFO Reports
@@ -365,9 +359,7 @@ In reality, a single deliberately created stimulus can generate dozens of honest
 
 As a result, the case serves as a cautionary example within the broader study of identified flying objects. It shows that investigators must distinguish between the credibility of witnesses and the credibility of explanations. The Morris County residents largely reported what they genuinely believed they saw. The mystery arose because the true source of those lights remained hidden until the prank was revealed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Morristown_UFO_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Morristown UFO hoax</span><span class="citation-popover-snippet">March 7, 2026 — The 2009 Morristown UFO hoax was a series of aerial events involving mysterious floating red lights in the sky, that firs...</span><span class="citation-popover-meta">Published: March 7, 2026</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://patch.com/new-jersey/morristown/morristown-ufo-hoax-meet-duo-behind-2009-experiment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patch.com">[Patch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patch.com</span><span class="citation-popover-title">morristown ufo hoax meet duo behind 2009 experiment</span><span class="citation-popover-snippet">aliens — 12 years after they revealed they were the puppetmasters behind the Morristown UFO hoax. The phenomenon began Jan. 5, 2009, when...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-cW8RsWNnKg" title="How We Staged a UFO Hoax | Fakes, Frauds &amp; Scammers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-cW8RsWNnKg" target="_blank" rel="noopener noreferrer">How We Staged a UFO Hoax | Fakes, Frauds &amp; Scammers</a></p><p class="youtube-embed-meta">Channel: VICE &middot; Views: 239.2K &middot; Uploaded: July 2021 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-cW8RsWNnKg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-cW8RsWNnKg">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -486,15 +478,15 @@ As a result, the case serves as a cautionary example within the broader study of
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morris-county-when-a-ufo-hoax-creates-real-witnesses-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="morris-county-when-a-ufo-hoax-creates-real-witnesses-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/16d7257b5b6fa9c07f55.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-ufo-hoax-creates-real-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-a-ufo-hoax-creates-real-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morris-county-when-a-ufo-hoax-creates-real-witnesses-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="morris-county-when-a-ufo-hoax-creates-real-witnesses-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-ufo-hoax-creates-real-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-a-ufo-hoax-creates-real-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morris-county-when-a-ufo-hoax-creates-real-witnesses-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="morris-county-when-a-ufo-hoax-creates-real-witnesses-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-ufo-hoax-creates-real-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-a-ufo-hoax-creates-real-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morris-county-when-a-ufo-hoax-creates-real-witnesses-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="morris-county-when-a-ufo-hoax-creates-real-witnesses-ifos-causes-of-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-ufo-hoax-creates-real-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-a-ufo-hoax-creates-real-witnesses-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -502,15 +494,15 @@ As a result, the case serves as a cautionary example within the broader study of
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morris-county-when-a-ufo-hoax-creates-real-witnesses-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="morris-county-when-a-ufo-hoax-creates-real-witnesses-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO"><img src="{{ '/assets/images/marketplace-covers/804a6ca65be816e4a5d9.jpg' | relative_url }}" alt="Listing image for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-ufo-hoax-creates-real-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-a-ufo-hoax-creates-real-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morris-county-when-a-ufo-hoax-creates-real-witnesses-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="morris-county-when-a-ufo-hoax-creates-real-witnesses-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-ufo-hoax-creates-real-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-a-ufo-hoax-creates-real-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morris-county-when-a-ufo-hoax-creates-real-witnesses-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="morris-county-when-a-ufo-hoax-creates-real-witnesses-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-ufo-hoax-creates-real-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-a-ufo-hoax-creates-real-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morris-county-when-a-ufo-hoax-creates-real-witnesses-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="morris-county-when-a-ufo-hoax-creates-real-witnesses-ifos-causes-of-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-ufo-hoax-creates-real-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-a-ufo-hoax-creates-real-witnesses-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -518,15 +510,15 @@ As a result, the case serves as a cautionary example within the broader study of
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morris-county-when-a-ufo-hoax-creates-real-witnesses-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="morris-county-when-a-ufo-hoax-creates-real-witnesses-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="{{ '/assets/images/marketplace-covers/c69c50419429aba53ee5.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-ufo-hoax-creates-real-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-a-ufo-hoax-creates-real-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morris-county-when-a-ufo-hoax-creates-real-witnesses-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="morris-county-when-a-ufo-hoax-creates-real-witnesses-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-ufo-hoax-creates-real-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-a-ufo-hoax-creates-real-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morris-county-when-a-ufo-hoax-creates-real-witnesses-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="morris-county-when-a-ufo-hoax-creates-real-witnesses-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-ufo-hoax-creates-real-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-a-ufo-hoax-creates-real-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morris-county-when-a-ufo-hoax-creates-real-witnesses-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="morris-county-when-a-ufo-hoax-creates-real-witnesses-ifos-causes-of-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-ufo-hoax-creates-real-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-a-ufo-hoax-creates-real-witnesses-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -534,15 +526,15 @@ As a result, the case serves as a cautionary example within the broader study of
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morris-county-when-a-ufo-hoax-creates-real-witnesses-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="morris-county-when-a-ufo-hoax-creates-real-witnesses-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-ufo-hoax-creates-real-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-a-ufo-hoax-creates-real-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morris-county-when-a-ufo-hoax-creates-real-witnesses-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="morris-county-when-a-ufo-hoax-creates-real-witnesses-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-ufo-hoax-creates-real-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-a-ufo-hoax-creates-real-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morris-county-when-a-ufo-hoax-creates-real-witnesses-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="morris-county-when-a-ufo-hoax-creates-real-witnesses-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-ufo-hoax-creates-real-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-a-ufo-hoax-creates-real-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morris-county-when-a-ufo-hoax-creates-real-witnesses-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="morris-county-when-a-ufo-hoax-creates-real-witnesses-ifos-causes-of-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-ufo-hoax-creates-real-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-a-ufo-hoax-creates-real-witnesses-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -550,7 +542,7 @@ As a result, the case serves as a cautionary example within the broader study of
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=morris-county-when-a-ufo-hoax-creates-real-witnesses-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="morris-county-when-a-ufo-hoax-creates-real-witnesses-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-ufo-hoax-creates-real-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-a-ufo-hoax-creates-real-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -766,118 +758,118 @@ As a result, the case serves as a cautionary example within the broader study of
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Morristown UFO hoax  
-   Link: [https://en.wikipedia.org/wiki/Morristown_UFO_hoax](https://en.wikipedia.org/wiki/Morristown_UFO_hoax)  
+   Link: <a href="https://en.wikipedia.org/wiki/Morristown_UFO_hoax" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Morristown_UFO_hoax</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 7, 2026 — The 2009 Morristown UFO hoax was a series of aerial events involving mysterious floating red lights in the sky, that firs...</p></details>
    Published: March 7, 2026  
 
 2. <a id="endnote-2"></a>
    Source: patch.com  
    Title: morristown ufo hoax meet duo behind 2009 experiment  
-   Link: [https://patch.com/new-jersey/morristown/morristown-ufo-hoax-meet-duo-behind-2009-experiment](https://patch.com/new-jersey/morristown/morristown-ufo-hoax-meet-duo-behind-2009-experiment)  
+   Link: <a href="https://patch.com/new-jersey/morristown/morristown-ufo-hoax-meet-duo-behind-2009-experiment" target="_blank" rel="noopener noreferrer nofollow">https://patch.com/new-jersey/morristown/morristown-ufo-hoax-meet-duo-behind-2009-experiment</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>aliens — 12 years after they revealed they were the puppetmasters behind the Morristown UFO hoax. The phenomenon began Jan. 5, 2009, when...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: patch.com  
    Title: remembering ufo hoax morris county  
-   Link: [https://patch.com/new-jersey/morristown/remembering-ufo-hoax-morris-county](https://patch.com/new-jersey/morristown/remembering-ufo-hoax-morris-county)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PatchRemembering The UFO Hoax Of Morris County31 Oct 2025 — Other residents said they saw an “L-shaped” aircraft in the sky accompanying...</p></details>
+   Link: <a href="https://patch.com/new-jersey/morristown/remembering-ufo-hoax-morris-county" target="_blank" rel="noopener noreferrer nofollow">https://patch.com/new-jersey/morristown/remembering-ufo-hoax-morris-county</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Remembering The UFO Hoax Of Morris County31 Oct 2025 — Other residents said they saw an “L-shaped” aircraft in the sky accompanying...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: abc11.com  
-   Link: [https://abc11.com/archive/6742325/](https://abc11.com/archive/6742325/)  
+   Link: <a href="https://abc11.com/archive/6742325/" target="_blank" rel="noopener noreferrer nofollow">https://abc11.com/archive/6742325/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC11 Raleigh-DurhamPair charged in UFO hoaxTo stoke the their hoax even further, after they launched their balloons, they&#x27;d call the new...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: centerforinquiry.org  
    Title: nj ufo hoax by skeptics proves point but raises questions  
-   Link: [https://centerforinquiry.org/blog/nj_ufo_hoax_by_skeptics_proves_point_but_raises_questions/](https://centerforinquiry.org/blog/nj_ufo_hoax_by_skeptics_proves_point_but_raises_questions/)  
+   Link: <a href="https://centerforinquiry.org/blog/nj_ufo_hoax_by_skeptics_proves_point_but_raises_questions/" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.org/blog/nj_ufo_hoax_by_skeptics_proves_point_but_raises_questions/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>2 Apr 2009 — In a posting at www.skeptic.com, the pair said the hoax was a “social experiment on how to create your own media event surro...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: centerforinquiry.org  
-   Link: [https://centerforinquiry.org/blog/debunkers_launch_ldquogreat_ufo_hoaxrdquo/](https://centerforinquiry.org/blog/debunkers_launch_ldquogreat_ufo_hoaxrdquo/)  
+   Link: <a href="https://centerforinquiry.org/blog/debunkers_launch_ldquogreat_ufo_hoaxrdquo/" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.org/blog/debunkers_launch_ldquogreat_ufo_hoaxrdquo/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunkers Launch “Great UFO Hoax” | Center for Inquiry26 May 2009 — &#x27;” The pair launched a hoax, in the form of flares dangling from heli...</p></details>
    Published: May 2009  
 
 7. <a id="endnote-7"></a>
    Source: livescience.com  
    Title: 5398 ufo hoax social experiment  
-   Link: [https://www.livescience.com/5398-ufo-hoax-social-experiment.html](https://www.livescience.com/5398-ufo-hoax-social-experiment.html)  
+   Link: <a href="https://www.livescience.com/5398-ufo-hoax-social-experiment.html" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/5398-ufo-hoax-social-experiment.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Live ScienceUFO Hoax Was a Social Experiment2 Apr 2009 — Joe Rudy and Chris Russo perpetrated the hoax with helium balloons and flares as...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: nj1015.com  
    Title: remembering the morristown ufo hoax of 2009  
-   Link: [https://nj1015.com/remembering-the-morristown-ufo-hoax-of-2009/](https://nj1015.com/remembering-the-morristown-ufo-hoax-of-2009/)  
+   Link: <a href="https://nj1015.com/remembering-the-morristown-ufo-hoax-of-2009/" target="_blank" rel="noopener noreferrer nofollow">https://nj1015.com/remembering-the-morristown-ufo-hoax-of-2009/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>6 Jan 2022 — Remembering the Morristown UFO Hoax of 2009. FOTOKITA. Remembering the... UFOs&quot; were flares tied to helium balloons attache...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: blog.atriresearch.org  
    Title: Atri Research Blog UFOs, RUFOs, and UAPs  
-   Link: [https://blog.atriresearch.org/science-blog/articles/ufos-rufos-and-uaps](https://blog.atriresearch.org/science-blog/articles/ufos-rufos-and-uaps)  
+   Link: <a href="https://blog.atriresearch.org/science-blog/articles/ufos-rufos-and-uaps" target="_blank" rel="noopener noreferrer nofollow">https://blog.atriresearch.org/science-blog/articles/ufos-rufos-and-uaps</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Atri Research BlogUFOs, RUFOs, and UAPs - Articles - The John Ankerberg Show26 Nov 2019 — A famous hoax was perpetrated in 2009 in Morris...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=RLfQCJlslAI](https://www.youtube.com/watch?v=RLfQCJlslAI)  
+   Link: <a href="https://www.youtube.com/watch?v=RLfQCJlslAI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RLfQCJlslAI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Plan 9 from Morris County 2009From the 2009 Morristown Green Film Festival: &#x27;Plan 9 from Morris County,&#x27; about a UFO hoax that backfired...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: roswellufomuseum.com  
    Title: morristown ufo hoax  
-   Link: [https://www.roswellufomuseum.com/post/morristown-ufo-hoax](https://www.roswellufomuseum.com/post/morristown-ufo-hoax)  
+   Link: <a href="https://www.roswellufomuseum.com/post/morristown-ufo-hoax" target="_blank" rel="noopener noreferrer nofollow">https://www.roswellufomuseum.com/post/morristown-ufo-hoax</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>9 Feb 2020 — In January of 2009, the perpetrators blogged about and captured a video of UFO&#x27;s hovering above the skies of New Jersey. The...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...... witness, a UFO skeptic, saw flashes of light in the sky. Witnessblamedit... hoax is appa...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-SO-06.pdf](https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-SO-06.pdf)  
+   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-SO-06.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-SO-06.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>30 Years of 30 Years ofAnother hoax was uncovered by sim- ple interrogation. This was an Indiana... the witnesses to be essentially hone...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: ndl.ethernet.edu.et  
-   Link: [https://ndl.ethernet.edu.et/bitstream/123456789/47518/1/Joshua%20Blu%20Buhs.pdf](https://ndl.ethernet.edu.et/bitstream/123456789/47518/1/Joshua%20Blu%20Buhs.pdf)  
+   Link: <a href="https://ndl.ethernet.edu.et/bitstream/123456789/47518/1/Joshua%20Blu%20Buhs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ndl.ethernet.edu.et/bitstream/123456789/47518/1/Joshua%20Blu%20Buhs.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>off its claim of a hoax since the county official could offer no additional evidence. Really, though, Genzoli need not have worried about...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: abc7ny.com  
-   Link: [https://abc7ny.com/archive/6742325/](https://abc7ny.com/archive/6742325/)  
+   Link: <a href="https://abc7ny.com/archive/6742325/" target="_blank" rel="noopener noreferrer nofollow">https://abc7ny.com/archive/6742325/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>wabc. By abc7NY. Thursday, April 2, 2009. MORRISTOWN Two men have come forward to say they behind the lights that sparked 911...Read more...</p></details>
    Published: April 2, 2009  
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
    Title: in 2009 morris county was struck by ufo mania that winter several residents repo  
-   Link: [https://www.facebook.com/MorrisCountyProsecutor/posts/in-2009-morris-county-was-struck-by-ufo-mania-that-winter-several-residents-repo/856306683197659/](https://www.facebook.com/MorrisCountyProsecutor/posts/in-2009-morris-county-was-struck-by-ufo-mania-that-winter-several-residents-repo/856306683197659/)  
+   Link: <a href="https://www.facebook.com/MorrisCountyProsecutor/posts/in-2009-morris-county-was-struck-by-ufo-mania-that-winter-several-residents-repo/856306683197659/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MorrisCountyProsecutor/posts/in-2009-morris-county-was-struck-by-ufo-mania-that-winter-several-residents-repo/856306683197659/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In 2009, Morris County was struck by UFO mania....Several residents reported seeing a series of floating red lights in the skies over Fl...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/JoshShapiroPA/posts/when-donald-trump-and-his-allies-tried-to-throw-out-legal-eligible-votes-in-penn/1450688353080355/](https://www.facebook.com/JoshShapiroPA/posts/when-donald-trump-and-his-allies-tried-to-throw-out-legal-eligible-votes-in-penn/1450688353080355/)  
+   Link: <a href="https://www.facebook.com/JoshShapiroPA/posts/when-donald-trump-and-his-allies-tried-to-throw-out-legal-eligible-votes-in-penn/1450688353080355/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/JoshShapiroPA/posts/when-donald-trump-and-his-allies-tried-to-throw-out-legal-eligible-votes-in-penn/1450688353080355/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Its not a joke, and we all know they do it. Just like open borders, they tried to...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-03-6.pdf](https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-03-6.pdf)  
+   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-03-6.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-03-6.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>exposes of hoaxes and quacks, I feel the SKEPTICAL INQUIRER doesn&#x27;t...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Damnthatsinteresting/comments/z96xut/in_early_2009_joe_rudy_and_chris_russo_staged_a/](https://www.reddit.com/r/Damnthatsinteresting/comments/z96xut/in_early_2009_joe_rudy_and_chris_russo_staged_a/)  
+   Link: <a href="https://www.reddit.com/r/Damnthatsinteresting/comments/z96xut/in_early_2009_joe_rudy_and_chris_russo_staged_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Damnthatsinteresting/comments/z96xut/in_early_2009_joe_rudy_and_chris_russo_staged_a/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In early 2009, Joe Rudy and Chris Russo staged a UFO...In early 2009, Joe Rudy and Chris Russo staged a UFO hoax with flares tied to wea...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/100092236158772/posts/the-philadelphia-experiment-is-an-alleged-military-experiment-that-is-said-to-ha/365021086582427/](https://www.facebook.com/100092236158772/posts/the-philadelphia-experiment-is-an-alleged-military-experiment-that-is-said-to-ha/365021086582427/)  
+   Link: <a href="https://www.facebook.com/100092236158772/posts/the-philadelphia-experiment-is-an-alleged-military-experiment-that-is-said-to-ha/365021086582427/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100092236158772/posts/the-philadelphia-experiment-is-an-alleged-military-experiment-that-is-said-to-ha/365021086582427/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>gesting that the incident was likely the result of a hoax or...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/KARE11/posts/peter-byrne-93-said-he-still-hasnt-given-up-hope-of-proving-the-existence-of-big/10162143236650457/](https://www.facebook.com/KARE11/posts/peter-byrne-93-said-he-still-hasnt-given-up-hope-of-proving-the-existence-of-big/10162143236650457/)  
+   Link: <a href="https://www.facebook.com/KARE11/posts/peter-byrne-93-said-he-still-hasnt-given-up-hope-of-proving-the-existence-of-big/10162143236650457/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KARE11/posts/peter-byrne-93-said-he-still-hasnt-given-up-hope-of-proving-the-existence-of-big/10162143236650457/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>gfoot. · In 2022, most of us can agree that Bigfoot is a hoax.Read more...</p></details>

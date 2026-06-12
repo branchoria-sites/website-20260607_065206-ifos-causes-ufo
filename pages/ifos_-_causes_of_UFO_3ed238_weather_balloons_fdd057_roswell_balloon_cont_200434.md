@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057_radiosonde_launch_ch_ed68af
 - ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057_upper_wind_balloon_m_749503
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - balloons
 - roswell
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - balloons
 - roswell
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Roswell shows why balloon explanations can be both plausible and distrusted when secrecy, debris, and later memories collide.
 hero_summary: Roswell shows why balloon explanations can be both plausible and distrusted when secrecy, debris, and later memories collide.
 layout: default
 permalink: /roswell/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /balloons/
 nav_short_title: Roswell
 title: Why Roswell Made Balloons Controversial
-title_full: Why Roswell Made Balloons Controversial | Balloons
+title_full: Why Roswell Made Balloons Controversial
 display_title_short: Roswell
 display_title: Roswell
 heading_title: Why Roswell Made Balloons Controversial
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 03:53:06'
-parent_title: Why Balloons Become Flying Saucers | IFOs
+parent_title: Why Balloons Become Flying Saucers
 parent_permalink: /balloons/
 parent_nav_short_title: Balloons
 parent_heading_title: Why Balloons Become Flying Saucers
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057
-  title: Balloons | Ifos Causes Of
+  title: Balloons | ifos causes of UFO 3 ed 238
   permalink: /balloons/
   short_title: Balloons
   heading_title: Why Balloons Become Flying Saucers
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057
-  title: Balloons | Ifos Causes Of
+  title: Balloons | ifos causes of UFO 3 ed 238
   permalink: /balloons/
   short_title: Balloons
   heading_title: Why Balloons Become Flying Saucers
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: When Wind Drift Looks Like Control
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057
-  title: Balloons | Ifos Causes Of
+  title: Balloons | ifos causes of UFO 3 ed 238
   permalink: /balloons/
   short_title: Balloons
   heading_title: Why Balloons Become Flying Saucers
@@ -266,6 +265,7 @@ next_link:
   permalink: /science-balloons/
   short_title: Science Balloons
   heading_title: The Giant Balloons That Do Look Weird
+date: '2026-06-12 00:41:33 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057_roswell_balloon_cont_200434-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057_roswell_balloon_cont_200434-Illustration-1.webp
@@ -276,10 +276,8 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057_roswel
 
 Roswell is the most famous example of how a balloon explanation can be both plausible and deeply distrusted at the same time. Within the broader history of UFO reports, the 1947 Roswell incident is often cited as evidence that official explanations cannot be trusted. Yet Roswell is also one of the strongest cases showing how a secret balloon programme could be mistaken for something extraordinary. The lasting controversy emerged not simply because debris was found in the New Mexico desert, but because the military first announced the recovery of a “flying disc”, quickly changed its story, and only decades later revealed the existence of a classified balloon project that had been hidden from the public. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">The Roswell Report</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell ReportThe 1994 Air Force report concluded that the predecessor to the U.S. Air Force, the U.S. Army Air Forces...</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057_roswell_balloon_cont_200434-Illustration-1-dark.svg" | relative_url }}" alt="Roswell illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057_roswell_balloon_cont_200434-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057_roswell_balloon_cont_200434-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For understanding UFO reports linked to [weather balloons]({{ 'balloons/' | relative_url }}) and other high-altitude objects, Roswell matters less as proof of any single theory and more as a lesson in how secrecy, incomplete information and changing memories can turn a mundane explanation into a permanent source of suspicion.
-
+For understanding UFO reports linked to weather balloons and other high-altitude objects, Roswell matters less as proof of any single theory and more as a lesson in how secrecy, incomplete information and changing memories can turn a mundane explanation into a permanent source of suspicion.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/m7rVSri-7es" title="Reel America: &quot;The Roswell Reports&quot; - 1997 U.S. Air Force Film" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=m7rVSri-7es" target="_blank" rel="noopener noreferrer">Reel America: &quot;The Roswell Reports&quot; - 1997 U.S. Air Force Film</a></p><p class="youtube-embed-meta">Channel: C-SPAN&#x27;s American History TV &middot; Views: 1.2K &middot; Uploaded: September 2020 &middot; Length: 3 minutes 47 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=m7rVSri-7es" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=m7rVSri-7es">Open on YouTube</a></p></div></div></div>
 
@@ -291,8 +289,7 @@ According to the 1994 Air Force investigation, debris recovered from ranch land 
 
 This explanation solved one longstanding puzzle: why witnesses described debris that seemed stranger than an ordinary weather balloon. Mogul systems were much larger and more complex than standard meteorological balloons. Their radar targets included reflective materials and unusual geometric structures that could appear unfamiliar to ranchers or military personnel who had never encountered them before. <span class="citation-chip-wrap"><a class="citation-chip" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabProject MogulRecent research indicates that the debris recovered from the ranch on July 7, 1947, was a weather balloon -- but i...</span><span class="citation-popover-meta">Published: July 7, 1947</span></span></span>
 
-However, the balloon explanation inherited a credibility problem from the beginning. The military's initial public announcement claimed that a “flying disc” had been recovered. Within a day, officials replaced that statement with the simpler weather-balloon explanation and displayed balloon debris to reporters. The abrupt reversal created a contradiction that later generations treated as evidence of concealment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Encyclopedia BritannicaRoswell incident | Overview, Theories, Hoaxes, &amp; Facts8 May 2026 — In 1994 it was finally revealed that the balloo...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
-
+However, the balloon explanation inherited a credibility problem from the beginning. The military's initial public announcement claimed that a “flying disc” had been recovered. Within a day, officials replaced that statement with the simpler weather-balloon explanation and displayed balloon debris to reporters. The abrupt reversal created a contradiction that later generations treated as evidence of concealment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Encyclopedia BritannicaRoswell incident &#124; Overview, Theories, Hoaxes, &amp; Facts8 May 2026 — In 1994 it was finally revealed that the balloo...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hNCmb-4oXJA" title="Us - Official Trailer [HD]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hNCmb-4oXJA" target="_blank" rel="noopener noreferrer">Us - Official Trailer [HD]</a></p><p class="youtube-embed-meta">Channel: Universal Pictures &middot; Views: 38.3M &middot; Uploaded: December 2018 &middot; Length: 2 minutes 30 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hNCmb-4oXJA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hNCmb-4oXJA">Open on YouTube</a></p></div></div></div>
 
@@ -305,12 +302,11 @@ The difficulty was not merely that Project Mogul was secret. It was that officia
 When the Air Force formally identified Mogul in 1994, many observers saw the revelation in two very different ways:
 
 * Supporters of the official account argued that the discovery of Mogul records finally explained why the military had behaved so strangely in 1947. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">The Roswell Report</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell ReportThe 1994 Air Force report concluded that the predecessor to the U.S. Air Force, the U.S. Army Air Forces...</span></span></span>
-* Critics argued that if officials had concealed one secret for decades, they might also be concealing something larger. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Encyclopedia BritannicaRoswell incident | Overview, Theories, Hoaxes, &amp; Facts8 May 2026 — In 1994 it was finally revealed that the balloo...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+* Critics argued that if officials had concealed one secret for decades, they might also be concealing something larger. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Encyclopedia BritannicaRoswell incident &#124; Overview, Theories, Hoaxes, &amp; Facts8 May 2026 — In 1994 it was finally revealed that the balloo...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 This is the central problem with balloon explanations in UFO history. A balloon may genuinely be the answer, but when governments invoke balloons while withholding other information, the explanation can become associated with deception rather than transparency.
 
 Roswell therefore became a template for later UFO debates. Whenever authorities attribute unusual aerial reports to balloons, some members of the public recall Roswell and assume that another hidden programme may be involved. Whether justified or not, the incident permanently weakened confidence in simple balloon explanations.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057_roswell_balloon_cont_200434-Illustration-2-dark.svg" | relative_url }}" alt="Roswell illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057_roswell_balloon_cont_200434-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057_roswell_balloon_cont_200434-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Later Body Stories Became Part of the Legend
@@ -325,7 +321,6 @@ The explanation remains controversial because it requires a complex chain of mem
 
 Regardless of which interpretation one accepts, the emergence of body stories illustrates a broader pattern seen in some famous UFO cases: initial reports can change significantly over time. As memories are revisited, retold and influenced by popular culture, a debris recovery can gradually become a story involving crashed spacecraft, alien occupants and government cover-ups.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KWP81Zr5-JQ" title="Why is the US Army’s Explanation for what happened in Roswell suspicious?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KWP81Zr5-JQ" target="_blank" rel="noopener noreferrer">Why is the US Army’s Explanation for what happened in Roswell suspicious?</a></p><p class="youtube-embed-meta">Channel: Dr. Michael S. Heiser &middot; Views: 5.6K &middot; Uploaded: March 2026 &middot; Length: 4 minutes 6 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KWP81Zr5-JQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KWP81Zr5-JQ">Open on YouTube</a></p></div></div></div>
 
 ## What Roswell Teaches About Balloon Explanations
@@ -335,7 +330,6 @@ Roswell is not simply a dispute about one object recovered in 1947. It is a case
 The official Mogul explanation is plausible because it fits the known existence of a secret balloon programme operating in the region at the time. The scepticism surrounding that explanation is also understandable because the public record includes contradictory statements, decades of secrecy and evolving witness testimony. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">The Roswell Report</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell ReportThe 1994 Air Force report concluded that the predecessor to the U.S. Air Force, the U.S. Army Air Forces...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">effort to determine the state of Soviet nuclear weapons research using balloons...Read more...</span></span></span>
 
 For the study of UFO reports, Roswell highlights an important lesson: the question is often not only whether an object was a balloon, but whether the explanation was communicated openly and consistently. When secrecy, military projects and changing narratives collide, even an ordinary high-altitude object can become one of the most enduring mysteries in UFO history. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[dafhistory.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">The Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the request made...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">However, an examination reveals a confluence of secret government projects and Cold War era activities rather than extraterrestrial invol...</span></span></span>
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057_roswell_balloon_cont_200434-Illustration-3-dark.svg" | relative_url }}" alt="Roswell illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057_roswell_balloon_cont_200434-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057_roswell_balloon_cont_200434-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -456,15 +450,15 @@ For the study of UFO reports, Roswell highlights an important lesson: the questi
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-why-roswell-made-balloons-controversial-ifos-causes-of-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="roswell-why-roswell-made-balloons-controversial-ifos-causes-of-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucers Are Real! by Womack Jack UFO William Gibson Conspiracy Aliens"><img src="{{ '/assets/images/marketplace-covers/aaab94f07d678b266c8b.jpg' | relative_url }}" alt="Listing image for Flying Saucers Are Real! by Womack Jack UFO William Gibson Conspiracy Aliens" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-roswell-made-balloons-controversial-roswell-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell memorabilia" data-ebay-reference="why-roswell-made-balloons-controversial-roswell-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO ROSWELL PITS THIS FORMER CLAY PIT IS THE HOME OF ELY SAILING CLUB AND IS"><img src="https://i.ebayimg.com/images/g/W90AAOSwis1h2AaK/s-l225.jpg" alt="Listing image for PHOTO ROSWELL PITS THIS FORMER CLAY PIT IS THE HOME OF ELY SAILING CLUB AND IS" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-why-roswell-made-balloons-controversial-ifos-causes-of-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="roswell-why-roswell-made-balloons-controversial-ifos-causes-of-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer">Flying Saucers Are Real! by Womack Jack UFO William Gibson Conspiracy Aliens</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-roswell-made-balloons-controversial-roswell-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell memorabilia" data-ebay-reference="why-roswell-made-balloons-controversial-roswell-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO ROSWELL PITS THIS FORMER CLAY PIT IS THE HOME OF ELY SAILING CLUB AND IS</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-why-roswell-made-balloons-controversial-ifos-causes-of-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="roswell-why-roswell-made-balloons-controversial-ifos-causes-of-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-roswell-made-balloons-controversial-roswell-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell memorabilia" data-ebay-reference="why-roswell-made-balloons-controversial-roswell-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-why-roswell-made-balloons-controversial-ifos-causes-of-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="roswell-why-roswell-made-balloons-controversial-ifos-causes-of-flying-saucer-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-roswell-made-balloons-controversial-roswell-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell memorabilia" data-ebay-reference="why-roswell-made-balloons-controversial-roswell-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -472,15 +466,15 @@ For the study of UFO reports, Roswell highlights an important lesson: the questi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-why-roswell-made-balloons-controversial-ifos-causes-of-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="roswell-why-roswell-made-balloons-controversial-ifos-causes-of-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Invaders UFO/Flying Saucer - Medium - Landed With Stand &amp; lights"><img src="{{ '/assets/images/marketplace-covers/c4e4380a2d9884a7e64a.jpg' | relative_url }}" alt="Listing image for The Invaders UFO/Flying Saucer - Medium - Landed With Stand &amp; lights" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-roswell-made-balloons-controversial-roswell-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell memorabilia" data-ebay-reference="why-roswell-made-balloons-controversial-roswell-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Photo 6x4 Roswell Pits Ely/TL5480 c2007"><img src="https://i.ebayimg.com/images/g/16EAAOSwnFxjI1hV/s-l225.jpg" alt="Listing image for Photo 6x4 Roswell Pits Ely/TL5480 c2007" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-why-roswell-made-balloons-controversial-ifos-causes-of-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="roswell-why-roswell-made-balloons-controversial-ifos-causes-of-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer">The Invaders UFO/Flying Saucer - Medium - Landed With Stand &amp; lights</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-roswell-made-balloons-controversial-roswell-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell memorabilia" data-ebay-reference="why-roswell-made-balloons-controversial-roswell-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Photo 6x4 Roswell Pits Ely/TL5480 c2007</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-why-roswell-made-balloons-controversial-ifos-causes-of-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="roswell-why-roswell-made-balloons-controversial-ifos-causes-of-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-roswell-made-balloons-controversial-roswell-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell memorabilia" data-ebay-reference="why-roswell-made-balloons-controversial-roswell-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-why-roswell-made-balloons-controversial-ifos-causes-of-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="roswell-why-roswell-made-balloons-controversial-ifos-causes-of-flying-saucer-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-roswell-made-balloons-controversial-roswell-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell memorabilia" data-ebay-reference="why-roswell-made-balloons-controversial-roswell-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -488,15 +482,15 @@ For the study of UFO reports, Roswell highlights an important lesson: the questi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-why-roswell-made-balloons-controversial-ifos-causes-of-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="roswell-why-roswell-made-balloons-controversial-ifos-causes-of-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Day the Earth Stood Still&quot; UFO/Flying Saucer (landed with lights) - large"><img src="{{ '/assets/images/marketplace-covers/d4217bc6982d7028da45.jpg' | relative_url }}" alt="Listing image for The Day the Earth Stood Still&quot; UFO/Flying Saucer (landed with lights) - large" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-roswell-made-balloons-controversial-roswell-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell memorabilia" data-ebay-reference="why-roswell-made-balloons-controversial-roswell-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2005 Foo Fighters VIP Concert Memorabilia - Roswell NM Private Show 06/18/2005"><img src="https://i.ebayimg.com/images/g/hHkAAeSw7EFpL41z/s-l225.jpg" alt="Listing image for 2005 Foo Fighters VIP Concert Memorabilia - Roswell NM Private Show 06/18/2005" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-why-roswell-made-balloons-controversial-ifos-causes-of-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="roswell-why-roswell-made-balloons-controversial-ifos-causes-of-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer">The Day the Earth Stood Still&quot; UFO/Flying Saucer (landed with lights) - large</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-roswell-made-balloons-controversial-roswell-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell memorabilia" data-ebay-reference="why-roswell-made-balloons-controversial-roswell-memorabilia" target="_blank" rel="sponsored noopener noreferrer">2005 Foo Fighters VIP Concert Memorabilia - Roswell NM Private Show 06/18/2005</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-why-roswell-made-balloons-controversial-ifos-causes-of-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="roswell-why-roswell-made-balloons-controversial-ifos-causes-of-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-roswell-made-balloons-controversial-roswell-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell memorabilia" data-ebay-reference="why-roswell-made-balloons-controversial-roswell-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-why-roswell-made-balloons-controversial-ifos-causes-of-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="roswell-why-roswell-made-balloons-controversial-ifos-causes-of-flying-saucer-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-roswell-made-balloons-controversial-roswell-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell memorabilia" data-ebay-reference="why-roswell-made-balloons-controversial-roswell-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -504,15 +498,15 @@ For the study of UFO reports, Roswell highlights an important lesson: the questi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-why-roswell-made-balloons-controversial-ifos-causes-of-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="roswell-why-roswell-made-balloons-controversial-ifos-causes-of-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Pewter Pin Badge"><img src="{{ '/assets/images/marketplace-covers/aae94224fcb0f8bb2dec.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Pewter Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-roswell-made-balloons-controversial-roswell-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell memorabilia" data-ebay-reference="why-roswell-made-balloons-controversial-roswell-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO ROSWELL PITS 2007"><img src="https://i.ebayimg.com/images/g/2RwAAOSwnLdipJXv/s-l225.jpg" alt="Listing image for PHOTO ROSWELL PITS 2007" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-why-roswell-made-balloons-controversial-ifos-causes-of-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="roswell-why-roswell-made-balloons-controversial-ifos-causes-of-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Pewter Pin Badge</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-roswell-made-balloons-controversial-roswell-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell memorabilia" data-ebay-reference="why-roswell-made-balloons-controversial-roswell-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO ROSWELL PITS 2007</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-why-roswell-made-balloons-controversial-ifos-causes-of-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="roswell-why-roswell-made-balloons-controversial-ifos-causes-of-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-roswell-made-balloons-controversial-roswell-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell memorabilia" data-ebay-reference="why-roswell-made-balloons-controversial-roswell-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-why-roswell-made-balloons-controversial-ifos-causes-of-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="roswell-why-roswell-made-balloons-controversial-ifos-causes-of-flying-saucer-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-roswell-made-balloons-controversial-roswell-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell memorabilia" data-ebay-reference="why-roswell-made-balloons-controversial-roswell-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -520,7 +514,7 @@ For the study of UFO reports, Roswell highlights an important lesson: the questi
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-why-roswell-made-balloons-controversial-ifos-causes-of-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="roswell-why-roswell-made-balloons-controversial-ifos-causes-of-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-roswell-made-balloons-controversial-roswell-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell memorabilia" data-ebay-reference="why-roswell-made-balloons-controversial-roswell-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -736,154 +730,154 @@ For the study of UFO reports, Roswell highlights an important lesson: the questi
 1. <a id="endnote-1"></a>
    Source: af.mil  
    Title: The Roswell Report  
-   Link: [https://www.af.mil/The-Roswell-Report/](https://www.af.mil/The-Roswell-Report/)  
+   Link: <a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Air ForceThe Roswell ReportThe 1994 Air Force report concluded that the predecessor to the U.S. Air Force, the U.S. Army Air Forces...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: sgp.fas.org  
-   Link: [https://sgp.fas.org/othergov/roswell.html](https://sgp.fas.org/othergov/roswell.html)  
+   Link: <a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>effort to determine the state of Soviet nuclear weapons research using balloons...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Project Mogul  
-   Link: [https://en.wikipedia.org/wiki/Project_Mogul](https://en.wikipedia.org/wiki/Project_Mogul)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
 
 4. <a id="endnote-4"></a>
    Source: media.defense.gov  
    Title: AFD 101027 030  
-   Link: [https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf](https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf)  
+   Link: <a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;Project MOGUL balloon train similar to one found on a ranch. 75 miles n...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: wired.com  
-   Link: [https://www.wired.com/story/roswell-aliens-fermi-paradox](https://www.wired.com/story/roswell-aliens-fermi-paradox)  
+   Link: <a href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/roswell-aliens-fermi-paradox</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and Cold War era activities rather than extraterrestrial invol...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: britannica.com  
    Title: Roswell incident  
-   Link: [https://www.britannica.com/event/Roswell-incident](https://www.britannica.com/event/Roswell-incident)  
+   Link: <a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaRoswell incident | Overview, Theories, [Hoaxes](&amp;#123;&amp;#123; &#x27;hoaxes/&#x27; | relative_url &amp;#125;&amp;#125;), &amp; Facts8 May 2026 — In 1994 it was finally revealed that the balloo...</p></details>
    Published: May 2026  
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: [https://en.wikipedia.org/wiki/Roswell_incident](https://en.wikipedia.org/wiki/Roswell_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
 
 8. <a id="endnote-8"></a>
    Source: gutenberg.org  
    Title: Project Gutenberg The Roswell Report: Case Closed, by James Mc Andrew—  
-   Link: [https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm](https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm)  
+   Link: <a href="https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell, was the actual landing site of a Project Mogul balloon train in June 1947.[10] The Mogul landing site is referred to in popular...</p></details>
    Published: June 1947  
 
 9. <a id="endnote-9"></a>
    Source: gutenberg.org  
-   Link: [https://www.gutenberg.org/cache/epub/63659/pg63659-images.html](https://www.gutenberg.org/cache/epub/63659/pg63659-images.html)  
+   Link: <a href="https://www.gutenberg.org/cache/epub/63659/pg63659-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/63659/pg63659-images.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project GutenbergThe Roswell Report: Case Closed“Aliens” observed in the New Mexico desert were probably anthropomorphic test dummies tha...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: gutenberg.org  
-   Link: [https://www.gutenberg.org/files/63659/63659-h/63659-h.htm](https://www.gutenberg.org/files/63659/63659-h/63659-h.htm)  
+   Link: <a href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/63659-h/63659-h.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force photos). 23. 1.2. High Altitude Balloon Dummy Drops. From 1953 to 1959, anthropomorphic dummies were used by the U.S. Air Force...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: dafhistory.af.mil  
-   Link: [https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf](https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf)  
+   Link: <a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the request made...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Us (2019 film)  
-   Link: [https://en.wikipedia.org/wiki/Us_%282019_film%29](https://en.wikipedia.org/wiki/Us_%282019_film%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Us_%282019_film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Us_%282019_film%29</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Us (2019 film)Us is a 2019 American psychological horror film written and directed by Jordan Peele, and starring Lupita Nyong&#x27;o, Winst...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: time.com  
    Title: aliens or dummies  
-   Link: [https://time.com/archive/6930414/aliens-or-dummies/](https://time.com/archive/6930414/aliens-or-dummies/)  
+   Link: <a href="https://time.com/archive/6930414/aliens-or-dummies/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6930414/aliens-or-dummies/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>23 Jun 1997 — According to “The Roswell Report, Case Closed,” life-sized latex and aluminum test dummies were used in high-altitude parac...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: history.com  
    Title: u s air force reports on roswell  
-   Link: [https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell](https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell)  
+   Link: <a href="https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Air Force reports on Roswell | June 24, 1997Titled “The Roswell Report, Case Closed,” the document stated... dummies used in parach...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: muller.lbl.gov  
-   Link: [https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html](https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html)  
+   Link: <a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabProject MogulRecent research indicates that the debris recovered from the ranch on July 7, 1947, was a weather balloon -- but i...</p></details>
    Published: July 7, 1947  
 
 17. <a id="endnote-17"></a>
    Source: theguardian.com  
    Title: archive where no mannequin has been before 1997  
-   Link: [https://www.theguardian.com/theguardian/2010/jun/25/archive-where-no-mannequin-has-been-before-1997](https://www.theguardian.com/theguardian/2010/jun/25/archive-where-no-mannequin-has-been-before-1997)  
+   Link: <a href="https://www.theguardian.com/theguardian/2010/jun/25/archive-where-no-mannequin-has-been-before-1997" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/theguardian/2010/jun/25/archive-where-no-mannequin-has-been-before-1997</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>From the archive, 25 June 1997: Where no mannequin has...Jun 25, 2010 — But the air force said yesterday that witnesses who claimed to h...</p></details>
    Published: June 1997  
 
 18. <a id="endnote-18"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/world/2026/may/13/trump-china-summit-xi-jinping-talks](https://www.theguardian.com/world/2026/may/13/trump-china-summit-xi-jinping-talks)  
+   Link: <a href="https://www.theguardian.com/world/2026/may/13/trump-china-summit-xi-jinping-talks" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/may/13/trump-china-summit-xi-jinping-talks</a>  
 
 19. <a id="endnote-19"></a>
    Source: theguardian.com  
    Title: Cost of US war on Iran mounting – as it happened  
-   Link: [https://www.theguardian.com/world/live/2026/may/12/middle-east-crisis-us-iran-israel-donald-trump-ceasefire-peace-plan-latest-news-updates](https://www.theguardian.com/world/live/2026/may/12/middle-east-crisis-us-iran-israel-donald-trump-ceasefire-peace-plan-latest-news-updates)  
+   Link: <a href="https://www.theguardian.com/world/live/2026/may/12/middle-east-crisis-us-iran-israel-donald-trump-ceasefire-peace-plan-latest-news-updates" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/live/2026/may/12/middle-east-crisis-us-iran-israel-donald-trump-ceasefire-peace-plan-latest-news-updates</a>  
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: thesun.co.uk  
-   Link: [https://www.thesun.co.uk/news/36780882/ufo-debris-alien-bodies-roswell-incident-video-new-mexico/](https://www.thesun.co.uk/news/36780882/ufo-debris-alien-bodies-roswell-incident-video-new-mexico/)  
+   Link: <a href="https://www.thesun.co.uk/news/36780882/ufo-debris-alien-bodies-roswell-incident-video-new-mexico/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/news/36780882/ufo-debris-alien-bodies-roswell-incident-video-new-mexico/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives, reigniting interest in the 1947 Roswell UFO crash. The video shows a mix of still images, motion-controlled shots, and...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1aus1bi/the_long_held_mogul_balloon_explanation_for_the/](https://www.reddit.com/r/UFOs/comments/1aus1bi/the_long_held_mogul_balloon_explanation_for_the/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1aus1bi/the_long_held_mogul_balloon_explanation_for_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1aus1bi/the_long_held_mogul_balloon_explanation_for_the/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The long held Mogul Balloon explanation for the Roswell...The Mogul Balloon explanation is a theory that the DoD has long held to explai...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: physics.smu.edu  
-   Link: [https://www.physics.smu.edu/pseudo/UFOs/pt01a.pdf](https://www.physics.smu.edu/pseudo/UFOs/pt01a.pdf)  
+   Link: <a href="https://www.physics.smu.edu/pseudo/UFOs/pt01a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.physics.smu.edu/pseudo/UFOs/pt01a.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of the suspect debris with that of the components of a Project MOGUL balloon train. MOGUL reports and documents that contain descriptions...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/](https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/)  
+   Link: <a href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/</a>  
 
 24. <a id="endnote-24"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/pukljc/the_roswell_report_case_closed/](https://www.reddit.com/r/UFOs/comments/pukljc/the_roswell_report_case_closed/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/pukljc/the_roswell_report_case_closed/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/pukljc/the_roswell_report_case_closed/</a>  
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
    Title: on this day in 1997 the united states air force issued an exhaustive report supp  
-   Link: [https://www.facebook.com/TravelChannel/posts/on-this-day-in-1997-the-united-states-air-force-issued-an-exhaustive-report-supp/10159598454568851/](https://www.facebook.com/TravelChannel/posts/on-this-day-in-1997-the-united-states-air-force-issued-an-exhaustive-report-supp/10159598454568851/)  
+   Link: <a href="https://www.facebook.com/TravelChannel/posts/on-this-day-in-1997-the-united-states-air-force-issued-an-exhaustive-report-supp/10159598454568851/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TravelChannel/posts/on-this-day-in-1997-the-united-states-air-force-issued-an-exhaustive-report-supp/10159598454568851/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>On this day in 1997 The United States Air Force issued...Titled “The Roswell Report, Case Closed,” the document stated definitively that...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: smithsonianmag.com  
    Title: in 1947 high altitude balloon crash landed roswell aliens never left 180963917  
-   Link: [https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/](https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/)  
+   Link: <a href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Jul 2017 — Typically, a Project Mogul balloon sent into high altitude stretched... At their most secretive sites, they posted large, u...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: nasw.org  
-   Link: [https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm](https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm)  
+   Link: <a href="https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>No aliens Visit Earth, But The Government Covers Up...The army sent an intelligence officer, Major Jesse Marcel, to check out the report...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: facebook.com  
    Title: aliens or crash test dummies watch the roswell reports 1997  
-   Link: [https://www.facebook.com/cspanhistory/videos/aliens-or-crash-test-dummies-watch-the-roswell-reports-1997/326070695144330/](https://www.facebook.com/cspanhistory/videos/aliens-or-crash-test-dummies-watch-the-roswell-reports-1997/326070695144330/)  
+   Link: <a href="https://www.facebook.com/cspanhistory/videos/aliens-or-crash-test-dummies-watch-the-roswell-reports-1997/326070695144330/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cspanhistory/videos/aliens-or-crash-test-dummies-watch-the-roswell-reports-1997/326070695144330/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens or Crash Test Dummies!? &quot;The Roswell Reports&quot; (1997...The dummies were released for a free fall period during which body movement...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: blogs.library.unt.edu  
    Title: 75 years after the roswell incident what have we learned  
-   Link: [https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/](https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/)  
+   Link: <a href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>unt.edu75 Years after the Roswell Incident, What Have We Learned?Jul 7, 2022 — In some cases, the “alien” bodies were in reality anthropo...</p></details>

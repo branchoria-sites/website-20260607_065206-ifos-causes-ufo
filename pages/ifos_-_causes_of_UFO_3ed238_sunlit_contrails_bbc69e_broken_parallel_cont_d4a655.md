@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_missile_launch_contr_3a26cf
 - ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_twilight_fireball_co_d82707
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - contrails
 - broken-trails
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - contrails
 - broken-trails
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Multiple engines, humidity gaps, shadows, and wind shear can make contrails look like rods, segments, lanes, or several lights.
 hero_summary: Multiple engines, humidity gaps, shadows, and wind shear can make contrails look like rods, segments, lanes, or several lights.
 layout: default
 permalink: /broken-trails/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /contrails/
 nav_short_title: Broken trails
 title: When Contrails Look Like Structured UFOs
-title_full: When Contrails Look Like Structured UFOs | Contrails
+title_full: When Contrails Look Like Structured UFOs
 display_title_short: Broken trails
 display_title: Broken trails
 heading_title: When Contrails Look Like Structured UFOs
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 21:42:39'
-parent_title: Why Jet Trails Glow Like UFOs | IFOs
+parent_title: Why Jet Trails Glow Like UFOs
 parent_permalink: /contrails/
 parent_nav_short_title: Contrails
 parent_heading_title: Why Jet Trails Glow Like UFOs
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e
-  title: Contrails | Ifos Causes Of
+  title: Contrails | ifos causes of UFO 3 ed 238
   permalink: /contrails/
   short_title: Contrails
   heading_title: Why Jet Trails Glow Like UFOs
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e
-  title: Contrails | Ifos Causes Of
+  title: Contrails | ifos causes of UFO 3 ed 238
   permalink: /contrails/
   short_title: Contrails
   heading_title: Why Jet Trails Glow Like UFOs
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: When a Jet Trail Looks Like a Missile
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e
-  title: Contrails | Ifos Causes Of
+  title: Contrails | ifos causes of UFO 3 ed 238
   permalink: /contrails/
   short_title: Contrails
   heading_title: Why Jet Trails Glow Like UFOs
@@ -266,6 +265,7 @@ next_link:
   permalink: /fireball-trails/
   short_title: Fireball trails
   heading_title: Why Some Fireballs Are Really Jet Trails
+date: '2026-06-12 00:38:57 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_broken_parallel_cont_d4a655-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_broken_parallel_cont_d4a655-Illustration-1.webp
@@ -274,14 +274,12 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_broken
 
 ## Introduction
 
-Not every contrail appears as a single, continuous white line behind an aircraft. Changes in humidity, the spacing of multiple engines, shadows, perspective and wind shear can transform an ordinary aircraft trail into something that resembles a structured craft with separate lights, segmented bodies, parallel tubes or geometric formations. These effects are especially important in UFO reports because observers often focus on the bright visible portions of a trail while the aircraft itself is too distant to recognise. A broken or multi-lane contrail can therefore appear less like a cloud and more like a solid object with distinct components, even when the underlying cause is a conventional aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/contrails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationContrails | Federal Aviation AdministrationJul 21, 2025 — Contrails are created when airplanes fly in cold...</span></span></span>
-
+Not every contrail appears as a single, continuous white line behind an aircraft. Changes in humidity, the spacing of multiple engines, shadows, perspective and wind shear can transform an ordinary aircraft trail into something that resembles a structured craft with separate lights, segmented bodies, parallel tubes or geometric formations. These effects are especially important in UFO reports because observers often focus on the bright visible portions of a trail while the aircraft itself is too distant to recognise. A broken or multi-lane contrail can therefore appear less like a cloud and more like a solid object with distinct components, even when the underlying cause is a conventional aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/contrails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationContrails &#124; Federal Aviation AdministrationJul 21, 2025 — Contrails are created when airplanes fly in cold...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_broken_parallel_cont_d4a655-Illustration-1-dark.svg" | relative_url }}" alt="Broken trails illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_broken_parallel_cont_d4a655-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_broken_parallel_cont_d4a655-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How Multi-Engine Aircraft Create Parallel Trails
 
 One of the most common reasons a contrail looks structured is that many airliners do not produce a single trail. Twin-engine aircraft typically create two [contrails]({{ 'contrails/' | relative_url }}), while four-engine aircraft can produce four separate streams. Depending on viewing angle and atmospheric conditions, these trails may appear as:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -292,10 +290,9 @@ One of the most common reasons a contrail looks structured is that many airliner
 
 </div>
 
-At great distances, the observer may not resolve the aircraft itself. Instead, only the illuminated contrails are visible. If the trails are lit by low-angle sunlight while the aircraft remains difficult to see, the result can resemble a large structured object rather than an aeroplane. This effect becomes more pronounced when atmospheric haze softens the boundaries between individual trails. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/contrails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationContrails | Federal Aviation AdministrationJul 21, 2025 — Contrails are created when airplanes fly in cold...</span></span></span>
+At great distances, the observer may not resolve the aircraft itself. Instead, only the illuminated contrails are visible. If the trails are lit by low-angle sunlight while the aircraft remains difficult to see, the result can resemble a large structured object rather than an aeroplane. This effect becomes more pronounced when atmospheric haze softens the boundaries between individual trails. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/contrails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationContrails &#124; Federal Aviation AdministrationJul 21, 2025 — Contrails are created when airplanes fly in cold...</span></span></span>
 
 Perspective can also exaggerate the impression of a solid craft. Parallel contrails viewed nearly head-on may seem to converge, while trails viewed at an angle can appear attached to a central glowing body. In UFO reports, observers sometimes interpret these arrangements as windows, engines or separate vehicles flying in formation when they are actually condensation trails generated by a single aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://contrailscience.com/a-problem-of-perspective-in-the-oc-new-years-eve-contrail/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: contrailscience.com">[Contrail Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">contrailscience.com</span><span class="citation-popover-title">a problem of perspective in the oc new years eve contrail</span><span class="citation-popover-snippet">Click these for larger images: The idea that it&#x27;s a missile launch comes from three misconceptions.Read more...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UCiyn8OxKjA" title="NASA explain what contrails are and their atmospheric effect - Daily Mail" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UCiyn8OxKjA" target="_blank" rel="noopener noreferrer">NASA explain what contrails are and their atmospheric effect - Daily Mail</a></p><p class="youtube-embed-meta">Channel: Daily Mail World &middot; Views: 10.2K &middot; Uploaded: March 2018 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UCiyn8OxKjA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UCiyn8OxKjA">Open on YouTube</a></p></div></div></div>
 
@@ -303,10 +300,9 @@ Perspective can also exaggerate the impression of a solid craft. Parallel contra
 
 A widespread misconception is that a genuine aircraft contrail must be continuous. In reality, the [atmosphere]({{ 'atmosphere/' | relative_url }}) can change significantly over surprisingly short distances.
 
-Contrails form only when temperature and humidity conditions are favourable. If an aircraft passes through alternating zones of ice-supersaturated and drier air, a trail may repeatedly appear and disappear. Researchers and aviation agencies note that persistent contrails depend strongly on local humidity conditions; small changes in moisture can determine whether a visible trail forms at all. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/contrails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationContrails | Federal Aviation AdministrationJul 21, 2025 — Contrails are created when airplanes fly in cold...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.epa.gov/regulations-emissions-vehicles-and-engines/Contrails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epa.gov">[US EPA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epa.gov</span><span class="citation-popover-snippet">Information on Contrails from Aircraft22 Jul 2025 — A contrail will form if the humidity becomes high enough (and the air temperature bec...</span></span></span>
+Contrails form only when temperature and humidity conditions are favourable. If an aircraft passes through alternating zones of ice-supersaturated and drier air, a trail may repeatedly appear and disappear. Researchers and aviation agencies note that persistent contrails depend strongly on local humidity conditions; small changes in moisture can determine whether a visible trail forms at all. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/contrails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationContrails &#124; Federal Aviation AdministrationJul 21, 2025 — Contrails are created when airplanes fly in cold...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.epa.gov/regulations-emissions-vehicles-and-engines/Contrails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epa.gov">[US EPA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epa.gov</span><span class="citation-popover-snippet">Information on Contrails from Aircraft22 Jul 2025 — A contrail will form if the humidity becomes high enough (and the air temperature bec...</span></span></span>
 
 The result can be a sequence of bright segments separated by dark gaps:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -316,8 +312,7 @@ The result can be a sequence of bright segments separated by dark gaps:
 
 </div>
 
-To an observer on the ground, these disconnected pieces may look like separate objects flying in formation. When viewed near sunset, the bright sections can resemble a chain of luminous craft or a segmented cylindrical vehicle. Reports of “dashed-line UFOs” or “multiple glowing objects connected by nothing” often match this atmospheric behaviour. Reddit MiGFlug The visual illusion becomes stronger because the human eye naturally groups aligned bright features into a single structured pattern. Rather <span class="citation-chip-wrap"><a class="citation-chip" href="https://migflug.com/jetflights/why-some-contrails-stretch-across-the-entire-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: migflug.com">[migflug.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">migflug.com</span><span class="citation-popover-snippet">MiGFlugWhy Some Contrails Stretch Across the Entire SkyApr 8, 2026 — In supersaturated conditions, the ice crystals that form the contrai...</span></span></span> than interpreting the gaps as missing cloud, observers may perceive deliberate spacing or engineered design.
-
+To an observer on the ground, these disconnected pieces may look like separate objects flying in formation. When viewed near sunset, the bright sections can resemble a chain of luminous craft or a segmented cylindrical vehicle. Reports of “dashed-line UFOs” or “multiple glowing objects connected by nothing” often match this atmospheric behaviour. Reddit MiGFlug The visual illusion becomes stronger because the human eye naturally groups aligned bright features into a single structured pattern. Rather <span class="citation-chip-wrap"><a class="citation-chip" href="https://migflug.com/jetflights/why-some-contrails-stretch-across-the-entire-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: migflug.com">[migflug.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">migflug.com</span><span class="citation-popover-snippet">Why Some Contrails Stretch Across the Entire SkyApr 8, 2026 — In supersaturated conditions, the ice crystals that form the contrai...</span></span></span> than interpreting the gaps as missing cloud, observers may perceive deliberate spacing or engineered design.
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_broken_parallel_cont_d4a655-Illustration-2-dark.svg" | relative_url }}" alt="Broken trails illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_broken_parallel_cont_d4a655-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_broken_parallel_cont_d4a655-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Shadows and Wind Shear Mimic Structure
@@ -327,7 +322,6 @@ Contrails do not remain static after formation. Once created, they continue evol
 Wind shear occurs when wind speed or direction changes with altitude. Studies of contrail development show that wind shear can spread and distort contrails horizontally, separating portions of the trail and creating layered or braided appearances. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www-pm.larc.nasa.gov/sass/pub/journals/Kaercher.etal.ACP.09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www-pm.larc.nasa.gov">[NASA LaRC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www-pm.larc.nasa.gov</span><span class="citation-popover-title">Kaercher.etal.AC P.09</span><span class="citation-popover-snippet">more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dev.satcorps.smce.nasa.gov/site/doc-library/204-Iwabuchi.etal.JGR.11.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dev.satcorps.smce.nasa.gov">[NASA LaRC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dev.satcorps.smce.nasa.gov</span><span class="citation-popover-snippet">NASA LaRCPhysical and Optical Properties of Persistent Contrailsby H Iwabuchi · Cited by 108 — If a thick contrail has been evolved in a...</span></span></span>
 
 Several UFO-like effects can emerge:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -340,15 +334,12 @@ Several UFO-like effects can emerge:
 
 Shadows can add another layer of complexity. A thick contrail may cast a shadow onto lower cloud layers or even onto another part of the same contrail system. Alternating bright and dark bands can therefore appear where no physical structure exists. Under low Sun angles, these contrasts can resemble the outlines of a long craft with distinct sections. What appears to be a solid object's surface detail may actually be changing illumination across ice-crystal clouds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www-pm.larc.nasa.gov/site/doc-library/208-Minnis.CONTRAILS.Ed2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www-pm.larc.nasa.gov">[NASA LaRC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www-pm.larc.nasa.gov</span><span class="citation-popover-snippet">Fig. 3b), the contrail may spread mostly by turbulent mixing induced by the aircraft vortex or by radiative processes. It may also...Re...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IvNUglZL3d4" title="Launchpad: Contrails" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IvNUglZL3d4" target="_blank" rel="noopener noreferrer">Launchpad: Contrails</a></p><p class="youtube-embed-meta">Channel: NASA eClips - ARCHIVE &middot; Views: 4.2K &middot; Uploaded: January 2009 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IvNUglZL3d4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IvNUglZL3d4">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_broken_parallel_cont_d4a655-Illustration-3-dark.svg" | relative_url }}" alt="Broken trails illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_broken_parallel_cont_d4a655-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_broken_parallel_cont_d4a655-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why These Patterns Are Often Misread as Craft Structure
 
 Human perception is highly sensitive to symmetry and repeated patterns. Parallel lines, evenly spaced bright segments and persistent geometric arrangements are features people commonly associate with engineered objects.
 
 Contrails can unintentionally produce all of these cues:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -362,14 +353,13 @@ Contrails can unintentionally produce all of these cues:
 
 Because the visible portions are often brighter than the aircraft itself, observers may conclude that the glowing structures are the object rather than the trail. The interpretation becomes even more persuasive when photographs compress depth and remove contextual clues about altitude and distance.
 
-A notable pattern in UFO investigations is that apparently structured sightings frequently lose their mystery when wider-angle images, flight-track data or later photographs reveal the full contrail system. The same object that initially appeared as a segmented craft is often shown to be a normal aircraft trail evolving in a complex atmosphere. Contrail Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/contrails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationContrails | Federal Aviation AdministrationJul 21, 2025 — Contrails are created when airplanes fly in cold...</span></span></span>
+A notable pattern in UFO investigations is that apparently structured sightings frequently lose their mystery when wider-angle images, flight-track data or later photographs reveal the full contrail system. The same object that initially appeared as a segmented craft is often shown to be a normal aircraft trail evolving in a complex atmosphere. Contrail Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/contrails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationContrails &#124; Federal Aviation AdministrationJul 21, 2025 — Contrails are created when airplanes fly in cold...</span></span></span>
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IvNUglZL3d4" title="Launchpad: Contrails" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IvNUglZL3d4" target="_blank" rel="noopener noreferrer">Launchpad: Contrails</a></p><p class="youtube-embed-meta">Channel: NASA eClips - ARCHIVE &middot; Views: 4.2K &middot; Uploaded: January 2009 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IvNUglZL3d4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IvNUglZL3d4">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_broken_parallel_cont_d4a655-Illustration-3-dark.svg" | relative_url }}" alt="Broken trails illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_broken_parallel_cont_d4a655-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_broken_parallel_cont_d4a655-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What to Look For When Evaluating a Sighting
 
 When a reported UFO appears as several aligned lights, rods or segments, a few observations can help distinguish a structured craft from a contrail phenomenon:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -381,11 +371,7 @@ When a reported UFO appears as several aligned lights, rods or segments, a few o
 
 </div>
 
-A trail does not need to be continuous, uniform or simple to originate from an aircraft. Broken segments, multiple lanes and apparent structural details are all natural consequences of how contrails interact with changing humidity, lighting and wind conditions. In many UFO reports, those atmospheric effects create the impression of a complex craft where the underlying mechanism is an ordinary aircraft operating in an unusually revealing sky. NASA LaRC 3Reddit <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/contrails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationContrails | Federal Aviation AdministrationJul 21, 2025 — Contrails are created when airplanes fly in cold...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/e20vaAtncsM" title="What are CHEMTRAILS? Proving they EXIST by &quot;CAPTAIN&quot; Joe" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=e20vaAtncsM" target="_blank" rel="noopener noreferrer">What are CHEMTRAILS? Proving they EXIST by &quot;CAPTAIN&quot; Joe</a></p><p class="youtube-embed-meta">Channel: Captain Joe</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=e20vaAtncsM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=e20vaAtncsM">Open on YouTube</a></p></div></div></div>
-
+A trail does not need to be continuous, uniform or simple to originate from an aircraft. Broken segments, multiple lanes and apparent structural details are all natural consequences of how contrails interact with changing humidity, lighting and wind conditions. In many UFO reports, those atmospheric effects create the impression of a complex craft where the underlying mechanism is an ordinary aircraft operating in an unusually revealing sky. NASA LaRC 3Reddit <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/contrails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationContrails &#124; Federal Aviation AdministrationJul 21, 2025 — Contrails are created when airplanes fly in cold...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -504,15 +490,15 @@ A trail does not need to be continuous, uniform or simple to originate from an a
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=broken-trails-when-contrails-look-like-structured-ufos-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="broken-trails-when-contrails-look-like-structured-ufos-ifos-causes-of-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/100 NUOTIE SU-57 Fighter Jet Diecast Alloy Model Splinter Camo White Blue"><img src="{{ '/assets/images/marketplace-covers/4b30c0d6288b26daac7b.jpg' | relative_url }}" alt="Listing image for 1/100 NUOTIE SU-57 Fighter Jet Diecast Alloy Model Splinter Camo White Blue" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-contrails-look-like-structured-ufos-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="when-contrails-look-like-structured-ufos-airliner-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Blue Box 1:400 Airbus A320neo Easyjet G-UZEF Ref: BT400-A320-003"><img src="https://i.ebayimg.com/images/g/9ZsAAeSw0DRqKto4/s-l225.jpg" alt="Listing image for Blue Box 1:400 Airbus A320neo Easyjet G-UZEF Ref: BT400-A320-003" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=broken-trails-when-contrails-look-like-structured-ufos-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="broken-trails-when-contrails-look-like-structured-ufos-ifos-causes-of-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">1/100 NUOTIE SU-57 Fighter Jet Diecast Alloy Model Splinter Camo White Blue</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-contrails-look-like-structured-ufos-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="when-contrails-look-like-structured-ufos-airliner-model" target="_blank" rel="sponsored noopener noreferrer">Blue Box 1:400 Airbus A320neo Easyjet G-UZEF Ref: BT400-A320-003</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=broken-trails-when-contrails-look-like-structured-ufos-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="broken-trails-when-contrails-look-like-structured-ufos-ifos-causes-of-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search <span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-contrails-look-like-structured-ufos-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="when-contrails-look-like-structured-ufos-airliner-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airliner model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airliner model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=broken-trails-when-contrails-look-like-structured-ufos-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="broken-trails-when-contrails-look-like-structured-ufos-ifos-causes-of-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-contrails-look-like-structured-ufos-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="when-contrails-look-like-structured-ufos-airliner-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -520,15 +506,15 @@ A trail does not need to be continuous, uniform or simple to originate from an a
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=broken-trails-when-contrails-look-like-structured-ufos-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="broken-trails-when-contrails-look-like-structured-ufos-ifos-causes-of-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:72 F/A-18F Super Hornet Fighter Jet Aircraft Model USAF VFA-103 Jolly Roger"><img src="{{ '/assets/images/marketplace-covers/ee4657dd148b01c30206.jpg' | relative_url }}" alt="Listing image for 1:72 F/A-18F Super Hornet Fighter Jet Aircraft Model USAF VFA-103 Jolly Roger" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-contrails-look-like-structured-ufos-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="when-contrails-look-like-structured-ufos-airliner-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SKYMARKS SKR688 AER LINGUS AIRBUS A320 RETRO LIVERY SCALE 1/150 VERY Rare Model"><img src="https://i.ebayimg.com/images/g/uusAAeSwVa9qKd~s/s-l225.jpg" alt="Listing image for SKYMARKS SKR688 AER LINGUS AIRBUS A320 RETRO LIVERY SCALE 1/150 VERY Rare Model" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=broken-trails-when-contrails-look-like-structured-ufos-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="broken-trails-when-contrails-look-like-structured-ufos-ifos-causes-of-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">1:72 F/A-18F Super Hornet Fighter Jet Aircraft Model USAF VFA-103 Jolly Roger</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-contrails-look-like-structured-ufos-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="when-contrails-look-like-structured-ufos-airliner-model" target="_blank" rel="sponsored noopener noreferrer">SKYMARKS SKR688 AER LINGUS AIRBUS A320 RETRO LIVERY SCALE 1/150 VERY Rare Model</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=broken-trails-when-contrails-look-like-structured-ufos-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="broken-trails-when-contrails-look-like-structured-ufos-ifos-causes-of-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search <span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-contrails-look-like-structured-ufos-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="when-contrails-look-like-structured-ufos-airliner-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airliner model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airliner model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=broken-trails-when-contrails-look-like-structured-ufos-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="broken-trails-when-contrails-look-like-structured-ufos-ifos-causes-of-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-contrails-look-like-structured-ufos-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="when-contrails-look-like-structured-ufos-airliner-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -536,15 +522,15 @@ A trail does not need to be continuous, uniform or simple to originate from an a
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=broken-trails-when-contrails-look-like-structured-ufos-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="broken-trails-when-contrails-look-like-structured-ufos-ifos-causes-of-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:72 Scale F-14 Tomcat Fighter Jet Model Aircraft Detailed Design with stand"><img src="{{ '/assets/images/marketplace-covers/d26c6f404c1c432747a9.jpg' | relative_url }}" alt="Listing image for 1:72 Scale F-14 Tomcat Fighter Jet Model Aircraft Detailed Design with stand" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-contrails-look-like-structured-ufos-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="when-contrails-look-like-structured-ufos-airliner-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Blue Box 1:400 Airbus A319-111 Easyjet G-EZGI Ref: BT400-A319-001"><img src="https://i.ebayimg.com/images/g/GNwAAeSwsJZqKt1A/s-l225.jpg" alt="Listing image for Blue Box 1:400 Airbus A319-111 Easyjet G-EZGI Ref: BT400-A319-001" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=broken-trails-when-contrails-look-like-structured-ufos-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="broken-trails-when-contrails-look-like-structured-ufos-ifos-causes-of-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">1:72 Scale F-14 Tomcat Fighter Jet Model Aircraft Detailed Design with stand</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-contrails-look-like-structured-ufos-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="when-contrails-look-like-structured-ufos-airliner-model" target="_blank" rel="sponsored noopener noreferrer">Blue Box 1:400 Airbus A319-111 Easyjet G-EZGI Ref: BT400-A319-001</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=broken-trails-when-contrails-look-like-structured-ufos-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="broken-trails-when-contrails-look-like-structured-ufos-ifos-causes-of-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search <span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-contrails-look-like-structured-ufos-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="when-contrails-look-like-structured-ufos-airliner-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airliner model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airliner model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=broken-trails-when-contrails-look-like-structured-ufos-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="broken-trails-when-contrails-look-like-structured-ufos-ifos-causes-of-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-contrails-look-like-structured-ufos-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="when-contrails-look-like-structured-ufos-airliner-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -552,15 +538,15 @@ A trail does not need to be continuous, uniform or simple to originate from an a
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=broken-trails-when-contrails-look-like-structured-ufos-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="broken-trails-when-contrails-look-like-structured-ufos-ifos-causes-of-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:100 F-14 VF-84 Tomcat Jolly Rogers Fighter Jet Aircraft Diecast Model US Navy"><img src="{{ '/assets/images/marketplace-covers/6a1f107505f4e8ba24cf.jpg' | relative_url }}" alt="Listing image for 1:100 F-14 VF-84 Tomcat Jolly Rogers Fighter Jet Aircraft Diecast Model US Navy" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-contrails-look-like-structured-ufos-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="when-contrails-look-like-structured-ufos-airliner-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flybe / Logan Air DHC-6 Model Airline Skymarks Scale 1/50 VERY RARE G-BVVK"><img src="https://i.ebayimg.com/images/g/8igAAeSwgU1qJbTY/s-l225.jpg" alt="Listing image for Flybe / Logan Air DHC-6 Model Airline Skymarks Scale 1/50 VERY RARE G-BVVK" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=broken-trails-when-contrails-look-like-structured-ufos-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="broken-trails-when-contrails-look-like-structured-ufos-ifos-causes-of-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">1:100 F-14 VF-84 Tomcat Jolly Rogers Fighter Jet Aircraft Diecast Model US Navy</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-contrails-look-like-structured-ufos-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="when-contrails-look-like-structured-ufos-airliner-model" target="_blank" rel="sponsored noopener noreferrer">Flybe / Logan Air DHC-6 Model Airline Skymarks Scale 1/50 VERY RARE G-BVVK</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=broken-trails-when-contrails-look-like-structured-ufos-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="broken-trails-when-contrails-look-like-structured-ufos-ifos-causes-of-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search <span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-contrails-look-like-structured-ufos-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="when-contrails-look-like-structured-ufos-airliner-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airliner model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airliner model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=broken-trails-when-contrails-look-like-structured-ufos-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="broken-trails-when-contrails-look-like-structured-ufos-ifos-causes-of-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-contrails-look-like-structured-ufos-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="when-contrails-look-like-structured-ufos-airliner-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -568,7 +554,7 @@ A trail does not need to be continuous, uniform or simple to originate from an a
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=broken-trails-when-contrails-look-like-structured-ufos-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="broken-trails-when-contrails-look-like-structured-ufos-ifos-causes-of-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-contrails-look-like-structured-ufos-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="when-contrails-look-like-structured-ufos-airliner-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -783,148 +769,148 @@ A trail does not need to be continuous, uniform or simple to originate from an a
 
 1. <a id="endnote-1"></a>
    Source: epa.gov  
-   Link: [https://www.epa.gov/regulations-emissions-vehicles-and-engines/Contrails](https://www.epa.gov/regulations-emissions-vehicles-and-engines/Contrails)  
+   Link: <a href="https://www.epa.gov/regulations-emissions-vehicles-and-engines/Contrails" target="_blank" rel="noopener noreferrer nofollow">https://www.epa.gov/regulations-emissions-vehicles-and-engines/Contrails</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Information on Contrails from Aircraft22 Jul 2025 — A contrail will form if the humidity becomes high enough (and the air temperature bec...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: earthdata.nasa.gov  
    Title: trail contrails  
-   Link: [https://www.earthdata.nasa.gov/news/feature-articles/trail-contrails](https://www.earthdata.nasa.gov/news/feature-articles/trail-contrails)  
+   Link: <a href="https://www.earthdata.nasa.gov/news/feature-articles/trail-contrails" target="_blank" rel="noopener noreferrer nofollow">https://www.earthdata.nasa.gov/news/feature-articles/trail-contrails</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA EarthdataOn the Trail of Contrailsby L Naranjo · 2020 — Contrails are the linear clouds etched across the skies by high-altitude air...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: reddit.com  
    Title: That area probably has a lower relative humidity, so the water vapor expelled  
-   Link: [https://www.reddit.com/r/flying/comments/z8lxew/can_someone_explain_why_there_is_gaps_in_the/](https://www.reddit.com/r/flying/comments/z8lxew/can_someone_explain_why_there_is_gaps_in_the/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditCan someone explain why there is gaps in the contrails?November 30, 2022 — The zone that lets contrails form can sometimes have som...</p></details>
+   Link: <a href="https://www.reddit.com/r/flying/comments/z8lxew/can_someone_explain_why_there_is_gaps_in_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/flying/comments/z8lxew/can_someone_explain_why_there_is_gaps_in_the/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Can someone explain why there is gaps in the contrails?November 30, 2022 — The zone that lets contrails form can sometimes have som...</p></details>
    Published: November 30, 2022  
 
 4. <a id="endnote-4"></a>
    Source: migflug.com  
-   Link: [https://migflug.com/jetflights/why-some-contrails-stretch-across-the-entire-sky/](https://migflug.com/jetflights/why-some-contrails-stretch-across-the-entire-sky/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MiGFlugWhy Some Contrails Stretch Across the Entire SkyApr 8, 2026 — In supersaturated conditions, the ice crystals that form the contrai...</p></details>
+   Link: <a href="https://migflug.com/jetflights/why-some-contrails-stretch-across-the-entire-sky/" target="_blank" rel="noopener noreferrer nofollow">https://migflug.com/jetflights/why-some-contrails-stretch-across-the-entire-sky/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Some Contrails Stretch Across the Entire SkyApr 8, 2026 — In supersaturated conditions, the ice crystals that form the contrai...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: www-pm.larc.nasa.gov  
    Title: Kaercher.etal.AC P.09  
-   Link: [https://www-pm.larc.nasa.gov/sass/pub/journals/Kaercher.etal.ACP.09.pdf](https://www-pm.larc.nasa.gov/sass/pub/journals/Kaercher.etal.ACP.09.pdf)  
+   Link: <a href="https://www-pm.larc.nasa.gov/sass/pub/journals/Kaercher.etal.ACP.09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www-pm.larc.nasa.gov/sass/pub/journals/Kaercher.etal.ACP.09.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: dev.satcorps.smce.nasa.gov  
-   Link: [https://dev.satcorps.smce.nasa.gov/site/doc-library/204-Iwabuchi.etal.JGR.11.pdf](https://dev.satcorps.smce.nasa.gov/site/doc-library/204-Iwabuchi.etal.JGR.11.pdf)  
+   Link: <a href="https://dev.satcorps.smce.nasa.gov/site/doc-library/204-Iwabuchi.etal.JGR.11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dev.satcorps.smce.nasa.gov/site/doc-library/204-Iwabuchi.etal.JGR.11.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA LaRCPhysical and Optical Properties of Persistent Contrailsby H Iwabuchi · Cited by 108 — If a thick contrail has been evolved in a...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: www-pm.larc.nasa.gov  
-   Link: [https://www-pm.larc.nasa.gov/site/doc-library/208-Minnis.CONTRAILS.Ed2.pdf](https://www-pm.larc.nasa.gov/site/doc-library/208-Minnis.CONTRAILS.Ed2.pdf)  
+   Link: <a href="https://www-pm.larc.nasa.gov/site/doc-library/208-Minnis.CONTRAILS.Ed2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www-pm.larc.nasa.gov/site/doc-library/208-Minnis.CONTRAILS.Ed2.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(Fig. 3b), the contrail may spread mostly by turbulent mixing induced by the aircraft vortex or by radiative processes. It may also...Re...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: ntrs.nasa.gov  
    Title: NASA TM 20250007272  
-   Link: [https://ntrs.nasa.gov/api/citations/20250007272/downloads/NASA-TM-20250007272.pdf](https://ntrs.nasa.gov/api/citations/20250007272/downloads/NASA-TM-20250007272.pdf)  
+   Link: <a href="https://ntrs.nasa.gov/api/citations/20250007272/downloads/NASA-TM-20250007272.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20250007272/downloads/NASA-TM-20250007272.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Past Decade of Aviation Contrail Researchby J Li · 2025 — Contrail formation condition: Contrails form when engine-exhaust aerosols mi...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: science.nasa.gov  
    Title: the evolution of a contrail 78154  
-   Link: [https://science.nasa.gov/earth/earth-observatory/the-evolution-of-a-contrail-78154/](https://science.nasa.gov/earth/earth-observatory/the-evolution-of-a-contrail-78154/)  
+   Link: <a href="https://science.nasa.gov/earth/earth-observatory/the-evolution-of-a-contrail-78154/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/earth/earth-observatory/the-evolution-of-a-contrail-78154/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Evolution of a Contrail2 Jun 2012 — While naturally high levels of humidity cause cirrus clouds to form, contrails form in the wake of pa...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
    Title: can anyone explain what they are. Solved.Read more  
-   Link: [https://www.reddit.com/r/whatisthisthing/comments/2tz083/saw_these_two_contrails_in_the_sky_flying/](https://www.reddit.com/r/whatisthisthing/comments/2tz083/saw_these_two_contrails_in_the_sky_flying/)  
+   Link: <a href="https://www.reddit.com/r/whatisthisthing/comments/2tz083/saw_these_two_contrails_in_the_sky_flying/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/whatisthisthing/comments/2tz083/saw_these_two_contrails_in_the_sky_flying/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Saw these two contrails in the sky flying parallel to each...Saw these two contrails in the sky flying parallel to each other, both were...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/contrails](https://www.faa.gov/contrails)  
+   Link: <a href="https://www.faa.gov/contrails" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/contrails</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationContrails | Federal Aviation AdministrationJul 21, 2025 — Contrails are created when airplanes fly in cold...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: contrailscience.com  
    Title: a problem of perspective in the oc new years eve contrail  
-   Link: [https://contrailscience.com/a-problem-of-perspective-in-the-oc-new-years-eve-contrail/](https://contrailscience.com/a-problem-of-perspective-in-the-oc-new-years-eve-contrail/)  
+   Link: <a href="https://contrailscience.com/a-problem-of-perspective-in-the-oc-new-years-eve-contrail/" target="_blank" rel="noopener noreferrer nofollow">https://contrailscience.com/a-problem-of-perspective-in-the-oc-new-years-eve-contrail/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Click these for larger images: The idea that it&#x27;s a missile launch comes from three misconceptions.Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: contrailscience.com  
    Title: Normal contrails can persist and spread.Read more  
-   Link: [https://contrailscience.com/what-in-the-world-are-they-spraying/](https://contrailscience.com/what-in-the-world-are-they-spraying/)  
+   Link: <a href="https://contrailscience.com/what-in-the-world-are-they-spraying/" target="_blank" rel="noopener noreferrer nofollow">https://contrailscience.com/what-in-the-world-are-they-spraying/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunked: What In The World Are They Spraying?26 Oct 2010 — THEREFORE: The trails are aluminum being sprayed as part of a secret governme...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: contrailscience.com  
    Title: contrail grids are not chemtrail grids  
-   Link: [https://contrailscience.com/contrail-grids-are-not-chemtrail-grids/](https://contrailscience.com/contrail-grids-are-not-chemtrail-grids/)  
+   Link: <a href="https://contrailscience.com/contrail-grids-are-not-chemtrail-grids/" target="_blank" rel="noopener noreferrer nofollow">https://contrailscience.com/contrail-grids-are-not-chemtrail-grids/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Each contrail spreads and moves with...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: ebsco.com  
-   Link: [https://www.ebsco.com/research-starters/earth-and-atmospheric-sciences/contrails](https://www.ebsco.com/research-starters/earth-and-atmospheric-sciences/contrails)  
+   Link: <a href="https://www.ebsco.com/research-starters/earth-and-atmospheric-sciences/contrails" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/earth-and-atmospheric-sciences/contrails</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Contrails | Earth and Atmospheric SciencesContrails become visible almost instantly as ice particles grow large enough to scatter light a...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: ascent.aero  
-   Link: [https://ascent.aero/contrails/](https://ascent.aero/contrails/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AscentContrails are ice clouds formed from the condensation of aircraft engine exhaust water vapor onto both co-emitted and naturally occ...</p></details>
+   Link: <a href="https://ascent.aero/contrails/" target="_blank" rel="noopener noreferrer nofollow">https://ascent.aero/contrails/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Contrails are ice clouds formed from the condensation of aircraft engine exhaust water vapor onto both co-emitted and naturally occ...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Contrail](https://en.wikipedia.org/wiki/Contrail)  
+   Link: <a href="https://en.wikipedia.org/wiki/Contrail" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Contrail</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ContrailContrails or vapour trails are line-shaped clouds produced by aircraft engine exhaust or changes in air pressure, typically at...</p></details>
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/Aviationstudys/posts/2114525292318140/](https://www.facebook.com/groups/Aviationstudys/posts/2114525292318140/)  
+   Link: <a href="https://www.facebook.com/groups/Aviationstudys/posts/2114525292318140/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/Aviationstudys/posts/2114525292318140/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Formation of Contrails and Debunking Chemtrail TheoriesThe reason of white lines.The water vapour and sulphur particles from engine nozzl...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: nationalacademies.org  
-   Link: [https://www.nationalacademies.org/read/29073/chapter/2](https://www.nationalacademies.org/read/29073/chapter/2)  
+   Link: <a href="https://www.nationalacademies.org/read/29073/chapter/2" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/29073/chapter/2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Developing a Research Agenda on Contrails and Their...When the surrounding atmosphere is supersaturated with respect to ice, these initi...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: archive.ipcc.ch  
-   Link: [https://archive.ipcc.ch/ipccreports/sres/aviation/index.php?idp=38](https://archive.ipcc.ch/ipccreports/sres/aviation/index.php?idp=38)  
+   Link: <a href="https://archive.ipcc.ch/ipccreports/sres/aviation/index.php?idp=38" target="_blank" rel="noopener noreferrer nofollow">https://archive.ipcc.ch/ipccreports/sres/aviation/index.php?idp=38</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and the Global AtmosphereThe presence of persistent contrails demonstrates that the upper troposphere contains air that is ice-supersatur...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/173661226401229/posts/2092369837863682/](https://www.facebook.com/groups/173661226401229/posts/2092369837863682/)  
+   Link: <a href="https://www.facebook.com/groups/173661226401229/posts/2092369837863682/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/173661226401229/posts/2092369837863682/</a>  
 
 22. <a id="endnote-22"></a>
    Source: rmi.org  
    Title: aviation contrails what we know and what we dont about this warming phenomenon  
-   Link: [https://rmi.org/aviation-contrails-what-we-know-and-what-we-dont-about-this-warming-phenomenon/](https://rmi.org/aviation-contrails-what-we-know-and-what-we-dont-about-this-warming-phenomenon/)  
+   Link: <a href="https://rmi.org/aviation-contrails-what-we-know-and-what-we-dont-about-this-warming-phenomenon/" target="_blank" rel="noopener noreferrer nofollow">https://rmi.org/aviation-contrails-what-we-know-and-what-we-dont-about-this-warming-phenomenon/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation Contrails: What We Know — and What We Don&#x27;t26 Jul 2024 — Condensation trails — or contrails — created by aircraft flying through...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=UCiyn8OxKjA](https://www.youtube.com/watch?v=UCiyn8OxKjA)  
+   Link: <a href="https://www.youtube.com/watch?v=UCiyn8OxKjA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UCiyn8OxKjA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA explain what contrails are and their atmospheric effect...Contrails form when water vapor condenses and freezes around small partic...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DRPPPYmj82v/?hl=en](https://www.instagram.com/reel/DRPPPYmj82v/?hl=en)  
+   Link: <a href="https://www.instagram.com/reel/DRPPPYmj82v/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DRPPPYmj82v/?hl=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s weather you just created. It&#x27;s ice, engineered accidentally by your flight...Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/260333460_Spreading_and_growth_of_contrails_in_a_sheared_environment](https://www.researchgate.net/publication/260333460_Spreading_and_growth_of_contrails_in_a_sheared_environment)  
+   Link: <a href="https://www.researchgate.net/publication/260333460_Spreading_and_growth_of_contrails_in_a_sheared_environment" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/260333460_Spreading_and_growth_of_contrails_in_a_sheared_environment</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spreading and growth of contrails in a sheared environmentThus, ice crystals are assumed to form on ambient aerosols entrained into the e...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: transportenvironment.org  
    Title: Contrails and aviation's other hidden emissions  
-   Link: [https://www.transportenvironment.org/topics/planes/contrails](https://www.transportenvironment.org/topics/planes/contrails)  
+   Link: <a href="https://www.transportenvironment.org/topics/planes/contrails" target="_blank" rel="noopener noreferrer nofollow">https://www.transportenvironment.org/topics/planes/contrails</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>T&amp;E3 Mar 2025 — If the air is cold and humid enough, the water vapour condenses around the particles, creating ice crystals that make up...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: nationalacademies.org  
-   Link: [https://www.nationalacademies.org/read/29073/chapter/6](https://www.nationalacademies.org/read/29073/chapter/6)  
+   Link: <a href="https://www.nationalacademies.org/read/29073/chapter/6" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/29073/chapter/6</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter: 4 Contrail Modeling SystemsInitial visible contrails form from the expanding exhaust of each engine within 1 s...</p></details>

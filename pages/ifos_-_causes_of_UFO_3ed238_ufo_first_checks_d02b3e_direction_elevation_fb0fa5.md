@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e_sky_object_checks_0aecd8
 - ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e_weather_record_check_4a5789
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - first-checks
 - direction-notes
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - first-checks
 - direction-notes
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: A sighting becomes testable when the witness captures where they stood, where they looked and how high above the horizon the object appeared.
 hero_summary: A sighting becomes testable when the witness captures where they stood, where they looked and how high above the horizon the object appeared.
 layout: default
 permalink: /direction-notes/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /first-checks/
 nav_short_title: Direction notes
 title: Where exactly were they looking?
-title_full: Where exactly were they looking? | First Checks
+title_full: Where exactly were they looking?
 display_title_short: Direction notes
 display_title: Direction notes
 heading_title: Where exactly were they looking?
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What to Check Before Calling It a UFO | IFOs
+parent_title: What to Check Before Calling It a UFO
 parent_permalink: /first-checks/
 parent_nav_short_title: First Checks
 parent_heading_title: What to Check Before Calling It a UFO
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e
-  title: First Checks | Ifos Causes Of
+  title: First Checks | ifos causes of UFO 3 ed 238
   permalink: /first-checks/
   short_title: First Checks
   heading_title: What to Check Before Calling It a UFO
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e
-  title: First Checks | Ifos Causes Of
+  title: First Checks | ifos causes of UFO 3 ed 238
   permalink: /first-checks/
   short_title: First Checks
   heading_title: What to Check Before Calling It a UFO
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Did the weather make it look strange?
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e
-  title: First Checks | Ifos Causes Of
+  title: First Checks | ifos causes of UFO 3 ed 238
   permalink: /first-checks/
   short_title: First Checks
   heading_title: What to Check Before Calling It a UFO
@@ -259,7 +259,7 @@ next_link:
   permalink: /flight-tracks/
   short_title: Flight tracks
   heading_title: Can a flight tracker explain the sighting?
-date: '2026-06-07 06:06:42 '
+date: '2026-06-12 00:35:10 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e_direction_elevation_fb0fa5-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e_direction_elevation_fb0fa5-Illustration-1.webp
@@ -268,8 +268,7 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e_direct
 
 ## Introduction
 
-Before a UFO report can be tested against aircraft tracks, satellite passes, astronomical objects or [weather records]({{ 'weather-records/' | relative_url }}), investigators need one simple thing: a reliable record of where the witness was looking. The problem is that memory begins changing almost immediately after an unusual event. Conversations, media coverage, repeated retellings and even attempts to estimate distances after the fact can alter a witness’s recollection. For that reason, one of the most valuable early checks in any UFO investigation is to record viewing direction and apparent elevation above the horizon as soon as possible. A sighting with precise bearings and horizon angles can often be reconstructed; a sighting remembered only as “high in the sky” or “over there” frequently cannot. [Project Blue Book]({{ 'blue-book/' | relative_url }}) and later civilian investigation methods both treated missing positional information as a major obstacle to evaluation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Logistics Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Defense Logistics AgencyProject Blue BookSeptember 25, 2012 — The Air Force groups its evaluations of UFO reports under three general hea...</span><span class="citation-popover-meta">Published: September 25, 2012</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Identification studies of UFOs</span><span class="citation-popover-snippet">Identification studies of UFOsThe following are some major studies undertaken since 1948 that reported on identification of UFOs: Proj...</span></span></span>
-
+Before a UFO report can be tested against aircraft tracks, satellite passes, astronomical objects or [weather records]({{ 'weather-records/' | relative_url }}), investigators need one simple thing: a reliable record of where the witness was looking. The problem is that memory begins changing almost immediately after an unusual event. Conversations, media coverage, repeated retellings and even attempts to estimate distances after the fact can alter a witness’s recollection. For that reason, one of the most valuable early checks in any UFO investigation is to record viewing direction and apparent elevation above the horizon as soon as possible. A sighting with precise bearings and horizon angles can often be reconstructed; a sighting remembered only as “high in the sky” or “over there” frequently cannot. Project Blue Book and later civilian investigation methods both treated missing positional information as a major obstacle to evaluation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Logistics Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Defense Logistics AgencyProject Blue BookSeptember 25, 2012 — The Air Force groups its evaluations of UFO reports under three general hea...</span><span class="citation-popover-meta">Published: September 25, 2012</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Identification studies of UFOs</span><span class="citation-popover-snippet">Identification studies of UFOsThe following are some major studies undertaken since 1948 that reported on identification of UFOs: Proj...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e_direction_elevation_fb0fa5-Illustration-1-dark.svg" | relative_url }}" alt="Direction notes illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e_direction_elevation_fb0fa5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e_direction_elevation_fb0fa5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why observer position changes the whole case
@@ -278,10 +277,9 @@ Many apparently extraordinary sightings become difficult to interpret because in
 
 This is a basic geometry problem. The sky does not provide natural distance markers. Witnesses often describe an object as being “above the town”, “over the hills” or “behind the trees”, yet those descriptions depend entirely on the observer’s position. Even moving a few hundred metres can noticeably change the apparent relationship between a distant light and nearby landmarks.
 
-Investigators therefore place heavy emphasis on documenting the witness location first and the object location second. Civilian UFO investigation procedures commonly collect azimuth (direction along the horizon) and elevation (angle above the horizon) because these measurements allow later comparison with known objects and events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/the-scientific-method/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">MUFONThe Scientific MethodA MUFON Field Investigator then interviews the witnesses who made the report and collects additional informatio...</span></span></span>
+Investigators therefore place heavy emphasis on documenting the witness location first and the object location second. Civilian UFO investigation procedures commonly collect azimuth (direction along the horizon) and elevation (angle above the horizon) because these measurements allow later comparison with known objects and events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/the-scientific-method/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">The Scientific MethodA MUFON Field Investigator then interviews the witnesses who made the report and collects additional informatio...</span></span></span>
 
 A common failure mode occurs when witnesses later reconstruct a sighting from memory. Once the object is no longer visible, people often unconsciously replace exact viewing directions with broader descriptions such as “west” or “above the trees”. Those approximations may be sincere, but they reduce the ability to test ordinary explanations.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ylw_NRxJEgM" title="Exclusive: Astronomer&#x27;s new data finds possible nonhuman intelligence in space | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ylw_NRxJEgM" target="_blank" rel="noopener noreferrer">Exclusive: Astronomer&#x27;s new data finds possible nonhuman intelligence in space | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 559.4K &middot; Uploaded: August 2025 &middot; Length: 56 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ylw_NRxJEgM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ylw_NRxJEgM">Open on YouTube</a></p></div></div></div>
 
@@ -297,7 +295,6 @@ MUFON field-investigation guidance specifically treats elevation and azimuth as 
 
 Useful practical estimates include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **Horizon level:** 0 degrees.
@@ -310,7 +307,6 @@ Useful practical estimates include:
 
 These are crude measurements, but they are often far better than qualitative descriptions such as “fairly high” or “low in the sky”.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e_direction_elevation_fb0fa5-Illustration-2-dark.svg" | relative_url }}" alt="Direction notes illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e_direction_elevation_fb0fa5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e_direction_elevation_fb0fa5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why early notes beat later recollections
 
@@ -322,18 +318,12 @@ The result can be significant. A witness may remember an object moving rapidly a
 
 This concern helps explain why historical UFO programmes often distinguished between genuinely unexplained reports and reports containing insufficient information. Missing positional data frequently prevented meaningful analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Logistics Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Defense Logistics AgencyProject Blue BookSeptember 25, 2012 — The Air Force groups its evaluations of UFO reports under three general hea...</span><span class="citation-popover-meta">Published: September 25, 2012</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/i2e0aRtwsCY" title="The Sky Part 1: Local Sky and Alt-Az / Horizon Coordinates" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=i2e0aRtwsCY" target="_blank" rel="noopener noreferrer">The Sky Part 1: Local Sky and Alt-Az / Horizon Coordinates</a></p><p class="youtube-embed-meta">Channel: Launch Pad Astronomy</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=i2e0aRtwsCY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=i2e0aRtwsCY">Open on YouTube</a></p></div></div></div>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NzpiekMIYyg" title="Deviation by Azimuth (Sun) | Problem 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NzpiekMIYyg" target="_blank" rel="noopener noreferrer">Deviation by Azimuth (Sun) | Problem 2</a></p><p class="youtube-embed-meta">Channel: US Captain&#x27;s Training &middot; Views: 1.1K &middot; Uploaded: April 2023 &middot; Length: 28 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NzpiekMIYyg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NzpiekMIYyg">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e_direction_elevation_fb0fa5-Illustration-3-dark.svg" | relative_url }}" alt="Direction notes illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e_direction_elevation_fb0fa5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e_direction_elevation_fb0fa5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Simple field notes that survive later checking
 
 The goal is not scientific perfection. It is preserving enough information that later investigators can independently verify what was in that section of sky.
 
 Immediately after a sighting, the most useful notes are:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -351,8 +341,7 @@ Photographs can help, but even a simple sketch may be valuable. A rough drawing 
 
 In practical UFO investigation, these notes serve a governance function as much as an evidential one. They create a documented observational record before memory drift, discussion with others or later interpretation changes the account. A report that preserves direction and elevation early is not automatically correct, but it is far more testable than one reconstructed entirely from recollection. That distinction is crucial when deciding whether a sighting remains merely unidentified or deserves further scrutiny as a potentially anomalous event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/research/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">Mufon&#x27;s Ufo, Et Research Tracking ToolsThe MUFON Case Management System (CMS) is a powerful tool designed to help researchers, investigat...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">MUFON Through the AgesTrack UFOs · Field Investigator CMS Login · Become a Field Investigator · Report a UFO · Report an Experience · Don...</span></span></span>
 
-
-<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e_direction_elevation_fb0fa5-Illustration-3-dark.svg" | relative_url }}" alt="Direction notes illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e_direction_elevation_fb0fa5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e_direction_elevation_fb0fa5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NzpiekMIYyg" title="Deviation by Azimuth (Sun) | Problem 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NzpiekMIYyg" target="_blank" rel="noopener noreferrer">Deviation by Azimuth (Sun) | Problem 2</a></p><p class="youtube-embed-meta">Channel: US Captain&#x27;s Training &middot; Views: 1.1K &middot; Uploaded: April 2023 &middot; Length: 28 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NzpiekMIYyg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NzpiekMIYyg">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -447,7 +436,7 @@ In practical UFO investigation, these notes serve a governance function as much 
         <p class="fr-section-kicker">eBay marketplace picks</p>
         <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
       </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
       <div class="fr-ebay-market-toolbar">
         <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
@@ -471,15 +460,15 @@ In practical UFO investigation, these notes serve a governance function as much 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=direction-notes-where-exactly-were-they-looking-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="direction-notes-where-exactly-were-they-looking-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-exactly-were-they-looking-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="where-exactly-were-they-looking-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 700 Coloured Star Stickers Reward Merit Chart small sticky Kids Self Adhesive"><img src="https://i.ebayimg.com/images/g/TaoAAOSwi7hlM7q5/s-l225.jpg" alt="Listing image for 700 Coloured Star Stickers Reward Merit Chart small sticky Kids Self Adhesive" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=direction-notes-where-exactly-were-they-looking-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="direction-notes-where-exactly-were-they-looking-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-exactly-were-they-looking-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="where-exactly-were-they-looking-star-chart" target="_blank" rel="sponsored noopener noreferrer">700 Coloured Star Stickers Reward Merit Chart small sticky Kids Self Adhesive</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=direction-notes-where-exactly-were-they-looking-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="direction-notes-where-exactly-were-they-looking-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-exactly-were-they-looking-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="where-exactly-were-they-looking-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=direction-notes-where-exactly-were-they-looking-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="direction-notes-where-exactly-were-they-looking-ifos-causes-of-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-exactly-were-they-looking-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="where-exactly-were-they-looking-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -487,15 +476,15 @@ In practical UFO investigation, these notes serve a governance function as much 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=direction-notes-where-exactly-were-they-looking-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="direction-notes-where-exactly-were-they-looking-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-exactly-were-they-looking-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="where-exactly-were-they-looking-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Unicorn Personalised Bedtime Night time Reward Star Chart Sleep Own Bed"><img src="https://i.ebayimg.com/images/g/0PcAAOSwQndgSP7S/s-l225.jpg" alt="Listing image for Unicorn Personalised Bedtime Night time Reward Star Chart Sleep Own Bed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=direction-notes-where-exactly-were-they-looking-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="direction-notes-where-exactly-were-they-looking-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-exactly-were-they-looking-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="where-exactly-were-they-looking-star-chart" target="_blank" rel="sponsored noopener noreferrer">Unicorn Personalised Bedtime Night time Reward Star Chart Sleep Own Bed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=direction-notes-where-exactly-were-they-looking-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="direction-notes-where-exactly-were-they-looking-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-exactly-were-they-looking-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="where-exactly-were-they-looking-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=direction-notes-where-exactly-were-they-looking-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="direction-notes-where-exactly-were-they-looking-ifos-causes-of-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-exactly-were-they-looking-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="where-exactly-were-they-looking-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -503,15 +492,15 @@ In practical UFO investigation, these notes serve a governance function as much 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=direction-notes-where-exactly-were-they-looking-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="direction-notes-where-exactly-were-they-looking-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-exactly-were-they-looking-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="where-exactly-were-they-looking-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Good Behaviour Reward Chart Childrens Kids Reusable Routine FRZ"><img src="https://i.ebayimg.com/images/g/8pQAAOSwwyVfw6Zm/s-l225.jpg" alt="Listing image for Personalised Good Behaviour Reward Chart Childrens Kids Reusable Routine FRZ" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=direction-notes-where-exactly-were-they-looking-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="direction-notes-where-exactly-were-they-looking-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-exactly-were-they-looking-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="where-exactly-were-they-looking-star-chart" target="_blank" rel="sponsored noopener noreferrer">Personalised Good Behaviour Reward Chart Childrens Kids Reusable Routine FRZ</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=direction-notes-where-exactly-were-they-looking-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="direction-notes-where-exactly-were-they-looking-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-exactly-were-they-looking-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="where-exactly-were-they-looking-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=direction-notes-where-exactly-were-they-looking-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="direction-notes-where-exactly-were-they-looking-ifos-causes-of-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-exactly-were-they-looking-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="where-exactly-were-they-looking-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -519,15 +508,15 @@ In practical UFO investigation, these notes serve a governance function as much 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=direction-notes-where-exactly-were-they-looking-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="direction-notes-where-exactly-were-they-looking-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo"><img src="{{ '/assets/images/marketplace-covers/338af33276410882a5b1.jpg' | relative_url }}" alt="Listing image for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-exactly-were-they-looking-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="where-exactly-were-they-looking-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Magnetic Reward Chart [300 Stars 80 Tasks 1-3 Kids] Star Chart for Children For"><img src="https://i.ebayimg.com/images/g/ScsAAeSwHQBp-Q2T/s-l225.jpg" alt="Listing image for Magnetic Reward Chart [300 Stars 80 Tasks 1-3 Kids] Star Chart for Children For" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=direction-notes-where-exactly-were-they-looking-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="direction-notes-where-exactly-were-they-looking-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-exactly-were-they-looking-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="where-exactly-were-they-looking-star-chart" target="_blank" rel="sponsored noopener noreferrer">Magnetic Reward Chart [300 Stars 80 Tasks 1-3 Kids] Star Chart for Children For</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=direction-notes-where-exactly-were-they-looking-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="direction-notes-where-exactly-were-they-looking-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-exactly-were-they-looking-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="where-exactly-were-they-looking-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=direction-notes-where-exactly-were-they-looking-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="direction-notes-where-exactly-were-they-looking-ifos-causes-of-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-exactly-were-they-looking-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="where-exactly-were-they-looking-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -535,7 +524,7 @@ In practical UFO investigation, these notes serve a governance function as much 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=direction-notes-where-exactly-were-they-looking-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="direction-notes-where-exactly-were-they-looking-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-exactly-were-they-looking-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="where-exactly-were-they-looking-star-chart" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -751,150 +740,150 @@ In practical UFO investigation, these notes serve a governance function as much 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Identification studies of UFOs  
-   Link: [https://en.wikipedia.org/wiki/Identification_studies_of_UFOs](https://en.wikipedia.org/wiki/Identification_studies_of_UFOs)  
+   Link: <a href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Identification_studies_of_UFOs</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Identification studies of UFOsThe following are some major studies undertaken since 1948 that reported on identification of UFOs: Proj...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: mufon.com  
-   Link: [https://mufon.com/the-scientific-method/](https://mufon.com/the-scientific-method/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFONThe Scientific MethodA MUFON Field Investigator then interviews the witnesses who made the report and collects additional informatio...</p></details>
+   Link: <a href="https://mufon.com/the-scientific-method/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/the-scientific-method/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Scientific MethodA MUFON Field Investigator then interviews the witnesses who made the report and collects additional informatio...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: mufon.com  
-   Link: [https://mufon.com/become-a-mufon-field-investigator/](https://mufon.com/become-a-mufon-field-investigator/)  
+   Link: <a href="https://mufon.com/become-a-mufon-field-investigator/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/become-a-mufon-field-investigator/</a>  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookProject Blue Book had two goals, namely, to determine if UFOs were a threat to national security, and to scientifical...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: mufon.com  
-   Link: [https://mufon.com/research/](https://mufon.com/research/)  
+   Link: <a href="https://mufon.com/research/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/research/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mufon&#x27;s Ufo, Et Research Tracking ToolsThe MUFON Case Management System (CMS) is a powerful tool designed to help researchers, investigat...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: mufon.com  
-   Link: [https://mufon.com/history/](https://mufon.com/history/)  
+   Link: <a href="https://mufon.com/history/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/history/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON Through the AgesTrack UFOs · Field Investigator CMS Login · Become a Field Investigator · Report a UFO · Report an Experience · Don...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: mufon.com  
-   Link: [https://mufon.com/cms-ifo-info/](https://mufon.com/cms-ifo-info/)  
+   Link: <a href="https://mufon.com/cms-ifo-info/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/cms-ifo-info/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>CMS IFO InfoTrack UFOs · Field Investigator CMS Login · Become a Field Investigator · Report a UFO · Report an Experience · Donate or Vol...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: esd.whs.mil  
-   Link: [https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837](https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837)  
+   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Logistics AgencyProject Blue BookSeptember 25, 2012 — The Air Force groups its evaluations of UFO reports under three general hea...</p></details>
    Published: September 25, 2012  
 
 10. <a id="endnote-10"></a>
    Source: documents.theblackvault.com  
    Title: August 2008  
-   Link: [https://documents.theblackvault.com/documents/MUFON/Journals/2008/August_2008.pdf](https://documents.theblackvault.com/documents/MUFON/Journals/2008/August_2008.pdf)  
+   Link: <a href="https://documents.theblackvault.com/documents/MUFON/Journals/2008/August_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/MUFON/Journals/2008/August_2008.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON UFO Journal16 Aug 2008 — With Altitude and Azimuth defined we can now identify some techniques that can be used to provide an estim...</p></details>
    Published: August 2008  
 
 11. <a id="endnote-11"></a>
    Source: history.com  
    Title: Project Blue Book  
-   Link: [https://www.history.com/articles/project-blue-book](https://www.history.com/articles/project-blue-book)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HistoryProject Blue Book - Alien, Definition &amp; Files22 Feb 2010 — Over the next 17 years, Project Blue Book would compile reports of 12,6...</p></details>
+   Link: <a href="https://www.history.com/articles/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/project-blue-book</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book - Alien, Definition &amp; Files22 Feb 2010 — Over the next 17 years, Project Blue Book would compile reports of 12,6...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=NzpiekMIYyg](https://www.youtube.com/watch?v=NzpiekMIYyg)  
+   Link: <a href="https://www.youtube.com/watch?v=NzpiekMIYyg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NzpiekMIYyg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Deviation by Azimuth (Sun) | Problem 2In this video we solve the problem below. On 26 February your vessel&#x27;s 1615 ZT DR position is LAT 2...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1eh8sah/mufon_investigator_training_manual_table_of/](https://www.reddit.com/r/UFOs/comments/1eh8sah/mufon_investigator_training_manual_table_of/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1eh8sah/mufon_investigator_training_manual_table_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1eh8sah/mufon_investigator_training_manual_table_of/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON Investigator Training Manual, Table of Contents....These are taken from my personal manuals during different decades of involvemen...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, History, Aliens, UFOs, &amp; Facts16 May 2026 — Project Blue Book, code name for the United States&#x27; longest-running Air Force pro...</p></details>
    Published: May 2026  
 
 15. <a id="endnote-15"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects25 Jun 2024 — Pro-UFO researchers claim that an extraterrestrial spacecraft and its alien occupants were recov...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: electronicsandbooks.com  
    Title: MUFON UFO Journal December 1979  
-   Link: [https://electronicsandbooks.com/edt/manual/Magazine/M/MUFON%20UFO%20Journal/MUFON%20UFO%20Journal%20-%20December%201979.pdf](https://electronicsandbooks.com/edt/manual/Magazine/M/MUFON%20UFO%20Journal/MUFON%20UFO%20Journal%20-%20December%201979.pdf)  
+   Link: <a href="https://electronicsandbooks.com/edt/manual/Magazine/M/MUFON%20UFO%20Journal/MUFON%20UFO%20Journal%20-%20December%201979.pdf" target="_blank" rel="noopener noreferrer nofollow">https://electronicsandbooks.com/edt/manual/Magazine/M/MUFON%20UFO%20Journal/MUFON%20UFO%20Journal%20-%20December%201979.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The MUFON10 Dec 1979 — The case also was investigated by. MUFON Field Investigator, Arthur. Morros of Zionsville, Indiana. On September 2...</p></details>
    Published: December 1979  
 
 17. <a id="endnote-17"></a>
    Source: abebooks.co.uk  
-   Link: [https://www.abebooks.co.uk/MUFON-Field-Investigators-Manual-Mutual-UFO/32217016709/bd](https://www.abebooks.co.uk/MUFON-Field-Investigators-Manual-Mutual-UFO/32217016709/bd)  
+   Link: <a href="https://www.abebooks.co.uk/MUFON-Field-Investigators-Manual-Mutual-UFO/32217016709/bd" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.co.uk/MUFON-Field-Investigators-Manual-Mutual-UFO/32217016709/bd</a>  
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...Blue Book UFO investigation, prepared analyses of UFO data for AF, liaison officer between Da...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/SWCloudCity/posts/trump-admin-release-latest-ufo-files-pentagon-files-describe-ufo-craft-that-awak/1462798405892546/](https://www.facebook.com/SWCloudCity/posts/trump-admin-release-latest-ufo-files-pentagon-files-describe-ufo-craft-that-awak/1462798405892546/)  
+   Link: <a href="https://www.facebook.com/SWCloudCity/posts/trump-admin-release-latest-ufo-files-pentagon-files-describe-ufo-craft-that-awak/1462798405892546/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SWCloudCity/posts/trump-admin-release-latest-ufo-files-pentagon-files-describe-ufo-craft-that-awak/1462798405892546/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>TRUMP ADMIN RELEASE LATEST UFO FILES:-...Let us know what you think about these images, do you think they are really depicting extrater...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: handprint.com  
-   Link: [https://www.handprint.com/UFO/UFO.html](https://www.handprint.com/UFO/UFO.html)  
+   Link: <a href="https://www.handprint.com/UFO/UFO.html" target="_blank" rel="noopener noreferrer nofollow">https://www.handprint.com/UFO/UFO.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO as wildlifeA detailed analysis of data of the FBI, which was derived from investigations of intrusions of unidentified aerial phenome...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: af.mil  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 remained &quot;un...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: dafhistory.af.mil  
-   Link: [https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf](https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf)  
+   Link: <a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[Roswell](&amp;#123;&amp;#123; &#x27;roswell/&#x27; | relative_url &amp;#125;&amp;#125;) ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the request made by...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SPECIAL REPORT NO. 14. (ANALYSIS OF REPORTS OF UNIDENTIFIED AERIAL OBJECTS). PROJECT NO. 10073. 5 MAY 1955. FOR OFFICIAL USE ONLY. (AFR 1...</p></details>
    Published: MAY 1955  
 
 24. <a id="endnote-24"></a>
    Source: sofrep.com  
    Title: the truth behind ufos from project blue book to the pentagons uap task force  
-   Link: [https://sofrep.com/news/the-truth-behind-ufos-from-project-blue-book-to-the-pentagons-uap-task-force/](https://sofrep.com/news/the-truth-behind-ufos-from-project-blue-book-to-the-pentagons-uap-task-force/)  
+   Link: <a href="https://sofrep.com/news/the-truth-behind-ufos-from-project-blue-book-to-the-pentagons-uap-task-force/" target="_blank" rel="noopener noreferrer nofollow">https://sofrep.com/news/the-truth-behind-ufos-from-project-blue-book-to-the-pentagons-uap-task-force/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth Behind UFOs: From Project Blue Book to the...8 Feb 2026 — Project Blue Book had two main goals: to determine whether UFOs posed...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: researchgate.net  
    Title: 352352112 A Preliminary Analysis of Historical UFO Report Data  
-   Link: [https://www.researchgate.net/publication/352352112_A_Preliminary_Analysis_of_Historical_UFO_Report_Data](https://www.researchgate.net/publication/352352112_A_Preliminary_Analysis_of_Historical_UFO_Report_Data)  
+   Link: <a href="https://www.researchgate.net/publication/352352112_A_Preliminary_Analysis_of_Historical_UFO_Report_Data" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/352352112_A_Preliminary_Analysis_of_Historical_UFO_Report_Data</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) A Preliminary Analysis of Historical UFO Report Data14 Jun 2021 — The data and findings above are insufficient to draw conclusions...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: blaze.tv  
-   Link: [https://www.blaze.tv/series/quick-history-us-governments-secret-ufo-project-blue-book](https://www.blaze.tv/series/quick-history-us-governments-secret-ufo-project-blue-book)  
+   Link: <a href="https://www.blaze.tv/series/quick-history-us-governments-secret-ufo-project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.blaze.tv/series/quick-history-us-governments-secret-ufo-project-blue-book</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In... classified UFO sightings. Anyone caught doing so could be imprisoned. It...Read more...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Study Team ReportSearching for signs of alien technology is a natural extension of those investigations. In 2017, Jill Tarter, one of the...</p></details>

@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_constant_bearing_ill_d4dad4
 - ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_landing_lights_final_d358b9
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - head-on-planes
 - delayed-sound
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - head-on-planes
 - delayed-sound
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: A head-on aircraft can look silent at first because distance, wind, terrain, traffic, and direction affect when engine sound is heard.
 hero_summary: A head-on aircraft can look silent at first because distance, wind, terrain, traffic, and direction affect when engine sound is heard.
 layout: default
 permalink: /delayed-sound/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /a-head-on-aircraft-can-look-like-a/
 nav_short_title: Delayed sound
 title: Why the silent UFO later sounds like a plane
-title_full: Why the silent UFO later sounds like a plane | A Head On Aircraft Can Look Like A Stationary Light...
+title_full: Why the silent UFO later sounds like a plane
 display_title_short: Delayed sound
 display_title: Delayed sound
 heading_title: Why the silent UFO later sounds like a plane
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 21:41:03'
-parent_title: The Stationary Light That Is Moving | IFOs
+parent_title: The Stationary Light That Is Moving
 parent_permalink: /a-head-on-aircraft-can-look-like-a/
 parent_nav_short_title: A Head On Aircraft Can Look Like A Stationary Light...
 parent_heading_title: The Stationary Light That Is Moving
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d
-  title: A Head On Aircraft Can Look Like A Stationary Light... | Ifos Causes Of
+  title: A Head On Aircraft Can Look Like A Stationary Light... | ifos causes of UFO 3 ed 238
   permalink: /a-head-on-aircraft-can-look-like-a/
   short_title: A Head On Aircraft Can Look Like A Stationary Light...
   heading_title: The Stationary Light That Is Moving
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d
-  title: A Head On Aircraft Can Look Like A Stationary Light... | Ifos Causes Of
+  title: A Head On Aircraft Can Look Like A Stationary Light... | ifos causes of UFO 3 ed 238
   permalink: /a-head-on-aircraft-can-look-like-a/
   short_title: A Head On Aircraft Can Look Like A Stationary Light...
   heading_title: The Stationary Light That Is Moving
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: When a white orb turns into an aircraft
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d
-  title: A Head On Aircraft Can Look Like A Stationary Light... | Ifos Causes Of
+  title: A Head On Aircraft Can Look Like A Stationary Light... | ifos causes of UFO 3 ed 238
   permalink: /a-head-on-aircraft-can-look-like-a/
   short_title: A Head On Aircraft Can Look Like A Stationary Light...
   heading_title: The Stationary Light That Is Moving
@@ -266,6 +265,7 @@ next_link:
   permalink: /landing-lights/
   short_title: Landing lights
   heading_title: Why landing lights can look like hovering UFOs
+date: '2026-06-12 00:37:16 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_delayed_aircraft_sou_3c6540-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_delayed_aircraft_sou_3c6540-Illustration-1.webp
@@ -276,7 +276,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_delaye
 
 One reason a seemingly stationary UFO light later reveals itself to be an ordinary aircraft is that the sound and the sight do not always reach the observer in the way people intuitively expect. Witnesses often report a bright light hanging motionless in the sky for several minutes with no audible engine noise, only for the object to become recognisably aircraft-like when it passes overhead, turns, or suddenly becomes noisy. In many cases, the silence is treated as evidence that the object could not have been an aeroplane. However, aircraft noise can be delayed, weakened, redirected, or masked by environmental conditions long before the aircraft reaches the observer. Sound propagation depends on distance, wind, terrain, weather, and competing background noise, while a head-on aircraft's [landing lights]({{ 'landing-lights/' | relative_url }}) may remain visible from much farther away than its engine sound is clearly audible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gatwickairport.com/on/demandware.static/-/Sites-Gatwick-Library/en_GB/v1776343463589/images/Corporate-PDFs/Noise%20%26%20Airspace/NMB/Factors%20Affecting%20Aircraft%20Noise%20Final%20Report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gatwickairport.com">[Gatwick Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gatwickairport.com</span><span class="citation-popover-title">On a very windy day, the wind</span><span class="citation-popover-snippet">Gatwick AirportFactors Affecting Aircraft NoiseNovember 14, 2025 — An upwind may reduce noise levels as it carries sound away and bends s...</span><span class="citation-popover-meta">Published: November 14, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tampaairport.com/business/airport-operations/noise-abatement/tips-homeowners/effects-weather-noise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tampaairport.com">[Tampa International Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tampaairport.com</span><span class="citation-popover-snippet">Tampa International AirportEffects of Weather on NoiseInversions, which occur when the air temperature increases as altitude increases, h...</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_delayed_aircraft_sou_3c6540-Illustration-1-dark.svg" | relative_url }}" alt="Delayed sound illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_delayed_aircraft_sou_3c6540-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_delayed_aircraft_sou_3c6540-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why sound may lag behind the sighting
 
@@ -285,7 +284,6 @@ When a witness sees a bright light approaching almost directly towards them, the
 The effect is amplified by the geometry of a head-on approach. Landing lights are designed to project intense light forward so that approaching aircraft can be seen from considerable distances. A person may therefore notice the light while the aircraft itself remains far enough away that engine or aerodynamic noise is weak at ground level. During this stage, the light can appear to hover while remaining oddly silent. <span class="citation-chip-wrap"><a class="citation-chip" href="https://libraryonline.erau.edu/online-full-text/faa-aviation-medicine-reports/AM21-20.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: libraryonline.erau.edu">[Library Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">libraryonline.erau.edu</span><span class="citation-popover-title">Library Online Approach Lighting Systems in the US National Airspace</span><span class="citation-popover-snippet">Library OnlineApproach Lighting Systems in the US National Airspace...July 1, 2021 — by KA Fercho · 2021 · Cited by 3 — Approach lightin...</span><span class="citation-popover-meta">Published: July 1, 2021</span></span></span>
 
 A common witness perception is that the object "suddenly became a plane". In reality, the aircraft was a plane throughout the observation, but visual identification happened first and acoustic identification arrived later.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TokH2QK4_R4" title="Loud Noises and Temperature Inversions ( Lets geek out on weather!! )" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TokH2QK4_R4" target="_blank" rel="noopener noreferrer">Loud Noises and Temperature Inversions ( Lets geek out on weather!! )</a></p><p class="youtube-embed-meta">Channel: WestPacWx &middot; Views: 1.4K &middot; Uploaded: December 2020 &middot; Length: 2 minutes 21 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TokH2QK4_R4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TokH2QK4_R4">Open on YouTube</a></p></div></div></div>
 
@@ -301,19 +299,16 @@ Background noise creates another source of misinterpretation. Road traffic, wind
 
 For a witness focused on a bright, apparently stationary light, the absence of a clearly audible engine may therefore reflect listening conditions rather than anything unusual about the object itself.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_delayed_aircraft_sou_3c6540-Illustration-2-dark.svg" | relative_url }}" alt="Delayed sound illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_delayed_aircraft_sou_3c6540-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_delayed_aircraft_sou_3c6540-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Weather can make aircraft sound seem to appear from nowhere
 
 Atmospheric conditions can alter how sound travels over surprisingly large distances.
 
-Temperature inversions—layers in which warmer air sits above cooler air—can bend sound waves back towards the ground. This process can allow aircraft noise to travel farther than usual in some places while leaving other areas relatively quiet until the aircraft reaches a different position. Researchers and acoustics specialists have documented how inversions can redirect sound and make distant aircraft seem unexpectedly loud or, conversely, change when and where noise becomes audible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://students.aip.org/observer/physics-puzzler-sound-reasons-the-answers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: students.aip.org">[STUDENTS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">students.aip.org</span><span class="citation-popover-title">physics puzzler sound reasons the answers</span><span class="citation-popover-snippet">STUDENTSPhysics Puzzler: Sound Reasons: The AnswersFeb 1, 2016 — Various atmospheric conditions can cause a temperature inversion, with a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.acentech.com/resources/cold-snaps-and-sound-waves-atmospheric-acoustics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acentech.com">[acentech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acentech.com</span><span class="citation-popover-snippet">AcentechCold Snaps and Sound Waves: Atmospheric AcousticsFeb 15, 2022 — This condition is called a temperature inversion, where the sound...</span></span></span> Cloud cover and atmospheric layering can produce similar effects by altering the path of sound energy through the [atmosphere]({{ 'atmosphere/' | relative_url }}). The result is that perceived loudness may not increase smoothly as an aircraft approaches. Instead, a witness may hear little or nothing, then notice a rapid rise in sound over a short period. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tampaairport.com/business/airport-operations/noise-abatement/tips-homeowners/effects-weather-noise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tampaairport.com">[Tampa International Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tampaairport.com</span><span class="citation-popover-snippet">Tampa International AirportEffects of Weather on NoiseInversions, which occur when the air temperature increases as altitude increases, h...</span></span></span>
+Temperature inversions—layers in which warmer air sits above cooler air—can bend sound waves back towards the ground. This process can allow aircraft noise to travel farther than usual in some places while leaving other areas relatively quiet until the aircraft reaches a different position. Researchers and acoustics specialists have documented how inversions can redirect sound and make distant aircraft seem unexpectedly loud or, conversely, change when and where noise becomes audible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://students.aip.org/observer/physics-puzzler-sound-reasons-the-answers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: students.aip.org">[STUDENTS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">students.aip.org</span><span class="citation-popover-title">physics puzzler sound reasons the answers</span><span class="citation-popover-snippet">Physics Puzzler: Sound Reasons: The AnswersFeb 1, 2016 — Various atmospheric conditions can cause a temperature inversion, with a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.acentech.com/resources/cold-snaps-and-sound-waves-atmospheric-acoustics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acentech.com">[acentech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acentech.com</span><span class="citation-popover-snippet">Cold Snaps and Sound Waves: Atmospheric AcousticsFeb 15, 2022 — This condition is called a temperature inversion, where the sound...</span></span></span> Cloud cover and atmospheric layering can produce similar effects by altering the path of sound energy through the [atmosphere]({{ 'atmosphere/' | relative_url }}). The result is that perceived loudness may not increase smoothly as an aircraft approaches. Instead, a witness may hear little or nothing, then notice a rapid rise in sound over a short period. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tampaairport.com/business/airport-operations/noise-abatement/tips-homeowners/effects-weather-noise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tampaairport.com">[Tampa International Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tampaairport.com</span><span class="citation-popover-snippet">Tampa International AirportEffects of Weather on NoiseInversions, which occur when the air temperature increases as altitude increases, h...</span></span></span>
 
 This behaviour can reinforce the impression that a silent object suddenly transformed into a conventional aircraft, when the change is actually occurring in the atmosphere between the aircraft and the observer.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/S7117sJVfso" title="Curious Pilot: JBU1910 UAP / UFO sighting explained, Jet Blue , July 25, 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=S7117sJVfso" target="_blank" rel="noopener noreferrer">Curious Pilot: JBU1910 UAP / UFO sighting explained, Jet Blue , July 25, 2023</a></p><p class="youtube-embed-meta">Channel: Philip Giacalone &middot; Views: 29 &middot; Uploaded: May 2026 &middot; Length: 4 minutes 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=S7117sJVfso" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=S7117sJVfso">Open on YouTube</a></p></div></div></div>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_4_2xD66wB0" title="Chilean Navy UFO sighting explained | This Is Why" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_4_2xD66wB0" target="_blank" rel="noopener noreferrer">Chilean Navy UFO sighting explained | This Is Why</a></p><p class="youtube-embed-meta">Channel: 7NEWS Australia &middot; Views: 11.9K &middot; Uploaded: August 2022 &middot; Length: 3 minutes 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_4_2xD66wB0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_4_2xD66wB0">Open on YouTube</a></p></div></div></div>
 
@@ -326,7 +321,6 @@ As the aircraft draws nearer, several cues appear at once. The observer may begi
 A turn is especially revealing. When an aircraft is approaching directly, its bearing changes very little. Once it banks or passes the observer, lateral motion becomes obvious and the geometry that created the hovering illusion disappears. At the same time, sound levels often increase because the aircraft is now closer and because the observer may have moved into a more favourable acoustic position.
 
 From a UFO-investigation perspective, this sequence is important because witnesses frequently remember the silent phase as the most significant feature of the event. Yet delayed or masked aircraft noise is a well-understood consequence of sound propagation and observation geometry. The combination of a bright head-on landing light and late-arriving sound can produce a convincing impression of a hovering, silent object even when the source is an entirely ordinary aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gatwickairport.com/on/demandware.static/-/Sites-Gatwick-Library/en_GB/v1776343463589/images/Corporate-PDFs/Noise%20%26%20Airspace/NMB/Factors%20Affecting%20Aircraft%20Noise%20Final%20Report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gatwickairport.com">[Gatwick Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gatwickairport.com</span><span class="citation-popover-title">On a very windy day, the wind</span><span class="citation-popover-snippet">Gatwick AirportFactors Affecting Aircraft NoiseNovember 14, 2025 — An upwind may reduce noise levels as it carries sound away and bends s...</span><span class="citation-popover-meta">Published: November 14, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tampaairport.com/business/airport-operations/noise-abatement/tips-homeowners/effects-weather-noise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tampaairport.com">[Tampa International Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tampaairport.com</span><span class="citation-popover-snippet">Tampa International AirportEffects of Weather on NoiseInversions, which occur when the air temperature increases as altitude increases, h...</span></span></span>
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_delayed_aircraft_sou_3c6540-Illustration-3-dark.svg" | relative_url }}" alt="Delayed sound illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_delayed_aircraft_sou_3c6540-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_delayed_aircraft_sou_3c6540-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -447,15 +441,15 @@ From a UFO-investigation perspective, this sequence is important because witness
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delayed-sound-why-the-silent-ufo-later-sounds-like-a-plane-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="delayed-sound-why-the-silent-ufo-later-sounds-like-a-plane-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anderson Entertainment UFO Saucer Collectable"><img src="{{ '/assets/images/marketplace-covers/3fcedd05f4d4333b7b2b.jpg' | relative_url }}" alt="Listing image for Anderson Entertainment UFO Saucer Collectable" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-silent-ufo-later-sounds-like-a-plane-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-the-silent-ufo-later-sounds-like-a-plane-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Airbus A380 Emirates Model Plane 18in LED Light Touch Sound Control Aircraft"><img src="https://i.ebayimg.com/images/g/ofMAAeSwJe1psX3h/s-l225.jpg" alt="Listing image for Airbus A380 Emirates Model Plane 18in LED Light Touch Sound Control Aircraft" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delayed-sound-why-the-silent-ufo-later-sounds-like-a-plane-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="delayed-sound-why-the-silent-ufo-later-sounds-like-a-plane-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Anderson Entertainment UFO Saucer Collectable</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-silent-ufo-later-sounds-like-a-plane-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-the-silent-ufo-later-sounds-like-a-plane-airplane-model" target="_blank" rel="sponsored noopener noreferrer">Airbus A380 Emirates Model Plane 18in LED Light Touch Sound Control Aircraft</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delayed-sound-why-the-silent-ufo-later-sounds-like-a-plane-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="delayed-sound-why-the-silent-ufo-later-sounds-like-a-plane-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-silent-ufo-later-sounds-like-a-plane-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-the-silent-ufo-later-sounds-like-a-plane-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delayed-sound-why-the-silent-ufo-later-sounds-like-a-plane-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="delayed-sound-why-the-silent-ufo-later-sounds-like-a-plane-ifos-causes-of-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-silent-ufo-later-sounds-like-a-plane-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-the-silent-ufo-later-sounds-like-a-plane-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -463,15 +457,15 @@ From a UFO-investigation perspective, this sequence is important because witness
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delayed-sound-why-the-silent-ufo-later-sounds-like-a-plane-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="delayed-sound-why-the-silent-ufo-later-sounds-like-a-plane-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-silent-ufo-later-sounds-like-a-plane-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-the-silent-ufo-later-sounds-like-a-plane-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for British Airways Airbus A321 Single Die Cast Toy Plane - Daron RT6007"><img src="https://i.ebayimg.com/images/g/QcYAAeSwhypqKVlD/s-l225.jpg" alt="Listing image for British Airways Airbus A321 Single Die Cast Toy Plane - Daron RT6007" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delayed-sound-why-the-silent-ufo-later-sounds-like-a-plane-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="delayed-sound-why-the-silent-ufo-later-sounds-like-a-plane-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-silent-ufo-later-sounds-like-a-plane-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-the-silent-ufo-later-sounds-like-a-plane-airplane-model" target="_blank" rel="sponsored noopener noreferrer">British Airways Airbus A321 Single Die Cast Toy Plane - Daron RT6007</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delayed-sound-why-the-silent-ufo-later-sounds-like-a-plane-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="delayed-sound-why-the-silent-ufo-later-sounds-like-a-plane-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-silent-ufo-later-sounds-like-a-plane-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-the-silent-ufo-later-sounds-like-a-plane-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delayed-sound-why-the-silent-ufo-later-sounds-like-a-plane-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="delayed-sound-why-the-silent-ufo-later-sounds-like-a-plane-ifos-causes-of-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-silent-ufo-later-sounds-like-a-plane-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-the-silent-ufo-later-sounds-like-a-plane-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -479,15 +473,15 @@ From a UFO-investigation perspective, this sequence is important because witness
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delayed-sound-why-the-silent-ufo-later-sounds-like-a-plane-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="delayed-sound-why-the-silent-ufo-later-sounds-like-a-plane-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE"><img src="{{ '/assets/images/marketplace-covers/be015d518def7513643e.jpg' | relative_url }}" alt="Listing image for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-silent-ufo-later-sounds-like-a-plane-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-the-silent-ufo-later-sounds-like-a-plane-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 16CM Concorde British Airways Metal Die Cast Plane Model Aircraft Toy Aeroplane"><img src="https://i.ebayimg.com/images/g/aREAAeSw-tZqKYIQ/s-l225.jpg" alt="Listing image for 16CM Concorde British Airways Metal Die Cast Plane Model Aircraft Toy Aeroplane" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delayed-sound-why-the-silent-ufo-later-sounds-like-a-plane-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="delayed-sound-why-the-silent-ufo-later-sounds-like-a-plane-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-silent-ufo-later-sounds-like-a-plane-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-the-silent-ufo-later-sounds-like-a-plane-airplane-model" target="_blank" rel="sponsored noopener noreferrer">16CM Concorde British Airways Metal Die Cast Plane Model Aircraft Toy Aeroplane</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delayed-sound-why-the-silent-ufo-later-sounds-like-a-plane-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="delayed-sound-why-the-silent-ufo-later-sounds-like-a-plane-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-silent-ufo-later-sounds-like-a-plane-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-the-silent-ufo-later-sounds-like-a-plane-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delayed-sound-why-the-silent-ufo-later-sounds-like-a-plane-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="delayed-sound-why-the-silent-ufo-later-sounds-like-a-plane-ifos-causes-of-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-silent-ufo-later-sounds-like-a-plane-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-the-silent-ufo-later-sounds-like-a-plane-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -495,15 +489,15 @@ From a UFO-investigation perspective, this sequence is important because witness
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delayed-sound-why-the-silent-ufo-later-sounds-like-a-plane-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="delayed-sound-why-the-silent-ufo-later-sounds-like-a-plane-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO"><img src="{{ '/assets/images/marketplace-covers/804a6ca65be816e4a5d9.jpg' | relative_url }}" alt="Listing image for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-silent-ufo-later-sounds-like-a-plane-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-the-silent-ufo-later-sounds-like-a-plane-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NEW 16cm British Airways Concorde Die Cast Metal Aircraft Plane Model UK SELLER"><img src="https://i.ebayimg.com/images/g/wvkAAOSwwBdmhELe/s-l225.jpg" alt="Listing image for NEW 16cm British Airways Concorde Die Cast Metal Aircraft Plane Model UK SELLER" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delayed-sound-why-the-silent-ufo-later-sounds-like-a-plane-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="delayed-sound-why-the-silent-ufo-later-sounds-like-a-plane-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-silent-ufo-later-sounds-like-a-plane-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-the-silent-ufo-later-sounds-like-a-plane-airplane-model" target="_blank" rel="sponsored noopener noreferrer">NEW 16cm British Airways Concorde Die Cast Metal Aircraft Plane Model UK SELLER</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delayed-sound-why-the-silent-ufo-later-sounds-like-a-plane-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="delayed-sound-why-the-silent-ufo-later-sounds-like-a-plane-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-silent-ufo-later-sounds-like-a-plane-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-the-silent-ufo-later-sounds-like-a-plane-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delayed-sound-why-the-silent-ufo-later-sounds-like-a-plane-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="delayed-sound-why-the-silent-ufo-later-sounds-like-a-plane-ifos-causes-of-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-silent-ufo-later-sounds-like-a-plane-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-the-silent-ufo-later-sounds-like-a-plane-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -511,7 +505,7 @@ From a UFO-investigation perspective, this sequence is important because witness
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delayed-sound-why-the-silent-ufo-later-sounds-like-a-plane-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="delayed-sound-why-the-silent-ufo-later-sounds-like-a-plane-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-silent-ufo-later-sounds-like-a-plane-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-the-silent-ufo-later-sounds-like-a-plane-airplane-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -727,125 +721,125 @@ From a UFO-investigation perspective, this sequence is important because witness
 1. <a id="endnote-1"></a>
    Source: arxiv.org  
    Title: arXiv Effect of a 2D Hill on the Propagation of Wind Turbine Noise  
-   Link: [https://arxiv.org/abs/2207.13406](https://arxiv.org/abs/2207.13406)  
+   Link: <a href="https://arxiv.org/abs/2207.13406" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2207.13406</a>  
 
 2. <a id="endnote-2"></a>
    Source: arxiv.org  
    Title: arXiv Convolutional Neural Networks for Aircraft Noise Monitoring  
-   Link: [https://arxiv.org/abs/1806.04779](https://arxiv.org/abs/1806.04779)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivConvolutional Neural Networks for Aircraft Noise MonitoringJune 12, 2018...</p></details>
+   Link: <a href="https://arxiv.org/abs/1806.04779" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1806.04779</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Convolutional Neural Networks for Aircraft Noise MonitoringJune 12, 2018...</p></details>
    Published: June 12, 2018  
 
 3. <a id="endnote-3"></a>
    Source: students.aip.org  
    Title: physics puzzler sound reasons the answers  
-   Link: [https://students.aip.org/observer/physics-puzzler-sound-reasons-the-answers](https://students.aip.org/observer/physics-puzzler-sound-reasons-the-answers)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>STUDENTSPhysics Puzzler: Sound Reasons: The AnswersFeb 1, 2016 — Various atmospheric conditions can cause a temperature inversion, with a...</p></details>
+   Link: <a href="https://students.aip.org/observer/physics-puzzler-sound-reasons-the-answers" target="_blank" rel="noopener noreferrer nofollow">https://students.aip.org/observer/physics-puzzler-sound-reasons-the-answers</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Physics Puzzler: Sound Reasons: The AnswersFeb 1, 2016 — Various atmospheric conditions can cause a temperature inversion, with a...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: acentech.com  
-   Link: [https://www.acentech.com/resources/cold-snaps-and-sound-waves-atmospheric-acoustics/](https://www.acentech.com/resources/cold-snaps-and-sound-waves-atmospheric-acoustics/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AcentechCold Snaps and Sound Waves: Atmospheric AcousticsFeb 15, 2022 — This condition is called a temperature inversion, where the sound...</p></details>
+   Link: <a href="https://www.acentech.com/resources/cold-snaps-and-sound-waves-atmospheric-acoustics/" target="_blank" rel="noopener noreferrer nofollow">https://www.acentech.com/resources/cold-snaps-and-sound-waves-atmospheric-acoustics/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cold Snaps and Sound Waves: Atmospheric AcousticsFeb 15, 2022 — This condition is called a temperature inversion, where the sound...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: aircraft.com  
-   Link: [https://www.aircraft.com/](https://www.aircraft.com/)  
+   Link: <a href="https://www.aircraft.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.aircraft.com/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>FAA N-Number Lookup | View Photos &amp; SpecsThe site offers photos and detailed information about over 270,000 aircraft...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: gatwickairport.com  
    Title: On a very windy day, the wind  
-   Link: [https://www.gatwickairport.com/on/demandware.static/-/Sites-Gatwick-Library/en_GB/v1776343463589/images/Corporate-PDFs/Noise%20%26%20Airspace/NMB/Factors%20Affecting%20Aircraft%20Noise%20Final%20Report.pdf](https://www.gatwickairport.com/on/demandware.static/-/Sites-Gatwick-Library/en_GB/v1776343463589/images/Corporate-PDFs/Noise%20%26%20Airspace/NMB/Factors%20Affecting%20Aircraft%20Noise%20Final%20Report.pdf)  
+   Link: <a href="https://www.gatwickairport.com/on/demandware.static/-/Sites-Gatwick-Library/en_GB/v1776343463589/images/Corporate-PDFs/Noise%20%26%20Airspace/NMB/Factors%20Affecting%20Aircraft%20Noise%20Final%20Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gatwickairport.com/on/demandware.static/-/Sites-Gatwick-Library/en_GB/v1776343463589/images/Corporate-PDFs/Noise%20%26%20Airspace/NMB/Factors%20Affecting%20Aircraft%20Noise%20Final%20Report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gatwick AirportFactors Affecting Aircraft NoiseNovember 14, 2025 — An upwind may reduce noise levels as it carries sound away and bends s...</p></details>
    Published: November 14, 2025  
 
 7. <a id="endnote-7"></a>
    Source: tampaairport.com  
-   Link: [https://www.tampaairport.com/business/airport-operations/noise-abatement/tips-homeowners/effects-weather-noise](https://www.tampaairport.com/business/airport-operations/noise-abatement/tips-homeowners/effects-weather-noise)  
+   Link: <a href="https://www.tampaairport.com/business/airport-operations/noise-abatement/tips-homeowners/effects-weather-noise" target="_blank" rel="noopener noreferrer nofollow">https://www.tampaairport.com/business/airport-operations/noise-abatement/tips-homeowners/effects-weather-noise</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tampa International AirportEffects of Weather on NoiseInversions, which occur when the air temperature increases as altitude increases, h...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: repository.tudelft.nl  
-   Link: [https://repository.tudelft.nl/file/File_139b5336-3e78-4546-a6b4-cb7e50a72c9f](https://repository.tudelft.nl/file/File_139b5336-3e78-4546-a6b4-cb7e50a72c9f)  
+   Link: <a href="https://repository.tudelft.nl/file/File_139b5336-3e78-4546-a6b4-cb7e50a72c9f" target="_blank" rel="noopener noreferrer nofollow">https://repository.tudelft.nl/file/File_139b5336-3e78-4546-a6b4-cb7e50a72c9f</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>and no hard winds are used for the analysis...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: libraryonline.erau.edu  
    Title: Library Online Approach Lighting Systems in the US National Airspace  
-   Link: [https://libraryonline.erau.edu/online-full-text/faa-aviation-medicine-reports/AM21-20.pdf](https://libraryonline.erau.edu/online-full-text/faa-aviation-medicine-reports/AM21-20.pdf)  
+   Link: <a href="https://libraryonline.erau.edu/online-full-text/faa-aviation-medicine-reports/AM21-20.pdf" target="_blank" rel="noopener noreferrer nofollow">https://libraryonline.erau.edu/online-full-text/faa-aviation-medicine-reports/AM21-20.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Library OnlineApproach Lighting Systems in the US National Airspace...July 1, 2021 — by KA Fercho · 2021 · Cited by 3 — Approach lightin...</p></details>
    Published: July 1, 2021  
 
 10. <a id="endnote-10"></a>
    Source: sesarju.eu  
    Title: reducing noise footprint arrival flights  
-   Link: [https://www.sesarju.eu/news/reducing-noise-footprint-arrival-flights](https://www.sesarju.eu/news/reducing-noise-footprint-arrival-flights)  
+   Link: <a href="https://www.sesarju.eu/news/reducing-noise-footprint-arrival-flights" target="_blank" rel="noopener noreferrer nofollow">https://www.sesarju.eu/news/reducing-noise-footprint-arrival-flights</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SESAR Joint UndertakingReducing the noise footprint of arrival flights17 Jun 2022 — Aerodynamic noise is influenced by the configuration...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Aircraft](https://en.wikipedia.org/wiki/Aircraft)  
+   Link: <a href="https://en.wikipedia.org/wiki/Aircraft" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Aircraft</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AircraftAn aircraft is a vehicle that is able to fly by gaining support from the air. It counters the force of gravity by using either...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/aircraft](https://dictionary.cambridge.org/dictionary/english/aircraft)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| English meaning - Cambridge Dictionary4 days ago — AIRCRAFT definition: 1. any vehicle, with or without an engine, that can fly, such a...</p></details>
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/aircraft" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/aircraft</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionary4 days ago — AIRCRAFT definition: 1. any vehicle, with or without an engine, that can fly, such a...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: airfleets.net  
-   Link: [https://www.airfleets.net/](https://www.airfleets.net/)  
+   Link: <a href="https://www.airfleets.net/" target="_blank" rel="noopener noreferrer nofollow">https://www.airfleets.net/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Airfleets aviation | Airline Fleet, plane, photo, airport: Boeing...Aviation website for aircraft and airline information (flight, phot...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_4.html](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_4.html)  
+   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_4.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_4.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Section 4. Arrival ProceduresAircraft may be authorized to conduct a visual approach to one runway while other aircraft are conducting IF...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/381127612_Basics_of_meteorology_for_outdoor_sound_propagation_and_related_modelling_issues](https://www.researchgate.net/publication/381127612_Basics_of_meteorology_for_outdoor_sound_propagation_and_related_modelling_issues)  
+   Link: <a href="https://www.researchgate.net/publication/381127612_Basics_of_meteorology_for_outdoor_sound_propagation_and_related_modelling_issues" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/381127612_Basics_of_meteorology_for_outdoor_sound_propagation_and_related_modelling_issues</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Basics of meteorology for outdoor sound propagation and...10 May 2024 — For instance, temperature inversions during winter nights trap s...</p></details>
    Published: May 2024  
 
 16. <a id="endnote-16"></a>
    Source: aircraft24.com  
-   Link: [https://www.aircraft24.com/](https://www.aircraft24.com/)  
+   Link: <a href="https://www.aircraft24.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.aircraft24.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Used Aircraft and Airplanes for SaleBuy and sell used aircraft on AirCraft24.com - The international marketplace for new and used airplan...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: lockheedmartin.com  
-   Link: [https://www.lockheedmartin.com/en-us/capabilities/aircraft.html](https://www.lockheedmartin.com/en-us/capabilities/aircraft.html)  
+   Link: <a href="https://www.lockheedmartin.com/en-us/capabilities/aircraft.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lockheedmartin.com/en-us/capabilities/aircraft.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AircraftFor more than 100 years, we have been designing, building and sustaining the finest commercial and military aircraft in the world...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DWlP-f5inp2/?hl=en](https://www.instagram.com/p/DWlP-f5inp2/?hl=en)  
+   Link: <a href="https://www.instagram.com/p/DWlP-f5inp2/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DWlP-f5inp2/?hl=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FAA Suspends Parallel Visual Approaches at San...The Federal Aviation Administration (FAA) has terminated parallel visual approach opera...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: syv-test.noiselab.casper.aero  
-   Link: [https://syv-test.noiselab.casper.aero/content/1/air_traffic_101/1](https://syv-test.noiselab.casper.aero/content/1/air_traffic_101/1)  
+   Link: <a href="https://syv-test.noiselab.casper.aero/content/1/air_traffic_101/1" target="_blank" rel="noopener noreferrer nofollow">https://syv-test.noiselab.casper.aero/content/1/air_traffic_101/1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Traffic 101Upon reaching the DH or DA the pilot must visually sight the approach lights, runway lights, or markings. If the runway can no...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: zoek.officielebekendmakingen.nl  
-   Link: [https://zoek.officielebekendmakingen.nl/blg-875159.pdf](https://zoek.officielebekendmakingen.nl/blg-875159.pdf)  
+   Link: <a href="https://zoek.officielebekendmakingen.nl/blg-875159.pdf" target="_blank" rel="noopener noreferrer nofollow">https://zoek.officielebekendmakingen.nl/blg-875159.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>on comparing calculated aircraft noise levels...For landing operations, the noise calculation is much less sensitive to aircraft mass, b...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/flying/comments/14c6pog/curious_about_a_sound_i_hear_airliners_make/](https://www.reddit.com/r/flying/comments/14c6pog/curious_about_a_sound_i_hear_airliners_make/)  
+   Link: <a href="https://www.reddit.com/r/flying/comments/14c6pog/curious_about_a_sound_i_hear_airliners_make/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/flying/comments/14c6pog/curious_about_a_sound_i_hear_airliners_make/</a>  
 
 22. <a id="endnote-22"></a>
    Source: pure.manchester.ac.uk  
    Title: manchester.ac.uk Options for Aircraft Noise Reduction on Arrival and Landing  
-   Link: [https://pure.manchester.ac.uk/ws/files/50903528/paper_v4_R2.pdf](https://pure.manchester.ac.uk/ws/files/50903528/paper_v4_R2.pdf)  
+   Link: <a href="https://pure.manchester.ac.uk/ws/files/50903528/paper_v4_R2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.manchester.ac.uk/ws/files/50903528/paper_v4_R2.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>for Aircraft Noise Reduction on Arrival and LandingAbstract. This paper demonstrates the noise reduction potential from modified final ap...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: af.mil  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Aircraft-Factsheets/](https://www.af.mil/About-Us/Fact-Sheets/Aircraft-Factsheets/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Aircraft-Factsheets/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Aircraft-Factsheets/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Official Home Page of the U.S. Air ForceRead about the capabilities, development, and operational history of the aircraft used by the...</p></details>

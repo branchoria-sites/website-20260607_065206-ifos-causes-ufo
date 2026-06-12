@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_military_flares_abb62f_phoenix_lights_flare_64bee0
 - ifos_-_causes_of_UFO_3ed238_military_flares_abb62f_training_ranges_flar_7a2a67
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - flares
 - san-diego
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - flares
 - san-diego
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: San Diego's repeated offshore flare sightings show how short videos can become UFO stories before official answers catch up.
 hero_summary: San Diego's repeated offshore flare sightings show how short videos can become UFO stories before official answers catch up.
 layout: default
 permalink: /san-diego/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /flares/
 nav_short_title: San Diego
 title: When training flares go viral
-title_full: When training flares go viral | Flares
+title_full: When training flares go viral
 display_title_short: San Diego
 display_title: San Diego
 heading_title: When training flares go viral
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 06:23:46'
-parent_title: Why Flares Look Like Hovering Craft | IFOs
+parent_title: Why Flares Look Like Hovering Craft
 parent_permalink: /flares/
 parent_nav_short_title: Flares
 parent_heading_title: Why Flares Look Like Hovering Craft
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_military_flares_abb62f
-  title: Flares | Ifos Causes Of
+  title: Flares | ifos causes of UFO 3 ed 238
   permalink: /flares/
   short_title: Flares
   heading_title: Why Flares Look Like Hovering Craft
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_military_flares_abb62f
-  title: Flares | Ifos Causes Of
+  title: Flares | ifos causes of UFO 3 ed 238
   permalink: /flares/
   short_title: Flares
   heading_title: Why Flares Look Like Hovering Craft
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: How ranges reveal flare sightings
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_military_flares_abb62f
-  title: Flares | Ifos Causes Of
+  title: Flares | ifos causes of UFO 3 ed 238
   permalink: /flares/
   short_title: Flares
   heading_title: Why Flares Look Like Hovering Craft
@@ -260,6 +259,7 @@ prev_link:
   permalink: /ranges/
   short_title: Ranges
   heading_title: How ranges reveal flare sightings
+date: '2026-06-12 00:30:58 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f_san_diego_flare_sigh_439730-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f_san_diego_flare_sigh_439730-Illustration-1.webp
@@ -268,14 +268,10 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f_san_die
 
 ## Introduction
 
-San Diego has produced several widely shared “UFO” episodes that were later linked to [military flares]({{ 'flares/' | relative_url }}). These incidents are useful examples of how unidentified flying object (IFO) reports develop in real time. Bright lights appear offshore at night, witnesses record [short clips]({{ 'short-clips/' | relative_url }}) with little depth information, social media fills the gap with speculation, and official explanations often arrive hours or days later. By that point, many viewers have already formed their own conclusions.
-
+San Diego has produced several widely shared “UFO” episodes that were later linked to military flares. These incidents are useful examples of how unidentified flying object (IFO) reports develop in real time. Bright lights appear offshore at night, witnesses record [short clips]({{ 'short-clips/' | relative_url }}) with little depth information, social media fills the gap with speculation, and official explanations often arrive hours or days later. By that point, many viewers have already formed their own conclusions.
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f_san_diego_flare_sigh_439730-Illustration-1-dark.svg" | relative_url }}" alt="San Diego illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f_san_diego_flare_sigh_439730-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f_san_diego_flare_sigh_439730-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The San Diego cases are particularly instructive because they occurred in a region surrounded by major military facilities, naval operations and training areas. Yet even there, uncertainty about who was conducting an exercise, and when officials would confirm it, helped ordinary flare sightings evolve into viral UFO stories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abcnews.com/US/strange-lights-off-san-diego-coast-locals-taking/story?id=85849918" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">ABC NewsStrange lights off San Diego coast have locals taking to...June 28, 2022 — 28 Jun 2022 — Strange lights off San Diego coast have...</span><span class="citation-popover-meta">Published: June 28, 2022</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/t1xsXfKa1YY" title="Link Up (Spider-Verse Remix (Spider-Man: Across the Spider-Verse))" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=t1xsXfKa1YY" target="_blank" rel="noopener noreferrer">Link Up (Spider-Verse Remix (Spider-Man: Across the Spider-Verse))</a></p><p class="youtube-embed-meta">Channel: MetroBoominVEVO</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=t1xsXfKa1YY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=t1xsXfKa1YY">Open on YouTube</a></p></div></div></div>
 
 ## The 2018 offshore flare reports
 
@@ -284,7 +280,6 @@ One of the clearest examples occurred in August 2018, when residents across San 
 The explanation emerged relatively quickly. A Navy spokeswoman confirmed that [pilots]({{ 'pilots/' | relative_url }}) were conducting a military training exercise roughly 30 miles offshore and that the lights were training flares. Reports noted that the lights could be visible over a wide area because of their intensity and the clear coastal viewing conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://timesofsandiego.com/military/2018/08/30/mysterious-lights-seen-over-san-diego-were-flares-from-navy-exercise/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesofsandiego.com">[Times of San Diego]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesofsandiego.com</span><span class="citation-popover-title">mysterious lights seen over san diego were flares from navy exercise</span><span class="citation-popover-snippet">Times of San DiegoMysterious Lights Seen Over San Diego Were Flares from...30 Aug 2018 — Mysterious lights in the sky over San Diego tur...</span></span></span>
 
 What made the event noteworthy was not merely that flares were involved, but how closely the witness descriptions matched common UFO narratives:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -297,9 +292,6 @@ What made the event noteworthy was not merely that flares were involved, but how
 
 Those characteristics are exactly the conditions under which illumination flares are frequently mistaken for unusual aerial objects. Offshore observers have few visual reference points, making slow descent difficult to perceive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://timesofsandiego.com/military/2018/08/30/mysterious-lights-seen-over-san-diego-were-flares-from-navy-exercise/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesofsandiego.com">[Times of San Diego]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesofsandiego.com</span><span class="citation-popover-title">mysterious lights seen over san diego were flares from navy exercise</span><span class="citation-popover-snippet">Times of San DiegoMysterious Lights Seen Over San Diego Were Flares from...30 Aug 2018 — Mysterious lights in the sky over San Diego tur...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/29Wbm-UkvUE" title="Djo - Link (Official Visualizer)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=29Wbm-UkvUE" target="_blank" rel="noopener noreferrer">Djo - Link (Official Visualizer)</a></p><p class="youtube-embed-meta">Channel: Djo Music</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=29Wbm-UkvUE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=29Wbm-UkvUE">Open on YouTube</a></p></div></div></div>
-
 ## The 2022 orange-light videos
 
 A larger wave of attention arrived in June 2022 when orange and reddish lights appeared off the San Diego coast. Videos posted to Twitter and other platforms showed several bright lights apparently hanging over the ocean in a loose formation. Some clips accumulated hundreds of thousands of views within days. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abcnews.com/US/strange-lights-off-san-diego-coast-locals-taking/story?id=85849918" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">ABC NewsStrange lights off San Diego coast have locals taking to...June 28, 2022 — 28 Jun 2022 — Strange lights off San Diego coast have...</span><span class="citation-popover-meta">Published: June 28, 2022</span></span></span>
@@ -307,7 +299,6 @@ A larger wave of attention arrived in June 2022 when orange and reddish lights a
 The footage had many features that encourage UFO interpretations. The lights appeared unusually bright, showed little obvious movement, and in some recordings formed patterns that viewers described as triangular or pyramid-like. Without visible landmarks or a clear horizon, it was difficult for viewers to estimate distance, altitude or speed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.independent.co.uk/news/world/americas/lights-san-diego-coast-b2112263.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-title">lights san diego coast b2112263</span><span class="citation-popover-snippet">The IndependentStrange lights spotted off San Diego coast29 Jun 2022 — Hundreds took to Twitter on Monday with pictures and video of a pa...</span></span></span>
 
 Social media quickly generated competing explanations:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -319,12 +310,11 @@ Social media quickly generated competing explanations:
 
 </div>
 
-As speculation spread, local authorities and military organisations offered incomplete or inconsistent information. Some agencies suggested military flares, while nearby military installations initially reported that they did not know the source of the lights. This uncertainty became part of the story itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/ABC10tv/posts/according-to-sdpd-lifeguards-say-they-were-military-flares-but-camp-pendleton-an/10159186045050000/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">FacebookAccording to SDPD, lifeguards say they were military flares...28 Jun 2022 — According to SDPD, lifeguards say they were military...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/KUSINews/posts/did-you-see-the-lights-over-san-diego-on-monday-nightthere-has-been-no-official-/10159736737921068/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">did you see the lights over san diego on monday nightthere has been no official</span><span class="citation-popover-snippet">There has been no official confirmation on what these were, but they are likely military...Read more...</span></span></span>
+As speculation spread, local authorities and military organisations offered incomplete or inconsistent information. Some agencies suggested military flares, while nearby military installations initially reported that they did not know the source of the lights. This uncertainty became part of the story itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/ABC10tv/posts/according-to-sdpd-lifeguards-say-they-were-military-flares-but-camp-pendleton-an/10159186045050000/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">According to SDPD, lifeguards say they were military flares...28 Jun 2022 — According to SDPD, lifeguards say they were military...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/KUSINews/posts/did-you-see-the-lights-over-san-diego-on-monday-nightthere-has-been-no-official-/10159736737921068/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">did you see the lights over san diego on monday nightthere has been no official</span><span class="citation-popover-snippet">There has been no official confirmation on what these were, but they are likely military...Read more...</span></span></span>
 
 Eventually, local authorities stated that the lights were associated with military exercises and were believed to be flares. Reporting from local broadcasters also cited Coast Guard information indicating that the Navy was likely conducting flare training offshore. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abcnews.com/US/strange-lights-off-san-diego-coast-locals-taking/story?id=85849918" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">ABC NewsStrange lights off San Diego coast have locals taking to...June 28, 2022 — 28 Jun 2022 — Strange lights off San Diego coast have...</span><span class="citation-popover-meta">Published: June 28, 2022</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.10news.com/news/local-news/what-were-those-mysterious-lights-seen-across-san-diego" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 10news.com">[2ABC 10 News San Diego KGTV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">10news.com</span><span class="citation-popover-title">what were those mysterious lights seen across san diego</span><span class="citation-popover-snippet">A Coast Guard spokesperson said...Read more...</span></span></span>
 
 The final explanation was far less dramatic than many of the online theories, but by then the videos had already been viewed and shared as a possible UFO event.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f_san_diego_flare_sigh_439730-Illustration-2-dark.svg" | relative_url }}" alt="San Diego illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f_san_diego_flare_sigh_439730-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f_san_diego_flare_sigh_439730-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why official timing shapes belief
@@ -345,9 +335,7 @@ Several factors amplify this effect:
 
 These factors do not require anyone to be irrational. They arise naturally from the way information travels during unexpected events.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f_san_diego_flare_sigh_439730-Illustration-3-dark.svg" | relative_url }}" alt="San Diego illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f_san_diego_flare_sigh_439730-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f_san_diego_flare_sigh_439730-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the San Diego cases show about UFO reports
 
 The San Diego flare sightings illustrate why military training lights remain a significant source of UFO reports. The lights were real, visible to large numbers of people and impressive enough to generate widespread attention. Witnesses were not inventing what they saw.
@@ -355,9 +343,6 @@ The San Diego flare sightings illustrate why military training lights remain a s
 The confusion emerged because observers lacked critical context: distance, training schedules, and immediate confirmation from the organisations conducting activity offshore. Once those details became available, the incidents fit a familiar pattern of illumination flares used during military exercises. ABC 10 News San Diego KGTV <span class="citation-chip-wrap"><a class="citation-chip" href="https://timesofsandiego.com/military/2018/08/30/mysterious-lights-seen-over-san-diego-were-flares-from-navy-exercise/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesofsandiego.com">[Times of San Diego]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesofsandiego.com</span><span class="citation-popover-title">mysterious lights seen over san diego were flares from navy exercise</span><span class="citation-popover-snippet">Times of San DiegoMysterious Lights Seen Over San Diego Were Flares from...30 Aug 2018 — Mysterious lights in the sky over San Diego tur...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbs8.com/article/news/mystery-solved-military-flare-training-lights-up-the-san-diego-night-sky/509-b8fa3172-b52a-4951-8e66-354890462063" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbs8.com">[3CBS 8]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbs8.com</span><span class="citation-popover-snippet">The flare lights were from...Read more...</span></span></span>
 
 For students of UFO reports, the lesson is less about debunking than about timing. The most influential period in many sightings is the gap between observation and explanation. San Diego's recurring flare stories demonstrate how that gap can transform routine training activity into a viral UFO mystery long before the official answer catches up. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abcnews.com/US/strange-lights-off-san-diego-coast-locals-taking/story?id=85849918" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">ABC NewsStrange lights off San Diego coast have locals taking to...June 28, 2022 — 28 Jun 2022 — Strange lights off San Diego coast have...</span><span class="citation-popover-meta">Published: June 28, 2022</span></span></span>
-
-
-<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f_san_diego_flare_sigh_439730-Illustration-3-dark.svg" | relative_url }}" alt="San Diego illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f_san_diego_flare_sigh_439730-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f_san_diego_flare_sigh_439730-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -476,11 +461,11 @@ For students of UFO reports, the lesson is less about debunking than about timin
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=naval+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-training-flares-go-viral-naval-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="naval aviation poster" data-ebay-reference="when-training-flares-go-viral-naval-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Naval Aviation - Pilots Machinists Ordnancemen - WWII Navy Poster - 20x30"><img src="https://i.ebayimg.com/images/g/qnQAAOSwqbNmB0IF/s-l225.jpg" alt="Listing image for Naval Aviation - Pilots Machinists Ordnancemen - WWII Navy Poster - 20x30" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=naval+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-training-flares-go-viral-naval-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="naval aviation poster" data-ebay-reference="when-training-flares-go-viral-naval-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Naval Aviation Pilots Machinists Ordnancemen WwII Navy Wall - POSTER 20&quot;x30&quot;"><img src="https://i.ebayimg.com/images/g/C14AAOSwe15lH~FK/s-l225.jpg" alt="Listing image for Naval Aviation Pilots Machinists Ordnancemen WwII Navy Wall - POSTER 20&quot;x30&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=naval+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-training-flares-go-viral-naval-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="naval aviation poster" data-ebay-reference="when-training-flares-go-viral-naval-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Naval Aviation - Pilots Machinists Ordnancemen - WWII Navy Poster - 20x30</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=naval+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-training-flares-go-viral-naval-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="naval aviation poster" data-ebay-reference="when-training-flares-go-viral-naval-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Naval Aviation Pilots Machinists Ordnancemen WwII Navy Wall - POSTER 20&quot;x30&quot;</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=naval+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-training-flares-go-viral-naval-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="naval aviation poster" data-ebay-reference="when-training-flares-go-viral-naval-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for naval aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: naval aviation poster</a>
         <div class="fr-book-actions">
@@ -492,11 +477,11 @@ For students of UFO reports, the lesson is less about debunking than about timin
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=naval+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-training-flares-go-viral-naval-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="naval aviation poster" data-ebay-reference="when-training-flares-go-viral-naval-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &quot;Naval Aviation has a place for YOU!&quot; WW2 Navy Recruiting Poster - 24x36"><img src="https://i.ebayimg.com/images/g/qnQAAOSwqbNmB0IF/s-l225.jpg" alt="Listing image for &quot;Naval Aviation has a place for YOU!&quot; WW2 Navy Recruiting Poster - 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=naval+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-training-flares-go-viral-naval-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="naval aviation poster" data-ebay-reference="when-training-flares-go-viral-naval-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WWII US Naval Aviation Training Poster 1942 Douglas A-20 Attack Bomber 18&quot;x25&quot;"><img src="https://i.ebayimg.com/images/g/MNsAAOSwfV5oDAfq/s-l225.jpg" alt="Listing image for WWII US Naval Aviation Training Poster 1942 Douglas A-20 Attack Bomber 18&quot;x25&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=naval+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-training-flares-go-viral-naval-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="naval aviation poster" data-ebay-reference="when-training-flares-go-viral-naval-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">&quot;Naval Aviation has a place for YOU!&quot; WW2 Navy Recruiting Poster - 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=naval+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-training-flares-go-viral-naval-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="naval aviation poster" data-ebay-reference="when-training-flares-go-viral-naval-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">WWII US Naval Aviation Training Poster 1942 Douglas A-20 Attack Bomber 18&quot;x25&quot;</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=naval+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-training-flares-go-viral-naval-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="naval aviation poster" data-ebay-reference="when-training-flares-go-viral-naval-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for naval aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: naval aviation poster</a>
         <div class="fr-book-actions">
@@ -508,11 +493,27 @@ For students of UFO reports, the lesson is less about debunking than about timin
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=naval+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-training-flares-go-viral-naval-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="naval aviation poster" data-ebay-reference="when-training-flares-go-viral-naval-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WWII US Naval Aviation Training Poster 1942 Super Flying Fortress 18&quot;x25&quot;"><img src="https://i.ebayimg.com/images/g/eJoAAeSwiwRqD4iD/s-l225.jpg" alt="Listing image for WWII US Naval Aviation Training Poster 1942 Super Flying Fortress 18&quot;x25&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=naval+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-training-flares-go-viral-naval-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="naval aviation poster" data-ebay-reference="when-training-flares-go-viral-naval-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Falklands war Aviation Art Print 801 Naval Air Harrier Jump Jet fighter"><img src="https://i.ebayimg.com/images/g/oNEAAOSwxp5l4clw/s-l225.jpg" alt="Listing image for Falklands war Aviation Art Print 801 Naval Air Harrier Jump Jet fighter" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=naval+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-training-flares-go-viral-naval-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="naval aviation poster" data-ebay-reference="when-training-flares-go-viral-naval-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">WWII US Naval Aviation Training Poster 1942 Super Flying Fortress 18&quot;x25&quot;</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=naval+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-training-flares-go-viral-naval-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="naval aviation poster" data-ebay-reference="when-training-flares-go-viral-naval-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Falklands war Aviation Art Print 801 Naval Air Harrier Jump Jet fighter</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=naval+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-training-flares-go-viral-naval-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="naval aviation poster" data-ebay-reference="when-training-flares-go-viral-naval-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for naval aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: naval aviation poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=naval+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-training-flares-go-viral-naval-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="naval aviation poster" data-ebay-reference="when-training-flares-go-viral-naval-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=naval+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-training-flares-go-viral-naval-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="naval aviation poster" data-ebay-reference="when-training-flares-go-viral-naval-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Naval Aviation News Poster Wallchart 1984 US Naval Aircraft Designations."><img src="https://i.ebayimg.com/images/g/cmAAAOSwGTRiuuLp/s-l225.jpg" alt="Listing image for Naval Aviation News Poster Wallchart 1984 US Naval Aircraft Designations." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=naval+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-training-flares-go-viral-naval-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="naval aviation poster" data-ebay-reference="when-training-flares-go-viral-naval-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Naval Aviation News Poster Wallchart 1984 US Naval Aircraft Designations.</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=naval+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-training-flares-go-viral-naval-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="naval aviation poster" data-ebay-reference="when-training-flares-go-viral-naval-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for naval aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: naval aviation poster</a>
         <div class="fr-book-actions">
@@ -734,78 +735,79 @@ For students of UFO reports, the lesson is less about debunking than about timin
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ABC10tv/posts/according-to-sdpd-lifeguards-say-they-were-military-flares-but-camp-pendleton-an/10159186045050000/](https://www.facebook.com/ABC10tv/posts/according-to-sdpd-lifeguards-say-they-were-military-flares-but-camp-pendleton-an/10159186045050000/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookAccording to SDPD, lifeguards say they were military flares...28 Jun 2022 — According to SDPD, lifeguards say they were military...</p></details>
+   Link: <a href="https://www.facebook.com/ABC10tv/posts/according-to-sdpd-lifeguards-say-they-were-military-flares-but-camp-pendleton-an/10159186045050000/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABC10tv/posts/according-to-sdpd-lifeguards-say-they-were-military-flares-but-camp-pendleton-an/10159186045050000/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>According to SDPD, lifeguards say they were military flares...28 Jun 2022 — According to SDPD, lifeguards say they were military...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: facebook.com  
    Title: did you see the lights over san diego on monday nightthere has been no official  
-   Link: [https://www.facebook.com/KUSINews/posts/did-you-see-the-lights-over-san-diego-on-monday-nightthere-has-been-no-official-/10159736737921068/](https://www.facebook.com/KUSINews/posts/did-you-see-the-lights-over-san-diego-on-monday-nightthere-has-been-no-official-/10159736737921068/)  
+   Link: <a href="https://www.facebook.com/KUSINews/posts/did-you-see-the-lights-over-san-diego-on-monday-nightthere-has-been-no-official-/10159736737921068/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KUSINews/posts/did-you-see-the-lights-over-san-diego-on-monday-nightthere-has-been-no-official-/10159736737921068/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>There has been no official confirmation on what these were, but they are likely military...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: 10news.com  
    Title: what were those mysterious lights seen across san diego  
-   Link: [https://www.10news.com/news/local-news/what-were-those-mysterious-lights-seen-across-san-diego](https://www.10news.com/news/local-news/what-were-those-mysterious-lights-seen-across-san-diego)  
+   Link: <a href="https://www.10news.com/news/local-news/what-were-those-mysterious-lights-seen-across-san-diego" target="_blank" rel="noopener noreferrer nofollow">https://www.10news.com/news/local-news/what-were-those-mysterious-lights-seen-across-san-diego</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Coast Guard spokesperson said...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/HunterSowards13/posts/weird-lights-who-else-saw-a-strange-light-formation-in-san-diego-county-this-eve/463735838894682/](https://www.facebook.com/HunterSowards13/posts/weird-lights-who-else-saw-a-strange-light-formation-in-san-diego-county-this-eve/463735838894682/)  
+   Link: <a href="https://www.facebook.com/HunterSowards13/posts/weird-lights-who-else-saw-a-strange-light-formation-in-san-diego-county-this-eve/463735838894682/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HunterSowards13/posts/weird-lights-who-else-saw-a-strange-light-formation-in-san-diego-county-this-eve/463735838894682/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>WEIRD LIGHTS? Who else saw a strange light formation in...... flares -blamed-for-ufo-sighting-over-san-diego. UFO of Interest. 6y... Of...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NBCSanDiego/posts/-people-across-san-diego-spotted-strange-lights-in-the-sky-sunday-night-did-you-/733888332118710/](https://www.facebook.com/NBCSanDiego/posts/-people-across-san-diego-spotted-strange-lights-in-the-sky-sunday-night-did-you-/733888332118710/)  
+   Link: <a href="https://www.facebook.com/NBCSanDiego/posts/-people-across-san-diego-spotted-strange-lights-in-the-sky-sunday-night-did-you-/733888332118710/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NBCSanDiego/posts/-people-across-san-diego-spotted-strange-lights-in-the-sky-sunday-night-did-you-/733888332118710/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Did you happen to see them? Turns out, it was all part of the party at Snapdragon...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/libertyriskinternational/posts/theres-lots-of-weird-stories-about-strange-things-happening-around-point-loma-sa/882548654482238/](https://www.facebook.com/libertyriskinternational/posts/theres-lots-of-weird-stories-about-strange-things-happening-around-point-loma-sa/882548654482238/)  
+   Link: <a href="https://www.facebook.com/libertyriskinternational/posts/theres-lots-of-weird-stories-about-strange-things-happening-around-point-loma-sa/882548654482238/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/libertyriskinternational/posts/theres-lots-of-weird-stories-about-strange-things-happening-around-point-loma-sa/882548654482238/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>There&#x27;s lots of weird stories about strange things...ALIENS? UFOs? Have you seen one? Dozens of residents in the #SanDiego area took to...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/KSEE24/posts/mysterious-lights-off-the-san-diego-coast-prompted-locals-to-question-what-they-/10159553582399927/](https://www.facebook.com/KSEE24/posts/mysterious-lights-off-the-san-diego-coast-prompted-locals-to-question-what-they-/10159553582399927/)  
+   Link: <a href="https://www.facebook.com/KSEE24/posts/mysterious-lights-off-the-san-diego-coast-prompted-locals-to-question-what-they-/10159553582399927/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KSEE24/posts/mysterious-lights-off-the-san-diego-coast-prompted-locals-to-question-what-they-/10159553582399927/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>an. Videos of the lights were also posted to social media.Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
    Title: Mysterious Lights Over San Diego Explained  
-   Link: [https://www.youtube.com/watch?v=0hK2063Zz5k](https://www.youtube.com/watch?v=0hK2063Zz5k)  
+   Link: <a href="https://www.youtube.com/watch?v=0hK2063Zz5k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0hK2063Zz5k</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Strange Lights Off San Diego Coast...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
    Title: Strange Lights Off San Diego Coast  
-   Link: [https://www.youtube.com/watch?v=5-8dC-r8wQ4](https://www.youtube.com/watch?v=5-8dC-r8wQ4)  
+   Link: <a href="https://www.youtube.com/watch?v=5-8dC-r8wQ4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5-8dC-r8wQ4</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Navy Confirms Lights Seen Over San Diego Were Flares...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: abcnews.com  
-   Link: [https://abcnews.com/US/strange-lights-off-san-diego-coast-locals-taking/story?id=85849918](https://abcnews.com/US/strange-lights-off-san-diego-coast-locals-taking/story?id=85849918)  
+   Link: <a href="https://abcnews.com/US/strange-lights-off-san-diego-coast-locals-taking/story?id=85849918" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/US/strange-lights-off-san-diego-coast-locals-taking/story?id=85849918</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsStrange lights off San Diego coast have locals taking to...June 28, 2022 — 28 Jun 2022 — Strange lights off San Diego coast have...</p></details>
    Published: June 28, 2022  
 
 11. <a id="endnote-11"></a>
    Source: timesofsandiego.com  
    Title: mysterious lights seen over san diego were flares from navy exercise  
-   Link: [https://timesofsandiego.com/military/2018/08/30/mysterious-lights-seen-over-san-diego-were-flares-from-navy-exercise/](https://timesofsandiego.com/military/2018/08/30/mysterious-lights-seen-over-san-diego-were-flares-from-navy-exercise/)  
+   Link: <a href="https://timesofsandiego.com/military/2018/08/30/mysterious-lights-seen-over-san-diego-were-flares-from-navy-exercise/" target="_blank" rel="noopener noreferrer nofollow">https://timesofsandiego.com/military/2018/08/30/mysterious-lights-seen-over-san-diego-were-flares-from-navy-exercise/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Times of San DiegoMysterious Lights Seen Over San Diego Were Flares from...30 Aug 2018 — Mysterious lights in the sky over San Diego tur...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: cbs8.com  
-   Link: [https://www.cbs8.com/article/news/mystery-solved-military-flare-training-lights-up-the-san-diego-night-sky/509-b8fa3172-b52a-4951-8e66-354890462063](https://www.cbs8.com/article/news/mystery-solved-military-flare-training-lights-up-the-san-diego-night-sky/509-b8fa3172-b52a-4951-8e66-354890462063)  
+   Link: <a href="https://www.cbs8.com/article/news/mystery-solved-military-flare-training-lights-up-the-san-diego-night-sky/509-b8fa3172-b52a-4951-8e66-354890462063" target="_blank" rel="noopener noreferrer nofollow">https://www.cbs8.com/article/news/mystery-solved-military-flare-training-lights-up-the-san-diego-night-sky/509-b8fa3172-b52a-4951-8e66-354890462063</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The flare lights were from...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: independent.co.uk  
    Title: lights san diego coast b2112263  
-   Link: [https://www.independent.co.uk/news/world/americas/lights-san-diego-coast-b2112263.html](https://www.independent.co.uk/news/world/americas/lights-san-diego-coast-b2112263.html)  
+   Link: <a href="https://www.independent.co.uk/news/world/americas/lights-san-diego-coast-b2112263.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/world/americas/lights-san-diego-coast-b2112263.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The IndependentStrange lights spotted off San Diego coast29 Jun 2022 — Hundreds took to Twitter on Monday with pictures and video of a pa...</p></details>
 
 ### Additional References
@@ -813,56 +815,56 @@ For students of UFO reports, the lesson is less about debunking than about timin
 14. <a id="endnote-14"></a>
    Source: southernillinoisnow.com  
    Title: strange lights off san diego coast have locals taking to social media  
-   Link: [https://southernillinoisnow.com/2022/06/28/strange-lights-off-san-diego-coast-have-locals-taking-to-social-media/](https://southernillinoisnow.com/2022/06/28/strange-lights-off-san-diego-coast-have-locals-taking-to-social-media/)  
+   Link: <a href="https://southernillinoisnow.com/2022/06/28/strange-lights-off-san-diego-coast-have-locals-taking-to-social-media/" target="_blank" rel="noopener noreferrer nofollow">https://southernillinoisnow.com/2022/06/28/strange-lights-off-san-diego-coast-have-locals-taking-to-social-media/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Strange lights off San Diego coast have locals taking to social...28 Jun 2022 — The posts offered several possible sources for the unusu...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: upi.com  
    Title: Mysterious lights spotted over San Diego believed to be  
-   Link: [https://www.upi.com/Odd_News/2022/06/28/mysterious-lights-over-San-Diego-military-flares/2401656449573/](https://www.upi.com/Odd_News/2022/06/28/mysterious-lights-over-San-Diego-military-flares/2401656449573/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UPI28 Jun 2022 — The orange lights were spotted over San Diego and the surrounding area, including as far away as Tijuana, Mexico, on Mon...</p></details>
+   Link: <a href="https://www.upi.com/Odd_News/2022/06/28/mysterious-lights-over-San-Diego-military-flares/2401656449573/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Odd_News/2022/06/28/mysterious-lights-over-San-Diego-military-flares/2401656449573/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>28 Jun 2022 — The orange lights were spotted over San Diego and the surrounding area, including as far away as Tijuana, Mexico, on Mon...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: santafehillssanmarcos.com  
-   Link: [https://www.santafehillssanmarcos.com/orange-flares-floating-in-sky/](https://www.santafehillssanmarcos.com/orange-flares-floating-in-sky/)  
+   Link: <a href="https://www.santafehillssanmarcos.com/orange-flares-floating-in-sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.santafehillssanmarcos.com/orange-flares-floating-in-sky/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Orange Flare UFOs Were Not Aliens!After a call to to Camp Pendleton, we learned that the lights last night were C130 Illumination Flares...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: nbcsandiego.com  
    Title: mysterious lights oceanside camp pendleton 911 calls san diego  
-   Link: [https://www.nbcsandiego.com/news/local/mysterious-lights-oceanside-camp-pendleton-911-calls-san-diego/55855/](https://www.nbcsandiego.com/news/local/mysterious-lights-oceanside-camp-pendleton-911-calls-san-diego/55855/)  
+   Link: <a href="https://www.nbcsandiego.com/news/local/mysterious-lights-oceanside-camp-pendleton-911-calls-san-diego/55855/" target="_blank" rel="noopener noreferrer nofollow">https://www.nbcsandiego.com/news/local/mysterious-lights-oceanside-camp-pendleton-911-calls-san-diego/55855/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Marines sent out a warning last week telling neighbors to...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: nbcsandiego.com  
    Title: mysterious lights in san diego sky were military flares  
-   Link: [https://www.nbcsandiego.com/news/local/mysterious-lights-in-san-diego-sky-were-military-flares/2982084/](https://www.nbcsandiego.com/news/local/mysterious-lights-in-san-diego-sky-were-military-flares/2982084/)  
+   Link: <a href="https://www.nbcsandiego.com/news/local/mysterious-lights-in-san-diego-sky-were-military-flares/2982084/" target="_blank" rel="noopener noreferrer nofollow">https://www.nbcsandiego.com/news/local/mysterious-lights-in-san-diego-sky-were-military-flares/2982084/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The highly anticipated intelligence report released by the Department of Defense on...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: instagram.com  
    Title: Cf V2p1dl QPQ  
-   Link: [https://www.instagram.com/reel/CfV2p1dlQPQ/](https://www.instagram.com/reel/CfV2p1dlQPQ/)  
+   Link: <a href="https://www.instagram.com/reel/CfV2p1dlQPQ/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/CfV2p1dlQPQ/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>flares in use for a military exercise. After further investigation Camp Pendleton &amp; NAS North Island admitted they are not flares, &amp; they...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: Navy Confirms Lights Seen Over San Diego Were Flares  
-   Link: [https://www.youtube.com/watch?v=Yf-02oO8aB4](https://www.youtube.com/watch?v=Yf-02oO8aB4)  
+   Link: <a href="https://www.youtube.com/watch?v=Yf-02oO8aB4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Yf-02oO8aB4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO or Military Flare? Investigating the San Diego Sightings...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: nbcsandiego.com  
    Title: UA Ps?  
-   Link: [https://www.nbcsandiego.com/video/videos/uaps-ufos-mysterious-lights-in-san-diego-sky-were-military-flares-sdpd/2982109/](https://www.nbcsandiego.com/video/videos/uaps-ufos-mysterious-lights-in-san-diego-sky-were-military-flares-sdpd/2982109/)  
+   Link: <a href="https://www.nbcsandiego.com/video/videos/uaps-ufos-mysterious-lights-in-san-diego-sky-were-military-flares-sdpd/2982109/" target="_blank" rel="noopener noreferrer nofollow">https://www.nbcsandiego.com/video/videos/uaps-ufos-mysterious-lights-in-san-diego-sky-were-military-flares-sdpd/2982109/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs? Mysterious Lights in San Diego Sky Identified...Mysterious Lights in San Diego Sky Identified by SDPD. Callers told NBC 7 that the...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/sandiego/comments/vmeboa/terrible_pic_but_anybody_else_seeing_this_over/](https://www.reddit.com/r/sandiego/comments/vmeboa/terrible_pic_but_anybody_else_seeing_this_over/)  
+   Link: <a href="https://www.reddit.com/r/sandiego/comments/vmeboa/terrible_pic_but_anybody_else_seeing_this_over/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/sandiego/comments/vmeboa/terrible_pic_but_anybody_else_seeing_this_over/</a>  
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: UFO or Military Flare? Investigating the San Diego Sightings  
-   Link: [https://www.youtube.com/watch?v=h_7eB3R0o-Y](https://www.youtube.com/watch?v=h_7eB3R0o-Y)  
+   Link: <a href="https://www.youtube.com/watch?v=h_7eB3R0o-Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=h_7eB3R0o-Y</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Military Flares Look Like UFOs...</p></details>

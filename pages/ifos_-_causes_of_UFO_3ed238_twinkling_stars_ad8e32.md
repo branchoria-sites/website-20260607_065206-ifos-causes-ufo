@@ -50,22 +50,22 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_wind_data_33671a
 - ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - stars
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - stars
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Low stars can flash red, green and white as atmospheric turbulence bends their light across the horizon.
 hero_summary: Low stars can flash red, green and white as atmospheric turbulence bends their light across the horizon.
 layout: default
 permalink: /stars/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 nav_short_title: Stars
 title: Why Stars Flash Like Machines
-title_full: Why Stars Flash Like Machines | IFOs
+title_full: Why Stars Flash Like Machines
 display_title_short: Stars
 display_title: Stars
 heading_title: Why Stars Flash Like Machines
@@ -240,213 +240,212 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 03:53:48'
 parent_title: IFOs
-parent_permalink: /ifos-causes-of/
+parent_permalink: /ifos-causes-of-ufo-3-ed-238/
 parent_nav_short_title: IFOs
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 sibling_links:
 - basename: ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d
-  title: A Head On Aircraft Can Look Like A Stationary Light Because It | Ifos Causes Of
+  title: A Head On Aircraft Can Look Like A Stationary Light Because It | ifos causes of UFO 3 ed 238
   permalink: /a-head-on-aircraft-can-look-like-a/
   short_title: A Head On Aircraft Can Look Like A Stationary Light Because It
   heading_title: The Stationary Light That Is Moving
 - basename: ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261
-  title: AARO | Ifos Causes Of
+  title: AARO | ifos causes of UFO 3 ed 238
   permalink: /aaro/
   short_title: AARO
   heading_title: What Modern UAP Reviews Resolve
 - basename: ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253
-  title: Aircraft Lights | Ifos Causes Of
+  title: Aircraft Lights | ifos causes of UFO 3 ed 238
   permalink: /aircraft-lights/
   short_title: Aircraft Lights
   heading_title: Why Ordinary Aircraft Look So Strange
 - basename: ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043
-  title: Atmosphere | Ifos Causes Of
+  title: Atmosphere | ifos causes of UFO 3 ed 238
   permalink: /atmosphere/
   short_title: Atmosphere
   heading_title: When Weather Makes Shapes in the Sky
 - basename: ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057
-  title: Balloons | Ifos Causes Of
+  title: Balloons | ifos causes of UFO 3 ed 238
   permalink: /balloons/
   short_title: Balloons
   heading_title: Why Balloons Become Flying Saucers
 - basename: ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40
-  title: Birds | Ifos Causes Of
+  title: Birds | ifos causes of UFO 3 ed 238
   permalink: /birds/
   short_title: Birds
   heading_title: How Birds Become Fast UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81
-  title: Blue Book | Ifos Causes Of
+  title: Blue Book | ifos causes of UFO 3 ed 238
   permalink: /blue-book/
   short_title: Blue Book
   heading_title: What Blue Book Teaches About IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e
-  title: Contrails | Ifos Causes Of
+  title: Contrails | ifos causes of UFO 3 ed 238
   permalink: /contrails/
   short_title: Contrails
   heading_title: Why Jet Trails Glow Like UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c
-  title: Drones | Ifos Causes Of
+  title: Drones | ifos causes of UFO 3 ed 238
   permalink: /drones/
   short_title: Drones
   heading_title: When a Drone Becomes a UFO
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e
-  title: First Checks | Ifos Causes Of
+  title: First Checks | ifos causes of UFO 3 ed 238
   permalink: /first-checks/
   short_title: First Checks
   heading_title: What to Check Before Calling It a UFO
 - basename: ifos_-_causes_of_UFO_3ed238_military_flares_abb62f
-  title: Flares | Ifos Causes Of
+  title: Flares | ifos causes of UFO 3 ed 238
   permalink: /flares/
   short_title: Flares
   heading_title: Why Flares Look Like Hovering Craft
 - basename: ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590
-  title: Flight Tracking | Ifos Causes Of
+  title: Flight Tracking | ifos causes of UFO 3 ed 238
   permalink: /flight-tracking/
   short_title: Flight Tracking
   heading_title: How Flight Data Solves UFO Sightings
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965
-  title: Hoaxes | Ifos Causes Of
+  title: Hoaxes | ifos causes of UFO 3 ed 238
   permalink: /hoaxes/
   short_title: Hoaxes
   heading_title: When UFO Reports Are Manufactured
 - basename: ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f
-  title: Infrared | Ifos Causes Of
+  title: Infrared | ifos causes of UFO 3 ed 238
   permalink: /infrared/
   short_title: Infrared
   heading_title: Why Infrared UFO Videos Mislead
 - basename: ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74
-  title: Insects | Ifos Causes Of
+  title: Insects | ifos causes of UFO 3 ed 238
   permalink: /insects/
   short_title: Insects
   heading_title: The Tiny Things Cameras Make Huge
 - basename: ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5
-  title: Lanterns | Ifos Causes Of
+  title: Lanterns | ifos causes of UFO 3 ed 238
   permalink: /lanterns/
   short_title: Lanterns
   heading_title: The Orange Lights That Start UFO Reports
 - basename: ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e
-  title: Lens Flare | Ifos Causes Of
+  title: Lens Flare | ifos causes of UFO 3 ed 238
   permalink: /lens-flare/
   short_title: Lens Flare
   heading_title: When Cameras Invent Extra Lights
 - basename: ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28
-  title: Mass Sightings | Ifos Causes Of
+  title: Mass Sightings | ifos causes of UFO 3 ed 238
   permalink: /mass-sightings/
   short_title: Mass Sightings
   heading_title: Why Groups Can Share One Mistake
 - basename: ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504
-  title: Meteors | Ifos Causes Of
+  title: Meteors | ifos causes of UFO 3 ed 238
   permalink: /meteors/
   short_title: Meteors
   heading_title: When Fireballs Become UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca
-  title: Missing Data | Ifos Causes Of
+  title: Missing Data | ifos causes of UFO 3 ed 238
   permalink: /missing-data/
   short_title: Missing Data
   heading_title: Unsolved Does Not Always Mean Strange
 - basename: ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183
-  title: NASA Study | Ifos Causes Of
+  title: NASA Study | ifos causes of UFO 3 ed 238
   permalink: /nasa-study/
   short_title: NASA Study
   heading_title: Why Better UFO Data Matters
 - basename: ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b
-  title: Parallax | Ifos Causes Of
+  title: Parallax | ifos causes of UFO 3 ed 238
   permalink: /parallax/
   short_title: Parallax
   heading_title: The Speed Illusion in UFO Footage
 - basename: ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a
-  title: Pilots | Ifos Causes Of
+  title: Pilots | ifos causes of UFO 3 ed 238
   permalink: /pilots/
   short_title: Pilots
   heading_title: Why Pilots Can Misidentify UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357
-  title: Radar | Ifos Causes Of
+  title: Radar | ifos causes of UFO 3 ed 238
   permalink: /radar/
   short_title: Radar
   heading_title: When Radar Sees a UFO That Isnt There
 - basename: ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c
-  title: Reflections | Ifos Causes Of
+  title: Reflections | ifos causes of UFO 3 ed 238
   permalink: /reflections/
   short_title: Reflections
   heading_title: The UFO Inside the Glass
 - basename: ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132
-  title: Rocket Plumes | Ifos Causes Of
+  title: Rocket Plumes | ifos causes of UFO 3 ed 238
   permalink: /rocket-plumes/
   short_title: Rocket Plumes
   heading_title: The Strange Clouds Rockets Leave Behind
 - basename: ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b
-  title: Satellites | Ifos Causes Of
+  title: Satellites | ifos causes of UFO 3 ed 238
   permalink: /satellites/
   short_title: Satellites
   heading_title: Why Satellites Surprise Night Watchers
 - basename: ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1
-  title: Searchlights | Ifos Causes Of
+  title: Searchlights | ifos causes of UFO 3 ed 238
   permalink: /searchlights/
   short_title: Searchlights
   heading_title: How Searchlights Paint UFOs in Clouds
 - basename: ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b
-  title: Sensor Operators | Ifos Causes Of
+  title: Sensor Operators | ifos causes of UFO 3 ed 238
   permalink: /sensor-operators/
   short_title: Sensor Operators
   heading_title: When Sensors Need Human Context
 - basename: ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391
-  title: Short Clips | Ifos Causes Of
+  title: Short Clips | ifos causes of UFO 3 ed 238
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: Why Short UFO Videos Are Hard to Trust
 - basename: ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f
-  title: Size Errors | Ifos Causes Of
+  title: Size Errors | ifos causes of UFO 3 ed 238
   permalink: /size-errors/
   short_title: Size Errors
   heading_title: Why Honest Witnesses Misjudge UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725
-  title: Sky Charts | Ifos Causes Of
+  title: Sky Charts | ifos causes of UFO 3 ed 238
   permalink: /sky-charts/
   short_title: Sky Charts
   heading_title: How to Check a UFO Against the Sky
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb
-  title: Status Labels | Ifos Causes Of
+  title: Status Labels | ifos causes of UFO 3 ed 238
   permalink: /status-labels/
   short_title: Status Labels
   heading_title: UFO Does Not Mean Alien
 - basename: ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d
-  title: Strong Cases | Ifos Causes Of
+  title: Strong Cases | ifos causes of UFO 3 ed 238
   permalink: /strong-cases/
   short_title: Strong Cases
   heading_title: What Makes a UFO Report Harder to Explain
 - basename: ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948
-  title: UK Files | Ifos Causes Of
+  title: UK Files | ifos causes of UFO 3 ed 238
   permalink: /uk-files/
   short_title: UK Files
   heading_title: What the UK UFO Files Reveal
 - basename: ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06
-  title: Unresolved Cases | Ifos Causes Of
+  title: Unresolved Cases | ifos causes of UFO 3 ed 238
   permalink: /unresolved-cases/
   short_title: Unresolved Cases
   heading_title: Why Some UFO Cases Stay Open
 - basename: ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080
-  title: Venus | Ifos Causes Of
+  title: Venus | ifos causes of UFO 3 ed 238
   permalink: /venus/
   short_title: Venus
   heading_title: Is That UFO Really Venus?
 - basename: ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13
-  title: Weather Records | Ifos Causes Of
+  title: Weather Records | ifos causes of UFO 3 ed 238
   permalink: /weather-records/
   short_title: Weather Records
   heading_title: Weather Clues That Explain Strange Lights
 - basename: ifos_-_causes_of_UFO_3ed238_wind_data_33671a
-  title: Wind Data | Ifos Causes Of
+  title: Wind Data | ifos causes of UFO 3 ed 238
   permalink: /wind-data/
   short_title: Wind Data
   heading_title: Following a UFO With the Wind
@@ -479,20 +478,21 @@ child_links:
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 prev_link:
   basename: ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725
-  title: Sky Charts | Ifos Causes Of
+  title: Sky Charts | ifos causes of UFO 3 ed 238
   permalink: /sky-charts/
   short_title: Sky Charts
   heading_title: How to Check a UFO Against the Sky
 next_link:
   basename: ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb
-  title: Status Labels | Ifos Causes Of
+  title: Status Labels | ifos causes of UFO 3 ed 238
   permalink: /status-labels/
   short_title: Status Labels
   heading_title: UFO Does Not Mean Alien
+date: '2026-06-12 00:09:26 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32-overview-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32-overview.webp
@@ -503,23 +503,18 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32-overvie
 
 A bright star low in the sky can look surprisingly artificial. It may flash red, green, blue and white; pulse like an aircraft beacon; seem to jerk or hover; and then vanish when a patch of cloud, haze or a roofline crosses it. In UFO reporting, this is one of the simplest ways a real observation becomes a puzzling story: the witness is not inventing the light, but the [atmosphere]({{ 'atmosphere/' | relative_url }}) is making a distant star behave unlike the steady point they expected.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32-overview.webp" | relative_url }}" alt="Overview image for Stars" loading="eager" decoding="sync" fetchpriority="high">
 The mechanism is called scintillation, or twinkling. Starlight passes through moving layers of air with different temperatures and densities, and those layers bend and scatter the light before it reaches the eye. The effect is strongest near the horizon, where the light has to travel through much more atmosphere than it would overhead. NASA’s StarChild education material makes the same practical point: stars near the horizon twinkle more because there is more atmosphere between the observer and the star. <span class="citation-chip-wrap"><a class="citation-chip" href="https://starchild.gsfc.nasa.gov/docs/StarChild/questions/question26.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: starchild.gsfc.nasa.gov">[StarChild]</a><span class="citation-popover" role="note"><span class="citation-popover-source">starchild.gsfc.nasa.gov</span><span class="citation-popover-title">Star Child Why do stars twinkle?</span><span class="citation-popover-snippet">Star Child Why do stars twinkle?</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Kf_n5btZXNc" title="Sirius example of atmospheric turbulence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Kf_n5btZXNc" target="_blank" rel="noopener noreferrer">Sirius example of atmospheric turbulence</a></p><p class="youtube-embed-meta">Channel: Blackrock Castle Observatory</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Kf_n5btZXNc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Kf_n5btZXNc">Open on YouTube</a></p></div></div></div>
-
 ## Why Low Stars Flash Like Machines
 
-The key to this kind of IFO is that stars are effectively point sources of light. They are so distant that, to the naked eye, their light arrives from an extremely tiny apparent point. A small moving pocket of turbulent air can therefore bend much of that point’s light away from the eye, then back again, making the star brighten, dim, shift slightly or split into flashes of colour. The European Southern Observatory describes the same turbulence as the reason stars twinkle and as a serious problem for ground-based astronomy, because it blurs fine detail in telescope images. <span class="citation-chip-wrap"><a class="citation-chip" href="https://elt.eso.org/telescope/adaptiveoptics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elt.eso.org">[ELT ESO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elt.eso.org</span><span class="citation-popover-title">ELT ESOAdaptive Optics | ELT</span><span class="citation-popover-snippet">ELT ESOAdaptive Optics | ELT</span></span></span>
+The key to this kind of IFO is that stars are effectively point sources of light. They are so distant that, to the naked eye, their light arrives from an extremely tiny apparent point. A small moving pocket of turbulent air can therefore bend much of that point’s light away from the eye, then back again, making the star brighten, dim, shift slightly or split into flashes of colour. The European Southern Observatory describes the same turbulence as the reason stars twinkle and as a serious problem for ground-based astronomy, because it blurs fine detail in telescope images. <span class="citation-chip-wrap"><a class="citation-chip" href="https://elt.eso.org/telescope/adaptiveoptics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elt.eso.org">[ELT ESO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elt.eso.org</span><span class="citation-popover-title">ELT ESOAdaptive Optics &#124; ELT</span><span class="citation-popover-snippet">ELT ESOAdaptive Optics &#124; ELT</span></span></span>
 
 The colour-changing part is especially important for UFO reports. Starlight contains many colours. As it crosses uneven air, refraction can separate and redirect those colours by tiny amounts. Near the horizon, the light path is longer, lower and more disturbed, so the observer may see rapid red, green, blue and white flashes rather than a steady white point. EarthSky’s explanation of [Sirius]({{ 'sirius/' | relative_url }}) notes that this bright star often appears to flash different colours when low in the sky, because the atmosphere breaks starlight into its component colours and the effect is much more obvious when the star is seen through a thicker layer of air. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/astronomy-essentials/flashing-star-autumn-capella-arcturus-sirius/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">Earth Sky Flashing star in autumn? Here are 3 candidates</span><span class="citation-popover-snippet">Earth Sky Flashing star in autumn? Here are 3 candidates</span></span></span>
 
 This can look mechanical because human perception is good at turning irregular flashes into implied patterns. A star that alternates white-green-red-white may be interpreted as a craft with navigation lights. A very bright star seen through restless air may seem to “signal”, “pulse”, “rotate” or “change shape”. Atmospheric optics specialist Les Cowley’s Atmospheric Optics site gives a useful refinement: some of the changing brightness and colour in a scintillating star can come from moving caustic patterns, similar to the bright rippling lines seen on the bottom of a swimming pool. <span class="citation-chip-wrap"><a class="citation-chip" href="https://atoptics.co.uk/blog/opod-sirius-atmospheric-seeing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atoptics.co.uk">[At Optics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atoptics.co.uk</span><span class="citation-popover-title">At Optics OPOD</span><span class="citation-popover-snippet">At Optics OPOD</span></span></span>
 
 Sirius is the classic culprit because it is the brightest star in the night sky and often sits low enough to shimmer violently from mid-northern latitudes. Universe Today has called Sirius a “UFO trickster” for exactly this reason: it is bright, low, slow-moving across the sky, and capable of throwing out different colours under poor seeing conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universetoday.com/articles/sirius-ufo-trickster-extraordinaire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-title">Universe Today Sirius, UFO trickster extraordinaire</span><span class="citation-popover-snippet">Universe Today Sirius, UFO trickster extraordinaire</span></span></span> Capella can play the same role in northern autumn and winter evenings; EarthSky notes that Capella is a bright northeastern star that often flashes red, green and blue when low, prompting UFO questions from Northern Hemisphere observers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/astronomy-essentials/flashing-star-autumn-capella-arcturus-sirius/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">Earth Sky Flashing star in autumn? Here are 3 candidates</span><span class="citation-popover-snippet">Earth Sky Flashing star in autumn? Here are 3 candidates</span></span></span>
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32-Illustration-1-dark.svg" | relative_url }}" alt="Stars illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Scintillation Near the Horizon
@@ -530,10 +525,7 @@ This matters for UFO interpretation because a low star also lacks obvious [dista
 
 Astronomers separate two related observing conditions that witnesses often experience together. “Seeing” refers to atmospheric steadiness: poor seeing makes stars shimmer, dance and blur. “Transparency” refers to how clear the air is: poor transparency from haze, smoke, dust or thin cloud dims objects and reduces contrast. Astronomy Magazine describes transparency as the clarity of the atmosphere, affected by clouds, smoke, dust and haze, while seeing concerns steadiness rather than clarity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.astronomy.com/observing/what-are-transparency-and-seeing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astronomy.com">[Astronomy Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astronomy.com</span><span class="citation-popover-title">what are transparency and seeing</span><span class="citation-popover-snippet">what are transparency and seeing</span></span></span> A night can therefore be clear enough to show a bright star, but unstable enough to make it flash wildly.
 
-The planets provide a useful comparison, but not an absolute rule. Planets usually look steadier than stars because they show a small apparent disc rather than a true point, so atmospheric distortions are averaged across a wider patch of light. Britannica’s explanation of twinkling uses this distinction: stars appear as tiny points more easily disturbed by atmospheric turbulence, while planets generally twinkle less because their small discs average out the distortions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/science/Why-Do-Stars-Twinkle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Why Do Stars Twinkle? | Stars, Astronomy, &amp; Facts</span><span class="citation-popover-snippet">Encyclopedia Britannica Why Do Stars Twinkle? | Stars, Astronomy, &amp; Facts</span></span></span> However, a very bright planet low in the sky can also scintillate. EarthSky documents [Venus]({{ 'venus/' | relative_url }}) showing multiple colours when very low, even though planets normally shine more steadily. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/astronomy-essentials/flashing-star-autumn-capella-arcturus-sirius/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">Earth Sky Flashing star in autumn? Here are 3 candidates</span><span class="citation-popover-snippet">Earth Sky Flashing star in autumn? Here are 3 candidates</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DcuSNnuv4RI" title="Are Stars Disappearing? With Dr. Beatriz Villarroel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DcuSNnuv4RI" target="_blank" rel="noopener noreferrer">Are Stars Disappearing? With Dr. Beatriz Villarroel</a></p><p class="youtube-embed-meta">Channel: Event Horizon &middot; Views: 73.1K &middot; Uploaded: January 2020 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DcuSNnuv4RI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DcuSNnuv4RI">Open on YouTube</a></p></div></div></div>
+The planets provide a useful comparison, but not an absolute rule. Planets usually look steadier than stars because they show a small apparent disc rather than a true point, so atmospheric distortions are averaged across a wider patch of light. Britannica’s explanation of twinkling uses this distinction: stars appear as tiny points more easily disturbed by atmospheric turbulence, while planets generally twinkle less because their small discs average out the distortions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/science/Why-Do-Stars-Twinkle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Why Do Stars Twinkle? &#124; Stars, Astronomy, &amp; Facts</span><span class="citation-popover-snippet">Encyclopedia Britannica Why Do Stars Twinkle? &#124; Stars, Astronomy, &amp; Facts</span></span></span> However, a very bright planet low in the sky can also scintillate. EarthSky documents [Venus]({{ 'venus/' | relative_url }}) showing multiple colours when very low, even though planets normally shine more steadily. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/astronomy-essentials/flashing-star-autumn-capella-arcturus-sirius/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">Earth Sky Flashing star in autumn? Here are 3 candidates</span><span class="citation-popover-snippet">Earth Sky Flashing star in autumn? Here are 3 candidates</span></span></span>
 
 ## Cloud Cover and Sudden Vanishing
 
@@ -544,7 +536,6 @@ This is different from a star physically going out. The light has simply been bl
 Cloud-related [vanishing]({{ 'vanishing/' | relative_url }}) can make the sighting feel more anomalous because the observer may not register the cloud as the cause. The rest of the sky may still show stars. The cloud may be visible only as a faint loss of contrast. In a moving patchwork of cloud, one bright star can disappear while others remain visible, especially if they sit in clearer gaps or are higher in the sky.
 
 A typical misidentification sequence looks like this:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -558,7 +549,6 @@ A typical misidentification sequence looks like this:
 
 The suddenness is not evidence of propulsion. It is a line-of-sight effect. A small cloud edge can cross a point-like star quickly, just as a chimney, branch or roofline can make it “switch off” instantly when the observer or the star’s apparent position changes.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32-Illustration-2-dark.svg" | relative_url }}" alt="Stars illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Common Star-Identification Mistakes
 
@@ -569,7 +559,6 @@ Another common mistake is assuming that colour changes mean a machine. Aircraft 
 A third mistake is checking the wrong time or direction afterwards. Star identification depends on date, time, location and bearing. A report that says “a flashing light in the east last night” may be enough to suggest Sirius or Capella in some seasons, but not enough for certainty. The stronger check is to use a sky map for the exact location and time, then ask whether a bright star or planet was near the reported direction and altitude.
 
 The most useful quick checks are practical rather than technical:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -583,8 +572,7 @@ The most useful quick checks are practical rather than technical:
 
 These checks do not prove that every flashing light is a star. They help sort the easy IFOs from cases that deserve more careful comparison with aircraft tracks, [satellites]({{ 'satellites/' | relative_url }}), [drones]({{ 'drones/' | relative_url }}), balloons or local lights.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/N3IgVidGjQk" title="Why Do Stars Twinkle?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=N3IgVidGjQk" target="_blank" rel="noopener noreferrer">Why Do Stars Twinkle?</a></p><p class="youtube-embed-meta">Channel: SciShow</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=N3IgVidGjQk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=N3IgVidGjQk">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DcuSNnuv4RI" title="Are Stars Disappearing? With Dr. Beatriz Villarroel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DcuSNnuv4RI" target="_blank" rel="noopener noreferrer">Are Stars Disappearing? With Dr. Beatriz Villarroel</a></p><p class="youtube-embed-meta">Channel: Event Horizon &middot; Views: 73.1K &middot; Uploaded: January 2020 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DcuSNnuv4RI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DcuSNnuv4RI">Open on YouTube</a></p></div></div></div>
 
 ## Why This Explanation Matters for UFO Reports
 
@@ -595,7 +583,6 @@ Official and scientific reviews of UFO and UAP reports repeatedly stress this di
 The star explanation is strongest when the report has a bright stationary or slow-drifting point low on the horizon, rapid colour flicker, no reliable distance cue, no close-range structure, and a time-direction match with Sirius, Capella, Arcturus, Vega, Jupiter or Venus. It is weaker when the report includes multiple independent viewing angles, radar correlation, resolved structure, nearby interaction, rapid angular travel across a large part of the sky, or behaviour inconsistent with the known sky at that time.
 
 For everyday IFO work, the lesson is simple: before treating a colour-changing light as a craft, identify the sky. Low stars can look like machines because the atmosphere is acting like a restless lens and prism. The stranger the flashing looks near the horizon, the more likely it is that the air, not the object, is doing the work.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32-Illustration-3-dark.svg" | relative_url }}" alt="Stars illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -996,195 +983,195 @@ For everyday IFO work, the lesson is simple: before treating a colour-changing l
 1. <a id="endnote-1"></a>
    Source: starchild.gsfc.nasa.gov  
    Title: Star Child Why do stars twinkle?  
-   Link: [https://starchild.gsfc.nasa.gov/docs/StarChild/questions/question26.html](https://starchild.gsfc.nasa.gov/docs/StarChild/questions/question26.html)  
+   Link: <a href="https://starchild.gsfc.nasa.gov/docs/StarChild/questions/question26.html" target="_blank" rel="noopener noreferrer nofollow">https://starchild.gsfc.nasa.gov/docs/StarChild/questions/question26.html</a>  
 
 2. <a id="endnote-2"></a>
    Source: elt.eso.org  
    Title: ELT ESOAdaptive Optics | ELT  
-   Link: [https://elt.eso.org/telescope/adaptiveoptics/](https://elt.eso.org/telescope/adaptiveoptics/)  
+   Link: <a href="https://elt.eso.org/telescope/adaptiveoptics/" target="_blank" rel="noopener noreferrer nofollow">https://elt.eso.org/telescope/adaptiveoptics/</a>  
 
 3. <a id="endnote-3"></a>
    Source: earthsky.org  
    Title: Earth Sky Flashing star in autumn? Here are 3 candidates  
-   Link: [https://earthsky.org/astronomy-essentials/flashing-star-autumn-capella-arcturus-sirius/](https://earthsky.org/astronomy-essentials/flashing-star-autumn-capella-arcturus-sirius/)  
+   Link: <a href="https://earthsky.org/astronomy-essentials/flashing-star-autumn-capella-arcturus-sirius/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/astronomy-essentials/flashing-star-autumn-capella-arcturus-sirius/</a>  
 
 4. <a id="endnote-4"></a>
    Source: earthsky.org  
    Title: Earth Sky What star in the northeast flashes colorfully? It's Capella!  
-   Link: [https://earthsky.org/tonight/what-star-in-the-northeast-flashes-red-and-green/](https://earthsky.org/tonight/what-star-in-the-northeast-flashes-red-and-green/)  
+   Link: <a href="https://earthsky.org/tonight/what-star-in-the-northeast-flashes-red-and-green/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/tonight/what-star-in-the-northeast-flashes-red-and-green/</a>  
 
 5. <a id="endnote-5"></a>
    Source: astronomy.com  
    Title: what are transparency and seeing  
-   Link: [https://www.astronomy.com/observing/what-are-transparency-and-seeing/](https://www.astronomy.com/observing/what-are-transparency-and-seeing/)  
+   Link: <a href="https://www.astronomy.com/observing/what-are-transparency-and-seeing/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomy.com/observing/what-are-transparency-and-seeing/</a>  
 
 6. <a id="endnote-6"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Why Do Stars Twinkle? | Stars, Astronomy, & Facts  
-   Link: [https://www.britannica.com/science/Why-Do-Stars-Twinkle](https://www.britannica.com/science/Why-Do-Stars-Twinkle)  
+   Link: <a href="https://www.britannica.com/science/Why-Do-Stars-Twinkle" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/science/Why-Do-Stars-Twinkle</a>  
 
 7. <a id="endnote-7"></a>
    Source: earthsky.org  
    Title: Earth Sky Colors of scintillating Venus | Astronomy Essentials  
-   Link: [https://earthsky.org/astronomy-essentials/colors-scintillating-venus-mar-2017-photos/](https://earthsky.org/astronomy-essentials/colors-scintillating-venus-mar-2017-photos/)  
+   Link: <a href="https://earthsky.org/astronomy-essentials/colors-scintillating-venus-mar-2017-photos/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/astronomy-essentials/colors-scintillating-venus-mar-2017-photos/</a>  
 
 8. <a id="endnote-8"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 9. <a id="endnote-9"></a>
    Source: eso.org  
-   Link: [https://www.eso.org/public/spain/news/eso8908/?lang=](https://www.eso.org/public/spain/news/eso8908/?lang=)  
+   Link: <a href="https://www.eso.org/public/spain/news/eso8908/?lang=" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/public/spain/news/eso8908/?lang=</a>  
 
 10. <a id="endnote-10"></a>
    Source: eso.org  
-   Link: [https://www.eso.org/public/teles-instr/technology/adaptive_optics/](https://www.eso.org/public/teles-instr/technology/adaptive_optics/)  
+   Link: <a href="https://www.eso.org/public/teles-instr/technology/adaptive_optics/" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/public/teles-instr/technology/adaptive_optics/</a>  
 
 11. <a id="endnote-11"></a>
    Source: hq.eso.org  
-   Link: [https://www.hq.eso.org/public/archives/videos/script/esocast34a.pdf](https://www.hq.eso.org/public/archives/videos/script/esocast34a.pdf)  
+   Link: <a href="https://www.hq.eso.org/public/archives/videos/script/esocast34a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hq.eso.org/public/archives/videos/script/esocast34a.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: eso.org  
    Title: ES Ocast 34: How To Stop a Star's Twinkle  
-   Link: [https://www.eso.org/public/videos/esocast34a/](https://www.eso.org/public/videos/esocast34a/)  
+   Link: <a href="https://www.eso.org/public/videos/esocast34a/" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/public/videos/esocast34a/</a>  
 
 13. <a id="endnote-13"></a>
    Source: eso.org  
-   Link: [https://www.eso.org/projects/aot](https://www.eso.org/projects/aot)  
+   Link: <a href="https://www.eso.org/projects/aot" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/projects/aot</a>  
 
 14. <a id="endnote-14"></a>
    Source: eso.org  
-   Link: [https://www.eso.org/public/switzerland-de/blog/twinkle-twinkle-little-star/?lang=](https://www.eso.org/public/switzerland-de/blog/twinkle-twinkle-little-star/?lang=)  
+   Link: <a href="https://www.eso.org/public/switzerland-de/blog/twinkle-twinkle-little-star/?lang=" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/public/switzerland-de/blog/twinkle-twinkle-little-star/?lang=</a>  
 
 15. <a id="endnote-15"></a>
    Source: eso.org  
-   Link: [https://www.eso.org/public/videos/cs0018a/](https://www.eso.org/public/videos/cs0018a/)  
+   Link: <a href="https://www.eso.org/public/videos/cs0018a/" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/public/videos/cs0018a/</a>  
 
 16. <a id="endnote-16"></a>
    Source: eso.org  
-   Link: [https://www.eso.org/public/italy/news/eso9006/?lang=](https://www.eso.org/public/italy/news/eso9006/?lang=)  
+   Link: <a href="https://www.eso.org/public/italy/news/eso9006/?lang=" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/public/italy/news/eso9006/?lang=</a>  
 
 17. <a id="endnote-17"></a>
    Source: eso.org  
-   Link: [https://www.eso.org/public/germany/news/eso8908/?lang=](https://www.eso.org/public/germany/news/eso8908/?lang=)  
+   Link: <a href="https://www.eso.org/public/germany/news/eso8908/?lang=" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/public/germany/news/eso8908/?lang=</a>  
 
 18. <a id="endnote-18"></a>
    Source: eso.org  
-   Link: [https://www.eso.org/public/italy/teles-instr/paranal-observatory/vlt/vlt-instr/4lgsf/?lang=](https://www.eso.org/public/italy/teles-instr/paranal-observatory/vlt/vlt-instr/4lgsf/?lang=)  
+   Link: <a href="https://www.eso.org/public/italy/teles-instr/paranal-observatory/vlt/vlt-instr/4lgsf/?lang=" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/public/italy/teles-instr/paranal-observatory/vlt/vlt-instr/4lgsf/?lang=</a>  
 
 19. <a id="endnote-19"></a>
    Source: eso.org  
-   Link: [https://www.eso.org/public/italy/news/eso0416/?lang=](https://www.eso.org/public/italy/news/eso0416/?lang=)  
+   Link: <a href="https://www.eso.org/public/italy/news/eso0416/?lang=" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/public/italy/news/eso0416/?lang=</a>  
 
 20. <a id="endnote-20"></a>
    Source: eso.org  
-   Link: [https://www.eso.org/public/images/potw1820a/](https://www.eso.org/public/images/potw1820a/)  
+   Link: <a href="https://www.eso.org/public/images/potw1820a/" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/public/images/potw1820a/</a>  
 
 21. <a id="endnote-21"></a>
    Source: eso.org  
    Title: ES Oblog  
-   Link: [https://www.eso.org/public/italy/blog/climate-change/?lang=](https://www.eso.org/public/italy/blog/climate-change/?lang=)  
+   Link: <a href="https://www.eso.org/public/italy/blog/climate-change/?lang=" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/public/italy/blog/climate-change/?lang=</a>  
 
 22. <a id="endnote-22"></a>
    Source: eso.org  
-   Link: [https://www.eso.org/public/italy/news/eso0719/?lang=](https://www.eso.org/public/italy/news/eso0719/?lang=)  
+   Link: <a href="https://www.eso.org/public/italy/news/eso0719/?lang=" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/public/italy/news/eso0719/?lang=</a>  
 
 23. <a id="endnote-23"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 24. <a id="endnote-24"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/](https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/</a>  
 
 25. <a id="endnote-25"></a>
    Source: aaro.mil  
    Title: Case Resolution of Eglin UAP 2 508  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf](https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf</a>  
 
 26. <a id="endnote-26"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 27. <a id="endnote-27"></a>
    Source: earthsky.org  
    Title: if its not a ufo what is it  
-   Link: [https://earthsky.org/space/if-its-not-a-ufo-what-is-it/](https://earthsky.org/space/if-its-not-a-ufo-what-is-it/)  
+   Link: <a href="https://earthsky.org/space/if-its-not-a-ufo-what-is-it/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/space/if-its-not-a-ufo-what-is-it/</a>  
 
 28. <a id="endnote-28"></a>
    Source: atoptics.co.uk  
    Title: At Optics OPOD  
-   Link: [https://atoptics.co.uk/blog/opod-sirius-atmospheric-seeing/](https://atoptics.co.uk/blog/opod-sirius-atmospheric-seeing/)  
+   Link: <a href="https://atoptics.co.uk/blog/opod-sirius-atmospheric-seeing/" target="_blank" rel="noopener noreferrer nofollow">https://atoptics.co.uk/blog/opod-sirius-atmospheric-seeing/</a>  
 
 29. <a id="endnote-29"></a>
    Source: universetoday.com  
    Title: Universe Today Sirius, UFO trickster extraordinaire  
-   Link: [https://www.universetoday.com/articles/sirius-ufo-trickster-extraordinaire](https://www.universetoday.com/articles/sirius-ufo-trickster-extraordinaire)  
+   Link: <a href="https://www.universetoday.com/articles/sirius-ufo-trickster-extraordinaire" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/sirius-ufo-trickster-extraordinaire</a>  
 
 30. <a id="endnote-30"></a>
    Source: public.nrao.edu  
    Title: what causes stars to repeatedly disappear and reappear  
-   Link: [https://public.nrao.edu/ask/what-causes-stars-to-repeatedly-disappear-and-reappear/](https://public.nrao.edu/ask/what-causes-stars-to-repeatedly-disappear-and-reappear/)  
+   Link: <a href="https://public.nrao.edu/ask/what-causes-stars-to-repeatedly-disappear-and-reappear/" target="_blank" rel="noopener noreferrer nofollow">https://public.nrao.edu/ask/what-causes-stars-to-repeatedly-disappear-and-reappear/</a>  
 
 31. <a id="endnote-31"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Twinkling](https://en.wikipedia.org/wiki/Twinkling)  
+   Link: <a href="https://en.wikipedia.org/wiki/Twinkling" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Twinkling</a>  
 
 32. <a id="endnote-32"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 33. <a id="endnote-33"></a>
    Source: universetoday.com  
    Title: the mystery of the vanishing star  
-   Link: [https://www.universetoday.com/articles/the-mystery-of-the-vanishing-star](https://www.universetoday.com/articles/the-mystery-of-the-vanishing-star)  
+   Link: <a href="https://www.universetoday.com/articles/the-mystery-of-the-vanishing-star" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/the-mystery-of-the-vanishing-star</a>  
 
 34. <a id="endnote-34"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 ### Additional References
 
 35. <a id="endnote-35"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf](https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf)  
+   Link: <a href="https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf</a>  
 
 36. <a id="endnote-36"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Abovethenormnews/videos/-a-star-was-nearly-erased-from-view-a-distant-sun-like-star-faded-to-a-fraction-/1453590676348966/](https://www.facebook.com/Abovethenormnews/videos/-a-star-was-nearly-erased-from-view-a-distant-sun-like-star-faded-to-a-fraction-/1453590676348966/)  
+   Link: <a href="https://www.facebook.com/Abovethenormnews/videos/-a-star-was-nearly-erased-from-view-a-distant-sun-like-star-faded-to-a-fraction-/1453590676348966/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Abovethenormnews/videos/-a-star-was-nearly-erased-from-view-a-distant-sun-like-star-faded-to-a-fraction-/1453590676348966/</a>  
 
 37. <a id="endnote-37"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DXsIuypDzPm/](https://www.instagram.com/p/DXsIuypDzPm/)  
+   Link: <a href="https://www.instagram.com/p/DXsIuypDzPm/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXsIuypDzPm/</a>  
 
 38. <a id="endnote-38"></a>
    Source: aliensarerunningoperations.com  
-   Link: [https://www.aliensarerunningoperations.com/](https://www.aliensarerunningoperations.com/)  
+   Link: <a href="https://www.aliensarerunningoperations.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.aliensarerunningoperations.com/</a>  
 
 39. <a id="endnote-39"></a>
    Source: aavso.org  
-   Link: [https://www.aavso.org/sites/default/files/publications_files/ccd_photometry_guide/CCDPhotometryGuide.pdf](https://www.aavso.org/sites/default/files/publications_files/ccd_photometry_guide/CCDPhotometryGuide.pdf)  
+   Link: <a href="https://www.aavso.org/sites/default/files/publications_files/ccd_photometry_guide/CCDPhotometryGuide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aavso.org/sites/default/files/publications_files/ccd_photometry_guide/CCDPhotometryGuide.pdf</a>  
 
 40. <a id="endnote-40"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/zwoasiusers/posts/945897269102655/](https://www.facebook.com/groups/zwoasiusers/posts/945897269102655/)  
+   Link: <a href="https://www.facebook.com/groups/zwoasiusers/posts/945897269102655/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/zwoasiusers/posts/945897269102655/</a>  
 
 41. <a id="endnote-41"></a>
    Source: philarchive.org  
-   Link: [https://philarchive.org/archive/GONAPN](https://philarchive.org/archive/GONAPN)  
+   Link: <a href="https://philarchive.org/archive/GONAPN" target="_blank" rel="noopener noreferrer nofollow">https://philarchive.org/archive/GONAPN</a>  
 
 42. <a id="endnote-42"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/81273219287/posts/10161742531809288/](https://www.facebook.com/groups/81273219287/posts/10161742531809288/)  
+   Link: <a href="https://www.facebook.com/groups/81273219287/posts/10161742531809288/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/81273219287/posts/10161742531809288/</a>  
 
 43. <a id="endnote-43"></a>
    Source: milkywayforecast.com  
-   Link: [https://milkywayforecast.com/guides/cloud-cover-stargazing](https://milkywayforecast.com/guides/cloud-cover-stargazing)  
+   Link: <a href="https://milkywayforecast.com/guides/cloud-cover-stargazing" target="_blank" rel="noopener noreferrer nofollow">https://milkywayforecast.com/guides/cloud-cover-stargazing</a>  
 
 44. <a id="endnote-44"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ESOAstronomy/posts/reaching-for-the-stars-chilean-astrophotographer-alexis-trigo-captured-the-vlt-u/1348536203985643/](https://www.facebook.com/ESOAstronomy/posts/reaching-for-the-stars-chilean-astrophotographer-alexis-trigo-captured-the-vlt-u/1348536203985643/)  
+   Link: <a href="https://www.facebook.com/ESOAstronomy/posts/reaching-for-the-stars-chilean-astrophotographer-alexis-trigo-captured-the-vlt-u/1348536203985643/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ESOAstronomy/posts/reaching-for-the-stars-chilean-astrophotographer-alexis-trigo-captured-the-vlt-u/1348536203985643/</a>

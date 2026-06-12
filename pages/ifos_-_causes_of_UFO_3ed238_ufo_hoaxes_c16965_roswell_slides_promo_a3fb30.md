@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_morris_county_hoax_2413ae
 - ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_ufo_hoax_tactics_b1afe1
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - hoaxes
 - roswell-slides
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - hoaxes
 - roswell-slides
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: The Roswell Slides episode shows how weak provenance and dramatic promotion can turn a poor claim into a public spectacle.
 hero_summary: The Roswell Slides episode shows how weak provenance and dramatic promotion can turn a poor claim into a public spectacle.
 layout: default
 permalink: /roswell-slides/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /hoaxes/
 nav_short_title: Roswell Slides
 title: How Promotion Inflated the Roswell Slides
-title_full: How Promotion Inflated the Roswell Slides | Hoaxes
+title_full: How Promotion Inflated the Roswell Slides
 display_title_short: Roswell Slides
 display_title: Roswell Slides
 heading_title: How Promotion Inflated the Roswell Slides
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-07 00:22:43'
-parent_title: When UFO Reports Are Manufactured | IFOs
+parent_title: When UFO Reports Are Manufactured
 parent_permalink: /hoaxes/
 parent_nav_short_title: Hoaxes
 parent_heading_title: When UFO Reports Are Manufactured
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965
-  title: Hoaxes | Ifos Causes Of
+  title: Hoaxes | ifos causes of UFO 3 ed 238
   permalink: /hoaxes/
   short_title: Hoaxes
   heading_title: When UFO Reports Are Manufactured
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965
-  title: Hoaxes | Ifos Causes Of
+  title: Hoaxes | ifos causes of UFO 3 ed 238
   permalink: /hoaxes/
   short_title: Hoaxes
   heading_title: When UFO Reports Are Manufactured
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: When a UFO Hoax Creates Real Witnesses
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965
-  title: Hoaxes | Ifos Causes Of
+  title: Hoaxes | ifos causes of UFO 3 ed 238
   permalink: /hoaxes/
   short_title: Hoaxes
   heading_title: When UFO Reports Are Manufactured
@@ -260,6 +259,7 @@ prev_link:
   permalink: /morris-county/
   short_title: Morris County
   heading_title: When a UFO Hoax Creates Real Witnesses
+date: '2026-06-12 00:18:49 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_roswell_slides_promo_a3fb30-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_roswell_slides_promo_a3fb30-Illustration-1.webp
@@ -270,7 +270,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_roswell_slid
 
 The [Roswell]({{ 'roswell/' | relative_url }}) Slides episode is one of the clearest examples of how promotional momentum can elevate a weak UFO claim into an international sensation before basic verification has been completed. In 2015, a pair of old Kodachrome slides were presented as potentially showing the body of an extraterrestrial recovered after the alleged Roswell crash. The claim generated years of anticipation, a major public unveiling in Mexico City, paid live-stream access, documentaries, books and extensive media coverage. Within days, however, researchers showed that the photographed figure was not an alien but a mummified Native American child that had previously been displayed in a museum. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2015/09/p30.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">PSYCHIC VIBRATIONS ROBERT SHEAFFER. The &#x27;Roswell Slides&#x27; Fiasco: UFOlogy&#x27;s Biggest...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2017/sep/30/alien-photo-roswell-new-mexico-mystery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianThe curious case of the alien in the photo – and a mystery...30 Sept 2017 — Slides uncovered in an Arizona home seemed to un...</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_roswell_slides_promo_a3fb30-Illustration-1-dark.svg" | relative_url }}" alt="Roswell Slides illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_roswell_slides_promo_a3fb30-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_roswell_slides_promo_a3fb30-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For the study of UFO reports, the significance of the case is not merely that a claim failed. It is that publicity, expectation and commercial incentives amplified a dramatic interpretation long before the evidence itself had been securely established.
 
@@ -278,19 +277,15 @@ For the study of UFO reports, the significance of the case is not merely that a 
 
 The slides emerged from a collection reportedly discovered among the possessions of a deceased Arizona couple. Promoters argued that one image showed a small humanoid body in a display case and suggested it might be linked to the Roswell story. The photographs were presented as rare, historic and potentially transformative evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2015/09/p30.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">PSYCHIC VIBRATIONS ROBERT SHEAFFER. The &#x27;Roswell Slides&#x27; Fiasco: UFOlogy&#x27;s Biggest...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/sanfrancisco/news/roswell-aliens-not-so-alien-as-we-thought/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">roswell aliens not so alien as we thought</span><span class="citation-popover-snippet">Roswell Aliens Not So &#x27;Alien&#x27; As We Thought28 May 2015 — A handful of UFO researchers has decided that this old photo actually depicts an...</span><span class="citation-popover-meta">Published: May 2015</span></span></span>
 
-The campaign surrounding the slides relied heavily on anticipation. Teaser images circulated for months, while advocates suggested that experts had examined the material and found it difficult to explain conventionally. Public interest culminated in the “Be Witness” event in Mexico City on 5 May 2015, attended by thousands of people and accompanied by paid online viewing. The presentation was promoted as a major disclosure event that could provide unprecedented support for Roswell-related alien claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/pulse/does-body-look-alien-you-bryce-zabel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[LinkedIn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">LinkedInAnatomy of a PR DebacleThe slide image was released as a digital photo to the public on May 5, 2015 at an event (&quot;Be Witness&quot;) he...</span><span class="citation-popover-meta">Published: May 5, 2015</span></span></span>
+The campaign surrounding the slides relied heavily on anticipation. Teaser images circulated for months, while advocates suggested that experts had examined the material and found it difficult to explain conventionally. Public interest culminated in the “Be Witness” event in Mexico City on 5 May 2015, attended by thousands of people and accompanied by paid online viewing. The presentation was promoted as a major disclosure event that could provide unprecedented support for Roswell-related alien claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/pulse/does-body-look-alien-you-bryce-zabel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[LinkedIn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">Anatomy of a PR DebacleThe slide image was released as a digital photo to the public on May 5, 2015 at an event (&quot;Be Witness&quot;) he...</span><span class="citation-popover-meta">Published: May 5, 2015</span></span></span>
 
-A crucial feature of the promotion was that the mystery itself became part of the product. Audiences were encouraged to await a dramatic reveal, creating an [atmosphere]({{ 'atmosphere/' | relative_url }}) in which expectation often outpaced verification. By the time the images were publicly shown, many supporters had already invested emotionally in the possibility that the slides depicted something extraordinary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/pulse/does-body-look-alien-you-bryce-zabel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[LinkedIn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">LinkedInAnatomy of a PR DebacleThe slide image was released as a digital photo to the public on May 5, 2015 at an event (&quot;Be Witness&quot;) he...</span><span class="citation-popover-meta">Published: May 5, 2015</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/i7yOA68zq0o" title="Ancient Aliens: LEAKED Documents Reveal Alien Secrets at Roswell (Special) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=i7yOA68zq0o" target="_blank" rel="noopener noreferrer">Ancient Aliens: LEAKED Documents Reveal Alien Secrets at Roswell (Special) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 187.3K &middot; Uploaded: October 2023 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=i7yOA68zq0o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=i7yOA68zq0o">Open on YouTube</a></p></div></div></div>
+A crucial feature of the promotion was that the mystery itself became part of the product. Audiences were encouraged to await a dramatic reveal, creating an [atmosphere]({{ 'atmosphere/' | relative_url }}) in which expectation often outpaced verification. By the time the images were publicly shown, many supporters had already invested emotionally in the possibility that the slides depicted something extraordinary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/pulse/does-body-look-alien-you-bryce-zabel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[LinkedIn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">Anatomy of a PR DebacleThe slide image was released as a digital photo to the public on May 5, 2015 at an event (&quot;Be Witness&quot;) he...</span><span class="citation-popover-meta">Published: May 5, 2015</span></span></span>
 
 ## Why provenance failed before the claim did
 
 The weakness of the Roswell Slides case was not simply that the conclusion turned out to be wrong. The deeper problem was that the chain of evidence was never strong enough to justify the claims being made.
 
 Several questions remained unresolved from the outset:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -307,7 +302,6 @@ The problem became obvious when researchers focused on the placard visible besid
 
 Once the placard was read, the extraordinary interpretation collapsed rapidly. The debate was no longer about alien anatomy or secret government recovery operations. It became a question of why the placard had not been conclusively examined before the slides were promoted as possible Roswell evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://anomalyarchives.org/collections/file/roswell-slides/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anomalyarchives.org">[Anomaly Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anomalyarchives.org</span><span class="citation-popover-snippet">Anomaly ArchivesRoswell SlidesMUMMIFIED BODY OF TWO YEAR OLD BOY At the time of burial the body was clothed in a slip-over cotton shirt....</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.micahhanks.com/uncategorized/the-roswell-slides-case-closed-and-lessons-learned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: micahhanks.com">[Micah Hanks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">micahhanks.com</span><span class="citation-popover-title">the roswell slides case closed and lessons learned</span><span class="citation-popover-snippet">“Top Secret: Remains of extraterrestrial being retrieved from 1947 Roswell, New Mexico...Read more...</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_roswell_slides_promo_a3fb30-Illustration-2-dark.svg" | relative_url }}" alt="Roswell Slides illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_roswell_slides_promo_a3fb30-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_roswell_slides_promo_a3fb30-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The speed of the reversal
 
@@ -317,18 +311,16 @@ Within days of the highly publicised unveiling, researchers had identified the b
 
 The rapid reversal damaged the credibility of several promoters and became a cautionary tale even within parts of the UFO community. Some researchers who had initially supported the slides later publicly acknowledged that the conclusion had been mistaken. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoexplorations.com/roswell-alien-slides-my-apology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoexplorations.com">[ufoexplorations]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoexplorations.com</span><span class="citation-popover-snippet">The word “hoax” has been used to describe the “Roswell Slides” saga. It was...Read more...</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_roswell_slides_promo_a3fb30-Illustration-3-dark.svg" | relative_url }}" alt="Roswell Slides illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_roswell_slides_promo_a3fb30-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_roswell_slides_promo_a3fb30-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the case teaches about paywalled mystery
 
 The Roswell Slides affair illustrates a recurring pattern in UFO culture: the commercialisation of uncertainty.
 
-When a claim is marketed through conferences, documentaries, ticketed events or paid streams before critical examination is complete, a conflict can emerge between investigation and promotion. A mystery that remains unresolved can attract audiences, media attention and revenue. A mundane explanation often cannot. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/pulse/does-body-look-alien-you-bryce-zabel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[LinkedIn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">LinkedInAnatomy of a PR DebacleThe slide image was released as a digital photo to the public on May 5, 2015 at an event (&quot;Be Witness&quot;) he...</span><span class="citation-popover-meta">Published: May 5, 2015</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://radiomisterioso.com/2015/05/12/the-roswell-slides-explained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: radiomisterioso.com">[Radio Misterioso]</a><span class="citation-popover" role="note"><span class="citation-popover-source">radiomisterioso.com</span><span class="citation-popover-title">the roswell slides explained</span><span class="citation-popover-snippet">12 May 2015 — You&#x27;re too nice, Greg. The bottom line is that Adam Dew, Jaime Maussan and their gang made a ton of money perpetrating a ho...</span><span class="citation-popover-meta">Published: May 2015</span></span></span>
+When a claim is marketed through conferences, documentaries, ticketed events or paid streams before critical examination is complete, a conflict can emerge between investigation and promotion. A mystery that remains unresolved can attract audiences, media attention and revenue. A mundane explanation often cannot. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/pulse/does-body-look-alien-you-bryce-zabel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[LinkedIn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">Anatomy of a PR DebacleThe slide image was released as a digital photo to the public on May 5, 2015 at an event (&quot;Be Witness&quot;) he...</span><span class="citation-popover-meta">Published: May 5, 2015</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://radiomisterioso.com/2015/05/12/the-roswell-slides-explained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: radiomisterioso.com">[Radio Misterioso]</a><span class="citation-popover" role="note"><span class="citation-popover-source">radiomisterioso.com</span><span class="citation-popover-title">the roswell slides explained</span><span class="citation-popover-snippet">12 May 2015 — You&#x27;re too nice, Greg. The bottom line is that Adam Dew, Jaime Maussan and their gang made a ton of money perpetrating a ho...</span><span class="citation-popover-meta">Published: May 2015</span></span></span>
 
 This does not automatically mean fraud. People can genuinely believe a claim while still promoting it aggressively. However, the structure creates incentives that can discourage caution. Questions that should be settled before public release become part of the spectacle itself.
 
 The Roswell Slides episode demonstrates several warning signs that readers and investigators can apply to future UFO claims:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -342,8 +334,7 @@ The Roswell Slides episode demonstrates several warning signs that readers and i
 
 When these factors appear together, the risk of error increases substantially.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/y7C_b8SNq9U" title="New photos of alleged Roswell alien has people talking" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=y7C_b8SNq9U" target="_blank" rel="noopener noreferrer">New photos of alleged Roswell alien has people talking</a></p><p class="youtube-embed-meta">Channel: KRQE</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=y7C_b8SNq9U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=y7C_b8SNq9U">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/i7yOA68zq0o" title="Ancient Aliens: LEAKED Documents Reveal Alien Secrets at Roswell (Special) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=i7yOA68zq0o" target="_blank" rel="noopener noreferrer">Ancient Aliens: LEAKED Documents Reveal Alien Secrets at Roswell (Special) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 187.3K &middot; Uploaded: October 2023 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=i7yOA68zq0o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=i7yOA68zq0o">Open on YouTube</a></p></div></div></div>
 
 ## Why the Roswell Slides remain important
 
@@ -351,11 +342,7 @@ The lasting importance of the Roswell Slides case is not that it proved a UFO ho
 
 As a case study in UFO reports, it shows how sincere belief, weak provenance, commercial incentives and public anticipation can combine to transform ordinary evidence into an apparent revelation. The photographs did not become famous because they clearly showed something extraordinary. They became famous because a dramatic story was built around them before the evidence had been adequately tested. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2015/09/p30.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">PSYCHIC VIBRATIONS ROBERT SHEAFFER. The &#x27;Roswell Slides&#x27; Fiasco: UFOlogy&#x27;s Biggest...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2017/sep/30/alien-photo-roswell-new-mexico-mystery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianThe curious case of the alien in the photo – and a mystery...30 Sept 2017 — Slides uncovered in an Arizona home seemed to un...</span></span></span>
 
-Within the broader history of deliberate UFO fabrications and promotional claims, the Roswell Slides stand as a reminder that the strongest safeguard against sensational mistakes is not advanced technology or expert authority. It is careful verification performed before the publicity campaign begins. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2015/09/p30.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">PSYCHIC VIBRATIONS ROBERT SHEAFFER. The &#x27;Roswell Slides&#x27; Fiasco: UFOlogy&#x27;s Biggest...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/pulse/does-body-look-alien-you-bryce-zabel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[LinkedIn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">LinkedInAnatomy of a PR DebacleThe slide image was released as a digital photo to the public on May 5, 2015 at an event (&quot;Be Witness&quot;) he...</span><span class="citation-popover-meta">Published: May 5, 2015</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XV_B96fAzKs" title="Steven Bartlett sharing harmful health misinformation in Diary of CEO podcast | BBC News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XV_B96fAzKs" target="_blank" rel="noopener noreferrer">Steven Bartlett sharing harmful health misinformation in Diary of CEO podcast | BBC News</a></p><p class="youtube-embed-meta">Channel: BBC News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XV_B96fAzKs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XV_B96fAzKs">Open on YouTube</a></p></div></div></div>
-
+Within the broader history of deliberate UFO fabrications and promotional claims, the Roswell Slides stand as a reminder that the strongest safeguard against sensational mistakes is not advanced technology or expert authority. It is careful verification performed before the publicity campaign begins. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2015/09/p30.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">PSYCHIC VIBRATIONS ROBERT SHEAFFER. The &#x27;Roswell Slides&#x27; Fiasco: UFOlogy&#x27;s Biggest...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/pulse/does-body-look-alien-you-bryce-zabel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[LinkedIn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">Anatomy of a PR DebacleThe slide image was released as a digital photo to the public on May 5, 2015 at an event (&quot;Be Witness&quot;) he...</span><span class="citation-popover-meta">Published: May 5, 2015</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -474,15 +461,15 @@ Within the broader history of deliberate UFO fabrications and promotional claims
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-slides-how-promotion-inflated-the-roswell-slides-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="roswell-slides-how-promotion-inflated-the-roswell-slides-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker"><img src="{{ '/assets/images/marketplace-covers/eb968c20f3ed6c11e2af.jpg' | relative_url }}" alt="Listing image for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=roswell+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-promotion-inflated-the-roswell-slides-roswell-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="roswell poster" data-ebay-reference="how-promotion-inflated-the-roswell-slides-roswell-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/ao8AAeSw0HJp1S2n/s-l225.jpg" alt="Listing image for Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-slides-how-promotion-inflated-the-roswell-slides-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="roswell-slides-how-promotion-inflated-the-roswell-slides-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=roswell+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-promotion-inflated-the-roswell-slides-roswell-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="roswell poster" data-ebay-reference="how-promotion-inflated-the-roswell-slides-roswell-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-slides-how-promotion-inflated-the-roswell-slides-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="roswell-slides-how-promotion-inflated-the-roswell-slides-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo sticker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=roswell+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-promotion-inflated-the-roswell-slides-roswell-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="roswell poster" data-ebay-reference="how-promotion-inflated-the-roswell-slides-roswell-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for roswell poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: roswell poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-slides-how-promotion-inflated-the-roswell-slides-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="roswell-slides-how-promotion-inflated-the-roswell-slides-ifos-causes-of-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=roswell+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-promotion-inflated-the-roswell-slides-roswell-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="roswell poster" data-ebay-reference="how-promotion-inflated-the-roswell-slides-roswell-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -490,15 +477,15 @@ Within the broader history of deliberate UFO fabrications and promotional claims
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-slides-how-promotion-inflated-the-roswell-slides-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="roswell-slides-how-promotion-inflated-the-roswell-slides-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIENS 4 Vinyl Sticker Set: get in loser cute UFO stars space spaceman fun gift"><img src="{{ '/assets/images/marketplace-covers/8e52910332b2b757e6a7.jpg' | relative_url }}" alt="Listing image for ALIENS 4 Vinyl Sticker Set: get in loser cute UFO stars space spaceman fun gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=roswell+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-promotion-inflated-the-roswell-slides-roswell-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="roswell poster" data-ebay-reference="how-promotion-inflated-the-roswell-slides-roswell-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for roswell alien space colored smoke f Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/ytAAAeSw6fhp1TeE/s-l225.jpg" alt="Listing image for roswell alien space colored smoke f Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-slides-how-promotion-inflated-the-roswell-slides-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="roswell-slides-how-promotion-inflated-the-roswell-slides-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">ALIENS 4 Vinyl Sticker Set: get in loser cute UFO stars space spaceman fun gift</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=roswell+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-promotion-inflated-the-roswell-slides-roswell-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="roswell poster" data-ebay-reference="how-promotion-inflated-the-roswell-slides-roswell-poster" target="_blank" rel="sponsored noopener noreferrer">roswell alien space colored smoke f Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-slides-how-promotion-inflated-the-roswell-slides-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="roswell-slides-how-promotion-inflated-the-roswell-slides-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo sticker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=roswell+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-promotion-inflated-the-roswell-slides-roswell-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="roswell poster" data-ebay-reference="how-promotion-inflated-the-roswell-slides-roswell-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for roswell poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: roswell poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-slides-how-promotion-inflated-the-roswell-slides-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="roswell-slides-how-promotion-inflated-the-roswell-slides-ifos-causes-of-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=roswell+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-promotion-inflated-the-roswell-slides-roswell-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="roswell poster" data-ebay-reference="how-promotion-inflated-the-roswell-slides-roswell-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -506,15 +493,15 @@ Within the broader history of deliberate UFO fabrications and promotional claims
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-slides-how-promotion-inflated-the-roswell-slides-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="roswell-slides-how-promotion-inflated-the-roswell-slides-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO, Sticker Vinyl Version v6"><img src="{{ '/assets/images/marketplace-covers/b2a8befcf874884cb729.jpg' | relative_url }}" alt="Listing image for UFO, Sticker Vinyl Version v6" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=roswell+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-promotion-inflated-the-roswell-slides-roswell-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="roswell poster" data-ebay-reference="how-promotion-inflated-the-roswell-slides-roswell-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell Classic TV Show Metal Poster Sign"><img src="https://i.ebayimg.com/images/g/IAcAAeSwPa9puIbd/s-l225.jpg" alt="Listing image for Roswell Classic TV Show Metal Poster Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-slides-how-promotion-inflated-the-roswell-slides-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="roswell-slides-how-promotion-inflated-the-roswell-slides-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">UFO, Sticker Vinyl Version v6</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=roswell+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-promotion-inflated-the-roswell-slides-roswell-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="roswell poster" data-ebay-reference="how-promotion-inflated-the-roswell-slides-roswell-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell Classic TV Show Metal Poster Sign</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-slides-how-promotion-inflated-the-roswell-slides-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="roswell-slides-how-promotion-inflated-the-roswell-slides-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo sticker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=roswell+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-promotion-inflated-the-roswell-slides-roswell-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="roswell poster" data-ebay-reference="how-promotion-inflated-the-roswell-slides-roswell-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for roswell poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: roswell poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-slides-how-promotion-inflated-the-roswell-slides-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="roswell-slides-how-promotion-inflated-the-roswell-slides-ifos-causes-of-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=roswell+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-promotion-inflated-the-roswell-slides-roswell-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="roswell poster" data-ebay-reference="how-promotion-inflated-the-roswell-slides-roswell-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -522,15 +509,15 @@ Within the broader history of deliberate UFO fabrications and promotional claims
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-slides-how-promotion-inflated-the-roswell-slides-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="roswell-slides-how-promotion-inflated-the-roswell-slides-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing"><img src="{{ '/assets/images/marketplace-covers/758272a90147e0fdd168.jpg' | relative_url }}" alt="Listing image for Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=roswell+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-promotion-inflated-the-roswell-slides-roswell-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="roswell poster" data-ebay-reference="how-promotion-inflated-the-roswell-slides-roswell-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell City New Mexico Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/z6EAAeSwlVRpqXcy/s-l225.jpg" alt="Listing image for Roswell City New Mexico Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-slides-how-promotion-inflated-the-roswell-slides-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="roswell-slides-how-promotion-inflated-the-roswell-slides-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=roswell+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-promotion-inflated-the-roswell-slides-roswell-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="roswell poster" data-ebay-reference="how-promotion-inflated-the-roswell-slides-roswell-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell City New Mexico Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-slides-how-promotion-inflated-the-roswell-slides-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="roswell-slides-how-promotion-inflated-the-roswell-slides-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo sticker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=roswell+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-promotion-inflated-the-roswell-slides-roswell-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="roswell poster" data-ebay-reference="how-promotion-inflated-the-roswell-slides-roswell-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for roswell poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: roswell poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-slides-how-promotion-inflated-the-roswell-slides-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="roswell-slides-how-promotion-inflated-the-roswell-slides-ifos-causes-of-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=roswell+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-promotion-inflated-the-roswell-slides-roswell-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="roswell poster" data-ebay-reference="how-promotion-inflated-the-roswell-slides-roswell-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -538,7 +525,7 @@ Within the broader history of deliberate UFO fabrications and promotional claims
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-slides-how-promotion-inflated-the-roswell-slides-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="roswell-slides-how-promotion-inflated-the-roswell-slides-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=roswell+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-promotion-inflated-the-roswell-slides-roswell-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="roswell poster" data-ebay-reference="how-promotion-inflated-the-roswell-slides-roswell-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -753,62 +740,62 @@ Within the broader history of deliberate UFO fabrications and promotional claims
 
 1. <a id="endnote-1"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/does-body-look-alien-you-bryce-zabel](https://www.linkedin.com/pulse/does-body-look-alien-you-bryce-zabel)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LinkedInAnatomy of a PR DebacleThe slide image was released as a digital photo to the public on May 5, 2015 at an event (&quot;Be Witness&quot;) he...</p></details>
+   Link: <a href="https://www.linkedin.com/pulse/does-body-look-alien-you-bryce-zabel" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/does-body-look-alien-you-bryce-zabel</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Anatomy of a PR DebacleThe slide image was released as a digital photo to the public on May 5, 2015 at an event (&quot;Be Witness&quot;) he...</p></details>
    Published: May 5, 2015  
 
 2. <a id="endnote-2"></a>
    Source: roswellslides.com  
-   Link: [https://www.roswellslides.com/how-the-placard-was-deciphered/](https://www.roswellslides.com/how-the-placard-was-deciphered/)  
+   Link: <a href="https://www.roswellslides.com/how-the-placard-was-deciphered/" target="_blank" rel="noopener noreferrer nofollow">https://www.roswellslides.com/how-the-placard-was-deciphered/</a>  
 
 3. <a id="endnote-3"></a>
    Source: ufoexplorations.com  
-   Link: [https://www.ufoexplorations.com/roswell-alien-slides-my-apology](https://www.ufoexplorations.com/roswell-alien-slides-my-apology)  
+   Link: <a href="https://www.ufoexplorations.com/roswell-alien-slides-my-apology" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoexplorations.com/roswell-alien-slides-my-apology</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The word “hoax” has been used to describe the “Roswell Slides” saga. It was...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: badufos.blogspot.com  
    Title: "Roswell Slides" BUSTED!  
-   Link: [https://badufos.blogspot.com/2015/05/roswell-slides-busted-mummified-body-of.html](https://badufos.blogspot.com/2015/05/roswell-slides-busted-mummified-body-of.html)  
+   Link: <a href="https://badufos.blogspot.com/2015/05/roswell-slides-busted-mummified-body-of.html" target="_blank" rel="noopener noreferrer nofollow">https://badufos.blogspot.com/2015/05/roswell-slides-busted-mummified-body-of.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;MUMMIFIED BODY OF TWO...8 May 2015 — [Reflections](&amp;#123;&amp;#123; &#x27;reflections/&#x27; | relative_url &amp;#125;&amp;#125;) on UFOs, skepticism, and practically anything else by Robert Sheaffer, author of the b...</p></details>
    Published: May 2015  
 
 5. <a id="endnote-5"></a>
    Source: roswellslides.com  
-   Link: [https://www.roswellslides.com/the-roswell-slides/](https://www.roswellslides.com/the-roswell-slides/)  
+   Link: <a href="https://www.roswellslides.com/the-roswell-slides/" target="_blank" rel="noopener noreferrer nofollow">https://www.roswellslides.com/the-roswell-slides/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>esearch Group&#x27; were accused of fraud by...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/wp-content/uploads/sites/29/2015/09/p30.pdf](https://skepticalinquirer.org/wp-content/uploads/sites/29/2015/09/p30.pdf)  
+   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2015/09/p30.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2015/09/p30.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>[ PSYCHIC VIBRATIONS ROBERT SHEAFFER. The &#x27;Roswell Slides&#x27; Fiasco: UFOlogy&#x27;s Biggest...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/science/2017/sep/30/alien-photo-roswell-new-mexico-mystery](https://www.theguardian.com/science/2017/sep/30/alien-photo-roswell-new-mexico-mystery)  
+   Link: <a href="https://www.theguardian.com/science/2017/sep/30/alien-photo-roswell-new-mexico-mystery" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2017/sep/30/alien-photo-roswell-new-mexico-mystery</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianThe curious case of the alien in the photo – and a mystery...30 Sept 2017 — Slides uncovered in an Arizona home seemed to un...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: micahhanks.com  
    Title: the roswell slides case closed and lessons learned  
-   Link: [https://www.micahhanks.com/uncategorized/the-roswell-slides-case-closed-and-lessons-learned/](https://www.micahhanks.com/uncategorized/the-roswell-slides-case-closed-and-lessons-learned/)  
+   Link: <a href="https://www.micahhanks.com/uncategorized/the-roswell-slides-case-closed-and-lessons-learned/" target="_blank" rel="noopener noreferrer nofollow">https://www.micahhanks.com/uncategorized/the-roswell-slides-case-closed-and-lessons-learned/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>“Top Secret: Remains of extraterrestrial being retrieved from 1947 Roswell, New Mexico...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: cbsnews.com  
    Title: roswell aliens not so alien as we thought  
-   Link: [https://www.cbsnews.com/sanfrancisco/news/roswell-aliens-not-so-alien-as-we-thought/](https://www.cbsnews.com/sanfrancisco/news/roswell-aliens-not-so-alien-as-we-thought/)  
+   Link: <a href="https://www.cbsnews.com/sanfrancisco/news/roswell-aliens-not-so-alien-as-we-thought/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/sanfrancisco/news/roswell-aliens-not-so-alien-as-we-thought/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Aliens Not So &#x27;Alien&#x27; As We Thought28 May 2015 — A handful of UFO researchers has decided that this old photo actually depicts an...</p></details>
    Published: May 2015  
 
 10. <a id="endnote-10"></a>
    Source: anomalyarchives.org  
-   Link: [https://anomalyarchives.org/collections/file/roswell-slides/](https://anomalyarchives.org/collections/file/roswell-slides/)  
+   Link: <a href="https://anomalyarchives.org/collections/file/roswell-slides/" target="_blank" rel="noopener noreferrer nofollow">https://anomalyarchives.org/collections/file/roswell-slides/</a>  
 
 11. <a id="endnote-11"></a>
    Source: radiomisterioso.com  
    Title: the roswell slides explained  
-   Link: [https://radiomisterioso.com/2015/05/12/the-roswell-slides-explained/](https://radiomisterioso.com/2015/05/12/the-roswell-slides-explained/)  
+   Link: <a href="https://radiomisterioso.com/2015/05/12/the-roswell-slides-explained/" target="_blank" rel="noopener noreferrer nofollow">https://radiomisterioso.com/2015/05/12/the-roswell-slides-explained/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>12 May 2015 — You&#x27;re too nice, Greg. The bottom line is that Adam Dew, Jaime Maussan and their gang made a ton of money perpetrating a ho...</p></details>
    Published: May 2015  
 
@@ -816,58 +803,58 @@ Within the broader history of deliberate UFO fabrications and promotional claims
 
 12. <a id="endnote-12"></a>
    Source: washingtonpost.com  
-   Link: [https://www.washingtonpost.com/video/national/ufo-specialists-present-never-before-seen-photos-of-roswell-alien/2015/05/07/934d9532-f4ea-11e4-bca5-21b51bbdf93e_video.html](https://www.washingtonpost.com/video/national/ufo-specialists-present-never-before-seen-photos-of-roswell-alien/2015/05/07/934d9532-f4ea-11e4-bca5-21b51bbdf93e_video.html)  
+   Link: <a href="https://www.washingtonpost.com/video/national/ufo-specialists-present-never-before-seen-photos-of-roswell-alien/2015/05/07/934d9532-f4ea-11e4-bca5-21b51bbdf93e_video.html" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/video/national/ufo-specialists-present-never-before-seen-photos-of-roswell-alien/2015/05/07/934d9532-f4ea-11e4-bca5-21b51bbdf93e_video.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Washington PostUFO &#x27;specialists&#x27; present &#x27;never before seen photos&#x27; of...At a conference in Mexico City, UFO specialists presented w...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: ibtimes.co.uk  
    Title: Roswell hoax: UFO researcher admits 'dead alien' picture  
-   Link: [https://www.ibtimes.co.uk/roswell-hoax-ufo-researcher-admits-dead-alien-picture-was-mummified-body-child-1500792](https://www.ibtimes.co.uk/roswell-hoax-ufo-researcher-admits-dead-alien-picture-was-mummified-body-child-1500792)  
+   Link: <a href="https://www.ibtimes.co.uk/roswell-hoax-ufo-researcher-admits-dead-alien-picture-was-mummified-body-child-1500792" target="_blank" rel="noopener noreferrer nofollow">https://www.ibtimes.co.uk/roswell-hoax-ufo-researcher-admits-dead-alien-picture-was-mummified-body-child-1500792</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 11, 2015 — Researcher Floren Cabrera de Teresa identified the images as those of a three or four-year-old mummified child kept at the...</p></details>
    Published: May 11, 2015  
 
 14. <a id="endnote-14"></a>
    Source: pvangels.com  
    Title: Is Roswell 'Alien' Photos Actually of Mummified Child?  
-   Link: [https://pvangels.com/news-mexico/15871/is-roswell-alien-actually-a-mummified-child](https://pvangels.com/news-mexico/15871/is-roswell-alien-actually-a-mummified-child)  
+   Link: <a href="https://pvangels.com/news-mexico/15871/is-roswell-alien-actually-a-mummified-child" target="_blank" rel="noopener noreferrer nofollow">https://pvangels.com/news-mexico/15871/is-roswell-alien-actually-a-mummified-child</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 11, 2015 — Last week, UFO researchers claimed to have made a miraculous discovery – sixty-year-old slides showing a tiny alien being...</p></details>
    Published: May 11, 2015  
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UnresolvedMysteries/comments/73i288/resolved_the_curious_case_of_the_alien_in_the/](https://www.reddit.com/r/UnresolvedMysteries/comments/73i288/resolved_the_curious_case_of_the_alien_in_the/)  
+   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/73i288/resolved_the_curious_case_of_the_alien_in_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/73i288/resolved_the_curious_case_of_the_alien_in_the/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A better reading of the placard identified the mummy&#x27;s donor as an...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: drmsh.com  
    Title: Alleged Slides Proving Roswell Aliens to be Released Today  
-   Link: [https://drmsh.com/alleged-slides-proving-roswell-aliens-to-be-released-today-sigh/](https://drmsh.com/alleged-slides-proving-roswell-aliens-to-be-released-today-sigh/)  
+   Link: <a href="https://drmsh.com/alleged-slides-proving-roswell-aliens-to-be-released-today-sigh/" target="_blank" rel="noopener noreferrer nofollow">https://drmsh.com/alleged-slides-proving-roswell-aliens-to-be-released-today-sigh/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I&#x27;ve seen the Kodachrome slide. I thought immediately it was a child mummy (it&#x27;s in some sort of display case). I...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: mountaintimes.info  
-   Link: [https://mountaintimes.info/2017/06/14/photographic-memories/](https://mountaintimes.info/2017/06/14/photographic-memories/)  
+   Link: <a href="https://mountaintimes.info/2017/06/14/photographic-memories/" target="_blank" rel="noopener noreferrer nofollow">https://mountaintimes.info/2017/06/14/photographic-memories/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>mummified children that had been uncovered over the last...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: theufochronicles.com  
    Title: the roswell slides analysis of placard  
-   Link: [https://www.theufochronicles.com/2015/05/the-roswell-slides-analysis-of-placard.html](https://www.theufochronicles.com/2015/05/the-roswell-slides-analysis-of-placard.html)  
+   Link: <a href="https://www.theufochronicles.com/2015/05/the-roswell-slides-analysis-of-placard.html" target="_blank" rel="noopener noreferrer nofollow">https://www.theufochronicles.com/2015/05/the-roswell-slides-analysis-of-placard.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>On February 18th, (2015) in an e-mail dialogue with Adam Dew (Slide Box Media and stated manager/controller of...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=i7yOA68zq0o](https://www.youtube.com/watch?v=i7yOA68zq0o)  
+   Link: <a href="https://www.youtube.com/watch?v=i7yOA68zq0o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=i7yOA68zq0o</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>History. 187K views · 2 years ago. #HISTORY...more. HISTORY. 15.3M...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: audioboom.com  
    Title: 7950898 the roswell alien slides  
-   Link: [https://audioboom.com/posts/7950898-the-roswell-alien-slides](https://audioboom.com/posts/7950898-the-roswell-alien-slides)  
+   Link: <a href="https://audioboom.com/posts/7950898-the-roswell-alien-slides" target="_blank" rel="noopener noreferrer nofollow">https://audioboom.com/posts/7950898-the-roswell-alien-slides</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Slides That Aren&#x27;t! The Roswell Slides Finally Solved? Kodachrome Real Placard. Music: All...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: [https://en.wikipedia.org/wiki/Roswell_incident](https://en.wikipedia.org/wiki/Roswell_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incidentDebris found by a rancher in 1947 near Roswell, New Mexico, has become the basis for UFO conspiracy theories alleging...</p></details>

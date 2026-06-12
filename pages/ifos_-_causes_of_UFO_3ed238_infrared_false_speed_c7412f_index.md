@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ifos-causes-of-ufo-3ed238-infrared/
 description: Focused pages that expand on Infrared.
-date: '2026-06-07'
+date: '2026-06-12'
 layout: default
 parent_basename: ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f
-parent_title: Infrared | Ifos Causes Of
+parent_title: Infrared
 parent_nav_short_title: Infrared
 parent_permalink: /infrared/
 ---

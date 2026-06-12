@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_morris_county_hoax_2413ae
 - ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_roswell_slides_promo_a3fb30
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - hoaxes
 - hoax-tactics
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - hoaxes
 - hoax-tactics
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: 'Successful UFO hoaxes often imitate ordinary weak evidence: short clips, ambiguous lights, borrowed authority and urgent framing.'
 hero_summary: 'Successful UFO hoaxes often imitate ordinary weak evidence: short clips, ambiguous lights, borrowed authority and urgent framing.'
 layout: default
 permalink: /hoax-tactics/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /hoaxes/
 nav_short_title: Hoax Tactics
 title: Why Convincing UFO Hoaxes Look Imperfect
-title_full: Why Convincing UFO Hoaxes Look Imperfect | Hoaxes
+title_full: Why Convincing UFO Hoaxes Look Imperfect
 display_title_short: Hoax Tactics
 display_title: Hoax Tactics
 heading_title: Why Convincing UFO Hoaxes Look Imperfect
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-07 00:23:00'
-parent_title: When UFO Reports Are Manufactured | IFOs
+parent_title: When UFO Reports Are Manufactured
 parent_permalink: /hoaxes/
 parent_nav_short_title: Hoaxes
 parent_heading_title: When UFO Reports Are Manufactured
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965
-  title: Hoaxes | Ifos Causes Of
+  title: Hoaxes | ifos causes of UFO 3 ed 238
   permalink: /hoaxes/
   short_title: Hoaxes
   heading_title: When UFO Reports Are Manufactured
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965
-  title: Hoaxes | Ifos Causes Of
+  title: Hoaxes | ifos causes of UFO 3 ed 238
   permalink: /hoaxes/
   short_title: Hoaxes
   heading_title: When UFO Reports Are Manufactured
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: How Promotion Inflated the Roswell Slides
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965
-  title: Hoaxes | Ifos Causes Of
+  title: Hoaxes | ifos causes of UFO 3 ed 238
   permalink: /hoaxes/
   short_title: Hoaxes
   heading_title: When UFO Reports Are Manufactured
@@ -260,6 +259,7 @@ next_link:
   permalink: /missing-files/
   short_title: Missing Files
   heading_title: Why UFO Images Need Original Files
+date: '2026-06-12 00:15:19 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_ufo_hoax_tactics_b1afe1-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_ufo_hoax_tactics_b1afe1-Illustration-1.webp
@@ -269,7 +269,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_ufo_hoax_tac
 ## Introduction
 
 Convincing [UFO hoaxes]({{ 'hoaxes/' | relative_url }}) rarely rely on crystal-clear photographs or flawless videos. Instead, they often succeed by imitating the same weaknesses found in many genuine reports: distant lights, brief observations, poor image quality, uncertain scale and incomplete context. Because unusual objects in the sky are frequently difficult to identify even when witnesses are sincere, a hoaxer can hide fabrication inside that uncertainty. The result is a piece of evidence that looks frustratingly inconclusive rather than obviously fake.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_ufo_hoax_tactics_b1afe1-Illustration-1-dark.svg" | relative_url }}" alt="Hoax Tactics illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_ufo_hoax_tactics_b1afe1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_ufo_hoax_tactics_b1afe1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This is why some of the most effective UFO [hoaxes]({{ 'hoaxes/' | relative_url }}) appear imperfect. They exploit the fact that ambiguity encourages interpretation. Viewers fill gaps with assumptions, journalists seek explanations, and believers and sceptics alike project meaning onto limited information. The mechanism is not simply deception; it is the deliberate use of uncertainty as camouflage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://statmodeling.stat.columbia.edu/2024/02/27/on-the-border-between-credulity-and-postmodernism-the-case-of-the-ufos-as-space-aliens-media-insiders/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: statmodeling.stat.columbia.edu">[Statistical Modeling]</a><span class="citation-popover" role="note"><span class="citation-popover-source">statmodeling.stat.columbia.edu</span><span class="citation-popover-snippet">hoax. From a straight-up econ point of view I guess it makes... The missing piece is that the evidence presented for UFOs as space alien...</span></span></span>
@@ -300,7 +299,6 @@ The 2009 Morristown, [New Jersey]({{ 'new-jersey/' | relative_url }}) hoax demon
 
 This illustrates a key hoax mechanism: a simple physical setup can generate sincere but conflicting witness accounts because observers view the same ambiguous event from different positions.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/G_qz9ZCacQw" title="How We Staged a UFO Hoax | Fakes, Frauds and Scammers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=G_qz9ZCacQw" target="_blank" rel="noopener noreferrer">How We Staged a UFO Hoax | Fakes, Frauds and Scammers</a></p><p class="youtube-embed-meta">Channel: VICE Asia &middot; Views: 21.7K &middot; Uploaded: September 2021 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=G_qz9ZCacQw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=G_qz9ZCacQw">Open on YouTube</a></p></div></div></div>
 
 ### Creating Videos That End Before Questions Begin
@@ -319,7 +317,6 @@ The goal is not necessarily to prove an extraordinary claim. It is often enough 
 
 A few seconds of uncertainty can generate far more discussion than several minutes of clear footage.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_ufo_hoax_tactics_b1afe1-Illustration-2-dark.svg" | relative_url }}" alt="Hoax Tactics illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_ufo_hoax_tactics_b1afe1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_ufo_hoax_tactics_b1afe1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Borrowing Authority Through “Insider” Narratives
 
@@ -337,7 +334,6 @@ A distant light may begin as an uncertain observation. As the story spreads, how
 
 Several factors contribute to this process:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **Repetition creates familiarity.**
@@ -351,15 +347,12 @@ The original evidence may never improve, yet public confidence in the story can 
 
 This helps explain why some long-running UFO controversies continue despite limited underlying data. In certain cases, debates persist because the available evidence is insufficient to conclusively prove either a mundane explanation or a fabrication. The continuing uncertainty itself becomes part of the story. The long-running disputes surrounding famous UFO photographs, including arguments over whether some images represent genuine anomalies, misidentifications or deliberate hoaxes, show how ambiguity can sustain interest for decades. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian What really happened in Calvine?</span><span class="citation-popover-snippet">The mystery behind the best UFO picture ever seenFebruary 11, 2025 — In August 1990, two hikers near Calvine, Scotland, allegedly witness...</span><span class="citation-popover-meta">Published: February 11, 2025</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-_4QF__92q0" title="UFO Videos Explained: Mick West&#x27;s Expert Analysis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-_4QF__92q0" target="_blank" rel="noopener noreferrer">UFO Videos Explained: Mick West&#x27;s Expert Analysis</a></p><p class="youtube-embed-meta">Channel: TWiT Tech Podcast Network &middot; Views: 2.5K &middot; Uploaded: February 2025 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-_4QF__92q0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-_4QF__92q0">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_ufo_hoax_tactics_b1afe1-Illustration-3-dark.svg" | relative_url }}" alt="Hoax Tactics illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_ufo_hoax_tactics_b1afe1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_ufo_hoax_tactics_b1afe1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Practical Warning Signs Without Dismissing Sincere Witnesses
 
 The existence of hoaxes does not mean witnesses are dishonest. One of the most important lessons from successful UFO fabrications is that truthful testimony and false conclusions can coexist.
 
 Useful warning signs include:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -374,17 +367,13 @@ Useful warning signs include:
 
 These indicators do not automatically prove a hoax. They simply identify situations where uncertainty may be doing most of the persuasive work.
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-_4QF__92q0" title="UFO Videos Explained: Mick West&#x27;s Expert Analysis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-_4QF__92q0" target="_blank" rel="noopener noreferrer">UFO Videos Explained: Mick West&#x27;s Expert Analysis</a></p><p class="youtube-embed-meta">Channel: TWiT Tech Podcast Network &middot; Views: 2.5K &middot; Uploaded: February 2025 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-_4QF__92q0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-_4QF__92q0">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_ufo_hoax_tactics_b1afe1-Illustration-3-dark.svg" | relative_url }}" alt="Hoax Tactics illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_ufo_hoax_tactics_b1afe1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_ufo_hoax_tactics_b1afe1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Core Mechanism: Hiding Fabrication Inside Uncertainty
 
 The most effective UFO hoaxes do not defeat investigation through sophistication. They often succeed because they resemble the ordinary limitations of genuine sightings. A distant light, an indistinct shape, a brief video or an unverifiable source creates a zone where certainty is difficult.
 
 Hoaxers exploit that zone. Instead of providing strong evidence, they provide just enough evidence to trigger interpretation while withholding enough information to prevent resolution. In the context of UFO reports, that balance between intrigue and uncertainty is often the hoaxer's most valuable tool. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Morristown_UFO_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Morristown UFO hoax</span><span class="citation-popover-snippet">Morristown UFO hoax</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yIEfm0oDsmM" title="Craziest New UFO Files Apollo 11 &amp; 12: Forensic Expert Analysis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yIEfm0oDsmM" target="_blank" rel="noopener noreferrer">Craziest New UFO Files Apollo 11 &amp; 12: Forensic Expert Analysis</a></p><p class="youtube-embed-meta">Channel: Dr. G Explains</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yIEfm0oDsmM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yIEfm0oDsmM">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -503,15 +492,15 @@ Hoaxers exploit that zone. Instead of providing strong evidence, they provide ju
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-tactics-why-convincing-ufo-hoaxes-look-imperfect-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="hoax-tactics-why-convincing-ufo-hoaxes-look-imperfect-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1960s set of three UFO wall art"><img src="{{ '/assets/images/marketplace-covers/be68d6dc5e42b0f085ad.jpg' | relative_url }}" alt="Listing image for Vintage 1960s set of three UFO wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-convincing-ufo-hoaxes-look-imperfect-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-convincing-ufo-hoaxes-look-imperfect-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-tactics-why-convincing-ufo-hoaxes-look-imperfect-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="hoax-tactics-why-convincing-ufo-hoaxes-look-imperfect-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vintage 1960s set of three UFO wall art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-convincing-ufo-hoaxes-look-imperfect-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-convincing-ufo-hoaxes-look-imperfect-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-tactics-why-convincing-ufo-hoaxes-look-imperfect-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="hoax-tactics-why-convincing-ufo-hoaxes-look-imperfect-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-convincing-ufo-hoaxes-look-imperfect-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-convincing-ufo-hoaxes-look-imperfect-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-tactics-why-convincing-ufo-hoaxes-look-imperfect-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="hoax-tactics-why-convincing-ufo-hoaxes-look-imperfect-ifos-causes-of-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-convincing-ufo-hoaxes-look-imperfect-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-convincing-ufo-hoaxes-look-imperfect-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -519,15 +508,15 @@ Hoaxers exploit that zone. Instead of providing strong evidence, they provide ju
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-tactics-why-convincing-ufo-hoaxes-look-imperfect-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="hoax-tactics-why-convincing-ufo-hoaxes-look-imperfect-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-convincing-ufo-hoaxes-look-imperfect-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-convincing-ufo-hoaxes-look-imperfect-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-tactics-why-convincing-ufo-hoaxes-look-imperfect-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="hoax-tactics-why-convincing-ufo-hoaxes-look-imperfect-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-convincing-ufo-hoaxes-look-imperfect-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-convincing-ufo-hoaxes-look-imperfect-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-tactics-why-convincing-ufo-hoaxes-look-imperfect-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="hoax-tactics-why-convincing-ufo-hoaxes-look-imperfect-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-convincing-ufo-hoaxes-look-imperfect-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-convincing-ufo-hoaxes-look-imperfect-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-tactics-why-convincing-ufo-hoaxes-look-imperfect-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="hoax-tactics-why-convincing-ufo-hoaxes-look-imperfect-ifos-causes-of-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-convincing-ufo-hoaxes-look-imperfect-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-convincing-ufo-hoaxes-look-imperfect-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -535,15 +524,15 @@ Hoaxers exploit that zone. Instead of providing strong evidence, they provide ju
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-tactics-why-convincing-ufo-hoaxes-look-imperfect-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="hoax-tactics-why-convincing-ufo-hoaxes-look-imperfect-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-convincing-ufo-hoaxes-look-imperfect-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-convincing-ufo-hoaxes-look-imperfect-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-tactics-why-convincing-ufo-hoaxes-look-imperfect-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="hoax-tactics-why-convincing-ufo-hoaxes-look-imperfect-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-convincing-ufo-hoaxes-look-imperfect-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-convincing-ufo-hoaxes-look-imperfect-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-tactics-why-convincing-ufo-hoaxes-look-imperfect-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="hoax-tactics-why-convincing-ufo-hoaxes-look-imperfect-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-convincing-ufo-hoaxes-look-imperfect-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-convincing-ufo-hoaxes-look-imperfect-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-tactics-why-convincing-ufo-hoaxes-look-imperfect-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="hoax-tactics-why-convincing-ufo-hoaxes-look-imperfect-ifos-causes-of-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-convincing-ufo-hoaxes-look-imperfect-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-convincing-ufo-hoaxes-look-imperfect-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -551,15 +540,15 @@ Hoaxers exploit that zone. Instead of providing strong evidence, they provide ju
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-tactics-why-convincing-ufo-hoaxes-look-imperfect-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="hoax-tactics-why-convincing-ufo-hoaxes-look-imperfect-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-convincing-ufo-hoaxes-look-imperfect-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-convincing-ufo-hoaxes-look-imperfect-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-tactics-why-convincing-ufo-hoaxes-look-imperfect-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="hoax-tactics-why-convincing-ufo-hoaxes-look-imperfect-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-convincing-ufo-hoaxes-look-imperfect-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-convincing-ufo-hoaxes-look-imperfect-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-tactics-why-convincing-ufo-hoaxes-look-imperfect-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="hoax-tactics-why-convincing-ufo-hoaxes-look-imperfect-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-convincing-ufo-hoaxes-look-imperfect-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-convincing-ufo-hoaxes-look-imperfect-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-tactics-why-convincing-ufo-hoaxes-look-imperfect-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="hoax-tactics-why-convincing-ufo-hoaxes-look-imperfect-ifos-causes-of-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-convincing-ufo-hoaxes-look-imperfect-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-convincing-ufo-hoaxes-look-imperfect-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -567,7 +556,7 @@ Hoaxers exploit that zone. Instead of providing strong evidence, they provide ju
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-tactics-why-convincing-ufo-hoaxes-look-imperfect-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="hoax-tactics-why-convincing-ufo-hoaxes-look-imperfect-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-convincing-ufo-hoaxes-look-imperfect-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-convincing-ufo-hoaxes-look-imperfect-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -783,35 +772,35 @@ Hoaxers exploit that zone. Instead of providing strong evidence, they provide ju
 1. <a id="endnote-1"></a>
    Source: researchgate.net  
    Title: Research Gate An investigation of the truth value of U.F.O  
-   Link: [https://www.researchgate.net/publication/341176637_Hey_I_Told_You_Flying_Saucers_Are_Real_An_investigation_of_the_truth_value_of_UFO_photographs_within_contemporary_art](https://www.researchgate.net/publication/341176637_Hey_I_Told_You_Flying_Saucers_Are_Real_An_investigation_of_the_truth_value_of_UFO_photographs_within_contemporary_art)  
+   Link: <a href="https://www.researchgate.net/publication/341176637_Hey_I_Told_You_Flying_Saucers_Are_Real_An_investigation_of_the_truth_value_of_UFO_photographs_within_contemporary_art" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/341176637_Hey_I_Told_You_Flying_Saucers_Are_Real_An_investigation_of_the_truth_value_of_UFO_photographs_within_contemporary_art</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>1, 2019 — 6 May 2020 — Alternatively, U.F.O. photographs are debunked or accused of being hoaxes. This paper is not tr...</p></details>
    Published: May 1, 2019  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Morristown UFO hoax  
-   Link: [https://en.wikipedia.org/wiki/Morristown_UFO_hoax](https://en.wikipedia.org/wiki/Morristown_UFO_hoax)  
+   Link: <a href="https://en.wikipedia.org/wiki/Morristown_UFO_hoax" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Morristown_UFO_hoax</a>  
 
 3. <a id="endnote-3"></a>
    Source: abc11.com  
-   Link: [https://abc11.com/archive/6742325/](https://abc11.com/archive/6742325/)  
+   Link: <a href="https://abc11.com/archive/6742325/" target="_blank" rel="noopener noreferrer nofollow">https://abc11.com/archive/6742325/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC11 Raleigh-DurhamPair charged in UFO hoax2 Apr 2009 — Russo, a salesman, and science teacher Joe Rudy took elaborate measurers to laun...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: researchgate.net  
    Title: Counts of radiocarbon atoms in the Turin Shroud  
-   Link: [https://www.researchgate.net/figure/Counts-of-radiocarbon-atoms-in-the-Turin-Shroud-subsamples-by-Arizona_tbl1_331956466](https://www.researchgate.net/figure/Counts-of-radiocarbon-atoms-in-the-Turin-Shroud-subsamples-by-Arizona_tbl1_331956466)  
+   Link: <a href="https://www.researchgate.net/figure/Counts-of-radiocarbon-atoms-in-the-Turin-Shroud-subsamples-by-Arizona_tbl1_331956466" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Counts-of-radiocarbon-atoms-in-the-Turin-Shroud-subsamples-by-Arizona_tbl1_331956466</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO claims thrive on the accumulation of weak evidence. In contrast, artifact-based claims like the Shroud remain contested despite super...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: statmodeling.stat.columbia.edu  
-   Link: [https://statmodeling.stat.columbia.edu/2024/02/27/on-the-border-between-credulity-and-postmodernism-the-case-of-the-ufos-as-space-aliens-media-insiders/](https://statmodeling.stat.columbia.edu/2024/02/27/on-the-border-between-credulity-and-postmodernism-the-case-of-the-ufos-as-space-aliens-media-insiders/)  
+   Link: <a href="https://statmodeling.stat.columbia.edu/2024/02/27/on-the-border-between-credulity-and-postmodernism-the-case-of-the-ufos-as-space-aliens-media-insiders/" target="_blank" rel="noopener noreferrer nofollow">https://statmodeling.stat.columbia.edu/2024/02/27/on-the-border-between-credulity-and-postmodernism-the-case-of-the-ufos-as-space-aliens-media-insiders/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>hoax. From a straight-up econ point of view I guess it makes... The missing piece is that the evidence presented for UFOs as space alien...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: theguardian.com  
    Title: The Guardian What really happened in Calvine?  
-   Link: [https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen](https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen)  
+   Link: <a href="https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The mystery behind the best UFO picture ever seenFebruary 11, 2025 — In August 1990, two hikers near Calvine, Scotland, allegedly witness...</p></details>
    Published: February 11, 2025  
 
@@ -819,56 +808,56 @@ Hoaxers exploit that zone. Instead of providing strong evidence, they provide ju
 
 7. <a id="endnote-7"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-03-6.pdf](https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-03-6.pdf)  
+   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-03-6.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-03-6.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Columbus Poltergeist CaseSuch reports offer impressive evidence to the layman of alien craft in... Scot Morris, UFO hoax, David I. Simps...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: handprint.com  
-   Link: [https://www.handprint.com/UFO/UFO.html](https://www.handprint.com/UFO/UFO.html)  
+   Link: <a href="https://www.handprint.com/UFO/UFO.html" target="_blank" rel="noopener noreferrer nofollow">https://www.handprint.com/UFO/UFO.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO as wildlifeThe photographic or video evidence for aliens comprises hoax alien cadavers and hoax alien dissections. Some of the hoaxes...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
    Title: in 2009 [morris county](&#123;&#123; 'morris-county/' | relative_url &#125;&#125;) was struck by ufo mania that winter several residents repo  
-   Link: [https://www.facebook.com/MorrisCountyProsecutor/posts/in-2009-morris-county-was-struck-by-ufo-mania-that-winter-several-residents-repo/856306683197659/](https://www.facebook.com/MorrisCountyProsecutor/posts/in-2009-morris-county-was-struck-by-ufo-mania-that-winter-several-residents-repo/856306683197659/)  
+   Link: <a href="https://www.facebook.com/MorrisCountyProsecutor/posts/in-2009-morris-county-was-struck-by-ufo-mania-that-winter-several-residents-repo/856306683197659/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MorrisCountyProsecutor/posts/in-2009-morris-county-was-struck-by-ufo-mania-that-winter-several-residents-repo/856306683197659/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 2009, Morris County was struck by UFO mania....The appearances captured national headlines, and spurred a response from law enforceme...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/30207679/TOWARD_A_PSYCHOLOGY_OF_UFO_ABDUCTION_BELIEFS](https://www.academia.edu/30207679/TOWARD_A_PSYCHOLOGY_OF_UFO_ABDUCTION_BELIEFS)  
+   Link: <a href="https://www.academia.edu/30207679/TOWARD_A_PSYCHOLOGY_OF_UFO_ABDUCTION_BELIEFS" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/30207679/TOWARD_A_PSYCHOLOGY_OF_UFO_ABDUCTION_BELIEFS</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lakeville, MN: Galde Press. Kelley, S. (1999). The rhetoric of alien abduction. Unpublished...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: centerforinquiry.org  
    Title: nj ufo hoax by skeptics proves point but raises questions  
-   Link: [https://centerforinquiry.org/blog/nj_ufo_hoax_by_skeptics_proves_point_but_raises_questions/](https://centerforinquiry.org/blog/nj_ufo_hoax_by_skeptics_proves_point_but_raises_questions/)  
+   Link: <a href="https://centerforinquiry.org/blog/nj_ufo_hoax_by_skeptics_proves_point_but_raises_questions/" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.org/blog/nj_ufo_hoax_by_skeptics_proves_point_but_raises_questions/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2 Apr 2009 — Once all five balloons were ready, we struck the 15-minute flares and released them into the sky.” They carefully documented...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/thedailybeast/posts/the-world-of-ufo-conspiracy-theorists-has-been-torn-apart-by-dueling-lawsuits-pi/10159730973519203/](https://www.facebook.com/thedailybeast/posts/the-world-of-ufo-conspiracy-theorists-has-been-torn-apart-by-dueling-lawsuits-pi/10159730973519203/)  
+   Link: <a href="https://www.facebook.com/thedailybeast/posts/the-world-of-ufo-conspiracy-theorists-has-been-torn-apart-by-dueling-lawsuits-pi/10159730973519203/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thedailybeast/posts/the-world-of-ufo-conspiracy-theorists-has-been-torn-apart-by-dueling-lawsuits-pi/10159730973519203/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>have been widely debunked as hoaxes involving models and doctored...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: cbsnews.com  
    Title: new yorkers mistake balloons for ufos  
-   Link: [https://www.cbsnews.com/newyork/news/new-yorkers-mistake-balloons-for-ufos/](https://www.cbsnews.com/newyork/news/new-yorkers-mistake-balloons-for-ufos/)  
+   Link: <a href="https://www.cbsnews.com/newyork/news/new-yorkers-mistake-balloons-for-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/newyork/news/new-yorkers-mistake-balloons-for-ufos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>?13 Oct 2010 — It turns out the lights were part of a hoax. Prosecutors said two men with too much time on their hands pulled off the tri...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: patch.com  
    Title: remembering ufo hoax morris county  
-   Link: [https://patch.com/new-jersey/morristown/remembering-ufo-hoax-morris-county](https://patch.com/new-jersey/morristown/remembering-ufo-hoax-morris-county)  
+   Link: <a href="https://patch.com/new-jersey/morristown/remembering-ufo-hoax-morris-county" target="_blank" rel="noopener noreferrer nofollow">https://patch.com/new-jersey/morristown/remembering-ufo-hoax-morris-county</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Remembering The UFO Hoax Of Morris County31 Oct 2025 — While some authorities chalked the phenomenon up to flares attached to weather bal...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: The Psychology of UFO Sightings and Hoaxes  
-   Link: [https://www.youtube.com/watch?v=lT24zLh_uFk](https://www.youtube.com/watch?v=lT24zLh_uFk)  
+   Link: <a href="https://www.youtube.com/watch?v=lT24zLh_uFk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lT24zLh_uFk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>These videos examine how the lack of visual clarity in UFO footage is intentionally leveraged by hoaxers and misinterpreted by viewers, e...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: findlaw.com  
    Title: the truth is out there  
-   Link: [https://www.findlaw.com/legalblogs/legally-weird/the-truth-is-out-there/](https://www.findlaw.com/legalblogs/legally-weird/the-truth-is-out-there/)  
+   Link: <a href="https://www.findlaw.com/legalblogs/legally-weird/the-truth-is-out-there/" target="_blank" rel="noopener noreferrer nofollow">https://www.findlaw.com/legalblogs/legally-weird/the-truth-is-out-there/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Hoaxers Hit with Fines and Community Service in NJ21 Mar 2019 — Chris Russo, 29, of Morris Plains, and Joe Rudy, 28, of Chester were...</p></details>

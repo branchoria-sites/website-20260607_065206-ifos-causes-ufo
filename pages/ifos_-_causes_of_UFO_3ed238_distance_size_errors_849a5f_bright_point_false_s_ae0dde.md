@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_fireballs_nearby_ill_7099b5
 - ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_silent_objects_size_4891c8
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - size-errors
 - point-lights
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - size-errors
 - point-lights
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: A single bright light in the sky can look solid, close, huge, or fast even when it has no reliable scale cues.
 hero_summary: A single bright light in the sky can look solid, close, huge, or fast even when it has no reliable scale cues.
 layout: default
 permalink: /point-lights/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /size-errors/
 nav_short_title: Point Lights
 title: Why One Light Can Look Like a Craft
-title_full: Why One Light Can Look Like a Craft | Size Errors
+title_full: Why One Light Can Look Like a Craft
 display_title_short: Point Lights
 display_title: Point Lights
 heading_title: Why One Light Can Look Like a Craft
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 21:39:04'
-parent_title: Why Honest Witnesses Misjudge UFOs | IFOs
+parent_title: Why Honest Witnesses Misjudge UFOs
 parent_permalink: /size-errors/
 parent_nav_short_title: Size Errors
 parent_heading_title: Why Honest Witnesses Misjudge UFOs
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f
-  title: Size Errors | Ifos Causes Of
+  title: Size Errors | ifos causes of UFO 3 ed 238
   permalink: /size-errors/
   short_title: Size Errors
   heading_title: Why Honest Witnesses Misjudge UFOs
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f
-  title: Size Errors | Ifos Causes Of
+  title: Size Errors | ifos causes of UFO 3 ed 238
   permalink: /size-errors/
   short_title: Size Errors
   heading_title: Why Honest Witnesses Misjudge UFOs
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: Does Silence Mean A UFO Was Huge?
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f
-  title: Size Errors | Ifos Causes Of
+  title: Size Errors | ifos causes of UFO 3 ed 238
   permalink: /size-errors/
   short_title: Size Errors
   heading_title: Why Honest Witnesses Misjudge UFOs
@@ -266,6 +265,7 @@ next_link:
   permalink: /silent-objects/
   short_title: Silent Objects
   heading_title: Does Silence Mean A UFO Was Huge?
+date: '2026-06-12 00:51:02 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_bright_point_false_s_ae0dde-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_bright_point_false_s_ae0dde-Illustration-1.webp
@@ -274,8 +274,7 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_br
 
 ## Introduction
 
-Many UFO reports begin with a single bright light. The witness may see no wings, no structure, no sound, no nearby landmarks, and no obvious way to judge distance. Under those conditions, the light can appear much larger, closer, faster, or more solid than it really is. This is one of the most common mechanisms behind sincere but inaccurate UFO descriptions: the observer is not necessarily mistaken about seeing a light, but the brain has too little information to determine its scale. A tiny nearby source and a huge distant source can produce nearly identical visual impressions when both appear as unresolved points of light. Studies of UAP reporting and official analyses by NASA and the All-domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})) repeatedly emphasise that eyewitness observations often lack the contextual data needed to determine size, distance, and speed reliably. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAlthough such eyewitness reports are often interesting and compel- ling, they are insufficient o...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Parallax effects cause the object to be.Read more</span><span class="citation-popover-snippet">AAROEffect of Forced Perspective and Parallax View on UAP...As the airborne observer moves from position 1 to 2 to 3 in the air, they vi...</span></span></span>
-
+Many UFO reports begin with a single bright light. The witness may see no wings, no structure, no sound, no nearby landmarks, and no obvious way to judge distance. Under those conditions, the light can appear much larger, closer, faster, or more solid than it really is. This is one of the most common mechanisms behind sincere but inaccurate UFO descriptions: the observer is not necessarily mistaken about seeing a light, but the brain has too little information to determine its scale. A tiny nearby source and a huge distant source can produce nearly identical visual impressions when both appear as unresolved points of light. Studies of UAP reporting and official analyses by NASA and the All-domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})) repeatedly emphasise that eyewitness observations often lack the contextual data needed to determine size, distance, and speed reliably. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAlthough such eyewitness reports are often interesting and compel- ling, they are insufficient o...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Parallax effects cause the object to be.Read more</span><span class="citation-popover-snippet">Effect of Forced Perspective and Parallax View on UAP...As the airborne observer moves from position 1 to 2 to 3 in the air, they vi...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_bright_point_false_s_ae0dde-Illustration-1-dark.svg" | relative_url }}" alt="Point Lights illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_bright_point_false_s_ae0dde-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_bright_point_false_s_ae0dde-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Point Lights Have No Built-In Scale
@@ -288,7 +287,6 @@ The crucial problem is that physical size cannot be determined from brightness a
 
 This effect is especially powerful at night. The sky removes many of the cues normally used for judging [range]({{ 'range/' | relative_url }}):
 
-
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
 * No familiar object size for comparison.
@@ -300,10 +298,7 @@ This effect is especially powerful at night. The sky removes many of the cues no
 
 </div>
 
-As a result, observers frequently interpret a point light as a solid craft at an assumed distance rather than as an unresolved light source of unknown range. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/120283987/The_Reliability_and_Psychology_of_Eyewitness_Centered_UFO_Experience_A_Bibliography" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">AcademiaThe Reliability and Psychology of Eyewitness Centered...Sightings often take place at night and there are few, if any, cues to s...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TY1giZgddAs" title="The Visual System: How Your Eyes Work" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TY1giZgddAs" target="_blank" rel="noopener noreferrer">The Visual System: How Your Eyes Work</a></p><p class="youtube-embed-meta">Channel: National Eye Institute, NIH</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TY1giZgddAs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TY1giZgddAs">Open on YouTube</a></p></div></div></div>
+As a result, observers frequently interpret a point light as a solid craft at an assumed distance rather than as an unresolved light source of unknown range. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/120283987/The_Reliability_and_Psychology_of_Eyewitness_Centered_UFO_Experience_A_Bibliography" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">The Reliability and Psychology of Eyewitness Centered...Sightings often take place at night and there are few, if any, cues to s...</span></span></span>
 
 ## Why the Brain Turns a Light Into a Craft
 
@@ -311,10 +306,9 @@ People naturally try to convert visual impressions into physical objects.
 
 When a witness sees a bright light that appears steady and self-contained, the mind often treats it as the visible part of a larger object. If the observer assumes the light is at aircraft altitude, the object may seem enormous. If the same light is actually much closer, the inferred size collapses dramatically.
 
-AARO's analysis of forced perspective highlights this exact problem. The same angular image can support several different interpretations depending on the distance assigned to it. The farther away the observer imagines the object to be, the larger it must become to occupy the same apparent size in the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Parallax effects cause the object to be.Read more</span><span class="citation-popover-snippet">AAROEffect of Forced Perspective and Parallax View on UAP...As the airborne observer moves from position 1 to 2 to 3 in the air, they vi...</span></span></span>
+AARO's analysis of forced perspective highlights this exact problem. The same angular image can support several different interpretations depending on the distance assigned to it. The farther away the observer imagines the object to be, the larger it must become to occupy the same apparent size in the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Parallax effects cause the object to be.Read more</span><span class="citation-popover-snippet">Effect of Forced Perspective and Parallax View on UAP...As the airborne observer moves from position 1 to 2 to 3 in the air, they vi...</span></span></span>
 
 This helps explain reports describing:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -326,9 +320,6 @@ This helps explain reports describing:
 </div>
 
 The witness may be accurately describing the visual experience while unknowingly assigning the wrong scale.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9x0x1KSyOdw" title="I see flashes of light in my vision. Should I worry?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9x0x1KSyOdw" target="_blank" rel="noopener noreferrer">I see flashes of light in my vision. Should I worry?</a></p><p class="youtube-embed-meta">Channel: BCDoctorsofOptometry</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9x0x1KSyOdw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9x0x1KSyOdw">Open on YouTube</a></p></div></div></div>
 
 ## Common Objects That Create the Same Angular Sighting
 
@@ -349,7 +340,6 @@ To an observer lacking reference points, Venus may appear as a luminous object r
 ### Satellites
 
 Many [satellites]({{ 'satellites/' | relative_url }}) cross the sky silently as bright moving points. Some gradually brighten and fade as their reflective surfaces change orientation relative to the Sun. Without scale cues, witnesses may interpret these brightness changes as active manoeuvres or propulsion.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_bright_point_false_s_ae0dde-Illustration-2-dark.svg" | relative_url }}" alt="Point Lights illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_bright_point_false_s_ae0dde-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_bright_point_false_s_ae0dde-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Sunlit Balloons
@@ -372,9 +362,6 @@ A brilliant planet may be hundreds of millions of kilometres away. A landing lig
 
 Brightness therefore creates a powerful psychological impression of nearness without actually providing reliable distance information. This contributes to reports describing lights that seemed "close enough to touch" despite being far away. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sky-lens.com/guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sky-lens.com">[Sky Lens]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sky-lens.com</span><span class="citation-popover-snippet">Sky LensNight Sky Observer&#x27;s Field GuideA light source becomes a &quot;point source&quot; when its angular diameter is smaller than the eye&#x27;s resol...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DIysZZdaKLo" title="🔥After the School Beauty Betrayed Him, He Sacrificed Her to Contract the Powerful Succubus Queen!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DIysZZdaKLo" target="_blank" rel="noopener noreferrer">🔥After the School Beauty Betrayed Him, He Sacrificed Her to Contract the Powerful Succubus Queen!</a></p><p class="youtube-embed-meta">Channel: Bella&#x27;s Comic Chronicles</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DIysZZdaKLo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DIysZZdaKLo">Open on YouTube</a></p></div></div></div>
-
 ## Why Motion Estimates Become Distorted
 
 The false-scale problem does not affect size alone.
@@ -387,12 +374,12 @@ Official UAP analyses have repeatedly noted that parallax and forced perspective
 
 For point-light sightings, this means that claims of extraordinary speed often depend heavily on assumed distance rather than directly observed facts.
 
+<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_bright_point_false_s_ae0dde-Illustration-3-dark.svg" | relative_url }}" alt="Point Lights illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_bright_point_false_s_ae0dde-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_bright_point_false_s_ae0dde-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to Record Useful Angular Details
 
 A witness can greatly improve the value of a sighting report by recording observations rather than interpretations.
 
 Instead of estimating physical size, record angular size whenever possible. Comparisons with familiar celestial references are especially useful:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -411,7 +398,6 @@ Likewise, note angular movement:
 
 Also record:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Exact time and location.
@@ -424,8 +410,6 @@ Also record:
 
 These details preserve the actual observation while avoiding premature assumptions about distance, size, or speed. NASA's UAP study emphasised the importance of better-quality observational data because eyewitness impressions alone often cannot resolve such ambiguities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAlthough such eyewitness reports are often interesting and compel- ling, they are insufficient o...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rev.com/transcripts/nasa-holds-first-public-meeting-on-ufos-transcript" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rev.com">[Rev]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rev.com</span><span class="citation-popover-snippet">NASA Holds First Public Meeting on UFOs TranscriptThe current existing data and eyewitness reports alone are insufficient to provide conc...</span></span></span>
 
-
-<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_bright_point_false_s_ae0dde-Illustration-3-dark.svg" | relative_url }}" alt="Point Lights illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_bright_point_false_s_ae0dde-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_bright_point_false_s_ae0dde-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Key Lesson of the False Scale Problem
 
 A single bright light in the sky may be entirely real and honestly reported, yet still generate highly inaccurate estimates of distance, size, and speed. The problem is not dishonesty or poor observation. It is that a point of light contains almost no built-in information about scale.
@@ -549,15 +533,15 @@ Without reliable range cues, the visual system must guess. Those guesses can tra
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=point-lights-why-one-light-can-look-like-a-craft-ifos-causes-of-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="point-lights-why-one-light-can-look-like-a-craft-ifos-causes-of-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for space rocket plastic model kits Mercury Atlas and Friendship 7 Duo"><img src="{{ '/assets/images/marketplace-covers/cf03186a904199df8832.jpg' | relative_url }}" alt="Listing image for space rocket plastic model kits Mercury Atlas and Friendship 7 Duo" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-one-light-can-look-like-a-craft-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-one-light-can-look-like-a-craft-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=point-lights-why-one-light-can-look-like-a-craft-ifos-causes-of-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="point-lights-why-one-light-can-look-like-a-craft-ifos-causes-of-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer">space rocket plastic model kits Mercury Atlas and Friendship 7 Duo</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-one-light-can-look-like-a-craft-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-one-light-can-look-like-a-craft-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=point-lights-why-one-light-can-look-like-a-craft-ifos-causes-of-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="point-lights-why-one-light-can-look-like-a-craft-ifos-causes-of-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for spacecraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: spacecraft model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-one-light-can-look-like-a-craft-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-one-light-can-look-like-a-craft-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=point-lights-why-one-light-can-look-like-a-craft-ifos-causes-of-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="point-lights-why-one-light-can-look-like-a-craft-ifos-causes-of-spacecraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-one-light-can-look-like-a-craft-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-one-light-can-look-like-a-craft-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -565,15 +549,15 @@ Without reliable range cues, the visual system must guess. Those guesses can tra
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=point-lights-why-one-light-can-look-like-a-craft-ifos-causes-of-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="point-lights-why-one-light-can-look-like-a-craft-ifos-causes-of-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Apollo 11 Astronaut On The Moon Revell Model 1/8 Kit"><img src="{{ '/assets/images/marketplace-covers/914dfe7a66c0d09c8a21.jpg' | relative_url }}" alt="Listing image for Apollo 11 Astronaut On The Moon Revell Model 1/8 Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-one-light-can-look-like-a-craft-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-one-light-can-look-like-a-craft-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=point-lights-why-one-light-can-look-like-a-craft-ifos-causes-of-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="point-lights-why-one-light-can-look-like-a-craft-ifos-causes-of-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer">Apollo 11 Astronaut On The Moon Revell Model 1/8 Kit</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-one-light-can-look-like-a-craft-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-one-light-can-look-like-a-craft-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=point-lights-why-one-light-can-look-like-a-craft-ifos-causes-of-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="point-lights-why-one-light-can-look-like-a-craft-ifos-causes-of-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for spacecraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: spacecraft model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-one-light-can-look-like-a-craft-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-one-light-can-look-like-a-craft-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=point-lights-why-one-light-can-look-like-a-craft-ifos-causes-of-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="point-lights-why-one-light-can-look-like-a-craft-ifos-causes-of-spacecraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-one-light-can-look-like-a-craft-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-one-light-can-look-like-a-craft-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -581,15 +565,15 @@ Without reliable range cues, the visual system must guess. Those guesses can tra
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=point-lights-why-one-light-can-look-like-a-craft-ifos-causes-of-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="point-lights-why-one-light-can-look-like-a-craft-ifos-causes-of-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Airfix Apollo Saturn V Space Rocket 1/144 Model Kit 9170 Unopened"><img src="{{ '/assets/images/marketplace-covers/5f775e382bd29a784038.jpg' | relative_url }}" alt="Listing image for Vintage Airfix Apollo Saturn V Space Rocket 1/144 Model Kit 9170 Unopened" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-one-light-can-look-like-a-craft-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-one-light-can-look-like-a-craft-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=point-lights-why-one-light-can-look-like-a-craft-ifos-causes-of-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="point-lights-why-one-light-can-look-like-a-craft-ifos-causes-of-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer">Vintage Airfix Apollo Saturn V Space Rocket 1/144 Model Kit 9170 Unopened</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-one-light-can-look-like-a-craft-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-one-light-can-look-like-a-craft-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=point-lights-why-one-light-can-look-like-a-craft-ifos-causes-of-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="point-lights-why-one-light-can-look-like-a-craft-ifos-causes-of-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for spacecraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: spacecraft model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-one-light-can-look-like-a-craft-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-one-light-can-look-like-a-craft-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=point-lights-why-one-light-can-look-like-a-craft-ifos-causes-of-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="point-lights-why-one-light-can-look-like-a-craft-ifos-causes-of-spacecraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-one-light-can-look-like-a-craft-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-one-light-can-look-like-a-craft-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -597,15 +581,15 @@ Without reliable range cues, the visual system must guess. Those guesses can tra
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=point-lights-why-one-light-can-look-like-a-craft-ifos-causes-of-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="point-lights-why-one-light-can-look-like-a-craft-ifos-causes-of-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Halcyon Alien Nostromo, HT03, 1:960 Scale Model Kit"><img src="{{ '/assets/images/marketplace-covers/eefe1a24f03345369793.jpg' | relative_url }}" alt="Listing image for Halcyon Alien Nostromo, HT03, 1:960 Scale Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-one-light-can-look-like-a-craft-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-one-light-can-look-like-a-craft-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=point-lights-why-one-light-can-look-like-a-craft-ifos-causes-of-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="point-lights-why-one-light-can-look-like-a-craft-ifos-causes-of-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer">Halcyon Alien Nostromo, HT03, 1:960 Scale Model Kit</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-one-light-can-look-like-a-craft-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-one-light-can-look-like-a-craft-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=point-lights-why-one-light-can-look-like-a-craft-ifos-causes-of-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="point-lights-why-one-light-can-look-like-a-craft-ifos-causes-of-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for spacecraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: spacecraft model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-one-light-can-look-like-a-craft-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-one-light-can-look-like-a-craft-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=point-lights-why-one-light-can-look-like-a-craft-ifos-causes-of-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="point-lights-why-one-light-can-look-like-a-craft-ifos-causes-of-spacecraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-one-light-can-look-like-a-craft-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-one-light-can-look-like-a-craft-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -613,7 +597,7 @@ Without reliable range cues, the visual system must guess. Those guesses can tra
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=point-lights-why-one-light-can-look-like-a-craft-ifos-causes-of-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="point-lights-why-one-light-can-look-like-a-craft-ifos-causes-of-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-one-light-can-look-like-a-craft-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-one-light-can-look-like-a-craft-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -828,108 +812,108 @@ Without reliable range cues, the visual system must guess. Those guesses can tra
 
 1. <a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportAlthough such eyewitness reports are often interesting and compel- ling, they are insufficient o...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: aaro.mil  
    Title: Parallax effects cause the object to be.Read more  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROEffect of Forced Perspective and Parallax View on UAP...As the airborne observer moves from position 1 to 2 to 3 in the air, they vi...</p></details>
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Effect of Forced Perspective and Parallax View on UAP...As the airborne observer moves from position 1 to 2 to 3 in the air, they vi...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: rev.com  
-   Link: [https://www.rev.com/transcripts/nasa-holds-first-public-meeting-on-ufos-transcript](https://www.rev.com/transcripts/nasa-holds-first-public-meeting-on-ufos-transcript)  
+   Link: <a href="https://www.rev.com/transcripts/nasa-holds-first-public-meeting-on-ufos-transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/nasa-holds-first-public-meeting-on-ufos-transcript</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Holds First Public Meeting on UFOs TranscriptThe current existing data and eyewitness reports alone are insufficient to provide conc...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: sky-lens.com  
-   Link: [https://sky-lens.com/guide](https://sky-lens.com/guide)  
+   Link: <a href="https://sky-lens.com/guide" target="_blank" rel="noopener noreferrer nofollow">https://sky-lens.com/guide</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky LensNight Sky Observer&#x27;s Field GuideA light source becomes a &quot;point source&quot; when its angular diameter is smaller than the eye&#x27;s resol...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/120283987/The_Reliability_and_Psychology_of_Eyewitness_Centered_UFO_Experience_A_Bibliography](https://www.academia.edu/120283987/The_Reliability_and_Psychology_of_Eyewitness_Centered_UFO_Experience_A_Bibliography)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AcademiaThe Reliability and Psychology of Eyewitness Centered...Sightings often take place at night and there are few, if any, cues to s...</p></details>
+   Link: <a href="https://www.academia.edu/120283987/The_Reliability_and_Psychology_of_Eyewitness_Centered_UFO_Experience_A_Bibliography" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/120283987/The_Reliability_and_Psychology_of_Eyewitness_Centered_UFO_Experience_A_Bibliography</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Reliability and Psychology of Eyewitness Centered...Sightings often take place at night and there are few, if any, cues to s...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: rev.com  
-   Link: [https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript](https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript)  
+   Link: <a href="https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>draw scientific conclusions about the nature of UAP. And so...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — The study will focus on identifying available data, how best to collect future data, and how NASA can use that da...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Resources/](https://www.aaro.mil/Resources/)  
+   Link: <a href="https://www.aaro.mil/Resources/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Resources/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ResourcesEffect of Forced Perspective and Parallax View on UAP Observations · Correlations of [Starlink](&amp;#123;&amp;#123; &#x27;starlink/&#x27; | relative_url &amp;#125;&amp;#125;) Satellite Flaring with UAP Observa...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/106662721/The_NASA_UAP_unidentified_anomalous_phenomena_report_cf_UFO_and_the_question_of_bias_in_science](https://www.academia.edu/106662721/The_NASA_UAP_unidentified_anomalous_phenomena_report_cf_UFO_and_the_question_of_bias_in_science)  
+   Link: <a href="https://www.academia.edu/106662721/The_NASA_UAP_unidentified_anomalous_phenomena_report_cf_UFO_and_the_question_of_bias_in_science" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/106662721/The_NASA_UAP_unidentified_anomalous_phenomena_report_cf_UFO_and_the_question_of_bias_in_science</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Data collection in UAP research suffers from bias due to a lack...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: news.sky.com  
-   Link: [https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933](https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933)  
+   Link: <a href="https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO report - live: Scientists release Unidentified...14 Sept 2023 — Among this report&#x27;s recommendations are that more of NASAs assets an...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/](https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO has resolved the &quot;Go Fast&quot; UAP: r/UFOsGo Fast explanation: paralax Object altitude 13.000 ft, speed 45mph / 39 knots. Wind speed at...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/](https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/)  
+   Link: <a href="https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...The evidence of aliens that NASA will find is going to be &quot;We&#x27;ve detected animal farts on...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/](https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/)  
+   Link: <a href="https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA has released the Unidentified Anomalous...This report, commissioned by but produced independently of NASA, is not a review or asses...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: space.com  
    Title: pentagon ufo chief tells senate very anomalous objects need careful study video  
-   Link: [https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video](https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video)  
+   Link: <a href="https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO chief tells Senate &#x27;very anomalous objects&#x27;...19 Nov 2024 — In that case, the object&#x27;s apparent speed in the video was actu...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: theforestawakening.com  
    Title: effect of forced perspective and parallax view on uap observations 35a2093a  
-   Link: [https://theforestawakening.com/incidents/effect-of-forced-perspective-and-parallax-view-on-uap-observations-35a2093a](https://theforestawakening.com/incidents/effect-of-forced-perspective-and-parallax-view-on-uap-observations-35a2093a)  
+   Link: <a href="https://theforestawakening.com/incidents/effect-of-forced-perspective-and-parallax-view-on-uap-observations-35a2093a" target="_blank" rel="noopener noreferrer nofollow">https://theforestawakening.com/incidents/effect-of-forced-perspective-and-parallax-view-on-uap-observations-35a2093a</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Effect of Forced Perspective and Parallax View on UAP...1 Jan 2024 — AARO explains how forced perspective and parallax effects can accou...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=TQcqOW39ksk](https://www.youtube.com/watch?v=TQcqOW39ksk)  
+   Link: <a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study ReportNASA commissioned an independent study team to examine unidentified anomalous ph...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: reuters.com  
    Title: nasa panel hold first public meeting ufo study ahead report 2023 05 31  
-   Link: [https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/](https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/)  
+   Link: <a href="https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO panel in first public meeting says better data...1 Jun 2023 — In a departure from the Pentagon, NASA&#x27;s panel is examining only...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: researchgate.net  
    Title: Advances in the Study of Language and Thought All rights reserved  
-   Link: [https://www.researchgate.net/profile/Mutsumi-Imai/publication/230899814_Re-evaluating_linguistic_relativity_Language-specific_categories_and_the_role_of_universal_ontological_knowledge_in_the_construal_of_individuation/links/5444f23e0cf2534c765fe73c/Re-evaluating-linguistic-relativity-Language-specific-categories-and-the-role-of-universal-ontological-knowledge-in-the-construal-of-individuation.pdf](https://www.researchgate.net/profile/Mutsumi-Imai/publication/230899814_Re-evaluating_linguistic_relativity_Language-specific_categories_and_the_role_of_universal_ontological_knowledge_in_the_construal_of_individuation/links/5444f23e0cf2534c765fe73c/Re-evaluating-linguistic-relativity-Language-specific-categories-and-the-role-of-universal-ontological-knowledge-in-the-construal-of-individuation.pdf)  
+   Link: <a href="https://www.researchgate.net/profile/Mutsumi-Imai/publication/230899814_Re-evaluating_linguistic_relativity_Language-specific_categories_and_the_role_of_universal_ontological_knowledge_in_the_construal_of_individuation/links/5444f23e0cf2534c765fe73c/Re-evaluating-linguistic-relativity-Language-specific-categories-and-the-role-of-universal-ontological-knowledge-in-the-construal-of-individuation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Mutsumi-Imai/publication/230899814_Re-evaluating_linguistic_relativity_Language-specific_categories_and_the_role_of_universal_ontological_knowledge_in_the_construal_of_individuation/links/5444f23e0cf2534c765fe73c/Re-evaluating-linguistic-relativity-Language-specific-categories-and-the-role-of-universal-ontological-knowledge-in-the-construal-of-individuation.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>No part of this book may be reproduced in any form by any electronic or mechanical means (including photocopying, recording, or informa...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: research.unipd.it  
-   Link: [https://research.unipd.it/retrieve/e14fb26f-ef5c-3de1-e053-1705fe0ac030/Abstracts_book_-_Winterthur_IPrA2021.pdf](https://research.unipd.it/retrieve/e14fb26f-ef5c-3de1-e053-1705fe0ac030/Abstracts_book_-_Winterthur_IPrA2021.pdf)  
+   Link: <a href="https://research.unipd.it/retrieve/e14fb26f-ef5c-3de1-e053-1705fe0ac030/Abstracts_book_-_Winterthur_IPrA2021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research.unipd.it/retrieve/e14fb26f-ef5c-3de1-e053-1705fe0ac030/Abstracts_book_-_Winterthur_IPrA2021.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the end of this book, there is a complete author index. To find the right page for the author you&#x27;re looking for, just click the page num...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: meritalk.com  
    Title: nasa urged to take more permanent role in uap research effort  
-   Link: [https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/](https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/)  
+   Link: <a href="https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/" target="_blank" rel="noopener noreferrer nofollow">https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Urged to Take More Permanent Role in UAP...15 Sept 2023 — The study team found that most UAP data is “hampered by poor sensor calib...</p></details>

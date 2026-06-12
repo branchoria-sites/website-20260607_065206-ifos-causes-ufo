@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_sky_map_colour_light_8bcfea
 - ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_thin_cloud_vanishing_121732
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - stars
 - stars-vs-planets
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - stars
 - stars-vs-planets
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Planets usually look steadier than stars, but bright low planets can still flash and confuse witnesses.
 hero_summary: Planets usually look steadier than stars, but bright low planets can still flash and confuse witnesses.
 layout: default
 permalink: /stars-vs-planets/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /stars/
 nav_short_title: Stars vs Planets
 title: Why Planets Usually Twinkle Less Than Stars
-title_full: Why Planets Usually Twinkle Less Than Stars | Stars
+title_full: Why Planets Usually Twinkle Less Than Stars
 display_title_short: Stars vs Planets
 display_title: Stars vs Planets
 heading_title: Why Planets Usually Twinkle Less Than Stars
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 03:53:53'
-parent_title: Why Stars Flash Like Machines | IFOs
+parent_title: Why Stars Flash Like Machines
 parent_permalink: /stars/
 parent_nav_short_title: Stars
 parent_heading_title: Why Stars Flash Like Machines
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32
-  title: Stars | Ifos Causes Of
+  title: Stars | ifos causes of UFO 3 ed 238
   permalink: /stars/
   short_title: Stars
   heading_title: Why Stars Flash Like Machines
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32
-  title: Stars | Ifos Causes Of
+  title: Stars | ifos causes of UFO 3 ed 238
   permalink: /stars/
   short_title: Stars
   heading_title: Why Stars Flash Like Machines
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: When a Star Suddenly Switches Off
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32
-  title: Stars | Ifos Causes Of
+  title: Stars | ifos causes of UFO 3 ed 238
   permalink: /stars/
   short_title: Stars
   heading_title: Why Stars Flash Like Machines
@@ -266,6 +265,7 @@ next_link:
   permalink: /vanishing/
   short_title: Vanishing
   heading_title: When a Star Suddenly Switches Off
+date: '2026-06-12 00:34:49 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_stars_vs_planets_twi_434330-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_stars_vs_planets_twi_434330-Illustration-1.webp
@@ -275,7 +275,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_stars_v
 ## Introduction
 
 When people report a bright, flashing object in the night sky, one of the first questions is whether they were looking at a star or a planet. The distinction matters because [stars]({{ 'stars/' | relative_url }}) are far more likely to produce dramatic twinkling and rapid colour changes, while planets usually appear steadier. Yet the rule is not absolute. Bright planets—especially [Venus]({{ 'venus/' | relative_url }}) when it is low above the horizon—can also shimmer, flash colours and attract UFO reports. Understanding why stars and planets behave differently is a useful reality check when evaluating unexplained lights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/space/why-dont-planets-twinkle-as-stars-do/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">Earth Sky Why do stars twinkle, but planets do not?</span><span class="citation-popover-snippet">planets are a steadier light Planets shine more steadily because they&#x27;re closer to Earth...</span></span></span>
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_stars_vs_planets_twi_434330-Illustration-1-dark.svg" | relative_url }}" alt="Stars vs Planets illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_stars_vs_planets_twi_434330-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_stars_vs_planets_twi_434330-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Point Sources Versus Small Discs
@@ -288,7 +287,6 @@ Planets, by contrast, are much closer and appear as tiny discs rather than perfe
 
 For UFO investigations, this comparison is valuable because witnesses often describe a suspicious light as “not twinkling”. That observation may rule out some stars, but it does not automatically exclude a planet. Bright planets commonly appear steady enough to be mistaken for hovering aircraft, [drones]({{ 'drones/' | relative_url }}) or distant craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/space/why-dont-planets-twinkle-as-stars-do/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">Earth Sky Why do stars twinkle, but planets do not?</span><span class="citation-popover-snippet">planets are a steadier light Planets shine more steadily because they&#x27;re closer to Earth...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nnBpnv2OH3c" title="Neil deGrasse Tyson Explains Why Stars Twinkle" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nnBpnv2OH3c" target="_blank" rel="noopener noreferrer">Neil deGrasse Tyson Explains Why Stars Twinkle</a></p><p class="youtube-embed-meta">Channel: StarTalk &middot; Views: 594.3K &middot; Uploaded: October 2020 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nnBpnv2OH3c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nnBpnv2OH3c">Open on YouTube</a></p></div></div></div>
 
 ## When Venus Can Still Flash Colours
@@ -299,14 +297,12 @@ Although planets usually shine steadily, Venus can become a surprisingly dramati
 
 Historical UFO report catalogues contain many examples in which Venus was initially reported as a hovering or slowly moving unidentified object. The combination of exceptional brightness, low altitude and occasional colour scintillation makes it one of the most persistent astronomical sources of misidentification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/space/why-dont-planets-twinkle-as-stars-do/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">Earth Sky Why do stars twinkle, but planets do not?</span><span class="citation-popover-snippet">planets are a steadier light Planets shine more steadily because they&#x27;re closer to Earth...</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_stars_vs_planets_twi_434330-Illustration-2-dark.svg" | relative_url }}" alt="Stars vs Planets illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_stars_vs_planets_twi_434330-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_stars_vs_planets_twi_434330-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Witnesses Often Misjudge the Difference
 
 The popular saying that “stars twinkle, planets do not” is useful but oversimplified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/why-do-stars-twinkle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[skyatnightmagazine.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">why do stars twinkle</span><span class="citation-popover-snippet">Sky at Night MagazineWhy do stars twinkle?2 May 2025 — Stars appear to twinkle because their light passes through our atmosphere and is b...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
 Observers usually encounter celestial objects under imperfect conditions. City lights, haze, thin cloud, atmospheric turbulence and low viewing angles can all exaggerate scintillation. A bright star such as [Sirius]({{ 'sirius/' | relative_url }}) may flash intensely, while a nearby planet appears steady. On another night, a low Venus may shimmer enough to resemble the star. The difference becomes one of degree rather than an absolute yes-or-no test. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/why-do-stars-twinkle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">why do stars twinkle</span><span class="citation-popover-snippet">Sky at Night MagazineWhy do stars twinkle?2 May 2025 — Stars appear to twinkle because their light passes through our atmosphere and is b...</span><span class="citation-popover-meta">Published: May 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.astronomy.com/observing/why-do-some-stars-appear-to-twinkle-while-others-dont/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astronomy.com">[astronomy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astronomy.com</span><span class="citation-popover-title">why do some stars appear to twinkle while others dont</span><span class="citation-popover-snippet">Astronomy MagazineWhy do some stars appear to twinkle while others don&#x27;t?7 May 2026 — Stars twinkle and sometimes appear to move around d...</span><span class="citation-popover-meta">Published: May 2026</span></span></span> Human perception adds another complication. Rapid colour changes are often interpreted as artificial lighting systems. Small atmospheric shifts can also create the impression that an object is moving, pulsing or changing shape. When observers already suspect aircraft, drones or unusual craft, atmospheric effects can reinforce that interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/why-do-stars-twinkle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">why do stars twinkle</span><span class="citation-popover-snippet">Sky at Night MagazineWhy do stars twinkle?2 May 2025 — Stars appear to twinkle because their light passes through our atmosphere and is b...</span><span class="citation-popover-meta">Published: May 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.astronomy.com/observing/why-do-some-stars-appear-to-twinkle-while-others-dont/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astronomy.com">[Astronomy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astronomy.com</span><span class="citation-popover-title">why do some stars appear to twinkle while others dont</span><span class="citation-popover-snippet">Astronomy MagazineWhy do some stars appear to twinkle while others don&#x27;t?7 May 2026 — Stars twinkle and sometimes appear to move around d...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OvA_kCOVsxI" title="Why Do Stars Twinkle but Planets Don’t? | Atmospheric Refraction Explained | Class 10 Physics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OvA_kCOVsxI" target="_blank" rel="noopener noreferrer">Why Do Stars Twinkle but Planets Don’t? | Atmospheric Refraction Explained | Class 10 Physics</a></p><p class="youtube-embed-meta">Channel: Quizlet &middot; Views: 388 &middot; Uploaded: March 2026 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OvA_kCOVsxI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OvA_kCOVsxI">Open on YouTube</a></p></div></div></div>
 
@@ -328,9 +324,7 @@ Several clues favour a star:
 
 The important caution is that neither category provides certainty by itself. Bright low planets can scintillate, and bright stars can sometimes appear surprisingly steady. The comparison works best as a probability test: dramatic colour-flashing usually points toward a star, while a bright, comparatively stable light is more likely to be a planet. Recognising that both can be affected by the atmosphere helps prevent ordinary astronomical objects from being mistaken for extraordinary aerial phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/space/why-dont-planets-twinkle-as-stars-do/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">Earth Sky Why do stars twinkle, but planets do not?</span><span class="citation-popover-snippet">planets are a steadier light Planets shine more steadily because they&#x27;re closer to Earth...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://earthsky.org/space/why-dont-planets-twinkle-as-stars-do/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">Earth Sky Why do stars twinkle, but planets do not?</span><span class="citation-popover-snippet">planets are a steadier light Planets shine more steadily because they&#x27;re closer to Earth...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OGo7ZQhxwG8" title="⭐ Why Stars Twinkle and Planets Don’t! | Space Facts for Kids" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OGo7ZQhxwG8" target="_blank" rel="noopener noreferrer">⭐ Why Stars Twinkle and Planets Don’t! | Space Facts for Kids</a></p><p class="youtube-embed-meta">Channel: Toy Time Town &middot; Views: 818.6K &middot; Uploaded: September 2022 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OGo7ZQhxwG8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OGo7ZQhxwG8">Open on YouTube</a></p></div></div></div>
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_stars_vs_planets_twi_434330-Illustration-3-dark.svg" | relative_url }}" alt="Stars vs Planets illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_stars_vs_planets_twi_434330-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_stars_vs_planets_twi_434330-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -451,15 +445,15 @@ The important caution is that neither category provides certainty by itself. Bri
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stars-vs-planets-why-planets-usually-twinkle-less-than-stars-ifos-causes-of-space-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space mission patch" data-ebay-reference="stars-vs-planets-why-planets-usually-twinkle-less-than-stars-ifos-causes-of-space-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SpaceX Logo Patch Iron/Sew-on Dragon Space X Mission DM-2 Crew Astronaut Badge"><img src="{{ '/assets/images/marketplace-covers/86ad4b7ed0c639d1d691.jpg' | relative_url }}" alt="Listing image for SpaceX Logo Patch Iron/Sew-on Dragon Space X Mission DM-2 Crew Astronaut Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-planets-usually-twinkle-less-than-stars-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="why-planets-usually-twinkle-less-than-stars-planet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Solar System Poster Set of 2 -Kids Educational Planets Chart &amp; Space Wall Art A3"><img src="https://i.ebayimg.com/images/g/hcIAAeSwmmlp43nB/s-l225.jpg" alt="Listing image for Solar System Poster Set of 2 -Kids Educational Planets Chart &amp; Space Wall Art A3" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stars-vs-planets-why-planets-usually-twinkle-less-than-stars-ifos-causes-of-space-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space mission patch" data-ebay-reference="stars-vs-planets-why-planets-usually-twinkle-less-than-stars-ifos-causes-of-space-mission-patch" target="_blank" rel="sponsored noopener noreferrer">SpaceX Logo Patch Iron/Sew-on Dragon Space X Mission DM-2 Crew Astronaut Badge</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-planets-usually-twinkle-less-than-stars-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="why-planets-usually-twinkle-less-than-stars-planet-poster" target="_blank" rel="sponsored noopener noreferrer">Solar System Poster Set of 2 -Kids Educational Planets Chart &amp; Space Wall Art A3</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stars-vs-planets-why-planets-usually-twinkle-less-than-stars-ifos-causes-of-space-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space mission patch" data-ebay-reference="stars-vs-planets-why-planets-usually-twinkle-less-than-stars-ifos-causes-of-space-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space mission patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: space mission patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-planets-usually-twinkle-less-than-stars-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="why-planets-usually-twinkle-less-than-stars-planet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planet poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: planet poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stars-vs-planets-why-planets-usually-twinkle-less-than-stars-ifos-causes-of-space-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space mission patch" data-ebay-reference="stars-vs-planets-why-planets-usually-twinkle-less-than-stars-ifos-causes-of-space-mission-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-planets-usually-twinkle-less-than-stars-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="why-planets-usually-twinkle-less-than-stars-planet-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -467,15 +461,15 @@ The important caution is that neither category provides certainty by itself. Bri
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stars-vs-planets-why-planets-usually-twinkle-less-than-stars-ifos-causes-of-space-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space mission patch" data-ebay-reference="stars-vs-planets-why-planets-usually-twinkle-less-than-stars-ifos-causes-of-space-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Lot of 60 NASA STS Shuttle Mission Astronaut Space Patches"><img src="{{ '/assets/images/marketplace-covers/82cd0f39311298a65a37.jpg' | relative_url }}" alt="Listing image for Vintage Lot of 60 NASA STS Shuttle Mission Astronaut Space Patches" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-planets-usually-twinkle-less-than-stars-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="why-planets-usually-twinkle-less-than-stars-planet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Home Wall Print - Vintage Movie Film Poster - FORBIDDEN PLANET - A4, A3, A2,A1"><img src="https://i.ebayimg.com/images/g/sc8AAOSwVxZi~TQ2/s-l225.jpg" alt="Listing image for Home Wall Print - Vintage Movie Film Poster - FORBIDDEN PLANET - A4, A3, A2,A1" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stars-vs-planets-why-planets-usually-twinkle-less-than-stars-ifos-causes-of-space-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space mission patch" data-ebay-reference="stars-vs-planets-why-planets-usually-twinkle-less-than-stars-ifos-causes-of-space-mission-patch" target="_blank" rel="sponsored noopener noreferrer">Vintage Lot of 60 NASA STS Shuttle Mission Astronaut Space Patches</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-planets-usually-twinkle-less-than-stars-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="why-planets-usually-twinkle-less-than-stars-planet-poster" target="_blank" rel="sponsored noopener noreferrer">Home Wall Print - Vintage Movie Film Poster - FORBIDDEN PLANET - A4, A3, A2,A1</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stars-vs-planets-why-planets-usually-twinkle-less-than-stars-ifos-causes-of-space-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space mission patch" data-ebay-reference="stars-vs-planets-why-planets-usually-twinkle-less-than-stars-ifos-causes-of-space-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space mission patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: space mission patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-planets-usually-twinkle-less-than-stars-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="why-planets-usually-twinkle-less-than-stars-planet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planet poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: planet poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stars-vs-planets-why-planets-usually-twinkle-less-than-stars-ifos-causes-of-space-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space mission patch" data-ebay-reference="stars-vs-planets-why-planets-usually-twinkle-less-than-stars-ifos-causes-of-space-mission-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-planets-usually-twinkle-less-than-stars-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="why-planets-usually-twinkle-less-than-stars-planet-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -483,15 +477,15 @@ The important caution is that neither category provides certainty by itself. Bri
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stars-vs-planets-why-planets-usually-twinkle-less-than-stars-ifos-causes-of-space-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space mission patch" data-ebay-reference="stars-vs-planets-why-planets-usually-twinkle-less-than-stars-ifos-causes-of-space-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Apollo 17 NASA Space Moon Landing Mission Iron-On Motif Patch Child / Adult"><img src="{{ '/assets/images/marketplace-covers/98cf2756172ba27cbaae.jpg' | relative_url }}" alt="Listing image for Apollo 17 NASA Space Moon Landing Mission Iron-On Motif Patch Child / Adult" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-planets-usually-twinkle-less-than-stars-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="why-planets-usually-twinkle-less-than-stars-planet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SOLAR SYSTEM poster educational print of the sun planets for learning"><img src="https://i.ebayimg.com/images/g/Mm4AAOSwwbdWPMo8/s-l225.jpg" alt="Listing image for SOLAR SYSTEM poster educational print of the sun planets for learning" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stars-vs-planets-why-planets-usually-twinkle-less-than-stars-ifos-causes-of-space-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space mission patch" data-ebay-reference="stars-vs-planets-why-planets-usually-twinkle-less-than-stars-ifos-causes-of-space-mission-patch" target="_blank" rel="sponsored noopener noreferrer">Apollo 17 NASA Space Moon Landing Mission Iron-On Motif Patch Child / Adult</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-planets-usually-twinkle-less-than-stars-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="why-planets-usually-twinkle-less-than-stars-planet-poster" target="_blank" rel="sponsored noopener noreferrer">SOLAR SYSTEM poster educational print of the sun planets for learning</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stars-vs-planets-why-planets-usually-twinkle-less-than-stars-ifos-causes-of-space-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space mission patch" data-ebay-reference="stars-vs-planets-why-planets-usually-twinkle-less-than-stars-ifos-causes-of-space-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space mission patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: space mission patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-planets-usually-twinkle-less-than-stars-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="why-planets-usually-twinkle-less-than-stars-planet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planet poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: planet poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stars-vs-planets-why-planets-usually-twinkle-less-than-stars-ifos-causes-of-space-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space mission patch" data-ebay-reference="stars-vs-planets-why-planets-usually-twinkle-less-than-stars-ifos-causes-of-space-mission-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-planets-usually-twinkle-less-than-stars-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="why-planets-usually-twinkle-less-than-stars-planet-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -499,15 +493,15 @@ The important caution is that neither category provides certainty by itself. Bri
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stars-vs-planets-why-planets-usually-twinkle-less-than-stars-ifos-causes-of-space-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space mission patch" data-ebay-reference="stars-vs-planets-why-planets-usually-twinkle-less-than-stars-ifos-causes-of-space-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Apollo 11 Xl NASA Space Mission Patch Badge Patches Badges"><img src="{{ '/assets/images/marketplace-covers/dff7d4c3a09468d4372e.jpg' | relative_url }}" alt="Listing image for Apollo 11 Xl NASA Space Mission Patch Badge Patches Badges" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-planets-usually-twinkle-less-than-stars-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="why-planets-usually-twinkle-less-than-stars-planet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sci-fi Movie Prints - Classic Posters - A4 A3 A2 - Wall Art - Home Decor - Gift"><img src="https://i.ebayimg.com/images/g/oPgAAOSwbpVhcLxk/s-l225.jpg" alt="Listing image for Sci-fi Movie Prints - Classic Posters - A4 A3 A2 - Wall Art - Home Decor - Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stars-vs-planets-why-planets-usually-twinkle-less-than-stars-ifos-causes-of-space-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space mission patch" data-ebay-reference="stars-vs-planets-why-planets-usually-twinkle-less-than-stars-ifos-causes-of-space-mission-patch" target="_blank" rel="sponsored noopener noreferrer">Apollo 11 Xl NASA Space Mission Patch Badge Patches Badges</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-planets-usually-twinkle-less-than-stars-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="why-planets-usually-twinkle-less-than-stars-planet-poster" target="_blank" rel="sponsored noopener noreferrer">Sci-fi Movie Prints - Classic Posters - A4 A3 A2 - Wall Art - Home Decor - Gift</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stars-vs-planets-why-planets-usually-twinkle-less-than-stars-ifos-causes-of-space-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space mission patch" data-ebay-reference="stars-vs-planets-why-planets-usually-twinkle-less-than-stars-ifos-causes-of-space-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space mission patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: space mission patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-planets-usually-twinkle-less-than-stars-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="why-planets-usually-twinkle-less-than-stars-planet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planet poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: planet poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stars-vs-planets-why-planets-usually-twinkle-less-than-stars-ifos-causes-of-space-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space mission patch" data-ebay-reference="stars-vs-planets-why-planets-usually-twinkle-less-than-stars-ifos-causes-of-space-mission-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-planets-usually-twinkle-less-than-stars-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="why-planets-usually-twinkle-less-than-stars-planet-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -515,7 +509,7 @@ The important caution is that neither category provides certainty by itself. Bri
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stars-vs-planets-why-planets-usually-twinkle-less-than-stars-ifos-causes-of-space-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space mission patch" data-ebay-reference="stars-vs-planets-why-planets-usually-twinkle-less-than-stars-ifos-causes-of-space-mission-patch" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-planets-usually-twinkle-less-than-stars-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="why-planets-usually-twinkle-less-than-stars-planet-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -731,88 +725,88 @@ The important caution is that neither category provides certainty by itself. Bri
 1. <a id="endnote-1"></a>
    Source: earthsky.org  
    Title: Earth Sky Why do stars twinkle, but planets do not?  
-   Link: [https://earthsky.org/space/why-dont-planets-twinkle-as-stars-do/](https://earthsky.org/space/why-dont-planets-twinkle-as-stars-do/)  
+   Link: <a href="https://earthsky.org/space/why-dont-planets-twinkle-as-stars-do/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/space/why-dont-planets-twinkle-as-stars-do/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>planets are a steadier light Planets shine more steadily because they&#x27;re closer to Earth...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: earthsky.org  
    Title: colors scintillating venus mar 2017 photos  
-   Link: [https://earthsky.org/astronomy-essentials/colors-scintillating-venus-mar-2017-photos/](https://earthsky.org/astronomy-essentials/colors-scintillating-venus-mar-2017-photos/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EarthSkyColors of scintillating Venus | Astronomy Essentials25 Mar 2017 — Planets usually shine steadily. But [bright Venus](&amp;#123;&amp;#123; &#x27;bright-venus/&#x27; | relative_url &amp;#125;&amp;#125;) is twinkling n...</p></details>
+   Link: <a href="https://earthsky.org/astronomy-essentials/colors-scintillating-venus-mar-2017-photos/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/astronomy-essentials/colors-scintillating-venus-mar-2017-photos/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Colors of scintillating Venus | Astronomy Essentials25 Mar 2017 — Planets usually shine steadily. But [bright Venus](&amp;#123;&amp;#123; &#x27;bright-venus/&#x27; | relative_url &amp;#125;&amp;#125;) is twinkling n...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: demos.smu.ca  
    Title: Demos Why Don't Planets Twinkle?  
-   Link: [https://demos.smu.ca/demos/astronomy/25-non-twinkling-planets](https://demos.smu.ca/demos/astronomy/25-non-twinkling-planets)  
+   Link: <a href="https://demos.smu.ca/demos/astronomy/25-non-twinkling-planets" target="_blank" rel="noopener noreferrer nofollow">https://demos.smu.ca/demos/astronomy/25-non-twinkling-planets</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>SMU DemosWhy Don&#x27;t Planets Twinkle? - Physics DemosWhen observing the planets in night sky, they do not appear to twinkle. This is due to...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: astronomy.com  
    Title: why do some stars appear to twinkle while others dont  
-   Link: [https://www.astronomy.com/observing/why-do-some-stars-appear-to-twinkle-while-others-dont/](https://www.astronomy.com/observing/why-do-some-stars-appear-to-twinkle-while-others-dont/)  
+   Link: <a href="https://www.astronomy.com/observing/why-do-some-stars-appear-to-twinkle-while-others-dont/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomy.com/observing/why-do-some-stars-appear-to-twinkle-while-others-dont/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Astronomy MagazineWhy do some stars appear to twinkle while others don&#x27;t?7 May 2026 — Stars twinkle and sometimes appear to move around d...</p></details>
    Published: May 2026  
 
 5. <a id="endnote-5"></a>
    Source: skyatnightmagazine.com  
    Title: why do stars twinkle  
-   Link: [https://www.skyatnightmagazine.com/space-science/why-do-stars-twinkle](https://www.skyatnightmagazine.com/space-science/why-do-stars-twinkle)  
+   Link: <a href="https://www.skyatnightmagazine.com/space-science/why-do-stars-twinkle" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/why-do-stars-twinkle</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky at Night MagazineWhy do stars twinkle?2 May 2025 — Stars appear to twinkle because their light passes through our atmosphere and is b...</p></details>
    Published: May 2025  
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Venus](https://en.wikipedia.org/wiki/Venus)  
+   Link: <a href="https://en.wikipedia.org/wiki/Venus" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Venus</a>  
 
 ### Additional References
 
 7. <a id="endnote-7"></a>
    Source: cosmonova.org  
-   Link: [https://cosmonova.org/why-do-stars-twinkle/](https://cosmonova.org/why-do-stars-twinkle/)  
+   Link: <a href="https://cosmonova.org/why-do-stars-twinkle/" target="_blank" rel="noopener noreferrer nofollow">https://cosmonova.org/why-do-stars-twinkle/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Do Stars Twinkle? | CosmoNovaWhy does it happen? The color of any star is a mix of different wavelengths of light. As atmospheric gas...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/space/comments/r953t/star_twinkle_planets_dont/](https://www.reddit.com/r/space/comments/r953t/star_twinkle_planets_dont/)  
+   Link: <a href="https://www.reddit.com/r/space/comments/r953t/star_twinkle_planets_dont/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/r953t/star_twinkle_planets_dont/</a>  
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/MoonlitEarth/posts/venus-does-not-twinkle-like-stars-and-theres-a-reasonstars-appear-to-flicker-bec/122149176254970955/](https://www.facebook.com/MoonlitEarth/posts/venus-does-not-twinkle-like-stars-and-theres-a-reasonstars-appear-to-flicker-bec/122149176254970955/)  
+   Link: <a href="https://www.facebook.com/MoonlitEarth/posts/venus-does-not-twinkle-like-stars-and-theres-a-reasonstars-appear-to-flicker-bec/122149176254970955/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MoonlitEarth/posts/venus-does-not-twinkle-like-stars-and-theres-a-reasonstars-appear-to-flicker-bec/122149176254970955/</a>  
 
 10. <a id="endnote-10"></a>
    Source: primitiveproton.com  
-   Link: [https://primitiveproton.com/atmospheric-scintillation-why-stars-twinkle-and-planets-dont/](https://primitiveproton.com/atmospheric-scintillation-why-stars-twinkle-and-planets-dont/)  
+   Link: <a href="https://primitiveproton.com/atmospheric-scintillation-why-stars-twinkle-and-planets-dont/" target="_blank" rel="noopener noreferrer nofollow">https://primitiveproton.com/atmospheric-scintillation-why-stars-twinkle-and-planets-dont/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>shine steadily as there is no atmospheric turbulence to cause them to twinkle.Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: math.ucr.edu  
-   Link: [https://math.ucr.edu/home/baez/physics/General/twinkle.html](https://math.ucr.edu/home/baez/physics/General/twinkle.html)  
+   Link: <a href="https://math.ucr.edu/home/baez/physics/General/twinkle.html" target="_blank" rel="noopener noreferrer nofollow">https://math.ucr.edu/home/baez/physics/General/twinkle.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>far ones like nebulae, do not twinkle if they are sufficiently large.Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/AskPhysics/comments/ripgx5/why_do_some_astronomers_say_that_stars_twinkle/](https://www.reddit.com/r/AskPhysics/comments/ripgx5/why_do_some_astronomers_say_that_stars_twinkle/)  
+   Link: <a href="https://www.reddit.com/r/AskPhysics/comments/ripgx5/why_do_some_astronomers_say_that_stars_twinkle/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskPhysics/comments/ripgx5/why_do_some_astronomers_say_that_stars_twinkle/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ut almost all say that stars twinkle whereas planets do not.Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: khanacademy.org  
    Title: Why do stars twinkle (but planets don't)?  
-   Link: [https://www.khanacademy.org/science/in-in-class10th-physics/in-in-the-human-eye-and-the-colourful-world/in-in-atmospheric-refraction/v/why-do-stars-twinkle-but-planets-dont](https://www.khanacademy.org/science/in-in-class10th-physics/in-in-the-human-eye-and-the-colourful-world/in-in-atmospheric-refraction/v/why-do-stars-twinkle-but-planets-dont)  
+   Link: <a href="https://www.khanacademy.org/science/in-in-class10th-physics/in-in-the-human-eye-and-the-colourful-world/in-in-atmospheric-refraction/v/why-do-stars-twinkle-but-planets-dont" target="_blank" rel="noopener noreferrer nofollow">https://www.khanacademy.org/science/in-in-class10th-physics/in-in-the-human-eye-and-the-colourful-world/in-in-atmospheric-refraction/v/why-do-stars-twinkle-but-planets-dont</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(video)The stars only twinkle due to our atmosphere and we know this because if you look at the stars from outside our atmosphere like th...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DRQGKHQEWGA/](https://www.instagram.com/reel/DRQGKHQEWGA/)  
+   Link: <a href="https://www.instagram.com/reel/DRQGKHQEWGA/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DRQGKHQEWGA/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>rature in the atmosphere causes the change of refractive index...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: spaceplacecanada.ca  
    Title: Space Place Why do stars twinkle?  
-   Link: [https://www.spaceplacecanada.ca/2020/01/25/twinklingstars/](https://www.spaceplacecanada.ca/2020/01/25/twinklingstars/)  
+   Link: <a href="https://www.spaceplacecanada.ca/2020/01/25/twinklingstars/" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceplacecanada.ca/2020/01/25/twinklingstars/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why do stars twinkle? - Space Place25 Jan 2020 — Light from objects straight overhead (at zenith) travel through less air compared to sta...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: Neil de Grasse Tyson Explains Why Stars Twinkle  
-   Link: [http://www.youtube.com/watch?v=nnBpnv2OH3c](http://www.youtube.com/watch?v=nnBpnv2OH3c)  
+   Link: <a href="http://www.youtube.com/watch?v=nnBpnv2OH3c" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=nnBpnv2OH3c</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why do stars twinkle but planets don&#x27;t explained Why do stars twinkle (but planets don&#x27;t)? | Human eye &amp; colourful world | Khan Academy...</p></details>

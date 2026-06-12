@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb_ufo_label_changes_1645b2
 - ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb_ufo_reporting_stigma_5d03a6
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - status-labels
 - unresolved-cases
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - status-labels
 - unresolved-cases
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Unresolved UAP cases may reflect missing records or weak data rather than evidence of extraterrestrial craft.
 hero_summary: Unresolved UAP cases may reflect missing records or weak data rather than evidence of extraterrestrial craft.
 layout: default
 permalink: /unresolved-cases-3e7e8b/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /status-labels/
 nav_short_title: Unresolved Cases
 title: Why Unresolved Does Not Mean Alien
-title_full: Why Unresolved Does Not Mean Alien | Status Labels
+title_full: Why Unresolved Does Not Mean Alien
 display_title_short: Unresolved Cases
 display_title: Unresolved Cases
 heading_title: Why Unresolved Does Not Mean Alien
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: UFO Does Not Mean Alien | IFOs
+parent_title: UFO Does Not Mean Alien
 parent_permalink: /status-labels/
 parent_nav_short_title: Status Labels
 parent_heading_title: UFO Does Not Mean Alien
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb
-  title: Status Labels | Ifos Causes Of
+  title: Status Labels | ifos causes of UFO 3 ed 238
   permalink: /status-labels/
   short_title: Status Labels
   heading_title: UFO Does Not Mean Alien
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb
-  title: Status Labels | Ifos Causes Of
+  title: Status Labels | ifos causes of UFO 3 ed 238
   permalink: /status-labels/
   short_title: Status Labels
   heading_title: UFO Does Not Mean Alien
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why UFO Wording Changes What People Report
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb
-  title: Status Labels | Ifos Causes Of
+  title: Status Labels | ifos causes of UFO 3 ed 238
   permalink: /status-labels/
   short_title: Status Labels
   heading_title: UFO Does Not Mean Alien
@@ -259,7 +259,7 @@ prev_link:
   permalink: /stigma/
   short_title: Stigma
   heading_title: Why UFO Wording Changes What People Report
-date: '2026-06-07 06:26:53 '
+date: '2026-06-12 00:45:09 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb_unresolved_not_alien_f8453e-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb_unresolved_not_alien_f8453e-Illustration-1.webp
@@ -269,7 +269,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb_unres
 ## Introduction
 
 An unresolved UAP (unidentified anomalous phenomena) report is not the same thing as evidence of alien spacecraft. In investigations of unusual sightings, “unresolved” simply means that available information was insufficient to reach a confident identification. It does not establish what the object was, only that investigators could not determine its origin with the data available at the time. This distinction is crucial because public discussion often treats a lack of explanation as positive evidence for an extraordinary explanation.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb_unresolved_not_alien_f8453e-Illustration-1-dark.svg" | relative_url }}" alt="Unresolved Cases illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb_unresolved_not_alien_f8453e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb_unresolved_not_alien_f8453e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Modern UAP investigations by NASA and the U.S. Department of Defense have repeatedly stressed that unresolved cases reflect limits in evidence, data quality, or analysis rather than proof of extraterrestrial technology. NASA's independent UAP study found no conclusive evidence of an extraterrestrial origin and emphasised that many cases cannot be confidently assessed because of inadequate or inconsistent data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</span></span></span>
@@ -282,7 +281,7 @@ The word “unresolved” can describe several different situations, and confusi
 
 Many reports remain unresolved because key information is absent. Investigators may lack [radar]({{ 'radar/' | relative_url }}) records, precise timing, sensor settings, weather data, [range]({{ 'range/' | relative_url }}) estimates, or follow-up witness interviews. Without these details, it can be impossible to distinguish between multiple ordinary explanations.
 
-This problem has appeared throughout the history of UFO investigation. [Project Blue Book]({{ 'blue-book/' | relative_url }}) explicitly separated reports with insufficient information from those that could be analysed in depth, recognising that some cases simply lacked the evidence needed for a conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Logistics Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">Defense Logistics Agency Project Blue Book</span><span class="citation-popover-snippet">Defense Logistics AgencyProject Blue BookSeptember 25, 2012 — The Air Force groups its evaluations of UFO reports under three general hea...</span><span class="citation-popover-meta">Published: September 25, 2012</span></span></span>
+This problem has appeared throughout the history of UFO investigation. Project Blue Book explicitly separated reports with insufficient information from those that could be analysed in depth, recognising that some cases simply lacked the evidence needed for a conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Logistics Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">Defense Logistics Agency Project Blue Book</span><span class="citation-popover-snippet">Defense Logistics AgencyProject Blue BookSeptember 25, 2012 — The Air Force groups its evaluations of UFO reports under three general hea...</span><span class="citation-popover-meta">Published: September 25, 2012</span></span></span>
 
 ### Multiple Plausible Explanations
 
@@ -290,24 +289,19 @@ Sometimes investigators possess useful information but not enough to choose conf
 
 In such situations, “unresolved” means uncertainty remains among ordinary explanations. It does not automatically elevate the case into a category requiring alien technology.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/o-gDG07GoJA" title="Pentagon&#x27;s AARO Director: &#x27;UAP are real&#x27; | Reality Check with Ross Coulthart" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=o-gDG07GoJA" target="_blank" rel="noopener noreferrer">Pentagon&#x27;s AARO Director: &#x27;UAP are real&#x27; | Reality Check with Ross Coulthart</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 268.4K &middot; Uploaded: November 2024 &middot; Length: 53 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=o-gDG07GoJA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=o-gDG07GoJA">Open on YouTube</a></p></div></div></div>
 
 ### Data That Cannot Be Reliably Interpreted
 
 A third category involves evidence that appears unusual but is too limited or ambiguous for reliable analysis. A short video clip, a single photograph, or a brief visual observation may not contain enough information to determine distance, size, speed, or direction.
 
-NASA's UAP study highlighted exactly this problem, noting that analysis is often hindered by poor sensor calibration, [missing metadata]({{ 'missing-metadata/' | relative_url }}), a lack of multiple observations, and the absence of standardised measurements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">NASANASA to Release, Discuss Unidentified Anomalous...NASA defines UAP as observations of events in the sky that cannot be identified as...</span></span></span>
+NASA's UAP study highlighted exactly this problem, noting that analysis is often hindered by poor sensor calibration, [missing metadata]({{ 'missing-metadata/' | relative_url }}), a lack of multiple observations, and the absence of standardised measurements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">NASA to Release, Discuss Unidentified Anomalous...NASA defines UAP as observations of events in the sky that cannot be identified as...</span></span></span>
 
 ## The Evidence Gap in Public Claims
 
 A common logical error in UAP discussions is treating an unexplained event as evidence for a specific explanation.
 
 The reasoning often follows a pattern:
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/r_xevi3rSQI" title="New UFO videos: Deep analysis with Ross Coulthart | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=r_xevi3rSQI" target="_blank" rel="noopener noreferrer">New UFO videos: Deep analysis with Ross Coulthart | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 615.9K &middot; Uploaded: May 2026 &middot; Length: 1 hour 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=r_xevi3rSQI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=r_xevi3rSQI">Open on YouTube</a></p></div></div></div>
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -324,8 +318,7 @@ The inability to identify an object does not automatically eliminate every conve
 
 This is why official assessments consistently separate identification status from origin claims. NASA's 2023 report concluded that there was no evidence of extraterrestrial origin while simultaneously acknowledging that some cases remain unexplained. Both statements can be true at the same time because uncertainty about identity is not proof of a particular source. NASA Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/nasa-ufo-report-uap-study/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">nasa ufo report uap study</span><span class="citation-popover-snippet">But we don&#x27;t know what these UAP are.Read more...</span></span></span>
 
-The All-domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})) takes the same position. It states that it has found no evidence of extraterrestrial technology, even though some reports remain under investigation or unresolved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROAARO HomeHas the Department found any evidence of extraterrestrial technology? No. Examination of UAP sightings is ongoing. AARO uses...</span></span></span>
-
+The All-domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})) takes the same position. It states that it has found no evidence of extraterrestrial technology, even though some reports remain under investigation or unresolved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeHas the Department found any evidence of extraterrestrial technology? No. Examination of UAP sightings is ongoing. AARO uses...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb_unresolved_not_alien_f8453e-Illustration-2-dark.svg" | relative_url }}" alt="Unresolved Cases illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb_unresolved_not_alien_f8453e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb_unresolved_not_alien_f8453e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Unresolved Cases Often Shrink Over Time
@@ -334,19 +327,17 @@ History shows that unresolved percentages are not fixed. Cases frequently move f
 
 Additional radar records, flight logs, satellite data, weather information, witness interviews, or improved analytical methods can transform an apparently mysterious report into a conventional explanation. This pattern is one reason investigators are cautious about treating unresolved cases as evidence for extraordinary conclusions.
 
-Project Blue Book records show that investigators expected some unresolved cases to reflect temporary information gaps rather than fundamentally inexplicable phenomena. The programme's classification system recognised that “identified”, “[insufficient data]({{ 'missing-data/' | relative_url }})”, and “unidentified” represented different stages and qualities of evidence rather than different categories of reality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Logistics Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">Defense Logistics Agency Project Blue Book</span><span class="citation-popover-snippet">Defense Logistics AgencyProject Blue BookSeptember 25, 2012 — The Air Force groups its evaluations of UFO reports under three general hea...</span><span class="citation-popover-meta">Published: September 25, 2012</span></span></span>
+Project Blue Book records show that investigators expected some unresolved cases to reflect temporary information gaps rather than fundamentally inexplicable phenomena. The programme's classification system recognised that “identified”, “insufficient data”, and “unidentified” represented different stages and qualities of evidence rather than different categories of reality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Logistics Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">Defense Logistics Agency Project Blue Book</span><span class="citation-popover-snippet">Defense Logistics AgencyProject Blue BookSeptember 25, 2012 — The Air Force groups its evaluations of UFO reports under three general hea...</span><span class="citation-popover-meta">Published: September 25, 2012</span></span></span>
 
-Modern examples follow the same pattern. Cases initially promoted as mysterious sometimes receive later explanations involving balloons, drones, aircraft, sensor effects, or observational errors once additional technical information becomes available. AARO has also published cases that remain unresolved specifically because necessary technical data were unavailable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROUAP ImageryThe United States European Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Re...</span></span></span>
+Modern examples follow the same pattern. Cases initially promoted as mysterious sometimes receive later explanations involving balloons, [drones]({{ 'drones/' | relative_url }}), aircraft, sensor effects, or observational errors once additional technical information becomes available. AARO has also published cases that remain unresolved specifically because necessary technical data were unavailable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP ImageryThe United States European Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Re...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tdf9CCEypFk" title="The UFO Evidence I&#x27;m Taking Seriously" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tdf9CCEypFk" target="_blank" rel="noopener noreferrer">The UFO Evidence I&#x27;m Taking Seriously</a></p><p class="youtube-embed-meta">Channel: Astrum Extra</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tdf9CCEypFk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tdf9CCEypFk">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/r_xevi3rSQI" title="New UFO videos: Deep analysis with Ross Coulthart | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=r_xevi3rSQI" target="_blank" rel="noopener noreferrer">New UFO videos: Deep analysis with Ross Coulthart | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 615.9K &middot; Uploaded: May 2026 &middot; Length: 1 hour 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=r_xevi3rSQI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=r_xevi3rSQI">Open on YouTube</a></p></div></div></div>
 
 ## What Would Be Needed for an Origin Claim?
 
 An origin claim requires positive evidence, not merely the absence of an explanation.
 
 To argue that a UAP represents extraterrestrial technology, investigators would need evidence capable of supporting that conclusion directly. Examples could include:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -362,7 +353,6 @@ Importantly, the standard is not “we do not know what it is.” The standard i
 
 This principle applies throughout science. An unexplained medical symptom does not prove a new disease. An unidentified archaeological artefact does not prove a lost civilisation. Likewise, an unresolved UAP report does not prove alien visitation.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb_unresolved_not_alien_f8453e-Illustration-3-dark.svg" | relative_url }}" alt="Unresolved Cases illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb_unresolved_not_alien_f8453e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb_unresolved_not_alien_f8453e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Key Distinction
 
@@ -372,7 +362,7 @@ The most important distinction in UAP discussions is between uncertainty and evi
 
 Those are fundamentally different propositions. A case can remain unresolved because records are incomplete, sensors are inadequate, witnesses disagree, or multiple explanations remain plausible. None of those conditions provide positive evidence for extraterrestrial technology.
 
-That is why agencies such as NASA and AARO consistently separate unresolved status from origin conclusions: uncertainty may justify further investigation, but by itself it does not establish that the explanation is alien. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROAARO HomeHas the Department found any evidence of extraterrestrial technology? No. Examination of UAP sightings is ongoing. AARO uses...</span></span></span>
+That is why agencies such as NASA and AARO consistently separate unresolved status from origin conclusions: uncertainty may justify further investigation, but by itself it does not establish that the explanation is alien. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeHas the Department found any evidence of extraterrestrial technology? No. Examination of UAP sightings is ongoing. AARO uses...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -491,15 +481,15 @@ That is why agencies such as NASA and AARO consistently separate unresolved stat
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-cases-3e7e8b-why-unresolved-does-not-mean-alien-ifos-causes-of-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="unresolved-cases-3e7e8b-why-unresolved-does-not-mean-alien-ifos-causes-of-alien-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weyland-Yutani Corp Patch- Alien Movie Embroidered Patch Sew/Iron On UK GB Badge"><img src="{{ '/assets/images/marketplace-covers/2e8368c072143378fdb0.jpg' | relative_url }}" alt="Listing image for Weyland-Yutani Corp Patch- Alien Movie Embroidered Patch Sew/Iron On UK GB Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-unresolved-does-not-mean-alien-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-unresolved-does-not-mean-alien-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-cases-3e7e8b-why-unresolved-does-not-mean-alien-ifos-causes-of-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="unresolved-cases-3e7e8b-why-unresolved-does-not-mean-alien-ifos-causes-of-alien-patch" target="_blank" rel="sponsored noopener noreferrer">Weyland-Yutani Corp Patch- Alien Movie Embroidered Patch Sew/Iron On UK GB Badge</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-unresolved-does-not-mean-alien-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-unresolved-does-not-mean-alien-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-cases-3e7e8b-why-unresolved-does-not-mean-alien-ifos-causes-of-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="unresolved-cases-3e7e8b-why-unresolved-does-not-mean-alien-ifos-causes-of-alien-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-unresolved-does-not-mean-alien-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-unresolved-does-not-mean-alien-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-cases-3e7e8b-why-unresolved-does-not-mean-alien-ifos-causes-of-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="unresolved-cases-3e7e8b-why-unresolved-does-not-mean-alien-ifos-causes-of-alien-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-unresolved-does-not-mean-alien-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-unresolved-does-not-mean-alien-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -507,15 +497,15 @@ That is why agencies such as NASA and AARO consistently separate unresolved stat
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-cases-3e7e8b-why-unresolved-does-not-mean-alien-ifos-causes-of-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="unresolved-cases-3e7e8b-why-unresolved-does-not-mean-alien-ifos-causes-of-alien-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN Movie Weyland-Yutani Iron on Sew on Embroidered Patch"><img src="{{ '/assets/images/marketplace-covers/38cde06e995347640daf.jpg' | relative_url }}" alt="Listing image for ALIEN Movie Weyland-Yutani Iron on Sew on Embroidered Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-unresolved-does-not-mean-alien-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-unresolved-does-not-mean-alien-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-cases-3e7e8b-why-unresolved-does-not-mean-alien-ifos-causes-of-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="unresolved-cases-3e7e8b-why-unresolved-does-not-mean-alien-ifos-causes-of-alien-patch" target="_blank" rel="sponsored noopener noreferrer">ALIEN Movie Weyland-Yutani Iron on Sew on Embroidered Patch</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-unresolved-does-not-mean-alien-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-unresolved-does-not-mean-alien-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-cases-3e7e8b-why-unresolved-does-not-mean-alien-ifos-causes-of-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="unresolved-cases-3e7e8b-why-unresolved-does-not-mean-alien-ifos-causes-of-alien-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-unresolved-does-not-mean-alien-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-unresolved-does-not-mean-alien-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-cases-3e7e8b-why-unresolved-does-not-mean-alien-ifos-causes-of-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="unresolved-cases-3e7e8b-why-unresolved-does-not-mean-alien-ifos-causes-of-alien-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-unresolved-does-not-mean-alien-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-unresolved-does-not-mean-alien-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -523,15 +513,15 @@ That is why agencies such as NASA and AARO consistently separate unresolved stat
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-cases-3e7e8b-why-unresolved-does-not-mean-alien-ifos-causes-of-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="unresolved-cases-3e7e8b-why-unresolved-does-not-mean-alien-ifos-causes-of-alien-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USCSS Nostromo Crew Patch | Alien Movie Replica Embroidered Badge"><img src="{{ '/assets/images/marketplace-covers/81117f863db66f4843c8.jpg' | relative_url }}" alt="Listing image for USCSS Nostromo Crew Patch | Alien Movie Replica Embroidered Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-unresolved-does-not-mean-alien-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-unresolved-does-not-mean-alien-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-cases-3e7e8b-why-unresolved-does-not-mean-alien-ifos-causes-of-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="unresolved-cases-3e7e8b-why-unresolved-does-not-mean-alien-ifos-causes-of-alien-patch" target="_blank" rel="sponsored noopener noreferrer">USCSS Nostromo Crew Patch | Alien Movie Replica Embroidered Badge</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-unresolved-does-not-mean-alien-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-unresolved-does-not-mean-alien-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-cases-3e7e8b-why-unresolved-does-not-mean-alien-ifos-causes-of-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="unresolved-cases-3e7e8b-why-unresolved-does-not-mean-alien-ifos-causes-of-alien-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-unresolved-does-not-mean-alien-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-unresolved-does-not-mean-alien-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-cases-3e7e8b-why-unresolved-does-not-mean-alien-ifos-causes-of-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="unresolved-cases-3e7e8b-why-unresolved-does-not-mean-alien-ifos-causes-of-alien-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-unresolved-does-not-mean-alien-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-unresolved-does-not-mean-alien-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -539,15 +529,15 @@ That is why agencies such as NASA and AARO consistently separate unresolved stat
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-cases-3e7e8b-why-unresolved-does-not-mean-alien-ifos-causes-of-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="unresolved-cases-3e7e8b-why-unresolved-does-not-mean-alien-ifos-causes-of-alien-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Space Embroidery Patch Iron Or Sewn On"><img src="{{ '/assets/images/marketplace-covers/ebfabc2ced200bfb4958.jpg' | relative_url }}" alt="Listing image for Alien Space Embroidery Patch Iron Or Sewn On" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-unresolved-does-not-mean-alien-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-unresolved-does-not-mean-alien-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-cases-3e7e8b-why-unresolved-does-not-mean-alien-ifos-causes-of-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="unresolved-cases-3e7e8b-why-unresolved-does-not-mean-alien-ifos-causes-of-alien-patch" target="_blank" rel="sponsored noopener noreferrer">Alien Space Embroidery Patch Iron Or Sewn On</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-unresolved-does-not-mean-alien-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-unresolved-does-not-mean-alien-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-cases-3e7e8b-why-unresolved-does-not-mean-alien-ifos-causes-of-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="unresolved-cases-3e7e8b-why-unresolved-does-not-mean-alien-ifos-causes-of-alien-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-unresolved-does-not-mean-alien-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-unresolved-does-not-mean-alien-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-cases-3e7e8b-why-unresolved-does-not-mean-alien-ifos-causes-of-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="unresolved-cases-3e7e8b-why-unresolved-does-not-mean-alien-ifos-causes-of-alien-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-unresolved-does-not-mean-alien-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-unresolved-does-not-mean-alien-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -555,7 +545,7 @@ That is why agencies such as NASA and AARO consistently separate unresolved stat
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-cases-3e7e8b-why-unresolved-does-not-mean-alien-ifos-causes-of-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="unresolved-cases-3e7e8b-why-unresolved-does-not-mean-alien-ifos-causes-of-alien-patch" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-unresolved-does-not-mean-alien-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-unresolved-does-not-mean-alien-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -770,86 +760,86 @@ That is why agencies such as NASA and AARO consistently separate unresolved stat
 
 1. <a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/](https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASANASA to Release, Discuss Unidentified Anomalous...NASA defines UAP as observations of events in the sky that cannot be identified as...</p></details>
+   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to Release, Discuss Unidentified Anomalous...NASA defines UAP as observations of events in the sky that cannot be identified as...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROAARO HomeHas the Department found any evidence of extraterrestrial technology? No. Examination of UAP sightings is ongoing. AARO uses...</p></details>
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeHas the Department found any evidence of extraterrestrial technology? No. Examination of UAP sightings is ongoing. AARO uses...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 18 Mar 2024 — highly sensitive national security programs that are not related to e...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROUAP ImageryThe United States European Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Re...</p></details>
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThe United States European Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Re...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — The UAP Independent Study shall report on the following questions: What types of scientific data currently collec...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>8 May 2026 —... no evidence that UAPs are extraterrestrial. However... Are there any data supporting the idea that UAP are evidence of...</p></details>
    Published: May 2026  
 
 8. <a id="endnote-8"></a>
    Source: history.com  
    Title: Project Blue Book  
-   Link: [https://www.history.com/articles/project-blue-book](https://www.history.com/articles/project-blue-book)  
+   Link: <a href="https://www.history.com/articles/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/project-blue-book</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien, Definition &amp; Files22 Feb 2010 — The remaining 700 incidents remained “unidentified”; these included cases in which there was insuf...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: cbsnews.com  
    Title: nasa ufo report uap study  
-   Link: [https://www.cbsnews.com/news/nasa-ufo-report-uap-study/](https://www.cbsnews.com/news/nasa-ufo-report-uap-study/)  
+   Link: <a href="https://www.cbsnews.com/news/nasa-ufo-report-uap-study/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/nasa-ufo-report-uap-study/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>But we don&#x27;t know what these UAP are.Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: esd.whs.mil  
    Title: Defense Logistics Agency Project Blue Book  
-   Link: [https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837](https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837)  
+   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Logistics AgencyProject Blue BookSeptember 25, 2012 — The Air Force groups its evaluations of UFO reports under three general hea...</p></details>
    Published: September 25, 2012  
 
 11. <a id="endnote-11"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The project closed in 1969 and we have no...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookProject Blue Book was the code name for the systematic study of unidentified flying objects (UFOs) by the United Stat...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOB/comments/1gzxwmr/aaro_no_evidence_of_extraterrestrial_beings/](https://www.reddit.com/r/UFOB/comments/1gzxwmr/aaro_no_evidence_of_extraterrestrial_beings/)  
+   Link: <a href="https://www.reddit.com/r/UFOB/comments/1gzxwmr/aaro_no_evidence_of_extraterrestrial_beings/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1gzxwmr/aaro_no_evidence_of_extraterrestrial_beings/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO - No evidence of extraterrestrial beings, activity, or...Koloski was weirdly clear I thought that &quot;they have found no evidence of u...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/video/977839/pr-008-unresolved-uap-report-europe-2022](https://www.dvidshub.net/video/977839/pr-008-unresolved-uap-report-europe-2022)  
+   Link: <a href="https://www.dvidshub.net/video/977839/pr-008-unresolved-uap-report-europe-2022" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/977839/pr-008-unresolved-uap-report-europe-2022</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PR-008, Unresolved UAP Report, Europe 2022The United States European Command submitted a report of an unidentified anomalous phenomenon t...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, History, Aliens, UFOs, &amp; Facts16 May 2026 — Project Blue Book, code name for the United States&#x27; longest-running Air Force pro...</p></details>
    Published: May 2026  
 
@@ -857,52 +847,52 @@ That is why agencies such as NASA and AARO consistently separate unresolved stat
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/wired/posts/new-a-report-released-today-by-nasas-independent-study-team-describes-how-the-ag/695732782422317/](https://www.facebook.com/wired/posts/new-a-report-released-today-by-nasas-independent-study-team-describes-how-the-ag/695732782422317/)  
+   Link: <a href="https://www.facebook.com/wired/posts/new-a-report-released-today-by-nasas-independent-study-team-describes-how-the-ag/695732782422317/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wired/posts/new-a-report-released-today-by-nasas-independent-study-team-describes-how-the-ag/695732782422317/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A report released today by NASA&#x27;s independent study team...NASA UFO report finds no evidence of &#x27;extraterrestrial origin&#x27; for UAP sighti...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/](https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Calling out AARO&#x27;s bullshit in detail: r/UFOsAlthough many UAP/UFO cases remain unsolved, based on the lack of evidence of the extraterr...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/](https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/)  
+   Link: <a href="https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...... report was delayed after 3 ufo whistleblowers came forward.... r/space - NASA panel...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/](https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/)  
+   Link: <a href="https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...So, if NASA finds evidence of aliens, they&#x27;ll report it to public?... r/space - NASA pan...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: af.mil  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 remained &quot;un...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: wired.com  
-   Link: [https://www.wired.com/story/nasa-ufos-aliens-report-2023](https://www.wired.com/story/nasa-ufos-aliens-report-2023)  
+   Link: <a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The agency stressed the need to shift the conversation from sensationalism to science and eliminate the [stigma](&amp;#123;&amp;#123; &#x27;stigma/&#x27; | relative_url &amp;#125;&amp;#125;) associated with reporting...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/UFO/](https://www.war.gov/UFO/)  
+   Link: <a href="https://www.war.gov/UFO/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/UFO/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>alien and extraterrestrial life, unidentified aerial phenomena (UAP), and unidentified flying objects (UFOs), and any and all other...Re...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: nsa.gov  
-   Link: [https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf)  
+   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book, 701 remained &quot;unidentified.&quot; The decision to discontinue UFO investigations was based on an...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
-   Link: [https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology](https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology)  
+   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>no evidence of &#x27;extraterrestrial origin... The AARO report points out that UAP sightings and beliefs that UFOs represent alien technology...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: sofrep.com  
    Title: the truth behind ufos from project blue book to the pentagons uap task force  
-   Link: [https://sofrep.com/news/the-truth-behind-ufos-from-project-blue-book-to-the-pentagons-uap-task-force/](https://sofrep.com/news/the-truth-behind-ufos-from-project-blue-book-to-the-pentagons-uap-task-force/)  
+   Link: <a href="https://sofrep.com/news/the-truth-behind-ufos-from-project-blue-book-to-the-pentagons-uap-task-force/" target="_blank" rel="noopener noreferrer nofollow">https://sofrep.com/news/the-truth-behind-ufos-from-project-blue-book-to-the-pentagons-uap-task-force/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth Behind UFOs: From Project Blue Book to the...8 Feb 2026 — This report concluded that UFOs posed no threat to national security...</p></details>

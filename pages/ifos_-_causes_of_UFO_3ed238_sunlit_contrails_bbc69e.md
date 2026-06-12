@@ -50,22 +50,22 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_wind_data_33671a
 - ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - contrails
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - contrails
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Contrails and jet exhaust near sunrise or sunset can glow red, orange or white while the aircraft itself is hard to see.
 hero_summary: Contrails and jet exhaust near sunrise or sunset can glow red, orange or white while the aircraft itself is hard to see.
 layout: default
 permalink: /contrails/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 nav_short_title: Contrails
 title: Why Jet Trails Glow Like UFOs
-title_full: Why Jet Trails Glow Like UFOs | IFOs
+title_full: Why Jet Trails Glow Like UFOs
 display_title_short: Contrails
 display_title: Contrails
 heading_title: Why Jet Trails Glow Like UFOs
@@ -240,213 +240,212 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 21:41:37'
 parent_title: IFOs
-parent_permalink: /ifos-causes-of/
+parent_permalink: /ifos-causes-of-ufo-3-ed-238/
 parent_nav_short_title: IFOs
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 sibling_links:
 - basename: ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d
-  title: A Head On Aircraft Can Look Like A Stationary Light... | Ifos Causes Of
+  title: A Head On Aircraft Can Look Like A Stationary Light... | ifos causes of UFO 3 ed 238
   permalink: /a-head-on-aircraft-can-look-like-a/
   short_title: A Head On Aircraft Can Look Like A Stationary Light...
   heading_title: The Stationary Light That Is Moving
 - basename: ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261
-  title: AARO | Ifos Causes Of
+  title: AARO | ifos causes of UFO 3 ed 238
   permalink: /aaro/
   short_title: AARO
   heading_title: What Modern UAP Reviews Resolve
 - basename: ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253
-  title: Aircraft Lights | Ifos Causes Of
+  title: Aircraft Lights | ifos causes of UFO 3 ed 238
   permalink: /aircraft-lights/
   short_title: Aircraft Lights
   heading_title: Why Ordinary Aircraft Look So Strange
 - basename: ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043
-  title: Atmosphere | Ifos Causes Of
+  title: Atmosphere | ifos causes of UFO 3 ed 238
   permalink: /atmosphere/
   short_title: Atmosphere
   heading_title: When Weather Makes Shapes in the Sky
 - basename: ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057
-  title: Balloons | Ifos Causes Of
+  title: Balloons | ifos causes of UFO 3 ed 238
   permalink: /balloons/
   short_title: Balloons
   heading_title: Why Balloons Become Flying Saucers
 - basename: ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40
-  title: Birds | Ifos Causes Of
+  title: Birds | ifos causes of UFO 3 ed 238
   permalink: /birds/
   short_title: Birds
   heading_title: How Birds Become Fast UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81
-  title: Blue Book | Ifos Causes Of
+  title: Blue Book | ifos causes of UFO 3 ed 238
   permalink: /blue-book/
   short_title: Blue Book
   heading_title: What Blue Book Teaches About IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c
-  title: Drones | Ifos Causes Of
+  title: Drones | ifos causes of UFO 3 ed 238
   permalink: /drones/
   short_title: Drones
   heading_title: When a Drone Becomes a UFO
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e
-  title: First Checks | Ifos Causes Of
+  title: First Checks | ifos causes of UFO 3 ed 238
   permalink: /first-checks/
   short_title: First Checks
   heading_title: What to Check Before Calling It a UFO
 - basename: ifos_-_causes_of_UFO_3ed238_military_flares_abb62f
-  title: Flares | Ifos Causes Of
+  title: Flares | ifos causes of UFO 3 ed 238
   permalink: /flares/
   short_title: Flares
   heading_title: Why Flares Look Like Hovering Craft
 - basename: ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590
-  title: Flight Tracking | Ifos Causes Of
+  title: Flight Tracking | ifos causes of UFO 3 ed 238
   permalink: /flight-tracking/
   short_title: Flight Tracking
   heading_title: How Flight Data Solves UFO Sightings
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965
-  title: Hoaxes | Ifos Causes Of
+  title: Hoaxes | ifos causes of UFO 3 ed 238
   permalink: /hoaxes/
   short_title: Hoaxes
   heading_title: When UFO Reports Are Manufactured
 - basename: ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f
-  title: Infrared | Ifos Causes Of
+  title: Infrared | ifos causes of UFO 3 ed 238
   permalink: /infrared/
   short_title: Infrared
   heading_title: Why Infrared UFO Videos Mislead
 - basename: ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74
-  title: Insects | Ifos Causes Of
+  title: Insects | ifos causes of UFO 3 ed 238
   permalink: /insects/
   short_title: Insects
   heading_title: The Tiny Things Cameras Make Huge
 - basename: ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5
-  title: Lanterns | Ifos Causes Of
+  title: Lanterns | ifos causes of UFO 3 ed 238
   permalink: /lanterns/
   short_title: Lanterns
   heading_title: The Orange Lights That Start UFO Reports
 - basename: ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e
-  title: Lens Flare | Ifos Causes Of
+  title: Lens Flare | ifos causes of UFO 3 ed 238
   permalink: /lens-flare/
   short_title: Lens Flare
   heading_title: When Cameras Invent Extra Lights
 - basename: ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28
-  title: Mass Sightings | Ifos Causes Of
+  title: Mass Sightings | ifos causes of UFO 3 ed 238
   permalink: /mass-sightings/
   short_title: Mass Sightings
   heading_title: Why Groups Can Share One Mistake
 - basename: ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504
-  title: Meteors | Ifos Causes Of
+  title: Meteors | ifos causes of UFO 3 ed 238
   permalink: /meteors/
   short_title: Meteors
   heading_title: When Fireballs Become UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca
-  title: Missing Data | Ifos Causes Of
+  title: Missing Data | ifos causes of UFO 3 ed 238
   permalink: /missing-data/
   short_title: Missing Data
   heading_title: Unsolved Does Not Always Mean Strange
 - basename: ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183
-  title: NASA Study | Ifos Causes Of
+  title: NASA Study | ifos causes of UFO 3 ed 238
   permalink: /nasa-study/
   short_title: NASA Study
   heading_title: Why Better UFO Data Matters
 - basename: ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b
-  title: Parallax | Ifos Causes Of
+  title: Parallax | ifos causes of UFO 3 ed 238
   permalink: /parallax/
   short_title: Parallax
   heading_title: The Speed Illusion in UFO Footage
 - basename: ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a
-  title: Pilots | Ifos Causes Of
+  title: Pilots | ifos causes of UFO 3 ed 238
   permalink: /pilots/
   short_title: Pilots
   heading_title: Why Pilots Can Misidentify UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357
-  title: Radar | Ifos Causes Of
+  title: Radar | ifos causes of UFO 3 ed 238
   permalink: /radar/
   short_title: Radar
   heading_title: When Radar Sees a UFO That Isnt There
 - basename: ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c
-  title: Reflections | Ifos Causes Of
+  title: Reflections | ifos causes of UFO 3 ed 238
   permalink: /reflections/
   short_title: Reflections
   heading_title: The UFO Inside the Glass
 - basename: ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132
-  title: Rocket Plumes | Ifos Causes Of
+  title: Rocket Plumes | ifos causes of UFO 3 ed 238
   permalink: /rocket-plumes/
   short_title: Rocket Plumes
   heading_title: The Strange Clouds Rockets Leave Behind
 - basename: ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b
-  title: Satellites | Ifos Causes Of
+  title: Satellites | ifos causes of UFO 3 ed 238
   permalink: /satellites/
   short_title: Satellites
   heading_title: Why Satellites Surprise Night Watchers
 - basename: ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1
-  title: Searchlights | Ifos Causes Of
+  title: Searchlights | ifos causes of UFO 3 ed 238
   permalink: /searchlights/
   short_title: Searchlights
   heading_title: How Searchlights Paint UFOs in Clouds
 - basename: ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b
-  title: Sensor Operators | Ifos Causes Of
+  title: Sensor Operators | ifos causes of UFO 3 ed 238
   permalink: /sensor-operators/
   short_title: Sensor Operators
   heading_title: When Sensors Need Human Context
 - basename: ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391
-  title: Short Clips | Ifos Causes Of
+  title: Short Clips | ifos causes of UFO 3 ed 238
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: Why Short UFO Videos Are Hard to Trust
 - basename: ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f
-  title: Size Errors | Ifos Causes Of
+  title: Size Errors | ifos causes of UFO 3 ed 238
   permalink: /size-errors/
   short_title: Size Errors
   heading_title: Why Honest Witnesses Misjudge UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725
-  title: Sky Charts | Ifos Causes Of
+  title: Sky Charts | ifos causes of UFO 3 ed 238
   permalink: /sky-charts/
   short_title: Sky Charts
   heading_title: How to Check a UFO Against the Sky
 - basename: ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32
-  title: Stars | Ifos Causes Of
+  title: Stars | ifos causes of UFO 3 ed 238
   permalink: /stars/
   short_title: Stars
   heading_title: Why Stars Flash Like Machines
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb
-  title: Status Labels | Ifos Causes Of
+  title: Status Labels | ifos causes of UFO 3 ed 238
   permalink: /status-labels/
   short_title: Status Labels
   heading_title: UFO Does Not Mean Alien
 - basename: ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d
-  title: Strong Cases | Ifos Causes Of
+  title: Strong Cases | ifos causes of UFO 3 ed 238
   permalink: /strong-cases/
   short_title: Strong Cases
   heading_title: What Makes a UFO Report Harder to Explain
 - basename: ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948
-  title: UK Files | Ifos Causes Of
+  title: UK Files | ifos causes of UFO 3 ed 238
   permalink: /uk-files/
   short_title: UK Files
   heading_title: What the UK UFO Files Reveal
 - basename: ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06
-  title: Unresolved Cases | Ifos Causes Of
+  title: Unresolved Cases | ifos causes of UFO 3 ed 238
   permalink: /unresolved-cases/
   short_title: Unresolved Cases
   heading_title: Why Some UFO Cases Stay Open
 - basename: ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080
-  title: Venus | Ifos Causes Of
+  title: Venus | ifos causes of UFO 3 ed 238
   permalink: /venus/
   short_title: Venus
   heading_title: Is That UFO Really Venus?
 - basename: ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13
-  title: Weather Records | Ifos Causes Of
+  title: Weather Records | ifos causes of UFO 3 ed 238
   permalink: /weather-records/
   short_title: Weather Records
   heading_title: Weather Clues That Explain Strange Lights
 - basename: ifos_-_causes_of_UFO_3ed238_wind_data_33671a
-  title: Wind Data | Ifos Causes Of
+  title: Wind Data | ifos causes of UFO 3 ed 238
   permalink: /wind-data/
   short_title: Wind Data
   heading_title: Following a UFO With the Wind
@@ -479,20 +478,21 @@ child_links:
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 prev_link:
   basename: ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81
-  title: Blue Book | Ifos Causes Of
+  title: Blue Book | ifos causes of UFO 3 ed 238
   permalink: /blue-book/
   short_title: Blue Book
   heading_title: What Blue Book Teaches About IFOs
 next_link:
   basename: ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c
-  title: Drones | Ifos Causes Of
+  title: Drones | ifos causes of UFO 3 ed 238
   permalink: /drones/
   short_title: Drones
   heading_title: When a Drone Becomes a UFO
+date: '2026-06-12 00:10:28 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e-overview-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e-overview.webp
@@ -503,18 +503,15 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e-overvi
 
 Sunlit contrails and glowing jet exhaust can produce some of the most convincing ordinary UFO reports because the bright part of the scene is often not the aircraft itself. Around sunrise or sunset, a high-flying jet may still be in direct sunlight while people on the ground are already in shadow. Its condensation trail can glow white, gold, orange or red against a darker sky, making a level aircraft look like a burning object, a hovering light, a falling meteor, a missile launch or an unknown craft. The mechanism is simple: aircraft exhaust can form ice-crystal clouds, and low-angle sunlight can illuminate those crystals while the aircraft is too small, distant or silhouetted to recognise. The result is an identified flying object that looks dramatic precisely because the familiar object is hidden and the trail is doing the visual work. Federal Aviation Administration <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.earthdata.nasa.gov/news/feature-articles/trail-contrails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthdata.nasa.gov">[NASA Earthdata]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthdata.nasa.gov</span><span class="citation-popover-title">trail contrails</span><span class="citation-popover-snippet">NASA EarthdataOn the Trail of Contrailsby L Naranjo · 2020 — Contrails, or condensation trails, form when water vapor from airline exhaus...</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e-overview.webp" | relative_url }}" alt="Overview image for Contrails" loading="eager" decoding="sync" fetchpriority="high">
 ## Why low sun makes jet trails look strange
 
-A contrail is not smoke. It is a cloud-like trail, usually made of ice crystals, produced when hot, moist aircraft exhaust mixes with very cold upper air. The Federal Aviation Administration describes contrails as ice crystals formed from aircraft-engine water vapour condensing onto atmospheric particles and particles emitted by the engine, normally at cruise altitudes. NASA Earthdata gives the same core mechanism: water vapour from aircraft exhaust condenses and freezes into ice crystals. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/contrails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationContrails | Federal Aviation Administration21 Jul 2025 — Condensation trails (contrails) are ice contrails...</span></span></span>
+A contrail is not smoke. It is a cloud-like trail, usually made of ice crystals, produced when hot, moist aircraft exhaust mixes with very cold upper air. The Federal Aviation Administration describes contrails as ice crystals formed from aircraft-engine water vapour condensing onto atmospheric particles and particles emitted by the engine, normally at cruise altitudes. NASA Earthdata gives the same core mechanism: water vapour from aircraft exhaust condenses and freezes into ice crystals. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/contrails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationContrails &#124; Federal Aviation Administration21 Jul 2025 — Condensation trails (contrails) are ice contrails...</span></span></span>
 
 The UFO-like effect appears when the lighting geometry is unusual. After sunset at ground level, the Sun can still illuminate aircraft and ice crystals several miles up. To an observer, the sky may be blue-grey or darkening, while the contrail remains bright because it is higher and still sunlit. The same can happen before sunrise, when the aircraft is already in sunlight but the ground is not. Contrail Science, a long-running specialist explainer site on misidentified aircraft trails, notes that this is a common pattern in local “fireball”, “meteor” and UFO stories: someone sees a short red or fiery-looking trail just after sunset, zooms in with a camera, and the aircraft itself is not obvious. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://contrailscience.com/short-sunlit-contrails-look-like-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: contrailscience.com">[contrailscience.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">contrailscience.com</span><span class="citation-popover-title">short sunlit contrails look like ufos</span><span class="citation-popover-snippet">13 Feb 2011 — Here&#x27;s one from Germany: From a video that has since been removed. The... Short Sunlit Contrails Look Like UFOs · Contrail...</span></span></span>
 
 Colour adds to the confusion. The same scattering that makes sunsets red and orange can tint a white contrail into a warm flame-like streak. Because the trail may be evenly illuminated, it can look like a glowing body rather than a cloud. Poor focus, phone-camera zoom, haze and atmospheric shimmer then soften the edges, making the object appear larger, brighter and less aircraft-like than it is.
 
-
-<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e-Illustration-1-dark.svg" | relative_url }}" alt="Contrails illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Contrails versus solid objects
 
 The key difference between a sunlit contrail and a solid UFO is that the visible shape is usually a trail, not a craft. The aircraft may be a tiny point at one end, hidden by glare, blurred by distance, or lost in the dark sky. What remains visible is the illuminated ice cloud, which can look like an object with a tail, a cigar shape, a glowing rod, a flame, or several separate lights.
@@ -528,19 +525,15 @@ Several visual clues help separate contrails from solid objects:
 
 This is why still images are especially vulnerable to misreading. A photograph freezes the most confusing part of the event: the aircraft is tiny, the trail is bright, and the viewer lacks the motion cues that would show a normal flight path. A short video can help, but only if it includes enough time, background [stars]({{ 'stars/' | relative_url }}) or landmarks, and a known direction of view.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/g3awv7eeubA" title="How an AFTERBURNER works - Explained by CAPTAIN JOE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=g3awv7eeubA" target="_blank" rel="noopener noreferrer">How an AFTERBURNER works - Explained by CAPTAIN JOE</a></p><p class="youtube-embed-meta">Channel: Captain Joe &middot; Views: 104.9K &middot; Uploaded: March 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=g3awv7eeubA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=g3awv7eeubA">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e-Illustration-1-dark.svg" | relative_url }}" alt="Contrails illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why aircraft can vanish while the trail remains
 
 Many UFO reports caused by contrails are not simply “people mistaking a plane for something else”. The harder problem is that the plane may genuinely be difficult to see. Commercial aircraft at cruise altitude can be tens of thousands of feet above the ground. Their fuselage may reflect little light towards the observer, or it may be hidden against a bright patch of sky. Meanwhile, the contrail is large, reflective and spread over a much wider area.
 
 The National Weather Service describes contrails as cloud-like streamers forming behind aircraft in clear, cold, humid air, and notes that they can form through engine-exhaust water vapour added to the [atmosphere]({{ 'atmosphere/' | relative_url }}). Once formed, the trail is at the mercy of upper-level winds. It can twist, widen, shear into strands or persist after the aircraft has moved on. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/otx/Contrails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-This persistence is important for UFO interpretation. A witness may see a glowing trail after the aircraft has become invisible or left the frame, then reasonably ask how a “craft” could hover without wings or sound. The answer is that the visible feature is no longer the aircraft. It is a small artificial cloud at high altitude. In humid upper air, such trails can last long enough to spread into cirrus-like cloud; in drier air, they may remain short and stubby, which can make them look more object-like. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/contrails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationContrails | Federal Aviation Administration21 Jul 2025 — Condensation trails (contrails) are ice contrails...</span></span></span>
+This persistence is important for UFO interpretation. A witness may see a glowing trail after the aircraft has become invisible or left the frame, then reasonably ask how a “craft” could hover without wings or sound. The answer is that the visible feature is no longer the aircraft. It is a small artificial cloud at high altitude. In humid upper air, such trails can last long enough to spread into cirrus-like cloud; in drier air, they may remain short and stubby, which can make them look more object-like. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/contrails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationContrails &#124; Federal Aviation Administration21 Jul 2025 — Condensation trails (contrails) are ice contrails...</span></span></span>
 
-
-<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e-Illustration-2-dark.svg" | relative_url }}" alt="Contrails illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Historical pattern: from “mystery missile” to “burning object”
 
 Sunlit contrail cases recur because the mechanism is ordinary but the viewing conditions are intermittent. Most people have seen white aircraft trails in daytime; fewer have watched a short, red-orange contrail hang in twilight with no obvious aircraft attached. That mismatch between expectation and appearance is what turns a routine flight into a UFO report.
@@ -551,8 +544,7 @@ A more recent European example shows the same pattern in quieter form. In Februa
 
 These cases also show why debunking is not simply a matter of telling witnesses they saw “just a plane”. The report may begin with a real anomaly in appearance: the object really did look fiery, vertical or detached from any aircraft. The explanation lies in geometry, lighting and scale, not in the witness inventing the event.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/O-2Zgcen0pA" title="Contrails Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=O-2Zgcen0pA" target="_blank" rel="noopener noreferrer">Contrails Explained</a></p><p class="youtube-embed-meta">Channel: Federal Aviation Administration &middot; Views: 39.5K &middot; Uploaded: July 2025 &middot; Length: 1 minute 32 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=O-2Zgcen0pA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=O-2Zgcen0pA">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/g3awv7eeubA" title="How an AFTERBURNER works - Explained by CAPTAIN JOE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=g3awv7eeubA" target="_blank" rel="noopener noreferrer">How an AFTERBURNER works - Explained by CAPTAIN JOE</a></p><p class="youtube-embed-meta">Channel: Captain Joe &middot; Views: 104.9K &middot; Uploaded: March 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=g3awv7eeubA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=g3awv7eeubA">Open on YouTube</a></p></div></div></div>
 
 ## Afterburners and hidden aircraft
 
@@ -561,7 +553,6 @@ Contrails are not the only aircraft-exhaust effect that can look strange. Milita
 At night or twilight, an afterburner can make the exhaust more visible than the aircraft. NASA’s X-59 engine tests provide a clear modern example: during maximum afterburner testing, NASA described the aircraft’s plume as showing visible Mach diamonds, also called shock diamonds, against a darkening sky. These bright diamond-like structures form in high-speed exhaust plumes under particular pressure conditions and can look highly artificial to someone who does not know they are a normal jet-plume feature. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.earthdata.nasa.gov/news/feature-articles/trail-contrails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthdata.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthdata.nasa.gov</span><span class="citation-popover-title">trail contrails</span><span class="citation-popover-snippet">NASA EarthdataOn the Trail of Contrailsby L Naranjo · 2020 — Contrails, or condensation trails, form when water vapor from airline exhaus...</span></span></span>
 
 For UFO reports, the afterburner problem is different from the contrail problem. A glowing contrail is usually a reflected-sunlight effect on ice crystals. A glowing afterburner is an engine-combustion effect. Both can hide the aircraft by drawing attention to the luminous plume, but they occur in different settings. Contrails are most associated with high-altitude cruising jets and low Sun; [afterburners]({{ 'afterburners/' | relative_url }}) are more associated with military aircraft, take-off, acceleration, manoeuvring, air displays or testing.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e-Illustration-3-dark.svg" | relative_url }}" alt="Contrails illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How investigators check this explanation
@@ -574,9 +565,7 @@ Modern UAP work has increasingly emphasised this kind of data discipline. [AARO]
 
 For a witness or reader, the practical lesson is simple: a glowing trail near twilight should be checked against aircraft routes before it is treated as a solid object. A strong report would need to rule out a matching aircraft, show motion inconsistent with a drifting or perspective-skewed trail, and provide enough time, location and direction data for others to reproduce the geometry.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HmaaTybHnJg" title="Contrails" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HmaaTybHnJg" target="_blank" rel="noopener noreferrer">Contrails</a></p><p class="youtube-embed-meta">Channel: Dragonflies Draw Flame - Topic</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HmaaTybHnJg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HmaaTybHnJg">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e-Illustration-2-dark.svg" | relative_url }}" alt="Contrails illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What this explanation does and does not cover
 
 Sunlit contrails and glowing jet exhaust explain a recognisable subset of UFO reports: bright streaks, fiery-looking trails, short red-orange “objects”, missile-like plumes, hovering rods, and luminous exhaust effects where the aircraft is faint or missing. They do not explain every light in the sky, every structured close-range report, or every [radar]({{ 'radar/' | relative_url }}) or [infrared]({{ 'infrared/' | relative_url }}) case. Their value is narrower and more useful: they show how an ordinary aircraft can produce a sighting that feels nothing like an aircraft to the person on the ground.
@@ -584,6 +573,8 @@ Sunlit contrails and glowing jet exhaust explain a recognisable subset of UFO re
 The mechanism also overlaps with, but should not be confused with, rocket-exhaust displays. [Rocket plumes]({{ 'rocket-plumes/' | relative_url }}) can create much larger twilight effects because exhaust expands at high altitude and remains sunlit against a dark sky. BBC Sky at Night Magazine, for example, identifies frozen SpaceX exhaust plumes as one modern source of UFO-like sky reports, while a 2025 UK-visible glowing spiral was widely attributed to a Falcon 9 exhaust plume reflecting sunlight. That is a related illumination problem, but not the same as an ordinary jet contrail. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">Sky at Night Magazine17 things commonly mistaken for UFOs</span><span class="citation-popover-snippet">Sky at Night Magazine17 things commonly mistaken for UFOs</span></span></span>
 
 The strongest takeaway is that the “UFO” appearance often comes from a separation between cause and visible effect. The aircraft is small, distant or hidden; the exhaust trail is large, bright and beautifully lit. Once that separation is understood, many dramatic twilight sightings become less mysterious without becoming imaginary. They were real things in the sky, just not solid unknown craft.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/O-2Zgcen0pA" title="Contrails Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=O-2Zgcen0pA" target="_blank" rel="noopener noreferrer">Contrails Explained</a></p><p class="youtube-embed-meta">Channel: Federal Aviation Administration &middot; Views: 39.5K &middot; Uploaded: July 2025 &middot; Length: 1 minute 32 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=O-2Zgcen0pA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=O-2Zgcen0pA">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -702,15 +693,15 @@ The strongest takeaway is that the “UFO” appearance often comes from a separ
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contrails-why-jet-trails-glow-like-ufos-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="contrails-why-jet-trails-glow-like-ufos-ifos-causes-of-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:100 F-14 VF-84 Tomcat Jolly Rogers Fighter Jet Aircraft Diecast Model US Navy"><img src="{{ '/assets/images/marketplace-covers/6a1f107505f4e8ba24cf.jpg' | relative_url }}" alt="Listing image for 1:100 F-14 VF-84 Tomcat Jolly Rogers Fighter Jet Aircraft Diecast Model US Navy" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-jet-trails-glow-like-ufos-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="why-jet-trails-glow-like-ufos-airliner-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for United Airlines boeing 787-10 1/200"><img src="https://i.ebayimg.com/images/g/iBYAAeSw96NqJuxL/s-l225.jpg" alt="Listing image for United Airlines boeing 787-10 1/200" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contrails-why-jet-trails-glow-like-ufos-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="contrails-why-jet-trails-glow-like-ufos-ifos-causes-of-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">1:100 F-14 VF-84 Tomcat Jolly Rogers Fighter Jet Aircraft Diecast Model US Navy</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-jet-trails-glow-like-ufos-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="why-jet-trails-glow-like-ufos-airliner-model" target="_blank" rel="sponsored noopener noreferrer">United Airlines boeing 787-10 1/200</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contrails-why-jet-trails-glow-like-ufos-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="contrails-why-jet-trails-glow-like-ufos-ifos-causes-of-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search <span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-jet-trails-glow-like-ufos-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="why-jet-trails-glow-like-ufos-airliner-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airliner model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airliner model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contrails-why-jet-trails-glow-like-ufos-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="contrails-why-jet-trails-glow-like-ufos-ifos-causes-of-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-jet-trails-glow-like-ufos-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="why-jet-trails-glow-like-ufos-airliner-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -718,15 +709,15 @@ The strongest takeaway is that the “UFO” appearance often comes from a separ
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contrails-why-jet-trails-glow-like-ufos-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="contrails-why-jet-trails-glow-like-ufos-ifos-causes-of-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/100 NUOTIE SU-57 Fighter Jet Diecast Alloy Model Splinter Camo White Blue"><img src="{{ '/assets/images/marketplace-covers/4b30c0d6288b26daac7b.jpg' | relative_url }}" alt="Listing image for 1/100 NUOTIE SU-57 Fighter Jet Diecast Alloy Model Splinter Camo White Blue" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-jet-trails-glow-like-ufos-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="why-jet-trails-glow-like-ufos-airliner-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Snap Fit BAe 146-200 British European 1:150 Scale Model Aircraft"><img src="https://i.ebayimg.com/images/g/WNcAAeSwOVZqJ0pE/s-l225.jpg" alt="Listing image for Snap Fit BAe 146-200 British European 1:150 Scale Model Aircraft" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contrails-why-jet-trails-glow-like-ufos-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="contrails-why-jet-trails-glow-like-ufos-ifos-causes-of-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">1/100 NUOTIE SU-57 Fighter Jet Diecast Alloy Model Splinter Camo White Blue</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-jet-trails-glow-like-ufos-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="why-jet-trails-glow-like-ufos-airliner-model" target="_blank" rel="sponsored noopener noreferrer">Snap Fit BAe 146-200 British European 1:150 Scale Model Aircraft</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contrails-why-jet-trails-glow-like-ufos-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="contrails-why-jet-trails-glow-like-ufos-ifos-causes-of-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search <span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-jet-trails-glow-like-ufos-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="why-jet-trails-glow-like-ufos-airliner-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airliner model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airliner model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contrails-why-jet-trails-glow-like-ufos-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="contrails-why-jet-trails-glow-like-ufos-ifos-causes-of-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-jet-trails-glow-like-ufos-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="why-jet-trails-glow-like-ufos-airliner-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -734,15 +725,15 @@ The strongest takeaway is that the “UFO” appearance often comes from a separ
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contrails-why-jet-trails-glow-like-ufos-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="contrails-why-jet-trails-glow-like-ufos-ifos-causes-of-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/100 Scale A-10 Thunderbolt II Warthog Diecast Metal Fighter Jet Model"><img src="{{ '/assets/images/marketplace-covers/9abce767e13e82bc0d13.jpg' | relative_url }}" alt="Listing image for 1/100 Scale A-10 Thunderbolt II Warthog Diecast Metal Fighter Jet Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-jet-trails-glow-like-ufos-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="why-jet-trails-glow-like-ufos-airliner-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ryanair Boeing 737 Model Aircraft 46cm 1:85 Scale LED Display Plane with stand"><img src="https://i.ebayimg.com/images/g/4kkAAeSww5JqJsN~/s-l225.jpg" alt="Listing image for Ryanair Boeing 737 Model Aircraft 46cm 1:85 Scale LED Display Plane with stand" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contrails-why-jet-trails-glow-like-ufos-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="contrails-why-jet-trails-glow-like-ufos-ifos-causes-of-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">1/100 Scale A-10 Thunderbolt II Warthog Diecast Metal Fighter Jet Model</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-jet-trails-glow-like-ufos-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="why-jet-trails-glow-like-ufos-airliner-model" target="_blank" rel="sponsored noopener noreferrer">Ryanair Boeing 737 Model Aircraft 46cm 1:85 Scale LED Display Plane with stand</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contrails-why-jet-trails-glow-like-ufos-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="contrails-why-jet-trails-glow-like-ufos-ifos-causes-of-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search <span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-jet-trails-glow-like-ufos-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="why-jet-trails-glow-like-ufos-airliner-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airliner model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airliner model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contrails-why-jet-trails-glow-like-ufos-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="contrails-why-jet-trails-glow-like-ufos-ifos-causes-of-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-jet-trails-glow-like-ufos-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="why-jet-trails-glow-like-ufos-airliner-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -750,15 +741,15 @@ The strongest takeaway is that the “UFO” appearance often comes from a separ
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contrails-why-jet-trails-glow-like-ufos-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="contrails-why-jet-trails-glow-like-ufos-ifos-causes-of-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:72 F/A-18F Super Hornet Fighter Jet Aircraft Model USAF VFA-103 Jolly Roger"><img src="{{ '/assets/images/marketplace-covers/ee4657dd148b01c30206.jpg' | relative_url }}" alt="Listing image for 1:72 F/A-18F Super Hornet Fighter Jet Aircraft Model USAF VFA-103 Jolly Roger" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-jet-trails-glow-like-ufos-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="why-jet-trails-glow-like-ufos-airliner-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Skymarks Flybe Dash-8 Model"><img src="https://i.ebayimg.com/images/g/AagAAeSwKhRqKeb1/s-l225.jpg" alt="Listing image for Skymarks Flybe Dash-8 Model" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contrails-why-jet-trails-glow-like-ufos-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="contrails-why-jet-trails-glow-like-ufos-ifos-causes-of-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">1:72 F/A-18F Super Hornet Fighter Jet Aircraft Model USAF VFA-103 Jolly Roger</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-jet-trails-glow-like-ufos-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="why-jet-trails-glow-like-ufos-airliner-model" target="_blank" rel="sponsored noopener noreferrer">Skymarks Flybe Dash-8 Model</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contrails-why-jet-trails-glow-like-ufos-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="contrails-why-jet-trails-glow-like-ufos-ifos-causes-of-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search <span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-jet-trails-glow-like-ufos-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="why-jet-trails-glow-like-ufos-airliner-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airliner model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airliner model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contrails-why-jet-trails-glow-like-ufos-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="contrails-why-jet-trails-glow-like-ufos-ifos-causes-of-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-jet-trails-glow-like-ufos-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="why-jet-trails-glow-like-ufos-airliner-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -766,7 +757,7 @@ The strongest takeaway is that the “UFO” appearance often comes from a separ
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contrails-why-jet-trails-glow-like-ufos-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="contrails-why-jet-trails-glow-like-ufos-ifos-causes-of-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-jet-trails-glow-like-ufos-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="why-jet-trails-glow-like-ufos-airliner-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -982,173 +973,173 @@ The strongest takeaway is that the “UFO” appearance often comes from a separ
 1. <a id="endnote-1"></a>
    Source: earthdata.nasa.gov  
    Title: trail contrails  
-   Link: [https://www.earthdata.nasa.gov/news/feature-articles/trail-contrails](https://www.earthdata.nasa.gov/news/feature-articles/trail-contrails)  
+   Link: <a href="https://www.earthdata.nasa.gov/news/feature-articles/trail-contrails" target="_blank" rel="noopener noreferrer nofollow">https://www.earthdata.nasa.gov/news/feature-articles/trail-contrails</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA EarthdataOn the Trail of Contrailsby L Naranjo · 2020 — Contrails, or condensation trails, form when water vapor from airline exhaus...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: contrailscience.com  
    Title: short sunlit contrails look like ufos  
-   Link: [https://contrailscience.com/short-sunlit-contrails-look-like-ufos/](https://contrailscience.com/short-sunlit-contrails-look-like-ufos/)  
+   Link: <a href="https://contrailscience.com/short-sunlit-contrails-look-like-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://contrailscience.com/short-sunlit-contrails-look-like-ufos/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>13 Feb 2011 — Here&#x27;s one from Germany: From a video that has since been removed. The... Short Sunlit Contrails Look Like UFOs · Contrail...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: wired.com  
    Title: L.A.'s Mystery 'Missile' Is Probably a Jet  
-   Link: [https://www.wired.com/2010/11/mystery-missile-is-probably-a-jet](https://www.wired.com/2010/11/mystery-missile-is-probably-a-jet)  
+   Link: <a href="https://www.wired.com/2010/11/mystery-missile-is-probably-a-jet" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2010/11/mystery-missile-is-probably-a-jet</a>  
 
 4. <a id="endnote-4"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/otx/Contrails](https://www.weather.gov/otx/Contrails)  
+   Link: <a href="https://www.weather.gov/otx/Contrails" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/otx/Contrails</a>  
 
 5. <a id="endnote-5"></a>
    Source: news.err.ee  
    Title: 'UFO' filmed over central Estonian skies likely airplane  
-   Link: [https://news.err.ee/1609951076/ufo-filmed-over-central-estonian-skies-likely-airplane-contrails](https://news.err.ee/1609951076/ufo-filmed-over-central-estonian-skies-likely-airplane-contrails)  
+   Link: <a href="https://news.err.ee/1609951076/ufo-filmed-over-central-estonian-skies-likely-airplane-contrails" target="_blank" rel="noopener noreferrer nofollow">https://news.err.ee/1609951076/ufo-filmed-over-central-estonian-skies-likely-airplane-contrails</a>  
 
 6. <a id="endnote-6"></a>
    Source: skybrary.aero  
-   Link: [https://skybrary.aero/articles/afterburner](https://skybrary.aero/articles/afterburner)  
+   Link: <a href="https://skybrary.aero/articles/afterburner" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/afterburner</a>  
 
 7. <a id="endnote-7"></a>
    Source: grc.nasa.gov  
-   Link: [https://www.grc.nasa.gov/www/k-12/airplane/turbab.html](https://www.grc.nasa.gov/www/k-12/airplane/turbab.html)  
+   Link: <a href="https://www.grc.nasa.gov/www/k-12/airplane/turbab.html" target="_blank" rel="noopener noreferrer nofollow">https://www.grc.nasa.gov/www/k-12/airplane/turbab.html</a>  
 
 8. <a id="endnote-8"></a>
    Source: nasa.gov  
    Title: runs x 59 engine with maximum afterburner for first time  
-   Link: [https://www.nasa.gov/image-article/nasa-runs-x-59-engine-with-maximum-afterburner-for-first-time/](https://www.nasa.gov/image-article/nasa-runs-x-59-engine-with-maximum-afterburner-for-first-time/)  
+   Link: <a href="https://www.nasa.gov/image-article/nasa-runs-x-59-engine-with-maximum-afterburner-for-first-time/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/image-article/nasa-runs-x-59-engine-with-maximum-afterburner-for-first-time/</a>  
 
 9. <a id="endnote-9"></a>
    Source: nasa.gov  
    Title: diamonds from nasas x 59  
-   Link: [https://www.nasa.gov/image-article/diamonds-from-nasas-x-59/](https://www.nasa.gov/image-article/diamonds-from-nasas-x-59/)  
+   Link: <a href="https://www.nasa.gov/image-article/diamonds-from-nasas-x-59/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/image-article/diamonds-from-nasas-x-59/</a>  
 
 10. <a id="endnote-10"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 11. <a id="endnote-11"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 12. <a id="endnote-12"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 13. <a id="endnote-13"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/wp-content/uploads/2023/06/contrails-k-12.pdf](https://www.nasa.gov/wp-content/uploads/2023/06/contrails-k-12.pdf)  
+   Link: <a href="https://www.nasa.gov/wp-content/uploads/2023/06/contrails-k-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2023/06/contrails-k-12.pdf</a>  
 
 14. <a id="endnote-14"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
 15. <a id="endnote-15"></a>
    Source: grc.nasa.gov  
-   Link: [https://www.grc.nasa.gov/www/k-12/airplane/aturba.html](https://www.grc.nasa.gov/www/k-12/airplane/aturba.html)  
+   Link: <a href="https://www.grc.nasa.gov/www/k-12/airplane/aturba.html" target="_blank" rel="noopener noreferrer nofollow">https://www.grc.nasa.gov/www/k-12/airplane/aturba.html</a>  
 
 16. <a id="endnote-16"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 17. <a id="endnote-17"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: [https://www.aaro.mil/UAP-Records/](https://www.aaro.mil/UAP-Records/)  
+   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
 18. <a id="endnote-18"></a>
    Source: contrailscience.com  
    Title: life magazine contrail photos  
-   Link: [https://contrailscience.com/life-magazine-contrail-photos/](https://contrailscience.com/life-magazine-contrail-photos/)  
+   Link: <a href="https://contrailscience.com/life-magazine-contrail-photos/" target="_blank" rel="noopener noreferrer nofollow">https://contrailscience.com/life-magazine-contrail-photos/</a>  
 
 19. <a id="endnote-19"></a>
    Source: contrailscience.com  
    Title: fightercontrails over kent 1941  
-   Link: [https://contrailscience.com/fightercontrails-over-kent-1941/](https://contrailscience.com/fightercontrails-over-kent-1941/)  
+   Link: <a href="https://contrailscience.com/fightercontrails-over-kent-1941/" target="_blank" rel="noopener noreferrer nofollow">https://contrailscience.com/fightercontrails-over-kent-1941/</a>  
 
 20. <a id="endnote-20"></a>
    Source: contrailscience.com  
-   Link: [https://contrailscience.com/some-more-wwii-contrails/](https://contrailscience.com/some-more-wwii-contrails/)  
+   Link: <a href="https://contrailscience.com/some-more-wwii-contrails/" target="_blank" rel="noopener noreferrer nofollow">https://contrailscience.com/some-more-wwii-contrails/</a>  
 
 21. <a id="endnote-21"></a>
    Source: contrailscience.com  
-   Link: [https://contrailscience.com/broken-contrails/](https://contrailscience.com/broken-contrails/)  
+   Link: <a href="https://contrailscience.com/broken-contrails/" target="_blank" rel="noopener noreferrer nofollow">https://contrailscience.com/broken-contrails/</a>  
 
 22. <a id="endnote-22"></a>
    Source: space.com  
    Title: ring red light ufo italy explainer  
-   Link: [https://www.space.com/ring-red-light-ufo-italy-explainer](https://www.space.com/ring-red-light-ufo-italy-explainer)  
+   Link: <a href="https://www.space.com/ring-red-light-ufo-italy-explainer" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/ring-red-light-ufo-italy-explainer</a>  
 
 23. <a id="endnote-23"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/contrails](https://www.faa.gov/contrails)  
+   Link: <a href="https://www.faa.gov/contrails" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/contrails</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationContrails | Federal Aviation Administration21 Jul 2025 — Condensation trails (contrails) are ice contrails...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: skyatnightmagazine.com  
    Title: Sky at Night Magazine17 things commonly mistaken for UFOs  
-   Link: [https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos](https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos)  
+   Link: <a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
 
 25. <a id="endnote-25"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Contrail](https://en.wikipedia.org/wiki/Contrail)  
+   Link: <a href="https://en.wikipedia.org/wiki/Contrail" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Contrail</a>  
 
 26. <a id="endnote-26"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Afterburner](https://en.wikipedia.org/wiki/Afterburner)  
+   Link: <a href="https://en.wikipedia.org/wiki/Afterburner" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Afterburner</a>  
 
 27. <a id="endnote-27"></a>
    Source: epa.gov  
-   Link: [https://www.epa.gov/regulations-emissions-vehicles-and-engines/Contrails](https://www.epa.gov/regulations-emissions-vehicles-and-engines/Contrails)  
+   Link: <a href="https://www.epa.gov/regulations-emissions-vehicles-and-engines/Contrails" target="_blank" rel="noopener noreferrer nofollow">https://www.epa.gov/regulations-emissions-vehicles-and-engines/Contrails</a>  
 
 28. <a id="endnote-28"></a>
    Source: epa.gov  
-   Link: [https://www.epa.gov/system/files/documents/2025-07/epa-faa-contrails-factsheet-2025-0718.pdf](https://www.epa.gov/system/files/documents/2025-07/epa-faa-contrails-factsheet-2025-0718.pdf)  
+   Link: <a href="https://www.epa.gov/system/files/documents/2025-07/epa-faa-contrails-factsheet-2025-0718.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.epa.gov/system/files/documents/2025-07/epa-faa-contrails-factsheet-2025-0718.pdf</a>  
 
 29. <a id="endnote-29"></a>
    Source: engineering.purdue.edu  
-   Link: [https://engineering.purdue.edu/~propulsi/propulsion/jets/basics/afterburner.html](https://engineering.purdue.edu/~propulsi/propulsion/jets/basics/afterburner.html)  
+   Link: <a href="https://engineering.purdue.edu/~propulsi/propulsion/jets/basics/afterburner.html" target="_blank" rel="noopener noreferrer nofollow">https://engineering.purdue.edu/~propulsi/propulsion/jets/basics/afterburner.html</a>  
 
 ### Additional References
 
 30. <a id="endnote-30"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf</a>  
 
 31. <a id="endnote-31"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/sites/faa.gov/files/regulations_policies/policy_guidance/envir_policy/contrails.pdf](https://www.faa.gov/sites/faa.gov/files/regulations_policies/policy_guidance/envir_policy/contrails.pdf)  
+   Link: <a href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/policy_guidance/envir_policy/contrails.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/regulations_policies/policy_guidance/envir_policy/contrails.pdf</a>  
 
 32. <a id="endnote-32"></a>
    Source: pima.gov  
-   Link: [https://www.pima.gov/438/Contrails-in-the-Sky](https://www.pima.gov/438/Contrails-in-the-Sky)  
+   Link: <a href="https://www.pima.gov/438/Contrails-in-the-Sky" target="_blank" rel="noopener noreferrer nofollow">https://www.pima.gov/438/Contrails-in-the-Sky</a>  
 
 33. <a id="endnote-33"></a>
    Source: govinfo.gov  
-   Link: [https://www.govinfo.gov/content/pkg/CHRG-89hhrg50066O/pdf/CHRG-89hhrg50066O.pdf](https://www.govinfo.gov/content/pkg/CHRG-89hhrg50066O/pdf/CHRG-89hhrg50066O.pdf)  
+   Link: <a href="https://www.govinfo.gov/content/pkg/CHRG-89hhrg50066O/pdf/CHRG-89hhrg50066O.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/CHRG-89hhrg50066O/pdf/CHRG-89hhrg50066O.pdf</a>  
 
 34. <a id="endnote-34"></a>
    Source: youtube.com  
    Title: Contrails 101: How they form and why they persist  
-   Link: [https://www.youtube.com/watch?v=wX-U6L4R6aI](https://www.youtube.com/watch?v=wX-U6L4R6aI)  
+   Link: <a href="https://www.youtube.com/watch?v=wX-U6L4R6aI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wX-U6L4R6aI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the sunset effect on high-altitude contrails...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/173FW/posts/how-many-of-you-have-had-the-opportunity-to-see-the-fiery-glow-of-the-f-15-after/3672510972777332/](https://www.facebook.com/173FW/posts/how-many-of-you-have-had-the-opportunity-to-see-the-fiery-glow-of-the-f-15-after/3672510972777332/)  
+   Link: <a href="https://www.facebook.com/173FW/posts/how-many-of-you-have-had-the-opportunity-to-see-the-fiery-glow-of-the-f-15-after/3672510972777332/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/173FW/posts/how-many-of-you-have-had-the-opportunity-to-see-the-fiery-glow-of-the-f-15-after/3672510972777332/</a>  
 
 36. <a id="endnote-36"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/MeteorologistAmberWheeler/posts/a-beautiful-view-of-the-condensation-trails-planes-leave-behind-in-the-sky/1451476689675184/](https://www.facebook.com/MeteorologistAmberWheeler/posts/a-beautiful-view-of-the-condensation-trails-planes-leave-behind-in-the-sky/1451476689675184/)  
+   Link: <a href="https://www.facebook.com/MeteorologistAmberWheeler/posts/a-beautiful-view-of-the-condensation-trails-planes-leave-behind-in-the-sky/1451476689675184/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MeteorologistAmberWheeler/posts/a-beautiful-view-of-the-condensation-trails-planes-leave-behind-in-the-sky/1451476689675184/</a>  
 
 37. <a id="endnote-37"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Timesnow/posts/a-mysterious-red-halo-has-appeared-once-again-over-the-tiny-italian-town-of-poss/1335778181926774/](https://www.facebook.com/Timesnow/posts/a-mysterious-red-halo-has-appeared-once-again-over-the-tiny-italian-town-of-poss/1335778181926774/)  
+   Link: <a href="https://www.facebook.com/Timesnow/posts/a-mysterious-red-halo-has-appeared-once-again-over-the-tiny-italian-town-of-poss/1335778181926774/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Timesnow/posts/a-mysterious-red-halo-has-appeared-once-again-over-the-tiny-italian-town-of-poss/1335778181926774/</a>  
 
 38. <a id="endnote-38"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/watchoutcc/posts/-anyone-else-catch-this-in-the-sky-around-sunset%EF%B8%8F-a-few-people-reported-seeing-a/1256599689837590/](https://www.facebook.com/watchoutcc/posts/-anyone-else-catch-this-in-the-sky-around-sunset%EF%B8%8F-a-few-people-reported-seeing-a/1256599689837590/)  
+   Link: <a href="https://www.facebook.com/watchoutcc/posts/-anyone-else-catch-this-in-the-sky-around-sunset%EF%B8%8F-a-few-people-reported-seeing-a/1256599689837590/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/watchoutcc/posts/-anyone-else-catch-this-in-the-sky-around-sunset%EF%B8%8F-a-few-people-reported-seeing-a/1256599689837590/</a>  
 
 39. <a id="endnote-39"></a>
    Source: nationalacademies.org  
-   Link: [https://www.nationalacademies.org/read/29073/chapter/6](https://www.nationalacademies.org/read/29073/chapter/6)  
+   Link: <a href="https://www.nationalacademies.org/read/29073/chapter/6" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/29073/chapter/6</a>

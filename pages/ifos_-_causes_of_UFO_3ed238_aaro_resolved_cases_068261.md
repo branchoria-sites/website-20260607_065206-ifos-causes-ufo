@@ -50,22 +50,22 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_wind_data_33671a
 - ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - aaro
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - aaro
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: AARO's recent casework shows that balloons, birds, drones, satellites and aircraft still explain many current reports.
 hero_summary: AARO's recent casework shows that balloons, birds, drones, satellites and aircraft still explain many current reports.
 layout: default
 permalink: /aaro/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 nav_short_title: AARO
 title: What Modern UAP Reviews Resolve
-title_full: What Modern UAP Reviews Resolve | IFOs
+title_full: What Modern UAP Reviews Resolve
 display_title_short: AARO
 display_title: AARO
 heading_title: What Modern UAP Reviews Resolve
@@ -240,213 +240,212 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 21:54:06'
 parent_title: IFOs
-parent_permalink: /ifos-causes-of/
+parent_permalink: /ifos-causes-of-ufo-3-ed-238/
 parent_nav_short_title: IFOs
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 sibling_links:
 - basename: ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d
-  title: A Head On Aircraft Can Look Like A Stationary Light... | Ifos Causes Of
+  title: A Head On Aircraft Can Look Like A Stationary Light... | ifos causes of UFO 3 ed 238
   permalink: /a-head-on-aircraft-can-look-like-a/
   short_title: A Head On Aircraft Can Look Like A Stationary Light...
   heading_title: The Stationary Light That Is Moving
 - basename: ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253
-  title: Aircraft Lights | Ifos Causes Of
+  title: Aircraft Lights | ifos causes of UFO 3 ed 238
   permalink: /aircraft-lights/
   short_title: Aircraft Lights
   heading_title: Why Ordinary Aircraft Look So Strange
 - basename: ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043
-  title: Atmosphere | Ifos Causes Of
+  title: Atmosphere | ifos causes of UFO 3 ed 238
   permalink: /atmosphere/
   short_title: Atmosphere
   heading_title: When Weather Makes Shapes in the Sky
 - basename: ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057
-  title: Balloons | Ifos Causes Of
+  title: Balloons | ifos causes of UFO 3 ed 238
   permalink: /balloons/
   short_title: Balloons
   heading_title: Why Balloons Become Flying Saucers
 - basename: ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40
-  title: Birds | Ifos Causes Of
+  title: Birds | ifos causes of UFO 3 ed 238
   permalink: /birds/
   short_title: Birds
   heading_title: How Birds Become Fast UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81
-  title: Blue Book | Ifos Causes Of
+  title: Blue Book | ifos causes of UFO 3 ed 238
   permalink: /blue-book/
   short_title: Blue Book
   heading_title: What Blue Book Teaches About IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e
-  title: Contrails | Ifos Causes Of
+  title: Contrails | ifos causes of UFO 3 ed 238
   permalink: /contrails/
   short_title: Contrails
   heading_title: Why Jet Trails Glow Like UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c
-  title: Drones | Ifos Causes Of
+  title: Drones | ifos causes of UFO 3 ed 238
   permalink: /drones/
   short_title: Drones
   heading_title: When a Drone Becomes a UFO
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e
-  title: First Checks | Ifos Causes Of
+  title: First Checks | ifos causes of UFO 3 ed 238
   permalink: /first-checks/
   short_title: First Checks
   heading_title: What to Check Before Calling It a UFO
 - basename: ifos_-_causes_of_UFO_3ed238_military_flares_abb62f
-  title: Flares | Ifos Causes Of
+  title: Flares | ifos causes of UFO 3 ed 238
   permalink: /flares/
   short_title: Flares
   heading_title: Why Flares Look Like Hovering Craft
 - basename: ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590
-  title: Flight Tracking | Ifos Causes Of
+  title: Flight Tracking | ifos causes of UFO 3 ed 238
   permalink: /flight-tracking/
   short_title: Flight Tracking
   heading_title: How Flight Data Solves UFO Sightings
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965
-  title: Hoaxes | Ifos Causes Of
+  title: Hoaxes | ifos causes of UFO 3 ed 238
   permalink: /hoaxes/
   short_title: Hoaxes
   heading_title: When UFO Reports Are Manufactured
 - basename: ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f
-  title: Infrared | Ifos Causes Of
+  title: Infrared | ifos causes of UFO 3 ed 238
   permalink: /infrared/
   short_title: Infrared
   heading_title: Why Infrared UFO Videos Mislead
 - basename: ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74
-  title: Insects | Ifos Causes Of
+  title: Insects | ifos causes of UFO 3 ed 238
   permalink: /insects/
   short_title: Insects
   heading_title: The Tiny Things Cameras Make Huge
 - basename: ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5
-  title: Lanterns | Ifos Causes Of
+  title: Lanterns | ifos causes of UFO 3 ed 238
   permalink: /lanterns/
   short_title: Lanterns
   heading_title: The Orange Lights That Start UFO Reports
 - basename: ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e
-  title: Lens Flare | Ifos Causes Of
+  title: Lens Flare | ifos causes of UFO 3 ed 238
   permalink: /lens-flare/
   short_title: Lens Flare
   heading_title: When Cameras Invent Extra Lights
 - basename: ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28
-  title: Mass Sightings | Ifos Causes Of
+  title: Mass Sightings | ifos causes of UFO 3 ed 238
   permalink: /mass-sightings/
   short_title: Mass Sightings
   heading_title: Why Groups Can Share One Mistake
 - basename: ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504
-  title: Meteors | Ifos Causes Of
+  title: Meteors | ifos causes of UFO 3 ed 238
   permalink: /meteors/
   short_title: Meteors
   heading_title: When Fireballs Become UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca
-  title: Missing Data | Ifos Causes Of
+  title: Missing Data | ifos causes of UFO 3 ed 238
   permalink: /missing-data/
   short_title: Missing Data
   heading_title: Unsolved Does Not Always Mean Strange
 - basename: ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183
-  title: NASA Study | Ifos Causes Of
+  title: NASA Study | ifos causes of UFO 3 ed 238
   permalink: /nasa-study/
   short_title: NASA Study
   heading_title: Why Better UFO Data Matters
 - basename: ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b
-  title: Parallax | Ifos Causes Of
+  title: Parallax | ifos causes of UFO 3 ed 238
   permalink: /parallax/
   short_title: Parallax
   heading_title: The Speed Illusion in UFO Footage
 - basename: ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a
-  title: Pilots | Ifos Causes Of
+  title: Pilots | ifos causes of UFO 3 ed 238
   permalink: /pilots/
   short_title: Pilots
   heading_title: Why Pilots Can Misidentify UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357
-  title: Radar | Ifos Causes Of
+  title: Radar | ifos causes of UFO 3 ed 238
   permalink: /radar/
   short_title: Radar
   heading_title: When Radar Sees a UFO That Isnt There
 - basename: ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c
-  title: Reflections | Ifos Causes Of
+  title: Reflections | ifos causes of UFO 3 ed 238
   permalink: /reflections/
   short_title: Reflections
   heading_title: The UFO Inside the Glass
 - basename: ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132
-  title: Rocket Plumes | Ifos Causes Of
+  title: Rocket Plumes | ifos causes of UFO 3 ed 238
   permalink: /rocket-plumes/
   short_title: Rocket Plumes
   heading_title: The Strange Clouds Rockets Leave Behind
 - basename: ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b
-  title: Satellites | Ifos Causes Of
+  title: Satellites | ifos causes of UFO 3 ed 238
   permalink: /satellites/
   short_title: Satellites
   heading_title: Why Satellites Surprise Night Watchers
 - basename: ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1
-  title: Searchlights | Ifos Causes Of
+  title: Searchlights | ifos causes of UFO 3 ed 238
   permalink: /searchlights/
   short_title: Searchlights
   heading_title: How Searchlights Paint UFOs in Clouds
 - basename: ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b
-  title: Sensor Operators | Ifos Causes Of
+  title: Sensor Operators | ifos causes of UFO 3 ed 238
   permalink: /sensor-operators/
   short_title: Sensor Operators
   heading_title: When Sensors Need Human Context
 - basename: ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391
-  title: Short Clips | Ifos Causes Of
+  title: Short Clips | ifos causes of UFO 3 ed 238
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: Why Short UFO Videos Are Hard to Trust
 - basename: ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f
-  title: Size Errors | Ifos Causes Of
+  title: Size Errors | ifos causes of UFO 3 ed 238
   permalink: /size-errors/
   short_title: Size Errors
   heading_title: Why Honest Witnesses Misjudge UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725
-  title: Sky Charts | Ifos Causes Of
+  title: Sky Charts | ifos causes of UFO 3 ed 238
   permalink: /sky-charts/
   short_title: Sky Charts
   heading_title: How to Check a UFO Against the Sky
 - basename: ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32
-  title: Stars | Ifos Causes Of
+  title: Stars | ifos causes of UFO 3 ed 238
   permalink: /stars/
   short_title: Stars
   heading_title: Why Stars Flash Like Machines
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb
-  title: Status Labels | Ifos Causes Of
+  title: Status Labels | ifos causes of UFO 3 ed 238
   permalink: /status-labels/
   short_title: Status Labels
   heading_title: UFO Does Not Mean Alien
 - basename: ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d
-  title: Strong Cases | Ifos Causes Of
+  title: Strong Cases | ifos causes of UFO 3 ed 238
   permalink: /strong-cases/
   short_title: Strong Cases
   heading_title: What Makes a UFO Report Harder to Explain
 - basename: ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948
-  title: UK Files | Ifos Causes Of
+  title: UK Files | ifos causes of UFO 3 ed 238
   permalink: /uk-files/
   short_title: UK Files
   heading_title: What the UK UFO Files Reveal
 - basename: ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06
-  title: Unresolved Cases | Ifos Causes Of
+  title: Unresolved Cases | ifos causes of UFO 3 ed 238
   permalink: /unresolved-cases/
   short_title: Unresolved Cases
   heading_title: Why Some UFO Cases Stay Open
 - basename: ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080
-  title: Venus | Ifos Causes Of
+  title: Venus | ifos causes of UFO 3 ed 238
   permalink: /venus/
   short_title: Venus
   heading_title: Is That UFO Really Venus?
 - basename: ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13
-  title: Weather Records | Ifos Causes Of
+  title: Weather Records | ifos causes of UFO 3 ed 238
   permalink: /weather-records/
   short_title: Weather Records
   heading_title: Weather Clues That Explain Strange Lights
 - basename: ifos_-_causes_of_UFO_3ed238_wind_data_33671a
-  title: Wind Data | Ifos Causes Of
+  title: Wind Data | ifos causes of UFO 3 ed 238
   permalink: /wind-data/
   short_title: Wind Data
   heading_title: Following a UFO With the Wind
@@ -479,20 +478,21 @@ child_links:
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 prev_link:
   basename: ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d
-  title: A Head On Aircraft Can Look Like A Stationary Light... | Ifos Causes Of
+  title: A Head On Aircraft Can Look Like A Stationary Light... | ifos causes of UFO 3 ed 238
   permalink: /a-head-on-aircraft-can-look-like-a/
   short_title: A Head On Aircraft Can Look Like A Stationary Light...
   heading_title: The Stationary Light That Is Moving
 next_link:
   basename: ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253
-  title: Aircraft Lights | Ifos Causes Of
+  title: Aircraft Lights | ifos causes of UFO 3 ed 238
   permalink: /aircraft-lights/
   short_title: Aircraft Lights
   heading_title: Why Ordinary Aircraft Look So Strange
+date: '2026-06-12 00:13:07 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261-overview-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261-overview.webp
@@ -503,9 +503,9 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261-ove
 
 AARO, the All-domain Anomaly Resolution Office, is the U.S. Department of Defense office now responsible for gathering, standardising and analysing many official reports of unidentified anomalous phenomena. Its recent public casework is important for the study of IFOs because it shows the same pattern seen in older UFO investigations: many reports that first look puzzling are later resolved as ordinary objects seen under difficult viewing or sensor conditions.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261-overview.webp" | relative_url }}" alt="Overview image for AARO" loading="eager" decoding="sync" fetchpriority="high">
-The modern twist is that these reports often come from military aircraft, [infrared]({{ 'infrared/' | relative_url }}) sensors, radar-associated records or civil aviation logs rather than casual skywatching alone. Even so, AARO says it has resolved hundreds of cases as commonplace objects including balloons, birds, drones, [satellites]({{ 'satellites/' | relative_url }}) and aircraft. In its FY2024 consolidated report, AARO received 757 reports for the reporting period and resolved or queued for closure many cases as prosaic objects, while leaving others unresolved because the available data were too thin for a firm identification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Dr. Jon Kosloski, Director, AARO, Media Roundtable on the FY24 Consolidated Annual Report on UAP &gt; U.S. Department of War &gt; Transcript ||
+The modern twist is that these reports often come from military aircraft, [infrared]({{ 'infrared/' | relative_url }}) sensors, radar-associated records or civil aviation logs rather than casual skywatching alone. Even so, AARO says it has resolved hundreds of cases as commonplace objects including balloons, birds, drones, [satellites]({{ 'satellites/' | relative_url }}) and aircraft. In its FY2024 consolidated report, AARO received 757 reports for the reporting period and resolved or queued for closure many cases as prosaic objects, while leaving others unresolved because the available data were too thin for a firm identification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Dr. Jon Kosloski, Director, AARO, Media Roundtable on the FY24 Consolidated Annual Report on UAP &gt; U.S. Department of War &gt; Transcript &#124;...</span></span></span>(#endnote-2 "Snippet: Dr. Jon Kosloski, Director, AARO, Media Roundtable on the FY24 Consolidated Annual Report on UAP > U.S. Department of War > Transcript |...")
+
 ## Why AARO matters for modern IFO analysis
 
 AARO is not simply a public “UFO office”. It is a governance mechanism: a centralised body intended to standardise how UAP events are reported, preserved, compared and analysed across the Department of Defense, the Intelligence Community and relevant civil agencies. The 2022 ODNI annual report described AARO’s role as improving coordination, attribution and the government’s awareness of objects in U.S. airspace, while acknowledging that limited data remained a major obstacle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Director of National Intelligence</span></span></span>
@@ -516,29 +516,32 @@ AARO’s public material therefore gives a current, official view of how ordinar
 
 ## Modern reporting channels
 
-AARO receives reports through military and civil aviation pathways rather than through one single public sighting form. In the FY2024 report, AARO said all reports received during the period came through U.S. military service operational channels or civil and commercial aviation reporting logs provided by the Federal Aviation Administration. It also noted that, during that reporting period, it did not receive UAP reports collected through national GEOINT, SIGINT or MASINT platforms, though it may search Intelligence Community databases when an individual case requires additional information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Dr. Jon Kosloski, Director, AARO, Media Roundtable on the FY24 Consolidated Annual Report on UAP &gt; U.S. Department of War &gt; Transcript ||
-This reporting structure shapes the dataset. AARO’s cases are concentrated near places where official sensors and reporting incentives exist: military ranges, deployed aircraft, sensitive areas, and civil aviation routes. The FY2024 report explicitly noted a continued geographic collection bias near U.S. military assets and sensors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Dr. Jon Kosloski, Director, AARO, Media Roundtable on the FY24 Consolidated Annual Report on UAP &gt; U.S. Department of War &gt; Transcript ||
+AARO receives reports through military and civil aviation pathways rather than through one single public sighting form. In the FY2024 report, AARO said all reports received during the period came through U.S. military service operational channels or civil and commercial aviation reporting logs provided by the Federal Aviation Administration. It also noted that, during that reporting period, it did not receive UAP reports collected through national GEOINT, SIGINT or MASINT platforms, though it may search Intelligence Community databases when an individual case requires additional information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Dr. Jon Kosloski, Director, AARO, Media Roundtable on the FY24 Consolidated Annual Report on UAP &gt; U.S. Department of War &gt; Transcript &#124;...</span></span></span>(#endnote-2 "Snippet: Dr. Jon Kosloski, Director, AARO, Media Roundtable on the FY24 Consolidated Annual Report on UAP > U.S. Department of War > Transcript |...")
+
+This reporting structure shapes the dataset. AARO’s cases are concentrated near places where official sensors and reporting incentives exist: military ranges, deployed aircraft, sensitive areas, and civil aviation routes. The FY2024 report explicitly noted a continued geographic collection bias near U.S. military assets and sensors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Dr. Jon Kosloski, Director, AARO, Media Roundtable on the FY24 Consolidated Annual Report on UAP &gt; U.S. Department of War &gt; Transcript &#124;...</span></span></span>(#endnote-2 "Snippet: Dr. Jon Kosloski, Director, AARO, Media Roundtable on the FY24 Consolidated Annual Report on UAP > U.S. Department of War > Transcript |...")
+
 That bias is not a reason to dismiss reports. It is a reason to interpret them carefully. Military crews are trained observers, but they are also operating in dynamic environments, often through specialised sensors that can make distant or mundane objects look strange. Civil pilots may report lights or objects because of flight safety concerns, but a report that is operationally important is not automatically physically exotic.
 
 AARO’s modern system also increases the number of reports available for analysis. The 2022 ODNI report counted 510 UAP reports as of 30 August 2022, including 247 new reports and 119 older or newly discovered reports not covered by the 2021 preliminary assessment. ODNI attributed the rising reporting rate partly to reduced [stigma]({{ 'stigma/' | relative_url }}) and greater awareness of possible safety or security implications. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Director of National Intelligence</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261-Illustration-1-dark.svg" | relative_url }}" alt="AARO illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What recent cases resolve into
 
-The clearest message from AARO’s public casework is that common objects still dominate many resolved cases. The FY2024 annual report said AARO resolved 49 cases during the reporting period as balloons, birds and unmanned aerial systems, with another 243 cases recommended for closure as balloons, birds, UAS, satellites and aircraft. As of the report’s publication, those 174 cases then pending final approval had also been finalised as prosaic objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Dr. Jon Kosloski, Director, AARO, Media Roundtable on the FY24 Consolidated Annual Report on UAP &gt; U.S. Department of War &gt; Transcript ||
+The clearest message from AARO’s public casework is that common objects still dominate many resolved cases. The FY2024 annual report said AARO resolved 49 cases during the reporting period as balloons, birds and unmanned aerial systems, with another 243 cases recommended for closure as balloons, birds, UAS, satellites and aircraft. As of the report’s publication, those 174 cases then pending final approval had also been finalised as prosaic objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Dr. Jon Kosloski, Director, AARO, Media Roundtable on the FY24 Consolidated Annual Report on UAP &gt; U.S. Department of War &gt; Transcript &#124;...</span></span></span>(#endnote-2 "Snippet: Dr. Jon Kosloski, Director, AARO, Media Roundtable on the FY24 Consolidated Annual Report on UAP > U.S. Department of War > Transcript |...")
+
 AARO’s public trend page gives the same broad picture across a longer range. For closed cases from 1 January 1996 to 15 January 2026, it lists balloons as the largest resolution category, followed by satellites, UAS, birds and aircraft. The exact mix will change as the database changes, but the pattern is highly relevant to IFO analysis: the sky is now crowded with small, bright, drifting, remote-controlled and orbiting objects that can look unusual when seen briefly or through imperfect sensors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/UAP-Reporting-Trends/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
 
 Several recurring categories stand out.
 
 **Balloons** are a major modern source of resolved UAP reports. They can drift silently, appear metallic, change shape as they rotate, and move with winds that may not be obvious to the observer. AARO’s Al Taqaddum case resolution assessed with high confidence that an object did not show anomalous behaviour or capabilities and was consistent with a cluster of fully and partly inflated balloons. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">UAP Case Resolution Reports</span><span class="citation-popover-snippet">AARO UAP Case Resolution Reports...</span></span></span>
 
-**Birds** can become UAP on infrared or full-motion video because sensor compression, pixelation and glare may reduce winged animals to blobs, dots or “orbs”. AARO’s FY2024 report specifically explains that birds may be misidentified because compression and pixelation can render them as amorphous objects, while a flickering infrared return can be consistent with flapping wings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Dr. Jon Kosloski, Director, AARO, Media Roundtable on the FY24 Consolidated Annual Report on UAP &gt; U.S. Department of War &gt; Transcript ||A later public imagery entry, PR-016, assessed a 2023 Europe video with high confidence as birds, citing morphology, relative positioning and infrared pulsing consistent with wing beats. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">AARO UAP Imagery...</span></span></span>
+**Birds** can become UAP on infrared or full-motion video because sensor compression, pixelation and glare may reduce winged animals to blobs, dots or “orbs”. AARO’s FY2024 report specifically explains that birds may be misidentified because compression and pixelation can render them as amorphous objects, while a flickering infrared return can be consistent with flapping wings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Dr. Jon Kosloski, Director, AARO, Media Roundtable on the FY24 Consolidated Annual Report on UAP &gt; U.S. Department of War &gt; Transcript &#124;...</span></span></span>(#endnote-2 "Snippet: Dr. Jon Kosloski, Director, AARO, Media Roundtable on the FY24 Consolidated Annual Report on UAP > U.S. Department of War > Transcript |...") A later public imagery entry, PR-016, assessed a 2023 Europe video with high confidence as birds, citing morphology, relative positioning and infrared pulsing consistent with wing beats. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">AARO UAP Imagery...</span></span></span>
 
-**Drones and other UAS** are a growing practical category because they can operate at low altitude, appear near sensitive sites, and be difficult to identify at night or at range. The FY2024 report includes UAS among the prosaic categories resolved during the period and says reports near U.S. nuclear infrastructure, weapons and launch sites were categorised as UAS by the relevant nuclear-security reporting authorities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Dr. Jon Kosloski, Director, AARO, Media Roundtable on the FY24 Consolidated Annual Report on UAP &gt; U.S. Department of War &gt; Transcript ||
-**Satellites**, especially large low-Earth-orbit constellations, increasingly explain some reports of lights in the night sky. AARO’s FY2024 report highlighted Starlink as a growing source of resolved or potentially resolvable cases, giving the example of a commercial pilot who reported white flashing lights that correlated with a Starlink launch from Cape Canaveral about an hour earlier and along the satellites’ known orbital path. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Dr. Jon Kosloski, Director, AARO, Media Roundtable on the FY24 Consolidated Annual Report on UAP &gt; U.S. Department of War &gt; Transcript ||
+**Drones and other UAS** are a growing practical category because they can operate at low altitude, appear near sensitive sites, and be difficult to identify at night or at range. The FY2024 report includes UAS among the prosaic categories resolved during the period and says reports near U.S. nuclear infrastructure, weapons and launch sites were categorised as UAS by the relevant nuclear-security reporting authorities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Dr. Jon Kosloski, Director, AARO, Media Roundtable on the FY24 Consolidated Annual Report on UAP &gt; U.S. Department of War &gt; Transcript &#124;...</span></span></span>(#endnote-2 "Snippet: Dr. Jon Kosloski, Director, AARO, Media Roundtable on the FY24 Consolidated Annual Report on UAP > U.S. Department of War > Transcript |...")
+
+**Satellites**, especially large low-Earth-orbit constellations, increasingly explain some reports of lights in the night sky. AARO’s FY2024 report highlighted Starlink as a growing source of resolved or potentially resolvable cases, giving the example of a commercial pilot who reported white flashing lights that correlated with a Starlink launch from Cape Canaveral about an hour earlier and along the satellites’ known orbital path. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Dr. Jon Kosloski, Director, AARO, Media Roundtable on the FY24 Consolidated Annual Report on UAP &gt; U.S. Department of War &gt; Transcript &#124;...</span></span></span>(#endnote-2 "Snippet: Dr. Jon Kosloski, Director, AARO, Media Roundtable on the FY24 Consolidated Annual Report on UAP > U.S. Department of War > Transcript |...")
+
 **Aircraft** remain a surprisingly strong source of unusual reports, especially when viewed from unusual angles, at long range, or through infrared systems. AARO’s public imagery page says its “Western U.S. Objects” analysis matched three small dots to three separate commercial aircraft at great distance using full-motion video and commercial flight data. It also says “Atmospheric Wake” videos from South Asia were likely commercial aircraft, with the apparent trailing wake attributed to video-compression artefacts rather than exotic propulsion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/j6qTR_Lxe1Q" title="Orb-shaped UFO seen over Iraq in stunning video released by Pentagon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=j6qTR_Lxe1Q" target="_blank" rel="noopener noreferrer">Orb-shaped UFO seen over Iraq in stunning video released by Pentagon</a></p><p class="youtube-embed-meta">Channel: VideoFromSpace &middot; Views: 393.0K &middot; Uploaded: April 2023 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=j6qTR_Lxe1Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=j6qTR_Lxe1Q">Open on YouTube</a></p></div></div></div>
 
@@ -554,26 +557,26 @@ The Puerto Rico case, from 2013 and later addressed in AARO’s case resolution 
 
 These examples do not prove that every unresolved case will eventually become an IFO. They show how much can change when investigators can reconstruct geometry, compare tracks, inspect sensor behaviour and test whether an apparent manoeuvre is produced by the object, the platform, the camera, the atmosphere or the video-processing chain.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261-Illustration-2-dark.svg" | relative_url }}" alt="AARO illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why some reports remain unresolved
 
-AARO’s public reports make a distinction that is easy to miss: unresolved does not necessarily mean extraordinary. Many cases remain unresolved because they lack sufficient data for scientific analysis. In the FY2024 annual report, 444 reports were placed in the Active Archive because they lacked enough information to facilitate analysis; AARO said they could be used for pattern-of-life and trend analysis or reopened if more information becomes available. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Dr. Jon Kosloski, Director, AARO, Media Roundtable on the FY24 Consolidated Annual Report on UAP &gt; U.S. Department of War &gt; Transcript ||
+AARO’s public reports make a distinction that is easy to miss: unresolved does not necessarily mean extraordinary. Many cases remain unresolved because they lack sufficient data for scientific analysis. In the FY2024 annual report, 444 reports were placed in the Active Archive because they lacked enough information to facilitate analysis; AARO said they could be used for pattern-of-life and trend analysis or reopened if more information becomes available. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Dr. Jon Kosloski, Director, AARO, Media Roundtable on the FY24 Consolidated Annual Report on UAP &gt; U.S. Department of War &gt; Transcript &#124;...</span></span></span>(#endnote-2 "Snippet: Dr. Jon Kosloski, Director, AARO, Media Roundtable on the FY24 Consolidated Annual Report on UAP > U.S. Department of War > Transcript |...")
+
 This is a central point for the IFO branch. A poor-quality report can remain unidentified even if the underlying object was ordinary. A short clip with no range, no precise location, no reliable timestamp, no sensor metadata and no independent track may be impossible to resolve confidently. That uncertainty should not be converted into a stronger claim than the evidence supports.
 
 NASA’s independent UAP study reached a similar methodological conclusion from a scientific perspective. It said UAP analysis is hampered by poor sensor calibration, lack of multiple measurements, lack of sensor metadata and lack of baseline data, and recommended better-calibrated, multi-sensor collection within a systematic government-wide approach. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-AARO’s director, Jon Kosloski, made the same distinction in public remarks on the FY2024 report. He said AARO had resolved hundreds of cases as commonplace objects while more than 900 reports lacked sufficient scientific data and remained in an active archive. He also said only a very small percentage of reports were potentially anomalous and required focused scientific inquiry. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Dr. Jon Kosloski, Director, AARO, Media Roundtable on the FY24 Consolidated Annual Report on UAP &gt; U.S. Department of War &gt; Transcript ||
+AARO’s director, Jon Kosloski, made the same distinction in public remarks on the FY2024 report. He said AARO had resolved hundreds of cases as commonplace objects while more than 900 reports lacked sufficient scientific data and remained in an active archive. He also said only a very small percentage of reports were potentially anomalous and required focused scientific inquiry. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Dr. Jon Kosloski, Director, AARO, Media Roundtable on the FY24 Consolidated Annual Report on UAP &gt; U.S. Department of War &gt; Transcript &#124;...</span></span></span>(#endnote-2 "Snippet: Dr. Jon Kosloski, Director, AARO, Media Roundtable on the FY24 Consolidated Annual Report on UAP > U.S. Department of War > Transcript |...")
+
 ## The unresolved minority still matters
 
-AARO’s resolved-case pattern should not be read as “everything is a balloon”. AARO itself does not claim that. Its FY2024 report identified 21 cases that merited further analysis by Intelligence Community and science-and-technology partners because of reported anomalous characteristics or behaviours. It also said AARO would notify Congress immediately if any case indicated a breakthrough foreign adversarial aerospace capability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Dr. Jon Kosloski, Director, AARO, Media Roundtable on the FY24 Consolidated Annual Report on UAP &gt; U.S. Department of War &gt; Transcript ||
+AARO’s resolved-case pattern should not be read as “everything is a balloon”. AARO itself does not claim that. Its FY2024 report identified 21 cases that merited further analysis by Intelligence Community and science-and-technology partners because of reported anomalous characteristics or behaviours. It also said AARO would notify Congress immediately if any case indicated a breakthrough foreign adversarial aerospace capability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Dr. Jon Kosloski, Director, AARO, Media Roundtable on the FY24 Consolidated Annual Report on UAP &gt; U.S. Department of War &gt; Transcript &#124;...</span></span></span>(#endnote-2 "Snippet: Dr. Jon Kosloski, Director, AARO, Media Roundtable on the FY24 Consolidated Annual Report on UAP > U.S. Department of War > Transcript |...")
+
 This unresolved minority matters for two reasons. First, it is where safety, airspace awareness and possible foreign technology concerns concentrate. Even a conventional drone, balloon or aircraft can be operationally serious if it appears in restricted airspace or near sensitive infrastructure. Second, unresolved cases test whether reporting systems are collecting enough information to distinguish between ordinary misidentifications and genuinely unusual events.
 
 The best reading of AARO’s work is therefore neither dismissive nor sensational. The resolved cases show that modern UAP reporting still produces many IFOs: balloons, birds, drones, satellites and aircraft. The unresolved cases show that current reporting is still incomplete, uneven and often too sparse to support confident conclusions. Both findings point in the same direction: better data matters more than louder interpretation.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qUKEvSeGOMY" title="‘Most UFO sightings are explainable but…’: Pentagon AARO chief tells Senate Armed Services Committee" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qUKEvSeGOMY" target="_blank" rel="noopener noreferrer">‘Most UFO sightings are explainable but…’: Pentagon AARO chief tells Senate Armed Services Committee</a></p><p class="youtube-embed-meta">Channel: The Economic Times &middot; Views: 15.6K &middot; Uploaded: November 2024 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qUKEvSeGOMY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qUKEvSeGOMY">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261-Illustration-3-dark.svg" | relative_url }}" alt="AARO illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What AARO changes about the public UFO conversation
 
 AARO’s casework shifts the conversation from isolated anecdotes toward repeatable analysis. The key question is no longer simply “what did the witness see?” but “what data exist around the event, and can they be cross-checked?” That includes aircraft tracks, satellite launches, wind fields, sensor metadata, video compression effects, platform motion, time synchronisation and possible [reporting bias]({{ 'reporting-bias/' | relative_url }}).
@@ -581,9 +584,6 @@ AARO’s casework shifts the conversation from isolated anecdotes toward repeata
 For the study of IFOs, this is a major improvement. Older UFO debates often stalled because reports could not be checked against enough external data. Modern AARO cases show that many reports can be resolved when investigators have access to operational records, wider footage, commercial flight data, partner-agency information and technical modelling. They also show why many cases cannot be responsibly resolved when those supports are missing.
 
 The practical takeaway is straightforward: modern official UAP reports are not immune to ordinary causes. In fact, AARO’s public record shows that ordinary causes remain central even in military and aviation datasets. The difference is that modern investigations can sometimes demonstrate the explanation in more detail: a “fast” object becomes a distant aircraft, an “orb” becomes birds or balloons, flashing lights become satellites, and a strange wake becomes video compression rather than propulsion.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
 
 ## The IFO lesson from modern AARO cases
 
@@ -593,8 +593,7 @@ That is why AARO is most valuable here as an IFO case study. It shows modern mis
 
 The modern UAP era has changed the reporting channels, the terminology and the politics around the subject. It has not changed the basic investigative rule: before a case can support an extraordinary explanation, the ordinary sky has to be carefully ruled out. AARO’s resolved cases show how often that ordinary sky is still the answer.
 
-
-<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261-Illustration-3-dark.svg" | relative_url }}" alt="AARO illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qUKEvSeGOMY" title="‘Most UFO sightings are explainable but…’: Pentagon AARO chief tells Senate Armed Services Committee" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qUKEvSeGOMY" target="_blank" rel="noopener noreferrer">‘Most UFO sightings are explainable but…’: Pentagon AARO chief tells Senate Armed Services Committee</a></p><p class="youtube-embed-meta">Channel: The Economic Times &middot; Views: 15.6K &middot; Uploaded: November 2024 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qUKEvSeGOMY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qUKEvSeGOMY">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -713,15 +712,15 @@ The modern UAP era has changed the reporting channels, the terminology and the p
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-what-modern-uap-reviews-resolve-ifos-causes-of-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="aaro-what-modern-uap-reviews-resolve-ifos-causes-of-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Home Wall Art Print - Vintage Space Poster - FIRST MOON WALK - A4,A3,A2"><img src="{{ '/assets/images/marketplace-covers/e679acaf456874ac9c59.jpg' | relative_url }}" alt="Listing image for Home Wall Art Print - Vintage Space Poster - FIRST MOON WALK - A4,A3,A2" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-modern-uap-reviews-resolve-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-modern-uap-reviews-resolve-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-what-modern-uap-reviews-resolve-ifos-causes-of-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="aaro-what-modern-uap-reviews-resolve-ifos-causes-of-space-poster" target="_blank" rel="sponsored noopener noreferrer">Home Wall Art Print - Vintage Space Poster - FIRST MOON WALK - A4,A3,A2</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-modern-uap-reviews-resolve-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-modern-uap-reviews-resolve-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-what-modern-uap-reviews-resolve-ifos-causes-of-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="aaro-what-modern-uap-reviews-resolve-ifos-causes-of-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: space poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-modern-uap-reviews-resolve-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-modern-uap-reviews-resolve-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-what-modern-uap-reviews-resolve-ifos-causes-of-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="aaro-what-modern-uap-reviews-resolve-ifos-causes-of-space-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-modern-uap-reviews-resolve-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-modern-uap-reviews-resolve-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -729,15 +728,15 @@ The modern UAP era has changed the reporting channels, the terminology and the p
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-what-modern-uap-reviews-resolve-ifos-causes-of-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="aaro-what-modern-uap-reviews-resolve-ifos-causes-of-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Earthrise Apollo 11 Moon Poster | NASA Space Print Wall Art Print Gift Decor"><img src="{{ '/assets/images/marketplace-covers/44f55c98489085bcc0fc.jpg' | relative_url }}" alt="Listing image for Earthrise Apollo 11 Moon Poster | NASA Space Print Wall Art Print Gift Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-modern-uap-reviews-resolve-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-modern-uap-reviews-resolve-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-what-modern-uap-reviews-resolve-ifos-causes-of-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="aaro-what-modern-uap-reviews-resolve-ifos-causes-of-space-poster" target="_blank" rel="sponsored noopener noreferrer">Earthrise Apollo 11 Moon Poster | NASA Space Print Wall Art Print Gift Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-modern-uap-reviews-resolve-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-modern-uap-reviews-resolve-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-what-modern-uap-reviews-resolve-ifos-causes-of-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="aaro-what-modern-uap-reviews-resolve-ifos-causes-of-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: space poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-modern-uap-reviews-resolve-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-modern-uap-reviews-resolve-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-what-modern-uap-reviews-resolve-ifos-causes-of-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="aaro-what-modern-uap-reviews-resolve-ifos-causes-of-space-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-modern-uap-reviews-resolve-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-modern-uap-reviews-resolve-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -745,15 +744,15 @@ The modern UAP era has changed the reporting channels, the terminology and the p
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-what-modern-uap-reviews-resolve-ifos-causes-of-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="aaro-what-modern-uap-reviews-resolve-ifos-causes-of-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Home Wall Art Print - Vintage Space Poster - SOLAR SYSTEM PLANETS-A4,A3,A2,A1,A0"><img src="{{ '/assets/images/marketplace-covers/cf4bc993d604ad7867e5.jpg' | relative_url }}" alt="Listing image for Home Wall Art Print - Vintage Space Poster - SOLAR SYSTEM PLANETS-A4,A3,A2,A1,A0" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-modern-uap-reviews-resolve-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-modern-uap-reviews-resolve-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-what-modern-uap-reviews-resolve-ifos-causes-of-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="aaro-what-modern-uap-reviews-resolve-ifos-causes-of-space-poster" target="_blank" rel="sponsored noopener noreferrer">Home Wall Art Print - Vintage Space Poster - SOLAR SYSTEM PLANETS-A4,A3,A2,A1,A0</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-modern-uap-reviews-resolve-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-modern-uap-reviews-resolve-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-what-modern-uap-reviews-resolve-ifos-causes-of-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="aaro-what-modern-uap-reviews-resolve-ifos-causes-of-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: space poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-modern-uap-reviews-resolve-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-modern-uap-reviews-resolve-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-what-modern-uap-reviews-resolve-ifos-causes-of-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="aaro-what-modern-uap-reviews-resolve-ifos-causes-of-space-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-modern-uap-reviews-resolve-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-modern-uap-reviews-resolve-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -761,15 +760,15 @@ The modern UAP era has changed the reporting channels, the terminology and the p
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-what-modern-uap-reviews-resolve-ifos-causes-of-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="aaro-what-modern-uap-reviews-resolve-ifos-causes-of-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space CSM-TEC Apollo 11 Star Chart Map Galaxy Canvas Wall Art Print Poster"><img src="{{ '/assets/images/marketplace-covers/9ee10cc73ecd30aa2ef5.jpg' | relative_url }}" alt="Listing image for Space CSM-TEC Apollo 11 Star Chart Map Galaxy Canvas Wall Art Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-modern-uap-reviews-resolve-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-modern-uap-reviews-resolve-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-what-modern-uap-reviews-resolve-ifos-causes-of-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="aaro-what-modern-uap-reviews-resolve-ifos-causes-of-space-poster" target="_blank" rel="sponsored noopener noreferrer">Space CSM-TEC Apollo 11 Star Chart Map Galaxy Canvas Wall Art Print Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-modern-uap-reviews-resolve-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-modern-uap-reviews-resolve-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-what-modern-uap-reviews-resolve-ifos-causes-of-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="aaro-what-modern-uap-reviews-resolve-ifos-causes-of-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: space poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-modern-uap-reviews-resolve-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-modern-uap-reviews-resolve-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-what-modern-uap-reviews-resolve-ifos-causes-of-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="aaro-what-modern-uap-reviews-resolve-ifos-causes-of-space-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-modern-uap-reviews-resolve-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-modern-uap-reviews-resolve-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -777,7 +776,7 @@ The modern UAP era has changed the reporting channels, the terminology and the p
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-what-modern-uap-reviews-resolve-ifos-causes-of-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="aaro-what-modern-uap-reviews-resolve-ifos-causes-of-space-poster" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-modern-uap-reviews-resolve-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-modern-uap-reviews-resolve-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -993,116 +992,116 @@ The modern UAP era has changed the reporting channels, the terminology and the p
 1. <a id="endnote-1"></a>
    Source: media.defense.gov  
    Title: FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508  
-   Link: [https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF](https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
 
 2. <a id="endnote-2"></a>
    Source: war.gov  
    Title: U.S. Department of War  
-   Link: [https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/](https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/)  
+   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Jon Kosloski, Director, AARO, Media Roundtable on the FY24 Consolidated Annual Report on UAP &gt; U.S. Department of War &gt; Transcript |...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: dni.gov  
    Title: Director of National Intelligence  
-   Link: [https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf](https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf)  
+   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf</a>  
 
 4. <a id="endnote-4"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/UAP-Reporting-Trends/](https://www.aaro.mil/UAP-Cases/UAP-Reporting-Trends/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/UAP-Reporting-Trends/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Reporting-Trends/</a>  
 
 5. <a id="endnote-5"></a>
    Source: aaro.mil  
    Title: UAP Case Resolution Reports  
-   Link: [https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/](https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Case Resolution Reports...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 8. <a id="endnote-8"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 9. <a id="endnote-9"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
 10. <a id="endnote-10"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: [https://www.aaro.mil/UAP-Records/](https://www.aaro.mil/UAP-Records/)  
+   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
 11. <a id="endnote-11"></a>
    Source: aaro.mil  
    Title: UNCLASSIFIED FY23 Consolidated Annual Report on UAP Oct 25 2023 1236  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf](https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 13. <a id="endnote-13"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 14. <a id="endnote-14"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: [https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/](https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: Pentagon UAP Office Holds Media Roundtable on Historical Report  
-   Link: [https://www.youtube.com/watch?v=5zM9K-i8D5E](https://www.youtube.com/watch?v=5zM9K-i8D5E)  
+   Link: <a href="https://www.youtube.com/watch?v=5zM9K-i8D5E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5zM9K-i8D5E</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of UAP Imagery: Balloons and Birds Explained...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: Understanding AARO’s Data-Driven Approach to UAP  
-   Link: [https://www.youtube.com/watch?v=sO6oZJ92C5E](https://www.youtube.com/watch?v=sO6oZJ92C5E)  
+   Link: <a href="https://www.youtube.com/watch?v=sO6oZJ92C5E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sO6oZJ92C5E</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Defense Official Briefing on UAP Office Launch...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: Analysis of UAP Imagery: Balloons and Birds Explained  
-   Link: [https://www.youtube.com/watch?v=k5qYk58nF4o](https://www.youtube.com/watch?v=k5qYk58nF4o)  
+   Link: <a href="https://www.youtube.com/watch?v=k5qYk58nF4o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=k5qYk58nF4o</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding AARO’s Data-Driven Approach to UAP...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: aui.edu  
-   Link: [https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/](https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/)  
+   Link: <a href="https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/</a>  
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Inside.Edition/posts/the-dni-released-an-official-report-in-response-to-years-of-reports-of-unidentif/10157836076755723/](https://www.facebook.com/Inside.Edition/posts/the-dni-released-an-official-report-in-response-to-years-of-reports-of-unidentif/10157836076755723/)  
+   Link: <a href="https://www.facebook.com/Inside.Edition/posts/the-dni-released-an-official-report-in-response-to-years-of-reports-of-unidentif/10157836076755723/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Inside.Edition/posts/the-dni-released-an-official-report-in-response-to-years-of-reports-of-unidentif/10157836076755723/</a>  
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/AstroAlexandraOfficial/posts/nasa-uap-ufo-report-released-today-offers-a-few-answers-but-doesnt-find-or-rule-/319484690604324/](https://www.facebook.com/AstroAlexandraOfficial/posts/nasa-uap-ufo-report-released-today-offers-a-few-answers-but-doesnt-find-or-rule-/319484690604324/)  
+   Link: <a href="https://www.facebook.com/AstroAlexandraOfficial/posts/nasa-uap-ufo-report-released-today-offers-a-few-answers-but-doesnt-find-or-rule-/319484690604324/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AstroAlexandraOfficial/posts/nasa-uap-ufo-report-released-today-offers-a-few-answers-but-doesnt-find-or-rule-/319484690604324/</a>  
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/2onyourside/posts/nasa-releases-ufo-report-after-yearlong-study/696250962540738/](https://www.facebook.com/2onyourside/posts/nasa-releases-ufo-report-after-yearlong-study/696250962540738/)  
+   Link: <a href="https://www.facebook.com/2onyourside/posts/nasa-releases-ufo-report-after-yearlong-study/696250962540738/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/2onyourside/posts/nasa-releases-ufo-report-after-yearlong-study/696250962540738/</a>  
 
 22. <a id="endnote-22"></a>
    Source: x.com  
-   Link: [https://x.com/user/status/1930986227404079146](https://x.com/user/status/1930986227404079146)  
+   Link: <a href="https://x.com/user/status/1930986227404079146" target="_blank" rel="noopener noreferrer nofollow">https://x.com/user/status/1930986227404079146</a>  
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/KCTV5/posts/the-department-of-defense-released-footage-of-unidentified-aerial-phenomenon-mos/1408449134661381/](https://www.facebook.com/KCTV5/posts/the-department-of-defense-released-footage-of-unidentified-aerial-phenomenon-mos/1408449134661381/)  
+   Link: <a href="https://www.facebook.com/KCTV5/posts/the-department-of-defense-released-footage-of-unidentified-aerial-phenomenon-mos/1408449134661381/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KCTV5/posts/the-department-of-defense-released-footage-of-unidentified-aerial-phenomenon-mos/1408449134661381/</a>  
 
 24. <a id="endnote-24"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ArabNews/posts/the-us-military-is-investigating-an-unidentified-flying-orb-after-a-large-round-/10161183865827125/](https://www.facebook.com/ArabNews/posts/the-us-military-is-investigating-an-unidentified-flying-orb-after-a-large-round-/10161183865827125/)  
+   Link: <a href="https://www.facebook.com/ArabNews/posts/the-us-military-is-investigating-an-unidentified-flying-orb-after-a-large-round-/10161183865827125/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ArabNews/posts/the-us-military-is-investigating-an-unidentified-flying-orb-after-a-large-round-/10161183865827125/</a>

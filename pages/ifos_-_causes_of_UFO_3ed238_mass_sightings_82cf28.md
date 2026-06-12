@@ -50,22 +50,22 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_wind_data_33671a
 - ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - mass-sightings
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - mass-sightings
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Multiple witnesses can strengthen a case, but shared viewing conditions and social cues can also spread the same misinterpretation.
 hero_summary: Multiple witnesses can strengthen a case, but shared viewing conditions and social cues can also spread the same misinterpretation.
 layout: default
 permalink: /mass-sightings/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 nav_short_title: Mass Sightings
 title: Why Groups Can Share One Mistake
-title_full: Why Groups Can Share One Mistake | IFOs
+title_full: Why Groups Can Share One Mistake
 display_title_short: Mass Sightings
 display_title: Mass Sightings
 heading_title: Why Groups Can Share One Mistake
@@ -241,211 +241,211 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 parent_title: IFOs
-parent_permalink: /ifos-causes-of/
+parent_permalink: /ifos-causes-of-ufo-3-ed-238/
 parent_nav_short_title: IFOs
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 sibling_links:
 - basename: ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d
-  title: A Head On Aircraft Can Look Like A Stationary Light Because It | Ifos Causes Of
+  title: A Head On Aircraft Can Look Like A Stationary Light Because It | ifos causes of UFO 3 ed 238
   permalink: /a-head-on-aircraft-can-look-like-a/
   short_title: A Head On Aircraft Can Look Like A Stationary Light Because It
   heading_title: The Stationary Light That Is Moving
 - basename: ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261
-  title: AARO | Ifos Causes Of
+  title: AARO | ifos causes of UFO 3 ed 238
   permalink: /aaro/
   short_title: AARO
   heading_title: What Modern UAP Reviews Resolve
 - basename: ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253
-  title: Aircraft Lights | Ifos Causes Of
+  title: Aircraft Lights | ifos causes of UFO 3 ed 238
   permalink: /aircraft-lights/
   short_title: Aircraft Lights
   heading_title: Why Ordinary Aircraft Look So Strange
 - basename: ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043
-  title: Atmosphere | Ifos Causes Of
+  title: Atmosphere | ifos causes of UFO 3 ed 238
   permalink: /atmosphere/
   short_title: Atmosphere
   heading_title: When Weather Makes Shapes in the Sky
 - basename: ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057
-  title: Balloons | Ifos Causes Of
+  title: Balloons | ifos causes of UFO 3 ed 238
   permalink: /balloons/
   short_title: Balloons
   heading_title: Why Balloons Become Flying Saucers
 - basename: ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40
-  title: Birds | Ifos Causes Of
+  title: Birds | ifos causes of UFO 3 ed 238
   permalink: /birds/
   short_title: Birds
   heading_title: How Birds Become Fast UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81
-  title: Blue Book | Ifos Causes Of
+  title: Blue Book | ifos causes of UFO 3 ed 238
   permalink: /blue-book/
   short_title: Blue Book
   heading_title: What Blue Book Teaches About IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e
-  title: Contrails | Ifos Causes Of
+  title: Contrails | ifos causes of UFO 3 ed 238
   permalink: /contrails/
   short_title: Contrails
   heading_title: Why Jet Trails Glow Like UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c
-  title: Drones | Ifos Causes Of
+  title: Drones | ifos causes of UFO 3 ed 238
   permalink: /drones/
   short_title: Drones
   heading_title: When a Drone Becomes a UFO
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e
-  title: First Checks | Ifos Causes Of
+  title: First Checks | ifos causes of UFO 3 ed 238
   permalink: /first-checks/
   short_title: First Checks
   heading_title: What to Check Before Calling It a UFO
 - basename: ifos_-_causes_of_UFO_3ed238_military_flares_abb62f
-  title: Flares | Ifos Causes Of
+  title: Flares | ifos causes of UFO 3 ed 238
   permalink: /flares/
   short_title: Flares
   heading_title: Why Flares Look Like Hovering Craft
 - basename: ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590
-  title: Flight Tracking | Ifos Causes Of
+  title: Flight Tracking | ifos causes of UFO 3 ed 238
   permalink: /flight-tracking/
   short_title: Flight Tracking
   heading_title: How Flight Data Solves UFO Sightings
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965
-  title: Hoaxes | Ifos Causes Of
+  title: Hoaxes | ifos causes of UFO 3 ed 238
   permalink: /hoaxes/
   short_title: Hoaxes
   heading_title: When UFO Reports Are Manufactured
 - basename: ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f
-  title: Infrared | Ifos Causes Of
+  title: Infrared | ifos causes of UFO 3 ed 238
   permalink: /infrared/
   short_title: Infrared
   heading_title: Why Infrared UFO Videos Mislead
 - basename: ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74
-  title: Insects | Ifos Causes Of
+  title: Insects | ifos causes of UFO 3 ed 238
   permalink: /insects/
   short_title: Insects
   heading_title: The Tiny Things Cameras Make Huge
 - basename: ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5
-  title: Lanterns | Ifos Causes Of
+  title: Lanterns | ifos causes of UFO 3 ed 238
   permalink: /lanterns/
   short_title: Lanterns
   heading_title: The Orange Lights That Start UFO Reports
 - basename: ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e
-  title: Lens Flare | Ifos Causes Of
+  title: Lens Flare | ifos causes of UFO 3 ed 238
   permalink: /lens-flare/
   short_title: Lens Flare
   heading_title: When Cameras Invent Extra Lights
 - basename: ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504
-  title: Meteors | Ifos Causes Of
+  title: Meteors | ifos causes of UFO 3 ed 238
   permalink: /meteors/
   short_title: Meteors
   heading_title: When Fireballs Become UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca
-  title: Missing Data | Ifos Causes Of
+  title: Missing Data | ifos causes of UFO 3 ed 238
   permalink: /missing-data/
   short_title: Missing Data
   heading_title: Unsolved Does Not Always Mean Strange
 - basename: ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183
-  title: NASA Study | Ifos Causes Of
+  title: NASA Study | ifos causes of UFO 3 ed 238
   permalink: /nasa-study/
   short_title: NASA Study
   heading_title: Why Better UFO Data Matters
 - basename: ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b
-  title: Parallax | Ifos Causes Of
+  title: Parallax | ifos causes of UFO 3 ed 238
   permalink: /parallax/
   short_title: Parallax
   heading_title: The Speed Illusion in UFO Footage
 - basename: ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a
-  title: Pilots | Ifos Causes Of
+  title: Pilots | ifos causes of UFO 3 ed 238
   permalink: /pilots/
   short_title: Pilots
   heading_title: Why Pilots Can Misidentify UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357
-  title: Radar | Ifos Causes Of
+  title: Radar | ifos causes of UFO 3 ed 238
   permalink: /radar/
   short_title: Radar
   heading_title: When Radar Sees a UFO That Isnt There
 - basename: ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c
-  title: Reflections | Ifos Causes Of
+  title: Reflections | ifos causes of UFO 3 ed 238
   permalink: /reflections/
   short_title: Reflections
   heading_title: The UFO Inside the Glass
 - basename: ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132
-  title: Rocket Plumes | Ifos Causes Of
+  title: Rocket Plumes | ifos causes of UFO 3 ed 238
   permalink: /rocket-plumes/
   short_title: Rocket Plumes
   heading_title: The Strange Clouds Rockets Leave Behind
 - basename: ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b
-  title: Satellites | Ifos Causes Of
+  title: Satellites | ifos causes of UFO 3 ed 238
   permalink: /satellites/
   short_title: Satellites
   heading_title: Why Satellites Surprise Night Watchers
 - basename: ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1
-  title: Searchlights | Ifos Causes Of
+  title: Searchlights | ifos causes of UFO 3 ed 238
   permalink: /searchlights/
   short_title: Searchlights
   heading_title: How Searchlights Paint UFOs in Clouds
 - basename: ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b
-  title: Sensor Operators | Ifos Causes Of
+  title: Sensor Operators | ifos causes of UFO 3 ed 238
   permalink: /sensor-operators/
   short_title: Sensor Operators
   heading_title: When Sensors Need Human Context
 - basename: ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391
-  title: Short Clips | Ifos Causes Of
+  title: Short Clips | ifos causes of UFO 3 ed 238
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: Why Short UFO Videos Are Hard to Trust
 - basename: ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f
-  title: Size Errors | Ifos Causes Of
+  title: Size Errors | ifos causes of UFO 3 ed 238
   permalink: /size-errors/
   short_title: Size Errors
   heading_title: Why Honest Witnesses Misjudge UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725
-  title: Sky Charts | Ifos Causes Of
+  title: Sky Charts | ifos causes of UFO 3 ed 238
   permalink: /sky-charts/
   short_title: Sky Charts
   heading_title: How to Check a UFO Against the Sky
 - basename: ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32
-  title: Stars | Ifos Causes Of
+  title: Stars | ifos causes of UFO 3 ed 238
   permalink: /stars/
   short_title: Stars
   heading_title: Why Stars Flash Like Machines
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb
-  title: Status Labels | Ifos Causes Of
+  title: Status Labels | ifos causes of UFO 3 ed 238
   permalink: /status-labels/
   short_title: Status Labels
   heading_title: UFO Does Not Mean Alien
 - basename: ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d
-  title: Strong Cases | Ifos Causes Of
+  title: Strong Cases | ifos causes of UFO 3 ed 238
   permalink: /strong-cases/
   short_title: Strong Cases
   heading_title: What Makes a UFO Report Harder to Explain
 - basename: ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948
-  title: UK Files | Ifos Causes Of
+  title: UK Files | ifos causes of UFO 3 ed 238
   permalink: /uk-files/
   short_title: UK Files
   heading_title: What the UK UFO Files Reveal
 - basename: ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06
-  title: Unresolved Cases | Ifos Causes Of
+  title: Unresolved Cases | ifos causes of UFO 3 ed 238
   permalink: /unresolved-cases/
   short_title: Unresolved Cases
   heading_title: Why Some UFO Cases Stay Open
 - basename: ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080
-  title: Venus | Ifos Causes Of
+  title: Venus | ifos causes of UFO 3 ed 238
   permalink: /venus/
   short_title: Venus
   heading_title: Is That UFO Really Venus?
 - basename: ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13
-  title: Weather Records | Ifos Causes Of
+  title: Weather Records | ifos causes of UFO 3 ed 238
   permalink: /weather-records/
   short_title: Weather Records
   heading_title: Weather Clues That Explain Strange Lights
 - basename: ifos_-_causes_of_UFO_3ed238_wind_data_33671a
-  title: Wind Data | Ifos Causes Of
+  title: Wind Data | ifos causes of UFO 3 ed 238
   permalink: /wind-data/
   short_title: Wind Data
   heading_title: Following a UFO With the Wind
@@ -478,21 +478,21 @@ child_links:
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 prev_link:
   basename: ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e
-  title: Lens Flare | Ifos Causes Of
+  title: Lens Flare | ifos causes of UFO 3 ed 238
   permalink: /lens-flare/
   short_title: Lens Flare
   heading_title: When Cameras Invent Extra Lights
 next_link:
   basename: ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504
-  title: Meteors | Ifos Causes Of
+  title: Meteors | ifos causes of UFO 3 ed 238
   permalink: /meteors/
   short_title: Meteors
   heading_title: When Fireballs Become UFOs
-date: '2026-06-07 05:14:34 '
+date: '2026-06-12 00:07:36 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28-overview-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28-overview.webp
@@ -502,7 +502,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28-overview
 ## Introduction
 
 Mass sightings can make a UFO report feel stronger, but they do not automatically make the interpretation stronger. A group may genuinely see the same light, shape, plume or [radar]({{ 'radar/' | relative_url }}) return, yet still share the same mistake because they are looking from the same area, under the same sky conditions, with the same expectations and often after hearing the same rumours. In IFO cases, the key question is not simply “How many people saw it?” but “How independent were their observations?”
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28-overview.webp" | relative_url }}" alt="Overview image for Mass Sightings" loading="eager" decoding="sync" fetchpriority="high">
 This matters because some of the most memorable UFO waves are not single-witness errors. They involve families, crowds, police officers, pilots, newsrooms, local authorities and online communities. Multiple witnesses can help confirm that something was really visible. They can also turn a confusing ordinary stimulus — a planet, aircraft, satellite train, rocket plume, balloon, drone or radar artefact — into a socially amplified event. Modern UAP investigators therefore place more value on [independent records]({{ 'independent-records/' | relative_url }}), precise timing, sensor metadata and reconstructable sightlines than on witness numbers alone. NASA’s UAP study stressed that many cases suffer from limited high-quality observations rather than from a lack of public interest, while AARO has resolved many reported cases as balloons, birds, drones, [satellites]({{ 'satellites/' | relative_url }}) and aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
@@ -517,7 +516,6 @@ That is why mass sightings are strongest when the accounts are separated before 
 
 The same principle appears outside UFO cases. The 1954 Seattle windshield pitting episode was not a sky sighting, but it is a useful warning about social amplification. Residents began noticing tiny marks on car windscreens and reports spread rapidly through news coverage and public concern; HistoryLink describes the panic reaching a “fever pitch” on 15 April 1954, with explanations ranging from vandals to cosmic rays and H-bomb fallout. The lesson for UFO analysis is not that every mass sighting is “hysteria”, but that attention can make people notice, report and interpret ambiguous stimuli in a newly shared way. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/File/5136" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28-Illustration-1-dark.svg" | relative_url }}" alt="Mass Sightings illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Shared sky conditions create shared reports
 
@@ -530,7 +528,6 @@ Aviation cases show the same pattern at higher stakes. A 2024 technical case stu
 Rocket plumes and fuel dumps can be even more dramatic because they change shape. In March 2025, a glowing spiral seen across the UK and parts of Europe prompted speculation online before being traced to a SpaceX Falcon 9 rocket effect: frozen or vaporised exhaust material reflecting sunlight high above a darkened ground. The Guardian reported that the display was visible for several minutes across Britain and Europe; the Washington Post described the same broad European sighting pattern and the physics of vented fuel forming a luminous spiral. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 In all these cases, the number of witnesses confirms that something was visible. It does not, by itself, confirm that the object was close, huge, intelligently controlled or exotic.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GW_YIJHBf0o" title="Warminster UFO Analysis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GW_YIJHBf0o" target="_blank" rel="noopener noreferrer">Warminster UFO Analysis</a></p><p class="youtube-embed-meta">Channel: Nexpo &middot; Views: 281.9K &middot; Uploaded: December 2017 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GW_YIJHBf0o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GW_YIJHBf0o">Open on YouTube</a></p></div></div></div>
 
@@ -545,7 +542,6 @@ This does not reduce the entire Belgian wave to a single fake photograph. It sho
 Social amplification also explains why reports cluster around cultural moments. During periods of intense UFO coverage, people are more likely to interpret ambiguous lights as UFOs and more likely to report them. Project Blue Book’s own historical material recognised that many UFO reports were eventually identified as ordinary things, including aircraft, astronomical bodies, meteorological phenomena and satellites; it also noted that satellite reports rose with both public interest and the increasing number of satellites in the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Security Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">Defense Security Service Project Blue Book</span><span class="citation-popover-snippet">Defense Security Service Project Blue Book</span></span></span>
 
 The pattern is not “people imagine everything”. It is subtler: people see real things, but rumour supplies the frame. Once a community expects mystery in the sky, more ordinary sky events are collected under that label.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28-Illustration-3-dark.svg" | relative_url }}" alt="Mass Sightings illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Mass sightings are not all the same
@@ -562,12 +558,10 @@ A useful investigation separates different kinds of “many witnesses” instead
 
 The strongest mass-sighting evidence therefore comes from convergence without contamination: separate observers, separate locations, rapid recording, matching times, and independent records that point to the same physical stimulus.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28-Illustration-2-dark.svg" | relative_url }}" alt="Mass Sightings illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Independent records matter more than witness counts
 
 The practical test for a mass sighting is whether it can be reconstructed. A report becomes more useful when investigators can compare it with known objects and conditions. The most valuable records include:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -587,7 +581,6 @@ This is why “twenty people saw it” can be less useful than “three people i
 [AARO]({{ 'aaro/' | relative_url }})’s recent public case material illustrates the same approach. Its official imagery page lists cases resolved as balloons, migratory birds or not anomalous alongside unresolved or still-analysed cases, showing that modern UAP work depends on matching reports to mundane candidates where the data allow it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span> Its 2024 public messaging likewise says that hundreds of cases have been resolved as commonplace objects, while a small percentage remain potentially anomalous and require more focused inquiry. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dod examining unidentified anomalous phenomena</span><span class="citation-popover-snippet">dod examining unidentified anomalous phenomena</span></span></span>
 
 That distinction is important. Social amplification does not prove a case false. It explains why witness numbers alone cannot carry the weight often placed on them.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rnMSCKZ811Q" title="1973: UFO SPOTTING in WARMINSTER, WILTSHIRE | Nationwide | Weird and Wonderful | BBC Archive" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rnMSCKZ811Q" target="_blank" rel="noopener noreferrer">1973: UFO SPOTTING in WARMINSTER, WILTSHIRE | Nationwide | Weird and Wonderful | BBC Archive</a></p><p class="youtube-embed-meta">Channel: BBC Archive &middot; Views: 22.8K &middot; Uploaded: August 2023 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rnMSCKZ811Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rnMSCKZ811Q">Open on YouTube</a></p></div></div></div>
 
@@ -619,9 +612,7 @@ This is the decisive step. If flight data, satellite data, launch records, weath
 
 Mass sightings sit at the boundary between evidence and amplification. They can strengthen a UFO report when they provide independent, checkable observations. They can weaken it when they multiply the same perceptual error through a crowd, a town, a newsroom or a social feed. Understanding that difference is central to explaining how ordinary objects become some of the most memorable UFO reports.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_W7SqS6UhE4" title="The Condon Report | NASA&#x27;s Unexplained Files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_W7SqS6UhE4" target="_blank" rel="noopener noreferrer">The Condon Report | NASA&#x27;s Unexplained Files</a></p><p class="youtube-embed-meta">Channel: Science Channel &middot; Views: 17.4K &middot; Uploaded: April 2012 &middot; Length: 1 minute 56 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_W7SqS6UhE4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_W7SqS6UhE4">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -1020,164 +1011,164 @@ Mass sightings sit at the boundary between evidence and amplification. They can 
 1. <a id="endnote-1"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 2. <a id="endnote-2"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/](https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
 
 3. <a id="endnote-3"></a>
    Source: historylink.org  
-   Link: [https://www.historylink.org/File/5136](https://www.historylink.org/File/5136)  
+   Link: <a href="https://www.historylink.org/File/5136" target="_blank" rel="noopener noreferrer nofollow">https://www.historylink.org/File/5136</a>  
 
 4. <a id="endnote-4"></a>
    Source: space.com  
    Title: Starlink satellite train: how to see and track it in the night sky  
-   Link: [https://www.space.com/starlink-satellite-train-how-to-see-and-track-it](https://www.space.com/starlink-satellite-train-how-to-see-and-track-it)  
+   Link: <a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Best viewing occurs just after sunset or before sunrise when satellites reflect sunlight while Earth’s surface is dark. Starlink orbits E...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2403.08155](https://arxiv.org/abs/2403.08155)  
+   Link: <a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Belgian UFO wave  
-   Link: [https://en.wikipedia.org/wiki/Belgian_UFO_wave](https://en.wikipedia.org/wiki/Belgian_UFO_wave)  
+   Link: <a href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Belgian_UFO_wave</a>  
 
 7. <a id="endnote-7"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Psychosocial UFO hypothesis  
-   Link: [https://en.wikipedia.org/wiki/Psychosocial_UFO_hypothesis](https://en.wikipedia.org/wiki/Psychosocial_UFO_hypothesis)  
+   Link: <a href="https://en.wikipedia.org/wiki/Psychosocial_UFO_hypothesis" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Psychosocial_UFO_hypothesis</a>  
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Psychological perspectives on UFO claims  
-   Link: [https://en.wikipedia.org/wiki/Psychological_perspectives_on_UFO_claims](https://en.wikipedia.org/wiki/Psychological_perspectives_on_UFO_claims)  
+   Link: <a href="https://en.wikipedia.org/wiki/Psychological_perspectives_on_UFO_claims" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Psychological_perspectives_on_UFO_claims</a>  
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 11. <a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Seattle windshield pitting epidemic  
-   Link: [https://en.wikipedia.org/wiki/Seattle_windshield_pitting_epidemic](https://en.wikipedia.org/wiki/Seattle_windshield_pitting_epidemic)  
+   Link: <a href="https://en.wikipedia.org/wiki/Seattle_windshield_pitting_epidemic" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Seattle_windshield_pitting_epidemic</a>  
 
 12. <a id="endnote-12"></a>
    Source: Wikipedia  
    Title: List of mass panic cases  
-   Link: [https://en.wikipedia.org/wiki/List_of_mass_panic_cases](https://en.wikipedia.org/wiki/List_of_mass_panic_cases)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_mass_panic_cases" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_mass_panic_cases</a>  
 
 13. <a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Condon Committee  
-   Link: [https://en.wikipedia.org/wiki/Condon_Committee](https://en.wikipedia.org/wiki/Condon_Committee)  
+   Link: <a href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Condon_Committee</a>  
 
 14. <a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Mass psychogenic illness  
-   Link: [https://en.wikipedia.org/wiki/Mass_psychogenic_illness](https://en.wikipedia.org/wiki/Mass_psychogenic_illness)  
+   Link: <a href="https://en.wikipedia.org/wiki/Mass_psychogenic_illness" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mass_psychogenic_illness</a>  
 
 15. <a id="endnote-15"></a>
    Source: media.defense.gov  
    Title: FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508  
-   Link: [https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF](https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
 
 16. <a id="endnote-16"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 17. <a id="endnote-17"></a>
    Source: content.time.com  
-   Link: [https://content.time.com/time/specials/packages/article/0%2C28804%2C2072479_2072478_2072515%2C00.html](https://content.time.com/time/specials/packages/article/0%2C28804%2C2072479_2072478_2072515%2C00.html)  
+   Link: <a href="https://content.time.com/time/specials/packages/article/0%2C28804%2C2072479_2072478_2072515%2C00.html" target="_blank" rel="noopener noreferrer nofollow">https://content.time.com/time/specials/packages/article/0%2C28804%2C2072479_2072478_2072515%2C00.html</a>  
 
 18. <a id="endnote-18"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket](https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket)  
+   Link: <a href="https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket</a>  
 
 19. <a id="endnote-19"></a>
    Source: esd.whs.mil  
    Title: Defense Security Service Project Blue Book  
-   Link: [https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837](https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837)  
+   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837</a>  
 
 20. <a id="endnote-20"></a>
    Source: syfy.com  
    Title: spacex satellites are now being mistaken for ufos and making astronomers rage  
-   Link: [https://www.syfy.com/syfy-wire/spacex-satellites-are-now-being-mistaken-for-ufos-and-making-astronomers-rage](https://www.syfy.com/syfy-wire/spacex-satellites-are-now-being-mistaken-for-ufos-and-making-astronomers-rage)  
+   Link: <a href="https://www.syfy.com/syfy-wire/spacex-satellites-are-now-being-mistaken-for-ufos-and-making-astronomers-rage" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/spacex-satellites-are-now-being-mistaken-for-ufos-and-making-astronomers-rage</a>  
 
 21. <a id="endnote-21"></a>
    Source: futurism.com  
    Title: spacex starlink satellites ufos  
-   Link: [https://futurism.com/the-byte/spacex-starlink-satellites-ufos](https://futurism.com/the-byte/spacex-starlink-satellites-ufos)  
+   Link: <a href="https://futurism.com/the-byte/spacex-starlink-satellites-ufos" target="_blank" rel="noopener noreferrer nofollow">https://futurism.com/the-byte/spacex-starlink-satellites-ufos</a>  
 
 22. <a id="endnote-22"></a>
    Source: history.com  
    Title: mysterious illnesses mass hysteria  
-   Link: [https://www.history.com/articles/mysterious-illnesses-mass-hysteria](https://www.history.com/articles/mysterious-illnesses-mass-hysteria)  
+   Link: <a href="https://www.history.com/articles/mysterious-illnesses-mass-hysteria" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/mysterious-illnesses-mass-hysteria</a>  
 
 23. <a id="endnote-23"></a>
    Source: independent.co.uk  
-   Link: [https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html](https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html)  
+   Link: <a href="https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html</a>  
 
 24. <a id="endnote-24"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 25. <a id="endnote-25"></a>
    Source: unsolved.com  
    Title: Belgian UFO  
-   Link: [https://unsolved.com/gallery/belgian-ufo/](https://unsolved.com/gallery/belgian-ufo/)  
+   Link: <a href="https://unsolved.com/gallery/belgian-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/belgian-ufo/</a>  
 
 26. <a id="endnote-26"></a>
    Source: foxnews.com  
-   Link: [https://www.foxnews.com/science/spacex-starlink-satellites-not-ufos-spotted-in-night-sky-over-washington-state-report](https://www.foxnews.com/science/spacex-starlink-satellites-not-ufos-spotted-in-night-sky-over-washington-state-report)  
+   Link: <a href="https://www.foxnews.com/science/spacex-starlink-satellites-not-ufos-spotted-in-night-sky-over-washington-state-report" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/science/spacex-starlink-satellites-not-ufos-spotted-in-night-sky-over-washington-state-report</a>  
 
 ### Additional References
 
 27. <a id="endnote-27"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP90-00552R000303250001-9.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP90-00552R000303250001-9.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP90-00552R000303250001-9.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP90-00552R000303250001-9.pdf</a>  
 
 28. <a id="endnote-28"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/376441474_Psychological_aspects_in_unidentified_anomalous_phenomena_UAP_witnesses](https://www.researchgate.net/publication/376441474_Psychological_aspects_in_unidentified_anomalous_phenomena_UAP_witnesses)  
+   Link: <a href="https://www.researchgate.net/publication/376441474_Psychological_aspects_in_unidentified_anomalous_phenomena_UAP_witnesses" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376441474_Psychological_aspects_in_unidentified_anomalous_phenomena_UAP_witnesses</a>  
 
 29. <a id="endnote-29"></a>
    Source: archive.org  
-   Link: [https://archive.org/download/aliensinskies00unit/aliensinskies00unit.pdf](https://archive.org/download/aliensinskies00unit/aliensinskies00unit.pdf)  
+   Link: <a href="https://archive.org/download/aliensinskies00unit/aliensinskies00unit.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/aliensinskies00unit/aliensinskies00unit.pdf</a>  
 
 30. <a id="endnote-30"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WiltshireBBC/posts/do-you-remember-the-warminster-thing-the-sightings-well-known-among-locals-and-u/1350532837072946/](https://www.facebook.com/WiltshireBBC/posts/do-you-remember-the-warminster-thing-the-sightings-well-known-among-locals-and-u/1350532837072946/)  
+   Link: <a href="https://www.facebook.com/WiltshireBBC/posts/do-you-remember-the-warminster-thing-the-sightings-well-known-among-locals-and-u/1350532837072946/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WiltshireBBC/posts/do-you-remember-the-warminster-thing-the-sightings-well-known-among-locals-and-u/1350532837072946/</a>  
 
 31. <a id="endnote-31"></a>
    Source: cobeps.org  
-   Link: [https://www.cobeps.org/pdf/belgian_wave_130310.pdf](https://www.cobeps.org/pdf/belgian_wave_130310.pdf)  
+   Link: <a href="https://www.cobeps.org/pdf/belgian_wave_130310.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cobeps.org/pdf/belgian_wave_130310.pdf</a>  
 
 32. <a id="endnote-32"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/2365809903441367/posts/27187048340890846/](https://www.facebook.com/groups/2365809903441367/posts/27187048340890846/)  
+   Link: <a href="https://www.facebook.com/groups/2365809903441367/posts/27187048340890846/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/27187048340890846/</a>  
 
 33. <a id="endnote-33"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/space/comments/15n15b1/its_starlink/](https://www.reddit.com/r/space/comments/15n15b1/its_starlink/)  
+   Link: <a href="https://www.reddit.com/r/space/comments/15n15b1/its_starlink/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/15n15b1/its_starlink/</a>  
 
 34. <a id="endnote-34"></a>
    Source: ebsco.com  
-   Link: [https://www.ebsco.com/research-starters/social-sciences-and-humanities/mass-hysteria](https://www.ebsco.com/research-starters/social-sciences-and-humanities/mass-hysteria)  
+   Link: <a href="https://www.ebsco.com/research-starters/social-sciences-and-humanities/mass-hysteria" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/social-sciences-and-humanities/mass-hysteria</a>  
 
 35. <a id="endnote-35"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ThaiPBSWorld/posts/members-of-an-independent-nasa-panel-studying-ufos-or-what-the-us-government-now/6692013127510627/](https://www.facebook.com/ThaiPBSWorld/posts/members-of-an-independent-nasa-panel-studying-ufos-or-what-the-us-government-now/6692013127510627/)  
+   Link: <a href="https://www.facebook.com/ThaiPBSWorld/posts/members-of-an-independent-nasa-panel-studying-ufos-or-what-the-us-government-now/6692013127510627/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThaiPBSWorld/posts/members-of-an-independent-nasa-panel-studying-ufos-or-what-the-us-government-now/6692013127510627/</a>  
 
 36. <a id="endnote-36"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NewsNationNow/posts/mysterious-sightings-in-the-sky-are-likely-[drones](https://www.facebook.com/NewsNationNow/posts/mysterious-sightings-in-the-sky-are-likely-[drones)  
+   Link: <a href="https://www.facebook.com/NewsNationNow/posts/mysterious-sightings-in-the-sky-are-likely-[drones" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/mysterious-sightings-in-the-sky-are-likely-[drones</a>

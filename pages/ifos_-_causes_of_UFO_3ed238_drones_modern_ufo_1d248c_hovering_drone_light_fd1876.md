@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c_new_jersey_drone_sca_71cc59
 - ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c_not_a_drone_clues_cedb4f
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - drones
 - hovering-lights
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - drones
 - hovering-lights
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: A nearby drone can seem like a silent object parked in the sky when distance, scale, sound and launch point are unclear.
 hero_summary: A nearby drone can seem like a silent object parked in the sky when distance, scale, sound and launch point are unclear.
 layout: default
 permalink: /hovering-lights/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /drones/
 nav_short_title: Hovering Lights
 title: Why drone lights can look frozen in place
-title_full: Why drone lights can look frozen in place | Drones
+title_full: Why drone lights can look frozen in place
 display_title_short: Hovering Lights
 display_title: Hovering Lights
 heading_title: Why drone lights can look frozen in place
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 01:48:11'
-parent_title: When a Drone Becomes a UFO | IFOs
+parent_title: When a Drone Becomes a UFO
 parent_permalink: /drones/
 parent_nav_short_title: Drones
 parent_heading_title: When a Drone Becomes a UFO
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c
-  title: Drones | Ifos Causes Of
+  title: Drones | ifos causes of UFO 3 ed 238
   permalink: /drones/
   short_title: Drones
   heading_title: When a Drone Becomes a UFO
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c
-  title: Drones | Ifos Causes Of
+  title: Drones | ifos causes of UFO 3 ed 238
   permalink: /drones/
   short_title: Drones
   heading_title: When a Drone Becomes a UFO
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: When a UFO probably is not a drone
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c
-  title: Drones | Ifos Causes Of
+  title: Drones | ifos causes of UFO 3 ed 238
   permalink: /drones/
   short_title: Drones
   heading_title: When a Drone Becomes a UFO
@@ -266,6 +265,7 @@ next_link:
   permalink: /light-patterns/
   short_title: Light Patterns
   heading_title: When drone lights look stranger than aircraft
+date: '2026-06-12 00:42:55 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c_hovering_drone_light_fd1876-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c_hovering_drone_light_fd1876-Illustration-1.webp
@@ -274,8 +274,7 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c_hover
 
 ## Introduction
 
-Many night-time UFO reports begin with a simple observation: a bright light appears to be hanging motionless in the sky. After several minutes it may drift, accelerate, or vanish, leaving witnesses puzzled about what they have seen. One increasingly common explanation is a nearby drone using its hover capability. Unlike conventional aircraft, many multicopter [drones]({{ 'drones/' | relative_url }}) are designed to hold a fixed position in the air, sometimes for extended periods, using GPS, sensors and onboard flight-control software. <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/%40rohanmore90/how-a-drone-hovers-at-a-position-hold-gps-explained-with-python-simulation-2a82424eed7a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">MediumHow a Drone Hovers at a Position Hold (GPS)July 24, 2025 — The drone is told to hover at a GPS coordinate (say, x=0, y=0); Due to...</span><span class="citation-popover-meta">Published: July 24, 2025</span></span></span>
-
+Many night-time UFO reports begin with a simple observation: a bright light appears to be hanging motionless in the sky. After several minutes it may drift, accelerate, or vanish, leaving witnesses puzzled about what they have seen. One increasingly common explanation is a nearby drone using its hover capability. Unlike conventional aircraft, many multicopter [drones]({{ 'drones/' | relative_url }}) are designed to hold a fixed position in the air, sometimes for extended periods, using GPS, sensors and onboard flight-control software. <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/%40rohanmore90/how-a-drone-hovers-at-a-position-hold-gps-explained-with-python-simulation-2a82424eed7a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">How a Drone Hovers at a Position Hold (GPS)July 24, 2025 — The drone is told to hover at a GPS coordinate (say, x=0, y=0); Due to...</span><span class="citation-popover-meta">Published: July 24, 2025</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c_hovering_drone_light_fd1876-Illustration-1-dark.svg" | relative_url }}" alt="Hovering Lights illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c_hovering_drone_light_fd1876-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c_hovering_drone_light_fd1876-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The result is a sighting that can look surprisingly unusual. When darkness hides the drone's body and only its lights remain visible, familiar clues about size, distance, speed and direction largely disappear. A hovering drone can therefore resemble a stationary object suspended in space rather than a small aircraft operating nearby. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/57a0d051a2a94d21787089ceaf47b175" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News Is that a drone or a plane?</span><span class="citation-popover-snippet">Experts help explain the differencesDecember 16, 2024 — Distinguishing drones from planes and helicopters can be challenging from a dista...</span><span class="citation-popover-meta">Published: December 16, 2024</span></span></span>
@@ -284,12 +283,11 @@ The result is a sighting that can look surprisingly unusual. When darkness hides
 
 Most people recognise aircraft not from their shape but from their behaviour. Aeroplanes usually cross the sky on steady paths. Helicopters can hover, but they are often noisy and display recognisable navigation and anti-collision lighting patterns. A small drone changes that visual equation.
 
-Modern drones are specifically engineered to maintain a position hold. Flight controllers constantly measure drift caused by wind and make rapid corrections to keep the aircraft near a chosen point. To an observer on the ground, those corrections are often too small to notice, creating the impression of an object frozen in space. <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/%40rohanmore90/how-a-drone-hovers-at-a-position-hold-gps-explained-with-python-simulation-2a82424eed7a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">MediumHow a Drone Hovers at a Position Hold (GPS)July 24, 2025 — The drone is told to hover at a GPS coordinate (say, x=0, y=0); Due to...</span><span class="citation-popover-meta">Published: July 24, 2025</span></span></span>
+Modern drones are specifically engineered to maintain a position hold. Flight controllers constantly measure drift caused by wind and make rapid corrections to keep the aircraft near a chosen point. To an observer on the ground, those corrections are often too small to notice, creating the impression of an object frozen in space. <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/%40rohanmore90/how-a-drone-hovers-at-a-position-hold-gps-explained-with-python-simulation-2a82424eed7a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">How a Drone Hovers at a Position Hold (GPS)July 24, 2025 — The drone is told to hover at a GPS coordinate (say, x=0, y=0); Due to...</span><span class="citation-popover-meta">Published: July 24, 2025</span></span></span>
 
 At night, the effect becomes stronger because the aircraft itself may be invisible. Witnesses see only a light source. Without a visible fuselage, wings, rotor disc or background reference, the brain has little information from which to estimate motion. A light that is actually making tiny corrections can therefore appear perfectly stationary.
 
 This differs from a conventional aircraft, which usually reveals movement through changing position relative to [stars]({{ 'stars/' | relative_url }}), buildings or the horizon. A drone holding station may remain in almost the same visual location for several minutes, reinforcing the impression that it is not behaving like an ordinary aircraft.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1SUU6adYC2w" title="Perfect Position Hold Settings That Will Change Your Experience" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1SUU6adYC2w" target="_blank" rel="noopener noreferrer">Perfect Position Hold Settings That Will Change Your Experience</a></p><p class="youtube-embed-meta">Channel: UAV Tech &middot; Views: 9.6K &middot; Uploaded: March 2025 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1SUU6adYC2w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1SUU6adYC2w">Open on YouTube</a></p></div></div></div>
 
@@ -303,7 +301,6 @@ Sound can add another layer of confusion. Consumer drones produce a distinctive 
 
 Brightness also distorts perception. Many drones carry powerful anti-collision lights intended to remain visible over long distances. In the United States, night-flying drones operating under federal rules must carry anti-collision lighting visible for at least three statute miles. Such lights can be far more noticeable than the aircraft carrying them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/uas/commercial_operators/operations_over_people" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">operations over people</span><span class="citation-popover-snippet">Federal Aviation AdministrationOperations Over People General Overview10 Nov 2022 — The small unmanned aircraft must have lighted anti-co...</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c_hovering_drone_light_fd1876-Illustration-2-dark.svg" | relative_url }}" alt="Hovering Lights illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c_hovering_drone_light_fd1876-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c_hovering_drone_light_fd1876-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the light often seems to stop, then move again
 
@@ -312,7 +309,6 @@ A common witness description is that the object appeared stationary for a period
 This pattern fits drone behaviour remarkably well. A drone operator may pause to film, inspect a structure, wait for instructions, or simply hold position. After remaining almost motionless, the aircraft can move sideways, climb, descend or return to its launch point. Because multicopter drones can accelerate, brake and change direction much more abruptly than aeroplanes, the transition from "frozen" to "moving" can appear dramatic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/57a0d051a2a94d21787089ceaf47b175" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News Is that a drone or a plane?</span><span class="citation-popover-snippet">Experts help explain the differencesDecember 16, 2024 — Distinguishing drones from planes and helicopters can be challenging from a dista...</span><span class="citation-popover-meta">Published: December 16, 2024</span></span></span>
 
 Another factor is observer attention. Small movements that are difficult to detect while staring continuously may become obvious when the drone shifts against a clearer background reference, such as a rooftop edge, treeline or cloud layer. The witness experiences this as a sudden change even though the aircraft has been moving gradually.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HJr3MIsBpNc" title="WHY - Meaning and Pronunciation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HJr3MIsBpNc" target="_blank" rel="noopener noreferrer">WHY - Meaning and Pronunciation</a></p><p class="youtube-embed-meta">Channel: Accent Hero - British English &middot; Views: 1.4K &middot; Uploaded: March 2021 &middot; Length: 39 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HJr3MIsBpNc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HJr3MIsBpNc">Open on YouTube</a></p></div></div></div>
 
@@ -328,17 +324,14 @@ A stationary light is not automatically a drone, but several clues can make the 
 
 At the same time, caution is important. A light that appears stationary is not diagnostic. Aircraft approaching directly toward an observer, helicopters hovering at distance, and even some astronomical objects can create similar impressions. The key point is that drones have added a new and increasingly common mechanism for producing reports of apparently motionless lights in the night sky.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c_hovering_drone_light_fd1876-Illustration-3-dark.svg" | relative_url }}" alt="Hovering Lights illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c_hovering_drone_light_fd1876-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c_hovering_drone_light_fd1876-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why this mechanism matters in UFO reporting
 
 The significance of hovering drones is not that they explain every unidentified aerial sighting. Rather, they demonstrate how a genuine aircraft can produce an observation that feels extraordinary. A witness may accurately report a bright, silent light that appeared fixed in the sky. The misunderstanding arises later, when the observer estimates distance, size or behaviour from limited visual information.
 
-As drones become more common and more capable of stable hovering, reports of lights that seem to stop, hold position and then move again are likely to remain a recurring feature of UFO case files. Understanding how hovering removes normal aircraft cues helps explain why an ordinary drone can sometimes be perceived as a stationary object of unknown origin. <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/%40rohanmore90/how-a-drone-hovers-at-a-position-hold-gps-explained-with-python-simulation-2a82424eed7a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">MediumHow a Drone Hovers at a Position Hold (GPS)July 24, 2025 — The drone is told to hover at a GPS coordinate (say, x=0, y=0); Due to...</span><span class="citation-popover-meta">Published: July 24, 2025</span></span></span>
-
+As drones become more common and more capable of stable hovering, reports of lights that seem to stop, hold position and then move again are likely to remain a recurring feature of UFO case files. Understanding how hovering removes normal aircraft cues helps explain why an ordinary drone can sometimes be perceived as a stationary object of unknown origin. <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/%40rohanmore90/how-a-drone-hovers-at-a-position-hold-gps-explained-with-python-simulation-2a82424eed7a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">How a Drone Hovers at a Position Hold (GPS)July 24, 2025 — The drone is told to hover at a GPS coordinate (say, x=0, y=0); Due to...</span><span class="citation-popover-meta">Published: July 24, 2025</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6P-bOpUvX28" title="Night Flying Rules for Part 107 Pilots (PLUS 13 Night Questions &amp; My Favorite Beacon!)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6P-bOpUvX28" target="_blank" rel="noopener noreferrer">Night Flying Rules for Part 107 Pilots (PLUS 13 Night Questions &amp; My Favorite Beacon!)</a></p><p class="youtube-embed-meta">Channel: John Peltier &middot; Views: 2.6K &middot; Uploaded: July 2025 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6P-bOpUvX28" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6P-bOpUvX28">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -457,15 +450,15 @@ As drones become more common and more capable of stable hovering, reports of lig
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hovering-lights-why-drone-lights-can-look-frozen-in-place-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="hovering-lights-why-drone-lights-can-look-frozen-in-place-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="{{ '/assets/images/marketplace-covers/c69c50419429aba53ee5.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=led+drone+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-drone-lights-can-look-frozen-in-place-led-drone-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="led drone toy" data-ebay-reference="why-drone-lights-can-look-frozen-in-place-led-drone-toy" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LED Flying Orb Ball Toy Automatic Floating Spinner UFO Magic Drone Gift Kids"><img src="https://i.ebayimg.com/images/g/eC0AAeSwKE5p-Y5z/s-l225.jpg" alt="Listing image for LED Flying Orb Ball Toy Automatic Floating Spinner UFO Magic Drone Gift Kids" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hovering-lights-why-drone-lights-can-look-frozen-in-place-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="hovering-lights-why-drone-lights-can-look-frozen-in-place-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=led+drone+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-drone-lights-can-look-frozen-in-place-led-drone-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="led drone toy" data-ebay-reference="why-drone-lights-can-look-frozen-in-place-led-drone-toy" target="_blank" rel="sponsored noopener noreferrer">LED Flying Orb Ball Toy Automatic Floating Spinner UFO Magic Drone Gift Kids</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hovering-lights-why-drone-lights-can-look-frozen-in-place-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="hovering-lights-why-drone-lights-can-look-frozen-in-place-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=led+drone+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-drone-lights-can-look-frozen-in-place-led-drone-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="led drone toy" data-ebay-reference="why-drone-lights-can-look-frozen-in-place-led-drone-toy" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for led drone toy">Search <span data-ebay-domain-label>eBay.co.uk</span>: led drone toy</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hovering-lights-why-drone-lights-can-look-frozen-in-place-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="hovering-lights-why-drone-lights-can-look-frozen-in-place-ifos-causes-of-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=led+drone+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-drone-lights-can-look-frozen-in-place-led-drone-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="led drone toy" data-ebay-reference="why-drone-lights-can-look-frozen-in-place-led-drone-toy" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -473,15 +466,15 @@ As drones become more common and more capable of stable hovering, reports of lig
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hovering-lights-why-drone-lights-can-look-frozen-in-place-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="hovering-lights-why-drone-lights-can-look-frozen-in-place-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/16d7257b5b6fa9c07f55.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=led+drone+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-drone-lights-can-look-frozen-in-place-led-drone-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="led drone toy" data-ebay-reference="why-drone-lights-can-look-frozen-in-place-led-drone-toy" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LED Flying Orb Ball Toy Automatic Floating Spinner UFO Magic Drone Gift Kids"><img src="https://i.ebayimg.com/images/g/eLQAAeSwynFqJBPO/s-l225.jpg" alt="Listing image for LED Flying Orb Ball Toy Automatic Floating Spinner UFO Magic Drone Gift Kids" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hovering-lights-why-drone-lights-can-look-frozen-in-place-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="hovering-lights-why-drone-lights-can-look-frozen-in-place-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=led+drone+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-drone-lights-can-look-frozen-in-place-led-drone-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="led drone toy" data-ebay-reference="why-drone-lights-can-look-frozen-in-place-led-drone-toy" target="_blank" rel="sponsored noopener noreferrer">LED Flying Orb Ball Toy Automatic Floating Spinner UFO Magic Drone Gift Kids</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hovering-lights-why-drone-lights-can-look-frozen-in-place-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="hovering-lights-why-drone-lights-can-look-frozen-in-place-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=led+drone+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-drone-lights-can-look-frozen-in-place-led-drone-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="led drone toy" data-ebay-reference="why-drone-lights-can-look-frozen-in-place-led-drone-toy" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for led drone toy">Search <span data-ebay-domain-label>eBay.co.uk</span>: led drone toy</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hovering-lights-why-drone-lights-can-look-frozen-in-place-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="hovering-lights-why-drone-lights-can-look-frozen-in-place-ifos-causes-of-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=led+drone+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-drone-lights-can-look-frozen-in-place-led-drone-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="led drone toy" data-ebay-reference="why-drone-lights-can-look-frozen-in-place-led-drone-toy" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -489,15 +482,15 @@ As drones become more common and more capable of stable hovering, reports of lig
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hovering-lights-why-drone-lights-can-look-frozen-in-place-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="hovering-lights-why-drone-lights-can-look-frozen-in-place-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anderson Entertainment UFO Saucer Collectable"><img src="{{ '/assets/images/marketplace-covers/3fcedd05f4d4333b7b2b.jpg' | relative_url }}" alt="Listing image for Anderson Entertainment UFO Saucer Collectable" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=led+drone+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-drone-lights-can-look-frozen-in-place-led-drone-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="led drone toy" data-ebay-reference="why-drone-lights-can-look-frozen-in-place-led-drone-toy" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Hand Controlled Flying Drone Toy LED USB Rechargeable Helicopter Kids Gift"><img src="https://i.ebayimg.com/images/g/GfcAAeSwpFBpzZbH/s-l225.jpg" alt="Listing image for Hand Controlled Flying Drone Toy LED USB Rechargeable Helicopter Kids Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hovering-lights-why-drone-lights-can-look-frozen-in-place-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="hovering-lights-why-drone-lights-can-look-frozen-in-place-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Anderson Entertainment UFO Saucer Collectable</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=led+drone+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-drone-lights-can-look-frozen-in-place-led-drone-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="led drone toy" data-ebay-reference="why-drone-lights-can-look-frozen-in-place-led-drone-toy" target="_blank" rel="sponsored noopener noreferrer">Hand Controlled Flying Drone Toy LED USB Rechargeable Helicopter Kids Gift</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hovering-lights-why-drone-lights-can-look-frozen-in-place-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="hovering-lights-why-drone-lights-can-look-frozen-in-place-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=led+drone+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-drone-lights-can-look-frozen-in-place-led-drone-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="led drone toy" data-ebay-reference="why-drone-lights-can-look-frozen-in-place-led-drone-toy" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for led drone toy">Search <span data-ebay-domain-label>eBay.co.uk</span>: led drone toy</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hovering-lights-why-drone-lights-can-look-frozen-in-place-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="hovering-lights-why-drone-lights-can-look-frozen-in-place-ifos-causes-of-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=led+drone+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-drone-lights-can-look-frozen-in-place-led-drone-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="led drone toy" data-ebay-reference="why-drone-lights-can-look-frozen-in-place-led-drone-toy" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -505,15 +498,15 @@ As drones become more common and more capable of stable hovering, reports of lig
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hovering-lights-why-drone-lights-can-look-frozen-in-place-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="hovering-lights-why-drone-lights-can-look-frozen-in-place-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=led+drone+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-drone-lights-can-look-frozen-in-place-led-drone-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="led drone toy" data-ebay-reference="why-drone-lights-can-look-frozen-in-place-led-drone-toy" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LED Flying Orb Ball Toy Automatic Floating Spinner UFO Magic Drone Gift Kids"><img src="https://i.ebayimg.com/images/g/jwkAAeSwSQRp~ee~/s-l225.jpg" alt="Listing image for LED Flying Orb Ball Toy Automatic Floating Spinner UFO Magic Drone Gift Kids" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hovering-lights-why-drone-lights-can-look-frozen-in-place-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="hovering-lights-why-drone-lights-can-look-frozen-in-place-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=led+drone+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-drone-lights-can-look-frozen-in-place-led-drone-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="led drone toy" data-ebay-reference="why-drone-lights-can-look-frozen-in-place-led-drone-toy" target="_blank" rel="sponsored noopener noreferrer">LED Flying Orb Ball Toy Automatic Floating Spinner UFO Magic Drone Gift Kids</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hovering-lights-why-drone-lights-can-look-frozen-in-place-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="hovering-lights-why-drone-lights-can-look-frozen-in-place-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=led+drone+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-drone-lights-can-look-frozen-in-place-led-drone-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="led drone toy" data-ebay-reference="why-drone-lights-can-look-frozen-in-place-led-drone-toy" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for led drone toy">Search <span data-ebay-domain-label>eBay.co.uk</span>: led drone toy</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hovering-lights-why-drone-lights-can-look-frozen-in-place-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="hovering-lights-why-drone-lights-can-look-frozen-in-place-ifos-causes-of-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=led+drone+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-drone-lights-can-look-frozen-in-place-led-drone-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="led drone toy" data-ebay-reference="why-drone-lights-can-look-frozen-in-place-led-drone-toy" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -521,7 +514,7 @@ As drones become more common and more capable of stable hovering, reports of lig
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hovering-lights-why-drone-lights-can-look-frozen-in-place-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="hovering-lights-why-drone-lights-can-look-frozen-in-place-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=led+drone+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-drone-lights-can-look-frozen-in-place-led-drone-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="led drone toy" data-ebay-reference="why-drone-lights-can-look-frozen-in-place-led-drone-toy" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -736,93 +729,93 @@ As drones become more common and more capable of stable hovering, reports of lig
 
 1. <a id="endnote-1"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40rohanmore90/how-a-drone-hovers-at-a-position-hold-gps-explained-with-python-simulation-2a82424eed7a](https://medium.com/%40rohanmore90/how-a-drone-hovers-at-a-position-hold-gps-explained-with-python-simulation-2a82424eed7a)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MediumHow a Drone Hovers at a Position Hold (GPS)July 24, 2025 — The drone is told to hover at a GPS coordinate (say, x=0, y=0); Due to...</p></details>
+   Link: <a href="https://medium.com/%40rohanmore90/how-a-drone-hovers-at-a-position-hold-gps-explained-with-python-simulation-2a82424eed7a" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40rohanmore90/how-a-drone-hovers-at-a-position-hold-gps-explained-with-python-simulation-2a82424eed7a</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>How a Drone Hovers at a Position Hold (GPS)July 24, 2025 — The drone is told to hover at a GPS coordinate (say, x=0, y=0); Due to...</p></details>
    Published: July 24, 2025  
 
 2. <a id="endnote-2"></a>
    Source: apnews.com  
    Title: AP News Is that a drone or a plane?  
-   Link: [https://apnews.com/article/57a0d051a2a94d21787089ceaf47b175](https://apnews.com/article/57a0d051a2a94d21787089ceaf47b175)  
+   Link: <a href="https://apnews.com/article/57a0d051a2a94d21787089ceaf47b175" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/57a0d051a2a94d21787089ceaf47b175</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Experts help explain the differencesDecember 16, 2024 — Distinguishing drones from planes and helicopters can be challenging from a dista...</p></details>
    Published: December 16, 2024  
 
 3. <a id="endnote-3"></a>
    Source: faa.gov  
    Title: operations over people  
-   Link: [https://www.faa.gov/uas/commercial_operators/operations_over_people](https://www.faa.gov/uas/commercial_operators/operations_over_people)  
+   Link: <a href="https://www.faa.gov/uas/commercial_operators/operations_over_people" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/uas/commercial_operators/operations_over_people</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationOperations Over People General Overview10 Nov 2022 — The small unmanned aircraft must have lighted anti-co...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/why](https://www.merriam-webster.com/dictionary/why)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/why" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/why</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; Meaning22 May 2026 — 1. The cause, reason, or purpose for which know why you did it that is why you did it 2. For which: on...</p></details>
    Published: May 2026  
 
 5. <a id="endnote-5"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=HJr3MIsBpNc](https://www.youtube.com/watch?v=HJr3MIsBpNc)  
+   Link: <a href="https://www.youtube.com/watch?v=HJr3MIsBpNc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HJr3MIsBpNc</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>WHY - Meaning and PronunciationHow to pronounce why? This video provides examples of British English pronunciations of why by male and fe...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Why](https://en.wikipedia.org/wiki/Why)  
+   Link: <a href="https://en.wikipedia.org/wiki/Why" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Why</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why - WikipediaWhy may refer to: Causality, a consequential relationship between two or more events; Reason (argument), a premise in s...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/why](https://dictionary.cambridge.org/dictionary/english/why)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>| English meaning - Cambridge DictionaryWHY definition: 1. for what reason: 2. used to express surprise or anger: 3. the reasons for some...</p></details>
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/why" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/why</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge DictionaryWHY definition: 1. for what reason: 2. used to express surprise or anger: 3. the reasons for some...</p></details>
 
 ### Additional References
 
 8. <a id="endnote-8"></a>
    Source: ecfr.gov  
-   Link: [https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-107/subpart-B/section-107.29](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-107/subpart-B/section-107.29)  
+   Link: <a href="https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-107/subpart-B/section-107.29" target="_blank" rel="noopener noreferrer nofollow">https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-107/subpart-B/section-107.29</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>14 CFR 107.29 -- Operation at night.(2) The small unmanned aircraft has lighted anti-collision lighting visible for at least 3 statute mi...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: amazon.nl  
-   Link: [https://www.amazon.nl/Intelligent-Ultra-Clear-Dual-Camera-Professional-Photography/dp/B0C5QN6MNL](https://www.amazon.nl/Intelligent-Ultra-Clear-Dual-Camera-Professional-Photography/dp/B0C5QN6MNL)  
+   Link: <a href="https://www.amazon.nl/Intelligent-Ultra-Clear-Dual-Camera-Professional-Photography/dp/B0C5QN6MNL" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.nl/Intelligent-Ultra-Clear-Dual-Camera-Professional-Photography/dp/B0C5QN6MNL</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>GPS Drones Intelligent Follow 4K Ultra-Clear Dual-Camera...Intelligent design: turn on gestures to take photos/videos, the lens will aut...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: lightwarelidar.com  
-   Link: [https://lightwarelidar.com/applications-position-hold/?srsltid=AfmBOoqkKEzRxOzym1Lb0vaJVvtXzEKDUVsir5nNXw-CZF_i3ywyYmTC](https://lightwarelidar.com/applications-position-hold/?srsltid=AfmBOoqkKEzRxOzym1Lb0vaJVvtXzEKDUVsir5nNXw-CZF_i3ywyYmTC)  
+   Link: <a href="https://lightwarelidar.com/applications-position-hold/?srsltid=AfmBOoqkKEzRxOzym1Lb0vaJVvtXzEKDUVsir5nNXw-CZF_i3ywyYmTC" target="_blank" rel="noopener noreferrer nofollow">https://lightwarelidar.com/applications-position-hold/?srsltid=AfmBOoqkKEzRxOzym1Lb0vaJVvtXzEKDUVsir5nNXw-CZF_i3ywyYmTC</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Drone Position Hold FeatureAchieve precise position hold for UAVs with LightWare&#x27;s LiDAR, ensuring stability and accuracy even in GPS-den...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: ly-uav.com  
-   Link: [https://ly-uav.com/drone-lights-guide/](https://ly-uav.com/drone-lights-guide/)  
+   Link: <a href="https://ly-uav.com/drone-lights-guide/" target="_blank" rel="noopener noreferrer nofollow">https://ly-uav.com/drone-lights-guide/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Professional Drone Lights for Safe &amp; Efficient UAV OperationDrone lights are specialized lighting systems integrated onto unmanned aerial...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: d1store.com.au  
-   Link: [https://www.d1store.com.au/lounge/content/rtk-vs-gps-position-hold?srsltid=AfmBOopKz7tLkQUICRwZIlNC6UPImroE7Zl71SiWYIsD0sIQ0qdyKwO8](https://www.d1store.com.au/lounge/content/rtk-vs-gps-position-hold?srsltid=AfmBOopKz7tLkQUICRwZIlNC6UPImroE7Zl71SiWYIsD0sIQ0qdyKwO8)  
+   Link: <a href="https://www.d1store.com.au/lounge/content/rtk-vs-gps-position-hold?srsltid=AfmBOopKz7tLkQUICRwZIlNC6UPImroE7Zl71SiWYIsD0sIQ0qdyKwO8" target="_blank" rel="noopener noreferrer nofollow">https://www.d1store.com.au/lounge/content/rtk-vs-gps-position-hold?srsltid=AfmBOopKz7tLkQUICRwZIlNC6UPImroE7Zl71SiWYIsD0sIQ0qdyKwO8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>RTK vs GPS Position Hold: Which One Is Better?The aircraft is able to know its exact position in real time enhancing its abilities to mai...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: collinsdictionary.com  
-   Link: [https://www.collinsdictionary.com/dictionary/english/why](https://www.collinsdictionary.com/dictionary/english/why)  
+   Link: <a href="https://www.collinsdictionary.com/dictionary/english/why" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/dictionary/english/why</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>WHY definition and meaning | Collins English Dictionary4 meanings: 1. a. for what reason, purpose, or cause? b. (used in indirect questio...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: zenatech.com  
-   Link: [https://www.zenatech.com/drone-night-flying-guide/](https://www.zenatech.com/drone-night-flying-guide/)  
+   Link: <a href="https://www.zenatech.com/drone-night-flying-guide/" target="_blank" rel="noopener noreferrer nofollow">https://www.zenatech.com/drone-night-flying-guide/</a>  
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
    Title: how drones can hover explained for beginners drones dronephotography dronevideoo  
-   Link: [https://www.facebook.com/DronesOverhead/posts/how-drones-can-hover-explained-for-beginners-drones-dronephotography-dronevideoo/320718024247222/](https://www.facebook.com/DronesOverhead/posts/how-drones-can-hover-explained-for-beginners-drones-dronephotography-dronevideoo/320718024247222/)  
+   Link: <a href="https://www.facebook.com/DronesOverhead/posts/how-drones-can-hover-explained-for-beginners-drones-dronephotography-dronevideoo/320718024247222/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DronesOverhead/posts/how-drones-can-hover-explained-for-beginners-drones-dronephotography-dronevideoo/320718024247222/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How drones can hover explained for beginners15 Dec 2023 — Some vision sensors are for low-level hovering, the GPS module is for accurate...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/diydrones/comments/w9g0ej/position_hold_hover_for_new_drone_build/](https://www.reddit.com/r/diydrones/comments/w9g0ej/position_hold_hover_for_new_drone_build/)  
+   Link: <a href="https://www.reddit.com/r/diydrones/comments/w9g0ej/position_hold_hover_for_new_drone_build/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/diydrones/comments/w9g0ej/position_hold_hover_for_new_drone_build/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What&#x27;s the best way? Is it possible in betaflight? INaV? This is something I haven&#x27;t thought about on my new...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: faa.gov  
    Title: small unmanned aircraft systems uas regulations part 107  
-   Link: [https://www.faa.gov/newsroom/small-unmanned-aircraft-systems-uas-regulations-part-107](https://www.faa.gov/newsroom/small-unmanned-aircraft-systems-uas-regulations-part-107)  
+   Link: <a href="https://www.faa.gov/newsroom/small-unmanned-aircraft-systems-uas-regulations-part-107" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/newsroom/small-unmanned-aircraft-systems-uas-regulations-part-107</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Small Unmanned Aircraft Systems (UAS) Regulations (Part...6 Oct 2020 — You can fly during daylight (30 minutes before official sunrise t...</p></details>

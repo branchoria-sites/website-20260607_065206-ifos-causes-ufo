@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_radar_ducting_false_010dff
 - ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_real_object_unidenti_1f06b3
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - sensor-operators
 - display-cues
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - sensor-operators
 - display-cues
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Skilled operators may notice unusual tracks quickly, but screens can compress distance, angle and motion in ways that invite wrong first impressions.
 hero_summary: Skilled operators may notice unusual tracks quickly, but screens can compress distance, angle and motion in ways that invite wrong first impressions.
 layout: default
 permalink: /display-cues/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /sensor-operators/
 nav_short_title: Display cues
 title: Why expert screens can still mislead
-title_full: Why expert screens can still mislead | Sensor Operators
+title_full: Why expert screens can still mislead
 display_title_short: Display cues
 display_title: Display cues
 heading_title: Why expert screens can still mislead
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: When Sensors Need Human Context | IFOs
+parent_title: When Sensors Need Human Context
 parent_permalink: /sensor-operators/
 parent_nav_short_title: Sensor Operators
 parent_heading_title: When Sensors Need Human Context
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b
-  title: Sensor Operators | Ifos Causes Of
+  title: Sensor Operators | ifos causes of UFO 3 ed 238
   permalink: /sensor-operators/
   short_title: Sensor Operators
   heading_title: When Sensors Need Human Context
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b
-  title: Sensor Operators | Ifos Causes Of
+  title: Sensor Operators | ifos causes of UFO 3 ed 238
   permalink: /sensor-operators/
   short_title: Sensor Operators
   heading_title: When Sensors Need Human Context
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Real object does not mean solved object
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b
-  title: Sensor Operators | Ifos Causes Of
+  title: Sensor Operators | ifos causes of UFO 3 ed 238
   permalink: /sensor-operators/
   short_title: Sensor Operators
   heading_title: When Sensors Need Human Context
@@ -259,7 +259,7 @@ next_link:
   permalink: /go-fast/
   short_title: Go Fast
   heading_title: Why Go Fast looked faster than it was
-date: '2026-06-07 06:13:00 '
+date: '2026-06-12 00:38:22 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_operator_display_mot_2efffb-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_operator_display_mot_2efffb-Illustration-1.webp
@@ -269,7 +269,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_operat
 ## Introduction
 
 Reports from trained [sensor operators]({{ 'sensor-operators/' | relative_url }}) often begin with a real anomaly: a track, heat source or moving point that does not immediately fit expectations. Yet the display itself can create misleading impressions of speed, direction and behaviour. In investigations of unidentified flying objects (IFOs), one of the most important lessons is that a surprising track is not the same thing as a surprising object. Modern military and aviation displays are powerful tools, but they compress a complex three-dimensional situation into simplified symbols, video feeds and tracking markers. As a result, even experienced operators can initially perceive extraordinary motion where later analysis finds ordinary causes such as parallax, perspective effects or missing [range]({{ 'range/' | relative_url }}) information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe study of Unidentified Anomalous Phenomena (UAP) presents a unique scientific opportunity tha...</span></span></span>
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_operator_display_mot_2efffb-Illustration-1-dark.svg" | relative_url }}" alt="Display cues illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_operator_display_mot_2efffb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_operator_display_mot_2efffb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why expert screens can still mislead
@@ -292,23 +291,21 @@ Several missing cues commonly contribute to mistaken impressions:
 * **Platform movement**: Aircraft, [drones]({{ 'drones/' | relative_url }}) and ships carrying the sensors are often moving rapidly themselves.
 * **Display processing**: Tracking software may stabilise, zoom or filter imagery in ways that alter visual intuition. NASA Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Responses to Statement of Task</span><span class="citation-popover-snippet">Unidentified Anomalous Phenomena: Independent...Oct 14, 2023 — Indeed, several apparent UAP have been demonstrated to be sensor artifact...</span></span></span> A target can therefore appear to accelerate, stop or change direction dramatically even when its actual movement is relatively ordinary.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bqsYroxu0_U" title="Nasa releases footage of unidentifiable ‘spherical orb’ UFO flying through Middle East" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bqsYroxu0_U" target="_blank" rel="noopener noreferrer">Nasa releases footage of unidentifiable ‘spherical orb’ UFO flying through Middle East</a></p><p class="youtube-embed-meta">Channel: The Independent &middot; Views: 123.3K &middot; Uploaded: June 2023 &middot; Length: 35 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bqsYroxu0_U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bqsYroxu0_U">Open on YouTube</a></p></div></div></div>
-
 ### The difference between a track and an object
 
 Operators frequently work with symbols, markers or computer-generated tracks rather than continuously observing a physical object. A track represents the system's estimate of where something is, not necessarily a complete description of what it is doing.
 
 Track-management software can merge detections, lose detections and reacquire them. Filters designed to reduce clutter may also affect how movement appears over time. Consequently, an unusual track may reflect a combination of object behaviour, sensor limitations and processing assumptions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — In terms of military reporting, the sensors on which UAP most frequen...</span></span></span>
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bqsYroxu0_U" title="Nasa releases footage of unidentifiable ‘spherical orb’ UFO flying through Middle East" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bqsYroxu0_U" target="_blank" rel="noopener noreferrer">Nasa releases footage of unidentifiable ‘spherical orb’ UFO flying through Middle East</a></p><p class="youtube-embed-meta">Channel: The Independent &middot; Views: 123.3K &middot; Uploaded: June 2023 &middot; Length: 35 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bqsYroxu0_U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bqsYroxu0_U">Open on YouTube</a></p></div></div></div>
+
 ## How platform motion changes the picture
 
 One of the most significant sources of apparent anomalous motion is parallax. Parallax occurs when the observer moves relative to objects at different distances. Nearby objects seem to shift rapidly against distant backgrounds, creating an illusion of high speed.
 
-AARO has published detailed explanations showing how parallax and forced perspective can cause observers to overestimate the size, speed or manoeuvrability of an object. According to the office, these effects frequently account for reports describing extremely fast movement that initially appeared extraordinary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROEffect of Forced Perspective and Parallax View on UAP...Under these conditions, an observer can misinterpret the apparent size and s...</span></span></span>
+AARO has published detailed explanations showing how parallax and forced perspective can cause observers to overestimate the size, speed or manoeuvrability of an object. According to the office, these effects frequently account for reports describing extremely fast movement that initially appeared extraordinary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Effect of Forced Perspective and Parallax View on UAP...Under these conditions, an observer can misinterpret the apparent size and s...</span></span></span>
 
 The effect becomes especially powerful when:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -321,7 +318,6 @@ The effect becomes especially powerful when:
 </div>
 
 In these situations, a relatively slow object can appear to cross large distances at remarkable speed.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_operator_display_mot_2efffb-Illustration-2-dark.svg" | relative_url }}" alt="Display cues illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_operator_display_mot_2efffb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_operator_display_mot_2efffb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### A concrete example: the "Go Fast" lesson
@@ -336,7 +332,6 @@ Human perception evolved to judge motion in ordinary environments. Sensor displa
 
 Several display characteristics can make a track seem more dramatic:
 
-
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * Stabilised imagery causes backgrounds to behave differently from normal vision.
@@ -349,11 +344,10 @@ Several display characteristics can make a track seem more dramatic:
 
 As a result, later viewers may become even more confident about apparent motion than the operators who first observed it.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_operator_display_mot_2efffb-Illustration-3-dark.svg" | relative_url }}" alt="Display cues illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_operator_display_mot_2efffb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_operator_display_mot_2efffb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### When a genuine anomaly remains
 
-Not every unresolved case is explained by display effects. Some reports remain unidentified because available data are incomplete rather than because a specific mundane explanation has been proven. AARO's public case archive includes examples where an object is assessed as physically present but cannot be conclusively identified with the information available. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">AAROUAP ImageryIn 2023, the United States Africa Command submitted a report of an unidentified anomalous phenomenon to the All-domain Ano...</span></span></span>
+Not every unresolved case is explained by display effects. Some reports remain unidentified because available data are incomplete rather than because a specific mundane explanation has been proven. AARO's public case archive includes examples where an object is assessed as physically present but cannot be conclusively identified with the information available. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">UAP ImageryIn 2023, the United States Africa Command submitted a report of an unidentified anomalous phenomenon to the All-domain Ano...</span></span></span>
 
 This distinction matters. A mistaken motion cue can explain why an object seemed extraordinarily fast without necessarily identifying the object itself. Resolving apparent performance and resolving identity are separate analytical tasks.
 
@@ -364,10 +358,6 @@ Experienced operators provide some of the most valuable UFO and UAP reports beca
 Modern investigations increasingly focus on reconstructing the entire observation geometry rather than relying solely on the initial impression. Analysts seek multiple sensors, calibrated data, accurate [timestamps]({{ 'timestamps/' | relative_url }}), platform position, environmental information and full metadata. NASA's UAP study emphasised that such contextual information is essential for distinguishing genuine anomalies from artefacts of observation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe study of Unidentified Anomalous Phenomena (UAP) presents a unique scientific opportunity tha...</span></span></span>
 
 For the study of IFOs, the key lesson is straightforward: an expert operator's report deserves attention, but a surprising display cue is only the beginning of an identification process. The more a display compresses distance, angle and motion into a simplified picture, the greater the risk that an apparently extraordinary manoeuvre is actually a consequence of how the scene was viewed rather than how the object moved. AARO <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-snippet">3 ways scientists use math to help debunk UFO videosNASA and the US government have turned to math and science publicly to help show how...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -486,15 +476,15 @@ For the study of IFOs, the key lesson is straightforward: an expert operator's r
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=display-cues-why-expert-screens-can-still-mislead-ifos-causes-of-airliner-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner display model" data-ebay-reference="display-cues-why-expert-screens-can-still-mislead-ifos-causes-of-airliner-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:300 A380 Qantas Airways Civil Airliner Paper Model Unassembled Plane Display"><img src="{{ '/assets/images/marketplace-covers/5e7f445f205ce302b515.jpg' | relative_url }}" alt="Listing image for 1:300 A380 Qantas Airways Civil Airliner Paper Model Unassembled Plane Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-expert-screens-can-still-mislead-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="why-expert-screens-can-still-mislead-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RADAR OPTIMUM HOME ENTERTAINMENT PROMOTIONAL BOOKLET WITH SOURCE CODE POSTER"><img src="https://i.ebayimg.com/images/g/p10AAOSwc5FoQoLz/s-l225.jpg" alt="Listing image for RADAR OPTIMUM HOME ENTERTAINMENT PROMOTIONAL BOOKLET WITH SOURCE CODE POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=display-cues-why-expert-screens-can-still-mislead-ifos-causes-of-airliner-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner display model" data-ebay-reference="display-cues-why-expert-screens-can-still-mislead-ifos-causes-of-airliner-display-model" target="_blank" rel="sponsored noopener noreferrer">1:300 A380 Qantas Airways Civil Airliner Paper Model Unassembled Plane Display</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-expert-screens-can-still-mislead-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="why-expert-screens-can-still-mislead-radar-poster" target="_blank" rel="sponsored noopener noreferrer">RADAR OPTIMUM HOME ENTERTAINMENT PROMOTIONAL BOOKLET WITH SOURCE CODE POSTER</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=display-cues-why-expert-screens-can-still-mislead-ifos-causes-of-airliner-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner display model" data-ebay-reference="display-cues-why-expert-screens-can-still-mislead-ifos-causes-of-airliner-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airliner display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airliner display model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-expert-screens-can-still-mislead-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="why-expert-screens-can-still-mislead-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: radar poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=display-cues-why-expert-screens-can-still-mislead-ifos-causes-of-airliner-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner display model" data-ebay-reference="display-cues-why-expert-screens-can-still-mislead-ifos-causes-of-airliner-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-expert-screens-can-still-mislead-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="why-expert-screens-can-still-mislead-radar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -502,15 +492,15 @@ For the study of IFOs, the key lesson is straightforward: an expert operator's r
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=display-cues-why-expert-screens-can-still-mislead-ifos-causes-of-airliner-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner display model" data-ebay-reference="display-cues-why-expert-screens-can-still-mislead-ifos-causes-of-airliner-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NEW De Havilland Dash 8 Q-400 Flybe SolidMahogany Wood Handcrafted Display Model"><img src="{{ '/assets/images/marketplace-covers/ac6c4f467d99294dba64.jpg' | relative_url }}" alt="Listing image for NEW De Havilland Dash 8 Q-400 Flybe SolidMahogany Wood Handcrafted Display Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-expert-screens-can-still-mislead-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="why-expert-screens-can-still-mislead-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Matt the radar technician Framed Ar Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/DmoAAeSwKh9p2SMf/s-l225.jpg" alt="Listing image for Matt the radar technician Framed Ar Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=display-cues-why-expert-screens-can-still-mislead-ifos-causes-of-airliner-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner display model" data-ebay-reference="display-cues-why-expert-screens-can-still-mislead-ifos-causes-of-airliner-display-model" target="_blank" rel="sponsored noopener noreferrer">NEW De Havilland Dash 8 Q-400 Flybe SolidMahogany Wood Handcrafted Display Model</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-expert-screens-can-still-mislead-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="why-expert-screens-can-still-mislead-radar-poster" target="_blank" rel="sponsored noopener noreferrer">Matt the radar technician Framed Ar Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=display-cues-why-expert-screens-can-still-mislead-ifos-causes-of-airliner-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner display model" data-ebay-reference="display-cues-why-expert-screens-can-still-mislead-ifos-causes-of-airliner-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airliner display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airliner display model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-expert-screens-can-still-mislead-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="why-expert-screens-can-still-mislead-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: radar poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=display-cues-why-expert-screens-can-still-mislead-ifos-causes-of-airliner-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner display model" data-ebay-reference="display-cues-why-expert-screens-can-still-mislead-ifos-causes-of-airliner-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-expert-screens-can-still-mislead-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="why-expert-screens-can-still-mislead-radar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -518,15 +508,15 @@ For the study of IFOs, the key lesson is straightforward: an expert operator's r
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=display-cues-why-expert-screens-can-still-mislead-ifos-causes-of-airliner-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner display model" data-ebay-reference="display-cues-why-expert-screens-can-still-mislead-ifos-causes-of-airliner-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:168 Concorde Aircraft Model Alloy Plane Sound Light Display Toy High Quality"><img src="{{ '/assets/images/marketplace-covers/807804364e7fdfa3e05c.jpg' | relative_url }}" alt="Listing image for 1:168 Concorde Aircraft Model Alloy Plane Sound Light Display Toy High Quality" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-expert-screens-can-still-mislead-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="why-expert-screens-can-still-mislead-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RADAR Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/swoAAeSw9fpp2SNV/s-l225.jpg" alt="Listing image for RADAR Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=display-cues-why-expert-screens-can-still-mislead-ifos-causes-of-airliner-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner display model" data-ebay-reference="display-cues-why-expert-screens-can-still-mislead-ifos-causes-of-airliner-display-model" target="_blank" rel="sponsored noopener noreferrer">1:168 Concorde Aircraft Model Alloy Plane Sound Light Display Toy High Quality</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-expert-screens-can-still-mislead-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="why-expert-screens-can-still-mislead-radar-poster" target="_blank" rel="sponsored noopener noreferrer">RADAR Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=display-cues-why-expert-screens-can-still-mislead-ifos-causes-of-airliner-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner display model" data-ebay-reference="display-cues-why-expert-screens-can-still-mislead-ifos-causes-of-airliner-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airliner display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airliner display model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-expert-screens-can-still-mislead-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="why-expert-screens-can-still-mislead-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: radar poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=display-cues-why-expert-screens-can-still-mislead-ifos-causes-of-airliner-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner display model" data-ebay-reference="display-cues-why-expert-screens-can-still-mislead-ifos-causes-of-airliner-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-expert-screens-can-still-mislead-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="why-expert-screens-can-still-mislead-radar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -534,15 +524,15 @@ For the study of IFOs, the key lesson is straightforward: an expert operator's r
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=display-cues-why-expert-screens-can-still-mislead-ifos-causes-of-airliner-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner display model" data-ebay-reference="display-cues-why-expert-screens-can-still-mislead-ifos-causes-of-airliner-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 16cm Air Canada B777 Plane Model Diecast 1/400 Aircraft Airliner Display Gift V"><img src="{{ '/assets/images/marketplace-covers/62165433cfd2c39787a6.jpg' | relative_url }}" alt="Listing image for 16cm Air Canada B777 Plane Model Diecast 1/400 Aircraft Airliner Display Gift V" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-expert-screens-can-still-mislead-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="why-expert-screens-can-still-mislead-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aviation Flight Radar Framed Wall Art Poster Canvas Print Picture"><span>eBay</span></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=display-cues-why-expert-screens-can-still-mislead-ifos-causes-of-airliner-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner display model" data-ebay-reference="display-cues-why-expert-screens-can-still-mislead-ifos-causes-of-airliner-display-model" target="_blank" rel="sponsored noopener noreferrer">16cm Air Canada B777 Plane Model Diecast 1/400 Aircraft Airliner Display Gift V</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-expert-screens-can-still-mislead-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="why-expert-screens-can-still-mislead-radar-poster" target="_blank" rel="sponsored noopener noreferrer">Aviation Flight Radar Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=display-cues-why-expert-screens-can-still-mislead-ifos-causes-of-airliner-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner display model" data-ebay-reference="display-cues-why-expert-screens-can-still-mislead-ifos-causes-of-airliner-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airliner display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airliner display model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-expert-screens-can-still-mislead-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="why-expert-screens-can-still-mislead-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: radar poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=display-cues-why-expert-screens-can-still-mislead-ifos-causes-of-airliner-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner display model" data-ebay-reference="display-cues-why-expert-screens-can-still-mislead-ifos-causes-of-airliner-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-expert-screens-can-still-mislead-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="why-expert-screens-can-still-mislead-radar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -550,7 +540,7 @@ For the study of IFOs, the key lesson is straightforward: an expert operator's r
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=display-cues-why-expert-screens-can-still-mislead-ifos-causes-of-airliner-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner display model" data-ebay-reference="display-cues-why-expert-screens-can-still-mislead-ifos-causes-of-airliner-display-model" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-expert-screens-can-still-mislead-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="why-expert-screens-can-still-mislead-radar-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -765,148 +755,148 @@ For the study of IFOs, the key lesson is straightforward: an expert operator's r
 
 1. <a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportThe study of Unidentified Anomalous Phenomena (UAP) presents a unique scientific opportunity tha...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROEffect of Forced Perspective and Parallax View on UAP...Under these conditions, an observer can misinterpret the apparent size and s...</p></details>
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Effect of Forced Perspective and Parallax View on UAP...Under these conditions, an observer can misinterpret the apparent size and s...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 18 Mar 2024 — In terms of military reporting, the sensors on which UAP most frequen...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: en.wikisource.org  
    Title: Responses to Statement of Task  
-   Link: [https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task](https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task)  
+   Link: <a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena: Independent...Oct 14, 2023 — Indeed, several apparent UAP have been demonstrated to be sensor artifact...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Resources/](https://www.aaro.mil/Resources/)  
+   Link: <a href="https://www.aaro.mil/Resources/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Resources/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ResourcesEffect of Forced Perspective and Parallax View on UAP Observations · Correlations of [Starlink](&amp;#123;&amp;#123; &#x27;starlink/&#x27; | relative_url &amp;#125;&amp;#125;) Satellite Flaring with UAP Observa...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: space.com  
    Title: pentagon ufo chief tells senate very anomalous objects need careful study video  
-   Link: [https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video](https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpacePentagon UFO chief tells Senate &#x27;very anomalous objects&#x27;...19 Nov 2024 — In that case, the object&#x27;s apparent speed in the video was...</p></details>
+   Link: <a href="https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO chief tells Senate &#x27;very anomalous objects&#x27;...19 Nov 2024 — In that case, the object&#x27;s apparent speed in the video was...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: pbs.org  
-   Link: [https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos](https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos)  
+   Link: <a href="https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos</a>  
 
 8. <a id="endnote-8"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROUAP ImageryIn 2023, the United States Africa Command submitted a report of an unidentified anomalous phenomenon to the All-domain Ano...</p></details>
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryIn 2023, the United States Africa Command submitted a report of an unidentified anomalous phenomenon to the All-domain Ano...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 8, 2026 — The study team then recommended a roadmap for potential future NASA unidentified anomalous data analyses. The study took ni...</p></details>
    Published: May 8, 2026  
 
 10. <a id="endnote-10"></a>
    Source: nasa.gov  
    Title: to release discuss unidentified anomalous phenomena report  
-   Link: [https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/](https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/)  
+   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA will host a media briefing at 10 a.m. EDT on Thursday, Sept. 14, at the agency&#x27;s...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>9, 2022 — The UAP Independent Study shall report on the following questions: What types of scientific data currently collected and archiv...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/Multimedia/videoid/880273/](https://www.war.gov/Multimedia/videoid/880273/)  
+   Link: <a href="https://www.war.gov/Multimedia/videoid/880273/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/Multimedia/videoid/880273/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Multimedia | U.S. Department of War12 Jul 2022 — This video is a representative example of many of the cases AARO receives where there is...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: war.gov  
    Title: dod working to better understand resolve anomalous phenomena  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3368109/dod-working-to-better-understand-resolve-anomalous-phenomena/](https://www.war.gov/News/News-Stories/Article/Article/3368109/dod-working-to-better-understand-resolve-anomalous-phenomena/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3368109/dod-working-to-better-understand-resolve-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3368109/dod-working-to-better-understand-resolve-anomalous-phenomena/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP reports display signatures that could reasonably be described as &#x27;anomalous.&#x27; The majority of unidentified objects reported to AARO...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeUnidentified Anomalous Phenomena (UAP) means (A) airborne objects that are not immediately identifiable; (B) transmedium objects...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: aaro.mil  
    Title: Go Fast Case Resolution Card Methodology Final  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf](https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO [GoFast](&amp;#123;&amp;#123; &#x27;gofast/&#x27; | relative_url &amp;#125;&amp;#125;) Case Resolution6 Feb 2025 — The object&#x27;s apparent high speed is attributable to motion parallax. Motion parallax is an optica...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: space.com  
    Title: nasa ufo uap study team first results revealed  
-   Link: [https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed](https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed)  
+   Link: <a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — NASA&#x27;s UFO study team released its long-awaited first report tod...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024](https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024)  
+   Link: <a href="https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PR-017, Unresolved UAP Report, Europe 2024The video footage associated with this report is insufficient for AARO to render a determinatio...</p></details>
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/167nwhe/aaros_videos_the_us_government_cannot_identify/](https://www.reddit.com/r/UFOs/comments/167nwhe/aaros_videos_the_us_government_cannot_identify/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/167nwhe/aaros_videos_the_us_government_cannot_identify/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/167nwhe/aaros_videos_the_us_government_cannot_identify/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROs Videos: The US Government cannot identify...... UAP going back and forth making sharp u-turns over and over again. Sensor video tw...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/unit/AARO](https://www.dvidshub.net/unit/AARO)  
+   Link: <a href="https://www.dvidshub.net/unit/AARO" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/unit/AARO</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>All Domain Anomaly Resolution OfficeThe United States Africa Command submitted a report of an unidentified anomalous phenomenon to the Al...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/](https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/)  
+   Link: <a href="https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...However, many of the possible explanations are probably due to observer misinterpretation...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/728877225402752/posts/1305043741119428/](https://www.facebook.com/groups/728877225402752/posts/1305043741119428/)  
+   Link: <a href="https://www.facebook.com/groups/728877225402752/posts/1305043741119428/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/728877225402752/posts/1305043741119428/</a>  
 
 22. <a id="endnote-22"></a>
    Source: wired.com  
-   Link: [https://www.wired.com/story/nasa-ufos-aliens-report-2023](https://www.wired.com/story/nasa-ufos-aliens-report-2023)  
+   Link: <a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The agency stressed the need to shift the conversation from sensationalism to science and eliminate the [stigma](&amp;#123;&amp;#123; &#x27;stigma/&#x27; | relative_url &amp;#125;&amp;#125;) associated with reporting...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: theforestawakening.com  
    Title: effect of forced perspective and parallax view on uap observations 35a2093a  
-   Link: [https://theforestawakening.com/incidents/effect-of-forced-perspective-and-parallax-view-on-uap-observations-35a2093a](https://theforestawakening.com/incidents/effect-of-forced-perspective-and-parallax-view-on-uap-observations-35a2093a)  
+   Link: <a href="https://theforestawakening.com/incidents/effect-of-forced-perspective-and-parallax-view-on-uap-observations-35a2093a" target="_blank" rel="noopener noreferrer nofollow">https://theforestawakening.com/incidents/effect-of-forced-perspective-and-parallax-view-on-uap-observations-35a2093a</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Effect of Forced Perspective and Parallax View on UAP...1 Jan 2024 — AARO explains how forced perspective and parallax effects can accou...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: leonarddavid.com  
    Title: unidentified anomalous phenomena uap nasa independent study draws reaction  
-   Link: [https://www.leonarddavid.com/unidentified-anomalous-phenomena-uap-nasa-independent-study-draws-reaction/](https://www.leonarddavid.com/unidentified-anomalous-phenomena-uap-nasa-independent-study-draws-reaction/)  
+   Link: <a href="https://www.leonarddavid.com/unidentified-anomalous-phenomena-uap-nasa-independent-study-draws-reaction/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/unidentified-anomalous-phenomena-uap-nasa-independent-study-draws-reaction/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena (UAP) – NASA...15 Sept 2023 — NASA&#x27;s Unidentified Anomalous Phenomena (UAP) Independent Study Team publ...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=TQcqOW39ksk](https://www.youtube.com/watch?v=TQcqOW39ksk)  
+   Link: <a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study ReportNASA commissioned an independent study team to examine unidentified anomalous ph...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: avi-loeb.medium.com  
    Title: a new calculation on the fly to the nasa uap study 2dacaf860cac  
-   Link: [https://avi-loeb.medium.com/a-new-calculation-on-the-fly-to-the-nasa-uap-study-2dacaf860cac](https://avi-loeb.medium.com/a-new-calculation-on-the-fly-to-the-nasa-uap-study-2dacaf860cac)  
+   Link: <a href="https://avi-loeb.medium.com/a-new-calculation-on-the-fly-to-the-nasa-uap-study-2dacaf860cac" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/a-new-calculation-on-the-fly-to-the-nasa-uap-study-2dacaf860cac</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New Calculation on the Fly to the NASA UAP Study - Avi LoebThe key in identifying an unusual signal lies in the data quality that makes i...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: Wikipedia  
    Title: NASA Unidentified Anomalous Phenomena Independent Study Team  
-   Link: [https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team](https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team)  
+   Link: <a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Unidentified Anomalous Phenomena Independent...The acronym UAP seeks to provide separation from the assumptions about extraterre...</p></details>

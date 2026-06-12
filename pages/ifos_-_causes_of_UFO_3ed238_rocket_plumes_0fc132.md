@@ -50,22 +50,22 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_wind_data_33671a
 - ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - rocket-plumes
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - rocket-plumes
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Rocket launches and missile tests can create expanding luminous plumes that look unlike ordinary aircraft or weather.
 hero_summary: Rocket launches and missile tests can create expanding luminous plumes that look unlike ordinary aircraft or weather.
 layout: default
 permalink: /rocket-plumes/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 nav_short_title: Rocket Plumes
 title: The Strange Clouds Rockets Leave Behind
-title_full: The Strange Clouds Rockets Leave Behind | IFOs
+title_full: The Strange Clouds Rockets Leave Behind
 display_title_short: Rocket Plumes
 display_title: Rocket Plumes
 heading_title: The Strange Clouds Rockets Leave Behind
@@ -240,213 +240,212 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 05:12:30'
 parent_title: IFOs
-parent_permalink: /ifos-causes-of/
+parent_permalink: /ifos-causes-of-ufo-3-ed-238/
 parent_nav_short_title: IFOs
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 sibling_links:
 - basename: ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d
-  title: A Head On Aircraft Can Look Like A Stationary Light Because It | Ifos Causes Of
+  title: A Head On Aircraft Can Look Like A Stationary Light Because It | ifos causes of UFO 3 ed 238
   permalink: /a-head-on-aircraft-can-look-like-a/
   short_title: A Head On Aircraft Can Look Like A Stationary Light Because It
   heading_title: The Stationary Light That Is Moving
 - basename: ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261
-  title: AARO | Ifos Causes Of
+  title: AARO | ifos causes of UFO 3 ed 238
   permalink: /aaro/
   short_title: AARO
   heading_title: What Modern UAP Reviews Resolve
 - basename: ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253
-  title: Aircraft Lights | Ifos Causes Of
+  title: Aircraft Lights | ifos causes of UFO 3 ed 238
   permalink: /aircraft-lights/
   short_title: Aircraft Lights
   heading_title: Why Ordinary Aircraft Look So Strange
 - basename: ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043
-  title: Atmosphere | Ifos Causes Of
+  title: Atmosphere | ifos causes of UFO 3 ed 238
   permalink: /atmosphere/
   short_title: Atmosphere
   heading_title: When Weather Makes Shapes in the Sky
 - basename: ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057
-  title: Balloons | Ifos Causes Of
+  title: Balloons | ifos causes of UFO 3 ed 238
   permalink: /balloons/
   short_title: Balloons
   heading_title: Why Balloons Become Flying Saucers
 - basename: ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40
-  title: Birds | Ifos Causes Of
+  title: Birds | ifos causes of UFO 3 ed 238
   permalink: /birds/
   short_title: Birds
   heading_title: How Birds Become Fast UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81
-  title: Blue Book | Ifos Causes Of
+  title: Blue Book | ifos causes of UFO 3 ed 238
   permalink: /blue-book/
   short_title: Blue Book
   heading_title: What Blue Book Teaches About IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e
-  title: Contrails | Ifos Causes Of
+  title: Contrails | ifos causes of UFO 3 ed 238
   permalink: /contrails/
   short_title: Contrails
   heading_title: Why Jet Trails Glow Like UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c
-  title: Drones | Ifos Causes Of
+  title: Drones | ifos causes of UFO 3 ed 238
   permalink: /drones/
   short_title: Drones
   heading_title: When a Drone Becomes a UFO
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e
-  title: First Checks | Ifos Causes Of
+  title: First Checks | ifos causes of UFO 3 ed 238
   permalink: /first-checks/
   short_title: First Checks
   heading_title: What to Check Before Calling It a UFO
 - basename: ifos_-_causes_of_UFO_3ed238_military_flares_abb62f
-  title: Flares | Ifos Causes Of
+  title: Flares | ifos causes of UFO 3 ed 238
   permalink: /flares/
   short_title: Flares
   heading_title: Why Flares Look Like Hovering Craft
 - basename: ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590
-  title: Flight Tracking | Ifos Causes Of
+  title: Flight Tracking | ifos causes of UFO 3 ed 238
   permalink: /flight-tracking/
   short_title: Flight Tracking
   heading_title: How Flight Data Solves UFO Sightings
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965
-  title: Hoaxes | Ifos Causes Of
+  title: Hoaxes | ifos causes of UFO 3 ed 238
   permalink: /hoaxes/
   short_title: Hoaxes
   heading_title: When UFO Reports Are Manufactured
 - basename: ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f
-  title: Infrared | Ifos Causes Of
+  title: Infrared | ifos causes of UFO 3 ed 238
   permalink: /infrared/
   short_title: Infrared
   heading_title: Why Infrared UFO Videos Mislead
 - basename: ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74
-  title: Insects | Ifos Causes Of
+  title: Insects | ifos causes of UFO 3 ed 238
   permalink: /insects/
   short_title: Insects
   heading_title: The Tiny Things Cameras Make Huge
 - basename: ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5
-  title: Lanterns | Ifos Causes Of
+  title: Lanterns | ifos causes of UFO 3 ed 238
   permalink: /lanterns/
   short_title: Lanterns
   heading_title: The Orange Lights That Start UFO Reports
 - basename: ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e
-  title: Lens Flare | Ifos Causes Of
+  title: Lens Flare | ifos causes of UFO 3 ed 238
   permalink: /lens-flare/
   short_title: Lens Flare
   heading_title: When Cameras Invent Extra Lights
 - basename: ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28
-  title: Mass Sightings | Ifos Causes Of
+  title: Mass Sightings | ifos causes of UFO 3 ed 238
   permalink: /mass-sightings/
   short_title: Mass Sightings
   heading_title: Why Groups Can Share One Mistake
 - basename: ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504
-  title: Meteors | Ifos Causes Of
+  title: Meteors | ifos causes of UFO 3 ed 238
   permalink: /meteors/
   short_title: Meteors
   heading_title: When Fireballs Become UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca
-  title: Missing Data | Ifos Causes Of
+  title: Missing Data | ifos causes of UFO 3 ed 238
   permalink: /missing-data/
   short_title: Missing Data
   heading_title: Unsolved Does Not Always Mean Strange
 - basename: ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183
-  title: NASA Study | Ifos Causes Of
+  title: NASA Study | ifos causes of UFO 3 ed 238
   permalink: /nasa-study/
   short_title: NASA Study
   heading_title: Why Better UFO Data Matters
 - basename: ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b
-  title: Parallax | Ifos Causes Of
+  title: Parallax | ifos causes of UFO 3 ed 238
   permalink: /parallax/
   short_title: Parallax
   heading_title: The Speed Illusion in UFO Footage
 - basename: ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a
-  title: Pilots | Ifos Causes Of
+  title: Pilots | ifos causes of UFO 3 ed 238
   permalink: /pilots/
   short_title: Pilots
   heading_title: Why Pilots Can Misidentify UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357
-  title: Radar | Ifos Causes Of
+  title: Radar | ifos causes of UFO 3 ed 238
   permalink: /radar/
   short_title: Radar
   heading_title: When Radar Sees a UFO That Isnt There
 - basename: ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c
-  title: Reflections | Ifos Causes Of
+  title: Reflections | ifos causes of UFO 3 ed 238
   permalink: /reflections/
   short_title: Reflections
   heading_title: The UFO Inside the Glass
 - basename: ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b
-  title: Satellites | Ifos Causes Of
+  title: Satellites | ifos causes of UFO 3 ed 238
   permalink: /satellites/
   short_title: Satellites
   heading_title: Why Satellites Surprise Night Watchers
 - basename: ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1
-  title: Searchlights | Ifos Causes Of
+  title: Searchlights | ifos causes of UFO 3 ed 238
   permalink: /searchlights/
   short_title: Searchlights
   heading_title: How Searchlights Paint UFOs in Clouds
 - basename: ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b
-  title: Sensor Operators | Ifos Causes Of
+  title: Sensor Operators | ifos causes of UFO 3 ed 238
   permalink: /sensor-operators/
   short_title: Sensor Operators
   heading_title: When Sensors Need Human Context
 - basename: ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391
-  title: Short Clips | Ifos Causes Of
+  title: Short Clips | ifos causes of UFO 3 ed 238
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: Why Short UFO Videos Are Hard to Trust
 - basename: ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f
-  title: Size Errors | Ifos Causes Of
+  title: Size Errors | ifos causes of UFO 3 ed 238
   permalink: /size-errors/
   short_title: Size Errors
   heading_title: Why Honest Witnesses Misjudge UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725
-  title: Sky Charts | Ifos Causes Of
+  title: Sky Charts | ifos causes of UFO 3 ed 238
   permalink: /sky-charts/
   short_title: Sky Charts
   heading_title: How to Check a UFO Against the Sky
 - basename: ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32
-  title: Stars | Ifos Causes Of
+  title: Stars | ifos causes of UFO 3 ed 238
   permalink: /stars/
   short_title: Stars
   heading_title: Why Stars Flash Like Machines
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb
-  title: Status Labels | Ifos Causes Of
+  title: Status Labels | ifos causes of UFO 3 ed 238
   permalink: /status-labels/
   short_title: Status Labels
   heading_title: UFO Does Not Mean Alien
 - basename: ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d
-  title: Strong Cases | Ifos Causes Of
+  title: Strong Cases | ifos causes of UFO 3 ed 238
   permalink: /strong-cases/
   short_title: Strong Cases
   heading_title: What Makes a UFO Report Harder to Explain
 - basename: ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948
-  title: UK Files | Ifos Causes Of
+  title: UK Files | ifos causes of UFO 3 ed 238
   permalink: /uk-files/
   short_title: UK Files
   heading_title: What the UK UFO Files Reveal
 - basename: ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06
-  title: Unresolved Cases | Ifos Causes Of
+  title: Unresolved Cases | ifos causes of UFO 3 ed 238
   permalink: /unresolved-cases/
   short_title: Unresolved Cases
   heading_title: Why Some UFO Cases Stay Open
 - basename: ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080
-  title: Venus | Ifos Causes Of
+  title: Venus | ifos causes of UFO 3 ed 238
   permalink: /venus/
   short_title: Venus
   heading_title: Is That UFO Really Venus?
 - basename: ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13
-  title: Weather Records | Ifos Causes Of
+  title: Weather Records | ifos causes of UFO 3 ed 238
   permalink: /weather-records/
   short_title: Weather Records
   heading_title: Weather Clues That Explain Strange Lights
 - basename: ifos_-_causes_of_UFO_3ed238_wind_data_33671a
-  title: Wind Data | Ifos Causes Of
+  title: Wind Data | ifos causes of UFO 3 ed 238
   permalink: /wind-data/
   short_title: Wind Data
   heading_title: Following a UFO With the Wind
@@ -479,20 +478,21 @@ child_links:
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 prev_link:
   basename: ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c
-  title: Reflections | Ifos Causes Of
+  title: Reflections | ifos causes of UFO 3 ed 238
   permalink: /reflections/
   short_title: Reflections
   heading_title: The UFO Inside the Glass
 next_link:
   basename: ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b
-  title: Satellites | Ifos Causes Of
+  title: Satellites | ifos causes of UFO 3 ed 238
   permalink: /satellites/
   short_title: Satellites
   heading_title: Why Satellites Surprise Night Watchers
+date: '2026-06-12 00:07:03 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132-overview-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132-overview.webp
@@ -502,7 +502,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132-overview-
 ## Introduction
 
 Rocket launches and missile tests are a recurring cause of UFO reports because they can produce enormous luminous plumes, spirals, cones and drifting clouds that do not resemble ordinary aircraft. The sighting is often real: people have genuinely seen a bright object, a spreading glow, a curved trail, or a strange cloud in the sky. What changes the interpretation is context. A launch that occurs near dusk or dawn can climb from a dark sky into sunlight, making its exhaust shine far above observers who are already in night-time conditions. That geometry can turn a routine launch into a spectacle visible across hundreds of kilometres.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132-overview.webp" | relative_url }}" alt="Overview image for Rocket Plumes" loading="eager" decoding="sync" fetchpriority="high">
 This makes rocket plumes one of the clearest examples of an IFO: an identified flying object that began as a UFO report because the observer lacked the launch time, direction, altitude and lighting context. Modern UAP investigators explicitly recognise this pattern; [AARO]({{ 'aaro/' | relative_url }})’s historical report notes that rocket exhaust plumes are among the newer or less familiar technologies that can be reported as UAP, and AARO’s reporting data separately lists some closed cases as missile or rocket resolutions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — is present today, such as in cases where rocket exhau...</span><span class="citation-popover-meta">Published: March 9, 2024</span></span></span>
@@ -529,11 +528,10 @@ The strongest matches usually have several features at once:
 
 This is why precise witness details matter. A vague “bright UFO last night” may remain unresolved, but “a blue-white cone seen over Los Angeles at about 6 pm looking west” can often be checked against a specific missile or rocket launch. NASA’s UAP study made this broader point for UAP analysis as a whole: many cases cannot be resolved confidently without better time, location, sensor and context data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132-Illustration-1-dark.svg" | relative_url }}" alt="Rocket Plumes illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Southern California: a repeat laboratory for rocket-plume sightings
 
-[Southern California]({{ 'so-cal-launches/' | relative_url }}) is one of the best-known regions for rocket-plume UFO reports because launches from Vandenberg Space Force Base and missile tests over the Pacific can be visible to millions of people. The geography is ideal for confusion: a launch over the ocean may be visible from cities, roads and deserts, while many observers have no immediate reason to know that a launch has occurred.
+Southern California is one of the best-known regions for rocket-plume UFO reports because launches from Vandenberg Space Force Base and missile tests over the Pacific can be visible to millions of people. The geography is ideal for confusion: a launch over the ocean may be visible from cities, roads and deserts, while many observers have no immediate reason to know that a launch has occurred.
 
 A famous example came on 7 November 2015, when a bright light over Southern California prompted reports and social-media speculation about UFOs and comets. The explanation was a scheduled U.S. Navy Trident II D5 missile test from the USS Kentucky, an Ohio-class ballistic missile submarine, in the Pacific Test [Range]({{ 'range/' | relative_url }}) off Southern California. News reports recorded that the light was photographed and discussed across Southern California, Nevada and Arizona, while the Navy later confirmed the test was unarmed and part of recurring reliability checks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abc7.com/post/hundreds-report-mystery-light-flying-through-sky/1073739/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc7.com">[ABC7 Los Angeles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc7.com</span><span class="citation-popover-title">Los Angeles Naval missile test flight causes bright light to streak across</span><span class="citation-popover-snippet">Los Angeles Naval missile test flight causes bright light to streak across</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://abc11.com/post/ufo-bright-light-in-the-sky-during-missile-test/1074223/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc11.com">[2ABC11 Raleigh-Durham]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc11.com</span><span class="citation-popover-title">ufo bright light in the sky during missile test</span><span class="citation-popover-snippet">ufo bright light in the sky during missile test</span></span></span>
 
@@ -545,12 +543,11 @@ The 22 December 2017 Falcon 9 launch from Vandenberg produced another widely dis
 
 Some rocket-related sightings are not simple launch plumes. They are spirals created by venting, fuel dumps, de-orbit burns, or malfunctioning stages. These can look even stranger because they may appear after the main launch, far from the launch site, or over countries that did not host the launch.
 
-The 2009 Norway spiral is a classic case. On 9 December 2009, people across northern Norway and Sweden saw a blue-white spiral pattern in the sky. The effect was initially treated by many observers as mysterious, and it became a major online UFO case. Russia later confirmed that a Bulava missile test had failed; reporting at the time explained that a spinning or malfunctioning rocket stage could throw exhaust outward in a spiral pattern. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/blog/2009/dec/11/ufo-lights-norway-russian-missile" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">ufo lights norway russian missile</span><span class="citation-popover-snippet">ufo lights norway russian missile</span></span></span>
+The 2009 [Norway spiral]({{ 'norway-spiral/' | relative_url }}) is a classic case. On 9 December 2009, people across northern Norway and Sweden saw a blue-white spiral pattern in the sky. The effect was initially treated by many observers as mysterious, and it became a major online UFO case. Russia later confirmed that a Bulava missile test had failed; reporting at the time explained that a spinning or malfunctioning rocket stage could throw exhaust outward in a spiral pattern. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/blog/2009/dec/11/ufo-lights-norway-russian-missile" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">ufo lights norway russian missile</span><span class="citation-popover-snippet">ufo lights norway russian missile</span></span></span>
 
 The “too perfect” objection is understandable but not decisive. A spinning rocket stage or venting upper stage can produce a surprisingly regular pattern because gas is being expelled while the object rotates. In thin upper-atmosphere conditions, the material can spread smoothly rather than breaking up like a low cloud in turbulent weather. To a ground observer, the result can look engineered, circular and stationary, even though it is simply expanding gas illuminated by sunlight.
 
 A more recent version occurred on 24 March 2025, when a glowing spiral was seen from the UK, Ireland and parts of mainland Europe. The UK Met Office and other experts linked the display to a SpaceX Falcon 9 launched from Florida earlier that day; the explanation centred on frozen exhaust or vented material reflecting sunlight while the plume appeared to spin in the atmosphere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.co.uk/article/space-x-sky-spiral-yorkshire-t2cpgdxn2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.co.uk">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.co.uk</span><span class="citation-popover-title">The Times Spiral in the sky mystifies UK stargazers</span><span class="citation-popover-snippet">The Times Spiral in the sky mystifies UK stargazers</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.skyatnightmagazine.com/news/strange-spiral-cloud-in-the-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">strange spiral cloud in the sky</span><span class="citation-popover-snippet">strange spiral cloud in the sky</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wtdjCwo6d3Q" title="Iridium-4 Webcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wtdjCwo6d3Q" target="_blank" rel="noopener noreferrer">Iridium-4 Webcast</a></p><p class="youtube-embed-meta">Channel: SpaceX &middot; Views: 1.3M &middot; Uploaded: December 2017 &middot; Length: 1 hour 39 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wtdjCwo6d3Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wtdjCwo6d3Q">Open on YouTube</a></p></div></div></div>
 
@@ -562,12 +559,10 @@ This is a common [IFO pattern]({{ 'ifo-pattern/' | relative_url }}): the observa
 
 Videos can intensify the confusion. Phone cameras often overexpose bright lights, compress subtle colour gradients, and lose the dark sky context that would help determine direction and altitude. A short clip may preserve the most dramatic seconds but omit the slow expansion, fading and launch-track movement that would make a plume easier to identify.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132-Illustration-3-dark.svg" | relative_url }}" alt="Rocket Plumes illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How investigators match a sighting to a launch
 
 The practical test for a rocket-plume explanation is correlation. Investigators try to reconstruct the sighting as an event-time window, not merely a visual impression. A strong match usually asks:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -580,8 +575,7 @@ The practical test for a rocket-plume explanation is correlation. Investigators 
 
 </div>
 
-This method is not about dismissing witnesses. It is about preserving what the witnesses actually saw while testing the interpretation. The 2015 Trident test and the 2017 Vandenberg Falcon 9 plume were not weak sightings; they were strong sightings with strong conventional matches. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abc7.com/post/hundreds-report-mystery-light-flying-through-sky/1073739/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc7.com">[ABC7 Los Angeles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc7.com</span><span class="citation-popover-title">Los Angeles Naval missile test flight causes bright light to streak across</span><span class="citation-popover-snippet">Los Angeles Naval missile test flight causes bright light to streak across</span></span></span>
-
+This method is not about dismissing witnesses. It is about preserving what the witnesses actually saw while testing the interpretation. The 2015 [Trident test]({{ 'trident-test/' | relative_url }}) and the 2017 Vandenberg Falcon 9 plume were not weak sightings; they were strong sightings with strong conventional matches. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abc7.com/post/hundreds-report-mystery-light-flying-through-sky/1073739/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc7.com">[ABC7 Los Angeles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc7.com</span><span class="citation-popover-title">Los Angeles Naval missile test flight causes bright light to streak across</span><span class="citation-popover-snippet">Los Angeles Naval missile test flight causes bright light to streak across</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132-Illustration-2-dark.svg" | relative_url }}" alt="Rocket Plumes illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What makes rocket plumes distinct from other IFO causes
@@ -592,7 +586,6 @@ Rocket plumes are distinctive because they combine a real moving source with a l
 
 The increasing frequency of launches also matters. SpaceX, national space agencies, military test ranges and commercial launch providers have made rocket-related sky displays more common in regions that may not have grown up with them. AARO’s historical work notes that new technologies are often misidentified as UAP, and its examples include rocket exhaust plumes alongside satellite trains and unusual unmanned systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — is present today, such as in cases where rocket exhau...</span><span class="citation-popover-meta">Published: March 9, 2024</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TQcqOW39ksk" title="Unidentified Anomalous Phenomena Independent Study Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer">Unidentified Anomalous Phenomena Independent Study Report</a></p><p class="youtube-embed-meta">Channel: NASA &middot; Views: 107.4K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TQcqOW39ksk">Open on YouTube</a></p></div></div></div>
 
 ## When a rocket explanation is weak
@@ -602,7 +595,6 @@ Not every strange cloud or light should be forced into a rocket explanation. A l
 It is also weak if the proposed launch occurred on the wrong side of the sky for the observer. Because many rocket plumes are visible over huge areas, casual online explanations can spread quickly after a spectacular launch and be applied too broadly. The right question is not “Was there a launch somewhere?” but “Would this launch or stage event have appeared in that part of the sky from that location at that time?”
 
 That caution matters for credible IFO work. Rocket plumes are powerful explanations when the geometry lines up; they are not a universal answer for all luminous UFO reports. The value of the category is that it gives investigators a concrete, checkable mechanism.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Pnz0AjxCXF4" title="Strange Sightings above L.A. (SpaceX Falcon 9 Launch DEC 22, 2017)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Pnz0AjxCXF4" target="_blank" rel="noopener noreferrer">Strange Sightings above L.A. (SpaceX Falcon 9 Launch DEC 22, 2017)</a></p><p class="youtube-embed-meta">Channel: MilitaryNotes &middot; Views: 10.7K &middot; Uploaded: December 2017 &middot; Length: 2 minutes 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Pnz0AjxCXF4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Pnz0AjxCXF4">Open on YouTube</a></p></div></div></div>
 
@@ -1009,287 +1001,287 @@ That is exactly why rocket-related sightings are important in the IFO branch of 
 1. <a id="endnote-1"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — is present today, such as in cases where rocket exhau...</p></details>
    Published: March 9, 2024  
 
 2. <a id="endnote-2"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/UAP-Reporting-Trends/](https://www.aaro.mil/UAP-Cases/UAP-Reporting-Trends/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROUAP Reporting TrendsClosed Cases Resolution Outcomes; Missile/Rocket, 9, 0.9%; Aircraft, 20, 2.0%; Ordnance, 1, 0.1%; Jetpack, 15...</p></details>
+   Link: <a href="https://www.aaro.mil/UAP-Cases/UAP-Reporting-Trends/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Reporting-Trends/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Reporting TrendsClosed Cases Resolution Outcomes; Missile/Rocket, 9, 0.9%; Aircraft, 20, 2.0%; Ordnance, 1, 0.1%; Jetpack, 15...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Twilight phenomenon  
-   Link: [https://en.wikipedia.org/wiki/Twilight_phenomenon](https://en.wikipedia.org/wiki/Twilight_phenomenon)  
+   Link: <a href="https://en.wikipedia.org/wiki/Twilight_phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Twilight_phenomenon</a>  
 
 4. <a id="endnote-4"></a>
    Source: earthsky.org  
    Title: Earth Sky Strange spiral in the night sky was a rocket fuel dump  
-   Link: [https://earthsky.org/space/strange-spiral-in-the-night-sky-rocket-fuel-dump-aug-12-2025/](https://earthsky.org/space/strange-spiral-in-the-night-sky-rocket-fuel-dump-aug-12-2025/)  
+   Link: <a href="https://earthsky.org/space/strange-spiral-in-the-night-sky-rocket-fuel-dump-aug-12-2025/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/space/strange-spiral-in-the-night-sky-rocket-fuel-dump-aug-12-2025/</a>  
 
 5. <a id="endnote-5"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 6. <a id="endnote-6"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/](https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/)  
+   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
 
 7. <a id="endnote-7"></a>
    Source: abc7.com  
    Title: Los Angeles Naval missile test flight causes bright light to streak across  
-   Link: [https://abc7.com/post/hundreds-report-mystery-light-flying-through-sky/1073739/](https://abc7.com/post/hundreds-report-mystery-light-flying-through-sky/1073739/)  
+   Link: <a href="https://abc7.com/post/hundreds-report-mystery-light-flying-through-sky/1073739/" target="_blank" rel="noopener noreferrer nofollow">https://abc7.com/post/hundreds-report-mystery-light-flying-through-sky/1073739/</a>  
 
 8. <a id="endnote-8"></a>
    Source: abc11.com  
    Title: ufo bright light in the sky during missile test  
-   Link: [https://abc11.com/post/ufo-bright-light-in-the-sky-during-missile-test/1074223/](https://abc11.com/post/ufo-bright-light-in-the-sky-during-missile-test/1074223/)  
+   Link: <a href="https://abc11.com/post/ufo-bright-light-in-the-sky-during-missile-test/1074223/" target="_blank" rel="noopener noreferrer nofollow">https://abc11.com/post/ufo-bright-light-in-the-sky-during-missile-test/1074223/</a>  
 
 9. <a id="endnote-9"></a>
    Source: space.com  
    Title: UFO? No, It's a Space X Rocket! These Falcon 9 Launch  
-   Link: [https://www.space.com/39200-spacex-rocket-launch-not-ufo-spectactular-photos.html](https://www.space.com/39200-spacex-rocket-launch-not-ufo-spectactular-photos.html)  
+   Link: <a href="https://www.space.com/39200-spacex-rocket-launch-not-ufo-spectactular-photos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/39200-spacex-rocket-launch-not-ufo-spectactular-photos.html</a>  
 
 10. <a id="endnote-10"></a>
    Source: space.com  
    Title: 7656 bizarre sky spiral caused failed missile  
-   Link: [https://www.space.com/7656-bizarre-sky-spiral-caused-failed-missile.html](https://www.space.com/7656-bizarre-sky-spiral-caused-failed-missile.html)  
+   Link: <a href="https://www.space.com/7656-bizarre-sky-spiral-caused-failed-missile.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/7656-bizarre-sky-spiral-caused-failed-missile.html</a>  
 
 11. <a id="endnote-11"></a>
    Source: apod.nasa.gov  
    Title: apod search  
-   Link: [https://apod.nasa.gov/cgi-bin/apod/apod_search?tquery=%22sun+pillar%22](https://apod.nasa.gov/cgi-bin/apod/apod_search?tquery=%22sun+pillar%22)  
+   Link: <a href="https://apod.nasa.gov/cgi-bin/apod/apod_search?tquery=%22sun+pillar%22" target="_blank" rel="noopener noreferrer nofollow">https://apod.nasa.gov/cgi-bin/apod/apod_search?tquery=%22sun+pillar%22</a>  
 
 12. <a id="endnote-12"></a>
    Source: apod.nasa.gov  
    Title: apod search  
-   Link: [https://apod.nasa.gov/cgi-bin/apod/apod_search?tquery=sun+pillar](https://apod.nasa.gov/cgi-bin/apod/apod_search?tquery=sun+pillar)  
+   Link: <a href="https://apod.nasa.gov/cgi-bin/apod/apod_search?tquery=sun+pillar" target="_blank" rel="noopener noreferrer nofollow">https://apod.nasa.gov/cgi-bin/apod/apod_search?tquery=sun+pillar</a>  
 
 13. <a id="endnote-13"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/wp-content/uploads/2026/01/ma06-tec.pdf?emrc=46581f](https://www.nasa.gov/wp-content/uploads/2026/01/ma06-tec.pdf?emrc=46581f)  
+   Link: <a href="https://www.nasa.gov/wp-content/uploads/2026/01/ma06-tec.pdf?emrc=46581f" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2026/01/ma06-tec.pdf?emrc=46581f</a>  
 
 14. <a id="endnote-14"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/wp-content/uploads/2023/03/sp-4202.pdf](https://www.nasa.gov/wp-content/uploads/2023/03/sp-4202.pdf)  
+   Link: <a href="https://www.nasa.gov/wp-content/uploads/2023/03/sp-4202.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2023/03/sp-4202.pdf</a>  
 
 15. <a id="endnote-15"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/wp-content/uploads/2023/06/expedition16-presskit.pdf](https://www.nasa.gov/wp-content/uploads/2023/06/expedition16-presskit.pdf)  
+   Link: <a href="https://www.nasa.gov/wp-content/uploads/2023/06/expedition16-presskit.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2023/06/expedition16-presskit.pdf</a>  
 
 16. <a id="endnote-16"></a>
    Source: ntrs.nasa.gov  
-   Link: [https://ntrs.nasa.gov/api/citations/19790003775/downloads/19790003775.pdf](https://ntrs.nasa.gov/api/citations/19790003775/downloads/19790003775.pdf)  
+   Link: <a href="https://ntrs.nasa.gov/api/citations/19790003775/downloads/19790003775.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/19790003775/downloads/19790003775.pdf</a>  
 
 17. <a id="endnote-17"></a>
    Source: apod.nasa.gov  
    Title: archivepix Full  
-   Link: [https://apod.nasa.gov/apod/archivepixFull.html](https://apod.nasa.gov/apod/archivepixFull.html)  
+   Link: <a href="https://apod.nasa.gov/apod/archivepixFull.html" target="_blank" rel="noopener noreferrer nofollow">https://apod.nasa.gov/apod/archivepixFull.html</a>  
 
 18. <a id="endnote-18"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/wp-content/uploads/2023/04/1976.pdf](https://www.nasa.gov/wp-content/uploads/2023/04/1976.pdf)  
+   Link: <a href="https://www.nasa.gov/wp-content/uploads/2023/04/1976.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2023/04/1976.pdf</a>  
 
 19. <a id="endnote-19"></a>
    Source: nasa.gov  
    Title: fy 2023 report of the president  
-   Link: [https://www.nasa.gov/wp-content/uploads/2023/01/fy-2023-report-of-the-president.pdf?emrc=6893f25c6b1d7](https://www.nasa.gov/wp-content/uploads/2023/01/fy-2023-report-of-the-president.pdf?emrc=6893f25c6b1d7)  
+   Link: <a href="https://www.nasa.gov/wp-content/uploads/2023/01/fy-2023-report-of-the-president.pdf?emrc=6893f25c6b1d7" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2023/01/fy-2023-report-of-the-president.pdf?emrc=6893f25c6b1d7</a>  
 
 20. <a id="endnote-20"></a>
    Source: sti.nasa.gov  
    Title: thesaurus vol 1  
-   Link: [https://www.sti.nasa.gov/docs/thesaurus/thesaurus-vol-1.pdf](https://www.sti.nasa.gov/docs/thesaurus/thesaurus-vol-1.pdf)  
+   Link: <a href="https://www.sti.nasa.gov/docs/thesaurus/thesaurus-vol-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sti.nasa.gov/docs/thesaurus/thesaurus-vol-1.pdf</a>  
 
 21. <a id="endnote-21"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 22. <a id="endnote-22"></a>
    Source: Wikipedia  
    Title: 2009 Norwegian spiral anomaly  
-   Link: [https://en.wikipedia.org/wiki/2009_Norwegian_spiral_anomaly](https://en.wikipedia.org/wiki/2009_Norwegian_spiral_anomaly)  
+   Link: <a href="https://en.wikipedia.org/wiki/2009_Norwegian_spiral_anomaly" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2009_Norwegian_spiral_anomaly</a>  
 
 23. <a id="endnote-23"></a>
    Source: Wikipedia  
-   Title: [Project Blue Book](&#123;&#123; 'blue-book/' | relative_url &#125;&#125;)  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Title: Project Blue Book  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 24. <a id="endnote-24"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/](https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/</a>  
 
 25. <a id="endnote-25"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 26. <a id="endnote-26"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 27. <a id="endnote-27"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: [https://www.aaro.mil/UAP-Records/](https://www.aaro.mil/UAP-Records/)  
+   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
 28. <a id="endnote-28"></a>
    Source: time.com  
    Title: spacex los angeles aliens  
-   Link: [https://time.com/5078397/spacex-los-angeles-aliens/](https://time.com/5078397/spacex-los-angeles-aliens/)  
+   Link: <a href="https://time.com/5078397/spacex-los-angeles-aliens/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5078397/spacex-los-angeles-aliens/</a>  
 
 29. <a id="endnote-29"></a>
    Source: space.com  
    Title: 31122 trident missile test photos video  
-   Link: [https://www.space.com/31122-trident-missile-test-photos-video.html](https://www.space.com/31122-trident-missile-test-photos-video.html)  
+   Link: <a href="https://www.space.com/31122-trident-missile-test-photos-video.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/31122-trident-missile-test-photos-video.html</a>  
 
 30. <a id="endnote-30"></a>
    Source: space.com  
    Title: stargazers in europe spot a strange cloud from spacex falcon 9 rocket launch  
-   Link: [https://www.space.com/stargazing/stargazers-in-europe-spot-a-strange-cloud-from-spacex-falcon-9-rocket-launch](https://www.space.com/stargazing/stargazers-in-europe-spot-a-strange-cloud-from-spacex-falcon-9-rocket-launch)  
+   Link: <a href="https://www.space.com/stargazing/stargazers-in-europe-spot-a-strange-cloud-from-spacex-falcon-9-rocket-launch" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/stargazers-in-europe-spot-a-strange-cloud-from-spacex-falcon-9-rocket-launch</a>  
 
 31. <a id="endnote-31"></a>
    Source: space.com  
    Title: nasa ufo uap study team first results revealed  
-   Link: [https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed](https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed)  
+   Link: <a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
 
 32. <a id="endnote-32"></a>
    Source: space.com  
    Title: 39199 amazing spacex rocket launch photos iridium 4  
-   Link: [https://www.space.com/39199-amazing-spacex-rocket-launch-photos-iridium-4.html](https://www.space.com/39199-amazing-spacex-rocket-launch-photos-iridium-4.html)  
+   Link: <a href="https://www.space.com/39199-amazing-spacex-rocket-launch-photos-iridium-4.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/39199-amazing-spacex-rocket-launch-photos-iridium-4.html</a>  
 
 33. <a id="endnote-33"></a>
    Source: navy.mil  
    Title: successful trident ii d5 life extension d5le launches demonstrate continued rea  
-   Link: [https://www.navy.mil/Press-Office/News-Stories/display-news/Article/4312684/successful-trident-ii-d5-life-extension-d5le-launches-demonstrate-continued-rea/](https://www.navy.mil/Press-Office/News-Stories/display-news/Article/4312684/successful-trident-ii-d5-life-extension-d5le-launches-demonstrate-continued-rea/)  
+   Link: <a href="https://www.navy.mil/Press-Office/News-Stories/display-news/Article/4312684/successful-trident-ii-d5-life-extension-d5le-launches-demonstrate-continued-rea/" target="_blank" rel="noopener noreferrer nofollow">https://www.navy.mil/Press-Office/News-Stories/display-news/Article/4312684/successful-trident-ii-d5-life-extension-d5le-launches-demonstrate-continued-rea/</a>  
 
 34. <a id="endnote-34"></a>
    Source: spacex.com  
    Title: Space X  
-   Link: [https://www.spacex.com/launches](https://www.spacex.com/launches)  
+   Link: <a href="https://www.spacex.com/launches" target="_blank" rel="noopener noreferrer nofollow">https://www.spacex.com/launches</a>  
 
 35. <a id="endnote-35"></a>
    Source: youtube.com  
    Title: Why Rocket Launches Look Like UFOs  
-   Link: [http://www.youtube.com/watch?v=0hYV_Xk-j0o](http://www.youtube.com/watch?v=0hYV_Xk-j0o)  
+   Link: <a href="http://www.youtube.com/watch?v=0hYV_Xk-j0o" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=0hYV_Xk-j0o</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX Falcon 9 Twilight Phenomenon Explained...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: youtube.com  
    Title: Space X Falcon 9 Twilight Phenomenon Explained  
-   Link: [http://www.youtube.com/watch?v=t52u8yS8gSI](http://www.youtube.com/watch?v=t52u8yS8gSI)  
+   Link: <a href="http://www.youtube.com/watch?v=t52u8yS8gSI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=t52u8yS8gSI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Rocket Exhaust Spirals and Space Debris...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: spaceflightnow.com  
-   Link: [https://spaceflightnow.com/2017/12/28/falcon-9-launch-lights-up-southern-california-sky/](https://spaceflightnow.com/2017/12/28/falcon-9-launch-lights-up-southern-california-sky/)  
+   Link: <a href="https://spaceflightnow.com/2017/12/28/falcon-9-launch-lights-up-southern-california-sky/" target="_blank" rel="noopener noreferrer nofollow">https://spaceflightnow.com/2017/12/28/falcon-9-launch-lights-up-southern-california-sky/</a>  
 
 38. <a id="endnote-38"></a>
    Source: abc7news.com  
    Title: final spacex rocket launch of 2017 lights up socal sky  
-   Link: [https://abc7news.com/post/final-spacex-rocket-launch-of-2017-lights-up-socal-sky/2813960/](https://abc7news.com/post/final-spacex-rocket-launch-of-2017-lights-up-socal-sky/2813960/)  
+   Link: <a href="https://abc7news.com/post/final-spacex-rocket-launch-of-2017-lights-up-socal-sky/2813960/" target="_blank" rel="noopener noreferrer nofollow">https://abc7news.com/post/final-spacex-rocket-launch-of-2017-lights-up-socal-sky/2813960/</a>  
 
 39. <a id="endnote-39"></a>
    Source: science.org  
-   Link: [https://www.science.org/content/article/amazing-sky-spiral-generated-out-control-missile](https://www.science.org/content/article/amazing-sky-spiral-generated-out-control-missile)  
+   Link: <a href="https://www.science.org/content/article/amazing-sky-spiral-generated-out-control-missile" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/article/amazing-sky-spiral-generated-out-control-missile</a>  
 
 40. <a id="endnote-40"></a>
    Source: theguardian.com  
    Title: ufo lights norway russian missile  
-   Link: [https://www.theguardian.com/world/blog/2009/dec/11/ufo-lights-norway-russian-missile](https://www.theguardian.com/world/blog/2009/dec/11/ufo-lights-norway-russian-missile)  
+   Link: <a href="https://www.theguardian.com/world/blog/2009/dec/11/ufo-lights-norway-russian-missile" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/blog/2009/dec/11/ufo-lights-norway-russian-missile</a>  
 
 41. <a id="endnote-41"></a>
    Source: thetimes.co.uk  
    Title: The Times Spiral in the sky mystifies UK stargazers  
-   Link: [https://www.thetimes.co.uk/article/space-x-sky-spiral-yorkshire-t2cpgdxn2](https://www.thetimes.co.uk/article/space-x-sky-spiral-yorkshire-t2cpgdxn2)  
+   Link: <a href="https://www.thetimes.co.uk/article/space-x-sky-spiral-yorkshire-t2cpgdxn2" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/space-x-sky-spiral-yorkshire-t2cpgdxn2</a>  
 
 42. <a id="endnote-42"></a>
    Source: skyatnightmagazine.com  
    Title: strange spiral cloud in the sky  
-   Link: [https://www.skyatnightmagazine.com/news/strange-spiral-cloud-in-the-sky](https://www.skyatnightmagazine.com/news/strange-spiral-cloud-in-the-sky)  
+   Link: <a href="https://www.skyatnightmagazine.com/news/strange-spiral-cloud-in-the-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/news/strange-spiral-cloud-in-the-sky</a>  
 
 43. <a id="endnote-43"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/bbclincolnshire/posts/spacex-rocket-fuel-dump-creates-intrigue-in-night-sky-this-was-taken-in-billingb/1215396827260149/](https://www.facebook.com/bbclincolnshire/posts/spacex-rocket-fuel-dump-creates-intrigue-in-night-sky-this-was-taken-in-billingb/1215396827260149/)  
+   Link: <a href="https://www.facebook.com/bbclincolnshire/posts/spacex-rocket-fuel-dump-creates-intrigue-in-night-sky-this-was-taken-in-billingb/1215396827260149/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bbclincolnshire/posts/spacex-rocket-fuel-dump-creates-intrigue-in-night-sky-this-was-taken-in-billingb/1215396827260149/</a>  
 
 44. <a id="endnote-44"></a>
    Source: theguardian.com  
    Title: alien hopes crash to earth glowing spiral uk spacex rocket  
-   Link: [https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket](https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket)  
+   Link: <a href="https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket</a>  
 
 45. <a id="endnote-45"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/spaceporn/comments/1rxxfa3/spacex_falcon_9_launch_plume_jellyfish/](https://www.reddit.com/r/spaceporn/comments/1rxxfa3/spacex_falcon_9_launch_plume_jellyfish/)  
+   Link: <a href="https://www.reddit.com/r/spaceporn/comments/1rxxfa3/spacex_falcon_9_launch_plume_jellyfish/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/spaceporn/comments/1rxxfa3/spacex_falcon_9_launch_plume_jellyfish/</a>  
 
 46. <a id="endnote-46"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/space/comments/1jjg2zz/spacex_rocket_launch_caused_glowing_spiral_dubbed/](https://www.reddit.com/r/space/comments/1jjg2zz/spacex_rocket_launch_caused_glowing_spiral_dubbed/)  
+   Link: <a href="https://www.reddit.com/r/space/comments/1jjg2zz/spacex_rocket_launch_caused_glowing_spiral_dubbed/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/1jjg2zz/spacex_rocket_launch_caused_glowing_spiral_dubbed/</a>  
 
 47. <a id="endnote-47"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DTrQYxjjEGa/?hl=en](https://www.instagram.com/reel/DTrQYxjjEGa/?hl=en)  
+   Link: <a href="https://www.instagram.com/reel/DTrQYxjjEGa/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DTrQYxjjEGa/?hl=en</a>  
 
 48. <a id="endnote-48"></a>
    Source: engadget.com  
-   Link: [https://www.engadget.com/2017-12-22-spacex-falcon-9-la-cloud-ufo.html](https://www.engadget.com/2017-12-22-spacex-falcon-9-la-cloud-ufo.html)  
+   Link: <a href="https://www.engadget.com/2017-12-22-spacex-falcon-9-la-cloud-ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.engadget.com/2017-12-22-spacex-falcon-9-la-cloud-ufo.html</a>  
 
 49. <a id="endnote-49"></a>
    Source: skyatnightmagazine.com  
    Title: things mistaken for ufos  
-   Link: [https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos](https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos)  
+   Link: <a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
 
 50. <a id="endnote-50"></a>
    Source: spaceflightnow.com  
    Title: falcon 9 iridium next 4 mission status center  
-   Link: [https://spaceflightnow.com/2017/12/22/falcon-9-iridium-next-4-mission-status-center/](https://spaceflightnow.com/2017/12/22/falcon-9-iridium-next-4-mission-status-center/)  
+   Link: <a href="https://spaceflightnow.com/2017/12/22/falcon-9-iridium-next-4-mission-status-center/" target="_blank" rel="noopener noreferrer nofollow">https://spaceflightnow.com/2017/12/22/falcon-9-iridium-next-4-mission-status-center/</a>  
 
 51. <a id="endnote-51"></a>
    Source: sciencenews.org  
    Title: scientists serious ufo uap security  
-   Link: [https://www.sciencenews.org/article/scientists-serious-ufo-uap-security](https://www.sciencenews.org/article/scientists-serious-ufo-uap-security)  
+   Link: <a href="https://www.sciencenews.org/article/scientists-serious-ufo-uap-security" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencenews.org/article/scientists-serious-ufo-uap-security</a>  
 
 52. <a id="endnote-52"></a>
    Source: jasondanielshaw.com  
-   Link: [https://jasondanielshaw.com/blog/spacex-lands-the-falcon-9-first-stage-in-california](https://jasondanielshaw.com/blog/spacex-lands-the-falcon-9-first-stage-in-california)  
+   Link: <a href="https://jasondanielshaw.com/blog/spacex-lands-the-falcon-9-first-stage-in-california" target="_blank" rel="noopener noreferrer nofollow">https://jasondanielshaw.com/blog/spacex-lands-the-falcon-9-first-stage-in-california</a>  
 
 ### Additional References
 
 53. <a id="endnote-53"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
 54. <a id="endnote-54"></a>
    Source: nsa.gov  
-   Link: [https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf)  
+   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
 55. <a id="endnote-55"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/2393127970/posts/10163510928307971/](https://www.facebook.com/groups/2393127970/posts/10163510928307971/)  
+   Link: <a href="https://www.facebook.com/groups/2393127970/posts/10163510928307971/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2393127970/posts/10163510928307971/</a>  
 
 56. <a id="endnote-56"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/thejournal.ie/posts/a-blue-and-white-light-spiral-seen-over-europe-was-likely-caused-by-a-spacex-fal/1053145260191767/](https://www.facebook.com/thejournal.ie/posts/a-blue-and-white-light-spiral-seen-over-europe-was-likely-caused-by-a-spacex-fal/1053145260191767/)  
+   Link: <a href="https://www.facebook.com/thejournal.ie/posts/a-blue-and-white-light-spiral-seen-over-europe-was-likely-caused-by-a-spacex-fal/1053145260191767/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thejournal.ie/posts/a-blue-and-white-light-spiral-seen-over-europe-was-likely-caused-by-a-spacex-fal/1053145260191767/</a>  
 
 57. <a id="endnote-57"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/tvpworldcom/posts/a-bright-spiral-appeared-in-the-night-sky-across-europe-stunning-onlookers-the-p/1242729947855662/](https://www.facebook.com/tvpworldcom/posts/a-bright-spiral-appeared-in-the-night-sky-across-europe-stunning-onlookers-the-p/1242729947855662/)  
+   Link: <a href="https://www.facebook.com/tvpworldcom/posts/a-bright-spiral-appeared-in-the-night-sky-across-europe-stunning-onlookers-the-p/1242729947855662/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/tvpworldcom/posts/a-bright-spiral-appeared-in-the-night-sky-across-europe-stunning-onlookers-the-p/1242729947855662/</a>  
 
 58. <a id="endnote-58"></a>
    Source: aui.edu  
-   Link: [https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/](https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/)  
+   Link: <a href="https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/</a>  
 
 59. <a id="endnote-59"></a>
    Source: neoteo.com  
-   Link: [https://www.neoteo.com/en/failed-russian-bulava-missile-spiral-norway](https://www.neoteo.com/en/failed-russian-bulava-missile-spiral-norway)  
+   Link: <a href="https://www.neoteo.com/en/failed-russian-bulava-missile-spiral-norway" target="_blank" rel="noopener noreferrer nofollow">https://www.neoteo.com/en/failed-russian-bulava-missile-spiral-norway</a>  
 
 60. <a id="endnote-60"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/SLD30/posts/did-you-see-it-throwbackthursday-to-dec-22-2017when-a-launch-from-vandenberg-lit/1398892488950376/](https://www.facebook.com/SLD30/posts/did-you-see-it-throwbackthursday-to-dec-22-2017when-a-launch-from-vandenberg-lit/1398892488950376/)  
+   Link: <a href="https://www.facebook.com/SLD30/posts/did-you-see-it-throwbackthursday-to-dec-22-2017when-a-launch-from-vandenberg-lit/1398892488950376/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SLD30/posts/did-you-see-it-throwbackthursday-to-dec-22-2017when-a-launch-from-vandenberg-lit/1398892488950376/</a>  
 
 61. <a id="endnote-61"></a>
    Source: x.com  
-   Link: [https://x.com/spacegovuk/status/1904464636612628979](https://x.com/spacegovuk/status/1904464636612628979)  
+   Link: <a href="https://x.com/spacegovuk/status/1904464636612628979" target="_blank" rel="noopener noreferrer nofollow">https://x.com/spacegovuk/status/1904464636612628979</a>  
 
 62. <a id="endnote-62"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/bbcherefordandworcester/posts/did-you-see-the-spiral-its-believed-to-have-been-caused-by-a-spacex-rocket-launc/1200476338748213/](https://www.facebook.com/bbcherefordandworcester/posts/did-you-see-the-spiral-its-believed-to-have-been-caused-by-a-spacex-rocket-launc/1200476338748213/)  
+   Link: <a href="https://www.facebook.com/bbcherefordandworcester/posts/did-you-see-the-spiral-its-believed-to-have-been-caused-by-a-spacex-rocket-launc/1200476338748213/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bbcherefordandworcester/posts/did-you-see-the-spiral-its-believed-to-have-been-caused-by-a-spacex-rocket-launc/1200476338748213/</a>

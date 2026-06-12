@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28_rocket_spiral_scares_f9cc56
 - ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28_starlink_mass_report_88b555
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - mass-sightings
 - belgian-wave
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - mass-sightings
 - belgian-wave
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: The Belgian wave shows how mass sightings can combine sincere reports, official attention, weak memories and later hoax material.
 hero_summary: The Belgian wave shows how mass sightings can combine sincere reports, official attention, weak memories and later hoax material.
 layout: default
 permalink: /belgian-wave/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /mass-sightings/
 nav_short_title: Belgian Wave
 title: What the Belgian UFO wave really shows
-title_full: What the Belgian UFO wave really shows | Mass Sightings
+title_full: What the Belgian UFO wave really shows
 display_title_short: Belgian Wave
 display_title: Belgian Wave
 heading_title: What the Belgian UFO wave really shows
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Groups Can Share One Mistake | IFOs
+parent_title: Why Groups Can Share One Mistake
 parent_permalink: /mass-sightings/
 parent_nav_short_title: Mass Sightings
 parent_heading_title: Why Groups Can Share One Mistake
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28
-  title: Mass Sightings | Ifos Causes Of
+  title: Mass Sightings | ifos causes of UFO 3 ed 238
   permalink: /mass-sightings/
   short_title: Mass Sightings
   heading_title: Why Groups Can Share One Mistake
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28
-  title: Mass Sightings | Ifos Causes Of
+  title: Mass Sightings | ifos causes of UFO 3 ed 238
   permalink: /mass-sightings/
   short_title: Mass Sightings
   heading_title: Why Groups Can Share One Mistake
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why Starlink trains look like UFO formations
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28
-  title: Mass Sightings | Ifos Causes Of
+  title: Mass Sightings | ifos causes of UFO 3 ed 238
   permalink: /mass-sightings/
   short_title: Mass Sightings
   heading_title: Why Groups Can Share One Mistake
@@ -259,7 +259,7 @@ next_link:
   permalink: /crowd-memory/
   short_title: Crowd Memory
   heading_title: Why crowds remember UFO sightings together
-date: '2026-06-07 05:49:25 '
+date: '2026-06-12 00:26:02 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28_belgian_wave_mixed_e_00e817-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28_belgian_wave_mixed_e_00e817-Illustration-1.webp
@@ -269,7 +269,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28_belgian_
 ## Introduction
 
 The Belgian UFO wave of 1989–1990 is often presented either as one of the strongest UFO cases ever recorded or as a fully debunked episode. Neither description fits the evidence particularly well. What makes the Belgian wave important in discussions of UFO reports is not that it provides a clear answer, but that it demonstrates how a large public event can accumulate different kinds of evidence with very different levels of reliability. Thousands of people reported unusual lights or triangular objects, police officers and military personnel took the reports seriously, radar incidents attracted official attention, and one famous photograph became an international symbol of the case. Yet some of that evidence later weakened substantially, while other parts remained unresolved. The Belgian wave is therefore a useful example of how [mass sightings]({{ 'mass-sightings/' | relative_url }}) become a mixture of observations, interpretations, rumours, memory effects and occasional [hoaxes]({{ 'hoaxes/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Belgian UFO wave</span><span class="citation-popover-snippet">Belgian UFO wave</span></span></span>
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28_belgian_wave_mixed_e_00e817-Illustration-1-dark.svg" | relative_url }}" alt="Belgian Wave illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28_belgian_wave_mixed_e_00e817-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28_belgian_wave_mixed_e_00e817-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why a UFO wave is a bundle of reports, not one case
@@ -289,7 +288,6 @@ Others consisted mainly of recollections collected later, sometimes after extens
 
 This distinction matters because UFO waves often become socially unified before they become evidentially unified. Once the public adopts a narrative—such as “large silent triangles are crossing Belgium”—later observations tend to be interpreted through that framework.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wblYKwcpMbc" title="Man claims: Belgian UFO picture is a hoax" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wblYKwcpMbc" target="_blank" rel="noopener noreferrer">Man claims: Belgian UFO picture is a hoax</a></p><p class="youtube-embed-meta">Channel: zerwas2ky &middot; Views: 3.3K &middot; Uploaded: July 2011 &middot; Length: 2 minutes 21 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wblYKwcpMbc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wblYKwcpMbc">Open on YouTube</a></p></div></div></div>
 
 ## How publicity can change later testimony
@@ -302,7 +300,6 @@ This does not mean those witnesses were dishonest. The problem is subtler.
 
 Psychological research on memory consistently shows that recollections can be influenced by later information. When an unusual event receives heavy media attention, people may:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Reinterpret something they saw earlier.
@@ -314,7 +311,6 @@ Psychological research on memory consistently shows that recollections can be in
 
 The Belgian wave provides a practical example of this process. Publicity increased the number of reports, but it also made it harder to determine which observations were genuinely independent and which had been shaped by discussion, news coverage or existing UFO narratives. This is one reason investigators place special value on reports recorded before witnesses compare stories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Belgian UFO wave</span><span class="citation-popover-snippet">Belgian UFO wave</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28_belgian_wave_mixed_e_00e817-Illustration-2-dark.svg" | relative_url }}" alt="Belgian Wave illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28_belgian_wave_mixed_e_00e817-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28_belgian_wave_mixed_e_00e817-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The radar episode: attention-grabbing but not straightforward
 
@@ -325,7 +321,6 @@ However, the radar evidence itself illustrates why mixed evidence requires caref
 Popular retellings sometimes compress the story into a simple claim that fighter aircraft chased extraordinary objects performing impossible manoeuvres. The actual record is more complicated. Contemporary reviews indicate that [pilots]({{ 'pilots/' | relative_url }}) did not visually confirm dramatic objects, and later analysis suggested that some radar locks were attributable to interactions involving the aircraft themselves rather than clear tracking of an unknown craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Belgian UFO wave</span><span class="citation-popover-snippet">Belgian UFO wave</span></span></span>
 
 The significance of the radar episode is therefore not that it conclusively proves an extraordinary object was present. Rather, it shows how an officially documented event can still contain ambiguity. Military attention confirms that something was considered worth investigating, but it does not automatically establish what was seen.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aWbo0x1lJAk" title="The Belgium UFO That Defied Physics (S4) | The Proof Is Out There | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aWbo0x1lJAk" target="_blank" rel="noopener noreferrer">The Belgium UFO That Defied Physics (S4) | The Proof Is Out There | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 73.5K &middot; Uploaded: November 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aWbo0x1lJAk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aWbo0x1lJAk">Open on YouTube</a></p></div></div></div>
 
@@ -345,7 +340,6 @@ At the same time, the confession does not automatically explain every report col
 
 The photo is therefore valuable as a lesson in evidence evaluation. It shows how a single striking but unreliable exhibit can distort understanding of a much larger and more complicated body of reports.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SbQhrIRCs-c" title="This European UFO Was Spotted by Thousands of People | Belgian UFO Wave" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SbQhrIRCs-c" target="_blank" rel="noopener noreferrer">This European UFO Was Spotted by Thousands of People | Belgian UFO Wave</a></p><p class="youtube-embed-meta">Channel: Red Web &middot; Views: 7.7K &middot; Uploaded: January 2026 &middot; Length: 1 hour 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SbQhrIRCs-c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SbQhrIRCs-c">Open on YouTube</a></p></div></div></div>
 
 ## What the Belgian wave really shows about UFO reports
@@ -353,7 +347,6 @@ The photo is therefore valuable as a lesson in evidence evaluation. It shows how
 For researchers interested in the causes of UFO reports, the Belgian wave is less important as a mystery than as a case study in evidence quality.
 
 Several factors appeared at the same time:
-
 
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
@@ -369,7 +362,6 @@ Several factors appeared at the same time:
 Those elements interacted rather than existing separately. The result was a classic UFO wave: a period in which real observations, uncertain interpretations and socially amplified narratives became intertwined. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Belgian UFO wave</span><span class="citation-popover-snippet">Belgian UFO wave</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discoveryuk.com/mysteries/the-belgian-ufo-wave-close-encounter-or-mass-hysteria/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-title">the belgian ufo wave close encounter or mass hysteria</span><span class="citation-popover-snippet">The Belgian UFO Wave: Close Encounter or Mass Hysteria?3 Sept 2024 — Between November 1989 and March 1990 all over Belgium, UFOs were spo...</span><span class="citation-popover-meta">Published: November 1989</span></span></span>
 
 The enduring lesson is not that the Belgian wave was completely explained or completely unexplained. It is that large UFO episodes are rarely single pieces of evidence. They are bundles of evidence, and each component must be assessed on its own merits. The Belgian case remains notable precisely because it demonstrates how sincere witnesses, official investigations, ambiguous data and outright hoaxes can coexist within the same widely remembered UFO wave. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Belgian UFO wave</span><span class="citation-popover-snippet">Belgian UFO wave</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://theweek.com/articles/905215/30-years-later-still-dont-know-what-really-happened-during-belgian-ufo-wave" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theweek.com">[The Week]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theweek.com</span><span class="citation-popover-title">30 years later still dont know what really happened during belgian ufo wave</span><span class="citation-popover-snippet">The Belgian UFO wave, 30 years later30 Mar 2020 — A months-long wave of reports culminated with two Belgian Air Force F-16s chasing myste...</span></span></span>
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28_belgian_wave_mixed_e_00e817-Illustration-3-dark.svg" | relative_url }}" alt="Belgian Wave illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28_belgian_wave_mixed_e_00e817-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28_belgian_wave_mixed_e_00e817-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -490,15 +482,15 @@ The enduring lesson is not that the Belgian wave was completely explained or com
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belgian-wave-what-the-belgian-ufo-wave-really-shows-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="belgian-wave-what-the-belgian-ufo-wave-really-shows-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangle+ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-belgian-ufo-wave-really-shows-triangle-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangle ufo poster" data-ebay-reference="what-the-belgian-ufo-wave-really-shows-triangle-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Poster. 11x17. High Quality. Signed. [Flying Saucer, Aliens, Pyramid]"><img src="https://i.ebayimg.com/images/g/nhcAAeSwvthpCubt/s-l225.jpg" alt="Listing image for UFO Poster. 11x17. High Quality. Signed. [Flying Saucer, Aliens, Pyramid]" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belgian-wave-what-the-belgian-ufo-wave-really-shows-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="belgian-wave-what-the-belgian-ufo-wave-really-shows-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangle+ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-belgian-ufo-wave-really-shows-triangle-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangle ufo poster" data-ebay-reference="what-the-belgian-ufo-wave-really-shows-triangle-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Poster. 11x17. High Quality. Signed. [Flying Saucer, Aliens, Pyramid]</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belgian-wave-what-the-belgian-ufo-wave-really-shows-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="belgian-wave-what-the-belgian-ufo-wave-really-shows-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangle+ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-belgian-ufo-wave-really-shows-triangle-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangle ufo poster" data-ebay-reference="what-the-belgian-ufo-wave-really-shows-triangle-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for triangle ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: triangle ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belgian-wave-what-the-belgian-ufo-wave-really-shows-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="belgian-wave-what-the-belgian-ufo-wave-really-shows-ifos-causes-of-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangle+ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-belgian-ufo-wave-really-shows-triangle-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangle ufo poster" data-ebay-reference="what-the-belgian-ufo-wave-really-shows-triangle-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -506,47 +498,15 @@ The enduring lesson is not that the Belgian wave was completely explained or com
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belgian-wave-what-the-belgian-ufo-wave-really-shows-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="belgian-wave-what-the-belgian-ufo-wave-really-shows-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangle+ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-belgian-ufo-wave-really-shows-triangle-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangle ufo poster" data-ebay-reference="what-the-belgian-ufo-wave-really-shows-triangle-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 Phoenix Lights UFO UAP Black Triangle Boomerang Wall Art Poster"><img src="https://i.ebayimg.com/images/g/iXUAAeSwv2hp5TB5/s-l225.jpg" alt="Listing image for Large A0 Phoenix Lights UFO UAP Black Triangle Boomerang Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belgian-wave-what-the-belgian-ufo-wave-really-shows-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="belgian-wave-what-the-belgian-ufo-wave-really-shows-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangle+ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-belgian-ufo-wave-really-shows-triangle-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangle ufo poster" data-ebay-reference="what-the-belgian-ufo-wave-really-shows-triangle-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large A0 Phoenix Lights UFO UAP Black Triangle Boomerang Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belgian-wave-what-the-belgian-ufo-wave-really-shows-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="belgian-wave-what-the-belgian-ufo-wave-really-shows-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangle+ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-belgian-ufo-wave-really-shows-triangle-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangle ufo poster" data-ebay-reference="what-the-belgian-ufo-wave-really-shows-triangle-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for triangle ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: triangle ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belgian-wave-what-the-belgian-ufo-wave-really-shows-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="belgian-wave-what-the-belgian-ufo-wave-really-shows-ifos-causes-of-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belgian-wave-what-the-belgian-ufo-wave-really-shows-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="belgian-wave-what-the-belgian-ufo-wave-really-shows-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belgian-wave-what-the-belgian-ufo-wave-really-shows-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="belgian-wave-what-the-belgian-ufo-wave-really-shows-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belgian-wave-what-the-belgian-ufo-wave-really-shows-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="belgian-wave-what-the-belgian-ufo-wave-really-shows-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belgian-wave-what-the-belgian-ufo-wave-really-shows-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="belgian-wave-what-the-belgian-ufo-wave-really-shows-ifos-causes-of-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belgian-wave-what-the-belgian-ufo-wave-really-shows-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="belgian-wave-what-the-belgian-ufo-wave-really-shows-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belgian-wave-what-the-belgian-ufo-wave-really-shows-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="belgian-wave-what-the-belgian-ufo-wave-really-shows-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belgian-wave-what-the-belgian-ufo-wave-really-shows-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="belgian-wave-what-the-belgian-ufo-wave-really-shows-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belgian-wave-what-the-belgian-ufo-wave-really-shows-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="belgian-wave-what-the-belgian-ufo-wave-really-shows-ifos-causes-of-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangle+ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-belgian-ufo-wave-really-shows-triangle-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangle ufo poster" data-ebay-reference="what-the-belgian-ufo-wave-really-shows-triangle-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -554,7 +514,7 @@ The enduring lesson is not that the Belgian wave was completely explained or com
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belgian-wave-what-the-belgian-ufo-wave-really-shows-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="belgian-wave-what-the-belgian-ufo-wave-really-shows-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangle+ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-belgian-ufo-wave-really-shows-triangle-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangle ufo poster" data-ebay-reference="what-the-belgian-ufo-wave-really-shows-triangle-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -770,103 +730,103 @@ The enduring lesson is not that the Belgian wave was completely explained or com
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Belgian UFO wave  
-   Link: [https://en.wikipedia.org/wiki/Belgian_UFO_wave](https://en.wikipedia.org/wiki/Belgian_UFO_wave)  
+   Link: <a href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Belgian_UFO_wave</a>  
 
 2. <a id="endnote-2"></a>
    Source: discoveryuk.com  
    Title: the belgian ufo wave close encounter or mass hysteria  
-   Link: [https://www.discoveryuk.com/mysteries/the-belgian-ufo-wave-close-encounter-or-mass-hysteria/](https://www.discoveryuk.com/mysteries/the-belgian-ufo-wave-close-encounter-or-mass-hysteria/)  
+   Link: <a href="https://www.discoveryuk.com/mysteries/the-belgian-ufo-wave-close-encounter-or-mass-hysteria/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/the-belgian-ufo-wave-close-encounter-or-mass-hysteria/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Belgian UFO Wave: Close Encounter or Mass Hysteria?3 Sept 2024 — Between November 1989 and March 1990 all over Belgium, UFOs were spo...</p></details>
    Published: November 1989  
 
 3. <a id="endnote-3"></a>
    Source: phys.org  
    Title: 2011 07 belgium ufo puzzled nasa polystyrene  
-   Link: [https://phys.org/news/2011-07-belgium-ufo-puzzled-nasa-polystyrene.html](https://phys.org/news/2011-07-belgium-ufo-puzzled-nasa-polystyrene.html)  
+   Link: <a href="https://phys.org/news/2011-07-belgium-ufo-puzzled-nasa-polystyrene.html" target="_blank" rel="noopener noreferrer nofollow">https://phys.org/news/2011-07-belgium-ufo-puzzled-nasa-polystyrene.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Belgium UFO that puzzled NASA was polystyrene fakeJul 26, 2011 — An unidentified flying object photographed high in the Belgian sky that...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: reuters.com  
    Title: belgian hit ufo image was polystyrene says forger id USTRE76Q2DE  
-   Link: [https://www.reuters.com/article/lifestyle/belgian-hit-ufo-image-was-polystyrene-says-forger-idUSTRE76Q2DE/](https://www.reuters.com/article/lifestyle/belgian-hit-ufo-image-was-polystyrene-says-forger-idUSTRE76Q2DE/)  
+   Link: <a href="https://www.reuters.com/article/lifestyle/belgian-hit-ufo-image-was-polystyrene-says-forger-idUSTRE76Q2DE/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/lifestyle/belgian-hit-ufo-image-was-polystyrene-says-forger-idUSTRE76Q2DE/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Belgian hit UFO image was polystyrene, says forger27 Jul 2011 — A Belgian UFO photograph that became a worldwide hit was faked with a pie...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: theweek.com  
    Title: 30 years later still dont know what really happened during belgian ufo wave  
-   Link: [https://theweek.com/articles/905215/30-years-later-still-dont-know-what-really-happened-during-belgian-ufo-wave](https://theweek.com/articles/905215/30-years-later-still-dont-know-what-really-happened-during-belgian-ufo-wave)  
+   Link: <a href="https://theweek.com/articles/905215/30-years-later-still-dont-know-what-really-happened-during-belgian-ufo-wave" target="_blank" rel="noopener noreferrer nofollow">https://theweek.com/articles/905215/30-years-later-still-dont-know-what-really-happened-during-belgian-ufo-wave</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Belgian UFO wave, 30 years later30 Mar 2020 — A months-long wave of reports culminated with two Belgian Air Force F-16s chasing myste...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: aug 2009 highlights guide  
-   Link: [https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf](https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf)  
+   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>GuideThe files reveal how in March 1990 the Belgian Air. Force scrambled F-16 fighters to intercept UFOs reported by police officers and...</p></details>
    Published: March 1990  
 
 7. <a id="endnote-7"></a>
    Source: unsolved.com  
    Title: Belgian UFO  
-   Link: [https://unsolved.com/gallery/belgian-ufo/](https://unsolved.com/gallery/belgian-ufo/)  
+   Link: <a href="https://unsolved.com/gallery/belgian-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/belgian-ufo/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesThen, in April of 1990, an amazing photograph was taken.... This amazing image was the first photographic evidence tha...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: unsolvedmysteries.fandom.com  
    Title: Belgium UFO  
-   Link: [https://unsolvedmysteries.fandom.com/wiki/Belgium_UFO](https://unsolvedmysteries.fandom.com/wiki/Belgium_UFO)  
+   Link: <a href="https://unsolvedmysteries.fandom.com/wiki/Belgium_UFO" target="_blank" rel="noopener noreferrer nofollow">https://unsolvedmysteries.fandom.com/wiki/Belgium_UFO</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Two Belgian Air Force F-16s immediately were sent out to locate the object.Read more...</p></details>
 
 ### Additional References
 
 9. <a id="endnote-9"></a>
    Source: enigmalabs.io  
-   Link: [https://enigmalabs.io/library/90c6dc7d-71ce-4a21-9c86-c0370a72ccc6](https://enigmalabs.io/library/90c6dc7d-71ce-4a21-9c86-c0370a72ccc6)  
+   Link: <a href="https://enigmalabs.io/library/90c6dc7d-71ce-4a21-9c86-c0370a72ccc6" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/90c6dc7d-71ce-4a21-9c86-c0370a72ccc6</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Belgian UAP WaveIn total, the group collected evidence for 650 of the 2,000 reported cases; 500 of these reports could not be explained o...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1300809783924033/posts/1611308806207461/](https://www.facebook.com/groups/1300809783924033/posts/1611308806207461/)  
+   Link: <a href="https://www.facebook.com/groups/1300809783924033/posts/1611308806207461/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1300809783924033/posts/1611308806207461/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Belgian UFO wave and SOBEPS investigationOn that night, unknown objects were tracked on radar, chased by two Belgian Air Force F-16s, pho...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: medium.com  
    Title: tr 3b black triangle ufo reverse engineering or sdi legacy 948e6cb35751  
-   Link: [https://medium.com/predict/tr-3b-black-triangle-ufo-reverse-engineering-or-sdi-legacy-948e6cb35751](https://medium.com/predict/tr-3b-black-triangle-ufo-reverse-engineering-or-sdi-legacy-948e6cb35751)  
+   Link: <a href="https://medium.com/predict/tr-3b-black-triangle-ufo-reverse-engineering-or-sdi-legacy-948e6cb35751" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/predict/tr-3b-black-triangle-ufo-reverse-engineering-or-sdi-legacy-948e6cb35751</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>TR-3B Black Triangle UFO: Reverse-Engineering or SDI...SOBEPS/COBEPS — Belgian Wave analyses (incl. Petit-Rechain photo hoax) · UK Natio...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: mykss.com  
-   Link: [https://mykss.com/en/article/belgian-ufo-wave-triangular-craft-1989-1990-detailed-witness-reports-from-the-1989-incident-nigh/](https://mykss.com/en/article/belgian-ufo-wave-triangular-craft-1989-1990-detailed-witness-reports-from-the-1989-incident-nigh/)  
+   Link: <a href="https://mykss.com/en/article/belgian-ufo-wave-triangular-craft-1989-1990-detailed-witness-reports-from-the-1989-incident-nigh/" target="_blank" rel="noopener noreferrer nofollow">https://mykss.com/en/article/belgian-ufo-wave-triangular-craft-1989-1990-detailed-witness-reports-from-the-1989-incident-nigh/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Belgian UFO Wave Triangular Craft 1989-1990 Detailed...13 May 2025 — From the official paper trail, the Petit-Rechain photograph, long c...</p></details>
    Published: May 2025  
 
 13. <a id="endnote-13"></a>
    Source: documents.theblackvault.com  
-   Link: [https://documents.theblackvault.com/documents/ufos/UK/defe-31-184-1.pdf](https://documents.theblackvault.com/documents/ufos/UK/defe-31-184-1.pdf)  
+   Link: <a href="https://documents.theblackvault.com/documents/ufos/UK/defe-31-184-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-31-184-1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Belgian authorities have confirmed to us that there was no evidence of any threat; given this, and given that the sightings occurred outs...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: history.co.uk  
-   Link: [https://www.history.co.uk/shows/ancient-aliens/articles/famous-ufo-sightings](https://www.history.co.uk/shows/ancient-aliens/articles/famous-ufo-sightings)  
+   Link: <a href="https://www.history.co.uk/shows/ancient-aliens/articles/famous-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/shows/ancient-aliens/articles/famous-ufo-sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky HISTORY TV channelFamous UFO SightingsHow was it explained? Many people are sceptical about these sightings, mainly because the only...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/BrusselsTimes/posts/the-belgian-ufo-reporting-centre-has-been-analysing-strange-aerial-phenomena-in-/1347049840795584/](https://www.facebook.com/BrusselsTimes/posts/the-belgian-ufo-reporting-centre-has-been-analysing-strange-aerial-phenomena-in-/1347049840795584/)  
+   Link: <a href="https://www.facebook.com/BrusselsTimes/posts/the-belgian-ufo-reporting-centre-has-been-analysing-strange-aerial-phenomena-in-/1347049840795584/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BrusselsTimes/posts/the-belgian-ufo-reporting-centre-has-been-analysing-strange-aerial-phenomena-in-/1347049840795584/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Belgian UFO Reporting Centre has been analysing...Belgian UFO incident: Between November 1989 and April 1990, many citizens and poli...</p></details>
    Published: November 1989  
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=wblYKwcpMbc](https://www.youtube.com/watch?v=wblYKwcpMbc)  
+   Link: <a href="https://www.youtube.com/watch?v=wblYKwcpMbc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wblYKwcpMbc</a>  
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/brussels/comments/17n62uu/unsolved_mysteries_episode_of_ufo_sightings_in/](https://www.reddit.com/r/brussels/comments/17n62uu/unsolved_mysteries_episode_of_ufo_sightings_in/)  
+   Link: <a href="https://www.reddit.com/r/brussels/comments/17n62uu/unsolved_mysteries_episode_of_ufo_sightings_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/brussels/comments/17n62uu/unsolved_mysteries_episode_of_ufo_sightings_in/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>during the period of 1989-1990 over 10,000 people all across Belgian made reports which described the same similar shaped...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40JS_UFO_ART/the-belgian-ufo-wave-europes-most-credible-alien-mystery-94a4d8d48292](https://medium.com/%40JS_UFO_ART/the-belgian-ufo-wave-europes-most-credible-alien-mystery-94a4d8d48292)  
+   Link: <a href="https://medium.com/%40JS_UFO_ART/the-belgian-ufo-wave-europes-most-credible-alien-mystery-94a4d8d48292" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40JS_UFO_ART/the-belgian-ufo-wave-europes-most-credible-alien-mystery-94a4d8d48292</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>March 30, 1990, two Belgian Air Force F-16s were dispatched to intercept unknown objects. Despite radar locks, the crafts demonstrated...</p></details>
-   Published: March 30, 1990  
+   Published: March 30, 1990

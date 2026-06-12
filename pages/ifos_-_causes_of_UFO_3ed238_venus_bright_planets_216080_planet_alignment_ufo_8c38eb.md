@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_planet_following_obs_e4b967
 - ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_venus_false_distance_bfe908
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - venus
 - formations
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - venus
 - formations
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Venus, Jupiter, Mercury, Mars, and the Moon can line up in twilight and look like an arranged formation of strange lights.
 hero_summary: Venus, Jupiter, Mercury, Mars, and the Moon can line up in twilight and look like an arranged formation of strange lights.
 layout: default
 permalink: /formations-183e77/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /venus/
 nav_short_title: Formations
 title: When Planets Look Like a Formation
-title_full: When Planets Look Like a Formation | Venus
+title_full: When Planets Look Like a Formation
 display_title_short: Formations
 display_title: Formations
 heading_title: When Planets Look Like a Formation
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 03:53:44'
-parent_title: Is That UFO Really Venus? | IFOs
+parent_title: Is That UFO Really Venus?
 parent_permalink: /venus/
 parent_nav_short_title: Venus
 parent_heading_title: Is That UFO Really Venus?
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080
-  title: Venus | Ifos Causes Of
+  title: Venus | ifos causes of UFO 3 ed 238
   permalink: /venus/
   short_title: Venus
   heading_title: Is That UFO Really Venus?
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080
-  title: Venus | Ifos Causes Of
+  title: Venus | ifos causes of UFO 3 ed 238
   permalink: /venus/
   short_title: Venus
   heading_title: Is That UFO Really Venus?
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: How to Test the Planet Explanation
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080
-  title: Venus | Ifos Causes Of
+  title: Venus | ifos causes of UFO 3 ed 238
   permalink: /venus/
   short_title: Venus
   heading_title: Is That UFO Really Venus?
@@ -266,6 +265,7 @@ next_link:
   permalink: /sky-checks-573b86/
   short_title: Sky Checks
   heading_title: How to Test the Planet Explanation
+date: '2026-06-12 00:54:03 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_planet_alignment_ufo_8c38eb-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_planet_alignment_ufo_8c38eb-Illustration-1.webp
@@ -276,7 +276,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_pl
 
 Rows of bright lights in the twilight sky have repeatedly triggered UFO reports, especially when [Venus]({{ 'venus/' | relative_url }}), Jupiter, Mars, Mercury and the Moon appear together near the horizon. To an observer unfamiliar with planetary positions, several brilliant points of light arranged in a neat arc can look deliberate, structured and even technological. Yet one of the most common explanations is also one of the oldest: the planets naturally appear along the same path in the sky, creating temporary formations that can resemble fleets, squadrons or hovering objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/solar-system/skywatching/planetary-alignments-and-planet-parades/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA SciencePlanetary Alignments and Planet ParadesFeb 4, 2025 — The planets of our solar system always appear along a line on the sky...</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_planet_alignment_ufo_8c38eb-Illustration-1-dark.svg" | relative_url }}" alt="Formations illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_planet_alignment_ufo_8c38eb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_planet_alignment_ufo_8c38eb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 These sightings occupy an interesting place in the history of UFO reports because witnesses are often describing a genuine visual pattern. The lights really are arranged across the sky. The misunderstanding comes from interpreting that arrangement as an artificial formation rather than an astronomical one.
 
@@ -285,7 +284,6 @@ These sightings occupy an interesting place in the history of UFO reports becaus
 The key to understanding these apparent formations is the ecliptic, the path across the sky followed by the Sun, Moon and planets. Because the planets formed within the same flattened disc of material and still orbit in nearly the same plane, they appear from Earth to occupy a common celestial track. NASA <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/astronomy-essentials/definition-ecliptic-what-is-the-ecliptic/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky As a result]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-snippet">It&#x27;s mainly because, long ago – before there was a solar system as we know it today – there was a vast cloud...Read more...</span></span></span>, planets naturally seem to line up. NASA notes that planets always appear along this line, and that so-called planetary alignments are largely a matter of perspective rather than planets physically forming a straight row in space. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/solar-system/skywatching/planetary-alignments-and-planet-parades/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA SciencePlanetary Alignments and Planet ParadesFeb 4, 2025 — The planets of our solar system always appear along a line on the sky...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/solar-system/skywatching/planetary-alignments-and-planet-parades/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA SciencePlanetary Alignments and Planet ParadesFeb 4, 2025 — The planets of our solar system always appear along a line on the sky...</span></span></span>
 
 This creates a recurring UFO-report scenario:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -299,15 +297,11 @@ This creates a recurring UFO-report scenario:
 
 The effect is especially strong when Venus and Jupiter are present because they are bright enough to dominate the twilight sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-snippet">Sky at Night Magazine17 things commonly mistaken for UFOsMay 11, 2026 — 11 May 2026 — Seen either before sunrise or after sunset, Venus i...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-XFLB9XUCIM" title="Why Do All The Planets Orbit In The Same Plane?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-XFLB9XUCIM" target="_blank" rel="noopener noreferrer">Why Do All The Planets Orbit In The Same Plane?</a></p><p class="youtube-embed-meta">Channel: Insane Curiosity &middot; Views: 1.3M &middot; Uploaded: September 2022 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-XFLB9XUCIM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-XFLB9XUCIM">Open on YouTube</a></p></div></div></div>
-
 ## Twilight Rows of Bright Lights
 
 Most planetary-formation reports occur shortly after sunset or before sunrise. This timing is not accidental. Mercury and Venus remain relatively close to the Sun in the sky, while other planets can also cluster in the same general region during favourable viewing periods. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/solar-system/skywatching/planetary-alignments-and-planet-parades/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA SciencePlanetary Alignments and Planet ParadesFeb 4, 2025 — The planets of our solar system always appear along a line on the sky...</span></span></span>
 
 During these windows, the horizon often contains only a few visible [stars]({{ 'stars/' | relative_url }}). Against that sparse background, a sequence of [bright objects]({{ 'bright-objects/' | relative_url }}) can appear remarkably organised. Witnesses frequently describe:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -322,7 +316,6 @@ During these windows, the horizon often contains only a few visible [stars]({{ '
 The visual impression can be persuasive because the lights do maintain their relative positions over hours. Unlike aircraft, which gradually separate or move across the sky, planets appear fixed. To someone expecting movement from ordinary aircraft, this stability can paradoxically make the sight seem more mysterious. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-snippet">Sky at Night Magazine17 things commonly mistaken for UFOsMay 11, 2026 — 11 May 2026 — Seen either before sunrise or after sunset, Venus i...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span>
 
 Modern “planet parade” events provide good examples. During widely publicised alignments in 2025 and 2026, observers could see four, five or even six planets stretched across the sky in a conspicuous arc. Astronomers emphasised that the effect was a viewing geometry created by the ecliptic, yet the visual appearance closely matched many classic descriptions of organised aerial formations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abcnews.com/US/rare-parade-planets-align-night-sky-nasa/story?id=130526883" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">ABC NewsRare parade of planets to align in night sky, NASA saysFeb 26, 2026 — Planets can sometimes appear &quot;bunched together in the sky&quot;...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2026/feb/10/planetary-parade-february" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">planetary parade february</span><span class="citation-popover-snippet">The peak viewing date is 28 February, although visibility may vary slightly depending on location. This visual phenomenon happens because...</span></span></span>
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_planet_alignment_ufo_8c38eb-Illustration-2-dark.svg" | relative_url }}" alt="Formations illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_planet_alignment_ufo_8c38eb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_planet_alignment_ufo_8c38eb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Formation Can Look Artificial
@@ -341,8 +334,7 @@ A planetary grouping can therefore trigger impressions that include:
 
 These factors help explain why reports sometimes describe a fleet of UFOs rather than a single object. The witness is not merely misidentifying one planet; they are interpreting an entire astronomical arrangement as a coordinated phenomenon.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JOqBK0FYtmQ" title="The RARE 6-Planet Parade! (February 28 Alignment Explained)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JOqBK0FYtmQ" target="_blank" rel="noopener noreferrer">The RARE 6-Planet Parade! (February 28 Alignment Explained)</a></p><p class="youtube-embed-meta">Channel: Einstoon</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JOqBK0FYtmQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JOqBK0FYtmQ">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-XFLB9XUCIM" title="Why Do All The Planets Orbit In The Same Plane?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-XFLB9XUCIM" target="_blank" rel="noopener noreferrer">Why Do All The Planets Orbit In The Same Plane?</a></p><p class="youtube-embed-meta">Channel: Insane Curiosity &middot; Views: 1.3M &middot; Uploaded: September 2022 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-XFLB9XUCIM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-XFLB9XUCIM">Open on YouTube</a></p></div></div></div>
 
 ## Historical Examples of Planetary Displays
 
@@ -358,7 +350,6 @@ The phenomenon is not limited to a single planet. Venus may attract attention fi
 
 Although a planetary formation can look organised, several characteristics distinguish it from conventional aerial objects.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_planet_alignment_ufo_8c38eb-Illustration-3-dark.svg" | relative_url }}" alt="Formations illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_planet_alignment_ufo_8c38eb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_planet_alignment_ufo_8c38eb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Motion Across Time
 
@@ -371,9 +362,6 @@ A line of bright objects that closely follows the path of the Sun, Moon and zodi
 ### Brightness and Colour
 
 Planets usually shine with a steady light. Near the horizon, atmospheric turbulence can cause flickering, colour changes and apparent motion, but the objects remain fixed in position. [Aircraft lights]({{ 'aircraft-lights/' | relative_url }}) typically blink, change orientation or move relative to background stars. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-snippet">Sky at Night Magazine17 things commonly mistaken for UFOsMay 11, 2026 — 11 May 2026 — Seen either before sunrise or after sunset, Venus i...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pVeuIYyUXpM" title="Don&#x27;t Miss Rare Planetary Alignment 28th February | How To See Planet Parade 2026?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pVeuIYyUXpM" target="_blank" rel="noopener noreferrer">Don&#x27;t Miss Rare Planetary Alignment 28th February | How To See Planet Parade 2026?</a></p><p class="youtube-embed-meta">Channel: Star Titan</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pVeuIYyUXpM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pVeuIYyUXpM">Open on YouTube</a></p></div></div></div>
 
 ### Duration
 
@@ -502,15 +490,15 @@ When several bright planets gather along the horizon, the sky can briefly look e
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=formations-183e77-when-planets-look-like-a-formation-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="formations-183e77-when-planets-look-like-a-formation-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black"><img src="{{ '/assets/images/marketplace-covers/078b55bb70d6b61d9af5.jpg' | relative_url }}" alt="Listing image for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-planets-look-like-a-formation-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="when-planets-look-like-a-formation-planet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SOLAR SYSTEM PLANETS SPACE SSPS03 MOVIE POSTER PRINT A4 A3 BUY 2 GET 3RD FREE"><img src="https://i.ebayimg.com/images/g/fWEAAOSw0exaAdPQ/s-l225.jpg" alt="Listing image for SOLAR SYSTEM PLANETS SPACE SSPS03 MOVIE POSTER PRINT A4 A3 BUY 2 GET 3RD FREE" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=formations-183e77-when-planets-look-like-a-formation-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="formations-183e77-when-planets-look-like-a-formation-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-planets-look-like-a-formation-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="when-planets-look-like-a-formation-planet-poster" target="_blank" rel="sponsored noopener noreferrer">SOLAR SYSTEM PLANETS SPACE SSPS03 MOVIE POSTER PRINT A4 A3 BUY 2 GET 3RD FREE</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=formations-183e77-when-planets-look-like-a-formation-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="formations-183e77-when-planets-look-like-a-formation-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo enamel pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-planets-look-like-a-formation-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="when-planets-look-like-a-formation-planet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planet poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: planet poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=formations-183e77-when-planets-look-like-a-formation-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="formations-183e77-when-planets-look-like-a-formation-ifos-causes-of-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-planets-look-like-a-formation-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="when-planets-look-like-a-formation-planet-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -518,15 +506,15 @@ When several bright planets gather along the horizon, the sky can briefly look e
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=formations-183e77-when-planets-look-like-a-formation-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="formations-183e77-when-planets-look-like-a-formation-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-planets-look-like-a-formation-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="when-planets-look-like-a-formation-planet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Forbidden Planet Minimal Movie Art Print |Film Poster | Canvas &amp; Framed 05"><img src="https://i.ebayimg.com/images/g/i2MAAeSwwetpw9UY/s-l225.jpg" alt="Listing image for Forbidden Planet Minimal Movie Art Print |Film Poster | Canvas &amp; Framed 05" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=formations-183e77-when-planets-look-like-a-formation-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="formations-183e77-when-planets-look-like-a-formation-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-planets-look-like-a-formation-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="when-planets-look-like-a-formation-planet-poster" target="_blank" rel="sponsored noopener noreferrer">Forbidden Planet Minimal Movie Art Print |Film Poster | Canvas &amp; Framed 05</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=formations-183e77-when-planets-look-like-a-formation-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="formations-183e77-when-planets-look-like-a-formation-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo enamel pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-planets-look-like-a-formation-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="when-planets-look-like-a-formation-planet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planet poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: planet poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=formations-183e77-when-planets-look-like-a-formation-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="formations-183e77-when-planets-look-like-a-formation-ifos-causes-of-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-planets-look-like-a-formation-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="when-planets-look-like-a-formation-planet-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -534,15 +522,15 @@ When several bright planets gather along the horizon, the sky can briefly look e
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=formations-183e77-when-planets-look-like-a-formation-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="formations-183e77-when-planets-look-like-a-formation-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac"><img src="{{ '/assets/images/marketplace-covers/cdbe73a199cf9b4b48c0.jpg' | relative_url }}" alt="Listing image for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-planets-look-like-a-formation-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="when-planets-look-like-a-formation-planet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Home Wall Print - Vintage Movie Film Poster - FORBIDDEN PLANET - A4, A3, A2,A1"><img src="https://i.ebayimg.com/images/g/sc8AAOSwVxZi~TQ2/s-l225.jpg" alt="Listing image for Home Wall Print - Vintage Movie Film Poster - FORBIDDEN PLANET - A4, A3, A2,A1" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=formations-183e77-when-planets-look-like-a-formation-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="formations-183e77-when-planets-look-like-a-formation-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-planets-look-like-a-formation-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="when-planets-look-like-a-formation-planet-poster" target="_blank" rel="sponsored noopener noreferrer">Home Wall Print - Vintage Movie Film Poster - FORBIDDEN PLANET - A4, A3, A2,A1</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=formations-183e77-when-planets-look-like-a-formation-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="formations-183e77-when-planets-look-like-a-formation-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo enamel pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-planets-look-like-a-formation-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="when-planets-look-like-a-formation-planet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planet poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: planet poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=formations-183e77-when-planets-look-like-a-formation-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="formations-183e77-when-planets-look-like-a-formation-ifos-causes-of-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-planets-look-like-a-formation-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="when-planets-look-like-a-formation-planet-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -550,15 +538,15 @@ When several bright planets gather along the horizon, the sky can briefly look e
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=formations-183e77-when-planets-look-like-a-formation-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="formations-183e77-when-planets-look-like-a-formation-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag"><img src="{{ '/assets/images/marketplace-covers/423dfe011ecd80a392ff.jpg' | relative_url }}" alt="Listing image for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-planets-look-like-a-formation-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="when-planets-look-like-a-formation-planet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Solar System Poster Set of 2 -Kids Educational Planets Chart &amp; Space Wall Art A3"><img src="https://i.ebayimg.com/images/g/hcIAAeSwmmlp43nB/s-l225.jpg" alt="Listing image for Solar System Poster Set of 2 -Kids Educational Planets Chart &amp; Space Wall Art A3" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=formations-183e77-when-planets-look-like-a-formation-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="formations-183e77-when-planets-look-like-a-formation-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-planets-look-like-a-formation-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="when-planets-look-like-a-formation-planet-poster" target="_blank" rel="sponsored noopener noreferrer">Solar System Poster Set of 2 -Kids Educational Planets Chart &amp; Space Wall Art A3</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=formations-183e77-when-planets-look-like-a-formation-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="formations-183e77-when-planets-look-like-a-formation-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo enamel pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-planets-look-like-a-formation-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="when-planets-look-like-a-formation-planet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planet poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: planet poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=formations-183e77-when-planets-look-like-a-formation-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="formations-183e77-when-planets-look-like-a-formation-ifos-causes-of-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-planets-look-like-a-formation-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="when-planets-look-like-a-formation-planet-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -566,7 +554,7 @@ When several bright planets gather along the horizon, the sky can briefly look e
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=formations-183e77-when-planets-look-like-a-formation-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="formations-183e77-when-planets-look-like-a-formation-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-planets-look-like-a-formation-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="when-planets-look-like-a-formation-planet-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -781,114 +769,114 @@ When several bright planets gather along the horizon, the sky can briefly look e
 
 1. <a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/solar-system/skywatching/planetary-alignments-and-planet-parades/](https://science.nasa.gov/solar-system/skywatching/planetary-alignments-and-planet-parades/)  
+   Link: <a href="https://science.nasa.gov/solar-system/skywatching/planetary-alignments-and-planet-parades/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/solar-system/skywatching/planetary-alignments-and-planet-parades/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA SciencePlanetary Alignments and Planet ParadesFeb 4, 2025 — The planets of our solar system always appear along a line on the sky...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: science.nasa.gov  
    Title: whats up january 2025 skywatching tips from nasa  
-   Link: [https://science.nasa.gov/solar-system/skywatching/whats-up-january-2025-skywatching-tips-from-nasa/](https://science.nasa.gov/solar-system/skywatching/whats-up-january-2025-skywatching-tips-from-nasa/)  
+   Link: <a href="https://science.nasa.gov/solar-system/skywatching/whats-up-january-2025-skywatching-tips-from-nasa/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/solar-system/skywatching/whats-up-january-2025-skywatching-tips-from-nasa/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceWhat&#x27;s Up: January 2025 Skywatching Tips from NASADec 30, 2024 — That line is called the ecliptic, and it represents the plan...</p></details>
    Published: january 2025  
 
 3. <a id="endnote-3"></a>
    Source: nasa.gov  
    Title: plane of ecliptic  
-   Link: [https://www.nasa.gov/image-article/plane-of-ecliptic/](https://www.nasa.gov/image-article/plane-of-ecliptic/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASAWhat Is the Plane of the Ecliptic?Mar 23, 2008 — The planetary bodies of our solar system all tend to lie near this plane, since they...</p></details>
+   Link: <a href="https://www.nasa.gov/image-article/plane-of-ecliptic/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/image-article/plane-of-ecliptic/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>What Is the Plane of the Ecliptic?Mar 23, 2008 — The planetary bodies of our solar system all tend to lie near this plane, since they...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: earthsky.org  
-   Link: [https://earthsky.org/astronomy-essentials/definition-ecliptic-what-is-the-ecliptic/](https://earthsky.org/astronomy-essentials/definition-ecliptic-what-is-the-ecliptic/)  
+   Link: <a href="https://earthsky.org/astronomy-essentials/definition-ecliptic-what-is-the-ecliptic/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/astronomy-essentials/definition-ecliptic-what-is-the-ecliptic/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s mainly because, long ago – before there was a solar system as we know it today – there was a vast cloud...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: science.nasa.gov  
    Title: chapter2 2  
-   Link: [https://science.nasa.gov/learn/basics-of-space-flight/chapter2-2/](https://science.nasa.gov/learn/basics-of-space-flight/chapter2-2/)  
+   Link: <a href="https://science.nasa.gov/learn/basics-of-space-flight/chapter2-2/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/learn/basics-of-space-flight/chapter2-2/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceChapter 2: Reference SystemsJan 16, 2025 — The great circle marking the intersection of the ecliptic plane on the celestial s...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: jpl.nasa.gov  
    Title: whats up january 2025  
-   Link: [https://www.jpl.nasa.gov/videos/whats-up-january-2025/](https://www.jpl.nasa.gov/videos/whats-up-january-2025/)  
+   Link: <a href="https://www.jpl.nasa.gov/videos/whats-up-january-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.jpl.nasa.gov/videos/whats-up-january-2025/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Jet Propulsion Laboratory (JPL)Whats Up January 2025That line is called the ecliptic, and it represents the plane of the solar syste...</p></details>
    Published: january 2025  
 
 7. <a id="endnote-7"></a>
    Source: planetary.org  
-   Link: [https://www.planetary.org/articles/what-is-a-planetary-alignment](https://www.planetary.org/articles/what-is-a-planetary-alignment)  
+   Link: <a href="https://www.planetary.org/articles/what-is-a-planetary-alignment" target="_blank" rel="noopener noreferrer nofollow">https://www.planetary.org/articles/what-is-a-planetary-alignment</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Planetary SocietyWhat is a &quot;planetary alignment&quot;?During a planetary alignment, multiple planets will appear in a line tracing a sligh...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: space.com  
    Title: what to see night sky june 2026  
-   Link: [https://www.space.com/what-to-see-night-sky-june-2026](https://www.space.com/what-to-see-night-sky-june-2026)  
+   Link: <a href="https://www.space.com/what-to-see-night-sky-june-2026" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/what-to-see-night-sky-june-2026</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Night sky June 2026: What you can see tonight5 days ago — Mercury, Venus, and Jupiter align low over the western horizon after sunset, cr...</p></details>
    Published: june 2026  
 
 9. <a id="endnote-9"></a>
    Source: space.com  
    Title: what gear do you need to see februarys planetary parade 2026  
-   Link: [https://www.space.com/stargazing/skywatching-kit/what-gear-do-you-need-to-see-februarys-planetary-parade-2026](https://www.space.com/stargazing/skywatching-kit/what-gear-do-you-need-to-see-februarys-planetary-parade-2026)  
+   Link: <a href="https://www.space.com/stargazing/skywatching-kit/what-gear-do-you-need-to-see-februarys-planetary-parade-2026" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/skywatching-kit/what-gear-do-you-need-to-see-februarys-planetary-parade-2026</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>What gear do you need to see February&#x27;s &#x27;planetary parade...26 Feb 2026 — Using optics can help you get the most from February&#x27;s planeta...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: space.com  
    Title: 7 planets are aligned in the night sky right now  
-   Link: [https://www.space.com/planetary-alignments-mean-for-science-astronomy](https://www.space.com/planetary-alignments-mean-for-science-astronomy)  
+   Link: <a href="https://www.space.com/planetary-alignments-mean-for-science-astronomy" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/planetary-alignments-mean-for-science-astronomy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>But what&#x27;s...Feb 19, 2025 — That path is called the ecliptic, and it exists because all planets in our solar system orbit around the sun...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: science.nasa.gov  
    Title: orbits and keplers laws  
-   Link: [https://science.nasa.gov/resource/orbits-and-keplers-laws/](https://science.nasa.gov/resource/orbits-and-keplers-laws/)  
+   Link: <a href="https://science.nasa.gov/resource/orbits-and-keplers-laws/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/resource/orbits-and-keplers-laws/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and Kepler&#x27;s Laws21 May 2024 — Kepler&#x27;s three laws describe how planetary bodies orbit the Sun. They describe how (1) planets move in ell...</p></details>
    Published: May 2024  
 
 12. <a id="endnote-12"></a>
    Source: time.com  
-   Link: [https://time.com/7381763/planetary-parade-what-to-know/](https://time.com/7381763/planetary-parade-what-to-know/)  
+   Link: <a href="https://time.com/7381763/planetary-parade-what-to-know/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/7381763/planetary-parade-what-to-know/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Best See the &#x27;Planetary Parade&#x27; This Weekend27 Feb 2026 — “When this happens, it looks like the planets have roughly formed a line...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: skyatnightmagazine.com  
-   Link: [https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos](https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos)  
+   Link: <a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky at Night Magazine17 things commonly mistaken for UFOsMay 11, 2026 — 11 May 2026 — Seen either before sunrise or after sunset, Venus i...</p></details>
    Published: May 11, 2026  
 
 14. <a id="endnote-14"></a>
    Source: abcnews.com  
-   Link: [https://abcnews.com/US/rare-parade-planets-align-night-sky-nasa/story?id=130526883](https://abcnews.com/US/rare-parade-planets-align-night-sky-nasa/story?id=130526883)  
+   Link: <a href="https://abcnews.com/US/rare-parade-planets-align-night-sky-nasa/story?id=130526883" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/US/rare-parade-planets-align-night-sky-nasa/story?id=130526883</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsRare parade of planets to align in night sky, NASA saysFeb 26, 2026 — Planets can sometimes appear &quot;bunched together in the sky&quot;...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: theguardian.com  
    Title: planetary parade february  
-   Link: [https://www.theguardian.com/science/2026/feb/10/planetary-parade-february](https://www.theguardian.com/science/2026/feb/10/planetary-parade-february)  
+   Link: <a href="https://www.theguardian.com/science/2026/feb/10/planetary-parade-february" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2026/feb/10/planetary-parade-february</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The peak viewing date is 28 February, although visibility may vary slightly depending on location. This visual phenomenon happens because...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: everettpost.com  
    Title: rare parade of planets to align in night sky nasa says  
-   Link: [https://www.everettpost.com/national/rare-parade-of-planets-to-align-in-night-sky-nasa-says/](https://www.everettpost.com/national/rare-parade-of-planets-to-align-in-night-sky-nasa-says/)  
+   Link: <a href="https://www.everettpost.com/national/rare-parade-of-planets-to-align-in-night-sky-nasa-says/" target="_blank" rel="noopener noreferrer nofollow">https://www.everettpost.com/national/rare-parade-of-planets-to-align-in-night-sky-nasa-says/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Rare parade of planets to align in night sky, NASA saysFeb 26, 2026 — Planets can sometimes appear “bunched together in the sky” because...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: skyatnightmagazine.com  
-   Link: [https://www.skyatnightmagazine.com/news/planet-parade-august-2025](https://www.skyatnightmagazine.com/news/planet-parade-august-2025)  
+   Link: <a href="https://www.skyatnightmagazine.com/news/planet-parade-august-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/news/planet-parade-august-2025</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky at Night MagazineAugust planet alignment – six planets and the Moon...August 14, 2025 — 14 Aug 2025 — In August 2025, six planets an...</p></details>
    Published: August 14, 2025  
 
 18. <a id="endnote-18"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Ecliptic](https://en.wikipedia.org/wiki/Ecliptic)  
+   Link: <a href="https://en.wikipedia.org/wiki/Ecliptic" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ecliptic</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EclipticThe planets of the Solar System can be seen along the ecliptic because their orbital planes are very close to Earth&#x27;s. The Moo...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: skyatnightmagazine.com  
    Title: ecliptic tracing sun path across the sky  
-   Link: [https://www.skyatnightmagazine.com/advice/ecliptic-tracing-sun-path-across-the-sky](https://www.skyatnightmagazine.com/advice/ecliptic-tracing-sun-path-across-the-sky)  
+   Link: <a href="https://www.skyatnightmagazine.com/advice/ecliptic-tracing-sun-path-across-the-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/advice/ecliptic-tracing-sun-path-across-the-sky</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ecliptic in astronomy13 May 2025 — When a planet appears to be in the same region of sky as another, or our own Moon, we call it a conjun...</p></details>
    Published: May 2025  
 
@@ -896,52 +884,52 @@ When several bright planets gather along the horizon, the sky can briefly look e
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/astronautslife/posts/2923953261112981/](https://www.facebook.com/groups/astronautslife/posts/2923953261112981/)  
+   Link: <a href="https://www.facebook.com/groups/astronautslife/posts/2923953261112981/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/astronautslife/posts/2923953261112981/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Planets aligned in ecliptic plane visible tonightOn the evening of March 28, the planets Jupiter, Mercury, Uranus, Mars and Venus will li...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: cntraveler.com  
-   Link: [https://www.cntraveler.com/story/2025-planetary-alignment-how-and-where-to-see](https://www.cntraveler.com/story/2025-planetary-alignment-how-and-where-to-see)  
+   Link: <a href="https://www.cntraveler.com/story/2025-planetary-alignment-how-and-where-to-see" target="_blank" rel="noopener noreferrer nofollow">https://www.cntraveler.com/story/2025-planetary-alignment-how-and-where-to-see</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Four bright planets, Venus, Saturn, Jupiter, and Mars, will be visible to the naked eye after dark. Mars&#x27; opposition makes it especially...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: nationalgeographic.com  
    Title: National Geographic A rare six-planet alignment is lighting up the sky this week  
-   Link: [https://www.nationalgeographic.com/science/article/six-planet-alignment-february-2026](https://www.nationalgeographic.com/science/article/six-planet-alignment-february-2026)  
+   Link: <a href="https://www.nationalgeographic.com/science/article/six-planet-alignment-february-2026" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/science/article/six-planet-alignment-february-2026</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>27 Feb 2026 — Step outside just after sunset and you may catch an unusual sight: six planets strung across the sky in a gentle arc.Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: universemagazine.com  
    Title: space show on the last day of winter a rare parade of six planets on february 28  
-   Link: [https://universemagazine.com/en/space-show-on-the-last-day-of-winter-a-rare-parade-of-six-planets-on-february-28/?srsltid=AfmBOopq6q2NUF2DGdLG1wfYdogaNou4k0EvhGLVmGhCKUsMsTyk09JE](https://universemagazine.com/en/space-show-on-the-last-day-of-winter-a-rare-parade-of-six-planets-on-february-28/?srsltid=AfmBOopq6q2NUF2DGdLG1wfYdogaNou4k0EvhGLVmGhCKUsMsTyk09JE)  
+   Link: <a href="https://universemagazine.com/en/space-show-on-the-last-day-of-winter-a-rare-parade-of-six-planets-on-february-28/?srsltid=AfmBOopq6q2NUF2DGdLG1wfYdogaNou4k0EvhGLVmGhCKUsMsTyk09JE" target="_blank" rel="noopener noreferrer nofollow">https://universemagazine.com/en/space-show-on-the-last-day-of-winter-a-rare-parade-of-six-planets-on-february-28/?srsltid=AfmBOopq6q2NUF2DGdLG1wfYdogaNou4k0EvhGLVmGhCKUsMsTyk09JE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>February parade of planets: when will this astronomical...25 Feb 2026 — For most viewers, the main characters of the show will be four p...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/BBCnewsafrica/posts/a-stunning-planetary-alignment-one-of-the-most-remarkable-in-years-is-currently-/1165416758276059/](https://www.facebook.com/BBCnewsafrica/posts/a-stunning-planetary-alignment-one-of-the-most-remarkable-in-years-is-currently-/1165416758276059/)  
+   Link: <a href="https://www.facebook.com/BBCnewsafrica/posts/a-stunning-planetary-alignment-one-of-the-most-remarkable-in-years-is-currently-/1165416758276059/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCnewsafrica/posts/a-stunning-planetary-alignment-one-of-the-most-remarkable-in-years-is-currently-/1165416758276059/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Venus, Mars, Jupiter, and Saturn are visible to the naked eye, while Neptune and Uranus can be...Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/berlin/comments/1d5jt1t/did_anyone_else_see_this_strange_light_formation/](https://www.reddit.com/r/berlin/comments/1d5jt1t/did_anyone_else_see_this_strange_light_formation/)  
+   Link: <a href="https://www.reddit.com/r/berlin/comments/1d5jt1t/did_anyone_else_see_this_strange_light_formation/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/berlin/comments/1d5jt1t/did_anyone_else_see_this_strange_light_formation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>They looked like stars but were much bigger than any star I&#x27;ve ever seen in the night...Read more...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: livescience.com  
-   Link: [https://www.livescience.com/33766-jupiter-venus-mistaken-ufos.html](https://www.livescience.com/33766-jupiter-venus-mistaken-ufos.html)  
+   Link: <a href="https://www.livescience.com/33766-jupiter-venus-mistaken-ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/33766-jupiter-venus-mistaken-ufos.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Live ScienceJupiter and Venus &#x27;Could Be Mistaken for UFOs&#x27;13 Mar 2012 — In fact, the planet Venus frequently gets mistaken for a UFO...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/secretsofuniverse/posts/-the-two-brightest-planets-in-the-night-sky-are-about-to-almost-touch-this-is-th/1555911612849101/](https://www.facebook.com/secretsofuniverse/posts/-the-two-brightest-planets-in-the-night-sky-are-about-to-almost-touch-this-is-th/1555911612849101/)  
+   Link: <a href="https://www.facebook.com/secretsofuniverse/posts/-the-two-brightest-planets-in-the-night-sky-are-about-to-almost-touch-this-is-th/1555911612849101/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/secretsofuniverse/posts/-the-two-brightest-planets-in-the-night-sky-are-about-to-almost-touch-this-is-th/1555911612849101/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>unidentified flying object (UFO). During the months Venus...Read more...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DVK7iGeIJbK/](https://www.instagram.com/p/DVK7iGeIJbK/)  
+   Link: <a href="https://www.instagram.com/p/DVK7iGeIJbK/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVK7iGeIJbK/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>heavy atmospheric distortion so it may look wobbly or blurry.Read more...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DVSCqyvEUa1/](https://www.instagram.com/reel/DVSCqyvEUa1/)  
+   Link: <a href="https://www.instagram.com/reel/DVSCqyvEUa1/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DVSCqyvEUa1/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PLEASE SHARE: There is a lot of misinformation surrounding...PLEASE SHARE: There is a lot of misinformation surrounding a “planetary ali...</p></details>

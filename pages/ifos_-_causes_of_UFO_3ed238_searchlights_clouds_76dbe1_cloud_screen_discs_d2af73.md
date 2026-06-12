@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_hidden_event_searchl_b7f3cf
 - ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_repeating_beam_patte_8be1f2
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - searchlights
 - cloud-screens
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - searchlights
 - cloud-screens
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Low or broken cloud can act like a projection screen, making a simple beam appear as a disc, oval or cluster of moving objects.
 hero_summary: Low or broken cloud can act like a projection screen, making a simple beam appear as a disc, oval or cluster of moving objects.
 layout: default
 permalink: /cloud-screens/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /searchlights/
 nav_short_title: Cloud screens
 title: Why clouds make searchlights look solid
-title_full: Why clouds make searchlights look solid | Searchlights
+title_full: Why clouds make searchlights look solid
 display_title_short: Cloud screens
 display_title: Cloud screens
 heading_title: Why clouds make searchlights look solid
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 06:23:26'
-parent_title: How Searchlights Paint UFOs in Clouds | IFOs
+parent_title: How Searchlights Paint UFOs in Clouds
 parent_permalink: /searchlights/
 parent_nav_short_title: Searchlights
 parent_heading_title: How Searchlights Paint UFOs in Clouds
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1
-  title: Searchlights | Ifos Causes Of
+  title: Searchlights | ifos causes of UFO 3 ed 238
   permalink: /searchlights/
   short_title: Searchlights
   heading_title: How Searchlights Paint UFOs in Clouds
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1
-  title: Searchlights | Ifos Causes Of
+  title: Searchlights | ifos causes of UFO 3 ed 238
   permalink: /searchlights/
   short_title: Searchlights
   heading_title: How Searchlights Paint UFOs in Clouds
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: When repeated loops look like intelligent control
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1
-  title: Searchlights | Ifos Causes Of
+  title: Searchlights | ifos causes of UFO 3 ed 238
   permalink: /searchlights/
   short_title: Searchlights
   heading_title: How Searchlights Paint UFOs in Clouds
@@ -266,6 +265,7 @@ next_link:
   permalink: /event-beams/
   short_title: Event beams
   heading_title: Was the UFO really an event searchlight?
+date: '2026-06-12 00:44:32 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_cloud_screen_discs_d2af73-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_cloud_screen_discs_d2af73-Illustration-1.webp
@@ -274,8 +274,7 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_clo
 
 ## Introduction
 
-A surprisingly common source of UFO reports is not a solid object at all, but a patch of light projected onto the underside of cloud. When a searchlight beam strikes low or broken cloud, the cloud acts as a giant screen. If the lamp itself is hidden by distance, buildings, terrain or darkness, an observer may see only a bright disc, oval or cluster of glowing shapes apparently floating in the sky. Official UFO-identification material has long cited “[searchlights]({{ 'searchlights/' | relative_url }}) playing on scattered clouds” as a cause of reports of moving disc-like objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100040013-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">CIAFACT SHEET AIR FORCE UFO REPORToff their bodies; searchlights playing on scattered clouds, appearing as moving disc-like shapres. The...</span></span></span>
-
+A surprisingly common source of UFO reports is not a solid object at all, but a patch of light projected onto the underside of cloud. When a searchlight beam strikes low or broken cloud, the cloud acts as a giant screen. If the lamp itself is hidden by distance, buildings, terrain or darkness, an observer may see only a bright disc, oval or cluster of glowing shapes apparently floating in the sky. Official UFO-identification material has long cited “[searchlights]({{ 'searchlights/' | relative_url }}) playing on scattered clouds” as a cause of reports of moving disc-like objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100040013-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">FACT SHEET AIR FORCE UFO REPORToff their bodies; searchlights playing on scattered clouds, appearing as moving disc-like shapres. The...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_cloud_screen_discs_d2af73-Illustration-1-dark.svg" | relative_url }}" alt="Cloud screens illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_cloud_screen_discs_d2af73-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_cloud_screen_discs_d2af73-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The effect is especially convincing because the illuminated patch often behaves unlike a normal aircraft. It can accelerate, stop, split into multiple lights or vanish instantly, all while remaining nothing more than projected light on an uneven cloud surface.
@@ -299,9 +298,6 @@ The altitude of the cloud layer strongly influences how the projected light is p
 When cloud bases are only a few hundred metres above the ground, projected spots appear bright and sharply defined. Their edges can look surprisingly solid, encouraging the impression of a structured object rather than a patch of illumination.
 
 Because the cloud is relatively close, a modest movement of the projector produces a large apparent motion across the sky. To an observer, the light may seem to dart from one position to another at impossible speed.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BWBcqt5bhw8" title="Flying Discs Files USAF&#x27;s Secret Investigations" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BWBcqt5bhw8" target="_blank" rel="noopener noreferrer">Flying Discs Files USAF&#x27;s Secret Investigations</a></p><p class="youtube-embed-meta">Channel: Economics, Leadership Tutorial (Kassaye Arage) &middot; Views: 21 &middot; Uploaded: May 2026 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BWBcqt5bhw8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BWBcqt5bhw8">Open on YouTube</a></p></div></div></div>
 
 ### Higher cloud makes the object seem distant and enormous
 
@@ -327,7 +323,6 @@ To an observer, a single source can therefore seem to divide into several coordi
 
 This behaviour helps explain reports of lights that separate into formations, regroup and then disappear. The underlying beam may have been moving smoothly the entire time.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_cloud_screen_discs_d2af73-Illustration-2-dark.svg" | relative_url }}" alt="Cloud screens illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_cloud_screen_discs_d2af73-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_cloud_screen_discs_d2af73-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Cloud motion adds a second layer of movement
 
@@ -347,15 +342,13 @@ Meteorological observations of cloud-base projectors note the same principle. Th
 
 This abrupt appearance-and-disappearance pattern is one reason projected lights are sometimes described as “materialising” or “jumping” across the sky.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4JFbAaUYWbw" title="Lights in the Sky Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4JFbAaUYWbw" target="_blank" rel="noopener noreferrer">Lights in the Sky Explained</a></p><p class="youtube-embed-meta">Channel: Jim Lake</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4JFbAaUYWbw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4JFbAaUYWbw">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BWBcqt5bhw8" title="Flying Discs Files USAF&#x27;s Secret Investigations" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BWBcqt5bhw8" target="_blank" rel="noopener noreferrer">Flying Discs Files USAF&#x27;s Secret Investigations</a></p><p class="youtube-embed-meta">Channel: Economics, Leadership Tutorial (Kassaye Arage) &middot; Views: 21 &middot; Uploaded: May 2026 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BWBcqt5bhw8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BWBcqt5bhw8">Open on YouTube</a></p></div></div></div>
 
 ## Why witnesses often report impossible manoeuvres
 
 The projected image is not constrained by the motion of a physical craft. A small rotation of a searchlight can move the illuminated spot across a huge area of cloud in seconds.
 
 As a result, the apparent object may:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -369,12 +362,10 @@ As a result, the apparent object may:
 
 These characteristics are frequently associated with UFO reports, yet they emerge naturally from projection geometry. Official UFO-identification guides have specifically noted moving disc-like lights on clouds as an example of this type of misidentification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010001-0.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">CIA RDP81R00560R000100010001 0</span><span class="citation-popover-snippet">the pilot gave up and turned back to base, the UFO turned and followed. A second F-84 scrambled and chased the UFO 160 miles, ob- taining...</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_cloud_screen_discs_d2af73-Illustration-3-dark.svg" | relative_url }}" alt="Cloud screens illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_cloud_screen_discs_d2af73-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_cloud_screen_discs_d2af73-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A useful recognition pattern
 
 Cloud-screen sightings share several recurring features:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -387,11 +378,7 @@ Cloud-screen sightings share several recurring features:
 
 </div>
 
-When these clues occur together, the most likely explanation is often not a solid airborne object but a beam projected onto a moving, uneven cloud layer. The cloud becomes a temporary screen, and the projected patch becomes a convincing flying disc. Official UFO guidance and practical cloud-projection techniques both demonstrate how easily this illusion can arise under ordinary atmospheric conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100040013-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">CIAFACT SHEET AIR FORCE UFO REPORToff their bodies; searchlights playing on scattered clouds, appearing as moving disc-like shapres. The...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ceiling_projector" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ceiling projector</span><span class="citation-popover-snippet">Ceiling projector</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gFy6LVlNc6c" title="&quot;Alien&quot; caught on camera in La Junta" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gFy6LVlNc6c" target="_blank" rel="noopener noreferrer">&quot;Alien&quot; caught on camera in La Junta</a></p><p class="youtube-embed-meta">Channel: Denver7</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gFy6LVlNc6c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gFy6LVlNc6c">Open on YouTube</a></p></div></div></div>
-
+When these clues occur together, the most likely explanation is often not a solid airborne object but a beam projected onto a moving, uneven cloud layer. The cloud becomes a temporary screen, and the projected patch becomes a convincing flying disc. Official UFO guidance and practical cloud-projection techniques both demonstrate how easily this illusion can arise under ordinary atmospheric conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100040013-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">FACT SHEET AIR FORCE UFO REPORToff their bodies; searchlights playing on scattered clouds, appearing as moving disc-like shapres. The...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ceiling_projector" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ceiling projector</span><span class="citation-popover-snippet">Ceiling projector</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -510,15 +497,15 @@ When these clues occur together, the most likely explanation is often not a soli
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-screens-why-clouds-make-searchlights-look-solid-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="cloud-screens-why-clouds-make-searchlights-look-solid-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=searchlight+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-clouds-make-searchlights-look-solid-searchlight-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="searchlight model" data-ebay-reference="why-clouds-make-searchlights-look-solid-searchlight-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large Searchlight (DUMMY). 35mm x 16mm Model Boat Fittings."><img src="https://i.ebayimg.com/images/g/EWEAAOSwzGpizXKK/s-l225.jpg" alt="Listing image for Large Searchlight (DUMMY). 35mm x 16mm Model Boat Fittings." loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-screens-why-clouds-make-searchlights-look-solid-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="cloud-screens-why-clouds-make-searchlights-look-solid-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=searchlight+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-clouds-make-searchlights-look-solid-searchlight-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="searchlight model" data-ebay-reference="why-clouds-make-searchlights-look-solid-searchlight-model" target="_blank" rel="sponsored noopener noreferrer">Large Searchlight (DUMMY). 35mm x 16mm Model Boat Fittings.</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-screens-why-clouds-make-searchlights-look-solid-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="cloud-screens-why-clouds-make-searchlights-look-solid-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=searchlight+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-clouds-make-searchlights-look-solid-searchlight-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="searchlight model" data-ebay-reference="why-clouds-make-searchlights-look-solid-searchlight-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for searchlight model">Search <span data-ebay-domain-label>eBay.co.uk</span>: searchlight model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-screens-why-clouds-make-searchlights-look-solid-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="cloud-screens-why-clouds-make-searchlights-look-solid-ifos-causes-of-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=searchlight+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-clouds-make-searchlights-look-solid-searchlight-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="searchlight model" data-ebay-reference="why-clouds-make-searchlights-look-solid-searchlight-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -526,15 +513,15 @@ When these clues occur together, the most likely explanation is often not a soli
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-screens-why-clouds-make-searchlights-look-solid-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="cloud-screens-why-clouds-make-searchlights-look-solid-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=searchlight+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-clouds-make-searchlights-look-solid-searchlight-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="searchlight model" data-ebay-reference="why-clouds-make-searchlights-look-solid-searchlight-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Crescent ATP Searchlight Spotter 54mm Hollow Cast Metal Model"><img src="https://i.ebayimg.com/images/g/-84AAeSwhANp54Il/s-l225.jpg" alt="Listing image for Crescent ATP Searchlight Spotter 54mm Hollow Cast Metal Model" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-screens-why-clouds-make-searchlights-look-solid-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="cloud-screens-why-clouds-make-searchlights-look-solid-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=searchlight+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-clouds-make-searchlights-look-solid-searchlight-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="searchlight model" data-ebay-reference="why-clouds-make-searchlights-look-solid-searchlight-model" target="_blank" rel="sponsored noopener noreferrer">Crescent ATP Searchlight Spotter 54mm Hollow Cast Metal Model</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-screens-why-clouds-make-searchlights-look-solid-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="cloud-screens-why-clouds-make-searchlights-look-solid-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=searchlight+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-clouds-make-searchlights-look-solid-searchlight-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="searchlight model" data-ebay-reference="why-clouds-make-searchlights-look-solid-searchlight-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for searchlight model">Search <span data-ebay-domain-label>eBay.co.uk</span>: searchlight model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-screens-why-clouds-make-searchlights-look-solid-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="cloud-screens-why-clouds-make-searchlights-look-solid-ifos-causes-of-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=searchlight+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-clouds-make-searchlights-look-solid-searchlight-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="searchlight model" data-ebay-reference="why-clouds-make-searchlights-look-solid-searchlight-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -542,15 +529,15 @@ When these clues occur together, the most likely explanation is often not a soli
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-screens-why-clouds-make-searchlights-look-solid-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="cloud-screens-why-clouds-make-searchlights-look-solid-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=searchlight+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-clouds-make-searchlights-look-solid-searchlight-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="searchlight model" data-ebay-reference="why-clouds-make-searchlights-look-solid-searchlight-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 20mm 6v Working Model Boat Searchlight"><img src="https://i.ebayimg.com/images/g/sW8AAeSwYdNoi1uC/s-l225.jpg" alt="Listing image for 20mm 6v Working Model Boat Searchlight" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-screens-why-clouds-make-searchlights-look-solid-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="cloud-screens-why-clouds-make-searchlights-look-solid-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=searchlight+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-clouds-make-searchlights-look-solid-searchlight-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="searchlight model" data-ebay-reference="why-clouds-make-searchlights-look-solid-searchlight-model" target="_blank" rel="sponsored noopener noreferrer">20mm 6v Working Model Boat Searchlight</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-screens-why-clouds-make-searchlights-look-solid-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="cloud-screens-why-clouds-make-searchlights-look-solid-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=searchlight+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-clouds-make-searchlights-look-solid-searchlight-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="searchlight model" data-ebay-reference="why-clouds-make-searchlights-look-solid-searchlight-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for searchlight model">Search <span data-ebay-domain-label>eBay.co.uk</span>: searchlight model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-screens-why-clouds-make-searchlights-look-solid-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="cloud-screens-why-clouds-make-searchlights-look-solid-ifos-causes-of-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=searchlight+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-clouds-make-searchlights-look-solid-searchlight-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="searchlight model" data-ebay-reference="why-clouds-make-searchlights-look-solid-searchlight-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -558,15 +545,15 @@ When these clues occur together, the most likely explanation is often not a soli
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-screens-why-clouds-make-searchlights-look-solid-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="cloud-screens-why-clouds-make-searchlights-look-solid-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1960s set of three UFO wall art"><img src="{{ '/assets/images/marketplace-covers/be68d6dc5e42b0f085ad.jpg' | relative_url }}" alt="Listing image for Vintage 1960s set of three UFO wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=searchlight+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-clouds-make-searchlights-look-solid-searchlight-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="searchlight model" data-ebay-reference="why-clouds-make-searchlights-look-solid-searchlight-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Searchlight . RN ( Perkasa). 1/24 Model Boat Fittings."><img src="https://i.ebayimg.com/images/g/xk0AAOSw9DpkHW95/s-l225.jpg" alt="Listing image for Searchlight . RN ( Perkasa). 1/24 Model Boat Fittings." loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-screens-why-clouds-make-searchlights-look-solid-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="cloud-screens-why-clouds-make-searchlights-look-solid-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vintage 1960s set of three UFO wall art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=searchlight+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-clouds-make-searchlights-look-solid-searchlight-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="searchlight model" data-ebay-reference="why-clouds-make-searchlights-look-solid-searchlight-model" target="_blank" rel="sponsored noopener noreferrer">Searchlight . RN ( Perkasa). 1/24 Model Boat Fittings.</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-screens-why-clouds-make-searchlights-look-solid-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="cloud-screens-why-clouds-make-searchlights-look-solid-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=searchlight+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-clouds-make-searchlights-look-solid-searchlight-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="searchlight model" data-ebay-reference="why-clouds-make-searchlights-look-solid-searchlight-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for searchlight model">Search <span data-ebay-domain-label>eBay.co.uk</span>: searchlight model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-screens-why-clouds-make-searchlights-look-solid-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="cloud-screens-why-clouds-make-searchlights-look-solid-ifos-causes-of-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=searchlight+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-clouds-make-searchlights-look-solid-searchlight-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="searchlight model" data-ebay-reference="why-clouds-make-searchlights-look-solid-searchlight-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -574,7 +561,7 @@ When these clues occur together, the most likely explanation is often not a soli
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-screens-why-clouds-make-searchlights-look-solid-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="cloud-screens-why-clouds-make-searchlights-look-solid-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=searchlight+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-clouds-make-searchlights-look-solid-searchlight-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="searchlight model" data-ebay-reference="why-clouds-make-searchlights-look-solid-searchlight-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -789,78 +776,78 @@ When these clues occur together, the most likely explanation is often not a soli
 
 1. <a id="endnote-1"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100040013-4.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100040013-4.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CIAFACT SHEET AIR FORCE UFO REPORToff their bodies; searchlights playing on scattered clouds, appearing as moving disc-like shapres. The...</p></details>
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100040013-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100040013-4.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>FACT SHEET AIR FORCE UFO REPORToff their bodies; searchlights playing on scattered clouds, appearing as moving disc-like shapres. The...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Ceiling projector  
-   Link: [https://en.wikipedia.org/wiki/Ceiling_projector](https://en.wikipedia.org/wiki/Ceiling_projector)  
+   Link: <a href="https://en.wikipedia.org/wiki/Ceiling_projector" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ceiling_projector</a>  
 
 3. <a id="endnote-3"></a>
    Source: cia.gov  
    Title: CIA RDP81R00560R000100010001 0  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010001-0.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010001-0.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010001-0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010001-0.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>the pilot gave up and turned back to base, the UFO turned and followed. A second F-84 scrambled and chased the UFO 160 miles, ob- taining...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Unidentified flying object  
-   Link: [https://en.wikipedia.org/wiki/Unidentified_flying_object](https://en.wikipedia.org/wiki/Unidentified_flying_object)  
+   Link: <a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified flying object&quot;How pop culture has shaped our understanding of alien&quot;. Guardian News... &quot;Storm Area 51: Hundreds of peopl...</p></details>
 
 ### Additional References
 
 5. <a id="endnote-5"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/abq/features_acsl](https://www.weather.gov/abq/features_acsl)  
+   Link: <a href="https://www.weather.gov/abq/features_acsl" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/abq/features_acsl</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Altocumulus Standing Lenticular CloudsWhen aircraft encounter a mountain wave, severe turbulence is often the result. The most telling cl...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: cnes-[geipan](&#123;&#123; 'geipan/' | relative_url &#125;&#125;). fr  
-   Link: [https://www.cnes-geipan.fr/sites/default/files/Aids_to_identification_of_flying_objects_0.pdf](https://www.cnes-geipan.fr/sites/default/files/Aids_to_identification_of_flying_objects_0.pdf)  
+   Link: <a href="https://www.cnes-geipan.fr/sites/default/files/Aids_to_identification_of_flying_objects_0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/Aids_to_identification_of_flying_objects_0.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>aids to identification of flying objectsThe Air Force&#x27;s UFO files, as well as any other information in the possession of the Air Force, a...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/EverythingScience/comments/17rbdc7/i_saw_a_red_spot_and_the_next_one_is_a_light_that/](https://www.reddit.com/r/EverythingScience/comments/17rbdc7/i_saw_a_red_spot_and_the_next_one_is_a_light_that/)  
+   Link: <a href="https://www.reddit.com/r/EverythingScience/comments/17rbdc7/i_saw_a_red_spot_and_the_next_one_is_a_light_that/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/EverythingScience/comments/17rbdc7/i_saw_a_red_spot_and_the_next_one_is_a_light_that/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>t looks like the light isn&#x27;t a spotlight cuz the light looks from the above.Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: facebook.com  
    Title: i've seen one of those ufo's before a number of times  
-   Link: [https://www.facebook.com/groups/googleearthenginebr/posts/2116704518736695/](https://www.facebook.com/groups/googleearthenginebr/posts/2116704518736695/)  
+   Link: <a href="https://www.facebook.com/groups/googleearthenginebr/posts/2116704518736695/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/googleearthenginebr/posts/2116704518736695/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>#UFO #ufology #ufosighting #ufosky These are not my photos. Just similar to what I saw. Except my first ever encounter in Pensacola. Afte...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_sub_a.pdf](https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_sub_a.pdf)  
+   Link: <a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_sub_a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_sub_a.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>65_hs1-834228961_62-hq-83894_sub_a.pdfOFFICERS SAID THE AIR FORCE ENCOURAGES CALLS ON OBJECTS SIGHTED. TiiEY... &#x27;J&#x27;hr: air force, as eat...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: wpafb.af.mil  
    Title: science cares about edge of space cloud behavior  
-   Link: [https://www.wpafb.af.mil/News/Article-Display/Article/399960/science-cares-about-edge-of-space-cloud-behavior/](https://www.wpafb.af.mil/News/Article-Display/Article/399960/science-cares-about-edge-of-space-cloud-behavior/)  
+   Link: <a href="https://www.wpafb.af.mil/News/Article-Display/Article/399960/science-cares-about-edge-of-space-cloud-behavior/" target="_blank" rel="noopener noreferrer nofollow">https://www.wpafb.af.mil/News/Article-Display/Article/399960/science-cares-about-edge-of-space-cloud-behavior/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;CAREs&quot; About Edge-of-Space Cloud Behavior13 Dec 2010 — This experiment will not only help scientists gain insight into the formation, ev...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/blackmagicfuckery/comments/y3qhqo/can_someone_explain_these_strange_lights_out_in/](https://www.reddit.com/r/blackmagicfuckery/comments/y3qhqo/can_someone_explain_these_strange_lights_out_in/)  
+   Link: <a href="https://www.reddit.com/r/blackmagicfuckery/comments/y3qhqo/can_someone_explain_these_strange_lights_out_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/blackmagicfuckery/comments/y3qhqo/can_someone_explain_these_strange_lights_out_in/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>er1337. •. 4y ago. Looks like missile launchers. jeepjp. •. 4y ago...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: discussions.unity.com  
    Title: released overcloud volumetric sky and lighting  
-   Link: [https://discussions.unity.com/t/released-overcloud-volumetric-sky-and-lighting/736925?page=6](https://discussions.unity.com/t/released-overcloud-volumetric-sky-and-lighting/736925?page=6)  
+   Link: <a href="https://discussions.unity.com/t/released-overcloud-volumetric-sky-and-lighting/736925?page=6" target="_blank" rel="noopener noreferrer nofollow">https://discussions.unity.com/t/released-overcloud-volumetric-sky-and-lighting/736925?page=6</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I&#x27;m making this thread for my volumetric sky plugin, OverCloud, which is a complete lighting and sky solution for Unity&#x27;s default...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
    Title: A recently released video from a U.S  
-   Link: [https://www.facebook.com/WSMVTV/posts/a-recently-released-video-from-a-us-military-platform-appears-to-show-a-strangel/1469309271892212/](https://www.facebook.com/WSMVTV/posts/a-recently-released-video-from-a-us-military-platform-appears-to-show-a-strangel/1469309271892212/)  
+   Link: <a href="https://www.facebook.com/WSMVTV/posts/a-recently-released-video-from-a-us-military-platform-appears-to-show-a-strangel/1469309271892212/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WSMVTV/posts/a-recently-released-video-from-a-us-military-platform-appears-to-show-a-strangel/1469309271892212/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>military platform...➡ [https://www.thedailyjagran](https://www.thedailyjagran). com/us/news/discshaped-ufo-spotted-by-us-military -in-leaked-footage-sparks-debate-abo...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/256850150_Object-based_cloud_and_cloud_shadow_detection_in_Landsat_imagery](https://www.researchgate.net/publication/256850150_Object-based_cloud_and_cloud_shadow_detection_in_Landsat_imagery)  
+   Link: <a href="https://www.researchgate.net/publication/256850150_Object-based_cloud_and_cloud_shadow_detection_in_Landsat_imagery" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/256850150_Object-based_cloud_and_cloud_shadow_detection_in_Landsat_imagery</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>on in Landsat imagery is provided.Read more...</p></details>

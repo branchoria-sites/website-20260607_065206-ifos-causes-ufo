@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_low_cloud_false_shap_143821
 - ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_twinkling_moving_sta_10c309
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - atmosphere
 - mirage-lift
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - atmosphere
 - mirage-lift
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Temperature inversions can bend light so ships, coastlines or lights appear raised, stretched or suspended above the horizon.
 hero_summary: Temperature inversions can bend light so ships, coastlines or lights appear raised, stretched or suspended above the horizon.
 layout: default
 permalink: /mirage-lift/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /atmosphere/
 nav_short_title: Mirage lift
 title: When the horizon puts objects in the sky
-title_full: When the horizon puts objects in the sky | Atmosphere
+title_full: When the horizon puts objects in the sky
 display_title_short: Mirage lift
 display_title: Mirage lift
 heading_title: When the horizon puts objects in the sky
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 09:28:33'
-parent_title: When Weather Makes Shapes in the Sky | IFOs
+parent_title: When Weather Makes Shapes in the Sky
 parent_permalink: /atmosphere/
 parent_nav_short_title: Atmosphere
 parent_heading_title: When Weather Makes Shapes in the Sky
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043
-  title: Atmosphere | Ifos Causes Of
+  title: Atmosphere | ifos causes of UFO 3 ed 238
   permalink: /atmosphere/
   short_title: Atmosphere
   heading_title: When Weather Makes Shapes in the Sky
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043
-  title: Atmosphere | Ifos Causes Of
+  title: Atmosphere | ifos causes of UFO 3 ed 238
   permalink: /atmosphere/
   short_title: Atmosphere
   heading_title: When Weather Makes Shapes in the Sky
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: Why a star can look alive
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043
-  title: Atmosphere | Ifos Causes Of
+  title: Atmosphere | ifos causes of UFO 3 ed 238
   permalink: /atmosphere/
   short_title: Atmosphere
   heading_title: When Weather Makes Shapes in the Sky
@@ -266,6 +265,7 @@ next_link:
   permalink: /twinkling-stars/
   short_title: Twinkling stars
   heading_title: Why a star can look alive
+date: '2026-06-12 00:25:00 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_superior_mirage_lift_94a6c8-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_superior_mirage_lift_94a6c8-Illustration-1.webp
@@ -274,15 +274,14 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_superior
 
 ## Introduction
 
-A superior mirage can make a real object appear to be floating in the sky. Unlike the familiar road mirage that creates the illusion of water on hot ground, a superior mirage occurs when a temperature inversion bends light downward through the [atmosphere]({{ 'atmosphere/' | relative_url }}). To an observer, the light appears to have travelled in a straight line, so the object is perceived higher than its true position. Distant ships, coastlines, islands, buildings and bright lights can therefore seem suspended above the horizon, stretched vertically or displaced into empty sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/fata-morgana" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">SkybraryFata Morgana | SKYbrary Aviation SafetyA superior mirage occurs when there is a temperature inversion; the air below the line of...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eoas.ubc.ca/courses/atsc113/sailing/met_concepts/10-met-local-conditions/10f-optical-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eoas.ubc.ca">[EOAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eoas.ubc.ca</span><span class="citation-popover-snippet">EOASOptical PhenomenaA superior mirage is the opposite: a layer of warm air sits above your line of sight with a cool layer beneath it. T...</span></span></span>
-
+A superior mirage can make a real object appear to be floating in the sky. Unlike the familiar road mirage that creates the illusion of water on hot ground, a superior mirage occurs when a temperature inversion bends light downward through the [atmosphere]({{ 'atmosphere/' | relative_url }}). To an observer, the light appears to have travelled in a straight line, so the object is perceived higher than its true position. Distant ships, coastlines, islands, buildings and bright lights can therefore seem suspended above the horizon, stretched vertically or displaced into empty sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/fata-morgana" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Fata Morgana &#124; SKYbrary Aviation SafetyA superior mirage occurs when there is a temperature inversion; the air below the line of...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eoas.ubc.ca/courses/atsc113/sailing/met_concepts/10-met-local-conditions/10f-optical-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eoas.ubc.ca">[EOAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eoas.ubc.ca</span><span class="citation-popover-snippet">Optical PhenomenaA superior mirage is the opposite: a layer of warm air sits above your line of sight with a cool layer beneath it. T...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_superior_mirage_lift_94a6c8-Illustration-1-dark.svg" | relative_url }}" alt="Mirage lift illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_superior_mirage_lift_94a6c8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_superior_mirage_lift_94a6c8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For UFO investigations, this matters because the witness is often seeing a genuine object. The error lies in where the atmosphere makes that object appear to be. A ship beyond the horizon can look airborne. A distant shoreline can resemble a gigantic structure hanging over the sea. A light source that should be hidden can appear elevated above the horizon and disconnected from any obvious source. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aty.sdsu.edu/mirages/mirintro.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aty.sdsu.edu">[2A Green Flash Page]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aty.sdsu.edu</span><span class="citation-popover-snippet">A Green Flash PageAn Introduction to MiragesMirages are distinguished from other refraction phenomena such as looming (visibility of dist...</span></span></span>
 
 ## How inversions create superior mirages
 
-Under ordinary conditions, air temperature decreases with height. During a temperature inversion, the pattern reverses: colder, denser air sits near the surface while warmer air lies above it. Because light bends towards denser air, rays travelling through the inversion curve downward instead of following their usual path. The observer's brain assumes light travelled in a straight line and therefore places the object too high in the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/fata-morgana" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">SkybraryFata Morgana | SKYbrary Aviation SafetyA superior mirage occurs when there is a temperature inversion; the air below the line of...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eoas.ubc.ca/courses/atsc113/sailing/met_concepts/10-met-local-conditions/10f-optical-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eoas.ubc.ca">[EOAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eoas.ubc.ca</span><span class="citation-popover-snippet">EOASOptical PhenomenaA superior mirage is the opposite: a layer of warm air sits above your line of sight with a cool layer beneath it. T...</span></span></span>
+Under ordinary conditions, air temperature decreases with height. During a temperature inversion, the pattern reverses: colder, denser air sits near the surface while warmer air lies above it. Because light bends towards denser air, rays travelling through the inversion curve downward instead of following their usual path. The observer's brain assumes light travelled in a straight line and therefore places the object too high in the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/fata-morgana" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Fata Morgana &#124; SKYbrary Aviation SafetyA superior mirage occurs when there is a temperature inversion; the air below the line of...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eoas.ubc.ca/courses/atsc113/sailing/met_concepts/10-met-local-conditions/10f-optical-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eoas.ubc.ca">[EOAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eoas.ubc.ca</span><span class="citation-popover-snippet">Optical PhenomenaA superior mirage is the opposite: a layer of warm air sits above your line of sight with a cool layer beneath it. T...</span></span></span>
 
 The result can take several forms:
 
@@ -290,8 +289,7 @@ The result can take several forms:
 * **Towering:** the object appears stretched vertically, making ships, buildings or landforms seem unnaturally tall. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mirage" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">MirageA mirage is a naturally occurring optical phenomenon in which light rays bend via refraction to produce a displaced image of dis...</span></span></span>
 * **Complex superior mirages:** multiple layers of distortion can produce stacked, elongated or fragmented images. In extreme cases this develops into a Fata Morgana, one of the most dramatic atmospheric illusions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Looming_and_similar_refraction_phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Looming and similar refraction phenomena</span><span class="citation-popover-snippet">Looming and similar refraction phenomena</span></span></span>
 
-These effects are not hypothetical. Atmospheric optics specialists describe superior mirages as a well-established consequence of strong temperature gradients, particularly over cold water, sea ice and snow-covered surfaces. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eoas.ubc.ca/courses/atsc113/sailing/met_concepts/10-met-local-conditions/10f-optical-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eoas.ubc.ca">[EOAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eoas.ubc.ca</span><span class="citation-popover-snippet">EOASOptical PhenomenaA superior mirage is the opposite: a layer of warm air sits above your line of sight with a cool layer beneath it. T...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Fata_Morgana_%28mirage%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Fata Morgana (mirage</span><span class="citation-popover-snippet">April 15, 2026 — A Fata Morgana requires a duct to be present; thermal inversion alone is not enough to produce this kind of mirage...</span><span class="citation-popover-meta">Published: April 15, 2026</span></span></span>
-
+These effects are not hypothetical. Atmospheric optics specialists describe superior mirages as a well-established consequence of strong temperature gradients, particularly over cold water, sea ice and snow-covered surfaces. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eoas.ubc.ca/courses/atsc113/sailing/met_concepts/10-met-local-conditions/10f-optical-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eoas.ubc.ca">[EOAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eoas.ubc.ca</span><span class="citation-popover-snippet">Optical PhenomenaA superior mirage is the opposite: a layer of warm air sits above your line of sight with a cool layer beneath it. T...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Fata_Morgana_%28mirage%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Fata Morgana (mirage</span><span class="citation-popover-snippet">April 15, 2026 — A Fata Morgana requires a duct to be present; thermal inversion alone is not enough to produce this kind of mirage...</span><span class="citation-popover-meta">Published: April 15, 2026</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/er1mh90wN-k" title="Hovering Boats are Usually Not Mirages, they are beyond False Horizons" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=er1mh90wN-k" target="_blank" rel="noopener noreferrer">Hovering Boats are Usually Not Mirages, they are beyond False Horizons</a></p><p class="youtube-embed-meta">Channel: Mick West &middot; Views: 27.5K &middot; Uploaded: March 2021 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=er1mh90wN-k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=er1mh90wN-k">Open on YouTube</a></p></div></div></div>
 
@@ -311,7 +309,6 @@ For a UFO witness, the crucial point is that the atmosphere can make a perfectly
 
 Superior mirages have several characteristics that can encourage a UFO interpretation.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_superior_mirage_lift_94a6c8-Illustration-2-dark.svg" | relative_url }}" alt="Mirage lift illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_superior_mirage_lift_94a6c8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_superior_mirage_lift_94a6c8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Hovering ships
 
@@ -323,10 +320,9 @@ A lifted shoreline can resemble a vast structured object. Under poor visibility 
 
 ### Lights above the horizon
 
-A bright coastal light, vessel light or distant urban illumination can be displaced upward by refraction. At night, when there are few [distance cues]({{ 'distance-cues/' | relative_url }}), the observer may see an apparently stationary glowing object suspended in the sky. Because the true source is far away and often invisible, the light can appear mysterious and difficult to identify. The Weather Channel <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eoas.ubc.ca/courses/atsc113/sailing/met_concepts/10-met-local-conditions/10f-optical-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eoas.ubc.ca">[EOAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eoas.ubc.ca</span><span class="citation-popover-snippet">EOASOptical PhenomenaA superior mirage is the opposite: a layer of warm air sits above your line of sight with a cool layer beneath it. T...</span></span></span>
+A bright coastal light, vessel light or distant urban illumination can be displaced upward by refraction. At night, when there are few [distance cues]({{ 'distance-cues/' | relative_url }}), the observer may see an apparently stationary glowing object suspended in the sky. Because the true source is far away and often invisible, the light can appear mysterious and difficult to identify. The Weather Channel <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eoas.ubc.ca/courses/atsc113/sailing/met_concepts/10-met-local-conditions/10f-optical-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eoas.ubc.ca">[EOAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eoas.ubc.ca</span><span class="citation-popover-snippet">Optical PhenomenaA superior mirage is the opposite: a layer of warm air sits above your line of sight with a cool layer beneath it. T...</span></span></span>
 
 These reports fit a recurring pattern in UFO investigations: the object is real, but atmospheric refraction has altered its apparent position and shape.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pMMJo2q5ADM" title="Mirage : An optical illusion | What is a Mirage and Why do we see a Mirage" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pMMJo2q5ADM" target="_blank" rel="noopener noreferrer">Mirage : An optical illusion | What is a Mirage and Why do we see a Mirage</a></p><p class="youtube-embed-meta">Channel: Robomate &middot; Views: 990.2K &middot; Uploaded: April 2018 &middot; Length: 2 minutes 51 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pMMJo2q5ADM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pMMJo2q5ADM">Open on YouTube</a></p></div></div></div>
 
@@ -336,25 +332,22 @@ Investigators should not invoke a superior mirage merely because an object looke
 
 Key indicators include:
 
-* Observation over cold water, sea ice or snow-covered terrain. The Weather Channel <span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.com/science/weather-explainers/news/2026-01-13-weather-words-mirage" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.com">[weather.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.com</span><span class="citation-popover-title">2026 01 13 weather words mirage</span><span class="citation-popover-snippet">The Weather ChannelWeather Words: Mirage | Weather.comJan 21, 2026 — Superior mirages form when a layer of cold, dense air sits near the...</span></span></span>
-* Evidence of a temperature inversion from weather observations, radiosonde data or local meteorological reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/fata-morgana" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">SkybraryFata Morgana | SKYbrary Aviation SafetyA superior mirage occurs when there is a temperature inversion; the air below the line of...</span></span></span>
+* Observation over cold water, sea ice or snow-covered terrain. The Weather Channel <span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.com/science/weather-explainers/news/2026-01-13-weather-words-mirage" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.com">[weather.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.com</span><span class="citation-popover-title">2026 01 13 weather words mirage</span><span class="citation-popover-snippet">The Weather ChannelWeather Words: Mirage &#124; Weather.comJan 21, 2026 — Superior mirages form when a layer of cold, dense air sits near the...</span></span></span>
+* Evidence of a temperature inversion from weather observations, radiosonde data or local meteorological reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/fata-morgana" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Fata Morgana &#124; SKYbrary Aviation SafetyA superior mirage occurs when there is a temperature inversion; the air below the line of...</span></span></span>
 * A sighting close to the horizon rather than high overhead. A Green Flash Page <span class="citation-chip-wrap"><a class="citation-chip" href="https://aty.sdsu.edu/mirages/mirintro.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aty.sdsu.edu">[aty.sdsu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aty.sdsu.edu</span><span class="citation-popover-snippet">A Green Flash PageAn Introduction to MiragesMirages are distinguished from other refraction phenomena such as looming (visibility of dist...</span></span></span>
 * Reports that the object appeared stretched, elevated, layered or detached from the surface. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Looming_and_similar_refraction_phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Looming and similar refraction phenomena</span><span class="citation-popover-snippet">Looming and similar refraction phenomena</span></span></span>
 * The presence of known distant features, shipping lanes, islands, offshore structures or coastal lights in the viewing direction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Fata_Morgana_%28mirage%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Fata Morgana (mirage</span><span class="citation-popover-snippet">April 15, 2026 — A Fata Morgana requires a duct to be present; thermal inversion alone is not enough to produce this kind of mirage...</span><span class="citation-popover-meta">Published: April 15, 2026</span></span></span>
 
 Conversely, a superior mirage becomes less convincing when the reported object is far above the horizon, manoeuvres independently of atmospheric conditions, or cannot plausibly be matched to any distant source.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_superior_mirage_lift_94a6c8-Illustration-3-dark.svg" | relative_url }}" alt="Mirage lift illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_superior_mirage_lift_94a6c8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_superior_mirage_lift_94a6c8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What makes superior mirages distinctive in UFO cases
 
 Many atmospheric explanations merely blur or distort an object. Superior mirages do something more dramatic: they move a real object into an apparently impossible location. A witness can therefore be completely correct that something was visible in the sky while being mistaken about what that object actually was.
 
-That combination makes superior mirages particularly important in the study of UFO reports. They provide a specific physical mechanism capable of turning distant ships, coastlines and lights into seemingly airborne objects without requiring anything unusual to be present in the sky at all. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[skyatnightmagazine.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">things mistaken for ufos</span><span class="citation-popover-snippet">Here we&#x27;ll look at some of the most likely suspects.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/fata-morgana" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">SkybraryFata Morgana | SKYbrary Aviation SafetyA superior mirage occurs when there is a temperature inversion; the air below the line of...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eoas.ubc.ca/courses/atsc113/sailing/met_concepts/10-met-local-conditions/10f-optical-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eoas.ubc.ca">[EOAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eoas.ubc.ca</span><span class="citation-popover-snippet">EOASOptical PhenomenaA superior mirage is the opposite: a layer of warm air sits above your line of sight with a cool layer beneath it. T...</span></span></span>
-
+That combination makes superior mirages particularly important in the study of UFO reports. They provide a specific physical mechanism capable of turning distant ships, coastlines and lights into seemingly airborne objects without requiring anything unusual to be present in the sky at all. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[skyatnightmagazine.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">things mistaken for ufos</span><span class="citation-popover-snippet">Here we&#x27;ll look at some of the most likely suspects.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/fata-morgana" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Fata Morgana &#124; SKYbrary Aviation SafetyA superior mirage occurs when there is a temperature inversion; the air below the line of...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eoas.ubc.ca/courses/atsc113/sailing/met_concepts/10-met-local-conditions/10f-optical-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eoas.ubc.ca">[EOAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eoas.ubc.ca</span><span class="citation-popover-snippet">Optical PhenomenaA superior mirage is the opposite: a layer of warm air sits above your line of sight with a cool layer beneath it. T...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/stUG3l8GyKQ" title="What is a mirage?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=stUG3l8GyKQ" target="_blank" rel="noopener noreferrer">What is a mirage?</a></p><p class="youtube-embed-meta">Channel: ScienceWorld &middot; Views: 64.7K &middot; Uploaded: February 2021 &middot; Length: 4 minutes 4 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=stUG3l8GyKQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=stUG3l8GyKQ">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -473,43 +466,59 @@ That combination makes superior mirages particularly important in the study of U
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ocean+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-horizon-puts-objects-in-the-sky-ocean-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ocean wall art" data-ebay-reference="when-the-horizon-puts-objects-in-the-sky-ocean-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Beach Wall Art Prints Sunset Tropical Sea Ocean Posters Pictures Bathroom Decor"><img src="https://i.ebayimg.com/images/g/TxAAAOSwqQtiI3Hi/s-l225.jpg" alt="Listing image for Beach Wall Art Prints Sunset Tropical Sea Ocean Posters Pictures Bathroom Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ocean+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-horizon-puts-objects-in-the-sky-ocean-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ocean wall art" data-ebay-reference="when-the-horizon-puts-objects-in-the-sky-ocean-wall-art" target="_blank" rel="sponsored noopener noreferrer">Beach Wall Art Prints Sunset Tropical Sea Ocean Posters Pictures Bathroom Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ocean+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-horizon-puts-objects-in-the-sky-ocean-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ocean wall art" data-ebay-reference="when-the-horizon-puts-objects-in-the-sky-ocean-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ocean wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ocean wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ocean+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-horizon-puts-objects-in-the-sky-ocean-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ocean wall art" data-ebay-reference="when-the-horizon-puts-objects-in-the-sky-ocean-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ocean+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-horizon-puts-objects-in-the-sky-ocean-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ocean wall art" data-ebay-reference="when-the-horizon-puts-objects-in-the-sky-ocean-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Coastal Window Art Print Beach View Poster Eucalyptus Foliage Ocean Wall Art"><img src="https://i.ebayimg.com/images/g/92IAAeSwRStpMutW/s-l225.jpg" alt="Listing image for Coastal Window Art Print Beach View Poster Eucalyptus Foliage Ocean Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ocean+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-horizon-puts-objects-in-the-sky-ocean-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ocean wall art" data-ebay-reference="when-the-horizon-puts-objects-in-the-sky-ocean-wall-art" target="_blank" rel="sponsored noopener noreferrer">Coastal Window Art Print Beach View Poster Eucalyptus Foliage Ocean Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ocean+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-horizon-puts-objects-in-the-sky-ocean-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ocean wall art" data-ebay-reference="when-the-horizon-puts-objects-in-the-sky-ocean-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ocean wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ocean wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ocean+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-horizon-puts-objects-in-the-sky-ocean-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ocean wall art" data-ebay-reference="when-the-horizon-puts-objects-in-the-sky-ocean-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ocean+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-horizon-puts-objects-in-the-sky-ocean-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ocean wall art" data-ebay-reference="when-the-horizon-puts-objects-in-the-sky-ocean-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Travel Beach Seashell Wall Art Prints - Ocean Vintage Picture -Modern Poster"><img src="https://i.ebayimg.com/images/g/u1sAAeSwtCJof~N2/s-l225.jpg" alt="Listing image for Travel Beach Seashell Wall Art Prints - Ocean Vintage Picture -Modern Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
           <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ocean+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-horizon-puts-objects-in-the-sky-ocean-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ocean wall art" data-ebay-reference="when-the-horizon-puts-objects-in-the-sky-ocean-wall-art" target="_blank" rel="sponsored noopener noreferrer">Travel Beach Seashell Wall Art Prints - Ocean Vintage Picture -Modern Poster</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ocean+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-horizon-puts-objects-in-the-sky-ocean-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ocean wall art" data-ebay-reference="when-the-horizon-puts-objects-in-the-sky-ocean-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ocean wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ocean wall art</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ocean+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-horizon-puts-objects-in-the-sky-ocean-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ocean wall art" data-ebay-reference="when-the-horizon-puts-objects-in-the-sky-ocean-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ocean+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-horizon-puts-objects-in-the-sky-ocean-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ocean wall art" data-ebay-reference="when-the-horizon-puts-objects-in-the-sky-ocean-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tropical Beach Seascape Canvas Picture Print Wall Art"><img src="https://i.ebayimg.com/images/g/q~0AAOSw-6RoVx3v/s-l225.jpg" alt="Listing image for Tropical Beach Seascape Canvas Picture Print Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ocean+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-horizon-puts-objects-in-the-sky-ocean-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ocean wall art" data-ebay-reference="when-the-horizon-puts-objects-in-the-sky-ocean-wall-art" target="_blank" rel="sponsored noopener noreferrer">Tropical Beach Seascape Canvas Picture Print Wall Art</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ocean+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-horizon-puts-objects-in-the-sky-ocean-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ocean wall art" data-ebay-reference="when-the-horizon-puts-objects-in-the-sky-ocean-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ocean wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ocean wall art</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ocean+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-horizon-puts-objects-in-the-sky-ocean-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ocean wall art" data-ebay-reference="when-the-horizon-puts-objects-in-the-sky-ocean-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ocean+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-horizon-puts-objects-in-the-sky-ocean-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ocean wall art" data-ebay-reference="when-the-horizon-puts-objects-in-the-sky-ocean-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tropical Beach Sunset | 5&quot;x7&quot; Print on Matte Paper | Palm Tree Ocean Wall Art"><img src="https://i.ebayimg.com/images/g/I9EAAeSw6IJpq0Gs/s-l225.jpg" alt="Listing image for Tropical Beach Sunset | 5&quot;x7&quot; Print on Matte Paper | Palm Tree Ocean Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ocean+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-horizon-puts-objects-in-the-sky-ocean-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ocean wall art" data-ebay-reference="when-the-horizon-puts-objects-in-the-sky-ocean-wall-art" target="_blank" rel="sponsored noopener noreferrer">Tropical Beach Sunset | 5&quot;x7&quot; Print on Matte Paper | Palm Tree Ocean Wall Art</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ocean+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-horizon-puts-objects-in-the-sky-ocean-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ocean wall art" data-ebay-reference="when-the-horizon-puts-objects-in-the-sky-ocean-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ocean wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ocean wall art</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ocean+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-horizon-puts-objects-in-the-sky-ocean-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ocean wall art" data-ebay-reference="when-the-horizon-puts-objects-in-the-sky-ocean-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ocean+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-horizon-puts-objects-in-the-sky-ocean-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ocean wall art" data-ebay-reference="when-the-horizon-puts-objects-in-the-sky-ocean-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large 3D Metal Wall Art School of Angelfish Ocean Coastal Nautical Wall Hanging"><img src="https://i.ebayimg.com/images/g/fngAAeSwuylpLiiU/s-l225.jpg" alt="Listing image for Large 3D Metal Wall Art School of Angelfish Ocean Coastal Nautical Wall Hanging" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ocean+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-horizon-puts-objects-in-the-sky-ocean-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ocean wall art" data-ebay-reference="when-the-horizon-puts-objects-in-the-sky-ocean-wall-art" target="_blank" rel="sponsored noopener noreferrer">Large 3D Metal Wall Art School of Angelfish Ocean Coastal Nautical Wall Hanging</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ocean+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-horizon-puts-objects-in-the-sky-ocean-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ocean wall art" data-ebay-reference="when-the-horizon-puts-objects-in-the-sky-ocean-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ocean wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ocean wall art</a>
         <div class="fr-book-actions">
@@ -731,162 +740,163 @@ That combination makes superior mirages particularly important in the study of U
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: skybrary.aero  
-   Link: [https://skybrary.aero/articles/fata-morgana](https://skybrary.aero/articles/fata-morgana)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SkybraryFata Morgana | SKYbrary Aviation SafetyA superior mirage occurs when there is a temperature inversion; the air below the line of...</p></details>
+   Link: <a href="https://skybrary.aero/articles/fata-morgana" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/fata-morgana</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fata Morgana | SKYbrary Aviation SafetyA superior mirage occurs when there is a temperature inversion; the air below the line of...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: eoas.ubc.ca  
-   Link: [https://www.eoas.ubc.ca/courses/atsc113/sailing/met_concepts/10-met-local-conditions/10f-optical-phenomena/](https://www.eoas.ubc.ca/courses/atsc113/sailing/met_concepts/10-met-local-conditions/10f-optical-phenomena/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EOASOptical PhenomenaA superior mirage is the opposite: a layer of warm air sits above your line of sight with a cool layer beneath it. T...</p></details>
+   Link: <a href="https://www.eoas.ubc.ca/courses/atsc113/sailing/met_concepts/10-met-local-conditions/10f-optical-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.eoas.ubc.ca/courses/atsc113/sailing/met_concepts/10-met-local-conditions/10f-optical-phenomena/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Optical PhenomenaA superior mirage is the opposite: a layer of warm air sits above your line of sight with a cool layer beneath it. T...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Mirage](https://en.wikipedia.org/wiki/Mirage)  
+   Link: <a href="https://en.wikipedia.org/wiki/Mirage" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mirage</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>MirageA mirage is a naturally occurring optical phenomenon in which light rays bend via refraction to produce a displaced image of dis...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Looming and similar refraction phenomena  
-   Link: [https://en.wikipedia.org/wiki/Looming_and_similar_refraction_phenomena](https://en.wikipedia.org/wiki/Looming_and_similar_refraction_phenomena)  
+   Link: <a href="https://en.wikipedia.org/wiki/Looming_and_similar_refraction_phenomena" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Looming_and_similar_refraction_phenomena</a>  
 
 5. <a id="endnote-5"></a>
    Source: weather.com  
    Title: 2026 01 13 weather words mirage  
-   Link: [https://weather.com/science/weather-explainers/news/2026-01-13-weather-words-mirage](https://weather.com/science/weather-explainers/news/2026-01-13-weather-words-mirage)  
+   Link: <a href="https://weather.com/science/weather-explainers/news/2026-01-13-weather-words-mirage" target="_blank" rel="noopener noreferrer nofollow">https://weather.com/science/weather-explainers/news/2026-01-13-weather-words-mirage</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Weather ChannelWeather Words: Mirage | Weather.comJan 21, 2026 — Superior mirages form when a layer of cold, dense air sits near the...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Fata Morgana (mirage)  
-   Link: [https://en.wikipedia.org/wiki/Fata_Morgana_%28mirage%29](https://en.wikipedia.org/wiki/Fata_Morgana_%28mirage%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Fata_Morgana_%28mirage%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fata_Morgana_%28mirage%29</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>April 15, 2026 — A Fata Morgana requires a duct to be present; thermal inversion alone is not enough to produce this kind of mirage...</p></details>
    Published: April 15, 2026  
 
 7. <a id="endnote-7"></a>
    Source: sky-lights.org  
    Title: extreme superior mirage  
-   Link: [https://sky-lights.org/2019/04/01/extreme-superior-mirage/](https://sky-lights.org/2019/04/01/extreme-superior-mirage/)  
+   Link: <a href="https://sky-lights.org/2019/04/01/extreme-superior-mirage/" target="_blank" rel="noopener noreferrer nofollow">https://sky-lights.org/2019/04/01/extreme-superior-mirage/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Apr 2019 — “… light from extremely distant objects that are well below the horizon can be refracted by the temperature inversion to bec...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: skyatnightmagazine.com  
    Title: things mistaken for ufos  
-   Link: [https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos](https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos)  
+   Link: <a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Here we&#x27;ll look at some of the most likely suspects.Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/132725197348436/posts/1700791187208488/](https://www.facebook.com/groups/132725197348436/posts/1700791187208488/)  
+   Link: <a href="https://www.facebook.com/groups/132725197348436/posts/1700791187208488/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/132725197348436/posts/1700791187208488/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>inversion - quite common on Lake Ontario. Passing...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/](https://www.weather.gov/)  
+   Link: <a href="https://www.weather.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National Weather ServiceSevere Thunderstorms and Heavy Rainfall Across the South; Heat Spreads Across the West and Southern Plains · Seve...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: sky-lights.org  
    Title: looming stadium mirage  
-   Link: [https://sky-lights.org/2020/01/13/looming-stadium-mirage/](https://sky-lights.org/2020/01/13/looming-stadium-mirage/)  
+   Link: <a href="https://sky-lights.org/2020/01/13/looming-stadium-mirage/" target="_blank" rel="noopener noreferrer nofollow">https://sky-lights.org/2020/01/13/looming-stadium-mirage/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jan 13, 2020 — The ray can be bent by variations in atmospheric temperature and density along that path. This causes distant objects to a...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: Wikipedia  
    Title: National Oceanic and Atmospheric Administration  
-   Link: [https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration](https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration)  
+   Link: <a href="https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National Oceanic and Atmospheric AdministrationThe National Oceanic and Atmospheric Administration (NOAA /ˈnoʊ.ə/ NOH-ə) is a United S...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Mirage of astronomical objects  
-   Link: [https://en.wikipedia.org/wiki/Mirage_of_astronomical_objects](https://en.wikipedia.org/wiki/Mirage_of_astronomical_objects)  
+   Link: <a href="https://en.wikipedia.org/wiki/Mirage_of_astronomical_objects" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mirage_of_astronomical_objects</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mirage of astronomical objectsDue to a normal atmospheric refraction, sunrise occurs shortly before the Sun crosses above the horizon...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: aty.sdsu.edu  
-   Link: [https://aty.sdsu.edu/mirages/mirintro.html](https://aty.sdsu.edu/mirages/mirintro.html)  
+   Link: <a href="https://aty.sdsu.edu/mirages/mirintro.html" target="_blank" rel="noopener noreferrer nofollow">https://aty.sdsu.edu/mirages/mirintro.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Green Flash PageAn Introduction to MiragesMirages are distinguished from other refraction phenomena such as looming (visibility of dist...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: aty.sdsu.edu  
-   Link: [https://aty.sdsu.edu/mirages/mirtypes.html](https://aty.sdsu.edu/mirages/mirtypes.html)  
+   Link: <a href="https://aty.sdsu.edu/mirages/mirtypes.html" target="_blank" rel="noopener noreferrer nofollow">https://aty.sdsu.edu/mirages/mirtypes.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Green Flash PageTypes of MiragesBesides mirages, there are other phenomena due to atmospheric refraction. These include looming (the ap...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: theguardian.com  
    Title: ship hovering above sea cornwall optical illusion  
-   Link: [https://www.theguardian.com/science/2021/mar/05/ship-hovering-above-sea-cornwall-optical-illusion](https://www.theguardian.com/science/2021/mar/05/ship-hovering-above-sea-cornwall-optical-illusion)  
+   Link: <a href="https://www.theguardian.com/science/2021/mar/05/ship-hovering-above-sea-cornwall-optical-illusion" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2021/mar/05/ship-hovering-above-sea-cornwall-optical-illusion</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianWalker &#x27;stunned&#x27; to see ship hovering high above sea off...Mar 5, 2021 — David Morris encounters rare optical illusion known...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: hyperphysics.phy-astr.gsu.edu  
-   Link: [https://hyperphysics.phy-astr.gsu.edu/hbase/atmos/mirage.html](https://hyperphysics.phy-astr.gsu.edu/hbase/atmos/mirage.html)  
+   Link: <a href="https://hyperphysics.phy-astr.gsu.edu/hbase/atmos/mirage.html" target="_blank" rel="noopener noreferrer nofollow">https://hyperphysics.phy-astr.gsu.edu/hbase/atmos/mirage.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and other atomospheric optic phenomenaThe looming effect is the result of a superior mirage. A typical example is a mirage of a ship form...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: ebsco.com  
-   Link: [https://www.ebsco.com/research-starters/science/mirage](https://www.ebsco.com/research-starters/science/mirage)  
+   Link: <a href="https://www.ebsco.com/research-starters/science/mirage" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/science/mirage</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mirage | Science | Research StartersSuperior mirages, conversely, appear above the horizon. They are formed when light passes through a r...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: spark.iop.org  
-   Link: [https://spark.iop.org/mirages](https://spark.iop.org/mirages)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| IOPSpark - Institute of Physics... object. Looming is a refraction phenomenon in which the visible horizon is lifted or lowered and dis...</p></details>
+   Link: <a href="https://spark.iop.org/mirages" target="_blank" rel="noopener noreferrer nofollow">https://spark.iop.org/mirages</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>IOPSpark - Institute of Physics... object. Looming is a refraction phenomenon in which the visible horizon is lifted or lowered and dis...</p></details>
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/011049a0.pdf](https://www.nature.com/articles/011049a0.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NATURET H £ name of &quot;Mirage&quot; is applied to certain illusory appearances due to excessive bending of the rays of light in their passage th...</p></details>
+   Link: <a href="https://www.nature.com/articles/011049a0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/011049a0.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>T H £ name of &quot;Mirage&quot; is applied to certain illusory appearances due to excessive bending of the rays of light in their passage th...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/804277511773474/posts/954424976758726/](https://www.facebook.com/groups/804277511773474/posts/954424976758726/)  
+   Link: <a href="https://www.facebook.com/groups/804277511773474/posts/954424976758726/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/804277511773474/posts/954424976758726/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Alaskan island mirage caused by atmospheric refractionA U.F.O. or an optical illusion? A Superior Mirage is one in which the mirage image...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: nsidc.org  
-   Link: [https://nsidc.org/learn/parts-cryosphere/arctic-weather-and-climate/science-arctic-weather-and-climate](https://nsidc.org/learn/parts-cryosphere/arctic-weather-and-climate/science-arctic-weather-and-climate)  
+   Link: <a href="https://nsidc.org/learn/parts-cryosphere/arctic-weather-and-climate/science-arctic-weather-and-climate" target="_blank" rel="noopener noreferrer nofollow">https://nsidc.org/learn/parts-cryosphere/arctic-weather-and-climate/science-arctic-weather-and-climate</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of Arctic Weather and ClimateSuperior mirages sometimes appear in the Arctic because of the weather condition known as a temp...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: paclights.com  
-   Link: [https://www.paclights.com/learning-center/ufo-lights-lighting-explained/](https://www.paclights.com/learning-center/ufo-lights-lighting-explained/)  
+   Link: <a href="https://www.paclights.com/learning-center/ufo-lights-lighting-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.paclights.com/learning-center/ufo-lights-lighting-explained/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ufo Lights: Lighting ExplainedFurthermore, atmospheric refraction can bend light from distant objects, creating illusions of stationary o...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: metabunk.org  
    Title: debunked hovering ship fata morgana or mirage false horizon.9112  
-   Link: [https://www.metabunk.org/threads/debunked-hovering-ship-fata-morgana-or-mirage-false-horizon.9112/](https://www.metabunk.org/threads/debunked-hovering-ship-fata-morgana-or-mirage-false-horizon.9112/)  
+   Link: <a href="https://www.metabunk.org/threads/debunked-hovering-ship-fata-morgana-or-mirage-false-horizon.9112/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/debunked-hovering-ship-fata-morgana-or-mirage-false-horizon.9112/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hovering Ship &quot;Fata Morgana&quot; or &quot;Mirage&quot; [False Horizon]1 Oct 2017 — While there have been claims it was a real flying boat, or even an o...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/EdPiotrowskiWPDE/posts/kristin-rahn-captured-this-bizarre-image-of-what-looks-like-floating-hotels-beyo/1489123775909485/](https://www.facebook.com/EdPiotrowskiWPDE/posts/kristin-rahn-captured-this-bizarre-image-of-what-looks-like-floating-hotels-beyo/1489123775909485/)  
+   Link: <a href="https://www.facebook.com/EdPiotrowskiWPDE/posts/kristin-rahn-captured-this-bizarre-image-of-what-looks-like-floating-hotels-beyo/1489123775909485/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EdPiotrowskiWPDE/posts/kristin-rahn-captured-this-bizarre-image-of-what-looks-like-floating-hotels-beyo/1489123775909485/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>an optical illusion where distant objects appear to float or invert above their real positions...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: physicsforums.com  
    Title: the illusion of anti gravity aka a superior mirage.1000508  
-   Link: [https://www.physicsforums.com/threads/the-illusion-of-anti-gravity-aka-a-superior-mirage.1000508/](https://www.physicsforums.com/threads/the-illusion-of-anti-gravity-aka-a-superior-mirage.1000508/)  
+   Link: <a href="https://www.physicsforums.com/threads/the-illusion-of-anti-gravity-aka-a-superior-mirage.1000508/" target="_blank" rel="noopener noreferrer nofollow">https://www.physicsforums.com/threads/the-illusion-of-anti-gravity-aka-a-superior-mirage.1000508/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Illusion of Anti-Gravity (aka a Superior Mirage)5 Mar 2021 — The discussion revolves around the phenomenon of a ship appearing to hov...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/mattykjordan/posts/a-fata-morgana-mirage-is-an-optical-illusion-caused-by-the-bending-of-light-rays/10159801582411659/](https://www.facebook.com/mattykjordan/posts/a-fata-morgana-mirage-is-an-optical-illusion-caused-by-the-bending-of-light-rays/10159801582411659/)  
+   Link: <a href="https://www.facebook.com/mattykjordan/posts/a-fata-morgana-mirage-is-an-optical-illusion-caused-by-the-bending-of-light-rays/10159801582411659/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mattykjordan/posts/a-fata-morgana-mirage-is-an-optical-illusion-caused-by-the-bending-of-light-rays/10159801582411659/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ally when a layer of warm air sits above cooler air near the surface.Read more...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/GlacierBayNationalPark/posts/have-you-witnessed-this-mirage-while-in-glacierbay-fata-morgana-is-a-mirage-seen/4725286214165699/](https://www.facebook.com/GlacierBayNationalPark/posts/have-you-witnessed-this-mirage-while-in-glacierbay-fata-morgana-is-a-mirage-seen/4725286214165699/)  
+   Link: <a href="https://www.facebook.com/GlacierBayNationalPark/posts/have-you-witnessed-this-mirage-while-in-glacierbay-fata-morgana-is-a-mirage-seen/4725286214165699/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GlacierBayNationalPark/posts/have-you-witnessed-this-mirage-while-in-glacierbay-fata-morgana-is-a-mirage-seen/4725286214165699/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This complex mirage occurs due to atmospheric refraction of light...Read more...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/doc/189461356/Mirage](https://www.scribd.com/doc/189461356/Mirage)  
+   Link: <a href="https://www.scribd.com/doc/189461356/Mirage" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/189461356/Mirage</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>tions of distant objects, and results from distortion of light by...Read more...</p></details>

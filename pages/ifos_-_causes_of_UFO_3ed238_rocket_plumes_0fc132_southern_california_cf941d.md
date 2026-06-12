@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_trident_missile_ufo_16b7db
 - ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_twilight_rocket_plum_ddbb62
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - rocket-plumes
 - so-cal-launches
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - rocket-plumes
 - so-cal-launches
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Southern California is a recurring launch-plume hotspot because Vandenberg and Pacific missile tests are visible to millions of unaware observers.
 hero_summary: Southern California is a recurring launch-plume hotspot because Vandenberg and Pacific missile tests are visible to millions of unaware observers.
 layout: default
 permalink: /so-cal-launches/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /rocket-plumes/
 nav_short_title: So Cal Launches
 title: Why Southern California Keeps Seeing Rocket UFOs
-title_full: Why Southern California Keeps Seeing Rocket UFOs | Rocket Plumes
+title_full: Why Southern California Keeps Seeing Rocket UFOs
 display_title_short: So Cal Launches
 display_title: So Cal Launches
 heading_title: Why Southern California Keeps Seeing Rocket UFOs
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 05:12:34'
-parent_title: The Strange Clouds Rockets Leave Behind | IFOs
+parent_title: The Strange Clouds Rockets Leave Behind
 parent_permalink: /rocket-plumes/
 parent_nav_short_title: Rocket Plumes
 parent_heading_title: The Strange Clouds Rockets Leave Behind
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132
-  title: Rocket Plumes | Ifos Causes Of
+  title: Rocket Plumes | ifos causes of UFO 3 ed 238
   permalink: /rocket-plumes/
   short_title: Rocket Plumes
   heading_title: The Strange Clouds Rockets Leave Behind
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132
-  title: Rocket Plumes | Ifos Causes Of
+  title: Rocket Plumes | ifos causes of UFO 3 ed 238
   permalink: /rocket-plumes/
   short_title: Rocket Plumes
   heading_title: The Strange Clouds Rockets Leave Behind
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: Why Twilight Rocket Plumes Look So Strange
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132
-  title: Rocket Plumes | Ifos Causes Of
+  title: Rocket Plumes | ifos causes of UFO 3 ed 238
   permalink: /rocket-plumes/
   short_title: Rocket Plumes
   heading_title: The Strange Clouds Rockets Leave Behind
@@ -266,6 +265,7 @@ next_link:
   permalink: /trident-test/
   short_title: Trident Test
   heading_title: The Missile Test That Looked Like a UFO
+date: '2026-06-12 00:19:46 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_southern_california_cf941d-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_southern_california_cf941d-Illustration-1.webp
@@ -275,7 +275,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_southern_
 ## Introduction
 
 Southern California is one of the world's most reliable producers of rocket-related UFO reports. The reason is not simply that rockets launch from nearby. It is that an unusual combination of geography, population density and launch [trajectories]({{ 'trajectories/' | relative_url }}) allows millions of people to view high-altitude [rocket plumes]({{ 'rocket-plumes/' | relative_url }}) from unexpected angles. Launches from Vandenberg Space Force Base on California’s central coast and missile tests over the Pacific frequently create bright, unfamiliar displays that appear over major urban areas with little warning. When those launches occur near sunrise or sunset, the result can look so strange that witnesses often describe spacecraft, glowing portals, spirals or giant luminous objects rather than rockets. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Twilight_phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Twilight phenomenon</span><span class="citation-popover-snippet">Twilight phenomenon</span></span></span>
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_southern_california_cf941d-Illustration-1-dark.svg" | relative_url }}" alt="So Cal Launches illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_southern_california_cf941d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_southern_california_cf941d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within the broader category of launch-plume UFO reports, Southern California stands out because the same optical trap repeats again and again. The region has generated decades of recurring “mystery sky” stories that were later traced to launches, missile tests or rocket exhaust phenomena. 6abc Philadelphia <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fox13seattle.com/news/rocket-launch-in-california-triggers-reports-of-strange-lights-in-sky-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox13seattle.com">[2FOX 13 Seattle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox13seattle.com</span><span class="citation-popover-title">rocket launch in california triggers reports of strange lights in sky ufos</span><span class="citation-popover-snippet">No cause for concern,&quot; the Ventura County sheriff tweeted. SpaceX...Read more...</span></span></span>
@@ -292,7 +291,6 @@ The effect has intensified in the modern SpaceX era. Frequent Falcon 9 launches 
 
 A notable example occurred on 22 December 2017, when a Falcon 9 launch shortly after sunset created a luminous plume visible across Southern California. Many witnesses initially believed they were seeing a UFO or an unknown atmospheric event. The launch became one of the most widely photographed rocket-related misidentifications in recent California history. Space <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fox13seattle.com/news/rocket-launch-in-california-triggers-reports-of-strange-lights-in-sky-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox13seattle.com">[2FOX 13 Seattle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox13seattle.com</span><span class="citation-popover-title">rocket launch in california triggers reports of strange lights in sky ufos</span><span class="citation-popover-snippet">No cause for concern,&quot; the Ventura County sheriff tweeted. SpaceX...Read more...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8YNllLNO1i0" title="Many reports of strange light in skies over SoCal after SpaceX launches rocket" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8YNllLNO1i0" target="_blank" rel="noopener noreferrer">Many reports of strange light in skies over SoCal after SpaceX launches rocket</a></p><p class="youtube-embed-meta">Channel: FOX 11 Los Angeles &middot; Views: 60.9K &middot; Uploaded: December 2017 &middot; Length: 38 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8YNllLNO1i0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8YNllLNO1i0">Open on YouTube</a></p></div></div></div>
 
 ## Why Coastal Launches Spread Reports Across States
@@ -303,8 +301,7 @@ When a rocket reaches high altitude, its exhaust expands into the thin upper [at
 
 This explains why reports often arrive simultaneously from locations separated by hundreds of kilometres. During military missile tests conducted over the Pacific, witnesses have reported bright lights from Southern California, Nevada and Arizona at the same time. A 2015 Navy missile launch off the California coast generated widespread UFO speculation before officials confirmed its military origin. <span class="citation-chip-wrap"><a class="citation-chip" href="https://6abc.com/post/mystery-light-in-california-sky-caused-by-navy-rocket-launch/1073860/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 6abc.com">[6abc Philadelphia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">6abc.com</span><span class="citation-popover-title">Philadelphia Mystery light in California sky caused by Navy rocket launch</span><span class="citation-popover-snippet">6abc PhiladelphiaMystery light in California sky caused by Navy rocket launchNovember 8, 2015 — 7 Nov 2015 — LOS ANGELES -- The Navy fire...</span><span class="citation-popover-meta">Published: November 8, 2015</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://abc11.com/post/ufo-bright-light-in-the-sky-during-missile-test/1074223/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc11.com">[2ABC11 Raleigh-Durham]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc11.com</span><span class="citation-popover-title">ufo bright light in the sky during missile test</span><span class="citation-popover-snippet">ABC11 Raleigh-DurhamUFO in California, bright light in the sky, during Navy...8 Nov 2015 — -- The Navy fired an unarmed missile from a s...</span></span></span>
 
-The same pattern appears with civilian launches. Falcon 9 missions from Vandenberg have repeatedly been reported from Southern California, the Bay Area, Arizona and desert regions far from the launch site. Observers often assume an object visible over such a vast area must be extremely unusual, when in reality the great visibility [range]({{ 'range/' | relative_url }}) is exactly what high-altitude rocket plumes produce. ABC7 Los Angeles <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sfgate.com/bayarea/article/spacex-launch-Vandenberg-satellite-Bay-Area-light-12633216.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sfgate.com">[SFGATE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sfgate.com</span><span class="citation-popover-title">spacex launch Vandenberg satellite Bay Area light 12633216</span><span class="citation-popover-snippet">SFGATEMysterious light streak over Bay Area was SpaceX&#x27;s Falcon...22 Feb 2018 — Many around the Bay Area noticed a strange streak of lig...</span></span></span>
-
+The same pattern appears with civilian launches. Falcon 9 missions from Vandenberg have repeatedly been reported from Southern California, the Bay Area, Arizona and desert regions far from the launch site. Observers often assume an object visible over such a vast area must be extremely unusual, when in reality the great visibility [range]({{ 'range/' | relative_url }}) is exactly what high-altitude rocket plumes produce. ABC7 Los Angeles <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sfgate.com/bayarea/article/spacex-launch-Vandenberg-satellite-Bay-Area-light-12633216.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sfgate.com">[SFGATE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sfgate.com</span><span class="citation-popover-title">spacex launch Vandenberg satellite Bay Area light 12633216</span><span class="citation-popover-snippet">Mysterious light streak over Bay Area was SpaceX&#x27;s Falcon...22 Feb 2018 — Many around the Bay Area noticed a strange streak of lig...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_southern_california_cf941d-Illustration-2-dark.svg" | relative_url }}" alt="So Cal Launches illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_southern_california_cf941d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_southern_california_cf941d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Local Geography Shapes Witness Interpretation
@@ -315,8 +312,7 @@ Many residents view launches from coastal highways, mountain passes, suburban ne
 
 Distance also distorts perception. A rocket ascending hundreds of kilometres away can seem to hover above a familiar landmark, creating the illusion that the object is much closer than it really is. Because the vehicle is moving partly toward or away from the observer, its apparent motion may look slow or unnatural. Witnesses sometimes describe impossible hovering, sudden growth in size or dramatic shape changes when they are actually watching an exhaust cloud expand in sunlight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Big_Sur_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Big Sur UFO</span><span class="citation-popover-snippet">Big Sur UFOThe Big Sur UFO is a reported UFO incident that took place during a 1964 Air Force deployment to a mountaintop near Big Sur...</span></span></span>
 
-Another factor is timing. Many Vandenberg launches occur near dawn or dusk because mission requirements often coincide with specific orbital opportunities. These are precisely the lighting conditions most likely to produce the glowing “jellyfish” appearance associated with rocket-related UFO reports. The upper atmosphere remains sunlit long after sunset on the ground, turning otherwise invisible exhaust into a brightly illuminated cloud. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Big_Sur_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Big Sur UFO</span><span class="citation-popover-snippet">Big Sur UFOThe Big Sur UFO is a reported UFO incident that took place during a 1964 Air Force deployment to a mountaintop near Big Sur...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/39200-spacex-rocket-launch-not-ufo-spectactular-photos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">39200 spacex rocket launch not ufo spectactular photos</span><span class="citation-popover-snippet">SpaceUFO? No, It&#x27;s a SpaceX Rocket! These Falcon 9 Launch...24 Dec 2017 — SpaceX&#x27;s launch of a Falcon 9 rocket Friday night (Dec. 22) wa...</span></span></span>
-
+Another factor is timing. Many Vandenberg launches occur near dawn or dusk because mission requirements often coincide with specific orbital opportunities. These are precisely the lighting conditions most likely to produce the glowing “jellyfish” appearance associated with rocket-related UFO reports. The upper atmosphere remains sunlit long after sunset on the ground, turning otherwise invisible exhaust into a brightly illuminated cloud. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Big_Sur_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Big Sur UFO</span><span class="citation-popover-snippet">Big Sur UFOThe Big Sur UFO is a reported UFO incident that took place during a 1964 Air Force deployment to a mountaintop near Big Sur...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/39200-spacex-rocket-launch-not-ufo-spectactular-photos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">39200 spacex rocket launch not ufo spectactular photos</span><span class="citation-popover-snippet">UFO? No, It&#x27;s a SpaceX Rocket! These Falcon 9 Launch...24 Dec 2017 — SpaceX&#x27;s launch of a Falcon 9 rocket Friday night (Dec. 22) wa...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hq-GlQmRCQQ" title="&#x27;UFOs repeatedly visited defence site…&#x27;: Air Force Veteran shares shocking details of UAP sighting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hq-GlQmRCQQ" target="_blank" rel="noopener noreferrer">&#x27;UFOs repeatedly visited defence site…&#x27;: Air Force Veteran shares shocking details of UAP sighting</a></p><p class="youtube-embed-meta">Channel: The Economic Times &middot; Views: 39.8K &middot; Uploaded: September 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hq-GlQmRCQQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hq-GlQmRCQQ">Open on YouTube</a></p></div></div></div>
 
@@ -338,7 +334,6 @@ Several recurring themes appear in news coverage and witness accounts:
 
 The repetition is important. Unlike many UFO categories, these events recur under nearly identical circumstances. A launch occurs from the California coast, the timing places the plume in sunlight, observers across a huge region see an unfamiliar glowing structure, and reports rapidly appear describing something extraordinary in the sky. Only afterwards do many witnesses learn that a launch had taken place. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fox13seattle.com/news/rocket-launch-in-california-triggers-reports-of-strange-lights-in-sky-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox13seattle.com">[FOX 13 Seattle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox13seattle.com</span><span class="citation-popover-title">rocket launch in california triggers reports of strange lights in sky ufos</span><span class="citation-popover-snippet">No cause for concern,&quot; the Ventura County sheriff tweeted. SpaceX...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fox13seattle.com/news/rocket-launch-in-california-triggers-reports-of-strange-lights-in-sky-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox13seattle.com">[2FOX 13]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox13seattle.com</span><span class="citation-popover-title">rocket launch in california triggers reports of strange lights in sky ufos</span><span class="citation-popover-snippet">No cause for concern,&quot; the Ventura County sheriff tweeted. SpaceX...Read more...</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_southern_california_cf941d-Illustration-3-dark.svg" | relative_url }}" alt="So Cal Launches illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_southern_california_cf941d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_southern_california_cf941d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Southern California Rocket-Sighting Trap
 
@@ -348,9 +343,7 @@ Millions of people live south of Vandenberg and face launch trajectories extendi
 
 For investigators studying identified flying objects, Southern California functions almost like a natural laboratory. The same conditions that make Vandenberg an important launch site also make it one of the most consistent sources of rocket-related UFO sightings in the United States. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fox13seattle.com/news/rocket-launch-in-california-triggers-reports-of-strange-lights-in-sky-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox13seattle.com">[2FOX 13 Seattle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox13seattle.com</span><span class="citation-popover-title">rocket launch in california triggers reports of strange lights in sky ufos</span><span class="citation-popover-snippet">No cause for concern,&quot; the Ventura County sheriff tweeted. SpaceX...Read more...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5K10HyqoxCs" title="SpaceX Falcon 9 rocket launch is visible in Northern California" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5K10HyqoxCs" target="_blank" rel="noopener noreferrer">SpaceX Falcon 9 rocket launch is visible in Northern California</a></p><p class="youtube-embed-meta">Channel: KCRA 3 &middot; Views: 1.5K &middot; Uploaded: April 2026 &middot; Length: 43 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5K10HyqoxCs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5K10HyqoxCs">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -469,15 +462,15 @@ For investigators studying identified flying objects, Southern California functi
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=so-cal-launches-why-southern-california-keeps-seeing-rocket-ufos-ifos-causes-of-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="so-cal-launches-why-southern-california-keeps-seeing-rocket-ufos-ifos-causes-of-rocket-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA Artemis SLS Rocket Model – Space Launch System Display Model 1/100 scale"><img src="{{ '/assets/images/marketplace-covers/4507beea8dc428d22c02.jpg' | relative_url }}" alt="Listing image for NASA Artemis SLS Rocket Model – Space Launch System Display Model 1/100 scale" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-southern-california-keeps-seeing-rocket-ufos-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="why-southern-california-keeps-seeing-rocket-ufos-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Rocket Launch Poster Outer Space Sci Fi Wall Art - 12X16/16X20/18X24/24X36"><img src="https://i.ebayimg.com/images/g/09UAAOSw-ndoEKxD/s-l225.jpg" alt="Listing image for Retro Rocket Launch Poster Outer Space Sci Fi Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=so-cal-launches-why-southern-california-keeps-seeing-rocket-ufos-ifos-causes-of-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="so-cal-launches-why-southern-california-keeps-seeing-rocket-ufos-ifos-causes-of-rocket-model" target="_blank" rel="sponsored noopener noreferrer">NASA Artemis SLS Rocket Model – Space Launch System Display Model 1/100 scale</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-southern-california-keeps-seeing-rocket-ufos-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="why-southern-california-keeps-seeing-rocket-ufos-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Rocket Launch Poster Outer Space Sci Fi Wall Art - 12X16/16X20/18X24/24X36</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=so-cal-launches-why-southern-california-keeps-seeing-rocket-ufos-ifos-causes-of-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="so-cal-launches-why-southern-california-keeps-seeing-rocket-ufos-ifos-causes-of-rocket-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rocket model">Search <span data-ebay-domain-label>eBay.co.uk</span>: rocket model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-southern-california-keeps-seeing-rocket-ufos-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="why-southern-california-keeps-seeing-rocket-ufos-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rocket launch poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: rocket launch poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=so-cal-launches-why-southern-california-keeps-seeing-rocket-ufos-ifos-causes-of-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="so-cal-launches-why-southern-california-keeps-seeing-rocket-ufos-ifos-causes-of-rocket-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-southern-california-keeps-seeing-rocket-ufos-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="why-southern-california-keeps-seeing-rocket-ufos-rocket-launch-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -485,15 +478,15 @@ For investigators studying identified flying objects, Southern California functi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=so-cal-launches-why-southern-california-keeps-seeing-rocket-ufos-ifos-causes-of-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="so-cal-launches-why-southern-california-keeps-seeing-rocket-ufos-ifos-causes-of-rocket-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Titan II Rocket Model Kit – Gemini NASA Space Rocket – 1/40 scale Display Model"><img src="{{ '/assets/images/marketplace-covers/6e7da68a396dd6c92c7a.jpg' | relative_url }}" alt="Listing image for Titan II Rocket Model Kit – Gemini NASA Space Rocket – 1/40 scale Display Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-southern-california-keeps-seeing-rocket-ufos-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="why-southern-california-keeps-seeing-rocket-ufos-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space NASA Apollo 11 Rocket Launch Lift Off Photo Huge Wall Art Poster Print"><img src="https://i.ebayimg.com/images/g/wFEAAOSwlklkSm19/s-l225.jpg" alt="Listing image for Space NASA Apollo 11 Rocket Launch Lift Off Photo Huge Wall Art Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=so-cal-launches-why-southern-california-keeps-seeing-rocket-ufos-ifos-causes-of-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="so-cal-launches-why-southern-california-keeps-seeing-rocket-ufos-ifos-causes-of-rocket-model" target="_blank" rel="sponsored noopener noreferrer">Titan II Rocket Model Kit – Gemini NASA Space Rocket – 1/40 scale Display Model</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-southern-california-keeps-seeing-rocket-ufos-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="why-southern-california-keeps-seeing-rocket-ufos-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer">Space NASA Apollo 11 Rocket Launch Lift Off Photo Huge Wall Art Poster Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=so-cal-launches-why-southern-california-keeps-seeing-rocket-ufos-ifos-causes-of-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="so-cal-launches-why-southern-california-keeps-seeing-rocket-ufos-ifos-causes-of-rocket-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rocket model">Search <span data-ebay-domain-label>eBay.co.uk</span>: rocket model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-southern-california-keeps-seeing-rocket-ufos-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="why-southern-california-keeps-seeing-rocket-ufos-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rocket launch poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: rocket launch poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=so-cal-launches-why-southern-california-keeps-seeing-rocket-ufos-ifos-causes-of-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="so-cal-launches-why-southern-california-keeps-seeing-rocket-ufos-ifos-causes-of-rocket-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-southern-california-keeps-seeing-rocket-ufos-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="why-southern-california-keeps-seeing-rocket-ufos-rocket-launch-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -501,15 +494,15 @@ For investigators studying identified flying objects, Southern California functi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=so-cal-launches-why-southern-california-keeps-seeing-rocket-ufos-ifos-causes-of-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="so-cal-launches-why-southern-california-keeps-seeing-rocket-ufos-ifos-causes-of-rocket-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starship Rocket Model &amp; Stand - (SpaceX)"><img src="{{ '/assets/images/marketplace-covers/3f6e576effcce19f03d1.jpg' | relative_url }}" alt="Listing image for Starship Rocket Model &amp; Stand - (SpaceX)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-southern-california-keeps-seeing-rocket-ufos-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="why-southern-california-keeps-seeing-rocket-ufos-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rocket Launch on Mars Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/6h0AAeSwEb5phimD/s-l225.jpg" alt="Listing image for Rocket Launch on Mars Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=so-cal-launches-why-southern-california-keeps-seeing-rocket-ufos-ifos-causes-of-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="so-cal-launches-why-southern-california-keeps-seeing-rocket-ufos-ifos-causes-of-rocket-model" target="_blank" rel="sponsored noopener noreferrer">Starship Rocket Model &amp; Stand - (SpaceX)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-southern-california-keeps-seeing-rocket-ufos-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="why-southern-california-keeps-seeing-rocket-ufos-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer">Rocket Launch on Mars Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=so-cal-launches-why-southern-california-keeps-seeing-rocket-ufos-ifos-causes-of-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="so-cal-launches-why-southern-california-keeps-seeing-rocket-ufos-ifos-causes-of-rocket-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rocket model">Search <span data-ebay-domain-label>eBay.co.uk</span>: rocket model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-southern-california-keeps-seeing-rocket-ufos-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="why-southern-california-keeps-seeing-rocket-ufos-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rocket launch poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: rocket launch poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=so-cal-launches-why-southern-california-keeps-seeing-rocket-ufos-ifos-causes-of-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="so-cal-launches-why-southern-california-keeps-seeing-rocket-ufos-ifos-causes-of-rocket-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-southern-california-keeps-seeing-rocket-ufos-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="why-southern-california-keeps-seeing-rocket-ufos-rocket-launch-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -517,15 +510,15 @@ For investigators studying identified flying objects, Southern California functi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=so-cal-launches-why-southern-california-keeps-seeing-rocket-ufos-ifos-causes-of-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="so-cal-launches-why-southern-california-keeps-seeing-rocket-ufos-ifos-causes-of-rocket-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Various Estes Model Rocket Accessories"><img src="{{ '/assets/images/marketplace-covers/cab04d84ca986b22e590.jpg' | relative_url }}" alt="Listing image for Various Estes Model Rocket Accessories" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-southern-california-keeps-seeing-rocket-ufos-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="why-southern-california-keeps-seeing-rocket-ufos-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space NASA Apollo 11 Rocket Launch Lift Off Photo Canvas Wall Art Print Poster"><img src="https://i.ebayimg.com/images/g/2T0AAOSwmDZnR4el/s-l225.jpg" alt="Listing image for Space NASA Apollo 11 Rocket Launch Lift Off Photo Canvas Wall Art Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=so-cal-launches-why-southern-california-keeps-seeing-rocket-ufos-ifos-causes-of-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="so-cal-launches-why-southern-california-keeps-seeing-rocket-ufos-ifos-causes-of-rocket-model" target="_blank" rel="sponsored noopener noreferrer">Various Estes Model Rocket Accessories</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-southern-california-keeps-seeing-rocket-ufos-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="why-southern-california-keeps-seeing-rocket-ufos-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer">Space NASA Apollo 11 Rocket Launch Lift Off Photo Canvas Wall Art Print Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=so-cal-launches-why-southern-california-keeps-seeing-rocket-ufos-ifos-causes-of-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="so-cal-launches-why-southern-california-keeps-seeing-rocket-ufos-ifos-causes-of-rocket-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rocket model">Search <span data-ebay-domain-label>eBay.co.uk</span>: rocket model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-southern-california-keeps-seeing-rocket-ufos-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="why-southern-california-keeps-seeing-rocket-ufos-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rocket launch poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: rocket launch poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=so-cal-launches-why-southern-california-keeps-seeing-rocket-ufos-ifos-causes-of-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="so-cal-launches-why-southern-california-keeps-seeing-rocket-ufos-ifos-causes-of-rocket-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-southern-california-keeps-seeing-rocket-ufos-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="why-southern-california-keeps-seeing-rocket-ufos-rocket-launch-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -533,7 +526,7 @@ For investigators studying identified flying objects, Southern California functi
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=so-cal-launches-why-southern-california-keeps-seeing-rocket-ufos-ifos-causes-of-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="so-cal-launches-why-southern-california-keeps-seeing-rocket-ufos-ifos-causes-of-rocket-model" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-southern-california-keeps-seeing-rocket-ufos-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="why-southern-california-keeps-seeing-rocket-ufos-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -749,95 +742,95 @@ For investigators studying identified flying objects, Southern California functi
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Twilight phenomenon  
-   Link: [https://en.wikipedia.org/wiki/Twilight_phenomenon](https://en.wikipedia.org/wiki/Twilight_phenomenon)  
+   Link: <a href="https://en.wikipedia.org/wiki/Twilight_phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Twilight_phenomenon</a>  
 
 2. <a id="endnote-2"></a>
    Source: space.com  
    Title: x falcon 9 launch paints glowing jellyfish across western us skies photos video  
-   Link: [https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-launch-paints-glowing-jellyfish-across-western-us-skies-photos-video](https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-launch-paints-glowing-jellyfish-across-western-us-skies-photos-video)  
+   Link: <a href="https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-launch-paints-glowing-jellyfish-across-western-us-skies-photos-video" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-launch-paints-glowing-jellyfish-across-western-us-skies-photos-video</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>28, when the expanding &#x27;jellyfish&#x27; plume from the rocket&#x27;s ascent could be seen for hundreds...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: 6abc.com  
    Title: Philadelphia Mystery light in California sky caused by Navy rocket launch  
-   Link: [https://6abc.com/post/mystery-light-in-california-sky-caused-by-navy-rocket-launch/1073860/](https://6abc.com/post/mystery-light-in-california-sky-caused-by-navy-rocket-launch/1073860/)  
+   Link: <a href="https://6abc.com/post/mystery-light-in-california-sky-caused-by-navy-rocket-launch/1073860/" target="_blank" rel="noopener noreferrer nofollow">https://6abc.com/post/mystery-light-in-california-sky-caused-by-navy-rocket-launch/1073860/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>6abc PhiladelphiaMystery light in California sky caused by Navy rocket launchNovember 8, 2015 — 7 Nov 2015 — LOS ANGELES -- The Navy fire...</p></details>
    Published: November 8, 2015  
 
 4. <a id="endnote-4"></a>
    Source: fox13seattle.com  
    Title: rocket launch in california triggers reports of strange lights in sky ufos  
-   Link: [https://www.fox13seattle.com/news/rocket-launch-in-california-triggers-reports-of-strange-lights-in-sky-ufos](https://www.fox13seattle.com/news/rocket-launch-in-california-triggers-reports-of-strange-lights-in-sky-ufos)  
+   Link: <a href="https://www.fox13seattle.com/news/rocket-launch-in-california-triggers-reports-of-strange-lights-in-sky-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.fox13seattle.com/news/rocket-launch-in-california-triggers-reports-of-strange-lights-in-sky-ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>No cause for concern,&quot; the Ventura County sheriff tweeted. SpaceX...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: abc7.com  
    Title: spacex launch falcon 9 rocket [starlink](&#123;&#123; 'starlink/' | relative_url &#125;&#125;) satellite vandenberg air force base  
-   Link: [https://abc7.com/post/spacex-launch-falcon-9-rocket-starlink-satellite-vandenberg-air-force-base/14542779/](https://abc7.com/post/spacex-launch-falcon-9-rocket-starlink-satellite-vandenberg-air-force-base/14542779/)  
+   Link: <a href="https://abc7.com/post/spacex-launch-falcon-9-rocket-starlink-satellite-vandenberg-air-force-base/14542779/" target="_blank" rel="noopener noreferrer nofollow">https://abc7.com/post/spacex-launch-falcon-9-rocket-starlink-satellite-vandenberg-air-force-base/14542779/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: space.com  
    Title: 39200 spacex rocket launch not ufo spectactular photos  
-   Link: [https://www.space.com/39200-spacex-rocket-launch-not-ufo-spectactular-photos.html](https://www.space.com/39200-spacex-rocket-launch-not-ufo-spectactular-photos.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceUFO? No, It&#x27;s a SpaceX Rocket! These Falcon 9 Launch...24 Dec 2017 — SpaceX&#x27;s launch of a Falcon 9 rocket Friday night (Dec. 22) wa...</p></details>
+   Link: <a href="https://www.space.com/39200-spacex-rocket-launch-not-ufo-spectactular-photos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/39200-spacex-rocket-launch-not-ufo-spectactular-photos.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO? No, It&#x27;s a SpaceX Rocket! These Falcon 9 Launch...24 Dec 2017 — SpaceX&#x27;s launch of a Falcon 9 rocket Friday night (Dec. 22) wa...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: abc11.com  
    Title: ufo bright light in the sky during missile test  
-   Link: [https://abc11.com/post/ufo-bright-light-in-the-sky-during-missile-test/1074223/](https://abc11.com/post/ufo-bright-light-in-the-sky-during-missile-test/1074223/)  
+   Link: <a href="https://abc11.com/post/ufo-bright-light-in-the-sky-during-missile-test/1074223/" target="_blank" rel="noopener noreferrer nofollow">https://abc11.com/post/ufo-bright-light-in-the-sky-during-missile-test/1074223/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC11 Raleigh-DurhamUFO in California, bright light in the sky, during Navy...8 Nov 2015 — -- The Navy fired an unarmed missile from a s...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: sfgate.com  
    Title: spacex launch Vandenberg satellite Bay Area light 12633216  
-   Link: [https://www.sfgate.com/bayarea/article/spacex-launch-Vandenberg-satellite-Bay-Area-light-12633216.php](https://www.sfgate.com/bayarea/article/spacex-launch-Vandenberg-satellite-Bay-Area-light-12633216.php)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SFGATEMysterious light streak over Bay Area was SpaceX&#x27;s Falcon...22 Feb 2018 — Many around the Bay Area noticed a strange streak of lig...</p></details>
+   Link: <a href="https://www.sfgate.com/bayarea/article/spacex-launch-Vandenberg-satellite-Bay-Area-light-12633216.php" target="_blank" rel="noopener noreferrer nofollow">https://www.sfgate.com/bayarea/article/spacex-launch-Vandenberg-satellite-Bay-Area-light-12633216.php</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious light streak over Bay Area was SpaceX&#x27;s Falcon...22 Feb 2018 — Many around the Bay Area noticed a strange streak of lig...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: space.com  
-   Link: [https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-40-b1080-ccsfs-asog](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-40-b1080-ccsfs-asog)  
+   Link: <a href="https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-40-b1080-ccsfs-asog" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-40-b1080-ccsfs-asog</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The effect resulted from the sunlight illuminating the Falcon 9 rocket&#x27;s high-altitude exhaust plume before sunrise, producing a bulbous...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Big Sur UFO  
-   Link: [https://en.wikipedia.org/wiki/Big_Sur_UFO](https://en.wikipedia.org/wiki/Big_Sur_UFO)  
+   Link: <a href="https://en.wikipedia.org/wiki/Big_Sur_UFO" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Big_Sur_UFO</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Big Sur UFOThe Big Sur UFO is a reported UFO incident that took place during a 1964 Air Force deployment to a mountaintop near Big Sur...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: time.com  
    Title: missile test san diego light  
-   Link: [https://time.com/4104142/missile-test-san-diego-light/](https://time.com/4104142/missile-test-san-diego-light/)  
+   Link: <a href="https://time.com/4104142/missile-test-san-diego-light/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/4104142/missile-test-san-diego-light/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Navy says a missile test caused the light, which could be seen as far away as Nevada. The test of the Trident II missile, reported...Rea...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: Space X Rocket Launch Seen Across Southern California  
-   Link: [http://www.youtube.com/watch?v=F3aJ2W0tYV0](http://www.youtube.com/watch?v=F3aJ2W0tYV0)  
+   Link: <a href="http://www.youtube.com/watch?v=F3aJ2W0tYV0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=F3aJ2W0tYV0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why So Many UFO Reports Come From SpaceX Launches...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: fox13news.com  
    Title: many reports of strange light in skies over socal after spacex launches rocket  
-   Link: [https://www.fox13news.com/news/many-reports-of-strange-light-in-skies-over-socal-after-spacex-launches-rocket](https://www.fox13news.com/news/many-reports-of-strange-light-in-skies-over-socal-after-spacex-launches-rocket)  
+   Link: <a href="https://www.fox13news.com/news/many-reports-of-strange-light-in-skies-over-socal-after-spacex-launches-rocket" target="_blank" rel="noopener noreferrer nofollow">https://www.fox13news.com/news/many-reports-of-strange-light-in-skies-over-socal-after-spacex-launches-rocket</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FOX 13 Tampa BayStrange light in skies over SoCal after SpaceX launchDec 22, 2017 — The launch was visible across most of Southern Califo...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: vvng.com  
    Title: The phenomenon  
-   Link: [https://www.vvng.com/spacex-falcon-9-launch-creates-glowing-spiral-visible-across-victor-valley/](https://www.vvng.com/spacex-falcon-9-launch-creates-glowing-spiral-visible-across-victor-valley/)  
+   Link: <a href="https://www.vvng.com/spacex-falcon-9-launch-creates-glowing-spiral-visible-across-victor-valley/" target="_blank" rel="noopener noreferrer nofollow">https://www.vvng.com/spacex-falcon-9-launch-creates-glowing-spiral-visible-across-victor-valley/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Victor Valley NewsSpaceX Falcon 9 Launch Creates Glowing Spiral Visible...Feb 15, 2026 — The unusual spiral effect occurs when rocket ex...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=5K10HyqoxCs](https://www.youtube.com/watch?v=5K10HyqoxCs)  
+   Link: <a href="https://www.youtube.com/watch?v=5K10HyqoxCs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5K10HyqoxCs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX Falcon 9 rocket launch is visible in Northern CaliforniaSpaceX launched a Falcon 9 rocket from Vandenberg Space Force Base on Mond...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: vandenberg.spaceforce.mil  
    Title: gt 256 icbm test launch verifies system reliability  
-   Link: [https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4496676/gt-256-icbm-test-launch-verifies-system-reliability/](https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4496676/gt-256-icbm-test-launch-verifies-system-reliability/)  
+   Link: <a href="https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4496676/gt-256-icbm-test-launch-verifies-system-reliability/" target="_blank" rel="noopener noreferrer nofollow">https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4496676/gt-256-icbm-test-launch-verifies-system-reliability/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>256: ICBM Test Launch Verifies System Reliability20 May 2026 — Air Force Global Strike Command conducted a test launch of an unarmed Minu...</p></details>
    Published: May 2026  
 
@@ -845,51 +838,51 @@ For investigators studying identified flying objects, Southern California functi
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NBCLA/posts/a-spacex-rocket-illuminated-southern-californias-sky-monday-eveningthe-glow-from/1483255746504819/](https://www.facebook.com/NBCLA/posts/a-spacex-rocket-illuminated-southern-californias-sky-monday-eveningthe-glow-from/1483255746504819/)  
+   Link: <a href="https://www.facebook.com/NBCLA/posts/a-spacex-rocket-illuminated-southern-californias-sky-monday-eveningthe-glow-from/1483255746504819/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NBCLA/posts/a-spacex-rocket-illuminated-southern-californias-sky-monday-eveningthe-glow-from/1483255746504819/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A SpaceX rocket illuminated Southern California&#x27;s sky...Last night, SpaceX&#x27;s Falcon 9 rocket lit up the Southern California sky with a b...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/SLD30/posts/did-you-see-it-throwbackthursday-to-dec-22-2017when-a-launch-from-vandenberg-lit/1398892488950376/](https://www.facebook.com/SLD30/posts/did-you-see-it-throwbackthursday-to-dec-22-2017when-a-launch-from-vandenberg-lit/1398892488950376/)  
+   Link: <a href="https://www.facebook.com/SLD30/posts/did-you-see-it-throwbackthursday-to-dec-22-2017when-a-launch-from-vandenberg-lit/1398892488950376/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SLD30/posts/did-you-see-it-throwbackthursday-to-dec-22-2017when-a-launch-from-vandenberg-lit/1398892488950376/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Did you see it? #ThrowbackThursday to...I caught this glowing “jellyfish” in the sky over Sacaton, Arizona… turns out it was a SpaceX Fa...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: nypost.com  
-   Link: [https://nypost.com/2024/05/03/spiral-ufo-sightings-spark-shock-across-us-europe-someone-explain-plz/](https://nypost.com/2024/05/03/spiral-ufo-sightings-spark-shock-across-us-europe-someone-explain-plz/)  
+   Link: <a href="https://nypost.com/2024/05/03/spiral-ufo-sightings-spark-shock-across-us-europe-someone-explain-plz/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/05/03/spiral-ufo-sightings-spark-shock-across-us-europe-someone-explain-plz/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Videos and photos were posted online, showing a blurry light or orange light surrounded by fog moving horizontally and then disappearing...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/SpaceXLounge/comments/1h7o51h/speculation_what_is_spacex_hiding_at_vandenberg/](https://www.reddit.com/r/SpaceXLounge/comments/1h7o51h/speculation_what_is_spacex_hiding_at_vandenberg/)  
+   Link: <a href="https://www.reddit.com/r/SpaceXLounge/comments/1h7o51h/speculation_what_is_spacex_hiding_at_vandenberg/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/SpaceXLounge/comments/1h7o51h/speculation_what_is_spacex_hiding_at_vandenberg/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Speculation: What is SpaceX hiding at Vandenberg?For the last 3 or 4 launches out of Vandenberg Space Force Base, California, SpaceX&#x27;s li...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: vanityfair.com  
-   Link: [https://www.vanityfair.com/style/2017/12/elon-musk-rocket-launch-aliens](https://www.vanityfair.com/style/2017/12/elon-musk-rocket-launch-aliens)  
+   Link: <a href="https://www.vanityfair.com/style/2017/12/elon-musk-rocket-launch-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/style/2017/12/elon-musk-rocket-launch-aliens</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The spectacle was actually the SpaceX Falcon 9 rocket, launched by Elon Musk&#x27;s company from Vandenberg Air Force Base. The rocket&#x27;s brigh...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DW0OROyE8mC/](https://www.instagram.com/reel/DW0OROyE8mC/)  
+   Link: <a href="https://www.instagram.com/reel/DW0OROyE8mC/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DW0OROyE8mC/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What a beautiful Launch tonight at TwilightI love the Jellyfish...Last night&#x27;s Starlink launch from Vandenberg created a glowing jellyfi...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=8YNllLNO1i0](https://www.youtube.com/watch?v=8YNllLNO1i0)  
+   Link: <a href="https://www.youtube.com/watch?v=8YNllLNO1i0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8YNllLNO1i0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Many reports of strange light in skies over SoCal after SpaceX...It&#x27;s from a SpaceX Falcon 9 rocket fired from Vandenberg Air Force Base...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: nbcsandiego.com  
    Title: witnesses report seeing strange lights across southern california sky  
-   Link: [https://www.nbcsandiego.com/news/local/witnesses-report-seeing-strange-lights-across-southern-california-sky/105013/](https://www.nbcsandiego.com/news/local/witnesses-report-seeing-strange-lights-across-southern-california-sky/105013/)  
+   Link: <a href="https://www.nbcsandiego.com/news/local/witnesses-report-seeing-strange-lights-across-southern-california-sky/105013/" target="_blank" rel="noopener noreferrer nofollow">https://www.nbcsandiego.com/news/local/witnesses-report-seeing-strange-lights-across-southern-california-sky/105013/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NBC 7 San DiegoWitnesses Report Seeing Bright Light Across Southern...7 Nov 2015 — Viewers across Southern California reported seeing a...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DYPEgYuEZGW/?hl=en](https://www.instagram.com/reel/DYPEgYuEZGW/?hl=en)  
+   Link: <a href="https://www.instagram.com/reel/DYPEgYuEZGW/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYPEgYuEZGW/?hl=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PDT (10:28 p.m. EDT), creating a “jellyfish” plume that was seen across Southern California, Arizona...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/fox11la/videos/many-reports-of-strange-light-in-skies-over-socal-after-spacex-launches-rocket/10159832348045553/](https://www.facebook.com/fox11la/videos/many-reports-of-strange-light-in-skies-over-socal-after-spacex-launches-rocket/10159832348045553/)  
+   Link: <a href="https://www.facebook.com/fox11la/videos/many-reports-of-strange-light-in-skies-over-socal-after-spacex-launches-rocket/10159832348045553/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox11la/videos/many-reports-of-strange-light-in-skies-over-socal-after-spacex-launches-rocket/10159832348045553/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s apparently from a SpaceX Falcon 9 rocket fired from Vandenberg Air...</p></details>

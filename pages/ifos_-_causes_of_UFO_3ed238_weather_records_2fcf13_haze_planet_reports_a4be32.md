@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_fog_distance_limits_e658d9
 - ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_rain_light_halos_953601
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - weather-records
 - haze-planets
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - weather-records
 - haze-planets
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: A bright planet near the horizon can redden, blur, shimmer or seem to move when thin haze sits along the line of sight.
 hero_summary: A bright planet near the horizon can redden, blur, shimmer or seem to move when thin haze sits along the line of sight.
 layout: default
 permalink: /haze-planets/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /weather-records/
 nav_short_title: Haze planets
 title: Why a low planet can look alive
-title_full: Why a low planet can look alive | Weather Records
+title_full: Why a low planet can look alive
 display_title_short: Haze planets
 display_title: Haze planets
 heading_title: Why a low planet can look alive
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 21:49:37'
-parent_title: Weather Clues That Explain Strange Lights | IFOs
+parent_title: Weather Clues That Explain Strange Lights
 parent_permalink: /weather-records/
 parent_nav_short_title: Weather Records
 parent_heading_title: Weather Clues That Explain Strange Lights
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13
-  title: Weather Records | Ifos Causes Of
+  title: Weather Records | ifos causes of UFO 3 ed 238
   permalink: /weather-records/
   short_title: Weather Records
   heading_title: Weather Clues That Explain Strange Lights
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13
-  title: Weather Records | Ifos Causes Of
+  title: Weather Records | ifos causes of UFO 3 ed 238
   permalink: /weather-records/
   short_title: Weather Records
   heading_title: Weather Clues That Explain Strange Lights
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: When rain turns lights into UFOs
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13
-  title: Weather Records | Ifos Causes Of
+  title: Weather Records | ifos causes of UFO 3 ed 238
   permalink: /weather-records/
   short_title: Weather Records
   heading_title: Weather Clues That Explain Strange Lights
@@ -266,6 +265,7 @@ next_link:
   permalink: /rain-halos/
   short_title: Rain halos
   heading_title: When rain turns lights into UFOs
+date: '2026-06-12 00:27:47 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_haze_planet_reports_a4be32-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_haze_planet_reports_a4be32-Illustration-1.webp
@@ -276,7 +276,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_haze_pl
 
 A bright planet low on the horizon is one of the most common ordinary explanations behind reports of strange lights in the sky. Witnesses often describe a light that changes colour, pulses, drifts, hovers, darts slightly from side to side, or appears almost alive. Yet in many cases the object is a bright planet—especially [Venus]({{ 'venus/' | relative_url }}) or Jupiter—seen through a long, turbulent path of [atmosphere]({{ 'atmosphere/' | relative_url }}) near the horizon. NASA's Night Sky Network notes that Venus shining low above the horizon has been reported as a UFO many times, precisely because its appearance can become unusual under these conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nightsky.jpl.nasa.gov">[Night Sky Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nightsky.jpl.nasa.gov</span><span class="citation-popover-title">Night Sky Network Identifying UFOs and UAPs</span><span class="citation-popover-snippet">Sirius and Jupiter are also often reported as UFOs, as well as Mercury.Read more...</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_haze_planet_reports_a4be32-Illustration-1-dark.svg" | relative_url }}" alt="Haze planets illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_haze_planet_reports_a4be32-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_haze_planet_reports_a4be32-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The key clue is that the atmosphere affects celestial objects most strongly when they are low in the sky. Haze, humidity, temperature layers and atmospheric turbulence can alter a planet's apparent colour, brightness and position enough to create a convincing impression of motion or intelligent control. Understanding these effects provides a useful visibility clue when evaluating UFO reports.
 
@@ -285,7 +284,6 @@ The key clue is that the atmosphere affects celestial objects most strongly when
 When a planet is high overhead, its light travels through a relatively short column of air before reaching an observer. Near the horizon, the same light must pass through a much greater thickness of atmosphere. Every layer of air, dust, haze, smoke, humidity and turbulence has an opportunity to distort the image. NOAA Global Monitoring Laboratory <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/astronomy-essentials/refraction-distortion-moon-sun-near-horizon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">refraction distortion moon sun near horizon</span><span class="citation-popover-snippet">What makes oddly shaped suns and moons on the horizon?8 Apr 2025 — For objects with a small angular size – like stars – atmospheric refra...</span></span></span>
 
 This longer atmospheric path produces several effects at once: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.astropix.com/books/GDPI/CHAPTER1/105.HTM" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astropix.com">[astropix.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astropix.com</span><span class="citation-popover-title">Atmospheric Effects Scintillation</span><span class="citation-popover-snippet">Atmospheric EffectsScintillation - Scintillation causes rapid changes in brightness in the celestial object being viewed. This is why sta...</span></span></span>
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -300,7 +298,6 @@ This longer atmospheric path produces several effects at once: <span class="cita
 Atmospheric refraction bends incoming light and changes the apparent position of celestial objects. Near the horizon, refraction becomes much stronger and more variable than it is overhead. Objects can appear higher than their true position, and changing atmospheric conditions can make their apparent location fluctuate slightly over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gml.noaa.gov/grad/solcalc/glossary.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gml.noaa.gov">[NOAA Global Monitoring Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gml.noaa.gov</span><span class="citation-popover-snippet">NOAA Global Monitoring LaboratorySolar Calculator Glossary - Global Monitoring Laboratory- Due to atmospheric refraction, sunrise occurs...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://britastro.org/2019/atmospheric-refraction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britastro.org">[British Astronomical Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britastro.org</span><span class="citation-popover-title">atmospheric refraction</span><span class="citation-popover-snippet">British Astronomical AssociationAtmospheric RefractionMar 2, 2019 — This short tutorial looks at the some of the effects that the refract...</span></span></span>
 
 For a witness without astronomical reference points, these subtle shifts can easily be interpreted as deliberate movement. A stationary planet may seem to hover, climb, descend or wander.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KjBv7LUBGTc" title="Exciting Updates About Venus and Its Atmosphere: Could Life Have Come From Earth?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KjBv7LUBGTc" target="_blank" rel="noopener noreferrer">Exciting Updates About Venus and Its Atmosphere: Could Life Have Come From Earth?</a></p><p class="youtube-embed-meta">Channel: Anton Petrov &middot; Views: 123.0K &middot; Uploaded: May 2026 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KjBv7LUBGTc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KjBv7LUBGTc">Open on YouTube</a></p></div></div></div>
 
@@ -320,7 +317,6 @@ Atmospheric scintillation—the same process that causes [stars]({{ 'stars/' | r
 
 To an observer, this can resemble:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Pulsing brightness.
@@ -332,7 +328,6 @@ To an observer, this can resemble:
 </div>
 
 Such descriptions occur repeatedly in UFO reports involving bright evening or morning planets.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_haze_planet_reports_a4be32-Illustration-2-dark.svg" | relative_url }}" alt="Haze planets illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_haze_planet_reports_a4be32-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_haze_planet_reports_a4be32-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Why a stationary planet can seem to move
@@ -349,7 +344,6 @@ NASA's Night Sky Network specifically identifies Venus as one of the most common
 
 Several characteristics make Venus especially prone to misidentification:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Extreme brightness attracts attention.
@@ -362,9 +356,7 @@ Several characteristics make Venus especially prone to misidentification:
 
 A witness who notices a brilliant reddish-white light hovering over a distant ridge or coastline may reasonably assume it is an aircraft, drone or unknown object rather than a planet.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OvA_kCOVsxI" title="Why Do Stars Twinkle but Planets Don’t? | Atmospheric Refraction Explained | Class 10 Physics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OvA_kCOVsxI" target="_blank" rel="noopener noreferrer">Why Do Stars Twinkle but Planets Don’t? | Atmospheric Refraction Explained | Class 10 Physics</a></p><p class="youtube-embed-meta">Channel: Quizlet &middot; Views: 388 &middot; Uploaded: March 2026 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OvA_kCOVsxI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OvA_kCOVsxI">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_haze_planet_reports_a4be32-Illustration-3-dark.svg" | relative_url }}" alt="Haze planets illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_haze_planet_reports_a4be32-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_haze_planet_reports_a4be32-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Checks that separate planets from nearby objects
 
 Weather and visibility records can help distinguish a horizon planet from an aircraft, drone or genuinely nearby object.
@@ -373,7 +365,7 @@ Several practical checks are particularly useful.
 
 **Check the azimuth and elevation.** If the reported object matches the position of Venus, Jupiter or another bright planet at the time of the sighting, the identification gains strength. Planetarium software and astronomical databases can verify this. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nightsky.jpl.nasa.gov">[Night Sky Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nightsky.jpl.nasa.gov</span><span class="citation-popover-title">Night Sky Network Identifying UFOs and UAPs</span><span class="citation-popover-snippet">Sirius and Jupiter are also often reported as UFOs, as well as Mercury.Read more...</span></span></span>
 
-**Look for horizon conditions.** Reports occurring through haze, mist, smoke, humidity or temperature inversions are more likely to involve atmospheric distortion. Thin haze may be present even when witnesses describe the sky as generally clear. <span class="citation-chip-wrap"><a class="citation-chip" href="https://windowthroughtime.wordpress.com/tag/atmospheric-scintillation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: windowthroughtime.wordpress.com">[windowthroughtime]</a><span class="citation-popover" role="note"><span class="citation-popover-source">windowthroughtime.wordpress.com</span><span class="citation-popover-title">windowthroughtime Atmospheric scintillation</span><span class="citation-popover-snippet">windowthroughtimeAtmospheric scintillation - windowthroughtime28 Aug 2023 — Stars near the horizon will appear to twinkle more than those...</span></span></span>
+**Look for horizon conditions.** Reports occurring through haze, mist, smoke, humidity or temperature inversions are more likely to involve atmospheric distortion. Thin haze may be present even when witnesses describe the sky as generally clear. <span class="citation-chip-wrap"><a class="citation-chip" href="https://windowthroughtime.wordpress.com/tag/atmospheric-scintillation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: windowthroughtime.wordpress.com">[windowthroughtime]</a><span class="citation-popover" role="note"><span class="citation-popover-source">windowthroughtime.wordpress.com</span><span class="citation-popover-title">windowthroughtime Atmospheric scintillation</span><span class="citation-popover-snippet">Atmospheric scintillation - windowthroughtime28 Aug 2023 — Stars near the horizon will appear to twinkle more than those...</span></span></span>
 
 **Assess duration.** Planets often remain visible in roughly the same part of the sky for long periods. Witnesses may interpret gradual changes caused by Earth's rotation as movement of the object itself.
 
@@ -381,17 +373,13 @@ Several practical checks are particularly useful.
 
 **Watch for disappearance into haze.** Planets near the horizon frequently fade, brighten or vanish as atmospheric conditions change. This behaviour is consistent with visibility effects rather than controlled flight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cloudynights.com/forums/topic/764513-about-the-twinkling-of-stars/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cloudynights.com">[Cloudy Nights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cloudynights.com</span><span class="citation-popover-title">Cloudy Nights About the twinkling of stars</span><span class="citation-popover-snippet">Cloudy NightsAbout the twinkling of starsApril 3, 2021 — 3 Apr 2021 — Refractive dispersion is due to the fact that air bends blue light...</span><span class="citation-popover-meta">Published: April 3, 2021</span></span></span>
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OvA_kCOVsxI" title="Why Do Stars Twinkle but Planets Don’t? | Atmospheric Refraction Explained | Class 10 Physics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OvA_kCOVsxI" target="_blank" rel="noopener noreferrer">Why Do Stars Twinkle but Planets Don’t? | Atmospheric Refraction Explained | Class 10 Physics</a></p><p class="youtube-embed-meta">Channel: Quizlet &middot; Views: 388 &middot; Uploaded: March 2026 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OvA_kCOVsxI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OvA_kCOVsxI">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_haze_planet_reports_a4be32-Illustration-3-dark.svg" | relative_url }}" alt="Haze planets illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_haze_planet_reports_a4be32-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_haze_planet_reports_a4be32-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What investigators learn from these reports
 
 Horizon-planet cases illustrate why weather and visibility records are valuable in UFO investigations. Witnesses are often reporting genuine observations: the light really does seem to change colour, shimmer, pulse or move. The mistake lies not in the observation but in the interpretation.
 
 The combination of low viewing angle, haze, atmospheric refraction and turbulence can transform a bright planet into something that appears dynamic and mysterious. Because these effects are strongest near the horizon, reports describing a brilliant stationary or slowly drifting light low in the sky deserve careful comparison with astronomical positions and local visibility conditions before more exotic explanations are considered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nightsky.jpl.nasa.gov">[Night Sky Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nightsky.jpl.nasa.gov</span><span class="citation-popover-title">Night Sky Network Identifying UFOs and UAPs</span><span class="citation-popover-snippet">Sirius and Jupiter are also often reported as UFOs, as well as Mercury.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://gml.noaa.gov/grad/solcalc/glossary.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gml.noaa.gov">[NOAA Global Monitoring Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gml.noaa.gov</span><span class="citation-popover-snippet">NOAA Global Monitoring LaboratorySolar Calculator Glossary - Global Monitoring Laboratory- Due to atmospheric refraction, sunrise occurs...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HK3ANLrH7JM" title="I Signed In For 30 Days And Gained The Power To Destroy Planets With One Punch!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HK3ANLrH7JM" target="_blank" rel="noopener noreferrer">I Signed In For 30 Days And Gained The Power To Destroy Planets With One Punch!</a></p><p class="youtube-embed-meta">Channel: Just Alus Eng</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HK3ANLrH7JM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HK3ANLrH7JM">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -510,15 +498,15 @@ The combination of low viewing angle, haze, atmospheric refraction and turbulenc
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haze-planets-why-a-low-planet-can-look-alive-ifos-causes-of-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="haze-planets-why-a-low-planet-can-look-alive-ifos-causes-of-planet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Forbidden Planet Art Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/77c3cb526d9f74b497a3.jpg' | relative_url }}" alt="Listing image for Forbidden Planet Art Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-low-planet-can-look-alive-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="why-a-low-planet-can-look-alive-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Meteorologist Meteorology Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/gX8AAeSwWu5pwX2B/s-l225.jpg" alt="Listing image for Meteorologist Meteorology Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haze-planets-why-a-low-planet-can-look-alive-ifos-causes-of-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="haze-planets-why-a-low-planet-can-look-alive-ifos-causes-of-planet-poster" target="_blank" rel="sponsored noopener noreferrer">Forbidden Planet Art Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-low-planet-can-look-alive-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="why-a-low-planet-can-look-alive-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer">Meteorologist Meteorology Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haze-planets-why-a-low-planet-can-look-alive-ifos-causes-of-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="haze-planets-why-a-low-planet-can-look-alive-ifos-causes-of-planet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planet poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: planet poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-low-planet-can-look-alive-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="why-a-low-planet-can-look-alive-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorology poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haze-planets-why-a-low-planet-can-look-alive-ifos-causes-of-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="haze-planets-why-a-low-planet-can-look-alive-ifos-causes-of-planet-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-low-planet-can-look-alive-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="why-a-low-planet-can-look-alive-meteorology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -526,15 +514,15 @@ The combination of low viewing angle, haze, atmospheric refraction and turbulenc
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haze-planets-why-a-low-planet-can-look-alive-ifos-causes-of-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="haze-planets-why-a-low-planet-can-look-alive-ifos-causes-of-planet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Forbidden Planet Minimal Movie Art Print |Film Poster | Canvas &amp; Framed 05"><img src="{{ '/assets/images/marketplace-covers/3b15cb9fbc658786f6e6.jpg' | relative_url }}" alt="Listing image for Forbidden Planet Minimal Movie Art Print |Film Poster | Canvas &amp; Framed 05" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-low-planet-can-look-alive-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="why-a-low-planet-can-look-alive-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Introverted Meteorology Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/rMsAAeSwWNVpwYJo/s-l225.jpg" alt="Listing image for Introverted Meteorology Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haze-planets-why-a-low-planet-can-look-alive-ifos-causes-of-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="haze-planets-why-a-low-planet-can-look-alive-ifos-causes-of-planet-poster" target="_blank" rel="sponsored noopener noreferrer">Forbidden Planet Minimal Movie Art Print |Film Poster | Canvas &amp; Framed 05</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-low-planet-can-look-alive-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="why-a-low-planet-can-look-alive-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer">Introverted Meteorology Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haze-planets-why-a-low-planet-can-look-alive-ifos-causes-of-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="haze-planets-why-a-low-planet-can-look-alive-ifos-causes-of-planet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planet poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: planet poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-low-planet-can-look-alive-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="why-a-low-planet-can-look-alive-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorology poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haze-planets-why-a-low-planet-can-look-alive-ifos-causes-of-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="haze-planets-why-a-low-planet-can-look-alive-ifos-causes-of-planet-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-low-planet-can-look-alive-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="why-a-low-planet-can-look-alive-meteorology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -542,15 +530,15 @@ The combination of low viewing angle, haze, atmospheric refraction and turbulenc
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haze-planets-why-a-low-planet-can-look-alive-ifos-causes-of-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="haze-planets-why-a-low-planet-can-look-alive-ifos-causes-of-planet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Home Wall Art Print - Vintage Space Poster - SOLAR SYSTEM PLANETS-A4,A3,A2,A1,A0"><img src="{{ '/assets/images/marketplace-covers/cf4bc993d604ad7867e5.jpg' | relative_url }}" alt="Listing image for Home Wall Art Print - Vintage Space Poster - SOLAR SYSTEM PLANETS-A4,A3,A2,A1,A0" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-low-planet-can-look-alive-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="why-a-low-planet-can-look-alive-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Like Meteorology Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/efYAAeSwEE5pwX0z/s-l225.jpg" alt="Listing image for I Like Meteorology Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haze-planets-why-a-low-planet-can-look-alive-ifos-causes-of-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="haze-planets-why-a-low-planet-can-look-alive-ifos-causes-of-planet-poster" target="_blank" rel="sponsored noopener noreferrer">Home Wall Art Print - Vintage Space Poster - SOLAR SYSTEM PLANETS-A4,A3,A2,A1,A0</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-low-planet-can-look-alive-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="why-a-low-planet-can-look-alive-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer">I Like Meteorology Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haze-planets-why-a-low-planet-can-look-alive-ifos-causes-of-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="haze-planets-why-a-low-planet-can-look-alive-ifos-causes-of-planet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planet poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: planet poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-low-planet-can-look-alive-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="why-a-low-planet-can-look-alive-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorology poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haze-planets-why-a-low-planet-can-look-alive-ifos-causes-of-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="haze-planets-why-a-low-planet-can-look-alive-ifos-causes-of-planet-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-low-planet-can-look-alive-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="why-a-low-planet-can-look-alive-meteorology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -558,15 +546,15 @@ The combination of low viewing angle, haze, atmospheric refraction and turbulenc
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haze-planets-why-a-low-planet-can-look-alive-ifos-causes-of-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="haze-planets-why-a-low-planet-can-look-alive-ifos-causes-of-planet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Planets Stars Solar System Giant Poster Print - A5 A4 A3 A2 A1 A0 Sizes"><img src="{{ '/assets/images/marketplace-covers/7ebab4eb6e7af8930e06.jpg' | relative_url }}" alt="Listing image for Space Planets Stars Solar System Giant Poster Print - A5 A4 A3 A2 A1 A0 Sizes" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-low-planet-can-look-alive-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="why-a-low-planet-can-look-alive-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Cloud Atlas Weather Chart Meteorology Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/mXoAAeSwCbZqFwat/s-l225.jpg" alt="Listing image for The Cloud Atlas Weather Chart Meteorology Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haze-planets-why-a-low-planet-can-look-alive-ifos-causes-of-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="haze-planets-why-a-low-planet-can-look-alive-ifos-causes-of-planet-poster" target="_blank" rel="sponsored noopener noreferrer">Space Planets Stars Solar System Giant Poster Print - A5 A4 A3 A2 A1 A0 Sizes</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-low-planet-can-look-alive-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="why-a-low-planet-can-look-alive-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer">The Cloud Atlas Weather Chart Meteorology Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haze-planets-why-a-low-planet-can-look-alive-ifos-causes-of-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="haze-planets-why-a-low-planet-can-look-alive-ifos-causes-of-planet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planet poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: planet poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-low-planet-can-look-alive-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="why-a-low-planet-can-look-alive-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorology poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haze-planets-why-a-low-planet-can-look-alive-ifos-causes-of-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="haze-planets-why-a-low-planet-can-look-alive-ifos-causes-of-planet-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-low-planet-can-look-alive-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="why-a-low-planet-can-look-alive-meteorology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -574,7 +562,7 @@ The combination of low viewing angle, haze, atmospheric refraction and turbulenc
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haze-planets-why-a-low-planet-can-look-alive-ifos-causes-of-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="haze-planets-why-a-low-planet-can-look-alive-ifos-causes-of-planet-poster" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-low-planet-can-look-alive-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="why-a-low-planet-can-look-alive-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -790,121 +778,121 @@ The combination of low viewing angle, haze, atmospheric refraction and turbulenc
 1. <a id="endnote-1"></a>
    Source: nightsky.jpl.nasa.gov  
    Title: Night Sky Network Identifying UFOs and UAPs  
-   Link: [https://nightsky.jpl.nasa.gov/news/39/](https://nightsky.jpl.nasa.gov/news/39/)  
+   Link: <a href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow">https://nightsky.jpl.nasa.gov/news/39/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Sirius](&amp;#123;&amp;#123; &#x27;sirius/&#x27; | relative_url &amp;#125;&amp;#125;) and Jupiter are also often reported as UFOs, as well as Mercury.Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: gml.noaa.gov  
-   Link: [https://gml.noaa.gov/grad/solcalc/glossary.html](https://gml.noaa.gov/grad/solcalc/glossary.html)  
+   Link: <a href="https://gml.noaa.gov/grad/solcalc/glossary.html" target="_blank" rel="noopener noreferrer nofollow">https://gml.noaa.gov/grad/solcalc/glossary.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NOAA Global Monitoring LaboratorySolar Calculator Glossary - Global Monitoring Laboratory- Due to atmospheric refraction, sunrise occurs...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: earthsky.org  
    Title: refraction distortion moon sun near horizon  
-   Link: [https://earthsky.org/astronomy-essentials/refraction-distortion-moon-sun-near-horizon/](https://earthsky.org/astronomy-essentials/refraction-distortion-moon-sun-near-horizon/)  
+   Link: <a href="https://earthsky.org/astronomy-essentials/refraction-distortion-moon-sun-near-horizon/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/astronomy-essentials/refraction-distortion-moon-sun-near-horizon/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>What makes oddly shaped suns and moons on the horizon?8 Apr 2025 — For objects with a small angular size – like stars – atmospheric refra...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Atmospheric_refraction](https://en.wikipedia.org/wiki/Atmospheric_refraction)  
+   Link: <a href="https://en.wikipedia.org/wiki/Atmospheric_refraction" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Atmospheric_refraction</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Atmospheric refractionAtmospheric refraction is the deviation of light or other electromagnetic wave from a straight line as it passes...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Twinkling](https://en.wikipedia.org/wiki/Twinkling)  
+   Link: <a href="https://en.wikipedia.org/wiki/Twinkling" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Twinkling</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 4, 2026 — Twinkling, also called scintillation, is a generic term for variations in apparent brightness, colour, or position of a d...</p></details>
    Published: March 4, 2026  
 
 6. <a id="endnote-6"></a>
    Source: repository.library.noaa.gov  
    Title: noaa 32474 DS1  
-   Link: [https://repository.library.noaa.gov/view/noaa/32474/noaa_32474_DS1.pdf](https://repository.library.noaa.gov/view/noaa/32474/noaa_32474_DS1.pdf)  
+   Link: <a href="https://repository.library.noaa.gov/view/noaa/32474/noaa_32474_DS1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repository.library.noaa.gov/view/noaa/32474/noaa_32474_DS1.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NOAA Institutional Repository^ 0Fc0 ^rEs o* W6by JH Churnside · 1989 · Cited by 27 — If the signal is averaged over a finite disk, such a...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: astropix.com  
    Title: Atmospheric Effects Scintillation  
-   Link: [https://www.astropix.com/books/GDPI/CHAPTER1/105.HTM](https://www.astropix.com/books/GDPI/CHAPTER1/105.HTM)  
+   Link: <a href="https://www.astropix.com/books/GDPI/CHAPTER1/105.HTM" target="_blank" rel="noopener noreferrer nofollow">https://www.astropix.com/books/GDPI/CHAPTER1/105.HTM</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Atmospheric EffectsScintillation - Scintillation causes rapid changes in brightness in the celestial object being viewed. This is why sta...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Horizon](https://en.wikipedia.org/wiki/Horizon)  
+   Link: <a href="https://en.wikipedia.org/wiki/Horizon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Horizon</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>HorizonRefraction can make distant objects seem higher or, less often, lower than they actually are. An unusually large refraction may...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: windowthroughtime.wordpress.com  
    Title: windowthroughtime Atmospheric scintillation  
-   Link: [https://windowthroughtime.wordpress.com/tag/atmospheric-scintillation/](https://windowthroughtime.wordpress.com/tag/atmospheric-scintillation/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>windowthroughtimeAtmospheric scintillation - windowthroughtime28 Aug 2023 — Stars near the horizon will appear to twinkle more than those...</p></details>
+   Link: <a href="https://windowthroughtime.wordpress.com/tag/atmospheric-scintillation/" target="_blank" rel="noopener noreferrer nofollow">https://windowthroughtime.wordpress.com/tag/atmospheric-scintillation/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Atmospheric scintillation - windowthroughtime28 Aug 2023 — Stars near the horizon will appear to twinkle more than those...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: britastro.org  
    Title: atmospheric refraction  
-   Link: [https://britastro.org/2019/atmospheric-refraction](https://britastro.org/2019/atmospheric-refraction)  
+   Link: <a href="https://britastro.org/2019/atmospheric-refraction" target="_blank" rel="noopener noreferrer nofollow">https://britastro.org/2019/atmospheric-refraction</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>British Astronomical AssociationAtmospheric RefractionMar 2, 2019 — This short tutorial looks at the some of the effects that the refract...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: cloudynights.com  
    Title: Cloudy Nights About the twinkling of stars  
-   Link: [https://www.cloudynights.com/forums/topic/764513-about-the-twinkling-of-stars/](https://www.cloudynights.com/forums/topic/764513-about-the-twinkling-of-stars/)  
+   Link: <a href="https://www.cloudynights.com/forums/topic/764513-about-the-twinkling-of-stars/" target="_blank" rel="noopener noreferrer nofollow">https://www.cloudynights.com/forums/topic/764513-about-the-twinkling-of-stars/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cloudy NightsAbout the twinkling of starsApril 3, 2021 — 3 Apr 2021 — Refractive dispersion is due to the fact that air bends blue light...</p></details>
    Published: April 3, 2021  
 
 12. <a id="endnote-12"></a>
    Source: bencraven.org.uk  
    Title: Atmospheric refraction  
-   Link: [https://bencraven.org.uk/tag/atmospheric-refraction/](https://bencraven.org.uk/tag/atmospheric-refraction/)  
+   Link: <a href="https://bencraven.org.uk/tag/atmospheric-refraction/" target="_blank" rel="noopener noreferrer nofollow">https://bencraven.org.uk/tag/atmospheric-refraction/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ben CravenThe reason that we can see them at all is that light travelling through the atmosphere is refracted by the air: its path is (us...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/askastronomy/comments/1fhig5z/a_flickering_object_in_the_northern_hemisphere/](https://www.reddit.com/r/askastronomy/comments/1fhig5z/a_flickering_object_in_the_northern_hemisphere/)  
+   Link: <a href="https://www.reddit.com/r/askastronomy/comments/1fhig5z/a_flickering_object_in_the_northern_hemisphere/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askastronomy/comments/1fhig5z/a_flickering_object_in_the_northern_hemisphere/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A “flickering” object in the northern hemisphere: r/askastronomyBright stars twinkle more, and stars near the horizon twinkle more. They...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: astroshop.eu  
-   Link: [https://www.astroshop.eu/magazine/practical-tips/peter-s-problem-solvers/colour-fringing-on-low-lying-planets/i%2C1484](https://www.astroshop.eu/magazine/practical-tips/peter-s-problem-solvers/colour-fringing-on-low-lying-planets/i%2C1484)  
+   Link: <a href="https://www.astroshop.eu/magazine/practical-tips/peter-s-problem-solvers/colour-fringing-on-low-lying-planets/i%2C1484" target="_blank" rel="noopener noreferrer nofollow">https://www.astroshop.eu/magazine/practical-tips/peter-s-problem-solvers/colour-fringing-on-low-lying-planets/i%2C1484</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Colour fringing on low-lying planetsColour fringing on planets is very common, even with expensive telescopes. The reason for this and th...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: esa.int  
-   Link: [https://www.esa.int/Science_Exploration/Space_Science/Envision/Top_five_Venus_mysteries_Envision_will_solve](https://www.esa.int/Science_Exploration/Space_Science/Envision/Top_five_Venus_mysteries_Envision_will_solve)  
+   Link: <a href="https://www.esa.int/Science_Exploration/Space_Science/Envision/Top_five_Venus_mysteries_Envision_will_solve" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/Science_Exploration/Space_Science/Envision/Top_five_Venus_mysteries_Envision_will_solve</a>  
 
 16. <a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/233775239_Using_stellar_scintillation_for_studies_of_turbulence_in_the_Earth%27s_atmosphere](https://www.researchgate.net/publication/233775239_Using_stellar_scintillation_for_studies_of_turbulence_in_the_Earth%27s_atmosphere)  
+   Link: <a href="https://www.researchgate.net/publication/233775239_Using_stellar_scintillation_for_studies_of_turbulence_in_the_Earth%27s_atmosphere" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/233775239_Using_stellar_scintillation_for_studies_of_turbulence_in_the_Earth%27s_atmosphere</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Using stellar scintillation for studies of turbulence in...9 Mar 2016 — Stellar scintillation observed through the Earth&#x27;s atmosph...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: warwick.ac.uk  
-   Link: [https://warwick.ac.uk/fac/sci/physics/research/astro/theses/seanobrien.msc.pdf](https://warwick.ac.uk/fac/sci/physics/research/astro/theses/seanobrien.msc.pdf)  
+   Link: <a href="https://warwick.ac.uk/fac/sci/physics/research/astro/theses/seanobrien.msc.pdf" target="_blank" rel="noopener noreferrer nofollow">https://warwick.ac.uk/fac/sci/physics/research/astro/theses/seanobrien.msc.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>rs) twinkle, while planets (wandering stars) do not: &#x27;The planets are...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/326916019733179/posts/625950963163015/](https://www.facebook.com/groups/326916019733179/posts/625950963163015/)  
+   Link: <a href="https://www.facebook.com/groups/326916019733179/posts/625950963163015/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/326916019733179/posts/625950963163015/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ens because starlight must pass through Earth&#x27;s turbulent atmosphere.Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: primitiveproton.com  
    Title: Few stars, such as Betelgeuse, Sirius, and Rigel  
-   Link: [https://primitiveproton.com/atmospheric-scintillation-why-stars-twinkle-and-planets-dont/](https://primitiveproton.com/atmospheric-scintillation-why-stars-twinkle-and-planets-dont/)  
+   Link: <a href="https://primitiveproton.com/atmospheric-scintillation-why-stars-twinkle-and-planets-dont/" target="_blank" rel="noopener noreferrer nofollow">https://primitiveproton.com/atmospheric-scintillation-why-stars-twinkle-and-planets-dont/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Primitive ProtonAtmospheric Scintillation: Why Stars Twinkle And Planets...It is an astronomical term for changes in stars&#x27; brightness o...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/AstroKirsten/posts/why-do-stars-twinkle-but-planets-dont-heres-whats-going-oneven-though-stars-are-/1343560821104506/](https://www.facebook.com/AstroKirsten/posts/why-do-stars-twinkle-but-planets-dont-heres-whats-going-oneven-though-stars-are-/1343560821104506/)  
+   Link: <a href="https://www.facebook.com/AstroKirsten/posts/why-do-stars-twinkle-but-planets-dont-heres-whats-going-oneven-though-stars-are-/1343560821104506/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AstroKirsten/posts/why-do-stars-twinkle-but-planets-dont-heres-whats-going-oneven-though-stars-are-/1343560821104506/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>e. Planets typically don&#x27;t twinkle as much as stars because they...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/849994733672039/posts/1020575039947340/](https://www.facebook.com/groups/849994733672039/posts/1020575039947340/)  
+   Link: <a href="https://www.facebook.com/groups/849994733672039/posts/1020575039947340/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/849994733672039/posts/1020575039947340/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In fact, climate modeling by NASA’s Goddard Institute for...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: archive.org  
-   Link: [https://archive.org/download/aliensinskies00unit/aliensinskies00unit.pdf](https://archive.org/download/aliensinskies00unit/aliensinskies00unit.pdf)  
+   Link: <a href="https://archive.org/download/aliensinskies00unit/aliensinskies00unit.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/aliensinskies00unit/aliensinskies00unit.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ing UFOs and that the subject is not worthy.Read more...</p></details>

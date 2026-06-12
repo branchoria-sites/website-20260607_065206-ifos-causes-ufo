@@ -50,22 +50,22 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_wind_data_33671a
 - ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - sensor-operators
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - sensor-operators
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Sensor operators may record real anomalies while still needing calibration, range data and cross-checks before identifying an object.
 hero_summary: Sensor operators may record real anomalies while still needing calibration, range data and cross-checks before identifying an object.
 layout: default
 permalink: /sensor-operators/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 nav_short_title: Sensor Operators
 title: When Sensors Need Human Context
-title_full: When Sensors Need Human Context | IFOs
+title_full: When Sensors Need Human Context
 display_title_short: Sensor Operators
 display_title: Sensor Operators
 heading_title: When Sensors Need Human Context
@@ -241,211 +241,211 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 parent_title: IFOs
-parent_permalink: /ifos-causes-of/
+parent_permalink: /ifos-causes-of-ufo-3-ed-238/
 parent_nav_short_title: IFOs
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 sibling_links:
 - basename: ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d
-  title: A Head On Aircraft Can Look Like A Stationary Light... | Ifos Causes Of
+  title: A Head On Aircraft Can Look Like A Stationary Light... | ifos causes of UFO 3 ed 238
   permalink: /a-head-on-aircraft-can-look-like-a/
   short_title: A Head On Aircraft Can Look Like A Stationary Light...
   heading_title: The Stationary Light That Is Moving
 - basename: ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261
-  title: AARO | Ifos Causes Of
+  title: AARO | ifos causes of UFO 3 ed 238
   permalink: /aaro/
   short_title: AARO
   heading_title: What Modern UAP Reviews Resolve
 - basename: ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253
-  title: Aircraft Lights | Ifos Causes Of
+  title: Aircraft Lights | ifos causes of UFO 3 ed 238
   permalink: /aircraft-lights/
   short_title: Aircraft Lights
   heading_title: Why Ordinary Aircraft Look So Strange
 - basename: ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043
-  title: Atmosphere | Ifos Causes Of
+  title: Atmosphere | ifos causes of UFO 3 ed 238
   permalink: /atmosphere/
   short_title: Atmosphere
   heading_title: When Weather Makes Shapes in the Sky
 - basename: ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057
-  title: Balloons | Ifos Causes Of
+  title: Balloons | ifos causes of UFO 3 ed 238
   permalink: /balloons/
   short_title: Balloons
   heading_title: Why Balloons Become Flying Saucers
 - basename: ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40
-  title: Birds | Ifos Causes Of
+  title: Birds | ifos causes of UFO 3 ed 238
   permalink: /birds/
   short_title: Birds
   heading_title: How Birds Become Fast UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81
-  title: Blue Book | Ifos Causes Of
+  title: Blue Book | ifos causes of UFO 3 ed 238
   permalink: /blue-book/
   short_title: Blue Book
   heading_title: What Blue Book Teaches About IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e
-  title: Contrails | Ifos Causes Of
+  title: Contrails | ifos causes of UFO 3 ed 238
   permalink: /contrails/
   short_title: Contrails
   heading_title: Why Jet Trails Glow Like UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c
-  title: Drones | Ifos Causes Of
+  title: Drones | ifos causes of UFO 3 ed 238
   permalink: /drones/
   short_title: Drones
   heading_title: When a Drone Becomes a UFO
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e
-  title: First Checks | Ifos Causes Of
+  title: First Checks | ifos causes of UFO 3 ed 238
   permalink: /first-checks/
   short_title: First Checks
   heading_title: What to Check Before Calling It a UFO
 - basename: ifos_-_causes_of_UFO_3ed238_military_flares_abb62f
-  title: Flares | Ifos Causes Of
+  title: Flares | ifos causes of UFO 3 ed 238
   permalink: /flares/
   short_title: Flares
   heading_title: Why Flares Look Like Hovering Craft
 - basename: ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590
-  title: Flight Tracking | Ifos Causes Of
+  title: Flight Tracking | ifos causes of UFO 3 ed 238
   permalink: /flight-tracking/
   short_title: Flight Tracking
   heading_title: How Flight Data Solves UFO Sightings
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965
-  title: Hoaxes | Ifos Causes Of
+  title: Hoaxes | ifos causes of UFO 3 ed 238
   permalink: /hoaxes/
   short_title: Hoaxes
   heading_title: When UFO Reports Are Manufactured
 - basename: ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f
-  title: Infrared | Ifos Causes Of
+  title: Infrared | ifos causes of UFO 3 ed 238
   permalink: /infrared/
   short_title: Infrared
   heading_title: Why Infrared UFO Videos Mislead
 - basename: ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74
-  title: Insects | Ifos Causes Of
+  title: Insects | ifos causes of UFO 3 ed 238
   permalink: /insects/
   short_title: Insects
   heading_title: The Tiny Things Cameras Make Huge
 - basename: ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5
-  title: Lanterns | Ifos Causes Of
+  title: Lanterns | ifos causes of UFO 3 ed 238
   permalink: /lanterns/
   short_title: Lanterns
   heading_title: The Orange Lights That Start UFO Reports
 - basename: ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e
-  title: Lens Flare | Ifos Causes Of
+  title: Lens Flare | ifos causes of UFO 3 ed 238
   permalink: /lens-flare/
   short_title: Lens Flare
   heading_title: When Cameras Invent Extra Lights
 - basename: ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28
-  title: Mass Sightings | Ifos Causes Of
+  title: Mass Sightings | ifos causes of UFO 3 ed 238
   permalink: /mass-sightings/
   short_title: Mass Sightings
   heading_title: Why Groups Can Share One Mistake
 - basename: ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504
-  title: Meteors | Ifos Causes Of
+  title: Meteors | ifos causes of UFO 3 ed 238
   permalink: /meteors/
   short_title: Meteors
   heading_title: When Fireballs Become UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca
-  title: Missing Data | Ifos Causes Of
+  title: Missing Data | ifos causes of UFO 3 ed 238
   permalink: /missing-data/
   short_title: Missing Data
   heading_title: Unsolved Does Not Always Mean Strange
 - basename: ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183
-  title: NASA Study | Ifos Causes Of
+  title: NASA Study | ifos causes of UFO 3 ed 238
   permalink: /nasa-study/
   short_title: NASA Study
   heading_title: Why Better UFO Data Matters
 - basename: ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b
-  title: Parallax | Ifos Causes Of
+  title: Parallax | ifos causes of UFO 3 ed 238
   permalink: /parallax/
   short_title: Parallax
   heading_title: The Speed Illusion in UFO Footage
 - basename: ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a
-  title: Pilots | Ifos Causes Of
+  title: Pilots | ifos causes of UFO 3 ed 238
   permalink: /pilots/
   short_title: Pilots
   heading_title: Why Pilots Can Misidentify UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357
-  title: Radar | Ifos Causes Of
+  title: Radar | ifos causes of UFO 3 ed 238
   permalink: /radar/
   short_title: Radar
   heading_title: When Radar Sees a UFO That Isnt There
 - basename: ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c
-  title: Reflections | Ifos Causes Of
+  title: Reflections | ifos causes of UFO 3 ed 238
   permalink: /reflections/
   short_title: Reflections
   heading_title: The UFO Inside the Glass
 - basename: ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132
-  title: Rocket Plumes | Ifos Causes Of
+  title: Rocket Plumes | ifos causes of UFO 3 ed 238
   permalink: /rocket-plumes/
   short_title: Rocket Plumes
   heading_title: The Strange Clouds Rockets Leave Behind
 - basename: ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b
-  title: Satellites | Ifos Causes Of
+  title: Satellites | ifos causes of UFO 3 ed 238
   permalink: /satellites/
   short_title: Satellites
   heading_title: Why Satellites Surprise Night Watchers
 - basename: ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1
-  title: Searchlights | Ifos Causes Of
+  title: Searchlights | ifos causes of UFO 3 ed 238
   permalink: /searchlights/
   short_title: Searchlights
   heading_title: How Searchlights Paint UFOs in Clouds
 - basename: ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391
-  title: Short Clips | Ifos Causes Of
+  title: Short Clips | ifos causes of UFO 3 ed 238
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: Why Short UFO Videos Are Hard to Trust
 - basename: ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f
-  title: Size Errors | Ifos Causes Of
+  title: Size Errors | ifos causes of UFO 3 ed 238
   permalink: /size-errors/
   short_title: Size Errors
   heading_title: Why Honest Witnesses Misjudge UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725
-  title: Sky Charts | Ifos Causes Of
+  title: Sky Charts | ifos causes of UFO 3 ed 238
   permalink: /sky-charts/
   short_title: Sky Charts
   heading_title: How to Check a UFO Against the Sky
 - basename: ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32
-  title: Stars | Ifos Causes Of
+  title: Stars | ifos causes of UFO 3 ed 238
   permalink: /stars/
   short_title: Stars
   heading_title: Why Stars Flash Like Machines
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb
-  title: Status Labels | Ifos Causes Of
+  title: Status Labels | ifos causes of UFO 3 ed 238
   permalink: /status-labels/
   short_title: Status Labels
   heading_title: UFO Does Not Mean Alien
 - basename: ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d
-  title: Strong Cases | Ifos Causes Of
+  title: Strong Cases | ifos causes of UFO 3 ed 238
   permalink: /strong-cases/
   short_title: Strong Cases
   heading_title: What Makes a UFO Report Harder to Explain
 - basename: ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948
-  title: UK Files | Ifos Causes Of
+  title: UK Files | ifos causes of UFO 3 ed 238
   permalink: /uk-files/
   short_title: UK Files
   heading_title: What the UK UFO Files Reveal
 - basename: ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06
-  title: Unresolved Cases | Ifos Causes Of
+  title: Unresolved Cases | ifos causes of UFO 3 ed 238
   permalink: /unresolved-cases/
   short_title: Unresolved Cases
   heading_title: Why Some UFO Cases Stay Open
 - basename: ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080
-  title: Venus | Ifos Causes Of
+  title: Venus | ifos causes of UFO 3 ed 238
   permalink: /venus/
   short_title: Venus
   heading_title: Is That UFO Really Venus?
 - basename: ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13
-  title: Weather Records | Ifos Causes Of
+  title: Weather Records | ifos causes of UFO 3 ed 238
   permalink: /weather-records/
   short_title: Weather Records
   heading_title: Weather Clues That Explain Strange Lights
 - basename: ifos_-_causes_of_UFO_3ed238_wind_data_33671a
-  title: Wind Data | Ifos Causes Of
+  title: Wind Data | ifos causes of UFO 3 ed 238
   permalink: /wind-data/
   short_title: Wind Data
   heading_title: Following a UFO With the Wind
@@ -478,21 +478,21 @@ child_links:
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 prev_link:
   basename: ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1
-  title: Searchlights | Ifos Causes Of
+  title: Searchlights | ifos causes of UFO 3 ed 238
   permalink: /searchlights/
   short_title: Searchlights
   heading_title: How Searchlights Paint UFOs in Clouds
 next_link:
   basename: ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391
-  title: Short Clips | Ifos Causes Of
+  title: Short Clips | ifos causes of UFO 3 ed 238
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: Why Short UFO Videos Are Hard to Trust
-date: '2026-06-07 05:19:30 '
+date: '2026-06-12 00:10:13 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b-overview-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b-overview.webp
@@ -502,7 +502,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b-overvi
 ## Introduction
 
 Sensor operators sit at an awkward boundary in UFO reporting: they may be recording something real, but the track alone may not contain enough information to identify what it is. A [radar]({{ 'radar/' | relative_url }}) return, [infrared]({{ 'infrared/' | relative_url }}) blob, targeting-pod lock or moving dot on a screen can represent an aircraft, balloon, bird, drone, satellite, weather effect or sensor artefact. It can also be a genuinely unresolved object. The difference often depends less on the operator’s sincerity than on calibration, range, metadata, environmental conditions and independent cross-checks.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b-overview.webp" | relative_url }}" alt="Overview image for Sensor Operators" loading="eager" decoding="sync" fetchpriority="high">
 This matters for IFOs because many reports begin as machine-supported mysteries. A sensor can make a sighting feel stronger than a naked-eye report, yet official reviews repeatedly show that technical records are not self-interpreting. NASA’s UAP study emphasised the need for multiple, well-[calibrated sensors]({{ 'sensor-artefacts/' | relative_url }}) and proper sensor metadata, while [AARO]({{ 'aaro/' | relative_url }})’s recent case work shows how apparent speed, splitting, wake effects or unusual motion can change when analysts reconstruct the sensor platform, viewing angle and surrounding traffic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
@@ -515,8 +514,6 @@ That distinction is central to official UAP analysis. The 2022 ODNI and AARO rep
 
 This is not an argument that operators are “just seeing glitches”. It is the opposite: serious investigation starts by treating the report as a meaningful observation and then asking what kind of observation it is. A radar target might be a physical object, an atmospheric propagation effect, a track-processing issue or clutter. An infrared object might be an aircraft at long range, a balloon, a bird, a drone, a sensor artefact or an object that remains unidentified. Without range, platform position, camera geometry, wind, timestamp, optical conditions and comparison data, the same few pixels can support several incompatible stories.
 
-
-<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b-Illustration-1-dark.svg" | relative_url }}" alt="Sensor Operators illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Operator perception: skilled people still work through interfaces
 
 Sensor operators and aircrew do not encounter the sky directly in the same way a person looking up from a garden does. They encounter an instrumented version of it. A radar scope, infrared display or targeting pod can compress three-dimensional motion into a two-dimensional presentation, highlight some features while suppressing others, and omit information that would be obvious from another angle.
@@ -527,9 +524,7 @@ The strongest official language tends to reflect this caution. AARO’s public i
 
 The same caution applies to unresolved cases. An unresolved sensor case is not automatically evidence of exotic technology. It may mean the available data are too short, too compressed, too poorly geolocated, too lacking in metadata or too isolated from other records. AARO’s 2024 annual report placed hundreds of cases into an active archive because they lacked sufficient data to facilitate analysis, while a smaller number merited further review by intelligence and science-and-technology partners. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ygB4EZ7ggig" title="Navy pilots recall “unsettling” 2004 UAP sighting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ygB4EZ7ggig" target="_blank" rel="noopener noreferrer">Navy pilots recall “unsettling” 2004 UAP sighting</a></p><p class="youtube-embed-meta">Channel: 60 Minutes &middot; Views: 1.4M &middot; Uploaded: May 2021 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ygB4EZ7ggig" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ygB4EZ7ggig">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b-Illustration-1-dark.svg" | relative_url }}" alt="Sensor Operators illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Calibration and range decide what the motion really means
 
 The most important hidden variable in many sensor-driven UFO reports is range. If a display shows an object moving across the field of view, the object’s apparent speed can look dramatic even when the physical object is slow or distant. To estimate real speed, analysts need to know where the sensor was, where it was pointed, how fast the sensor platform was moving, the range to the target and the timing between frames.
@@ -542,9 +537,6 @@ That matters because it shows how an IFO can emerge from honest sensor data. The
 
 Calibration is broader than range alone. NASA’s UAP independent study warned that current UAP data collection is hampered by sensor calibration challenges and a lack of sensor metadata, especially because many relevant instruments were not designed for scientific UAP study. The report recommended systematic data calibration, multiple measurements and thorough sensor metadata so future observations can be analysed as reliable datasets rather than isolated fragments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/t1xsXfKa1YY" title="Link Up (Spider-Verse Remix (Spider-Man: Across the Spider-Verse))" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=t1xsXfKa1YY" target="_blank" rel="noopener noreferrer">Link Up (Spider-Verse Remix (Spider-Man: Across the Spider-Verse))</a></p><p class="youtube-embed-meta">Channel: MetroBoominVEVO</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=t1xsXfKa1YY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=t1xsXfKa1YY">Open on YouTube</a></p></div></div></div>
-
 ## Radar can be powerful and misleading at the same time
 
 Radar has a special place in UFO history because it seems less subjective than witness testimony. A radar return feels like a machine fact: something reflected energy and appeared on a display. But radar is still vulnerable to propagation, clutter, filtering choices and the limits of the system’s intended mission.
@@ -554,7 +546,6 @@ The FAA’s Aeronautical Information Manual explains that radar waves can be ben
 This is especially relevant to historical IFOs. Many classic radar-visual cases were investigated before modern data archiving, multi-sensor fusion and routine digital retention. A radar operator might have seen a puzzling track, and the track might have been operationally important, but later investigators may lack raw radar data, weather profiles, equipment status, filter settings, aircraft transponder records or independent sensor confirmation. In that situation, the case can remain unresolved because the archive is incomplete, not because an extraordinary object has been established.
 
 Modern systems reduce some older problems but do not abolish ambiguity. Moving target indicators, beacon radar, secondary surveillance, ADS-B, multi-radar coverage and data fusion can all improve interpretation. Yet each system is built for a purpose. Air traffic control prioritises safety and separation; military sensors prioritise detection, tracking and threat assessment; scientific investigation requires calibrated, archived, shareable data. A display optimised for an operator’s immediate job may not preserve all the information a later UAP analyst needs.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b-Illustration-2-dark.svg" | relative_url }}" alt="Sensor Operators illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How cross-checks turn ambiguity into IFOs
@@ -576,8 +567,8 @@ The practical cross-checks are therefore straightforward in principle, even when
 
 A case becomes more valuable when these checks converge. It becomes weaker when the available evidence is limited to a short clip, a single display, a memory of a track or a screen recording stripped of metadata.
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ygB4EZ7ggig" title="Navy pilots recall “unsettling” 2004 UAP sighting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ygB4EZ7ggig" target="_blank" rel="noopener noreferrer">Navy pilots recall “unsettling” 2004 UAP sighting</a></p><p class="youtube-embed-meta">Channel: 60 Minutes &middot; Views: 1.4M &middot; Uploaded: May 2021 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ygB4EZ7ggig" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ygB4EZ7ggig">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b-Illustration-3-dark.svg" | relative_url }}" alt="Sensor Operators illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The strongest cases are not always the most dramatic clips
 
 Public attention often goes to striking videos, especially when the object seems to move quickly or the operator sounds surprised. But the best evidence for identification is usually less dramatic: a full data trail that allows analysts to test ordinary explanations. A slow, boring object with good metadata can be more scientifically useful than a sensational clip with no range or context.
@@ -588,9 +579,6 @@ This also explains why operator testimony and sensor records should not be treat
 
 For IFO analysis, that combined approach is essential. A report can begin with a trained operator seeing something unexpected on a high-end system and still end with a mundane identification. That outcome does not make the original report foolish. It means the reporting system worked: an ambiguity was captured, escalated, cross-checked and narrowed.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NV4SxybVEWc" title="LINK! (feat. RXTKY)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NV4SxybVEWc" target="_blank" rel="noopener noreferrer">LINK! (feat. RXTKY)</a></p><p class="youtube-embed-meta">Channel: Codet - Topic</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NV4SxybVEWc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NV4SxybVEWc">Open on YouTube</a></p></div></div></div>
-
 ## What ambiguous sensor data can and cannot prove
 
 Ambiguous tracking data can prove that something was detected or that a system produced a track. It can support a safety response, justify further investigation and reveal gaps in airspace awareness. It can also preserve real anomalies that deserve more analysis. What it cannot usually prove on its own is the nature of the object, especially when range, calibration and metadata are missing.
@@ -600,6 +588,8 @@ The most defensible reading is therefore cautious. A sensor-backed UFO report is
 For readers trying to understand IFOs, the key question is not “Was there a radar return?” or “Did an infrared sensor see it?” The better question is: what would be needed to turn that display into a reliable physical reconstruction? If the answer includes missing range data, uncertain platform position, unknown atmospheric conditions or no independent corroboration, the case may be genuinely interesting while still being too ambiguous to support an exotic conclusion.
 
 That is the central role of sensor operators in UFO reports. They often identify the anomaly first. But the path from anomaly to IFO runs through calibration, range, metadata and cross-checks. Without those, a sensor can faithfully record a puzzle while leaving the object itself unidentified.
+
+<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b-Illustration-3-dark.svg" | relative_url }}" alt="Sensor Operators illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -718,15 +708,15 @@ That is the central role of sensor operators in UFO reports. They often identify
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-operators-when-sensors-need-human-context-ifos-causes-of-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="sensor-operators-when-sensors-need-human-context-ifos-causes-of-rocket-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starship Rocket Model &amp; Stand - (SpaceX)"><img src="{{ '/assets/images/marketplace-covers/3f6e576effcce19f03d1.jpg' | relative_url }}" alt="Listing image for Starship Rocket Model &amp; Stand - (SpaceX)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-sensors-need-human-context-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="when-sensors-need-human-context-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Radar Optimum Home Entertainment Catalogue #4, Whiteout Fold Out Poster #W1370"><img src="https://i.ebayimg.com/images/g/5f8AAeSw-8pp78Gr/s-l225.jpg" alt="Listing image for Radar Optimum Home Entertainment Catalogue #4, Whiteout Fold Out Poster #W1370" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-operators-when-sensors-need-human-context-ifos-causes-of-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="sensor-operators-when-sensors-need-human-context-ifos-causes-of-rocket-model" target="_blank" rel="sponsored noopener noreferrer">Starship Rocket Model &amp; Stand - (SpaceX)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-sensors-need-human-context-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="when-sensors-need-human-context-radar-poster" target="_blank" rel="sponsored noopener noreferrer">Radar Optimum Home Entertainment Catalogue #4, Whiteout Fold Out Poster #W1370</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-operators-when-sensors-need-human-context-ifos-causes-of-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="sensor-operators-when-sensors-need-human-context-ifos-causes-of-rocket-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rocket model">Search <span data-ebay-domain-label>eBay.co.uk</span>: rocket model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-sensors-need-human-context-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="when-sensors-need-human-context-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: radar poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-operators-when-sensors-need-human-context-ifos-causes-of-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="sensor-operators-when-sensors-need-human-context-ifos-causes-of-rocket-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-sensors-need-human-context-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="when-sensors-need-human-context-radar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -734,15 +724,15 @@ That is the central role of sensor operators in UFO reports. They often identify
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-operators-when-sensors-need-human-context-ifos-causes-of-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="sensor-operators-when-sensors-need-human-context-ifos-causes-of-rocket-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Various Estes Model Rocket Accessories"><img src="{{ '/assets/images/marketplace-covers/cab04d84ca986b22e590.jpg' | relative_url }}" alt="Listing image for Various Estes Model Rocket Accessories" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-sensors-need-human-context-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="when-sensors-need-human-context-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Matt the Radar Technician Framed Ar Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/f2sAAeSwTFBp2SLl/s-l225.jpg" alt="Listing image for Matt the Radar Technician Framed Ar Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-operators-when-sensors-need-human-context-ifos-causes-of-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="sensor-operators-when-sensors-need-human-context-ifos-causes-of-rocket-model" target="_blank" rel="sponsored noopener noreferrer">Various Estes Model Rocket Accessories</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-sensors-need-human-context-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="when-sensors-need-human-context-radar-poster" target="_blank" rel="sponsored noopener noreferrer">Matt the Radar Technician Framed Ar Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-operators-when-sensors-need-human-context-ifos-causes-of-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="sensor-operators-when-sensors-need-human-context-ifos-causes-of-rocket-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rocket model">Search <span data-ebay-domain-label>eBay.co.uk</span>: rocket model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-sensors-need-human-context-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="when-sensors-need-human-context-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: radar poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-operators-when-sensors-need-human-context-ifos-causes-of-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="sensor-operators-when-sensors-need-human-context-ifos-causes-of-rocket-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-sensors-need-human-context-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="when-sensors-need-human-context-radar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -750,15 +740,15 @@ That is the central role of sensor operators in UFO reports. They often identify
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-operators-when-sensors-need-human-context-ifos-causes-of-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="sensor-operators-when-sensors-need-human-context-ifos-causes-of-rocket-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Saturn V Rocket Model Kit – Apollo NASA Space Rocket – Detailed Display Model"><img src="{{ '/assets/images/marketplace-covers/3ddd0595e99c9cd4703b.jpg' | relative_url }}" alt="Listing image for Saturn V Rocket Model Kit – Apollo NASA Space Rocket – Detailed Display Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-sensors-need-human-context-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="when-sensors-need-human-context-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aviation Flight Radar Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/C2YAAeSwY81pZjBD/s-l225.jpg" alt="Listing image for Aviation Flight Radar Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-operators-when-sensors-need-human-context-ifos-causes-of-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="sensor-operators-when-sensors-need-human-context-ifos-causes-of-rocket-model" target="_blank" rel="sponsored noopener noreferrer">Saturn V Rocket Model Kit – Apollo NASA Space Rocket – Detailed Display Model</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-sensors-need-human-context-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="when-sensors-need-human-context-radar-poster" target="_blank" rel="sponsored noopener noreferrer">Aviation Flight Radar Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-operators-when-sensors-need-human-context-ifos-causes-of-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="sensor-operators-when-sensors-need-human-context-ifos-causes-of-rocket-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rocket model">Search <span data-ebay-domain-label>eBay.co.uk</span>: rocket model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-sensors-need-human-context-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="when-sensors-need-human-context-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: radar poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-operators-when-sensors-need-human-context-ifos-causes-of-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="sensor-operators-when-sensors-need-human-context-ifos-causes-of-rocket-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-sensors-need-human-context-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="when-sensors-need-human-context-radar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -766,15 +756,15 @@ That is the central role of sensor operators in UFO reports. They often identify
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-operators-when-sensors-need-human-context-ifos-causes-of-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="sensor-operators-when-sensors-need-human-context-ifos-causes-of-rocket-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space X Starship V3 and Superheavy Booster Model Rocket Kit Various Scales"><img src="{{ '/assets/images/marketplace-covers/79b07f57da9073f0b12f.jpg' | relative_url }}" alt="Listing image for Space X Starship V3 and Superheavy Booster Model Rocket Kit Various Scales" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-sensors-need-human-context-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="when-sensors-need-human-context-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Radar Optimum Home Entertainment Catalogue #7, The Losers Fold Out Poster #W1094"><img src="https://i.ebayimg.com/images/g/lCYAAeSwutNpuG3q/s-l225.jpg" alt="Listing image for Radar Optimum Home Entertainment Catalogue #7, The Losers Fold Out Poster #W1094" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-operators-when-sensors-need-human-context-ifos-causes-of-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="sensor-operators-when-sensors-need-human-context-ifos-causes-of-rocket-model" target="_blank" rel="sponsored noopener noreferrer">Space X Starship V3 and Superheavy Booster Model Rocket Kit Various Scales</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-sensors-need-human-context-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="when-sensors-need-human-context-radar-poster" target="_blank" rel="sponsored noopener noreferrer">Radar Optimum Home Entertainment Catalogue #7, The Losers Fold Out Poster #W1094</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-operators-when-sensors-need-human-context-ifos-causes-of-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="sensor-operators-when-sensors-need-human-context-ifos-causes-of-rocket-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rocket model">Search <span data-ebay-domain-label>eBay.co.uk</span>: rocket model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-sensors-need-human-context-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="when-sensors-need-human-context-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: radar poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-operators-when-sensors-need-human-context-ifos-causes-of-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="sensor-operators-when-sensors-need-human-context-ifos-causes-of-rocket-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-sensors-need-human-context-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="when-sensors-need-human-context-radar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -782,7 +772,7 @@ That is the central role of sensor operators in UFO reports. They often identify
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-operators-when-sensors-need-human-context-ifos-causes-of-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="sensor-operators-when-sensors-need-human-context-ifos-causes-of-rocket-model" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-sensors-need-human-context-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="when-sensors-need-human-context-radar-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -997,164 +987,164 @@ That is the central role of sensor operators in UFO reports. They often identify
 
 1. <a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 2. <a id="endnote-2"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: dni.gov  
    Title: Director of National Intelligence  
-   Link: [https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf](https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf)  
+   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf</a>  
 
 4. <a id="endnote-4"></a>
    Source: aaro.mil  
    Title: Go Fast Case Resolution  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf](https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf</a>  
 
 5. <a id="endnote-5"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: [https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/](https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/)  
+   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
 
 6. <a id="endnote-6"></a>
    Source: faa.gov  
    Title: Federal Aviation Administration Section 5. Surveillance Systems  
-   Link: [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_5.html](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_5.html)  
+   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_5.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_5.html</a>  
 
 7. <a id="endnote-7"></a>
    Source: aaro.mil  
    Title: UAP Case Resolution Reports  
-   Link: [https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/](https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Case Resolution Reports...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: aaro.mil  
    Title: 2025 UAP Workshop Paper  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/2025_UAP_Workshop_Paper.pdf](https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/2025_UAP_Workshop_Paper.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/2025_UAP_Workshop_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/2025_UAP_Workshop_Paper.pdf</a>  
 
 9. <a id="endnote-9"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 10. <a id="endnote-10"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf</a>  
 
 11. <a id="endnote-11"></a>
    Source: aaro.mil  
    Title: UNCLASSIFIED FY23 Consolidated Annual Report on UAP Oct 25 2023 1236  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf](https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: [https://www.aaro.mil/UAP-Records/](https://www.aaro.mil/UAP-Records/)  
+   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
 13. <a id="endnote-13"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
 14. <a id="endnote-14"></a>
    Source: history.com  
    Title: uss [nimitz](&#123;&#123; 'nimitz/' | relative_url &#125;&#125;) 2004 tic tac ufo encounter  
-   Link: [https://www.history.com/articles/uss-nimitz-2004-tic-tac-ufo-encounter](https://www.history.com/articles/uss-nimitz-2004-tic-tac-ufo-encounter)  
+   Link: <a href="https://www.history.com/articles/uss-nimitz-2004-tic-tac-ufo-encounter" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/uss-nimitz-2004-tic-tac-ufo-encounter</a>  
 
 15. <a id="endnote-15"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 16. <a id="endnote-16"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: [https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/](https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
 17. <a id="endnote-17"></a>
    Source: forecast.weather.gov  
-   Link: [https://forecast.weather.gov/glossary.php?word=AP](https://forecast.weather.gov/glossary.php?word=AP)  
+   Link: <a href="https://forecast.weather.gov/glossary.php?word=AP" target="_blank" rel="noopener noreferrer nofollow">https://forecast.weather.gov/glossary.php?word=AP</a>  
 
 18. <a id="endnote-18"></a>
    Source: weather.com  
    Title: 2025 07 02 weather words ground clutter 2025  
-   Link: [https://weather.com/science/weather-explainers/news/2025-07-02-weather-words-ground-clutter-2025](https://weather.com/science/weather-explainers/news/2025-07-02-weather-words-ground-clutter-2025)  
+   Link: <a href="https://weather.com/science/weather-explainers/news/2025-07-02-weather-words-ground-clutter-2025" target="_blank" rel="noopener noreferrer nofollow">https://weather.com/science/weather-explainers/news/2025-07-02-weather-words-ground-clutter-2025</a>  
 
 19. <a id="endnote-19"></a>
    Source: media.defense.gov  
    Title: FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508  
-   Link: [https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF](https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
 
 20. <a id="endnote-20"></a>
    Source: Wikipedia  
    Title: Anomalous propagation  
-   Link: [https://en.wikipedia.org/wiki/Anomalous_propagation](https://en.wikipedia.org/wiki/Anomalous_propagation)  
+   Link: <a href="https://en.wikipedia.org/wiki/Anomalous_propagation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anomalous_propagation</a>  
 
 21. <a id="endnote-21"></a>
    Source: noaa.gov  
    Title: anomalous propagation  
-   Link: [https://www.noaa.gov/jetstream/anomalous-propagation](https://www.noaa.gov/jetstream/anomalous-propagation)  
+   Link: <a href="https://www.noaa.gov/jetstream/anomalous-propagation" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/jetstream/anomalous-propagation</a>  
 
 22. <a id="endnote-22"></a>
    Source: hstoday.us  
-   Link: [https://www.hstoday.us/subject-matter-areas/intelligence/director-of-national-intelligence-submits-annual-report-on-unidentified-aerial-phenomena/](https://www.hstoday.us/subject-matter-areas/intelligence/director-of-national-intelligence-submits-annual-report-on-unidentified-aerial-phenomena/)  
+   Link: <a href="https://www.hstoday.us/subject-matter-areas/intelligence/director-of-national-intelligence-submits-annual-report-on-unidentified-aerial-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.hstoday.us/subject-matter-areas/intelligence/director-of-national-intelligence-submits-annual-report-on-unidentified-aerial-phenomena/</a>  
 
 23. <a id="endnote-23"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/video/989430/pr-015-unresolved-uap-report-europe-2022](https://www.dvidshub.net/video/989430/pr-015-unresolved-uap-report-europe-2022)  
+   Link: <a href="https://www.dvidshub.net/video/989430/pr-015-unresolved-uap-report-europe-2022" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/989430/pr-015-unresolved-uap-report-europe-2022</a>  
 
 24. <a id="endnote-24"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/video/988676/pr-018-unresolved-uap-report-europe-2024](https://www.dvidshub.net/video/988676/pr-018-unresolved-uap-report-europe-2024)  
+   Link: <a href="https://www.dvidshub.net/video/988676/pr-018-unresolved-uap-report-europe-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/988676/pr-018-unresolved-uap-report-europe-2024</a>  
 
 ### Additional References
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: Expert panel on the challenges of analyzing military UAP tracking data  
-   Link: [https://www.youtube.com/watch?v=y25q1t-X3tQ](https://www.youtube.com/watch?v=y25q1t-X3tQ)  
+   Link: <a href="https://www.youtube.com/watch?v=y25q1t-X3tQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=y25q1t-X3tQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How AARO investigates ambiguous UAP sensor records...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
    Title: NASA's UAP Independent Study Team: Insights on Sensor Data  
-   Link: [https://www.youtube.com/watch?v=wX-y516Y8Lg](https://www.youtube.com/watch?v=wX-y516Y8Lg)  
+   Link: <a href="https://www.youtube.com/watch?v=wX-y516Y8Lg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wX-y516Y8Lg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why military sensor data is not proof of extraterrestrial origins...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
    Title: Why military sensor data is not proof of extraterrestrial origins  
-   Link: [https://www.youtube.com/watch?v=F0f-g44D45E](https://www.youtube.com/watch?v=F0f-g44D45E)  
+   Link: <a href="https://www.youtube.com/watch?v=F0f-g44D45E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F0f-g44D45E</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding sensor limitations in UAP detection...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
    Title: Understanding sensor limitations in UAP detection  
-   Link: [https://www.youtube.com/watch?v=GkP2Z4_x-Dk](https://www.youtube.com/watch?v=GkP2Z4_x-Dk)  
+   Link: <a href="https://www.youtube.com/watch?v=GkP2Z4_x-Dk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GkP2Z4_x-Dk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Expert panel on the challenges of analyzing military UAP tracking data...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: aui.edu  
-   Link: [https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/](https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/)  
+   Link: <a href="https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/</a>  
 
 31. <a id="endnote-31"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/](https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/</a>  
 
 32. <a id="endnote-32"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/353539589_Analysis_of_ODNI_Preliminary_Assessment_Unidentified_Aerial_Phenomena](https://www.researchgate.net/publication/353539589_Analysis_of_ODNI_Preliminary_Assessment_Unidentified_Aerial_Phenomena)  
+   Link: <a href="https://www.researchgate.net/publication/353539589_Analysis_of_ODNI_Preliminary_Assessment_Unidentified_Aerial_Phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/353539589_Analysis_of_ODNI_Preliminary_Assessment_Unidentified_Aerial_Phenomena</a>  
 
 33. <a id="endnote-33"></a>
    Source: quizlet.com  
-   Link: [https://quizlet.com/419475825/block-1-section-7-radar-flash-cards/](https://quizlet.com/419475825/block-1-section-7-radar-flash-cards/)  
+   Link: <a href="https://quizlet.com/419475825/block-1-section-7-radar-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/419475825/block-1-section-7-radar-flash-cards/</a>  
 
 34. <a id="endnote-34"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NWSJacksonville/posts/dyksometimes-the-radar-beam-detects-non-weather-related-objects-near-the-ground-/1225279422972979/](https://www.facebook.com/NWSJacksonville/posts/dyksometimes-the-radar-beam-detects-non-weather-related-objects-near-the-ground-/1225279422972979/)  
+   Link: <a href="https://www.facebook.com/NWSJacksonville/posts/dyksometimes-the-radar-beam-detects-non-weather-related-objects-near-the-ground-/1225279422972979/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NWSJacksonville/posts/dyksometimes-the-radar-beam-detects-non-weather-related-objects-near-the-ground-/1225279422972979/</a>

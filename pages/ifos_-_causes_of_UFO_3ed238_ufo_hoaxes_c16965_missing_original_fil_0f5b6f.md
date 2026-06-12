@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_roswell_slides_promo_a3fb30
 - ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_ufo_hoax_tactics_b1afe1
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - hoaxes
 - missing-files
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - hoaxes
 - missing-files
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: A UFO image carries far less weight when the original file, location, time and upload history cannot be checked.
 hero_summary: A UFO image carries far less weight when the original file, location, time and upload history cannot be checked.
 layout: default
 permalink: /missing-files/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /hoaxes/
 nav_short_title: Missing Files
 title: Why UFO Images Need Original Files
-title_full: Why UFO Images Need Original Files | Hoaxes
+title_full: Why UFO Images Need Original Files
 display_title_short: Missing Files
 display_title: Missing Files
 heading_title: Why UFO Images Need Original Files
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-07 00:22:10'
-parent_title: When UFO Reports Are Manufactured | IFOs
+parent_title: When UFO Reports Are Manufactured
 parent_permalink: /hoaxes/
 parent_nav_short_title: Hoaxes
 parent_heading_title: When UFO Reports Are Manufactured
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965
-  title: Hoaxes | Ifos Causes Of
+  title: Hoaxes | ifos causes of UFO 3 ed 238
   permalink: /hoaxes/
   short_title: Hoaxes
   heading_title: When UFO Reports Are Manufactured
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965
-  title: Hoaxes | Ifos Causes Of
+  title: Hoaxes | ifos causes of UFO 3 ed 238
   permalink: /hoaxes/
   short_title: Hoaxes
   heading_title: When UFO Reports Are Manufactured
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: How Promotion Inflated the Roswell Slides
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965
-  title: Hoaxes | Ifos Causes Of
+  title: Hoaxes | ifos causes of UFO 3 ed 238
   permalink: /hoaxes/
   short_title: Hoaxes
   heading_title: When UFO Reports Are Manufactured
@@ -266,6 +265,7 @@ next_link:
   permalink: /mj-12-papers/
   short_title: MJ 12 Papers
   heading_title: Can Leaked UFO Documents Be Trusted?
+date: '2026-06-12 00:18:38 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_missing_original_fil_0f5b6f-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_missing_original_fil_0f5b6f-Illustration-1.webp
@@ -274,15 +274,14 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_missing_orig
 
 ## Introduction
 
-Within the broader category of [UFO hoaxes]({{ 'hoaxes/' | relative_url }}) and deliberate fabrications, one warning sign appears again and again: the original photo or video is unavailable. Instead of a camera file, investigators are shown a screenshot, a heavily compressed repost, a cropped image, or a clip copied repeatedly across social media. That missing original does not automatically prove deception, but it removes many of the checks that allow an extraordinary claim to be tested. When the source file, recording circumstances, and ownership history cannot be verified, investigators lose the ability to determine whether an apparent UFO is an unknown object, a mundane misidentification, or a manufactured illusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ipaco.fr/page27.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ipaco.fr">[Ipaco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ipaco.fr</span><span class="citation-popover-title">Analysis methodology</span><span class="citation-popover-snippet">IpacoAnalysis methodology - IPACO.frThe IPACO software enables the analyst to determine, using metadata, whether a digital picture in JPE...</span></span></span>
-
+Within the broader category of [UFO hoaxes]({{ 'hoaxes/' | relative_url }}) and deliberate fabrications, one warning sign appears again and again: the original photo or video is unavailable. Instead of a camera file, investigators are shown a screenshot, a heavily compressed repost, a cropped image, or a clip copied repeatedly across social media. That missing original does not automatically prove deception, but it removes many of the checks that allow an extraordinary claim to be tested. When the source file, recording circumstances, and ownership history cannot be verified, investigators lose the ability to determine whether an apparent UFO is an unknown object, a mundane misidentification, or a manufactured illusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ipaco.fr/page27.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ipaco.fr">[Ipaco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ipaco.fr</span><span class="citation-popover-title">Analysis methodology</span><span class="citation-popover-snippet">Analysis methodology - IPACO.frThe IPACO software enables the analyst to determine, using metadata, whether a digital picture in JPE...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_missing_original_fil_0f5b6f-Illustration-1-dark.svg" | relative_url }}" alt="Missing Files illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_missing_original_fil_0f5b6f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_missing_original_fil_0f5b6f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For UFO evidence, provenance often matters as much as the image itself. A dramatic image with no verifiable origin can be less useful than an ordinary photograph whose time, location, camera and custody history are fully documented.
 
 ## Why Screenshots and Reposts Weaken UFO Evidence
 
-A digital photograph contains more information than what appears on the screen. The original file may preserve technical details about the camera, recording settings, creation date, editing history and file structure. Once an image is converted into a screenshot, uploaded to social media, or repeatedly copied, much of that information can disappear. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciepublish.com/article/pii/567" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciepublish.com">[SCIEPublish]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciepublish.com</span><span class="citation-popover-snippet">SCIEPublishForensic Value of Exif Data: An Analytical Evaluation...by N Soni · 2025 · Cited by 6 — This research adopts an empirical app...</span></span></span>
+A digital photograph contains more information than what appears on the screen. The original file may preserve technical details about the camera, recording settings, creation date, editing history and file structure. Once an image is converted into a screenshot, uploaded to social media, or repeatedly copied, much of that information can disappear. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciepublish.com/article/pii/567" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciepublish.com">[SCIEPublish]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciepublish.com</span><span class="citation-popover-snippet">Forensic Value of Exif Data: An Analytical Evaluation...by N Soni · 2025 · Cited by 6 — This research adopts an empirical app...</span></span></span>
 
 This creates several problems:
 
@@ -293,9 +292,6 @@ This creates several problems:
 * The chain linking the image to the alleged witness may be impossible to reconstruct. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popsci.com/use-photo-forensics-to-spot-faked-images/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popsci.com">[Popular Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popsci.com</span><span class="citation-popover-title">use photo forensics to spot faked images</span><span class="citation-popover-snippet">Google includes this function as part of its Images suite.Read more...</span></span></span>
 
 A common pattern in questionable UFO cases is that only a low-resolution copy survives. The original witness may be anonymous, unreachable, or said to have "lost" the original file. In such circumstances, investigators are asked to trust a claim without access to the evidence needed to test it.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oU0COkoF-Ek" title="Aliens or earthlings? What the UFO report by Pentagon said on mysterious sightings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oU0COkoF-Ek" target="_blank" rel="noopener noreferrer">Aliens or earthlings? What the UFO report by Pentagon said on mysterious sightings</a></p><p class="youtube-embed-meta">Channel: Hindustan Times</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oU0COkoF-Ek" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oU0COkoF-Ek">Open on YouTube</a></p></div></div></div>
 
 ## Metadata, Compression and Chain-of-Custody Checks
 
@@ -308,25 +304,22 @@ Modern cameras and smartphones often embed Exchangeable Image File Format (EXIF)
 * Exposure settings
 * GPS coordinates <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forensicosint.com/free-tools/image-metadata-analyzer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forensicosint.com">[forensicosint.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forensicosint.com</span><span class="citation-popover-snippet">Forensic Image EXIF Reader — GPS, XMP &amp; Metadata...Free online EXIF reader for JPEG, HEIC, TIFF, and RAW photos. Extract GPS coordinates...</span></span></span>
 * Software used to process the image
-* File creation and modification information <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scantips.com/lights/exif.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scantips.com">[Scantips]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scantips.com</span><span class="citation-popover-title">A Viewer for Camera Exif data</span><span class="citation-popover-snippet">ScantipsA Viewer for Camera Exif data - ExifToolEach camera image contains the Exif data which describes all the camera settings that too...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.canto.com/blog/photo-metadata/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canto.com">[canto]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canto.com</span><span class="citation-popover-title">photo metadata</span><span class="citation-popover-snippet">A complete guide to photo metadata10 Apr 2026 — Photo metadata stores hidden details like camera settings, GPS location, and copyright in...</span></span></span> Metadata is not perfect. It can be altered, stripped, or missing. Nevertheless, when present, it provides valuable clues about whether a file is likely to be original and whether its stated history is plausible. Researchers in digital forensics routinely use metadata as part of authenticity assessments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ipaco.fr/page27.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ipaco.fr">[Ipaco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ipaco.fr</span><span class="citation-popover-title">Analysis methodology</span><span class="citation-popover-snippet">IpacoAnalysis methodology - IPACO.frThe IPACO software enables the analyst to determine, using metadata, whether a digital picture in JPE...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciepublish.com/article/pii/567" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciepublish.com">[SCIEPublish]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciepublish.com</span><span class="citation-popover-snippet">SCIEPublishForensic Value of Exif Data: An Analytical Evaluation...by N Soni · 2025 · Cited by 6 — This research adopts an empirical app...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Oqbot_ethC8" title="We may not know if aliens exist, but UFOs still pose a national security risk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Oqbot_ethC8" target="_blank" rel="noopener noreferrer">We may not know if aliens exist, but UFOs still pose a national security risk</a></p><p class="youtube-embed-meta">Channel: PBS NewsHour</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Oqbot_ethC8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Oqbot_ethC8">Open on YouTube</a></p></div></div></div>
+* File creation and modification information <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scantips.com/lights/exif.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scantips.com">[Scantips]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scantips.com</span><span class="citation-popover-title">A Viewer for Camera Exif data</span><span class="citation-popover-snippet">A Viewer for Camera Exif data - ExifToolEach camera image contains the Exif data which describes all the camera settings that too...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.canto.com/blog/photo-metadata/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canto.com">[canto]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canto.com</span><span class="citation-popover-title">photo metadata</span><span class="citation-popover-snippet">A complete guide to photo metadata10 Apr 2026 — Photo metadata stores hidden details like camera settings, GPS location, and copyright in...</span></span></span> Metadata is not perfect. It can be altered, stripped, or missing. Nevertheless, when present, it provides valuable clues about whether a file is likely to be original and whether its stated history is plausible. Researchers in digital forensics routinely use metadata as part of authenticity assessments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ipaco.fr/page27.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ipaco.fr">[Ipaco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ipaco.fr</span><span class="citation-popover-title">Analysis methodology</span><span class="citation-popover-snippet">Analysis methodology - IPACO.frThe IPACO software enables the analyst to determine, using metadata, whether a digital picture in JPE...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciepublish.com/article/pii/567" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciepublish.com">[SCIEPublish]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciepublish.com</span><span class="citation-popover-snippet">Forensic Value of Exif Data: An Analytical Evaluation...by N Soni · 2025 · Cited by 6 — This research adopts an empirical app...</span></span></span>
 
 ### Why Compression Matters
 
-Many UFO images circulate through social media platforms that recompress uploaded files. Compression can blur details, alter noise patterns and remove embedded metadata. Studies of image-transfer methods show that metadata preservation varies substantially between platforms and transfer processes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciepublish.com/article/pii/567" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciepublish.com">[SCIEPublish]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciepublish.com</span><span class="citation-popover-snippet">SCIEPublishForensic Value of Exif Data: An Analytical Evaluation...by N Soni · 2025 · Cited by 6 — This research adopts an empirical app...</span></span></span>
+Many UFO images circulate through social media platforms that recompress uploaded files. Compression can blur details, alter noise patterns and remove embedded metadata. Studies of image-transfer methods show that metadata preservation varies substantially between platforms and transfer processes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciepublish.com/article/pii/567" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciepublish.com">[SCIEPublish]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciepublish.com</span><span class="citation-popover-snippet">Forensic Value of Exif Data: An Analytical Evaluation...by N Soni · 2025 · Cited by 6 — This research adopts an empirical app...</span></span></span>
 
 This means that an investigator examining a Facebook image, messaging-app attachment or reposted video may not be looking at the same file that was originally recorded. Important forensic indicators can disappear before analysis even begins.
 
+<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_missing_original_fil_0f5b6f-Illustration-2-dark.svg" | relative_url }}" alt="Missing Files illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_missing_original_fil_0f5b6f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_missing_original_fil_0f5b6f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The Importance of Chain of Custody
 
 In evidence-based investigations, chain of custody refers to the documented path taken by a piece of evidence from creation to examination. For a UFO photograph, useful questions include:
 
-
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
-* Who took the image? <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scantips.com/lights/exif.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scantips.com">[scantips.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scantips.com</span><span class="citation-popover-title">A Viewer for Camera Exif data</span><span class="citation-popover-snippet">ScantipsA Viewer for Camera Exif data - ExifToolEach camera image contains the Exif data which describes all the camera settings that too...</span></span></span>
+* Who took the image? <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scantips.com/lights/exif.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scantips.com">[scantips.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scantips.com</span><span class="citation-popover-title">A Viewer for Camera Exif data</span><span class="citation-popover-snippet">A Viewer for Camera Exif data - ExifToolEach camera image contains the Exif data which describes all the camera settings that too...</span></span></span>
 * Where was it first uploaded?
 * Is the original file available?
 * Has the file changed since capture?
@@ -334,10 +327,8 @@ In evidence-based investigations, chain of custody refers to the documented path
 
 </div>
 
-A clear chain of custody does not prove a UFO is extraordinary. However, the absence of such a chain greatly reduces confidence in any conclusions drawn from the image. This principle is widely used in digital forensics and image authentication work. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ipaco.fr/page27.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ipaco.fr">[Ipaco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ipaco.fr</span><span class="citation-popover-title">Analysis methodology</span><span class="citation-popover-snippet">IpacoAnalysis methodology - IPACO.frThe IPACO software enables the analyst to determine, using metadata, whether a digital picture in JPE...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2105.06361" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Forensic Analysis of Video Files Using Metadata</span><span class="citation-popover-snippet">arXiv Forensic Analysis of Video Files Using Metadata</span></span></span>
+A clear chain of custody does not prove a UFO is extraordinary. However, the absence of such a chain greatly reduces confidence in any conclusions drawn from the image. This principle is widely used in digital forensics and image authentication work. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ipaco.fr/page27.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ipaco.fr">[Ipaco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ipaco.fr</span><span class="citation-popover-title">Analysis methodology</span><span class="citation-popover-snippet">Analysis methodology - IPACO.frThe IPACO software enables the analyst to determine, using metadata, whether a digital picture in JPE...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2105.06361" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Forensic Analysis of Video Files Using Metadata</span><span class="citation-popover-snippet">arXiv Forensic Analysis of Video Files Using Metadata</span></span></span>
 
-
-<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_missing_original_fil_0f5b6f-Illustration-2-dark.svg" | relative_url }}" alt="Missing Files illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_missing_original_fil_0f5b6f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_missing_original_fil_0f5b6f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Missing Context Can Hide Ordinary Explanations
 
 Many apparent UFO photographs look compelling because crucial context has been removed.
@@ -346,25 +337,22 @@ A light in the sky may appear mysterious until investigators learn it was photog
 
 The problem is not merely the absence of information. [Missing context]({{ 'missing-context/' | relative_url }}) can actively distort interpretation. Viewers naturally fill gaps with assumptions, especially when an image is presented alongside dramatic claims.
 
-Investigators therefore prefer complete data sets: [original files]({{ 'original-files/' | relative_url }}), witness statements, location information, weather conditions, astronomical data and independent corroboration. Without those elements, a photograph often remains ambiguous regardless of how unusual it appears. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bufora.org.uk/sightings/analysis-of-ufo-photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bufora.org.uk">[BUFORA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bufora.org.uk</span><span class="citation-popover-snippet">BUFORAAnalysis of UFO PhotographsIt is generally accepted by researchers and investigators that around 95 to 98 percent of all UFO report...</span></span></span>
+Investigators therefore prefer complete data sets: [original files]({{ 'original-files/' | relative_url }}), witness statements, location information, weather conditions, astronomical data and independent corroboration. Without those elements, a photograph often remains ambiguous regardless of how unusual it appears. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bufora.org.uk/sightings/analysis-of-ufo-photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bufora.org.uk">[BUFORA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bufora.org.uk</span><span class="citation-popover-snippet">Analysis of UFO PhotographsIt is generally accepted by researchers and investigators that around 95 to 98 percent of all UFO report...</span></span></span>
 
+<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_missing_original_fil_0f5b6f-Illustration-3-dark.svg" | relative_url }}" alt="Missing Files illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_missing_original_fil_0f5b6f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_missing_original_fil_0f5b6f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Case Lessons from UFO Investigations
 
 Historical UFO investigations repeatedly demonstrate how access to originals affects credibility.
 
-Some official and scientific reviews have explicitly noted situations in which original photographs were unavailable, limiting the ability to evaluate claims. A declassified CIA photo-analysis document discussing UFO photography acknowledged that original prints were not available for examination in one case, reducing the certainty of the assessment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cia.gov/readingroom/docs/DOC_0005516068.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">CIAPHOTO ANALYSIS OF UFO PHOTOGRAPHYThe original photography was taken with a Polaroid: Swinger having an approximate 2&quot;x3&quot; image format...</span></span></span>
+Some official and scientific reviews have explicitly noted situations in which original photographs were unavailable, limiting the ability to evaluate claims. A declassified CIA photo-analysis document discussing UFO photography acknowledged that original prints were not available for examination in one case, reducing the certainty of the assessment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cia.gov/readingroom/docs/DOC_0005516068.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">PHOTO ANALYSIS OF UFO PHOTOGRAPHYThe original photography was taken with a Polaroid: Swinger having an approximate 2&quot;x3&quot; image format...</span></span></span>
 
 The broader history of UFO research contains many examples in which images initially presented as mysterious later proved to involve models, photographic tricks or ordinary objects once higher-quality originals became available. The U.S. National Archives even preserves examples of deliberately fabricated UFO photographs used in scientific studies, including suspended models and optically manipulated images created to demonstrate how easily photographic evidence can mislead. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/topics/uaps/photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and...November 12, 2024 — 24 Apr 2025 — Physically fabricated UFO...</span><span class="citation-popover-meta">Published: November 12, 2024</span></span></span>
 
 The contrast is instructive. When investigators gain access to original material, they can often test claims rigorously. When originals are missing, speculation tends to replace analysis.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZA0FjhkyHEc" title="I Can&#x27;t Believe These UFO Sightings Are Real" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZA0FjhkyHEc" target="_blank" rel="noopener noreferrer">I Can&#x27;t Believe These UFO Sightings Are Real</a></p><p class="youtube-embed-meta">Channel: Caspersight</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZA0FjhkyHEc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZA0FjhkyHEc">Open on YouTube</a></p></div></div></div>
-
 ## Practical Questions to Ask About Any UFO Image
 
 Before treating a UFO photo or video as strong evidence, several questions are worth asking:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -380,13 +368,11 @@ Before treating a UFO photo or video as strong evidence, several questions are w
 
 A convincing answer to these questions does not prove an image shows something extraordinary. However, the inability to answer them usually means the evidential value of the image is limited.
 
-
-<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_missing_original_fil_0f5b6f-Illustration-3-dark.svg" | relative_url }}" alt="Missing Files illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_missing_original_fil_0f5b6f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965_missing_original_fil_0f5b6f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Missing Files Matter More Than Dramatic Visuals
 
 The most persuasive UFO photographs are not necessarily the most spectacular-looking. They are the ones that can be examined, traced and tested. An extraordinary image stripped of its original file, metadata and recording history may generate attention, but it rarely generates reliable conclusions.
 
-For that reason, investigators often treat missing originals as a significant evidential weakness. In the study of UFO reports, a photograph separated from its source file and surrounding context is not simply incomplete evidence; it may be evidence that can no longer be meaningfully verified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ipaco.fr/page27.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ipaco.fr">[Ipaco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ipaco.fr</span><span class="citation-popover-title">Analysis methodology</span><span class="citation-popover-snippet">IpacoAnalysis methodology - IPACO.frThe IPACO software enables the analyst to determine, using metadata, whether a digital picture in JPE...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciepublish.com/article/pii/567" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciepublish.com">[SCIEPublish]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciepublish.com</span><span class="citation-popover-snippet">SCIEPublishForensic Value of Exif Data: An Analytical Evaluation...by N Soni · 2025 · Cited by 6 — This research adopts an empirical app...</span></span></span>
+For that reason, investigators often treat missing originals as a significant evidential weakness. In the study of UFO reports, a photograph separated from its source file and surrounding context is not simply incomplete evidence; it may be evidence that can no longer be meaningfully verified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ipaco.fr/page27.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ipaco.fr">[Ipaco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ipaco.fr</span><span class="citation-popover-title">Analysis methodology</span><span class="citation-popover-snippet">Analysis methodology - IPACO.frThe IPACO software enables the analyst to determine, using metadata, whether a digital picture in JPE...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciepublish.com/article/pii/567" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciepublish.com">[SCIEPublish]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciepublish.com</span><span class="citation-popover-snippet">Forensic Value of Exif Data: An Analytical Evaluation...by N Soni · 2025 · Cited by 6 — This research adopts an empirical app...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -505,15 +491,15 @@ For that reason, investigators often treat missing originals as a significant ev
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-why-ufo-images-need-original-files-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="missing-files-why-ufo-images-need-original-files-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO 1982 Tour Programme Book With Poster"><img src="{{ '/assets/images/marketplace-covers/9c0ed3d28411d7c56755.jpg' | relative_url }}" alt="Listing image for UFO 1982 Tour Programme Book With Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-images-need-original-files-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="why-ufo-images-need-original-files-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SanDisk Ultra SD Memory Card 16GB 32GB 64GB 128GB 256GB SDHC Class 10 Cameras"><img src="https://i.ebayimg.com/images/g/js4AAeSwx81qHDZR/s-l225.jpg" alt="Listing image for SanDisk Ultra SD Memory Card 16GB 32GB 64GB 128GB 256GB SDHC Class 10 Cameras" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-why-ufo-images-need-original-files-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="missing-files-why-ufo-images-need-original-files-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO 1982 Tour Programme Book With Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-images-need-original-files-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="why-ufo-images-need-original-files-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer">SanDisk Ultra SD Memory Card 16GB 32GB 64GB 128GB 256GB SDHC Class 10 Cameras</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-why-ufo-images-need-original-files-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="missing-files-why-ufo-images-need-original-files-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-images-need-original-files-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="why-ufo-images-need-original-files-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera memory card">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera memory card</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-why-ufo-images-need-original-files-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="missing-files-why-ufo-images-need-original-files-ifos-causes-of-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-images-need-original-files-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="why-ufo-images-need-original-files-camera-memory-card" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -521,15 +507,15 @@ For that reason, investigators often treat missing originals as a significant ev
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-why-ufo-images-need-original-files-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="missing-files-why-ufo-images-need-original-files-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-images-need-original-files-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="why-ufo-images-need-original-files-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SanDisk SD Card Ultra Memory Ultra / Extreme Pro 16GB 32GB 64GB 128GB for Camera"><img src="https://i.ebayimg.com/images/g/6r0AAOSwq-BjdC-1/s-l225.jpg" alt="Listing image for SanDisk SD Card Ultra Memory Ultra / Extreme Pro 16GB 32GB 64GB 128GB for Camera" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-why-ufo-images-need-original-files-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="missing-files-why-ufo-images-need-original-files-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-images-need-original-files-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="why-ufo-images-need-original-files-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer">SanDisk SD Card Ultra Memory Ultra / Extreme Pro 16GB 32GB 64GB 128GB for Camera</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-why-ufo-images-need-original-files-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="missing-files-why-ufo-images-need-original-files-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-images-need-original-files-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="why-ufo-images-need-original-files-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera memory card">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera memory card</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-why-ufo-images-need-original-files-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="missing-files-why-ufo-images-need-original-files-ifos-causes-of-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-images-need-original-files-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="why-ufo-images-need-original-files-camera-memory-card" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -537,15 +523,15 @@ For that reason, investigators often treat missing originals as a significant ev
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-why-ufo-images-need-original-files-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="missing-files-why-ufo-images-need-original-files-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-images-need-original-files-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="why-ufo-images-need-original-files-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 💚128GB Micro SD Card Memory Card Class 10 A2 fr Camera Phones SD Card &amp; Adapter"><img src="https://i.ebayimg.com/images/g/EQMAAeSwUv5qAamo/s-l225.jpg" alt="Listing image for 💚128GB Micro SD Card Memory Card Class 10 A2 fr Camera Phones SD Card &amp; Adapter" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-why-ufo-images-need-original-files-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="missing-files-why-ufo-images-need-original-files-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-images-need-original-files-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="why-ufo-images-need-original-files-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer">💚128GB Micro SD Card Memory Card Class 10 A2 fr Camera Phones SD Card &amp; Adapter</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-why-ufo-images-need-original-files-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="missing-files-why-ufo-images-need-original-files-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-images-need-original-files-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="why-ufo-images-need-original-files-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera memory card">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera memory card</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-why-ufo-images-need-original-files-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="missing-files-why-ufo-images-need-original-files-ifos-causes-of-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-images-need-original-files-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="why-ufo-images-need-original-files-camera-memory-card" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -553,15 +539,15 @@ For that reason, investigators often treat missing originals as a significant ev
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-why-ufo-images-need-original-files-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="missing-files-why-ufo-images-need-original-files-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA"><img src="{{ '/assets/images/marketplace-covers/d1a9ede89dec7aff09e9.jpg' | relative_url }}" alt="Listing image for UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-images-need-original-files-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="why-ufo-images-need-original-files-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SanDisk Ultra SD Memory Card 16GB 32GB 64GB 128GB SDHC Class 10 Cameras UK"><img src="https://i.ebayimg.com/images/g/jqEAAeSwFnFqIUQU/s-l225.jpg" alt="Listing image for SanDisk Ultra SD Memory Card 16GB 32GB 64GB 128GB SDHC Class 10 Cameras UK" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-why-ufo-images-need-original-files-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="missing-files-why-ufo-images-need-original-files-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-images-need-original-files-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="why-ufo-images-need-original-files-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer">SanDisk Ultra SD Memory Card 16GB 32GB 64GB 128GB SDHC Class 10 Cameras UK</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-why-ufo-images-need-original-files-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="missing-files-why-ufo-images-need-original-files-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-images-need-original-files-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="why-ufo-images-need-original-files-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera memory card">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera memory card</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-why-ufo-images-need-original-files-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="missing-files-why-ufo-images-need-original-files-ifos-causes-of-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-images-need-original-files-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="why-ufo-images-need-original-files-camera-memory-card" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -569,7 +555,7 @@ For that reason, investigators often treat missing originals as a significant ev
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-why-ufo-images-need-original-files-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="missing-files-why-ufo-images-need-original-files-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-images-need-original-files-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="why-ufo-images-need-original-files-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -785,129 +771,129 @@ For that reason, investigators often treat missing originals as a significant ev
 1. <a id="endnote-1"></a>
    Source: ipaco.fr  
    Title: Analysis methodology  
-   Link: [https://www.ipaco.fr/page27.html](https://www.ipaco.fr/page27.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IpacoAnalysis methodology - IPACO.frThe IPACO software enables the analyst to determine, using metadata, whether a digital picture in JPE...</p></details>
+   Link: <a href="https://www.ipaco.fr/page27.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ipaco.fr/page27.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis methodology - IPACO.frThe IPACO software enables the analyst to determine, using metadata, whether a digital picture in JPE...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: scantips.com  
    Title: A Viewer for Camera Exif data  
-   Link: [https://www.scantips.com/lights/exif.html](https://www.scantips.com/lights/exif.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScantipsA Viewer for Camera Exif data - ExifToolEach camera image contains the Exif data which describes all the camera settings that too...</p></details>
+   Link: <a href="https://www.scantips.com/lights/exif.html" target="_blank" rel="noopener noreferrer nofollow">https://www.scantips.com/lights/exif.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Viewer for Camera Exif data - ExifToolEach camera image contains the Exif data which describes all the camera settings that too...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: sciepublish.com  
-   Link: [https://www.sciepublish.com/article/pii/567](https://www.sciepublish.com/article/pii/567)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SCIEPublishForensic Value of Exif Data: An Analytical Evaluation...by N Soni · 2025 · Cited by 6 — This research adopts an empirical app...</p></details>
+   Link: <a href="https://www.sciepublish.com/article/pii/567" target="_blank" rel="noopener noreferrer nofollow">https://www.sciepublish.com/article/pii/567</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic Value of Exif Data: An Analytical Evaluation...by N Soni · 2025 · Cited by 6 — This research adopts an empirical app...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: canto.com  
    Title: photo metadata  
-   Link: [https://www.canto.com/blog/photo-metadata/](https://www.canto.com/blog/photo-metadata/)  
+   Link: <a href="https://www.canto.com/blog/photo-metadata/" target="_blank" rel="noopener noreferrer nofollow">https://www.canto.com/blog/photo-metadata/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A complete guide to photo metadata10 Apr 2026 — Photo metadata stores hidden details like camera settings, GPS location, and copyright in...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
    Title: arXiv Forensic Analysis of Video Files Using Metadata  
-   Link: [https://arxiv.org/abs/2105.06361](https://arxiv.org/abs/2105.06361)  
+   Link: <a href="https://arxiv.org/abs/2105.06361" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2105.06361</a>  
 
 6. <a id="endnote-6"></a>
    Source: bufora.org.uk  
-   Link: [https://www.bufora.org.uk/sightings/analysis-of-ufo-photographs](https://www.bufora.org.uk/sightings/analysis-of-ufo-photographs)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BUFORAAnalysis of UFO PhotographsIt is generally accepted by researchers and investigators that around 95 to 98 percent of all UFO report...</p></details>
+   Link: <a href="https://www.bufora.org.uk/sightings/analysis-of-ufo-photographs" target="_blank" rel="noopener noreferrer nofollow">https://www.bufora.org.uk/sightings/analysis-of-ufo-photographs</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of UFO PhotographsIt is generally accepted by researchers and investigators that around 95 to 98 percent of all UFO report...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/DOC_0005516068.pdf](https://www.cia.gov/readingroom/docs/DOC_0005516068.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CIAPHOTO ANALYSIS OF UFO PHOTOGRAPHYThe original photography was taken with a Polaroid: Swinger having an approximate 2&quot;x3&quot; image format...</p></details>
+   Link: <a href="https://www.cia.gov/readingroom/docs/DOC_0005516068.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0005516068.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>PHOTO ANALYSIS OF UFO PHOTOGRAPHYThe original photography was taken with a Polaroid: Swinger having an approximate 2&quot;x3&quot; image format...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/photographs](https://www.archives.gov/research/topics/uaps/photographs)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/photographs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/photographs</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and...November 12, 2024 — 24 Apr 2025 — Physically fabricated UFO...</p></details>
    Published: November 12, 2024  
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/CelestialInsights/posts/claims-regarding-alleged-extraterrestrial-remains-and-recovered-unidentified-obj/1003832229232589/](https://www.facebook.com/CelestialInsights/posts/claims-regarding-alleged-extraterrestrial-remains-and-recovered-unidentified-obj/1003832229232589/)  
+   Link: <a href="https://www.facebook.com/CelestialInsights/posts/claims-regarding-alleged-extraterrestrial-remains-and-recovered-unidentified-obj/1003832229232589/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CelestialInsights/posts/claims-regarding-alleged-extraterrestrial-remains-and-recovered-unidentified-obj/1003832229232589/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>go) tampering, aliens at tech tests, and secret metal samples...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WCAXTV/posts/watch-the-pentagon-released-the-first-batch-of-never-before-seen-ufo-files-and-m/1413692967453118/](https://www.facebook.com/WCAXTV/posts/watch-the-pentagon-released-the-first-batch-of-never-before-seen-ufo-files-and-m/1413692967453118/)  
+   Link: <a href="https://www.facebook.com/WCAXTV/posts/watch-the-pentagon-released-the-first-batch-of-never-before-seen-ufo-files-and-m/1413692967453118/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WCAXTV/posts/watch-the-pentagon-released-the-first-batch-of-never-before-seen-ufo-files-and-m/1413692967453118/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>WATCH: The Pentagon released the first batch of &quot;never...Trump Orders Pentagon to Start Releasing &#x27;Alien/UFO&#x27; Files — But Watch the Timi...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/koco5/posts/for-informational-purposes-only-the-pentagon-released-its-second-set-of-ufo-file/1417937787030296/](https://www.facebook.com/koco5/posts/for-informational-purposes-only-the-pentagon-released-its-second-set-of-ufo-file/1417937787030296/)  
+   Link: <a href="https://www.facebook.com/koco5/posts/for-informational-purposes-only-the-pentagon-released-its-second-set-of-ufo-file/1417937787030296/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/koco5/posts/for-informational-purposes-only-the-pentagon-released-its-second-set-of-ufo-file/1417937787030296/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>n Hides 23-Minute UFO Video &amp; UFO Photo 50 Feet From Cockpit...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NewsNationNow/posts/the-second-drop-contains-over-40-videos-requested-by-lawmakers-along-with-a-few-/1004849915255359/](https://www.facebook.com/NewsNationNow/posts/the-second-drop-contains-over-40-videos-requested-by-lawmakers-along-with-a-few-/1004849915255359/)  
+   Link: <a href="https://www.facebook.com/NewsNationNow/posts/the-second-drop-contains-over-40-videos-requested-by-lawmakers-along-with-a-few-/1004849915255359/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/the-second-drop-contains-over-40-videos-requested-by-lawmakers-along-with-a-few-/1004849915255359/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>s &#x27;PENTAGON BEGINS RELEASE OF UFO FILES CREDIT. Dave Burns and 65...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1295673443855365/posts/26668027052859988/](https://www.facebook.com/groups/1295673443855365/posts/26668027052859988/)  
+   Link: <a href="https://www.facebook.com/groups/1295673443855365/posts/26668027052859988/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1295673443855365/posts/26668027052859988/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>l Fake or AI‑generated images...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: popsci.com  
    Title: use photo forensics to spot faked images  
-   Link: [https://www.popsci.com/use-photo-forensics-to-spot-faked-images/](https://www.popsci.com/use-photo-forensics-to-spot-faked-images/)  
+   Link: <a href="https://www.popsci.com/use-photo-forensics-to-spot-faked-images/" target="_blank" rel="noopener noreferrer nofollow">https://www.popsci.com/use-photo-forensics-to-spot-faked-images/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Google includes this function as part of its Images suite.Read more...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/392920789_Forensic_Value_of_Exif_Data_An_Analytical_Evaluation_of_Metadata_Integrity_across_Image_Transfer_Methods](https://www.researchgate.net/publication/392920789_Forensic_Value_of_Exif_Data_An_Analytical_Evaluation_of_Metadata_Integrity_across_Image_Transfer_Methods)  
+   Link: <a href="https://www.researchgate.net/publication/392920789_Forensic_Value_of_Exif_Data_An_Analytical_Evaluation_of_Metadata_Integrity_across_Image_Transfer_Methods" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/392920789_Forensic_Value_of_Exif_Data_An_Analytical_Evaluation_of_Metadata_Integrity_across_Image_Transfer_Methods</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Forensic Value of Exif Data: An Analytical Evaluation...11 Aug 2025 — This study investigates the extraction and analysis of metad...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: forensicosint.com  
-   Link: [https://www.forensicosint.com/free-tools/image-metadata-analyzer](https://www.forensicosint.com/free-tools/image-metadata-analyzer)  
+   Link: <a href="https://www.forensicosint.com/free-tools/image-metadata-analyzer" target="_blank" rel="noopener noreferrer nofollow">https://www.forensicosint.com/free-tools/image-metadata-analyzer</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic Image EXIF Reader — GPS, XMP &amp; Metadata...Free online EXIF reader for JPEG, HEIC, TIFF, and RAW photos. Extract GPS coordinates...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: skeptic.com  
-   Link: [https://www.skeptic.com/article/ufo-files-reveal-the-same-old-material/](https://www.skeptic.com/article/ufo-files-reveal-the-same-old-material/)  
+   Link: <a href="https://www.skeptic.com/article/ufo-files-reveal-the-same-old-material/" target="_blank" rel="noopener noreferrer nofollow">https://www.skeptic.com/article/ufo-files-reveal-the-same-old-material/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Files Reveal … the Same Old Material4 days ago — New preliminary US government analysis suggests the image feature is potentially the...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: johnantell.co.uk  
-   Link: [https://www.johnantell.co.uk/show-exif-datetime-metadata](https://www.johnantell.co.uk/show-exif-datetime-metadata)  
+   Link: <a href="https://www.johnantell.co.uk/show-exif-datetime-metadata" target="_blank" rel="noopener noreferrer nofollow">https://www.johnantell.co.uk/show-exif-datetime-metadata</a>  
 
 19. <a id="endnote-19"></a>
    Source: cbsaustin.com  
-   Link: [https://cbsaustin.com/news/nation-world/fact-check-team-pentagon-releases-new-ufo-files-but-no-evidence-of-aliens-found-extraterrestrial-military-space-nasa-particles-declassified-mars](https://cbsaustin.com/news/nation-world/fact-check-team-pentagon-releases-new-ufo-files-but-no-evidence-of-aliens-found-extraterrestrial-military-space-nasa-particles-declassified-mars)  
+   Link: <a href="https://cbsaustin.com/news/nation-world/fact-check-team-pentagon-releases-new-ufo-files-but-no-evidence-of-aliens-found-extraterrestrial-military-space-nasa-particles-declassified-mars" target="_blank" rel="noopener noreferrer nofollow">https://cbsaustin.com/news/nation-world/fact-check-team-pentagon-releases-new-ufo-files-but-no-evidence-of-aliens-found-extraterrestrial-military-space-nasa-particles-declassified-mars</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fact Check Team: Pentagon releases new UFO files, but...29 May 2026 — Fact Check Team: Pentagon releases new UFO files, but no evidence...</p></details>
    Published: May 2026  
 
 20. <a id="endnote-20"></a>
    Source: pbs.org  
-   Link: [https://www.pbs.org/newshour/nation/pentagon-begins-releasing-new-files-on-ufos-and-says-people-can-make-up-their-own-minds](https://www.pbs.org/newshour/nation/pentagon-begins-releasing-new-files-on-ufos-and-says-people-can-make-up-their-own-minds)  
+   Link: <a href="https://www.pbs.org/newshour/nation/pentagon-begins-releasing-new-files-on-ufos-and-says-people-can-make-up-their-own-minds" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/nation/pentagon-begins-releasing-new-files-on-ufos-and-says-people-can-make-up-their-own-minds</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon begins releasing new files on UFOs and says...8 May 2026 — Congress ordered the Pentagon to begin releasing decades of files on...</p></details>
    Published: May 2026  
 
 21. <a id="endnote-21"></a>
    Source: avi-loeb.medium.com  
    Title: analysis of the second batch of ufo files released by the pentagon 1d76e7724073  
-   Link: [https://avi-loeb.medium.com/analysis-of-the-second-batch-of-ufo-files-released-by-the-pentagon-1d76e7724073](https://avi-loeb.medium.com/analysis-of-the-second-batch-of-ufo-files-released-by-the-pentagon-1d76e7724073)  
+   Link: <a href="https://avi-loeb.medium.com/analysis-of-the-second-batch-of-ufo-files-released-by-the-pentagon-1d76e7724073" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/analysis-of-the-second-batch-of-ufo-files-released-by-the-pentagon-1d76e7724073</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of the Second Batch of UFO Files Released by the...Of course, believers in UFOs or UAPs would argue: “The aliens are interested in those...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/UFO/](https://www.war.gov/UFO/)  
+   Link: <a href="https://www.war.gov/UFO/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/UFO/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Search. Search Search. Back; Home; Place Holder; News · Press Products · Today in... [PR-011] Evidence photo 1 &gt;. [[AARO](&amp;#123;&amp;#123; &#x27;aaro/&#x27; | relative_url &amp;#125;&amp;#125;)]\\. Record detai...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4263158/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4263158/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby SL Garfinkel · 2014 · Cited by 4 — 0 User Guide; we downloaded a copy from [http://alien.cern.ch/cache](http://alien.cern.ch/cache)... File system forensic anal...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4263158/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4263158/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by SL Garfinkel · 2014 · Cited by 4 — 0 User Guide; we downloaded a copy from [http://alien.cern.ch/cache](http://alien.cern.ch/cache)... File system forensic anal...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: [https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf](https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf)  
+   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...13 Nov 2024 —... claim-alien-ufo-communication-progr am/. (PUBLIC DOMAIN) - 13 January...</p></details>

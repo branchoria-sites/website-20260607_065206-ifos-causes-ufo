@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_mod_ufo_desk_closure_1bf9cc
 - ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_project_condign_defe_276efb
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - uk-files
 - light-reports
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - uk-files
 - light-reports
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: The MoD sighting lists show how distance, speed and formation can be misread when a witness sees only lights in the sky.
 hero_summary: The MoD sighting lists show how distance, speed and formation can be misread when a witness sees only lights in the sky.
 layout: default
 permalink: /light-reports/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /uk-files/
 nav_short_title: Light reports
 title: How ordinary lights became Mo D UFO reports
-title_full: How ordinary lights became Mo D UFO reports | UK Files
+title_full: How ordinary lights became Mo D UFO reports
 display_title_short: Light reports
 display_title: Light reports
 heading_title: How ordinary lights became Mo D UFO reports
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 23:08:37'
-parent_title: What the UK UFO Files Reveal | IFOs
+parent_title: What the UK UFO Files Reveal
 parent_permalink: /uk-files/
 parent_nav_short_title: UK Files
 parent_heading_title: What the UK UFO Files Reveal
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948
-  title: UK Files | Ifos Causes Of
+  title: UK Files | ifos causes of UFO 3 ed 238
   permalink: /uk-files/
   short_title: UK Files
   heading_title: What the UK UFO Files Reveal
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948
-  title: UK Files | Ifos Causes Of
+  title: UK Files | ifos causes of UFO 3 ed 238
   permalink: /uk-files/
   short_title: UK Files
   heading_title: What the UK UFO Files Reveal
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: Did lanterns fuel the Mo D UFO surge?
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948
-  title: UK Files | Ifos Causes Of
+  title: UK Files | ifos causes of UFO 3 ed 238
   permalink: /uk-files/
   short_title: UK Files
   heading_title: What the UK UFO Files Reveal
@@ -260,6 +259,7 @@ prev_link:
   permalink: /lantern-surge/
   short_title: Lantern surge
   heading_title: Did lanterns fuel the Mo D UFO surge?
+date: '2026-06-12 00:20:38 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_mod_light_reports_if_af1b6f-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_mod_light_reports_if_af1b6f-Illustration-1.webp
@@ -270,14 +270,12 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_mod_light_
 
 One of the clearest lessons from the UK Ministry of Defence (MoD) UFO files is that many reports described little more than lights in the sky. When witnesses could see only points of light, they often had no reliable way to judge distance, altitude, size or speed. As a result, ordinary objects could appear extraordinary. The sighting lists released by the MoD contain numerous reports of orange lights, red lights, formations of glowing objects and silent moving lights that were logged as unidentified because the original information was too limited to confirm an explanation. The files therefore illustrate a key cause of UFO reports: sincere observations of ordinary lights viewed under conditions that make accurate judgement difficult. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">UFO reports 1997 to 2009 in the UK, showing dates and times, location and a brief description of the sighting.Read more...</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_mod_light_reports_if_af1b6f-Illustration-1-dark.svg" | relative_url }}" alt="Light reports illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_mod_light_reports_if_af1b6f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_mod_light_reports_if_af1b6f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Common light descriptions in the files
 
 The published sighting lists are strikingly repetitive. Rather than detailed descriptions of structured craft, many entries describe isolated lights, clusters of lights or glowing orange objects.
 
 Examples from the 2009 report list include: <span class="citation-chip-wrap"><a class="citation-chip" href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[assets.publishing.service.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2009</span><span class="citation-popover-snippet">No way they could be aircraft. Four sets of them. 06-Feb-09. Not Given Rossendale.Read more...</span></span></span>
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -290,10 +288,9 @@ Examples from the 2009 report list include: <span class="citation-chip-wrap"><a 
 
 The National Archives notes that most records describe “shapes, lights and flashes”, many of which could often be explained through ordinary causes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">ufo reports</span><span class="citation-popover-snippet">The National ArchivesUFO reportsThe Ministry of Defence has kept records of them since the 1960s, now held at The National Archives. Most...</span></span></span>
 
-A recurring pattern in the final years of the UFO desk involved groups of orange lights moving silently and apparently in formation. Officials reviewing the files later observed that many such reports closely matched the appearance of Chinese [sky lanterns]({{ 'lanterns/' | relative_url }}), which became increasingly popular in the late 2000s. The National Archives specifically highlighted “formations of orange lights moving slowly across the sky” as a common description consistent with lantern releases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">ufo reports</span><span class="citation-popover-snippet">The National ArchivesUFO reportsThe Ministry of Defence has kept records of them since the 1960s, now held at The National Archives. Most...</span></span></span>
+A recurring pattern in the final years of the UFO desk involved groups of orange lights moving silently and apparently in formation. Officials reviewing the files later observed that many such reports closely matched the appearance of Chinese sky lanterns, which became increasingly popular in the late 2000s. The National Archives specifically highlighted “formations of orange lights moving slowly across the sky” as a common description consistent with lantern releases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">ufo reports</span><span class="citation-popover-snippet">The National ArchivesUFO reportsThe Ministry of Defence has kept records of them since the 1960s, now held at The National Archives. Most...</span></span></span>
 
 The important point is not that every report was identified as a lantern. Rather, the reports often contained too little information to prove what the witness had seen. A sighting could remain listed as unidentified even when a mundane explanation was entirely plausible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">ufo reports</span><span class="citation-popover-snippet">The National ArchivesUFO reportsThe Ministry of Defence has kept records of them since the 1960s, now held at The National Archives. Most...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/roXkKRiKM3U" title="Nick Pope - the UK&#x27;s answer to Agent Mulder examines The Telegraph&#x27;s X files of UFO sightings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=roXkKRiKM3U" target="_blank" rel="noopener noreferrer">Nick Pope - the UK&#x27;s answer to Agent Mulder examines The Telegraph&#x27;s X files of UFO sightings</a></p><p class="youtube-embed-meta">Channel: The Telegraph &middot; Views: 54.3K &middot; Uploaded: July 2011 &middot; Length: 3 minutes 19 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=roXkKRiKM3U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=roXkKRiKM3U">Open on YouTube</a></p></div></div></div>
 
@@ -315,7 +312,6 @@ A lantern drifting with the wind may appear almost stationary if it is far away.
 
 Without measured distance, statements such as “travelling very fast” or “moving unusually slowly” are descriptions of appearance rather than verified speed. Many MoD entries contain exactly these kinds of subjective estimates. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">UFO reports 1997 to 2009 in the UK, showing dates and times, location and a brief description of the sighting.Read more...</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_mod_light_reports_if_af1b6f-Illustration-3-dark.svg" | relative_url }}" alt="Light reports illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_mod_light_reports_if_af1b6f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_mod_light_reports_if_af1b6f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Formations can create the illusion of structure
 
@@ -324,7 +320,6 @@ Several lights released together may appear to form a single object.
 Astronomers and skywatching organisations have long noted that lanterns are frequently mistaken for structured craft because multiple lights can maintain roughly similar spacing while drifting with the same wind. From the ground, observers may perceive a triangle, oval or other geometric pattern and infer a solid object connecting the lights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">things mistaken for ufos</span><span class="citation-popover-snippet">In 2009, the number of sightings reported to the MoD&#x27;s UFO desk tripled, with most...Read more...</span></span></span>
 
 This matches numerous MoD-era descriptions of grouped orange lights, oval formations and silent clusters moving together. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">UFO reports 1997 to 2009 in the UK, showing dates and times, location and a brief description of the sighting.Read more...</span></span></span>
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_mod_light_reports_if_af1b6f-Illustration-2-dark.svg" | relative_url }}" alt="Light reports illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_mod_light_reports_if_af1b6f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_mod_light_reports_if_af1b6f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How IFO checks would test each report
@@ -359,7 +354,6 @@ Multiple observers can help establish direction and distance. Many MoD reports c
 
 If these checks cannot be completed because the original report lacks detail, the case may remain unresolved in the archive. That unresolved status does not necessarily indicate a mysterious object; it may simply reflect insufficient evidence.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ucHUeZIKUAo" title="Ex MOD Nick Pope discusses UFO report that ‘can’t rule out’ aliens or Russian hypersonic weapons" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ucHUeZIKUAo" target="_blank" rel="noopener noreferrer">Ex MOD Nick Pope discusses UFO report that ‘can’t rule out’ aliens or Russian hypersonic weapons</a></p><p class="youtube-embed-meta">Channel: The Sun &middot; Views: 133.9K &middot; Uploaded: June 2021 &middot; Length: 3 minutes 48 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ucHUeZIKUAo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ucHUeZIKUAo">Open on YouTube</a></p></div></div></div>
 
 ## Why unresolved does not mean extraordinary
@@ -372,9 +366,7 @@ The surge in reports during 2008–2009 illustrates the problem. Officials later
 
 The MoD sighting lists therefore provide a practical demonstration of how ordinary lights become UFO reports. A witness sees something real, but the lack of distance information, reliable speed measurements and contextual data transforms a mundane light source into an unidentified aerial mystery. The National Archives <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">UFO reports 1997 to 2009 in the UK, showing dates and times, location and a brief description of the sighting.Read more...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jrNhwaFGY0M" title="Experts Weigh In on Pentagon UFO Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jrNhwaFGY0M" target="_blank" rel="noopener noreferrer">Experts Weigh In on Pentagon UFO Report</a></p><p class="youtube-embed-meta">Channel: KTVU FOX 2 San Francisco &middot; Views: 175.0K &middot; Uploaded: April 2022 &middot; Length: 2 minutes 53 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jrNhwaFGY0M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jrNhwaFGY0M">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -493,15 +485,15 @@ The MoD sighting lists therefore provide a practical demonstration of how ordina
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-reports-how-ordinary-lights-became-mo-d-ufo-reports-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="light-reports-how-ordinary-lights-became-mo-d-ufo-reports-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 Sticker Sheet Aliens Vinyl Stickers - UFO Believe Space Planet Hobby #78893"><img src="{{ '/assets/images/marketplace-covers/5521e38509112f04ae4c.jpg' | relative_url }}" alt="Listing image for A4 Sticker Sheet Aliens Vinyl Stickers - UFO Believe Space Planet Hobby #78893" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ordinary-lights-became-mod-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ordinary-lights-became-mod-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-reports-how-ordinary-lights-became-mo-d-ufo-reports-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="light-reports-how-ordinary-lights-became-mo-d-ufo-reports-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">A4 Sticker Sheet Aliens Vinyl Stickers - UFO Believe Space Planet Hobby #78893</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ordinary-lights-became-mod-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ordinary-lights-became-mod-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-reports-how-ordinary-lights-became-mo-d-ufo-reports-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="light-reports-how-ordinary-lights-became-mo-d-ufo-reports-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo sticker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ordinary-lights-became-mod-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ordinary-lights-became-mod-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-reports-how-ordinary-lights-became-mo-d-ufo-reports-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="light-reports-how-ordinary-lights-became-mo-d-ufo-reports-ifos-causes-of-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ordinary-lights-became-mod-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ordinary-lights-became-mod-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -509,15 +501,15 @@ The MoD sighting lists therefore provide a practical demonstration of how ordina
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-reports-how-ordinary-lights-became-mo-d-ufo-reports-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="light-reports-how-ordinary-lights-became-mo-d-ufo-reports-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO, Sticker Cut Vinyl v2"><img src="{{ '/assets/images/marketplace-covers/363ae3bd666c4dfeb51c.jpg' | relative_url }}" alt="Listing image for UFO, Sticker Cut Vinyl v2" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ordinary-lights-became-mod-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ordinary-lights-became-mod-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-reports-how-ordinary-lights-became-mo-d-ufo-reports-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="light-reports-how-ordinary-lights-became-mo-d-ufo-reports-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">UFO, Sticker Cut Vinyl v2</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ordinary-lights-became-mod-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ordinary-lights-became-mod-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-reports-how-ordinary-lights-became-mo-d-ufo-reports-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="light-reports-how-ordinary-lights-became-mo-d-ufo-reports-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo sticker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ordinary-lights-became-mod-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ordinary-lights-became-mod-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-reports-how-ordinary-lights-became-mo-d-ufo-reports-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="light-reports-how-ordinary-lights-became-mo-d-ufo-reports-ifos-causes-of-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ordinary-lights-became-mod-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ordinary-lights-became-mod-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -525,15 +517,15 @@ The MoD sighting lists therefore provide a practical demonstration of how ordina
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-reports-how-ordinary-lights-became-mo-d-ufo-reports-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="light-reports-how-ordinary-lights-became-mo-d-ufo-reports-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO, Sticker Vinyl Version v6"><img src="{{ '/assets/images/marketplace-covers/b2a8befcf874884cb729.jpg' | relative_url }}" alt="Listing image for UFO, Sticker Vinyl Version v6" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ordinary-lights-became-mod-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ordinary-lights-became-mod-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-reports-how-ordinary-lights-became-mo-d-ufo-reports-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="light-reports-how-ordinary-lights-became-mo-d-ufo-reports-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">UFO, Sticker Vinyl Version v6</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ordinary-lights-became-mod-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ordinary-lights-became-mod-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-reports-how-ordinary-lights-became-mo-d-ufo-reports-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="light-reports-how-ordinary-lights-became-mo-d-ufo-reports-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo sticker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ordinary-lights-became-mod-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ordinary-lights-became-mod-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-reports-how-ordinary-lights-became-mo-d-ufo-reports-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="light-reports-how-ordinary-lights-became-mo-d-ufo-reports-ifos-causes-of-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ordinary-lights-became-mod-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ordinary-lights-became-mod-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -541,15 +533,15 @@ The MoD sighting lists therefore provide a practical demonstration of how ordina
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-reports-how-ordinary-lights-became-mo-d-ufo-reports-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="light-reports-how-ordinary-lights-became-mo-d-ufo-reports-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIENS 4 Vinyl Sticker Set: get in loser cute UFO stars space spaceman fun gift"><img src="{{ '/assets/images/marketplace-covers/8e52910332b2b757e6a7.jpg' | relative_url }}" alt="Listing image for ALIENS 4 Vinyl Sticker Set: get in loser cute UFO stars space spaceman fun gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ordinary-lights-became-mod-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ordinary-lights-became-mod-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-reports-how-ordinary-lights-became-mo-d-ufo-reports-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="light-reports-how-ordinary-lights-became-mo-d-ufo-reports-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">ALIENS 4 Vinyl Sticker Set: get in loser cute UFO stars space spaceman fun gift</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ordinary-lights-became-mod-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ordinary-lights-became-mod-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-reports-how-ordinary-lights-became-mo-d-ufo-reports-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="light-reports-how-ordinary-lights-became-mo-d-ufo-reports-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo sticker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ordinary-lights-became-mod-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ordinary-lights-became-mod-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-reports-how-ordinary-lights-became-mo-d-ufo-reports-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="light-reports-how-ordinary-lights-became-mo-d-ufo-reports-ifos-causes-of-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ordinary-lights-became-mod-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ordinary-lights-became-mod-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -557,7 +549,7 @@ The MoD sighting lists therefore provide a practical demonstration of how ordina
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-reports-how-ordinary-lights-became-mo-d-ufo-reports-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="light-reports-how-ordinary-lights-became-mo-d-ufo-reports-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ordinary-lights-became-mod-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ordinary-lights-became-mod-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -773,119 +765,119 @@ The MoD sighting lists therefore provide a practical demonstration of how ordina
 1. <a id="endnote-1"></a>
    Source: GOV.UK  
    Title: ufo reports in the uk  
-   Link: [https://www.gov.uk/government/publications/ufo-reports-in-the-uk](https://www.gov.uk/government/publications/ufo-reports-in-the-uk)  
+   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reports 1997 to 2009 in the UK, showing dates and times, location and a brief description of the sighting.Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: nationalarchives.gov.uk  
    Title: ufo reports  
-   Link: [https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/](https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFO reportsThe Ministry of Defence has kept records of them since the 1960s, now held at The National Archives. Most...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: [https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf](https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>No way they could be aircraft. Four sets of them. 06-Feb-09. Not Given Rossendale.Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: [https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf](https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf)  
+   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesUFO Desk: ClosedMany of the sighting accounts – such as formations of orange lights moving slowly across the sky - descr...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: [https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf](https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf)  
+   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>file release video transcriptThis was a period when the Ministry was receiving a very large number of sightings of objects in the sky tha...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/](https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFOsThis is a brief guide to researching records of UFOs. The surviving records consist mainly of documents relating...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: [https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364](https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364)  
+   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Desk: Why MoD Shut Real-Life X-Files | UK News20 Jun 2013 — Documents reveal 643 sightings were reported in 2009, treble the previous yea...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: [https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf](https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf)  
+   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>documentUnidentified Flying Objects (UFOs). 1. What is a UFO? The first reports of &#x27;flying saucers&#x27; being sighted were on 24 June 1947 fr...</p></details>
    Published: June 1947  
 
 9. <a id="endnote-9"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 1997  
-   Link: [https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf](https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reports 1997Brief Description of sighting. 02-Jan-97 20:58 Immingham. Lincolnshire. A large UFO, with all different colour of lights arou...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: skyatnightmagazine.com  
    Title: things mistaken for ufos  
-   Link: [https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos](https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos)  
+   Link: <a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In 2009, the number of sightings reported to the MoD&#x27;s UFO desk tripled, with most...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TheNationalArchives/posts/santas-sleigh-or-something-stranger-if-youre-gazing-skyward-tonight-looking-out-/1288771629958788/](https://www.facebook.com/TheNationalArchives/posts/santas-sleigh-or-something-stranger-if-youre-gazing-skyward-tonight-looking-out-/1288771629958788/)  
+   Link: <a href="https://www.facebook.com/TheNationalArchives/posts/santas-sleigh-or-something-stranger-if-youre-gazing-skyward-tonight-looking-out-/1288771629958788/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheNationalArchives/posts/santas-sleigh-or-something-stranger-if-youre-gazing-skyward-tonight-looking-out-/1288771629958788/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesIt&#x27;s World UFO Day! Whether you believe in aliens or not… those of us who have spent a lot of time beneath the stars...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: independent.co.uk  
-   Link: [https://www.independent.co.uk/news/uk/politics/the-not-so-real-life-xfiles-chinese-lanterns-responsible-for-surge-of-ufo-sightings-files-from-mod-reveal-8667620.html](https://www.independent.co.uk/news/uk/politics/the-not-so-real-life-xfiles-chinese-lanterns-responsible-for-surge-of-ufo-sightings-files-from-mod-reveal-8667620.html)  
+   Link: <a href="https://www.independent.co.uk/news/uk/politics/the-not-so-real-life-xfiles-chinese-lanterns-responsible-for-surge-of-ufo-sightings-files-from-mod-reveal-8667620.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/uk/politics/the-not-so-real-life-xfiles-chinese-lanterns-responsible-for-surge-of-ufo-sightings-files-from-mod-reveal-8667620.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The (not so) real life X-Files: Chinese lanterns responsible...21 Jun 2013 — The 25 files include reports of alleged abductions and cont...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: independent.co.uk  
-   Link: [https://www.independent.co.uk/news/uk/this-britain/the-truth-is-out-there-declassified-reports-of-ufo-sightings-reveal-88-sightings-last-year-484909.html](https://www.independent.co.uk/news/uk/this-britain/the-truth-is-out-there-declassified-reports-of-ufo-sightings-reveal-88-sightings-last-year-484909.html)  
+   Link: <a href="https://www.independent.co.uk/news/uk/this-britain/the-truth-is-out-there-declassified-reports-of-ufo-sightings-reveal-88-sightings-last-year-484909.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/uk/this-britain/the-truth-is-out-there-declassified-reports-of-ufo-sightings-reveal-88-sightings-last-year-484909.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The truth is out there: declassified reports of UFO sightings...3 Feb 2005 — Details of Britain&#x27;s most recent UFO sightings are revealed...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: csmonitor.com  
    Title: UFO Britain releases documents explaining closure of military UFO desk  
-   Link: [https://www.csmonitor.com/Science/2013/0621/UFO-Britain-releases-documents-explaining-closure-of-military-UFO-desk](https://www.csmonitor.com/Science/2013/0621/UFO-Britain-releases-documents-explaining-closure-of-military-UFO-desk)  
+   Link: <a href="https://www.csmonitor.com/Science/2013/0621/UFO-Britain-releases-documents-explaining-closure-of-military-UFO-desk" target="_blank" rel="noopener noreferrer nofollow">https://www.csmonitor.com/Science/2013/0621/UFO-Britain-releases-documents-explaining-closure-of-military-UFO-desk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO: Britain releases documents explaining closure of...21 Jun 2013 — Newly declassified files from Britain&#x27;s Ministry of Defense shed f...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: timesofindia.indiatimes.com  
-   Link: [https://timesofindia.indiatimes.com/world/uk/ufo-hotspots-revealed-the-10-uk-locations-where-residents-report-the-strangest-sightings/articleshow/124550160.cms](https://timesofindia.indiatimes.com/world/uk/ufo-hotspots-revealed-the-10-uk-locations-where-residents-report-the-strangest-sightings/articleshow/124550160.cms)  
+   Link: <a href="https://timesofindia.indiatimes.com/world/uk/ufo-hotspots-revealed-the-10-uk-locations-where-residents-report-the-strangest-sightings/articleshow/124550160.cms" target="_blank" rel="noopener noreferrer nofollow">https://timesofindia.indiatimes.com/world/uk/ufo-hotspots-revealed-the-10-uk-locations-where-residents-report-the-strangest-sightings/articleshow/124550160.cms</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>hotspots revealed: The 10 UK locations where...15 Oct 2025 — Llandudno ranks as the UK&#x27;s most active region for UFO reports...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/skynews/posts/more-than-200-previously-unseen-ufo-files-document-reports-of-unexplained-green-/1453317753506216/](https://www.facebook.com/skynews/posts/more-than-200-previously-unseen-ufo-files-document-reports-of-unexplained-green-/1453317753506216/)  
+   Link: <a href="https://www.facebook.com/skynews/posts/more-than-200-previously-unseen-ufo-files-document-reports-of-unexplained-green-/1453317753506216/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/skynews/posts/more-than-200-previously-unseen-ufo-files-document-reports-of-unexplained-green-/1453317753506216/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>f ▻ Aliens, Dimensional Beings, UFO, Paranormal, Giants...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: itv.com  
    Title: ufo sightings files mod the national archives  
-   Link: [https://www.itv.com/news/story/2013-06-21/ufo-sightings-files-mod-the-national-archives/](https://www.itv.com/news/story/2013-06-21/ufo-sightings-files-mod-the-national-archives/)  
+   Link: <a href="https://www.itv.com/news/story/2013-06-21/ufo-sightings-files-mod-the-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://www.itv.com/news/story/2013-06-21/ufo-sightings-files-mod-the-national-archives/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO &#x27;spotted near Parliament&#x27;21 Jun 2013 — Reported UFO sightings to the Ministry of Defence&#x27;s UFO desk and hotline trebled in 2009, the...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: Nick Pope  
-   Link: [http://www.youtube.com/watch?v=roXkKRiKM3U](http://www.youtube.com/watch?v=roXkKRiKM3U)  
+   Link: <a href="http://www.youtube.com/watch?v=roXkKRiKM3U" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=roXkKRiKM3U</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ex MOD Nick Pope discusses UFO report that ‘can’t rule out’ aliens or Russian hypersonic weapons...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: flashbak.com  
    Title: Revealed: The UFOs they spotted over the UK  
-   Link: [https://flashbak.com/secrets-of-the-ufo-files-national-archive-finally-reveals-what-we-saw-in-the-skies-over-britain-450419/](https://flashbak.com/secrets-of-the-ufo-files-national-archive-finally-reveals-what-we-saw-in-the-skies-over-britain-450419/)  
+   Link: <a href="https://flashbak.com/secrets-of-the-ufo-files-national-archive-finally-reveals-what-we-saw-in-the-skies-over-britain-450419/" target="_blank" rel="noopener noreferrer nofollow">https://flashbak.com/secrets-of-the-ufo-files-national-archive-finally-reveals-what-we-saw-in-the-skies-over-britain-450419/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Secrets of The UFO Files: National Archive Finally Reveals...15 Feb 2022 — Secrets of The UFO Files: National Archive Finally Reveals Wh...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: space.com  
    Title: 21671 ufo files alien spacecraft mod  
-   Link: [https://www.space.com/amp/21671-ufo-files-alien-spacecraft-mod.html](https://www.space.com/amp/21671-ufo-files-alien-spacecraft-mod.html)  
+   Link: <a href="https://www.space.com/amp/21671-ufo-files-alien-spacecraft-mod.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/amp/21671-ufo-files-alien-spacecraft-mod.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Last UFO Files from UK Gov&#x27;t Released21 Jun 2013 — Many of the reported UFO sightings were attributed to the growing popularity of Chines...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: Wikipedia  
    Title: UFO sightings in the United Kingdom  
-   Link: [https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom](https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in the United KingdomLondon is the city with the most UFO sightings in the UK, followed by Manchester and Birmingham.Rea...</p></details>

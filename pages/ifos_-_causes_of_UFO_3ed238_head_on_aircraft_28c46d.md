@@ -50,22 +50,22 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_wind_data_33671a
 - ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - head-on-planes
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - head-on-planes
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: An aircraft flying toward an observer can appear fixed in the sky before suddenly changing brightness, direction or identity.
 hero_summary: An aircraft flying toward an observer can appear fixed in the sky before suddenly changing brightness, direction or identity.
 layout: default
 permalink: /a-head-on-aircraft-can-look-like-a/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 nav_short_title: A Head On Aircraft Can Look Like A Stationary Light...
 title: The Stationary Light That Is Moving
-title_full: The Stationary Light That Is Moving | IFOs
+title_full: The Stationary Light That Is Moving
 display_title_short: A Head On Aircraft Can Look Like A Stationary Light...
 display_title: A Head On Aircraft Can Look Like A Stationary Light...
 heading_title: The Stationary Light That Is Moving
@@ -240,213 +240,212 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 21:40:11'
 parent_title: IFOs
-parent_permalink: /ifos-causes-of/
+parent_permalink: /ifos-causes-of-ufo-3-ed-238/
 parent_nav_short_title: IFOs
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 sibling_links:
 - basename: ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261
-  title: AARO | Ifos Causes Of
+  title: AARO | ifos causes of UFO 3 ed 238
   permalink: /aaro/
   short_title: AARO
   heading_title: What Modern UAP Reviews Resolve
 - basename: ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253
-  title: Aircraft Lights | Ifos Causes Of
+  title: Aircraft Lights | ifos causes of UFO 3 ed 238
   permalink: /aircraft-lights/
   short_title: Aircraft Lights
   heading_title: Why Ordinary Aircraft Look So Strange
 - basename: ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043
-  title: Atmosphere | Ifos Causes Of
+  title: Atmosphere | ifos causes of UFO 3 ed 238
   permalink: /atmosphere/
   short_title: Atmosphere
   heading_title: When Weather Makes Shapes in the Sky
 - basename: ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057
-  title: Balloons | Ifos Causes Of
+  title: Balloons | ifos causes of UFO 3 ed 238
   permalink: /balloons/
   short_title: Balloons
   heading_title: Why Balloons Become Flying Saucers
 - basename: ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40
-  title: Birds | Ifos Causes Of
+  title: Birds | ifos causes of UFO 3 ed 238
   permalink: /birds/
   short_title: Birds
   heading_title: How Birds Become Fast UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81
-  title: Blue Book | Ifos Causes Of
+  title: Blue Book | ifos causes of UFO 3 ed 238
   permalink: /blue-book/
   short_title: Blue Book
   heading_title: What Blue Book Teaches About IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e
-  title: Contrails | Ifos Causes Of
+  title: Contrails | ifos causes of UFO 3 ed 238
   permalink: /contrails/
   short_title: Contrails
   heading_title: Why Jet Trails Glow Like UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c
-  title: Drones | Ifos Causes Of
+  title: Drones | ifos causes of UFO 3 ed 238
   permalink: /drones/
   short_title: Drones
   heading_title: When a Drone Becomes a UFO
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e
-  title: First Checks | Ifos Causes Of
+  title: First Checks | ifos causes of UFO 3 ed 238
   permalink: /first-checks/
   short_title: First Checks
   heading_title: What to Check Before Calling It a UFO
 - basename: ifos_-_causes_of_UFO_3ed238_military_flares_abb62f
-  title: Flares | Ifos Causes Of
+  title: Flares | ifos causes of UFO 3 ed 238
   permalink: /flares/
   short_title: Flares
   heading_title: Why Flares Look Like Hovering Craft
 - basename: ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590
-  title: Flight Tracking | Ifos Causes Of
+  title: Flight Tracking | ifos causes of UFO 3 ed 238
   permalink: /flight-tracking/
   short_title: Flight Tracking
   heading_title: How Flight Data Solves UFO Sightings
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965
-  title: Hoaxes | Ifos Causes Of
+  title: Hoaxes | ifos causes of UFO 3 ed 238
   permalink: /hoaxes/
   short_title: Hoaxes
   heading_title: When UFO Reports Are Manufactured
 - basename: ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f
-  title: Infrared | Ifos Causes Of
+  title: Infrared | ifos causes of UFO 3 ed 238
   permalink: /infrared/
   short_title: Infrared
   heading_title: Why Infrared UFO Videos Mislead
 - basename: ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74
-  title: Insects | Ifos Causes Of
+  title: Insects | ifos causes of UFO 3 ed 238
   permalink: /insects/
   short_title: Insects
   heading_title: The Tiny Things Cameras Make Huge
 - basename: ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5
-  title: Lanterns | Ifos Causes Of
+  title: Lanterns | ifos causes of UFO 3 ed 238
   permalink: /lanterns/
   short_title: Lanterns
   heading_title: The Orange Lights That Start UFO Reports
 - basename: ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e
-  title: Lens Flare | Ifos Causes Of
+  title: Lens Flare | ifos causes of UFO 3 ed 238
   permalink: /lens-flare/
   short_title: Lens Flare
   heading_title: When Cameras Invent Extra Lights
 - basename: ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28
-  title: Mass Sightings | Ifos Causes Of
+  title: Mass Sightings | ifos causes of UFO 3 ed 238
   permalink: /mass-sightings/
   short_title: Mass Sightings
   heading_title: Why Groups Can Share One Mistake
 - basename: ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504
-  title: Meteors | Ifos Causes Of
+  title: Meteors | ifos causes of UFO 3 ed 238
   permalink: /meteors/
   short_title: Meteors
   heading_title: When Fireballs Become UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca
-  title: Missing Data | Ifos Causes Of
+  title: Missing Data | ifos causes of UFO 3 ed 238
   permalink: /missing-data/
   short_title: Missing Data
   heading_title: Unsolved Does Not Always Mean Strange
 - basename: ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183
-  title: NASA Study | Ifos Causes Of
+  title: NASA Study | ifos causes of UFO 3 ed 238
   permalink: /nasa-study/
   short_title: NASA Study
   heading_title: Why Better UFO Data Matters
 - basename: ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b
-  title: Parallax | Ifos Causes Of
+  title: Parallax | ifos causes of UFO 3 ed 238
   permalink: /parallax/
   short_title: Parallax
   heading_title: The Speed Illusion in UFO Footage
 - basename: ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a
-  title: Pilots | Ifos Causes Of
+  title: Pilots | ifos causes of UFO 3 ed 238
   permalink: /pilots/
   short_title: Pilots
   heading_title: Why Pilots Can Misidentify UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357
-  title: Radar | Ifos Causes Of
+  title: Radar | ifos causes of UFO 3 ed 238
   permalink: /radar/
   short_title: Radar
   heading_title: When Radar Sees a UFO That Isnt There
 - basename: ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c
-  title: Reflections | Ifos Causes Of
+  title: Reflections | ifos causes of UFO 3 ed 238
   permalink: /reflections/
   short_title: Reflections
   heading_title: The UFO Inside the Glass
 - basename: ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132
-  title: Rocket Plumes | Ifos Causes Of
+  title: Rocket Plumes | ifos causes of UFO 3 ed 238
   permalink: /rocket-plumes/
   short_title: Rocket Plumes
   heading_title: The Strange Clouds Rockets Leave Behind
 - basename: ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b
-  title: Satellites | Ifos Causes Of
+  title: Satellites | ifos causes of UFO 3 ed 238
   permalink: /satellites/
   short_title: Satellites
   heading_title: Why Satellites Surprise Night Watchers
 - basename: ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1
-  title: Searchlights | Ifos Causes Of
+  title: Searchlights | ifos causes of UFO 3 ed 238
   permalink: /searchlights/
   short_title: Searchlights
   heading_title: How Searchlights Paint UFOs in Clouds
 - basename: ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b
-  title: Sensor Operators | Ifos Causes Of
+  title: Sensor Operators | ifos causes of UFO 3 ed 238
   permalink: /sensor-operators/
   short_title: Sensor Operators
   heading_title: When Sensors Need Human Context
 - basename: ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391
-  title: Short Clips | Ifos Causes Of
+  title: Short Clips | ifos causes of UFO 3 ed 238
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: Why Short UFO Videos Are Hard to Trust
 - basename: ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f
-  title: Size Errors | Ifos Causes Of
+  title: Size Errors | ifos causes of UFO 3 ed 238
   permalink: /size-errors/
   short_title: Size Errors
   heading_title: Why Honest Witnesses Misjudge UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725
-  title: Sky Charts | Ifos Causes Of
+  title: Sky Charts | ifos causes of UFO 3 ed 238
   permalink: /sky-charts/
   short_title: Sky Charts
   heading_title: How to Check a UFO Against the Sky
 - basename: ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32
-  title: Stars | Ifos Causes Of
+  title: Stars | ifos causes of UFO 3 ed 238
   permalink: /stars/
   short_title: Stars
   heading_title: Why Stars Flash Like Machines
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb
-  title: Status Labels | Ifos Causes Of
+  title: Status Labels | ifos causes of UFO 3 ed 238
   permalink: /status-labels/
   short_title: Status Labels
   heading_title: UFO Does Not Mean Alien
 - basename: ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d
-  title: Strong Cases | Ifos Causes Of
+  title: Strong Cases | ifos causes of UFO 3 ed 238
   permalink: /strong-cases/
   short_title: Strong Cases
   heading_title: What Makes a UFO Report Harder to Explain
 - basename: ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948
-  title: UK Files | Ifos Causes Of
+  title: UK Files | ifos causes of UFO 3 ed 238
   permalink: /uk-files/
   short_title: UK Files
   heading_title: What the UK UFO Files Reveal
 - basename: ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06
-  title: Unresolved Cases | Ifos Causes Of
+  title: Unresolved Cases | ifos causes of UFO 3 ed 238
   permalink: /unresolved-cases/
   short_title: Unresolved Cases
   heading_title: Why Some UFO Cases Stay Open
 - basename: ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080
-  title: Venus | Ifos Causes Of
+  title: Venus | ifos causes of UFO 3 ed 238
   permalink: /venus/
   short_title: Venus
   heading_title: Is That UFO Really Venus?
 - basename: ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13
-  title: Weather Records | Ifos Causes Of
+  title: Weather Records | ifos causes of UFO 3 ed 238
   permalink: /weather-records/
   short_title: Weather Records
   heading_title: Weather Clues That Explain Strange Lights
 - basename: ifos_-_causes_of_UFO_3ed238_wind_data_33671a
-  title: Wind Data | Ifos Causes Of
+  title: Wind Data | ifos causes of UFO 3 ed 238
   permalink: /wind-data/
   short_title: Wind Data
   heading_title: Following a UFO With the Wind
@@ -479,14 +478,15 @@ child_links:
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 next_link:
   basename: ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261
-  title: AARO | Ifos Causes Of
+  title: AARO | ifos causes of UFO 3 ed 238
   permalink: /aaro/
   short_title: AARO
   heading_title: What Modern UAP Reviews Resolve
+date: '2026-06-12 00:09:58 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d-overview-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d-overview.webp
@@ -497,10 +497,8 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d-overvi
 
 A head-on aircraft can look like a stationary light because it is moving mostly towards the observer rather than sideways across the sky. Its bearing changes very little, so the eye has few motion clues; at night, the strongest visible feature may be one or more forward-facing [landing lights]({{ 'landing-lights/' | relative_url }}). The result is a common [IFO pattern]({{ 'ifo-pattern/' | relative_url }}): a bright light appears to “hover”, then suddenly becomes an obvious aircraft when it turns, passes overhead, reveals red and green position lights, or its sound arrives.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d-overview.webp" | relative_url }}" alt="Overview image for A Head On Aircraft Can Look Like A Stationary Light Because It" loading="eager" decoding="sync" fetchpriority="high">
-This is not a fringe explanation invented to dismiss sightings. Aircraft are a long-recognised source of UFO reports, and modern UAP reviews still resolve many cases as ordinary objects including aircraft, [drones]({{ 'drones/' | relative_url }}), balloons, birds and [satellites]({{ 'satellites/' | relative_url }}). AARO, the US All-domain Anomaly Resolution Office, said in 2024 that it had resolved hundreds of cases to commonplace objects, including aircraft, while only a small percentage remained potentially anomalous. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">DOD Examining Unidentified Anomalous Phenomena &gt; U.S. Department of War &gt; Defense Department News | U.S. Department of War...</span></span></span>(#endnote-1 "Snippet: DOD Examining Unidentified Anomalous Phenomena > U.S. Department of War > Defense Department News | U.S. Department of War")
-
+This is not a fringe explanation invented to dismiss sightings. Aircraft are a long-recognised source of UFO reports, and modern UAP reviews still resolve many cases as ordinary objects including aircraft, [drones]({{ 'drones/' | relative_url }}), balloons, birds and [satellites]({{ 'satellites/' | relative_url }}). AARO, the US All-domain Anomaly Resolution Office, said in 2024 that it had resolved hundreds of cases to commonplace objects, including aircraft, while only a small percentage remained potentially anomalous. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">DOD Examining Unidentified Anomalous Phenomena &gt; U.S. Department of War &gt; Defense Department News &#124; U.S. Department of War...</span></span></span>(#endnote-1 "Snippet: DOD Examining Unidentified Anomalous Phenomena > U.S. Department of War > Defense Department News | U.S. Department of War")
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MRc2Hj7Sowk" title="Motion Perception in Vision | Chapter 8 – Sensation &amp; Perception (6th)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MRc2Hj7Sowk" target="_blank" rel="noopener noreferrer">Motion Perception in Vision | Chapter 8 – Sensation &amp; Perception (6th)</a></p><p class="youtube-embed-meta">Channel: Last Minute Lecture &middot; Views: 62 &middot; Uploaded: January 2026 &middot; Length: 44 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MRc2Hj7Sowk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MRc2Hj7Sowk">Open on YouTube</a></p></div></div></div>
 
@@ -512,7 +510,6 @@ This is related to the navigation idea often called [constant bearing]({{ 'const
 
 For a ground observer, the situation is less dangerous but perceptually similar. A jet on final approach, a small aircraft lined up with a runway, or a helicopter coming along a valley or road corridor can sit near the same apparent spot for minutes. If the observer lacks a clear horizon, nearby landmarks, or a flight-track check, the brain may read “no sideways motion” as “not moving”.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d-Illustration-1-dark.svg" | relative_url }}" alt="A Head On Aircraft Can Look Like A Stationary Light Because It illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Approach-light geometry
 
@@ -522,7 +519,6 @@ That safety design creates a UFO-reporting trap. The aircraft is made more visib
 
 Several details intensify the illusion:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **The beam points at the observer.** A landing light viewed close to its axis can look disproportionately bright compared with the aircraft’s actual size.
@@ -531,7 +527,6 @@ Several details intensify the illusion:
 * **Sound may arrive late or be masked.** Wind, traffic, terrain and the aircraft’s direction can delay or obscure engine noise, especially before the aircraft passes.
 
 </div>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0M1J9qQX1TQ" title="Aircraft lights | They&#x27;re not UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0M1J9qQX1TQ" target="_blank" rel="noopener noreferrer">Aircraft lights | They&#x27;re not UFOs</a></p><p class="youtube-embed-meta">Channel: flight-club &middot; Views: 99.1K &middot; Uploaded: February 2020 &middot; Length: 3 minutes 28 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0M1J9qQX1TQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0M1J9qQX1TQ">Open on YouTube</a></p></div></div></div>
 
@@ -545,7 +540,6 @@ Airport lighting can add further confusion. The FAA describes visual approach sl
 
 This also explains why the description may change within one report. A witness might honestly report a white hovering orb, then a triangular set of lights, then a normal aircraft. Those are not necessarily contradictions. They may be successive views of the same object as its angle, range and lighting geometry change.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d-Illustration-2-dark.svg" | relative_url }}" alt="A Head On Aircraft Can Look Like A Stationary Light Because It illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Common airport-area reports
 
@@ -557,7 +551,6 @@ The FAA handbook notes that airports near or within large cities can be difficul
 
 A typical report might therefore read: “A bright object hovered silently in the east for several minutes, became brighter, then suddenly moved left and revealed flashing lights.” In many cases, the highest-value checks are mundane but decisive: look for a nearby runway direction, compare the time and bearing with public flight-tracking data, note whether the light repeats on the same line, and watch long enough to see whether red, green and white aircraft lights separate.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/418NWvdh-C4" title="Pilots Witness UFO Flying Over During Landing | What was it?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=418NWvdh-C4" target="_blank" rel="noopener noreferrer">Pilots Witness UFO Flying Over During Landing | What was it?</a></p><p class="youtube-embed-meta">Channel: VASAviation - &middot; Views: 13.8K &middot; Uploaded: April 2026 &middot; Length: 3 minutes 18 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=418NWvdh-C4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=418NWvdh-C4">Open on YouTube</a></p></div></div></div>
 
 ## How to distinguish this IFO from stranger cases
@@ -567,7 +560,6 @@ The head-on aircraft explanation is strongest when the report has several matchi
 A useful field check is not “does it look like a plane?” At first, it may not. The better question is: “Would an aircraft on a straight approach from that direction have the same bearing, brightness pattern and timing?” NASA’s UAP study framed the broader issue in similar terms: many reports cannot be assessed well without better data on time, location, sensor quality and comparison with known aircraft or natural phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP</span><span class="citation-popover-snippet">Science UAP</span></span></span>
 
 For eyewitnesses, the most useful observations are concrete rather than interpretive:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -582,7 +574,6 @@ For eyewitnesses, the most useful observations are concrete rather than interpre
 </div>
 
 This mechanism matters because it preserves two truths at once. The witness may have seen a real, bright, puzzling object, and the object may still have been an ordinary aircraft. The error lies not in seeing the light, but in judging its distance, direction and motion from a poor viewing angle.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d-Illustration-3-dark.svg" | relative_url }}" alt="A Head On Aircraft Can Look Like A Stationary Light Because It illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -703,15 +694,15 @@ This mechanism matters because it preserves two truths at once. The witness may 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-head-on-aircraft-can-look-like-a-the-stationary-light-that-is-moving-ifos-causes-of-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="a-head-on-aircraft-can-look-like-a-the-stationary-light-that-is-moving-ifos-causes-of-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NEW 16cm British Airways Concorde Die Cast Metal Aircraft Plane Model UK SELLER"><img src="{{ '/assets/images/marketplace-covers/94043c86e0a54a515192.jpg' | relative_url }}" alt="Listing image for NEW 16cm British Airways Concorde Die Cast Metal Aircraft Plane Model UK SELLER" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-stationary-light-that-is-moving-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="the-stationary-light-that-is-moving-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 16Cm Model For Federal Express A380 1:400 Aircraft Metal Airplane Model Plane"><img src="https://i.ebayimg.com/images/g/gv4AAeSwsvpqIqf~/s-l225.jpg" alt="Listing image for 16Cm Model For Federal Express A380 1:400 Aircraft Metal Airplane Model Plane" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-head-on-aircraft-can-look-like-a-the-stationary-light-that-is-moving-ifos-causes-of-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="a-head-on-aircraft-can-look-like-a-the-stationary-light-that-is-moving-ifos-causes-of-airplane-model" target="_blank" rel="sponsored noopener noreferrer">NEW 16cm British Airways Concorde Die Cast Metal Aircraft Plane Model UK SELLER</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-stationary-light-that-is-moving-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="the-stationary-light-that-is-moving-airplane-model" target="_blank" rel="sponsored noopener noreferrer">16Cm Model For Federal Express A380 1:400 Aircraft Metal Airplane Model Plane</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-head-on-aircraft-can-look-like-a-the-stationary-light-that-is-moving-ifos-causes-of-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="a-head-on-aircraft-can-look-like-a-the-stationary-light-that-is-moving-ifos-causes-of-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-stationary-light-that-is-moving-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="the-stationary-light-that-is-moving-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-head-on-aircraft-can-look-like-a-the-stationary-light-that-is-moving-ifos-causes-of-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="a-head-on-aircraft-can-look-like-a-the-stationary-light-that-is-moving-ifos-causes-of-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-stationary-light-that-is-moving-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="the-stationary-light-that-is-moving-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -719,15 +710,15 @@ This mechanism matters because it preserves two truths at once. The witness may 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-head-on-aircraft-can-look-like-a-the-stationary-light-that-is-moving-ifos-causes-of-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="a-head-on-aircraft-can-look-like-a-the-stationary-light-that-is-moving-ifos-causes-of-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for EasyJet Airbus A320Neo Snap-fit Model Plane 1/200 Model Plane"><img src="{{ '/assets/images/marketplace-covers/5c2cd5b228f83ed51449.jpg' | relative_url }}" alt="Listing image for EasyJet Airbus A320Neo Snap-fit Model Plane 1/200 Model Plane" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-stationary-light-that-is-moving-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="the-stationary-light-that-is-moving-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CS90636 British Airways Concorde Diecast Model - A Must-Have for Aviation Fans"><img src="https://i.ebayimg.com/images/g/io0AAeSwGgJqCyYR/s-l225.jpg" alt="Listing image for CS90636 British Airways Concorde Diecast Model - A Must-Have for Aviation Fans" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-head-on-aircraft-can-look-like-a-the-stationary-light-that-is-moving-ifos-causes-of-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="a-head-on-aircraft-can-look-like-a-the-stationary-light-that-is-moving-ifos-causes-of-airplane-model" target="_blank" rel="sponsored noopener noreferrer">EasyJet Airbus A320Neo Snap-fit Model Plane 1/200 Model Plane</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-stationary-light-that-is-moving-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="the-stationary-light-that-is-moving-airplane-model" target="_blank" rel="sponsored noopener noreferrer">CS90636 British Airways Concorde Diecast Model - A Must-Have for Aviation Fans</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-head-on-aircraft-can-look-like-a-the-stationary-light-that-is-moving-ifos-causes-of-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="a-head-on-aircraft-can-look-like-a-the-stationary-light-that-is-moving-ifos-causes-of-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-stationary-light-that-is-moving-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="the-stationary-light-that-is-moving-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-head-on-aircraft-can-look-like-a-the-stationary-light-that-is-moving-ifos-causes-of-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="a-head-on-aircraft-can-look-like-a-the-stationary-light-that-is-moving-ifos-causes-of-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-stationary-light-that-is-moving-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="the-stationary-light-that-is-moving-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -735,15 +726,15 @@ This mechanism matters because it preserves two truths at once. The witness may 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-head-on-aircraft-can-look-like-a-the-stationary-light-that-is-moving-ifos-causes-of-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="a-head-on-aircraft-can-look-like-a-the-stationary-light-that-is-moving-ifos-causes-of-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 20cm Diecast Metal Alloy Antonov An-225 &quot;Mriya&quot; Airplane Model 1/400 Scale"><img src="{{ '/assets/images/marketplace-covers/a5430c39abaa057cee31.jpg' | relative_url }}" alt="Listing image for 20cm Diecast Metal Alloy Antonov An-225 &quot;Mriya&quot; Airplane Model 1/400 Scale" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-stationary-light-that-is-moving-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="the-stationary-light-that-is-moving-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 16cm Virgin Atlantic B747 Airplane Model 1:400 Alloy Simulation Plane Ornaments"><img src="https://i.ebayimg.com/images/g/chUAAeSwyX9peIiz/s-l225.jpg" alt="Listing image for 16cm Virgin Atlantic B747 Airplane Model 1:400 Alloy Simulation Plane Ornaments" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-head-on-aircraft-can-look-like-a-the-stationary-light-that-is-moving-ifos-causes-of-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="a-head-on-aircraft-can-look-like-a-the-stationary-light-that-is-moving-ifos-causes-of-airplane-model" target="_blank" rel="sponsored noopener noreferrer">20cm Diecast Metal Alloy Antonov An-225 &quot;Mriya&quot; Airplane Model 1/400 Scale</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-stationary-light-that-is-moving-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="the-stationary-light-that-is-moving-airplane-model" target="_blank" rel="sponsored noopener noreferrer">16cm Virgin Atlantic B747 Airplane Model 1:400 Alloy Simulation Plane Ornaments</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-head-on-aircraft-can-look-like-a-the-stationary-light-that-is-moving-ifos-causes-of-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="a-head-on-aircraft-can-look-like-a-the-stationary-light-that-is-moving-ifos-causes-of-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-stationary-light-that-is-moving-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="the-stationary-light-that-is-moving-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-head-on-aircraft-can-look-like-a-the-stationary-light-that-is-moving-ifos-causes-of-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="a-head-on-aircraft-can-look-like-a-the-stationary-light-that-is-moving-ifos-causes-of-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-stationary-light-that-is-moving-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="the-stationary-light-that-is-moving-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -751,15 +742,15 @@ This mechanism matters because it preserves two truths at once. The witness may 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-head-on-aircraft-can-look-like-a-the-stationary-light-that-is-moving-ifos-causes-of-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="a-head-on-aircraft-can-look-like-a-the-stationary-light-that-is-moving-ifos-causes-of-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 20cm FedEx Express ATR Airplane Model Diecast Metal Aircraft Collectible Gift"><img src="{{ '/assets/images/marketplace-covers/ba31d36476c4410af7dd.jpg' | relative_url }}" alt="Listing image for 20cm FedEx Express ATR Airplane Model Diecast Metal Aircraft Collectible Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-stationary-light-that-is-moving-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="the-stationary-light-that-is-moving-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for EasyJet Airbus A320Neo Snap-fit Model Plane 1/200 Model Plane"><img src="https://i.ebayimg.com/images/g/~UYAAeSw9HVoXoJJ/s-l225.jpg" alt="Listing image for EasyJet Airbus A320Neo Snap-fit Model Plane 1/200 Model Plane" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-head-on-aircraft-can-look-like-a-the-stationary-light-that-is-moving-ifos-causes-of-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="a-head-on-aircraft-can-look-like-a-the-stationary-light-that-is-moving-ifos-causes-of-airplane-model" target="_blank" rel="sponsored noopener noreferrer">20cm FedEx Express ATR Airplane Model Diecast Metal Aircraft Collectible Gift</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-stationary-light-that-is-moving-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="the-stationary-light-that-is-moving-airplane-model" target="_blank" rel="sponsored noopener noreferrer">EasyJet Airbus A320Neo Snap-fit Model Plane 1/200 Model Plane</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-head-on-aircraft-can-look-like-a-the-stationary-light-that-is-moving-ifos-causes-of-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="a-head-on-aircraft-can-look-like-a-the-stationary-light-that-is-moving-ifos-causes-of-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-stationary-light-that-is-moving-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="the-stationary-light-that-is-moving-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-head-on-aircraft-can-look-like-a-the-stationary-light-that-is-moving-ifos-causes-of-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="a-head-on-aircraft-can-look-like-a-the-stationary-light-that-is-moving-ifos-causes-of-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-stationary-light-that-is-moving-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="the-stationary-light-that-is-moving-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -767,7 +758,7 @@ This mechanism matters because it preserves two truths at once. The witness may 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-head-on-aircraft-can-look-like-a-the-stationary-light-that-is-moving-ifos-causes-of-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="a-head-on-aircraft-can-look-like-a-the-stationary-light-that-is-moving-ifos-causes-of-airplane-model" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-stationary-light-that-is-moving-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="the-stationary-light-that-is-moving-airplane-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -983,144 +974,144 @@ This mechanism matters because it preserves two truths at once. The witness may 
 1. <a id="endnote-1"></a>
    Source: war.gov  
    Title: U.S. Department of War  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/](https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>DOD Examining Unidentified Anomalous Phenomena &gt; U.S. Department of War &gt; Defense Department News | U.S. Department of War...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: visualexpert.com  
    Title: A Crash Course In Collisions: The CBDR Rule  
-   Link: [https://www.visualexpert.com/Resources/crashcourse.html](https://www.visualexpert.com/Resources/crashcourse.html)  
+   Link: <a href="https://www.visualexpert.com/Resources/crashcourse.html" target="_blank" rel="noopener noreferrer nofollow">https://www.visualexpert.com/Resources/crashcourse.html</a>  
 
 3. <a id="endnote-3"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/figure/The-relative-bearing-to-the-other-aircraft-is-constant-for-each-aircraft-at-constant_fig3_7907700](https://www.researchgate.net/figure/The-relative-bearing-to-the-other-aircraft-is-constant-for-each-aircraft-at-constant_fig3_7907700)  
+   Link: <a href="https://www.researchgate.net/figure/The-relative-bearing-to-the-other-aircraft-is-constant-for-each-aircraft-at-constant_fig3_7907700" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/The-relative-bearing-to-the-other-aircraft-is-constant-for-each-aircraft-at-constant_fig3_7907700</a>  
 
 4. <a id="endnote-4"></a>
    Source: faraim.org  
-   Link: [https://faraim.org/faa/aim/chapter-4/section-4-3-24.html](https://faraim.org/faa/aim/chapter-4/section-4-3-24.html)  
+   Link: <a href="https://faraim.org/faa/aim/chapter-4/section-4-3-24.html" target="_blank" rel="noopener noreferrer nofollow">https://faraim.org/faa/aim/chapter-4/section-4-3-24.html</a>  
 
 5. <a id="endnote-5"></a>
    Source: data.ntsb.gov  
    Title: doc BLOB  
-   Link: [https://data.ntsb.gov/Docket/Document/docBLOB?FileExtension=.PDF&FileName=Pages+from+Airplane+Flying+Handbook+%28FAA-H-8083-3B%29+Chapter-Master.PDF&ID=40484326](https://data.ntsb.gov/Docket/Document/docBLOB?FileExtension=.PDF&FileName=Pages+from+Airplane+Flying+Handbook+%28FAA-H-8083-3B%29+Chapter-Master.PDF&ID=40484326)  
+   Link: <a href="https://data.ntsb.gov/Docket/Document/docBLOB?FileExtension=.PDF&amp;FileName=Pages+from+Airplane+Flying+Handbook+%28FAA-H-8083-3B%29+Chapter-Master.PDF&amp;ID=40484326" target="_blank" rel="noopener noreferrer nofollow">https://data.ntsb.gov/Docket/Document/docBLOB?FileExtension=.PDF&amp;FileName=Pages+from+Airplane+Flying+Handbook+%28FAA-H-8083-3B%29+Chapter-Master.PDF&amp;ID=40484326</a>  
 
 6. <a id="endnote-6"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_1.html](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_1.html)  
+   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_1.html</a>  
 
 7. <a id="endnote-7"></a>
    Source: science.nasa.gov  
    Title: Science UAP  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 8. <a id="endnote-8"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf)  
+   Link: <a href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf</a>  
 
 9. <a id="endnote-9"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/sites/faa.gov/files/Night_Ops_Ch13.pdf](https://www.faa.gov/sites/faa.gov/files/Night_Ops_Ch13.pdf)  
+   Link: <a href="https://www.faa.gov/sites/faa.gov/files/Night_Ops_Ch13.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/Night_Ops_Ch13.pdf</a>  
 
 10. <a id="endnote-10"></a>
    Source: [aaro](&#123;&#123; 'aaro/' | relative_url &#125;&#125;). mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 11. <a id="endnote-11"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 12. <a id="endnote-12"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: [https://www.aaro.mil/UAP-Records/](https://www.aaro.mil/UAP-Records/)  
+   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
 13. <a id="endnote-13"></a>
    Source: nightsky.jpl.nasa.gov  
-   Link: [https://nightsky.jpl.nasa.gov/news/39/](https://nightsky.jpl.nasa.gov/news/39/)  
+   Link: <a href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow">https://nightsky.jpl.nasa.gov/news/39/</a>  
 
 14. <a id="endnote-14"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 15. <a id="endnote-15"></a>
    Source: nasa.gov  
    Title: announces unidentified aerial phenomena study team members  
-   Link: [https://www.nasa.gov/general/nasa-announces-unidentified-aerial-phenomena-study-team-members/](https://www.nasa.gov/general/nasa-announces-unidentified-aerial-phenomena-study-team-members/)  
+   Link: <a href="https://www.nasa.gov/general/nasa-announces-unidentified-aerial-phenomena-study-team-members/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/general/nasa-announces-unidentified-aerial-phenomena-study-team-members/</a>  
 
 16. <a id="endnote-16"></a>
    Source: visualexpert.com  
    Title: Why Drivers Say "He came out of nowhere"  
-   Link: [https://www.visualexpert.com/Resources/didntsee.html](https://www.visualexpert.com/Resources/didntsee.html)  
+   Link: <a href="https://www.visualexpert.com/Resources/didntsee.html" target="_blank" rel="noopener noreferrer nofollow">https://www.visualexpert.com/Resources/didntsee.html</a>  
 
 17. <a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/figure/Mechanism-by-which-the-constant-bearing-geometry-of-an-incidental-collision-course-can_fig7_362876300](https://www.researchgate.net/figure/Mechanism-by-which-the-constant-bearing-geometry-of-an-incidental-collision-course-can_fig7_362876300)  
+   Link: <a href="https://www.researchgate.net/figure/Mechanism-by-which-the-constant-bearing-geometry-of-an-incidental-collision-course-can_fig7_362876300" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Mechanism-by-which-the-constant-bearing-geometry-of-an-incidental-collision-course-can_fig7_362876300</a>  
 
 18. <a id="endnote-18"></a>
    Source: researchgate.net  
    Title: 221283105 Perception of Image Motion During Head Movement  
-   Link: [https://www.researchgate.net/publication/221283105_Perception_of_Image_Motion_During_Head_Movement](https://www.researchgate.net/publication/221283105_Perception_of_Image_Motion_During_Head_Movement)  
+   Link: <a href="https://www.researchgate.net/publication/221283105_Perception_of_Image_Motion_During_Head_Movement" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/221283105_Perception_of_Image_Motion_During_Head_Movement</a>  
 
 19. <a id="endnote-19"></a>
    Source: epicflightacademy.com  
    Title: aircraft lights  
-   Link: [https://epicflightacademy.com/aircraft-lights/](https://epicflightacademy.com/aircraft-lights/)  
+   Link: <a href="https://epicflightacademy.com/aircraft-lights/" target="_blank" rel="noopener noreferrer nofollow">https://epicflightacademy.com/aircraft-lights/</a>  
 
 20. <a id="endnote-20"></a>
    Source: Wikipedia  
    Title: Constant bearing, decreasing range  
-   Link: [https://en.wikipedia.org/wiki/Constant_bearing%2C_decreasing_range](https://en.wikipedia.org/wiki/Constant_bearing%2C_decreasing_range)  
+   Link: <a href="https://en.wikipedia.org/wiki/Constant_bearing%2C_decreasing_range" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Constant_bearing%2C_decreasing_range</a>  
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=0M1J9qQX1TQ](https://www.youtube.com/watch?v=0M1J9qQX1TQ)  
+   Link: <a href="https://www.youtube.com/watch?v=0M1J9qQX1TQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0M1J9qQX1TQ</a>  
 
 22. <a id="endnote-22"></a>
    Source: media.defense.gov  
    Title: FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508  
-   Link: [https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF](https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
 
 ### Additional References
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: How to identify an airplane in the night sky  
-   Link: [https://www.youtube.com/watch?v=kR6D5Gg5sZ4](https://www.youtube.com/watch?v=kR6D5Gg5sZ4)  
+   Link: <a href="https://www.youtube.com/watch?v=kR6D5Gg5sZ4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kR6D5Gg5sZ4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Airplane landing lights night approach stationary illusion B.o.B&#x27;s Flat Earth Conspiracy Explained (And Obviously Debunked) Mashable...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2401.17117v1](https://arxiv.org/html/2401.17117v1)  
+   Link: <a href="https://arxiv.org/html/2401.17117v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2401.17117v1</a>  
 
 25. <a id="endnote-25"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/fox6news/posts/a-newly-resurfaced-aviation-audio-clip-shared-online-has-drawn-attention-after-a/1443376540709165/](https://www.facebook.com/fox6news/posts/a-newly-resurfaced-aviation-audio-clip-shared-online-has-drawn-attention-after-a/1443376540709165/)  
+   Link: <a href="https://www.facebook.com/fox6news/posts/a-newly-resurfaced-aviation-audio-clip-shared-online-has-drawn-attention-after-a/1443376540709165/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox6news/posts/a-newly-resurfaced-aviation-audio-clip-shared-online-has-drawn-attention-after-a/1443376540709165/</a>  
 
 27. <a id="endnote-27"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/FOX10Phoenix/posts/a-newly-resurfaced-aviation-audio-clip-shared-online-has-drawn-attention-after-a/1196593622674762/](https://www.facebook.com/FOX10Phoenix/posts/a-newly-resurfaced-aviation-audio-clip-shared-online-has-drawn-attention-after-a/1196593622674762/)  
+   Link: <a href="https://www.facebook.com/FOX10Phoenix/posts/a-newly-resurfaced-aviation-audio-clip-shared-online-has-drawn-attention-after-a/1196593622674762/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FOX10Phoenix/posts/a-newly-resurfaced-aviation-audio-clip-shared-online-has-drawn-attention-after-a/1196593622674762/</a>  
 
 28. <a id="endnote-28"></a>
    Source: cfinotebook.net  
-   Link: [https://www.cfinotebook.net/notebook/operation-of-aircraft-systems/aircraft-lighting](https://www.cfinotebook.net/notebook/operation-of-aircraft-systems/aircraft-lighting)  
+   Link: <a href="https://www.cfinotebook.net/notebook/operation-of-aircraft-systems/aircraft-lighting" target="_blank" rel="noopener noreferrer nofollow">https://www.cfinotebook.net/notebook/operation-of-aircraft-systems/aircraft-lighting</a>  
 
 29. <a id="endnote-29"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1hbn71h/can_anyone_produce_a_video_of_a_stationary_light/](https://www.reddit.com/r/UFOs/comments/1hbn71h/can_anyone_produce_a_video_of_a_stationary_light/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1hbn71h/can_anyone_produce_a_video_of_a_stationary_light/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1hbn71h/can_anyone_produce_a_video_of_a_stationary_light/</a>  
 
 30. <a id="endnote-30"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/616885411769284/posts/23964348973262932/](https://www.facebook.com/groups/616885411769284/posts/23964348973262932/)  
+   Link: <a href="https://www.facebook.com/groups/616885411769284/posts/23964348973262932/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/616885411769284/posts/23964348973262932/</a>  
 
 31. <a id="endnote-31"></a>
    Source: gleim.com  
-   Link: [https://www.gleim.com/aviation/faraim/index.php?leafNum=91_209&srsltid=AfmBOoryK_vi9ZHnIatCmIIVUoBt4qHSNvF1v_AGUyjhykRY5letaH3Q](https://www.gleim.com/aviation/faraim/index.php?leafNum=91_209&srsltid=AfmBOoryK_vi9ZHnIatCmIIVUoBt4qHSNvF1v_AGUyjhykRY5letaH3Q)  
+   Link: <a href="https://www.gleim.com/aviation/faraim/index.php?leafNum=91_209&amp;srsltid=AfmBOoryK_vi9ZHnIatCmIIVUoBt4qHSNvF1v_AGUyjhykRY5letaH3Q" target="_blank" rel="noopener noreferrer nofollow">https://www.gleim.com/aviation/faraim/index.php?leafNum=91_209&amp;srsltid=AfmBOoryK_vi9ZHnIatCmIIVUoBt4qHSNvF1v_AGUyjhykRY5letaH3Q</a>  
 
 32. <a id="endnote-32"></a>
    Source: eoceanic.com  
-   Link: [https://eoceanic.com/sailing/tips/27/179/how_to_tell_if_you_are_on_a_collision_course_with_another_vessel/](https://eoceanic.com/sailing/tips/27/179/how_to_tell_if_you_are_on_a_collision_course_with_another_vessel/)  
+   Link: <a href="https://eoceanic.com/sailing/tips/27/179/how_to_tell_if_you_are_on_a_collision_course_with_another_vessel/" target="_blank" rel="noopener noreferrer nofollow">https://eoceanic.com/sailing/tips/27/179/how_to_tell_if_you_are_on_a_collision_course_with_another_vessel/</a>

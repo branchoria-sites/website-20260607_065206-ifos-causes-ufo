@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_haze_planet_reports_a4be32
 - ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_rain_light_halos_953601
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - weather-records
 - blue-book
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - weather-records
 - blue-book
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Project Blue Book treated missing weather details as a reason a UFO report could remain impossible to evaluate.
 hero_summary: Project Blue Book treated missing weather details as a reason a UFO report could remain impossible to evaluate.
 layout: default
 permalink: /blue-book-8d9011/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /weather-records/
 nav_short_title: Blue Book
 title: The weather questions Blue Book needed answered
-title_full: The weather questions Blue Book needed answered | Weather Records
+title_full: The weather questions Blue Book needed answered
 display_title_short: Blue Book
 display_title: Blue Book
 heading_title: The weather questions Blue Book needed answered
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 21:50:26'
-parent_title: Weather Clues That Explain Strange Lights | IFOs
+parent_title: Weather Clues That Explain Strange Lights
 parent_permalink: /weather-records/
 parent_nav_short_title: Weather Records
 parent_heading_title: Weather Clues That Explain Strange Lights
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13
-  title: Weather Records | Ifos Causes Of
+  title: Weather Records | ifos causes of UFO 3 ed 238
   permalink: /weather-records/
   short_title: Weather Records
   heading_title: Weather Clues That Explain Strange Lights
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13
-  title: Weather Records | Ifos Causes Of
+  title: Weather Records | ifos causes of UFO 3 ed 238
   permalink: /weather-records/
   short_title: Weather Records
   heading_title: Weather Clues That Explain Strange Lights
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: When rain turns lights into UFOs
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13
-  title: Weather Records | Ifos Causes Of
+  title: Weather Records | ifos causes of UFO 3 ed 238
   permalink: /weather-records/
   short_title: Weather Records
   heading_title: Weather Clues That Explain Strange Lights
@@ -260,6 +259,7 @@ next_link:
   permalink: /cloud-vanish/
   short_title: Cloud vanish
   heading_title: Did the UFO vanish into cloud?
+date: '2026-06-12 00:36:02 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_blue_book_weather_qu_16385d-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_blue_book_weather_qu_16385d-Illustration-1.webp
@@ -268,8 +268,7 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_blue_bo
 
 ## Introduction
 
-[Project Blue Book]({{ 'blue-book/' | relative_url }}) did not treat weather as a minor detail. For Air Force investigators, weather information was often the difference between identifying a sighting and leaving it unresolved. When a witness reported an unusual light, object or manoeuvre in the sky, investigators needed to know not only what was seen but also the atmospheric conditions through which it was observed. If key weather information was missing, Blue Book could place a case into the category of insufficient information rather than reach a firm conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Logistics Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Defense Logistics AgencyProject Blue BookThe Air Force groups its evaluations of UFO reports under three general headings: (1) identified...</span></span></span>
-
+Project Blue Book did not treat weather as a minor detail. For Air Force investigators, weather information was often the difference between identifying a sighting and leaving it unresolved. When a witness reported an unusual light, object or manoeuvre in the sky, investigators needed to know not only what was seen but also the atmospheric conditions through which it was observed. If key weather information was missing, Blue Book could place a case into the category of insufficient information rather than reach a firm conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Logistics Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Defense Logistics AgencyProject Blue BookThe Air Force groups its evaluations of UFO reports under three general headings: (1) identified...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_blue_book_weather_qu_16385d-Illustration-1-dark.svg" | relative_url }}" alt="Blue Book illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_blue_book_weather_qu_16385d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_blue_book_weather_qu_16385d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This approach is important in understanding the causes of UFO reports. Many ordinary explanations depended on visibility conditions. A bright planet viewed through haze, an aircraft partly hidden by cloud, or lights distorted by mist could all appear unusual. Without reliable information about clouds, visibility, precipitation or wind, investigators often lacked the evidence needed to test those possibilities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/5/5c/Project_Blue_Book%2C_BBA-PBSR8-300.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-title">Commons The Project Blue Book Archive</span><span class="citation-popover-snippet">34.1 CLOUDS (Circle One) a. Clear sky b. Hazy c. Scattered clouds d. Thick or heavy clouds e. Don&#x27;t remember. 34.3 WEATHER (...Read more...</span></span></span>
@@ -289,24 +288,20 @@ These questions were not administrative formalities. They were intended to help 
 
 Blue Book investigators also routinely sought supporting meteorological records from weather stations and military facilities when available. The goal was to determine whether the reported behaviour matched ordinary phenomena under the conditions that actually existed at the time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/5/5c/Project_Blue_Book%2C_BBA-PBSR8-300.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-title">Commons The Project Blue Book Archive</span><span class="citation-popover-snippet">34.1 CLOUDS (Circle One) a. Clear sky b. Hazy c. Scattered clouds d. Thick or heavy clouds e. Don&#x27;t remember. 34.3 WEATHER (...Read more...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Xu4oTBBI5UE" title="Project Blue Book: America&#x27;s Obsession with UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Xu4oTBBI5UE" target="_blank" rel="noopener noreferrer">Project Blue Book: America&#x27;s Obsession with UFOs</a></p><p class="youtube-embed-meta">Channel: Origins OSU &middot; Views: 1.6K &middot; Uploaded: September 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Xu4oTBBI5UE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Xu4oTBBI5UE">Open on YouTube</a></p></div></div></div>
-
 ## How haze, fog and clouds affected ordinary explanations
 
 A recurring lesson in Blue Book files was that atmospheric conditions could dramatically alter how familiar objects appeared.
 
 ### Haze and astronomical objects
 
-Blue Book repeatedly encountered reports involving bright planets and [stars]({{ 'stars/' | relative_url }}). Under clear conditions these objects could often be recognised, but haze near the horizon could make them appear larger, coloured, pulsating or mobile. Investigators therefore needed precise information about visibility and cloud cover before ruling out astronomical explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.studocu.com/en-za/document/university-of-the-witwatersrand-johannesburg/physics-for-scientists-engineers-i/ufo-documents-and-information/120714874" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studocu.com">[Studocu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studocu.com</span><span class="citation-popover-snippet">StudocuUFO Investigations Under Project Blue Book (Feb 1966)The Air Force groups its evaluations of UFO reports under three general headi...</span></span></span>
+Blue Book repeatedly encountered reports involving bright planets and [stars]({{ 'stars/' | relative_url }}). Under clear conditions these objects could often be recognised, but haze near the horizon could make them appear larger, coloured, pulsating or mobile. Investigators therefore needed precise information about visibility and cloud cover before ruling out astronomical explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.studocu.com/en-za/document/university-of-the-witwatersrand-johannesburg/physics-for-scientists-engineers-i/ufo-documents-and-information/120714874" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studocu.com">[Studocu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studocu.com</span><span class="citation-popover-snippet">UFO Investigations Under Project Blue Book (Feb 1966)The Air Force groups its evaluations of UFO reports under three general headi...</span></span></span>
 
 A witness who simply reported a “clear night” might still have been viewing an object through a thin haze layer close to the horizon. From an investigative standpoint, that distinction mattered.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_blue_book_weather_qu_16385d-Illustration-2-dark.svg" | relative_url }}" alt="Blue Book illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_blue_book_weather_qu_16385d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_blue_book_weather_qu_16385d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Cloud layers and apparent motion
 
-Clouds could create the illusion that a stationary object was moving. An aircraft light seen through broken cloud might seem to dart, stop or change direction as different cloud layers obscured parts of the view. [Searchlights]({{ 'searchlights/' | relative_url }}) and [reflections]({{ 'reflections/' | relative_url }}) could also produce unusual appearances when interacting with low cloud. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.studocu.com/en-za/document/university-of-the-witwatersrand-johannesburg/physics-for-scientists-engineers-i/ufo-documents-and-information/120714874" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studocu.com">[Studocu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studocu.com</span><span class="citation-popover-snippet">StudocuUFO Investigations Under Project Blue Book (Feb 1966)The Air Force groups its evaluations of UFO reports under three general headi...</span></span></span>
+Clouds could create the illusion that a stationary object was moving. An aircraft light seen through broken cloud might seem to dart, stop or change direction as different cloud layers obscured parts of the view. [Searchlights]({{ 'searchlights/' | relative_url }}) and [reflections]({{ 'reflections/' | relative_url }}) could also produce unusual appearances when interacting with low cloud. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.studocu.com/en-za/document/university-of-the-witwatersrand-johannesburg/physics-for-scientists-engineers-i/ufo-documents-and-information/120714874" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studocu.com">[Studocu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studocu.com</span><span class="citation-popover-snippet">UFO Investigations Under Project Blue Book (Feb 1966)The Air Force groups its evaluations of UFO reports under three general headi...</span></span></span>
 
 Because of this, Blue Book's questionnaires sought more than a simple yes-or-no answer about cloudiness. Investigators needed enough detail to reconstruct the witness's viewing conditions.
 
@@ -314,9 +309,7 @@ Because of this, Blue Book's questionnaires sought more than a simple yes-or-no 
 
 Fog and mist reduce contrast and eliminate visual reference points. Under such conditions it becomes harder to judge distance, size and speed. A relatively ordinary light can appear larger, closer or more mysterious than it actually is. Blue Book's forms specifically asked whether fog, mist or light rain were present because these conditions could significantly affect perception. <span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/5/5c/Project_Blue_Book%2C_BBA-PBSR8-300.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-title">Commons The Project Blue Book Archive</span><span class="citation-popover-snippet">34.1 CLOUDS (Circle One) a. Clear sky b. Hazy c. Scattered clouds d. Thick or heavy clouds e. Don&#x27;t remember. 34.3 WEATHER (...Read more...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cVzyPnDYX2Y" title="Most Unbelievable UFO Encounters Ever | The Proof Is Out There | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cVzyPnDYX2Y" target="_blank" rel="noopener noreferrer">Most Unbelievable UFO Encounters Ever | The Proof Is Out There | History</a></p><p class="youtube-embed-meta">Channel: HISTORY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cVzyPnDYX2Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cVzyPnDYX2Y">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_blue_book_weather_qu_16385d-Illustration-3-dark.svg" | relative_url }}" alt="Blue Book illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_blue_book_weather_qu_16385d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_blue_book_weather_qu_16385d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why missing conditions can leave cases unresolved
 
 One of Blue Book's official categories was not “unidentified” but “insufficient information”. Investigators recognised that some reports simply lacked enough data for a reliable evaluation. Missing weather information was a common reason why this happened. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Logistics Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Defense Logistics AgencyProject Blue BookThe Air Force groups its evaluations of UFO reports under three general headings: (1) identified...</span></span></span>
@@ -333,17 +326,13 @@ Without those details, investigators could neither confirm nor eliminate many co
 
 The large Battelle Memorial Institute analysis behind Project Blue Book Special Report No. 14 separated cases into identified, unidentified and insufficient-information categories. The existence of the latter category reflected an important methodological principle: investigators preferred admitting that evidence was incomplete rather than claiming certainty where critical facts were missing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010001-0.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">CIA RDP81R00560R000100010001 0</span><span class="citation-popover-snippet">Air Force Headquarters Monitor of AF Project Blue Book. UFO investigation, prepared analyses of UFO data for AF, liaison officer between...</span></span></span>
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Xu4oTBBI5UE" title="Project Blue Book: America&#x27;s Obsession with UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Xu4oTBBI5UE" target="_blank" rel="noopener noreferrer">Project Blue Book: America&#x27;s Obsession with UFOs</a></p><p class="youtube-embed-meta">Channel: Origins OSU &middot; Views: 1.6K &middot; Uploaded: September 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Xu4oTBBI5UE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Xu4oTBBI5UE">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_blue_book_weather_qu_16385d-Illustration-3-dark.svg" | relative_url }}" alt="Blue Book illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_blue_book_weather_qu_16385d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_blue_book_weather_qu_16385d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Blue Book's weather questions reveal about UFO investigations
 
 The weather section of Blue Book's reporting system shows how seriously investigators treated environmental conditions. Rather than asking only what an object looked like, they asked what the sky looked like, how clear the air was and whether atmospheric conditions might have influenced perception.
 
 For the broader study of UFO reports, this remains a useful lesson. Many sightings cannot be assessed solely from witness descriptions. Visibility, cloud cover, haze, fog and wind often determine whether a report can be matched to an aircraft, balloon, astronomical object or atmospheric effect. When those details are missing, even a sincere and detailed account may remain unresolved—not because the object was necessarily extraordinary, but because the conditions needed for evaluation were never recorded. <span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/5/5c/Project_Blue_Book%2C_BBA-PBSR8-300.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-title">Commons The Project Blue Book Archive</span><span class="citation-popover-snippet">34.1 CLOUDS (Circle One) a. Clear sky b. Hazy c. Scattered clouds d. Thick or heavy clouds e. Don&#x27;t remember. 34.3 WEATHER (...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Logistics Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Defense Logistics AgencyProject Blue BookThe Air Force groups its evaluations of UFO reports under three general headings: (1) identified...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7TH9iCUgrG4" title="Project Blue Book: Declassified – The True Story of the Flatwoods Monster | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7TH9iCUgrG4" target="_blank" rel="noopener noreferrer">Project Blue Book: Declassified – The True Story of the Flatwoods Monster | History</a></p><p class="youtube-embed-meta">Channel: HISTORY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7TH9iCUgrG4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7TH9iCUgrG4">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -462,15 +451,15 @@ For the broader study of UFO reports, this remains a useful lesson. Many sightin
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8d9011-the-weather-questions-blue-book-needed-answered-ifos-causes-of-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="blue-book-8d9011-the-weather-questions-blue-book-needed-answered-ifos-causes-of-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station Indoor Outdoor Wireless Digital LCD Colored Screen with Sensor"><img src="{{ '/assets/images/marketplace-covers/c77c0b33a337ede41bba.jpg' | relative_url }}" alt="Listing image for Weather Station Indoor Outdoor Wireless Digital LCD Colored Screen with Sensor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-weather-questions-blue-book-needed-answered-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="the-weather-questions-blue-book-needed-answered-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Meteorological Fusion Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/Z50AAeSwLgNpZShh/s-l225.jpg" alt="Listing image for Meteorological Fusion Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8d9011-the-weather-questions-blue-book-needed-answered-ifos-causes-of-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="blue-book-8d9011-the-weather-questions-blue-book-needed-answered-ifos-causes-of-weather-station" target="_blank" rel="sponsored noopener noreferrer">Weather Station Indoor Outdoor Wireless Digital LCD Colored Screen with Sensor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-weather-questions-blue-book-needed-answered-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="the-weather-questions-blue-book-needed-answered-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer">Meteorological Fusion Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8d9011-the-weather-questions-blue-book-needed-answered-ifos-causes-of-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="blue-book-8d9011-the-weather-questions-blue-book-needed-answered-ifos-causes-of-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather station</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-weather-questions-blue-book-needed-answered-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="the-weather-questions-blue-book-needed-answered-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorology poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8d9011-the-weather-questions-blue-book-needed-answered-ifos-causes-of-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="blue-book-8d9011-the-weather-questions-blue-book-needed-answered-ifos-causes-of-weather-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-weather-questions-blue-book-needed-answered-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="the-weather-questions-blue-book-needed-answered-meteorology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -478,15 +467,15 @@ For the broader study of UFO reports, this remains a useful lesson. Many sightin
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8d9011-the-weather-questions-blue-book-needed-answered-ifos-causes-of-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="blue-book-8d9011-the-weather-questions-blue-book-needed-answered-ifos-causes-of-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor"><img src="{{ '/assets/images/marketplace-covers/b56e6f056845ae90f9f7.jpg' | relative_url }}" alt="Listing image for Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-weather-questions-blue-book-needed-answered-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="the-weather-questions-blue-book-needed-answered-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Meteorology Design Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/fg8AAeSwSoJpwX0z/s-l225.jpg" alt="Listing image for Funny Meteorology Design Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8d9011-the-weather-questions-blue-book-needed-answered-ifos-causes-of-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="blue-book-8d9011-the-weather-questions-blue-book-needed-answered-ifos-causes-of-weather-station" target="_blank" rel="sponsored noopener noreferrer">Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-weather-questions-blue-book-needed-answered-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="the-weather-questions-blue-book-needed-answered-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer">Funny Meteorology Design Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8d9011-the-weather-questions-blue-book-needed-answered-ifos-causes-of-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="blue-book-8d9011-the-weather-questions-blue-book-needed-answered-ifos-causes-of-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather station</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-weather-questions-blue-book-needed-answered-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="the-weather-questions-blue-book-needed-answered-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorology poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8d9011-the-weather-questions-blue-book-needed-answered-ifos-causes-of-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="blue-book-8d9011-the-weather-questions-blue-book-needed-answered-ifos-causes-of-weather-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-weather-questions-blue-book-needed-answered-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="the-weather-questions-blue-book-needed-answered-meteorology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -494,15 +483,15 @@ For the broader study of UFO reports, this remains a useful lesson. Many sightin
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8d9011-the-weather-questions-blue-book-needed-answered-ifos-causes-of-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="blue-book-8d9011-the-weather-questions-blue-book-needed-answered-ifos-causes-of-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor"><img src="{{ '/assets/images/marketplace-covers/3ea05f8678a358198667.jpg' | relative_url }}" alt="Listing image for Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-weather-questions-blue-book-needed-answered-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="the-weather-questions-blue-book-needed-answered-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Cloud Atlas Weather Chart Meteorology Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/mXoAAeSwCbZqFwat/s-l225.jpg" alt="Listing image for The Cloud Atlas Weather Chart Meteorology Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8d9011-the-weather-questions-blue-book-needed-answered-ifos-causes-of-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="blue-book-8d9011-the-weather-questions-blue-book-needed-answered-ifos-causes-of-weather-station" target="_blank" rel="sponsored noopener noreferrer">Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-weather-questions-blue-book-needed-answered-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="the-weather-questions-blue-book-needed-answered-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer">The Cloud Atlas Weather Chart Meteorology Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8d9011-the-weather-questions-blue-book-needed-answered-ifos-causes-of-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="blue-book-8d9011-the-weather-questions-blue-book-needed-answered-ifos-causes-of-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather station</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-weather-questions-blue-book-needed-answered-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="the-weather-questions-blue-book-needed-answered-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorology poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8d9011-the-weather-questions-blue-book-needed-answered-ifos-causes-of-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="blue-book-8d9011-the-weather-questions-blue-book-needed-answered-ifos-causes-of-weather-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-weather-questions-blue-book-needed-answered-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="the-weather-questions-blue-book-needed-answered-meteorology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -510,15 +499,15 @@ For the broader study of UFO reports, this remains a useful lesson. Many sightin
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8d9011-the-weather-questions-blue-book-needed-answered-ifos-causes-of-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="blue-book-8d9011-the-weather-questions-blue-book-needed-answered-ifos-causes-of-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station Official 2026 Radio Control UK Version, Professional 6-in-1"><img src="{{ '/assets/images/marketplace-covers/04c0d83aebcfe9483540.jpg' | relative_url }}" alt="Listing image for Weather Station Official 2026 Radio Control UK Version, Professional 6-in-1" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-weather-questions-blue-book-needed-answered-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="the-weather-questions-blue-book-needed-answered-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Diagram of meteorology Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/Db0AAeSwLH1o-Qkb/s-l225.jpg" alt="Listing image for Diagram of meteorology Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8d9011-the-weather-questions-blue-book-needed-answered-ifos-causes-of-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="blue-book-8d9011-the-weather-questions-blue-book-needed-answered-ifos-causes-of-weather-station" target="_blank" rel="sponsored noopener noreferrer">Weather Station Official 2026 Radio Control UK Version, Professional 6-in-1</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-weather-questions-blue-book-needed-answered-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="the-weather-questions-blue-book-needed-answered-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer">Diagram of meteorology Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8d9011-the-weather-questions-blue-book-needed-answered-ifos-causes-of-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="blue-book-8d9011-the-weather-questions-blue-book-needed-answered-ifos-causes-of-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather station</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-weather-questions-blue-book-needed-answered-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="the-weather-questions-blue-book-needed-answered-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorology poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8d9011-the-weather-questions-blue-book-needed-answered-ifos-causes-of-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="blue-book-8d9011-the-weather-questions-blue-book-needed-answered-ifos-causes-of-weather-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-weather-questions-blue-book-needed-answered-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="the-weather-questions-blue-book-needed-answered-meteorology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -526,7 +515,7 @@ For the broader study of UFO reports, this remains a useful lesson. Many sightin
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8d9011-the-weather-questions-blue-book-needed-answered-ifos-causes-of-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="blue-book-8d9011-the-weather-questions-blue-book-needed-answered-ifos-causes-of-weather-station" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-weather-questions-blue-book-needed-answered-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="the-weather-questions-blue-book-needed-answered-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -742,126 +731,126 @@ For the broader study of UFO reports, this remains a useful lesson. Many sightin
 1. <a id="endnote-1"></a>
    Source: cia.gov  
    Title: ANALYSIS OF REPORTS OF UNIDENTIFIED AERIAL  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100060001-5](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100060001-5)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100060001-5" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100060001-5</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PROJECT BLUE BOOK SPECIAL REPORT NO. 14 (ANALYSIS OF REPORTS OF UNIDENTIFIED AERIAL OBJECTS) PROJECT NO.... INSUFFICIENT INFORMATION and...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: upload.wikimedia.org  
    Title: Commons The Project Blue Book Archive  
-   Link: [https://upload.wikimedia.org/wikipedia/commons/5/5c/Project_Blue_Book%2C_BBA-PBSR8-300.pdf](https://upload.wikimedia.org/wikipedia/commons/5/5c/Project_Blue_Book%2C_BBA-PBSR8-300.pdf)  
+   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/5/5c/Project_Blue_Book%2C_BBA-PBSR8-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/5/5c/Project_Blue_Book%2C_BBA-PBSR8-300.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>34.1 CLOUDS (Circle One) a. Clear sky b. Hazy c. Scattered clouds d. Thick or heavy clouds e. Don&#x27;t remember. 34.3 WEATHER (...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: studocu.com  
-   Link: [https://www.studocu.com/en-za/document/university-of-the-witwatersrand-johannesburg/physics-for-scientists-engineers-i/ufo-documents-and-information/120714874](https://www.studocu.com/en-za/document/university-of-the-witwatersrand-johannesburg/physics-for-scientists-engineers-i/ufo-documents-and-information/120714874)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>StudocuUFO Investigations Under Project Blue Book (Feb 1966)The Air Force groups its evaluations of UFO reports under three general headi...</p></details>
+   Link: <a href="https://www.studocu.com/en-za/document/university-of-the-witwatersrand-johannesburg/physics-for-scientists-engineers-i/ufo-documents-and-information/120714874" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/en-za/document/university-of-the-witwatersrand-johannesburg/physics-for-scientists-engineers-i/ufo-documents-and-information/120714874</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Investigations Under Project Blue Book (Feb 1966)The Air Force groups its evaluations of UFO reports under three general headi...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: upload.wikimedia.org  
-   Link: [https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf](https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf)  
+   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsThe Project Blue Book ArchiveSeptember 9, 2005 — The Project Blue Book Archive contains tens of thousands of documents g...</p></details>
    Published: September 9, 2005  
 
 5. <a id="endnote-5"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>SPECIAL REPORT NO. 14. (ANALYSIS OF REPORTS OF UNIDENTIFIED AERIAL OBJECTS). PROJECT NO. 10073. 5 MAY 1955. FOR OFFICIAL USE ONLY. (AFR 1...</p></details>
    Published: MAY 1955  
 
 6. <a id="endnote-6"></a>
    Source: cia.gov  
    Title: CIA RDP81R00560R000100010001 0  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010001-0.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010001-0.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010001-0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010001-0.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Headquarters Monitor of AF Project Blue Book. UFO investigation, prepared analyses of UFO data for AF, liaison officer between...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: upload.wikimedia.org  
    Title: Project Blue Book, BBA PBSR1 300  
-   Link: [https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf](https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf)  
+   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book ArchiveThe majority of the [radar](&amp;#123;&amp;#123; &#x27;radar/&#x27; | relative_url &amp;#125;&amp;#125;) sight- ings are very difficult to evaluate due to the possibility of phenomena caused...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: esd.whs.mil  
-   Link: [https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837](https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837)  
+   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Logistics AgencyProject Blue BookThe Air Force groups its evaluations of UFO reports under three general headings: (1) identified...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying ObjectsPro-UFO researchers claim that an extraterrestrial spacecraft and its alien occupants were recovered near Rosw...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookProject Blue Book was the code name for the systematic study of unidentified flying objects (UFOs) by the United Stat...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: bahaistudies.net  
    Title: project blue book  
-   Link: [https://www.bahaistudies.net/asma/project_blue_book.pdf](https://www.bahaistudies.net/asma/project_blue_book.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>29 Sept 2012 — The Air Force groups its evaluations of UFO reports under three general headings: (1) identified. (2) [insufficient data](&amp;#123;&amp;#123; &#x27;missing-data/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+   Link: <a href="https://www.bahaistudies.net/asma/project_blue_book.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bahaistudies.net/asma/project_blue_book.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>29 Sept 2012 — The Air Force groups its evaluations of UFO reports under three general headings: (1) identified. (2) insufficient data...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book | Definition, History, Aliens, UFOs, &amp; Facts16 May 2026 — From 1947 to 1969, 12,618 sightings were recorded; of these...</p></details>
    Published: May 2026  
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
-   Source: cnes-geipan.fr  
-   Link: [https://www.cnes-geipan.fr/sites/default/files/Aids_to_identification_of_flying_objects_0.pdf](https://www.cnes-geipan.fr/sites/default/files/Aids_to_identification_of_flying_objects_0.pdf)  
+   Source: cnes-[geipan](&#123;&#123; 'geipan/' | relative_url &#125;&#125;). fr  
+   Link: <a href="https://www.cnes-geipan.fr/sites/default/files/Aids_to_identification_of_flying_objects_0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/Aids_to_identification_of_flying_objects_0.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This report, dated May 5, 1955... There is no direct relationship between the many private. UFO organizations and...Read more...</p></details>
    Published: May 5, 1955  
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Xu4oTBBI5UE](https://www.youtube.com/watch?v=Xu4oTBBI5UE)  
+   Link: <a href="https://www.youtube.com/watch?v=Xu4oTBBI5UE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xu4oTBBI5UE</a>  
 
 15. <a id="endnote-15"></a>
    Source: unwritten-record.blogs.archives.gov  
    Title: project blue book looking to the film record  
-   Link: [https://unwritten-record.blogs.archives.gov/2013/09/30/project-blue-book-looking-to-the-film-record/](https://unwritten-record.blogs.archives.gov/2013/09/30/project-blue-book-looking-to-the-film-record/)  
+   Link: <a href="https://unwritten-record.blogs.archives.gov/2013/09/30/project-blue-book-looking-to-the-film-record/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2013/09/30/project-blue-book-looking-to-the-film-record/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book: Spotting UFOs in the Film Record30 Sept 2013 — By this point, more than fourteen years into Project Blue Book, Quintanilla rep...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: docsteach.org  
-   Link: [https://docsteach.org/document/ufo-questionnaire/](https://docsteach.org/document/ufo-questionnaire/)  
+   Link: <a href="https://docsteach.org/document/ufo-questionnaire/" target="_blank" rel="noopener noreferrer nofollow">https://docsteach.org/document/ufo-questionnaire/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force&#x27;s investigations into UFOs. During the Cold War in 1952, fearful that the...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: gutenberg.org  
-   Link: [https://www.gutenberg.org/cache/epub/17346/pg17346-images.html](https://www.gutenberg.org/cache/epub/17346/pg17346-images.html)  
+   Link: <a href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/17346/pg17346-images.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project GutenbergThe Report on Unidentified Flying ObjectsWe investigated dozens of UFO reports, and read and analyzed several thousand more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: ufotransparency.com  
-   Title: decade 1970s project blue book [special report 14](&#123;&#123; 'report-14/' | relative_url &#125;&#125;) 1955 pbbsr14  
-   Link: [https://ufotransparency.com/files/decade-1970s-project-blue-book-special-report-14-1955-pbbsr14](https://ufotransparency.com/files/decade-1970s-project-blue-book-special-report-14-1955-pbbsr14)  
+   Title: decade 1970s project blue book special [report 14](&#123;&#123; 'report-14/' | relative_url &#125;&#125;) 1955 pbbsr14  
+   Link: <a href="https://ufotransparency.com/files/decade-1970s-project-blue-book-special-report-14-1955-pbbsr14" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/decade-1970s-project-blue-book-special-report-14-1955-pbbsr14</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force...8 May 2026 — The authors declared it &#x27;highly improbable&#x27; that any unidentified report... UFO ReportsRoyal Australian Air Fo...</p></details>
    Published: May 2026  
 
 19. <a id="endnote-19"></a>
    Source: si.edu  
-   Link: [https://www.si.edu/object/siris_sil_259088](https://www.si.edu/object/siris_sil_259088)  
+   Link: <a href="https://www.si.edu/object/siris_sil_259088" target="_blank" rel="noopener noreferrer nofollow">https://www.si.edu/object/siris_sil_259088</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>an analysis of the Air Force project blue book special report...Flying saucers: an analysis of the Air Force project blue book special...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: reddit.com  
    Title: i built a searchable archive of 5000 project blue  
-   Link: [https://www.reddit.com/r/UFOs/comments/1qepsyf/i_built_a_searchable_archive_of_5000_project_blue/](https://www.reddit.com/r/UFOs/comments/1qepsyf/i_built_a_searchable_archive_of_5000_project_blue/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1qepsyf/i_built_a_searchable_archive_of_5000_project_blue/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1qepsyf/i_built_a_searchable_archive_of_5000_project_blue/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I built a searchable archive of ~5000 Project Blue Book...The document text is selectable/copyable, so you can grab snippets or just dow...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: af.mil  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>With the termination of Project Blue Book, the Air...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: archivesfoundation.org  
    Title: 50 years ago government stops investigating ufos  
-   Link: [https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/](https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/)  
+   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>50 Years Ago: Government Stops Investigating UFOsAfter investigations found no evidence of any UFO that was extraterrestrial...</p></details>

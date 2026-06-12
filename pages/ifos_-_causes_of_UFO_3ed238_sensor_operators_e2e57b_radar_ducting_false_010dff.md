@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_operator_display_mot_2efffb
 - ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_real_object_unidenti_1f06b3
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - sensor-operators
 - radar-ducting
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - sensor-operators
 - radar-ducting
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Temperature inversions and anomalous propagation can put convincing radar blips on a screen without proving an exotic object was present.
 hero_summary: Temperature inversions and anomalous propagation can put convincing radar blips on a screen without proving an exotic object was present.
 layout: default
 permalink: /radar-ducting-d84f17/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /sensor-operators/
 nav_short_title: Radar ducting
 title: When weather bends radar into UFOs
-title_full: When weather bends radar into UFOs | Sensor Operators
+title_full: When weather bends radar into UFOs
 display_title_short: Radar ducting
 display_title: Radar ducting
 heading_title: When weather bends radar into UFOs
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: When Sensors Need Human Context | IFOs
+parent_title: When Sensors Need Human Context
 parent_permalink: /sensor-operators/
 parent_nav_short_title: Sensor Operators
 parent_heading_title: When Sensors Need Human Context
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b
-  title: Sensor Operators | Ifos Causes Of
+  title: Sensor Operators | ifos causes of UFO 3 ed 238
   permalink: /sensor-operators/
   short_title: Sensor Operators
   heading_title: When Sensors Need Human Context
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b
-  title: Sensor Operators | Ifos Causes Of
+  title: Sensor Operators | ifos causes of UFO 3 ed 238
   permalink: /sensor-operators/
   short_title: Sensor Operators
   heading_title: When Sensors Need Human Context
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Real object does not mean solved object
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b
-  title: Sensor Operators | Ifos Causes Of
+  title: Sensor Operators | ifos causes of UFO 3 ed 238
   permalink: /sensor-operators/
   short_title: Sensor Operators
   heading_title: When Sensors Need Human Context
@@ -265,7 +265,7 @@ next_link:
   permalink: /real-but-unknown/
   short_title: Real but unknown
   heading_title: Real object does not mean solved object
-date: '2026-06-07 06:02:57 '
+date: '2026-06-12 00:33:06 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_radar_ducting_false_010dff-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_radar_ducting_false_010dff-Illustration-1.webp
@@ -276,7 +276,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_radar_
 
 [Radar]({{ 'radar/' | relative_url }}) contacts are often treated as some of the strongest evidence in UFO reports because they appear to provide an objective, instrument-based record. However, radar does not observe the [atmosphere]({{ 'atmosphere/' | relative_url }}) in a vacuum. Under certain weather conditions, especially temperature inversions and sharp changes in humidity, radar beams can bend far more than expected. This phenomenon, known as radar ducting or anomalous propagation, can create convincing radar targets where no unusual airborne object exists. For investigators examining possible causes of UFO reports, radar ducting is important because it can generate apparently solid tracks, repeated returns and even operational concern among trained personnel without requiring an exotic craft to be present. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_5.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Section 5</span><span class="citation-popover-snippet">Surveillance SystemsThe bending of radar pulses, often called anomalous propagation or ducting, may cause many extraneous blips to appear...</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_radar_ducting_false_010dff-Illustration-1-dark.svg" | relative_url }}" alt="Radar ducting illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_radar_ducting_false_010dff-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_radar_ducting_false_010dff-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Understanding ducting does not mean every radar UFO is explained away. Rather, it shows why radar evidence must be interpreted alongside weather data, other sensors and independent observations before conclusions are drawn. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROAARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s...</span></span></span>
 
@@ -284,10 +283,7 @@ Understanding ducting does not mean every radar UFO is explained away. Rather, i
 
 Radar systems are designed around assumptions about how radio waves normally travel through the atmosphere. In standard conditions, the beam curves gently because atmospheric density decreases with height. However, strong temperature inversions—where warmer air sits above cooler air—or abrupt moisture changes can alter the atmosphere's refractive properties and force radar energy to bend downward. In extreme cases, the beam becomes trapped within a layer of air and travels much farther than intended, a condition known as ducting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.ametsoc.org/view/journals/atot/31/12/jtech-d-13-00152_1.xml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.ametsoc.org">[American Meteorological Society Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.ametsoc.org</span><span class="citation-popover-snippet">American Meteorological Society JournalsRadar Beam Tracing Methods Based on Atmospheric...by Y Zeng · 2014 · Cited by 72 — A duct can oc...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.radartutorial.eu/07.waves/wa17.en.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: radartutorial.eu">[Radar Tutorial]</a><span class="citation-popover" role="note"><span class="citation-popover-source">radartutorial.eu</span><span class="citation-popover-snippet">inversion layer.Read more...</span></span></span>
 
-When this happens, radar energy that would normally pass harmlessly overhead may strike the ground, hills, buildings or the sea surface and then reflect back to the radar. The system receives a return signal and interprets it as a target at a particular [range]({{ 'range/' | relative_url }}) and position. Yet the apparent target may actually be terrain, distant ships, coastline features or other objects outside the radar's expected coverage area. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_5.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Section 5</span><span class="citation-popover-snippet">Surveillance SystemsThe bending of radar pulses, often called anomalous propagation or ducting, may cause many extraneous blips to appear...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/radar-overview/about.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">CanadaAbout Canadian historical weather radarAnomalous Propagation (AP). In the low levels of the atmosphere when a layer of warm air l...</span></span></span> Meteorological agencies routinely encounter this problem. Weather radars can display what appear to be rain bands or storm cells even when skies are clear. These false echoes are commonly referred to as anomalous propagation (AP) returns. The same physical mechanism can affect surveillance and air-defence radars. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.noaa.gov/jetstream/anomalous-propagation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noaa.gov">[NOAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noaa.gov</span><span class="citation-popover-snippet">NOAAJetStream Max: Anomalous Propagation9 Aug 2023 — False echoes are known as anomalous propagation (AP) - an echo that is not precipita...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/mkx/using-radar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">Using and Understanding Doppler RadarSometimes though, the atmosphere will cause the beam to superrefract or duct through the atmosphere...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Blf5gfwTtls" title="RADAR COVERAGE DIAGRAM &amp; DUCT PROPAGATION" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Blf5gfwTtls" target="_blank" rel="noopener noreferrer">RADAR COVERAGE DIAGRAM &amp; DUCT PROPAGATION</a></p><p class="youtube-embed-meta">Channel: AVIATION &amp; AIR TRAFFIC CONTROL &middot; Views: 4.0K &middot; Uploaded: April 2021 &middot; Length: 4 minutes 30 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Blf5gfwTtls" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Blf5gfwTtls">Open on YouTube</a></p></div></div></div>
+When this happens, radar energy that would normally pass harmlessly overhead may strike the ground, hills, buildings or the sea surface and then reflect back to the radar. The system receives a return signal and interprets it as a target at a particular [range]({{ 'range/' | relative_url }}) and position. Yet the apparent target may actually be terrain, distant ships, coastline features or other objects outside the radar's expected coverage area. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_5.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Section 5</span><span class="citation-popover-snippet">Surveillance SystemsThe bending of radar pulses, often called anomalous propagation or ducting, may cause many extraneous blips to appear...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/radar-overview/about.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">About Canadian historical weather radarAnomalous Propagation (AP). In the low levels of the atmosphere when a layer of warm air l...</span></span></span> Meteorological agencies routinely encounter this problem. Weather radars can display what appear to be rain bands or storm cells even when skies are clear. These false echoes are commonly referred to as anomalous propagation (AP) returns. The same physical mechanism can affect surveillance and air-defence radars. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.noaa.gov/jetstream/anomalous-propagation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noaa.gov">[NOAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noaa.gov</span><span class="citation-popover-snippet">JetStream Max: Anomalous Propagation9 Aug 2023 — False echoes are known as anomalous propagation (AP) - an echo that is not precipita...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/mkx/using-radar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">Using and Understanding Doppler RadarSometimes though, the atmosphere will cause the beam to superrefract or duct through the atmosphere...</span></span></span>
 
 ## Why false tracks can look operationally real
 
@@ -297,26 +293,23 @@ Several factors contribute to this:
 
 * **The radar receives a genuine signal return.** The display is not simply malfunctioning; it is processing reflected energy and producing what appears to be a legitimate contact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_5.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Section 5</span><span class="citation-popover-snippet">Surveillance SystemsThe bending of radar pulses, often called anomalous propagation or ducting, may cause many extraneous blips to appear...</span></span></span>
 * **Targets may appear at significant [ranges]({{ 'ranges/' | relative_url }}).** Ducting can extend radar coverage far beyond its intended horizon, allowing distant terrain or vessels to generate unexpected contacts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.radartutorial.eu/07.waves/wa17.en.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: radartutorial.eu">[Radar Tutorial]</a><span class="citation-popover" role="note"><span class="citation-popover-source">radartutorial.eu</span><span class="citation-popover-snippet">inversion layer.Read more...</span></span></span>
-* **Returns can persist for hours.** Stable inversion layers often remain in place throughout the night or early morning, causing repeated detections that seem consistent and therefore credible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/radar-overview/about.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">CanadaAbout Canadian historical weather radarAnomalous Propagation (AP). In the low levels of the atmosphere when a layer of warm air l...</span></span></span>
-* **Operators may see multiple contacts.** Historical naval and air-defence literature describes inversion-related clutter, rings and clusters of returns that can resemble organised traffic rather than random noise. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usni.org/magazines/proceedings/1973/december/dont-fall-radar-hole" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usni.org">[U.S. Naval Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usni.org</span><span class="citation-popover-title">dont fall radar hole</span><span class="citation-popover-snippet">Naval InstituteDon&#x27;t Fall in the Radar Hole | ProceedingsFalse radar returns such as the bright circular return shown below and known as...</span></span></span>
+* **Returns can persist for hours.** Stable inversion layers often remain in place throughout the night or early morning, causing repeated detections that seem consistent and therefore credible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/radar-overview/about.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">About Canadian historical weather radarAnomalous Propagation (AP). In the low levels of the atmosphere when a layer of warm air l...</span></span></span>
+* **Operators may see multiple contacts.** Historical naval and air-defence literature describes inversion-related clutter, rings and clusters of returns that can resemble organised traffic rather than random noise. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usni.org/magazines/proceedings/1973/december/dont-fall-radar-hole" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usni.org">[U.S. Naval Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usni.org</span><span class="citation-popover-title">dont fall radar hole</span><span class="citation-popover-snippet">Naval InstituteDon&#x27;t Fall in the Radar Hole &#124; ProceedingsFalse radar returns such as the bright circular return shown below and known as...</span></span></span>
 
 The U.S. Federal Aviation Administration explicitly warns that anomalous propagation can create numerous extraneous blips on radar displays when beams are bent toward the ground. Conversely, upward bending can cause genuine targets to disappear or become harder to detect. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_5.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Section 5</span><span class="citation-popover-snippet">Surveillance SystemsThe bending of radar pulses, often called anomalous propagation or ducting, may cause many extraneous blips to appear...</span></span></span>
 
 This combination can produce a particularly confusing operational picture: some contacts appear where nothing should be, while real objects may be degraded or absent.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_radar_ducting_false_010dff-Illustration-2-dark.svg" | relative_url }}" alt="Radar ducting illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_radar_ducting_false_010dff-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_radar_ducting_false_010dff-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why UFO cases are especially vulnerable to this explanation
 
-Many radar UFO reports emerge during unusual environmental conditions. Coastal regions, marine environments and areas affected by strong inversions are particularly susceptible to ducting. These are also locations where military and civilian radar systems frequently operate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/228809127_Monthly_and_daily_variations_of_radar_anomalous_propagation_conditions_How_normal_is_normal_propagation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGateMonthly and daily variations of radar anomalous...Most radars of the network will be lo-cated in coastal areas, which could...</span></span></span>
+Many radar UFO reports emerge during unusual environmental conditions. Coastal regions, marine environments and areas affected by strong inversions are particularly susceptible to ducting. These are also locations where military and civilian radar systems frequently operate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/228809127_Monthly_and_daily_variations_of_radar_anomalous_propagation_conditions_How_normal_is_normal_propagation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Monthly and daily variations of radar anomalous...Most radars of the network will be lo-cated in coastal areas, which could...</span></span></span>
 
 A radar operator confronted with unexpected targets faces a genuine observational problem. The display may show contacts behaving consistently enough to justify attention. If visual confirmation is unavailable because of darkness, distance or weather, the radar track itself can become the primary source of information. In later retellings, the phrase "it was on radar" can be interpreted as proof of a physical craft when the original situation was more ambiguous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_5.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Section 5</span><span class="citation-popover-snippet">Surveillance SystemsThe bending of radar pulses, often called anomalous propagation or ducting, may cause many extraneous blips to appear...</span></span></span>
 
-Historically, some famous radar-related UFO episodes have prompted later discussions about atmospheric propagation effects, particularly when reports occurred during conditions favourable to temperature inversions. While ducting does not automatically solve every case, it remains one of the first mechanisms investigators examine because it is a documented and recurring source of misleading radar contacts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usni.org/magazines/proceedings/1973/december/dont-fall-radar-hole" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usni.org">[U.S. Naval Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usni.org</span><span class="citation-popover-title">dont fall radar hole</span><span class="citation-popover-snippet">Naval InstituteDon&#x27;t Fall in the Radar Hole | ProceedingsFalse radar returns such as the bright circular return shown below and known as...</span></span></span>
+Historically, some famous radar-related UFO episodes have prompted later discussions about atmospheric propagation effects, particularly when reports occurred during conditions favourable to temperature inversions. While ducting does not automatically solve every case, it remains one of the first mechanisms investigators examine because it is a documented and recurring source of misleading radar contacts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usni.org/magazines/proceedings/1973/december/dont-fall-radar-hole" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usni.org">[U.S. Naval Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usni.org</span><span class="citation-popover-title">dont fall radar hole</span><span class="citation-popover-snippet">Naval InstituteDon&#x27;t Fall in the Radar Hole &#124; ProceedingsFalse radar returns such as the bright circular return shown below and known as...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/F9Vmsk6CcmI" title="More Weird UFO Files Just Released: Forensic Expert Analysis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=F9Vmsk6CcmI" target="_blank" rel="noopener noreferrer">More Weird UFO Files Just Released: Forensic Expert Analysis</a></p><p class="youtube-embed-meta">Channel: Dr. G Explains</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=F9Vmsk6CcmI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=F9Vmsk6CcmI">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_radar_ducting_false_010dff-Illustration-3-dark.svg" | relative_url }}" alt="Radar ducting illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_radar_ducting_false_010dff-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_radar_ducting_false_010dff-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What investigators need to test ducting
 
 Determining whether ducting played a role requires more than noting that a radar contact existed. Investigators typically seek environmental and technical evidence capable of confirming or excluding anomalous propagation.
@@ -333,17 +326,13 @@ Key questions include:
 
 Modern radar networks increasingly use filtering, Doppler processing, moving-target indicators and multi-sensor comparisons to reduce the impact of anomalous propagation. Even so, technical literature continues to describe AP clutter as a significant challenge that requires ongoing detection and mitigation efforts. [American Meteorological Society Journals+2American Meteorological Society Journals]
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Blf5gfwTtls" title="RADAR COVERAGE DIAGRAM &amp; DUCT PROPAGATION" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Blf5gfwTtls" target="_blank" rel="noopener noreferrer">RADAR COVERAGE DIAGRAM &amp; DUCT PROPAGATION</a></p><p class="youtube-embed-meta">Channel: AVIATION &amp; AIR TRAFFIC CONTROL &middot; Views: 4.0K &middot; Uploaded: April 2021 &middot; Length: 4 minutes 30 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Blf5gfwTtls" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Blf5gfwTtls">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_radar_ducting_false_010dff-Illustration-3-dark.svg" | relative_url }}" alt="Radar ducting illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_radar_ducting_false_010dff-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_radar_ducting_false_010dff-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The main lesson for UFO investigations
 
 Radar evidence can be extremely valuable, but radar is not a direct window onto reality. It is an interpretation of reflected radio energy travelling through a dynamic atmosphere. When temperature inversions or other refractive conditions bend radar beams, the system can generate convincing targets that appear operationally significant despite not representing unusual airborne vehicles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_5.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Section 5</span><span class="citation-popover-snippet">Surveillance SystemsThe bending of radar pulses, often called anomalous propagation or ducting, may cause many extraneous blips to appear...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.radartutorial.eu/07.waves/wa17.en.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: radartutorial.eu">[Radar Tutorial]</a><span class="citation-popover" role="note"><span class="citation-popover-source">radartutorial.eu</span><span class="citation-popover-snippet">inversion layer.Read more...</span></span></span>
 
-For that reason, a radar UFO report becomes most persuasive when the radar data are supported by independent observations and environmental analysis. Without those checks, atmospheric ducting remains a well-established mechanism capable of producing some of the most convincing false UFO targets ever recorded on a radar screen. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.noaa.gov/jetstream/anomalous-propagation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noaa.gov">[NOAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noaa.gov</span><span class="citation-popover-snippet">NOAAJetStream Max: Anomalous Propagation9 Aug 2023 — False echoes are known as anomalous propagation (AP) - an echo that is not precipita...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROAARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CwzvuYg2MKc" title="I Awakened a Hunting System In The Mountain, And Even Beautiful Sisters Started Fighting Over Me" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CwzvuYg2MKc" target="_blank" rel="noopener noreferrer">I Awakened a Hunting System In The Mountain, And Even Beautiful Sisters Started Fighting Over Me</a></p><p class="youtube-embed-meta">Channel: Your Manhwa Recap</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CwzvuYg2MKc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CwzvuYg2MKc">Open on YouTube</a></p></div></div></div>
-
+For that reason, a radar UFO report becomes most persuasive when the radar data are supported by independent observations and environmental analysis. Without those checks, atmospheric ducting remains a well-established mechanism capable of producing some of the most convincing false UFO targets ever recorded on a radar screen. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.noaa.gov/jetstream/anomalous-propagation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noaa.gov">[NOAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noaa.gov</span><span class="citation-popover-snippet">JetStream Max: Anomalous Propagation9 Aug 2023 — False echoes are known as anomalous propagation (AP) - an echo that is not precipita...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROAARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -462,15 +451,15 @@ For that reason, a radar UFO report becomes most persuasive when the radar data 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-ducting-d84f17-when-weather-bends-radar-into-ufos-ifos-causes-of-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="radar-ducting-d84f17-when-weather-bends-radar-into-ufos-ifos-causes-of-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station WIFI Internet Wunderground Professional 7-in-1 Wireless Sensor"><img src="{{ '/assets/images/marketplace-covers/37d1459f17f40accf48f.jpg' | relative_url }}" alt="Listing image for Weather Station WIFI Internet Wunderground Professional 7-in-1 Wireless Sensor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-weather-bends-radar-into-ufos-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="when-weather-bends-radar-into-ufos-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aviation Flight Radar Framed Wall Art Poster Canvas Print Picture"><span>eBay</span></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-ducting-d84f17-when-weather-bends-radar-into-ufos-ifos-causes-of-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="radar-ducting-d84f17-when-weather-bends-radar-into-ufos-ifos-causes-of-weather-station" target="_blank" rel="sponsored noopener noreferrer">Weather Station WIFI Internet Wunderground Professional 7-in-1 Wireless Sensor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-weather-bends-radar-into-ufos-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="when-weather-bends-radar-into-ufos-radar-poster" target="_blank" rel="sponsored noopener noreferrer">Aviation Flight Radar Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-ducting-d84f17-when-weather-bends-radar-into-ufos-ifos-causes-of-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="radar-ducting-d84f17-when-weather-bends-radar-into-ufos-ifos-causes-of-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather station</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-weather-bends-radar-into-ufos-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="when-weather-bends-radar-into-ufos-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: radar poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-ducting-d84f17-when-weather-bends-radar-into-ufos-ifos-causes-of-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="radar-ducting-d84f17-when-weather-bends-radar-into-ufos-ifos-causes-of-weather-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-weather-bends-radar-into-ufos-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="when-weather-bends-radar-into-ufos-radar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -478,15 +467,15 @@ For that reason, a radar UFO report becomes most persuasive when the radar data 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-ducting-d84f17-when-weather-bends-radar-into-ufos-ifos-causes-of-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="radar-ducting-d84f17-when-weather-bends-radar-into-ufos-ifos-causes-of-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor"><img src="{{ '/assets/images/marketplace-covers/98b821c4e3dce92ed034.jpg' | relative_url }}" alt="Listing image for Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-weather-bends-radar-into-ufos-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="when-weather-bends-radar-into-ufos-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Matt the Radar Technician Framed Ar Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/f2sAAeSwTFBp2SLl/s-l225.jpg" alt="Listing image for Matt the Radar Technician Framed Ar Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-ducting-d84f17-when-weather-bends-radar-into-ufos-ifos-causes-of-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="radar-ducting-d84f17-when-weather-bends-radar-into-ufos-ifos-causes-of-weather-station" target="_blank" rel="sponsored noopener noreferrer">Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-weather-bends-radar-into-ufos-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="when-weather-bends-radar-into-ufos-radar-poster" target="_blank" rel="sponsored noopener noreferrer">Matt the Radar Technician Framed Ar Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-ducting-d84f17-when-weather-bends-radar-into-ufos-ifos-causes-of-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="radar-ducting-d84f17-when-weather-bends-radar-into-ufos-ifos-causes-of-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather station</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-weather-bends-radar-into-ufos-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="when-weather-bends-radar-into-ufos-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: radar poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-ducting-d84f17-when-weather-bends-radar-into-ufos-ifos-causes-of-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="radar-ducting-d84f17-when-weather-bends-radar-into-ufos-ifos-causes-of-weather-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-weather-bends-radar-into-ufos-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="when-weather-bends-radar-into-ufos-radar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -494,15 +483,15 @@ For that reason, a radar UFO report becomes most persuasive when the radar data 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-ducting-d84f17-when-weather-bends-radar-into-ufos-ifos-causes-of-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="radar-ducting-d84f17-when-weather-bends-radar-into-ufos-ifos-causes-of-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station Official 2026 Radio Control UK Version, Professional 6-in-1"><img src="{{ '/assets/images/marketplace-covers/04c0d83aebcfe9483540.jpg' | relative_url }}" alt="Listing image for Weather Station Official 2026 Radio Control UK Version, Professional 6-in-1" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-weather-bends-radar-into-ufos-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="when-weather-bends-radar-into-ufos-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Radar Optimum Home Entertainment Catalogue #4, Whiteout Fold Out Poster #W1370"><img src="https://i.ebayimg.com/images/g/5f8AAeSw-8pp78Gr/s-l225.jpg" alt="Listing image for Radar Optimum Home Entertainment Catalogue #4, Whiteout Fold Out Poster #W1370" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-ducting-d84f17-when-weather-bends-radar-into-ufos-ifos-causes-of-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="radar-ducting-d84f17-when-weather-bends-radar-into-ufos-ifos-causes-of-weather-station" target="_blank" rel="sponsored noopener noreferrer">Weather Station Official 2026 Radio Control UK Version, Professional 6-in-1</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-weather-bends-radar-into-ufos-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="when-weather-bends-radar-into-ufos-radar-poster" target="_blank" rel="sponsored noopener noreferrer">Radar Optimum Home Entertainment Catalogue #4, Whiteout Fold Out Poster #W1370</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-ducting-d84f17-when-weather-bends-radar-into-ufos-ifos-causes-of-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="radar-ducting-d84f17-when-weather-bends-radar-into-ufos-ifos-causes-of-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather station</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-weather-bends-radar-into-ufos-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="when-weather-bends-radar-into-ufos-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: radar poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-ducting-d84f17-when-weather-bends-radar-into-ufos-ifos-causes-of-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="radar-ducting-d84f17-when-weather-bends-radar-into-ufos-ifos-causes-of-weather-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-weather-bends-radar-into-ufos-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="when-weather-bends-radar-into-ufos-radar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -510,15 +499,15 @@ For that reason, a radar UFO report becomes most persuasive when the radar data 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-ducting-d84f17-when-weather-bends-radar-into-ufos-ifos-causes-of-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="radar-ducting-d84f17-when-weather-bends-radar-into-ufos-ifos-causes-of-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor"><img src="{{ '/assets/images/marketplace-covers/3ea05f8678a358198667.jpg' | relative_url }}" alt="Listing image for Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-weather-bends-radar-into-ufos-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="when-weather-bends-radar-into-ufos-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Matt the Radar Technician Framed Ar Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/NXsAAeSwph5p2SLq/s-l225.jpg" alt="Listing image for Matt the Radar Technician Framed Ar Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-ducting-d84f17-when-weather-bends-radar-into-ufos-ifos-causes-of-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="radar-ducting-d84f17-when-weather-bends-radar-into-ufos-ifos-causes-of-weather-station" target="_blank" rel="sponsored noopener noreferrer">Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-weather-bends-radar-into-ufos-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="when-weather-bends-radar-into-ufos-radar-poster" target="_blank" rel="sponsored noopener noreferrer">Matt the Radar Technician Framed Ar Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-ducting-d84f17-when-weather-bends-radar-into-ufos-ifos-causes-of-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="radar-ducting-d84f17-when-weather-bends-radar-into-ufos-ifos-causes-of-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather station</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-weather-bends-radar-into-ufos-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="when-weather-bends-radar-into-ufos-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: radar poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-ducting-d84f17-when-weather-bends-radar-into-ufos-ifos-causes-of-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="radar-ducting-d84f17-when-weather-bends-radar-into-ufos-ifos-causes-of-weather-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-weather-bends-radar-into-ufos-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="when-weather-bends-radar-into-ufos-radar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -526,7 +515,7 @@ For that reason, a radar UFO report becomes most persuasive when the radar data 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-ducting-d84f17-when-weather-bends-radar-into-ufos-ifos-causes-of-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="radar-ducting-d84f17-when-weather-bends-radar-into-ufos-ifos-causes-of-weather-station" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-weather-bends-radar-into-ufos-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="when-weather-bends-radar-into-ufos-radar-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -741,141 +730,141 @@ For that reason, a radar UFO report becomes most persuasive when the radar data 
 
 1. <a id="endnote-1"></a>
    Source: noaa.gov  
-   Link: [https://www.noaa.gov/jetstream/anomalous-propagation](https://www.noaa.gov/jetstream/anomalous-propagation)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NOAAJetStream Max: Anomalous Propagation9 Aug 2023 — False echoes are known as anomalous propagation (AP) - an echo that is not precipita...</p></details>
+   Link: <a href="https://www.noaa.gov/jetstream/anomalous-propagation" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/jetstream/anomalous-propagation</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>JetStream Max: Anomalous Propagation9 Aug 2023 — False echoes are known as anomalous propagation (AP) - an echo that is not precipita...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: [aaro](&#123;&#123; 'aaro/' | relative_url &#125;&#125;). mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROAARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: canada.ca  
-   Link: [https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/radar-overview/about.html](https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/radar-overview/about.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CanadaAbout Canadian historical weather radarAnomalous Propagation (AP). In the low levels of the atmosphere when a layer of warm air l...</p></details>
+   Link: <a href="https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/radar-overview/about.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/radar-overview/about.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>About Canadian historical weather radarAnomalous Propagation (AP). In the low levels of the atmosphere when a layer of warm air l...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/mkx/using-radar](https://www.weather.gov/mkx/using-radar)  
+   Link: <a href="https://www.weather.gov/mkx/using-radar" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/mkx/using-radar</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Using and Understanding Doppler RadarSometimes though, the atmosphere will cause the beam to superrefract or duct through the atmosphere...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/mlb/Doppler_Dual_Pol_Weather_Radar](https://www.weather.gov/mlb/Doppler_Dual_Pol_Weather_Radar)  
+   Link: <a href="https://www.weather.gov/mlb/Doppler_Dual_Pol_Weather_Radar" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/mlb/Doppler_Dual_Pol_Weather_Radar</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Weather ServiceNWS Weather RadarAnomalous Propagation (AP) refers to meteorological situations where a signal comes back to the...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: usni.org  
    Title: dont fall radar hole  
-   Link: [https://www.usni.org/magazines/proceedings/1973/december/dont-fall-radar-hole](https://www.usni.org/magazines/proceedings/1973/december/dont-fall-radar-hole)  
+   Link: <a href="https://www.usni.org/magazines/proceedings/1973/december/dont-fall-radar-hole" target="_blank" rel="noopener noreferrer nofollow">https://www.usni.org/magazines/proceedings/1973/december/dont-fall-radar-hole</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Naval InstituteDon&#x27;t Fall in the Radar Hole | ProceedingsFalse radar returns such as the bright circular return shown below and known as...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/228809127_Monthly_and_daily_variations_of_radar_anomalous_propagation_conditions_How_normal_is_normal_propagation](https://www.researchgate.net/publication/228809127_Monthly_and_daily_variations_of_radar_anomalous_propagation_conditions_How_normal_is_normal_propagation)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGateMonthly and daily variations of radar anomalous...Most radars of the network will be lo-cated in coastal areas, which could...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/228809127_Monthly_and_daily_variations_of_radar_anomalous_propagation_conditions_How_normal_is_normal_propagation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228809127_Monthly_and_daily_variations_of_radar_anomalous_propagation_conditions_How_normal_is_normal_propagation</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Monthly and daily variations of radar anomalous...Most radars of the network will be lo-cated in coastal areas, which could...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/249603794_Identification_and_Removal_of_Ground_Echoes_and_Anomalous_Propagation_Using_the_Characteristics_of_Radar_Echoes](https://www.researchgate.net/publication/249603794_Identification_and_Removal_of_Ground_Echoes_and_Anomalous_Propagation_Using_the_Characteristics_of_Radar_Echoes)  
+   Link: <a href="https://www.researchgate.net/publication/249603794_Identification_and_Removal_of_Ground_Echoes_and_Anomalous_Propagation_Using_the_Characteristics_of_Radar_Echoes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/249603794_Identification_and_Removal_of_Ground_Echoes_and_Anomalous_Propagation_Using_the_Characteristics_of_Radar_Echoes</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Identification and Removal of Ground Echoes...This paper explores the removal of normal ground echoes (GREs) and anomalous propaga...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/figure/Radar-beam-propagation-conditions-adapted-from-US-NOAA-National-Weather-Service_fig1_224829985](https://www.researchgate.net/figure/Radar-beam-propagation-conditions-adapted-from-US-NOAA-National-Weather-Service_fig1_224829985)  
+   Link: <a href="https://www.researchgate.net/figure/Radar-beam-propagation-conditions-adapted-from-US-NOAA-National-Weather-Service_fig1_224829985" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Radar-beam-propagation-conditions-adapted-from-US-NOAA-National-Weather-Service_fig1_224829985</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>To study the phenomenon, the analysis...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: faa.gov  
    Title: Federal Aviation Administration Section 5  
-   Link: [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_5.html](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_5.html)  
+   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_5.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_5.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Surveillance SystemsThe bending of radar pulses, often called anomalous propagation or ducting, may cause many extraneous blips to appear...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: journals.ametsoc.org  
-   Link: [https://journals.ametsoc.org/view/journals/atot/31/12/jtech-d-13-00152_1.xml](https://journals.ametsoc.org/view/journals/atot/31/12/jtech-d-13-00152_1.xml)  
+   Link: <a href="https://journals.ametsoc.org/view/journals/atot/31/12/jtech-d-13-00152_1.xml" target="_blank" rel="noopener noreferrer nofollow">https://journals.ametsoc.org/view/journals/atot/31/12/jtech-d-13-00152_1.xml</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteorological Society JournalsRadar Beam Tracing Methods Based on Atmospheric...by Y Zeng · 2014 · Cited by 72 — A duct can oc...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: radartutorial.eu  
-   Link: [https://www.radartutorial.eu/07.waves/wa17.en.html](https://www.radartutorial.eu/07.waves/wa17.en.html)  
+   Link: <a href="https://www.radartutorial.eu/07.waves/wa17.en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.radartutorial.eu/07.waves/wa17.en.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>inversion layer.Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: journals.ametsoc.org  
    Title: 1520 0426 1998 015 0098 oioedt 2 0 co 2.xml  
-   Link: [https://journals.ametsoc.org/view/journals/atot/15/1/1520-0426_1998_015_0098_oioedt_2_0_co_2.xml](https://journals.ametsoc.org/view/journals/atot/15/1/1520-0426_1998_015_0098_oioedt_2_0_co_2.xml)  
+   Link: <a href="https://journals.ametsoc.org/view/journals/atot/15/1/1520-0426_1998_015_0098_oioedt_2_0_co_2.xml" target="_blank" rel="noopener noreferrer nofollow">https://journals.ametsoc.org/view/journals/atot/15/1/1520-0426_1998_015_0098_oioedt_2_0_co_2.xml</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Serious contamination of weather radar data can occur in atmospheric conditions that cause anomalous propagation of the radar beam.Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: faa.gov  
    Title: Federal Aviation Administration4-5-2  
-   Link: [https://www.faa.gov/air_traffic/publications/atpubs/aim/aim0405.html](https://www.faa.gov/air_traffic/publications/atpubs/aim/aim0405.html)  
+   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/aim/aim0405.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aim/aim0405.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Traffic Control Radar Beacon System (ATCRBS)8 Jan 2015 — (b) The bending of radar pulses, often called anomalous propagation or ducti...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: journals.ametsoc.org  
    Title: American Meteorological Society Journals Weather Radar Ground Clutter  
-   Link: [https://journals.ametsoc.org/view/journals/atot/26/7/2009jtecha1160_1.pdf](https://journals.ametsoc.org/view/journals/atot/26/7/2009jtecha1160_1.pdf)  
+   Link: <a href="https://journals.ametsoc.org/view/journals/atot/26/7/2009jtecha1160_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://journals.ametsoc.org/view/journals/atot/26/7/2009jtecha1160_1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Part II - AMS Journalsby JC Hubbert · 2009 · Cited by 227 — The identification and mitigation of anomalous propagation (AP) and normal pr...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Anomalous propagation  
-   Link: [https://en.wikipedia.org/wiki/Anomalous_propagation](https://en.wikipedia.org/wiki/Anomalous_propagation)  
+   Link: <a href="https://en.wikipedia.org/wiki/Anomalous_propagation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anomalous_propagation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anomalous propagationAnomalous propagation refers to false radar echoes usually observed when calm, stable atmospheric conditions, oft...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/air_traffic/publications/atpubs/aip_html/part2_enr_section_1.1.html](https://www.faa.gov/air_traffic/publications/atpubs/aip_html/part2_enr_section_1.1.html)  
+   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/aip_html/part2_enr_section_1.1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aip_html/part2_enr_section_1.1.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ENR 1.1: General Rulesb) The bending of radar pulses, often called anomalous propagation or ducting, may cause many extraneous blips to a...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: secjhuapl.edu  
-   Link: [https://secwww.jhuapl.edu/techdigest/Content/techdigest/pdf/V09-N02/09-02-Lee.pdf](https://secwww.jhuapl.edu/techdigest/Content/techdigest/pdf/V09-N02/09-02-Lee.pdf)  
+   Link: <a href="https://secwww.jhuapl.edu/techdigest/Content/techdigest/pdf/V09-N02/09-02-Lee.pdf" target="_blank" rel="noopener noreferrer nofollow">https://secwww.jhuapl.edu/techdigest/Content/techdigest/pdf/V09-N02/09-02-Lee.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>JHU Applied Physics LabPREDICTING CLUTTER DURING ANOMALOUS...This article describes methods that can be used to predict anomalous clutte...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: wx.erau.edu  
-   Link: [https://wx.erau.edu/faculty/mullerb/Wx365/Radar_anomalous_propagation/false_echoes.html](https://wx.erau.edu/faculty/mullerb/Wx365/Radar_anomalous_propagation/false_echoes.html)  
+   Link: <a href="https://wx.erau.edu/faculty/mullerb/Wx365/Radar_anomalous_propagation/false_echoes.html" target="_blank" rel="noopener noreferrer nofollow">https://wx.erau.edu/faculty/mullerb/Wx365/Radar_anomalous_propagation/false_echoes.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>erau.edufalse_echoesAnomalous propagation of radar echoes refers to meteorological situations where a signal comes back to the radar ante...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: journals.lib.unb.ca  
-   Link: [https://journals.lib.unb.ca/index.php/ihr/article/download/26697/1882519457/1882519692](https://journals.lib.unb.ca/index.php/ihr/article/download/26697/1882519457/1882519692)  
+   Link: <a href="https://journals.lib.unb.ca/index.php/ihr/article/download/26697/1882519457/1882519692" target="_blank" rel="noopener noreferrer nofollow">https://journals.lib.unb.ca/index.php/ihr/article/download/26697/1882519457/1882519692</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PROPAGATION IN RADARSuper-refraction may be caused by (1) a temperature inversion (2) a moisture lapse; (3) a combination of (1) and (2)...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: backend.orbit.dtu.dk  
-   Link: [https://backend.orbit.dtu.dk/ws/files/4995451/phd201_thb-net.pdf](https://backend.orbit.dtu.dk/ws/files/4995451/phd201_thb-net.pdf)  
+   Link: <a href="https://backend.orbit.dtu.dk/ws/files/4995451/phd201_thb-net.pdf" target="_blank" rel="noopener noreferrer nofollow">https://backend.orbit.dtu.dk/ws/files/4995451/phd201_thb-net.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of Weather Radar ClutterWeather radar clutter, echoes from non-precipitating targets, occur frequently in the data, resulting in lowered...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: theweatherprediction.com  
-   Link: [https://www.theweatherprediction.com/habyhints/247/](https://www.theweatherprediction.com/habyhints/247/)  
+   Link: <a href="https://www.theweatherprediction.com/habyhints/247/" target="_blank" rel="noopener noreferrer nofollow">https://www.theweatherprediction.com/habyhints/247/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AP and false echoes are one of the biggest enemies of the radar meteorologist. Those without experience in radar...Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Blf5gfwTtls](https://www.youtube.com/watch?v=Blf5gfwTtls)  
+   Link: <a href="https://www.youtube.com/watch?v=Blf5gfwTtls" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Blf5gfwTtls</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>RADAR COVERAGE DIAGRAM &amp; DUCT PROPAGATIONRadar Basic such as Anoprop and its effect on radar display. Lecture ends with explanation on ra...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: scispace.com  
    Title: effects of anomalous propagation conditions on weather radar 2rktpuem1c  
-   Link: [https://scispace.com/pdf/effects-of-anomalous-propagation-conditions-on-weather-radar-2rktpuem1c.pdf](https://scispace.com/pdf/effects-of-anomalous-propagation-conditions-on-weather-radar-2rktpuem1c.pdf)  
+   Link: <a href="https://scispace.com/pdf/effects-of-anomalous-propagation-conditions-on-weather-radar-2rktpuem1c.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/effects-of-anomalous-propagation-conditions-on-weather-radar-2rktpuem1c.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>J Bech · 2012 · Cited by 12 — The effect of atmospheric propagation on rada...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: medium.com  
    Title: ufos and radar targets clutter safety and false certainty c3eab7a878ad  
-   Link: [https://medium.com/%40timventura/ufos-and-radar-targets-clutter-safety-and-false-certainty-c3eab7a878ad](https://medium.com/%40timventura/ufos-and-radar-targets-clutter-safety-and-false-certainty-c3eab7a878ad)  
+   Link: <a href="https://medium.com/%40timventura/ufos-and-radar-targets-clutter-safety-and-false-certainty-c3eab7a878ad" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40timventura/ufos-and-radar-targets-clutter-safety-and-false-certainty-c3eab7a878ad</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and Radar: Targets, Clutter, Safety, and False CertaintyFrom Washington 1952 to the [Nimitz](&amp;#123;&amp;#123; &#x27;nimitz/&#x27; | relative_url &amp;#125;&amp;#125;) encounter, this story explores UFOs, rada...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: altpropulsion.com  
    Title: ufos and radar targets clutter safety and false certainty  
-   Link: [https://www.altpropulsion.com/ufos-and-radar-targets-clutter-safety-and-false-certainty/](https://www.altpropulsion.com/ufos-and-radar-targets-clutter-safety-and-false-certainty/)  
+   Link: <a href="https://www.altpropulsion.com/ufos-and-radar-targets-clutter-safety-and-false-certainty/" target="_blank" rel="noopener noreferrer nofollow">https://www.altpropulsion.com/ufos-and-radar-targets-clutter-safety-and-false-certainty/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and Radar: Targets, Clutter, Safety, and False Certainty30 Mar 2026 — Not whether every UFO is an alien craft, but whether modern ra...</p></details>

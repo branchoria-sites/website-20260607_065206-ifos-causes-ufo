@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a_pilot_speed_range_er_b4abe8
 - ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a_pilot_ufo_safety_rep_11933c
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - pilots
 - sensor-limits
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - pilots
 - sensor-limits
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Radar, infrared and electro-optical data can strengthen a report, but sensor limits and missing metadata can still block identification.
 hero_summary: Radar, infrared and electro-optical data can strengthen a report, but sensor limits and missing metadata can still block identification.
 layout: default
 permalink: /sensor-limits/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /pilots/
 nav_short_title: Sensor Limits
 title: When Better Sensors Still Leave Doubt
-title_full: When Better Sensors Still Leave Doubt | Pilots
+title_full: When Better Sensors Still Leave Doubt
 display_title_short: Sensor Limits
 display_title: Sensor Limits
 heading_title: When Better Sensors Still Leave Doubt
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-07 00:26:35'
-parent_title: Why Pilots Can Misidentify UFOs | IFOs
+parent_title: Why Pilots Can Misidentify UFOs
 parent_permalink: /pilots/
 parent_nav_short_title: Pilots
 parent_heading_title: Why Pilots Can Misidentify UFOs
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a
-  title: Pilots | Ifos Causes Of
+  title: Pilots | ifos causes of UFO 3 ed 238
   permalink: /pilots/
   short_title: Pilots
   heading_title: Why Pilots Can Misidentify UFOs
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a
-  title: Pilots | Ifos Causes Of
+  title: Pilots | ifos causes of UFO 3 ed 238
   permalink: /pilots/
   short_title: Pilots
   heading_title: Why Pilots Can Misidentify UFOs
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: Why UFOs Look Faster Than They Are
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a
-  title: Pilots | Ifos Causes Of
+  title: Pilots | ifos causes of UFO 3 ed 238
   permalink: /pilots/
   short_title: Pilots
   heading_title: Why Pilots Can Misidentify UFOs
@@ -266,6 +265,7 @@ next_link:
   permalink: /speed-errors/
   short_title: Speed Errors
   heading_title: Why UFOs Look Faster Than They Are
+date: '2026-06-12 00:23:24 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a_pilot_ufo_sensor_lim_b35ec4-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a_pilot_ufo_sensor_lim_b35ec4-Illustration-1.webp
@@ -276,7 +276,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a_pilot_ufo
 
 Professional UFO or UAP reports often seem stronger when they include radar tracks, [infrared]({{ 'infrared/' | relative_url }}) video, targeting-pod imagery or other instrument data. Multiple sensors can indeed provide evidence beyond human perception alone. Yet the addition of technology does not automatically solve the identification problem. In many aviation cases, sensors introduce their own uncertainties: display artefacts, tracking errors, optical effects, missing calibration information and incomplete records. As a result, a report can move from being a question about what a pilot saw to a question about what a sensor actually measured. Modern reviews by NASA and the U.S. All-domain Anomaly Resolution Office (AARO) repeatedly highlight the same issue: better instruments help, but poor calibration, [missing metadata]({{ 'missing-metadata/' | relative_url }}) and incomplete datasets can still prevent a confident identification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a_pilot_ufo_sensor_lim_b35ec4-Illustration-1-dark.svg" | relative_url }}" alt="Sensor Limits illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a_pilot_ufo_sensor_lim_b35ec4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a_pilot_ufo_sensor_lim_b35ec4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## When Multiple Systems Strengthen a Case
 
@@ -284,8 +283,7 @@ A pilot's visual observation is only one source of information. Modern military 
 
 Radar can estimate [range]({{ 'range/' | relative_url }}) and movement. Infrared systems can reveal temperature contrasts. Electro-optical cameras can record shape and brightness. Aircraft position data can help reconstruct geometry. Together, these sources allow analysts to test whether an apparent object was actually moving unusually or merely appeared to do so because of viewing angles and aircraft motion. NASA's UAP study identified the lack of multiple measurements as one of the main reasons many reports remain unresolved. Independent measurements are often more valuable than any single dramatic image. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
 
-However, multiple sensors do not guarantee clarity. Different systems measure different physical properties. A radar return may represent reflected radio energy, while an infrared image records heat contrast. An object that appears striking on one sensor may be difficult or impossible to detect on another. [AARO]({{ 'aaro/' | relative_url }}) has documented cases in which a reported object was visible only through a particular sensor mode, complicating efforts to determine what physical object, if any, produced the signal. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Next UAP Report Documents</span><span class="citation-popover-snippet">AAROUAP Report Documents29 Feb 2024 — The observer also reported that the UAP was only detectable via Short-Wave Infrared (SWIR) sensor...</span></span></span>
-
+However, multiple sensors do not guarantee clarity. Different systems measure different physical properties. A radar return may represent reflected radio energy, while an infrared image records heat contrast. An object that appears striking on one sensor may be difficult or impossible to detect on another. [AARO]({{ 'aaro/' | relative_url }}) has documented cases in which a reported object was visible only through a particular sensor mode, complicating efforts to determine what physical object, if any, produced the signal. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Next UAP Report Documents</span><span class="citation-popover-snippet">UAP Report Documents29 Feb 2024 — The observer also reported that the UAP was only detectable via Short-Wave Infrared (SWIR) sensor...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Q7jcBGLIpus" title="Explained: New Navy UFO Videos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Q7jcBGLIpus" target="_blank" rel="noopener noreferrer">Explained: New Navy UFO Videos</a></p><p class="youtube-embed-meta">Channel: Mick West &middot; Views: 281.9K &middot; Uploaded: April 2020 &middot; Length: 2 minutes 54 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Q7jcBGLIpus" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Q7jcBGLIpus">Open on YouTube</a></p></div></div></div>
 
@@ -293,18 +291,16 @@ However, multiple sensors do not guarantee clarity. Different systems measure di
 
 One reason professional UFO cases remain controversial is that advanced sensors are designed primarily for military targeting, navigation or surveillance rather than scientific observation of unknown objects. When used outside their intended conditions, unexpected visual effects can occur.
 
-Infrared targeting systems are especially vulnerable to interpretation problems. Bright sources can create glare, blooming or distortion. [Compression]({{ 'compression/' | relative_url }}) algorithms may alter appearance. Long-range imaging can exaggerate apparent motion when aircraft movement and sensor tracking interact. Investigators studying famous military videos have repeatedly examined whether unusual shapes were genuine objects or products of the imaging system itself. AARO's public discussions of UAP analysis note that electro-optical and infrared glare, pixelation and other sensor effects can distort an object's apparent shape and behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/aaro-2024-annual-report-on-uap.13762/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">aaro 2024 annual report on uap.13762</span><span class="citation-popover-snippet">MetabunkAARO 2024 Annual Report on UAP14 Nov 2024 — Electro-optical/infrared sensor glare can also cause distorted pixilation of the obje...</span></span></span>
+Infrared targeting systems are especially vulnerable to interpretation problems. Bright sources can create glare, blooming or distortion. [Compression]({{ 'compression/' | relative_url }}) algorithms may alter appearance. Long-range imaging can exaggerate apparent motion when aircraft movement and sensor tracking interact. Investigators studying famous military videos have repeatedly examined whether unusual shapes were genuine objects or products of the imaging system itself. AARO's public discussions of UAP analysis note that electro-optical and infrared glare, pixelation and other sensor effects can distort an object's apparent shape and behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/aaro-2024-annual-report-on-uap.13762/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">aaro 2024 annual report on uap.13762</span><span class="citation-popover-snippet">AARO 2024 Annual Report on UAP14 Nov 2024 — Electro-optical/infrared sensor glare can also cause distorted pixilation of the obje...</span></span></span>
 
 Autofocus and tracking systems can add another layer of confusion. Modern sensors continuously adjust focus and lock onto contrast points. If the system shifts focus, changes zoom level or switches tracking modes, an object may appear to accelerate, rotate or change shape even when its actual motion is unremarkable. The recorded image is therefore not a direct view of reality but the output of a complex chain of optics, software and display processing.
 
 This does not mean every unusual image is an artefact. Rather, investigators must determine whether an apparent anomaly originated in the object itself or in the sensor system. That distinction often requires technical data unavailable in public releases.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a_pilot_ufo_sensor_lim_b35ec4-Illustration-2-dark.svg" | relative_url }}" alt="Sensor Limits illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a_pilot_ufo_sensor_lim_b35ec4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a_pilot_ufo_sensor_lim_b35ec4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Missing Metadata Matters
 
 A recurring theme in official UAP reviews is the importance of metadata. Metadata includes information such as:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -323,8 +319,7 @@ Without these details, analysts may be unable to reconstruct what the sensor was
 
 An infrared clip showing a fast-moving object may appear extraordinary until aircraft motion, zoom changes or tracking geometry are reconstructed. Conversely, a genuinely unusual event may remain unresolved simply because key technical information was not preserved. In either case, missing metadata limits confidence in any conclusion.
 
-AARO has publicly acknowledged that some reports remain unresolved because the available technical data are insufficient for attribution. The office has also identified lack of data as a major barrier to comprehensive analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1ko9q2o/aaro_has_posted_another_unresolved_case_video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">This report remains unresolved due to lack of technical data.Read more</span><span class="citation-popover-snippet">RedditAARO has posted another unresolved case (video): &quot;This...May 16, 2025 — This footage, captured by an infrared sensor in 2024, was...</span><span class="citation-popover-meta">Published: May 16, 2025</span></span></span>
-
+AARO has publicly acknowledged that some reports remain unresolved because the available technical data are insufficient for attribution. The office has also identified lack of data as a major barrier to comprehensive analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1ko9q2o/aaro_has_posted_another_unresolved_case_video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">This report remains unresolved due to lack of technical data.Read more</span><span class="citation-popover-snippet">AARO has posted another unresolved case (video): &quot;This...May 16, 2025 — This footage, captured by an infrared sensor in 2024, was...</span><span class="citation-popover-meta">Published: May 16, 2025</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LbFkhJ8aNfw" title="They Can&#x27;t Explain This&quot;: New Gimbal UFO Analysis from the Pentagon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LbFkhJ8aNfw" target="_blank" rel="noopener noreferrer">They Can&#x27;t Explain This&quot;: New Gimbal UFO Analysis from the Pentagon</a></p><p class="youtube-embed-meta">Channel: The Good Trouble Show with Matt Ford &middot; Views: 13.9K &middot; Uploaded: April 2026 &middot; Length: 1 hour 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LbFkhJ8aNfw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LbFkhJ8aNfw">Open on YouTube</a></p></div></div></div>
 
@@ -336,19 +331,16 @@ This pattern illustrates an important point: raw footage is rarely the final pie
 
 At the same time, some cases remain unresolved not because they display extraordinary performance but because the available evidence is incomplete. AARO has released examples where a physical object appears to be present, yet insufficient technical information prevents a more definitive identification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/989430/pr-015-unresolved-uap-report-europe-2022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">PR-015, Unresolved UAP Report, Europe 2022This unresolved report contributes to AARO&#x27;s historical and locational trend analyses. VIDEO IN...</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a_pilot_ufo_sensor_lim_b35ec4-Illustration-3-dark.svg" | relative_url }}" alt="Sensor Limits illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a_pilot_ufo_sensor_lim_b35ec4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a_pilot_ufo_sensor_lim_b35ec4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Better Sensors Can Still Leave Doubt
 
 The public often assumes that modern military sensors should eliminate uncertainty. In practice, the opposite can occur. Advanced systems generate vast quantities of specialised data that require calibration records, operating parameters and expert interpretation. A striking image without context may be less informative than a modest observation accompanied by complete technical documentation.
 
-Official reviews increasingly reach the same conclusion. Many reported UAP events are detected by sensors not designed for scientific anomaly studies, and the resulting records often lack the calibration standards and metadata needed for definitive analysis. As NASA's study noted, poor sensor calibration, missing metadata and insufficient multi-sensor measurements continue to limit what can be learned from many reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">WikisourceNASA Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — The panel notes that, at present, gathering data on UAP is...</span></span></span>
+Official reviews increasingly reach the same conclusion. Many reported UAP events are detected by sensors not designed for scientific anomaly studies, and the resulting records often lack the calibration standards and metadata needed for definitive analysis. As NASA's study noted, poor sensor calibration, missing metadata and insufficient multi-sensor measurements continue to limit what can be learned from many reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">NASA Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — The panel notes that, at present, gathering data on UAP is...</span></span></span>
 
 For professional UFO sightings, sensors therefore play a dual role. They strengthen reports by providing independent evidence beyond eyewitness testimony, but they also introduce technical uncertainties that can be every bit as challenging as the limitations of human perception. The result is that even cases involving trained pilots, radar operators and sophisticated equipment may remain unresolved—not because the evidence is absent, but because understanding exactly what the evidence means can be extraordinarily difficult. AARO <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/r119JWI04Ls" title="Explained: The Gimbal UFO&#x27;s Glow/Aura is Just Image Sharpening" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=r119JWI04Ls" target="_blank" rel="noopener noreferrer">Explained: The Gimbal UFO&#x27;s Glow/Aura is Just Image Sharpening</a></p><p class="youtube-embed-meta">Channel: Mick West &middot; Views: 12.2K &middot; Uploaded: June 2019 &middot; Length: 2 minutes 57 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=r119JWI04Ls" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=r119JWI04Ls">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -467,15 +459,15 @@ For professional UFO sightings, sensors therefore play a dual role. They strengt
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-limits-when-better-sensors-still-leave-doubt-ifos-causes-of-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="sensor-limits-when-better-sensors-still-leave-doubt-ifos-causes-of-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Selfie Stick Tripod Light Phone Holder Stand Remote Bluetooth For iPhone Samsung"><img src="{{ '/assets/images/marketplace-covers/90f5b8cdd3dd223b4944.jpg' | relative_url }}" alt="Listing image for Selfie Stick Tripod Light Phone Holder Stand Remote Bluetooth For iPhone Samsung" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-better-sensors-still-leave-doubt-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="when-better-sensors-still-leave-doubt-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:72 YF-23 Black Widow II Stealth Fighter Jet Model Aircraft USAF Display"><img src="https://i.ebayimg.com/images/g/EesAAeSwbHFqCFeB/s-l225.jpg" alt="Listing image for 1:72 YF-23 Black Widow II Stealth Fighter Jet Model Aircraft USAF Display" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-limits-when-better-sensors-still-leave-doubt-ifos-causes-of-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="sensor-limits-when-better-sensors-still-leave-doubt-ifos-causes-of-phone-tripod" target="_blank" rel="sponsored noopener noreferrer">Selfie Stick Tripod Light Phone Holder Stand Remote Bluetooth For iPhone Samsung</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-better-sensors-still-leave-doubt-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="when-better-sensors-still-leave-doubt-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">1:72 YF-23 Black Widow II Stealth Fighter Jet Model Aircraft USAF Display</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-limits-when-better-sensors-still-leave-doubt-ifos-causes-of-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="sensor-limits-when-better-sensors-still-leave-doubt-ifos-causes-of-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone tripod</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-better-sensors-still-leave-doubt-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="when-better-sensors-still-leave-doubt-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search <span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-limits-when-better-sensors-still-leave-doubt-ifos-causes-of-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="sensor-limits-when-better-sensors-still-leave-doubt-ifos-causes-of-phone-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-better-sensors-still-leave-doubt-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="when-better-sensors-still-leave-doubt-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -483,15 +475,15 @@ For professional UFO sightings, sensors therefore play a dual role. They strengt
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-limits-when-better-sensors-still-leave-doubt-ifos-causes-of-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="sensor-limits-when-better-sensors-still-leave-doubt-ifos-causes-of-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Universal Tripod Adjust 360 Mobile Phone Stand Desktop holder. For Mobile Phones"><img src="{{ '/assets/images/marketplace-covers/447e337cd8e04ae3c153.jpg' | relative_url }}" alt="Listing image for Universal Tripod Adjust 360 Mobile Phone Stand Desktop holder. For Mobile Phones" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-better-sensors-still-leave-doubt-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="when-better-sensors-still-leave-doubt-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/144 J-36 6th Generation Fighter Jet Stealth Aircraft China PLAA Diecast Model"><img src="https://i.ebayimg.com/images/g/phsAAeSwvlJpnuVO/s-l225.jpg" alt="Listing image for 1/144 J-36 6th Generation Fighter Jet Stealth Aircraft China PLAA Diecast Model" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-limits-when-better-sensors-still-leave-doubt-ifos-causes-of-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="sensor-limits-when-better-sensors-still-leave-doubt-ifos-causes-of-phone-tripod" target="_blank" rel="sponsored noopener noreferrer">Universal Tripod Adjust 360 Mobile Phone Stand Desktop holder. For Mobile Phones</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-better-sensors-still-leave-doubt-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="when-better-sensors-still-leave-doubt-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">1/144 J-36 6th Generation Fighter Jet Stealth Aircraft China PLAA Diecast Model</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-limits-when-better-sensors-still-leave-doubt-ifos-causes-of-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="sensor-limits-when-better-sensors-still-leave-doubt-ifos-causes-of-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone tripod</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-better-sensors-still-leave-doubt-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="when-better-sensors-still-leave-doubt-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search <span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-limits-when-better-sensors-still-leave-doubt-ifos-causes-of-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="sensor-limits-when-better-sensors-still-leave-doubt-ifos-causes-of-phone-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-better-sensors-still-leave-doubt-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="when-better-sensors-still-leave-doubt-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -499,15 +491,15 @@ For professional UFO sightings, sensors therefore play a dual role. They strengt
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-limits-when-better-sensors-still-leave-doubt-ifos-causes-of-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="sensor-limits-when-better-sensors-still-leave-doubt-ifos-causes-of-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Selfie Stick with Bluetooth Remote Extendable Phone Holder Portable Tripod Stand"><img src="{{ '/assets/images/marketplace-covers/99195fb00e840434b6fb.jpg' | relative_url }}" alt="Listing image for Selfie Stick with Bluetooth Remote Extendable Phone Holder Portable Tripod Stand" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-better-sensors-still-leave-doubt-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="when-better-sensors-still-leave-doubt-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for J10 J15 J30 J31 Su35 Su57 F16 F18 F35 B2A SR71 Alloy Fighter Jet Model Decor"><img src="https://i.ebayimg.com/images/g/f5sAAeSwCgdpAEvP/s-l225.jpg" alt="Listing image for J10 J15 J30 J31 Su35 Su57 F16 F18 F35 B2A SR71 Alloy Fighter Jet Model Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-limits-when-better-sensors-still-leave-doubt-ifos-causes-of-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="sensor-limits-when-better-sensors-still-leave-doubt-ifos-causes-of-phone-tripod" target="_blank" rel="sponsored noopener noreferrer">Selfie Stick with Bluetooth Remote Extendable Phone Holder Portable Tripod Stand</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-better-sensors-still-leave-doubt-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="when-better-sensors-still-leave-doubt-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">J10 J15 J30 J31 Su35 Su57 F16 F18 F35 B2A SR71 Alloy Fighter Jet Model Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-limits-when-better-sensors-still-leave-doubt-ifos-causes-of-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="sensor-limits-when-better-sensors-still-leave-doubt-ifos-causes-of-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone tripod</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-better-sensors-still-leave-doubt-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="when-better-sensors-still-leave-doubt-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search <span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-limits-when-better-sensors-still-leave-doubt-ifos-causes-of-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="sensor-limits-when-better-sensors-still-leave-doubt-ifos-causes-of-phone-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-better-sensors-still-leave-doubt-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="when-better-sensors-still-leave-doubt-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -515,15 +507,15 @@ For professional UFO sightings, sensors therefore play a dual role. They strengt
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-limits-when-better-sensors-still-leave-doubt-ifos-causes-of-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="sensor-limits-when-better-sensors-still-leave-doubt-ifos-causes-of-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Telescopic Selfie Stick Bluetooth Tripod Monopod Phone Holder for Samsung iPhone"><img src="{{ '/assets/images/marketplace-covers/3b5f69cfd14ed4fc7763.jpg' | relative_url }}" alt="Listing image for Telescopic Selfie Stick Bluetooth Tripod Monopod Phone Holder for Samsung iPhone" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-better-sensors-still-leave-doubt-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="when-better-sensors-still-leave-doubt-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Del Prado Diecast Model Aircraft Russian MiG Jet Fighters X2"><img src="https://i.ebayimg.com/images/g/lZYAAeSwFNtqKoX9/s-l225.jpg" alt="Listing image for Del Prado Diecast Model Aircraft Russian MiG Jet Fighters X2" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-limits-when-better-sensors-still-leave-doubt-ifos-causes-of-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="sensor-limits-when-better-sensors-still-leave-doubt-ifos-causes-of-phone-tripod" target="_blank" rel="sponsored noopener noreferrer">Telescopic Selfie Stick Bluetooth Tripod Monopod Phone Holder for Samsung iPhone</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-better-sensors-still-leave-doubt-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="when-better-sensors-still-leave-doubt-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">Del Prado Diecast Model Aircraft Russian MiG Jet Fighters X2</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-limits-when-better-sensors-still-leave-doubt-ifos-causes-of-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="sensor-limits-when-better-sensors-still-leave-doubt-ifos-causes-of-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone tripod</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-better-sensors-still-leave-doubt-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="when-better-sensors-still-leave-doubt-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search <span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-limits-when-better-sensors-still-leave-doubt-ifos-causes-of-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="sensor-limits-when-better-sensors-still-leave-doubt-ifos-causes-of-phone-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-better-sensors-still-leave-doubt-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="when-better-sensors-still-leave-doubt-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -531,7 +523,7 @@ For professional UFO sightings, sensors therefore play a dual role. They strengt
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-limits-when-better-sensors-still-leave-doubt-ifos-causes-of-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="sensor-limits-when-better-sensors-still-leave-doubt-ifos-causes-of-phone-tripod" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-better-sensors-still-leave-doubt-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="when-better-sensors-still-leave-doubt-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -746,177 +738,177 @@ For professional UFO sightings, sensors therefore play a dual role. They strengt
 
 1. <a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: en.wikisource.org  
-   Link: [https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task](https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WikisourceNASA Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — The panel notes that, at present, gathering data on UAP is...</p></details>
+   Link: <a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — The panel notes that, at present, gathering data on UAP is...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: en.wikisource.org  
    Title: Page:UAP Independent Study Team  
-   Link: [https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5](https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5)  
+   Link: <a href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgPage:UAP Independent Study Team - Final Report.pdf/512 Nov 2023 — At present, analysis of UAP data is hampered by poor sens...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: aaro.mil  
    Title: Next UAP Report Documents  
-   Link: [https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/](https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROUAP Report Documents29 Feb 2024 — The observer also reported that the UAP was only detectable via Short-Wave Infrared (SWIR) sensor...</p></details>
+   Link: <a href="https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Report Documents29 Feb 2024 — The observer also reported that the UAP was only detectable via Short-Wave Infrared (SWIR) sensor...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: metabunk.org  
    Title: aaro 2024 annual report on uap.13762  
-   Link: [https://www.metabunk.org/threads/aaro-2024-annual-report-on-uap.13762/](https://www.metabunk.org/threads/aaro-2024-annual-report-on-uap.13762/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MetabunkAARO 2024 Annual Report on UAP14 Nov 2024 — Electro-optical/infrared sensor glare can also cause distorted pixilation of the obje...</p></details>
+   Link: <a href="https://www.metabunk.org/threads/aaro-2024-annual-report-on-uap.13762/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/aaro-2024-annual-report-on-uap.13762/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO 2024 Annual Report on UAP14 Nov 2024 — Electro-optical/infrared sensor glare can also cause distorted pixilation of the obje...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThe footage depicts an area of contrast in the infrared sensor display, suggesting the presence of a physical object. Analysis...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
    Title: This report remains unresolved due to lack of technical data.Read more  
-   Link: [https://www.reddit.com/r/UFOs/comments/1ko9q2o/aaro_has_posted_another_unresolved_case_video/](https://www.reddit.com/r/UFOs/comments/1ko9q2o/aaro_has_posted_another_unresolved_case_video/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditAARO has posted another unresolved case (video): &quot;This...May 16, 2025 — This footage, captured by an infrared sensor in 2024, was...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ko9q2o/aaro_has_posted_another_unresolved_case_video/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ko9q2o/aaro_has_posted_another_unresolved_case_video/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO has posted another unresolved case (video): &quot;This...May 16, 2025 — This footage, captured by an infrared sensor in 2024, was...</p></details>
    Published: May 16, 2025  
 
 8. <a id="endnote-8"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROThe US Defense Department &amp; The UAP MissionAARO analyses confirm only a very small percentage of UAP reports display anomalous signat...</p></details>
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The US Defense Department &amp; The UAP MissionAARO analyses confirm only a very small percentage of UAP reports display anomalous signat...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/](https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROUAP Case Resolution ReportsAARO assesses with high confidence that the objects did not demonstrate anomalous speeds or flight behavio...</p></details>
+   Link: <a href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Case Resolution ReportsAARO assesses with high confidence that the objects did not demonstrate anomalous speeds or flight behavio...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/video/989430/pr-015-unresolved-uap-report-europe-2022](https://www.dvidshub.net/video/989430/pr-015-unresolved-uap-report-europe-2022)  
+   Link: <a href="https://www.dvidshub.net/video/989430/pr-015-unresolved-uap-report-europe-2022" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/989430/pr-015-unresolved-uap-report-europe-2022</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PR-015, Unresolved UAP Report, Europe 2022This unresolved report contributes to AARO&#x27;s historical and locational trend analyses. VIDEO IN...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: en.wikisource.org  
    Title: Overall Conclusions and Recommendations  
-   Link: [https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Overall_Conclusions_and_Recommendations](https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Overall_Conclusions_and_Recommendations)  
+   Link: <a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Overall_Conclusions_and_Recommendations" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Overall_Conclusions_and_Recommendations</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Study Team Report/Overall Conclusions and...14 Oct 2023 — At present, the detection of UAP is often serendipitous, captured by sensors t...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/UAP-Reporting-Trends/](https://www.aaro.mil/UAP-Cases/UAP-Reporting-Trends/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/UAP-Reporting-Trends/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Reporting-Trends/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Reporting TrendsSensor Artifact, 2, 0.2%. Fireworks, 1, 0.1%. Natural Atmospherics, 1, 0.1%. Reported UAP Morphology. Not all UAP rep...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeRead UAP Records from NARA; UAP Reporting Trends; UAP Imagery; NEW INFORMATION PAPER &amp; ANIMATION: Correlations of Satellite F...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: aaro.mil  
    Title: UNCLASSIFIED FY23 Consolidated Annual Report on UAP Oct 25 2023 1236  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf](https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2022 to 30 April 2023, and all UAP reports from any previous time periods that...</p></details>
    Published: April 2023  
 
 15. <a id="endnote-15"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>9, 2022 — The UAP Independent Study shall report on the following questions: What types of scientific data currently collected and archiv...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: nasa.gov  
    Title: nasa to release discuss unidentified anomalous phenomena report  
-   Link: [https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/](https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/)  
+   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to Release, Discuss Unidentified Anomalous...NASA commissioned the study to examine UAP from a scientific perspective and create a...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: [https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/](https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/)  
+   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — The report contains the external study team&#x27;s findings and recommendations...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 8, 2026 — In 2023, NASA commissioned the UAP Independent Study Team to examine unidentified anomalous phenomena from a scientific per...</p></details>
    Published: May 8, 2026  
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/](https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>According to AARO&#x27;s new website, the FLIR, Gimbal and...AARO has posted another unresolved case (video): &quot;This footage, captured by an i...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/video/885193/western-us-objects](https://www.dvidshub.net/video/885193/western-us-objects)  
+   Link: <a href="https://www.dvidshub.net/video/885193/western-us-objects" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/885193/western-us-objects</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Western U.S. ObjectsA video depicting three unidentified objects recorded on infrared video in 2021 from a military range in the western...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/video/977839/pr-008-unresolved-uap-report-europe-2022](https://www.dvidshub.net/video/977839/pr-008-unresolved-uap-report-europe-2022)  
+   Link: <a href="https://www.dvidshub.net/video/977839/pr-008-unresolved-uap-report-europe-2022" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/977839/pr-008-unresolved-uap-report-europe-2022</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PR-008, Unresolved UAP Report, Europe 2022The United States European Command submitted a report of an unidentified anomalous phenomenon t...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/video/973055/pr-003-unresolved-uap-report-africa-2023](https://www.dvidshub.net/video/973055/pr-003-unresolved-uap-report-africa-2023)  
+   Link: <a href="https://www.dvidshub.net/video/973055/pr-003-unresolved-uap-report-africa-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/973055/pr-003-unresolved-uap-report-africa-2023</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PR-003, Unresolved UAP Report, Africa 2023In 2023, the United States Africa Command submitted a report of an unidentified anomalous pheno...</p></details>
 
 ### Additional References
 
 23. <a id="endnote-23"></a>
    Source: armed-services.senate.gov  
-   Link: [https://www.armed-services.senate.gov/download/aaro-case-slides-112024](https://www.armed-services.senate.gov/download/aaro-case-slides-112024)  
+   Link: <a href="https://www.armed-services.senate.gov/download/aaro-case-slides-112024" target="_blank" rel="noopener noreferrer nofollow">https://www.armed-services.senate.gov/download/aaro-case-slides-112024</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Proposed AARO Branding GuideFindings: Following in-depth computational analysis of Navy aircraft&#x27;s flight characteristics and sensor read...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: war.gov  
    Title: dr jon kosloski director aaro media roundtable on the fy24 consolidated annual  
-   Link: [https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/](https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/)  
+   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jon Kosloski, Director, AARO, Media Roundtable on the...14 Nov 2024 — AARO has taken meaningful steps to improve data collection and ret...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: aui.edu  
-   Link: [https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/](https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/)  
+   Link: <a href="https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Releases Report on Unidentified Anomalous...Key findings of the report relate to overcoming such barriers, effective use of UAP dat...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: studocu.com  
-   Link: [https://www.studocu.com/en-us/document/harvard-medical-school/estadistica/nasa-uap-independent-study-team-final-report-key-findings-and-recommendations/157385671](https://www.studocu.com/en-us/document/harvard-medical-school/estadistica/nasa-uap-independent-study-team-final-report-key-findings-and-recommendations/157385671)  
+   Link: <a href="https://www.studocu.com/en-us/document/harvard-medical-school/estadistica/nasa-uap-independent-study-team-final-report-key-findings-and-recommendations/157385671" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/en-us/document/harvard-medical-school/estadistica/nasa-uap-independent-study-team-final-report-key-findings-and-recommendations/157385671</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UAP Independent Study Team Final ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the. lack of multipl...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/395980103_Unconventional_UAP_Signatures_Framed_within_Optical_and_Electromagnetic_Physics](https://www.researchgate.net/publication/395980103_Unconventional_UAP_Signatures_Framed_within_Optical_and_Electromagnetic_Physics)  
+   Link: <a href="https://www.researchgate.net/publication/395980103_Unconventional_UAP_Signatures_Framed_within_Optical_and_Electromagnetic_Physics" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395980103_Unconventional_UAP_Signatures_Framed_within_Optical_and_Electromagnetic_Physics</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unconventional UAP Signatures Framed within Optical and...30 Sept 2025 — This work proposes that UAPs may be energy-mediated projections...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: defensescoop.com  
-   Link: [https://defensescoop.com/2023/10/18/dods-all-domain-anomaly-resolution-office-is-now-investigating-more-than-800-uap-cases/](https://defensescoop.com/2023/10/18/dods-all-domain-anomaly-resolution-office-is-now-investigating-more-than-800-uap-cases/)  
+   Link: <a href="https://defensescoop.com/2023/10/18/dods-all-domain-anomaly-resolution-office-is-now-investigating-more-than-800-uap-cases/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2023/10/18/dods-all-domain-anomaly-resolution-office-is-now-investigating-more-than-800-uap-cases/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DOD&#x27;s All-domain Anomaly Resolution Office confirms...18 Oct 2023 — A new Pentagon report confirms that AARO has received a total of 801...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: war.gov  
    Title: dod working to better understand resolve anomalous phenomena  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3368109/dod-working-to-better-understand-resolve-anomalous-phenomena/](https://www.war.gov/News/News-Stories/Article/Article/3368109/dod-working-to-better-understand-resolve-anomalous-phenomena/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3368109/dod-working-to-better-understand-resolve-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3368109/dod-working-to-better-understand-resolve-anomalous-phenomena/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DOD Working to Better Understand, Resolve Anomalous...19 Apr 2023 — AARO team scientists have taken important steps to improve UAP data...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Historical Record Report Volume 18 Mar 2024 — SECTION I: Introduction. This report represents Volume I of the All-domain Anomaly Resoluti...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=TQcqOW39ksk](https://www.youtube.com/watch?v=TQcqOW39ksk)  
+   Link: <a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study ReportNASA commissioned an independent study team to examine unidentified anomalous ph...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/](https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>14 Nov 2024 — &quot;AARO has successfully resolved hundreds of cases in its holdings to commonplace objects such as balloons, birds, [drones](&amp;#123;&amp;#123; &#x27;drones/&#x27; | relative_url &amp;#125;&amp;#125;), s...</p></details>

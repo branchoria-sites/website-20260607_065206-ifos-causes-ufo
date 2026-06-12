@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_phone_green_orbs_745199
 - ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_uap_data_gaps_flare_10067f
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - lens-flare
 - night-videos
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - lens-flare
 - night-videos
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Dark skies and tiny bright lights push phone cameras into glare, focus hunting, compression and misleading apparent motion.
 hero_summary: Dark skies and tiny bright lights push phone cameras into glare, focus hunting, compression and misleading apparent motion.
 layout: default
 permalink: /night-videos/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /lens-flare/
 nav_short_title: Night videos
 title: Why night UFO videos fool the eye
-title_full: Why night UFO videos fool the eye | Lens Flare
+title_full: Why night UFO videos fool the eye
 display_title_short: Night videos
 display_title: Night videos
 heading_title: Why night UFO videos fool the eye
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 15:30:08'
-parent_title: When Cameras Invent Extra Lights | IFOs
+parent_title: When Cameras Invent Extra Lights
 parent_permalink: /lens-flare/
 parent_nav_short_title: Lens Flare
 parent_heading_title: When Cameras Invent Extra Lights
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e
-  title: Lens Flare | Ifos Causes Of
+  title: Lens Flare | ifos causes of UFO 3 ed 238
   permalink: /lens-flare/
   short_title: Lens Flare
   heading_title: When Cameras Invent Extra Lights
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e
-  title: Lens Flare | Ifos Causes Of
+  title: Lens Flare | ifos causes of UFO 3 ed 238
   permalink: /lens-flare/
   short_title: Lens Flare
   heading_title: When Cameras Invent Extra Lights
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: The camera moves that expose lens flare
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e
-  title: Lens Flare | Ifos Causes Of
+  title: Lens Flare | ifos causes of UFO 3 ed 238
   permalink: /lens-flare/
   short_title: Lens Flare
   heading_title: When Cameras Invent Extra Lights
@@ -260,6 +259,7 @@ prev_link:
   permalink: /motion-tests/
   short_title: Motion tests
   heading_title: The camera moves that expose lens flare
+date: '2026-06-12 00:18:05 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_night_phone_video_ar_b34cfa-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_night_phone_video_ar_b34cfa-Illustration-1.webp
@@ -269,7 +269,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_night_phone_
 ## Introduction
 
 Night-time UFO videos recorded on phones are often among the most convincing pieces of witness evidence and among the least reliable forms of measurement. A bright point of light against a dark sky strips away many of the visual cues that normally help people judge distance, size and motion. At the same time, smartphone cameras switch into aggressive low-light processing modes that can exaggerate glare, hunt for focus, smooth away detail and create misleading motion effects. The result is a class of UFO reports in which a distant aircraft light, planet, drone, satellite or bright star can appear as a glowing orb performing unusual manoeuvres.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_night_phone_video_ar_b34cfa-Illustration-1-dark.svg" | relative_url }}" alt="Night videos illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_night_phone_video_ar_b34cfa-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_night_phone_video_ar_b34cfa-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This does not mean that every night sighting has a mundane explanation. It means that night phone footage deserves especially careful scrutiny. Investigators of unidentified flying objects routinely find that the most dramatic-looking videos are often those with the least useful image data, particularly when the [original files]({{ 'original-files/' | relative_url }}) and camera metadata are unavailable. NASA's UAP study highlighted poor calibration, [missing metadata]({{ 'missing-metadata/' | relative_url }}) and a lack of multiple measurements as major obstacles to analysing unusual aerial observations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
@@ -282,10 +281,9 @@ Automatic exposure systems often brighten dark scenes to make them look more vis
 
 Autofocus introduces another source of confusion. Most phone cameras focus by detecting contrast. A tiny light surrounded by darkness provides very little information for the focus system to lock onto. As focus shifts back and forth, the apparent size and shape of the light can change dramatically. A distant point source may briefly swell into a large glowing disc, then shrink again as focus is regained. Photographic guidance for night shooting specifically warns that low-light autofocus systems struggle and may repeatedly search for a usable focus point. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digital-photography-school.com/9-tips-to-help-you-get-sharp-focus-at-night/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digital-photography-school.com">[Digital Photography School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digital-photography-school.com</span><span class="citation-popover-title">Digital Photography School9 Tips to Help you get Sharp Focus at Night</span><span class="citation-popover-snippet">That means the camera will have the best chance at finding something to focus on if you aim at the...Read more...</span></span></span>
 
-[Compression]({{ 'compression/' | relative_url }}) and computational photography add further complications. Modern phones combine multiple frames, reduce noise with software and sometimes use artificial intelligence to enhance low-light video. These techniques can create trails, shimmering edges, unstable brightness and apparent shape changes around bright lights. Some systems are designed to reveal details in scenes that are nearly dark to human vision, meaning the recorded image is already a processed interpretation rather than a direct representation of what the witness saw. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.qualcomm.com/news/onq/2024/07/a-shot-in-the-dark-how-to-enable-low-light-video-capture-on-your-smartphone" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qualcomm.com">[Qualcomm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qualcomm.com</span><span class="citation-popover-title">A shot in the dark: How to enable low-light video capture</span><span class="citation-popover-snippet">QualcommA shot in the dark: How to enable low-light video capture...July 2, 2024 — 2 Jul 2024 — Night Vision for Mobile is software that...</span><span class="citation-popover-meta">Published: July 2, 2024</span></span></span>
+[Compression]({{ 'compression/' | relative_url }}) and computational photography add further complications. Modern phones combine multiple frames, reduce noise with software and sometimes use artificial intelligence to enhance low-light video. These techniques can create trails, shimmering edges, unstable brightness and apparent shape changes around bright lights. Some systems are designed to reveal details in scenes that are nearly dark to human vision, meaning the recorded image is already a processed interpretation rather than a direct representation of what the witness saw. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.qualcomm.com/news/onq/2024/07/a-shot-in-the-dark-how-to-enable-low-light-video-capture-on-your-smartphone" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qualcomm.com">[Qualcomm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qualcomm.com</span><span class="citation-popover-title">A shot in the dark: How to enable low-light video capture</span><span class="citation-popover-snippet">A shot in the dark: How to enable low-light video capture...July 2, 2024 — 2 Jul 2024 — Night Vision for Mobile is software that...</span><span class="citation-popover-meta">Published: July 2, 2024</span></span></span>
 
 A viewer watching the finished video may therefore be seeing a mixture of a real light source and the camera's attempts to stabilise, denoise, sharpen and brighten it.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ToN15U6dy1Q" title="How to capture the night sky with a phone &amp; camera | 3 TIPS for astrophotography beginners" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ToN15U6dy1Q" target="_blank" rel="noopener noreferrer">How to capture the night sky with a phone &amp; camera | 3 TIPS for astrophotography beginners</a></p><p class="youtube-embed-meta">Channel: Dr. Becky &middot; Views: 100.2K &middot; Uploaded: March 2022 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ToN15U6dy1Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ToN15U6dy1Q">Open on YouTube</a></p></div></div></div>
 
@@ -307,8 +305,7 @@ The resulting object may appear structured, pulsating or morphing even when the 
 
 This is particularly important for reports involving aircraft [landing lights]({{ 'landing-lights/' | relative_url }}). At long range, a landing light can appear stationary for many minutes because the aircraft is flying almost directly toward the observer. The camera records only an intense point source. As exposure and focus fluctuate, the light may appear to expand, contract, change colour or hover unnaturally despite following an ordinary flight path.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ixTICcLXueg" title="Unidentified Anomalous Phenomena Report from NASA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ixTICcLXueg" target="_blank" rel="noopener noreferrer">Unidentified Anomalous Phenomena Report from NASA</a></p><p class="youtube-embed-meta">Channel: FOX10 News &middot; Views: 416 &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ixTICcLXueg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ixTICcLXueg">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback youtube-embed-link-only"><div class="youtube-embed-card"><div class="youtube-embed-link-panel"><span class="youtube-embed-link-kicker">YouTube</span><a href="https://www.youtube.com/watch?v=ixTICcLXueg" target="_blank" rel="noopener noreferrer">Unidentified Anomalous Phenomena Report from NASAAt present, analysis of UAP data is hampered by poor sensor calibration ... imaging data</a></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ixTICcLXueg" target="_blank" rel="noopener noreferrer">Unidentified Anomalous Phenomena Report from NASAAt present, analysis of UAP data is hampered by poor sensor calibration ... imaging data</a></p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ixTICcLXueg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ixTICcLXueg">Open on YouTube</a></p></div></div></div>
 
 ## How point lights lose distance and scale
 
@@ -324,7 +321,6 @@ The problem becomes worse when digital zoom is used. Unlike optical zoom, digita
 
 For this reason, many dramatic night videos provide little information about an object's actual size, shape or range. The recording often documents the behaviour of light within the camera system more clearly than it documents the object itself.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_night_phone_video_ar_b34cfa-Illustration-2-dark.svg" | relative_url }}" alt="Night videos illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_night_phone_video_ar_b34cfa-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_night_phone_video_ar_b34cfa-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Apparent motion that belongs to the camera
 
@@ -338,7 +334,6 @@ Perspective also plays a role. A distant light observed from a moving vehicle ca
 
 This is one reason investigators place far greater weight on recordings that include buildings, trees, [stars]({{ 'stars/' | relative_url }}) or other fixed reference points.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Isq9pTSROic" title="How to Create Great Night Shots with a Smartphone?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Isq9pTSROic" target="_blank" rel="noopener noreferrer">How to Create Great Night Shots with a Smartphone?</a></p><p class="youtube-embed-meta">Channel: My Photo Journey &middot; Views: 1.8K &middot; Uploaded: February 2025 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Isq9pTSROic" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Isq9pTSROic">Open on YouTube</a></p></div></div></div>
 
 ## Metadata and original files that change the verdict
@@ -346,7 +341,6 @@ This is one reason investigators place far greater weight on recordings that inc
 The difference between an unresolved mystery and a likely explanation often lies not in the visible image but in the information attached to it.
 
 Original files can contain:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -361,19 +355,18 @@ Original files can contain:
 
 These details can allow investigators to compare the sighting against aircraft tracks, satellite passes, astronomical objects and known camera behaviour.
 
-NASA's independent UAP study repeatedly emphasised that missing metadata severely limits analysis and noted that some apparent anomalies have been shown to be [sensor artefacts]({{ 'sensor-artefacts/' | relative_url }}) once calibration information and metadata were examined. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Responses to Statement of Task</span><span class="citation-popover-snippet">WikisourceNASA Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — Indeed, several apparent UAP have been demonstrated to be s...</span></span></span>
+NASA's independent UAP study repeatedly emphasised that missing metadata severely limits analysis and noted that some apparent anomalies have been shown to be [sensor artefacts]({{ 'sensor-artefacts/' | relative_url }}) once calibration information and metadata were examined. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Responses to Statement of Task</span><span class="citation-popover-snippet">NASA Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — Indeed, several apparent UAP have been demonstrated to be s...</span></span></span>
 
 Unfortunately, many viral UFO clips are shared as compressed social-media uploads. By the time the footage reaches investigators, the original file has often been stripped of metadata and re-encoded several times. Compression removes detail, alters motion characteristics and can conceal clues needed to identify ordinary explanations.
 
 A short, heavily compressed clip of a bright light in a dark sky may therefore be visually dramatic while offering almost no reliable information about what was actually observed.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_night_phone_video_ar_b34cfa-Illustration-3-dark.svg" | relative_url }}" alt="Night videos illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_night_phone_video_ar_b34cfa-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_night_phone_video_ar_b34cfa-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The key lesson from night UFO footage
 
 Night-time phone videos occupy a difficult position in UFO investigation. They are emotionally compelling because bright lights stand out vividly against darkness, and witnesses often feel certain that they captured something remarkable. Yet the same conditions that make the sighting memorable also maximise the chances of optical artefacts, focus errors, exposure distortions and mistaken estimates of distance and motion.
 
-When a video consists primarily of a bright point of light against a dark sky, the safest starting assumption is not that the object is extraordinary, but that the recording contains too little information to determine what the object was. In many cases, the most valuable evidence is not the glowing orb visible on screen but the original file, its metadata, and any independent observations that can establish scale, position and motion. NASA Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Responses to Statement of Task</span><span class="citation-popover-snippet">WikisourceNASA Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — Indeed, several apparent UAP have been demonstrated to be s...</span></span></span>
+When a video consists primarily of a bright point of light against a dark sky, the safest starting assumption is not that the object is extraordinary, but that the recording contains too little information to determine what the object was. In many cases, the most valuable evidence is not the glowing orb visible on screen but the original file, its metadata, and any independent observations that can establish scale, position and motion. NASA Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Responses to Statement of Task</span><span class="citation-popover-snippet">NASA Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — Indeed, several apparent UAP have been demonstrated to be s...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -492,15 +485,15 @@ When a video consists primarily of a bright point of light against a dark sky, t
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-videos-why-night-ufo-videos-fool-the-eye-ifos-causes-of-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="night-videos-why-night-ufo-videos-fool-the-eye-ifos-causes-of-camera-lens" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Canon EF 35-105mm f4.5-5.6 Auto Focus Lens for Canon EOS Cameras #2 **READ**"><img src="{{ '/assets/images/marketplace-covers/8d9e9124f1c24971b104.jpg' | relative_url }}" alt="Listing image for Canon EF 35-105mm f4.5-5.6 Auto Focus Lens for Canon EOS Cameras #2 **READ**" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-ufo-videos-fool-the-eye-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="why-night-ufo-videos-fool-the-eye-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Horizontal Overhead Tripod Adjustable Phone Tripod Stand For Video Recording UK"><img src="https://i.ebayimg.com/images/g/iWYAAeSwbGlqHTqJ/s-l225.jpg" alt="Listing image for Horizontal Overhead Tripod Adjustable Phone Tripod Stand For Video Recording UK" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-videos-why-night-ufo-videos-fool-the-eye-ifos-causes-of-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="night-videos-why-night-ufo-videos-fool-the-eye-ifos-causes-of-camera-lens" target="_blank" rel="sponsored noopener noreferrer">Canon EF 35-105mm f4.5-5.6 Auto Focus Lens for Canon EOS Cameras #2 **READ**</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-ufo-videos-fool-the-eye-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="why-night-ufo-videos-fool-the-eye-phone-tripod" target="_blank" rel="sponsored noopener noreferrer">Horizontal Overhead Tripod Adjustable Phone Tripod Stand For Video Recording UK</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-videos-why-night-ufo-videos-fool-the-eye-ifos-causes-of-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="night-videos-why-night-ufo-videos-fool-the-eye-ifos-causes-of-camera-lens" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera lens">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera lens</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-ufo-videos-fool-the-eye-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="why-night-ufo-videos-fool-the-eye-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone tripod</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-videos-why-night-ufo-videos-fool-the-eye-ifos-causes-of-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="night-videos-why-night-ufo-videos-fool-the-eye-ifos-causes-of-camera-lens" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-ufo-videos-fool-the-eye-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="why-night-ufo-videos-fool-the-eye-phone-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -508,15 +501,15 @@ When a video consists primarily of a bright point of light against a dark sky, t
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-videos-why-night-ufo-videos-fool-the-eye-ifos-causes-of-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="night-videos-why-night-ufo-videos-fool-the-eye-ifos-causes-of-camera-lens" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Camera Lens, Manual-Focus Tokina SD 70-210mm f/4-5.6"><img src="{{ '/assets/images/marketplace-covers/ec44e1e001216fc598e3.jpg' | relative_url }}" alt="Listing image for Vintage Camera Lens, Manual-Focus Tokina SD 70-210mm f/4-5.6" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-ufo-videos-fool-the-eye-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="why-night-ufo-videos-fool-the-eye-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lightweight Aluminium Tripod Telescopic Camera DSLR Stand With Phone Holder UK"><img src="https://i.ebayimg.com/images/g/DX4AAOSw9s5lSgdl/s-l225.jpg" alt="Listing image for Lightweight Aluminium Tripod Telescopic Camera DSLR Stand With Phone Holder UK" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-videos-why-night-ufo-videos-fool-the-eye-ifos-causes-of-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="night-videos-why-night-ufo-videos-fool-the-eye-ifos-causes-of-camera-lens" target="_blank" rel="sponsored noopener noreferrer">Vintage Camera Lens, Manual-Focus Tokina SD 70-210mm f/4-5.6</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-ufo-videos-fool-the-eye-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="why-night-ufo-videos-fool-the-eye-phone-tripod" target="_blank" rel="sponsored noopener noreferrer">Lightweight Aluminium Tripod Telescopic Camera DSLR Stand With Phone Holder UK</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-videos-why-night-ufo-videos-fool-the-eye-ifos-causes-of-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="night-videos-why-night-ufo-videos-fool-the-eye-ifos-causes-of-camera-lens" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera lens">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera lens</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-ufo-videos-fool-the-eye-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="why-night-ufo-videos-fool-the-eye-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone tripod</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-videos-why-night-ufo-videos-fool-the-eye-ifos-causes-of-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="night-videos-why-night-ufo-videos-fool-the-eye-ifos-causes-of-camera-lens" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-ufo-videos-fool-the-eye-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="why-night-ufo-videos-fool-the-eye-phone-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -524,15 +517,15 @@ When a video consists primarily of a bright point of light against a dark sky, t
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-videos-why-night-ufo-videos-fool-the-eye-ifos-causes-of-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="night-videos-why-night-ufo-videos-fool-the-eye-ifos-causes-of-camera-lens" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Praktica MTL 50 Camera w/ Germany SLR 35mm Pentacon Lens"><img src="{{ '/assets/images/marketplace-covers/8a64e5218ac82b816cfe.jpg' | relative_url }}" alt="Listing image for Vintage Praktica MTL 50 Camera w/ Germany SLR 35mm Pentacon Lens" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-ufo-videos-fool-the-eye-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="why-night-ufo-videos-fool-the-eye-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Universal Smartphone Tripod Adapter Cell Phone Holder Mount to Phone or Camera."><img src="https://i.ebayimg.com/images/g/qRYAAeSwSzpqEfVy/s-l225.jpg" alt="Listing image for Universal Smartphone Tripod Adapter Cell Phone Holder Mount to Phone or Camera." loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-videos-why-night-ufo-videos-fool-the-eye-ifos-causes-of-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="night-videos-why-night-ufo-videos-fool-the-eye-ifos-causes-of-camera-lens" target="_blank" rel="sponsored noopener noreferrer">Vintage Praktica MTL 50 Camera w/ Germany SLR 35mm Pentacon Lens</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-ufo-videos-fool-the-eye-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="why-night-ufo-videos-fool-the-eye-phone-tripod" target="_blank" rel="sponsored noopener noreferrer">Universal Smartphone Tripod Adapter Cell Phone Holder Mount to Phone or Camera.</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-videos-why-night-ufo-videos-fool-the-eye-ifos-causes-of-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="night-videos-why-night-ufo-videos-fool-the-eye-ifos-causes-of-camera-lens" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera lens">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera lens</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-ufo-videos-fool-the-eye-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="why-night-ufo-videos-fool-the-eye-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone tripod</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-videos-why-night-ufo-videos-fool-the-eye-ifos-causes-of-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="night-videos-why-night-ufo-videos-fool-the-eye-ifos-causes-of-camera-lens" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-ufo-videos-fool-the-eye-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="why-night-ufo-videos-fool-the-eye-phone-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -540,15 +533,15 @@ When a video consists primarily of a bright point of light against a dark sky, t
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-videos-why-night-ufo-videos-fool-the-eye-ifos-causes-of-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="night-videos-why-night-ufo-videos-fool-the-eye-ifos-causes-of-camera-lens" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for For Sony E Mount Mirrorless Camera Lens Pancake Biscuit Focus Free Filmy Lens"><img src="{{ '/assets/images/marketplace-covers/e5989c59561a54201a9e.jpg' | relative_url }}" alt="Listing image for For Sony E Mount Mirrorless Camera Lens Pancake Biscuit Focus Free Filmy Lens" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-ufo-videos-fool-the-eye-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="why-night-ufo-videos-fool-the-eye-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Overhead Phone Mount with Ring Light Flexible Arm Tripod Phone Camera Holder UK"><img src="https://i.ebayimg.com/images/g/knYAAeSw~x9oaMuh/s-l225.jpg" alt="Listing image for Overhead Phone Mount with Ring Light Flexible Arm Tripod Phone Camera Holder UK" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-videos-why-night-ufo-videos-fool-the-eye-ifos-causes-of-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="night-videos-why-night-ufo-videos-fool-the-eye-ifos-causes-of-camera-lens" target="_blank" rel="sponsored noopener noreferrer">For Sony E Mount Mirrorless Camera Lens Pancake Biscuit Focus Free Filmy Lens</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-ufo-videos-fool-the-eye-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="why-night-ufo-videos-fool-the-eye-phone-tripod" target="_blank" rel="sponsored noopener noreferrer">Overhead Phone Mount with Ring Light Flexible Arm Tripod Phone Camera Holder UK</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-videos-why-night-ufo-videos-fool-the-eye-ifos-causes-of-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="night-videos-why-night-ufo-videos-fool-the-eye-ifos-causes-of-camera-lens" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera lens">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera lens</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-ufo-videos-fool-the-eye-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="why-night-ufo-videos-fool-the-eye-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone tripod</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-videos-why-night-ufo-videos-fool-the-eye-ifos-causes-of-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="night-videos-why-night-ufo-videos-fool-the-eye-ifos-causes-of-camera-lens" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-ufo-videos-fool-the-eye-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="why-night-ufo-videos-fool-the-eye-phone-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -556,7 +549,7 @@ When a video consists primarily of a bright point of light against a dark sky, t
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-videos-why-night-ufo-videos-fool-the-eye-ifos-causes-of-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="night-videos-why-night-ufo-videos-fool-the-eye-ifos-causes-of-camera-lens" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-ufo-videos-fool-the-eye-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="why-night-ufo-videos-fool-the-eye-phone-tripod" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -771,43 +764,43 @@ When a video consists primarily of a bright point of light against a dark sky, t
 
 1. <a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: en.wikisource.org  
    Title: Responses to Statement of Task  
-   Link: [https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task](https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WikisourceNASA Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — Indeed, several apparent UAP have been demonstrated to be s...</p></details>
+   Link: <a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — Indeed, several apparent UAP have been demonstrated to be s...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: andreabianco.eu  
    Title: Andrea Bianco Fotografo  
-   Link: [https://andreabianco.eu/blog/2018/02/25/about-exposure-white-balance-and-smartphones/](https://andreabianco.eu/blog/2018/02/25/about-exposure-white-balance-and-smartphones/)  
+   Link: <a href="https://andreabianco.eu/blog/2018/02/25/about-exposure-white-balance-and-smartphones/" target="_blank" rel="noopener noreferrer nofollow">https://andreabianco.eu/blog/2018/02/25/about-exposure-white-balance-and-smartphones/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>They are programmed to show the scene as close as possible to a “standard” brightness level.Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: digital-photography-school.com  
    Title: Digital Photography School9 Tips to Help you get Sharp Focus at Night  
-   Link: [https://digital-photography-school.com/9-tips-to-help-you-get-sharp-focus-at-night/](https://digital-photography-school.com/9-tips-to-help-you-get-sharp-focus-at-night/)  
+   Link: <a href="https://digital-photography-school.com/9-tips-to-help-you-get-sharp-focus-at-night/" target="_blank" rel="noopener noreferrer nofollow">https://digital-photography-school.com/9-tips-to-help-you-get-sharp-focus-at-night/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>That means the camera will have the best chance at finding something to focus on if you aim at the...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: qualcomm.com  
    Title: A shot in the dark: How to enable low-light video capture  
-   Link: [https://www.qualcomm.com/news/onq/2024/07/a-shot-in-the-dark-how-to-enable-low-light-video-capture-on-your-smartphone](https://www.qualcomm.com/news/onq/2024/07/a-shot-in-the-dark-how-to-enable-low-light-video-capture-on-your-smartphone)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>QualcommA shot in the dark: How to enable low-light video capture...July 2, 2024 — 2 Jul 2024 — Night Vision for Mobile is software that...</p></details>
+   Link: <a href="https://www.qualcomm.com/news/onq/2024/07/a-shot-in-the-dark-how-to-enable-low-light-video-capture-on-your-smartphone" target="_blank" rel="noopener noreferrer nofollow">https://www.qualcomm.com/news/onq/2024/07/a-shot-in-the-dark-how-to-enable-low-light-video-capture-on-your-smartphone</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A shot in the dark: How to enable low-light video capture...July 2, 2024 — 2 Jul 2024 — Night Vision for Mobile is software that...</p></details>
    Published: July 2, 2024  
 
 6. <a id="endnote-6"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — A study team to examine unidentified anomalous phenomena (UAPs) – that is, observations of events in the sky that...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: nasa.gov  
    Title: provides coverage of unidentified anomalous phenomena meeting  
-   Link: [https://www.nasa.gov/news-release/nasa-provides-coverage-of-unidentified-anomalous-phenomena-meeting/](https://www.nasa.gov/news-release/nasa-provides-coverage-of-unidentified-anomalous-phenomena-meeting/)  
+   Link: <a href="https://www.nasa.gov/news-release/nasa-provides-coverage-of-unidentified-anomalous-phenomena-meeting/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-provides-coverage-of-unidentified-anomalous-phenomena-meeting/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Provides Coverage of Unidentified Anomalous...12 May 2023 — NASA commissioned the nine-month study to examine UAP from a scientific...</p></details>
    Published: May 2023  
 
@@ -815,54 +808,54 @@ When a video consists primarily of a bright point of light against a dark sky, t
 
 8. <a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/228623469_Measuring_Light_Pollution_with_a_Calibrated_High_Dynamic_Range_All-Sky_Image_Acquisition_System](https://www.researchgate.net/publication/228623469_Measuring_Light_Pollution_with_a_Calibrated_High_Dynamic_Range_All-Sky_Image_Acquisition_System)  
+   Link: <a href="https://www.researchgate.net/publication/228623469_Measuring_Light_Pollution_with_a_Calibrated_High_Dynamic_Range_All-Sky_Image_Acquisition_System" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228623469_Measuring_Light_Pollution_with_a_Calibrated_High_Dynamic_Range_All-Sky_Image_Acquisition_System</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Measuring Light Pollution with a Calibrated High Dynamic...PDF | Combining series of exposures with different exposure times made with a...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40Mike_James/take-stunning-night-photography-low-light-photos-iphone-and-android-tips-5224d5546db4](https://medium.com/%40Mike_James/take-stunning-night-photography-low-light-photos-iphone-and-android-tips-5224d5546db4)  
+   Link: <a href="https://medium.com/%40Mike_James/take-stunning-night-photography-low-light-photos-iphone-and-android-tips-5224d5546db4" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40Mike_James/take-stunning-night-photography-low-light-photos-iphone-and-android-tips-5224d5546db4</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Take stunning night photography low light photosOur objective is to capture the subject within a sufficiently lit and detailed scene, wit...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/660491344082992/posts/3355747541224012/](https://www.facebook.com/groups/660491344082992/posts/3355747541224012/)  
+   Link: <a href="https://www.facebook.com/groups/660491344082992/posts/3355747541224012/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/660491344082992/posts/3355747541224012/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taking natural bokeh photos with a cellphone cameraThe bokeh background effect is obtained from taking advantage of the sunlight that com...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/deepuniversee/posts/videos-and-images-shared-online-in-this-style-usually-fall-into-the-broader-cate/970619415735947/](https://www.facebook.com/deepuniversee/posts/videos-and-images-shared-online-in-this-style-usually-fall-into-the-broader-cate/970619415735947/)  
+   Link: <a href="https://www.facebook.com/deepuniversee/posts/videos-and-images-shared-online-in-this-style-usually-fall-into-the-broader-cate/970619415735947/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/deepuniversee/posts/videos-and-images-shared-online-in-this-style-usually-fall-into-the-broader-cate/970619415735947/</a>  
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Cameras/comments/1o13a6u/why_smartphones_sometimes_beat_cameras_at_night/](https://www.reddit.com/r/Cameras/comments/1o13a6u/why_smartphones_sometimes_beat_cameras_at_night/)  
+   Link: <a href="https://www.reddit.com/r/Cameras/comments/1o13a6u/why_smartphones_sometimes_beat_cameras_at_night/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Cameras/comments/1o13a6u/why_smartphones_sometimes_beat_cameras_at_night/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>in good light some phone cameras can large dynamic range - many phone sensors can capture as much or more light...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: space.com  
    Title: Insets from NASA's UAP independent study team's report, detailing  
-   Link: [https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed](https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed)  
+   Link: <a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor sensor cal...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: meritalk.com  
    Title: nasa urged to take more permanent role in uap research effort  
-   Link: [https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/](https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/)  
+   Link: <a href="https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/" target="_blank" rel="noopener noreferrer nofollow">https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Urged to Take More Permanent Role in UAP...15 Sept 2023 — The study team found that most UAP data is “hampered by poor sensor calib...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: nevadacurrent.com  
    Title: nasa report finds no evidence that ufos are extraterrestrial  
-   Link: [https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/](https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/)  
+   Link: <a href="https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow">https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>18 Sept 2023 — Analysis of this data is “hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor metad...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: thedebrief.org  
    Title: nasas unidentified anomalous phenomena report key takeaways  
-   Link: [https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/](https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/)  
+   Link: <a href="https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s Unidentified Anomalous Phenomena Report14 Sept 2023 — “At present, analysis of UAP data is hampered by poor sensor calibration, th...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: leonarddavid.com  
    Title: nasa report released unidentified anomalous phenomena uap  
-   Link: [https://www.leonarddavid.com/nasa-report-released-unidentified-anomalous-phenomena-uap/](https://www.leonarddavid.com/nasa-report-released-unidentified-anomalous-phenomena-uap/)  
+   Link: <a href="https://www.leonarddavid.com/nasa-report-released-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/nasa-report-released-unidentified-anomalous-phenomena-uap/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena (UAP) – UPDATED14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through sys...</p></details>

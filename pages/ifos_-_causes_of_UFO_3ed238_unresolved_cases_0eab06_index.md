@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ifos-causes-of-ufo-3ed238-unresolved/
 description: Focused pages that expand on Unresolved Cases.
-date: '2026-06-07'
+date: '2026-06-12'
 layout: default
 parent_basename: ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06
-parent_title: Unresolved Cases | Ifos Causes Of
+parent_title: Unresolved Cases
 parent_nav_short_title: Unresolved Cases
 parent_permalink: /unresolved-cases/
 ---

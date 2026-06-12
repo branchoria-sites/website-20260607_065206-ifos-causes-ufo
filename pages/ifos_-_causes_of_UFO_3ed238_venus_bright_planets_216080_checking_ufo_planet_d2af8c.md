@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_planet_following_obs_e4b967
 - ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_venus_false_distance_bfe908
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - venus
 - sky-checks
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - venus
 - sky-checks
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: A planet explanation becomes stronger only when the reported time, direction, elevation, duration, and motion match the sky.
 hero_summary: A planet explanation becomes stronger only when the reported time, direction, elevation, duration, and motion match the sky.
 layout: default
 permalink: /sky-checks-573b86/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /venus/
 nav_short_title: Sky Checks
 title: How to Test the Planet Explanation
-title_full: How to Test the Planet Explanation | Venus
+title_full: How to Test the Planet Explanation
 display_title_short: Sky Checks
 display_title: Sky Checks
 heading_title: How to Test the Planet Explanation
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 03:53:46'
-parent_title: Is That UFO Really Venus? | IFOs
+parent_title: Is That UFO Really Venus?
 parent_permalink: /venus/
 parent_nav_short_title: Venus
 parent_heading_title: Is That UFO Really Venus?
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080
-  title: Venus | Ifos Causes Of
+  title: Venus | ifos causes of UFO 3 ed 238
   permalink: /venus/
   short_title: Venus
   heading_title: Is That UFO Really Venus?
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080
-  title: Venus | Ifos Causes Of
+  title: Venus | ifos causes of UFO 3 ed 238
   permalink: /venus/
   short_title: Venus
   heading_title: Is That UFO Really Venus?
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: When Planets Look Like a Formation
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080
-  title: Venus | Ifos Causes Of
+  title: Venus | ifos causes of UFO 3 ed 238
   permalink: /venus/
   short_title: Venus
   heading_title: Is That UFO Really Venus?
@@ -260,6 +259,7 @@ prev_link:
   permalink: /formations-183e77/
   short_title: Formations
   heading_title: When Planets Look Like a Formation
+date: '2026-06-12 00:50:26 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_checking_ufo_planet_d2af8c-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_checking_ufo_planet_d2af8c-Illustration-1.webp
@@ -270,7 +270,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_ch
 
 A planet explanation for a UFO report becomes much stronger when the reported light appears in the same place, at the same time, and behaves in the same way that a known planet would. Investigators do not have to rely on guesswork. Modern sky-mapping tools can reconstruct the sky for any location and time, allowing a direct comparison between a witness account and the actual positions of Venus, Jupiter, Mercury or other [bright objects]({{ 'bright-objects/' | relative_url }}). NASA’s Night Sky Network specifically recommends checking the date, time, direction, brightness, duration and path of a sighting before treating it as unexplained. Venus, Jupiter, [Sirius]({{ 'sirius/' | relative_url }}) and Mercury are among the objects most often reported as UFOs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nightsky.jpl.nasa.gov">[Night Sky Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nightsky.jpl.nasa.gov</span><span class="citation-popover-title">Night Sky Network Identifying UFOs and UAPs</span><span class="citation-popover-snippet">Do you think you have spotted a UFO? We have some tips to help you identify that...Read more...</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_checking_ufo_planet_d2af8c-Illustration-1-dark.svg" | relative_url }}" alt="Sky Checks illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_checking_ufo_planet_d2af8c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_checking_ufo_planet_d2af8c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The key question is simple: does the reported object match the sky that was actually present?
 
@@ -279,7 +278,6 @@ The key question is simple: does the reported object match the sky that was actu
 Before checking any planetarium software or sky database, investigators need the most precise sighting information available.
 
 The most useful details are:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -307,12 +305,11 @@ Planetarium software such as Stellarium allows investigators to enter the witnes
 
 If the software shows Venus at the reported bearing and elevation, the hypothesis gains support. If Venus is below the horizon or on the opposite side of the sky, the explanation immediately becomes much weaker.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sAmoOBCtDvE" title="How to Find Planet Venus in the Night Sky" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sAmoOBCtDvE" target="_blank" rel="noopener noreferrer">How to Find Planet Venus in the Night Sky</a></p><p class="youtube-embed-meta">Channel: Learn the Sky &middot; Views: 27.7K &middot; Uploaded: December 2024 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sAmoOBCtDvE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sAmoOBCtDvE">Open on YouTube</a></p></div></div></div>
 
 ### Check Whether the Timing Fits Planet Behaviour
 
-Venus follows predictable viewing patterns. Because it never appears very far from the Sun, it is generally visible either after sunset or before sunrise, not high overhead in the middle of the night. <span class="citation-chip-wrap"><a class="citation-chip" href="https://people.clas.ufl.edu/ufhatch/2022/07/28/the-astronomy-of-venus/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.clas.ufl.edu">[People]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.clas.ufl.edu</span><span class="citation-popover-title">the astronomy of venus</span><span class="citation-popover-snippet">PeopleThe Astronomy of Venus – Robert Hatch28 Jul 2022 — The Astronomy of Venus. Venus, moving in an orbit smaller than the Earth&#x27;s, must...</span></span></span>
+Venus follows predictable viewing patterns. Because it never appears very far from the Sun, it is generally visible either after sunset or before sunrise, not high overhead in the middle of the night. <span class="citation-chip-wrap"><a class="citation-chip" href="https://people.clas.ufl.edu/ufhatch/2022/07/28/the-astronomy-of-venus/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.clas.ufl.edu">[People]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.clas.ufl.edu</span><span class="citation-popover-title">the astronomy of venus</span><span class="citation-popover-snippet">The Astronomy of Venus – Robert Hatch28 Jul 2022 — The Astronomy of Venus. Venus, moving in an orbit smaller than the Earth&#x27;s, must...</span></span></span>
 
 A report describing a brilliant stationary object in the western twilight sky is therefore consistent with Venus. A report placing the same object due north at midnight is not.
 
@@ -326,7 +323,6 @@ A hovering UFO report that lasts thirty minutes, an hour or even several hours w
 
 If a witness watched a light for ninety minutes and the reconstructed sky shows Venus gradually descending toward the horizon during exactly that period, the match is significant.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QUX13lA1Dbg" title="Stellarium a Great Free App to Study the Night Sky. UFO? Use this app to discover what you saw!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QUX13lA1Dbg" target="_blank" rel="noopener noreferrer">Stellarium a Great Free App to Study the Night Sky. UFO? Use this app to discover what you saw!</a></p><p class="youtube-embed-meta">Channel: SelmaTeacher7 - TechGenius Tips &middot; Views: 1.8K &middot; Uploaded: October 2022 &middot; Length: 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QUX13lA1Dbg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QUX13lA1Dbg">Open on YouTube</a></p></div></div></div>
 
 ## Looking Beyond a Single Match
@@ -336,7 +332,6 @@ A convincing investigation does more than ask whether a planet was present.
 It also examines whether the reported behaviour matches what observers commonly perceive.
 
 For example:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -351,7 +346,6 @@ For example:
 Each point independently supports the planetary explanation. Together they create a cumulative case.
 
 Similarly, reports of multiple lights in a formation should be checked against planetary conjunctions and bright-star alignments. NASA has noted that Venus and Jupiter appearing close together near the horizon have generated UFO reports because they resemble unusual formations of lights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nightsky.jpl.nasa.gov">[Night Sky Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nightsky.jpl.nasa.gov</span><span class="citation-popover-title">Night Sky Network Identifying UFOs and UAPs</span><span class="citation-popover-snippet">Do you think you have spotted a UFO? We have some tips to help you identify that...Read more...</span></span></span>
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_checking_ufo_planet_d2af8c-Illustration-2-dark.svg" | relative_url }}" alt="Sky Checks illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_checking_ufo_planet_d2af8c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_checking_ufo_planet_d2af8c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When the Planet Answer Stops Fitting
@@ -372,7 +366,6 @@ Planets appear essentially fixed against the background sky over short periods.
 
 Reports describing:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Rapid acceleration,
@@ -385,7 +378,6 @@ Reports describing:
 are not explained by a stationary planet alone.
 
 Investigators should be cautious, however. Apparent motion can be exaggerated by observer movement, atmospheric effects, or shifting reference points. The key issue is whether the motion was genuinely observed relative to stable landmarks.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_checking_ufo_planet_d2af8c-Illustration-3-dark.svg" | relative_url }}" alt="Sky Checks illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_checking_ufo_planet_d2af8c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_checking_ufo_planet_d2af8c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The Timing Was Impossible
@@ -400,7 +392,6 @@ Consider a report of a brilliant white object seen low in the south-west for for
 
 An investigator can:
 
-
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. Enter the location into a planetarium program.
@@ -414,14 +405,13 @@ An investigator can:
 
 If Venus appears in the same direction, at the same height, remains visible throughout the observation and slowly descends toward the horizon exactly as described, the explanation is supported by measurable evidence rather than speculation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jpl.nasa.gov/edu/resources/project/find-planets-in-the-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jpl.nasa.gov">[NASA Jet Propulsion Laboratory (JPL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jpl.nasa.gov</span><span class="citation-popover-snippet">If not, set those by clicking the location and date boxes. You can also adjust the time to...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://stellarium.org/guide/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stellarium.org">[Stellarium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stellarium.org</span><span class="citation-popover-snippet">ephemeris (2015), the...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fRFligT-C8w" title="Stellarium Planetarium Software - February 2012 Jupiter &amp; Venus Conjunction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fRFligT-C8w" target="_blank" rel="noopener noreferrer">Stellarium Planetarium Software - February 2012 Jupiter &amp; Venus Conjunction</a></p><p class="youtube-embed-meta">Channel: Far Lands or Bust with KurtJMac &middot; Views: 25.4K &middot; Uploaded: February 2012 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fRFligT-C8w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fRFligT-C8w">Open on YouTube</a></p></div></div></div>
 
 ## The Value of Sky Checks
 
 The strength of a planet explanation is not that Venus is often mistaken for a UFO. The strength comes from demonstrating that the reported object and the actual sky match in multiple independent ways.
 
-When the time, direction, elevation, duration and apparent behaviour all align with the known position of a bright planet, investigators gain a testable, evidence-based explanation. When those factors do not align, the planetary hypothesis can be set aside and other possibilities examined. This ability to confirm or reject a proposed identification is what makes sky reconstruction one of the most useful tools in the investigation of UFO reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nightsky.jpl.nasa.gov">[Night Sky Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nightsky.jpl.nasa.gov</span><span class="citation-popover-title">Night Sky Network Identifying UFOs and UAPs</span><span class="citation-popover-snippet">Do you think you have spotted a UFO? We have some tips to help you identify that...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://stellarium.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stellarium.org">[Stellarium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stellarium.org</span><span class="citation-popover-snippet">StellariumStellarium Astronomy SoftwareStellarium is a planetarium software that shows exactly what you see when you look up at the stars...</span></span></span>
+When the time, direction, elevation, duration and apparent behaviour all align with the known position of a bright planet, investigators gain a testable, evidence-based explanation. When those factors do not align, the planetary hypothesis can be set aside and other possibilities examined. This ability to confirm or reject a proposed identification is what makes sky reconstruction one of the most useful tools in the investigation of UFO reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nightsky.jpl.nasa.gov">[Night Sky Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nightsky.jpl.nasa.gov</span><span class="citation-popover-title">Night Sky Network Identifying UFOs and UAPs</span><span class="citation-popover-snippet">Do you think you have spotted a UFO? We have some tips to help you identify that...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://stellarium.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stellarium.org">[Stellarium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stellarium.org</span><span class="citation-popover-snippet">Stellarium Astronomy SoftwareStellarium is a planetarium software that shows exactly what you see when you look up at the stars...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -540,15 +530,15 @@ When the time, direction, elevation, duration and apparent behaviour all align w
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-checks-573b86-how-to-test-the-planet-explanation-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="sky-checks-573b86-how-to-test-the-planet-explanation-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-test-the-planet-explanation-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="how-to-test-the-planet-explanation-planet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SOLAR SYSTEM poster educational print of the sun planets for learning"><img src="https://i.ebayimg.com/images/g/Mm4AAOSwwbdWPMo8/s-l225.jpg" alt="Listing image for SOLAR SYSTEM poster educational print of the sun planets for learning" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-checks-573b86-how-to-test-the-planet-explanation-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="sky-checks-573b86-how-to-test-the-planet-explanation-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-test-the-planet-explanation-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="how-to-test-the-planet-explanation-planet-poster" target="_blank" rel="sponsored noopener noreferrer">SOLAR SYSTEM poster educational print of the sun planets for learning</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-checks-573b86-how-to-test-the-planet-explanation-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="sky-checks-573b86-how-to-test-the-planet-explanation-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-test-the-planet-explanation-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="how-to-test-the-planet-explanation-planet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planet poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: planet poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-checks-573b86-how-to-test-the-planet-explanation-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="sky-checks-573b86-how-to-test-the-planet-explanation-ifos-causes-of-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-test-the-planet-explanation-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="how-to-test-the-planet-explanation-planet-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -556,15 +546,15 @@ When the time, direction, elevation, duration and apparent behaviour all align w
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-checks-573b86-how-to-test-the-planet-explanation-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="sky-checks-573b86-how-to-test-the-planet-explanation-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-test-the-planet-explanation-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="how-to-test-the-planet-explanation-planet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA SPACE TRAVEL POSTERS Wall Art Print Poster Galaxy Holiday Retro Tourism"><img src="https://i.ebayimg.com/images/g/2J4AAOSwGKJkhbT5/s-l225.jpg" alt="Listing image for NASA SPACE TRAVEL POSTERS Wall Art Print Poster Galaxy Holiday Retro Tourism" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-checks-573b86-how-to-test-the-planet-explanation-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="sky-checks-573b86-how-to-test-the-planet-explanation-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-test-the-planet-explanation-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="how-to-test-the-planet-explanation-planet-poster" target="_blank" rel="sponsored noopener noreferrer">NASA SPACE TRAVEL POSTERS Wall Art Print Poster Galaxy Holiday Retro Tourism</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-checks-573b86-how-to-test-the-planet-explanation-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="sky-checks-573b86-how-to-test-the-planet-explanation-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-test-the-planet-explanation-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="how-to-test-the-planet-explanation-planet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planet poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: planet poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-checks-573b86-how-to-test-the-planet-explanation-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="sky-checks-573b86-how-to-test-the-planet-explanation-ifos-causes-of-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-test-the-planet-explanation-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="how-to-test-the-planet-explanation-planet-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -572,15 +562,15 @@ When the time, direction, elevation, duration and apparent behaviour all align w
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-checks-573b86-how-to-test-the-planet-explanation-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="sky-checks-573b86-how-to-test-the-planet-explanation-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-test-the-planet-explanation-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="how-to-test-the-planet-explanation-planet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Forbidden Planet Art Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/edYAAeSw0fFptrvi/s-l225.jpg" alt="Listing image for Forbidden Planet Art Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-checks-573b86-how-to-test-the-planet-explanation-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="sky-checks-573b86-how-to-test-the-planet-explanation-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-test-the-planet-explanation-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="how-to-test-the-planet-explanation-planet-poster" target="_blank" rel="sponsored noopener noreferrer">Forbidden Planet Art Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-checks-573b86-how-to-test-the-planet-explanation-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="sky-checks-573b86-how-to-test-the-planet-explanation-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-test-the-planet-explanation-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="how-to-test-the-planet-explanation-planet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planet poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: planet poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-checks-573b86-how-to-test-the-planet-explanation-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="sky-checks-573b86-how-to-test-the-planet-explanation-ifos-causes-of-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-test-the-planet-explanation-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="how-to-test-the-planet-explanation-planet-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -588,15 +578,15 @@ When the time, direction, elevation, duration and apparent behaviour all align w
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-checks-573b86-how-to-test-the-planet-explanation-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="sky-checks-573b86-how-to-test-the-planet-explanation-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for U/ROCK BAND SPACE SHIP IRON OR SEW ON QUALITY EMBROIDERED PATCH UK SELLER/UFO"><img src="{{ '/assets/images/marketplace-covers/fc0f59ffafe53c3f0099.jpg' | relative_url }}" alt="Listing image for U/ROCK BAND SPACE SHIP IRON OR SEW ON QUALITY EMBROIDERED PATCH UK SELLER/UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-test-the-planet-explanation-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="how-to-test-the-planet-explanation-planet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Our Solar System Planets Earth Science Home School Learning Educational Posters"><img src="https://i.ebayimg.com/images/g/2CwAAeSwpQ9oH0dh/s-l225.jpg" alt="Listing image for Our Solar System Planets Earth Science Home School Learning Educational Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-checks-573b86-how-to-test-the-planet-explanation-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="sky-checks-573b86-how-to-test-the-planet-explanation-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">U/ROCK BAND SPACE SHIP IRON OR SEW ON QUALITY EMBROIDERED PATCH UK SELLER/UFO</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-test-the-planet-explanation-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="how-to-test-the-planet-explanation-planet-poster" target="_blank" rel="sponsored noopener noreferrer">Our Solar System Planets Earth Science Home School Learning Educational Posters</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-checks-573b86-how-to-test-the-planet-explanation-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="sky-checks-573b86-how-to-test-the-planet-explanation-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-test-the-planet-explanation-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="how-to-test-the-planet-explanation-planet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planet poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: planet poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-checks-573b86-how-to-test-the-planet-explanation-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="sky-checks-573b86-how-to-test-the-planet-explanation-ifos-causes-of-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-test-the-planet-explanation-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="how-to-test-the-planet-explanation-planet-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -604,7 +594,7 @@ When the time, direction, elevation, duration and apparent behaviour all align w
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-checks-573b86-how-to-test-the-planet-explanation-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="sky-checks-573b86-how-to-test-the-planet-explanation-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-test-the-planet-explanation-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="how-to-test-the-planet-explanation-planet-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -820,131 +810,131 @@ When the time, direction, elevation, duration and apparent behaviour all align w
 1. <a id="endnote-1"></a>
    Source: nightsky.jpl.nasa.gov  
    Title: Night Sky Network Identifying UFOs and UAPs  
-   Link: [https://nightsky.jpl.nasa.gov/news/39/](https://nightsky.jpl.nasa.gov/news/39/)  
+   Link: <a href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow">https://nightsky.jpl.nasa.gov/news/39/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Do you think you have spotted a UFO? We have some tips to help you identify that...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: stellarium.org  
-   Link: [https://stellarium.org/guide/](https://stellarium.org/guide/)  
+   Link: <a href="https://stellarium.org/guide/" target="_blank" rel="noopener noreferrer nofollow">https://stellarium.org/guide/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ephemeris (2015), the...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: stellarium.org  
-   Link: [https://stellarium.org/](https://stellarium.org/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>StellariumStellarium Astronomy SoftwareStellarium is a planetarium software that shows exactly what you see when you look up at the [stars](&amp;#123;&amp;#123; &#x27;stars/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+   Link: <a href="https://stellarium.org/" target="_blank" rel="noopener noreferrer nofollow">https://stellarium.org/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stellarium Astronomy SoftwareStellarium is a planetarium software that shows exactly what you see when you look up at the [stars](&amp;#123;&amp;#123; &#x27;stars/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: jpl.nasa.gov  
-   Link: [https://www.jpl.nasa.gov/edu/resources/project/find-planets-in-the-sky/](https://www.jpl.nasa.gov/edu/resources/project/find-planets-in-the-sky/)  
+   Link: <a href="https://www.jpl.nasa.gov/edu/resources/project/find-planets-in-the-sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.jpl.nasa.gov/edu/resources/project/find-planets-in-the-sky/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>If not, set those by clicking the location and date boxes. You can also adjust the time to...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: timeanddate.com  
-   Link: [https://www.timeanddate.com/astronomy/horizontal-coordinate-system.html](https://www.timeanddate.com/astronomy/horizontal-coordinate-system.html)  
+   Link: <a href="https://www.timeanddate.com/astronomy/horizontal-coordinate-system.html" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/astronomy/horizontal-coordinate-system.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Venus is at an altitude of 45°, with an azimuth of 270°, as seen from your location, this means that you...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: skyatnightmagazine.com  
    Title: stellarium astronomy planetarium software how to use  
-   Link: [https://www.skyatnightmagazine.com/advice/skills/stellarium-astronomy-planetarium-software-how-to-use](https://www.skyatnightmagazine.com/advice/skills/stellarium-astronomy-planetarium-software-how-to-use)  
+   Link: <a href="https://www.skyatnightmagazine.com/advice/skills/stellarium-astronomy-planetarium-software-how-to-use" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/advice/skills/stellarium-astronomy-planetarium-software-how-to-use</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to install and use Stellarium astronomy software17 Jul 2020 — In general use, if you want to display the sky for a specific date and...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: people.clas.ufl.edu  
    Title: the astronomy of venus  
-   Link: [https://people.clas.ufl.edu/ufhatch/2022/07/28/the-astronomy-of-venus/](https://people.clas.ufl.edu/ufhatch/2022/07/28/the-astronomy-of-venus/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PeopleThe Astronomy of Venus – Robert Hatch28 Jul 2022 — The Astronomy of Venus. Venus, moving in an orbit smaller than the Earth&#x27;s, must...</p></details>
+   Link: <a href="https://people.clas.ufl.edu/ufhatch/2022/07/28/the-astronomy-of-venus/" target="_blank" rel="noopener noreferrer nofollow">https://people.clas.ufl.edu/ufhatch/2022/07/28/the-astronomy-of-venus/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Astronomy of Venus – Robert Hatch28 Jul 2022 — The Astronomy of Venus. Venus, moving in an orbit smaller than the Earth&#x27;s, must...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: livescience.com  
    Title: Live Science Jupiter and Venus 'Could Be Mistaken for UFOs'  
-   Link: [https://www.livescience.com/33766-jupiter-venus-mistaken-ufos.html](https://www.livescience.com/33766-jupiter-venus-mistaken-ufos.html)  
+   Link: <a href="https://www.livescience.com/33766-jupiter-venus-mistaken-ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/33766-jupiter-venus-mistaken-ufos.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Live ScienceJupiter and Venus &#x27;Could Be Mistaken for UFOs&#x27;March 13, 2012 — 13 Mar 2012 — A British astronomer says these planets will pro...</p></details>
    Published: March 13, 2012  
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
    Title: Stellarium Planetarium Software  
-   Link: [https://www.youtube.com/watch?v=fRFligT-C8w](https://www.youtube.com/watch?v=fRFligT-C8w)  
+   Link: <a href="https://www.youtube.com/watch?v=fRFligT-C8w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fRFligT-C8w</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>February 2012 Jupiter...Let&#x27;s play Stellarium! This is a free open source planetarium software available for Windows, Mac and Linux. It...</p></details>
    Published: February 2012  
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=QUX13lA1Dbg](https://www.youtube.com/watch?v=QUX13lA1Dbg)  
+   Link: <a href="https://www.youtube.com/watch?v=QUX13lA1Dbg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QUX13lA1Dbg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>satellite, planet, or star, stellarium will let you know...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: stellarium-labs.com  
-   Link: [https://stellarium-labs.com/blog/gridsandlines/](https://stellarium-labs.com/blog/gridsandlines/)  
+   Link: <a href="https://stellarium-labs.com/blog/gridsandlines/" target="_blank" rel="noopener noreferrer nofollow">https://stellarium-labs.com/blog/gridsandlines/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In this article, we&#x27;ll have a quick look at each one and discuss...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Venus](https://en.wikipedia.org/wiki/Venus)  
+   Link: <a href="https://en.wikipedia.org/wiki/Venus" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Venus</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>VenusVenus is the second planet from the Sun. Similar in size and mass to Earth, Venus has no liquid water, and its [atmosphere](&amp;#123;&amp;#123; &#x27;atmosphere/&#x27; | relative_url &amp;#125;&amp;#125;) is far...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: play.google.com  
-   Link: [https://play.google.com/store/apps/details?hl=en_GB&id=com.noctuasoftware.stellarium_free](https://play.google.com/store/apps/details?hl=en_GB&id=com.noctuasoftware.stellarium_free)  
+   Link: <a href="https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.noctuasoftware.stellarium_free" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.noctuasoftware.stellarium_free</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Identify stars, constellations, planets...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: timeanddate.com  
-   Link: [https://www.timeanddate.com/astronomy/night/](https://www.timeanddate.com/astronomy/night/)  
+   Link: <a href="https://www.timeanddate.com/astronomy/night/" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/astronomy/night/</a>  
 
 15. <a id="endnote-15"></a>
    Source: stellarium-web.org  
-   Link: [https://stellarium-web.org/](https://stellarium-web.org/)  
+   Link: <a href="https://stellarium-web.org/" target="_blank" rel="noopener noreferrer nofollow">https://stellarium-web.org/</a>  
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WCAXTV/posts/star-shaped-ufo-spotted-in-newly-released-video-/1422432446579170/](https://www.facebook.com/WCAXTV/posts/star-shaped-ufo-spotted-in-newly-released-video-/1422432446579170/)  
+   Link: <a href="https://www.facebook.com/WCAXTV/posts/star-shaped-ufo-spotted-in-newly-released-video-/1422432446579170/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WCAXTV/posts/star-shaped-ufo-spotted-in-newly-released-video-/1422432446579170/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Star-shaped&#x27; UFO spotted in newly released videoAccording to NASA&#x27;s live video, the UFO appears to be shaped like an odd V and is travel...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: theskylive.com  
-   Link: [https://theskylive.com/](https://theskylive.com/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TheSkyLive: A Complete Guide to the Solar System and the...TheSkyLive offers comprehensive information about the most interesting celest...</p></details>
+   Link: <a href="https://theskylive.com/" target="_blank" rel="noopener noreferrer nofollow">https://theskylive.com/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Complete Guide to the Solar System and the...TheSkyLive offers comprehensive information about the most interesting celest...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: astronomylog.co.uk  
-   Link: [https://www.astronomylog.co.uk/files/venus-astronomy-log.pdf](https://www.astronomylog.co.uk/files/venus-astronomy-log.pdf)  
+   Link: <a href="https://www.astronomylog.co.uk/files/venus-astronomy-log.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomylog.co.uk/files/venus-astronomy-log.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Venus Astronomy LogIndicate any regions of the planet which show intensity variations. Intensity estimates are made using the following s...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/1pvo6od/im_freaking_out_over_what_i_saw_last_night_whilst/](https://www.reddit.com/r/aliens/comments/1pvo6od/im_freaking_out_over_what_i_saw_last_night_whilst/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/1pvo6od/im_freaking_out_over_what_i_saw_last_night_whilst/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1pvo6od/im_freaking_out_over_what_i_saw_last_night_whilst/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>They seem a bit off, so I watch one of them thinking it&#x27;s a [Starlink](&amp;#123;&amp;#123; &#x27;starlink/&#x27; | relative_url &amp;#125;&amp;#125;), Satellite or even the ISS as both were...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=sAmoOBCtDvE](https://www.youtube.com/watch?v=sAmoOBCtDvE)  
+   Link: <a href="https://www.youtube.com/watch?v=sAmoOBCtDvE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sAmoOBCtDvE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Find Planet Venus in the Night SkyIn this video, we will review how to find Venus, when it is absent in the sky, and explore its 5...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=x9cSpKieSkQ](https://www.youtube.com/watch?v=x9cSpKieSkQ)  
+   Link: <a href="https://www.youtube.com/watch?v=x9cSpKieSkQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=x9cSpKieSkQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Using Stellarium to Explore the SkyJoin me in learning how to navigate Stellarium, a free planetarium software that allows users to explo...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/GatewayArchNPS/posts/the-planet-venus-is-becoming-increasingly-visible-in-our-night-skies-learn-about/987031950125683/](https://www.facebook.com/GatewayArchNPS/posts/the-planet-venus-is-becoming-increasingly-visible-in-our-night-skies-learn-about/987031950125683/)  
+   Link: <a href="https://www.facebook.com/GatewayArchNPS/posts/the-planet-venus-is-becoming-increasingly-visible-in-our-night-skies-learn-about/987031950125683/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GatewayArchNPS/posts/the-planet-venus-is-becoming-increasingly-visible-in-our-night-skies-learn-about/987031950125683/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This is the time in Venus&#x27;s orbit where it&#x27;s gets at its brightest and can be seen easiest in the...Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Astronomy/comments/1908ni3/is_there_an_astronomy_app_that_lets_me_define_my/](https://www.reddit.com/r/Astronomy/comments/1908ni3/is_there_an_astronomy_app_that_lets_me_define_my/)  
+   Link: <a href="https://www.reddit.com/r/Astronomy/comments/1908ni3/is_there_an_astronomy_app_that_lets_me_define_my/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Astronomy/comments/1908ni3/is_there_an_astronomy_app_that_lets_me_define_my/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Most of the time, I am taking Astro photos from my deck of my condo. Half the sky is not visible...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DX_xaptiEYL/](https://www.instagram.com/reel/DX_xaptiEYL/)  
+   Link: <a href="https://www.instagram.com/reel/DX_xaptiEYL/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DX_xaptiEYL/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>gives you a really detailed and accurate map of the night sky.Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/kfvs12/posts/star-shaped-ufo-spotted-in-newly-released-video-watch-here-/1437714495067275/](https://www.facebook.com/kfvs12/posts/star-shaped-ufo-spotted-in-newly-released-video-watch-here-/1437714495067275/)  
+   Link: <a href="https://www.facebook.com/kfvs12/posts/star-shaped-ufo-spotted-in-newly-released-video-watch-here-/1437714495067275/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/kfvs12/posts/star-shaped-ufo-spotted-in-newly-released-video-watch-here-/1437714495067275/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>d is traveling at an extraordinary rate of speed. - newsib24.Read more...</p></details>

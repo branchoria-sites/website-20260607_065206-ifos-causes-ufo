@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357_radar_ufo_metadata_g_8a29d3
 - ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357_wind_turbine_radar_f_17eb42
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - radar
 - blips-vs-tracks
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - radar
 - blips-vs-tracks
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: A single blip, a short plot sequence, and a multi-sensor track are not equally strong evidence for an unusual object.
 hero_summary: A single blip, a short plot sequence, and a multi-sensor track are not equally strong evidence for an unusual object.
 layout: default
 permalink: /blips-vs-tracks/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /radar/
 nav_short_title: Blips vs Tracks
 title: Is One Radar Blip Really a UFO?
-title_full: Is One Radar Blip Really a UFO? | Radar
+title_full: Is One Radar Blip Really a UFO?
 display_title_short: Blips vs Tracks
 display_title: Blips vs Tracks
 heading_title: Is One Radar Blip Really a UFO?
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 21:36:18'
-parent_title: When Radar Sees a UFO That Isnt There | IFOs
+parent_title: When Radar Sees a UFO That Isnt There
 parent_permalink: /radar/
 parent_nav_short_title: Radar
 parent_heading_title: When Radar Sees a UFO That Isnt There
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357
-  title: Radar | Ifos Causes Of
+  title: Radar | ifos causes of UFO 3 ed 238
   permalink: /radar/
   short_title: Radar
   heading_title: When Radar Sees a UFO That Isnt There
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357
-  title: Radar | Ifos Causes Of
+  title: Radar | ifos causes of UFO 3 ed 238
   permalink: /radar/
   short_title: Radar
   heading_title: When Radar Sees a UFO That Isnt There
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: Why Wind Farms Can Confuse Airport Radar
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357
-  title: Radar | Ifos Causes Of
+  title: Radar | ifos causes of UFO 3 ed 238
   permalink: /radar/
   short_title: Radar
   heading_title: When Radar Sees a UFO That Isnt There
@@ -266,6 +265,7 @@ next_link:
   permalink: /missing-data-0adffe/
   short_title: Missing Data
   heading_title: Why Radar UFO Evidence Often Needs Metadata
+date: '2026-06-12 00:32:30 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357_radar_blips_vs_track_0f2d26-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357_radar_blips_vs_track_0f2d26-Illustration-1.webp
@@ -276,7 +276,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357_radar_b
 
 When a UFO report claims that an object was “tracked on [radar]({{ 'radar/' | relative_url }})”, the phrase can sound far more impressive than the underlying evidence actually warrants. A single radar blip, a brief sequence of returns, and a confirmed multi-sensor track are fundamentally different kinds of evidence. Treating them as equivalent is one of the most common mistakes in discussions of radar-associated UFO cases.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357_radar_blips_vs_track_0f2d26-Illustration-1-dark.svg" | relative_url }}" alt="Blips vs Tracks illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357_radar_blips_vs_track_0f2d26-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357_radar_blips_vs_track_0f2d26-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This distinction matters because radar systems routinely generate ambiguous or false returns. Aviation authorities note that atmospheric effects such as anomalous propagation can create numerous extraneous blips on radar displays, while modern radar processing is specifically designed to suppress clutter and reduce false targets. A radar contact becomes more persuasive only as it survives repeated scans, forms a coherent track, and receives independent confirmation from other sensors or observers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_5.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Section 5</span><span class="citation-popover-snippet">Surveillance SystemsThe bending of radar pulses, often called anomalous propagation or ducting, may cause many extraneous blips to appear...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_5.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Section 5</span><span class="citation-popover-snippet">Surveillance SystemsThe bending of radar pulses, often called anomalous propagation or ducting, may cause many extraneous blips to appear...</span></span></span>
 
@@ -284,10 +283,9 @@ This distinction matters because radar systems routinely generate ambiguous or f
 
 Usually, no. A single radar blip is the weakest form of radar evidence.
 
-Radar does not directly display physical objects. It displays detected energy that has passed through a chain of filtering, thresholding and processing steps. A lone return may represent a genuine aircraft, but it can also result from clutter, interference, atmospheric refraction, weather effects, [reflections]({{ 'reflections/' | relative_url }}) from terrain, or random signal fluctuations. Primary radar systems are particularly vulnerable because they detect reflections without automatically identifying their source. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skybrary.aero/articles/primary-surveillance-radar-psr" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">SkybraryPrimary Surveillance Radar (PSR)The radar relies on reflected signals but is not aware if they are received from aircraft or from...</span></span></span>
+Radar does not directly display physical objects. It displays detected energy that has passed through a chain of filtering, thresholding and processing steps. A lone return may represent a genuine aircraft, but it can also result from clutter, interference, atmospheric refraction, weather effects, [reflections]({{ 'reflections/' | relative_url }}) from terrain, or random signal fluctuations. Primary radar systems are particularly vulnerable because they detect reflections without automatically identifying their source. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skybrary.aero/articles/primary-surveillance-radar-psr" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Primary Surveillance Radar (PSR)The radar relies on reflected signals but is not aware if they are received from aircraft or from...</span></span></span>
 
 In practical terms, a single unexplained mark on one radar sweep tells investigators very little. It provides only a momentary indication that something reflected radar energy at a particular place and time. It does not reliably establish:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -320,7 +318,6 @@ However, a short sequence is still not necessarily evidence of a real object. De
 
 The evidential value is higher than a lone blip, but uncertainty remains substantial.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/C3uXUfgSadU" title="UAP Independent Study Event Post-Meeting Media Teleconference (May 31, 2023)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=C3uXUfgSadU" target="_blank" rel="noopener noreferrer">UAP Independent Study Event Post-Meeting Media Teleconference (May 31, 2023)</a></p><p class="youtube-embed-meta">Channel: NASA Video &middot; Views: 30.3K &middot; Uploaded: May 2023 &middot; Length: 1 hour 2 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=C3uXUfgSadU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=C3uXUfgSadU">Open on YouTube</a></p></div></div></div>
 
 ### A confirmed track
@@ -328,7 +325,6 @@ The evidential value is higher than a lone blip, but uncertainty remains substan
 A confirmed track is a processed and sustained representation of a target's movement over time. The radar system or operators have determined that multiple detections are sufficiently consistent to represent the same object.
 
 A confirmed track can provide:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -352,7 +348,6 @@ This process is extremely useful, but it introduces a subtle risk. If ambiguous 
 
 The result can be:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * A short-lived false track.
@@ -362,10 +357,9 @@ The result can be:
 
 </div>
 
-Radar designers devote significant effort to reducing false-target rates because clutter, weather, terrain reflections and atmospheric effects can otherwise generate misleading detections. Modern systems use filtering, Doppler processing, moving-target indicators and other techniques specifically because false returns are a known operational problem. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rtx.com/collinsaerospace/what-we-do/industries/air-traffic-management/surveillance/non-cooperative-surveillance-radar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rtx.com">[RTX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rtx.com</span><span class="citation-popover-snippet">RTXPrimary (Non-Cooperative) Surveillance Radar (NCSR)ASR-XM delivers exceptional aircraft detection with low false target rates – even i...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.indragroup.com/sites/default/files/12_psr_brochure_v1_02-2009_eng.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indragroup.com">[Indra Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indragroup.com</span><span class="citation-popover-title">12 psr brochure v1 02 2009 eng</span><span class="citation-popover-snippet">PRIMARY SURVEILLANCE RADAR2 Jan 2009 — The integrated weather channel has an independent set of Doppler filters that eliminate clutter fr...</span></span></span>
+Radar designers devote significant effort to reducing false-target rates because clutter, weather, terrain reflections and atmospheric effects can otherwise generate misleading detections. Modern systems use filtering, Doppler processing, moving-target indicators and other techniques specifically because false returns are a known operational problem. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rtx.com/collinsaerospace/what-we-do/industries/air-traffic-management/surveillance/non-cooperative-surveillance-radar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rtx.com">[RTX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rtx.com</span><span class="citation-popover-snippet">Primary (Non-Cooperative) Surveillance Radar (NCSR)ASR-XM delivers exceptional aircraft detection with low false target rates – even i...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.indragroup.com/sites/default/files/12_psr_brochure_v1_02-2009_eng.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indragroup.com">[Indra Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indragroup.com</span><span class="citation-popover-title">12 psr brochure v1 02 2009 eng</span><span class="citation-popover-snippet">PRIMARY SURVEILLANCE RADAR2 Jan 2009 — The integrated weather channel has an independent set of Doppler filters that eliminate clutter fr...</span></span></span>
 
 This does not mean every unusual track is false. It means that the existence of a track alone is not sufficient proof that an extraordinary object was present.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357_radar_blips_vs_track_0f2d26-Illustration-2-dark.svg" | relative_url }}" alt="Blips vs Tracks illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357_radar_blips_vs_track_0f2d26-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357_radar_blips_vs_track_0f2d26-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Time-Synced Independent Confirmation Matters
@@ -376,9 +370,9 @@ Investigators place much greater confidence in an event when independent systems
 
 Examples include:
 
-* Primary radar plus secondary radar. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/primary-surveillance-radar-psr" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[skybrary.aero]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">SkybraryPrimary Surveillance Radar (PSR)The radar relies on reflected signals but is not aware if they are received from aircraft or from...</span></span></span>
+* Primary radar plus secondary radar. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/primary-surveillance-radar-psr" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[skybrary.aero]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Primary Surveillance Radar (PSR)The radar relies on reflected signals but is not aware if they are received from aircraft or from...</span></span></span>
 * Radar plus [infrared]({{ 'infrared/' | relative_url }}) imagery.
-* Radar plus optical observation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[* Multiple independent radar sites.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/primary-surveillance-radar-psr" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[* Radar plus aircraft instrumentation.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">SkybraryPrimary Surveillance Radar (PSR)The radar relies on reflected signals but is not aware if they are received from aircraft or from...</span></span></span>
+* Radar plus optical observation. * Multiple independent radar sites. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[science.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span> * Radar plus aircraft instrumentation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/primary-surveillance-radar-psr" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[skybrary.aero]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Primary Surveillance Radar (PSR)The radar relies on reflected signals but is not aware if they are received from aircraft or from...</span></span></span>
 
 This approach helps separate genuine targets from sensor-specific artefacts.
 
@@ -386,17 +380,15 @@ A useful comparison comes from weather radar practice. Meteorologists routinely 
 
 The same logic applies to UFO investigations. If only one sensor records an event, uncertainty remains high. If multiple independent systems record the same object with matching timing and geometry, confidence rises significantly.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/c8OWHnHjIpA" title="How Radar Works | Start Learning About EW Here" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=c8OWHnHjIpA" target="_blank" rel="noopener noreferrer">How Radar Works | Start Learning About EW Here</a></p><p class="youtube-embed-meta">Channel: The Ops Center By Mike Solyom &middot; Views: 294.4K &middot; Uploaded: February 2023 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=c8OWHnHjIpA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=c8OWHnHjIpA">Open on YouTube</a></p></div></div></div>
 
 ## Why Atmospheric Effects Often Create Blips but Rarely Strong Tracks
 
-Many [radar anomalies]({{ 'radar/' | relative_url }}) are transient.
+Many radar anomalies are transient.
 
 The FAA notes that anomalous propagation, often called ducting, can produce numerous extraneous blips on radar displays when atmospheric conditions bend radar beams toward the ground. Similar effects are recognised across aviation and weather-radar operations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_5.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Section 5</span><span class="citation-popover-snippet">Surveillance SystemsThe bending of radar pulses, often called anomalous propagation or ducting, may cause many extraneous blips to appear...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_5.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Section 5</span><span class="citation-popover-snippet">Surveillance SystemsThe bending of radar pulses, often called anomalous propagation or ducting, may cause many extraneous blips to appear...</span></span></span>
 
 These conditions commonly generate:
-
 
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
 
@@ -410,7 +402,6 @@ These conditions commonly generate:
 What they usually do not generate is a long, coherent, independently verified track showing consistent motion across multiple sensors.
 
 That difference is important. A radar contact that appears once during unusual propagation conditions may be entirely consistent with known radar behaviour. A sustained, correlated track across several systems requires a more demanding explanation.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357_radar_blips_vs_track_0f2d26-Illustration-3-dark.svg" | relative_url }}" alt="Blips vs Tracks illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357_radar_blips_vs_track_0f2d26-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357_radar_blips_vs_track_0f2d26-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Problem With the Phrase “Tracked on Radar”
@@ -431,7 +422,6 @@ For radar-associated UFO reports, the most important question is not whether rad
 
 Confidence increases when:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The target appears over many scans.
@@ -445,7 +435,6 @@ Confidence increases when:
 
 Confidence decreases when:
 
-
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * Only a single blip is reported.
@@ -458,9 +447,7 @@ Confidence decreases when:
 
 In short, a radar blip is merely a detection. A confirmed track is an interpretation supported by repeated observations. A correlated multi-sensor track is stronger still. Understanding those distinctions is essential when evaluating whether a radar-based UFO report points to an unusual object or to one of the many ordinary ways radar systems can produce misleading returns.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XCXxQNCEQZ4" title="Identification Friend or Foe (IFF) &amp; Secondary Surveillance Radar Explained | Fundamentals of EW" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XCXxQNCEQZ4" target="_blank" rel="noopener noreferrer">Identification Friend or Foe (IFF) &amp; Secondary Surveillance Radar Explained | Fundamentals of EW</a></p><p class="youtube-embed-meta">Channel: The Ops Center By Mike Solyom &middot; Views: 47.2K &middot; Uploaded: October 2023 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XCXxQNCEQZ4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XCXxQNCEQZ4">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -579,15 +566,15 @@ In short, a radar blip is merely a detection. A confirmed track is an interpreta
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blips-vs-tracks-is-one-radar-blip-really-a-ufo-ifos-causes-of-radar-display-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display print" data-ebay-reference="blips-vs-tracks-is-one-radar-blip-really-a-ufo-ifos-causes-of-radar-display-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Photo:Radio and Radar Materials Display 1940s Radio Radar Division"><img src="{{ '/assets/images/marketplace-covers/2269315fa1ff9f3599e9.jpg' | relative_url }}" alt="Listing image for Photo:Radio and Radar Materials Display 1940s Radio Radar Division" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-one-radar-blip-really-a-ufo-radar-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display model" data-ebay-reference="is-one-radar-blip-really-a-ufo-radar-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:400 Airport Building Model Scene Display Collection Desk Decoration Ornament"><img src="https://i.ebayimg.com/images/g/S5kAAeSwzJ1p~fdH/s-l225.jpg" alt="Listing image for 1:400 Airport Building Model Scene Display Collection Desk Decoration Ornament" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blips-vs-tracks-is-one-radar-blip-really-a-ufo-ifos-causes-of-radar-display-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display print" data-ebay-reference="blips-vs-tracks-is-one-radar-blip-really-a-ufo-ifos-causes-of-radar-display-print" target="_blank" rel="sponsored noopener noreferrer">Photo:Radio and Radar Materials Display 1940s Radio Radar Division</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-one-radar-blip-really-a-ufo-radar-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display model" data-ebay-reference="is-one-radar-blip-really-a-ufo-radar-display-model" target="_blank" rel="sponsored noopener noreferrer">1:400 Airport Building Model Scene Display Collection Desk Decoration Ornament</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blips-vs-tracks-is-one-radar-blip-really-a-ufo-ifos-causes-of-radar-display-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display print" data-ebay-reference="blips-vs-tracks-is-one-radar-blip-really-a-ufo-ifos-causes-of-radar-display-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar display print">Search <span data-ebay-domain-label>eBay.co.uk</span>: radar display print</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-one-radar-blip-really-a-ufo-radar-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display model" data-ebay-reference="is-one-radar-blip-really-a-ufo-radar-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: radar display model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blips-vs-tracks-is-one-radar-blip-really-a-ufo-ifos-causes-of-radar-display-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display print" data-ebay-reference="blips-vs-tracks-is-one-radar-blip-really-a-ufo-ifos-causes-of-radar-display-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-one-radar-blip-really-a-ufo-radar-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display model" data-ebay-reference="is-one-radar-blip-really-a-ufo-radar-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -595,15 +582,15 @@ In short, a radar blip is merely a detection. A confirmed track is an interpreta
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blips-vs-tracks-is-one-radar-blip-really-a-ufo-ifos-causes-of-radar-display-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display print" data-ebay-reference="blips-vs-tracks-is-one-radar-blip-really-a-ufo-ifos-causes-of-radar-display-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motorola Vintage Print Ad Totalscope Radar Display 1972 Electronics"><img src="{{ '/assets/images/marketplace-covers/1ea5fff3b185f0e8fcaa.jpg' | relative_url }}" alt="Listing image for Motorola Vintage Print Ad Totalscope Radar Display 1972 Electronics" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-one-radar-blip-really-a-ufo-radar-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display model" data-ebay-reference="is-one-radar-blip-really-a-ufo-radar-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:400 Airport Building Model Scene Display Desk Decoration Prop Aircraft Layout"><img src="https://i.ebayimg.com/images/g/AHUAAeSwq4dpaEPA/s-l225.jpg" alt="Listing image for 1:400 Airport Building Model Scene Display Desk Decoration Prop Aircraft Layout" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blips-vs-tracks-is-one-radar-blip-really-a-ufo-ifos-causes-of-radar-display-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display print" data-ebay-reference="blips-vs-tracks-is-one-radar-blip-really-a-ufo-ifos-causes-of-radar-display-print" target="_blank" rel="sponsored noopener noreferrer">Motorola Vintage Print Ad Totalscope Radar Display 1972 Electronics</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-one-radar-blip-really-a-ufo-radar-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display model" data-ebay-reference="is-one-radar-blip-really-a-ufo-radar-display-model" target="_blank" rel="sponsored noopener noreferrer">1:400 Airport Building Model Scene Display Desk Decoration Prop Aircraft Layout</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blips-vs-tracks-is-one-radar-blip-really-a-ufo-ifos-causes-of-radar-display-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display print" data-ebay-reference="blips-vs-tracks-is-one-radar-blip-really-a-ufo-ifos-causes-of-radar-display-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar display print">Search <span data-ebay-domain-label>eBay.co.uk</span>: radar display print</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-one-radar-blip-really-a-ufo-radar-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display model" data-ebay-reference="is-one-radar-blip-really-a-ufo-radar-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: radar display model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blips-vs-tracks-is-one-radar-blip-really-a-ufo-ifos-causes-of-radar-display-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display print" data-ebay-reference="blips-vs-tracks-is-one-radar-blip-really-a-ufo-ifos-causes-of-radar-display-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-one-radar-blip-really-a-ufo-radar-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display model" data-ebay-reference="is-one-radar-blip-really-a-ufo-radar-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -611,15 +598,15 @@ In short, a radar blip is merely a detection. A confirmed track is an interpreta
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blips-vs-tracks-is-one-radar-blip-really-a-ufo-ifos-causes-of-radar-display-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display print" data-ebay-reference="blips-vs-tracks-is-one-radar-blip-really-a-ufo-ifos-causes-of-radar-display-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Photo:Radio Radar Materials Display 1940s Exhibits Electronics"><img src="{{ '/assets/images/marketplace-covers/a1abf39f8976f27ec67f.jpg' | relative_url }}" alt="Listing image for Photo:Radio Radar Materials Display 1940s Exhibits Electronics" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-one-radar-blip-really-a-ufo-radar-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display model" data-ebay-reference="is-one-radar-blip-really-a-ufo-radar-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FURUNO Marine Radar Model 1720 Display Unit RDP-064 Input 10.0-31.2V"><img src="https://i.ebayimg.com/images/g/RhQAAeSw-2dodieV/s-l225.jpg" alt="Listing image for FURUNO Marine Radar Model 1720 Display Unit RDP-064 Input 10.0-31.2V" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blips-vs-tracks-is-one-radar-blip-really-a-ufo-ifos-causes-of-radar-display-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display print" data-ebay-reference="blips-vs-tracks-is-one-radar-blip-really-a-ufo-ifos-causes-of-radar-display-print" target="_blank" rel="sponsored noopener noreferrer">Photo:Radio Radar Materials Display 1940s Exhibits Electronics</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-one-radar-blip-really-a-ufo-radar-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display model" data-ebay-reference="is-one-radar-blip-really-a-ufo-radar-display-model" target="_blank" rel="sponsored noopener noreferrer">FURUNO Marine Radar Model 1720 Display Unit RDP-064 Input 10.0-31.2V</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blips-vs-tracks-is-one-radar-blip-really-a-ufo-ifos-causes-of-radar-display-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display print" data-ebay-reference="blips-vs-tracks-is-one-radar-blip-really-a-ufo-ifos-causes-of-radar-display-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar display print">Search <span data-ebay-domain-label>eBay.co.uk</span>: radar display print</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-one-radar-blip-really-a-ufo-radar-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display model" data-ebay-reference="is-one-radar-blip-really-a-ufo-radar-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: radar display model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blips-vs-tracks-is-one-radar-blip-really-a-ufo-ifos-causes-of-radar-display-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display print" data-ebay-reference="blips-vs-tracks-is-one-radar-blip-really-a-ufo-ifos-causes-of-radar-display-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-one-radar-blip-really-a-ufo-radar-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display model" data-ebay-reference="is-one-radar-blip-really-a-ufo-radar-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -627,15 +614,15 @@ In short, a radar blip is merely a detection. A confirmed track is an interpreta
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blips-vs-tracks-is-one-radar-blip-really-a-ufo-ifos-causes-of-radar-display-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display print" data-ebay-reference="blips-vs-tracks-is-one-radar-blip-really-a-ufo-ifos-causes-of-radar-display-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Signaal 1980 Vintage 2pg Print Ad 2 Four-Colour Radar Display"><img src="{{ '/assets/images/marketplace-covers/b85bf3186a55e545beb3.jpg' | relative_url }}" alt="Listing image for Signaal 1980 Vintage 2pg Print Ad 2 Four-Colour Radar Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-one-radar-blip-really-a-ufo-radar-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display model" data-ebay-reference="is-one-radar-blip-really-a-ufo-radar-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ANTIQUE SPEED METER RADAR MEASUREMENT SPEED-METER Model S2 1940’s For Display!"><img src="https://i.ebayimg.com/images/g/S7YAAOSwsrBe4WO6/s-l225.jpg" alt="Listing image for ANTIQUE SPEED METER RADAR MEASUREMENT SPEED-METER Model S2 1940’s For Display!" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blips-vs-tracks-is-one-radar-blip-really-a-ufo-ifos-causes-of-radar-display-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display print" data-ebay-reference="blips-vs-tracks-is-one-radar-blip-really-a-ufo-ifos-causes-of-radar-display-print" target="_blank" rel="sponsored noopener noreferrer">Signaal 1980 Vintage 2pg Print Ad 2 Four-Colour Radar Display</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-one-radar-blip-really-a-ufo-radar-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display model" data-ebay-reference="is-one-radar-blip-really-a-ufo-radar-display-model" target="_blank" rel="sponsored noopener noreferrer">ANTIQUE SPEED METER RADAR MEASUREMENT SPEED-METER Model S2 1940’s For Display!</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blips-vs-tracks-is-one-radar-blip-really-a-ufo-ifos-causes-of-radar-display-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display print" data-ebay-reference="blips-vs-tracks-is-one-radar-blip-really-a-ufo-ifos-causes-of-radar-display-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar display print">Search <span data-ebay-domain-label>eBay.co.uk</span>: radar display print</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-one-radar-blip-really-a-ufo-radar-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display model" data-ebay-reference="is-one-radar-blip-really-a-ufo-radar-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: radar display model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blips-vs-tracks-is-one-radar-blip-really-a-ufo-ifos-causes-of-radar-display-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display print" data-ebay-reference="blips-vs-tracks-is-one-radar-blip-really-a-ufo-ifos-causes-of-radar-display-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-one-radar-blip-really-a-ufo-radar-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display model" data-ebay-reference="is-one-radar-blip-really-a-ufo-radar-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -643,7 +630,7 @@ In short, a radar blip is merely a detection. A confirmed track is an interpreta
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blips-vs-tracks-is-one-radar-blip-really-a-ufo-ifos-causes-of-radar-display-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display print" data-ebay-reference="blips-vs-tracks-is-one-radar-blip-really-a-ufo-ifos-causes-of-radar-display-print" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-one-radar-blip-really-a-ufo-radar-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display model" data-ebay-reference="is-one-radar-blip-really-a-ufo-radar-display-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -859,143 +846,143 @@ In short, a radar blip is merely a detection. A confirmed track is an interpreta
 1. <a id="endnote-1"></a>
    Source: faa.gov  
    Title: Federal Aviation Administration Section 5  
-   Link: [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_5.html](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_5.html)  
+   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_5.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_5.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Surveillance SystemsThe bending of radar pulses, often called anomalous propagation or ducting, may cause many extraneous blips to appear...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: faa.gov  
    Title: Federal Aviation Administration4-5-2  
-   Link: [https://www.faa.gov/air_traffic/publications/atpubs/aim/aim0405.html](https://www.faa.gov/air_traffic/publications/atpubs/aim/aim0405.html)  
+   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/aim/aim0405.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aim/aim0405.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>4-5-2. Air Traffic Control Radar Beacon System (ATCRBS)8 Jan 2015 — (b) The bending of radar pulses, often called anomalous propagation o...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: skybrary.aero  
-   Link: [https://skybrary.aero/articles/primary-surveillance-radar-psr](https://skybrary.aero/articles/primary-surveillance-radar-psr)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SkybraryPrimary Surveillance Radar (PSR)The radar relies on reflected signals but is not aware if they are received from aircraft or from...</p></details>
+   Link: <a href="https://skybrary.aero/articles/primary-surveillance-radar-psr" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/primary-surveillance-radar-psr</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Primary Surveillance Radar (PSR)The radar relies on reflected signals but is not aware if they are received from aircraft or from...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: skybrary.aero  
-   Link: [https://skybrary.aero/articles/radar-clutter](https://skybrary.aero/articles/radar-clutter)  
+   Link: <a href="https://skybrary.aero/articles/radar-clutter" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/radar-clutter</a>  
 
 5. <a id="endnote-5"></a>
    Source: rtx.com  
-   Link: [https://www.rtx.com/collinsaerospace/what-we-do/industries/air-traffic-management/surveillance/non-cooperative-surveillance-radar](https://www.rtx.com/collinsaerospace/what-we-do/industries/air-traffic-management/surveillance/non-cooperative-surveillance-radar)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RTXPrimary (Non-Cooperative) Surveillance Radar (NCSR)ASR-XM delivers exceptional aircraft detection with low false target rates – even i...</p></details>
+   Link: <a href="https://www.rtx.com/collinsaerospace/what-we-do/industries/air-traffic-management/surveillance/non-cooperative-surveillance-radar" target="_blank" rel="noopener noreferrer nofollow">https://www.rtx.com/collinsaerospace/what-we-do/industries/air-traffic-management/surveillance/non-cooperative-surveillance-radar</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Primary (Non-Cooperative) Surveillance Radar (NCSR)ASR-XM delivers exceptional aircraft detection with low false target rates – even i...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/mlb/Doppler_Dual_Pol_Weather_Radar](https://www.weather.gov/mlb/Doppler_Dual_Pol_Weather_Radar)  
+   Link: <a href="https://www.weather.gov/mlb/Doppler_Dual_Pol_Weather_Radar" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/mlb/Doppler_Dual_Pol_Weather_Radar</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NWS Weather RadarAnomalous Propagation (AP): (Ground Clutter). Anomalous Propagation (AP) refers to meteorological situations where a sig...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: [https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/](https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/)  
+   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through sys...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/air_traffic/publications/atpubs/aip_html/part2_enr_section_1.1.html](https://www.faa.gov/air_traffic/publications/atpubs/aip_html/part2_enr_section_1.1.html)  
+   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/aip_html/part2_enr_section_1.1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aip_html/part2_enr_section_1.1.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ENR 1.1: General Rulesb) The bending of radar pulses, often called anomalous propagation or ducting, may cause many extraneous blips to a...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: aim-sg.caas.gov.sg  
-   Link: [https://aim-sg.caas.gov.sg/aim-content/uploads/aip/2025-07-24/final/2022-09-08-Non-AIRAC/html/eAIP/ENR-1.6-en-GB.html?s=6D13FAE627645A2EBC593B3E445085AA9D666E48](https://aim-sg.caas.gov.sg/aim-content/uploads/aip/2025-07-24/final/2022-09-08-Non-AIRAC/html/eAIP/ENR-1.6-en-GB.html?s=6D13FAE627645A2EBC593B3E445085AA9D666E48)  
+   Link: <a href="https://aim-sg.caas.gov.sg/aim-content/uploads/aip/2025-07-24/final/2022-09-08-Non-AIRAC/html/eAIP/ENR-1.6-en-GB.html?s=6D13FAE627645A2EBC593B3E445085AA9D666E48" target="_blank" rel="noopener noreferrer nofollow">https://aim-sg.caas.gov.sg/aim-content/uploads/aip/2025-07-24/final/2022-09-08-Non-AIRAC/html/eAIP/ENR-1.6-en-GB.html?s=6D13FAE627645A2EBC593B3E445085AA9D666E48</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>If, however...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>8 May 2026 — In 2023, NASA commissioned the UAP Independent Study Team to examine unidentified anomalous phenomena from a scientific pers...</p></details>
    Published: May 2026  
 
 12. <a id="endnote-12"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — A study team to examine unidentified anomalous phenomena (UAPs) – that is, observations of events in the sky that...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: space.com  
    Title: nasa ufo uap study team first results revealed  
-   Link: [https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed](https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed)  
+   Link: <a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor sensor cal...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: indragroup.com  
    Title: 12 psr brochure v1 02 2009 eng  
-   Link: [https://www.indragroup.com/sites/default/files/12_psr_brochure_v1_02-2009_eng.pdf](https://www.indragroup.com/sites/default/files/12_psr_brochure_v1_02-2009_eng.pdf)  
+   Link: <a href="https://www.indragroup.com/sites/default/files/12_psr_brochure_v1_02-2009_eng.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.indragroup.com/sites/default/files/12_psr_brochure_v1_02-2009_eng.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PRIMARY SURVEILLANCE RADAR2 Jan 2009 — The integrated weather channel has an independent set of Doppler filters that eliminate clutter fr...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: skyradar.com  
    Title: atsep use cases impact of false targets on air traffic control  
-   Link: [https://www.skyradar.com/blog/atsep-use-cases-impact-of-false-targets-on-air-traffic-control](https://www.skyradar.com/blog/atsep-use-cases-impact-of-false-targets-on-air-traffic-control)  
+   Link: <a href="https://www.skyradar.com/blog/atsep-use-cases-impact-of-false-targets-on-air-traffic-control" target="_blank" rel="noopener noreferrer nofollow">https://www.skyradar.com/blog/atsep-use-cases-impact-of-false-targets-on-air-traffic-control</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ATSEP Use Cases: Impact of False Targets on Air Traffic Control21 Sept 2023 — Anomalous propagation, also known as ducting, is a phenomen...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Anomalous propagation  
-   Link: [https://en.wikipedia.org/wiki/Anomalous_propagation](https://en.wikipedia.org/wiki/Anomalous_propagation)  
+   Link: <a href="https://en.wikipedia.org/wiki/Anomalous_propagation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anomalous_propagation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anomalous propagationAnomalous propagation refers to false radar echoes usually observed when calm, stable atmospheric conditions, oft...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: noaa.gov  
    Title: anomalous propagation  
-   Link: [https://www.noaa.gov/jetstream/anomalous-propagation](https://www.noaa.gov/jetstream/anomalous-propagation)  
+   Link: <a href="https://www.noaa.gov/jetstream/anomalous-propagation" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/jetstream/anomalous-propagation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>JetStream Max: Anomalous Propagation9 Aug 2023 — False echoes are known as anomalous propagation (AP) - an echo that is not precipitation...</p></details>
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/332254869_Surveillance_Radar_System_Limitations_and_the_Advent_of_the_Automatic_Dependent_Surveillance_Broadcast_system_for_Aircraft_Monitoring](https://www.researchgate.net/publication/332254869_Surveillance_Radar_System_Limitations_and_the_Advent_of_the_Automatic_Dependent_Surveillance_Broadcast_system_for_Aircraft_Monitoring)  
+   Link: <a href="https://www.researchgate.net/publication/332254869_Surveillance_Radar_System_Limitations_and_the_Advent_of_the_Automatic_Dependent_Surveillance_Broadcast_system_for_Aircraft_Monitoring" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/332254869_Surveillance_Radar_System_Limitations_and_the_Advent_of_the_Automatic_Dependent_Surveillance_Broadcast_system_for_Aircraft_Monitoring</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Surveillance Radar System Limitations and the Advent of...7 Apr 2019 — In this paper, the limitations of the surveillance radar system t...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: studocu.com  
-   Link: [https://www.studocu.com/en-us/document/harvard-medical-school/estadistica/nasa-uap-independent-study-team-final-report-key-findings-and-recommendations/157385671](https://www.studocu.com/en-us/document/harvard-medical-school/estadistica/nasa-uap-independent-study-team-final-report-key-findings-and-recommendations/157385671)  
+   Link: <a href="https://www.studocu.com/en-us/document/harvard-medical-school/estadistica/nasa-uap-independent-study-team-final-report-key-findings-and-recommendations/157385671" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/en-us/document/harvard-medical-school/estadistica/nasa-uap-independent-study-team-final-report-key-findings-and-recommendations/157385671</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UAP Independent Study Team Final ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the. lack of multipl...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: nextgov.com  
-   Link: [https://www.nextgov.com/ideas/2023/09/nasa-report-finds-no-evidence-ufos-are-extraterrestrial/390350/](https://www.nextgov.com/ideas/2023/09/nasa-report-finds-no-evidence-ufos-are-extraterrestrial/390350/)  
+   Link: <a href="https://www.nextgov.com/ideas/2023/09/nasa-report-finds-no-evidence-ufos-are-extraterrestrial/390350/" target="_blank" rel="noopener noreferrer nofollow">https://www.nextgov.com/ideas/2023/09/nasa-report-finds-no-evidence-ufos-are-extraterrestrial/390350/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA report finds no evidence that UFOs are extraterrestrialAnalysis of this data is “hampered by poor sensor calibration, the lack of mu...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: managingexpectations.net  
-   Link: [https://managingexpectations.net/blog/articles/nasa-uap-study-managing-expectations.html](https://managingexpectations.net/blog/articles/nasa-uap-study-managing-expectations.html)  
+   Link: <a href="https://managingexpectations.net/blog/articles/nasa-uap-study-managing-expectations.html" target="_blank" rel="noopener noreferrer nofollow">https://managingexpectations.net/blog/articles/nasa-uap-study-managing-expectations.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s UAP Study: What It Did — and Did Not — ConcludeNASA&#x27;s study team treated UAP as a scientific and data problem: how should reliable...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: cfinotebook.net  
-   Link: [https://www.cfinotebook.net/notebook/air-traffic-control/radar](https://www.cfinotebook.net/notebook/air-traffic-control/radar)  
+   Link: <a href="https://www.cfinotebook.net/notebook/air-traffic-control/radar" target="_blank" rel="noopener noreferrer nofollow">https://www.cfinotebook.net/notebook/air-traffic-control/radar</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>RadarThe bending of radar pulses, often called anomalous propagation or ducting, may cause many extraneous blips to appear on the radar o...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: studyaircrafts.com  
-   Link: [https://www.studyaircrafts.com/atc-transponder](https://www.studyaircrafts.com/atc-transponder)  
+   Link: <a href="https://www.studyaircrafts.com/atc-transponder" target="_blank" rel="noopener noreferrer nofollow">https://www.studyaircrafts.com/atc-transponder</a>  
 
 24. <a id="endnote-24"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40timventura/ufos-and-radar-targets-clutter-safety-and-false-certainty-c3eab7a878ad](https://medium.com/%40timventura/ufos-and-radar-targets-clutter-safety-and-false-certainty-c3eab7a878ad)  
+   Link: <a href="https://medium.com/%40timventura/ufos-and-radar-targets-clutter-safety-and-false-certainty-c3eab7a878ad" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40timventura/ufos-and-radar-targets-clutter-safety-and-false-certainty-c3eab7a878ad</a>  
 
 25. <a id="endnote-25"></a>
    Source: thedebrief.org  
-   Link: [https://thedebrief.org/nasa-has-little-to-say-about-ufos-as-anniversary-of-study-team-reports-release-nears/](https://thedebrief.org/nasa-has-little-to-say-about-ufos-as-anniversary-of-study-team-reports-release-nears/)  
+   Link: <a href="https://thedebrief.org/nasa-has-little-to-say-about-ufos-as-anniversary-of-study-team-reports-release-nears/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/nasa-has-little-to-say-about-ufos-as-anniversary-of-study-team-reports-release-nears/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Has Little to Say About UFOs as Anniversary...12 Jul 2024 — “Currently, UAP data analysis is hindered by poor sensor calibration, l...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: intersoft-electronics.com  
-   Link: [https://intersoft-electronics.com/wp-content/uploads/2023/09/IE-IEA-01364-001-ATC-Challenges-and-Solutions-1.pdf](https://intersoft-electronics.com/wp-content/uploads/2023/09/IE-IEA-01364-001-ATC-Challenges-and-Solutions-1.pdf)  
+   Link: <a href="https://intersoft-electronics.com/wp-content/uploads/2023/09/IE-IEA-01364-001-ATC-Challenges-and-Solutions-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://intersoft-electronics.com/wp-content/uploads/2023/09/IE-IEA-01364-001-ATC-Challenges-and-Solutions-1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PSR is the &#x27;classic&#x27; radar that does not require the. &#x27;cooperation&#x27; of the target aircraft for detection and tracking.Read more...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: fastcompany.com  
    Title: nasa just threw cold water on the idea that ufo sightings are extraterrestrial  
-   Link: [https://www.fastcompany.com/90954823/nasa-just-threw-cold-water-on-the-idea-that-ufo-sightings-are-extraterrestrial](https://www.fastcompany.com/90954823/nasa-just-threw-cold-water-on-the-idea-that-ufo-sightings-are-extraterrestrial)  
+   Link: <a href="https://www.fastcompany.com/90954823/nasa-just-threw-cold-water-on-the-idea-that-ufo-sightings-are-extraterrestrial" target="_blank" rel="noopener noreferrer nofollow">https://www.fastcompany.com/90954823/nasa-just-threw-cold-water-on-the-idea-that-ufo-sightings-are-extraterrestrial</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA just threw cold water on the idea that UFO sightings...19 Sept 2023 — NASA&#x27;s independent study team found no evidence that reported...</p></details>

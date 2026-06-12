@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590_line_of_sight_geomet_3e8dcd
 - ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590_missing_flight_track_e2e1dc
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - flight-tracking
 - chile-ir-case
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - flight-tracking
 - chile-ir-case
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: The Chilean Navy infrared video shows how flight records, camera motion and contrails can turn a famous unresolved case into a testable aircraft match.
 hero_summary: The Chilean Navy infrared video shows how flight records, camera motion and contrails can turn a famous unresolved case into a testable aircraft match.
 layout: default
 permalink: /chile-ir-case/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /flight-tracking/
 nav_short_title: Chile IR Case
 title: The infrared UFO that matched an airliner
-title_full: The infrared UFO that matched an airliner | Flight Tracking
+title_full: The infrared UFO that matched an airliner
 display_title_short: Chile IR Case
 display_title: Chile IR Case
 heading_title: The infrared UFO that matched an airliner
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 21:45:49'
-parent_title: How Flight Data Solves UFO Sightings | IFOs
+parent_title: How Flight Data Solves UFO Sightings
 parent_permalink: /flight-tracking/
 parent_nav_short_title: Flight Tracking
 parent_heading_title: How Flight Data Solves UFO Sightings
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590
-  title: Flight Tracking | Ifos Causes Of
+  title: Flight Tracking | ifos causes of UFO 3 ed 238
   permalink: /flight-tracking/
   short_title: Flight Tracking
   heading_title: How Flight Data Solves UFO Sightings
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590
-  title: Flight Tracking | Ifos Causes Of
+  title: Flight Tracking | ifos causes of UFO 3 ed 238
   permalink: /flight-tracking/
   short_title: Flight Tracking
   heading_title: How Flight Data Solves UFO Sightings
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: Was the plane really where they looked?
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590
-  title: Flight Tracking | Ifos Causes Of
+  title: Flight Tracking | ifos causes of UFO 3 ed 238
   permalink: /flight-tracking/
   short_title: Flight Tracking
   heading_title: How Flight Data Solves UFO Sightings
@@ -266,6 +265,7 @@ next_link:
   permalink: /missing-tracks/
   short_title: Missing Tracks
   heading_title: When no flight track appears on the map
+date: '2026-06-12 00:29:25 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590_chilean_navy_airline_b34ccf-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590_chilean_navy_airline_b34ccf-Illustration-1.webp
@@ -276,14 +276,12 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590_chilean
 
 The Chilean Navy [infrared]({{ 'infrared/' | relative_url }}) UFO case is one of the most instructive examples of how [flight tracking]({{ 'flight-tracking/' | relative_url }}) can transform a seemingly unexplained aerial mystery into a testable identification problem. Recorded on 11 November 2014 by a Chilean Navy helicopter using a Wescam MX-15 infrared camera, the object appeared as a distant aircraft-like shape that periodically released hot-looking plumes visible only in infrared. After a two-year investigation, Chile's official UFO study body, CEFAA, concluded that the object remained unexplained. Yet within days of the video's public release, independent investigators used flight records, geometry and camera analysis to propose a specific commercial airliner match. The resulting debate became a landmark case in aircraft correlation and evidence standards for UFO investigations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/curated-crowdsourcing-in-ufo-investigations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">curated crowdsourcing in ufo investigations</span><span class="citation-popover-snippet">Skeptical InquirerCurated Crowdsourcing in UFO Investigations25 May 2017 — At 1:52pm on November 11, 2014, a Chilean Navy helicopter was...</span><span class="citation-popover-meta">Published: November 11, 2014</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://arstechnica.com/science/2017/01/after-two-years-of-study-chilean-officials-cant-explain-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arstechnica.com">[Ars Technica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arstechnica.com</span><span class="citation-popover-title">after two years of study chilean officials cant explain ufo sighting</span><span class="citation-popover-snippet">The Ars Files casts a skeptical eye on developments in the UFO community. Is the truth out...Read more...</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590_chilean_navy_airline_b34ccf-Illustration-1-dark.svg" | relative_url }}" alt="Chile IR Case illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590_chilean_navy_airline_b34ccf-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590_chilean_navy_airline_b34ccf-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What the Chilean Navy video appeared to show
 
 The encounter occurred during a daytime patrol flight along the Chilean coast. The helicopter crew observed a distant object and tracked it for several minutes with an infrared sensor. On the video, the target appears elongated, maintains a steady course, and twice seems to emit large thermal plumes that spread behind it. These emissions became the most discussed feature of the case because they looked unusual and were not obvious in visible-light imagery. New York Post <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iflscience.com/chilean-government-releases-an-unexplainable-ufo-sighting-video-39751" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iflscience.com">[iflscience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iflscience.com</span><span class="citation-popover-snippet">, which appeared to be flying at a similar speed to the helicopter, at...Read more...</span></span></span> Investigators from CEFAA interviewed the crew, examined [radar]({{ 'radar/' | relative_url }}) information and reviewed the sensor footage. The official investigation concluded that the object could not be positively identified. The inability of controllers and radar operators to immediately associate the sighting with known traffic contributed to the case's reputation as one of the strongest modern military UFO reports. New York Post <span class="citation-chip-wrap"><a class="citation-chip" href="https://arstechnica.com/science/2017/01/after-two-years-of-study-chilean-officials-cant-explain-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arstechnica.com">[Ars Technica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arstechnica.com</span><span class="citation-popover-title">after two years of study chilean officials cant explain ufo sighting</span><span class="citation-popover-snippet">The Ars Files casts a skeptical eye on developments in the UFO community. Is the truth out...Read more...</span></span></span>
 
 At first glance, the video seemed to show three unusual features:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -295,9 +293,6 @@ At first glance, the video seemed to show three unusual features:
 
 These elements encouraged interpretations ranging from an unknown aircraft to a genuinely anomalous aerial phenomenon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fr.wikipedia.org/wiki/Observation_d%27un_ovni_par_la_Marine_chilienne_le_14_novembre_2014" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Observation d&#x27;un ovni par la Marine chilienne le 14 novembre 2014</span><span class="citation-popover-snippet">Observation d&#x27;un ovni par la Marine chilienne le 14 novembre 2014</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_4_2xD66wB0" title="Chilean Navy UFO sighting explained | This Is Why" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_4_2xD66wB0" target="_blank" rel="noopener noreferrer">Chilean Navy UFO sighting explained | This Is Why</a></p><p class="youtube-embed-meta">Channel: 7NEWS Australia</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_4_2xD66wB0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_4_2xD66wB0">Open on YouTube</a></p></div></div></div>
-
 ## How the airliner correlation was built
 
 The later aircraft identification effort did not begin with assumptions about what the object was. Instead, investigators worked backwards from the video's time, location, viewing direction and camera behaviour.
@@ -308,7 +303,6 @@ Open-source researchers compared the recorded time of the sighting with commerci
 
 The key insight was that a distant high-altitude jet does not need to be physically close to the observing aircraft. A large airliner tens of miles away can still produce a visible infrared target, especially when viewed against a cold sky background. The apparent lack of dramatic motion in the footage was also consistent with a distant aircraft observed from another moving aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/curated-crowdsourcing-in-ufo-investigations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">curated crowdsourcing in ufo investigations</span><span class="citation-popover-snippet">Skeptical InquirerCurated Crowdsourcing in UFO Investigations25 May 2017 — At 1:52pm on November 11, 2014, a Chilean Navy helicopter was...</span><span class="citation-popover-meta">Published: November 11, 2014</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590_chilean_navy_airline_b34ccf-Illustration-2-dark.svg" | relative_url }}" alt="Chile IR Case illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590_chilean_navy_airline_b34ccf-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590_chilean_navy_airline_b34ccf-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Reconstructing geometry and camera motion
 
@@ -316,18 +310,13 @@ Researchers then examined the helicopter's position, heading and camera pointing
 
 An important part of the analysis involved understanding the sensor itself. Infrared cameras compress three-dimensional scenes into a two-dimensional image. At long distances, small errors in estimating [range]({{ 'range/' | relative_url }}) can create large misunderstandings about speed, altitude and manoeuvrability. The object appeared mysterious partly because viewers lacked an accurate distance estimate. Once the possibility of a far-off airliner was introduced, the geometry became much more consistent with ordinary aviation traffic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/curated-crowdsourcing-in-ufo-investigations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">curated crowdsourcing in ufo investigations</span><span class="citation-popover-snippet">Skeptical InquirerCurated Crowdsourcing in UFO Investigations25 May 2017 — At 1:52pm on November 11, 2014, a Chilean Navy helicopter was...</span><span class="citation-popover-meta">Published: November 11, 2014</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZBtMbBPzqHY" title="Navy pilots describe encounters with UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZBtMbBPzqHY" target="_blank" rel="noopener noreferrer">Navy pilots describe encounters with UFOs</a></p><p class="youtube-embed-meta">Channel: 60 Minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZBtMbBPzqHY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZBtMbBPzqHY">Open on YouTube</a></p></div></div></div>
-
 ### Explaining the “plumes”
 
 The apparent emissions were often described as gas releases or ejected material. The aircraft-correlation explanation proposed a different mechanism: aerodynamic [contrails]({{ 'contrails/' | relative_url }}) or exhaust-related condensation becoming visible under specific infrared conditions. Rather than showing a vehicle periodically dumping material, the thermal imagery could be highlighting changing atmospheric effects around the aircraft's wake. Metabunk <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universetoday.com/articles/chilean-government-releases-declassified-ufo-video" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-snippet">Universe TodayChilean Government Releases Declassified UFO Video14 Jan 2017 — After examining the flights GPS data and conducting a 3D an...</span></span></span>
 
-This interpretation addressed one of the most puzzling aspects of the video. What appeared to be sudden releases could instead result from changing humidity conditions, viewing angle, sensor settings and [thermal contrast]({{ 'thermal-contrast/' | relative_url }}) between the wake and the surrounding [atmosphere]({{ 'atmosphere/' | relative_url }}). Infrared imagery often presents such effects in ways that do not resemble their appearance in visible light. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/explained-chilean-navy-ufo-video-aerodynamic-contrails-flight-ib6830.8306/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">MetabunkChilean Navy &quot;UFO&quot; video - Aerodynamic Contrails, Flight...6 Jan 2017 — Based on analysis by @Trailblazer, @Trailspotter, myself...</span></span></span>
+This interpretation addressed one of the most puzzling aspects of the video. What appeared to be sudden releases could instead result from changing humidity conditions, viewing angle, sensor settings and [thermal contrast]({{ 'thermal-contrast/' | relative_url }}) between the wake and the surrounding [atmosphere]({{ 'atmosphere/' | relative_url }}). Infrared imagery often presents such effects in ways that do not resemble their appearance in visible light. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/explained-chilean-navy-ufo-video-aerodynamic-contrails-flight-ib6830.8306/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">Chilean Navy &quot;UFO&quot; video - Aerodynamic Contrails, Flight...6 Jan 2017 — Based on analysis by @Trailblazer, @Trailspotter, myself...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Uoqxr6AI7VQ" title="Chilean UFO Video Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Uoqxr6AI7VQ" target="_blank" rel="noopener noreferrer">Chilean UFO Video Explained</a></p><p class="youtube-embed-meta">Channel: Mick West</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Uoqxr6AI7VQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Uoqxr6AI7VQ">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590_chilean_navy_airline_b34ccf-Illustration-3-dark.svg" | relative_url }}" alt="Chile IR Case illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590_chilean_navy_airline_b34ccf-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590_chilean_navy_airline_b34ccf-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the case still matters for evidence standards
 
 The Chilean infrared case remains important not because everyone agrees on the identification, but because it demonstrated a rigorous method for testing UFO claims.
@@ -339,9 +328,6 @@ Second, the case highlighted the value of combining multiple evidence streams. F
 Third, it became a demonstration of the strengths and limitations of infrared imagery. Military-grade sensors are powerful observational tools, but they do not automatically reveal the true nature of a target. Distance [compression]({{ 'compression/' | relative_url }}), thermal contrast, atmospheric effects and camera tracking behaviour can produce impressions that are difficult to interpret without contextual data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/commentisfree/2021/jun/11/i-study-ufos-and-i-dont-believe-the-alien-hype-heres-why" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian I study UFOs – and I don&#x27;t believe the alien hype</span><span class="citation-popover-snippet">Here&#x27;s why11 June 2021 — UFO enthusiasts claim that there&#x27;s amazing evidence of UAPs, representing something incredible, and that a speci...</span><span class="citation-popover-meta">Published: June 2021</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://arstechnica.com/science/2017/01/after-two-years-of-study-chilean-officials-cant-explain-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arstechnica.com">[Ars Technica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arstechnica.com</span><span class="citation-popover-title">after two years of study chilean officials cant explain ufo sighting</span><span class="citation-popover-snippet">The Ars Files casts a skeptical eye on developments in the UFO community. Is the truth out...Read more...</span></span></span>
 
 The enduring lesson is not simply that the object was or was not a particular airliner. Rather, the case shows how modern UFO investigation increasingly depends on reconstructing the physical circumstances of an observation. The Chilean Navy video became famous as an unresolved UFO, but its lasting significance lies in how flight tracking and aircraft correlation turned a dramatic infrared mystery into a detailed, evidence-based test of competing explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/curated-crowdsourcing-in-ufo-investigations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">curated crowdsourcing in ufo investigations</span><span class="citation-popover-snippet">Skeptical InquirerCurated Crowdsourcing in UFO Investigations25 May 2017 — At 1:52pm on November 11, 2014, a Chilean Navy helicopter was...</span><span class="citation-popover-meta">Published: November 11, 2014</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universetoday.com/articles/chilean-government-releases-declassified-ufo-video" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-snippet">Universe TodayChilean Government Releases Declassified UFO Video14 Jan 2017 — After examining the flights GPS data and conducting a 3D an...</span></span></span>
-
-
-<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590_chilean_navy_airline_b34ccf-Illustration-3-dark.svg" | relative_url }}" alt="Chile IR Case illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590_chilean_navy_airline_b34ccf-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590_chilean_navy_airline_b34ccf-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -460,15 +446,15 @@ The enduring lesson is not simply that the object was or was not a particular ai
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chile-ir-case-the-infrared-ufo-that-matched-an-airliner-ifos-causes-of-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="chile-ir-case-the-infrared-ufo-that-matched-an-airliner-ifos-causes-of-airliner-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tupolev TU - 154M"><img src="{{ '/assets/images/marketplace-covers/37dd0a9911695b44e2b7.jpg' | relative_url }}" alt="Listing image for Tupolev TU - 154M" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-infrared-ufo-that-matched-an-airliner-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="the-infrared-ufo-that-matched-an-airliner-airliner-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Skymarks Flybe Dash-8 Model"><img src="https://i.ebayimg.com/images/g/AagAAeSwKhRqKeb1/s-l225.jpg" alt="Listing image for Skymarks Flybe Dash-8 Model" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chile-ir-case-the-infrared-ufo-that-matched-an-airliner-ifos-causes-of-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="chile-ir-case-the-infrared-ufo-that-matched-an-airliner-ifos-causes-of-airliner-model" target="_blank" rel="sponsored noopener noreferrer">Tupolev TU - 154M</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-infrared-ufo-that-matched-an-airliner-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="the-infrared-ufo-that-matched-an-airliner-airliner-model" target="_blank" rel="sponsored noopener noreferrer">Skymarks Flybe Dash-8 Model</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chile-ir-case-the-infrared-ufo-that-matched-an-airliner-ifos-causes-of-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="chile-ir-case-the-infrared-ufo-that-matched-an-airliner-ifos-causes-of-airliner-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airliner model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airliner model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-infrared-ufo-that-matched-an-airliner-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="the-infrared-ufo-that-matched-an-airliner-airliner-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airliner model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airliner model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chile-ir-case-the-infrared-ufo-that-matched-an-airliner-ifos-causes-of-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="chile-ir-case-the-infrared-ufo-that-matched-an-airliner-ifos-causes-of-airliner-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-infrared-ufo-that-matched-an-airliner-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="the-infrared-ufo-that-matched-an-airliner-airliner-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -476,15 +462,15 @@ The enduring lesson is not simply that the object was or was not a particular ai
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chile-ir-case-the-infrared-ufo-that-matched-an-airliner-ifos-causes-of-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="chile-ir-case-the-infrared-ufo-that-matched-an-airliner-ifos-causes-of-airliner-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gemini 200 1:200 Scale Virgin Atlantic AIRBUS A340-600"><img src="{{ '/assets/images/marketplace-covers/847642057003b4f86f35.jpg' | relative_url }}" alt="Listing image for Gemini 200 1:200 Scale Virgin Atlantic AIRBUS A340-600" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-infrared-ufo-that-matched-an-airliner-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="the-infrared-ufo-that-matched-an-airliner-airliner-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Blue Box 1:400 Airbus A320neo Easyjet G-UZEF Ref: BT400-A320-003"><img src="https://i.ebayimg.com/images/g/9ZsAAeSw0DRqKto4/s-l225.jpg" alt="Listing image for Blue Box 1:400 Airbus A320neo Easyjet G-UZEF Ref: BT400-A320-003" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chile-ir-case-the-infrared-ufo-that-matched-an-airliner-ifos-causes-of-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="chile-ir-case-the-infrared-ufo-that-matched-an-airliner-ifos-causes-of-airliner-model" target="_blank" rel="sponsored noopener noreferrer">Gemini 200 1:200 Scale Virgin Atlantic AIRBUS A340-600</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-infrared-ufo-that-matched-an-airliner-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="the-infrared-ufo-that-matched-an-airliner-airliner-model" target="_blank" rel="sponsored noopener noreferrer">Blue Box 1:400 Airbus A320neo Easyjet G-UZEF Ref: BT400-A320-003</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chile-ir-case-the-infrared-ufo-that-matched-an-airliner-ifos-causes-of-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="chile-ir-case-the-infrared-ufo-that-matched-an-airliner-ifos-causes-of-airliner-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airliner model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airliner model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-infrared-ufo-that-matched-an-airliner-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="the-infrared-ufo-that-matched-an-airliner-airliner-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airliner model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airliner model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chile-ir-case-the-infrared-ufo-that-matched-an-airliner-ifos-causes-of-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="chile-ir-case-the-infrared-ufo-that-matched-an-airliner-ifos-causes-of-airliner-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-infrared-ufo-that-matched-an-airliner-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="the-infrared-ufo-that-matched-an-airliner-airliner-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -492,15 +478,15 @@ The enduring lesson is not simply that the object was or was not a particular ai
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chile-ir-case-the-infrared-ufo-that-matched-an-airliner-ifos-causes-of-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="chile-ir-case-the-infrared-ufo-that-matched-an-airliner-ifos-causes-of-airliner-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Emirates Boeing 777-300ER Model Aeroplane 1:200 Scale"><img src="{{ '/assets/images/marketplace-covers/58c86486c07e51c3ff7d.jpg' | relative_url }}" alt="Listing image for Emirates Boeing 777-300ER Model Aeroplane 1:200 Scale" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-infrared-ufo-that-matched-an-airliner-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="the-infrared-ufo-that-matched-an-airliner-airliner-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ryanair Boeing 737 Model Aircraft 46cm 1:85 Scale LED Display Plane with stand"><img src="https://i.ebayimg.com/images/g/4kkAAeSww5JqJsN~/s-l225.jpg" alt="Listing image for Ryanair Boeing 737 Model Aircraft 46cm 1:85 Scale LED Display Plane with stand" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chile-ir-case-the-infrared-ufo-that-matched-an-airliner-ifos-causes-of-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="chile-ir-case-the-infrared-ufo-that-matched-an-airliner-ifos-causes-of-airliner-model" target="_blank" rel="sponsored noopener noreferrer">Emirates Boeing 777-300ER Model Aeroplane 1:200 Scale</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-infrared-ufo-that-matched-an-airliner-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="the-infrared-ufo-that-matched-an-airliner-airliner-model" target="_blank" rel="sponsored noopener noreferrer">Ryanair Boeing 737 Model Aircraft 46cm 1:85 Scale LED Display Plane with stand</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chile-ir-case-the-infrared-ufo-that-matched-an-airliner-ifos-causes-of-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="chile-ir-case-the-infrared-ufo-that-matched-an-airliner-ifos-causes-of-airliner-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airliner model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airliner model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-infrared-ufo-that-matched-an-airliner-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="the-infrared-ufo-that-matched-an-airliner-airliner-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airliner model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airliner model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chile-ir-case-the-infrared-ufo-that-matched-an-airliner-ifos-causes-of-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="chile-ir-case-the-infrared-ufo-that-matched-an-airliner-ifos-causes-of-airliner-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-infrared-ufo-that-matched-an-airliner-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="the-infrared-ufo-that-matched-an-airliner-airliner-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -508,15 +494,15 @@ The enduring lesson is not simply that the object was or was not a particular ai
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chile-ir-case-the-infrared-ufo-that-matched-an-airliner-ifos-causes-of-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="chile-ir-case-the-infrared-ufo-that-matched-an-airliner-ifos-causes-of-airliner-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for INFLIGHT 200 WIZZAIR A321 NEO REG: HA-LVE"><img src="{{ '/assets/images/marketplace-covers/852199f853dc19bd98a5.jpg' | relative_url }}" alt="Listing image for INFLIGHT 200 WIZZAIR A321 NEO REG: HA-LVE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-infrared-ufo-that-matched-an-airliner-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="the-infrared-ufo-that-matched-an-airliner-airliner-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aer Lingus Airbus A330-300 Diecast Model 1:400 Gemini Jets GJEIN1853 - FREEPOST"><img src="https://i.ebayimg.com/images/g/8oYAAeSwK9lqKq5G/s-l225.jpg" alt="Listing image for Aer Lingus Airbus A330-300 Diecast Model 1:400 Gemini Jets GJEIN1853 - FREEPOST" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chile-ir-case-the-infrared-ufo-that-matched-an-airliner-ifos-causes-of-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="chile-ir-case-the-infrared-ufo-that-matched-an-airliner-ifos-causes-of-airliner-model" target="_blank" rel="sponsored noopener noreferrer">INFLIGHT 200 WIZZAIR A321 NEO REG: HA-LVE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-infrared-ufo-that-matched-an-airliner-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="the-infrared-ufo-that-matched-an-airliner-airliner-model" target="_blank" rel="sponsored noopener noreferrer">Aer Lingus Airbus A330-300 Diecast Model 1:400 Gemini Jets GJEIN1853 - FREEPOST</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chile-ir-case-the-infrared-ufo-that-matched-an-airliner-ifos-causes-of-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="chile-ir-case-the-infrared-ufo-that-matched-an-airliner-ifos-causes-of-airliner-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airliner model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airliner model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-infrared-ufo-that-matched-an-airliner-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="the-infrared-ufo-that-matched-an-airliner-airliner-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airliner model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airliner model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chile-ir-case-the-infrared-ufo-that-matched-an-airliner-ifos-causes-of-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="chile-ir-case-the-infrared-ufo-that-matched-an-airliner-ifos-causes-of-airliner-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-infrared-ufo-that-matched-an-airliner-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="the-infrared-ufo-that-matched-an-airliner-airliner-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -524,7 +510,7 @@ The enduring lesson is not simply that the object was or was not a particular ai
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chile-ir-case-the-infrared-ufo-that-matched-an-airliner-ifos-causes-of-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="chile-ir-case-the-infrared-ufo-that-matched-an-airliner-ifos-causes-of-airliner-model" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-infrared-ufo-that-matched-an-airliner-airliner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model" data-ebay-reference="the-infrared-ufo-that-matched-an-airliner-airliner-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -739,53 +725,53 @@ The enduring lesson is not simply that the object was or was not a particular ai
 
 1. <a id="endnote-1"></a>
    Source: iflscience.com  
-   Link: [https://www.iflscience.com/chilean-government-releases-an-unexplainable-ufo-sighting-video-39751](https://www.iflscience.com/chilean-government-releases-an-unexplainable-ufo-sighting-video-39751)  
+   Link: <a href="https://www.iflscience.com/chilean-government-releases-an-unexplainable-ufo-sighting-video-39751" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/chilean-government-releases-an-unexplainable-ufo-sighting-video-39751</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>, which appeared to be flying at a similar speed to the helicopter, at...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Observation d'un ovni par la Marine chilienne le 14 novembre 2014  
-   Link: [https://fr.wikipedia.org/wiki/Observation_d%27un_ovni_par_la_Marine_chilienne_le_14_novembre_2014](https://fr.wikipedia.org/wiki/Observation_d%27un_ovni_par_la_Marine_chilienne_le_14_novembre_2014)  
+   Link: <a href="https://fr.wikipedia.org/wiki/Observation_d%27un_ovni_par_la_Marine_chilienne_le_14_novembre_2014" target="_blank" rel="noopener noreferrer nofollow">https://fr.wikipedia.org/wiki/Observation_d%27un_ovni_par_la_Marine_chilienne_le_14_novembre_2014</a>  
 
 3. <a id="endnote-3"></a>
    Source: metabunk.org  
-   Link: [https://www.metabunk.org/threads/explained-chilean-navy-ufo-video-aerodynamic-contrails-flight-ib6830.8306/](https://www.metabunk.org/threads/explained-chilean-navy-ufo-video-aerodynamic-contrails-flight-ib6830.8306/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MetabunkChilean Navy &quot;UFO&quot; video - Aerodynamic Contrails, Flight...6 Jan 2017 — Based on analysis by @Trailblazer, @Trailspotter, myself...</p></details>
+   Link: <a href="https://www.metabunk.org/threads/explained-chilean-navy-ufo-video-aerodynamic-contrails-flight-ib6830.8306/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/explained-chilean-navy-ufo-video-aerodynamic-contrails-flight-ib6830.8306/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Chilean Navy &quot;UFO&quot; video - Aerodynamic Contrails, Flight...6 Jan 2017 — Based on analysis by @Trailblazer, @Trailspotter, myself...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: metabunk.org  
    Title: dave falchs claims about ir visibility in the chilean navy ufo ib6830.13664  
-   Link: [https://www.metabunk.org/threads/dave-falchs-claims-about-ir-visibility-in-the-chilean-navy-ufo-ib6830.13664/](https://www.metabunk.org/threads/dave-falchs-claims-about-ir-visibility-in-the-chilean-navy-ufo-ib6830.13664/)  
+   Link: <a href="https://www.metabunk.org/threads/dave-falchs-claims-about-ir-visibility-in-the-chilean-navy-ufo-ib6830.13664/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/dave-falchs-claims-about-ir-visibility-in-the-chilean-navy-ufo-ib6830.13664/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Explained: Chilean Navy &quot;UFO&quot; video - Aerodynamic Contrails, Flight IB6830...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: metabunk.org  
    Title: NY T: GIMBAL Video of U.S  
-   Link: [https://www.metabunk.org/threads/nyt-gimbal-video-of-u-s-navy-jet-encounter-with-unknown-object.9333/](https://www.metabunk.org/threads/nyt-gimbal-video-of-u-s-navy-jet-encounter-with-unknown-object.9333/)  
+   Link: <a href="https://www.metabunk.org/threads/nyt-gimbal-video-of-u-s-navy-jet-encounter-with-unknown-object.9333/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/nyt-gimbal-video-of-u-s-navy-jet-encounter-with-unknown-object.9333/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Navy Jet Encounter with...16 Dec 2017 — Don&#x27;t forget that in 2012 Chile&#x27;s UFO program, and Leslie Kean, promoted a video showing a fly b...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: skepticalinquirer.org  
    Title: curated crowdsourcing in ufo investigations  
-   Link: [https://skepticalinquirer.org/newsletter/curated-crowdsourcing-in-ufo-investigations/](https://skepticalinquirer.org/newsletter/curated-crowdsourcing-in-ufo-investigations/)  
+   Link: <a href="https://skepticalinquirer.org/newsletter/curated-crowdsourcing-in-ufo-investigations/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/newsletter/curated-crowdsourcing-in-ufo-investigations/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical InquirerCurated Crowdsourcing in UFO Investigations25 May 2017 — At 1:52pm on November 11, 2014, a Chilean Navy helicopter was...</p></details>
    Published: November 11, 2014  
 
 7. <a id="endnote-7"></a>
    Source: arstechnica.com  
    Title: after two years of study chilean officials cant explain ufo sighting  
-   Link: [https://arstechnica.com/science/2017/01/after-two-years-of-study-chilean-officials-cant-explain-ufo-sighting/](https://arstechnica.com/science/2017/01/after-two-years-of-study-chilean-officials-cant-explain-ufo-sighting/)  
+   Link: <a href="https://arstechnica.com/science/2017/01/after-two-years-of-study-chilean-officials-cant-explain-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://arstechnica.com/science/2017/01/after-two-years-of-study-chilean-officials-cant-explain-ufo-sighting/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ars Files casts a skeptical eye on developments in the UFO community. Is the truth out...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: universetoday.com  
-   Link: [https://www.universetoday.com/articles/chilean-government-releases-declassified-ufo-video](https://www.universetoday.com/articles/chilean-government-releases-declassified-ufo-video)  
+   Link: <a href="https://www.universetoday.com/articles/chilean-government-releases-declassified-ufo-video" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/chilean-government-releases-declassified-ufo-video</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Universe TodayChilean Government Releases Declassified UFO Video14 Jan 2017 — After examining the flights GPS data and conducting a 3D an...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: theguardian.com  
    Title: The Guardian I study UFOs – and I don't believe the alien hype  
-   Link: [https://www.theguardian.com/commentisfree/2021/jun/11/i-study-ufos-and-i-dont-believe-the-alien-hype-heres-why](https://www.theguardian.com/commentisfree/2021/jun/11/i-study-ufos-and-i-dont-believe-the-alien-hype-heres-why)  
+   Link: <a href="https://www.theguardian.com/commentisfree/2021/jun/11/i-study-ufos-and-i-dont-believe-the-alien-hype-heres-why" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/commentisfree/2021/jun/11/i-study-ufos-and-i-dont-believe-the-alien-hype-heres-why</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s why11 June 2021 — UFO enthusiasts claim that there&#x27;s amazing evidence of UAPs, representing something incredible, and that a speci...</p></details>
    Published: June 2021  
 
@@ -793,56 +779,56 @@ The enduring lesson is not simply that the object was or was not a particular ai
 
 10. <a id="endnote-10"></a>
    Source: player.one  
-   Link: [https://www.player.one/ufo-sightings-2017-chilean-navy-releases-video-mysterious-craft-spraying-something-577075](https://www.player.one/ufo-sightings-2017-chilean-navy-releases-video-mysterious-craft-spraying-something-577075)  
+   Link: <a href="https://www.player.one/ufo-sightings-2017-chilean-navy-releases-video-mysterious-craft-spraying-something-577075" target="_blank" rel="noopener noreferrer nofollow">https://www.player.one/ufo-sightings-2017-chilean-navy-releases-video-mysterious-craft-spraying-something-577075</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings 2017: Chilean Navy Releases Video Of...Jan 5, 2017 — The remarkable footage was captured by two naval officers on a helico...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/10awpbo/documents_and_video_released_on_the_november_11/](https://www.reddit.com/r/UFOs/comments/10awpbo/documents_and_video_released_on_the_november_11/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/10awpbo/documents_and_video_released_on_the_november_11/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/10awpbo/documents_and_video_released_on_the_november_11/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>November 11, 2014, Chilean Navy Helicopter UFO Encounter... Iberia Airlines flight IB6830 https...Read more...</p></details>
    Published: November 11, 2014  
 
 12. <a id="endnote-12"></a>
    Source: sofrep.com  
    Title: chilean government releases footage ufo captured navy helicopter  
-   Link: [https://sofrep.com/news/chilean-government-releases-footage-ufo-captured-navy-helicopter/](https://sofrep.com/news/chilean-government-releases-footage-ufo-captured-navy-helicopter/)  
+   Link: <a href="https://sofrep.com/news/chilean-government-releases-footage-ufo-captured-navy-helicopter/" target="_blank" rel="noopener noreferrer nofollow">https://sofrep.com/news/chilean-government-releases-footage-ufo-captured-navy-helicopter/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Chilean Government releases footage of UFO captured by...10 Jan 2017 — Chilean Government releases footage of UFO captured by Navy Helico...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: newsweek.com  
    Title: chilean navy id mysterious aircraft caught video 539786  
-   Link: [https://www.newsweek.com/chilean-navy-id-mysterious-aircraft-caught-video-539786](https://www.newsweek.com/chilean-navy-id-mysterious-aircraft-caught-video-539786)  
+   Link: <a href="https://www.newsweek.com/chilean-navy-id-mysterious-aircraft-caught-video-539786" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/chilean-navy-id-mysterious-aircraft-caught-video-539786</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Chilean Navy Can&#x27;t Identify Mysterious Aircraft Caught on...Jan 6, 2017 — So far the only mundane explanation offered came from the Fren...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: badufos.blogspot.com  
    Title: Leslie Kean's new Infrared UFO Video from Chile  
-   Link: [https://badufos.blogspot.com/2017/01/leslie-keans-new-infrared-ufo-video.html](https://badufos.blogspot.com/2017/01/leslie-keans-new-infrared-ufo-video.html)  
+   Link: <a href="https://badufos.blogspot.com/2017/01/leslie-keans-new-infrared-ufo-video.html" target="_blank" rel="noopener noreferrer nofollow">https://badufos.blogspot.com/2017/01/leslie-keans-new-infrared-ufo-video.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Solved?8 Jan 2017 — An exceptional nine-minute Navy video of a UFO displaying highly unusual behavior, studied by Chilean authorities for...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: newyorker.com  
    Title: how the pentagon started taking ufos seriously  
-   Link: [https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously](https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously)  
+   Link: <a href="https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The New YorkerHow the Pentagon Started Taking U.F.O.s Seriously30 Apr 2021 — In the article, “Groundbreaking UFO Video Just Released by C...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/15s63nd/video_confirmed_by_chilean_navy_of_ufo_ejecting/](https://www.reddit.com/r/UFOs/comments/15s63nd/video_confirmed_by_chilean_navy_of_ufo_ejecting/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/15s63nd/video_confirmed_by_chilean_navy_of_ufo_ejecting/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/15s63nd/video_confirmed_by_chilean_navy_of_ufo_ejecting/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>think i remember he debunked it, but i seem i cannot find it.Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ancientwhispers/posts/armed-forces-of-chile-released-footage-showing-an-unidentified-object-recorded-b/894229860263103/](https://www.facebook.com/ancientwhispers/posts/armed-forces-of-chile-released-footage-showing-an-unidentified-object-recorded-b/894229860263103/)  
+   Link: <a href="https://www.facebook.com/ancientwhispers/posts/armed-forces-of-chile-released-footage-showing-an-unidentified-object-recorded-b/894229860263103/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientwhispers/posts/armed-forces-of-chile-released-footage-showing-an-unidentified-object-recorded-b/894229860263103/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>oving steadily across the sky without immediately clear...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/bad-ufos-critical-thinking-about-ufo-claims-1519260849-9781519260840.html](https://dokumen.pub/bad-ufos-critical-thinking-about-ufo-claims-1519260849-9781519260840.html)  
+   Link: <a href="https://dokumen.pub/bad-ufos-critical-thinking-about-ufo-claims-1519260849-9781519260840.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/bad-ufos-critical-thinking-about-ufo-claims-1519260849-9781519260840.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>tos, including the use of Google Earth to show precisely where the...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
    Title: what about the chilean ufo video should be  
-   Link: [https://www.reddit.com/r/ufo/comments/i29tqn/what_about_the_chilean_ufo_video_should_be/](https://www.reddit.com/r/ufo/comments/i29tqn/what_about_the_chilean_ufo_video_should_be/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/i29tqn/what_about_the_chilean_ufo_video_should_be/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/i29tqn/what_about_the_chilean_ufo_video_should_be/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What about the Chilean UFO video? Should be considered at...Never-before-seen video from 2014 showing a mysterious flying object of whic...</p></details>

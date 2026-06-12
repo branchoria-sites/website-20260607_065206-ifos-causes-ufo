@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ifos-causes-of-ufo-3ed238-radar/
 description: Focused pages that expand on Radar.
-date: '2026-06-07'
+date: '2026-06-12'
 layout: default
 parent_basename: ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357
-parent_title: Radar | Ifos Causes Of
+parent_title: Radar
 parent_nav_short_title: Radar
 parent_permalink: /radar/
 ---

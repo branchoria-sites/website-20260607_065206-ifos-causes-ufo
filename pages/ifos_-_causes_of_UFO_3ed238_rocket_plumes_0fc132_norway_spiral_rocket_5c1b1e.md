@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_trident_missile_ufo_16b7db
 - ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_twilight_rocket_plum_ddbb62
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - rocket-plumes
 - norway-spiral
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - rocket-plumes
 - norway-spiral
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: The Norway spiral remains a powerful example of how a failed or spinning rocket stage can create a regular, unnatural-looking sky pattern.
 hero_summary: The Norway spiral remains a powerful example of how a failed or spinning rocket stage can create a regular, unnatural-looking sky pattern.
 layout: default
 permalink: /norway-spiral/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /rocket-plumes/
 nav_short_title: Norway Spiral
 title: How a Failed Rocket Made a Sky Spiral
-title_full: How a Failed Rocket Made a Sky Spiral | Rocket Plumes
+title_full: How a Failed Rocket Made a Sky Spiral
 display_title_short: Norway Spiral
 display_title: Norway Spiral
 heading_title: How a Failed Rocket Made a Sky Spiral
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 05:12:41'
-parent_title: The Strange Clouds Rockets Leave Behind | IFOs
+parent_title: The Strange Clouds Rockets Leave Behind
 parent_permalink: /rocket-plumes/
 parent_nav_short_title: Rocket Plumes
 parent_heading_title: The Strange Clouds Rockets Leave Behind
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132
-  title: Rocket Plumes | Ifos Causes Of
+  title: Rocket Plumes | ifos causes of UFO 3 ed 238
   permalink: /rocket-plumes/
   short_title: Rocket Plumes
   heading_title: The Strange Clouds Rockets Leave Behind
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132
-  title: Rocket Plumes | Ifos Causes Of
+  title: Rocket Plumes | ifos causes of UFO 3 ed 238
   permalink: /rocket-plumes/
   short_title: Rocket Plumes
   heading_title: The Strange Clouds Rockets Leave Behind
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: Why Twilight Rocket Plumes Look So Strange
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132
-  title: Rocket Plumes | Ifos Causes Of
+  title: Rocket Plumes | ifos causes of UFO 3 ed 238
   permalink: /rocket-plumes/
   short_title: Rocket Plumes
   heading_title: The Strange Clouds Rockets Leave Behind
@@ -266,6 +265,7 @@ next_link:
   permalink: /so-cal-launches/
   short_title: So Cal Launches
   heading_title: Why Southern California Keeps Seeing Rocket UFOs
+date: '2026-06-12 00:23:53 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_norway_spiral_rocket_5c1b1e-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_norway_spiral_rocket_5c1b1e-Illustration-1.webp
@@ -276,14 +276,12 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_norway_sp
 
 The Norway spiral of 9 December 2009 is one of the most important case studies in the history of UFO reports because it produced a shape that appeared almost impossibly artificial: a bright blue beam terminating in a near-perfect spiral that expanded across the sky. To many observers, the geometry looked more like a designed symbol, portal, or unknown technology than a natural phenomenon. Yet the event is now widely regarded as a textbook example of how a malfunctioning rocket stage can create extraordinary sky displays that are easily mistaken for something exotic. The case also illustrates a broader lesson: some rocket-related UFO reports are caused not by the main launch plume itself, but by fuel venting, stage failures, or spinning upper stages operating high in the [atmosphere]({{ 'atmosphere/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2009_Norwegian_spiral_anomaly" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2009 Norwegian spiral anomaly</span><span class="citation-popover-snippet">2009 Norwegian spiral anomaly</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_norway_spiral_rocket_5c1b1e-Illustration-1-dark.svg" | relative_url }}" alt="Norway Spiral illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_norway_spiral_rocket_5c1b1e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_norway_spiral_rocket_5c1b1e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Made the 2009 Spiral Look Artificial?
 
 Shortly before dawn on 9 December 2009, observers across northern Norway and parts of Sweden reported a luminous blue light that appeared to stop in the sky and then unwind into a vast spiral. The phenomenon lasted roughly ten minutes and was visible across an unusually large region. Photographs and video footage rapidly spread worldwide, fuelling speculation that ranged from secret weapons to extraterrestrial activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fr.wikipedia.org/wiki/Anomalie_spiralaire_norv%C3%A9gienne_de_2009" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Anomalie spiralaire norvégienne de 2009</span><span class="citation-popover-snippet">Anomalie spiralaire norvégienne de 2009</span></span></span>
 
 Several features made the display especially convincing as a UFO claim:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -297,7 +295,6 @@ Several features made the display especially convincing as a UFO claim:
 
 Human observers often associate regular geometric patterns with intelligent design. In UFO cases, this can create a perception that a phenomenon is “too perfect” to be natural. The Norway spiral demonstrates that aerospace failures can sometimes produce precisely the kind of ordered visual structure that witnesses interpret as evidence of an advanced craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.csmonitor.com/World/Global-News/2009/1210/norway-spiral-a-rocket-scientist-explains-the-mystery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csmonitor.com">[The Christian Science Monitor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csmonitor.com</span><span class="citation-popover-snippet">The Christian Science MonitorNorway spiral: A rocket scientist explains the mysteryDec 10, 2009 — The Russians said problems emerged when...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/J5_8MVctp30" title="Spiral Phenomenon Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=J5_8MVctp30" target="_blank" rel="noopener noreferrer">Spiral Phenomenon Explained</a></p><p class="youtube-embed-meta">Channel: CBS &middot; Views: 443.7K &middot; Uploaded: December 2009 &middot; Length: 1 minute 59 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=J5_8MVctp30" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=J5_8MVctp30">Open on YouTube</a></p></div></div></div>
 
 ## How a Failed Rocket Produced the Spiral
@@ -307,7 +304,6 @@ Within about a day of the sighting, the Russian Ministry of Defence acknowledged
 At the altitude where the malfunction occurred, the atmosphere was extremely thin. Exhaust gases could expand over a vast volume rather than remaining confined to a narrow trail. The result was a giant luminous pattern many kilometres across, illuminated by sunlight even though the ground below was still in darkness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/mysterious-spiral-light-in-sky-over-norway/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">mysterious spiral light in sky over norway</span><span class="citation-popover-snippet">CBS NewsMysterious Spiral Light in Sky over NorwayDec 10, 2009 — Space experts point to the spiraling of this missile as it malfunctioned...</span></span></span>
 
 The visual effect was therefore not a solid object drawing a spiral. It was a cloud of illuminated exhaust continuously released from a rotating vehicle and viewed from a great distance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Norway" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">NorwayNorway has a population of approximately 5.6 million, and a total area of 385,207 square kilometres (148,729 sq mi).... Its cap...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eoTnLTViHJM" title="Norway spiral December 2009" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eoTnLTViHJM" target="_blank" rel="noopener noreferrer">Norway spiral December 2009</a></p><p class="youtube-embed-meta">Channel: Kane Alson &middot; Views: 42.8K &middot; Uploaded: August 2018 &middot; Length: 4 minutes 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eoTnLTViHJM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eoTnLTViHJM">Open on YouTube</a></p></div></div></div>
 
@@ -319,7 +315,6 @@ When an upper stage spins and simultaneously releases gas or propellant, the esc
 
 Several factors increase the visibility of the pattern:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **High altitude:** Thin air allows exhaust and vented propellant to spread dramatically.
@@ -329,10 +324,9 @@ Several factors increase the visibility of the pattern:
 
 </div>
 
-Modern rocket operations occasionally produce similar spirals without any malfunction. Upper stages sometimes vent excess fuel after completing their mission. If the stage is rotating during the venting process, a luminous spiral can form. Several highly publicised spirals observed over Europe and the Pacific during the 2020s were attributed to this routine fuel-release process rather than to a vehicle failure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/groups/739414426451169/posts/2446554799070448/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">falls back towards the atmosphere, creating the spiral...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/mildyinteresting/comments/18p44fh/weird_spiral_in_the_sky_can_anyone_tell_what_it_is/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditWeird Spiral in the sky can anyone tell what it is?&quot;Experts say a mysterious spiral shape can appear in the night sky when a rocket...</span></span></span>
+Modern rocket operations occasionally produce similar spirals without any malfunction. Upper stages sometimes vent excess fuel after completing their mission. If the stage is rotating during the venting process, a luminous spiral can form. Several highly publicised spirals observed over Europe and the Pacific during the 2020s were attributed to this routine fuel-release process rather than to a vehicle failure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/groups/739414426451169/posts/2446554799070448/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">falls back towards the atmosphere, creating the spiral...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/mildyinteresting/comments/18p44fh/weird_spiral_in_the_sky_can_anyone_tell_what_it_is/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Weird Spiral in the sky can anyone tell what it is?&quot;Experts say a mysterious spiral shape can appear in the night sky when a rocket...</span></span></span>
 
 This is an important distinction for UFO investigations. A spiral does not necessarily indicate a malfunction, but it strongly suggests that gas or propellant is being released from a rotating spacecraft or rocket stage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/science/comments/acp3d/strange_spiral_phenomenon_appearing_on_the_sky_in/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">the visible wavelengths of light incident upon it, unless it is the result...Read more...</span></span></span>
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_norway_spiral_rocket_5c1b1e-Illustration-2-dark.svg" | relative_url }}" alt="Norway Spiral illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_norway_spiral_rocket_5c1b1e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_norway_spiral_rocket_5c1b1e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Spirals Can Appear Far From the Launch Site
@@ -345,7 +339,6 @@ A second factor is plume size. Once exhaust expands in near-space conditions, th
 
 This explains a recurring feature of rocket-related UFO reports:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Witnesses may be hundreds of kilometres from the launch.
@@ -357,7 +350,6 @@ This explains a recurring feature of rocket-related UFO reports:
 </div>
 
 Those characteristics can make a rocket event seem less like aerospace activity and more like an unknown atmospheric or extraterrestrial phenomenon.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2mUXBqJbQKg" title="Spiral Phenomenon Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2mUXBqJbQKg" target="_blank" rel="noopener noreferrer">Spiral Phenomenon Explained</a></p><p class="youtube-embed-meta">Channel: CBS News &middot; Views: 190.4K &middot; Uploaded: December 2009 &middot; Length: 1 minute 59 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2mUXBqJbQKg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2mUXBqJbQKg">Open on YouTube</a></p></div></div></div>
 
@@ -375,7 +367,6 @@ For investigators of UFO reports, the case highlights several practical lessons:
 * Launch records and missile-test schedules are often more informative than eyewitness impressions of shape alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.csmonitor.com/World/Global-News/2009/1210/norway-spiral-a-rocket-scientist-explains-the-mystery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csmonitor.com">[The Christian Science Monitor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csmonitor.com</span><span class="citation-popover-snippet">The Christian Science MonitorNorway spiral: A rocket scientist explains the mysteryDec 10, 2009 — The Russians said problems emerged when...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Norway" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">NorwayNorway has a population of approximately 5.6 million, and a total area of 385,207 square kilometres (148,729 sq mi).... Its cap...</span></span></span>
 
 Within the broader category of launch plumes and rocket-related sightings, the Norway spiral stands as perhaps the clearest demonstration that an extraordinary-looking UFO can emerge from a very specific and ultimately identifiable rocket event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.amusingplanet.com/2016/02/the-norway-spiral.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amusingplanet.com">[Amusing Planet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amusingplanet.com</span><span class="citation-popover-title">the norway spiral</span><span class="citation-popover-snippet">25 Feb 2016 — The spiraling blue light was caused by a failed test firing of a Russian Bulava missile. The Russian Ministry of Defence is...</span></span></span>
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_norway_spiral_rocket_5c1b1e-Illustration-3-dark.svg" | relative_url }}" alt="Norway Spiral illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_norway_spiral_rocket_5c1b1e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_norway_spiral_rocket_5c1b1e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -496,15 +487,15 @@ Within the broader category of launch plumes and rocket-related sightings, the N
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norway-spiral-how-a-failed-rocket-made-a-sky-spiral-ifos-causes-of-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="norway-spiral-how-a-failed-rocket-made-a-sky-spiral-ifos-causes-of-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Shuttle Launch Poster Gift for Space Enthusiast | Wall Art | Rocket Poster"><img src="{{ '/assets/images/marketplace-covers/fd95cce11194b812cd0c.jpg' | relative_url }}" alt="Listing image for Space Shuttle Launch Poster Gift for Space Enthusiast | Wall Art | Rocket Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-failed-rocket-made-a-sky-spiral-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="how-a-failed-rocket-made-a-sky-spiral-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rocket Launch Drawing Framed Art Pr Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/A~UAAeSwrkRp1~bM/s-l225.jpg" alt="Listing image for Rocket Launch Drawing Framed Art Pr Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norway-spiral-how-a-failed-rocket-made-a-sky-spiral-ifos-causes-of-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="norway-spiral-how-a-failed-rocket-made-a-sky-spiral-ifos-causes-of-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer">Space Shuttle Launch Poster Gift for Space Enthusiast | Wall Art | Rocket Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-failed-rocket-made-a-sky-spiral-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="how-a-failed-rocket-made-a-sky-spiral-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer">Rocket Launch Drawing Framed Art Pr Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norway-spiral-how-a-failed-rocket-made-a-sky-spiral-ifos-causes-of-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="norway-spiral-how-a-failed-rocket-made-a-sky-spiral-ifos-causes-of-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rocket launch poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: rocket launch poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-failed-rocket-made-a-sky-spiral-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="how-a-failed-rocket-made-a-sky-spiral-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rocket launch poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: rocket launch poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norway-spiral-how-a-failed-rocket-made-a-sky-spiral-ifos-causes-of-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="norway-spiral-how-a-failed-rocket-made-a-sky-spiral-ifos-causes-of-rocket-launch-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-failed-rocket-made-a-sky-spiral-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="how-a-failed-rocket-made-a-sky-spiral-rocket-launch-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -512,15 +503,15 @@ Within the broader category of launch plumes and rocket-related sightings, the N
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norway-spiral-how-a-failed-rocket-made-a-sky-spiral-ifos-causes-of-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="norway-spiral-how-a-failed-rocket-made-a-sky-spiral-ifos-causes-of-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rocket Launch Drawing Framed Art Pr Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a0d59c8d8a2931d74a6f.jpg' | relative_url }}" alt="Listing image for Rocket Launch Drawing Framed Art Pr Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-failed-rocket-made-a-sky-spiral-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="how-a-failed-rocket-made-a-sky-spiral-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA Kepler Telescope Delta Rocket Launch Huge Wall Art Poster Print"><img src="https://i.ebayimg.com/images/g/NkQAAOSwhPdnR2am/s-l225.jpg" alt="Listing image for NASA Kepler Telescope Delta Rocket Launch Huge Wall Art Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norway-spiral-how-a-failed-rocket-made-a-sky-spiral-ifos-causes-of-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="norway-spiral-how-a-failed-rocket-made-a-sky-spiral-ifos-causes-of-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer">Rocket Launch Drawing Framed Art Pr Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-failed-rocket-made-a-sky-spiral-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="how-a-failed-rocket-made-a-sky-spiral-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer">NASA Kepler Telescope Delta Rocket Launch Huge Wall Art Poster Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norway-spiral-how-a-failed-rocket-made-a-sky-spiral-ifos-causes-of-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="norway-spiral-how-a-failed-rocket-made-a-sky-spiral-ifos-causes-of-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rocket launch poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: rocket launch poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-failed-rocket-made-a-sky-spiral-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="how-a-failed-rocket-made-a-sky-spiral-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rocket launch poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: rocket launch poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norway-spiral-how-a-failed-rocket-made-a-sky-spiral-ifos-causes-of-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="norway-spiral-how-a-failed-rocket-made-a-sky-spiral-ifos-causes-of-rocket-launch-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-failed-rocket-made-a-sky-spiral-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="how-a-failed-rocket-made-a-sky-spiral-rocket-launch-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -528,15 +519,15 @@ Within the broader category of launch plumes and rocket-related sightings, the N
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norway-spiral-how-a-failed-rocket-made-a-sky-spiral-ifos-causes-of-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="norway-spiral-how-a-failed-rocket-made-a-sky-spiral-ifos-causes-of-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space NASA Apollo 11 Rocket Launch Lift Off Photo Canvas Wall Art Print Poster"><img src="{{ '/assets/images/marketplace-covers/4a818993d7f5d223dd20.jpg' | relative_url }}" alt="Listing image for Space NASA Apollo 11 Rocket Launch Lift Off Photo Canvas Wall Art Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-failed-rocket-made-a-sky-spiral-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="how-a-failed-rocket-made-a-sky-spiral-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Propaganda Soviet Space Rocket Launch Ussr Communism Poster Art Print Bb2716A"><img src="https://i.ebayimg.com/images/g/cYIAAOSwIFtaIGAR/s-l225.jpg" alt="Listing image for Propaganda Soviet Space Rocket Launch Ussr Communism Poster Art Print Bb2716A" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norway-spiral-how-a-failed-rocket-made-a-sky-spiral-ifos-causes-of-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="norway-spiral-how-a-failed-rocket-made-a-sky-spiral-ifos-causes-of-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer">Space NASA Apollo 11 Rocket Launch Lift Off Photo Canvas Wall Art Print Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-failed-rocket-made-a-sky-spiral-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="how-a-failed-rocket-made-a-sky-spiral-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer">Propaganda Soviet Space Rocket Launch Ussr Communism Poster Art Print Bb2716A</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norway-spiral-how-a-failed-rocket-made-a-sky-spiral-ifos-causes-of-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="norway-spiral-how-a-failed-rocket-made-a-sky-spiral-ifos-causes-of-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rocket launch poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: rocket launch poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-failed-rocket-made-a-sky-spiral-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="how-a-failed-rocket-made-a-sky-spiral-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rocket launch poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: rocket launch poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norway-spiral-how-a-failed-rocket-made-a-sky-spiral-ifos-causes-of-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="norway-spiral-how-a-failed-rocket-made-a-sky-spiral-ifos-causes-of-rocket-launch-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-failed-rocket-made-a-sky-spiral-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="how-a-failed-rocket-made-a-sky-spiral-rocket-launch-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -544,15 +535,15 @@ Within the broader category of launch plumes and rocket-related sightings, the N
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norway-spiral-how-a-failed-rocket-made-a-sky-spiral-ifos-causes-of-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="norway-spiral-how-a-failed-rocket-made-a-sky-spiral-ifos-causes-of-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space NASA Lift Off Apollo 11 Rocket Launch Canvas Wall Art Print Poster"><img src="{{ '/assets/images/marketplace-covers/2acc402044c7984e7768.jpg' | relative_url }}" alt="Listing image for Space NASA Lift Off Apollo 11 Rocket Launch Canvas Wall Art Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-failed-rocket-made-a-sky-spiral-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="how-a-failed-rocket-made-a-sky-spiral-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space NASA Shuttle Discovery Rocket Launch Photo Huge Wall Art Poster Print"><img src="https://i.ebayimg.com/images/g/rkEAAOSwWi9nR2fB/s-l225.jpg" alt="Listing image for Space NASA Shuttle Discovery Rocket Launch Photo Huge Wall Art Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norway-spiral-how-a-failed-rocket-made-a-sky-spiral-ifos-causes-of-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="norway-spiral-how-a-failed-rocket-made-a-sky-spiral-ifos-causes-of-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer">Space NASA Lift Off Apollo 11 Rocket Launch Canvas Wall Art Print Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-failed-rocket-made-a-sky-spiral-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="how-a-failed-rocket-made-a-sky-spiral-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer">Space NASA Shuttle Discovery Rocket Launch Photo Huge Wall Art Poster Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norway-spiral-how-a-failed-rocket-made-a-sky-spiral-ifos-causes-of-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="norway-spiral-how-a-failed-rocket-made-a-sky-spiral-ifos-causes-of-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rocket launch poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: rocket launch poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-failed-rocket-made-a-sky-spiral-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="how-a-failed-rocket-made-a-sky-spiral-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rocket launch poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: rocket launch poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norway-spiral-how-a-failed-rocket-made-a-sky-spiral-ifos-causes-of-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="norway-spiral-how-a-failed-rocket-made-a-sky-spiral-ifos-causes-of-rocket-launch-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-failed-rocket-made-a-sky-spiral-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="how-a-failed-rocket-made-a-sky-spiral-rocket-launch-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -560,7 +551,7 @@ Within the broader category of launch plumes and rocket-related sightings, the N
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norway-spiral-how-a-failed-rocket-made-a-sky-spiral-ifos-causes-of-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="norway-spiral-how-a-failed-rocket-made-a-sky-spiral-ifos-causes-of-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-failed-rocket-made-a-sky-spiral-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="how-a-failed-rocket-made-a-sky-spiral-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -776,188 +767,188 @@ Within the broader category of launch plumes and rocket-related sightings, the N
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: 2009 Norwegian spiral anomaly  
-   Link: [https://en.wikipedia.org/wiki/2009_Norwegian_spiral_anomaly](https://en.wikipedia.org/wiki/2009_Norwegian_spiral_anomaly)  
+   Link: <a href="https://en.wikipedia.org/wiki/2009_Norwegian_spiral_anomaly" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2009_Norwegian_spiral_anomaly</a>  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Anomalie spiralaire norvégienne de 2009  
-   Link: [https://fr.wikipedia.org/wiki/Anomalie_spiralaire_norv%C3%A9gienne_de_2009](https://fr.wikipedia.org/wiki/Anomalie_spiralaire_norv%C3%A9gienne_de_2009)  
+   Link: <a href="https://fr.wikipedia.org/wiki/Anomalie_spiralaire_norv%C3%A9gienne_de_2009" target="_blank" rel="noopener noreferrer nofollow">https://fr.wikipedia.org/wiki/Anomalie_spiralaire_norv%C3%A9gienne_de_2009</a>  
 
 3. <a id="endnote-3"></a>
    Source: space.com  
    Title: 7656 bizarre sky spiral caused failed missile  
-   Link: [https://www.space.com/7656-bizarre-sky-spiral-caused-failed-missile.html](https://www.space.com/7656-bizarre-sky-spiral-caused-failed-missile.html)  
+   Link: <a href="https://www.space.com/7656-bizarre-sky-spiral-caused-failed-missile.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/7656-bizarre-sky-spiral-caused-failed-missile.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bizarre Sky Spiral Caused by Failed Missile10 Dec 2009 — A spectacular spiral light show in the sky above Norway Wednesday was caused by...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: RSM-56 Bulava  
-   Link: [https://en.wikipedia.org/wiki/RSM-56_Bulava](https://en.wikipedia.org/wiki/RSM-56_Bulava)  
+   Link: <a href="https://en.wikipedia.org/wiki/RSM-56_Bulava" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RSM-56_Bulava</a>  
 
 5. <a id="endnote-5"></a>
    Source: facebook.com  
    Title: Mystery glowing spiral in Monday night's sky explained  
-   Link: [https://www.facebook.com/itvtynetees/posts/mystery-glowing-spiral-in-monday-nights-sky-explained/1046285880858982/](https://www.facebook.com/itvtynetees/posts/mystery-glowing-spiral-in-monday-nights-sky-explained/1046285880858982/)  
+   Link: <a href="https://www.facebook.com/itvtynetees/posts/mystery-glowing-spiral-in-monday-nights-sky-explained/1046285880858982/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/itvtynetees/posts/mystery-glowing-spiral-in-monday-nights-sky-explained/1046285880858982/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>They claim that as the rocket spins, it releases fuel into the upper atmosphere, creating a vortex-like effect that forms a glowing spira...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/739414426451169/posts/2446554799070448/](https://www.facebook.com/groups/739414426451169/posts/2446554799070448/)  
+   Link: <a href="https://www.facebook.com/groups/739414426451169/posts/2446554799070448/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/739414426451169/posts/2446554799070448/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>falls back towards the atmosphere, creating the spiral...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: facebook.com  
    Title: Space X spiral was visible all over Europe  
-   Link: [https://www.facebook.com/marssocietyscandinavia/posts/spacex-spiral-was-visible-all-over-europe-feel-free-to-report-in-the-commentsthe/1100319858806567/](https://www.facebook.com/marssocietyscandinavia/posts/spacex-spiral-was-visible-all-over-europe-feel-free-to-report-in-the-commentsthe/1100319858806567/)  
+   Link: <a href="https://www.facebook.com/marssocietyscandinavia/posts/spacex-spiral-was-visible-all-over-europe-feel-free-to-report-in-the-commentsthe/1100319858806567/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/marssocietyscandinavia/posts/spacex-spiral-was-visible-all-over-europe-feel-free-to-report-in-the-commentsthe/1100319858806567/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>🤩 Feel free to...As the fuel disperses in the upper atmosphere, it creates a glowing spiral pattern that can be seen from great distance...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/mildyinteresting/comments/18p44fh/weird_spiral_in_the_sky_can_anyone_tell_what_it_is/](https://www.reddit.com/r/mildyinteresting/comments/18p44fh/weird_spiral_in_the_sky_can_anyone_tell_what_it_is/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditWeird Spiral in the sky can anyone tell what it is?&quot;Experts say a mysterious spiral shape can appear in the night sky when a rocket...</p></details>
+   Link: <a href="https://www.reddit.com/r/mildyinteresting/comments/18p44fh/weird_spiral_in_the_sky_can_anyone_tell_what_it_is/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/mildyinteresting/comments/18p44fh/weird_spiral_in_the_sky_can_anyone_tell_what_it_is/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Weird Spiral in the sky can anyone tell what it is?&quot;Experts say a mysterious spiral shape can appear in the night sky when a rocket...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/bbcworldservice/posts/this-large-glowing-spiral-visible-in-the-night-sky-in-the-uk-is-believed-to-have/1058004229687142/](https://www.facebook.com/bbcworldservice/posts/this-large-glowing-spiral-visible-in-the-night-sky-in-the-uk-is-believed-to-have/1058004229687142/)  
+   Link: <a href="https://www.facebook.com/bbcworldservice/posts/this-large-glowing-spiral-visible-in-the-night-sky-in-the-uk-is-believed-to-have/1058004229687142/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bbcworldservice/posts/this-large-glowing-spiral-visible-in-the-night-sky-in-the-uk-is-believed-to-have/1058004229687142/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>When the rocket&#x27;s upper stage separates, it vents leftover...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Norway](https://en.wikipedia.org/wiki/Norway)  
+   Link: <a href="https://en.wikipedia.org/wiki/Norway" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Norway</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NorwayNorway has a population of approximately 5.6 million, and a total area of 385,207 square kilometres (148,729 sq mi).... Its cap...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/635104432144882/posts/970817418573580/](https://www.facebook.com/groups/635104432144882/posts/970817418573580/)  
+   Link: <a href="https://www.facebook.com/groups/635104432144882/posts/970817418573580/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/635104432144882/posts/970817418573580/</a>  
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
    Title: in 2009 a weird spiral appeared in the night sky of norway people all around th  
-   Link: [https://www.facebook.com/earthlymission/posts/-in-2009-a-weird-spiral-appeared-in-the-night-sky-of-norway-people-all-around-th/801603705346863/](https://www.facebook.com/earthlymission/posts/-in-2009-a-weird-spiral-appeared-in-the-night-sky-of-norway-people-all-around-th/801603705346863/)  
+   Link: <a href="https://www.facebook.com/earthlymission/posts/-in-2009-a-weird-spiral-appeared-in-the-night-sky-of-norway-people-all-around-th/801603705346863/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/earthlymission/posts/-in-2009-a-weird-spiral-appeared-in-the-night-sky-of-norway-people-all-around-th/801603705346863/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>🌀 In 2009, a weird spiral appeared in the night sky...The missile allegedly malfunctioned, causing its third stage to spin out of contro...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/SpaceEveOfficial/posts/stargazers-across-the-uk-ireland-and-parts-of-europe-spotted-a-bright-spiral-in-/1270334148406847/](https://www.facebook.com/SpaceEveOfficial/posts/stargazers-across-the-uk-ireland-and-parts-of-europe-spotted-a-bright-spiral-in-/1270334148406847/)  
+   Link: <a href="https://www.facebook.com/SpaceEveOfficial/posts/stargazers-across-the-uk-ireland-and-parts-of-europe-spotted-a-bright-spiral-in-/1270334148406847/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SpaceEveOfficial/posts/stargazers-across-the-uk-ireland-and-parts-of-europe-spotted-a-bright-spiral-in-/1270334148406847/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>el, typically released at high altitudes, freezes into ice...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/raymorcvs/posts/what-cause-this-blue-spiral-that-was-seen-over-several-european-countries-letmee/670257138716472/](https://www.facebook.com/raymorcvs/posts/what-cause-this-blue-spiral-that-was-seen-over-several-european-countries-letmee/670257138716472/)  
+   Link: <a href="https://www.facebook.com/raymorcvs/posts/what-cause-this-blue-spiral-that-was-seen-over-several-european-countries-letmee/670257138716472/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/raymorcvs/posts/what-cause-this-blue-spiral-that-was-seen-over-several-european-countries-letmee/670257138716472/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;The rocket&#x27;s frozen exhaust...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/science/comments/acp3d/strange_spiral_phenomenon_appearing_on_the_sky_in/](https://www.reddit.com/r/science/comments/acp3d/strange_spiral_phenomenon_appearing_on_the_sky_in/)  
+   Link: <a href="https://www.reddit.com/r/science/comments/acp3d/strange_spiral_phenomenon_appearing_on_the_sky_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/science/comments/acp3d/strange_spiral_phenomenon_appearing_on_the_sky_in/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the visible wavelengths of light incident upon it, unless it is the result...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/10mn8wg/the_norwegian_spirala_anomaly_witnessed_by/](https://www.reddit.com/r/HighStrangeness/comments/10mn8wg/the_norwegian_spirala_anomaly_witnessed_by/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/10mn8wg/the_norwegian_spirala_anomaly_witnessed_by/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/10mn8wg/the_norwegian_spirala_anomaly_witnessed_by/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>before creating the big white spiral. Rockets don&#x27;t float in place...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
    Title: Likely from a hole or puncture near the exhaust.Read more  
-   Link: [https://www.reddit.com/r/interestingasfuck/comments/ilbnen/this_happened_years_ago_a_spiral_in_the_sky_of/](https://www.reddit.com/r/interestingasfuck/comments/ilbnen/this_happened_years_ago_a_spiral_in_the_sky_of/)  
+   Link: <a href="https://www.reddit.com/r/interestingasfuck/comments/ilbnen/this_happened_years_ago_a_spiral_in_the_sky_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/interestingasfuck/comments/ilbnen/this_happened_years_ago_a_spiral_in_the_sky_of/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This happened years ago, a spiral in the sky of Norway...The spiral was created after a russian bulava missile launch experienced a fail...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: Rocket exhaust spirals: Why they look like UFOs  
-   Link: [https://www.youtube.com/watch?v=0hO1l5g3v2A](https://www.youtube.com/watch?v=0hO1l5g3v2A)  
+   Link: <a href="https://www.youtube.com/watch?v=0hO1l5g3v2A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0hO1l5g3v2A</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX Launch Creates Stunning Spiral Over The Pacific...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: Space X Launch Creates Stunning Spiral Over The Pacific  
-   Link: [https://www.youtube.com/watch?v=yYmCq1j63zE](https://www.youtube.com/watch?v=yYmCq1j63zE)  
+   Link: <a href="https://www.youtube.com/watch?v=yYmCq1j63zE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yYmCq1j63zE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Rocket Launches Can Look Like UFOs...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: csmonitor.com  
-   Link: [https://www.csmonitor.com/World/Global-News/2009/1210/norway-spiral-a-rocket-scientist-explains-the-mystery](https://www.csmonitor.com/World/Global-News/2009/1210/norway-spiral-a-rocket-scientist-explains-the-mystery)  
+   Link: <a href="https://www.csmonitor.com/World/Global-News/2009/1210/norway-spiral-a-rocket-scientist-explains-the-mystery" target="_blank" rel="noopener noreferrer nofollow">https://www.csmonitor.com/World/Global-News/2009/1210/norway-spiral-a-rocket-scientist-explains-the-mystery</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Christian Science MonitorNorway spiral: A rocket scientist explains the mysteryDec 10, 2009 — The Russians said problems emerged when...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: cbsnews.com  
    Title: mysterious spiral light in sky over norway  
-   Link: [https://www.cbsnews.com/news/mysterious-spiral-light-in-sky-over-norway/](https://www.cbsnews.com/news/mysterious-spiral-light-in-sky-over-norway/)  
+   Link: <a href="https://www.cbsnews.com/news/mysterious-spiral-light-in-sky-over-norway/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/mysterious-spiral-light-in-sky-over-norway/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsMysterious Spiral Light in Sky over NorwayDec 10, 2009 — Space experts point to the spiraling of this missile as it malfunctioned...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: amusingplanet.com  
    Title: the norway spiral  
-   Link: [https://www.amusingplanet.com/2016/02/the-norway-spiral.html](https://www.amusingplanet.com/2016/02/the-norway-spiral.html)  
+   Link: <a href="https://www.amusingplanet.com/2016/02/the-norway-spiral.html" target="_blank" rel="noopener noreferrer nofollow">https://www.amusingplanet.com/2016/02/the-norway-spiral.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>25 Feb 2016 — The spiraling blue light was caused by a failed test firing of a Russian Bulava missile. The Russian Ministry of Defence is...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/place/Norway](https://www.britannica.com/place/Norway)  
+   Link: <a href="https://www.britannica.com/place/Norway" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Norway</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Norway | Facts, Points of Interest, Geography, &amp; HistoryNorway, country of northern Europe that occupies the western half of the Scandina...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: satobs.org  
-   Link: [https://satobs.org/seesat_ref/misc/Norway_Spiral_--_15_FAQS_final.pdf](https://satobs.org/seesat_ref/misc/Norway_Spiral_--_15_FAQS_final.pdf)  
+   Link: <a href="https://satobs.org/seesat_ref/misc/Norway_Spiral_--_15_FAQS_final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://satobs.org/seesat_ref/misc/Norway_Spiral_--_15_FAQS_final.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>December 9, 2009...31 Dec 2016 — the spiral occurring approximately 143 miles (230 km) northeast of its initial development and some 70...</p></details>
    Published: December 9, 2009  
 
 25. <a id="endnote-25"></a>
    Source: kids.nationalgeographic.com  
-   Link: [https://kids.nationalgeographic.com/geography/countries/article/norway](https://kids.nationalgeographic.com/geography/countries/article/norway)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| National Geographic KidsNorway is a narrow country in northern Europe. It shares the Scandinavian Peninsula with Sweden and Finland. No...</p></details>
+   Link: <a href="https://kids.nationalgeographic.com/geography/countries/article/norway" target="_blank" rel="noopener noreferrer nofollow">https://kids.nationalgeographic.com/geography/countries/article/norway</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Geographic KidsNorway is a narrow country in northern Europe. It shares the Scandinavian Peninsula with Sweden and Finland. No...</p></details>
 
 ### Additional References
 
 26. <a id="endnote-26"></a>
    Source: neoteo.com  
-   Link: [https://www.neoteo.com/en/failed-russian-bulava-missile-spiral-norway](https://www.neoteo.com/en/failed-russian-bulava-missile-spiral-norway)  
+   Link: <a href="https://www.neoteo.com/en/failed-russian-bulava-missile-spiral-norway" target="_blank" rel="noopener noreferrer nofollow">https://www.neoteo.com/en/failed-russian-bulava-missile-spiral-norway</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bulava Missile Failure Spiral NorwayA giant spiral appeared over Norway from a failed Russian Bulava missile test. Learn about the missil...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: csmonitor.com  
-   Link: [https://www.csmonitor.com/World/Global-News/2009/1210/Norway-spiral-video-Mystery-solved](https://www.csmonitor.com/World/Global-News/2009/1210/Norway-spiral-video-Mystery-solved)  
+   Link: <a href="https://www.csmonitor.com/World/Global-News/2009/1210/Norway-spiral-video-Mystery-solved" target="_blank" rel="noopener noreferrer nofollow">https://www.csmonitor.com/World/Global-News/2009/1210/Norway-spiral-video-Mystery-solved</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Norway spiral video: Mystery solvedA strange, spiral light in the sky is seen above Skjervoy, Norway, on Dec. 9. By Dan Murphy Staff writ...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=2mUXBqJbQKg](https://www.youtube.com/watch?v=2mUXBqJbQKg)  
+   Link: <a href="https://www.youtube.com/watch?v=2mUXBqJbQKg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2mUXBqJbQKg</a>  
 
 29. <a id="endnote-29"></a>
    Source: orbiter-forum.com  
    Title: strange object over norway this morning.10324  
-   Link: [https://www.orbiter-forum.com/threads/strange-object-over-norway-this-morning.10324/](https://www.orbiter-forum.com/threads/strange-object-over-norway-this-morning.10324/)  
+   Link: <a href="https://www.orbiter-forum.com/threads/strange-object-over-norway-this-morning.10324/" target="_blank" rel="noopener noreferrer nofollow">https://www.orbiter-forum.com/threads/strange-object-over-norway-this-morning.10324/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Strange object over Norway this morning.9 Dec 2009 — The article does mention the possibility of it being a Bulava, the color of the smal...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: russianforces.org  
    Title: Bulava test was not quite successful  
-   Link: [https://russianforces.org/blog/2008/09/bulava_test_was_not_quite_succ_1.shtml](https://russianforces.org/blog/2008/09/bulava_test_was_not_quite_succ_1.shtml)  
+   Link: <a href="https://russianforces.org/blog/2008/09/bulava_test_was_not_quite_succ_1.shtml" target="_blank" rel="noopener noreferrer nofollow">https://russianforces.org/blog/2008/09/bulava_test_was_not_quite_succ_1.shtml</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>test met its objective fully or was a failure for some reasons. If the Bulava warhead has indeed failed to seperate from BUS then its a f...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: universetoday.com  
    Title: what was the norway spiral  
-   Link: [https://www.universetoday.com/articles/what-was-the-norway-spiral](https://www.universetoday.com/articles/what-was-the-norway-spiral)  
+   Link: <a href="https://www.universetoday.com/articles/what-was-the-norway-spiral" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/what-was-the-norway-spiral</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Universe TodayWhat was the Norway Spiral?Dec 9, 2009 — Many reports say it was the failed launch of a Russian rocket, probably a Bulava I...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=eoTnLTViHJM](https://www.youtube.com/watch?v=eoTnLTViHJM)  
+   Link: <a href="https://www.youtube.com/watch?v=eoTnLTViHJM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eoTnLTViHJM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Norway spiral December 2009Different footage and reports of the Norway Spiral anomaly appearing over parts of Norway, Sweden and Finland...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=J5_8MVctp30](https://www.youtube.com/watch?v=J5_8MVctp30)  
+   Link: <a href="https://www.youtube.com/watch?v=J5_8MVctp30" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=J5_8MVctp30</a>  
 
 34. <a id="endnote-34"></a>
    Source: youtube.com  
    Title: What Was The Norway Spiral?  
-   Link: [https://www.youtube.com/watch?v=F3a7-wD-T8k](https://www.youtube.com/watch?v=F3a7-wD-T8k)  
+   Link: <a href="https://www.youtube.com/watch?v=F3a7-wD-T8k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F3a7-wD-T8k</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Rocket exhaust spirals: Why they look like UFOs...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: youtube.com  
    Title: Norway Spiral: A rocket scientist explains the mystery  
-   Link: [https://www.youtube.com/watch?v=gT8wN1sF-iU](https://www.youtube.com/watch?v=gT8wN1sF-iU)  
+   Link: <a href="https://www.youtube.com/watch?v=gT8wN1sF-iU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gT8wN1sF-iU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What Was The Norway Spiral?...</p></details>

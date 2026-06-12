@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_low_cloud_false_shap_143821
 - ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_superior_mirage_lift_94a6c8
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - atmosphere
 - twinkling-stars
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - atmosphere
 - twinkling-stars
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Low stars and planets can flash colours, wobble and seem active when their light crosses turbulent air near the horizon.
 hero_summary: Low stars and planets can flash colours, wobble and seem active when their light crosses turbulent air near the horizon.
 layout: default
 permalink: /twinkling-stars/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /atmosphere/
 nav_short_title: Twinkling stars
 title: Why a star can look alive
-title_full: Why a star can look alive | Atmosphere
+title_full: Why a star can look alive
 display_title_short: Twinkling stars
 display_title: Twinkling stars
 heading_title: Why a star can look alive
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 09:28:42'
-parent_title: When Weather Makes Shapes in the Sky | IFOs
+parent_title: When Weather Makes Shapes in the Sky
 parent_permalink: /atmosphere/
 parent_nav_short_title: Atmosphere
 parent_heading_title: When Weather Makes Shapes in the Sky
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043
-  title: Atmosphere | Ifos Causes Of
+  title: Atmosphere | ifos causes of UFO 3 ed 238
   permalink: /atmosphere/
   short_title: Atmosphere
   heading_title: When Weather Makes Shapes in the Sky
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043
-  title: Atmosphere | Ifos Causes Of
+  title: Atmosphere | ifos causes of UFO 3 ed 238
   permalink: /atmosphere/
   short_title: Atmosphere
   heading_title: When Weather Makes Shapes in the Sky
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: When the horizon puts objects in the sky
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043
-  title: Atmosphere | Ifos Causes Of
+  title: Atmosphere | ifos causes of UFO 3 ed 238
   permalink: /atmosphere/
   short_title: Atmosphere
   heading_title: When Weather Makes Shapes in the Sky
@@ -260,6 +259,7 @@ prev_link:
   permalink: /mirage-lift/
   short_title: Mirage lift
   heading_title: When the horizon puts objects in the sky
+date: '2026-06-12 00:25:13 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_twinkling_moving_sta_10c309-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_twinkling_moving_sta_10c309-Illustration-1.webp
@@ -268,15 +268,14 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_twinklin
 
 ## Introduction
 
-A surprisingly large number of UFO reports begin with an ordinary star or planet low in the sky. Near the horizon, starlight must pass through a much thicker layer of Earth's [atmosphere]({{ 'atmosphere/' | relative_url }}) than it does overhead. Turbulent air, temperature differences and atmospheric refraction can make a steady point of light appear to flash, change colour, wobble, dart about or even seem intelligent in its movements. Astronomers call this effect *scintillation*, but to an observer who is not expecting it, the light can look remarkably active. NASA and other astronomy organisations have long noted that atmospheric turbulence causes stars to twinkle and shift in apparent brightness and position, while [bright objects]({{ 'bright-objects/' | relative_url }}) near the horizon are especially vulnerable to dramatic visual distortion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://starchild.gsfc.nasa.gov/docs/StarChild/questions/question26.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: starchild.gsfc.nasa.gov">[StarChild]</a><span class="citation-popover" role="note"><span class="citation-popover-source">starchild.gsfc.nasa.gov</span><span class="citation-popover-title">Star Child Why do stars twinkle?</span><span class="citation-popover-snippet">StarChildWhy do stars twinkle? - StarChild - NASAThe movement of air (sometimes called turbulence) in the atmosphere of Earth causes the...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spaceplacecanada.ca/2020/01/25/twinklingstars/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spaceplacecanada.ca">[Space Place]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spaceplacecanada.ca</span><span class="citation-popover-snippet">Space PlaceWhy do stars twinkle?25 Jan 2020 — Light from objects straight overhead (at zenith) travel through less air compared to stars...</span></span></span>
-
+A surprisingly large number of UFO reports begin with an ordinary star or planet low in the sky. Near the horizon, starlight must pass through a much thicker layer of Earth's [atmosphere]({{ 'atmosphere/' | relative_url }}) than it does overhead. Turbulent air, temperature differences and atmospheric refraction can make a steady point of light appear to flash, change colour, wobble, dart about or even seem intelligent in its movements. Astronomers call this effect *scintillation*, but to an observer who is not expecting it, the light can look remarkably active. NASA and other astronomy organisations have long noted that atmospheric turbulence causes stars to twinkle and shift in apparent brightness and position, while [bright objects]({{ 'bright-objects/' | relative_url }}) near the horizon are especially vulnerable to dramatic visual distortion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://starchild.gsfc.nasa.gov/docs/StarChild/questions/question26.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: starchild.gsfc.nasa.gov">[StarChild]</a><span class="citation-popover" role="note"><span class="citation-popover-source">starchild.gsfc.nasa.gov</span><span class="citation-popover-title">Star Child Why do stars twinkle?</span><span class="citation-popover-snippet">Why do stars twinkle? - StarChild - NASAThe movement of air (sometimes called turbulence) in the atmosphere of Earth causes the...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spaceplacecanada.ca/2020/01/25/twinklingstars/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spaceplacecanada.ca">[Space Place]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spaceplacecanada.ca</span><span class="citation-popover-snippet">Space PlaceWhy do stars twinkle?25 Jan 2020 — Light from objects straight overhead (at zenith) travel through less air compared to stars...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_twinkling_moving_sta_10c309-Illustration-1-dark.svg" | relative_url }}" alt="Twinkling stars illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_twinkling_moving_sta_10c309-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_twinkling_moving_sta_10c309-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within the broader category of clouds, mirages and atmospheric distortion, twinkling [stars]({{ 'stars/' | relative_url }}) are important because they create UFO reports without requiring any unusual object in the sky. The atmosphere itself supplies much of the apparent motion.
 
 ## Why a star can look alive
 
-Stars are so distant that they appear as tiny points of light. As that light passes through layers of moving air with different temperatures and densities, it is continually bent by small amounts. The result is rapid fluctuations in brightness and apparent position. To the eye, the star seems to flicker, pulse or dance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://starchild.gsfc.nasa.gov/docs/StarChild/questions/question26.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: starchild.gsfc.nasa.gov">[StarChild]</a><span class="citation-popover" role="note"><span class="citation-popover-source">starchild.gsfc.nasa.gov</span><span class="citation-popover-title">Star Child Why do stars twinkle?</span><span class="citation-popover-snippet">StarChildWhy do stars twinkle? - StarChild - NASAThe movement of air (sometimes called turbulence) in the atmosphere of Earth causes the...</span></span></span> ResearchGate The effect is strongest when a star is low above the horizon. Light arriving from a low angle travels through far more atmosphere than light <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/233775239_Using_stellar_scintillation_for_studies_of_turbulence_in_the_Earth%27s_atmosphere" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Using stellar scintillation for studies of turbulence in...9 Mar 2016 — Stellar scintillation observed through the Ear...</span></span></span> from a star overhead, increasing the opportunities for turbulence to distort it. Astronomical sources consistently note that scintillation becomes much more pronounced near the horizon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spaceplacecanada.ca/2020/01/25/twinklingstars/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spaceplacecanada.ca">[Space Place]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spaceplacecanada.ca</span><span class="citation-popover-snippet">Space PlaceWhy do stars twinkle?25 Jan 2020 — Light from objects straight overhead (at zenith) travel through less air compared to stars...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Twinkling" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">TwinklingIn simple terms, twinkling of stars is caused by the passing of light through different layers of a turbulent atmosphere. Mos...</span></span></span> For UFO investigations, this matters because many reports describe a bright light that appears stationary at first but then seems to shimmer, pulse or drift unpredictably. If the object remains fixed relative to the stars yet displays these atmospheric effects, a bright star or planet becomes a plausible explanation.
+Stars are so distant that they appear as tiny points of light. As that light passes through layers of moving air with different temperatures and densities, it is continually bent by small amounts. The result is rapid fluctuations in brightness and apparent position. To the eye, the star seems to flicker, pulse or dance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://starchild.gsfc.nasa.gov/docs/StarChild/questions/question26.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: starchild.gsfc.nasa.gov">[StarChild]</a><span class="citation-popover" role="note"><span class="citation-popover-source">starchild.gsfc.nasa.gov</span><span class="citation-popover-title">Star Child Why do stars twinkle?</span><span class="citation-popover-snippet">Why do stars twinkle? - StarChild - NASAThe movement of air (sometimes called turbulence) in the atmosphere of Earth causes the...</span></span></span> ResearchGate The effect is strongest when a star is low above the horizon. Light arriving from a low angle travels through far more atmosphere than light <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/233775239_Using_stellar_scintillation_for_studies_of_turbulence_in_the_Earth%27s_atmosphere" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Using stellar scintillation for studies of turbulence in...9 Mar 2016 — Stellar scintillation observed through the Ear...</span></span></span> from a star overhead, increasing the opportunities for turbulence to distort it. Astronomical sources consistently note that scintillation becomes much more pronounced near the horizon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spaceplacecanada.ca/2020/01/25/twinklingstars/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spaceplacecanada.ca">[Space Place]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spaceplacecanada.ca</span><span class="citation-popover-snippet">Space PlaceWhy do stars twinkle?25 Jan 2020 — Light from objects straight overhead (at zenith) travel through less air compared to stars...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Twinkling" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">TwinklingIn simple terms, twinkling of stars is caused by the passing of light through different layers of a turbulent atmosphere. Mos...</span></span></span> For UFO investigations, this matters because many reports describe a bright light that appears stationary at first but then seems to shimmer, pulse or drift unpredictably. If the object remains fixed relative to the stars yet displays these atmospheric effects, a bright star or planet becomes a plausible explanation.
 
 ## Why low stars twinkle more strongly
 
@@ -287,12 +286,9 @@ Several consequences follow:
 * Brightness can change several times per second.
 * The apparent position of the star can shift slightly and repeatedly.
 * Different colours can be bent by different amounts.
-* The distortions become more noticeable in humid, unstable or turbulent conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://starchild.gsfc.nasa.gov/docs/StarChild/questions/question26.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: starchild.gsfc.nasa.gov">[StarChild]</a><span class="citation-popover" role="note"><span class="citation-popover-source">starchild.gsfc.nasa.gov</span><span class="citation-popover-title">Star Child Why do stars twinkle?</span><span class="citation-popover-snippet">StarChildWhy do stars twinkle? - StarChild - NASAThe movement of air (sometimes called turbulence) in the atmosphere of Earth causes the...</span></span></span> ResearchGate This is why famous bright stars such as Sirius <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/233775239_Using_stellar_scintillation_for_studies_of_turbulence_in_the_Earth%27s_atmosphere" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Using stellar scintillation for studies of turbulence in...9 Mar 2016 — Stellar scintillation observed through the Ear...</span></span></span>, Antares and other luminous horizon stars often attract attention. Observers frequently report them as unusual objects because their flashing and colour changes are much more dramatic than those of fainter stars higher in the sky. Astronomy discussions and observing guides routinely identify these stars as sources of mistaken UFO reports when atmospheric conditions are poor. <span class="citation-chip-wrap"><a class="citation-chip" href="https://chandra.harvard.edu/resources/faq/astrophysics/astrophysics-27.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chandra.harvard.edu">[Chandra X-ray Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chandra.harvard.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cloudynights.com/forums/topic/547826-antares-particular-blinking-apearance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cloudynights.com">[Cloudy Nights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cloudynights.com</span><span class="citation-popover-title">547826 antares particular blinking apearance</span><span class="citation-popover-snippet">Antares&#x27; particular blinking apearance24 Aug 2016 — Both stars are often the source of &quot;UFO&quot; reports. There are two phenomena in effect w...</span></span></span>
+* The distortions become more noticeable in humid, unstable or turbulent conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://starchild.gsfc.nasa.gov/docs/StarChild/questions/question26.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: starchild.gsfc.nasa.gov">[StarChild]</a><span class="citation-popover" role="note"><span class="citation-popover-source">starchild.gsfc.nasa.gov</span><span class="citation-popover-title">Star Child Why do stars twinkle?</span><span class="citation-popover-snippet">Why do stars twinkle? - StarChild - NASAThe movement of air (sometimes called turbulence) in the atmosphere of Earth causes the...</span></span></span> ResearchGate This is why famous bright stars such as Sirius <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/233775239_Using_stellar_scintillation_for_studies_of_turbulence_in_the_Earth%27s_atmosphere" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Using stellar scintillation for studies of turbulence in...9 Mar 2016 — Stellar scintillation observed through the Ear...</span></span></span>, Antares and other luminous horizon stars often attract attention. Observers frequently report them as unusual objects because their flashing and colour changes are much more dramatic than those of fainter stars higher in the sky. Astronomy discussions and observing guides routinely identify these stars as sources of mistaken UFO reports when atmospheric conditions are poor. <span class="citation-chip-wrap"><a class="citation-chip" href="https://chandra.harvard.edu/resources/faq/astrophysics/astrophysics-27.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chandra.harvard.edu">[Chandra X-ray Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chandra.harvard.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cloudynights.com/forums/topic/547826-antares-particular-blinking-apearance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cloudynights.com">[Cloudy Nights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cloudynights.com</span><span class="citation-popover-title">547826 antares particular blinking apearance</span><span class="citation-popover-snippet">Antares&#x27; particular blinking apearance24 Aug 2016 — Both stars are often the source of &quot;UFO&quot; reports. There are two phenomena in effect w...</span></span></span>
 
 Planets can also be involved. Although planets usually twinkle less because they present a tiny disc rather than a perfect point source, a bright planet low on the horizon can still flash and shimmer enough to trigger reports. [Venus]({{ 'venus/' | relative_url }}), in particular, has a long history of being mistaken for a UFO. <span class="citation-chip-wrap"><a class="citation-chip" href="https://repository.library.noaa.gov/view/noaa/32474/noaa_32474_DS1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: repository.library.noaa.gov">[noaa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">repository.library.noaa.gov</span><span class="citation-popover-title">noaa 32474 DS1</span><span class="citation-popover-snippet">NOAA Institutional Repository^ 0Fc0 ^rEs o* W6by JH Churnside · 1989 · Cited by 27 — If the signal is averaged over a finite disk, such a...</span></span></span> Institutional Repository <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.csmonitor.com/Science/2010/1102/Bright-Venus-may-prompt-UFO-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csmonitor.com">[The Christian Science Monitor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csmonitor.com</span><span class="citation-popover-title">Bright Venus may prompt UFO sightings</span><span class="citation-popover-snippet">The Christian Science MonitorBright Venus may prompt UFO sightings2 Nov 2010 — An extended daylight savings time will mean that Venus wil...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rCBUutvDCAE" title="Why Do Stars Twinkle but Planets Don’t? [ID0723]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rCBUutvDCAE" target="_blank" rel="noopener noreferrer">Why Do Stars Twinkle but Planets Don’t? [ID0723]</a></p><p class="youtube-embed-meta">Channel: History of Simple Things &middot; Views: 11.8K &middot; Uploaded: February 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rCBUutvDCAE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rCBUutvDCAE">Open on YouTube</a></p></div></div></div>
 
 ## Colour flashes, wobble and false motion
 
@@ -304,12 +300,10 @@ Air bends different colours of light by slightly different amounts. Near the hor
 
 To someone unfamiliar with the phenomenon, these colour changes can resemble artificial lighting patterns rather than a natural astronomical object.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_twinkling_moving_sta_10c309-Illustration-2-dark.svg" | relative_url }}" alt="Twinkling stars illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_twinkling_moving_sta_10c309-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_twinkling_moving_sta_10c309-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Why a stationary light seems to move
 
-Human vision is not especially good at judging the position of a lone light against a dark sky. When a star scintillates strongly, tiny apparent shifts combine with normal eye movements and the brain's tendency to seek patterns. The result can be a sincere impression that the light is hovering, drifting, zig-zagging or responding to observation. Reddit <span class="citation-chip-wrap"><a class="citation-chip" href="https://starchild.gsfc.nasa.gov/docs/StarChild/questions/question26.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: starchild.gsfc.nasa.gov">[StarChild Witnesses often describe:]</a><span class="citation-popover" role="note"><span class="citation-popover-source">starchild.gsfc.nasa.gov</span><span class="citation-popover-title">Star Child Why do stars twinkle?</span><span class="citation-popover-snippet">StarChildWhy do stars twinkle? - StarChild - NASAThe movement of air (sometimes called turbulence) in the atmosphere of Earth causes the...</span></span></span>
-
+Human vision is not especially good at judging the position of a lone light against a dark sky. When a star scintillates strongly, tiny apparent shifts combine with normal eye movements and the brain's tendency to seek patterns. The result can be a sincere impression that the light is hovering, drifting, zig-zagging or responding to observation. Reddit StarChild Witnesses often describe: <span class="citation-chip-wrap"><a class="citation-chip" href="https://starchild.gsfc.nasa.gov/docs/StarChild/questions/question26.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: starchild.gsfc.nasa.gov">[starchild.gsfc.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">starchild.gsfc.nasa.gov</span><span class="citation-popover-title">Star Child Why do stars twinkle?</span><span class="citation-popover-snippet">Why do stars twinkle? - StarChild - NASAThe movement of air (sometimes called turbulence) in the atmosphere of Earth causes the...</span></span></span>
 
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
@@ -322,9 +316,6 @@ Human vision is not especially good at judging the position of a lone light agai
 
 These perceptions can be genuine experiences without reflecting actual movement of the object itself.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/N3IgVidGjQk" title="Why Do Stars Twinkle?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=N3IgVidGjQk" target="_blank" rel="noopener noreferrer">Why Do Stars Twinkle?</a></p><p class="youtube-embed-meta">Channel: SciShow</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=N3IgVidGjQk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=N3IgVidGjQk">Open on YouTube</a></p></div></div></div>
-
 ## Camera zoom traps in star and planet videos
 
 Modern smartphones and consumer cameras often make the effect look even more dramatic. When a bright star is recorded at high digital zoom, the camera magnifies not only the object but also every atmospheric distortion and every tiny movement of the device.
@@ -332,6 +323,30 @@ Modern smartphones and consumer cameras often make the effect look even more dra
 A star that appears as a stable point to the naked eye can become a flashing blob on screen. Autofocus systems may continually hunt for focus, causing the object to swell, shrink or change shape. Image stabilisation and [compression]({{ 'compression/' | relative_url }}) artefacts can create additional apparent motion. Atmospheric turbulence then causes the enlarged image to ripple and dance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/233775239_Using_stellar_scintillation_for_studies_of_turbulence_in_the_Earth%27s_atmosphere" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Using stellar scintillation for studies of turbulence in...9 Mar 2016 — Stellar scintillation observed through the Ear...</span></span></span>
 
 This explains a common pattern in UFO videos:
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rCBUutvDCAE" title="Why Do Stars Twinkle but Planets Don’t? [ID0723]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rCBUutvDCAE" target="_blank" rel="noopener noreferrer">Why Do Stars Twinkle but Planets Don’t? [ID0723]</a></p><p class="youtube-embed-meta">Channel: History of Simple Things &middot; Views: 11.8K &middot; Uploaded: February 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rCBUutvDCAE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rCBUutvDCAE">Open on YouTube</a></p></div></div></div>
+
+1. A bright light is recorded near the horizon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/Astronomy/comments/x9vgii/disappearing_light_near_venus/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">disappearing light near venus</span><span class="citation-popover-snippet">r/AstronomyThe ISS moves very fast high in the sky and it moves slowly on the horizon.... July 9 2022 Boulder, CO - UFO Sighting? A Mete...</span></span></span>
+2. Heavy zoom turns it into a large glowing object.
+3. Atmospheric turbulence makes the image flicker and distort.
+4. The resulting footage appears to show a structured craft changing shape or manoeuvring.
+
+Astronomy communities regularly identify such recordings as heavily magnified stars or planets undergoing normal atmospheric scintillation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Astronomy/comments/1ecfzh6/something_weird_was_happening_with_the_star_in/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Something weird was happening with the star in the middle...This phenomenon, known as atmospheric scintillation, causes stars to a...</span></span></span>
+
+## Clues that the “UFO” is actually a twinkling star
+
+Several observational clues point towards an atmospheric explanation rather than an unknown craft:
+
+* The light remains in roughly the same area of sky for long periods.
+* It is low above the horizon.
+* Colour changes are rapid and irregular.
+* The apparent motion becomes less dramatic when viewed through binoculars or compared with nearby stars.
+* Astronomical software shows a bright star or planet in the same position.
+* Multiple observers record different impressions of shape or movement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nightsky.jpl.nasa.gov">[Night Sky Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nightsky.jpl.nasa.gov</span><span class="citation-popover-title">Night Sky Network Identifying UFOs and UAPs</span><span class="citation-popover-snippet">Be polite and patient. If the &quot;UFO&quot; is visible and the person inquiring is there in person, you can...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.csmonitor.com/Science/2010/1102/Bright-Venus-may-prompt-UFO-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csmonitor.com">[The Christian Science Monitor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csmonitor.com</span><span class="citation-popover-title">Bright Venus may prompt UFO sightings</span><span class="citation-popover-snippet">The Christian Science MonitorBright Venus may prompt UFO sightings2 Nov 2010 — An extended daylight savings time will mean that Venus wil...</span></span></span>
+
+In many UFO cases, the most puzzling feature is not the object itself but the atmosphere between the observer and the object. A bright star shining through turbulent air can appear unexpectedly dynamic, producing flashes, colour shifts and apparent manoeuvres that seem extraordinary until the optical effects are understood. <span class="citation-chip-wrap"><a class="citation-chip" href="https://starchild.gsfc.nasa.gov/docs/StarChild/questions/question26.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: starchild.gsfc.nasa.gov">[StarChild]</a><span class="citation-popover" role="note"><span class="citation-popover-source">starchild.gsfc.nasa.gov</span><span class="citation-popover-title">Star Child Why do stars twinkle?</span><span class="citation-popover-snippet">Why do stars twinkle? - StarChild - NASAThe movement of air (sometimes called turbulence) in the atmosphere of Earth causes the...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Twinkling" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">TwinklingIn simple terms, twinkling of stars is caused by the passing of light through different layers of a turbulent atmosphere. Mos...</span></span></span>
+
+<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_twinkling_moving_sta_10c309-Illustration-3-dark.svg" | relative_url }}" alt="Twinkling stars illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_twinkling_moving_sta_10c309-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_twinkling_moving_sta_10c309-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -426,7 +441,7 @@ This explains a common pattern in UFO videos:
         <p class="fr-section-kicker">eBay marketplace picks</p>
         <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
       </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
       <div class="fr-ebay-market-toolbar">
         <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
@@ -450,15 +465,15 @@ This explains a common pattern in UFO videos:
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twinkling-stars-why-a-star-can-look-alive-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="twinkling-stars-why-a-star-can-look-alive-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Airship in Starry Night Sky Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fdb67fcc50900ab468b6.jpg' | relative_url }}" alt="Listing image for Airship in Starry Night Sky Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-star-can-look-alive-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="why-a-star-can-look-alive-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Star Chart Educational PANORAMA Map of the sky cosmos MOS01 POSTER BUY2 GET1FREE"><img src="https://i.ebayimg.com/images/g/LXsAAOSwh2Jhk-rc/s-l225.jpg" alt="Listing image for Star Chart Educational PANORAMA Map of the sky cosmos MOS01 POSTER BUY2 GET1FREE" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twinkling-stars-why-a-star-can-look-alive-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="twinkling-stars-why-a-star-can-look-alive-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Airship in Starry Night Sky Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-star-can-look-alive-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="why-a-star-can-look-alive-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer">Star Chart Educational PANORAMA Map of the sky cosmos MOS01 POSTER BUY2 GET1FREE</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twinkling-stars-why-a-star-can-look-alive-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="twinkling-stars-why-a-star-can-look-alive-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-star-can-look-alive-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="why-a-star-can-look-alive-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: star chart poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twinkling-stars-why-a-star-can-look-alive-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="twinkling-stars-why-a-star-can-look-alive-ifos-causes-of-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-star-can-look-alive-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="why-a-star-can-look-alive-star-chart-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -466,15 +481,15 @@ This explains a common pattern in UFO videos:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twinkling-stars-why-a-star-can-look-alive-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="twinkling-stars-why-a-star-can-look-alive-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Crescent Moon Night Sky Art Starry Forest Wall Print Midnight Landscape Poster"><img src="{{ '/assets/images/marketplace-covers/6d8c08fb07037584328c.jpg' | relative_url }}" alt="Listing image for Crescent Moon Night Sky Art Starry Forest Wall Print Midnight Landscape Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-star-can-look-alive-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="why-a-star-can-look-alive-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for World and Star Chart Map Nautical Navigation Astronomy Poster Vintage 16x33"><img src="https://i.ebayimg.com/images/g/FIwAAOSwvG9foHut/s-l225.jpg" alt="Listing image for World and Star Chart Map Nautical Navigation Astronomy Poster Vintage 16x33" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twinkling-stars-why-a-star-can-look-alive-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="twinkling-stars-why-a-star-can-look-alive-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Crescent Moon Night Sky Art Starry Forest Wall Print Midnight Landscape Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-star-can-look-alive-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="why-a-star-can-look-alive-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer">World and Star Chart Map Nautical Navigation Astronomy Poster Vintage 16x33</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twinkling-stars-why-a-star-can-look-alive-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="twinkling-stars-why-a-star-can-look-alive-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-star-can-look-alive-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="why-a-star-can-look-alive-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: star chart poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twinkling-stars-why-a-star-can-look-alive-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="twinkling-stars-why-a-star-can-look-alive-ifos-causes-of-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-star-can-look-alive-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="why-a-star-can-look-alive-star-chart-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -482,15 +497,15 @@ This explains a common pattern in UFO videos:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twinkling-stars-why-a-star-can-look-alive-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="twinkling-stars-why-a-star-can-look-alive-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Full Moon Night Sky Framed Art Prin Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/4e3c44f9f0aac763177e.jpg' | relative_url }}" alt="Listing image for Full Moon Night Sky Framed Art Prin Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-star-can-look-alive-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="why-a-star-can-look-alive-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A2 star chart poster"><img src="https://i.ebayimg.com/images/g/PVwAAOSwq-Fj7osS/s-l225.jpg" alt="Listing image for A2 star chart poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twinkling-stars-why-a-star-can-look-alive-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="twinkling-stars-why-a-star-can-look-alive-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Full Moon Night Sky Framed Art Prin Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-star-can-look-alive-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="why-a-star-can-look-alive-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer">A2 star chart poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twinkling-stars-why-a-star-can-look-alive-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="twinkling-stars-why-a-star-can-look-alive-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-star-can-look-alive-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="why-a-star-can-look-alive-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: star chart poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twinkling-stars-why-a-star-can-look-alive-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="twinkling-stars-why-a-star-can-look-alive-ifos-causes-of-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-star-can-look-alive-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="why-a-star-can-look-alive-star-chart-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -498,15 +513,15 @@ This explains a common pattern in UFO videos:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twinkling-stars-why-a-star-can-look-alive-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="twinkling-stars-why-a-star-can-look-alive-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture"><img src="{{ '/assets/images/marketplace-covers/0efa7c31974d5c2eeff0.jpg' | relative_url }}" alt="Listing image for Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-star-can-look-alive-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="why-a-star-can-look-alive-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Custom Star Chart Poster Night We Met Anniversary Gift for Him or Her Birthday"><img src="https://i.ebayimg.com/images/g/RwgAAOSw5KVnG4Mx/s-l225.jpg" alt="Listing image for Custom Star Chart Poster Night We Met Anniversary Gift for Him or Her Birthday" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twinkling-stars-why-a-star-can-look-alive-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="twinkling-stars-why-a-star-can-look-alive-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-star-can-look-alive-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="why-a-star-can-look-alive-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer">Custom Star Chart Poster Night We Met Anniversary Gift for Him or Her Birthday</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twinkling-stars-why-a-star-can-look-alive-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="twinkling-stars-why-a-star-can-look-alive-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-star-can-look-alive-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="why-a-star-can-look-alive-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: star chart poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twinkling-stars-why-a-star-can-look-alive-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="twinkling-stars-why-a-star-can-look-alive-ifos-causes-of-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-star-can-look-alive-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="why-a-star-can-look-alive-star-chart-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -514,7 +529,7 @@ This explains a common pattern in UFO videos:
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twinkling-stars-why-a-star-can-look-alive-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="twinkling-stars-why-a-star-can-look-alive-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-star-can-look-alive-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="why-a-star-can-look-alive-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -725,183 +740,158 @@ This explains a common pattern in UFO videos:
 </script>
 </section>
 
-1. A bright light is recorded near the horizon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/Astronomy/comments/x9vgii/disappearing_light_near_venus/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">disappearing light near venus</span><span class="citation-popover-snippet">r/AstronomyThe ISS moves very fast high in the sky and it moves slowly on the horizon.... July 9 2022 Boulder, CO - UFO Sighting? A Mete...</span></span></span>
-2. Heavy zoom turns it into a large glowing object.
-3. Atmospheric turbulence makes the image flicker and distort.
-4. The resulting footage appears to show a structured craft changing shape or manoeuvring.
-
-Astronomy communities regularly identify such recordings as heavily magnified stars or planets undergoing normal atmospheric scintillation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Astronomy/comments/1ecfzh6/something_weird_was_happening_with_the_star_in/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditSomething weird was happening with the star in the middle...This phenomenon, known as atmospheric scintillation, causes stars to a...</span></span></span>
-
-
-<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_twinkling_moving_sta_10c309-Illustration-3-dark.svg" | relative_url }}" alt="Twinkling stars illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_twinkling_moving_sta_10c309-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_twinkling_moving_sta_10c309-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## Clues that the “UFO” is actually a twinkling star
-
-Several observational clues point towards an atmospheric explanation rather than an unknown craft:
-
-* The light remains in roughly the same area of sky for long periods.
-* It is low above the horizon.
-* Colour changes are rapid and irregular.
-* The apparent motion becomes less dramatic when viewed through binoculars or compared with nearby stars.
-* Astronomical software shows a bright star or planet in the same position.
-* Multiple observers record different impressions of shape or movement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nightsky.jpl.nasa.gov">[Night Sky Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nightsky.jpl.nasa.gov</span><span class="citation-popover-title">Night Sky Network Identifying UFOs and UAPs</span><span class="citation-popover-snippet">Be polite and patient. If the &quot;UFO&quot; is visible and the person inquiring is there in person, you can...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.csmonitor.com/Science/2010/1102/Bright-Venus-may-prompt-UFO-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csmonitor.com">[The Christian Science Monitor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csmonitor.com</span><span class="citation-popover-title">Bright Venus may prompt UFO sightings</span><span class="citation-popover-snippet">The Christian Science MonitorBright Venus may prompt UFO sightings2 Nov 2010 — An extended daylight savings time will mean that Venus wil...</span></span></span>
-
-In many UFO cases, the most puzzling feature is not the object itself but the atmosphere between the observer and the object. A bright star shining through turbulent air can appear unexpectedly dynamic, producing flashes, colour shifts and apparent manoeuvres that seem extraordinary until the optical effects are understood. <span class="citation-chip-wrap"><a class="citation-chip" href="https://starchild.gsfc.nasa.gov/docs/StarChild/questions/question26.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: starchild.gsfc.nasa.gov">[StarChild]</a><span class="citation-popover" role="note"><span class="citation-popover-source">starchild.gsfc.nasa.gov</span><span class="citation-popover-title">Star Child Why do stars twinkle?</span><span class="citation-popover-snippet">StarChildWhy do stars twinkle? - StarChild - NASAThe movement of air (sometimes called turbulence) in the atmosphere of Earth causes the...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Twinkling" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">TwinklingIn simple terms, twinkling of stars is caused by the passing of light through different layers of a turbulent atmosphere. Mos...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/P1iYi2ft4ks" title="Mind-Blowing Truth: Stars DON&#x27;T Twinkle! Here&#x27;s Why." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=P1iYi2ft4ks" target="_blank" rel="noopener noreferrer">Mind-Blowing Truth: Stars DON&#x27;T Twinkle! Here&#x27;s Why.</a></p><p class="youtube-embed-meta">Channel: The Creator&#x27;s Vault</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=P1iYi2ft4ks" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=P1iYi2ft4ks">Open on YouTube</a></p></div></div></div>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: starchild.gsfc.nasa.gov  
    Title: Star Child Why do stars twinkle?  
-   Link: [https://starchild.gsfc.nasa.gov/docs/StarChild/questions/question26.html](https://starchild.gsfc.nasa.gov/docs/StarChild/questions/question26.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>StarChildWhy do stars twinkle? - StarChild - NASAThe movement of air (sometimes called turbulence) in the atmosphere of Earth causes the...</p></details>
+   Link: <a href="https://starchild.gsfc.nasa.gov/docs/StarChild/questions/question26.html" target="_blank" rel="noopener noreferrer nofollow">https://starchild.gsfc.nasa.gov/docs/StarChild/questions/question26.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why do stars twinkle? - StarChild - NASAThe movement of air (sometimes called turbulence) in the atmosphere of Earth causes the...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Twinkling](https://en.wikipedia.org/wiki/Twinkling)  
+   Link: <a href="https://en.wikipedia.org/wiki/Twinkling" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Twinkling</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>TwinklingIn simple terms, twinkling of stars is caused by the passing of light through different layers of a turbulent atmosphere. Mos...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/233775239_Using_stellar_scintillation_for_studies_of_turbulence_in_the_Earth%27s_atmosphere](https://www.researchgate.net/publication/233775239_Using_stellar_scintillation_for_studies_of_turbulence_in_the_Earth%27s_atmosphere)  
+   Link: <a href="https://www.researchgate.net/publication/233775239_Using_stellar_scintillation_for_studies_of_turbulence_in_the_Earth%27s_atmosphere" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/233775239_Using_stellar_scintillation_for_studies_of_turbulence_in_the_Earth%27s_atmosphere</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Using stellar scintillation for studies of turbulence in...9 Mar 2016 — Stellar scintillation observed through the Ear...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Astronomy/comments/1ecfzh6/something_weird_was_happening_with_the_star_in/](https://www.reddit.com/r/Astronomy/comments/1ecfzh6/something_weird_was_happening_with_the_star_in/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditSomething weird was happening with the star in the middle...This phenomenon, known as atmospheric scintillation, causes stars to a...</p></details>
+   Link: <a href="https://www.reddit.com/r/Astronomy/comments/1ecfzh6/something_weird_was_happening_with_the_star_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Astronomy/comments/1ecfzh6/something_weird_was_happening_with_the_star_in/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Something weird was happening with the star in the middle...This phenomenon, known as atmospheric scintillation, causes stars to a...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: repository.library.noaa.gov  
    Title: noaa 32474 DS1  
-   Link: [https://repository.library.noaa.gov/view/noaa/32474/noaa_32474_DS1.pdf](https://repository.library.noaa.gov/view/noaa/32474/noaa_32474_DS1.pdf)  
+   Link: <a href="https://repository.library.noaa.gov/view/noaa/32474/noaa_32474_DS1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repository.library.noaa.gov/view/noaa/32474/noaa_32474_DS1.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NOAA Institutional Repository^ 0Fc0 ^rEs o* W6by JH Churnside · 1989 · Cited by 27 — If the signal is averaged over a finite disk, such a...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: nightsky.jpl.nasa.gov  
    Title: Night Sky Network Identifying UFOs and UAPs  
-   Link: [https://nightsky.jpl.nasa.gov/news/39/](https://nightsky.jpl.nasa.gov/news/39/)  
+   Link: <a href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow">https://nightsky.jpl.nasa.gov/news/39/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Be polite and patient. If the &quot;UFO&quot; is visible and the person inquiring is there in person, you can...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
    Title: disappearing light near venus  
-   Link: [https://www.reddit.com/r/Astronomy/comments/x9vgii/disappearing_light_near_venus/](https://www.reddit.com/r/Astronomy/comments/x9vgii/disappearing_light_near_venus/)  
+   Link: <a href="https://www.reddit.com/r/Astronomy/comments/x9vgii/disappearing_light_near_venus/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Astronomy/comments/x9vgii/disappearing_light_near_venus/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>r/AstronomyThe ISS moves very fast high in the sky and it moves slowly on the horizon.... July 9 2022 Boulder, CO - UFO Sighting? A Mete...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/1syqcee/what_is_this/](https://www.reddit.com/r/aliens/comments/1syqcee/what_is_this/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/1syqcee/what_is_this/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1syqcee/what_is_this/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is this??: r/aliensPentagon UFO Files Release: Pastors Warn Secret Files Detail &#x27;Demonic Entities&#x27; · r/aliens - Pentagon UFO Files...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/askastronomy/comments/jh4qyq/why_dont_some_stars_twinkle/](https://www.reddit.com/r/askastronomy/comments/jh4qyq/why_dont_some_stars_twinkle/)  
+   Link: <a href="https://www.reddit.com/r/askastronomy/comments/jh4qyq/why_dont_some_stars_twinkle/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askastronomy/comments/jh4qyq/why_dont_some_stars_twinkle/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why don&#x27;t some stars twinkle?: r/askastronomyI&#x27;m not mistaking those stars for planets, I just thought of this randomly, if stars twinkl...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/AskPhysics/comments/ripgx5/why_do_some_astronomers_say_that_stars_twinkle/](https://www.reddit.com/r/AskPhysics/comments/ripgx5/why_do_some_astronomers_say_that_stars_twinkle/)  
+   Link: <a href="https://www.reddit.com/r/AskPhysics/comments/ripgx5/why_do_some_astronomers_say_that_stars_twinkle/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskPhysics/comments/ripgx5/why_do_some_astronomers_say_that_stars_twinkle/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>rough our atmosphere, causing small variations in its...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/explainlikeimfive/comments/1oqi03i/eli5_why_do_stars_twinkle_when_we_look_at_them/](https://www.reddit.com/r/explainlikeimfive/comments/1oqi03i/eli5_why_do_stars_twinkle_when_we_look_at_them/)  
+   Link: <a href="https://www.reddit.com/r/explainlikeimfive/comments/1oqi03i/eli5_why_do_stars_twinkle_when_we_look_at_them/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/explainlikeimfive/comments/1oqi03i/eli5_why_do_stars_twinkle_when_we_look_at_them/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>less of where it comes from.Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: ntrs.nasa.gov  
-   Link: [https://ntrs.nasa.gov/api/citations/19890017910/downloads/19890017910.pdf](https://ntrs.nasa.gov/api/citations/19890017910/downloads/19890017910.pdf)  
+   Link: <a href="https://ntrs.nasa.gov/api/citations/19890017910/downloads/19890017910.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/19890017910/downloads/19890017910.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Technical Reports Serverby JH Churnside · 1989 · Cited by 27 — Therefore, for direct detection, the only significant effect of atmospheri...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: space.com  
    Title: why do stars twinkle  
-   Link: [https://www.space.com/why-do-stars-twinkle](https://www.space.com/why-do-stars-twinkle)  
+   Link: <a href="https://www.space.com/why-do-stars-twinkle" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/why-do-stars-twinkle</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>?Jul 4, 2022 — &quot;Starlight gets refracted [bent] by the atmosphere a little bit, which can cause it to change color,&quot; French said. This ef...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: spaceplacecanada.ca  
-   Link: [https://www.spaceplacecanada.ca/2020/01/25/twinklingstars/](https://www.spaceplacecanada.ca/2020/01/25/twinklingstars/)  
+   Link: <a href="https://www.spaceplacecanada.ca/2020/01/25/twinklingstars/" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceplacecanada.ca/2020/01/25/twinklingstars/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Space PlaceWhy do stars twinkle?25 Jan 2020 — Light from objects straight overhead (at zenith) travel through less air compared to stars...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: chandra.harvard.edu  
-   Link: [https://chandra.harvard.edu/resources/faq/astrophysics/astrophysics-27.html](https://chandra.harvard.edu/resources/faq/astrophysics/astrophysics-27.html)  
+   Link: <a href="https://chandra.harvard.edu/resources/faq/astrophysics/astrophysics-27.html" target="_blank" rel="noopener noreferrer nofollow">https://chandra.harvard.edu/resources/faq/astrophysics/astrophysics-27.html</a>  
 
 16. <a id="endnote-16"></a>
    Source: cloudynights.com  
    Title: 547826 antares particular blinking apearance  
-   Link: [https://www.cloudynights.com/forums/topic/547826-antares-particular-blinking-apearance/](https://www.cloudynights.com/forums/topic/547826-antares-particular-blinking-apearance/)  
+   Link: <a href="https://www.cloudynights.com/forums/topic/547826-antares-particular-blinking-apearance/" target="_blank" rel="noopener noreferrer nofollow">https://www.cloudynights.com/forums/topic/547826-antares-particular-blinking-apearance/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Antares&#x27; particular blinking apearance24 Aug 2016 — Both stars are often the source of &quot;UFO&quot; reports. There are two phenomena in effect w...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: csmonitor.com  
    Title: [Bright Venus](&#123;&#123; 'bright-venus/' | relative_url &#125;&#125;) may prompt UFO sightings  
-   Link: [https://www.csmonitor.com/Science/2010/1102/Bright-Venus-may-prompt-UFO-sightings](https://www.csmonitor.com/Science/2010/1102/Bright-Venus-may-prompt-UFO-sightings)  
+   Link: <a href="https://www.csmonitor.com/Science/2010/1102/Bright-Venus-may-prompt-UFO-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.csmonitor.com/Science/2010/1102/Bright-Venus-may-prompt-UFO-sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Christian Science MonitorBright Venus may prompt UFO sightings2 Nov 2010 — An extended daylight savings time will mean that Venus wil...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: cloudynights.com  
    Title: 764513 about the twinkling of stars  
-   Link: [https://www.cloudynights.com/forums/topic/764513-about-the-twinkling-of-stars/](https://www.cloudynights.com/forums/topic/764513-about-the-twinkling-of-stars/)  
+   Link: <a href="https://www.cloudynights.com/forums/topic/764513-about-the-twinkling-of-stars/" target="_blank" rel="noopener noreferrer nofollow">https://www.cloudynights.com/forums/topic/764513-about-the-twinkling-of-stars/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>About the twinkling of stars3 Apr 2021 — Refractive dispersion is due to the fact that air bends blue light more than red, so that a star...</p></details>
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: nationalacademies.org  
-   Link: [https://www.nationalacademies.org/read/25802/chapter/9](https://www.nationalacademies.org/read/25802/chapter/9)  
+   Link: <a href="https://www.nationalacademies.org/read/25802/chapter/9" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/25802/chapter/9</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter: 7 The Cosmic Plasma FrontierThis ubiquitous mechanism is thought to explain the onset of stellar and accretion-disk flares and m...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: events.spacepole.be  
-   Link: [https://events.spacepole.be/event/259/attachments/1762/3618/SWIC%20SWx%20acronyms.pdf](https://events.spacepole.be/event/259/attachments/1762/3618/SWIC%20SWx%20acronyms.pdf)  
+   Link: <a href="https://events.spacepole.be/event/259/attachments/1762/3618/SWIC%20SWx%20acronyms.pdf" target="_blank" rel="noopener noreferrer nofollow">https://events.spacepole.be/event/259/attachments/1762/3618/SWIC%20SWx%20acronyms.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(1) Area; (2) Article; (3). Ampère; (4): Mount Wilson classification: a magnetically unipolar sunspot group. (alpha) aa, AA. A 3-hour...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: universemagazine.com  
    Title: known flying objects sky phenomena we often mistake for ufos  
-   Link: [https://universemagazine.com/en/known-flying-objects-sky-phenomena-we-often-mistake-for-ufos/?srsltid=AfmBOoqx52o0acitQPLsoRGKbs3K56V8VgeqfMqPP6rMO6I2yKWX9cz7](https://universemagazine.com/en/known-flying-objects-sky-phenomena-we-often-mistake-for-ufos/?srsltid=AfmBOoqx52o0acitQPLsoRGKbs3K56V8VgeqfMqPP6rMO6I2yKWX9cz7)  
+   Link: <a href="https://universemagazine.com/en/known-flying-objects-sky-phenomena-we-often-mistake-for-ufos/?srsltid=AfmBOoqx52o0acitQPLsoRGKbs3K56V8VgeqfMqPP6rMO6I2yKWX9cz7" target="_blank" rel="noopener noreferrer nofollow">https://universemagazine.com/en/known-flying-objects-sky-phenomena-we-often-mistake-for-ufos/?srsltid=AfmBOoqx52o0acitQPLsoRGKbs3K56V8VgeqfMqPP6rMO6I2yKWX9cz7</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Known Flying Objects: Sky Phenomena We Often Mistake...12 Oct 2024 — In this article, we delve into the subject of UFOs, particularly th...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: aol.com  
-   Link: [https://www.aol.com/articles/ufo-improbability-summer-solstice-venus-090211346.html](https://www.aol.com/articles/ufo-improbability-summer-solstice-venus-090211346.html)  
+   Link: <a href="https://www.aol.com/articles/ufo-improbability-summer-solstice-venus-090211346.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/articles/ufo-improbability-summer-solstice-venus-090211346.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO improbability, summer solstice and Venus hugging a...4 days ago — UFO improbability, summer solstice and Venus hugging a crescent moon...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: beachconnection.net  
    Title: Here you're dealing with refraction – or the bending of light.Read more  
-   Link: [https://www.beachconnection.net/news/why_stars_twinkle_colors102320.php](https://www.beachconnection.net/news/why_stars_twinkle_colors102320.php)  
+   Link: <a href="https://www.beachconnection.net/news/why_stars_twinkle_colors102320.php" target="_blank" rel="noopener noreferrer nofollow">https://www.beachconnection.net/news/why_stars_twinkle_colors102320.php</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Stars Twinkle, Change Colors: Portland, Oregon...Oct 23, 2020 — The farther down the horizon, the more layers of atmosphere you&#x27;re d...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40omarvferro/when-the-sky-tricked-us-the-most-famous-ufos-that-turned-out-to-be-nothing-but-nature-showing-5359c8ff815a](https://medium.com/%40omarvferro/when-the-sky-tricked-us-the-most-famous-ufos-that-turned-out-to-be-nothing-but-nature-showing-5359c8ff815a)  
+   Link: <a href="https://medium.com/%40omarvferro/when-the-sky-tricked-us-the-most-famous-ufos-that-turned-out-to-be-nothing-but-nature-showing-5359c8ff815a" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40omarvferro/when-the-sky-tricked-us-the-most-famous-ufos-that-turned-out-to-be-nothing-but-nature-showing-5359c8ff815a</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>misidentified as flashing or moving UFOs near the horizon.Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: kqed.org  
    Title: ufo lgm omg what is that thing in the sky  
-   Link: [https://www.kqed.org/quest/35359/ufo-lgm-omg-what-is-that-thing-in-the-sky](https://www.kqed.org/quest/35359/ufo-lgm-omg-what-is-that-thing-in-the-sky)  
+   Link: <a href="https://www.kqed.org/quest/35359/ufo-lgm-omg-what-is-that-thing-in-the-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.kqed.org/quest/35359/ufo-lgm-omg-what-is-that-thing-in-the-sky</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO? LGM? OMG! What is That Thing in the Sky?20 Apr 2012 — UFO? LGM? OMG! What is That Thing in the Sky? Ever seen something in the sky t...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
    Title: You can see it changing colours in real  
-   Link: [https://www.facebook.com/groups/AstronomyNo1/posts/5192188810826159/](https://www.facebook.com/groups/AstronomyNo1/posts/5192188810826159/)  
+   Link: <a href="https://www.facebook.com/groups/AstronomyNo1/posts/5192188810826159/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/AstronomyNo1/posts/5192188810826159/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Can anyone explain what this is please it seemed to be...Can anyone explain what this is please it seemed to be some sort of star but it...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/livermore.lab/posts/why-do-stars-twinkle-the-blustery-mixing-of-earths-atmosphere-restricts-our-abil/1231156372373327/](https://www.facebook.com/livermore.lab/posts/why-do-stars-twinkle-the-blustery-mixing-of-earths-atmosphere-restricts-our-abil/1231156372373327/)  
+   Link: <a href="https://www.facebook.com/livermore.lab/posts/why-do-stars-twinkle-the-blustery-mixing-of-earths-atmosphere-restricts-our-abil/1231156372373327/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/livermore.lab/posts/why-do-stars-twinkle-the-blustery-mixing-of-earths-atmosphere-restricts-our-abil/1231156372373327/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>lity to see the universe clearly from the ground...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: forbes.com  
    Title: UFO Sightings Will Soon Peak  
-   Link: [https://www.forbes.com/sites/jamiecartereurope/2019/09/13/ufo-sightings-will-soon-peak-dont-blame-the-government/](https://www.forbes.com/sites/jamiecartereurope/2019/09/13/ufo-sightings-will-soon-peak-dont-blame-the-government/)  
+   Link: <a href="https://www.forbes.com/sites/jamiecartereurope/2019/09/13/ufo-sightings-will-soon-peak-dont-blame-the-government/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/jamiecartereurope/2019/09/13/ufo-sightings-will-soon-peak-dont-blame-the-government/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Don&#x27;t Blame The Government13 Sept 2019 — That&#x27;s sure to be a pretty sight. Venus and UFO sightings. The planet Venus often gets mistaken...</p></details>

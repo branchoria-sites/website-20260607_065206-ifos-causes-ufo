@@ -11,10 +11,10 @@ text_direction: 'ltr'
 direction: 'ltr'
 visual_profile: 'atlas'
 layout_archetype: 'atlas'
-visual_palette: 'north-atlantic'
+visual_palette: 'signal-cobalt'
 visual_motif: 'horizon'
-font_heading: 'Plus Jakarta Sans'
-font_body: 'Lora'
+font_heading: 'Manrope'
+font_body: 'Merriweather'
 appearance_menu_enabled: true
 appearance_menu_default_open: false
 appearance_toast_ms: 5000
@@ -36,7 +36,7 @@ homepage_copy_policy: 'polished'
 home_layout_mode: 'vertical'
 auto_home_layout_mode: 'catalog'
 hierarchy_viz_mode: 'hybrid'
-ui_bundle_version: 'build-1780811159'
+ui_bundle_version: 'build-1781222078'
 google_site_verification: ''
 draft_noindex: false
 theme: minima

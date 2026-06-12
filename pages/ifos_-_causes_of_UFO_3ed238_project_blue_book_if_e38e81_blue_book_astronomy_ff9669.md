@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81_blue_book_traffic_ch_86f401
 - ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81_special_report_14_ba_88096d
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - blue-book
 - sky-objects
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - blue-book
 - sky-objects
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Planets, meteors, fireballs, comets, and other sky objects often became UFO reports when weather or motion cues distorted perception.
 hero_summary: Planets, meteors, fireballs, comets, and other sky objects often became UFO reports when weather or motion cues distorted perception.
 layout: default
 permalink: /sky-objects/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /blue-book/
 nav_short_title: Sky Objects
 title: When Planets Looked Like UFOs
-title_full: When Planets Looked Like UFOs | Blue Book
+title_full: When Planets Looked Like UFOs
 display_title_short: Sky Objects
 display_title: Sky Objects
 heading_title: When Planets Looked Like UFOs
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 21:52:49'
-parent_title: What Blue Book Teaches About IFOs | IFOs
+parent_title: What Blue Book Teaches About IFOs
 parent_permalink: /blue-book/
 parent_nav_short_title: Blue Book
 parent_heading_title: What Blue Book Teaches About IFOs
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81
-  title: Blue Book | Ifos Causes Of
+  title: Blue Book | ifos causes of UFO 3 ed 238
   permalink: /blue-book/
   short_title: Blue Book
   heading_title: What Blue Book Teaches About IFOs
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81
-  title: Blue Book | Ifos Causes Of
+  title: Blue Book | ifos causes of UFO 3 ed 238
   permalink: /blue-book/
   short_title: Blue Book
   heading_title: What Blue Book Teaches About IFOs
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: The Hidden Traffic Behind UFO Sightings
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81
-  title: Blue Book | Ifos Causes Of
+  title: Blue Book | ifos causes of UFO 3 ed 238
   permalink: /blue-book/
   short_title: Blue Book
   heading_title: What Blue Book Teaches About IFOs
@@ -266,6 +265,7 @@ next_link:
   permalink: /three-labels/
   short_title: Three Labels
   heading_title: What Did Unidentified Really Mean?
+date: '2026-06-12 00:49:17 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81_blue_book_astronomy_ff9669-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81_blue_book_astronomy_ff9669-Illustration-1.webp
@@ -274,8 +274,7 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81_bl
 
 ## Introduction
 
-One of the clearest lessons from [Project Blue Book]({{ 'blue-book/' | relative_url }}) is that some of the most persuasive UFO reports began with real astronomical objects. Bright planets, meteors, [fireballs]({{ 'fireballs/' | relative_url }}), comets and other celestial phenomena repeatedly entered the Air Force files because human perception is highly sensitive to lighting, weather and viewing conditions. A stationary planet can appear to hover, follow a vehicle or execute sudden movements. A meteor can look like a controlled craft. A fireball crossing the sky may seem too large, too bright or too deliberate to be natural. Blue Book investigators found that these effects were not rare exceptions but recurring patterns within the UFO record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
-
+One of the clearest lessons from Project Blue Book is that some of the most persuasive UFO reports began with real astronomical objects. Bright planets, [meteors]({{ 'meteors/' | relative_url }}), [fireballs]({{ 'fireballs/' | relative_url }}), comets and other celestial phenomena repeatedly entered the Air Force files because human perception is highly sensitive to lighting, weather and viewing conditions. A stationary planet can appear to hover, follow a vehicle or execute sudden movements. A meteor can look like a controlled craft. A fireball crossing the sky may seem too large, too bright or too deliberate to be natural. Blue Book investigators found that these effects were not rare exceptions but recurring patterns within the UFO record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81_blue_book_astronomy_ff9669-Illustration-1-dark.svg" | relative_url }}" alt="Sky Objects illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81_blue_book_astronomy_ff9669-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81_blue_book_astronomy_ff9669-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For researchers interested in identified flying objects (IFOs), astronomical misidentifications are important because they reveal a specific mechanism by which ordinary stimuli become extraordinary reports. Rather than dismissing witnesses, Blue Book's files show how sincere observers can misinterpret genuine celestial events under misleading conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">he &quot;UFO&quot; was following them even though the celestial body...Read more...</span></span></span>
@@ -286,10 +285,9 @@ Among all astronomical explanations, [Venus]({{ 'venus/' | relative_url }}) was 
 
 Blue Book records repeatedly linked UFO reports to Venus and other bright planets. Statistical reviews of archived cases found that astronomical phenomena formed a substantial share of identified sightings, with Venus accounting for many of them. One analysis of Blue Book material found that known astronomical causes explained roughly a third of the cases examined in that sample, and Venus alone accounted for most of those astronomical identifications. <span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-snippet">Wikimedia CommonsThe Project Blue Book ArchiveKnown astronomical phenomena accounted for 21 of the sightings or approximately 35 percent...</span></span></span>
 
-The effect was not limited to casual observers. Astronomer J. Allen Hynek and later investigator Allan Hendry both noted that even trained witnesses, including police officers and pilots, could misjudge the apparent motion of bright celestial bodies. When viewed against a dark sky lacking [distance cues]({{ 'distance-cues/' | relative_url }}), planets can seem much closer than they are, leading observers to overestimate both their size and movement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
+The effect was not limited to casual observers. Astronomer J. Allen Hynek and later investigator Allan Hendry both noted that even trained witnesses, including police officers and [pilots]({{ 'pilots/' | relative_url }}), could misjudge the apparent motion of bright celestial bodies. When viewed against a dark sky lacking [distance cues]({{ 'distance-cues/' | relative_url }}), planets can seem much closer than they are, leading observers to overestimate both their size and movement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
 
 A particularly common perception was that the object was "following" a moving car. Because a distant planet maintains a nearly fixed position relative to the observer's direction of travel, it can appear to pace a vehicle over long distances. Witnesses often interpreted this as intelligent tracking behaviour. Investigators eventually recognised the pattern as one of the most reliable clues pointing toward a celestial explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">he &quot;UFO&quot; was following them even though the celestial body...Read more...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IDM90oTE2Fw" title="The Full Dr. J. Allen Hynek Interview | The Robertson Panel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IDM90oTE2Fw" target="_blank" rel="noopener noreferrer">The Full Dr. J. Allen Hynek Interview | The Robertson Panel</a></p><p class="youtube-embed-meta">Channel: UAP Files Podcast 🛸 &middot; Views: 1.2K &middot; Uploaded: January 2025 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IDM90oTE2Fw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IDM90oTE2Fw">Open on YouTube</a></p></div></div></div>
 
@@ -298,7 +296,6 @@ A particularly common perception was that the object was "following" a moving ca
 The astronomical object itself was often only part of the story. Atmospheric conditions transformed ordinary observations into puzzling UFO reports.
 
 When planets sit low above the horizon, their light must pass through a greater thickness of [atmosphere]({{ 'atmosphere/' | relative_url }}). Haze, thin cloud layers, moisture and temperature gradients can distort the image dramatically. Witnesses may see:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -314,7 +311,6 @@ These effects become especially convincing at night because observers lack fixed
 
 Blue Book's reliance on astronomical consultation reflected the importance of these factors. Archive material indicates that project personnel regularly reviewed sightings against astronomical data and maintained arrangements for specialist evaluation of potential celestial explanations. Reports were compared with known planetary positions, meteor activity and other sky events before more exotic interpretations were considered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-snippet">Wikimedia CommonsThe Project Blue Book ArchiveKnown astronomical phenomena accounted for 21 of the sightings or approximately 35 percent...</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81_blue_book_astronomy_ff9669-Illustration-2-dark.svg" | relative_url }}" alt="Sky Objects illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81_blue_book_astronomy_ff9669-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81_blue_book_astronomy_ff9669-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When a Bright Planet Became a Famous UFO
 
@@ -324,15 +320,13 @@ The well-known 1966 Portage County incident illustrates both the value and limit
 
 For the study of IFOs, the significance of these cases is not whether every detail was perfectly explained. Rather, they demonstrate how bright astronomical objects repeatedly emerged as plausible candidates even in reports from apparently reliable witnesses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">he &quot;UFO&quot; was following them even though the celestial body...Read more...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1vFvVNo7nok" title="J Allen Hynek - Skeptic To Believer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1vFvVNo7nok" target="_blank" rel="noopener noreferrer">J Allen Hynek - Skeptic To Believer</a></p><p class="youtube-embed-meta">Channel: The Future Past &middot; Views: 50 &middot; Uploaded: August 2025 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1vFvVNo7nok" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1vFvVNo7nok">Open on YouTube</a></p></div></div></div>
 
 ## Where Meteors and Fireballs Fit the IFO Record
 
-Planets generated long-duration sightings, but [meteors]({{ 'meteors/' | relative_url }}) and fireballs created a different category of UFO report. These events are brief, dramatic and often startling.
+Planets generated long-duration sightings, but meteors and fireballs created a different category of UFO report. These events are brief, dramatic and often startling.
 
 A large meteor entering Earth's atmosphere can appear as a brilliant object crossing the sky, sometimes fragmenting into multiple lights. Witnesses unfamiliar with the phenomenon may interpret it as a structured craft. Fireballs are especially prone to generating UFO reports because they can:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -348,7 +342,6 @@ Blue Book considered meteors common enough to require regular astronomical revie
 
 The distinction between planetary and meteor reports is useful. Planetary misidentifications often produced prolonged observations involving apparent hovering, tracking or intelligent behaviour. Meteor-related reports were more likely to involve sudden appearance, rapid movement and dramatic disappearance. Both pathways generated UFO reports, but through different perceptual mechanisms. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">he &quot;UFO&quot; was following them even though the celestial body...Read more...</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81_blue_book_astronomy_ff9669-Illustration-3-dark.svg" | relative_url }}" alt="Sky Objects illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81_blue_book_astronomy_ff9669-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81_blue_book_astronomy_ff9669-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Blue Book Record Shows
 
@@ -356,9 +349,7 @@ The evidence preserved in Project Blue Book points to a recurring pattern: ordin
 
 This does not mean every UFO report had an astronomical explanation. Blue Book itself retained a category of unresolved cases. What the files do show, however, is that celestial objects were among the most persistent and repeatedly confirmed sources of UFO reports. As an evidence base for understanding IFOs, the Blue Book archive demonstrates that the night sky itself was one of the most productive generators of apparently mysterious aerial phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[2af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue BookWith the termination of Project Blue Book, the Air Force regulation establishi...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/I6-A1i8LpcA" title="Astronomer, J Allen Hynek, Gives his Thoughts on Project Blue Book" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=I6-A1i8LpcA" target="_blank" rel="noopener noreferrer">Astronomer, J Allen Hynek, Gives his Thoughts on Project Blue Book</a></p><p class="youtube-embed-meta">Channel: Somewhere in the Skies w/ Ryan Sprague &middot; Views: 2.9K &middot; Uploaded: July 2025 &middot; Length: 1 minute 48 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=I6-A1i8LpcA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=I6-A1i8LpcA">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -477,15 +468,15 @@ This does not mean every UFO report had an astronomical explanation. Blue Book i
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-objects-when-planets-looked-like-ufos-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-objects-when-planets-looked-like-ufos-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Beautiful astro starry night sky. F Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2d7db700ef91db184218.jpg' | relative_url }}" alt="Listing image for Beautiful astro starry night sky. F Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-planets-looked-like-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-planets-looked-like-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-objects-when-planets-looked-like-ufos-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-objects-when-planets-looked-like-ufos-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Beautiful astro starry night sky. F Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-planets-looked-like-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-planets-looked-like-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-objects-when-planets-looked-like-ufos-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-objects-when-planets-looked-like-ufos-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-planets-looked-like-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-planets-looked-like-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-objects-when-planets-looked-like-ufos-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-objects-when-planets-looked-like-ufos-ifos-causes-of-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-planets-looked-like-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-planets-looked-like-ufos-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -493,15 +484,15 @@ This does not mean every UFO report had an astronomical explanation. Blue Book i
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-objects-when-planets-looked-like-ufos-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-objects-when-planets-looked-like-ufos-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starry Night Sky Clouds Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7e32f4b1666eef6514d0.jpg' | relative_url }}" alt="Listing image for Starry Night Sky Clouds Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-planets-looked-like-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-planets-looked-like-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-objects-when-planets-looked-like-ufos-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-objects-when-planets-looked-like-ufos-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Starry Night Sky Clouds Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-planets-looked-like-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-planets-looked-like-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-objects-when-planets-looked-like-ufos-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-objects-when-planets-looked-like-ufos-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-planets-looked-like-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-planets-looked-like-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-objects-when-planets-looked-like-ufos-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-objects-when-planets-looked-like-ufos-ifos-causes-of-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-planets-looked-like-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-planets-looked-like-ufos-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -509,15 +500,15 @@ This does not mean every UFO report had an astronomical explanation. Blue Book i
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-objects-when-planets-looked-like-ufos-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-objects-when-planets-looked-like-ufos-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Crescent Moon Night Sky Art Starry Forest Wall Print Midnight Landscape Poster"><img src="{{ '/assets/images/marketplace-covers/6d8c08fb07037584328c.jpg' | relative_url }}" alt="Listing image for Crescent Moon Night Sky Art Starry Forest Wall Print Midnight Landscape Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-planets-looked-like-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-planets-looked-like-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-objects-when-planets-looked-like-ufos-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-objects-when-planets-looked-like-ufos-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Crescent Moon Night Sky Art Starry Forest Wall Print Midnight Landscape Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-planets-looked-like-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-planets-looked-like-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-objects-when-planets-looked-like-ufos-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-objects-when-planets-looked-like-ufos-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-planets-looked-like-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-planets-looked-like-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-objects-when-planets-looked-like-ufos-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-objects-when-planets-looked-like-ufos-ifos-causes-of-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-planets-looked-like-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-planets-looked-like-ufos-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -525,15 +516,15 @@ This does not mean every UFO report had an astronomical explanation. Blue Book i
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-objects-when-planets-looked-like-ufos-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-objects-when-planets-looked-like-ufos-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Full Moon Night Sky Framed Art Prin Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/4e3c44f9f0aac763177e.jpg' | relative_url }}" alt="Listing image for Full Moon Night Sky Framed Art Prin Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-planets-looked-like-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-planets-looked-like-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-objects-when-planets-looked-like-ufos-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-objects-when-planets-looked-like-ufos-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Full Moon Night Sky Framed Art Prin Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-planets-looked-like-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-planets-looked-like-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-objects-when-planets-looked-like-ufos-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-objects-when-planets-looked-like-ufos-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-planets-looked-like-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-planets-looked-like-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-objects-when-planets-looked-like-ufos-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-objects-when-planets-looked-like-ufos-ifos-causes-of-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-planets-looked-like-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-planets-looked-like-ufos-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -541,7 +532,7 @@ This does not mean every UFO report had an astronomical explanation. Blue Book i
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-objects-when-planets-looked-like-ufos-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="sky-objects-when-planets-looked-like-ufos-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-planets-looked-like-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-planets-looked-like-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -757,132 +748,132 @@ This does not mean every UFO report had an astronomical explanation. Blue Book i
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 2. <a id="endnote-2"></a>
    Source: bahaistudies.net  
    Title: project blue book  
-   Link: [https://www.bahaistudies.net/asma/project_blue_book.pdf](https://www.bahaistudies.net/asma/project_blue_book.pdf)  
+   Link: <a href="https://www.bahaistudies.net/asma/project_blue_book.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bahaistudies.net/asma/project_blue_book.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>29 Sept 2012 — Most common are reports of astronomical sightings, which include bright stars, planets, comets, fireballs, meteors, aurora...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Unidentified flying object  
-   Link: [https://www.britannica.com/topic/unidentified-flying-object/Other-investigations-of-UFOs](https://www.britannica.com/topic/unidentified-flying-object/Other-investigations-of-UFOs)  
+   Link: <a href="https://www.britannica.com/topic/unidentified-flying-object/Other-investigations-of-UFOs" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/unidentified-flying-object/Other-investigations-of-UFOs</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>An astronomical object can be disconcerting to car drivers, as it can seem to “...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Identification_studies_of_UFOs](https://en.wikipedia.org/wiki/Identification_studies_of_UFOs)  
+   Link: <a href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Identification_studies_of_UFOs</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>he &quot;UFO&quot; was following them even though the celestial body...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: upload.wikimedia.org  
-   Link: [https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf](https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf)  
+   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsThe Project Blue Book ArchiveKnown astronomical phenomena accounted for 21 of the sightings or approximately 35 percent...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: upload.wikimedia.org  
-   Link: [https://upload.wikimedia.org/wikipedia/commons/5/54/Project_Blue_Book%2C_BBA-PBSR10-300.pdf](https://upload.wikimedia.org/wikipedia/commons/5/54/Project_Blue_Book%2C_BBA-PBSR10-300.pdf)  
+   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/5/54/Project_Blue_Book%2C_BBA-PBSR10-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/5/54/Project_Blue_Book%2C_BBA-PBSR10-300.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsThe Project Blue Book ArchiveBlue Book has a working agreement with its contract astronomer whereby he reviews all sight...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: af.mil  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue BookWith the termination of Project Blue Book, the Air Force regulation establishi...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book | Definition, History, Aliens, UFOs, &amp; Facts16 May 2026 — unidentified flying object (UFO), any aerial object or optica...</p></details>
    Published: May 2026  
 
 9. <a id="endnote-9"></a>
    Source: britannica.com  
    Title: unidentified flying objects what we know  
-   Link: [https://www.britannica.com/story/unidentified-flying-objects-what-we-know](https://www.britannica.com/story/unidentified-flying-objects-what-we-know)  
+   Link: <a href="https://www.britannica.com/story/unidentified-flying-objects-what-we-know" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/story/unidentified-flying-objects-what-we-know</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force investigated UFO sightings through Project Blue Book.... UFOs did not warrant further investigation. This, together...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/question/What-are-some-possible-explanations-for-UFO-sightings](https://www.britannica.com/question/What-are-some-possible-explanations-for-UFO-sightings)  
+   Link: <a href="https://www.britannica.com/question/What-are-some-possible-explanations-for-UFO-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/question/What-are-some-possible-explanations-for-UFO-sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The first widely publicized UFO sighting occurred in 1947, when...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt](https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt)  
+   Link: <a href="https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>t Blue Book, the US Air Force&#x27;s UFO research project.Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: J Allen Hynek  
-   Link: [http://www.youtube.com/watch?v=1vFvVNo7nok](http://www.youtube.com/watch?v=1vFvVNo7nok)  
+   Link: <a href="http://www.youtube.com/watch?v=1vFvVNo7nok" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=1vFvVNo7nok</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>J. Allen Hynek - Skeptic to Believer...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: J. Allen Hynek  
-   Link: [http://www.youtube.com/watch?v=W28MTmWRytM](http://www.youtube.com/watch?v=W28MTmWRytM)  
+   Link: <a href="http://www.youtube.com/watch?v=W28MTmWRytM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=W28MTmWRytM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. J. Allen Hynek Project Blue Book astronomical misidentifications The Full Dr. J. Allen Hynek Interview | The Robertson Panel...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: osi.af.mil  
    Title: project blue book part 1 ufo reports  
-   Link: [https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/](https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/)  
+   Link: <a href="https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book Part 1 (UFO Reports)6 Aug 2020 — Dr. J. Allen Hynek worked with the U.S. Air Force, leading investigations of UFO sightings und...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FLYING SAUCERS UFO REPORTSIn three months, starting with April, air line crews had accounted for 35 reports on UFOs and Captain Eddie Ric...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: esd.whs.mil  
-   Link: [https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837](https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837)  
+   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue BookSatellites are another major source of UFO reports. An increase in [satellites](&amp;#123;&amp;#123; &#x27;satellites/&#x27; | relative_url &amp;#125;&amp;#125;) reported as UFOs has come about because of two fac...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/](https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reportsEarly letters regarding UFO sightings · Correspondence on the Rendlesham Forest incident · Documents on UFO policy and communi...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
    Title: project blue book the american governments failed cold war era effort to debunk  
-   Link: [https://www.facebook.com/shutupimtalking.net/posts/project-blue-book-the-american-governments-failed-cold-war-era-effort-to-debunk-/1295025952669343/](https://www.facebook.com/shutupimtalking.net/posts/project-blue-book-the-american-governments-failed-cold-war-era-effort-to-debunk-/1295025952669343/)  
+   Link: <a href="https://www.facebook.com/shutupimtalking.net/posts/project-blue-book-the-american-governments-failed-cold-war-era-effort-to-debunk-/1295025952669343/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/shutupimtalking.net/posts/project-blue-book-the-american-governments-failed-cold-war-era-effort-to-debunk-/1295025952669343/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The American Government&#x27;s Failed Cold War-EraThere were a total of 12,618 UFO sightings from 1948-1969: The Air Force investigation of UF...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: amazon.co.uk  
-   Link: [https://www.amazon.co.uk/Hynek-UFO-Report-Authoritative-Cover-Up/dp/1590033035](https://www.amazon.co.uk/Hynek-UFO-Report-Authoritative-Cover-Up/dp/1590033035)  
+   Link: <a href="https://www.amazon.co.uk/Hynek-UFO-Report-Authoritative-Cover-Up/dp/1590033035" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Hynek-UFO-Report-Authoritative-Cover-Up/dp/1590033035</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It is for anyone interested in UFOs, the possibility of extraterrestrial life, and the role of the US...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: popularmechanics.com  
    Title: j allen hynek project blue book ufo investigation truth  
-   Link: [https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/](https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/)  
+   Link: <a href="https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Allen Hynek &amp; Project Blue Book: UFO Secrets Revealed12 Apr 2026 —... UFO mysteries J. Allen Hynek uncovered with Project... dr j allen...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: space.com  
-   Link: [https://www.space.com/42941-project-blue-book-ufos-history-channel.html](https://www.space.com/42941-project-blue-book-ufos-history-channel.html)  
+   Link: <a href="https://www.space.com/42941-project-blue-book-ufos-history-channel.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/42941-project-blue-book-ufos-history-channel.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Top-Secret UFO Program Revealed in TV&#x27;s &#x27;Project Blue...8 Jan 2019 — &quot;UFOs are a mystery that&#x27;s still unsolved at this point,&quot; Jablonski...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: everand.com  
-   Link: [https://www.everand.com/book/396431199/Project-Blue-Book-The-Top-Secret-UFO-Files-that-Revealed-a-Government-Cover-Up](https://www.everand.com/book/396431199/Project-Blue-Book-The-Top-Secret-UFO-Files-that-Revealed-a-Government-Cover-Up)  
+   Link: <a href="https://www.everand.com/book/396431199/Project-Blue-Book-The-Top-Secret-UFO-Files-that-Revealed-a-Government-Cover-Up" target="_blank" rel="noopener noreferrer nofollow">https://www.everand.com/book/396431199/Project-Blue-Book-The-Top-Secret-UFO-Files-that-Revealed-a-Government-Cover-Up</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>et Aircraft, Cover-Ups &amp; Conspiracies · The Government UFO Files: The...Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: space.com  
    Title: Were Alien Secrets Hidden in [Roswell](&#123;&#123; 'roswell/' | relative_url &#125;&#125;) and Area 51?  
-   Link: [https://www.space.com/project-blue-book-ufos-season-two.html](https://www.space.com/project-blue-book-ufos-season-two.html)  
+   Link: <a href="https://www.space.com/project-blue-book-ufos-season-two.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/project-blue-book-ufos-season-two.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>21 Jan 2020 — 21 at 10 p.m. ET/9 p.m. CT. 7 Things Most Often Mistaken for UFOs · 9 Strange, Scientific Excuses for Why Humans Haven&#x27;t Fo...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: reddit.com  
    Title: this is an interview from 1977 j allen hynek lead  
-   Link: [https://www.reddit.com/r/UFOs/comments/15pxvm8/this_is_an_interview_from_1977_j_allen_hynek_lead/](https://www.reddit.com/r/UFOs/comments/15pxvm8/this_is_an_interview_from_1977_j_allen_hynek_lead/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/15pxvm8/this_is_an_interview_from_1977_j_allen_hynek_lead/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/15pxvm8/this_is_an_interview_from_1977_j_allen_hynek_lead/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This is an interview from 1977. J. Allen Hynek, lead...UFO Whistleblower David Grusch not mentioned in newest NYT article. Thoughts on t...</p></details>

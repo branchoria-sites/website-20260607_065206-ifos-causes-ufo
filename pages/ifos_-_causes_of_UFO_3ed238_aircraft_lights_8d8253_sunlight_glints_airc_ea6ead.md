@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253_head_on_landing_ligh_2fc811
 - ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253_navigation_strobe_co_85d16e
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - aircraft-lights
 - sun-glints
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - aircraft-lights
 - sun-glints
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Reflected sunlight from aircraft surfaces or contrails can create bright flashes, glowing streaks and sudden disappearances.
 hero_summary: Reflected sunlight from aircraft surfaces or contrails can create bright flashes, glowing streaks and sudden disappearances.
 layout: default
 permalink: /sun-glints/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /aircraft-lights/
 nav_short_title: Sun Glints
 title: How Sun Glints Turn Planes Into UFOs
-title_full: How Sun Glints Turn Planes Into UFOs | Aircraft Lights
+title_full: How Sun Glints Turn Planes Into UFOs
 display_title_short: Sun Glints
 display_title: Sun Glints
 heading_title: How Sun Glints Turn Planes Into UFOs
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 01:47:57'
-parent_title: Why Ordinary Aircraft Look So Strange | IFOs
+parent_title: Why Ordinary Aircraft Look So Strange
 parent_permalink: /aircraft-lights/
 parent_nav_short_title: Aircraft Lights
 parent_heading_title: Why Ordinary Aircraft Look So Strange
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253
-  title: Aircraft Lights | Ifos Causes Of
+  title: Aircraft Lights | ifos causes of UFO 3 ed 238
   permalink: /aircraft-lights/
   short_title: Aircraft Lights
   heading_title: Why Ordinary Aircraft Look So Strange
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253
-  title: Aircraft Lights | Ifos Causes Of
+  title: Aircraft Lights | ifos causes of UFO 3 ed 238
   permalink: /aircraft-lights/
   short_title: Aircraft Lights
   heading_title: Why Ordinary Aircraft Look So Strange
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: When Aircraft Lights Do Not Look Like Aircraft
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253
-  title: Aircraft Lights | Ifos Causes Of
+  title: Aircraft Lights | ifos causes of UFO 3 ed 238
   permalink: /aircraft-lights/
   short_title: Aircraft Lights
   heading_title: Why Ordinary Aircraft Look So Strange
@@ -260,6 +259,7 @@ prev_link:
   permalink: /nav-lights/
   short_title: Nav Lights
   heading_title: When Aircraft Lights Do Not Look Like Aircraft
+date: '2026-06-12 00:28:48 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253_sunlight_glints_airc_ea6ead-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253_sunlight_glints_airc_ea6ead-Illustration-1.webp
@@ -269,7 +269,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253_sunligh
 ## Introduction
 
 Some UFO reports made during daylight, sunset or twilight are not caused by mysterious lights at all. Instead, they begin with ordinary sunlight striking an aircraft at exactly the right angle. Under low-angle lighting conditions, a distant aeroplane can flash with extraordinary brightness, appear silver or metallic, leave a glowing coloured trail, and then seem to vanish without warning. To an observer who cannot see the aircraft's shape, the effect can resemble a reflective disc, cigar-shaped craft or self-luminous object rather than a conventional plane. The mechanism is well understood: highly directional [reflections]({{ 'reflections/' | relative_url }}) from aircraft surfaces and ice-crystal [contrails]({{ 'contrails/' | relative_url }}) can dramatically alter how a distant aircraft appears from the ground. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/contrails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">The optical effect is similar to how sunlight is reflected...Read more...</span></span></span>
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253_sunlight_glints_airc_ea6ead-Illustration-1-dark.svg" | relative_url }}" alt="Sun Glints illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253_sunlight_glints_airc_ea6ead-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253_sunlight_glints_airc_ea6ead-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How Sun Glints Turn Planes Into UFOs
@@ -282,7 +281,6 @@ The effect can be surprisingly intense. A distant aircraft that is otherwise nea
 
 Several features of UFO reports are naturally produced by this geometry:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **Metallic appearance:** the reflection resembles sunlight bouncing from polished metal.
@@ -294,7 +292,6 @@ Several features of UFO reports are naturally produced by this geometry:
 
 The result is a classic witness description: a bright silver object apparently hanging motionless in the sky before behaving in unexpected ways.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6BD9fyyIJzY" title="Spatial Disorientation Explained: Deadly Flight Illusions Every Pilot Must Know" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6BD9fyyIJzY" target="_blank" rel="noopener noreferrer">Spatial Disorientation Explained: Deadly Flight Illusions Every Pilot Must Know</a></p><p class="youtube-embed-meta">Channel: Epic Flight Academy &middot; Views: 9.1K &middot; Uploaded: December 2025 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6BD9fyyIJzY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6BD9fyyIJzY">Open on YouTube</a></p></div></div></div>
 
 ## How Contrails Become Red or Orange Streaks
@@ -305,7 +302,6 @@ Contrails consist primarily of tiny ice crystals. These crystals reflect and sca
 
 This produces a common UFO scenario. A witness sees:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * A glowing orange streak moving across a darkening sky.
@@ -315,7 +311,6 @@ This produces a common UFO scenario. A witness sees:
 </div>
 
 In reality, the bright head may be the aircraft catching sunlight while the trailing contrail is illuminated from below the horizon. The combination can resemble a fiery craft, rocket plume or elongated metallic object. Aviation observers frequently document these twilight effects, particularly when aircraft cruise at high altitude while lower atmospheric layers are already in shadow. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/contrails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">The optical effect is similar to how sunlight is reflected...Read more...</span></span></span>
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253_sunlight_glints_airc_ea6ead-Illustration-2-dark.svg" | relative_url }}" alt="Sun Glints illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253_sunlight_glints_airc_ea6ead-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253_sunlight_glints_airc_ea6ead-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Glints Appear and Vanish Suddenly
@@ -328,9 +323,7 @@ A sun glint is visible only while the aircraft, Sun and observer remain in a nar
 
 To someone unaware of the reflection effect, the sequence can appear dramatic:
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/O-2Zgcen0pA" title="Contrails Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=O-2Zgcen0pA" target="_blank" rel="noopener noreferrer">Contrails Explained</a></p><p class="youtube-embed-meta">Channel: Federal Aviation Administration &middot; Views: 39.5K &middot; Uploaded: July 2025 &middot; Length: 1 minute 32 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=O-2Zgcen0pA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=O-2Zgcen0pA">Open on YouTube</a></p></div></div></div>
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -343,13 +336,11 @@ To someone unaware of the reflection effect, the sequence can appear dramatic:
 
 The impression is often of an object exercising deliberate control. The simpler explanation is that the observer briefly occupied the narrow path of reflected sunlight and then fell outside it.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ovb2uMYstwY" title="Alderney UFO sighting explained | Why it&#x27;s one of the most incredible ever recorded | This Is Why" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ovb2uMYstwY" target="_blank" rel="noopener noreferrer">Alderney UFO sighting explained | Why it&#x27;s one of the most incredible ever recorded | This Is Why</a></p><p class="youtube-embed-meta">Channel: 7NEWS Australia &middot; Views: 745.0K &middot; Uploaded: January 2022 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ovb2uMYstwY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ovb2uMYstwY">Open on YouTube</a></p></div></div></div>
 
 ## Clues That a UFO May Be a Twilight Sun Glint
 
 Certain characteristics repeatedly appear in sightings later linked to aircraft reflections:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -363,7 +354,6 @@ Certain characteristics repeatedly appear in sightings later linked to aircraft 
 </div>
 
 These clues do not prove that every sighting is an aircraft. They do, however, match a specific and well-understood optical mechanism that has repeatedly generated reports of metallic-looking aerial objects.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253_sunlight_glints_airc_ea6ead-Illustration-3-dark.svg" | relative_url }}" alt="Sun Glints illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253_sunlight_glints_airc_ea6ead-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253_sunlight_glints_airc_ea6ead-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why This Explanation Fits Many Aircraft-Related UFO Reports
@@ -489,15 +479,15 @@ The evidence is straightforward: reflective surfaces can create extremely bright
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model+aircraft&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-glints-how-sun-glints-turn-planes-into-ufos-ifos-causes-of-airliner-model-aircraft&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model aircraft" data-ebay-reference="sun-glints-how-sun-glints-turn-planes-into-ufos-ifos-causes-of-airliner-model-aircraft" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Selection of new snap fit Airtours International model aircraft."><img src="{{ '/assets/images/marketplace-covers/9f0579834a7ccdf62dff.jpg' | relative_url }}" alt="Listing image for Selection of new snap fit Airtours International model aircraft." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-sun-glints-turn-planes-into-ufos-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="how-sun-glints-turn-planes-into-ufos-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for British Airways Airbus A321 Single Die Cast Toy Plane - Daron RT6007"><img src="https://i.ebayimg.com/images/g/QcYAAeSwhypqKVlD/s-l225.jpg" alt="Listing image for British Airways Airbus A321 Single Die Cast Toy Plane - Daron RT6007" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model+aircraft&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-glints-how-sun-glints-turn-planes-into-ufos-ifos-causes-of-airliner-model-aircraft&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model aircraft" data-ebay-reference="sun-glints-how-sun-glints-turn-planes-into-ufos-ifos-causes-of-airliner-model-aircraft" target="_blank" rel="sponsored noopener noreferrer">Selection of new snap fit Airtours International model aircraft.</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-sun-glints-turn-planes-into-ufos-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="how-sun-glints-turn-planes-into-ufos-airplane-model" target="_blank" rel="sponsored noopener noreferrer">British Airways Airbus A321 Single Die Cast Toy Plane - Daron RT6007</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model+aircraft&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-glints-how-sun-glints-turn-planes-into-ufos-ifos-causes-of-airliner-model-aircraft&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model aircraft" data-ebay-reference="sun-glints-how-sun-glints-turn-planes-into-ufos-ifos-causes-of-airliner-model-aircraft" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airliner model aircraft">Search <span data-ebay-domain-label>eBay.co.uk</span>: airliner model aircraft</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-sun-glints-turn-planes-into-ufos-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="how-sun-glints-turn-planes-into-ufos-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model+aircraft&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-glints-how-sun-glints-turn-planes-into-ufos-ifos-causes-of-airliner-model-aircraft&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model aircraft" data-ebay-reference="sun-glints-how-sun-glints-turn-planes-into-ufos-ifos-causes-of-airliner-model-aircraft" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-sun-glints-turn-planes-into-ufos-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="how-sun-glints-turn-planes-into-ufos-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -505,15 +495,15 @@ The evidence is straightforward: reflective surfaces can create extremely bright
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model+aircraft&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-glints-how-sun-glints-turn-planes-into-ufos-ifos-causes-of-airliner-model-aircraft&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model aircraft" data-ebay-reference="sun-glints-how-sun-glints-turn-planes-into-ufos-ifos-causes-of-airliner-model-aircraft" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Air Europe Boeing 757 Model No 9 Wooster 1989 Model Aircraft"><img src="{{ '/assets/images/marketplace-covers/df7d75b428b1f5abe578.jpg' | relative_url }}" alt="Listing image for Air Europe Boeing 757 Model No 9 Wooster 1989 Model Aircraft" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-sun-glints-turn-planes-into-ufos-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="how-sun-glints-turn-planes-into-ufos-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 16cm Virgin Atlantic B747 Airplane Model 1:400 Alloy Simulation Plane Ornaments"><img src="https://i.ebayimg.com/images/g/chUAAeSwyX9peIiz/s-l225.jpg" alt="Listing image for 16cm Virgin Atlantic B747 Airplane Model 1:400 Alloy Simulation Plane Ornaments" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model+aircraft&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-glints-how-sun-glints-turn-planes-into-ufos-ifos-causes-of-airliner-model-aircraft&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model aircraft" data-ebay-reference="sun-glints-how-sun-glints-turn-planes-into-ufos-ifos-causes-of-airliner-model-aircraft" target="_blank" rel="sponsored noopener noreferrer">Air Europe Boeing 757 Model No 9 Wooster 1989 Model Aircraft</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-sun-glints-turn-planes-into-ufos-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="how-sun-glints-turn-planes-into-ufos-airplane-model" target="_blank" rel="sponsored noopener noreferrer">16cm Virgin Atlantic B747 Airplane Model 1:400 Alloy Simulation Plane Ornaments</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model+aircraft&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-glints-how-sun-glints-turn-planes-into-ufos-ifos-causes-of-airliner-model-aircraft&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model aircraft" data-ebay-reference="sun-glints-how-sun-glints-turn-planes-into-ufos-ifos-causes-of-airliner-model-aircraft" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airliner model aircraft">Search <span data-ebay-domain-label>eBay.co.uk</span>: airliner model aircraft</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-sun-glints-turn-planes-into-ufos-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="how-sun-glints-turn-planes-into-ufos-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model+aircraft&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-glints-how-sun-glints-turn-planes-into-ufos-ifos-causes-of-airliner-model-aircraft&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model aircraft" data-ebay-reference="sun-glints-how-sun-glints-turn-planes-into-ufos-ifos-causes-of-airliner-model-aircraft" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-sun-glints-turn-planes-into-ufos-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="how-sun-glints-turn-planes-into-ufos-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -521,15 +511,15 @@ The evidence is straightforward: reflective surfaces can create extremely bright
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model+aircraft&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-glints-how-sun-glints-turn-planes-into-ufos-ifos-causes-of-airliner-model-aircraft&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model aircraft" data-ebay-reference="sun-glints-how-sun-glints-turn-planes-into-ufos-ifos-causes-of-airliner-model-aircraft" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Singapore Airlines Airbus A350 Model Aircraft Large Display Plane"><img src="{{ '/assets/images/marketplace-covers/ed63f40c947feea81f55.jpg' | relative_url }}" alt="Listing image for Singapore Airlines Airbus A350 Model Aircraft Large Display Plane" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-sun-glints-turn-planes-into-ufos-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="how-sun-glints-turn-planes-into-ufos-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ryanair Boeing 737 Single Die Cast Toy Plane - RT0011"><img src="https://i.ebayimg.com/images/g/lbAAAOSwEH5nc7Cg/s-l225.jpg" alt="Listing image for Ryanair Boeing 737 Single Die Cast Toy Plane - RT0011" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model+aircraft&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-glints-how-sun-glints-turn-planes-into-ufos-ifos-causes-of-airliner-model-aircraft&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model aircraft" data-ebay-reference="sun-glints-how-sun-glints-turn-planes-into-ufos-ifos-causes-of-airliner-model-aircraft" target="_blank" rel="sponsored noopener noreferrer">Singapore Airlines Airbus A350 Model Aircraft Large Display Plane</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-sun-glints-turn-planes-into-ufos-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="how-sun-glints-turn-planes-into-ufos-airplane-model" target="_blank" rel="sponsored noopener noreferrer">Ryanair Boeing 737 Single Die Cast Toy Plane - RT0011</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model+aircraft&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-glints-how-sun-glints-turn-planes-into-ufos-ifos-causes-of-airliner-model-aircraft&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model aircraft" data-ebay-reference="sun-glints-how-sun-glints-turn-planes-into-ufos-ifos-causes-of-airliner-model-aircraft" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airliner model aircraft">Search <span data-ebay-domain-label>eBay.co.uk</span>: airliner model aircraft</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-sun-glints-turn-planes-into-ufos-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="how-sun-glints-turn-planes-into-ufos-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model+aircraft&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-glints-how-sun-glints-turn-planes-into-ufos-ifos-causes-of-airliner-model-aircraft&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model aircraft" data-ebay-reference="sun-glints-how-sun-glints-turn-planes-into-ufos-ifos-causes-of-airliner-model-aircraft" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-sun-glints-turn-planes-into-ufos-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="how-sun-glints-turn-planes-into-ufos-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -537,15 +527,15 @@ The evidence is straightforward: reflective surfaces can create extremely bright
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model+aircraft&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-glints-how-sun-glints-turn-planes-into-ufos-ifos-causes-of-airliner-model-aircraft&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model aircraft" data-ebay-reference="sun-glints-how-sun-glints-turn-planes-into-ufos-ifos-causes-of-airliner-model-aircraft" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 16cm A380 Airbus Emirates Metal Aircraft Plane Model Gift UK"><img src="{{ '/assets/images/marketplace-covers/4b5e9402b7e76e7c1cae.jpg' | relative_url }}" alt="Listing image for 16cm A380 Airbus Emirates Metal Aircraft Plane Model Gift UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-sun-glints-turn-planes-into-ufos-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="how-sun-glints-turn-planes-into-ufos-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TUI Boeing 787 Single Die Cast Toy Plane - Daron RT4300"><img src="https://i.ebayimg.com/images/g/I0YAAOSwnDdncsku/s-l225.jpg" alt="Listing image for TUI Boeing 787 Single Die Cast Toy Plane - Daron RT4300" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model+aircraft&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-glints-how-sun-glints-turn-planes-into-ufos-ifos-causes-of-airliner-model-aircraft&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model aircraft" data-ebay-reference="sun-glints-how-sun-glints-turn-planes-into-ufos-ifos-causes-of-airliner-model-aircraft" target="_blank" rel="sponsored noopener noreferrer">16cm A380 Airbus Emirates Metal Aircraft Plane Model Gift UK</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-sun-glints-turn-planes-into-ufos-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="how-sun-glints-turn-planes-into-ufos-airplane-model" target="_blank" rel="sponsored noopener noreferrer">TUI Boeing 787 Single Die Cast Toy Plane - Daron RT4300</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model+aircraft&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-glints-how-sun-glints-turn-planes-into-ufos-ifos-causes-of-airliner-model-aircraft&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model aircraft" data-ebay-reference="sun-glints-how-sun-glints-turn-planes-into-ufos-ifos-causes-of-airliner-model-aircraft" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airliner model aircraft">Search <span data-ebay-domain-label>eBay.co.uk</span>: airliner model aircraft</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-sun-glints-turn-planes-into-ufos-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="how-sun-glints-turn-planes-into-ufos-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model+aircraft&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-glints-how-sun-glints-turn-planes-into-ufos-ifos-causes-of-airliner-model-aircraft&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model aircraft" data-ebay-reference="sun-glints-how-sun-glints-turn-planes-into-ufos-ifos-causes-of-airliner-model-aircraft" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-sun-glints-turn-planes-into-ufos-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="how-sun-glints-turn-planes-into-ufos-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -553,7 +543,7 @@ The evidence is straightforward: reflective surfaces can create extremely bright
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+model+aircraft&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-glints-how-sun-glints-turn-planes-into-ufos-ifos-causes-of-airliner-model-aircraft&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner model aircraft" data-ebay-reference="sun-glints-how-sun-glints-turn-planes-into-ufos-ifos-causes-of-airliner-model-aircraft" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-sun-glints-turn-planes-into-ufos-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="how-sun-glints-turn-planes-into-ufos-airplane-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -769,66 +759,66 @@ The evidence is straightforward: reflective surfaces can create extremely bright
 1. <a id="endnote-1"></a>
    Source: arxiv.org  
    Title: arXiv Extreme Flaring of [Starlink](&#123;&#123; 'starlink/' | relative_url &#125;&#125;) [Satellites](&#123;&#123; 'satellites/' | relative_url &#125;&#125;)  
-   Link: [https://arxiv.org/abs/2405.13091](https://arxiv.org/abs/2405.13091)  
+   Link: <a href="https://arxiv.org/abs/2405.13091" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2405.13091</a>  
 
 2. <a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1903.05839](https://arxiv.org/abs/1903.05839)  
+   Link: <a href="https://arxiv.org/abs/1903.05839" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1903.05839</a>  
 
 3. <a id="endnote-3"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/contrails](https://www.faa.gov/contrails)  
+   Link: <a href="https://www.faa.gov/contrails" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/contrails</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The optical effect is similar to how sunlight is reflected...Read more...</p></details>
 
 ### Additional References
 
 4. <a id="endnote-4"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/[pilots](https://www.faa.gov/[pilots)  
+   Link: <a href="https://www.faa.gov/[pilots" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/[pilots</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spatial Disorientation: Visual IllusionsA final approach over a downsloping terrain with a flat runway may produce the visual illusion th...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...As the UFOs changed angle relative to the sun, they appeared silvery and metallic (suggesting...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DXUsdpXDWb3/?hl=en](https://www.instagram.com/reel/DXUsdpXDWb3/?hl=en)  
+   Link: <a href="https://www.instagram.com/reel/DXUsdpXDWb3/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXUsdpXDWb3/?hl=en</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AccuWeather | A “glory” appears around the plane’s shadow...A &#x27;glory&#x27; appears when a plane&#x27;s shadow falls on clouds surrounded by sunlig...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/SpaceLaunchSchedule/posts/1597666787940439/](https://www.facebook.com/groups/SpaceLaunchSchedule/posts/1597666787940439/)  
+   Link: <a href="https://www.facebook.com/groups/SpaceLaunchSchedule/posts/1597666787940439/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/SpaceLaunchSchedule/posts/1597666787940439/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft trail illusion caused by twilight effectYou can see the contrails originating from the two engines. Zoom in a little, and you ca...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: skybrary.aero  
-   Link: [https://skybrary.aero/sites/default/files/bookshelf/3720.pdf](https://skybrary.aero/sites/default/files/bookshelf/3720.pdf)  
+   Link: <a href="https://skybrary.aero/sites/default/files/bookshelf/3720.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/sites/default/files/bookshelf/3720.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>BLACK HOLE ILLUSION RE-VISITING THE...The approach to. Runway 13 brings aircraft in over the water to landing. The pilots were transitio...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOB/comments/1jis7b9/flying_on_private_plane_yesterday_and_saw_very/](https://www.reddit.com/r/UFOB/comments/1jis7b9/flying_on_private_plane_yesterday_and_saw_very/)  
+   Link: <a href="https://www.reddit.com/r/UFOB/comments/1jis7b9/flying_on_private_plane_yesterday_and_saw_very/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1jis7b9/flying_on_private_plane_yesterday_and_saw_very/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Flying on private plane yesterday and saw very strange thingWe were flying at just over 40,000 feet at the time. Also posed on UFOs but w...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DXt4VBGih1l/](https://www.instagram.com/reel/DXt4VBGih1l/)  
+   Link: <a href="https://www.instagram.com/reel/DXt4VBGih1l/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXt4VBGih1l/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SenPi on Instagram: &quot;Ever looked up and seen those long...These vapor trails, known as contrails, can spread dramatically and create the...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=O-2Zgcen0pA](https://www.youtube.com/watch?v=O-2Zgcen0pA)  
+   Link: <a href="https://www.youtube.com/watch?v=O-2Zgcen0pA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=O-2Zgcen0pA</a>  
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/MrMBB333/posts/something-large-and-round-appeared-beside-the-sunthis-video-was-captured-while-d/1464248508393659/](https://www.facebook.com/MrMBB333/posts/something-large-and-round-appeared-beside-the-sunthis-video-was-captured-while-d/1464248508393659/)  
+   Link: <a href="https://www.facebook.com/MrMBB333/posts/something-large-and-round-appeared-beside-the-sunthis-video-was-captured-while-d/1464248508393659/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MrMBB333/posts/something-large-and-round-appeared-beside-the-sunthis-video-was-captured-while-d/1464248508393659/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>August 17, 2020. I was wondering if anyone else has seen something similar in the SA area. Maybe a UFO, or a...</p></details>
    Published: August 17, 2020  
 
 13. <a id="endnote-13"></a>
    Source: ntsb.gov  
    Title: These accidents serve as important reminders  
-   Link: [https://www.ntsb.gov/Advocacy/safety-alerts/Documents/SA-052.pdf](https://www.ntsb.gov/Advocacy/safety-alerts/Documents/SA-052.pdf)  
+   Link: <a href="https://www.ntsb.gov/Advocacy/safety-alerts/Documents/SA-052.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ntsb.gov/Advocacy/safety-alerts/Documents/SA-052.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Visual Illusions: The Ground May Be Closer Than It AppearsThe NTSB has investigated many general aviation (GA) accidents involving flat l...</p></details>

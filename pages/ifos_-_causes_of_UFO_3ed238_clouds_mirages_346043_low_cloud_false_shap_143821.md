@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_superior_mirage_lift_94a6c8
 - ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_twinkling_moving_sta_10c309
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - atmosphere
 - cloud-shapes
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - atmosphere
 - cloud-shapes
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Patchy low cloud can hide and reveal parts of a light, making discs, triangles or moving structures appear in the sky.
 hero_summary: Patchy low cloud can hide and reveal parts of a light, making discs, triangles or moving structures appear in the sky.
 layout: default
 permalink: /cloud-shapes/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /atmosphere/
 nav_short_title: Cloud shapes
 title: Can clouds draw a fake spacecraft?
-title_full: Can clouds draw a fake spacecraft? | Atmosphere
+title_full: Can clouds draw a fake spacecraft?
 display_title_short: Cloud shapes
 display_title: Cloud shapes
 heading_title: Can clouds draw a fake spacecraft?
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 09:28:16'
-parent_title: When Weather Makes Shapes in the Sky | IFOs
+parent_title: When Weather Makes Shapes in the Sky
 parent_permalink: /atmosphere/
 parent_nav_short_title: Atmosphere
 parent_heading_title: When Weather Makes Shapes in the Sky
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043
-  title: Atmosphere | Ifos Causes Of
+  title: Atmosphere | ifos causes of UFO 3 ed 238
   permalink: /atmosphere/
   short_title: Atmosphere
   heading_title: When Weather Makes Shapes in the Sky
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043
-  title: Atmosphere | Ifos Causes Of
+  title: Atmosphere | ifos causes of UFO 3 ed 238
   permalink: /atmosphere/
   short_title: Atmosphere
   heading_title: When Weather Makes Shapes in the Sky
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: Why a star can look alive
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043
-  title: Atmosphere | Ifos Causes Of
+  title: Atmosphere | ifos causes of UFO 3 ed 238
   permalink: /atmosphere/
   short_title: Atmosphere
   heading_title: When Weather Makes Shapes in the Sky
@@ -260,6 +259,7 @@ next_link:
   permalink: /haze-halos/
   short_title: Haze halos
   heading_title: When haze makes lights look enormous
+date: '2026-06-12 00:24:47 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_low_cloud_false_shap_143821-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_low_cloud_false_shap_143821-Illustration-1.webp
@@ -270,9 +270,8 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_low_clou
 
 Yes. Low cloud can effectively “draw” a spacecraft that is not really there. When a bright light source sits behind a patchy cloud layer, the cloud’s edges can become the apparent edges of a solid object. A witness may perceive a glowing disc, triangle, cigar shape or structured craft even though the only physical object is a distant light hidden behind moving cloud. This is a well-documented source of UFO reports because the human visual system naturally interprets sharp contrasts and partial outlines as complete objects.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_low_cloud_false_shap_143821-Illustration-1-dark.svg" | relative_url }}" alt="Cloud shapes illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_low_cloud_false_shap_143821-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_low_cloud_false_shap_143821-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The effect is especially common at night, when distance cues are poor and cloud layers obscure the true source of illumination. Investigators have long noted that planets, [aircraft lights]({{ 'aircraft-lights/' | relative_url }}) and other bright sources viewed through haze, fog or moving cloud can appear as unfamiliar aerial objects. [Project Blue Book]({{ 'blue-book/' | relative_url }}) specifically identified planets seen through haze, fog and moving cloud as a recurring cause of UFO reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[whs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">Enterprise Services Dashboard Project Blue Book</span><span class="citation-popover-snippet">WHS Enterprise Services DashboardProject Blue BookSeptember 25, 2012 — When observed through haze, light fog, moving clouds, or other obs...</span><span class="citation-popover-meta">Published: September 25, 2012</span></span></span>
+The effect is especially common at night, when [distance cues]({{ 'distance-cues/' | relative_url }}) are poor and cloud layers obscure the true source of illumination. Investigators have long noted that planets, [aircraft lights]({{ 'aircraft-lights/' | relative_url }}) and other bright sources viewed through haze, fog or moving cloud can appear as unfamiliar aerial objects. Project Blue Book specifically identified planets seen through haze, fog and moving cloud as a recurring cause of UFO reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[whs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">Enterprise Services Dashboard Project Blue Book</span><span class="citation-popover-snippet">WHS Enterprise Services DashboardProject Blue BookSeptember 25, 2012 — When observed through haze, light fog, moving clouds, or other obs...</span><span class="citation-popover-meta">Published: September 25, 2012</span></span></span>
 
 ## How cloud edges become perceived object edges
 
@@ -281,7 +280,6 @@ The key mechanism is simple: the eye tends to treat boundaries of brightness as 
 Imagine a bright light behind a broken cloud deck. Only part of the light is visible through a gap. The illuminated cloud edge forms a bright curve or straight line. Instead of seeing “light plus cloud”, an observer may unconsciously combine these elements into a single object with a defined shape.
 
 Several factors reinforce the illusion:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -295,7 +293,6 @@ Several factors reinforce the illusion:
 As cloud fragments drift, different parts of the light are revealed and concealed. This can make the apparent object seem to rotate, morph, pulse or split into multiple components. The perceived craft may appear to have windows, compartments or geometric structure even though the shape is changing entirely because of cloud movement.
 
 Meteorological guidance notes that very low cloud can obscure known lights and aircraft lights, leaving only partial visual information available to an observer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metoffice.gov.uk/binaries/content/assets/metofficegovuk/pdf/research/library-and-archive/library/publications/weather--climate-guides/cloud_types_for_observers_rev_2014.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metoffice.gov.uk</span><span class="citation-popover-title">Met Office Cloud types for observers</span><span class="citation-popover-snippet">Met OfficeCloud types for observersJuly 1, 2014 — Very low cloud may obscure known lights on hills and tall structures. The lights of low...</span><span class="citation-popover-meta">Published: July 1, 2014</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RsxaBUdrgBs" title="Physiology of Flight: Spatial Disorientation, Part 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RsxaBUdrgBs" target="_blank" rel="noopener noreferrer">Physiology of Flight: Spatial Disorientation, Part 2</a></p><p class="youtube-embed-meta">Channel: PublicResourceOrg &middot; Views: 9.3K &middot; Uploaded: June 2010 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RsxaBUdrgBs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RsxaBUdrgBs">Open on YouTube</a></p></div></div></div>
 
@@ -317,7 +314,6 @@ If low cloud hides parts of the light, only fragments of the glow may be visible
 
 The Met Office notes that low cloud can obscure aircraft lights while leaving other clues only intermittently visible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metoffice.gov.uk/binaries/content/assets/metofficegovuk/pdf/research/library-and-archive/library/publications/weather--climate-guides/cloud_types_for_observers_rev_2014.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metoffice.gov.uk</span><span class="citation-popover-title">Met Office Cloud types for observers</span><span class="citation-popover-snippet">Met OfficeCloud types for observersJuly 1, 2014 — Very low cloud may obscure known lights on hills and tall structures. The lights of low...</span><span class="citation-popover-meta">Published: July 1, 2014</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_low_cloud_false_shap_143821-Illustration-2-dark.svg" | relative_url }}" alt="Cloud shapes illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_low_cloud_false_shap_143821-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_low_cloud_false_shap_143821-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Searchlights and reflected beams
 
@@ -333,7 +329,6 @@ A common misunderstanding is that such reports are merely cases of people “see
 
 Several psychological factors increase credibility from the observer’s perspective:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The apparent shape may be clear and sharply defined.
@@ -347,7 +342,6 @@ Several psychological factors increase credibility from the observer’s perspec
 The result is a coherent perception of a solid aerial structure rather than a vague atmospheric effect.
 
 This helps explain why some witnesses sincerely describe detailed spacecraft-like forms despite the absence of any solid object corresponding to the reported shape.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2bVQGSSHk_s" title="Lenticular Cloud Near Mt. Shasta Mistaken For UFO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2bVQGSSHk_s" target="_blank" rel="noopener noreferrer">Lenticular Cloud Near Mt. Shasta Mistaken For UFO</a></p><p class="youtube-embed-meta">Channel: CBS LA &middot; Views: 18.8K &middot; Uploaded: February 2020 &middot; Length: 38 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2bVQGSSHk_s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2bVQGSSHk_s">Open on YouTube</a></p></div></div></div>
 
@@ -371,7 +365,6 @@ Strong indicators include:
 
 Another useful clue is that the perceived object's edges often look unusually soft or diffuse when viewed through binoculars or cameras. A true solid object typically maintains a consistent outline, whereas a cloud-generated shape shifts as the cloud itself evolves.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_low_cloud_false_shap_143821-Illustration-3-dark.svg" | relative_url }}" alt="Cloud shapes illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_low_cloud_false_shap_143821-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043_low_cloud_false_shap_143821-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What this means for UFO investigations
 
@@ -381,9 +374,7 @@ Historical UFO investigations repeatedly found that atmospheric obscuration can 
 
 For investigators, the central question is whether the reported object's boundaries belong to a physical craft or to the cloud layer itself. When the apparent shape grows, shrinks and changes with the cloud, the evidence points toward a visual construction created by obscuration rather than a structured vehicle moving independently through the sky.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6OVqVNMAWcc" title="Lenticular Clouds: UFOs in the Mountain Sky ☁️🛸" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6OVqVNMAWcc" target="_blank" rel="noopener noreferrer">Lenticular Clouds: UFOs in the Mountain Sky ☁️🛸</a></p><p class="youtube-embed-meta">Channel: SciCuriousID &middot; Views: 83 &middot; Uploaded: October 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6OVqVNMAWcc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6OVqVNMAWcc">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -502,15 +493,15 @@ For investigators, the central question is whether the reported object's boundar
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-shapes-can-clouds-draw-a-fake-spacecraft-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="cloud-shapes-can-clouds-draw-a-fake-spacecraft-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Beautiful astro starry night sky. F Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2d7db700ef91db184218.jpg' | relative_url }}" alt="Listing image for Beautiful astro starry night sky. F Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-clouds-draw-a-fake-spacecraft-cloud-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud wall art" data-ebay-reference="can-clouds-draw-a-fake-spacecraft-cloud-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Holographic neon cloud Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/0ycAAeSwilJpiOG-/s-l225.jpg" alt="Listing image for Holographic neon cloud Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-shapes-can-clouds-draw-a-fake-spacecraft-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="cloud-shapes-can-clouds-draw-a-fake-spacecraft-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Beautiful astro starry night sky. F Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-clouds-draw-a-fake-spacecraft-cloud-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud wall art" data-ebay-reference="can-clouds-draw-a-fake-spacecraft-cloud-wall-art" target="_blank" rel="sponsored noopener noreferrer">Holographic neon cloud Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-shapes-can-clouds-draw-a-fake-spacecraft-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="cloud-shapes-can-clouds-draw-a-fake-spacecraft-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-clouds-draw-a-fake-spacecraft-cloud-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud wall art" data-ebay-reference="can-clouds-draw-a-fake-spacecraft-cloud-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cloud wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: cloud wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-shapes-can-clouds-draw-a-fake-spacecraft-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="cloud-shapes-can-clouds-draw-a-fake-spacecraft-ifos-causes-of-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-clouds-draw-a-fake-spacecraft-cloud-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud wall art" data-ebay-reference="can-clouds-draw-a-fake-spacecraft-cloud-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -518,15 +509,15 @@ For investigators, the central question is whether the reported object's boundar
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-shapes-can-clouds-draw-a-fake-spacecraft-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="cloud-shapes-can-clouds-draw-a-fake-spacecraft-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture"><img src="{{ '/assets/images/marketplace-covers/0efa7c31974d5c2eeff0.jpg' | relative_url }}" alt="Listing image for Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-clouds-draw-a-fake-spacecraft-cloud-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud wall art" data-ebay-reference="can-clouds-draw-a-fake-spacecraft-cloud-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Smiley Unicorn Cloud Wall Art Bedroom Nursery Decor Vinyl Sticker Decal 6 Sizes"><img src="https://i.ebayimg.com/images/g/h2cAAeSw2ZRosT06/s-l225.jpg" alt="Listing image for Smiley Unicorn Cloud Wall Art Bedroom Nursery Decor Vinyl Sticker Decal 6 Sizes" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-shapes-can-clouds-draw-a-fake-spacecraft-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="cloud-shapes-can-clouds-draw-a-fake-spacecraft-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-clouds-draw-a-fake-spacecraft-cloud-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud wall art" data-ebay-reference="can-clouds-draw-a-fake-spacecraft-cloud-wall-art" target="_blank" rel="sponsored noopener noreferrer">Smiley Unicorn Cloud Wall Art Bedroom Nursery Decor Vinyl Sticker Decal 6 Sizes</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-shapes-can-clouds-draw-a-fake-spacecraft-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="cloud-shapes-can-clouds-draw-a-fake-spacecraft-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-clouds-draw-a-fake-spacecraft-cloud-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud wall art" data-ebay-reference="can-clouds-draw-a-fake-spacecraft-cloud-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cloud wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: cloud wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-shapes-can-clouds-draw-a-fake-spacecraft-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="cloud-shapes-can-clouds-draw-a-fake-spacecraft-ifos-causes-of-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-clouds-draw-a-fake-spacecraft-cloud-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud wall art" data-ebay-reference="can-clouds-draw-a-fake-spacecraft-cloud-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -534,15 +525,15 @@ For investigators, the central question is whether the reported object's boundar
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-shapes-can-clouds-draw-a-fake-spacecraft-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="cloud-shapes-can-clouds-draw-a-fake-spacecraft-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Crescent Moon Night Sky Art Starry Forest Wall Print Midnight Landscape Poster"><img src="{{ '/assets/images/marketplace-covers/6d8c08fb07037584328c.jpg' | relative_url }}" alt="Listing image for Crescent Moon Night Sky Art Starry Forest Wall Print Midnight Landscape Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-clouds-draw-a-fake-spacecraft-cloud-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud wall art" data-ebay-reference="can-clouds-draw-a-fake-spacecraft-cloud-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cloud Heart Rain Halloween Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/WvwAAeSw4r9pwX2q/s-l225.jpg" alt="Listing image for Cloud Heart Rain Halloween Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-shapes-can-clouds-draw-a-fake-spacecraft-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="cloud-shapes-can-clouds-draw-a-fake-spacecraft-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Crescent Moon Night Sky Art Starry Forest Wall Print Midnight Landscape Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-clouds-draw-a-fake-spacecraft-cloud-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud wall art" data-ebay-reference="can-clouds-draw-a-fake-spacecraft-cloud-wall-art" target="_blank" rel="sponsored noopener noreferrer">Cloud Heart Rain Halloween Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-shapes-can-clouds-draw-a-fake-spacecraft-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="cloud-shapes-can-clouds-draw-a-fake-spacecraft-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-clouds-draw-a-fake-spacecraft-cloud-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud wall art" data-ebay-reference="can-clouds-draw-a-fake-spacecraft-cloud-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cloud wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: cloud wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-shapes-can-clouds-draw-a-fake-spacecraft-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="cloud-shapes-can-clouds-draw-a-fake-spacecraft-ifos-causes-of-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-clouds-draw-a-fake-spacecraft-cloud-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud wall art" data-ebay-reference="can-clouds-draw-a-fake-spacecraft-cloud-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -550,15 +541,15 @@ For investigators, the central question is whether the reported object's boundar
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-shapes-can-clouds-draw-a-fake-spacecraft-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="cloud-shapes-can-clouds-draw-a-fake-spacecraft-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starry Night Sky Clouds Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7e32f4b1666eef6514d0.jpg' | relative_url }}" alt="Listing image for Starry Night Sky Clouds Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-clouds-draw-a-fake-spacecraft-cloud-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud wall art" data-ebay-reference="can-clouds-draw-a-fake-spacecraft-cloud-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for cute moon with cloud Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/tPkAAeSwS5ZpwYLK/s-l225.jpg" alt="Listing image for cute moon with cloud Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-shapes-can-clouds-draw-a-fake-spacecraft-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="cloud-shapes-can-clouds-draw-a-fake-spacecraft-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Starry Night Sky Clouds Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-clouds-draw-a-fake-spacecraft-cloud-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud wall art" data-ebay-reference="can-clouds-draw-a-fake-spacecraft-cloud-wall-art" target="_blank" rel="sponsored noopener noreferrer">cute moon with cloud Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-shapes-can-clouds-draw-a-fake-spacecraft-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="cloud-shapes-can-clouds-draw-a-fake-spacecraft-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-clouds-draw-a-fake-spacecraft-cloud-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud wall art" data-ebay-reference="can-clouds-draw-a-fake-spacecraft-cloud-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cloud wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: cloud wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-shapes-can-clouds-draw-a-fake-spacecraft-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="cloud-shapes-can-clouds-draw-a-fake-spacecraft-ifos-causes-of-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-clouds-draw-a-fake-spacecraft-cloud-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud wall art" data-ebay-reference="can-clouds-draw-a-fake-spacecraft-cloud-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -566,7 +557,7 @@ For investigators, the central question is whether the reported object's boundar
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-shapes-can-clouds-draw-a-fake-spacecraft-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="cloud-shapes-can-clouds-draw-a-fake-spacecraft-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-clouds-draw-a-fake-spacecraft-cloud-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud wall art" data-ebay-reference="can-clouds-draw-a-fake-spacecraft-cloud-wall-art" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -782,102 +773,102 @@ For investigators, the central question is whether the reported object's boundar
 1. <a id="endnote-1"></a>
    Source: esd.whs.mil  
    Title: Enterprise Services Dashboard Project Blue Book  
-   Link: [https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837](https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837)  
+   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>WHS Enterprise Services DashboardProject Blue BookSeptember 25, 2012 — When observed through haze, light fog, moving clouds, or other obs...</p></details>
    Published: September 25, 2012  
 
 2. <a id="endnote-2"></a>
    Source: metoffice.gov.uk  
    Title: Met Office Cloud types for observers  
-   Link: [https://www.metoffice.gov.uk/binaries/content/assets/metofficegovuk/pdf/research/library-and-archive/library/publications/weather--climate-guides/cloud_types_for_observers_rev_2014.pdf](https://www.metoffice.gov.uk/binaries/content/assets/metofficegovuk/pdf/research/library-and-archive/library/publications/weather--climate-guides/cloud_types_for_observers_rev_2014.pdf)  
+   Link: <a href="https://www.metoffice.gov.uk/binaries/content/assets/metofficegovuk/pdf/research/library-and-archive/library/publications/weather--climate-guides/cloud_types_for_observers_rev_2014.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/binaries/content/assets/metofficegovuk/pdf/research/library-and-archive/library/publications/weather--climate-guides/cloud_types_for_observers_rev_2014.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Met OfficeCloud types for observersJuly 1, 2014 — Very low cloud may obscure known lights on hills and tall structures. The lights of low...</p></details>
    Published: July 1, 2014  
 
 3. <a id="endnote-3"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC%2000-6A%20Chap%207-9.pdf](https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC%2000-6A%20Chap%207-9.pdf)  
+   Link: <a href="https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC%2000-6A%20Chap%207-9.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC%2000-6A%20Chap%207-9.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>CLOUDSIn the low cloud family are the stratus, strato- cumulus, and fair weather cumulus clouds. Low clouds are almost entirely water, bu...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookThousands of UFO reports were collected, analyzed, and filed. As a result of the Condon Report, which concluded that...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/project](https://dictionary.cambridge.org/dictionary/english/project)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>| English meaning - Cambridge Dictionarya piece of planned work or an activity which is done over a period of time and intended to achiev...</p></details>
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/project" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/project</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionarya piece of planned work or an activity which is done over a period of time and intended to achiev...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The project closed in 1969 and we have no...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, History, Aliens, UFOs, &amp; Facts16 May 2026 — Project Blue Book, code name for the United States&#x27; longest-running Air Force pro...</p></details>
    Published: May 2026  
 
 8. <a id="endnote-8"></a>
    Source: history.com  
    Title: Project Blue Book  
-   Link: [https://www.history.com/articles/project-blue-book](https://www.history.com/articles/project-blue-book)  
+   Link: <a href="https://www.history.com/articles/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/project-blue-book</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien, Definition &amp; Files22 Feb 2010 — Fully 90 percent of the sightings, according to the Robertson Panel, could be attributed to astrol...</p></details>
 
 ### Additional References
 
 9. <a id="endnote-9"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/[pilots](https://www.faa.gov/[pilots)  
+   Link: <a href="https://www.faa.gov/[pilots" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/[pilots</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spatial Disorientation: Visual IllusionsFalse Visual Reference Illusions may cause you to orient your aircraft in relation to a false hor...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: medium.com  
-   Link: [https://medium.com/faa/mitigating-the-hazard-of-visual-illusions-fb3c35009471](https://medium.com/faa/mitigating-the-hazard-of-visual-illusions-fb3c35009471)  
+   Link: <a href="https://medium.com/faa/mitigating-the-hazard-of-visual-illusions-fb3c35009471" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/faa/mitigating-the-hazard-of-visual-illusions-fb3c35009471</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mitigating the Hazard of Visual IllusionsA review of aircraft mishaps quickly reveals that visual illusions and/or poor visibility have b...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: cfinotebook.net  
-   Link: [https://www.cfinotebook.net/notebook/weather-and-[atmosphere](https://www.cfinotebook.net/notebook/weather-and-[atmosphere)  
+   Link: <a href="https://www.cfinotebook.net/notebook/weather-and-[atmosphere" target="_blank" rel="noopener noreferrer nofollow">https://www.cfinotebook.net/notebook/weather-and-[atmosphere</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Obstructions To VisibilityUnderstanding obstructions to visibility helps pilots recognize how phenomena such as fog, haze, smoke, and pre...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/](https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reportsEarly letters regarding UFO sightings · Correspondence on the Rendlesham Forest incident · Documents on UFO policy and communi...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: af.mil  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue BookWith the termination of Project Blue Book, the Air Force regulation establishi...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: skybrary.aero  
-   Link: [https://skybrary.aero/sites/default/files/bookshelf/177.pdf](https://skybrary.aero/sites/default/files/bookshelf/177.pdf)  
+   Link: <a href="https://skybrary.aero/sites/default/files/bookshelf/177.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/sites/default/files/bookshelf/177.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Visual Illusions AwarenessPrecipitation&#x27;s (e.g., rain, fog, snow):. Flying in light rain, fog, haze, mist, smoke, dust, glare or darknes...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: cfinotebook.net  
-   Link: [https://www.cfinotebook.net/notebook/aeromedical-and-human-factors/spatial-disorientation-and-illusions-in-flight](https://www.cfinotebook.net/notebook/aeromedical-and-human-factors/spatial-disorientation-and-illusions-in-flight)  
+   Link: <a href="https://www.cfinotebook.net/notebook/aeromedical-and-human-factors/spatial-disorientation-and-illusions-in-flight" target="_blank" rel="noopener noreferrer nofollow">https://www.cfinotebook.net/notebook/aeromedical-and-human-factors/spatial-disorientation-and-illusions-in-flight</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pilots experiencing a fog-induced illusion may fly an abruptly steepened approach. It is not a matter...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: flyaeroguard.com  
-   Link: [https://www.flyaeroguard.com/learning-center/visual-illusions/](https://www.flyaeroguard.com/learning-center/visual-illusions/)  
+   Link: <a href="https://www.flyaeroguard.com/learning-center/visual-illusions/" target="_blank" rel="noopener noreferrer nofollow">https://www.flyaeroguard.com/learning-center/visual-illusions/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>n create illusions of incorrect height above and distance from the runway threshold...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: popularmechanics.com  
    Title: j allen hynek project blue book ufo investigation truth  
-   Link: [https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/](https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/)  
+   Link: <a href="https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Allen Hynek &amp; Project Blue Book: UFO Secrets RevealedApr 12, 2026 —... book, The UFO Experience: A Scientific Inquiry. Advertisement - C...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: popularmechanics.com  
    Title: 50 Years Ago, the Air Force Tried to Make UFOs Go Away  
-   Link: [https://www.popularmechanics.com/military/research/a30257166/project-blue-book-anniversary/](https://www.popularmechanics.com/military/research/a30257166/project-blue-book-anniversary/)  
+   Link: <a href="https://www.popularmechanics.com/military/research/a30257166/project-blue-book-anniversary/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/research/a30257166/project-blue-book-anniversary/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>17 Dec 2019 — Fifty years ago today, the U.S. Air Force announced the closing of its most famous UFO investigation program, Project Blue...</p></details>

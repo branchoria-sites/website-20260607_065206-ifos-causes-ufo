@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ifos-causes-of-ufo-3ed238-birds-ufo/
 description: Focused pages that expand on Birds.
-date: '2026-06-07'
+date: '2026-06-12'
 layout: default
 parent_basename: ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40
-parent_title: Birds | Ifos Causes Of
+parent_title: Birds
 parent_nav_short_title: Birds
 parent_permalink: /birds/
 ---

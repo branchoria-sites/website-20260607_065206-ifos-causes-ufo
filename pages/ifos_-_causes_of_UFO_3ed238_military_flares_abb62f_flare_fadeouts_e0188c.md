@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_military_flares_abb62f_san_diego_flare_sigh_439730
 - ifos_-_causes_of_UFO_3ed238_military_flares_abb62f_training_ranges_flar_7a2a67
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - flares
 - fade-outs
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - flares
 - fade-outs
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Flares can vanish one by one as they burn out or pass behind terrain, haze or marine clouds, mimicking lights on a craft.
 hero_summary: Flares can vanish one by one as they burn out or pass behind terrain, haze or marine clouds, mimicking lights on a craft.
 layout: default
 permalink: /fade-outs/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /flares/
 nav_short_title: Fade outs
 title: Why flare lights wink out
-title_full: Why flare lights wink out | Flares
+title_full: Why flare lights wink out
 display_title_short: Fade outs
 display_title: Fade outs
 heading_title: Why flare lights wink out
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 06:23:50'
-parent_title: Why Flares Look Like Hovering Craft | IFOs
+parent_title: Why Flares Look Like Hovering Craft
 parent_permalink: /flares/
 parent_nav_short_title: Flares
 parent_heading_title: Why Flares Look Like Hovering Craft
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_military_flares_abb62f
-  title: Flares | Ifos Causes Of
+  title: Flares | ifos causes of UFO 3 ed 238
   permalink: /flares/
   short_title: Flares
   heading_title: Why Flares Look Like Hovering Craft
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_military_flares_abb62f
-  title: Flares | Ifos Causes Of
+  title: Flares | ifos causes of UFO 3 ed 238
   permalink: /flares/
   short_title: Flares
   heading_title: Why Flares Look Like Hovering Craft
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: When training flares go viral
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_military_flares_abb62f
-  title: Flares | Ifos Causes Of
+  title: Flares | ifos causes of UFO 3 ed 238
   permalink: /flares/
   short_title: Flares
   heading_title: Why Flares Look Like Hovering Craft
@@ -260,6 +259,7 @@ next_link:
   permalink: /hovering-flares/
   short_title: Hovering flares
   heading_title: Why falling flares seem to hover
+date: '2026-06-12 00:16:35 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f_flare_fadeouts_e0188c-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f_flare_fadeouts_e0188c-Illustration-1.webp
@@ -269,7 +269,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f_flare_f
 ## Introduction
 
 Many UFO reports describe a row of bright lights that appear to hover for several minutes and then vanish one by one without accelerating away. In a significant number of cases involving military training areas, this pattern is consistent with illumination flares rather than a structured craft. The crucial point is that the lights do not need to move dramatically to disappear. They can simply burn out, descend behind a ridgeline, or pass behind a cloud layer that is invisible to the observer at night. When several flares are released in sequence, these disappearances often occur in sequence as well, creating the impression that individual lights on a single object are being switched off. This mechanism has been documented repeatedly in investigations of flare-related UFO reports, including analyses of the later phase of the [Phoenix Lights]({{ 'phoenix-lights/' | relative_url }}) event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.phoenixnewtimes.com/arts-culture/the-phoenix-lights-are-no-mystery-6661825/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phoenixnewtimes.com">[Phoenix New Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phoenixnewtimes.com</span><span class="citation-popover-snippet">Phoenix New TimesThe 1997 &quot;Phoenix Lights&quot; are no mysteryMar 14, 2014 — The “disappearance” was actually the lights dropping behind the S...</span></span></span>
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f_flare_fadeouts_e0188c-Illustration-1-dark.svg" | relative_url }}" alt="Fade outs illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f_flare_fadeouts_e0188c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f_flare_fadeouts_e0188c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Burnout versus apparent departure
@@ -284,9 +283,6 @@ This distinction matters because witness testimony often focuses on the final mo
 
 The most deceptive flare disappearances occur when the light remains illuminated but is gradually hidden by geography or weather.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EOkXUvS3iX0" title="19 years later and The Phoenix Lights mystery goes on" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EOkXUvS3iX0" target="_blank" rel="noopener noreferrer">19 years later and The Phoenix Lights mystery goes on</a></p><p class="youtube-embed-meta">Channel: LiveNOW from FOX &middot; Views: 203.2K &middot; Uploaded: March 2016 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EOkXUvS3iX0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EOkXUvS3iX0">Open on YouTube</a></p></div></div></div>
-
 ### Hills and mountain ridges
 
 When flares descend behind a distant ridge, observers cannot usually see the terrain silhouette clearly at night. The mountain or hill may be effectively invisible, leaving only the lights visible against the sky. As each flare sinks below the ridgeline, it appears to blink out abruptly even though it is still burning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.phoenixnewtimes.com/arts-culture/the-phoenix-lights-are-no-mystery-6661825/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phoenixnewtimes.com">[Phoenix New Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phoenixnewtimes.com</span><span class="citation-popover-snippet">Phoenix New TimesThe 1997 &quot;Phoenix Lights&quot; are no mysteryMar 14, 2014 — The “disappearance” was actually the lights dropping behind the S...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://skeptoid.com/episodes/41" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptoid.com">[2skeptoid.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptoid.com</span><span class="citation-popover-snippet">The Alien Invasion of Phoenix, Arizona26 Apr 2007 — The flares are typically dropped at lower altitudes, where they are not visible from...</span></span></span>
@@ -295,15 +291,11 @@ The Phoenix Lights provide a well-known example. Investigators who favoured the 
 
 The key observational clue is that the lights tend to disappear at slightly different times while maintaining roughly the same horizontal positions. That behaviour is expected if multiple flares are descending behind the same ridgeline but is harder to reconcile with a single rigid object moving as a unit. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.phoenixnewtimes.com/arts-culture/the-phoenix-lights-are-no-mystery-6661825/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phoenixnewtimes.com">[Phoenix New Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phoenixnewtimes.com</span><span class="citation-popover-snippet">Phoenix New TimesThe 1997 &quot;Phoenix Lights&quot; are no mysteryMar 14, 2014 — The “disappearance” was actually the lights dropping behind the S...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gP5kZIGyodw" title="🔥Boy Gets SS Repair Talent; All Mecha Girls Who Choose to Contract With Him Become 100% Stronger!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gP5kZIGyodw" target="_blank" rel="noopener noreferrer">🔥Boy Gets SS Repair Talent; All Mecha Girls Who Choose to Contract With Him Become 100% Stronger!</a></p><p class="youtube-embed-meta">Channel: Bella&#x27;s Comic Chronicles</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gP5kZIGyodw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gP5kZIGyodw">Open on YouTube</a></p></div></div></div>
-
 ### Marine layers, haze and cloud decks
 
 Cloud can create the same effect. A flare viewed through thin haze or a low cloud layer often dims gradually before [vanishing]({{ 'vanishing/' | relative_url }}). If different flares are at slightly different altitudes, they can enter the obscuring layer at different moments.
 
 Observers may not even realise cloud is present. Thin marine layers, smoke, or high haze can be nearly invisible at night except where they interact with bright lights. A flare can therefore seem to fade into empty sky rather than disappear into weather. This is especially common near coastlines and military training [ranges]({{ 'ranges/' | relative_url }}) where low cloud decks frequently form after sunset. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">Here we&#x27;ll look at some of the most likely suspects</span><span class="citation-popover-snippet">Sky at Night Magazine17 things commonly mistaken for UFOsMay 11, 2026 — 11 May 2026 — The vast majority of UFO sightings have Earthly ori...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span>
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f_flare_fadeouts_e0188c-Illustration-2-dark.svg" | relative_url }}" alt="Fade outs illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f_flare_fadeouts_e0188c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f_flare_fadeouts_e0188c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why sequential fading looks structured
@@ -311,7 +303,6 @@ Observers may not even realise cloud is present. Thin marine layers, smoke, or h
 The reason these disappearances are so persuasive is that the human visual system tends to organise separate lights into a single object.
 
 If several flares are released in a line, each may:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -326,8 +317,7 @@ To a witness, that sequence can resemble lights mounted on the underside of a la
 
 This effect is amplified when the terrain itself is invisible. Without seeing the mountain ridge that blocks the view, there is no obvious reason for the lights to vanish one after another. The brain therefore searches for an alternative explanation and often attributes the pattern to intelligent control. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.phoenixnewtimes.com/arts-culture/the-phoenix-lights-are-no-mystery-6661825/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phoenixnewtimes.com">[Phoenix New Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phoenixnewtimes.com</span><span class="citation-popover-snippet">Phoenix New TimesThe 1997 &quot;Phoenix Lights&quot; are no mysteryMar 14, 2014 — The “disappearance” was actually the lights dropping behind the S...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UvLpM_MZB8M" title="How to Install Drip Edge and Step Flashing | This Old House" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UvLpM_MZB8M" target="_blank" rel="noopener noreferrer">How to Install Drip Edge and Step Flashing | This Old House</a></p><p class="youtube-embed-meta">Channel: This Old House</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UvLpM_MZB8M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UvLpM_MZB8M">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EOkXUvS3iX0" title="19 years later and The Phoenix Lights mystery goes on" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EOkXUvS3iX0" target="_blank" rel="noopener noreferrer">19 years later and The Phoenix Lights mystery goes on</a></p><p class="youtube-embed-meta">Channel: LiveNOW from FOX &middot; Views: 203.2K &middot; Uploaded: March 2016 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EOkXUvS3iX0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EOkXUvS3iX0">Open on YouTube</a></p></div></div></div>
 
 ## What investigators look for
 
@@ -340,7 +330,6 @@ When assessing a report involving lights that hover and then disappear, investig
 * Video recordings show gradual descent before disappearance when analysed frame by frame. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.phoenixmag.com/2016/03/08/director-keith-arem-s-the-phoenix-incident-revives-local-ufo-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phoenixmag.com">[phoenixmag.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phoenixmag.com</span><span class="citation-popover-snippet">Director Keith Arem&#x27;s The Phoenix Incident Revives Local...March 8, 2016 — 8 Mar 2016 — Military officials reported the lights were from...</span><span class="citation-popover-meta">Published: March 8, 2016</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Phoenix]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Phoenix Lights</span><span class="citation-popover-snippet">Phoenix Lights</span></span></span>
 
 None of these clues alone proves a flare explanation. However, when multiple indicators appear together, the pattern strongly matches known illumination-flare behaviour. The resulting UFO report is often based on a genuine observation of bright aerial lights, but the dramatic "wink out" sequence can be explained by ordinary line-of-sight effects rather than by a craft suddenly vanishing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.phoenixnewtimes.com/arts-culture/the-phoenix-lights-are-no-mystery-6661825/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phoenixnewtimes.com">[Phoenix New Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phoenixnewtimes.com</span><span class="citation-popover-snippet">Phoenix New TimesThe 1997 &quot;Phoenix Lights&quot; are no mysteryMar 14, 2014 — The “disappearance” was actually the lights dropping behind the S...</span></span></span>
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f_flare_fadeouts_e0188c-Illustration-3-dark.svg" | relative_url }}" alt="Fade outs illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f_flare_fadeouts_e0188c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_military_flares_abb62f_flare_fadeouts_e0188c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -461,11 +450,43 @@ None of these clues alone proves a flare explanation. However, when multiple ind
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-flare-lights-wink-out-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="why-flare-lights-wink-out-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:200 B-2 Spirit Stealth Bomber Diecast Model USAF Display Military Aircraft"><img src="https://i.ebayimg.com/images/g/~-0AAeSwVlFoZlgh/s-l225.jpg" alt="Listing image for 1:200 B-2 Spirit Stealth Bomber Diecast Model USAF Display Military Aircraft" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-flare-lights-wink-out-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="why-flare-lights-wink-out-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Atlas Jet Age Military Aircraft Vickers Valiant 1:144 Model Anti-Flash Paint"><img src="https://i.ebayimg.com/images/g/qZAAAeSwEmJqH~vP/s-l225.jpg" alt="Listing image for Atlas Jet Age Military Aircraft Vickers Valiant 1:144 Model Anti-Flash Paint" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-flare-lights-wink-out-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="why-flare-lights-wink-out-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">1:200 B-2 Spirit Stealth Bomber Diecast Model USAF Display Military Aircraft</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-flare-lights-wink-out-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="why-flare-lights-wink-out-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Atlas Jet Age Military Aircraft Vickers Valiant 1:144 Model Anti-Flash Paint</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-flare-lights-wink-out-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="why-flare-lights-wink-out-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: military aircraft model</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-flare-lights-wink-out-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="why-flare-lights-wink-out-military-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-flare-lights-wink-out-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="why-flare-lights-wink-out-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Atlas Junkers Ju-88A-4 Military Aircraft Model 1:144 Scale - Military Theme"><img src="https://i.ebayimg.com/images/g/5tkAAeSwFhpqIxct/s-l225.jpg" alt="Listing image for Atlas Junkers Ju-88A-4 Military Aircraft Model 1:144 Scale - Military Theme" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-flare-lights-wink-out-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="why-flare-lights-wink-out-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Atlas Junkers Ju-88A-4 Military Aircraft Model 1:144 Scale - Military Theme</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-flare-lights-wink-out-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="why-flare-lights-wink-out-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: military aircraft model</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-flare-lights-wink-out-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="why-flare-lights-wink-out-military-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-flare-lights-wink-out-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="why-flare-lights-wink-out-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SU-35 Super Flanker Aircraft 1:100 Model Fighter Aviation Military Exhibition"><img src="https://i.ebayimg.com/images/g/g2IAAeSwBq5qIqf7/s-l225.jpg" alt="Listing image for SU-35 Super Flanker Aircraft 1:100 Model Fighter Aviation Military Exhibition" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-flare-lights-wink-out-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="why-flare-lights-wink-out-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">SU-35 Super Flanker Aircraft 1:100 Model Fighter Aviation Military Exhibition</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-flare-lights-wink-out-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="why-flare-lights-wink-out-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: military aircraft model</a>
         <div class="fr-book-actions">
@@ -482,22 +503,6 @@ None of these clues alone proves a flare explanation. However, when multiple ind
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
           <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-flare-lights-wink-out-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="why-flare-lights-wink-out-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Hobby Master Douglas C-47 Skytrain Military Aircraft Model 1:72 Scale</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-flare-lights-wink-out-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="why-flare-lights-wink-out-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: military aircraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-flare-lights-wink-out-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="why-flare-lights-wink-out-military-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-flare-lights-wink-out-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="why-flare-lights-wink-out-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Atlas Jet Age Military Aircraft Vickers Valiant 1:144 Model Anti-Flash Paint"><img src="https://i.ebayimg.com/images/g/qZAAAeSwEmJqH~vP/s-l225.jpg" alt="Listing image for Atlas Jet Age Military Aircraft Vickers Valiant 1:144 Model Anti-Flash Paint" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-flare-lights-wink-out-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="why-flare-lights-wink-out-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Atlas Jet Age Military Aircraft Vickers Valiant 1:144 Model Anti-Flash Paint</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-flare-lights-wink-out-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="why-flare-lights-wink-out-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: military aircraft model</a>
         <div class="fr-book-actions">
@@ -719,113 +724,114 @@ None of these clues alone proves a flare explanation. However, when multiple ind
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Phoenix Lights  
-   Link: [https://en.wikipedia.org/wiki/Phoenix_Lights](https://en.wikipedia.org/wiki/Phoenix_Lights)  
+   Link: <a href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Phoenix_Lights</a>  
 
 2. <a id="endnote-2"></a>
    Source: skeptoid.com  
-   Link: [https://skeptoid.com/episodes/41](https://skeptoid.com/episodes/41)  
+   Link: <a href="https://skeptoid.com/episodes/41" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/episodes/41</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Alien Invasion of Phoenix, Arizona26 Apr 2007 — The flares are typically dropped at lower altitudes, where they are not visible from...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: phoenixmag.com  
-   Link: [https://www.phoenixmag.com/2016/03/08/director-keith-arem-s-the-phoenix-incident-revives-local-ufo-mystery/](https://www.phoenixmag.com/2016/03/08/director-keith-arem-s-the-phoenix-incident-revives-local-ufo-mystery/)  
+   Link: <a href="https://www.phoenixmag.com/2016/03/08/director-keith-arem-s-the-phoenix-incident-revives-local-ufo-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://www.phoenixmag.com/2016/03/08/director-keith-arem-s-the-phoenix-incident-revives-local-ufo-mystery/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Director Keith Arem&#x27;s The Phoenix Incident Revives Local...March 8, 2016 — 8 Mar 2016 — Military officials reported the lights were from...</p></details>
    Published: March 8, 2016  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: The Phoenix Incident  
-   Link: [https://en.wikipedia.org/wiki/The_Phoenix_Incident](https://en.wikipedia.org/wiki/The_Phoenix_Incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/The_Phoenix_Incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Phoenix_Incident</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Phoenix IncidentPresented as a documentary found footage film based on real events, it is set in the present day and focuses upon...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: phoenixnewtimes.com  
-   Link: [https://www.phoenixnewtimes.com/arts-culture/the-phoenix-lights-are-no-mystery-6661825/](https://www.phoenixnewtimes.com/arts-culture/the-phoenix-lights-are-no-mystery-6661825/)  
+   Link: <a href="https://www.phoenixnewtimes.com/arts-culture/the-phoenix-lights-are-no-mystery-6661825/" target="_blank" rel="noopener noreferrer nofollow">https://www.phoenixnewtimes.com/arts-culture/the-phoenix-lights-are-no-mystery-6661825/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Phoenix New TimesThe 1997 &quot;Phoenix Lights&quot; are no mysteryMar 14, 2014 — The “disappearance” was actually the lights dropping behind the S...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: skyatnightmagazine.com  
    Title: Here we'll look at some of the most likely suspects  
-   Link: [https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos](https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos)  
+   Link: <a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky at Night Magazine17 things commonly mistaken for UFOsMay 11, 2026 — 11 May 2026 — The vast majority of UFO sightings have Earthly ori...</p></details>
    Published: May 11, 2026  
 
 7. <a id="endnote-7"></a>
    Source: phoenixnewtimes.com  
    Title: phoenix lights ufo mystery explanations 19105870  
-   Link: [https://www.phoenixnewtimes.com/uncategorized/phoenix-lights-ufo-mystery-explanations-19105870/](https://www.phoenixnewtimes.com/uncategorized/phoenix-lights-ufo-mystery-explanations-19105870/)  
+   Link: <a href="https://www.phoenixnewtimes.com/uncategorized/phoenix-lights-ufo-mystery-explanations-19105870/" target="_blank" rel="noopener noreferrer nofollow">https://www.phoenixnewtimes.com/uncategorized/phoenix-lights-ufo-mystery-explanations-19105870/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Phoenix Lights explained: Everything to know about the...Jun 3, 2024 — The second sighting occurred hours later when a line of glowing o...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: planeandpilotmag.com  
    Title: the phoenix lights  
-   Link: [https://planeandpilotmag.com/the-phoenix-lights/](https://planeandpilotmag.com/the-phoenix-lights/)  
+   Link: <a href="https://planeandpilotmag.com/the-phoenix-lights/" target="_blank" rel="noopener noreferrer nofollow">https://planeandpilotmag.com/the-phoenix-lights/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sep 20, 2022 — The most popular and intriguing explanation to emerge is that the lights were emitted by extraterrestrial spacecraft.Read...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: phoenixghosts.com  
    Title: the mysterious phoenix lights  
-   Link: [https://phoenixghosts.com/the-mysterious-phoenix-lights/](https://phoenixghosts.com/the-mysterious-phoenix-lights/)  
+   Link: <a href="https://phoenixghosts.com/the-mysterious-phoenix-lights/" target="_blank" rel="noopener noreferrer nofollow">https://phoenixghosts.com/the-mysterious-phoenix-lights/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aug 15, 2025 — This time, it was a string of lights that hovered above the Sierra Estrella Mountain range. These lights had a reddish-ora...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: abcnews.com  
-   Link: [https://abcnews.com/Technology/phoenix-ufo-mystery-solved-lights-high-school-football/story?id=14884994](https://abcnews.com/Technology/phoenix-ufo-mystery-solved-lights-high-school-football/story?id=14884994)  
+   Link: <a href="https://abcnews.com/Technology/phoenix-ufo-mystery-solved-lights-high-school-football/story?id=14884994" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/phoenix-ufo-mystery-solved-lights-high-school-football/story?id=14884994</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>wo of them, seemed to move slowly in the sky, sometimes blinking randomly.Read more...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1cpyxou/anyone_else_seen_this_before/](https://www.reddit.com/r/UFOs/comments/1cpyxou/anyone_else_seen_this_before/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1cpyxou/anyone_else_seen_this_before/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1cpyxou/anyone_else_seen_this_before/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anyone else seen this before?: r/UFOsI’ve seen like bright white flashes of lights in the sky, I always think maybe it’s a plane or some...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skeptic/comments/xuhht4/need_help_finding_video_that_explains_phoenix/](https://www.reddit.com/r/skeptic/comments/xuhht4/need_help_finding_video_that_explains_phoenix/)  
+   Link: <a href="https://www.reddit.com/r/skeptic/comments/xuhht4/need_help_finding_video_that_explains_phoenix/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skeptic/comments/xuhht4/need_help_finding_video_that_explains_phoenix/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Need help finding video that explains Phoenix LightsHere is the video explaining how the Phoenix Lights were actually flares dropping beh...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=EOkXUvS3iX0](https://www.youtube.com/watch?v=EOkXUvS3iX0)  
+   Link: <a href="https://www.youtube.com/watch?v=EOkXUvS3iX0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EOkXUvS3iX0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>19 years later and The Phoenix Lights mystery goes onIt comes around this time of year; Phoenix residents start talking about the Phoenix...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/abc3340/posts/one-account-describes-orange-orbs-seen-near-a-military-helicopter-with-crew-memb/1416058853883549/](https://www.facebook.com/abc3340/posts/one-account-describes-orange-orbs-seen-near-a-military-helicopter-with-crew-memb/1416058853883549/)  
+   Link: <a href="https://www.facebook.com/abc3340/posts/one-account-describes-orange-orbs-seen-near-a-military-helicopter-with-crew-memb/1416058853883549/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abc3340/posts/one-account-describes-orange-orbs-seen-near-a-military-helicopter-with-crew-memb/1416058853883549/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[AARO](&amp;#123;&amp;#123; &#x27;aaro/&#x27; | relative_url &amp;#125;&amp;#125;) has not determined whether they were seeing a single orange orb or...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/22148662766/posts/10162581803702767/](https://www.facebook.com/groups/22148662766/posts/10162581803702767/)  
+   Link: <a href="https://www.facebook.com/groups/22148662766/posts/10162581803702767/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/22148662766/posts/10162581803702767/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nd a reason behind things that people call strange but this one has left me...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/1t94rai/its_a_parachute_go_to_25_seconds_in_and_look_at/](https://www.reddit.com/r/aliens/comments/1t94rai/its_a_parachute_go_to_25_seconds_in_and_look_at/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/1t94rai/its_a_parachute_go_to_25_seconds_in_and_look_at/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1t94rai/its_a_parachute_go_to_25_seconds_in_and_look_at/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>are. You can see it moves in a circular arc pattern that is attached...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: x.com  
-   Link: [https://x.com/BlackLabelAdvsr/status/2052802574986711520](https://x.com/BlackLabelAdvsr/status/2052802574986711520)  
+   Link: <a href="https://x.com/BlackLabelAdvsr/status/2052802574986711520" target="_blank" rel="noopener noreferrer nofollow">https://x.com/BlackLabelAdvsr/status/2052802574986711520</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>e seeing is just [lens flare](&amp;#123;&amp;#123; &#x27;lens-flare/&#x27; | relative_url &amp;#125;&amp;#125;). I learned about this in college… Watch...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: kaggle.com  
-   Link: [https://www.kaggle.com/code/utkarshx27/predicting-aliens-preferred-ufo-shapes-using-ml](https://www.kaggle.com/code/utkarshx27/predicting-aliens-preferred-ufo-shapes-using-ml)  
+   Link: <a href="https://www.kaggle.com/code/utkarshx27/predicting-aliens-preferred-ufo-shapes-using-ml" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/code/utkarshx27/predicting-aliens-preferred-ufo-shapes-using-ml</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>d disappeared in the sky.... cloud layer. Dim moving light in the...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: datascience.scholar.bucknell.edu  
    Title: Tableau Sample 2016 UFO Sightings.xlsx  
-   Link: [https://datascience.scholar.bucknell.edu/files/2023/03/Tableau-Sample-2016-UFO-Sightings.xlsx](https://datascience.scholar.bucknell.edu/files/2023/03/Tableau-Sample-2016-UFO-Sightings.xlsx)  
+   Link: <a href="https://datascience.scholar.bucknell.edu/files/2023/03/Tableau-Sample-2016-UFO-Sightings.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://datascience.scholar.bucknell.edu/files/2023/03/Tableau-Sample-2016-UFO-Sightings.xlsx</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>bucknell.eduSightings... behind the other shortly after midnight. 13, 3875, 42370.00347, Titusville, FL... disappears. 158, 4187, 42380...</p></details>

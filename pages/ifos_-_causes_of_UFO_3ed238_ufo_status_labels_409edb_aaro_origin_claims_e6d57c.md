@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb_ufo_reporting_stigma_5d03a6
 - ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb_unresolved_not_alien_f8453e
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - status-labels
 - aaro-claims
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - status-labels
 - aaro-claims
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: AARO separates unresolved reports from verified origin claims, keeping prosaic explanations and extraordinary claims on different evidence standards.
 hero_summary: AARO separates unresolved reports from verified origin claims, keeping prosaic explanations and extraordinary claims on different evidence standards.
 layout: default
 permalink: /aaro-claims/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /status-labels/
 nav_short_title: AARO Claims
 title: What AARO Says Evidence Still Has Not Shown
-title_full: What AARO Says Evidence Still Has Not Shown | Status Labels
+title_full: What AARO Says Evidence Still Has Not Shown
 display_title_short: AARO Claims
 display_title: AARO Claims
 heading_title: What AARO Says Evidence Still Has Not Shown
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: UFO Does Not Mean Alien | IFOs
+parent_title: UFO Does Not Mean Alien
 parent_permalink: /status-labels/
 parent_nav_short_title: Status Labels
 parent_heading_title: UFO Does Not Mean Alien
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb
-  title: Status Labels | Ifos Causes Of
+  title: Status Labels | ifos causes of UFO 3 ed 238
   permalink: /status-labels/
   short_title: Status Labels
   heading_title: UFO Does Not Mean Alien
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb
-  title: Status Labels | Ifos Causes Of
+  title: Status Labels | ifos causes of UFO 3 ed 238
   permalink: /status-labels/
   short_title: Status Labels
   heading_title: UFO Does Not Mean Alien
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why Unresolved Does Not Mean Alien
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb
-  title: Status Labels | Ifos Causes Of
+  title: Status Labels | ifos causes of UFO 3 ed 238
   permalink: /status-labels/
   short_title: Status Labels
   heading_title: UFO Does Not Mean Alien
@@ -259,7 +259,7 @@ next_link:
   permalink: /label-changes/
   short_title: Label Changes
   heading_title: When Does a UFO Stop Being a UFO?
-date: '2026-06-07 06:07:47 '
+date: '2026-06-12 00:35:40 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb_aaro_origin_claims_e6d57c-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb_aaro_origin_claims_e6d57c-Illustration-1.webp
@@ -268,18 +268,16 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb_aaro_
 
 ## Introduction
 
-The All-domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})) occupies a difficult position in the modern UFO or UAP debate. It is tasked with investigating reports that may be unexplained while avoiding a common logical error: treating a lack of explanation as proof of a particular origin. AARO’s public findings repeatedly draw a distinction between two very different statements. The first is that a case remains unresolved. The second is that a case has been shown to involve extraterrestrial technology, unknown physics, or some other extraordinary source. According to AARO, the available evidence supports the existence of unresolved cases, but it has not yet supported verified claims of alien technology or recovered non-human craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROAARO HomeHas the Department found any evidence of extraterrestrial technology? No. Examination of UAP sightings is ongoing. AARO uses...</span></span></span>
-
+The All-domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})) occupies a difficult position in the modern UFO or UAP debate. It is tasked with investigating reports that may be unexplained while avoiding a common logical error: treating a lack of explanation as proof of a particular origin. AARO’s public findings repeatedly draw a distinction between two very different statements. The first is that a case remains unresolved. The second is that a case has been shown to involve extraterrestrial technology, unknown physics, or some other extraordinary source. According to AARO, the available evidence supports the existence of unresolved cases, but it has not yet supported verified claims of alien technology or recovered non-human craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeHas the Department found any evidence of extraterrestrial technology? No. Examination of UAP sightings is ongoing. AARO uses...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb_aaro_origin_claims_e6d57c-Illustration-1-dark.svg" | relative_url }}" alt="AARO Claims illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb_aaro_origin_claims_e6d57c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb_aaro_origin_claims_e6d57c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That distinction matters because many public discussions collapse uncertainty and explanation into a single question. AARO’s approach instead treats them as separate evidential stages. An object can remain unidentified without providing evidence for any specific origin claim.
 
 ## Resolved Cases Versus Pending Cases
 
-AARO's reporting framework separates cases into those that can be explained and those that cannot yet be explained with confidence. The office has released examples of resolved incidents involving balloons, aircraft, [drones]({{ 'drones/' | relative_url }}), sensor effects, and other ordinary causes, while also maintaining a catalogue of reports that remain unresolved because the available information is insufficient for a reliable conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROUAP ImageryThis unresolved report contributes to AARO&#x27;s historical and locational trend analyses. PR-017, Unresolved UAP Report, Euro...</span></span></span>
+AARO's reporting framework separates cases into those that can be explained and those that cannot yet be explained with confidence. The office has released examples of resolved incidents involving balloons, aircraft, [drones]({{ 'drones/' | relative_url }}), sensor effects, and other ordinary causes, while also maintaining a catalogue of reports that remain unresolved because the available information is insufficient for a reliable conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP ImageryThis unresolved report contributes to AARO&#x27;s historical and locational trend analyses. PR-017, Unresolved UAP Report, Euro...</span></span></span>
 
 This distinction is important because unresolved does not mean inexplicable. A case may remain open for several reasons:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -291,12 +289,9 @@ This distinction is important because unresolved does not mean inexplicable. A c
 
 </div>
 
-AARO has explicitly stated that some reports remain unresolved because investigators lack enough information to make a determination, not because the evidence demonstrates extraordinary technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aaro.com/en/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.com">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.com</span><span class="citation-popover-title">Your Partner in Group Reporting | CPM software &amp; more</span><span class="citation-popover-snippet">Complete software, wide range of services, online support...Read more...</span></span></span>
+AARO has explicitly stated that some reports remain unresolved because investigators lack enough information to make a determination, not because the evidence demonstrates extraordinary technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aaro.com/en/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.com">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.com</span><span class="citation-popover-title">Your Partner in Group Reporting &#124; CPM software &amp; more</span><span class="citation-popover-snippet">Complete software, wide range of services, online support...Read more...</span></span></span>
 
 This mirrors a long-standing principle in scientific and intelligence analysis: when evidence is insufficient, the correct conclusion is uncertainty rather than speculation.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mvsU4p0Gsas" title="Breaking Down UAP Footage with the Head of The Pentagon’s UAP Taskforce, Dr. Jon Kosloski" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mvsU4p0Gsas" target="_blank" rel="noopener noreferrer">Breaking Down UAP Footage with the Head of The Pentagon’s UAP Taskforce, Dr. Jon Kosloski</a></p><p class="youtube-embed-meta">Channel: StarTalk</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mvsU4p0Gsas" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mvsU4p0Gsas">Open on YouTube</a></p></div></div></div>
 
 ### Why an Unresolved Label Is Not an Origin Finding
 
@@ -316,7 +311,6 @@ Public statements from AARO officials have been similarly direct. The office has
 
 This does not prove that extraterrestrial intelligence does not exist. Instead, it addresses a narrower claim: whether the evidence currently reviewed by AARO verifies such a conclusion. The office's answer has consistently been no. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aaro.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.org">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.org</span><span class="citation-popover-snippet">Association of Americans Resident Overseas: AAROThe Association of Americans Resident Overseas (AARO), founded in 1973 is a global, non-p...</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb_aaro_origin_claims_e6d57c-Illustration-2-dark.svg" | relative_url }}" alt="AARO Claims illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb_aaro_origin_claims_e6d57c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb_aaro_origin_claims_e6d57c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The Difference Between Absence of Proof and Proof of Absence
 
@@ -324,19 +318,17 @@ Critics sometimes argue that AARO's findings merely show that evidence has not b
 
 However, AARO's role is not to establish what might be possible in principle. Its role is to determine what available evidence currently demonstrates. The office therefore evaluates claims according to evidential support rather than possibility.
 
-Under that standard, a claim that alien technology has been recovered requires positive evidence of recovery, possession, testing, or verification. A lack of explanation for some sightings does not satisfy that requirement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">companies ever possessed off-world technology</span><span class="citation-popover-snippet">WikisourcePage:AARO Historical Record Report Volume 1 2024.pdf/84 May 2024 — Named Companies Allegedly Experimenting on Alien Technology...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+Under that standard, a claim that alien technology has been recovered requires positive evidence of recovery, possession, testing, or verification. A lack of explanation for some sightings does not satisfy that requirement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">companies ever possessed off-world technology</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/84 May 2024 — Named Companies Allegedly Experimenting on Alien Technology...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
 ## How Evidential Burden Shapes Public Interpretation
 
 The debate surrounding UAP often reveals a mismatch between investigative standards and public expectations.
 
-Investigative bodies generally require affirmative evidence before accepting a specific explanation. Extraordinary claims therefore carry a higher evidential burden because they propose phenomena beyond currently verified human experience. AARO's framework follows this principle by requiring direct supporting evidence before assigning extraordinary origins. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROAARO HomeHas the Department found any evidence of extraterrestrial technology? No. Examination of UAP sightings is ongoing. AARO uses...</span></span></span>
+Investigative bodies generally require affirmative evidence before accepting a specific explanation. Extraordinary claims therefore carry a higher evidential burden because they propose phenomena beyond currently verified human experience. AARO's framework follows this principle by requiring direct supporting evidence before assigning extraordinary origins. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeHas the Department found any evidence of extraterrestrial technology? No. Examination of UAP sightings is ongoing. AARO uses...</span></span></span>
 
 In public discussion, however, unresolved cases are sometimes treated as evidence in themselves. The reasoning often proceeds as follows:
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zKOaWME-EVw" title="Why Congress Is Treating UFOs as a National Security Threat?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zKOaWME-EVw" target="_blank" rel="noopener noreferrer">Why Congress Is Treating UFOs as a National Security Threat?</a></p><p class="youtube-embed-meta">Channel: Forbidden Chronicles</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zKOaWME-EVw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zKOaWME-EVw">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb_aaro_origin_claims_e6d57c-Illustration-3-dark.svg" | relative_url }}" alt="AARO Claims illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb_aaro_origin_claims_e6d57c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb_aaro_origin_claims_e6d57c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -346,7 +338,7 @@ In public discussion, however, unresolved cases are sometimes treated as evidenc
 
 </div>
 
-AARO's findings do not support that chain of reasoning. The office instead treats unresolved status as a statement about the quality of available evidence rather than about the probability of any particular origin. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROUAP ImageryThis unresolved report contributes to AARO&#x27;s historical and locational trend analyses. PR-017, Unresolved UAP Report, Euro...</span></span></span>
+AARO's findings do not support that chain of reasoning. The office instead treats unresolved status as a statement about the quality of available evidence rather than about the probability of any particular origin. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP ImageryThis unresolved report contributes to AARO&#x27;s historical and locational trend analyses. PR-017, Unresolved UAP Report, Euro...</span></span></span>
 
 This approach aligns with broader scientific assessments. NASA's independent UAP study concluded that there is no conclusive evidence of extraterrestrial origin in the available data, while simultaneously acknowledging that some observations remain unexplained and that better data collection is needed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</span></span></span>
 
@@ -358,23 +350,21 @@ This creates an important asymmetry. Weak data can be sufficient to prevent iden
 
 In other words, the threshold for saying "we do not know" is much lower than the threshold for saying "we know this is alien technology".
 
-
-<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb_aaro_origin_claims_e6d57c-Illustration-3-dark.svg" | relative_url }}" alt="AARO Claims illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb_aaro_origin_claims_e6d57c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb_aaro_origin_claims_e6d57c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What AARO's Position Means for Understanding UFO Reports
 
 Within the broader question of what causes UFO reports, AARO's findings reinforce a key analytical distinction: a UFO label describes the state of an investigation, whereas an origin claim attempts to explain the phenomenon itself.
 
 AARO's public record shows three simultaneous conclusions:
 
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
 * Many reports eventually receive ordinary explanations.
 * Some reports remain unresolved because the evidence is incomplete.
-* No investigated evidence has yet verified claims of extraterrestrial technology, hidden alien craft recovery programmes, or reverse-engineering efforts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dod examining unidentified anomalous phenomena</span><span class="citation-popover-snippet">Department of WarDOD Examining Unidentified Anomalous Phenomena14 Nov 2024 — This report covers UAP from May 1, 2023, to June 1, 2024, an...</span><span class="citation-popover-meta">Published: May 1, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dod report discounts sightings of extraterrestrial technology</span><span class="citation-popover-snippet">Department of WarDOD Report Discounts Sightings of Extraterrestrial...8 Mar 2024 — &quot;AARO has found no verifiable evidence that any UAP s...</span></span></span>
+* No investigated evidence has yet verified claims of extraterrestrial technology, hidden alien craft recovery programmes, or reverse-engineering efforts. [U.S. Department of War+2U.S. Department of War]
 
-The practical consequence is that unresolved cases should not be read as automatic support for any specific origin theory. Under AARO's evidential framework, uncertainty remains uncertainty until additional evidence justifies a stronger conclusion. That separation between investigative status and origin claim is one of the office's most consistent and consequential findings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aaro.com/en/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.com">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.com</span><span class="citation-popover-title">Your Partner in Group Reporting | CPM software &amp; more</span><span class="citation-popover-snippet">Complete software, wide range of services, online support...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">March 8, 2024. 03/08/2024, DoW NEWS STORIES, DOD Report Discounts Sightings of Extraterrestrial Technology; March 8, 2024.Read more...</span><span class="citation-popover-meta">Published: March 8, 2024</span></span></span>
+</div>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bi0H_mkwTW0" title="All-domain Anomaly Resolution Office (AARO): a Duality in Mission Regarding UAPs (Sean Kirkpatrick)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bi0H_mkwTW0" target="_blank" rel="noopener noreferrer">All-domain Anomaly Resolution Office (AARO): a Duality in Mission Regarding UAPs (Sean Kirkpatrick)</a></p><p class="youtube-embed-meta">Channel: National Capital Area Skeptics (NCAS)</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bi0H_mkwTW0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bi0H_mkwTW0">Open on YouTube</a></p></div></div></div>
-
+The practical consequence is that unresolved cases should not be read as automatic support for any specific origin theory. Under AARO's evidential framework, uncertainty remains uncertainty until additional evidence justifies a stronger conclusion. That separation between investigative status and origin claim is one of the office's most consistent and consequential findings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aaro.com/en/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.com">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.com</span><span class="citation-popover-title">Your Partner in Group Reporting &#124; CPM software &amp; more</span><span class="citation-popover-snippet">Complete software, wide range of services, online support...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">March 8, 2024. 03/08/2024, DoW NEWS STORIES, DOD Report Discounts Sightings of Extraterrestrial Technology; March 8, 2024.Read more...</span><span class="citation-popover-meta">Published: March 8, 2024</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -493,15 +483,15 @@ The practical consequence is that unresolved cases should not be read as automat
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-claims-what-aaro-says-evidence-still-has-not-shown-ifos-causes-of-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="aaro-claims-what-aaro-says-evidence-still-has-not-shown-ifos-causes-of-alien-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN Movie Weyland-Yutani Iron on Sew on Embroidered Patch"><img src="{{ '/assets/images/marketplace-covers/38cde06e995347640daf.jpg' | relative_url }}" alt="Listing image for ALIEN Movie Weyland-Yutani Iron on Sew on Embroidered Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-aaro-says-evidence-still-has-not-shown-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap patch" data-ebay-reference="what-aaro-says-evidence-still-has-not-shown-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Area 51 Groom Lake Dreamland UFO UAP Iron/Sew On Patches Aliens EBE ET FREE P&amp;P"><img src="https://i.ebayimg.com/images/g/bcYAAeSwvxlpSWMo/s-l225.jpg" alt="Listing image for Area 51 Groom Lake Dreamland UFO UAP Iron/Sew On Patches Aliens EBE ET FREE P&amp;P" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-claims-what-aaro-says-evidence-still-has-not-shown-ifos-causes-of-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="aaro-claims-what-aaro-says-evidence-still-has-not-shown-ifos-causes-of-alien-patch" target="_blank" rel="sponsored noopener noreferrer">ALIEN Movie Weyland-Yutani Iron on Sew on Embroidered Patch</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-aaro-says-evidence-still-has-not-shown-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap patch" data-ebay-reference="what-aaro-says-evidence-still-has-not-shown-uap-patch" target="_blank" rel="sponsored noopener noreferrer">Area 51 Groom Lake Dreamland UFO UAP Iron/Sew On Patches Aliens EBE ET FREE P&amp;P</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-claims-what-aaro-says-evidence-still-has-not-shown-ifos-causes-of-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="aaro-claims-what-aaro-says-evidence-still-has-not-shown-ifos-causes-of-alien-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-aaro-says-evidence-still-has-not-shown-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap patch" data-ebay-reference="what-aaro-says-evidence-still-has-not-shown-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-claims-what-aaro-says-evidence-still-has-not-shown-ifos-causes-of-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="aaro-claims-what-aaro-says-evidence-still-has-not-shown-ifos-causes-of-alien-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-aaro-says-evidence-still-has-not-shown-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap patch" data-ebay-reference="what-aaro-says-evidence-still-has-not-shown-uap-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -509,15 +499,15 @@ The practical consequence is that unresolved cases should not be read as automat
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-claims-what-aaro-says-evidence-still-has-not-shown-ifos-causes-of-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="aaro-claims-what-aaro-says-evidence-still-has-not-shown-ifos-causes-of-alien-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Space Embroidery Patch Iron Or Sewn On"><img src="{{ '/assets/images/marketplace-covers/ebfabc2ced200bfb4958.jpg' | relative_url }}" alt="Listing image for Alien Space Embroidery Patch Iron Or Sewn On" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-aaro-says-evidence-still-has-not-shown-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap patch" data-ebay-reference="what-aaro-says-evidence-still-has-not-shown-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Skinwalker Ranch Iron/Sew On Patch 8.5cm x 8.5cm Werewolf UFO UAP FREE P&amp;P"><img src="https://i.ebayimg.com/images/g/b8AAAOSwZF5oOxZ-/s-l225.jpg" alt="Listing image for Skinwalker Ranch Iron/Sew On Patch 8.5cm x 8.5cm Werewolf UFO UAP FREE P&amp;P" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-claims-what-aaro-says-evidence-still-has-not-shown-ifos-causes-of-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="aaro-claims-what-aaro-says-evidence-still-has-not-shown-ifos-causes-of-alien-patch" target="_blank" rel="sponsored noopener noreferrer">Alien Space Embroidery Patch Iron Or Sewn On</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-aaro-says-evidence-still-has-not-shown-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap patch" data-ebay-reference="what-aaro-says-evidence-still-has-not-shown-uap-patch" target="_blank" rel="sponsored noopener noreferrer">Skinwalker Ranch Iron/Sew On Patch 8.5cm x 8.5cm Werewolf UFO UAP FREE P&amp;P</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-claims-what-aaro-says-evidence-still-has-not-shown-ifos-causes-of-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="aaro-claims-what-aaro-says-evidence-still-has-not-shown-ifos-causes-of-alien-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-aaro-says-evidence-still-has-not-shown-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap patch" data-ebay-reference="what-aaro-says-evidence-still-has-not-shown-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-claims-what-aaro-says-evidence-still-has-not-shown-ifos-causes-of-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="aaro-claims-what-aaro-says-evidence-still-has-not-shown-ifos-causes-of-alien-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-aaro-says-evidence-still-has-not-shown-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap patch" data-ebay-reference="what-aaro-says-evidence-still-has-not-shown-uap-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -525,15 +515,15 @@ The practical consequence is that unresolved cases should not be read as automat
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-claims-what-aaro-says-evidence-still-has-not-shown-ifos-causes-of-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="aaro-claims-what-aaro-says-evidence-still-has-not-shown-ifos-causes-of-alien-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USCSS Nostromo Crew Patch | Alien Movie Replica Embroidered Badge"><img src="{{ '/assets/images/marketplace-covers/81117f863db66f4843c8.jpg' | relative_url }}" alt="Listing image for USCSS Nostromo Crew Patch | Alien Movie Replica Embroidered Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-aaro-says-evidence-still-has-not-shown-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap patch" data-ebay-reference="what-aaro-says-evidence-still-has-not-shown-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Travel UFO UAP Iron/Sew On Patch 9cm x 7.5cm FREE Aliens Saucer P&amp;P"><img src="https://i.ebayimg.com/images/g/LZ0AAOSw~TJjKxLg/s-l225.jpg" alt="Listing image for Space Travel UFO UAP Iron/Sew On Patch 9cm x 7.5cm FREE Aliens Saucer P&amp;P" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-claims-what-aaro-says-evidence-still-has-not-shown-ifos-causes-of-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="aaro-claims-what-aaro-says-evidence-still-has-not-shown-ifos-causes-of-alien-patch" target="_blank" rel="sponsored noopener noreferrer">USCSS Nostromo Crew Patch | Alien Movie Replica Embroidered Badge</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-aaro-says-evidence-still-has-not-shown-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap patch" data-ebay-reference="what-aaro-says-evidence-still-has-not-shown-uap-patch" target="_blank" rel="sponsored noopener noreferrer">Space Travel UFO UAP Iron/Sew On Patch 9cm x 7.5cm FREE Aliens Saucer P&amp;P</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-claims-what-aaro-says-evidence-still-has-not-shown-ifos-causes-of-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="aaro-claims-what-aaro-says-evidence-still-has-not-shown-ifos-causes-of-alien-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-aaro-says-evidence-still-has-not-shown-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap patch" data-ebay-reference="what-aaro-says-evidence-still-has-not-shown-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-claims-what-aaro-says-evidence-still-has-not-shown-ifos-causes-of-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="aaro-claims-what-aaro-says-evidence-still-has-not-shown-ifos-causes-of-alien-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-aaro-says-evidence-still-has-not-shown-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap patch" data-ebay-reference="what-aaro-says-evidence-still-has-not-shown-uap-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -541,15 +531,15 @@ The practical consequence is that unresolved cases should not be read as automat
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-claims-what-aaro-says-evidence-still-has-not-shown-ifos-causes-of-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="aaro-claims-what-aaro-says-evidence-still-has-not-shown-ifos-causes-of-alien-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weyland-Yutani Corp Patch- Alien Movie Embroidered Patch Sew/Iron On UK GB Badge"><img src="{{ '/assets/images/marketplace-covers/2e8368c072143378fdb0.jpg' | relative_url }}" alt="Listing image for Weyland-Yutani Corp Patch- Alien Movie Embroidered Patch Sew/Iron On UK GB Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-aaro-says-evidence-still-has-not-shown-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap patch" data-ebay-reference="what-aaro-says-evidence-still-has-not-shown-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage YMCA Underwater Activities Program Patch SCUBA Snorkeling Swimming UAP"><img src="https://i.ebayimg.com/images/g/gg8AAOSwHxZfWQXU/s-l225.jpg" alt="Listing image for Vintage YMCA Underwater Activities Program Patch SCUBA Snorkeling Swimming UAP" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-claims-what-aaro-says-evidence-still-has-not-shown-ifos-causes-of-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="aaro-claims-what-aaro-says-evidence-still-has-not-shown-ifos-causes-of-alien-patch" target="_blank" rel="sponsored noopener noreferrer">Weyland-Yutani Corp Patch- Alien Movie Embroidered Patch Sew/Iron On UK GB Badge</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-aaro-says-evidence-still-has-not-shown-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap patch" data-ebay-reference="what-aaro-says-evidence-still-has-not-shown-uap-patch" target="_blank" rel="sponsored noopener noreferrer">Vintage YMCA Underwater Activities Program Patch SCUBA Snorkeling Swimming UAP</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-claims-what-aaro-says-evidence-still-has-not-shown-ifos-causes-of-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="aaro-claims-what-aaro-says-evidence-still-has-not-shown-ifos-causes-of-alien-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-aaro-says-evidence-still-has-not-shown-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap patch" data-ebay-reference="what-aaro-says-evidence-still-has-not-shown-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-claims-what-aaro-says-evidence-still-has-not-shown-ifos-causes-of-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="aaro-claims-what-aaro-says-evidence-still-has-not-shown-ifos-causes-of-alien-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-aaro-says-evidence-still-has-not-shown-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap patch" data-ebay-reference="what-aaro-says-evidence-still-has-not-shown-uap-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -557,7 +547,7 @@ The practical consequence is that unresolved cases should not be read as automat
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-claims-what-aaro-says-evidence-still-has-not-shown-ifos-causes-of-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="aaro-claims-what-aaro-says-evidence-still-has-not-shown-ifos-causes-of-alien-patch" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-aaro-says-evidence-still-has-not-shown-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap patch" data-ebay-reference="what-aaro-says-evidence-still-has-not-shown-uap-patch" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -772,157 +762,157 @@ The practical consequence is that unresolved cases should not be read as automat
 
 1. <a id="endnote-1"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROAARO HomeHas the Department found any evidence of extraterrestrial technology? No. Examination of UAP sightings is ongoing. AARO uses...</p></details>
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeHas the Department found any evidence of extraterrestrial technology? No. Examination of UAP sightings is ongoing. AARO uses...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 18 Mar 2024 — Results: Project SAUCER did not find evidence of extraterrestrial tec...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROUAP ImageryThis unresolved report contributes to AARO&#x27;s historical and locational trend analyses. PR-017, Unresolved UAP Report, Euro...</p></details>
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThis unresolved report contributes to AARO&#x27;s historical and locational trend analyses. PR-017, Unresolved UAP Report, Euro...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/](https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Examining Unidentified Anomalous Phenomena14 Nov 2024 — This report covers UAP from May 1, 2023, to June 1, 2024, an...</p></details>
    Published: May 1, 2023  
 
 5. <a id="endnote-5"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: en.wikisource.org  
    Title: Section 2  
-   Link: [https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_2](https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_2)  
+   Link: <a href="https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_2" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_2</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: en.wikisource.org  
    Title: companies ever possessed off-world technology  
-   Link: [https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/8](https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/8)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WikisourcePage:AARO Historical Record Report Volume 1 2024.pdf/84 May 2024 — Named Companies Allegedly Experimenting on Alien Technology...</p></details>
+   Link: <a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/8" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/8</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Page:AARO Historical Record Report Volume 1 2024.pdf/84 May 2024 — Named Companies Allegedly Experimenting on Alien Technology...</p></details>
    Published: May 2024  
 
 8. <a id="endnote-8"></a>
    Source: war.gov  
    Title: dod report discounts sightings of extraterrestrial technology  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/](https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Report Discounts Sightings of Extraterrestrial...8 Mar 2024 — &quot;AARO has found no verifiable evidence that any UAP s...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP FAQs8 May 2026 —... no evidence that UAPs are extraterrestrial. However... Are there any data supporting the idea that...</p></details>
    Published: May 2026  
 
 10. <a id="endnote-10"></a>
    Source: nasa.gov  
    Title: nasa to release discuss unidentified anomalous phenomena report  
-   Link: [https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/](https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/)  
+   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to Release, Discuss Unidentified Anomalous...NASA commissioned the study to examine UAP from a scientific perspective and create a...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — The study will focus on identifying available data, how best to collect future data, and how NASA can use that da...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: aaro.com  
    Title: Your Partner in Group Reporting | CPM software & more  
-   Link: [https://aaro.com/en/](https://aaro.com/en/)  
+   Link: <a href="https://aaro.com/en/" target="_blank" rel="noopener noreferrer nofollow">https://aaro.com/en/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Complete software, wide [range](&amp;#123;&amp;#123; &#x27;range/&#x27; | relative_url &amp;#125;&amp;#125;) of services, online support...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: en.wikisource.org  
    Title: AARO Investigating Unresolved Historical Nuclear-Related UAP Cases  
-   Link: [https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf](https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf)  
+   Link: <a href="https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgIndex:AARO Historical Record Report Volume 1 2024.pdf11 May 2024 — Extraterrestrial Disclosure Study Confirmed; Not White H...</p></details>
    Published: May 2024  
 
 14. <a id="endnote-14"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Congressional-Press-Products/](https://www.aaro.mil/Congressional-Press-Products/)  
+   Link: <a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>March 8, 2024. 03/08/2024, DoW NEWS STORIES, DOD Report Discounts Sightings of Extraterrestrial Technology; March 8, 2024.Read more...</p></details>
    Published: March 8, 2024  
 
 15. <a id="endnote-15"></a>
    Source: aaro.org  
-   Link: [https://aaro.org/](https://aaro.org/)  
+   Link: <a href="https://aaro.org/" target="_blank" rel="noopener noreferrer nofollow">https://aaro.org/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Association of Americans Resident Overseas: AAROThe Association of Americans Resident Overseas (AARO), founded in 1973 is a global, non-p...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: war.gov  
    Title: the department of defense launches the all domain anomaly resolution office web  
-   Link: [https://www.war.gov/News/Releases/Release/Article/3513171/the-department-of-defense-launches-the-all-domain-anomaly-resolution-office-web/](https://www.war.gov/News/Releases/Release/Article/3513171/the-department-of-defense-launches-the-all-domain-anomaly-resolution-office-web/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3513171/the-department-of-defense-launches-the-all-domain-anomaly-resolution-office-web/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3513171/the-department-of-defense-launches-the-all-domain-anomaly-resolution-office-web/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Department of Defense Launches the All-domain...31 Aug 2023 — The All-domain Anomaly Resolution Office&#x27;s new website provides the pu...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: theelectricgf.com  
    Title: pentagon report finds no evidence of extraterrestrial activity  
-   Link: [https://theelectricgf.com/2024/03/13/pentagon-report-finds-no-evidence-of-extraterrestrial-activity/](https://theelectricgf.com/2024/03/13/pentagon-report-finds-no-evidence-of-extraterrestrial-activity/)  
+   Link: <a href="https://theelectricgf.com/2024/03/13/pentagon-report-finds-no-evidence-of-extraterrestrial-activity/" target="_blank" rel="noopener noreferrer nofollow">https://theelectricgf.com/2024/03/13/pentagon-report-finds-no-evidence-of-extraterrestrial-activity/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>13 Mar 2024 — “AARO has found no verifiable evidence that any UAP sighting has represented extraterrestrial activity,” AARO acting Direct...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/video/977839/pr-008-unresolved-uap-report-europe-2022](https://www.dvidshub.net/video/977839/pr-008-unresolved-uap-report-europe-2022)  
+   Link: <a href="https://www.dvidshub.net/video/977839/pr-008-unresolved-uap-report-europe-2022" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/977839/pr-008-unresolved-uap-report-europe-2022</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PR-008, Unresolved UAP Report, Europe 2022The United States European Command submitted a report of an unidentified anomalous phenomenon t...</p></details>
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1f20ywp/aaro_has_stated_on_record_they_will_not_find/](https://www.reddit.com/r/UFOs/comments/1f20ywp/aaro_has_stated_on_record_they_will_not_find/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1f20ywp/aaro_has_stated_on_record_they_will_not_find/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1f20ywp/aaro_has_stated_on_record_they_will_not_find/</a>  
 
 20. <a id="endnote-20"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/10aa9mt/aaro_the_us_government_anomalous_phenomena/](https://www.reddit.com/r/HighStrangeness/comments/10aa9mt/aaro_the_us_government_anomalous_phenomena/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/10aa9mt/aaro_the_us_government_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/10aa9mt/aaro_the_us_government_anomalous_phenomena/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO, the U.S. Government Anomalous Phenomena...The All-domain Anomaly Resolution Office (AARO) unit at the Pentagon is currently invest...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/](https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/)  
+   Link: <a href="https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...I really hate it when &quot;it&#x27;s alien&quot; believers don&#x27;t even want their aliens to be alien. Wh...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/](https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/)  
+   Link: <a href="https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...So, if NASA finds evidence of aliens, they&#x27;ll report it to public?... r/space - NASA pan...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/](https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/)  
+   Link: <a href="https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA has released the Unidentified Anomalous...This report, commissioned by but produced independently of NASA, is not a review or asses...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: rollcall.com  
-   Link: [https://rollcall.com/2024/03/08/no-evidence-of-extraterrestrial-technology-report-finds/](https://rollcall.com/2024/03/08/no-evidence-of-extraterrestrial-technology-report-finds/)  
+   Link: <a href="https://rollcall.com/2024/03/08/no-evidence-of-extraterrestrial-technology-report-finds/" target="_blank" rel="noopener noreferrer nofollow">https://rollcall.com/2024/03/08/no-evidence-of-extraterrestrial-technology-report-finds/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>No evidence of extraterrestrial technology, report findsThe review encompasses all UAP investigations conducted by the U.S. government si...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: livescience.com  
-   Link: [https://www.livescience.com/space/extraterrestrial-life/us-government-declassifies-nearly-200-uap-files-including-strange-sightings-from-apollo-astronauts](https://www.livescience.com/space/extraterrestrial-life/us-government-declassifies-nearly-200-uap-files-including-strange-sightings-from-apollo-astronauts)  
+   Link: <a href="https://www.livescience.com/space/extraterrestrial-life/us-government-declassifies-nearly-200-uap-files-including-strange-sightings-from-apollo-astronauts" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/space/extraterrestrial-life/us-government-declassifies-nearly-200-uap-files-including-strange-sightings-from-apollo-astronauts</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Defense released a second batch of UFO-related files, bringing the total number of newly declassified documents to 162. Spa...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: wired.com  
-   Link: [https://www.wired.com/story/nasa-ufos-aliens-report-2023](https://www.wired.com/story/nasa-ufos-aliens-report-2023)  
+   Link: <a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The agency stressed the need to shift the conversation from sensationalism to science and eliminate the [stigma](&amp;#123;&amp;#123; &#x27;stigma/&#x27; | relative_url &amp;#125;&amp;#125;) associated with reporting...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
-   Link: [https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology](https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology)  
+   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO office finds &#x27;no empirical evidence&#x27; for alien...8 Mar 2024 — The Pentagon&#x27;s UFO office has once again stressed that it has...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/newshour/posts/the-us-in-2022-launched-the-all-domain-anomaly-resolution-office-aaro-as-part-of/1149122250416353/](https://www.facebook.com/newshour/posts/the-us-in-2022-launched-the-all-domain-anomaly-resolution-office-aaro-as-part-of/1149122250416353/)  
+   Link: <a href="https://www.facebook.com/newshour/posts/the-us-in-2022-launched-the-all-domain-anomaly-resolution-office-aaro-as-part-of/1149122250416353/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/newshour/posts/the-us-in-2022-launched-the-all-domain-anomaly-resolution-office-aaro-as-part-of/1149122250416353/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The U.S. in 2022 launched the All-Domain Anomaly...Full DOD statement: bit.ly/DODAARO Follow @disclosure_team #aliens #ovnis #flyingsauc...</p></details>

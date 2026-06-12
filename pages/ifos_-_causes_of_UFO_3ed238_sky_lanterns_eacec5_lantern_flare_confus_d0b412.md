@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5_mod_lantern_surge_aa96ee
 - ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5_wind_drift_lanterns_471c10
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - lanterns
 - flare-confusion
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - lanterns
 - flare-confusion
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: The same orange lanterns that create UFO reports can also trigger emergency calls when they resemble flares over water or coastlines.
 hero_summary: The same orange lanterns that create UFO reports can also trigger emergency calls when they resemble flares over water or coastlines.
 layout: default
 permalink: /flare-confusion/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /lanterns/
 nav_short_title: Flare confusion
 title: Why lanterns can look like distress flares
-title_full: Why lanterns can look like distress flares | Lanterns
+title_full: Why lanterns can look like distress flares
 display_title_short: Flare confusion
 display_title: Flare confusion
 heading_title: Why lanterns can look like distress flares
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 03:53:24'
-parent_title: The Orange Lights That Start UFO Reports | IFOs
+parent_title: The Orange Lights That Start UFO Reports
 parent_permalink: /lanterns/
 parent_nav_short_title: Lanterns
 parent_heading_title: The Orange Lights That Start UFO Reports
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5
-  title: Lanterns | Ifos Causes Of
+  title: Lanterns | ifos causes of UFO 3 ed 238
   permalink: /lanterns/
   short_title: Lanterns
   heading_title: The Orange Lights That Start UFO Reports
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5
-  title: Lanterns | Ifos Causes Of
+  title: Lanterns | ifos causes of UFO 3 ed 238
   permalink: /lanterns/
   short_title: Lanterns
   heading_title: The Orange Lights That Start UFO Reports
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: Why lanterns seem to move under control
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5
-  title: Lanterns | Ifos Causes Of
+  title: Lanterns | ifos causes of UFO 3 ed 238
   permalink: /lanterns/
   short_title: Lanterns
   heading_title: The Orange Lights That Start UFO Reports
@@ -266,6 +265,7 @@ next_link:
   permalink: /formations/
   short_title: Formations
   heading_title: When drifting lanterns look like a formation
+date: '2026-06-12 00:20:14 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5_lantern_flare_confus_d0b412-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5_lantern_flare_confus_d0b412-Illustration-1.webp
@@ -274,21 +274,20 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5_lantern_fl
 
 ## Introduction
 
-Among the many ordinary causes of UFO reports, [sky lanterns]({{ 'lanterns/' | relative_url }}) occupy a special place because they can trigger not only “mystery light” sightings but also emergency alerts. Over water, a drifting orange lantern can resemble a marine distress flare: it glows intensely, appears isolated against a dark background, and may seem to hover or descend slowly. Witnesses who are unsure whether they are seeing a lantern or a genuine emergency signal often report the light to coastguard services, leading to searches that sometimes end with no vessel or person in distress being found. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.telegraph.co.uk/news/newstopics/howaboutthat/5757904/Public-mistake-Chinese-lanterns-for-distress-flares.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: telegraph.co.uk">[Telegraph]</a><span class="citation-popover" role="note"><span class="citation-popover-source">telegraph.co.uk</span><span class="citation-popover-title">Public mistake Chinese lanterns for distress flares</span><span class="citation-popover-snippet">TelegraphPublic mistake Chinese lanterns for distress flares6 Jul 2009 — British coastguard chiefs say the craze of releasing Chinese fly...</span></span></span>
-
+Among the many ordinary causes of UFO reports, sky lanterns occupy a special place because they can trigger not only “mystery light” sightings but also emergency alerts. Over water, a drifting orange lantern can resemble a marine distress flare: it glows intensely, appears isolated against a dark background, and may seem to hover or descend slowly. Witnesses who are unsure whether they are seeing a lantern or a genuine emergency signal often report the light to coastguard services, leading to searches that sometimes end with no vessel or person in distress being found. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.telegraph.co.uk/news/newstopics/howaboutthat/5757904/Public-mistake-Chinese-lanterns-for-distress-flares.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: telegraph.co.uk">[Telegraph]</a><span class="citation-popover" role="note"><span class="citation-popover-source">telegraph.co.uk</span><span class="citation-popover-title">Public mistake Chinese lanterns for distress flares</span><span class="citation-popover-snippet">Public mistake Chinese lanterns for distress flares6 Jul 2009 — British coastguard chiefs say the craze of releasing Chinese fly...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5_lantern_flare_confus_d0b412-Illustration-1-dark.svg" | relative_url }}" alt="Flare confusion illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5_lantern_flare_confus_d0b412-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5_lantern_flare_confus_d0b412-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This overlap matters when evaluating UFO reports involving orange lights near coastlines, harbours, lakes, or estuaries. The same visual characteristics that encourage UFO interpretations can also make observers believe they are witnessing a distress signal. Understanding that overlap helps explain a recurring category of reports without dismissing the importance of genuine emergency calls.
 
 ## Why lanterns can look like distress flares
 
-A marine distress flare is designed to attract attention. At night it appears as a bright red-orange light against a dark sky or horizon. Sky lanterns produce a surprisingly similar visual impression when viewed from a distance. Both are often seen as isolated points of orange or reddish light, and both may appear to drift slowly with no obvious source of propulsion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nsri.org.za/2013/07/two-kzn-chinese-lantern-false-alarms/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsri.org.za">[NSRI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsri.org.za</span><span class="citation-popover-title">two kzn chinese lantern false alarms</span><span class="citation-popover-snippet">NSRITwo KZN Chinese lantern false alarms:20 Jul 2013 — NSRI appeal to the public not to set off chinese lanterns along the coastline as m...</span></span></span>
+A marine distress flare is designed to attract attention. At night it appears as a bright red-orange light against a dark sky or horizon. Sky lanterns produce a surprisingly similar visual impression when viewed from a distance. Both are often seen as isolated points of orange or reddish light, and both may appear to drift slowly with no obvious source of propulsion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nsri.org.za/2013/07/two-kzn-chinese-lantern-false-alarms/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsri.org.za">[NSRI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsri.org.za</span><span class="citation-popover-title">two kzn chinese lantern false alarms</span><span class="citation-popover-snippet">Two KZN Chinese lantern false alarms:20 Jul 2013 — NSRI appeal to the public not to set off chinese lanterns along the coastline as m...</span></span></span>
 
 ### Shared visual traits of lanterns and flares
 
 Several factors contribute to the confusion:
 
-* **Colour similarity:** The flame inside a lantern produces a warm orange-red glow similar to the colour associated with many distress flares. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nsri.org.za/2013/07/two-kzn-chinese-lantern-false-alarms/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsri.org.za">[NSRI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsri.org.za</span><span class="citation-popover-title">two kzn chinese lantern false alarms</span><span class="citation-popover-snippet">NSRITwo KZN Chinese lantern false alarms:20 Jul 2013 — NSRI appeal to the public not to set off chinese lanterns along the coastline as m...</span></span></span>
+* **Colour similarity:** The flame inside a lantern produces a warm orange-red glow similar to the colour associated with many distress flares. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nsri.org.za/2013/07/two-kzn-chinese-lantern-false-alarms/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsri.org.za">[NSRI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsri.org.za</span><span class="citation-popover-title">two kzn chinese lantern false alarms</span><span class="citation-popover-snippet">Two KZN Chinese lantern false alarms:20 Jul 2013 — NSRI appeal to the public not to set off chinese lanterns along the coastline as m...</span></span></span>
 * **Night-time viewing conditions:** Over water, there are few reference points to judge distance, altitude, or speed. A lantern can appear much farther away than it really is. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.loveclontarf.ie/news/warning-issued-by-howth-coast-guard-re-chinese-lanterns/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loveclontarf.ie">[Love Clontarf]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loveclontarf.ie</span><span class="citation-popover-title">warning issued by howth coast guard re chinese lanterns</span><span class="citation-popover-snippet">Love ClontarfWarning issued by Howth Coast Guard re Chinese lanterns4 Mar 2012 — Howth Coast Guard have contacted us and asked us to publ...</span></span></span>
 * **Apparent hovering:** Lanterns drift with upper-level winds that may differ from winds felt at ground level, creating the impression that the light is stationary or moving unpredictably.
 * **Silent operation:** Like many UFO reports involving orange lights, lantern sightings lack engine noise, making them seem unusual or unexplained.
@@ -296,23 +295,19 @@ Several factors contribute to the confusion:
 
 For an observer on a shoreline, especially one unfamiliar with sky lanterns, these similarities can be convincing enough to suggest either a maritime emergency or an unidentified aerial object.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gP5kZIGyodw" title="🔥Boy Gets SS Repair Talent; All Mecha Girls Who Choose to Contract With Him Become 100% Stronger!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gP5kZIGyodw" target="_blank" rel="noopener noreferrer">🔥Boy Gets SS Repair Talent; All Mecha Girls Who Choose to Contract With Him Become 100% Stronger!</a></p><p class="youtube-embed-meta">Channel: Bella&#x27;s Comic Chronicles</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gP5kZIGyodw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gP5kZIGyodw">Open on YouTube</a></p></div></div></div>
-
 ## Coastguard false alarms from orange lights
 
 The resemblance between lanterns and distress flares is not merely theoretical. Coastguard organisations and rescue agencies in several countries have documented repeated incidents in which lanterns prompted emergency responses.
 
-British coastguard officials reported a rise in emergency calls during the late 2000s as the popularity of sky lanterns increased, with members of the public mistaking them for distress flares and contacting emergency services. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.telegraph.co.uk/news/newstopics/howaboutthat/5757904/Public-mistake-Chinese-lanterns-for-distress-flares.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: telegraph.co.uk">[Telegraph]</a><span class="citation-popover" role="note"><span class="citation-popover-source">telegraph.co.uk</span><span class="citation-popover-title">Public mistake Chinese lanterns for distress flares</span><span class="citation-popover-snippet">TelegraphPublic mistake Chinese lanterns for distress flares6 Jul 2009 — British coastguard chiefs say the craze of releasing Chinese fly...</span></span></span>
+British coastguard officials reported a rise in emergency calls during the late 2000s as the popularity of sky lanterns increased, with members of the public mistaking them for distress flares and contacting emergency services. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.telegraph.co.uk/news/newstopics/howaboutthat/5757904/Public-mistake-Chinese-lanterns-for-distress-flares.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: telegraph.co.uk">[Telegraph]</a><span class="citation-popover" role="note"><span class="citation-popover-source">telegraph.co.uk</span><span class="citation-popover-title">Public mistake Chinese lanterns for distress flares</span><span class="citation-popover-snippet">Public mistake Chinese lanterns for distress flares6 Jul 2009 — British coastguard chiefs say the craze of releasing Chinese fly...</span></span></span>
 
 In Somerset in 2009, lanterns launched from a residential area generated multiple emergency reports because witnesses believed they were seeing distress flares over the coast. Coastguard personnel were able to identify the source before a larger rescue operation was launched. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wsfp.co.uk/news/chinese-lanterns-spark-coastguard-warning-493460" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsfp.co.uk">[West Somerset Free Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsfp.co.uk</span><span class="citation-popover-title">West Somerset Free Press Chinese lanterns spark coastguard warning</span><span class="citation-popover-snippet">West Somerset Free PressChinese lanterns spark coastguard warningApril 8, 2009 — 8 Apr 2009 — CHINESE sky lanterns launched from a garden...</span><span class="citation-popover-meta">Published: April 8, 2009</span></span></span>
 
-Irish maritime authorities have issued repeated warnings that lanterns drifting seaward can resemble emergency pyrotechnics. Reports from Irish coastguard organisations describe false alarms, rescue responses, and even lifeboat launches resulting from mistaken identifications. One account noted that at least six lifeboat launches had been linked to lantern sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://afloat.ie/safety/coastguard/item/14915-coast-guard-appeals-over-chinese-lanterns" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afloat.ie">[Afloat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afloat.ie</span><span class="citation-popover-snippet">AfloatCoast Guard Appeals Over Chinese Lanterns - AfloatJanuary 31, 2011 — 31 Jan 2011 — At least six RNLI boats around the country have...</span><span class="citation-popover-meta">Published: January 31, 2011</span></span></span>
+Irish maritime authorities have issued repeated warnings that lanterns drifting seaward can resemble emergency pyrotechnics. Reports from Irish coastguard organisations describe false alarms, rescue responses, and even lifeboat launches resulting from mistaken identifications. One account noted that at least six lifeboat launches had been linked to lantern sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://afloat.ie/safety/coastguard/item/14915-coast-guard-appeals-over-chinese-lanterns" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afloat.ie">[Afloat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afloat.ie</span><span class="citation-popover-snippet">Coast Guard Appeals Over Chinese Lanterns - AfloatJanuary 31, 2011 — 31 Jan 2011 — At least six RNLI boats around the country have...</span><span class="citation-popover-meta">Published: January 31, 2011</span></span></span>
 
-Similar experiences have been reported elsewhere. The National Sea Rescue Institute in South Africa documented incidents in which observers reported suspected distress flares, only for investigations to reveal that the lights were sky lanterns released along the coast. In one case, multiple lanterns were initially interpreted as offshore distress signals. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nsri.org.za/2013/07/two-kzn-chinese-lantern-false-alarms/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsri.org.za">[NSRI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsri.org.za</span><span class="citation-popover-title">two kzn chinese lantern false alarms</span><span class="citation-popover-snippet">NSRITwo KZN Chinese lantern false alarms:20 Jul 2013 — NSRI appeal to the public not to set off chinese lanterns along the coastline as m...</span></span></span>
+Similar experiences have been reported elsewhere. The National Sea Rescue Institute in South Africa documented incidents in which observers reported suspected distress flares, only for investigations to reveal that the lights were sky lanterns released along the coast. In one case, multiple lanterns were initially interpreted as offshore distress signals. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nsri.org.za/2013/07/two-kzn-chinese-lantern-false-alarms/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsri.org.za">[NSRI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsri.org.za</span><span class="citation-popover-title">two kzn chinese lantern false alarms</span><span class="citation-popover-snippet">Two KZN Chinese lantern false alarms:20 Jul 2013 — NSRI appeal to the public not to set off chinese lanterns along the coastline as m...</span></span></span>
 
 These incidents illustrate how a simple airborne lantern can trigger a chain of interpretations: an unexplained orange light becomes a suspected flare, and in some cases a potential emergency.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5_lantern_flare_confus_d0b412-Illustration-2-dark.svg" | relative_url }}" alt="Flare confusion illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5_lantern_flare_confus_d0b412-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5_lantern_flare_confus_d0b412-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why flare confusion overlaps with UFO reports
@@ -322,7 +317,6 @@ The connection to UFO reporting is straightforward. Witnesses often begin with t
 A person focused on aviation may conclude that the light is an unusual aircraft. Someone interested in UFOs may view it as an unidentified object. A coastal observer may fear that a vessel is in distress. The underlying visual stimulus can be identical.
 
 This helps explain why reports of orange lights frequently appear in multiple reporting systems at once. A single lantern release may generate:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -335,30 +329,22 @@ This helps explain why reports of orange lights frequently appear in multiple re
 
 The lantern itself does not change; the observer's context determines the explanation that initially seems most plausible.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bfThiqDd9FA" title="March 4 2022 Moon Crash - Original (19M views) view from different location" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bfThiqDd9FA" target="_blank" rel="noopener noreferrer">March 4 2022 Moon Crash - Original (19M views) view from different location</a></p><p class="youtube-embed-meta">Channel: ViralVideoLab</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bfThiqDd9FA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bfThiqDd9FA">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5_lantern_flare_confus_d0b412-Illustration-3-dark.svg" | relative_url }}" alt="Flare confusion illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5_lantern_flare_confus_d0b412-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5_lantern_flare_confus_d0b412-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When emergency reporting is still the right choice
 
 Recognising that lanterns can mimic distress flares should not discourage reporting possible emergencies. Coastguard agencies consistently emphasise the opposite message: if a light over water genuinely appears to indicate distress, it should be reported promptly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.howthcoastguard.com/news/chinese-lanterns" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: howthcoastguard.com">[Howth Coast Guard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">howthcoastguard.com</span><span class="citation-popover-title">chinese lanterns</span><span class="citation-popover-snippet">Howth Coast GuardChinese Lanterns29 Apr 2016 — If you do see what appears to be flare near water never delay, call the Coast Guard @ 112...</span></span></span>
 
 The reason is simple. A real distress flare is intended to be seen and acted upon. Delays caused by uncertainty can have serious consequences for people in danger at sea.
 
-Observers can sometimes look for clues. Multiple lights drifting together at a constant pace may suggest lanterns, particularly during festivals, weddings, or holiday celebrations. A flare, by contrast, often has a more dramatic trajectory and is specifically designed as an emergency signal. However, visual distinctions are not always reliable from a distance or in poor conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nsri.org.za/2013/07/two-kzn-chinese-lantern-false-alarms/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsri.org.za">[NSRI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsri.org.za</span><span class="citation-popover-title">two kzn chinese lantern false alarms</span><span class="citation-popover-snippet">NSRITwo KZN Chinese lantern false alarms:20 Jul 2013 — NSRI appeal to the public not to set off chinese lanterns along the coastline as m...</span></span></span>
+Observers can sometimes look for clues. Multiple lights drifting together at a constant pace may suggest lanterns, particularly during festivals, weddings, or holiday celebrations. A flare, by contrast, often has a more dramatic trajectory and is specifically designed as an emergency signal. However, visual distinctions are not always reliable from a distance or in poor conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nsri.org.za/2013/07/two-kzn-chinese-lantern-false-alarms/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsri.org.za">[NSRI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsri.org.za</span><span class="citation-popover-title">two kzn chinese lantern false alarms</span><span class="citation-popover-snippet">Two KZN Chinese lantern false alarms:20 Jul 2013 — NSRI appeal to the public not to set off chinese lanterns along the coastline as m...</span></span></span>
 
-From a governance and public-safety perspective, rescue organisations generally regard a false alarm as preferable to a missed emergency. That is why coastguard services continue to investigate reports even when there is a possibility that the source is a lantern. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nsri.org.za/2013/07/two-kzn-chinese-lantern-false-alarms/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsri.org.za">[NSRI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsri.org.za</span><span class="citation-popover-title">two kzn chinese lantern false alarms</span><span class="citation-popover-snippet">NSRITwo KZN Chinese lantern false alarms:20 Jul 2013 — NSRI appeal to the public not to set off chinese lanterns along the coastline as m...</span></span></span>
+From a governance and public-safety perspective, rescue organisations generally regard a false alarm as preferable to a missed emergency. That is why coastguard services continue to investigate reports even when there is a possibility that the source is a lantern. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nsri.org.za/2013/07/two-kzn-chinese-lantern-false-alarms/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsri.org.za">[NSRI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsri.org.za</span><span class="citation-popover-title">two kzn chinese lantern false alarms</span><span class="citation-popover-snippet">Two KZN Chinese lantern false alarms:20 Jul 2013 — NSRI appeal to the public not to set off chinese lanterns along the coastline as m...</span></span></span>
 
-
-<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5_lantern_flare_confus_d0b412-Illustration-3-dark.svg" | relative_url }}" alt="Flare confusion illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5_lantern_flare_confus_d0b412-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5_lantern_flare_confus_d0b412-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What this tells us about UFO reports
 
 The flare-confusion pattern demonstrates a broader lesson about UFO observations. Witnesses are often accurately reporting what they saw: a bright orange light, apparently isolated, moving slowly and silently through the night. The uncertainty arises when observers attempt to identify the object under conditions that provide very little visual information.
 
-Sky lanterns therefore occupy a distinctive place among causes of UFO reports. They do not merely resemble mysterious aerial objects; in coastal settings they can also imitate emergency signals closely enough to trigger search-and-rescue responses. The resulting record of false flare alerts provides independent evidence that ordinary lanterns can produce striking, convincing, and sometimes highly consequential misidentifications. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.telegraph.co.uk/news/newstopics/howaboutthat/5757904/Public-mistake-Chinese-lanterns-for-distress-flares.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: telegraph.co.uk">[Telegraph]</a><span class="citation-popover" role="note"><span class="citation-popover-source">telegraph.co.uk</span><span class="citation-popover-title">Public mistake Chinese lanterns for distress flares</span><span class="citation-popover-snippet">TelegraphPublic mistake Chinese lanterns for distress flares6 Jul 2009 — British coastguard chiefs say the craze of releasing Chinese fly...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://afloat.ie/safety/coastguard/item/40931-sky-lanterns-coastguard-warning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afloat.ie">[Afloat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afloat.ie</span><span class="citation-popover-title">Ireland&#x27;s sailing, boating &amp; maritime magazine</span><span class="citation-popover-snippet">Afloat25 Oct 2018 — The lanterns pose a nuisance to rescue services which have responded to false alarms over presumed emergency flares...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9fvG8N-LT8M" title="Atlantic Beach push to ban balloon and sky lantern releases" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9fvG8N-LT8M" target="_blank" rel="noopener noreferrer">Atlantic Beach push to ban balloon and sky lantern releases</a></p><p class="youtube-embed-meta">Channel: News4JAX The Local Station</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9fvG8N-LT8M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9fvG8N-LT8M">Open on YouTube</a></p></div></div></div>
-
+Sky lanterns therefore occupy a distinctive place among causes of UFO reports. They do not merely resemble mysterious aerial objects; in coastal settings they can also imitate emergency signals closely enough to trigger search-and-rescue responses. The resulting record of false flare alerts provides independent evidence that ordinary lanterns can produce striking, convincing, and sometimes highly consequential misidentifications. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.telegraph.co.uk/news/newstopics/howaboutthat/5757904/Public-mistake-Chinese-lanterns-for-distress-flares.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: telegraph.co.uk">[Telegraph]</a><span class="citation-popover" role="note"><span class="citation-popover-source">telegraph.co.uk</span><span class="citation-popover-title">Public mistake Chinese lanterns for distress flares</span><span class="citation-popover-snippet">Public mistake Chinese lanterns for distress flares6 Jul 2009 — British coastguard chiefs say the craze of releasing Chinese fly...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://afloat.ie/safety/coastguard/item/40931-sky-lanterns-coastguard-warning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afloat.ie">[Afloat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afloat.ie</span><span class="citation-popover-title">Ireland&#x27;s sailing, boating &amp; maritime magazine</span><span class="citation-popover-snippet">25 Oct 2018 — The lanterns pose a nuisance to rescue services which have responded to false alarms over presumed emergency flares...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -453,7 +439,7 @@ Sky lanterns therefore occupy a distinctive place among causes of UFO reports. T
         <p class="fr-section-kicker">eBay marketplace picks</p>
         <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
       </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
       <div class="fr-ebay-market-toolbar">
         <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
@@ -477,15 +463,15 @@ Sky lanterns therefore occupy a distinctive place among causes of UFO reports. T
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flare-confusion-why-lanterns-can-look-like-distress-flares-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="flare-confusion-why-lanterns-can-look-like-distress-flares-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1960s set of three UFO wall art"><img src="{{ '/assets/images/marketplace-covers/be68d6dc5e42b0f085ad.jpg' | relative_url }}" alt="Listing image for Vintage 1960s set of three UFO wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lanterns-can-look-like-distress-flares-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="why-lanterns-can-look-like-distress-flares-sky-lantern" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rooflight Flat Roof Skylight Sky Light Glass Glazed Lantern Windows Various Size"><img src="https://i.ebayimg.com/images/g/HYQAAOSwfVRilhZ9/s-l225.jpg" alt="Listing image for Rooflight Flat Roof Skylight Sky Light Glass Glazed Lantern Windows Various Size" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flare-confusion-why-lanterns-can-look-like-distress-flares-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="flare-confusion-why-lanterns-can-look-like-distress-flares-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vintage 1960s set of three UFO wall art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lanterns-can-look-like-distress-flares-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="why-lanterns-can-look-like-distress-flares-sky-lantern" target="_blank" rel="sponsored noopener noreferrer">Rooflight Flat Roof Skylight Sky Light Glass Glazed Lantern Windows Various Size</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flare-confusion-why-lanterns-can-look-like-distress-flares-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="flare-confusion-why-lanterns-can-look-like-distress-flares-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lanterns-can-look-like-distress-flares-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="why-lanterns-can-look-like-distress-flares-sky-lantern" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sky lantern">Search <span data-ebay-domain-label>eBay.co.uk</span>: sky lantern</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flare-confusion-why-lanterns-can-look-like-distress-flares-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="flare-confusion-why-lanterns-can-look-like-distress-flares-ifos-causes-of-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lanterns-can-look-like-distress-flares-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="why-lanterns-can-look-like-distress-flares-sky-lantern" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -493,15 +479,15 @@ Sky lanterns therefore occupy a distinctive place among causes of UFO reports. T
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flare-confusion-why-lanterns-can-look-like-distress-flares-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="flare-confusion-why-lanterns-can-look-like-distress-flares-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lanterns-can-look-like-distress-flares-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="why-lanterns-can-look-like-distress-flares-sky-lantern" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nelly and the Flight of the Sky Lantern,Roland Chambers, Ella Ok"><img src="https://i.ebayimg.com/images/g/BvUAAeSwcQ9qIrGz/s-l225.jpg" alt="Listing image for Nelly and the Flight of the Sky Lantern,Roland Chambers, Ella Ok" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flare-confusion-why-lanterns-can-look-like-distress-flares-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="flare-confusion-why-lanterns-can-look-like-distress-flares-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lanterns-can-look-like-distress-flares-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="why-lanterns-can-look-like-distress-flares-sky-lantern" target="_blank" rel="sponsored noopener noreferrer">Nelly and the Flight of the Sky Lantern,Roland Chambers, Ella Ok</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flare-confusion-why-lanterns-can-look-like-distress-flares-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="flare-confusion-why-lanterns-can-look-like-distress-flares-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lanterns-can-look-like-distress-flares-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="why-lanterns-can-look-like-distress-flares-sky-lantern" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sky lantern">Search <span data-ebay-domain-label>eBay.co.uk</span>: sky lantern</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flare-confusion-why-lanterns-can-look-like-distress-flares-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="flare-confusion-why-lanterns-can-look-like-distress-flares-ifos-causes-of-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lanterns-can-look-like-distress-flares-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="why-lanterns-can-look-like-distress-flares-sky-lantern" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -509,15 +495,15 @@ Sky lanterns therefore occupy a distinctive place among causes of UFO reports. T
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flare-confusion-why-lanterns-can-look-like-distress-flares-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="flare-confusion-why-lanterns-can-look-like-distress-flares-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lanterns-can-look-like-distress-flares-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="why-lanterns-can-look-like-distress-flares-sky-lantern" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sky Lantern Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/QXMAAeSwC1VpqiMw/s-l225.jpg" alt="Listing image for Sky Lantern Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flare-confusion-why-lanterns-can-look-like-distress-flares-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="flare-confusion-why-lanterns-can-look-like-distress-flares-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lanterns-can-look-like-distress-flares-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="why-lanterns-can-look-like-distress-flares-sky-lantern" target="_blank" rel="sponsored noopener noreferrer">Sky Lantern Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flare-confusion-why-lanterns-can-look-like-distress-flares-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="flare-confusion-why-lanterns-can-look-like-distress-flares-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lanterns-can-look-like-distress-flares-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="why-lanterns-can-look-like-distress-flares-sky-lantern" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sky lantern">Search <span data-ebay-domain-label>eBay.co.uk</span>: sky lantern</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flare-confusion-why-lanterns-can-look-like-distress-flares-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="flare-confusion-why-lanterns-can-look-like-distress-flares-ifos-causes-of-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lanterns-can-look-like-distress-flares-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="why-lanterns-can-look-like-distress-flares-sky-lantern" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -525,15 +511,15 @@ Sky lanterns therefore occupy a distinctive place among causes of UFO reports. T
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flare-confusion-why-lanterns-can-look-like-distress-flares-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="flare-confusion-why-lanterns-can-look-like-distress-flares-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lanterns-can-look-like-distress-flares-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="why-lanterns-can-look-like-distress-flares-sky-lantern" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Paper Lantern Paper Lanterns Lampshade Birthday Wedding Christmas Party"><img src="https://i.ebayimg.com/images/g/nC4AAeSwKzJqEVUS/s-l225.jpg" alt="Listing image for Paper Lantern Paper Lanterns Lampshade Birthday Wedding Christmas Party" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flare-confusion-why-lanterns-can-look-like-distress-flares-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="flare-confusion-why-lanterns-can-look-like-distress-flares-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lanterns-can-look-like-distress-flares-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="why-lanterns-can-look-like-distress-flares-sky-lantern" target="_blank" rel="sponsored noopener noreferrer">Paper Lantern Paper Lanterns Lampshade Birthday Wedding Christmas Party</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flare-confusion-why-lanterns-can-look-like-distress-flares-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="flare-confusion-why-lanterns-can-look-like-distress-flares-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lanterns-can-look-like-distress-flares-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="why-lanterns-can-look-like-distress-flares-sky-lantern" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sky lantern">Search <span data-ebay-domain-label>eBay.co.uk</span>: sky lantern</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flare-confusion-why-lanterns-can-look-like-distress-flares-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="flare-confusion-why-lanterns-can-look-like-distress-flares-ifos-causes-of-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lanterns-can-look-like-distress-flares-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="why-lanterns-can-look-like-distress-flares-sky-lantern" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -541,7 +527,7 @@ Sky lanterns therefore occupy a distinctive place among causes of UFO reports. T
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flare-confusion-why-lanterns-can-look-like-distress-flares-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="flare-confusion-why-lanterns-can-look-like-distress-flares-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-lanterns-can-look-like-distress-flares-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="why-lanterns-can-look-like-distress-flares-sky-lantern" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -756,44 +742,44 @@ Sky lanterns therefore occupy a distinctive place among causes of UFO reports. T
 
 1. <a id="endnote-1"></a>
    Source: afloat.ie  
-   Link: [https://afloat.ie/safety/coastguard/item/14915-coast-guard-appeals-over-chinese-lanterns](https://afloat.ie/safety/coastguard/item/14915-coast-guard-appeals-over-chinese-lanterns)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AfloatCoast Guard Appeals Over Chinese Lanterns - AfloatJanuary 31, 2011 — 31 Jan 2011 — At least six RNLI boats around the country have...</p></details>
+   Link: <a href="https://afloat.ie/safety/coastguard/item/14915-coast-guard-appeals-over-chinese-lanterns" target="_blank" rel="noopener noreferrer nofollow">https://afloat.ie/safety/coastguard/item/14915-coast-guard-appeals-over-chinese-lanterns</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Coast Guard Appeals Over Chinese Lanterns - AfloatJanuary 31, 2011 — 31 Jan 2011 — At least six RNLI boats around the country have...</p></details>
    Published: January 31, 2011  
 
 2. <a id="endnote-2"></a>
    Source: afloat.ie  
    Title: Ireland's sailing, boating & maritime magazine  
-   Link: [https://afloat.ie/safety/coastguard/item/40931-sky-lanterns-coastguard-warning](https://afloat.ie/safety/coastguard/item/40931-sky-lanterns-coastguard-warning)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Afloat25 Oct 2018 — The lanterns pose a nuisance to rescue services which have responded to false alarms over presumed emergency flares...</p></details>
+   Link: <a href="https://afloat.ie/safety/coastguard/item/40931-sky-lanterns-coastguard-warning" target="_blank" rel="noopener noreferrer nofollow">https://afloat.ie/safety/coastguard/item/40931-sky-lanterns-coastguard-warning</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>25 Oct 2018 — The lanterns pose a nuisance to rescue services which have responded to false alarms over presumed emergency flares...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nsri.org.za  
    Title: two kzn chinese lantern false alarms  
-   Link: [https://www.nsri.org.za/2013/07/two-kzn-chinese-lantern-false-alarms/](https://www.nsri.org.za/2013/07/two-kzn-chinese-lantern-false-alarms/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NSRITwo KZN Chinese lantern false alarms:20 Jul 2013 — NSRI appeal to the public not to set off chinese lanterns along the coastline as m...</p></details>
+   Link: <a href="https://www.nsri.org.za/2013/07/two-kzn-chinese-lantern-false-alarms/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsri.org.za/2013/07/two-kzn-chinese-lantern-false-alarms/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Two KZN Chinese lantern false alarms:20 Jul 2013 — NSRI appeal to the public not to set off chinese lanterns along the coastline as m...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: telegraph.co.uk  
    Title: Public mistake Chinese lanterns for distress flares  
-   Link: [https://www.telegraph.co.uk/news/newstopics/howaboutthat/5757904/Public-mistake-Chinese-lanterns-for-distress-flares.html](https://www.telegraph.co.uk/news/newstopics/howaboutthat/5757904/Public-mistake-Chinese-lanterns-for-distress-flares.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TelegraphPublic mistake Chinese lanterns for distress flares6 Jul 2009 — British coastguard chiefs say the craze of releasing Chinese fly...</p></details>
+   Link: <a href="https://www.telegraph.co.uk/news/newstopics/howaboutthat/5757904/Public-mistake-Chinese-lanterns-for-distress-flares.html" target="_blank" rel="noopener noreferrer nofollow">https://www.telegraph.co.uk/news/newstopics/howaboutthat/5757904/Public-mistake-Chinese-lanterns-for-distress-flares.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Public mistake Chinese lanterns for distress flares6 Jul 2009 — British coastguard chiefs say the craze of releasing Chinese fly...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: loveclontarf.ie  
    Title: warning issued by howth coast guard re chinese lanterns  
-   Link: [https://www.loveclontarf.ie/news/warning-issued-by-howth-coast-guard-re-chinese-lanterns/](https://www.loveclontarf.ie/news/warning-issued-by-howth-coast-guard-re-chinese-lanterns/)  
+   Link: <a href="https://www.loveclontarf.ie/news/warning-issued-by-howth-coast-guard-re-chinese-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://www.loveclontarf.ie/news/warning-issued-by-howth-coast-guard-re-chinese-lanterns/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Love ClontarfWarning issued by Howth Coast Guard re Chinese lanterns4 Mar 2012 — Howth Coast Guard have contacted us and asked us to publ...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: howthcoastguard.com  
    Title: chinese lanterns  
-   Link: [https://www.howthcoastguard.com/news/chinese-lanterns](https://www.howthcoastguard.com/news/chinese-lanterns)  
+   Link: <a href="https://www.howthcoastguard.com/news/chinese-lanterns" target="_blank" rel="noopener noreferrer nofollow">https://www.howthcoastguard.com/news/chinese-lanterns</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Howth Coast GuardChinese Lanterns29 Apr 2016 — If you do see what appears to be flare near water never delay, call the Coast Guard @ 112...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: wsfp.co.uk  
    Title: West Somerset Free Press Chinese lanterns spark coastguard warning  
-   Link: [https://www.wsfp.co.uk/news/chinese-lanterns-spark-coastguard-warning-493460](https://www.wsfp.co.uk/news/chinese-lanterns-spark-coastguard-warning-493460)  
+   Link: <a href="https://www.wsfp.co.uk/news/chinese-lanterns-spark-coastguard-warning-493460" target="_blank" rel="noopener noreferrer nofollow">https://www.wsfp.co.uk/news/chinese-lanterns-spark-coastguard-warning-493460</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>West Somerset Free PressChinese lanterns spark coastguard warningApril 8, 2009 — 8 Apr 2009 — CHINESE sky lanterns launched from a garden...</p></details>
    Published: April 8, 2009  
 
@@ -801,54 +787,54 @@ Sky lanterns therefore occupy a distinctive place among causes of UFO reports. T
 
 8. <a id="endnote-8"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/SeaRescue/posts/nsri-appeal-to-the-public-not-to-set-off-sky-lanterns-during-new-year-celebratio/10156937102741055/](https://www.facebook.com/SeaRescue/posts/nsri-appeal-to-the-public-not-to-set-off-sky-lanterns-during-new-year-celebratio/10156937102741055/)  
+   Link: <a href="https://www.facebook.com/SeaRescue/posts/nsri-appeal-to-the-public-not-to-set-off-sky-lanterns-during-new-year-celebratio/10156937102741055/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SeaRescue/posts/nsri-appeal-to-the-public-not-to-set-off-sky-lanterns-during-new-year-celebratio/10156937102741055/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NSRI appeal to the public not to set off sky lanterns during...NSRI appeal to the public not to set off sky lanterns during new year cel...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: hwb.gov.wales  
-   Link: [https://hwb.gov.wales/api/storage/49e75b61-213a-4925-927a-1ef13fd9a51b/Task%2089%20Sky%20lanterns%201.pdf](https://hwb.gov.wales/api/storage/49e75b61-213a-4925-927a-1ef13fd9a51b/Task%2089%20Sky%20lanterns%201.pdf)  
+   Link: <a href="https://hwb.gov.wales/api/storage/49e75b61-213a-4925-927a-1ef13fd9a51b/Task%2089%20Sky%20lanterns%201.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hwb.gov.wales/api/storage/49e75b61-213a-4925-927a-1ef13fd9a51b/Task%2089%20Sky%20lanterns%201.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>LANTERNS – THE DANGERSFALSE ALARM – the Coastguard has reported incidents of sky lanterns being mistaken for distress signals, and the. C...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DB65LT6ILZ9/](https://www.instagram.com/p/DB65LT6ILZ9/)  
+   Link: <a href="https://www.instagram.com/p/DB65LT6ILZ9/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DB65LT6ILZ9/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Orange smoke is used in the day and red handheld and parachute flares are used at night.Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: nsri.org.za  
    Title: nsri are appealing to the public not to set off sky lanterns  
-   Link: [https://www.nsri.org.za/2016/12/nsri-are-appealing-to-the-public-not-to-set-off-sky-lanterns/](https://www.nsri.org.za/2016/12/nsri-are-appealing-to-the-public-not-to-set-off-sky-lanterns/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NSRINSRI are appealing to the public not to set off Sky Lanterns:29 Dec 2016 — Sky Lanterns floating in the sky can present a similar app...</p></details>
+   Link: <a href="https://www.nsri.org.za/2016/12/nsri-are-appealing-to-the-public-not-to-set-off-sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsri.org.za/2016/12/nsri-are-appealing-to-the-public-not-to-set-off-sky-lanterns/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NSRI are appealing to the public not to set off Sky Lanterns:29 Dec 2016 — Sky Lanterns floating in the sky can present a similar app...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/RNLIHoylakeLifeboatStation/posts/please-do-not-use-sky-lanterns-to-show-your-support-for-the-nhsthey-can-be-mista/3208203512565836/](https://www.facebook.com/RNLIHoylakeLifeboatStation/posts/please-do-not-use-sky-lanterns-to-show-your-support-for-the-nhsthey-can-be-mista/3208203512565836/)  
+   Link: <a href="https://www.facebook.com/RNLIHoylakeLifeboatStation/posts/please-do-not-use-sky-lanterns-to-show-your-support-for-the-nhsthey-can-be-mista/3208203512565836/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RNLIHoylakeLifeboatStation/posts/please-do-not-use-sky-lanterns-to-show-your-support-for-the-nhsthey-can-be-mista/3208203512565836/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ts for RNLI volunteer crews, Coastguard teams and other emergency services - as well...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: rnli.org  
    Title: scarborough rnli call after distress flares sighted  
-   Link: [https://rnli.org/news-and-media/2025/january/14/scarborough-rnli-call-after-distress-flares-sighted](https://rnli.org/news-and-media/2025/january/14/scarborough-rnli-call-after-distress-flares-sighted)  
+   Link: <a href="https://rnli.org/news-and-media/2025/january/14/scarborough-rnli-call-after-distress-flares-sighted" target="_blank" rel="noopener noreferrer nofollow">https://rnli.org/news-and-media/2025/january/14/scarborough-rnli-call-after-distress-flares-sighted</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>14 Jan 2025 — The volunteer crew were paged by HM Coastguard following numerous 999 calls reporting a red distress flare sighted off Mari...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: newcastle.gov.uk  
    Title: Sky lanterns and helium balloons Rescue services  
-   Link: [https://www.newcastle.gov.uk/services/environment-and-waste/environmental-health-and-pollution/sky-lanterns-and-helium-balloons](https://www.newcastle.gov.uk/services/environment-and-waste/environmental-health-and-pollution/sky-lanterns-and-helium-balloons)  
+   Link: <a href="https://www.newcastle.gov.uk/services/environment-and-waste/environmental-health-and-pollution/sky-lanterns-and-helium-balloons" target="_blank" rel="noopener noreferrer nofollow">https://www.newcastle.gov.uk/services/environment-and-waste/environmental-health-and-pollution/sky-lanterns-and-helium-balloons</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky lanterns and helium balloonsRescue services - sometimes lanterns are mistaken for distress flares. HM Coastguard and lifeboats have b...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/mcsuk/posts/sky-lanterns-may-look-pretty-but-what-goes-up-comes-back-down-and-their-litter-c/1334485102053877/](https://www.facebook.com/mcsuk/posts/sky-lanterns-may-look-pretty-but-what-goes-up-comes-back-down-and-their-litter-c/1334485102053877/)  
+   Link: <a href="https://www.facebook.com/mcsuk/posts/sky-lanterns-may-look-pretty-but-what-goes-up-comes-back-down-and-their-litter-c/1334485102053877/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mcsuk/posts/sky-lanterns-may-look-pretty-but-what-goes-up-comes-back-down-and-their-litter-c/1334485102053877/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ving been mistaken for distress flares. They litter the countryside...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: independent.co.uk  
    Title: red sky at night coastguards fright 1763245  
-   Link: [https://www.independent.co.uk/news/uk/home-news/red-sky-at-night-coastguards-fright-1763245.html](https://www.independent.co.uk/news/uk/home-news/red-sky-at-night-coastguards-fright-1763245.html)  
+   Link: <a href="https://www.independent.co.uk/news/uk/home-news/red-sky-at-night-coastguards-fright-1763245.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/uk/home-news/red-sky-at-night-coastguards-fright-1763245.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Red sky at night, coastguards&#x27; fright28 Jul 2009 — Maritime authorities are having to deal with a spate of false alarms as Chinese lanter...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/wexfordmarinewatch/posts/interestingfacts-003did-you-know-that-chinese-lanterns-are-the-cause-of-several-/1177148785756925/](https://www.facebook.com/wexfordmarinewatch/posts/interestingfacts-003did-you-know-that-chinese-lanterns-are-the-cause-of-several-/1177148785756925/)  
+   Link: <a href="https://www.facebook.com/wexfordmarinewatch/posts/interestingfacts-003did-you-know-that-chinese-lanterns-are-the-cause-of-several-/1177148785756925/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wexfordmarinewatch/posts/interestingfacts-003did-you-know-that-chinese-lanterns-are-the-cause-of-several-/1177148785756925/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ircraft) for marine distress flares from a boat...Read more...</p></details>

@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b_moving_camera_parall_d14d2b
 - ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b_zoom_stabilization_e_a85ec1
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - parallax
 - video-checks
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - parallax
 - video-checks
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Simple geometry checks can reveal whether apparent speed comes from the object, the observer, or the camera system.
 hero_summary: Simple geometry checks can reveal whether apparent speed comes from the object, the observer, or the camera system.
 layout: default
 permalink: /video-checks/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /parallax/
 nav_short_title: Video Checks
 title: How to Check a UFO Speed Claim
-title_full: How to Check a UFO Speed Claim | Parallax
+title_full: How to Check a UFO Speed Claim
 display_title_short: Video Checks
 display_title: Video Checks
 heading_title: How to Check a UFO Speed Claim
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 21:38:13'
-parent_title: The Speed Illusion in UFO Footage | IFOs
+parent_title: The Speed Illusion in UFO Footage
 parent_permalink: /parallax/
 parent_nav_short_title: Parallax
 parent_heading_title: The Speed Illusion in UFO Footage
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b
-  title: Parallax | Ifos Causes Of
+  title: Parallax | ifos causes of UFO 3 ed 238
   permalink: /parallax/
   short_title: Parallax
   heading_title: The Speed Illusion in UFO Footage
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b
-  title: Parallax | Ifos Causes Of
+  title: Parallax | ifos causes of UFO 3 ed 238
   permalink: /parallax/
   short_title: Parallax
   heading_title: The Speed Illusion in UFO Footage
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: Why Zoom Makes UFOs Look Faster
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b
-  title: Parallax | Ifos Causes Of
+  title: Parallax | ifos causes of UFO 3 ed 238
   permalink: /parallax/
   short_title: Parallax
   heading_title: The Speed Illusion in UFO Footage
@@ -266,6 +265,7 @@ next_link:
   permalink: /zoom-errors/
   short_title: Zoom Errors
   heading_title: Why Zoom Makes UFOs Look Faster
+date: '2026-06-12 00:26:32 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b_ufo_parallax_checks_983877-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b_ufo_parallax_checks_983877-Illustration-1.webp
@@ -275,7 +275,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b_ufo_par
 ## Introduction
 
 A UFO video speed claim should not be judged from screen motion alone. The first check is whether the object’s apparent movement could come from parallax: the shift in apparent position caused by a moving observer, a panning camera, or a stabilised sensor. Without an independent [range]({{ 'range/' | relative_url }}) estimate, a small nearby object and a large distant object can produce similar video motion, while a slow object viewed from a fast aircraft can look extremely fast. This is why serious review starts with geometry: camera location, camera angle, platform motion, frame timing, lens field of view, and any independent evidence of distance. NASA’s UAP study warned that analysis is often hampered by missing sensor metadata and poor calibration, and [AARO]({{ 'aaro/' | relative_url }})’s “Go Fast” case showed how a famous apparent high-speed object could be reassessed once range and viewing geometry were examined. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b_ufo_parallax_checks_983877-Illustration-1-dark.svg" | relative_url }}" alt="Video Checks illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b_ufo_parallax_checks_983877-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b_ufo_parallax_checks_983877-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Questions to ask before estimating speed
@@ -291,10 +290,7 @@ A practical first pass should separate four motions that viewers often blend tog
 
 Only after those are separated should a speed estimate be attempted. A phone clip from a stationary garden, a dashcam clip from a moving car, and an [infrared]({{ 'infrared/' | relative_url }}) aircraft clip from a fast jet are not comparable evidence. The aircraft clip may contain useful telemetry, but it also contains the strongest parallax traps because the observer is moving rapidly while the sensor may be slewing and stabilising.
 
-The “Go Fast” video is the clearest modern cautionary example. AARO assessed that the object was not near the ocean surface as widely assumed, but approximately 13,000 feet above the sea; its assessed speed was between 5 and 92 mph after accounting for wind, not anomalous high-speed flight. AARO attributed the apparent high speed to motion parallax and noted that the publicly available video still contained useful display information: sensor-to-target range, camera azimuth and elevation, aircraft altitude, speed, and bank angle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution Card Methodology Final</span><span class="citation-popover-snippet">AAROAARO GoFast Case Resolution6 Feb 2025 — Motion parallax is an optical effect that induces an observer to perceive that a stationary o...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ciopi2r7j-k" title="Not As They Seem - Mick West on UFOs, Conspiracy Theories, and Pseudoscience" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ciopi2r7j-k" target="_blank" rel="noopener noreferrer">Not As They Seem - Mick West on UFOs, Conspiracy Theories, and Pseudoscience</a></p><p class="youtube-embed-meta">Channel: This Week in Space &middot; Views: 7.0K &middot; Uploaded: February 2025 &middot; Length: 1 hour 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ciopi2r7j-k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ciopi2r7j-k">Open on YouTube</a></p></div></div></div>
+The “Go Fast” video is the clearest modern cautionary example. AARO assessed that the object was not near the ocean surface as widely assumed, but approximately 13,000 feet above the sea; its assessed speed was between 5 and 92 mph after accounting for wind, not anomalous high-speed flight. AARO attributed the apparent high speed to motion parallax and noted that the publicly available video still contained useful display information: sensor-to-target range, camera azimuth and elevation, aircraft altitude, speed, and bank angle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution Card Methodology Final</span><span class="citation-popover-snippet">AARO GoFast Case Resolution6 Feb 2025 — Motion parallax is an optical effect that induces an observer to perceive that a stationary o...</span></span></span>
 
 ## Evidence that can establish range independently
 
@@ -303,7 +299,6 @@ Range is the hinge of the whole problem. If range is unknown, a speed claim is u
 The strongest range evidence usually comes from independent geometry or sensor data. In military or aviation footage, useful clues may include range readouts, camera elevation and azimuth, aircraft altitude, aircraft speed, radar tracks, GPS position, time stamps, and known sensor field of view. In civilian footage, the useful evidence may be more modest: a known camera location, identifiable landmarks, star positions, ADS-B aircraft tracks, multiple witnesses filming from separated locations, or an object passing behind or in front of clouds, buildings, hills, wires, or the Moon.
 
 Good parallax checks often use a ladder of confidence:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -316,7 +311,6 @@ Good parallax checks often use a ladder of confidence:
 </div>
 
 NASA’s UAP report argued for better calibrated, multi-sensor observation because single-source imagery is often insufficient. The report specifically highlighted missing sensor metadata, lack of multiple measurements, and lack of baseline data as barriers to analysis. That is directly relevant to parallax: a single striking video may show something real, but without range, camera geometry and timing it may not support a reliable claim about speed or acceleration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b_ufo_parallax_checks_983877-Illustration-2-dark.svg" | relative_url }}" alt="Video Checks illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b_ufo_parallax_checks_983877-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b_ufo_parallax_checks_983877-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Warning signs of a parallax-driven claim
@@ -337,10 +331,9 @@ Common warning signs include:
 
 </div>
 
-AARO’s Puerto Rico case resolution illustrates the same general lesson beyond “Go Fast”. The widely discussed infrared video had been interpreted by some viewers as showing unusual speed and transmedium behaviour, but AARO assessed that the objects did not show anomalous speeds or transmedium capabilities and were likely two sky lanterns drifting with the wind. The important point for video review is not that every case has the same answer, but that path reconstruction and environmental checks can overturn the first visual impression. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROUAP Case Resolution ReportsAARO assesses with high confidence that the objects did not demonstrate anomalous speeds or flight behavio...</span></span></span>
+AARO’s Puerto Rico case resolution illustrates the same general lesson beyond “Go Fast”. The widely discussed infrared video had been interpreted by some viewers as showing unusual speed and transmedium behaviour, but AARO assessed that the objects did not show anomalous speeds or transmedium capabilities and were likely two sky lanterns drifting with the wind. The important point for video review is not that every case has the same answer, but that path reconstruction and environmental checks can overturn the first visual impression. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP Case Resolution ReportsAARO assesses with high confidence that the objects did not demonstrate anomalous speeds or flight behavio...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NV4SxybVEWc" title="LINK! (feat. RXTKY)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NV4SxybVEWc" target="_blank" rel="noopener noreferrer">LINK! (feat. RXTKY)</a></p><p class="youtube-embed-meta">Channel: Codet - Topic</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NV4SxybVEWc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NV4SxybVEWc">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ciopi2r7j-k" title="Not As They Seem - Mick West on UFOs, Conspiracy Theories, and Pseudoscience" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ciopi2r7j-k" target="_blank" rel="noopener noreferrer">Not As They Seem - Mick West on UFOs, Conspiracy Theories, and Pseudoscience</a></p><p class="youtube-embed-meta">Channel: This Week in Space &middot; Views: 7.0K &middot; Uploaded: February 2025 &middot; Length: 1 hour 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ciopi2r7j-k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ciopi2r7j-k">Open on YouTube</a></p></div></div></div>
 
 ## A practical parallax check for UFO videos
 
@@ -352,17 +345,13 @@ Next, measure angular movement rather than screen drama. If the field of view is
 
 Finally, ask whether a slow object plus observer motion reproduces the effect. In aircraft footage, this is often the decisive test. If the apparent motion can be produced by a distant balloon, bird, aircraft, or other ordinary object while the camera platform moves, then the video may not show anomalous performance even if the object remains unidentified. AARO’s “Go Fast” analysis followed this logic: it did not need to identify the object definitively to assess that it did not demonstrate anomalous speed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_Puerto_Rico_UAP_Case_Resolution.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Puerto Rico UAP Case Resolution</span><span class="citation-popover-snippet">Puerto Rico UAP Case Resolution</span></span></span>
 
-
-<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b_ufo_parallax_checks_983877-Illustration-3-dark.svg" | relative_url }}" alt="Video Checks illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b_ufo_parallax_checks_983877-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b_ufo_parallax_checks_983877-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What a strong speed claim needs
 
 A strong UFO speed claim needs more than a compelling clip. It needs a chain of measurements that survives alternative geometry. The best cases provide synchronised sensor data, independent range, known camera calibration, platform motion, environmental records, and enough original data to inspect frame timing and compression artefacts. AARO’s case pages repeatedly show the value of combining full-motion video analysis with contextual data such as geolocation, commercial [flight tracks]({{ 'flight-tracks/' | relative_url }}), wind data, and longer focal-length footage where available. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
 
 The most cautious conclusion is often the most accurate: a video may show a real object without showing extraordinary motion. Parallax checks do not make UFO videos uninteresting; they make them testable. In the study of identified flying objects, that distinction matters because many apparently impossible movements vanish once the observer’s movement, camera tracking and uncertain range are put back into the scene.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b_ufo_parallax_checks_983877-Illustration-3-dark.svg" | relative_url }}" alt="Video Checks illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b_ufo_parallax_checks_983877-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b_ufo_parallax_checks_983877-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -481,15 +470,15 @@ The most cautious conclusion is often the most accurate: a video may show a real
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-checks-how-to-check-a-ufo-speed-claim-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="video-checks-how-to-check-a-ufo-speed-claim-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag"><img src="{{ '/assets/images/marketplace-covers/423dfe011ecd80a392ff.jpg' | relative_url }}" alt="Listing image for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-ufo-speed-claim-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-to-check-a-ufo-speed-claim-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Eurofighter Typhoon | Military Aviation | RAF | Wall Art | Poster | Print"><img src="https://i.ebayimg.com/images/g/2pEAAOSwje1kLA5-/s-l225.jpg" alt="Listing image for Eurofighter Typhoon | Military Aviation | RAF | Wall Art | Poster | Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-checks-how-to-check-a-ufo-speed-claim-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="video-checks-how-to-check-a-ufo-speed-claim-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-ufo-speed-claim-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-to-check-a-ufo-speed-claim-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Eurofighter Typhoon | Military Aviation | RAF | Wall Art | Poster | Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-checks-how-to-check-a-ufo-speed-claim-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="video-checks-how-to-check-a-ufo-speed-claim-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo enamel pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-ufo-speed-claim-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-to-check-a-ufo-speed-claim-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-checks-how-to-check-a-ufo-speed-claim-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="video-checks-how-to-check-a-ufo-speed-claim-ifos-causes-of-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-ufo-speed-claim-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-to-check-a-ufo-speed-claim-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -497,15 +486,15 @@ The most cautious conclusion is often the most accurate: a video may show a real
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-checks-how-to-check-a-ufo-speed-claim-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="video-checks-how-to-check-a-ufo-speed-claim-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-ufo-speed-claim-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-to-check-a-ufo-speed-claim-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RAF Aircraft Collection Poster A3 Royal Air Force Aircraft Identification Chart"><img src="https://i.ebayimg.com/images/g/g-IAAeSwToJqHykA/s-l225.jpg" alt="Listing image for RAF Aircraft Collection Poster A3 Royal Air Force Aircraft Identification Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-checks-how-to-check-a-ufo-speed-claim-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="video-checks-how-to-check-a-ufo-speed-claim-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-ufo-speed-claim-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-to-check-a-ufo-speed-claim-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">RAF Aircraft Collection Poster A3 Royal Air Force Aircraft Identification Chart</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-checks-how-to-check-a-ufo-speed-claim-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="video-checks-how-to-check-a-ufo-speed-claim-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo enamel pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-ufo-speed-claim-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-to-check-a-ufo-speed-claim-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-checks-how-to-check-a-ufo-speed-claim-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="video-checks-how-to-check-a-ufo-speed-claim-ifos-causes-of-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-ufo-speed-claim-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-to-check-a-ufo-speed-claim-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -513,15 +502,15 @@ The most cautious conclusion is often the most accurate: a video may show a real
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-checks-how-to-check-a-ufo-speed-claim-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="video-checks-how-to-check-a-ufo-speed-claim-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black"><img src="{{ '/assets/images/marketplace-covers/078b55bb70d6b61d9af5.jpg' | relative_url }}" alt="Listing image for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-ufo-speed-claim-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-to-check-a-ufo-speed-claim-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Canvas Poster &quot;Dambuster Lancaster&quot; by photographer Paul Heasman. Avro. (bc)"><img src="https://i.ebayimg.com/images/g/PgMAAeSw0gNpkH~g/s-l225.jpg" alt="Listing image for Canvas Poster &quot;Dambuster Lancaster&quot; by photographer Paul Heasman. Avro. (bc)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-checks-how-to-check-a-ufo-speed-claim-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="video-checks-how-to-check-a-ufo-speed-claim-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-ufo-speed-claim-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-to-check-a-ufo-speed-claim-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Canvas Poster &quot;Dambuster Lancaster&quot; by photographer Paul Heasman. Avro. (bc)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-checks-how-to-check-a-ufo-speed-claim-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="video-checks-how-to-check-a-ufo-speed-claim-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo enamel pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-ufo-speed-claim-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-to-check-a-ufo-speed-claim-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-checks-how-to-check-a-ufo-speed-claim-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="video-checks-how-to-check-a-ufo-speed-claim-ifos-causes-of-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-ufo-speed-claim-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-to-check-a-ufo-speed-claim-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -529,15 +518,15 @@ The most cautious conclusion is often the most accurate: a video may show a real
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-checks-how-to-check-a-ufo-speed-claim-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="video-checks-how-to-check-a-ufo-speed-claim-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac"><img src="{{ '/assets/images/marketplace-covers/cdbe73a199cf9b4b48c0.jpg' | relative_url }}" alt="Listing image for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-ufo-speed-claim-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-to-check-a-ufo-speed-claim-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print"><img src="https://i.ebayimg.com/images/g/wsEAAeSwT65qH~8U/s-l225.jpg" alt="Listing image for Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-checks-how-to-check-a-ufo-speed-claim-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="video-checks-how-to-check-a-ufo-speed-claim-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-ufo-speed-claim-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-to-check-a-ufo-speed-claim-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-checks-how-to-check-a-ufo-speed-claim-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="video-checks-how-to-check-a-ufo-speed-claim-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo enamel pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-ufo-speed-claim-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-to-check-a-ufo-speed-claim-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-checks-how-to-check-a-ufo-speed-claim-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="video-checks-how-to-check-a-ufo-speed-claim-ifos-causes-of-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-ufo-speed-claim-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-to-check-a-ufo-speed-claim-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -545,7 +534,7 @@ The most cautious conclusion is often the most accurate: a video may show a real
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-checks-how-to-check-a-ufo-speed-claim-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="video-checks-how-to-check-a-ufo-speed-claim-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-ufo-speed-claim-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-to-check-a-ufo-speed-claim-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -761,64 +750,64 @@ The most cautious conclusion is often the most accurate: a video may show a real
 1. <a id="endnote-1"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</p></details>
    Published: September 13, 2023  
 
 2. <a id="endnote-2"></a>
    Source: aaro.mil  
    Title: Go Fast Case Resolution Card Methodology Final  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf](https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROAARO [GoFast](&amp;#123;&amp;#123; &#x27;gofast/&#x27; | relative_url &amp;#125;&amp;#125;) Case Resolution6 Feb 2025 — Motion parallax is an optical effect that induces an observer to perceive that a stationary o...</p></details>
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO [GoFast](&amp;#123;&amp;#123; &#x27;gofast/&#x27; | relative_url &amp;#125;&amp;#125;) Case Resolution6 Feb 2025 — Motion parallax is an optical effect that induces an observer to perceive that a stationary o...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: cnes-geipan.fr  
    Title: 08 COUSYN LOUANGE abs EN  
-   Link: [https://www.cnes-geipan.fr/sites/default/files/08_COUSYN_LOUANGE_abs_EN.pdf](https://www.cnes-geipan.fr/sites/default/files/08_COUSYN_LOUANGE_abs_EN.pdf)  
+   Link: <a href="https://www.cnes-geipan.fr/sites/default/files/08_COUSYN_LOUANGE_abs_EN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/08_COUSYN_LOUANGE_abs_EN.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP PHOTO / VIDEO AUTHENTICATION AND ANALYSISMay 11, 2014 — Making use of associated metadata and/or manufacture characteristics allows m...</p></details>
    Published: May 11, 2014  
 
 4. <a id="endnote-4"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/](https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROUAP Case Resolution ReportsAARO assesses with high confidence that the objects did not demonstrate anomalous speeds or flight behavio...</p></details>
+   Link: <a href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Case Resolution ReportsAARO assesses with high confidence that the objects did not demonstrate anomalous speeds or flight behavio...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: aaro.mil  
    Title: Puerto Rico UAP Case Resolution  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_Puerto_Rico_UAP_Case_Resolution.pdf](https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_Puerto_Rico_UAP_Case_Resolution.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_Puerto_Rico_UAP_Case_Resolution.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_Puerto_Rico_UAP_Case_Resolution.pdf</a>  
 
 6. <a id="endnote-6"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 ### Additional References
 
 7. <a id="endnote-7"></a>
    Source: youtube.com  
    Title: Mick West: Debunking the Navy UFO Videos  
-   Link: [https://www.youtube.com/watch?v=ciopi2r7j-k](https://www.youtube.com/watch?v=ciopi2r7j-k)  
+   Link: <a href="https://www.youtube.com/watch?v=ciopi2r7j-k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ciopi2r7j-k</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Analyze UAP Footage: A Scientific Approach...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
    Title: Parallax and the "Fast Mover" UFO Explained  
-   Link: [https://www.youtube.com/watch?v=2v066sM4lF8](https://www.youtube.com/watch?v=2v066sM4lF8)  
+   Link: <a href="https://www.youtube.com/watch?v=2v066sM4lF8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2v066sM4lF8</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Analyzing the Pentagon&#x27;s &quot;Go Fast&quot; UAP Video...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
    Title: Analyzing the Pentagon's "Go Fast" UAP Video  
-   Link: [https://www.youtube.com/watch?v=R9V43K2d5eA](https://www.youtube.com/watch?v=R9V43K2d5eA)  
+   Link: <a href="https://www.youtube.com/watch?v=R9V43K2d5eA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=R9V43K2d5eA</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mick West: Debunking the Navy UFO Videos...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: The Physics of Parallax in UFO Videos  
-   Link: [https://www.youtube.com/watch?v=01eX1J4-5Dk](https://www.youtube.com/watch?v=01eX1J4-5Dk)  
+   Link: <a href="https://www.youtube.com/watch?v=01eX1J4-5Dk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=01eX1J4-5Dk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Parallax and the &quot;Fast Mover&quot; UFO Explained...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: How to Analyze UAP Footage: A Scientific Approach  
-   Link: [https://www.youtube.com/watch?v=5-o3q56pD-M](https://www.youtube.com/watch?v=5-o3q56pD-M)  
+   Link: <a href="https://www.youtube.com/watch?v=5-o3q56pD-M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5-o3q56pD-M</a>

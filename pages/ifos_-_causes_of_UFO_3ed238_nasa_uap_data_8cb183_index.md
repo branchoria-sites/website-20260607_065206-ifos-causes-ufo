@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ifos-causes-of-ufo-3ed238-nasa-uap/
 description: Focused pages that expand on NASA Study.
-date: '2026-06-07'
+date: '2026-06-12'
 layout: default
 parent_basename: ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183
-parent_title: NASA Study | Ifos Causes Of
+parent_title: NASA Study
 parent_nav_short_title: NASA Study
 parent_permalink: /nasa-study/
 ---

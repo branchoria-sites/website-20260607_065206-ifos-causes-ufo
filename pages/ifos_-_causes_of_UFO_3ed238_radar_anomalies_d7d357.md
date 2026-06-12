@@ -50,22 +50,22 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_wind_data_33671a
 - ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - radar
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - radar
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Radar can produce false or ambiguous returns from clutter, weather, equipment limits or unusual propagation conditions.
 hero_summary: Radar can produce false or ambiguous returns from clutter, weather, equipment limits or unusual propagation conditions.
 layout: default
 permalink: /radar/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 nav_short_title: Radar
 title: When Radar Sees a UFO That Isnt There
-title_full: When Radar Sees a UFO That Isnt There | IFOs
+title_full: When Radar Sees a UFO That Isnt There
 display_title_short: Radar
 display_title: Radar
 heading_title: When Radar Sees a UFO That Isnt There
@@ -240,213 +240,212 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 21:35:02'
 parent_title: IFOs
-parent_permalink: /ifos-causes-of/
+parent_permalink: /ifos-causes-of-ufo-3-ed-238/
 parent_nav_short_title: IFOs
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 sibling_links:
 - basename: ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d
-  title: A Head On Aircraft Can Look Like A Stationary Light Because It | Ifos Causes Of
+  title: A Head On Aircraft Can Look Like A Stationary Light Because It | ifos causes of UFO 3 ed 238
   permalink: /a-head-on-aircraft-can-look-like-a/
   short_title: A Head On Aircraft Can Look Like A Stationary Light Because It
   heading_title: The Stationary Light That Is Moving
 - basename: ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261
-  title: AARO | Ifos Causes Of
+  title: AARO | ifos causes of UFO 3 ed 238
   permalink: /aaro/
   short_title: AARO
   heading_title: What Modern UAP Reviews Resolve
 - basename: ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253
-  title: Aircraft Lights | Ifos Causes Of
+  title: Aircraft Lights | ifos causes of UFO 3 ed 238
   permalink: /aircraft-lights/
   short_title: Aircraft Lights
   heading_title: Why Ordinary Aircraft Look So Strange
 - basename: ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043
-  title: Atmosphere | Ifos Causes Of
+  title: Atmosphere | ifos causes of UFO 3 ed 238
   permalink: /atmosphere/
   short_title: Atmosphere
   heading_title: When Weather Makes Shapes in the Sky
 - basename: ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057
-  title: Balloons | Ifos Causes Of
+  title: Balloons | ifos causes of UFO 3 ed 238
   permalink: /balloons/
   short_title: Balloons
   heading_title: Why Balloons Become Flying Saucers
 - basename: ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40
-  title: Birds | Ifos Causes Of
+  title: Birds | ifos causes of UFO 3 ed 238
   permalink: /birds/
   short_title: Birds
   heading_title: How Birds Become Fast UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81
-  title: Blue Book | Ifos Causes Of
+  title: Blue Book | ifos causes of UFO 3 ed 238
   permalink: /blue-book/
   short_title: Blue Book
   heading_title: What Blue Book Teaches About IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e
-  title: Contrails | Ifos Causes Of
+  title: Contrails | ifos causes of UFO 3 ed 238
   permalink: /contrails/
   short_title: Contrails
   heading_title: Why Jet Trails Glow Like UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c
-  title: Drones | Ifos Causes Of
+  title: Drones | ifos causes of UFO 3 ed 238
   permalink: /drones/
   short_title: Drones
   heading_title: When a Drone Becomes a UFO
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e
-  title: First Checks | Ifos Causes Of
+  title: First Checks | ifos causes of UFO 3 ed 238
   permalink: /first-checks/
   short_title: First Checks
   heading_title: What to Check Before Calling It a UFO
 - basename: ifos_-_causes_of_UFO_3ed238_military_flares_abb62f
-  title: Flares | Ifos Causes Of
+  title: Flares | ifos causes of UFO 3 ed 238
   permalink: /flares/
   short_title: Flares
   heading_title: Why Flares Look Like Hovering Craft
 - basename: ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590
-  title: Flight Tracking | Ifos Causes Of
+  title: Flight Tracking | ifos causes of UFO 3 ed 238
   permalink: /flight-tracking/
   short_title: Flight Tracking
   heading_title: How Flight Data Solves UFO Sightings
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965
-  title: Hoaxes | Ifos Causes Of
+  title: Hoaxes | ifos causes of UFO 3 ed 238
   permalink: /hoaxes/
   short_title: Hoaxes
   heading_title: When UFO Reports Are Manufactured
 - basename: ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f
-  title: Infrared | Ifos Causes Of
+  title: Infrared | ifos causes of UFO 3 ed 238
   permalink: /infrared/
   short_title: Infrared
   heading_title: Why Infrared UFO Videos Mislead
 - basename: ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74
-  title: Insects | Ifos Causes Of
+  title: Insects | ifos causes of UFO 3 ed 238
   permalink: /insects/
   short_title: Insects
   heading_title: The Tiny Things Cameras Make Huge
 - basename: ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5
-  title: Lanterns | Ifos Causes Of
+  title: Lanterns | ifos causes of UFO 3 ed 238
   permalink: /lanterns/
   short_title: Lanterns
   heading_title: The Orange Lights That Start UFO Reports
 - basename: ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e
-  title: Lens Flare | Ifos Causes Of
+  title: Lens Flare | ifos causes of UFO 3 ed 238
   permalink: /lens-flare/
   short_title: Lens Flare
   heading_title: When Cameras Invent Extra Lights
 - basename: ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28
-  title: Mass Sightings | Ifos Causes Of
+  title: Mass Sightings | ifos causes of UFO 3 ed 238
   permalink: /mass-sightings/
   short_title: Mass Sightings
   heading_title: Why Groups Can Share One Mistake
 - basename: ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504
-  title: Meteors | Ifos Causes Of
+  title: Meteors | ifos causes of UFO 3 ed 238
   permalink: /meteors/
   short_title: Meteors
   heading_title: When Fireballs Become UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca
-  title: Missing Data | Ifos Causes Of
+  title: Missing Data | ifos causes of UFO 3 ed 238
   permalink: /missing-data/
   short_title: Missing Data
   heading_title: Unsolved Does Not Always Mean Strange
 - basename: ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183
-  title: NASA Study | Ifos Causes Of
+  title: NASA Study | ifos causes of UFO 3 ed 238
   permalink: /nasa-study/
   short_title: NASA Study
   heading_title: Why Better UFO Data Matters
 - basename: ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b
-  title: Parallax | Ifos Causes Of
+  title: Parallax | ifos causes of UFO 3 ed 238
   permalink: /parallax/
   short_title: Parallax
   heading_title: The Speed Illusion in UFO Footage
 - basename: ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a
-  title: Pilots | Ifos Causes Of
+  title: Pilots | ifos causes of UFO 3 ed 238
   permalink: /pilots/
   short_title: Pilots
   heading_title: Why Pilots Can Misidentify UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c
-  title: Reflections | Ifos Causes Of
+  title: Reflections | ifos causes of UFO 3 ed 238
   permalink: /reflections/
   short_title: Reflections
   heading_title: The UFO Inside the Glass
 - basename: ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132
-  title: Rocket Plumes | Ifos Causes Of
+  title: Rocket Plumes | ifos causes of UFO 3 ed 238
   permalink: /rocket-plumes/
   short_title: Rocket Plumes
   heading_title: The Strange Clouds Rockets Leave Behind
 - basename: ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b
-  title: Satellites | Ifos Causes Of
+  title: Satellites | ifos causes of UFO 3 ed 238
   permalink: /satellites/
   short_title: Satellites
   heading_title: Why Satellites Surprise Night Watchers
 - basename: ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1
-  title: Searchlights | Ifos Causes Of
+  title: Searchlights | ifos causes of UFO 3 ed 238
   permalink: /searchlights/
   short_title: Searchlights
   heading_title: How Searchlights Paint UFOs in Clouds
 - basename: ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b
-  title: Sensor Operators | Ifos Causes Of
+  title: Sensor Operators | ifos causes of UFO 3 ed 238
   permalink: /sensor-operators/
   short_title: Sensor Operators
   heading_title: When Sensors Need Human Context
 - basename: ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391
-  title: Short Clips | Ifos Causes Of
+  title: Short Clips | ifos causes of UFO 3 ed 238
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: Why Short UFO Videos Are Hard to Trust
 - basename: ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f
-  title: Size Errors | Ifos Causes Of
+  title: Size Errors | ifos causes of UFO 3 ed 238
   permalink: /size-errors/
   short_title: Size Errors
   heading_title: Why Honest Witnesses Misjudge UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725
-  title: Sky Charts | Ifos Causes Of
+  title: Sky Charts | ifos causes of UFO 3 ed 238
   permalink: /sky-charts/
   short_title: Sky Charts
   heading_title: How to Check a UFO Against the Sky
 - basename: ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32
-  title: Stars | Ifos Causes Of
+  title: Stars | ifos causes of UFO 3 ed 238
   permalink: /stars/
   short_title: Stars
   heading_title: Why Stars Flash Like Machines
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb
-  title: Status Labels | Ifos Causes Of
+  title: Status Labels | ifos causes of UFO 3 ed 238
   permalink: /status-labels/
   short_title: Status Labels
   heading_title: UFO Does Not Mean Alien
 - basename: ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d
-  title: Strong Cases | Ifos Causes Of
+  title: Strong Cases | ifos causes of UFO 3 ed 238
   permalink: /strong-cases/
   short_title: Strong Cases
   heading_title: What Makes a UFO Report Harder to Explain
 - basename: ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948
-  title: UK Files | Ifos Causes Of
+  title: UK Files | ifos causes of UFO 3 ed 238
   permalink: /uk-files/
   short_title: UK Files
   heading_title: What the UK UFO Files Reveal
 - basename: ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06
-  title: Unresolved Cases | Ifos Causes Of
+  title: Unresolved Cases | ifos causes of UFO 3 ed 238
   permalink: /unresolved-cases/
   short_title: Unresolved Cases
   heading_title: Why Some UFO Cases Stay Open
 - basename: ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080
-  title: Venus | Ifos Causes Of
+  title: Venus | ifos causes of UFO 3 ed 238
   permalink: /venus/
   short_title: Venus
   heading_title: Is That UFO Really Venus?
 - basename: ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13
-  title: Weather Records | Ifos Causes Of
+  title: Weather Records | ifos causes of UFO 3 ed 238
   permalink: /weather-records/
   short_title: Weather Records
   heading_title: Weather Clues That Explain Strange Lights
 - basename: ifos_-_causes_of_UFO_3ed238_wind_data_33671a
-  title: Wind Data | Ifos Causes Of
+  title: Wind Data | ifos causes of UFO 3 ed 238
   permalink: /wind-data/
   short_title: Wind Data
   heading_title: Following a UFO With the Wind
@@ -479,20 +478,21 @@ child_links:
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 prev_link:
   basename: ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a
-  title: Pilots | Ifos Causes Of
+  title: Pilots | ifos causes of UFO 3 ed 238
   permalink: /pilots/
   short_title: Pilots
   heading_title: Why Pilots Can Misidentify UFOs
 next_link:
   basename: ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c
-  title: Reflections | Ifos Causes Of
+  title: Reflections | ifos causes of UFO 3 ed 238
   permalink: /reflections/
   short_title: Reflections
   heading_title: The UFO Inside the Glass
+date: '2026-06-12 00:08:54 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357-overview-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357-overview.webp
@@ -503,7 +503,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357-overvie
 
 Radar can make a UFO report seem unusually persuasive because it appears to replace fallible human observation with measured data. A witness may misjudge distance, speed or scale, but radar seems to offer harder facts: range, bearing, motion and sometimes altitude. The problem is that radar is not a direct window onto the sky. It is a sensing system that transmits radio energy, receives echoes, filters clutter, applies thresholds and turns uncertain signals into plots or tracks. At each stage, ordinary effects can create false or ambiguous returns. Ground [reflections]({{ 'reflections/' | relative_url }}), weather, birds, insects, [wind turbines]({{ 'wind-turbines/' | relative_url }}), equipment limitations, signal processing choices and unusual atmospheric propagation can all make a radar display show something that is not a discrete craft. The FAA explicitly notes that anomalous propagation or ducting can place “many extraneous blips” on a radar display, while NASA’s 2023 UAP study warned that UAP work is hampered by sensor calibration problems and missing sensor metadata. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_5.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationSection 5. Surveillance SystemsThe bending of radar pulses, often called anomalous propagation or ducting...</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357-overview.webp" | relative_url }}" alt="Overview image for Radar" loading="eager" decoding="sync" fetchpriority="high">
 This matters for identified flying objects because radar evidence is often treated as a shortcut to certainty. It should not be. A radar return may record a real aircraft, balloon, bird flock or drone; it may show weather or biological scatter; it may be a false target caused by terrain, noise, clutter or refraction; or it may remain unresolved because the data are incomplete. A radar-associated UFO case is strongest only when the return is coherent, independently confirmed, time-synchronised with other sensors, compatible with known radar performance, and checked against weather, aviation and environmental records.
 
@@ -511,7 +510,7 @@ This matters for identified flying objects because radar evidence is often treat
 
 A radar system works by sending out radio pulses and measuring returned energy. In basic air-traffic use, the direction of a target is inferred from the antenna position when the echo returns, while [range]({{ 'range/' | relative_url }}) is calculated from the time taken for the pulse to travel out and back. That principle is powerful, but it also exposes the key weakness: the receiver measures returned energy, not identity. Unless the system is using cooperative surveillance such as a transponder or ADS-B, it does not inherently know whether the echo came from an aircraft, a flock of birds, a hill, a turbine blade, a patch of rain or a beam bent down towards the ground. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_5.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationSection 5. Surveillance SystemsThe bending of radar pulses, often called anomalous propagation or ducting...</span></span></span>
 
-Primary surveillance radar is especially relevant to UFO reports because it can detect non-cooperative objects, but it also has well-known limitations. ICAO guidance on surveillance technologies notes that primary surveillance radar does not provide identity, does not provide altitude in its basic form, and can often report false targets such as ground vehicles, weather and birds; it also performs poorly in ground and weather clutter. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.icao.int/sites/default/files/APAC/Documents/edocs/CNS/gmst_technology.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icao.int">[ICAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icao.int</span><span class="citation-popover-snippet">ICAOGuidance Material on Comparison of Surveillance...o Can often report false targets (ground vehicles, weather, birds etc) o Poor dete...</span></span></span> EUROCONTROL surveillance standards similarly recognise that false primary-surveillance-radar target reports may be generated by weather, terrain, noise, clutter and other reflecting objects, and that performance is partly measured by the number of false target reports per antenna scan. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eurocontrol.int/sites/default/files/publication/files/surveillance-standard-document-for-radar-surveillance-in-en-route-airspace-and-major-terminal-areas199703.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eurocontrol.int">[EUROCONTROL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eurocontrol.int</span><span class="citation-popover-snippet">EUROCONTROLRADAR SURVEILLANCE IN EN-ROUTE AIRSPACE AND...False PSR target reports may also be generated by weather, terrain, noise, clut...</span></span></span>
+Primary surveillance radar is especially relevant to UFO reports because it can detect non-cooperative objects, but it also has well-known limitations. ICAO guidance on surveillance technologies notes that primary surveillance radar does not provide identity, does not provide altitude in its basic form, and can often report false targets such as ground vehicles, weather and birds; it also performs poorly in ground and weather clutter. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.icao.int/sites/default/files/APAC/Documents/edocs/CNS/gmst_technology.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icao.int">[ICAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icao.int</span><span class="citation-popover-snippet">Guidance Material on Comparison of Surveillance...o Can often report false targets (ground vehicles, weather, birds etc) o Poor dete...</span></span></span> EUROCONTROL surveillance standards similarly recognise that false primary-surveillance-radar target reports may be generated by weather, terrain, noise, clutter and other reflecting objects, and that performance is partly measured by the number of false target reports per antenna scan. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eurocontrol.int/sites/default/files/publication/files/surveillance-standard-document-for-radar-surveillance-in-en-route-airspace-and-major-terminal-areas199703.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eurocontrol.int">[EUROCONTROL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eurocontrol.int</span><span class="citation-popover-snippet">RADAR SURVEILLANCE IN EN-ROUTE AIRSPACE AND...False PSR target reports may also be generated by weather, terrain, noise, clut...</span></span></span>
 
 That technical background changes how radar UFO claims should be read. A phrase such as “tracked on radar” may describe several very different situations: a single uncorrelated blip, a short sequence of plots, a processed track built by software, a primary return without altitude, a secondary return from a transponder-equipped aircraft, or a multi-sensor correlation. These are not equal forms of evidence. A single plot can be caused by noise or clutter. A short track can be created when processing software links unrelated returns. A real aircraft track can be displaced or confused by nearby interference. Radar evidence therefore needs context before it can support a claim of unusual performance.
 
@@ -524,7 +523,6 @@ Noise is different but related. A radar receiver must decide whether a weak retu
 For UFO analysis, clutter and noise are not abstract engineering details. They affect the story that later gets told. A radar return that appears suddenly, disappears after a few scans or jumps between positions may be described as an object accelerating, [vanishing]({{ 'vanishing/' | relative_url }}) or manoeuvring. Yet some apparent motion can arise because the radar intermittently detects clutter or because software associates one return with another. The result may be a real screen event without a real vehicle corresponding to it.
 
 Wind farms show how known infrastructure can create aviation-relevant false returns. UK aviation assessments for wind-energy projects repeatedly discuss turbine interference with primary surveillance radar: rotating blades can create clutter, false targets, track seduction and masking of genuine aircraft returns. One assessment explains that false radar returns may lead a processor to initiate false aircraft tracks, while another notes that some primary radars cannot reliably distinguish moving turbine blades from aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eurocontrol.int/sites/default/files/2019-05/surveilllance-report-wide-area-multilateration-200508.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eurocontrol.int">[EUROCONTROL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eurocontrol.int</span><span class="citation-popover-title">surveilllance report wide area multilateration 200508</span><span class="citation-popover-snippet">surveilllance report wide area multilateration 200508</span></span></span> This does not mean wind turbines explain all radar UFO reports. It shows something more general and more important: radar systems can make ordinary reflecting structures appear as operationally significant targets.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357-Illustration-1-dark.svg" | relative_url }}" alt="Radar illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Weather and propagation
@@ -545,9 +543,6 @@ This cross-checking principle applies directly to UFO analysis. If one radar see
 
 Scientific work on weather radar treats AP as a serious quality-control problem, not as a fringe excuse. Studies in meteorological radar have long described contamination from anomalous beam propagation and permanent clutter caused by buildings and topography near the radar. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.noaa.gov/jetstream/radar-beams" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noaa.gov">[NOAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noaa.gov</span><span class="citation-popover-title">radar beams</span><span class="citation-popover-snippet">radar beams</span></span></span> If weather services must correct for such effects while estimating rainfall, UFO investigators should be even more cautious when using isolated radar returns to infer unknown craft.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NtyU6aKZ-cY" title="Pulse-Doppler Radar | Understanding Radar Principles" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NtyU6aKZ-cY" target="_blank" rel="noopener noreferrer">Pulse-Doppler Radar | Understanding Radar Principles</a></p><p class="youtube-embed-meta">Channel: MATLAB</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NtyU6aKZ-cY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NtyU6aKZ-cY">Open on YouTube</a></p></div></div></div>
-
 ## Radar-visual cases need stricter tests, not looser ones
 
 Radar-visual reports are often treated as the gold standard of UFO evidence because they appear to combine human observation with instruments. They can be stronger than a witness-only case, but only if the correlation is precise. It is not enough for a person to see something somewhere in the sky while radar shows something somewhere on a screen. The timing, bearing, elevation, range, motion and duration must match within the known limits of both the witness and the instrument.
@@ -556,6 +551,7 @@ The historical literature shows why this matters. The University of Colorado’s
 
 A credible radar-visual case therefore needs several questions answered. Did the witness see the object in the same direction indicated by radar? Did the radar have range but no altitude, or was altitude independently measured? Was the return primary only, or was there a secondary transponder return? Did the track persist across multiple sweeps? Was it seen by more than one radar with different geometry? Were weather conditions favourable for ducting or anomalous propagation? Were known aircraft, balloons, [drones]({{ 'drones/' | relative_url }}), birds or military exercises in the area? Without those answers, “radar-visual” is a label, not a conclusion.
 
+<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357-Illustration-2-dark.svg" | relative_url }}" alt="Radar illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Washington 1952 cautionary example
 
 The July 1952 Washington, D.C. radar incidents remain a classic example of how radar anomalies can become embedded in UFO history. Radar operators reported unidentified returns around Washington National Airport and Andrews Air Force Base during a period of intense public attention to flying saucers. Interceptor aircraft were scrambled, press interest surged, and official explanations were heavily contested. The case is still discussed because it contained both radar reports and some visual observations, making it more complex than a simple witness sighting.
@@ -564,8 +560,6 @@ The official Air Force explanation emphasised temperature inversion and radar pr
 
 The point is not that every detail of the Washington events is beyond dispute. Some radar operators and later researchers argued that inversion alone did not explain all reported behaviour. The useful lesson is methodological: once radar returns are described publicly as objects travelling at extraordinary speeds, later analysis must reconstruct the actual sensor conditions, meteorology, equipment, sweep-by-sweep behaviour and possible correlations. A dramatic radar narrative is not the same as a preserved technical dataset.
 
-
-<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357-Illustration-2-dark.svg" | relative_url }}" alt="Radar illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Modern UAP reporting still treats sensors as a data problem
 
 Modern UAP reporting has not removed the radar-anomaly problem. It has made the data problem more visible. The 2021 U.S. intelligence community preliminary assessment stated that various sensors registering UAP generally operate correctly and capture enough real data for initial assessment, but also acknowledged that some UAP may be attributable to sensor anomalies. It separately identified sensor limitations and the challenge of filtering radar clutter as obstacles to UAP data collection. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">DF 2021 00275 Preliminary Assessment Unidentified Aerial Phenomena</span><span class="citation-popover-snippet">DF 2021 00275 Preliminary Assessment Unidentified Aerial Phenomena</span></span></span>
@@ -574,9 +568,7 @@ NASA’s 2023 independent study reached a similar practical conclusion. It did n
 
 [AARO]({{ 'aaro/' | relative_url }})’s public material also reinforces the need to separate anomaly status from extraordinary interpretation. Its public examples include UAP reports resolved as balloons, migratory birds and non-anomalous events, alongside cases that remain unresolved or under analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">Official UAP Imagery</span></span></span> Its explanation of commonly reported UAP causes includes airborne clutter such as windborne debris, plastic bags, mylar balloons and birds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span> These examples are not all radar cases, but they show the same investigative logic: a report can be unresolved at first because the sensor or observer lacks enough context, not because the object is exotic.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Sl2UTzxmN4Y" title="They Threw Him Into the Sea… But Boy Evolved a Broken Ship into the Ultimate Super Battleship!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Sl2UTzxmN4Y" target="_blank" rel="noopener noreferrer">They Threw Him Into the Sea… But Boy Evolved a Broken Ship into the Ultimate Super Battleship!</a></p><p class="youtube-embed-meta">Channel: Mania Comics Legends</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Sl2UTzxmN4Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Sl2UTzxmN4Y">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357-Illustration-3-dark.svg" | relative_url }}" alt="Radar illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Cross-checking sensor records
 
 The best way to handle a radar-associated UFO report is to treat it as a dataset rather than a story. The first task is to establish what kind of radar was involved. Primary radar detects reflected energy from non-cooperative targets. Secondary surveillance radar depends on replies from aircraft transponders. ADS-B depends on aircraft broadcasting position and other data. These systems answer different questions and have different failure modes. A primary return without a transponder is not automatically mysterious; it may be a non-cooperative object, clutter, a biological return, weather or a false report. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_5.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationSection 5. Surveillance SystemsThe bending of radar pulses, often called anomalous propagation or ducting...</span></span></span>
@@ -584,9 +576,6 @@ The best way to handle a radar-associated UFO report is to treat it as a dataset
 The next task is to inspect track quality. A real aircraft usually produces a coherent sequence of returns compatible with plausible motion. A spurious target may appear for one or two scans, jump position, merge with clutter, split into multiple plots or vanish when filtering changes. SKYbrary’s explanation of primary surveillance radar notes one specific false-target mechanism: if a reflected signal arrives after a second pulse has been transmitted, the radar may be unable to determine which emitted pulse produced the return, creating a false target usually close to the radar. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skybrary.aero/articles/primary-surveillance-radar-psr" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Open source on skybrary.aero.</span></span></span>
 
 A disciplined review should then compare the radar data with independent sources: weather radar, radiosonde or forecast soundings, aircraft tracks, ADS-B logs, military activity notices, balloon launches, satellite passes, bird migration data, local clutter maps and reports from neighbouring radars. If a return appears only on one radar under conditions favourable for ducting, the anomaly is much weaker than a return independently observed by multiple sensors from different angles. If the radar timebase is uncertain or video timestamps are not synchronised, apparent correlations can be false.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
 
 ## How to grade a radar UFO claim
 
@@ -604,8 +593,6 @@ A radar-associated UFO report should be graded by evidence quality rather than b
 
 This scale protects against two opposite errors. The first is overbelief: treating any radar return as proof of an extraordinary object. The second is over-dismissal: assuming every unusual radar event is meaningless. Radar anomalies are real sensor events; the question is what caused them. Sometimes the answer is mundane. Sometimes the data are too incomplete. Occasionally, an event may deserve further investigation because it survives the normal checks.
 
-
-<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357-Illustration-3-dark.svg" | relative_url }}" alt="Radar illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What radar anomalies teach UFO investigation
 
 Radar anomalies are a central cause of UFO reports because they sit at the boundary between perception and instrumentation. They can solve cases by identifying aircraft, weather, balloons, birds or debris. They can also create cases by turning clutter, ducting, noise or processing artefacts into target-like returns. The same technology that gives investigators powerful evidence also gives them new ways to be misled.
@@ -1008,166 +995,166 @@ The most defensible conclusion is therefore careful rather than dismissive. Rada
 
 1. <a id="endnote-1"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_5.html](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_5.html)  
+   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_5.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_5.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationSection 5. Surveillance SystemsThe bending of radar pulses, often called anomalous propagation or ducting...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportThe panel notes that, at present, gathering data on UAP is hampered by sensor calibration challe...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: icao.int  
-   Link: [https://www.icao.int/sites/default/files/APAC/Documents/edocs/CNS/gmst_technology.pdf](https://www.icao.int/sites/default/files/APAC/Documents/edocs/CNS/gmst_technology.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ICAOGuidance Material on Comparison of Surveillance...o Can often report false targets (ground vehicles, weather, birds etc) o Poor dete...</p></details>
+   Link: <a href="https://www.icao.int/sites/default/files/APAC/Documents/edocs/CNS/gmst_technology.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/APAC/Documents/edocs/CNS/gmst_technology.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Guidance Material on Comparison of Surveillance...o Can often report false targets (ground vehicles, weather, birds etc) o Poor dete...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: eurocontrol.int  
-   Link: [https://www.eurocontrol.int/sites/default/files/publication/files/surveillance-standard-document-for-radar-surveillance-in-en-route-airspace-and-major-terminal-areas199703.pdf](https://www.eurocontrol.int/sites/default/files/publication/files/surveillance-standard-document-for-radar-surveillance-in-en-route-airspace-and-major-terminal-areas199703.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EUROCONTROLRADAR SURVEILLANCE IN EN-ROUTE AIRSPACE AND...False PSR target reports may also be generated by weather, terrain, noise, clut...</p></details>
+   Link: <a href="https://www.eurocontrol.int/sites/default/files/publication/files/surveillance-standard-document-for-radar-surveillance-in-en-route-airspace-and-major-terminal-areas199703.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.eurocontrol.int/sites/default/files/publication/files/surveillance-standard-document-for-radar-surveillance-in-en-route-airspace-and-major-terminal-areas199703.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>RADAR SURVEILLANCE IN EN-ROUTE AIRSPACE AND...False PSR target reports may also be generated by weather, terrain, noise, clut...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/mlb/Doppler_Dual_Pol_Weather_Radar](https://www.weather.gov/mlb/Doppler_Dual_Pol_Weather_Radar)  
+   Link: <a href="https://www.weather.gov/mlb/Doppler_Dual_Pol_Weather_Radar" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/mlb/Doppler_Dual_Pol_Weather_Radar</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NWS Weather RadarAnomalous Propagation (AP) refers to meteorological situations where a signal comes back to the radar antenna even in th...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: archive.ll.mit.edu  
    Title: Lincoln Laboratory Advances in Primary-Radar Technology /'.'  
-   Link: [https://archive.ll.mit.edu/publications/journal/pdf/vol02_no3/2.3.3.advancesprimaryradar.pdf](https://archive.ll.mit.edu/publications/journal/pdf/vol02_no3/2.3.3.advancesprimaryradar.pdf)  
+   Link: <a href="https://archive.ll.mit.edu/publications/journal/pdf/vol02_no3/2.3.3.advancesprimaryradar.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.ll.mit.edu/publications/journal/pdf/vol02_no3/2.3.3.advancesprimaryradar.pdf</a>  
 
 7. <a id="endnote-7"></a>
    Source: forecast.weather.gov  
    Title: National Weather Service NOAA's National Weather Service  
-   Link: [https://forecast.weather.gov/glossary.php?word=AP](https://forecast.weather.gov/glossary.php?word=AP)  
+   Link: <a href="https://forecast.weather.gov/glossary.php?word=AP" target="_blank" rel="noopener noreferrer nofollow">https://forecast.weather.gov/glossary.php?word=AP</a>  
 
 8. <a id="endnote-8"></a>
    Source: noaa.gov  
    Title: anomalous propagation  
-   Link: [https://www.noaa.gov/jetstream/anomalous-propagation](https://www.noaa.gov/jetstream/anomalous-propagation)  
+   Link: <a href="https://www.noaa.gov/jetstream/anomalous-propagation" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/jetstream/anomalous-propagation</a>  
 
 9. <a id="endnote-9"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/bmx/radar_aboutnwsradar_shortcomings](https://www.weather.gov/bmx/radar_aboutnwsradar_shortcomings)  
+   Link: <a href="https://www.weather.gov/bmx/radar_aboutnwsradar_shortcomings" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/bmx/radar_aboutnwsradar_shortcomings</a>  
 
 10. <a id="endnote-10"></a>
    Source: jstor.org  
    Title: UFO Study: Condon Group Finds No Evidence of Visits  
-   Link: [https://www.jstor.org/stable/1725090](https://www.jstor.org/stable/1725090)  
+   Link: <a href="https://www.jstor.org/stable/1725090" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/1725090</a>  
 
 11. <a id="endnote-11"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: [https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/](https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/)  
+   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
 
 12. <a id="endnote-12"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 13. <a id="endnote-13"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 14. <a id="endnote-14"></a>
    Source: skybrary.aero  
-   Link: [https://skybrary.aero/articles/primary-surveillance-radar-psr](https://skybrary.aero/articles/primary-surveillance-radar-psr)  
+   Link: <a href="https://skybrary.aero/articles/primary-surveillance-radar-psr" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/primary-surveillance-radar-psr</a>  
 
 15. <a id="endnote-15"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 16. <a id="endnote-16"></a>
    Source: eurocontrol.int  
    Title: surveilllance report wide area multilateration 200508  
-   Link: [https://www.eurocontrol.int/sites/default/files/2019-05/surveilllance-report-wide-area-multilateration-200508.pdf](https://www.eurocontrol.int/sites/default/files/2019-05/surveilllance-report-wide-area-multilateration-200508.pdf)  
+   Link: <a href="https://www.eurocontrol.int/sites/default/files/2019-05/surveilllance-report-wide-area-multilateration-200508.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.eurocontrol.int/sites/default/files/2019-05/surveilllance-report-wide-area-multilateration-200508.pdf</a>  
 
 17. <a id="endnote-17"></a>
    Source: eurocontrol.int  
-   Link: [https://www.eurocontrol.int/sites/default/files/2024-04/eurocontrol-eassp-specification-vol1-v1-1.pdf](https://www.eurocontrol.int/sites/default/files/2024-04/eurocontrol-eassp-specification-vol1-v1-1.pdf)  
+   Link: <a href="https://www.eurocontrol.int/sites/default/files/2024-04/eurocontrol-eassp-specification-vol1-v1-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.eurocontrol.int/sites/default/files/2024-04/eurocontrol-eassp-specification-vol1-v1-1.pdf</a>  
 
 18. <a id="endnote-18"></a>
    Source: eurocontrol.int  
-   Link: [https://www.eurocontrol.int/sites/default/files/2019-05/surveillance-report-multi-static-primary-surveillance-radar-an-examination-of-altervative-frequency-bands-200807.pdf](https://www.eurocontrol.int/sites/default/files/2019-05/surveillance-report-multi-static-primary-surveillance-radar-an-examination-of-altervative-frequency-bands-200807.pdf)  
+   Link: <a href="https://www.eurocontrol.int/sites/default/files/2019-05/surveillance-report-multi-static-primary-surveillance-radar-an-examination-of-altervative-frequency-bands-200807.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.eurocontrol.int/sites/default/files/2019-05/surveillance-report-multi-static-primary-surveillance-radar-an-examination-of-altervative-frequency-bands-200807.pdf</a>  
 
 19. <a id="endnote-19"></a>
    Source: noaa.gov  
    Title: radar beams  
-   Link: [https://www.noaa.gov/jetstream/radar-beams](https://www.noaa.gov/jetstream/radar-beams)  
+   Link: <a href="https://www.noaa.gov/jetstream/radar-beams" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/jetstream/radar-beams</a>  
 
 20. <a id="endnote-20"></a>
    Source: app.gov.md  
    Title: 26102025 final PSR MSSR Mode S Technical Specification  
-   Link: [https://app.gov.md/wp-content/uploads/2025/11/26102025_final_PSR_MSSR_Mode_S_Technical_Specification.pdf](https://app.gov.md/wp-content/uploads/2025/11/26102025_final_PSR_MSSR_Mode_S_Technical_Specification.pdf)  
+   Link: <a href="https://app.gov.md/wp-content/uploads/2025/11/26102025_final_PSR_MSSR_Mode_S_Technical_Specification.pdf" target="_blank" rel="noopener noreferrer nofollow">https://app.gov.md/wp-content/uploads/2025/11/26102025_final_PSR_MSSR_Mode_S_Technical_Specification.pdf</a>  
 
 21. <a id="endnote-21"></a>
    Source: skybrary.aero  
-   Link: [https://skybrary.aero/sites/default/files/bookshelf/5391.pdf](https://skybrary.aero/sites/default/files/bookshelf/5391.pdf)  
+   Link: <a href="https://skybrary.aero/sites/default/files/bookshelf/5391.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/sites/default/files/bookshelf/5391.pdf</a>  
 
 22. <a id="endnote-22"></a>
    Source: marine.gov.scot  
-   Link: [https://marine.gov.scot/sites/default/files/vo76691.pdf](https://marine.gov.scot/sites/default/files/vo76691.pdf)  
+   Link: <a href="https://marine.gov.scot/sites/default/files/vo76691.pdf" target="_blank" rel="noopener noreferrer nofollow">https://marine.gov.scot/sites/default/files/vo76691.pdf</a>  
 
 23. <a id="endnote-23"></a>
    Source: dni.gov  
    Title: DF 2021 00275 Preliminary Assessment Unidentified Aerial Phenomena  
-   Link: [https://www.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf](https://www.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf)  
+   Link: <a href="https://www.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf</a>  
 
 24. <a id="endnote-24"></a>
    Source: dni.gov  
    Title: Prelimary Assessment UAP 20210625  
-   Link: [https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf](https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf)  
+   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf</a>  
 
 25. <a id="endnote-25"></a>
    Source: Wikipedia  
    Title: Anomalous propagation  
-   Link: [https://en.wikipedia.org/wiki/Anomalous_propagation](https://en.wikipedia.org/wiki/Anomalous_propagation)  
+   Link: <a href="https://en.wikipedia.org/wiki/Anomalous_propagation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anomalous_propagation</a>  
 
 ### Additional References
 
 26. <a id="endnote-26"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
 27. <a id="endnote-27"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010010-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010010-0)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010010-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010010-0</a>  
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
    Title: Weather Radar Basics and Identifying Non-Precipitation Echoes  
-   Link: [https://www.youtube.com/watch?v=oUe3a1fQo5I](https://www.youtube.com/watch?v=oUe3a1fQo5I)  
+   Link: <a href="https://www.youtube.com/watch?v=oUe3a1fQo5I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oUe3a1fQo5I</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Doppler Radar Limitations and Velocity Aliasing...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf](https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf)  
+   Link: <a href="https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf</a>  
 
 30. <a id="endnote-30"></a>
    Source: youtube.com  
    Title: Understanding Anomalous Propagation and False Radar Echoes  
-   Link: [https://www.youtube.com/watch?v=F3zW6a4C31M](https://www.youtube.com/watch?v=F3zW6a4C31M)  
+   Link: <a href="https://www.youtube.com/watch?v=F3zW6a4C31M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F3zW6a4C31M</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Radar Works: Limitations and Common Artifacts...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: youtube.com  
    Title: How Radar Works: Limitations and Common Artifacts  
-   Link: [https://www.youtube.com/watch?v=J342Xl7t9gU](https://www.youtube.com/watch?v=J342Xl7t9gU)  
+   Link: <a href="https://www.youtube.com/watch?v=J342Xl7t9gU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=J342Xl7t9gU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Weather Radar Basics and Identifying Non-Precipitation Echoes...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: [https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/](https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
 33. <a id="endnote-33"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/MatthewSantoroVideos/videos/10-ufo-sightings-that-were-confirmed-by-multiple-governments/2025914504989049/](https://www.facebook.com/MatthewSantoroVideos/videos/10-ufo-sightings-that-were-confirmed-by-multiple-governments/2025914504989049/)  
+   Link: <a href="https://www.facebook.com/MatthewSantoroVideos/videos/10-ufo-sightings-that-were-confirmed-by-multiple-governments/2025914504989049/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MatthewSantoroVideos/videos/10-ufo-sightings-that-were-confirmed-by-multiple-governments/2025914504989049/</a>  
 
 34. <a id="endnote-34"></a>
    Source: aui.edu  
-   Link: [https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/](https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/)  
+   Link: <a href="https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/</a>  
 
 35. <a id="endnote-35"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/353539589_Analysis_of_ODNI_Preliminary_Assessment_Unidentified_Aerial_Phenomena](https://www.researchgate.net/publication/353539589_Analysis_of_ODNI_Preliminary_Assessment_Unidentified_Aerial_Phenomena)  
+   Link: <a href="https://www.researchgate.net/publication/353539589_Analysis_of_ODNI_Preliminary_Assessment_Unidentified_Aerial_Phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/353539589_Analysis_of_ODNI_Preliminary_Assessment_Unidentified_Aerial_Phenomena</a>

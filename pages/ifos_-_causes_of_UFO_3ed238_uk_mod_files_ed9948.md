@@ -50,22 +50,22 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_wind_data_33671a
 - ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - uk-files
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - uk-files
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: The UK MoD files show the practical limits of public sighting collection and why a hotline can gather many weak reports.
 hero_summary: The UK MoD files show the practical limits of public sighting collection and why a hotline can gather many weak reports.
 layout: default
 permalink: /uk-files/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 nav_short_title: UK Files
 title: What the UK UFO Files Reveal
-title_full: What the UK UFO Files Reveal | IFOs
+title_full: What the UK UFO Files Reveal
 display_title_short: UK Files
 display_title: UK Files
 heading_title: What the UK UFO Files Reveal
@@ -240,213 +240,212 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 23:07:16'
 parent_title: IFOs
-parent_permalink: /ifos-causes-of/
+parent_permalink: /ifos-causes-of-ufo-3-ed-238/
 parent_nav_short_title: IFOs
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 sibling_links:
 - basename: ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d
-  title: A Head On Aircraft Can Look Like A Stationary Light Because It | Ifos Causes Of
+  title: A Head On Aircraft Can Look Like A Stationary Light Because It | ifos causes of UFO 3 ed 238
   permalink: /a-head-on-aircraft-can-look-like-a/
   short_title: A Head On Aircraft Can Look Like A Stationary Light Because It
   heading_title: The Stationary Light That Is Moving
 - basename: ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261
-  title: AARO | Ifos Causes Of
+  title: AARO | ifos causes of UFO 3 ed 238
   permalink: /aaro/
   short_title: AARO
   heading_title: What Modern UAP Reviews Resolve
 - basename: ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253
-  title: Aircraft Lights | Ifos Causes Of
+  title: Aircraft Lights | ifos causes of UFO 3 ed 238
   permalink: /aircraft-lights/
   short_title: Aircraft Lights
   heading_title: Why Ordinary Aircraft Look So Strange
 - basename: ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043
-  title: Atmosphere | Ifos Causes Of
+  title: Atmosphere | ifos causes of UFO 3 ed 238
   permalink: /atmosphere/
   short_title: Atmosphere
   heading_title: When Weather Makes Shapes in the Sky
 - basename: ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057
-  title: Balloons | Ifos Causes Of
+  title: Balloons | ifos causes of UFO 3 ed 238
   permalink: /balloons/
   short_title: Balloons
   heading_title: Why Balloons Become Flying Saucers
 - basename: ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40
-  title: Birds | Ifos Causes Of
+  title: Birds | ifos causes of UFO 3 ed 238
   permalink: /birds/
   short_title: Birds
   heading_title: How Birds Become Fast UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81
-  title: Blue Book | Ifos Causes Of
+  title: Blue Book | ifos causes of UFO 3 ed 238
   permalink: /blue-book/
   short_title: Blue Book
   heading_title: What Blue Book Teaches About IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e
-  title: Contrails | Ifos Causes Of
+  title: Contrails | ifos causes of UFO 3 ed 238
   permalink: /contrails/
   short_title: Contrails
   heading_title: Why Jet Trails Glow Like UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c
-  title: Drones | Ifos Causes Of
+  title: Drones | ifos causes of UFO 3 ed 238
   permalink: /drones/
   short_title: Drones
   heading_title: When a Drone Becomes a UFO
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e
-  title: First Checks | Ifos Causes Of
+  title: First Checks | ifos causes of UFO 3 ed 238
   permalink: /first-checks/
   short_title: First Checks
   heading_title: What to Check Before Calling It a UFO
 - basename: ifos_-_causes_of_UFO_3ed238_military_flares_abb62f
-  title: Flares | Ifos Causes Of
+  title: Flares | ifos causes of UFO 3 ed 238
   permalink: /flares/
   short_title: Flares
   heading_title: Why Flares Look Like Hovering Craft
 - basename: ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590
-  title: Flight Tracking | Ifos Causes Of
+  title: Flight Tracking | ifos causes of UFO 3 ed 238
   permalink: /flight-tracking/
   short_title: Flight Tracking
   heading_title: How Flight Data Solves UFO Sightings
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965
-  title: Hoaxes | Ifos Causes Of
+  title: Hoaxes | ifos causes of UFO 3 ed 238
   permalink: /hoaxes/
   short_title: Hoaxes
   heading_title: When UFO Reports Are Manufactured
 - basename: ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f
-  title: Infrared | Ifos Causes Of
+  title: Infrared | ifos causes of UFO 3 ed 238
   permalink: /infrared/
   short_title: Infrared
   heading_title: Why Infrared UFO Videos Mislead
 - basename: ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74
-  title: Insects | Ifos Causes Of
+  title: Insects | ifos causes of UFO 3 ed 238
   permalink: /insects/
   short_title: Insects
   heading_title: The Tiny Things Cameras Make Huge
 - basename: ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5
-  title: Lanterns | Ifos Causes Of
+  title: Lanterns | ifos causes of UFO 3 ed 238
   permalink: /lanterns/
   short_title: Lanterns
   heading_title: The Orange Lights That Start UFO Reports
 - basename: ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e
-  title: Lens Flare | Ifos Causes Of
+  title: Lens Flare | ifos causes of UFO 3 ed 238
   permalink: /lens-flare/
   short_title: Lens Flare
   heading_title: When Cameras Invent Extra Lights
 - basename: ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28
-  title: Mass Sightings | Ifos Causes Of
+  title: Mass Sightings | ifos causes of UFO 3 ed 238
   permalink: /mass-sightings/
   short_title: Mass Sightings
   heading_title: Why Groups Can Share One Mistake
 - basename: ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504
-  title: Meteors | Ifos Causes Of
+  title: Meteors | ifos causes of UFO 3 ed 238
   permalink: /meteors/
   short_title: Meteors
   heading_title: When Fireballs Become UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca
-  title: Missing Data | Ifos Causes Of
+  title: Missing Data | ifos causes of UFO 3 ed 238
   permalink: /missing-data/
   short_title: Missing Data
   heading_title: Unsolved Does Not Always Mean Strange
 - basename: ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183
-  title: NASA Study | Ifos Causes Of
+  title: NASA Study | ifos causes of UFO 3 ed 238
   permalink: /nasa-study/
   short_title: NASA Study
   heading_title: Why Better UFO Data Matters
 - basename: ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b
-  title: Parallax | Ifos Causes Of
+  title: Parallax | ifos causes of UFO 3 ed 238
   permalink: /parallax/
   short_title: Parallax
   heading_title: The Speed Illusion in UFO Footage
 - basename: ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a
-  title: Pilots | Ifos Causes Of
+  title: Pilots | ifos causes of UFO 3 ed 238
   permalink: /pilots/
   short_title: Pilots
   heading_title: Why Pilots Can Misidentify UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357
-  title: Radar | Ifos Causes Of
+  title: Radar | ifos causes of UFO 3 ed 238
   permalink: /radar/
   short_title: Radar
   heading_title: When Radar Sees a UFO That Isnt There
 - basename: ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c
-  title: Reflections | Ifos Causes Of
+  title: Reflections | ifos causes of UFO 3 ed 238
   permalink: /reflections/
   short_title: Reflections
   heading_title: The UFO Inside the Glass
 - basename: ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132
-  title: Rocket Plumes | Ifos Causes Of
+  title: Rocket Plumes | ifos causes of UFO 3 ed 238
   permalink: /rocket-plumes/
   short_title: Rocket Plumes
   heading_title: The Strange Clouds Rockets Leave Behind
 - basename: ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b
-  title: Satellites | Ifos Causes Of
+  title: Satellites | ifos causes of UFO 3 ed 238
   permalink: /satellites/
   short_title: Satellites
   heading_title: Why Satellites Surprise Night Watchers
 - basename: ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1
-  title: Searchlights | Ifos Causes Of
+  title: Searchlights | ifos causes of UFO 3 ed 238
   permalink: /searchlights/
   short_title: Searchlights
   heading_title: How Searchlights Paint UFOs in Clouds
 - basename: ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b
-  title: Sensor Operators | Ifos Causes Of
+  title: Sensor Operators | ifos causes of UFO 3 ed 238
   permalink: /sensor-operators/
   short_title: Sensor Operators
   heading_title: When Sensors Need Human Context
 - basename: ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391
-  title: Short Clips | Ifos Causes Of
+  title: Short Clips | ifos causes of UFO 3 ed 238
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: Why Short UFO Videos Are Hard to Trust
 - basename: ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f
-  title: Size Errors | Ifos Causes Of
+  title: Size Errors | ifos causes of UFO 3 ed 238
   permalink: /size-errors/
   short_title: Size Errors
   heading_title: Why Honest Witnesses Misjudge UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725
-  title: Sky Charts | Ifos Causes Of
+  title: Sky Charts | ifos causes of UFO 3 ed 238
   permalink: /sky-charts/
   short_title: Sky Charts
   heading_title: How to Check a UFO Against the Sky
 - basename: ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32
-  title: Stars | Ifos Causes Of
+  title: Stars | ifos causes of UFO 3 ed 238
   permalink: /stars/
   short_title: Stars
   heading_title: Why Stars Flash Like Machines
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb
-  title: Status Labels | Ifos Causes Of
+  title: Status Labels | ifos causes of UFO 3 ed 238
   permalink: /status-labels/
   short_title: Status Labels
   heading_title: UFO Does Not Mean Alien
 - basename: ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d
-  title: Strong Cases | Ifos Causes Of
+  title: Strong Cases | ifos causes of UFO 3 ed 238
   permalink: /strong-cases/
   short_title: Strong Cases
   heading_title: What Makes a UFO Report Harder to Explain
 - basename: ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06
-  title: Unresolved Cases | Ifos Causes Of
+  title: Unresolved Cases | ifos causes of UFO 3 ed 238
   permalink: /unresolved-cases/
   short_title: Unresolved Cases
   heading_title: Why Some UFO Cases Stay Open
 - basename: ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080
-  title: Venus | Ifos Causes Of
+  title: Venus | ifos causes of UFO 3 ed 238
   permalink: /venus/
   short_title: Venus
   heading_title: Is That UFO Really Venus?
 - basename: ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13
-  title: Weather Records | Ifos Causes Of
+  title: Weather Records | ifos causes of UFO 3 ed 238
   permalink: /weather-records/
   short_title: Weather Records
   heading_title: Weather Clues That Explain Strange Lights
 - basename: ifos_-_causes_of_UFO_3ed238_wind_data_33671a
-  title: Wind Data | Ifos Causes Of
+  title: Wind Data | ifos causes of UFO 3 ed 238
   permalink: /wind-data/
   short_title: Wind Data
   heading_title: Following a UFO With the Wind
@@ -479,20 +478,21 @@ child_links:
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 prev_link:
   basename: ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d
-  title: Strong Cases | Ifos Causes Of
+  title: Strong Cases | ifos causes of UFO 3 ed 238
   permalink: /strong-cases/
   short_title: Strong Cases
   heading_title: What Makes a UFO Report Harder to Explain
 next_link:
   basename: ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06
-  title: Unresolved Cases | Ifos Causes Of
+  title: Unresolved Cases | ifos causes of UFO 3 ed 238
   permalink: /unresolved-cases/
   short_title: Unresolved Cases
   heading_title: Why Some UFO Cases Stay Open
+date: '2026-06-12 00:06:14 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948-overview-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948-overview.webp
@@ -502,7 +502,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948-overview-s
 ## Introduction
 
 The UK Ministry of Defence UFO files are useful not because they prove a hidden answer to UFO reports, but because they show how an official reporting system behaved in the real world. For decades, the MoD collected sightings from the public, police, [pilots]({{ 'pilots/' | relative_url }}) and military personnel, mainly to check whether anything suggested a threat to UK airspace or national security. The files show a familiar [IFO pattern]({{ 'ifo-pattern/' | relative_url }}): many sincere reports were too brief, vague or ordinary-looking to investigate far, and many described lights, shapes and movements that could plausibly be aircraft, balloons, lanterns, astronomical objects or other commonplace stimuli seen under confusing conditions.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948-overview.webp" | relative_url }}" alt="Overview image for UK Files" loading="eager" decoding="sync" fetchpriority="high">
 The most important lesson is institutional. A hotline can collect large numbers of weak reports without producing strong evidence. By 2009, reports had surged, staff time was being consumed, and the MoD concluded that the UFO desk served no defence purpose. The files therefore reveal both the value and the limits of public sighting collection. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
@@ -515,7 +514,6 @@ That matters because it changes how the files should be read. The MoD was not ru
 
 The organisational history also helps explain why the files are uneven. The final tranche released by The National Archives contained 25 files and about 4,400 pages covering the last two years of the UFO desk, from late 2007 to November 2009. These included government policy, correspondence with ministers, Freedom of Information handling and the largest volume of sighting reports received since 1978. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948-Illustration-1-dark.svg" | relative_url }}" alt="UK Files illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The hotline collected reports, not clean evidence
 
@@ -524,7 +522,6 @@ The dedicated UFO hotline and email address made reporting easy. That was useful
 The 2009 report list gives a clear example of the data problem. Entries include “five orange lights high in the sky”, “six red or orange lights in a large oval shape moving slowly towards Brighton”, “ten orange orbs” and a “bright orange light travelling very fast”. Other reports are more elaborate, such as a “shiny silvery metallic cylinder”, but the record still usually lacks the independent measurements needed to establish distance, altitude, speed or identity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">ufo reports in the uk</span></span></span>
 
 This is exactly why IFO analysis is difficult. A witness may be honest and observant while still lacking the information needed for identification. Without a reliable bearing, elevation, duration, camera metadata, [radar]({{ 'radar/' | relative_url }}) correlation, aircraft track, weather data or astronomical check, a report can stay unresolved simply because the evidence is thin. The MoD files are therefore a dataset of human reports, not a dataset of confirmed anomalous objects.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/62tr8fZ-02Q" title="UFO file release May 2008 Part 1 (audio with slides)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=62tr8fZ-02Q" target="_blank" rel="noopener noreferrer">UFO file release May 2008 Part 1 (audio with slides)</a></p><p class="youtube-embed-meta">Channel: The National Archives UK &middot; Views: 11.2K &middot; Uploaded: June 2008 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=62tr8fZ-02Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=62tr8fZ-02Q">Open on YouTube</a></p></div></div></div>
 
@@ -544,7 +541,6 @@ A later parliamentary answer in December 2024 restated the position: the MoD cea
 
 This distinction is important. “No defence threat found” is not the same as “all sightings were identified”. It means the reports did not justify a specialist defence bureaucracy. From an IFO perspective, that is a powerful institutional result: a large archive of unresolved or weakly described observations can still fail to produce a pattern strong enough for military action.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948-Illustration-2-dark.svg" | relative_url }}" alt="UK Files illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Project Condign and the intelligence-side question
 
@@ -553,7 +549,6 @@ The most serious internal study associated with the UK files was Project [Condig
 Project Condign is often cited because it sounds more dramatic than the public-facing desk. It used the term UAP, considered whether unusual phenomena had defence or technology implications, and examined a large body of historical reports. Contemporary coverage described it as a secret Defence Intelligence Staff study that concluded many sightings were likely man-made objects, natural phenomena or [hoaxes]({{ 'hoaxes/' | relative_url }}), while also speculating about rare atmospheric plasma effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/2006/05/its-official-ufos-are-just-uaps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">It&#x27;s Official: UFOs Are Just UAPs</span><span class="citation-popover-snippet">It&#x27;s Official: UFOs Are Just UAPs</span></span></span>
 
 The report’s value for this topic is not that its plasma explanation should be treated as settled science. It was not a public, peer-reviewed research programme with instrumented field data. Its value is that it shows the MoD had already tested the larger defence-intelligence question: whether the sighting archive justified continued intelligence interest. The later closure of the UFO desk fits that wider pattern: the state had accumulated reports, reviewed them for threat value, and eventually judged that the ongoing collection process was not worth the resources. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/details/condign-vol-2-1-258" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4_zUiIEnkEI" title="UFO file release March 2009" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4_zUiIEnkEI" target="_blank" rel="noopener noreferrer">UFO file release March 2009</a></p><p class="youtube-embed-meta">Channel: The National Archives UK &middot; Views: 128.6K &middot; Uploaded: March 2009 &middot; Length: 3 minutes 56 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4_zUiIEnkEI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4_zUiIEnkEI">Open on YouTube</a></p></div></div></div>
 
@@ -565,7 +560,6 @@ They also show why witness confidence is not enough. Many entries include strong
 
 For readers studying IFOs, the UK files are therefore best understood as a cautionary archive. They preserve the public record of sightings, but they also demonstrate why a reporting hotline can produce a mountain of cases with little analytical weight. The dataset is rich in human perception, social context and recurring report patterns; it is weak in the calibrated evidence needed to eliminate ordinary causes.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948-Illustration-3-dark.svg" | relative_url }}" alt="UK Files illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The disclosure paradox
 
@@ -574,7 +568,6 @@ The MoD file releases were meant to provide transparency, yet they also fed the 
 That is the paradox of UFO archives. Releasing files can show that officials took reports, answered letters, briefed ministers and sometimes discussed unusual cases. To some readers, that looks like confirmation that something extraordinary was being concealed. To others, the same paperwork shows bureaucracy doing what bureaucracy does: logging correspondence, checking whether anything affects national security, and closing the file when no actionable threat appears.
 
 The UK material supports the second reading more strongly. It contains unusual reports, but the official reason for closure was not embarrassment, solved mystery or a final explanation of every case. It was the judgement that the system consumed defence resources while producing no evidence of extraterrestrial presence or military threat. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">National Archives</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/F0dMlej9QJg" title="UFO file release June 2013" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=F0dMlej9QJg" target="_blank" rel="noopener noreferrer">UFO file release June 2013</a></p><p class="youtube-embed-meta">Channel: The National Archives UK &middot; Views: 120.0K &middot; Uploaded: June 2013 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=F0dMlej9QJg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=F0dMlej9QJg">Open on YouTube</a></p></div></div></div>
 
@@ -703,15 +696,15 @@ Their clearest lesson is methodological. A UFO file is not automatically strong 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uk-files-what-the-uk-ufo-files-reveal-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="uk-files-what-the-uk-ufo-files-reveal-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-uk-ufo-files-reveal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-the-uk-ufo-files-reveal-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uk-files-what-the-uk-ufo-files-reveal-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="uk-files-what-the-uk-ufo-files-reveal-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-uk-ufo-files-reveal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-the-uk-ufo-files-reveal-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uk-files-what-the-uk-ufo-files-reveal-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="uk-files-what-the-uk-ufo-files-reveal-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-uk-ufo-files-reveal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-the-uk-ufo-files-reveal-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uk-files-what-the-uk-ufo-files-reveal-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="uk-files-what-the-uk-ufo-files-reveal-ifos-causes-of-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-uk-ufo-files-reveal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-the-uk-ufo-files-reveal-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -719,15 +712,15 @@ Their clearest lesson is methodological. A UFO file is not automatically strong 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uk-files-what-the-uk-ufo-files-reveal-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="uk-files-what-the-uk-ufo-files-reveal-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO 1982 Tour Programme Book With Poster"><img src="{{ '/assets/images/marketplace-covers/9c0ed3d28411d7c56755.jpg' | relative_url }}" alt="Listing image for UFO 1982 Tour Programme Book With Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-uk-ufo-files-reveal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-the-uk-ufo-files-reveal-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uk-files-what-the-uk-ufo-files-reveal-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="uk-files-what-the-uk-ufo-files-reveal-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO 1982 Tour Programme Book With Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-uk-ufo-files-reveal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-the-uk-ufo-files-reveal-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uk-files-what-the-uk-ufo-files-reveal-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="uk-files-what-the-uk-ufo-files-reveal-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-uk-ufo-files-reveal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-the-uk-ufo-files-reveal-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uk-files-what-the-uk-ufo-files-reveal-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="uk-files-what-the-uk-ufo-files-reveal-ifos-causes-of-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-uk-ufo-files-reveal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-the-uk-ufo-files-reveal-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -735,15 +728,15 @@ Their clearest lesson is methodological. A UFO file is not automatically strong 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uk-files-what-the-uk-ufo-files-reveal-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="uk-files-what-the-uk-ufo-files-reveal-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-uk-ufo-files-reveal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-the-uk-ufo-files-reveal-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uk-files-what-the-uk-ufo-files-reveal-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="uk-files-what-the-uk-ufo-files-reveal-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-uk-ufo-files-reveal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-the-uk-ufo-files-reveal-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uk-files-what-the-uk-ufo-files-reveal-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="uk-files-what-the-uk-ufo-files-reveal-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-uk-ufo-files-reveal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-the-uk-ufo-files-reveal-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uk-files-what-the-uk-ufo-files-reveal-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="uk-files-what-the-uk-ufo-files-reveal-ifos-causes-of-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-uk-ufo-files-reveal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-the-uk-ufo-files-reveal-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -751,15 +744,15 @@ Their clearest lesson is methodological. A UFO file is not automatically strong 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uk-files-what-the-uk-ufo-files-reveal-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="uk-files-what-the-uk-ufo-files-reveal-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Programme Michael Schenker Original Official Misdemeanor World Tour 1986"><img src="{{ '/assets/images/marketplace-covers/afd3d020d3403f6473d1.jpg' | relative_url }}" alt="Listing image for UFO Programme Michael Schenker Original Official Misdemeanor World Tour 1986" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-uk-ufo-files-reveal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-the-uk-ufo-files-reveal-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uk-files-what-the-uk-ufo-files-reveal-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="uk-files-what-the-uk-ufo-files-reveal-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Programme Michael Schenker Original Official Misdemeanor World Tour 1986</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-uk-ufo-files-reveal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-the-uk-ufo-files-reveal-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uk-files-what-the-uk-ufo-files-reveal-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="uk-files-what-the-uk-ufo-files-reveal-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-uk-ufo-files-reveal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-the-uk-ufo-files-reveal-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uk-files-what-the-uk-ufo-files-reveal-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="uk-files-what-the-uk-ufo-files-reveal-ifos-causes-of-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-uk-ufo-files-reveal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-the-uk-ufo-files-reveal-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -767,7 +760,7 @@ Their clearest lesson is methodological. A UFO file is not automatically strong 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uk-files-what-the-uk-ufo-files-reveal-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="uk-files-what-the-uk-ufo-files-reveal-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-uk-ufo-files-reveal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-the-uk-ufo-files-reveal-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -983,163 +976,163 @@ Their clearest lesson is methodological. A UFO file is not automatically strong 
 1. <a id="endnote-1"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives  
-   Link: [https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf](https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf)  
+   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
 2. <a id="endnote-2"></a>
    Source: questions-statements.parliament.uk  
-   Link: [https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/](https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/)  
+   Link: <a href="https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/" target="_blank" rel="noopener noreferrer nofollow">https://questions-statements.parliament.uk/written-questions/detail/2024-12-05/18321/</a>  
 
 3. <a id="endnote-3"></a>
    Source: nationalarchives.gov.uk  
    Title: ufo reports  
-   Link: [https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/](https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
 4. <a id="endnote-4"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo highlights guide 2013  
-   Link: [https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf](https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf)  
+   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
 
 5. <a id="endnote-5"></a>
    Source: GOV.UK  
    Title: ufo reports in the uk  
-   Link: [https://www.gov.uk/government/publications/ufo-reports-in-the-uk](https://www.gov.uk/government/publications/ufo-reports-in-the-uk)  
+   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
 6. <a id="endnote-6"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: [https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf](https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
 7. <a id="endnote-7"></a>
    Source: archive.org  
-   Link: [https://archive.org/details/condign-vol-2-1-258](https://archive.org/details/condign-vol-2-1-258)  
+   Link: <a href="https://archive.org/details/condign-vol-2-1-258" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/condign-vol-2-1-258</a>  
 
 8. <a id="endnote-8"></a>
    Source: wired.com  
    Title: It's Official: UFOs Are Just UAPs  
-   Link: [https://www.wired.com/2006/05/its-official-ufos-are-just-uaps](https://www.wired.com/2006/05/its-official-ufos-are-just-uaps)  
+   Link: <a href="https://www.wired.com/2006/05/its-official-ufos-are-just-uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/05/its-official-ufos-are-just-uaps</a>  
 
 9. <a id="endnote-9"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: [https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf](https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf)  
+   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
 
 10. <a id="endnote-10"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/](https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
 11. <a id="endnote-11"></a>
    Source: media.nationalarchives.gov.uk  
-   Link: [https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/](https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/)  
+   Link: <a href="https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/</a>  
 
 12. <a id="endnote-12"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: [https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf](https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf)  
+   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
 
 13. <a id="endnote-13"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: [https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf](https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf)  
+   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
 
 14. <a id="endnote-14"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: [https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf](https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf)  
+   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
 
 15. <a id="endnote-15"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: nationalarchives.gov.uk Annual Report  
-   Link: [https://cdn.nationalarchives.gov.uk/documents/annualreport-10-11.pdf](https://cdn.nationalarchives.gov.uk/documents/annualreport-10-11.pdf)  
+   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/annualreport-10-11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/annualreport-10-11.pdf</a>  
 
 16. <a id="endnote-16"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/rss/podcasts.xml](https://www.nationalarchives.gov.uk/rss/podcasts.xml)  
+   Link: <a href="https://www.nationalarchives.gov.uk/rss/podcasts.xml" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/rss/podcasts.xml</a>  
 
 17. <a id="endnote-17"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: [https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf](https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf)  
+   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
 18. <a id="endnote-18"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/396201-defe-24-2090-1/396201-defe-24-2090-1_djvu.txt](https://archive.org/stream/396201-defe-24-2090-1/396201-defe-24-2090-1_djvu.txt)  
+   Link: <a href="https://archive.org/stream/396201-defe-24-2090-1/396201-defe-24-2090-1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/396201-defe-24-2090-1/396201-defe-24-2090-1_djvu.txt</a>  
 
 19. <a id="endnote-19"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 1997  
-   Link: [https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf](https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
 
 20. <a id="endnote-20"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: [https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364](https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364)  
+   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
 
 21. <a id="endnote-21"></a>
    Source: archives.gov  
    Title: presidential libraries  
-   Link: [https://www.archives.gov/research/topics/uaps/presidential-libraries](https://www.archives.gov/research/topics/uaps/presidential-libraries)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/presidential-libraries" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/presidential-libraries</a>  
 
 22. <a id="endnote-22"></a>
    Source: hansard.parliament.uk  
    Title: uk Unidentified Flying Objects  
-   Link: [https://hansard.parliament.uk/lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects](https://hansard.parliament.uk/lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects)  
+   Link: <a href="https://hansard.parliament.uk/lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects</a>  
 
 23. <a id="endnote-23"></a>
    Source: ons.gov.uk  
-   Link: [https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena](https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena)  
+   Link: <a href="https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/witnessesofunidentifiedaerialphenomena</a>  
 
 24. <a id="endnote-24"></a>
    Source: Wikipedia  
    Title: Project Condign  
-   Link: [https://en.wikipedia.org/wiki/Project_Condign](https://en.wikipedia.org/wiki/Project_Condign)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Condign</a>  
 
 25. <a id="endnote-25"></a>
    Source: drdavidclarke.co.uk  
    Title: National Archives UFO Files  
-   Link: [https://drdavidclarke.co.uk/national-archives-ufo-files-7/](https://drdavidclarke.co.uk/national-archives-ufo-files-7/)  
+   Link: <a href="https://drdavidclarke.co.uk/national-archives-ufo-files-7/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/national-archives-ufo-files-7/</a>  
 
 26. <a id="endnote-26"></a>
    Source: ufotransparency.com  
    Title: Project Condign  
-   Link: [https://ufotransparency.com/files/intl-uk-project-condign-volume-1-uap-vol1-pgs56to71-ch3b](https://ufotransparency.com/files/intl-uk-project-condign-volume-1-uap-vol1-pgs56to71-ch3b)  
+   Link: <a href="https://ufotransparency.com/files/intl-uk-project-condign-volume-1-uap-vol1-pgs56to71-ch3b" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/intl-uk-project-condign-volume-1-uap-vol1-pgs56to71-ch3b</a>  
 
 ### Additional References
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=62tr8fZ-02Q](http://www.youtube.com/watch?v=62tr8fZ-02Q)  
+   Link: <a href="http://www.youtube.com/watch?v=62tr8fZ-02Q" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=62tr8fZ-02Q</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Ministry of Defence UFO files National Archives UFO file release August 2011 The National Archives UK...</p></details>
    Published: May 2008  
 
 28. <a id="endnote-28"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign](https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign)  
+   Link: <a href="https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/77211053/The_British_Mod_Study_Project_Condign</a>  
 
 29. <a id="endnote-29"></a>
    Source: hnn.us  
-   Link: [https://www.hnn.us/article/after-60-years-ministry-of-defense-department-that](https://www.hnn.us/article/after-60-years-ministry-of-defense-department-that)  
+   Link: <a href="https://www.hnn.us/article/after-60-years-ministry-of-defense-department-that" target="_blank" rel="noopener noreferrer nofollow">https://www.hnn.us/article/after-60-years-ministry-of-defense-department-that</a>  
 
 30. <a id="endnote-30"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1q3dler/the_uk_times_mod_ordered_officers_to_find_ufo/](https://www.reddit.com/r/UFOs/comments/1q3dler/the_uk_times_mod_ordered_officers_to_find_ufo/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1q3dler/the_uk_times_mod_ordered_officers_to_find_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1q3dler/the_uk_times_mod_ordered_officers_to_find_ufo/</a>  
 
 31. <a id="endnote-31"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/flashbak/posts/secrets-of-the-ufo-files-national-archive-finally-reveals-what-we-saw-in-the-ski/1101163165373111/](https://www.facebook.com/flashbak/posts/secrets-of-the-ufo-files-national-archive-finally-reveals-what-we-saw-in-the-ski/1101163165373111/)  
+   Link: <a href="https://www.facebook.com/flashbak/posts/secrets-of-the-ufo-files-national-archive-finally-reveals-what-we-saw-in-the-ski/1101163165373111/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/flashbak/posts/secrets-of-the-ufo-files-national-archive-finally-reveals-what-we-saw-in-the-ski/1101163165373111/</a>  
 
 32. <a id="endnote-32"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/doc/17686246/Unidentified-Aerial-Phenomena-UAP-in-the-UK-Air-Defence-Region](https://www.scribd.com/doc/17686246/Unidentified-Aerial-Phenomena-UAP-in-the-UK-Air-Defence-Region)  
+   Link: <a href="https://www.scribd.com/doc/17686246/Unidentified-Aerial-Phenomena-UAP-in-the-UK-Air-Defence-Region" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/17686246/Unidentified-Aerial-Phenomena-UAP-in-the-UK-Air-Defence-Region</a>  
 
 33. <a id="endnote-33"></a>
    Source: bahaistudies.net  
-   Link: [https://www.bahaistudies.net/asma/condign_report.pdf](https://www.bahaistudies.net/asma/condign_report.pdf)  
+   Link: <a href="https://www.bahaistudies.net/asma/condign_report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bahaistudies.net/asma/condign_report.pdf</a>  
 
 34. <a id="endnote-34"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/RazorGoalsQH/posts/declassified-uk-files-reveal-mysterious-ufo-sightings-investigated-by-defence-of/1372559461585032/](https://www.facebook.com/RazorGoalsQH/posts/declassified-uk-files-reveal-mysterious-ufo-sightings-investigated-by-defence-of/1372559461585032/)  
+   Link: <a href="https://www.facebook.com/RazorGoalsQH/posts/declassified-uk-files-reveal-mysterious-ufo-sightings-investigated-by-defence-of/1372559461585032/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RazorGoalsQH/posts/declassified-uk-files-reveal-mysterious-ufo-sightings-investigated-by-defence-of/1372559461585032/</a>  
 
 35. <a id="endnote-35"></a>
    Source: curiousarchive.com  
    Title: the history of the british governments ufo files and how you can access them  
-   Link: [https://www.curiousarchive.com/the-history-of-the-british-governments-ufo-files-and-how-you-can-access-them/](https://www.curiousarchive.com/the-history-of-the-british-governments-ufo-files-and-how-you-can-access-them/)  
+   Link: <a href="https://www.curiousarchive.com/the-history-of-the-british-governments-ufo-files-and-how-you-can-access-them/" target="_blank" rel="noopener noreferrer nofollow">https://www.curiousarchive.com/the-history-of-the-british-governments-ufo-files-and-how-you-can-access-them/</a>  
 
 36. <a id="endnote-36"></a>
    Source: csmonitor.com  
    Title: UFO Britain releases documents explaining closure of military UFO desk  
-   Link: [https://www.csmonitor.com/Science/2013/0621/UFO-Britain-releases-documents-explaining-closure-of-military-UFO-desk](https://www.csmonitor.com/Science/2013/0621/UFO-Britain-releases-documents-explaining-closure-of-military-UFO-desk)  
+   Link: <a href="https://www.csmonitor.com/Science/2013/0621/UFO-Britain-releases-documents-explaining-closure-of-military-UFO-desk" target="_blank" rel="noopener noreferrer nofollow">https://www.csmonitor.com/Science/2013/0621/UFO-Britain-releases-documents-explaining-closure-of-military-UFO-desk</a>

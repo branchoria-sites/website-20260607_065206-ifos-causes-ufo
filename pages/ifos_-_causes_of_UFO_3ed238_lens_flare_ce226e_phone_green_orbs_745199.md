@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_night_phone_video_ar_b34cfa
 - ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_uap_data_gaps_flare_10067f
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - lens-flare
 - green-orbs
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - lens-flare
 - green-orbs
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Green orbs near the Sun or bright lamps often move like internal reflections, not objects in the sky.
 hero_summary: Green orbs near the Sun or bright lamps often move like internal reflections, not objects in the sky.
 layout: default
 permalink: /green-orbs/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /lens-flare/
 nav_short_title: Green orbs
 title: Why phone photos make green UFO orbs
-title_full: Why phone photos make green UFO orbs | Lens Flare
+title_full: Why phone photos make green UFO orbs
 display_title_short: Green orbs
 display_title: Green orbs
 heading_title: Why phone photos make green UFO orbs
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 15:29:50'
-parent_title: When Cameras Invent Extra Lights | IFOs
+parent_title: When Cameras Invent Extra Lights
 parent_permalink: /lens-flare/
 parent_nav_short_title: Lens Flare
 parent_heading_title: When Cameras Invent Extra Lights
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e
-  title: Lens Flare | Ifos Causes Of
+  title: Lens Flare | ifos causes of UFO 3 ed 238
   permalink: /lens-flare/
   short_title: Lens Flare
   heading_title: When Cameras Invent Extra Lights
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e
-  title: Lens Flare | Ifos Causes Of
+  title: Lens Flare | ifos causes of UFO 3 ed 238
   permalink: /lens-flare/
   short_title: Lens Flare
   heading_title: When Cameras Invent Extra Lights
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: Why night UFO videos fool the eye
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e
-  title: Lens Flare | Ifos Causes Of
+  title: Lens Flare | ifos causes of UFO 3 ed 238
   permalink: /lens-flare/
   short_title: Lens Flare
   heading_title: When Cameras Invent Extra Lights
@@ -266,6 +265,7 @@ next_link:
   permalink: /motion-tests/
   short_title: Motion tests
   heading_title: The camera moves that expose lens flare
+date: '2026-06-12 00:15:10 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_phone_green_orbs_745199-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_phone_green_orbs_745199-Illustration-1.webp
@@ -276,13 +276,12 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_phone_green_
 
 Many photographs promoted as showing green UFO “orbs” are actually displaying a well-understood camera artefact. When a phone camera is pointed towards the Sun, a bright streetlight, a vehicle headlamp, or another intense light source, some of that light can reflect internally between lens elements, protective cover glass and the image sensor. The result is a coloured ghost image that often appears as a green dot, disc or orb somewhere else in the frame. In UFO reports, these ghosts can seem especially convincing because they appear as isolated luminous objects against a dark sky. However, their position, colour and movement usually follow the geometry of the camera rather than the behaviour of an object in the [atmosphere]({{ 'atmosphere/' | relative_url }}). Modern smartphone optics are particularly prone to this effect because they pack multiple lens elements and highly reflective sensor structures into a very small space. <span class="citation-chip-wrap"><a class="citation-chip" href="https://optics.ansys.com/hc/en-us/articles/9273272641555-Stray-Light-Analysis-Smartphone-Camera" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: optics.ansys.com">[Ansys Optics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">optics.ansys.com</span><span class="citation-popover-snippet">Ansys OpticsStray Light Analysis – Smartphone CameraWithin the camera&#x27;s FOV, most light sources can undergo multiple reflections at optic...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.keysight.com/blogs/en/tech/sim-des/a-detailed-workflow-to-analyze-stray-light-in-smartphone-cameras-using-code-v-and-lighttools" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: keysight.com">[Keysight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">keysight.com</span><span class="citation-popover-snippet">Keysight United StatesStray Light in Smartphones with CODE V, LightTools14 Jun 2023 — In a smartphone camera system, the detector can be...</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_phone_green_orbs_745199-Illustration-1-dark.svg" | relative_url }}" alt="Green orbs illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_phone_green_orbs_745199-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_phone_green_orbs_745199-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How sensor reflections create opposite-side ghosts
 
 A smartphone camera is not simply a hole looking at the world. Light passes through several optical elements before reaching the sensor. Some of that light can bounce back from the sensor surface, reflect from lens elements, and then return to the sensor along an unintended path. Optical engineers classify these unwanted secondary images as ghost [reflections]({{ 'reflections/' | relative_url }}). Keysight United States <span class="citation-chip-wrap"><a class="citation-chip" href="https://optics.ansys.com/hc/en-us/articles/9273272641555-Stray-Light-Analysis-Smartphone-Camera" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: optics.ansys.com">[Ansys Optics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">optics.ansys.com</span><span class="citation-popover-snippet">Ansys OpticsStray Light Analysis – Smartphone CameraWithin the camera&#x27;s FOV, most light sources can undergo multiple reflections at optic...</span></span></span>
 
-This geometry creates one of the strongest clues that a supposed UFO is actually an optical artefact: the ghost often appears roughly opposite the bright source relative to the centre of the image. Researchers working on smartphone flare removal describe reflective flare patterns as having a symmetry relationship around the optical centre of the camera, a property that can be used to identify and remove them computationally. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2303.15046" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivNighttime Smartphone Reflective Flare Removal Using Optical Center Symmetry PriorMarch 27, 2023...</span><span class="citation-popover-meta">Published: March 27, 2023</span></span></span>
+This geometry creates one of the strongest clues that a supposed UFO is actually an optical artefact: the ghost often appears roughly opposite the bright source relative to the centre of the image. Researchers working on smartphone flare removal describe reflective flare patterns as having a symmetry relationship around the optical centre of the camera, a property that can be used to identify and remove them computationally. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2303.15046" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Nighttime Smartphone Reflective Flare Removal Using Optical Center Symmetry PriorMarch 27, 2023...</span><span class="citation-popover-meta">Published: March 27, 2023</span></span></span>
 
 The green colour is not mysterious. It commonly arises from the coatings, sensor structure and optical materials involved in the reflection path. Users frequently report green dots when photographing the Sun, bright lamps or illuminated signs, and camera specialists identify these as [lens flare]({{ 'lens-flare/' | relative_url }}) or ghost reflections rather than external objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/iPhoneography/comments/1nmqwng/can_someone_please_tell_me_whats_that_green_dot/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Can someone please tell me what&#x27;s that green dot there</span><span class="citation-popover-snippet">21, 2025 — It&#x27;s a sun glare, which is caused by light scattering and reflecting inside the lens elements when a strong lig...</span><span class="citation-popover-meta">Published: September 21, 2025</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Ghosts/comments/m73k03/green_orb_showing_up_in_different_locations_when/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">reen dot will be slap bang in the middle of the bright light.Read more...</span></span></span>
 
@@ -292,8 +291,7 @@ Several features make these artefacts easy to mistake for UFOs:
 * They may seem detached from the light source that created them.
 * They can change size as the camera angle changes.
 * They may remain visible even when the actual light source is partly outside the frame.
-* They often have a vivid green or blue-green colour that stands out from the surrounding scene. <span class="citation-chip-wrap"><a class="citation-chip" href="https://inmysacredspace.com/your-definitive-guide-to-debunking-orbs-lens-flares/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inmysacredspace.com">[Ash Riley]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inmysacredspace.com</span><span class="citation-popover-title">Lens flares are a common phenomena and are often mistaken as orbs in photos</span><span class="citation-popover-snippet">Ash Riley | In My Sacred SpaceYour Definitive Guide to Debunking Orbs: Lens FlaresNovember 7, 2015 — In this guide to debunking orbs, lea...</span><span class="citation-popover-meta">Published: November 7, 2015</span></span></span> | In My Sacred Space <span class="citation-chip-wrap"><a class="citation-chip" href="https://zentalk.asus.com/t5/zenfone-9/green-halo-when-taking-photos/td-p/167161" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zentalk.asus.com">[ZenTalk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zentalk.asus.com</span><span class="citation-popover-snippet">ZenTalkGreen halo when taking photos11 Aug 2022 — A green half circle/halo appears at the bottom in both the viewfinder and photos. It&#x27;s...</span></span></span>
-
+* They often have a vivid green or blue-green colour that stands out from the surrounding scene. <span class="citation-chip-wrap"><a class="citation-chip" href="https://inmysacredspace.com/your-definitive-guide-to-debunking-orbs-lens-flares/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inmysacredspace.com">[Ash Riley]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inmysacredspace.com</span><span class="citation-popover-title">Lens flares are a common phenomena and are often mistaken as orbs in photos</span><span class="citation-popover-snippet">Ash Riley &#124; In My Sacred SpaceYour Definitive Guide to Debunking Orbs: Lens FlaresNovember 7, 2015 — In this guide to debunking orbs, lea...</span><span class="citation-popover-meta">Published: November 7, 2015</span></span></span> | In My Sacred Space <span class="citation-chip-wrap"><a class="citation-chip" href="https://zentalk.asus.com/t5/zenfone-9/green-halo-when-taking-photos/td-p/167161" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zentalk.asus.com">[ZenTalk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zentalk.asus.com</span><span class="citation-popover-snippet">Green halo when taking photos11 Aug 2022 — A green half circle/halo appears at the bottom in both the viewfinder and photos. It&#x27;s...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qJXXZMoeoeE" title="iPhone Camera Flare Issue - Why Hasn&#x27;t Apple Fixed This? (Green Orbs in Photos)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qJXXZMoeoeE" target="_blank" rel="noopener noreferrer">iPhone Camera Flare Issue - Why Hasn&#x27;t Apple Fixed This? (Green Orbs in Photos)</a></p><p class="youtube-embed-meta">Channel: Patrick Tomasso &middot; Views: 74.7K &middot; Uploaded: September 2021 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qJXXZMoeoeE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qJXXZMoeoeE">Open on YouTube</a></p></div></div></div>
 
@@ -310,23 +308,22 @@ For UFO photography, the most common trigger conditions are:
 * Vehicle headlights.
 * Illuminated signs.
 * Aircraft [landing lights]({{ 'landing-lights/' | relative_url }}).
-* High-contrast scenes where most of the frame is dark. <span class="citation-chip-wrap"><a class="citation-chip" href="https://optics.ansys.com/hc/en-us/articles/9273272641555-Stray-Light-Analysis-Smartphone-Camera" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: optics.ansys.com">[Ansys Optics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">optics.ansys.com</span><span class="citation-popover-snippet">Ansys OpticsStray Light Analysis – Smartphone CameraWithin the camera&#x27;s FOV, most light sources can undergo multiple reflections at optic...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://inmysacredspace.com/your-definitive-guide-to-debunking-orbs-lens-flares/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inmysacredspace.com">[2Ash Riley | In My Sacred Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inmysacredspace.com</span><span class="citation-popover-title">Lens flares are a common phenomena and are often mistaken as orbs in photos</span><span class="citation-popover-snippet">Ash Riley | In My Sacred SpaceYour Definitive Guide to Debunking Orbs: Lens FlaresNovember 7, 2015 — In this guide to debunking orbs, lea...</span><span class="citation-popover-meta">Published: November 7, 2015</span></span></span>
+* High-contrast scenes where most of the frame is dark. <span class="citation-chip-wrap"><a class="citation-chip" href="https://optics.ansys.com/hc/en-us/articles/9273272641555-Stray-Light-Analysis-Smartphone-Camera" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: optics.ansys.com">[Ansys Optics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">optics.ansys.com</span><span class="citation-popover-snippet">Ansys OpticsStray Light Analysis – Smartphone CameraWithin the camera&#x27;s FOV, most light sources can undergo multiple reflections at optic...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://inmysacredspace.com/your-definitive-guide-to-debunking-orbs-lens-flares/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inmysacredspace.com">[2Ash Riley &#124; In My Sacred Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inmysacredspace.com</span><span class="citation-popover-title">Lens flares are a common phenomena and are often mistaken as orbs in photos</span><span class="citation-popover-snippet">Ash Riley &#124; In My Sacred SpaceYour Definitive Guide to Debunking Orbs: Lens FlaresNovember 7, 2015 — In this guide to debunking orbs, lea...</span><span class="citation-popover-meta">Published: November 7, 2015</span></span></span>
 
 Under these conditions, a small ghost reflection can look far more prominent than it would in a brighter scene.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_phone_green_orbs_745199-Illustration-2-dark.svg" | relative_url }}" alt="Green orbs illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_phone_green_orbs_745199-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_phone_green_orbs_745199-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Simple reproduction tests with bright lights
 
 One reason investigators are often confident that a green orb is a camera artefact is that the effect is easy to reproduce.
 
-A straightforward daytime test is to photograph the Sun with a phone while slowly changing the camera angle. The green orb will typically shift position as the camera moves, often maintaining a relationship to the Sun's location in the frame rather than to the landscape. Demonstrations of this effect show the orb moving opposite the Sun as the phone is tilted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/green-orb-dresden-how-to-demonstrate-an-orb-is-lens-flare.13732/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">green orb dresden how to demonstrate an orb is lens flare.13732</span><span class="citation-popover-snippet">MetabunkHow to Demonstrate an &quot;Orb&quot; is Lens Flare2 Nov 2024 — Just go out with your friend on a sunny day, and move the camera around wit...</span></span></span>
+A straightforward daytime test is to photograph the Sun with a phone while slowly changing the camera angle. The green orb will typically shift position as the camera moves, often maintaining a relationship to the Sun's location in the frame rather than to the landscape. Demonstrations of this effect show the orb moving opposite the Sun as the phone is tilted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/green-orb-dresden-how-to-demonstrate-an-orb-is-lens-flare.13732/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">green orb dresden how to demonstrate an orb is lens flare.13732</span><span class="citation-popover-snippet">How to Demonstrate an &quot;Orb&quot; is Lens Flare2 Nov 2024 — Just go out with your friend on a sunny day, and move the camera around wit...</span></span></span>
 
 Other useful tests include:
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ansys.com/blog/exploring-facets-of-stray-light-simulation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ansys.com">[**Cover the light source.**]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ansys.com</span><span class="citation-popover-title">exploring facets of stray light simulation</span><span class="citation-popover-snippet">Exploring the Facets of Stray Light with Simulation9 Jan 2024 — Ghosts are reflections that appear as bright spots in an image when light...</span></span></span>
+**Cover the light source.** <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ansys.com/blog/exploring-facets-of-stray-light-simulation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ansys.com">[ansys.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ansys.com</span><span class="citation-popover-title">exploring facets of stray light simulation</span><span class="citation-popover-snippet">Exploring the Facets of Stray Light with Simulation9 Jan 2024 — Ghosts are reflections that appear as bright spots in an image when light...</span></span></span>
 
-Place a hand or object so that it blocks the Sun or bright lamp while keeping the rest of the scene visible. If the orb disappears when the light source is hidden, that strongly indicates flare rather than a separate object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/green-orb-dresden-how-to-demonstrate-an-orb-is-lens-flare.13732/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">green orb dresden how to demonstrate an orb is lens flare.13732</span><span class="citation-popover-snippet">MetabunkHow to Demonstrate an &quot;Orb&quot; is Lens Flare2 Nov 2024 — Just go out with your friend on a sunny day, and move the camera around wit...</span></span></span>
+Place a hand or object so that it blocks the Sun or bright lamp while keeping the rest of the scene visible. If the orb disappears when the light source is hidden, that strongly indicates flare rather than a separate object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/green-orb-dresden-how-to-demonstrate-an-orb-is-lens-flare.13732/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">green orb dresden how to demonstrate an orb is lens flare.13732</span><span class="citation-popover-snippet">How to Demonstrate an &quot;Orb&quot; is Lens Flare2 Nov 2024 — Just go out with your friend on a sunny day, and move the camera around wit...</span></span></span>
 
 **Change the framing.**
 
@@ -334,20 +331,15 @@ Move the bright source from the centre towards the edge of the image. Ghost refl
 
 **Take multiple photographs.**
 
-A genuine object in the sky should maintain a position relative to the scene. A flare often shifts dramatically with small changes in camera angle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://inmysacredspace.com/your-definitive-guide-to-debunking-orbs-lens-flares/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inmysacredspace.com">[Ash Riley]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inmysacredspace.com</span><span class="citation-popover-title">Lens flares are a common phenomena and are often mistaken as orbs in photos</span><span class="citation-popover-snippet">Ash Riley | In My Sacred SpaceYour Definitive Guide to Debunking Orbs: Lens FlaresNovember 7, 2015 — In this guide to debunking orbs, lea...</span><span class="citation-popover-meta">Published: November 7, 2015</span></span></span> | In My Sacred Space
+A genuine object in the sky should maintain a position relative to the scene. A flare often shifts dramatically with small changes in camera angle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://inmysacredspace.com/your-definitive-guide-to-debunking-orbs-lens-flares/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inmysacredspace.com">[Ash Riley]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inmysacredspace.com</span><span class="citation-popover-title">Lens flares are a common phenomena and are often mistaken as orbs in photos</span><span class="citation-popover-snippet">Ash Riley &#124; In My Sacred SpaceYour Definitive Guide to Debunking Orbs: Lens FlaresNovember 7, 2015 — In this guide to debunking orbs, lea...</span><span class="citation-popover-meta">Published: November 7, 2015</span></span></span> | In My Sacred Space
 
 **Photograph a streetlight at night.**
 
-Many phones will generate green dots, halos or duplicated lights that resemble the same “orb” patterns later reported as anomalies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://zentalk.asus.com/t5/zenfone-9/green-halo-when-taking-photos/td-p/167161" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zentalk.asus.com">[ZenTalk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zentalk.asus.com</span><span class="citation-popover-snippet">ZenTalkGreen halo when taking photos11 Aug 2022 — A green half circle/halo appears at the bottom in both the viewfinder and photos. It&#x27;s...</span></span></span>
+Many phones will generate green dots, halos or duplicated lights that resemble the same “orb” patterns later reported as anomalies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://zentalk.asus.com/t5/zenfone-9/green-halo-when-taking-photos/td-p/167161" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zentalk.asus.com">[ZenTalk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zentalk.asus.com</span><span class="citation-popover-snippet">Green halo when taking photos11 Aug 2022 — A green half circle/halo appears at the bottom in both the viewfinder and photos. It&#x27;s...</span></span></span>
 
 The ability to recreate the effect repeatedly under controlled conditions is one of the strongest arguments against interpreting these green orbs as unknown aerial objects.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Sl2UTzxmN4Y" title="They Threw Him Into the Sea… But Boy Evolved a Broken Ship into the Ultimate Super Battleship!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Sl2UTzxmN4Y" target="_blank" rel="noopener noreferrer">They Threw Him Into the Sea… But Boy Evolved a Broken Ship into the Ultimate Super Battleship!</a></p><p class="youtube-embed-meta">Channel: Mania Comics Legends</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Sl2UTzxmN4Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Sl2UTzxmN4Y">Open on YouTube</a></p></div></div></div>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XuKenlhD504" title="Camera Lens Flare and Ghosting: What You Need to Know for Better Photography | Round Glass Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XuKenlhD504" target="_blank" rel="noopener noreferrer">Camera Lens Flare and Ghosting: What You Need to Know for Better Photography | Round Glass Review</a></p><p class="youtube-embed-meta">Channel: David Hancock &middot; Views: 7.1K &middot; Uploaded: May 2023 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XuKenlhD504" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XuKenlhD504">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_phone_green_orbs_745199-Illustration-3-dark.svg" | relative_url }}" alt="Green orbs illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_phone_green_orbs_745199-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_phone_green_orbs_745199-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When a green orb claim needs more evidence
 
 A green orb in a phone photograph is not automatically explained in every case, but it begins with a strong presumption of being an optical artefact because the mechanism is common, predictable and easily reproduced. The burden of evidence therefore shifts to showing why a particular image does not fit the expected behaviour of sensor reflections and lens ghosts.
@@ -358,12 +350,11 @@ Claims deserve closer examination when:
 * It appears simultaneously in images from different cameras at different locations.
 * Its position remains fixed relative to the environment despite substantial camera movement.
 * It is supported by video, [radar]({{ 'radar/' | relative_url }}), astronomical observations or other independent measurements.
-* The geometry does not match the expected opposite-side or symmetry patterns typical of flare. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2303.15046" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivNighttime Smartphone Reflective Flare Removal Using Optical Center Symmetry PriorMarch 27, 2023...</span><span class="citation-popover-meta">Published: March 27, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://optics.ansys.com/hc/en-us/articles/9273272641555-Stray-Light-Analysis-Smartphone-Camera" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: optics.ansys.com">[Ansys Optics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">optics.ansys.com</span><span class="citation-popover-snippet">Ansys OpticsStray Light Analysis – Smartphone CameraWithin the camera&#x27;s FOV, most light sources can undergo multiple reflections at optic...</span></span></span>
+* The geometry does not match the expected opposite-side or symmetry patterns typical of flare. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2303.15046" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Nighttime Smartphone Reflective Flare Removal Using Optical Center Symmetry PriorMarch 27, 2023...</span><span class="citation-popover-meta">Published: March 27, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://optics.ansys.com/hc/en-us/articles/9273272641555-Stray-Light-Analysis-Smartphone-Camera" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: optics.ansys.com">[Ansys Optics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">optics.ansys.com</span><span class="citation-popover-snippet">Ansys OpticsStray Light Analysis – Smartphone CameraWithin the camera&#x27;s FOV, most light sources can undergo multiple reflections at optic...</span></span></span>
 
 In the absence of such evidence, a lone green orb in a phone image is usually best treated as a camera-generated ghost. Within the broader category of lens flare and optical artefacts, these sensor-reflection orbs are among the most common sources of UFO photographs that appear mysterious at first glance but arise from ordinary imaging physics. Keysight United States <span class="citation-chip-wrap"><a class="citation-chip" href="https://optics.ansys.com/hc/en-us/articles/9273272641555-Stray-Light-Analysis-Smartphone-Camera" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: optics.ansys.com">[Ansys Optics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">optics.ansys.com</span><span class="citation-popover-snippet">Ansys OpticsStray Light Analysis – Smartphone CameraWithin the camera&#x27;s FOV, most light sources can undergo multiple reflections at optic...</span></span></span>
 
-
-<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_phone_green_orbs_745199-Illustration-3-dark.svg" | relative_url }}" alt="Green orbs illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_phone_green_orbs_745199-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e_phone_green_orbs_745199-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XuKenlhD504" title="Camera Lens Flare and Ghosting: What You Need to Know for Better Photography | Round Glass Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XuKenlhD504" target="_blank" rel="noopener noreferrer">Camera Lens Flare and Ghosting: What You Need to Know for Better Photography | Round Glass Review</a></p><p class="youtube-embed-meta">Channel: David Hancock &middot; Views: 7.1K &middot; Uploaded: May 2023 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XuKenlhD504" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XuKenlhD504">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -482,15 +473,15 @@ In the absence of such evidence, a lone green orb in a phone image is usually be
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=green-orbs-why-phone-photos-make-green-ufo-orbs-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="green-orbs-why-phone-photos-make-green-ufo-orbs-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-phone-photos-make-green-ufo-orbs-phone-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lens" data-ebay-reference="why-phone-photos-make-green-ufo-orbs-phone-lens" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nano Zoom 200x Clip-On Lens for Android iPhone Phone Magnification Microscope UK"><img src="https://i.ebayimg.com/images/g/5AQAAeSwAYxpr8Gp/s-l225.jpg" alt="Listing image for Nano Zoom 200x Clip-On Lens for Android iPhone Phone Magnification Microscope UK" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=green-orbs-why-phone-photos-make-green-ufo-orbs-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="green-orbs-why-phone-photos-make-green-ufo-orbs-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-phone-photos-make-green-ufo-orbs-phone-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lens" data-ebay-reference="why-phone-photos-make-green-ufo-orbs-phone-lens" target="_blank" rel="sponsored noopener noreferrer">Nano Zoom 200x Clip-On Lens for Android iPhone Phone Magnification Microscope UK</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=green-orbs-why-phone-photos-make-green-ufo-orbs-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="green-orbs-why-phone-photos-make-green-ufo-orbs-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-phone-photos-make-green-ufo-orbs-phone-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lens" data-ebay-reference="why-phone-photos-make-green-ufo-orbs-phone-lens" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone lens">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone lens</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=green-orbs-why-phone-photos-make-green-ufo-orbs-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="green-orbs-why-phone-photos-make-green-ufo-orbs-ifos-causes-of-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-phone-photos-make-green-ufo-orbs-phone-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lens" data-ebay-reference="why-phone-photos-make-green-ufo-orbs-phone-lens" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -498,15 +489,15 @@ In the absence of such evidence, a lone green orb in a phone image is usually be
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=green-orbs-why-phone-photos-make-green-ufo-orbs-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="green-orbs-why-phone-photos-make-green-ufo-orbs-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-phone-photos-make-green-ufo-orbs-phone-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lens" data-ebay-reference="why-phone-photos-make-green-ufo-orbs-phone-lens" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Durable 20X Zoom Universal Clip On Telephoto Lens External Mobile Phone Camera"><img src="https://i.ebayimg.com/images/g/-q8AAeSwTf1pju3f/s-l225.jpg" alt="Listing image for Durable 20X Zoom Universal Clip On Telephoto Lens External Mobile Phone Camera" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=green-orbs-why-phone-photos-make-green-ufo-orbs-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="green-orbs-why-phone-photos-make-green-ufo-orbs-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-phone-photos-make-green-ufo-orbs-phone-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lens" data-ebay-reference="why-phone-photos-make-green-ufo-orbs-phone-lens" target="_blank" rel="sponsored noopener noreferrer">Durable 20X Zoom Universal Clip On Telephoto Lens External Mobile Phone Camera</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=green-orbs-why-phone-photos-make-green-ufo-orbs-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="green-orbs-why-phone-photos-make-green-ufo-orbs-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-phone-photos-make-green-ufo-orbs-phone-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lens" data-ebay-reference="why-phone-photos-make-green-ufo-orbs-phone-lens" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone lens">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone lens</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=green-orbs-why-phone-photos-make-green-ufo-orbs-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="green-orbs-why-phone-photos-make-green-ufo-orbs-ifos-causes-of-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-phone-photos-make-green-ufo-orbs-phone-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lens" data-ebay-reference="why-phone-photos-make-green-ufo-orbs-phone-lens" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -514,15 +505,15 @@ In the absence of such evidence, a lone green orb in a phone image is usually be
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=green-orbs-why-phone-photos-make-green-ufo-orbs-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="green-orbs-why-phone-photos-make-green-ufo-orbs-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-phone-photos-make-green-ufo-orbs-phone-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lens" data-ebay-reference="why-phone-photos-make-green-ufo-orbs-phone-lens" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 20X ZoomTelephoto Lens Clip External Mobile Phone Camera For iPhone Samsung Lens"><img src="https://i.ebayimg.com/images/g/M9MAAeSwAKZp~HWq/s-l225.jpg" alt="Listing image for 20X ZoomTelephoto Lens Clip External Mobile Phone Camera For iPhone Samsung Lens" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=green-orbs-why-phone-photos-make-green-ufo-orbs-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="green-orbs-why-phone-photos-make-green-ufo-orbs-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-phone-photos-make-green-ufo-orbs-phone-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lens" data-ebay-reference="why-phone-photos-make-green-ufo-orbs-phone-lens" target="_blank" rel="sponsored noopener noreferrer">20X ZoomTelephoto Lens Clip External Mobile Phone Camera For iPhone Samsung Lens</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=green-orbs-why-phone-photos-make-green-ufo-orbs-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="green-orbs-why-phone-photos-make-green-ufo-orbs-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-phone-photos-make-green-ufo-orbs-phone-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lens" data-ebay-reference="why-phone-photos-make-green-ufo-orbs-phone-lens" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone lens">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone lens</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=green-orbs-why-phone-photos-make-green-ufo-orbs-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="green-orbs-why-phone-photos-make-green-ufo-orbs-ifos-causes-of-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-phone-photos-make-green-ufo-orbs-phone-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lens" data-ebay-reference="why-phone-photos-make-green-ufo-orbs-phone-lens" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -530,15 +521,15 @@ In the absence of such evidence, a lone green orb in a phone image is usually be
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=green-orbs-why-phone-photos-make-green-ufo-orbs-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="green-orbs-why-phone-photos-make-green-ufo-orbs-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-phone-photos-make-green-ufo-orbs-phone-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lens" data-ebay-reference="why-phone-photos-make-green-ufo-orbs-phone-lens" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Smart Phone Periscope Type Lens Protable Mobile Phone Accessories Camera Lens e"><img src="https://i.ebayimg.com/images/g/9YcAAeSwEYZqGAVJ/s-l225.jpg" alt="Listing image for Smart Phone Periscope Type Lens Protable Mobile Phone Accessories Camera Lens e" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=green-orbs-why-phone-photos-make-green-ufo-orbs-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="green-orbs-why-phone-photos-make-green-ufo-orbs-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-phone-photos-make-green-ufo-orbs-phone-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lens" data-ebay-reference="why-phone-photos-make-green-ufo-orbs-phone-lens" target="_blank" rel="sponsored noopener noreferrer">Smart Phone Periscope Type Lens Protable Mobile Phone Accessories Camera Lens e</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=green-orbs-why-phone-photos-make-green-ufo-orbs-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="green-orbs-why-phone-photos-make-green-ufo-orbs-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-phone-photos-make-green-ufo-orbs-phone-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lens" data-ebay-reference="why-phone-photos-make-green-ufo-orbs-phone-lens" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone lens">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone lens</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=green-orbs-why-phone-photos-make-green-ufo-orbs-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="green-orbs-why-phone-photos-make-green-ufo-orbs-ifos-causes-of-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-phone-photos-make-green-ufo-orbs-phone-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lens" data-ebay-reference="why-phone-photos-make-green-ufo-orbs-phone-lens" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -546,7 +537,7 @@ In the absence of such evidence, a lone green orb in a phone image is usually be
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=green-orbs-why-phone-photos-make-green-ufo-orbs-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="green-orbs-why-phone-photos-make-green-ufo-orbs-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-phone-photos-make-green-ufo-orbs-phone-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lens" data-ebay-reference="why-phone-photos-make-green-ufo-orbs-phone-lens" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -761,125 +752,125 @@ In the absence of such evidence, a lone green orb in a phone image is usually be
 
 1. <a id="endnote-1"></a>
    Source: optics.ansys.com  
-   Link: [https://optics.ansys.com/hc/en-us/articles/9273272641555-Stray-Light-Analysis-Smartphone-Camera](https://optics.ansys.com/hc/en-us/articles/9273272641555-Stray-Light-Analysis-Smartphone-Camera)  
+   Link: <a href="https://optics.ansys.com/hc/en-us/articles/9273272641555-Stray-Light-Analysis-Smartphone-Camera" target="_blank" rel="noopener noreferrer nofollow">https://optics.ansys.com/hc/en-us/articles/9273272641555-Stray-Light-Analysis-Smartphone-Camera</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ansys OpticsStray Light Analysis – Smartphone CameraWithin the camera&#x27;s FOV, most light sources can undergo multiple reflections at optic...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: keysight.com  
-   Link: [https://www.keysight.com/blogs/en/tech/sim-des/a-detailed-workflow-to-analyze-stray-light-in-smartphone-cameras-using-code-v-and-lighttools](https://www.keysight.com/blogs/en/tech/sim-des/a-detailed-workflow-to-analyze-stray-light-in-smartphone-cameras-using-code-v-and-lighttools)  
+   Link: <a href="https://www.keysight.com/blogs/en/tech/sim-des/a-detailed-workflow-to-analyze-stray-light-in-smartphone-cameras-using-code-v-and-lighttools" target="_blank" rel="noopener noreferrer nofollow">https://www.keysight.com/blogs/en/tech/sim-des/a-detailed-workflow-to-analyze-stray-light-in-smartphone-cameras-using-code-v-and-lighttools</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Keysight United StatesStray Light in Smartphones with CODE V, LightTools14 Jun 2023 — In a smartphone camera system, the detector can be...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: ansys.com  
    Title: exploring facets of stray light simulation  
-   Link: [https://www.ansys.com/blog/exploring-facets-of-stray-light-simulation](https://www.ansys.com/blog/exploring-facets-of-stray-light-simulation)  
+   Link: <a href="https://www.ansys.com/blog/exploring-facets-of-stray-light-simulation" target="_blank" rel="noopener noreferrer nofollow">https://www.ansys.com/blog/exploring-facets-of-stray-light-simulation</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring the Facets of Stray Light with Simulation9 Jan 2024 — Ghosts are reflections that appear as bright spots in an image when light...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2303.15046](https://arxiv.org/abs/2303.15046)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivNighttime Smartphone Reflective Flare Removal Using Optical Center Symmetry PriorMarch 27, 2023...</p></details>
+   Link: <a href="https://arxiv.org/abs/2303.15046" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2303.15046</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nighttime Smartphone Reflective Flare Removal Using Optical Center Symmetry PriorMarch 27, 2023...</p></details>
    Published: March 27, 2023  
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
    Title: Can someone please tell me what's that green dot there  
-   Link: [https://www.reddit.com/r/iPhoneography/comments/1nmqwng/can_someone_please_tell_me_whats_that_green_dot/](https://www.reddit.com/r/iPhoneography/comments/1nmqwng/can_someone_please_tell_me_whats_that_green_dot/)  
+   Link: <a href="https://www.reddit.com/r/iPhoneography/comments/1nmqwng/can_someone_please_tell_me_whats_that_green_dot/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/iPhoneography/comments/1nmqwng/can_someone_please_tell_me_whats_that_green_dot/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>21, 2025 — It&#x27;s a sun glare, which is caused by light scattering and reflecting inside the lens elements when a strong lig...</p></details>
    Published: September 21, 2025  
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Ghosts/comments/m73k03/green_orb_showing_up_in_different_locations_when/](https://www.reddit.com/r/Ghosts/comments/m73k03/green_orb_showing_up_in_different_locations_when/)  
+   Link: <a href="https://www.reddit.com/r/Ghosts/comments/m73k03/green_orb_showing_up_in_different_locations_when/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Ghosts/comments/m73k03/green_orb_showing_up_in_different_locations_when/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>reen dot will be slap bang in the middle of the bright light.Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: inmysacredspace.com  
    Title: [Lens flares](&#123;&#123; 'lens-flare/' | relative_url &#125;&#125;) are a common phenomena and are often mistaken as orbs in photos  
-   Link: [https://inmysacredspace.com/your-definitive-guide-to-debunking-orbs-lens-flares/](https://inmysacredspace.com/your-definitive-guide-to-debunking-orbs-lens-flares/)  
+   Link: <a href="https://inmysacredspace.com/your-definitive-guide-to-debunking-orbs-lens-flares/" target="_blank" rel="noopener noreferrer nofollow">https://inmysacredspace.com/your-definitive-guide-to-debunking-orbs-lens-flares/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ash Riley | In My Sacred SpaceYour Definitive Guide to Debunking Orbs: Lens FlaresNovember 7, 2015 — In this guide to debunking orbs, lea...</p></details>
    Published: November 7, 2015  
 
 8. <a id="endnote-8"></a>
    Source: optics.ansys.com  
-   Link: [https://optics.ansys.com/hc/en-us/articles/43071067483795-Stray-Light-Analysis-with-Ghost-Focus-Generator](https://optics.ansys.com/hc/en-us/articles/43071067483795-Stray-Light-Analysis-with-Ghost-Focus-Generator)  
+   Link: <a href="https://optics.ansys.com/hc/en-us/articles/43071067483795-Stray-Light-Analysis-with-Ghost-Focus-Generator" target="_blank" rel="noopener noreferrer nofollow">https://optics.ansys.com/hc/en-us/articles/43071067483795-Stray-Light-Analysis-with-Ghost-Focus-Generator</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ansys OpticsStray Light Analysis with Ghost Focus GeneratorThe Ghost Focus Generator simplifies the modeling of ghost reflections by conv...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: metabunk.org  
    Title: green orb dresden how to demonstrate an orb is lens flare.13732  
-   Link: [https://www.metabunk.org/threads/green-orb-dresden-how-to-demonstrate-an-orb-is-lens-flare.13732/](https://www.metabunk.org/threads/green-orb-dresden-how-to-demonstrate-an-orb-is-lens-flare.13732/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MetabunkHow to Demonstrate an &quot;Orb&quot; is Lens Flare2 Nov 2024 — Just go out with your friend on a sunny day, and move the camera around wit...</p></details>
+   Link: <a href="https://www.metabunk.org/threads/green-orb-dresden-how-to-demonstrate-an-orb-is-lens-flare.13732/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/green-orb-dresden-how-to-demonstrate-an-orb-is-lens-flare.13732/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Demonstrate an &quot;Orb&quot; is Lens Flare2 Nov 2024 — Just go out with your friend on a sunny day, and move the camera around wit...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: optics.ansys.com  
    Title: 49215383363859 Stray Light Analysis Automation Scripts  
-   Link: [https://optics.ansys.com/hc/en-us/articles/49215383363859-Stray-Light-Analysis-Automation-Scripts](https://optics.ansys.com/hc/en-us/articles/49215383363859-Stray-Light-Analysis-Automation-Scripts)  
+   Link: <a href="https://optics.ansys.com/hc/en-us/articles/49215383363859-Stray-Light-Analysis-Automation-Scripts" target="_blank" rel="noopener noreferrer nofollow">https://optics.ansys.com/hc/en-us/articles/49215383363859-Stray-Light-Analysis-Automation-Scripts</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In the second stage, the filtered.OptSequence file can be used with the Physical Camera Sensor on GPU to visualize...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: optics.ansys.com  
-   Link: [https://optics.ansys.com/hc/en-us/articles/42047529058963-Automating-system-level-stray-light-analysis-and-optical-noise-reduction-with-Ansys-Optics](https://optics.ansys.com/hc/en-us/articles/42047529058963-Automating-system-level-stray-light-analysis-and-optical-noise-reduction-with-Ansys-Optics)  
+   Link: <a href="https://optics.ansys.com/hc/en-us/articles/42047529058963-Automating-system-level-stray-light-analysis-and-optical-noise-reduction-with-Ansys-Optics" target="_blank" rel="noopener noreferrer nofollow">https://optics.ansys.com/hc/en-us/articles/42047529058963-Automating-system-level-stray-light-analysis-and-optical-noise-reduction-with-Ansys-Optics</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>system-level stray light analysis and optical...This article introduces an automated interoperability workflow using Ansys Zemax OpticSt...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: zentalk.asus.com  
-   Link: [https://zentalk.asus.com/t5/zenfone-9/green-halo-when-taking-photos/td-p/167161](https://zentalk.asus.com/t5/zenfone-9/green-halo-when-taking-photos/td-p/167161)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ZenTalkGreen halo when taking photos11 Aug 2022 — A green half circle/halo appears at the bottom in both the viewfinder and photos. It&#x27;s...</p></details>
+   Link: <a href="https://zentalk.asus.com/t5/zenfone-9/green-halo-when-taking-photos/td-p/167161" target="_blank" rel="noopener noreferrer nofollow">https://zentalk.asus.com/t5/zenfone-9/green-halo-when-taking-photos/td-p/167161</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Green halo when taking photos11 Aug 2022 — A green half circle/halo appears at the bottom in both the viewfinder and photos. It&#x27;s...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/STLPRS/videos/the-cell-phone-orb/2306910973119765/](https://www.facebook.com/STLPRS/videos/the-cell-phone-orb/2306910973119765/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookGhost Hinting Tip: Cell Phone Orbs With modern cell phones...The movement of the orb is due to the shifting angle between the ca...</p></details>
+   Link: <a href="https://www.facebook.com/STLPRS/videos/the-cell-phone-orb/2306910973119765/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/STLPRS/videos/the-cell-phone-orb/2306910973119765/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ghost Hinting Tip: Cell Phone Orbs With modern cell phones...The movement of the orb is due to the shifting angle between the ca...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: infinite.nl  
-   Link: [https://www.infinite.nl/en/overcoming-optical-system-challenges-with-ansys-sp](https://www.infinite.nl/en/overcoming-optical-system-challenges-with-ansys-sp)  
+   Link: <a href="https://www.infinite.nl/en/overcoming-optical-system-challenges-with-ansys-sp" target="_blank" rel="noopener noreferrer nofollow">https://www.infinite.nl/en/overcoming-optical-system-challenges-with-ansys-sp</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Overcoming Optical System Challenges with Ansys SpeosUnwanted reflections, ghost images, and straylight effects whether from optical surf...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: wp.optics.arizona.edu  
-   Link: [https://wp.optics.arizona.edu/alumni/wp-content/uploads/sites/113/2023/06/jordan-jur-msreport.pdf](https://wp.optics.arizona.edu/alumni/wp-content/uploads/sites/113/2023/06/jordan-jur-msreport.pdf)  
+   Link: <a href="https://wp.optics.arizona.edu/alumni/wp-content/uploads/sites/113/2023/06/jordan-jur-msreport.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wp.optics.arizona.edu/alumni/wp-content/uploads/sites/113/2023/06/jordan-jur-msreport.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Wyant College of Optical SciencesStray Light Analysis of a Mobile Phone Cameraby J Jur · Cited by 3 — To analyze the ghost images of this...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: thesun.co.uk  
    Title: The Sun Eerie photo captures green 'grid of dots' floating in sky  
-   Link: [https://www.thesun.co.uk/tech/27520322/green-dots-grid-iphone-flash-bright-light-reflected-lens/](https://www.thesun.co.uk/tech/27520322/green-dots-grid-iphone-flash-bright-light-reflected-lens/)  
+   Link: <a href="https://www.thesun.co.uk/tech/27520322/green-dots-grid-iphone-flash-bright-light-reflected-lens/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/tech/27520322/green-dots-grid-iphone-flash-bright-light-reflected-lens/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The image, posted on Reddit, sparked extensive discussion, with users sharing similar experiences. A Reddit user explained that the green...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: semiengineering.com  
    Title: exploring the facets of stray light with simulation  
-   Link: [https://semiengineering.com/exploring-the-facets-of-stray-light-with-simulation/](https://semiengineering.com/exploring-the-facets-of-stray-light-with-simulation/)  
+   Link: <a href="https://semiengineering.com/exploring-the-facets-of-stray-light-with-simulation/" target="_blank" rel="noopener noreferrer nofollow">https://semiengineering.com/exploring-the-facets-of-stray-light-with-simulation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>11 Jan 2024 — Ghosts are reflections that appear as bright spots in an image when light from a source in and close to the edge of the cam...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/hauntedwalk/videos/green-orbs-captured-at-jail/10155496193952150/](https://www.facebook.com/hauntedwalk/videos/green-orbs-captured-at-jail/10155496193952150/)  
+   Link: <a href="https://www.facebook.com/hauntedwalk/videos/green-orbs-captured-at-jail/10155496193952150/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/hauntedwalk/videos/green-orbs-captured-at-jail/10155496193952150/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>bounce back to the viewer off of something like a dust particle...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: dpreview.com  
    Title: strange green orbs what are they.4281555  
-   Link: [https://www.dpreview.com/forums/threads/strange-green-orbs-what-are-they.4281555/](https://www.dpreview.com/forums/threads/strange-green-orbs-what-are-they.4281555/)  
+   Link: <a href="https://www.dpreview.com/forums/threads/strange-green-orbs-what-are-they.4281555/" target="_blank" rel="noopener noreferrer nofollow">https://www.dpreview.com/forums/threads/strange-green-orbs-what-are-they.4281555/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Strange green orbs what are they?9 May 2018 — It&#x27;s lens flare (internal reflections caused by shooting straight into the sun). suggests...</p></details>
    Published: May 2018  
 
 20. <a id="endnote-20"></a>
    Source: edrmedeso.com  
-   Link: [https://edrmedeso.com/article/lens-design-and-straylight-analysis-for-cameras-in-zemax-and-speos-workflow-overview/](https://edrmedeso.com/article/lens-design-and-straylight-analysis-for-cameras-in-zemax-and-speos-workflow-overview/)  
+   Link: <a href="https://edrmedeso.com/article/lens-design-and-straylight-analysis-for-cameras-in-zemax-and-speos-workflow-overview/" target="_blank" rel="noopener noreferrer nofollow">https://edrmedeso.com/article/lens-design-and-straylight-analysis-for-cameras-in-zemax-and-speos-workflow-overview/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In Zemax, ghost analysis helps engineers: Identify unwanted reflections between...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1537901939628715/posts/24018440671148188/](https://www.facebook.com/groups/1537901939628715/posts/24018440671148188/)  
+   Link: <a href="https://www.facebook.com/groups/1537901939628715/posts/24018440671148188/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1537901939628715/posts/24018440671148188/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ddle and how do we prevent it next time?...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: i Phone Camera Flare Issue  
-   Link: [https://www.youtube.com/watch?v=qJXXZMoeoeE](https://www.youtube.com/watch?v=qJXXZMoeoeE)  
+   Link: <a href="https://www.youtube.com/watch?v=qJXXZMoeoeE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qJXXZMoeoeE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>iPhone Camera Flare Issue - Why Hasn&#x27;t Apple Fixed This...In this video we discuss this flare issue that has been around since the iPhon...</p></details>

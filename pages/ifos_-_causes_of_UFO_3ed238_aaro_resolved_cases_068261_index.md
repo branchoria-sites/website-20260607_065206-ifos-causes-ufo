@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ifos-causes-of-ufo-3ed238-aaro/
 description: Focused pages that expand on AARO.
-date: '2026-06-07'
+date: '2026-06-12'
 layout: default
 parent_basename: ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261
-parent_title: AARO | Ifos Causes Of
+parent_title: AARO
 parent_nav_short_title: AARO
 parent_permalink: /aaro/
 ---

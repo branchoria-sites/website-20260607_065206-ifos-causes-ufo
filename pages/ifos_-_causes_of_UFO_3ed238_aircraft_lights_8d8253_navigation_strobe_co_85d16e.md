@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253_head_on_landing_ligh_2fc811
 - ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253_sunlight_glints_airc_ea6ead
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - aircraft-lights
 - nav-lights
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - aircraft-lights
 - nav-lights
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Red, green, white and flashing aircraft lights can be too faint, hidden or compressed by distance to identify a plane at first glance.
 hero_summary: Red, green, white and flashing aircraft lights can be too faint, hidden or compressed by distance to identify a plane at first glance.
 layout: default
 permalink: /nav-lights/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /aircraft-lights/
 nav_short_title: Nav Lights
 title: When Aircraft Lights Do Not Look Like Aircraft
-title_full: When Aircraft Lights Do Not Look Like Aircraft | Aircraft Lights
+title_full: When Aircraft Lights Do Not Look Like Aircraft
 display_title_short: Nav Lights
 display_title: Nav Lights
 heading_title: When Aircraft Lights Do Not Look Like Aircraft
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 01:47:55'
-parent_title: Why Ordinary Aircraft Look So Strange | IFOs
+parent_title: Why Ordinary Aircraft Look So Strange
 parent_permalink: /aircraft-lights/
 parent_nav_short_title: Aircraft Lights
 parent_heading_title: Why Ordinary Aircraft Look So Strange
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253
-  title: Aircraft Lights | Ifos Causes Of
+  title: Aircraft Lights | ifos causes of UFO 3 ed 238
   permalink: /aircraft-lights/
   short_title: Aircraft Lights
   heading_title: Why Ordinary Aircraft Look So Strange
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253
-  title: Aircraft Lights | Ifos Causes Of
+  title: Aircraft Lights | ifos causes of UFO 3 ed 238
   permalink: /aircraft-lights/
   short_title: Aircraft Lights
   heading_title: Why Ordinary Aircraft Look So Strange
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: How Sun Glints Turn Planes Into UFOs
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253
-  title: Aircraft Lights | Ifos Causes Of
+  title: Aircraft Lights | ifos causes of UFO 3 ed 238
   permalink: /aircraft-lights/
   short_title: Aircraft Lights
   heading_title: Why Ordinary Aircraft Look So Strange
@@ -266,6 +265,7 @@ next_link:
   permalink: /sun-glints/
   short_title: Sun Glints
   heading_title: How Sun Glints Turn Planes Into UFOs
+date: '2026-06-12 00:28:41 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253_navigation_strobe_co_85d16e-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253_navigation_strobe_co_85d16e-Illustration-1.webp
@@ -276,23 +276,21 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253_navigat
 
 Aircraft navigation lights are designed to prevent collisions, not to make every aircraft instantly recognisable to someone on the ground. A distant aeroplane may be displaying the correct red, green, white and flashing anti-collision lights, yet still look like a mysterious hovering orb, a strangely coloured object, or a light that appears and disappears without explanation. In UFO reporting, this matters because witnesses often see only fragments of the lighting pattern rather than the complete arrangement that [pilots]({{ 'pilots/' | relative_url }}) and air traffic observers are trained to interpret.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253_navigation_strobe_co_85d16e-Illustration-1-dark.svg" | relative_url }}" alt="Nav Lights illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253_navigation_strobe_co_85d16e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253_navigation_strobe_co_85d16e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The result is a recurring source of IFOs (identified flying objects): a real aircraft whose lighting system is visible, but whose shape, orientation and motion are hidden by distance, darkness, haze or viewing angle. What remains can look far less like an aircraft than aviation lighting designers intended. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aopa.org/news-and-media/all-news/2023/june/flight-training-magazine/what-am-i-anticollision-lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aopa.org">[AOPA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aopa.org</span><span class="citation-popover-title">what am i anticollision lights</span><span class="citation-popover-snippet">AOPAAnticollision lights12 Apr 2023 — “Navigation” or “position” lights, the red and green lights on the wing tips and white on the tail...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skybrary.aero/articles/external-lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">SkybraryExternal Lights | SKYbrary Aviation SafetyThe following lighting systems are intended to reduce the potential of collision, by ma...</span></span></span>
+The result is a recurring source of IFOs (identified flying objects): a real aircraft whose lighting system is visible, but whose shape, orientation and motion are hidden by distance, darkness, haze or viewing angle. What remains can look far less like an aircraft than aviation lighting designers intended. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aopa.org/news-and-media/all-news/2023/june/flight-training-magazine/what-am-i-anticollision-lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aopa.org">[AOPA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aopa.org</span><span class="citation-popover-title">what am i anticollision lights</span><span class="citation-popover-snippet">Anticollision lights12 Apr 2023 — “Navigation” or “position” lights, the red and green lights on the wing tips and white on the tail...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skybrary.aero/articles/external-lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">External Lights &#124; SKYbrary Aviation SafetyThe following lighting systems are intended to reduce the potential of collision, by ma...</span></span></span>
 
 ## What Position and Anti-Collision Lights Are Meant to Show
 
-Aircraft use a standard lighting arrangement that allows other pilots to determine orientation and movement. Navigation, or position, lights are steady lights: red on the left wingtip, green on the right wingtip and white toward the rear of the aircraft. Anti-collision systems add flashing red beacons and/or bright white strobes intended to make the aircraft conspicuous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://jrupprechtlaw.com/drone-anti-collision-lights/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jrupprechtlaw.com">[Rupprecht Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jrupprechtlaw.com</span><span class="citation-popover-snippet">Ultimate Guide to Drone Anti-Collision LightsAnti-collision lights are (1) red or white and (2) blinking/strobing. Navigation lights are...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aopa.org/news-and-media/all-news/2023/june/flight-training-magazine/what-am-i-anticollision-lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aopa.org">[AOPA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aopa.org</span><span class="citation-popover-title">what am i anticollision lights</span><span class="citation-popover-snippet">AOPAAnticollision lights12 Apr 2023 — “Navigation” or “position” lights, the red and green lights on the wing tips and white on the tail...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cfinotebook.net/notebook/operation-of-aircraft-systems/aircraft-lighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cfinotebook.net">[CFI Notebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cfinotebook.net</span><span class="citation-popover-snippet">Aircraft Lighting - Operation of Aircraft Systems - CFI NotebookAn aircraft anti-collision light system can use one or more rotating beac...</span></span></span>
+Aircraft use a standard lighting arrangement that allows other pilots to determine orientation and movement. Navigation, or position, lights are steady lights: red on the left wingtip, green on the right wingtip and white toward the rear of the aircraft. Anti-collision systems add flashing red beacons and/or bright white strobes intended to make the aircraft conspicuous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://jrupprechtlaw.com/drone-anti-collision-lights/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jrupprechtlaw.com">[Rupprecht Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jrupprechtlaw.com</span><span class="citation-popover-snippet">Ultimate Guide to Drone Anti-Collision LightsAnti-collision lights are (1) red or white and (2) blinking/strobing. Navigation lights are...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aopa.org/news-and-media/all-news/2023/june/flight-training-magazine/what-am-i-anticollision-lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aopa.org">[AOPA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aopa.org</span><span class="citation-popover-title">what am i anticollision lights</span><span class="citation-popover-snippet">Anticollision lights12 Apr 2023 — “Navigation” or “position” lights, the red and green lights on the wing tips and white on the tail...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cfinotebook.net/notebook/operation-of-aircraft-systems/aircraft-lighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cfinotebook.net">[CFI Notebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cfinotebook.net</span><span class="citation-popover-snippet">Aircraft Lighting - Operation of Aircraft Systems - CFI NotebookAn aircraft anti-collision light system can use one or more rotating beac...</span></span></span>
 
 In ideal conditions, these lights provide a simple visual code:
 
 * Red and green together indicate a front or near-front view.
-* A white light suggests the aircraft is moving away. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wiki.ivao.aero/en/home/training/documentation/Aeroplane_lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wiki.ivao.aero">[wiki.ivao.aero]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wiki.ivao.aero</span><span class="citation-popover-snippet">IVAO Documentation LibraryAeroplane lights | IVAO Documentation LibraryIf a white light is seen, this aircraft is seen from the rear, fly...</span></span></span>
+* A white light suggests the aircraft is moving away. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wiki.ivao.aero/en/home/training/documentation/Aeroplane_lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wiki.ivao.aero">[wiki.ivao.aero]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wiki.ivao.aero</span><span class="citation-popover-snippet">IVAO Documentation LibraryAeroplane lights &#124; IVAO Documentation LibraryIf a white light is seen, this aircraft is seen from the rear, fly...</span></span></span>
 * Changes in colour distribution reveal turns and changes in heading.
-* Strobes help attract attention and improve visibility at long [range]({{ 'range/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aopa.org/news-and-media/all-news/2023/june/flight-training-magazine/what-am-i-anticollision-lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aopa.org">[AOPA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aopa.org</span><span class="citation-popover-title">what am i anticollision lights</span><span class="citation-popover-snippet">AOPAAnticollision lights12 Apr 2023 — “Navigation” or “position” lights, the red and green lights on the wing tips and white on the tail...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://wiki.ivao.aero/en/home/training/documentation/Aeroplane_lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wiki.ivao.aero">[IVAO Documentation Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wiki.ivao.aero</span><span class="citation-popover-snippet">IVAO Documentation LibraryAeroplane lights | IVAO Documentation LibraryIf a white light is seen, this aircraft is seen from the rear, fly...</span></span></span>
+* Strobes help attract attention and improve visibility at long [range]({{ 'range/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aopa.org/news-and-media/all-news/2023/june/flight-training-magazine/what-am-i-anticollision-lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aopa.org">[AOPA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aopa.org</span><span class="citation-popover-title">what am i anticollision lights</span><span class="citation-popover-snippet">Anticollision lights12 Apr 2023 — “Navigation” or “position” lights, the red and green lights on the wing tips and white on the tail...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://wiki.ivao.aero/en/home/training/documentation/Aeroplane_lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wiki.ivao.aero">[IVAO Documentation Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wiki.ivao.aero</span><span class="citation-popover-snippet">IVAO Documentation LibraryAeroplane lights &#124; IVAO Documentation LibraryIf a white light is seen, this aircraft is seen from the rear, fly...</span></span></span>
 
-Regulations and certification standards require these lights to meet specific colour, intensity and coverage requirements so that other aircraft can detect and avoid collisions. The system is optimised for aviation safety, not for helping a ground observer identify an aircraft at many miles' distance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.law.cornell.edu/cfr/text/14/23.2530" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law.cornell.edu">[Legal Information Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law.cornell.edu</span><span class="citation-popover-snippet">Legal Information Institute14 CFR § 23.2530 - External and cockpit lighting...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skybrary.aero/articles/vision-oghfa-bn" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Vision (OGHFA BN) | SKYbrary Aviation SafetyBrief flashes from high-intensity, white strobe lights, which are commonly used as aircraft a...</span></span></span>
-
+Regulations and certification standards require these lights to meet specific colour, intensity and coverage requirements so that other aircraft can detect and avoid collisions. The system is optimised for aviation safety, not for helping a ground observer identify an aircraft at many miles' distance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.law.cornell.edu/cfr/text/14/23.2530" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law.cornell.edu">[Legal Information Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law.cornell.edu</span><span class="citation-popover-snippet">Legal Information Institute14 CFR § 23.2530 - External and cockpit lighting...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skybrary.aero/articles/vision-oghfa-bn" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Vision (OGHFA BN) &#124; SKYbrary Aviation SafetyBrief flashes from high-intensity, white strobe lights, which are commonly used as aircraft a...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3yfEYmyH-Ro" title="Aircraft Lights: Red and Green Airplane Light Meaning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3yfEYmyH-Ro" target="_blank" rel="noopener noreferrer">Aircraft Lights: Red and Green Airplane Light Meaning</a></p><p class="youtube-embed-meta">Channel: Pilot Institute Airplanes &middot; Views: 92.7K &middot; Uploaded: May 2021 &middot; Length: 4 minutes 59 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3yfEYmyH-Ro" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3yfEYmyH-Ro">Open on YouTube</a></p></div></div></div>
 
@@ -303,7 +301,6 @@ The aircraft-lighting code only works when enough of the pattern is visible. At 
 A witness may see only one wingtip light because the aircraft is banked or approaching from an angle that hides the opposite side. The white tail light may be invisible because the aircraft is not oriented correctly relative to the observer. A bright strobe can dominate the view while the steady navigation lights disappear into atmospheric haze. Instead of a recognisable arrangement, the observer sees a single flashing point. Skybrary LinkedIn Distance further compresses the geometry. Lights separated by tens of metres on the aircraft can merge into what appears to be one object. Hu <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/posts/mohammad-eslahi-8a2649224_aircraft-navigation-lights-also-known-activity-7361388907562754048-oUJ1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[linkedin.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">Aircraft Navigation Lights: Position, Direction, and...✈️Visibility: The lights are designed to be visible from a certain distance and a...</span></span></span> man night vision also has limited ability to resolve detail. Under dark conditions, visual acuity is substantially reduced, making it difficult to distinguish multiple nearby light sources. <span class="citation-chip-wrap"><a class="citation-chip" href="https://flightsafety.org/asw-article/in-the-dark/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightsafety.org">[Flight Safety Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightsafety.org</span><span class="citation-popover-title">in the dark</span><span class="citation-popover-snippet">Flight Safety FoundationIn the Dark20 Jan 2017 — Visual acuity during pure night vision is the equivalent of 20/200 vision or less, as me...</span></span></span>
 
 This can create several misleading impressions:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -316,13 +313,12 @@ This can create several misleading impressions:
 
 An observer may therefore report a coloured glowing object rather than an aircraft, even though the colours originate from standard aviation lighting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pilotinstitute.com/airplane-lights/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pilotinstitute.com">[Pilot Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pilotinstitute.com</span><span class="citation-popover-title">The white light is located on the aircraft&#x27;s tail</span><span class="citation-popover-snippet">Pilot InstituteAirplane Lights: What Each Light Does (Red/Green, Strobe...26 Dec 2024 — The right wingtip contains the green light, wit...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://migflug.com/jetflights/red-green-white-flash-what-every-light-on-a-plane-means/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: migflug.com">[MiGFlug]</a><span class="citation-popover" role="note"><span class="citation-popover-source">migflug.com</span><span class="citation-popover-title">red green white flash what every light on a plane means</span><span class="citation-popover-snippet">Red, Green, White, Flash: What Every Light on a Plane...Apr 8, 2026 — Every aircraft is required to display three: a red light on the le...</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253_navigation_strobe_co_85d16e-Illustration-2-dark.svg" | relative_url }}" alt="Nav Lights illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253_navigation_strobe_co_85d16e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253_navigation_strobe_co_85d16e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Blinking and Colour Changes Can Mislead Witnesses
 
-Anti-collision strobes introduce another source of confusion. White strobes are intentionally bright and can be visible at considerable distances. When atmospheric conditions are poor, a witness may notice only the flashes, with no visible aircraft between them. The object appears to blink into existence and then vanish repeatedly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rtx.com/collinsaerospace/what-we-do/industries/commercial-aviation/exteriors/lighting/anti-collision-lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rtx.com">[RTX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rtx.com</span><span class="citation-popover-title">Anti-Collision Lights | Collins Aerospace</span><span class="citation-popover-snippet">RTXAnti-Collision Lights | Collins Aerospace - RTXOur LED anti-collision lights – also known as beacon or strobe lights – improve the vis...</span></span></span>
+Anti-collision strobes introduce another source of confusion. White strobes are intentionally bright and can be visible at considerable distances. When atmospheric conditions are poor, a witness may notice only the flashes, with no visible aircraft between them. The object appears to blink into existence and then vanish repeatedly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rtx.com/collinsaerospace/what-we-do/industries/commercial-aviation/exteriors/lighting/anti-collision-lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rtx.com">[RTX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rtx.com</span><span class="citation-popover-title">Anti-Collision Lights &#124; Collins Aerospace</span><span class="citation-popover-snippet">Anti-Collision Lights &#124; Collins Aerospace - RTXOur LED anti-collision lights – also known as beacon or strobe lights – improve the vis...</span></span></span>
 
-Colour changes can be equally deceptive. As an aircraft turns, the observer's line of sight shifts relative to the navigation lights. A light that appeared white may suddenly seem red or green. To someone unfamiliar with aviation lighting conventions, the colour shift can look like a transformation of the object itself rather than a simple change in viewing angle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aopa.org/news-and-media/all-news/2023/june/flight-training-magazine/what-am-i-anticollision-lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aopa.org">[AOPA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aopa.org</span><span class="citation-popover-title">what am i anticollision lights</span><span class="citation-popover-snippet">AOPAAnticollision lights12 Apr 2023 — “Navigation” or “position” lights, the red and green lights on the wing tips and white on the tail...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://wiki.ivao.aero/en/home/training/documentation/Aeroplane_lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wiki.ivao.aero">[IVAO Documentation Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wiki.ivao.aero</span><span class="citation-popover-snippet">IVAO Documentation LibraryAeroplane lights | IVAO Documentation LibraryIf a white light is seen, this aircraft is seen from the rear, fly...</span></span></span>
+Colour changes can be equally deceptive. As an aircraft turns, the observer's line of sight shifts relative to the navigation lights. A light that appeared white may suddenly seem red or green. To someone unfamiliar with aviation lighting conventions, the colour shift can look like a transformation of the object itself rather than a simple change in viewing angle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aopa.org/news-and-media/all-news/2023/june/flight-training-magazine/what-am-i-anticollision-lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aopa.org">[AOPA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aopa.org</span><span class="citation-popover-title">what am i anticollision lights</span><span class="citation-popover-snippet">Anticollision lights12 Apr 2023 — “Navigation” or “position” lights, the red and green lights on the wing tips and white on the tail...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://wiki.ivao.aero/en/home/training/documentation/Aeroplane_lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wiki.ivao.aero">[IVAO Documentation Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wiki.ivao.aero</span><span class="citation-popover-snippet">IVAO Documentation LibraryAeroplane lights &#124; IVAO Documentation LibraryIf a white light is seen, this aircraft is seen from the rear, fly...</span></span></span>
 
 A common UFO-style description involves a light that alternates between steady illumination and sudden flashes. In many cases, this can result from the interaction of steady position lights and intermittent strobes. When only parts of the lighting system are visible through haze, cloud layers or atmospheric scattering, the pattern can appear irregular even though the aircraft's lights are functioning normally. Skybrary <span class="citation-chip-wrap"><a class="citation-chip" href="https://epicflightacademy.com/aircraft-lights/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epicflightacademy.com">[Epic Flight Academy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epicflightacademy.com</span><span class="citation-popover-snippet">Epic Flight AcademyAircraft Lighting: Types, Importance, and Regulations3 Mar 2026 — Navigation lights must be on from sunset to sunrise...</span></span></span>
 
@@ -330,10 +326,9 @@ A common UFO-style description involves a light that alternates between steady i
 
 One of the most misleading situations occurs when an aircraft is approaching nearly head-on.
 
-From that perspective, the separation between the wingtip lights shrinks visually. The red and green lights may blend together or become too faint to distinguish. The aircraft shows little sideways motion because it is moving largely along the observer's line of sight. The result can be a bright, apparently stationary light that hangs in the sky for several minutes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aopa.org/news-and-media/all-news/2023/june/flight-training-magazine/what-am-i-anticollision-lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aopa.org">[AOPA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aopa.org</span><span class="citation-popover-title">what am i anticollision lights</span><span class="citation-popover-snippet">AOPAAnticollision lights12 Apr 2023 — “Navigation” or “position” lights, the red and green lights on the wing tips and white on the tail...</span></span></span>
+From that perspective, the separation between the wingtip lights shrinks visually. The red and green lights may blend together or become too faint to distinguish. The aircraft shows little sideways motion because it is moving largely along the observer's line of sight. The result can be a bright, apparently stationary light that hangs in the sky for several minutes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aopa.org/news-and-media/all-news/2023/june/flight-training-magazine/what-am-i-anticollision-lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aopa.org">[AOPA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aopa.org</span><span class="citation-popover-title">what am i anticollision lights</span><span class="citation-popover-snippet">Anticollision lights12 Apr 2023 — “Navigation” or “position” lights, the red and green lights on the wing tips and white on the tail...</span></span></span>
 
-When the aircraft eventually turns, the geometry changes abruptly. New lights become visible, the apparent speed increases and the object may seem to dart away or alter course suddenly. To the witness, the behaviour can appear extraordinary. To an aviation observer, it is often the moment when the concealed lighting pattern finally becomes visible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aopa.org/news-and-media/all-news/2023/june/flight-training-magazine/what-am-i-anticollision-lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aopa.org">[AOPA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aopa.org</span><span class="citation-popover-title">what am i anticollision lights</span><span class="citation-popover-snippet">AOPAAnticollision lights12 Apr 2023 — “Navigation” or “position” lights, the red and green lights on the wing tips and white on the tail...</span></span></span>
-
+When the aircraft eventually turns, the geometry changes abruptly. New lights become visible, the apparent speed increases and the object may seem to dart away or alter course suddenly. To the witness, the behaviour can appear extraordinary. To an aviation observer, it is often the moment when the concealed lighting pattern finally becomes visible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aopa.org/news-and-media/all-news/2023/june/flight-training-magazine/what-am-i-anticollision-lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aopa.org">[AOPA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aopa.org</span><span class="citation-popover-title">what am i anticollision lights</span><span class="citation-popover-snippet">Anticollision lights12 Apr 2023 — “Navigation” or “position” lights, the red and green lights on the wing tips and white on the tail...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DZbasN6Ik5Q" title="Airplane Lights Explained - Navigation Light VS Anti-Collision Lights." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DZbasN6Ik5Q" target="_blank" rel="noopener noreferrer">Airplane Lights Explained - Navigation Light VS Anti-Collision Lights.</a></p><p class="youtube-embed-meta">Channel: PILOTCLIMB &middot; Views: 7.4K &middot; Uploaded: February 2021 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DZbasN6Ik5Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DZbasN6Ik5Q">Open on YouTube</a></p></div></div></div>
 
@@ -345,9 +340,7 @@ A well-documented visual illusion called autokinesis occurs when a person stares
 
 For UFO witnesses, the combination is powerful:
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fgaB7CzGza4" title="Helicopter Somatogravic Illusions SKYclip SKYbrary Aviation Safety" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fgaB7CzGza4" target="_blank" rel="noopener noreferrer">Helicopter Somatogravic Illusions SKYclip SKYbrary Aviation Safety</a></p><p class="youtube-embed-meta">Channel: Dương Mạnh Hiếu &middot; Views: 5.6K &middot; Uploaded: July 2019 &middot; Length: 2 minutes 55 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fgaB7CzGza4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fgaB7CzGza4">Open on YouTube</a></p></div></div></div>
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -358,15 +351,14 @@ For UFO witnesses, the combination is powerful:
 
 </div>
 
-Under those conditions, an ordinary navigation light or strobe can acquire characteristics often associated with UFO reports: hovering, colour-changing, erratic movement and sudden disappearance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skybrary.aero/articles/visual-illusions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">SkybraryVisual IllusionsAutokinesis: When flying at night, if a pilot stares at a stationary light in the distance for long enough, the l...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skybrary.aero/articles/autokinetic-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Autokinetic EffectTo prevent this illusion, focus the eyes on objects at varying distances and avoid fixating on one target. Be sure to m...</span></span></span>
-
+Under those conditions, an ordinary navigation light or strobe can acquire characteristics often associated with UFO reports: hovering, colour-changing, erratic movement and sudden disappearance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skybrary.aero/articles/visual-illusions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Visual IllusionsAutokinesis: When flying at night, if a pilot stares at a stationary light in the distance for long enough, the l...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skybrary.aero/articles/autokinetic-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Autokinetic EffectTo prevent this illusion, focus the eyes on objects at varying distances and avoid fixating on one target. Be sure to m...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253_navigation_strobe_co_85d16e-Illustration-3-dark.svg" | relative_url }}" alt="Nav Lights illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253_navigation_strobe_co_85d16e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253_navigation_strobe_co_85d16e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Practical UFO Clue
 
 Aviation lights are highly standardised, yet distance often removes the very information they are designed to convey. A witness who sees a bright flashing white light, an isolated red or green glow, or a light that seems to change colour during a turn may actually be observing fragments of a normal aircraft lighting system rather than a single mysterious object.
 
-In UFO investigations, this makes navigation lights and strobes an important diagnostic clue. The question is not whether [aircraft lights]({{ 'aircraft-lights/' | relative_url }}) are present, but whether distance, orientation and atmospheric conditions have hidden enough of the pattern to stop it looking like an aircraft at all. When that happens, standard safety lighting can become one of the most convincing sources of an apparent UFO. Flight Safety Foundation <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aopa.org/news-and-media/all-news/2023/june/flight-training-magazine/what-am-i-anticollision-lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aopa.org">[AOPA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aopa.org</span><span class="citation-popover-title">what am i anticollision lights</span><span class="citation-popover-snippet">AOPAAnticollision lights12 Apr 2023 — “Navigation” or “position” lights, the red and green lights on the wing tips and white on the tail...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skybrary.aero/sites/default/files/bookshelf/1816.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Explanatory Factors17 Sept 2010 — Auto kinesis visual illusions. 102040205. Factors related to auto kinesis. Auto kinesis occurs primaril...</span></span></span>
+In UFO investigations, this makes navigation lights and strobes an important diagnostic clue. The question is not whether [aircraft lights]({{ 'aircraft-lights/' | relative_url }}) are present, but whether distance, orientation and atmospheric conditions have hidden enough of the pattern to stop it looking like an aircraft at all. When that happens, standard safety lighting can become one of the most convincing sources of an apparent UFO. Flight Safety Foundation <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aopa.org/news-and-media/all-news/2023/june/flight-training-magazine/what-am-i-anticollision-lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aopa.org">[AOPA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aopa.org</span><span class="citation-popover-title">what am i anticollision lights</span><span class="citation-popover-snippet">Anticollision lights12 Apr 2023 — “Navigation” or “position” lights, the red and green lights on the wing tips and white on the tail...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skybrary.aero/sites/default/files/bookshelf/1816.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Explanatory Factors17 Sept 2010 — Auto kinesis visual illusions. 102040205. Factors related to auto kinesis. Auto kinesis occurs primaril...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -485,15 +477,15 @@ In UFO investigations, this makes navigation lights and strobes an important dia
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nav-lights-when-aircraft-lights-do-not-look-like-aircraft-ifos-causes-of-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="nav-lights-when-aircraft-lights-do-not-look-like-aircraft-ifos-causes-of-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for EasyJet Airbus A320Neo Snap-fit Model Plane 1/200 Model Plane"><img src="{{ '/assets/images/marketplace-covers/5c2cd5b228f83ed51449.jpg' | relative_url }}" alt="Listing image for EasyJet Airbus A320Neo Snap-fit Model Plane 1/200 Model Plane" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aircraft-lights-do-not-look-like-aircraft-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="when-aircraft-lights-do-not-look-like-aircraft-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CS90636 British Airways Concorde Diecast Model - A Must-Have for Aviation Fans"><img src="https://i.ebayimg.com/images/g/io0AAeSwGgJqCyYR/s-l225.jpg" alt="Listing image for CS90636 British Airways Concorde Diecast Model - A Must-Have for Aviation Fans" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nav-lights-when-aircraft-lights-do-not-look-like-aircraft-ifos-causes-of-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="nav-lights-when-aircraft-lights-do-not-look-like-aircraft-ifos-causes-of-airplane-model" target="_blank" rel="sponsored noopener noreferrer">EasyJet Airbus A320Neo Snap-fit Model Plane 1/200 Model Plane</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aircraft-lights-do-not-look-like-aircraft-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="when-aircraft-lights-do-not-look-like-aircraft-airplane-model" target="_blank" rel="sponsored noopener noreferrer">CS90636 British Airways Concorde Diecast Model - A Must-Have for Aviation Fans</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nav-lights-when-aircraft-lights-do-not-look-like-aircraft-ifos-causes-of-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="nav-lights-when-aircraft-lights-do-not-look-like-aircraft-ifos-causes-of-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aircraft-lights-do-not-look-like-aircraft-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="when-aircraft-lights-do-not-look-like-aircraft-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nav-lights-when-aircraft-lights-do-not-look-like-aircraft-ifos-causes-of-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="nav-lights-when-aircraft-lights-do-not-look-like-aircraft-ifos-causes-of-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aircraft-lights-do-not-look-like-aircraft-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="when-aircraft-lights-do-not-look-like-aircraft-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -501,15 +493,15 @@ In UFO investigations, this makes navigation lights and strobes an important dia
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nav-lights-when-aircraft-lights-do-not-look-like-aircraft-ifos-causes-of-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="nav-lights-when-aircraft-lights-do-not-look-like-aircraft-ifos-causes-of-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NEW 16cm British Airways Concorde Die Cast Metal Aircraft Plane Model UK SELLER"><img src="{{ '/assets/images/marketplace-covers/94043c86e0a54a515192.jpg' | relative_url }}" alt="Listing image for NEW 16cm British Airways Concorde Die Cast Metal Aircraft Plane Model UK SELLER" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aircraft-lights-do-not-look-like-aircraft-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="when-aircraft-lights-do-not-look-like-aircraft-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 20cm Diecast Metal Alloy Antonov An-225 &quot;Mriya&quot; Airplane Model 1/400 Scale"><img src="https://i.ebayimg.com/images/g/0uEAAeSw-btow-71/s-l225.jpg" alt="Listing image for 20cm Diecast Metal Alloy Antonov An-225 &quot;Mriya&quot; Airplane Model 1/400 Scale" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nav-lights-when-aircraft-lights-do-not-look-like-aircraft-ifos-causes-of-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="nav-lights-when-aircraft-lights-do-not-look-like-aircraft-ifos-causes-of-airplane-model" target="_blank" rel="sponsored noopener noreferrer">NEW 16cm British Airways Concorde Die Cast Metal Aircraft Plane Model UK SELLER</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aircraft-lights-do-not-look-like-aircraft-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="when-aircraft-lights-do-not-look-like-aircraft-airplane-model" target="_blank" rel="sponsored noopener noreferrer">20cm Diecast Metal Alloy Antonov An-225 &quot;Mriya&quot; Airplane Model 1/400 Scale</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nav-lights-when-aircraft-lights-do-not-look-like-aircraft-ifos-causes-of-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="nav-lights-when-aircraft-lights-do-not-look-like-aircraft-ifos-causes-of-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aircraft-lights-do-not-look-like-aircraft-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="when-aircraft-lights-do-not-look-like-aircraft-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nav-lights-when-aircraft-lights-do-not-look-like-aircraft-ifos-causes-of-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="nav-lights-when-aircraft-lights-do-not-look-like-aircraft-ifos-causes-of-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aircraft-lights-do-not-look-like-aircraft-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="when-aircraft-lights-do-not-look-like-aircraft-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -517,15 +509,15 @@ In UFO investigations, this makes navigation lights and strobes an important dia
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nav-lights-when-aircraft-lights-do-not-look-like-aircraft-ifos-causes-of-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="nav-lights-when-aircraft-lights-do-not-look-like-aircraft-ifos-causes-of-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 20cm Diecast Metal Alloy Antonov An-225 &quot;Mriya&quot; Airplane Model 1/400 Scale"><img src="{{ '/assets/images/marketplace-covers/a5430c39abaa057cee31.jpg' | relative_url }}" alt="Listing image for 20cm Diecast Metal Alloy Antonov An-225 &quot;Mriya&quot; Airplane Model 1/400 Scale" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aircraft-lights-do-not-look-like-aircraft-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="when-aircraft-lights-do-not-look-like-aircraft-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for EasyJet Airbus A320Neo Snap-fit Model Plane 1/200 Model Plane"><img src="https://i.ebayimg.com/images/g/~UYAAeSw9HVoXoJJ/s-l225.jpg" alt="Listing image for EasyJet Airbus A320Neo Snap-fit Model Plane 1/200 Model Plane" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nav-lights-when-aircraft-lights-do-not-look-like-aircraft-ifos-causes-of-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="nav-lights-when-aircraft-lights-do-not-look-like-aircraft-ifos-causes-of-airplane-model" target="_blank" rel="sponsored noopener noreferrer">20cm Diecast Metal Alloy Antonov An-225 &quot;Mriya&quot; Airplane Model 1/400 Scale</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aircraft-lights-do-not-look-like-aircraft-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="when-aircraft-lights-do-not-look-like-aircraft-airplane-model" target="_blank" rel="sponsored noopener noreferrer">EasyJet Airbus A320Neo Snap-fit Model Plane 1/200 Model Plane</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nav-lights-when-aircraft-lights-do-not-look-like-aircraft-ifos-causes-of-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="nav-lights-when-aircraft-lights-do-not-look-like-aircraft-ifos-causes-of-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aircraft-lights-do-not-look-like-aircraft-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="when-aircraft-lights-do-not-look-like-aircraft-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nav-lights-when-aircraft-lights-do-not-look-like-aircraft-ifos-causes-of-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="nav-lights-when-aircraft-lights-do-not-look-like-aircraft-ifos-causes-of-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aircraft-lights-do-not-look-like-aircraft-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="when-aircraft-lights-do-not-look-like-aircraft-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -533,15 +525,15 @@ In UFO investigations, this makes navigation lights and strobes an important dia
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nav-lights-when-aircraft-lights-do-not-look-like-aircraft-ifos-causes-of-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="nav-lights-when-aircraft-lights-do-not-look-like-aircraft-ifos-causes-of-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 20cm FedEx Express ATR Airplane Model Diecast Metal Aircraft Collectible Gift"><img src="{{ '/assets/images/marketplace-covers/ba31d36476c4410af7dd.jpg' | relative_url }}" alt="Listing image for 20cm FedEx Express ATR Airplane Model Diecast Metal Aircraft Collectible Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aircraft-lights-do-not-look-like-aircraft-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="when-aircraft-lights-do-not-look-like-aircraft-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Airbus A380 Emirates Model Plane 18in LED Light Touch Sound Control Aircraft"><img src="https://i.ebayimg.com/images/g/ofMAAeSwJe1psX3h/s-l225.jpg" alt="Listing image for Airbus A380 Emirates Model Plane 18in LED Light Touch Sound Control Aircraft" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nav-lights-when-aircraft-lights-do-not-look-like-aircraft-ifos-causes-of-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="nav-lights-when-aircraft-lights-do-not-look-like-aircraft-ifos-causes-of-airplane-model" target="_blank" rel="sponsored noopener noreferrer">20cm FedEx Express ATR Airplane Model Diecast Metal Aircraft Collectible Gift</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aircraft-lights-do-not-look-like-aircraft-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="when-aircraft-lights-do-not-look-like-aircraft-airplane-model" target="_blank" rel="sponsored noopener noreferrer">Airbus A380 Emirates Model Plane 18in LED Light Touch Sound Control Aircraft</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nav-lights-when-aircraft-lights-do-not-look-like-aircraft-ifos-causes-of-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="nav-lights-when-aircraft-lights-do-not-look-like-aircraft-ifos-causes-of-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aircraft-lights-do-not-look-like-aircraft-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="when-aircraft-lights-do-not-look-like-aircraft-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nav-lights-when-aircraft-lights-do-not-look-like-aircraft-ifos-causes-of-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="nav-lights-when-aircraft-lights-do-not-look-like-aircraft-ifos-causes-of-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aircraft-lights-do-not-look-like-aircraft-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="when-aircraft-lights-do-not-look-like-aircraft-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -549,7 +541,7 @@ In UFO investigations, this makes navigation lights and strobes an important dia
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nav-lights-when-aircraft-lights-do-not-look-like-aircraft-ifos-causes-of-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="nav-lights-when-aircraft-lights-do-not-look-like-aircraft-ifos-causes-of-airplane-model" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aircraft-lights-do-not-look-like-aircraft-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="when-aircraft-lights-do-not-look-like-aircraft-airplane-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -765,183 +757,183 @@ In UFO investigations, this makes navigation lights and strobes an important dia
 1. <a id="endnote-1"></a>
    Source: aopa.org  
    Title: what am i anticollision lights  
-   Link: [https://www.aopa.org/news-and-media/all-news/2023/june/flight-training-magazine/what-am-i-anticollision-lights](https://www.aopa.org/news-and-media/all-news/2023/june/flight-training-magazine/what-am-i-anticollision-lights)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AOPAAnticollision lights12 Apr 2023 — “Navigation” or “position” lights, the red and green lights on the wing tips and white on the tail...</p></details>
+   Link: <a href="https://www.aopa.org/news-and-media/all-news/2023/june/flight-training-magazine/what-am-i-anticollision-lights" target="_blank" rel="noopener noreferrer nofollow">https://www.aopa.org/news-and-media/all-news/2023/june/flight-training-magazine/what-am-i-anticollision-lights</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Anticollision lights12 Apr 2023 — “Navigation” or “position” lights, the red and green lights on the wing tips and white on the tail...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: skybrary.aero  
-   Link: [https://skybrary.aero/articles/external-lights](https://skybrary.aero/articles/external-lights)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SkybraryExternal Lights | SKYbrary Aviation SafetyThe following lighting systems are intended to reduce the potential of collision, by ma...</p></details>
+   Link: <a href="https://skybrary.aero/articles/external-lights" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/external-lights</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>External Lights | SKYbrary Aviation SafetyThe following lighting systems are intended to reduce the potential of collision, by ma...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: migflug.com  
    Title: red green white flash what every light on a plane means  
-   Link: [https://migflug.com/jetflights/red-green-white-flash-what-every-light-on-a-plane-means/](https://migflug.com/jetflights/red-green-white-flash-what-every-light-on-a-plane-means/)  
+   Link: <a href="https://migflug.com/jetflights/red-green-white-flash-what-every-light-on-a-plane-means/" target="_blank" rel="noopener noreferrer nofollow">https://migflug.com/jetflights/red-green-white-flash-what-every-light-on-a-plane-means/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Red, Green, White, Flash: What Every Light on a Plane...Apr 8, 2026 — Every aircraft is required to display three: a red light on the le...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: wiki.ivao.aero  
-   Link: [https://wiki.ivao.aero/en/home/training/documentation/Aeroplane_lights](https://wiki.ivao.aero/en/home/training/documentation/Aeroplane_lights)  
+   Link: <a href="https://wiki.ivao.aero/en/home/training/documentation/Aeroplane_lights" target="_blank" rel="noopener noreferrer nofollow">https://wiki.ivao.aero/en/home/training/documentation/Aeroplane_lights</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>IVAO Documentation LibraryAeroplane lights | IVAO Documentation LibraryIf a white light is seen, this aircraft is seen from the rear, fly...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/mohammad-eslahi-8a2649224_aircraft-navigation-lights-also-known-activity-7361388907562754048-oUJ1](https://www.linkedin.com/posts/mohammad-eslahi-8a2649224_aircraft-navigation-lights-also-known-activity-7361388907562754048-oUJ1)  
+   Link: <a href="https://www.linkedin.com/posts/mohammad-eslahi-8a2649224_aircraft-navigation-lights-also-known-activity-7361388907562754048-oUJ1" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/mohammad-eslahi-8a2649224_aircraft-navigation-lights-also-known-activity-7361388907562754048-oUJ1</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft Navigation Lights: Position, Direction, and...✈️Visibility: The lights are designed to be visible from a certain distance and a...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: rtx.com  
    Title: Anti-Collision Lights | Collins Aerospace  
-   Link: [https://www.rtx.com/collinsaerospace/what-we-do/industries/commercial-aviation/exteriors/lighting/anti-collision-lights](https://www.rtx.com/collinsaerospace/what-we-do/industries/commercial-aviation/exteriors/lighting/anti-collision-lights)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RTXAnti-Collision Lights | Collins Aerospace - RTXOur LED anti-collision lights – also known as beacon or strobe lights – improve the vis...</p></details>
+   Link: <a href="https://www.rtx.com/collinsaerospace/what-we-do/industries/commercial-aviation/exteriors/lighting/anti-collision-lights" target="_blank" rel="noopener noreferrer nofollow">https://www.rtx.com/collinsaerospace/what-we-do/industries/commercial-aviation/exteriors/lighting/anti-collision-lights</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Anti-Collision Lights | Collins Aerospace - RTXOur LED anti-collision lights – also known as beacon or strobe lights – improve the vis...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: skybrary.aero  
-   Link: [https://skybrary.aero/articles/vision-oghfa-bn](https://skybrary.aero/articles/vision-oghfa-bn)  
+   Link: <a href="https://skybrary.aero/articles/vision-oghfa-bn" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/vision-oghfa-bn</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Vision (OGHFA BN) | SKYbrary Aviation SafetyBrief flashes from high-intensity, white strobe lights, which are commonly used as aircraft a...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: skybrary.aero  
-   Link: [https://skybrary.aero/articles/visual-illusions](https://skybrary.aero/articles/visual-illusions)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SkybraryVisual IllusionsAutokinesis: When flying at night, if a pilot stares at a stationary light in the distance for long enough, the l...</p></details>
+   Link: <a href="https://skybrary.aero/articles/visual-illusions" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/visual-illusions</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Visual IllusionsAutokinesis: When flying at night, if a pilot stares at a stationary light in the distance for long enough, the l...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: skybrary.aero  
-   Link: [https://skybrary.aero/articles/autokinetic-effect](https://skybrary.aero/articles/autokinetic-effect)  
+   Link: <a href="https://skybrary.aero/articles/autokinetic-effect" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/autokinetic-effect</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Autokinetic EffectTo prevent this illusion, focus the eyes on objects at varying distances and avoid fixating on one target. Be sure to m...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: skybrary.aero  
-   Link: [https://skybrary.aero/sites/default/files/bookshelf/1816.pdf](https://skybrary.aero/sites/default/files/bookshelf/1816.pdf)  
+   Link: <a href="https://skybrary.aero/sites/default/files/bookshelf/1816.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/sites/default/files/bookshelf/1816.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Explanatory Factors17 Sept 2010 — Auto kinesis visual illusions. 102040205. Factors related to auto kinesis. Auto kinesis occurs primaril...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: skybrary.aero  
-   Link: [https://skybrary.aero/articles/transition-visual-flight-night-oghfa-se](https://skybrary.aero/articles/transition-visual-flight-night-oghfa-se)  
+   Link: <a href="https://skybrary.aero/articles/transition-visual-flight-night-oghfa-se" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/transition-visual-flight-night-oghfa-se</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>associated with transitioning to VMC at night, being alert for black...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: skybrary.aero  
-   Link: [https://skybrary.aero/articles/night-visual-approaches](https://skybrary.aero/articles/night-visual-approaches)  
+   Link: <a href="https://skybrary.aero/articles/night-visual-approaches" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/night-visual-approaches</a>  
 
 13. <a id="endnote-13"></a>
    Source: skybrary.aero  
-   Link: [https://skybrary.aero/articles/general-aviation-night-flying-guidance](https://skybrary.aero/articles/general-aviation-night-flying-guidance)  
+   Link: <a href="https://skybrary.aero/articles/general-aviation-night-flying-guidance" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/general-aviation-night-flying-guidance</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>General Aviation Night Flying GuidanceA good way to avoid night illusions is to fly to and from airports with Visual Approach Slope Indic...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: skybrary.aero  
-   Link: [https://skybrary.aero/articles/lessening-effects-visual-illusions](https://skybrary.aero/articles/lessening-effects-visual-illusions)  
+   Link: <a href="https://skybrary.aero/articles/lessening-effects-visual-illusions" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/lessening-effects-visual-illusions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ew from correctly perceiving the rising terrain.&quot; Type of...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: skybrary.aero  
-   Link: [https://skybrary.aero/bookshelf/understanding-visual-illusions-and-disorientation](https://skybrary.aero/bookshelf/understanding-visual-illusions-and-disorientation)  
+   Link: <a href="https://skybrary.aero/bookshelf/understanding-visual-illusions-and-disorientation" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/bookshelf/understanding-visual-illusions-and-disorientation</a>  
 
 16. <a id="endnote-16"></a>
    Source: flightsafety.org  
    Title: in the dark  
-   Link: [https://flightsafety.org/asw-article/in-the-dark/](https://flightsafety.org/asw-article/in-the-dark/)  
+   Link: <a href="https://flightsafety.org/asw-article/in-the-dark/" target="_blank" rel="noopener noreferrer nofollow">https://flightsafety.org/asw-article/in-the-dark/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Flight Safety FoundationIn the Dark20 Jan 2017 — Visual acuity during pure night vision is the equivalent of 20/200 vision or less, as me...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: cfinotebook.net  
-   Link: [https://www.cfinotebook.net/notebook/operation-of-aircraft-systems/aircraft-lighting](https://www.cfinotebook.net/notebook/operation-of-aircraft-systems/aircraft-lighting)  
+   Link: <a href="https://www.cfinotebook.net/notebook/operation-of-aircraft-systems/aircraft-lighting" target="_blank" rel="noopener noreferrer nofollow">https://www.cfinotebook.net/notebook/operation-of-aircraft-systems/aircraft-lighting</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft Lighting - Operation of Aircraft Systems - CFI NotebookAn aircraft anti-collision light system can use one or more rotating beac...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: jrupprechtlaw.com  
-   Link: [https://jrupprechtlaw.com/drone-anti-collision-lights/](https://jrupprechtlaw.com/drone-anti-collision-lights/)  
+   Link: <a href="https://jrupprechtlaw.com/drone-anti-collision-lights/" target="_blank" rel="noopener noreferrer nofollow">https://jrupprechtlaw.com/drone-anti-collision-lights/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ultimate Guide to Drone Anti-Collision LightsAnti-collision lights are (1) red or white and (2) blinking/strobing. Navigation lights are...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: law.cornell.edu  
-   Link: [https://www.law.cornell.edu/cfr/text/14/23.2530](https://www.law.cornell.edu/cfr/text/14/23.2530)  
+   Link: <a href="https://www.law.cornell.edu/cfr/text/14/23.2530" target="_blank" rel="noopener noreferrer nofollow">https://www.law.cornell.edu/cfr/text/14/23.2530</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Legal Information Institute14 CFR § 23.2530 - External and cockpit lighting...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: pilotinstitute.com  
    Title: The white light is located on the aircraft's tail  
-   Link: [https://pilotinstitute.com/airplane-lights/](https://pilotinstitute.com/airplane-lights/)  
+   Link: <a href="https://pilotinstitute.com/airplane-lights/" target="_blank" rel="noopener noreferrer nofollow">https://pilotinstitute.com/airplane-lights/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pilot InstituteAirplane Lights: What Each Light Does (Red/Green, Strobe...26 Dec 2024 — The right wingtip contains the green light, wit...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: epicflightacademy.com  
-   Link: [https://epicflightacademy.com/aircraft-lights/](https://epicflightacademy.com/aircraft-lights/)  
+   Link: <a href="https://epicflightacademy.com/aircraft-lights/" target="_blank" rel="noopener noreferrer nofollow">https://epicflightacademy.com/aircraft-lights/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Epic Flight AcademyAircraft Lighting: Types, Importance, and Regulations3 Mar 2026 — Navigation lights must be on from sunset to sunrise...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: hartzellprop.com  
    Title: watch out for night flight illusions  
-   Link: [https://hartzellprop.com/watch-out-for-night-flight-illusions/](https://hartzellprop.com/watch-out-for-night-flight-illusions/)  
+   Link: <a href="https://hartzellprop.com/watch-out-for-night-flight-illusions/" target="_blank" rel="noopener noreferrer nofollow">https://hartzellprop.com/watch-out-for-night-flight-illusions/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This illusion happens when a pilot stares at a bright, stationary light set against a...Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: Wikipedia  
    Title: Navigation light  
-   Link: [https://en.wikipedia.org/wiki/Navigation_light](https://en.wikipedia.org/wiki/Navigation_light)  
+   Link: <a href="https://en.wikipedia.org/wiki/Navigation_light" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Navigation_light</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Navigation lightA navigation light, also known as a running or position light, is a source of illumination on a watercraft, aircraft o...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: pprune.org  
    Title: Night visual black Hole approaches  
-   Link: [https://www.pprune.org/pacific-general-aviation-questions/616212-night-visual-black-hole-approaches-skybrary-article.html](https://www.pprune.org/pacific-general-aviation-questions/616212-night-visual-black-hole-approaches-skybrary-article.html)  
+   Link: <a href="https://www.pprune.org/pacific-general-aviation-questions/616212-night-visual-black-hole-approaches-skybrary-article.html" target="_blank" rel="noopener noreferrer nofollow">https://www.pprune.org/pacific-general-aviation-questions/616212-night-visual-black-hole-approaches-skybrary-article.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Skybrary article.10 Dec 2018 — A black-hole approach illusion can happen during a final approach at night (with no [stars](&amp;#123;&amp;#123; &#x27;stars/&#x27; | relative_url &amp;#125;&amp;#125;) or moonlight) ov...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: aviationhunt.com  
    Title: aircraft navigation lights  
-   Link: [https://www.aviationhunt.com/aircraft-navigation-lights/](https://www.aviationhunt.com/aircraft-navigation-lights/)  
+   Link: <a href="https://www.aviationhunt.com/aircraft-navigation-lights/" target="_blank" rel="noopener noreferrer nofollow">https://www.aviationhunt.com/aircraft-navigation-lights/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>21 Nov 2024 — Their primary purpose is to enhance visibility, especially during critical phases of flight like night operations, takeoffs...</p></details>
 
 ### Additional References
 
 26. <a id="endnote-26"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf](https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf)  
+   Link: <a href="https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spatial Disorientation: Visual IllusionsFalse Visual Reference Illusions may cause you to orient your aircraft in relation to a false hor...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DXVs4TCjiev/](https://www.instagram.com/reel/DXVs4TCjiev/)  
+   Link: <a href="https://www.instagram.com/reel/DXVs4TCjiev/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXVs4TCjiev/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Commercial aircraft must operate anti-collision lights (beacons...NAVIGATION LIGHTS Red 110º Green 110º White 140º Navigation lights req...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: aviationsafetymagazine.com  
-   Link: [https://aviationsafetymagazine.com/airmanship/night-moves/](https://aviationsafetymagazine.com/airmanship/night-moves/)  
+   Link: <a href="https://aviationsafetymagazine.com/airmanship/night-moves/" target="_blank" rel="noopener noreferrer nofollow">https://aviationsafetymagazine.com/airmanship/night-moves/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Night MovesAnd our equipment is less-forgiving at night: lighting can fail and if a single&#x27;s engine quits beyond gliding range from a lig...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: studyaircrafts.com  
-   Link: [https://www.studyaircrafts.com/aircrafts-lights](https://www.studyaircrafts.com/aircrafts-lights)  
+   Link: <a href="https://www.studyaircrafts.com/aircrafts-lights" target="_blank" rel="noopener noreferrer nofollow">https://www.studyaircrafts.com/aircrafts-lights</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aircrafts LightsA green light at or near the starboard (right) wing tip, visible in the horizontal plane from a point directly ahead thro...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: revonlighting.com  
    Title: Aircraft Navigation Lights Essential Guide to Visibility and Safety in Aviation  
-   Link: [https://www.revonlighting.com/n/Aircraft-Navigation-Lights--Essential-Guide-to-Visibility-and-Safety-in-Aviation/512](https://www.revonlighting.com/n/Aircraft-Navigation-Lights--Essential-Guide-to-Visibility-and-Safety-in-Aviation/512)  
+   Link: <a href="https://www.revonlighting.com/n/Aircraft-Navigation-Lights--Essential-Guide-to-Visibility-and-Safety-in-Aviation/512" target="_blank" rel="noopener noreferrer nofollow">https://www.revonlighting.com/n/Aircraft-Navigation-Lights--Essential-Guide-to-Visibility-and-Safety-in-Aviation/512</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft Navigation Lights: Essential Guide to Visibility and...21 Apr 2025 — White Light (Tail): Positioned at the rear, the white ligh...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/coolguides/comments/16pu5xe/a_cool_guide_to_why_do_airplanes_have_red_and/](https://www.reddit.com/r/coolguides/comments/16pu5xe/a_cool_guide_to_why_do_airplanes_have_red_and/)  
+   Link: <a href="https://www.reddit.com/r/coolguides/comments/16pu5xe/a_cool_guide_to_why_do_airplanes_have_red_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/coolguides/comments/16pu5xe/a_cool_guide_to_why_do_airplanes_have_red_and/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Located at the tail. it is white and on whenever NAV Lights are on to indicate direction of travel at the side viewing...Read more...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=3yfEYmyH-Ro](https://www.youtube.com/watch?v=3yfEYmyH-Ro)  
+   Link: <a href="https://www.youtube.com/watch?v=3yfEYmyH-Ro" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3yfEYmyH-Ro</a>  
 
 33. <a id="endnote-33"></a>
    Source: cliffsnotes.com  
-   Link: [https://www.cliffsnotes.com/cliffs-questions/3060528](https://www.cliffsnotes.com/cliffs-questions/3060528)  
+   Link: <a href="https://www.cliffsnotes.com/cliffs-questions/3060528" target="_blank" rel="noopener noreferrer nofollow">https://www.cliffsnotes.com/cliffs-questions/3060528</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Explanation: Autokinesis, or the autokinetic effect, is an optical illusion where a steady...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_1.html](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_1.html)  
+   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_1.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>e information during the approach to a runway.Read more...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/MHIRJAv/posts/navigation-lights-are-a-critical-factor-for-every-flight-from-the-moment-the-pla/1310963881069510/](https://www.facebook.com/MHIRJAv/posts/navigation-lights-are-a-critical-factor-for-every-flight-from-the-moment-the-pla/1310963881069510/)  
+   Link: <a href="https://www.facebook.com/MHIRJAv/posts/navigation-lights-are-a-critical-factor-for-every-flight-from-the-moment-the-pla/1310963881069510/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MHIRJAv/posts/navigation-lights-are-a-critical-factor-for-every-flight-from-the-moment-the-pla/1310963881069510/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>tail Purpose: Helps determine aircraft direction at night Prevents...</p></details>

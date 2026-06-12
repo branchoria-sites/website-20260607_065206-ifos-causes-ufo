@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_stellarium_ufo_recre_d8b620
 - ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_venus_ufo_chart_chec_ca09cd
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - sky-charts
 - missing-details
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - sky-charts
 - missing-details
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Without exact time, direction and elevation, even accurate sky charts may be unable to confirm or reject a planet explanation.
 hero_summary: Without exact time, direction and elevation, even accurate sky charts may be unable to confirm or reject a planet explanation.
 layout: default
 permalink: /missing-details/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /sky-charts/
 nav_short_title: Missing Details
 title: Why Some UFO Charts Cannot Decide
-title_full: Why Some UFO Charts Cannot Decide | Sky Charts
+title_full: Why Some UFO Charts Cannot Decide
 display_title_short: Missing Details
 display_title: Missing Details
 heading_title: Why Some UFO Charts Cannot Decide
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 21:44:27'
-parent_title: How to Check a UFO Against the Sky | IFOs
+parent_title: How to Check a UFO Against the Sky
 parent_permalink: /sky-charts/
 parent_nav_short_title: Sky Charts
 parent_heading_title: How to Check a UFO Against the Sky
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725
-  title: Sky Charts | Ifos Causes Of
+  title: Sky Charts | ifos causes of UFO 3 ed 238
   permalink: /sky-charts/
   short_title: Sky Charts
   heading_title: How to Check a UFO Against the Sky
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725
-  title: Sky Charts | Ifos Causes Of
+  title: Sky Charts | ifos causes of UFO 3 ed 238
   permalink: /sky-charts/
   short_title: Sky Charts
   heading_title: How to Check a UFO Against the Sky
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: Was the UFO Really Venus?
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725
-  title: Sky Charts | Ifos Causes Of
+  title: Sky Charts | ifos causes of UFO 3 ed 238
   permalink: /sky-charts/
   short_title: Sky Charts
   heading_title: How to Check a UFO Against the Sky
@@ -266,6 +265,7 @@ next_link:
   permalink: /stellarium-use/
   short_title: Stellarium Use
   heading_title: How to Rebuild a UFO Sky
+date: '2026-06-12 00:48:10 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_missing_ufo_sighting_dd6a86-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_missing_ufo_sighting_dd6a86-Illustration-1.webp
@@ -274,8 +274,7 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_mis
 
 ## Introduction
 
-[Astronomical charts]({{ 'sky-charts/' | relative_url }}) can often test whether a reported UFO was actually a bright planet, star, meteor, or other known object. However, many older UFO reports cannot be checked reliably because the original records lack the details needed to reconstruct the sky. In such cases, even the most accurate planetarium software cannot provide a decisive answer. The problem is not usually the quality of the charts; it is the quality of the historical data.
-
+Astronomical charts can often test whether a reported UFO was actually a bright planet, star, meteor, or other known object. However, many older UFO reports cannot be checked reliably because the original records lack the details needed to reconstruct the sky. In such cases, even the most accurate planetarium software cannot provide a decisive answer. The problem is not usually the quality of the charts; it is the quality of the historical data.
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_missing_ufo_sighting_dd6a86-Illustration-1-dark.svg" | relative_url }}" alt="Missing Details illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_missing_ufo_sighting_dd6a86-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_missing_ufo_sighting_dd6a86-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This limitation is important because astronomical objects account for a large share of identified UFO reports. Studies of UFO case files have repeatedly found that bright planets, [stars]({{ 'stars/' | relative_url }}), [meteors]({{ 'meteors/' | relative_url }}), and related phenomena explain many sightings once their positions are compared with witness descriptions. Yet a significant number of reports remain unresolved simply because the observation details are incomplete or contradictory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Identification studies of UFOs</span><span class="citation-popover-snippet">Identification studies of UFOs</span></span></span>
@@ -283,7 +282,6 @@ This limitation is important because astronomical objects account for a large sh
 ## Which Missing Details Matter Most
 
 When investigators attempt to compare an old UFO report with astronomical records, three pieces of information are especially valuable:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -297,10 +295,9 @@ If any one of these is missing, confidence drops. If two or more are absent, a c
 
 A report stating that a bright object was seen "one evening in autumn" provides very little to work with. [Venus]({{ 'venus/' | relative_url }}), Jupiter, bright stars, aircraft, and atmospheric effects can occupy dramatically different positions depending on the date and time. Even a difference of one hour can move a planet noticeably across the sky, while a difference of several weeks may place it in an entirely different region. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in the United Kingdom</span><span class="citation-popover-snippet">UFO sightings in the United KingdomThis is a list of notable alleged sightings of unidentified flying objects (UFOs) in the United Kin...</span></span></span>
 
-Direction is equally important. A witness who remembers only that an object was "over there" or "towards the hills" leaves investigators unable to test whether a bright planet occupied the reported position. Many successful astronomical identifications depend on matching a celestial object's location to a specific compass bearing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://vocal.media/futurism/how-can-venus-be-a-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vocal.media">[Vocal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vocal.media</span><span class="citation-popover-title">How Can Venus Be a UFO?</span><span class="citation-popover-snippet">| Futurism - Vocal MediaDespite the wavering accuracy of these reports, the phenomena were easily identified as Venus because of their re...</span></span></span>
+Direction is equally important. A witness who remembers only that an object was "over there" or "towards the hills" leaves investigators unable to test whether a bright planet occupied the reported position. Many successful astronomical identifications depend on matching a celestial object's location to a specific compass bearing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://vocal.media/futurism/how-can-venus-be-a-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vocal.media">[Vocal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vocal.media</span><span class="citation-popover-title">How Can Venus Be a UFO?</span><span class="citation-popover-snippet">Futurism - Vocal MediaDespite the wavering accuracy of these reports, the phenomena were easily identified as Venus because of their re...</span></span></span>
 
 Elevation is often overlooked. A bright object low on the horizon behaves differently from one high overhead. Atmospheric distortion near the horizon can make planets appear larger, coloured, shimmering, or apparently mobile. Without an estimate of height above the horizon, investigators lose another critical comparison point. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://theness.com/neurologicablog/264/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theness.com">[The NESS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theness.com</span><span class="citation-popover-title">The NESSUFO&#x27; and the Argument from Ignorance</span><span class="citation-popover-snippet">Astronomical objects seem to be the most commonly mistaken for UFOs;...Read more...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1zRWi_r3HRM" title="&quot;100,000 UFOs Are Surrounding Earth!&quot; ft. Top Astronomer Beatriz Villarroel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1zRWi_r3HRM" target="_blank" rel="noopener noreferrer">&quot;100,000 UFOs Are Surrounding Earth!&quot; ft. Top Astronomer Beatriz Villarroel</a></p><p class="youtube-embed-meta">Channel: Jesse Michels &middot; Views: 882.8K &middot; Uploaded: October 2025 &middot; Length: 1 hour 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1zRWi_r3HRM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1zRWi_r3HRM">Open on YouTube</a></p></div></div></div>
 
@@ -316,7 +313,6 @@ Some well-known UFO cases have accumulated additional details decades after the 
 
 The result is a paradox: the more dramatic a story becomes over time, the less certain investigators may be that the later version reflects the original observation.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_missing_ufo_sighting_dd6a86-Illustration-2-dark.svg" | relative_url }}" alt="Missing Details illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_missing_ufo_sighting_dd6a86-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_missing_ufo_sighting_dd6a86-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Incomplete Reports Stay Disputed
 
@@ -330,7 +326,6 @@ The problem is visible in several large UFO catalogues. Investigator Allan Hendr
 
 For astronomical checking, an incomplete report is often less useful than a detailed report that ultimately proves to be a misidentified planet. The latter can be tested; the former cannot.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VSOzBMjww9o" title="Why Congress Is Seriously Investigating UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VSOzBMjww9o" target="_blank" rel="noopener noreferrer">Why Congress Is Seriously Investigating UFOs</a></p><p class="youtube-embed-meta">Channel: Astrum &middot; Views: 1.2M &middot; Uploaded: July 2025 &middot; Length: 37 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VSOzBMjww9o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VSOzBMjww9o">Open on YouTube</a></p></div></div></div>
 
 ## Records That Strengthen Later Checks
@@ -338,7 +333,6 @@ For astronomical checking, an incomplete report is often less useful than a deta
 Historical UFO reports become much more useful when they preserve details that allow later reconstruction of the sky.
 
 The strongest records typically include:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -357,7 +351,6 @@ Even simple details can be surprisingly valuable. A witness who notes that an ob
 
 Independent contemporary records are especially important. Newspaper reports, police logs, air traffic records, diaries, and original witness statements often preserve information before memory drift occurs. Investigators generally place more weight on these contemporaneous records than on recollections recorded many years later. <span class="citation-chip-wrap"><a class="citation-chip" href="https://books.google.com/books/about/The_UFO_Experience.html?id=joJTAAAAMAAJ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: books.google.com">[Google Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">books.google.com</span><span class="citation-popover-snippet">Google BooksThe UFO Experience: A Scientific InquiryDrawing from his experience as a scientific consultant to the US Air Force regarding...</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_missing_ufo_sighting_dd6a86-Illustration-3-dark.svg" | relative_url }}" alt="Missing Details illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_missing_ufo_sighting_dd6a86-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_missing_ufo_sighting_dd6a86-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Some UFO Charts Cannot Decide
 
@@ -365,9 +358,7 @@ Astronomical charts are powerful tools for identifying many UFO reports, particu
 
 As a result, some historical UFO cases remain disputed not because they resist every conventional explanation, but because the information needed to test those explanations has been lost. In such situations, a sky chart cannot confirm a planetary explanation, but it cannot rule one out either. The limitation lies in the record, not in the astronomy.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/itxr6VGyQrs" title="How to Find Stars, Planets, Constellations and Other Objects in the Night Sky?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=itxr6VGyQrs" target="_blank" rel="noopener noreferrer">How to Find Stars, Planets, Constellations and Other Objects in the Night Sky?</a></p><p class="youtube-embed-meta">Channel: Star Walk &middot; Views: 18.0K &middot; Uploaded: May 2020 &middot; Length: 43 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=itxr6VGyQrs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=itxr6VGyQrs">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -486,15 +477,15 @@ As a result, some historical UFO cases remain disputed not because they resist e
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-details-why-some-ufo-charts-cannot-decide-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="missing-details-why-some-ufo-charts-cannot-decide-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-charts-cannot-decide-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="why-some-ufo-charts-cannot-decide-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A3/A4 SIZE - Star Chart Educational Map of the sky cosmos PANORAMA POSTER # 4"><img src="https://i.ebayimg.com/images/g/csEAAOSwQjNW97sw/s-l225.jpg" alt="Listing image for A3/A4 SIZE - Star Chart Educational Map of the sky cosmos PANORAMA POSTER # 4" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-details-why-some-ufo-charts-cannot-decide-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="missing-details-why-some-ufo-charts-cannot-decide-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-charts-cannot-decide-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="why-some-ufo-charts-cannot-decide-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer">A3/A4 SIZE - Star Chart Educational Map of the sky cosmos PANORAMA POSTER # 4</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-details-why-some-ufo-charts-cannot-decide-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="missing-details-why-some-ufo-charts-cannot-decide-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-charts-cannot-decide-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="why-some-ufo-charts-cannot-decide-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: star chart poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-details-why-some-ufo-charts-cannot-decide-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="missing-details-why-some-ufo-charts-cannot-decide-ifos-causes-of-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-charts-cannot-decide-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="why-some-ufo-charts-cannot-decide-star-chart-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -502,15 +493,15 @@ As a result, some historical UFO cases remain disputed not because they resist e
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-details-why-some-ufo-charts-cannot-decide-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="missing-details-why-some-ufo-charts-cannot-decide-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-charts-cannot-decide-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="why-some-ufo-charts-cannot-decide-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Star Chart Sky Cosmos Space Educational Map Wall Picture Poster"><img src="https://i.ebayimg.com/images/g/uGoAAOSwIaxhi8tJ/s-l225.jpg" alt="Listing image for Star Chart Sky Cosmos Space Educational Map Wall Picture Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-details-why-some-ufo-charts-cannot-decide-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="missing-details-why-some-ufo-charts-cannot-decide-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-charts-cannot-decide-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="why-some-ufo-charts-cannot-decide-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer">Star Chart Sky Cosmos Space Educational Map Wall Picture Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-details-why-some-ufo-charts-cannot-decide-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="missing-details-why-some-ufo-charts-cannot-decide-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-charts-cannot-decide-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="why-some-ufo-charts-cannot-decide-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: star chart poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-details-why-some-ufo-charts-cannot-decide-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="missing-details-why-some-ufo-charts-cannot-decide-ifos-causes-of-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-charts-cannot-decide-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="why-some-ufo-charts-cannot-decide-star-chart-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -518,15 +509,15 @@ As a result, some historical UFO cases remain disputed not because they resist e
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-details-why-some-ufo-charts-cannot-decide-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="missing-details-why-some-ufo-charts-cannot-decide-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-charts-cannot-decide-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="why-some-ufo-charts-cannot-decide-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Star Chart Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/PVQAAeSw7pFp2SKq/s-l225.jpg" alt="Listing image for Star Chart Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-details-why-some-ufo-charts-cannot-decide-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="missing-details-why-some-ufo-charts-cannot-decide-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-charts-cannot-decide-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="why-some-ufo-charts-cannot-decide-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer">Star Chart Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-details-why-some-ufo-charts-cannot-decide-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="missing-details-why-some-ufo-charts-cannot-decide-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-charts-cannot-decide-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="why-some-ufo-charts-cannot-decide-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: star chart poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-details-why-some-ufo-charts-cannot-decide-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="missing-details-why-some-ufo-charts-cannot-decide-ifos-causes-of-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-charts-cannot-decide-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="why-some-ufo-charts-cannot-decide-star-chart-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -534,15 +525,15 @@ As a result, some historical UFO cases remain disputed not because they resist e
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-details-why-some-ufo-charts-cannot-decide-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="missing-details-why-some-ufo-charts-cannot-decide-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1960s set of three UFO wall art"><img src="{{ '/assets/images/marketplace-covers/be68d6dc5e42b0f085ad.jpg' | relative_url }}" alt="Listing image for Vintage 1960s set of three UFO wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-charts-cannot-decide-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="why-some-ufo-charts-cannot-decide-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Star Chart Sky Space Cosmos Educational Map Print Poster Wall Art Picture A4 +"><img src="https://i.ebayimg.com/images/g/fk0AAOSwcYRj0kh~/s-l225.jpg" alt="Listing image for Star Chart Sky Space Cosmos Educational Map Print Poster Wall Art Picture A4 +" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-details-why-some-ufo-charts-cannot-decide-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="missing-details-why-some-ufo-charts-cannot-decide-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vintage 1960s set of three UFO wall art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-charts-cannot-decide-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="why-some-ufo-charts-cannot-decide-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer">Star Chart Sky Space Cosmos Educational Map Print Poster Wall Art Picture A4 +</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-details-why-some-ufo-charts-cannot-decide-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="missing-details-why-some-ufo-charts-cannot-decide-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-charts-cannot-decide-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="why-some-ufo-charts-cannot-decide-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: star chart poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-details-why-some-ufo-charts-cannot-decide-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="missing-details-why-some-ufo-charts-cannot-decide-ifos-causes-of-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-charts-cannot-decide-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="why-some-ufo-charts-cannot-decide-star-chart-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -550,7 +541,7 @@ As a result, some historical UFO cases remain disputed not because they resist e
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-details-why-some-ufo-charts-cannot-decide-ifos-causes-of-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="missing-details-why-some-ufo-charts-cannot-decide-ifos-causes-of-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-ufo-charts-cannot-decide-star-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart poster" data-ebay-reference="why-some-ufo-charts-cannot-decide-star-chart-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -766,98 +757,98 @@ As a result, some historical UFO cases remain disputed not because they resist e
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Identification studies of UFOs  
-   Link: [https://en.wikipedia.org/wiki/Identification_studies_of_UFOs](https://en.wikipedia.org/wiki/Identification_studies_of_UFOs)  
+   Link: <a href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Identification_studies_of_UFOs</a>  
 
 2. <a id="endnote-2"></a>
    Source: vocal.media  
    Title: How Can Venus Be a UFO?  
-   Link: [https://vocal.media/futurism/how-can-venus-be-a-ufo](https://vocal.media/futurism/how-can-venus-be-a-ufo)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>| Futurism - Vocal MediaDespite the wavering accuracy of these reports, the phenomena were easily identified as Venus because of their re...</p></details>
+   Link: <a href="https://vocal.media/futurism/how-can-venus-be-a-ufo" target="_blank" rel="noopener noreferrer nofollow">https://vocal.media/futurism/how-can-venus-be-a-ufo</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Futurism - Vocal MediaDespite the wavering accuracy of these reports, the phenomena were easily identified as Venus because of their re...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: books.google.com  
-   Link: [https://books.google.com/books/about/The_UFO_Experience.html?id=joJTAAAAMAAJ](https://books.google.com/books/about/The_UFO_Experience.html?id=joJTAAAAMAAJ)  
+   Link: <a href="https://books.google.com/books/about/The_UFO_Experience.html?id=joJTAAAAMAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/The_UFO_Experience.html?id=joJTAAAAMAAJ</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google BooksThe UFO Experience: A Scientific InquiryDrawing from his experience as a scientific consultant to the US Air Force regarding...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: UFO sightings in the United Kingdom  
-   Link: [https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom](https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in the United KingdomThis is a list of notable alleged sightings of unidentified flying objects (UFOs) in the United Kin...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Unidentified flying object  
-   Link: [https://en.wikipedia.org/wiki/Unidentified_flying_object](https://en.wikipedia.org/wiki/Unidentified_flying_object)  
+   Link: <a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified flying objectAn unidentified flying object (UFO) is an object or phenomenon seen in the sky but not yet identified or exp...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: theness.com  
    Title: The NESSUFO' and the Argument from Ignorance  
-   Link: [https://theness.com/neurologicablog/264/](https://theness.com/neurologicablog/264/)  
+   Link: <a href="https://theness.com/neurologicablog/264/" target="_blank" rel="noopener noreferrer nofollow">https://theness.com/neurologicablog/264/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Astronomical objects seem to be the most commonly mistaken for UFOs;...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case](https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case)  
+   Link: <a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The most notable encounter involved U.S. Air Force personnel Jim Penniston, John Burroughs, and Charles Halt, who reported strange lights...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: theness.com  
    Title: Some UFO Logical Fallacies  
-   Link: [https://theness.com/neurologicablog/some-ufo-logical-fallacies/](https://theness.com/neurologicablog/some-ufo-logical-fallacies/)  
+   Link: <a href="https://theness.com/neurologicablog/some-ufo-logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://theness.com/neurologicablog/some-ufo-logical-fallacies/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NeuroLogica Blog25 Mar 2009 — People report sighting UFOs all the time in unequivocal terms and they are not “unknowns” as if ambiguous o...</p></details>
 
 ### Additional References
 
 9. <a id="endnote-9"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>FLYING SAUCERS UFO REPORTSAstronomers could be found in both camps, those who at- tributed the sighting to Venus, or other planets, and t...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/story/unidentified-flying-objects-what-we-know](https://www.britannica.com/story/unidentified-flying-objects-what-we-know)  
+   Link: <a href="https://www.britannica.com/story/unidentified-flying-objects-what-we-know" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/story/unidentified-flying-objects-what-we-know</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaUnidentified Flying Objects: What We KnowThere are numerous natural phenomena that have been employed to explain U...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: medium.com  
-   Link: [https://medium.com/resonant-archive/close-encounters-and-information-theory-why-ufo-reports-read-like-corrupted-data-2fe7709828ed](https://medium.com/resonant-archive/close-encounters-and-information-theory-why-ufo-reports-read-like-corrupted-data-2fe7709828ed)  
+   Link: <a href="https://medium.com/resonant-archive/close-encounters-and-information-theory-why-ufo-reports-read-like-corrupted-data-2fe7709828ed" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/resonant-archive/close-encounters-and-information-theory-why-ufo-reports-read-like-corrupted-data-2fe7709828ed</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why UFO Reports Read Like Corrupted DataOne: The reports are wrong. Perceptual errors, misidentification, hallucination. Two: The physics...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: cnes-[geipan](&#123;&#123; 'geipan/' | relative_url &#125;&#125;). fr  
-   Link: [https://www.cnes-geipan.fr/sites/default/files/Aids_to_identification_of_flying_objects_0.pdf](https://www.cnes-geipan.fr/sites/default/files/Aids_to_identification_of_flying_objects_0.pdf)  
+   Link: <a href="https://www.cnes-geipan.fr/sites/default/files/Aids_to_identification_of_flying_objects_0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/Aids_to_identification_of_flying_objects_0.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>aids to identification of flying objectsUnidentified Flying Objects (UFOs), or flying saucers as they are known to many persons, have bee...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: goodreads.com  
-   Link: [https://www.goodreads.com/shelf/show/ufos-and-the-paranormal](https://www.goodreads.com/shelf/show/ufos-and-the-paranormal)  
+   Link: <a href="https://www.goodreads.com/shelf/show/ufos-and-the-paranormal" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/shelf/show/ufos-and-the-paranormal</a>  
 
 14. <a id="endnote-14"></a>
    Source: ebay.co.uk  
-   Link: [https://www.ebay.co.uk/b/bn_7022533140](https://www.ebay.co.uk/b/bn_7022533140)  
+   Link: <a href="https://www.ebay.co.uk/b/bn_7022533140" target="_blank" rel="noopener noreferrer nofollow">https://www.ebay.co.uk/b/bn_7022533140</a>  
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
    Title: i do not believe these reports are misidentifications of venus jupiter aircraft  
-   Link: [https://www.facebook.com/wirralglobe/posts/i-do-not-believe-these-reports-are-misidentifications-of-venus-jupiter-aircraft-/1499950764979200/](https://www.facebook.com/wirralglobe/posts/i-do-not-believe-these-reports-are-misidentifications-of-venus-jupiter-aircraft-/1499950764979200/)  
+   Link: <a href="https://www.facebook.com/wirralglobe/posts/i-do-not-believe-these-reports-are-misidentifications-of-venus-jupiter-aircraft-/1499950764979200/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wirralglobe/posts/i-do-not-believe-these-reports-are-misidentifications-of-venus-jupiter-aircraft-/1499950764979200/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;I do not believe these reports are misidentifications of...In 1986 me and my mates saw a UFO and neighbours from the next street we all...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: port.ac.uk  
    Title: ufos what well learn from the nasa panel investigating sightings  
-   Link: [https://www.port.ac.uk/news-events-and-blogs/blogs/developing-enhanced-technologies/ufos-what-well-learn-from-the-nasa-panel-investigating-sightings](https://www.port.ac.uk/news-events-and-blogs/blogs/developing-enhanced-technologies/ufos-what-well-learn-from-the-nasa-panel-investigating-sightings)  
+   Link: <a href="https://www.port.ac.uk/news-events-and-blogs/blogs/developing-enhanced-technologies/ufos-what-well-learn-from-the-nasa-panel-investigating-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.port.ac.uk/news-events-and-blogs/blogs/developing-enhanced-technologies/ufos-what-well-learn-from-the-nasa-panel-investigating-sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>what we&#x27;ll learn from the Nasa panel investigating sightings13 Jun 2023 — A committee set up by Nasa has examined about 800 reports of un...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: "100,000 UFOs Are Surrounding Earth!" ft. Top Astronomer Beatriz Villarroel  
-   Link: [https://www.youtube.com/watch?v=1zRWi_r3HRM](https://www.youtube.com/watch?v=1zRWi_r3HRM)  
+   Link: <a href="https://www.youtube.com/watch?v=1zRWi_r3HRM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1zRWi_r3HRM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating UFO reports astronomical identification challenges Investigating UFOs: International research &amp; Ross Coulthart&#x27;s personal s...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
    Title: Evidence Isn't Proof of Aliens Here's what happens when  
-   Link: [https://www.facebook.com/academicavengers/posts/the-shocking-truth-about-ufos-evidence-isnt-proof-of-aliensheres-what-happens-wh/873435215680225/](https://www.facebook.com/academicavengers/posts/the-shocking-truth-about-ufos-evidence-isnt-proof-of-aliensheres-what-happens-wh/873435215680225/)  
+   Link: <a href="https://www.facebook.com/academicavengers/posts/the-shocking-truth-about-ufos-evidence-isnt-proof-of-aliensheres-what-happens-wh/873435215680225/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/academicavengers/posts/the-shocking-truth-about-ufos-evidence-isnt-proof-of-aliensheres-what-happens-wh/873435215680225/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings cannot be easily explained by weather or human technology. A physicist argues that there&#x27;s compelling evidence to justify...</p></details>

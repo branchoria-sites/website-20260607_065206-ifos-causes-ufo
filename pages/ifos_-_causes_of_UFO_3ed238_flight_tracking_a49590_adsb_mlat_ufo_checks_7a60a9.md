@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590_line_of_sight_geomet_3e8dcd
 - ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590_missing_flight_track_e2e1dc
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - flight-tracking
 - ads-b-data
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - flight-tracking
 - ads-b-data
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: ADS-B and multilateration can identify aircraft positions, speeds and headings, but each data source has limits investigators must understand.
 hero_summary: ADS-B and multilateration can identify aircraft positions, speeds and headings, but each data source has limits investigators must understand.
 layout: default
 permalink: /ads-b-data/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /flight-tracking/
 nav_short_title: ADS B Data
 title: What flight trackers really know
-title_full: What flight trackers really know | Flight Tracking
+title_full: What flight trackers really know
 display_title_short: ADS B Data
 display_title: ADS B Data
 heading_title: What flight trackers really know
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 21:46:13'
-parent_title: How Flight Data Solves UFO Sightings | IFOs
+parent_title: How Flight Data Solves UFO Sightings
 parent_permalink: /flight-tracking/
 parent_nav_short_title: Flight Tracking
 parent_heading_title: How Flight Data Solves UFO Sightings
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590
-  title: Flight Tracking | Ifos Causes Of
+  title: Flight Tracking | ifos causes of UFO 3 ed 238
   permalink: /flight-tracking/
   short_title: Flight Tracking
   heading_title: How Flight Data Solves UFO Sightings
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590
-  title: Flight Tracking | Ifos Causes Of
+  title: Flight Tracking | ifos causes of UFO 3 ed 238
   permalink: /flight-tracking/
   short_title: Flight Tracking
   heading_title: How Flight Data Solves UFO Sightings
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: Was the plane really where they looked?
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590
-  title: Flight Tracking | Ifos Causes Of
+  title: Flight Tracking | ifos causes of UFO 3 ed 238
   permalink: /flight-tracking/
   short_title: Flight Tracking
   heading_title: How Flight Data Solves UFO Sightings
@@ -260,6 +259,7 @@ next_link:
   permalink: /appearance-clues/
   short_title: Appearance Clues
   heading_title: Do the lights match the flight track?
+date: '2026-06-12 00:29:16 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590_adsb_mlat_ufo_checks_7a60a9-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590_adsb_mlat_ufo_checks_7a60a9-Illustration-1.webp
@@ -269,7 +269,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590_adsb_ml
 ## Introduction
 
 When investigators try to determine whether a reported UFO was actually an aircraft, ADS-B and multilateration (MLAT) data are among the most useful sources of objective evidence. They can reveal where aircraft were, how fast they were moving, their altitude, heading and, in many cases, their identity. However, these systems do not provide a perfect or complete picture of the sky. Understanding what the data represents—and where it can fail—is essential. A missing aircraft track is not proof that no aircraft was present, and differences between tracking websites do not automatically indicate deception or hidden traffic. Instead, ADS-B and MLAT should be treated as evidence sources with known strengths and limitations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationAutomatic Dependent Surveillance - Broadcast (ADS-B)29 Sept 2025 — ADS-B Out works by broadcasting informa...</span></span></span>
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590_adsb_mlat_ufo_checks_7a60a9-Illustration-1-dark.svg" | relative_url }}" alt="ADS B Data illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590_adsb_mlat_ufo_checks_7a60a9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590_adsb_mlat_ufo_checks_7a60a9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What ADS-B broadcasts from aircraft
@@ -287,14 +286,13 @@ Several common UFO misidentifications become easier to evaluate with ADS-B data:
 
 Because ADS-B broadcasts are received by networks of volunteer and commercial receivers, the public flight-tracking map seen by investigators is usually a reconstruction assembled from many listening stations rather than a direct feed from air traffic control. Coverage therefore depends on receiver density and signal reception. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationAutomatic Dependent Surveillance - Broadcast (ADS-B)29 Sept 2025 — ADS-B Out works by broadcasting informa...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Automatic_Dependent_Surveillance%E2%80%93Broadcast" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Automatic Dependent Surveillance–BroadcastADS-B is an aviation surveillance technology and form of electronic conspicuity in which an...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SfKCwQcsQA0" title="How does multilateration (MLAT) work?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SfKCwQcsQA0" target="_blank" rel="noopener noreferrer">How does multilateration (MLAT) work?</a></p><p class="youtube-embed-meta">Channel: Flightradar24 &middot; Views: 17.6K &middot; Uploaded: July 2024 &middot; Length: 1 minute 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SfKCwQcsQA0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SfKCwQcsQA0">Open on YouTube</a></p></div></div></div>
 
 ## How MLAT fills some tracking gaps
 
-Not all aircraft transmit complete ADS-B position information. Many older aircraft carry Mode S transponders that identify the aircraft but do not continuously broadcast GPS-derived coordinates. To track these aircraft, networks such as Flightradar24 use multilateration, usually abbreviated MLAT. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightradar24.com/blog/inside-flightradar24/how-we-track-flights-with-mlat/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightradar24.com">[Flightradar24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightradar24.com</span><span class="citation-popover-title">how we track flights with mlat</span><span class="citation-popover-snippet">Flightradar24How We Track Flights with MLAT | Flightradar24 Blog13 May 2015 — For these aircraft we&#x27;ve developed our receivers and softwa...</span><span class="citation-popover-meta">Published: May 2015</span></span></span>
+Not all aircraft transmit complete ADS-B position information. Many older aircraft carry Mode S transponders that identify the aircraft but do not continuously broadcast GPS-derived coordinates. To track these aircraft, networks such as Flightradar24 use multilateration, usually abbreviated MLAT. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightradar24.com/blog/inside-flightradar24/how-we-track-flights-with-mlat/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightradar24.com">[Flightradar24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightradar24.com</span><span class="citation-popover-title">how we track flights with mlat</span><span class="citation-popover-snippet">How We Track Flights with MLAT &#124; Flightradar24 Blog13 May 2015 — For these aircraft we&#x27;ve developed our receivers and softwa...</span><span class="citation-popover-meta">Published: May 2015</span></span></span>
 
-MLAT works by measuring the tiny differences in arrival time of the same transponder signal at multiple ground receivers. By comparing these timing differences, software can estimate the aircraft's position. To produce a reliable location, several receivers must hear the same transmission simultaneously. Flightradar24 notes that four or more receivers are typically required. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/pulse/how-does-flightradar24-track-aircraft-flightradar24-ab-w8d6e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[LinkedIn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">LinkedInHow does Flightradar24 track aircraft?By measuring the time it takes to receive the signal from aircraft with an older Mode S tra...</span></span></span> [2Flightradar24] Support center
+MLAT works by measuring the tiny differences in arrival time of the same transponder signal at multiple ground receivers. By comparing these timing differences, software can estimate the aircraft's position. To produce a reliable location, several receivers must hear the same transmission simultaneously. Flightradar24 notes that four or more receivers are typically required. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/pulse/how-does-flightradar24-track-aircraft-flightradar24-ab-w8d6e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[LinkedIn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">How does Flightradar24 track aircraft?By measuring the time it takes to receive the signal from aircraft with an older Mode S tra...</span></span></span> [2Flightradar24] Support center
 
 For UFO investigations, MLAT can be important because an aircraft missing from a pure ADS-B dataset may still be recoverable through MLAT-derived tracks. This is particularly relevant when witnesses report unusual lights from airliners or business jets operating with older equipment.
 
@@ -304,13 +302,12 @@ However, MLAT has important limitations:
 * It works best at higher altitudes where signals reach many receivers.
 * Coverage can be poor in remote regions or over water.
 * MLAT positions usually appear with slightly greater delay than ADS-B positions.
-* Position estimates are calculated rather than directly broadcast by the aircraft. Flightradar24 LinkedIn These limitations mean that an aircraft might appear on one tracking service through MLAT while remaining absent from another service that la <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/pulse/how-does-flightradar24-track-aircraft-flightradar24-ab-w8d6e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[linkedin.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">LinkedInHow does Flightradar24 track aircraft?By measuring the time it takes to receive the signal from aircraft with an older Mode S tra...</span></span></span> cks sufficient receiver coverage.
-
+* Position estimates are calculated rather than directly broadcast by the aircraft. Flightradar24 LinkedIn These limitations mean that an aircraft might appear on one tracking service through MLAT while remaining absent from another service that la <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/pulse/how-does-flightradar24-track-aircraft-flightradar24-ab-w8d6e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[linkedin.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">How does Flightradar24 track aircraft?By measuring the time it takes to receive the signal from aircraft with an older Mode S tra...</span></span></span> cks sufficient receiver coverage.
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590_adsb_mlat_ufo_checks_7a60a9-Illustration-2-dark.svg" | relative_url }}" alt="ADS B Data illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590_adsb_mlat_ufo_checks_7a60a9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590_adsb_mlat_ufo_checks_7a60a9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why different flight sites can disagree
 
-One of the most common mistakes in online UFO discussions is assuming that all flight-tracking websites display identical information. In reality, each platform uses different receiver networks, filtering policies, processing methods and historical archives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightradar24.com/how-it-works/mlat" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightradar24.com">[Flightradar24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightradar24.com</span><span class="citation-popover-snippet">Flightradar24Multilateration (MLAT)Processing the received Mode S data using MLAT data results in a small delay in the display of aircraf...</span></span></span>
+One of the most common mistakes in online UFO discussions is assuming that all flight-tracking websites display identical information. In reality, each platform uses different receiver networks, filtering policies, processing methods and historical archives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightradar24.com/how-it-works/mlat" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightradar24.com">[Flightradar24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightradar24.com</span><span class="citation-popover-snippet">Multilateration (MLAT)Processing the received Mode S data using MLAT data results in a small delay in the display of aircraf...</span></span></span>
 
 Three major factors often explain disagreements.
 
@@ -320,14 +317,13 @@ Aircraft visibility depends on which receivers hear the transmissions. A tracker
 
 **Different tracking technologies**
 
-Some services rely heavily on ADS-B. Others supplement ADS-B with MLAT, ADS-C or additional data feeds. As a result, aircraft positions may differ slightly or appear on only one platform. Flightradar24 <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/faa/ads-b-101-ae33179be8f7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-title">ADS-B 101</span><span class="citation-popover-snippet">What It Is, and What It Means to You | by FAA...ADS-B works by having aircraft avionics regularly broadcast position, velocity, and iden...</span></span></span>
+Some services rely heavily on ADS-B. Others supplement ADS-B with MLAT, ADS-C or additional data feeds. As a result, aircraft positions may differ slightly or appear on only one platform. Flightradar24 <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/faa/ads-b-101-ae33179be8f7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-title">ADS-B 101</span><span class="citation-popover-snippet">What It Is, and What It Means to You &#124; by FAA...ADS-B works by having aircraft avionics regularly broadcast position, velocity, and iden...</span></span></span>
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/asianchronicle/posts/us-air-force-warns-of-opsec-threat-from-online-flight-trackinga-us-air-force-off/1527817099352705/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[**Filtering and privacy programmes**]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">US Air Force Warns of OPSEC Threat From Online Flight...ADS-B Filtering &amp; Privacy Regulations – FlightRadar24 automatically filters mili...</span></span></span>
+**Filtering and privacy programmes** <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/asianchronicle/posts/us-air-force-warns-of-opsec-threat-from-online-flight-trackinga-us-air-force-off/1527817099352705/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">US Air Force Warns of OPSEC Threat From Online Flight...ADS-B Filtering &amp; Privacy Regulations – FlightRadar24 automatically filters mili...</span></span></span>
 
 Public flight trackers do not necessarily display every aircraft they receive. In the United States, programmes such as Limiting Aircraft Data Displayed (LADD) and privacy initiatives can restrict how certain aircraft appear in public feeds. Some platforms also choose to filter particular aircraft categories, while others advertise more complete displays. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationAutomatic Dependent Surveillance - Broadcast (ADS-B)29 Sept 2025 — ADS-B Out works by broadcasting informa...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationAutomatic Dependent Surveillance - Broadcast (ADS-B)29 Sept 2025 — ADS-B Out works by broadcasting informa...</span></span></span>
 
 For UFO investigations, this means that checking only one website can produce misleading conclusions. Experienced investigators often compare multiple sources before deciding whether aircraft traffic was present.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7K1xFb1REHU" title="How does ADS-B work?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7K1xFb1REHU" target="_blank" rel="noopener noreferrer">How does ADS-B work?</a></p><p class="youtube-embed-meta">Channel: Flightradar24 &middot; Views: 66.1K &middot; Uploaded: April 2024 &middot; Length: 1 minute 58 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7K1xFb1REHU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7K1xFb1REHU">Open on YouTube</a></p></div></div></div>
 
@@ -349,10 +345,9 @@ Several circumstances can produce missing or incomplete tracking data:
 
 </div>
 
-Recent aviation tracking work has also highlighted how GPS jamming and spoofing can affect aircraft position broadcasts. In some regions, tracking services increasingly use MLAT to reconstruct positions when ADS-B location information becomes unreliable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightradar24.com/how-it-works" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightradar24.com">[Flightradar24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightradar24.com</span><span class="citation-popover-snippet">Flightradar24How Flightradar24 worksMultilateration (MLAT) uses calculated data to track aircraft with older transponders. A small plane...</span></span></span>
+Recent aviation tracking work has also highlighted how GPS jamming and spoofing can affect aircraft position broadcasts. In some regions, tracking services increasingly use MLAT to reconstruct positions when ADS-B location information becomes unreliable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightradar24.com/how-it-works" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightradar24.com">[Flightradar24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightradar24.com</span><span class="citation-popover-snippet">How Flightradar24 worksMultilateration (MLAT) uses calculated data to track aircraft with older transponders. A small plane...</span></span></span>
 
 Consequently, the evidential value of ADS-B data is strongest when it positively correlates an aircraft with a sighting. Its absence is generally weaker evidence because multiple ordinary reasons can explain why a track is missing.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590_adsb_mlat_ufo_checks_7a60a9-Illustration-3-dark.svg" | relative_url }}" alt="ADS B Data illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590_adsb_mlat_ufo_checks_7a60a9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590_adsb_mlat_ufo_checks_7a60a9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Using ADS-B and MLAT as UFO evidence
@@ -370,9 +365,7 @@ A persuasive aircraft correlation typically combines:
 
 When those elements align, ADS-B and MLAT data often transform a seemingly mysterious aerial observation into an identified aircraft. At the same time, the limitations of receiver networks, tracking methods and public data availability mean that investigators must avoid treating flight-tracker maps as complete representations of everything in the sky. ADS-B and MLAT are powerful datasets, but they are best understood as evidence tools rather than definitive proof either for or against a UFO explanation. [Flightradar24 Support center+3Federal Aviation Administration+3Federal Aviation Administration]
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KahiBjBmgrc" title="How to Track Filtered Aircraft with ADS-B Exchange" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KahiBjBmgrc" target="_blank" rel="noopener noreferrer">How to Track Filtered Aircraft with ADS-B Exchange</a></p><p class="youtube-embed-meta">Channel: 0x4rk0 &middot; Views: 5.9K &middot; Uploaded: April 2022 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KahiBjBmgrc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KahiBjBmgrc">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -491,15 +484,15 @@ When those elements align, ADS-B and MLAT data often transform a seemingly myste
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ads-b-data-what-flight-trackers-really-know-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="ads-b-data-what-flight-trackers-really-know-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-flight-trackers-really-know-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="what-flight-trackers-really-know-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 20cm FedEx Express ATR Airplane Model Diecast Metal Aircraft Collectible Gift"><img src="https://i.ebayimg.com/images/g/~BwAAeSwmr1pB~na/s-l225.jpg" alt="Listing image for 20cm FedEx Express ATR Airplane Model Diecast Metal Aircraft Collectible Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ads-b-data-what-flight-trackers-really-know-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="ads-b-data-what-flight-trackers-really-know-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-flight-trackers-really-know-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="what-flight-trackers-really-know-airplane-model" target="_blank" rel="sponsored noopener noreferrer">20cm FedEx Express ATR Airplane Model Diecast Metal Aircraft Collectible Gift</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ads-b-data-what-flight-trackers-really-know-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="ads-b-data-what-flight-trackers-really-know-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-flight-trackers-really-know-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="what-flight-trackers-really-know-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ads-b-data-what-flight-trackers-really-know-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="ads-b-data-what-flight-trackers-really-know-ifos-causes-of-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-flight-trackers-really-know-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="what-flight-trackers-really-know-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -507,15 +500,15 @@ When those elements align, ADS-B and MLAT data often transform a seemingly myste
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ads-b-data-what-flight-trackers-really-know-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="ads-b-data-what-flight-trackers-really-know-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-flight-trackers-really-know-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="what-flight-trackers-really-know-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for British Airways Airbus A321 Single Die Cast Toy Plane - Daron RT6007"><img src="https://i.ebayimg.com/images/g/QcYAAeSwhypqKVlD/s-l225.jpg" alt="Listing image for British Airways Airbus A321 Single Die Cast Toy Plane - Daron RT6007" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ads-b-data-what-flight-trackers-really-know-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="ads-b-data-what-flight-trackers-really-know-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-flight-trackers-really-know-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="what-flight-trackers-really-know-airplane-model" target="_blank" rel="sponsored noopener noreferrer">British Airways Airbus A321 Single Die Cast Toy Plane - Daron RT6007</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ads-b-data-what-flight-trackers-really-know-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="ads-b-data-what-flight-trackers-really-know-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-flight-trackers-really-know-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="what-flight-trackers-really-know-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ads-b-data-what-flight-trackers-really-know-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="ads-b-data-what-flight-trackers-really-know-ifos-causes-of-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-flight-trackers-really-know-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="what-flight-trackers-really-know-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -523,15 +516,15 @@ When those elements align, ADS-B and MLAT data often transform a seemingly myste
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ads-b-data-what-flight-trackers-really-know-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="ads-b-data-what-flight-trackers-really-know-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-flight-trackers-really-know-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="what-flight-trackers-really-know-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 16cm Virgin Atlantic B747 Airplane Model 1:400 Alloy Simulation Plane Ornaments"><img src="https://i.ebayimg.com/images/g/chUAAeSwyX9peIiz/s-l225.jpg" alt="Listing image for 16cm Virgin Atlantic B747 Airplane Model 1:400 Alloy Simulation Plane Ornaments" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ads-b-data-what-flight-trackers-really-know-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="ads-b-data-what-flight-trackers-really-know-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-flight-trackers-really-know-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="what-flight-trackers-really-know-airplane-model" target="_blank" rel="sponsored noopener noreferrer">16cm Virgin Atlantic B747 Airplane Model 1:400 Alloy Simulation Plane Ornaments</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ads-b-data-what-flight-trackers-really-know-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="ads-b-data-what-flight-trackers-really-know-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-flight-trackers-really-know-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="what-flight-trackers-really-know-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ads-b-data-what-flight-trackers-really-know-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="ads-b-data-what-flight-trackers-really-know-ifos-causes-of-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-flight-trackers-really-know-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="what-flight-trackers-really-know-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -539,15 +532,15 @@ When those elements align, ADS-B and MLAT data often transform a seemingly myste
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ads-b-data-what-flight-trackers-really-know-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="ads-b-data-what-flight-trackers-really-know-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo"><img src="{{ '/assets/images/marketplace-covers/338af33276410882a5b1.jpg' | relative_url }}" alt="Listing image for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-flight-trackers-really-know-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="what-flight-trackers-really-know-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NEW 16cm British Airways Concorde Die Cast Metal Aircraft Plane Model UK SELLER"><img src="https://i.ebayimg.com/images/g/wvkAAOSwwBdmhELe/s-l225.jpg" alt="Listing image for NEW 16cm British Airways Concorde Die Cast Metal Aircraft Plane Model UK SELLER" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ads-b-data-what-flight-trackers-really-know-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="ads-b-data-what-flight-trackers-really-know-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-flight-trackers-really-know-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="what-flight-trackers-really-know-airplane-model" target="_blank" rel="sponsored noopener noreferrer">NEW 16cm British Airways Concorde Die Cast Metal Aircraft Plane Model UK SELLER</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ads-b-data-what-flight-trackers-really-know-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="ads-b-data-what-flight-trackers-really-know-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-flight-trackers-really-know-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="what-flight-trackers-really-know-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ads-b-data-what-flight-trackers-really-know-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="ads-b-data-what-flight-trackers-really-know-ifos-causes-of-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-flight-trackers-really-know-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="what-flight-trackers-really-know-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -555,7 +548,7 @@ When those elements align, ADS-B and MLAT data often transform a seemingly myste
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ads-b-data-what-flight-trackers-really-know-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="ads-b-data-what-flight-trackers-really-know-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-flight-trackers-really-know-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="what-flight-trackers-really-know-airplane-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -770,236 +763,236 @@ When those elements align, ADS-B and MLAT data often transform a seemingly myste
 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Automatic_Dependent_Surveillance%E2%80%93Broadcast](https://en.wikipedia.org/wiki/Automatic_Dependent_Surveillance%E2%80%93Broadcast)  
+   Link: <a href="https://en.wikipedia.org/wiki/Automatic_Dependent_Surveillance%E2%80%93Broadcast" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Automatic_Dependent_Surveillance%E2%80%93Broadcast</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Automatic Dependent Surveillance–BroadcastADS-B is an aviation surveillance technology and form of electronic conspicuity in which an...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: flightradar24.com  
    Title: how we track flights with mlat  
-   Link: [https://www.flightradar24.com/blog/inside-flightradar24/how-we-track-flights-with-mlat/](https://www.flightradar24.com/blog/inside-flightradar24/how-we-track-flights-with-mlat/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Flightradar24How We Track Flights with MLAT | Flightradar24 Blog13 May 2015 — For these aircraft we&#x27;ve developed our receivers and softwa...</p></details>
+   Link: <a href="https://www.flightradar24.com/blog/inside-flightradar24/how-we-track-flights-with-mlat/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/blog/inside-flightradar24/how-we-track-flights-with-mlat/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>How We Track Flights with MLAT | Flightradar24 Blog13 May 2015 — For these aircraft we&#x27;ve developed our receivers and softwa...</p></details>
    Published: May 2015  
 
 3. <a id="endnote-3"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/how-does-flightradar24-track-aircraft-flightradar24-ab-w8d6e](https://www.linkedin.com/pulse/how-does-flightradar24-track-aircraft-flightradar24-ab-w8d6e)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LinkedInHow does Flightradar24 track aircraft?By measuring the time it takes to receive the signal from aircraft with an older Mode S tra...</p></details>
+   Link: <a href="https://www.linkedin.com/pulse/how-does-flightradar24-track-aircraft-flightradar24-ab-w8d6e" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/how-does-flightradar24-track-aircraft-flightradar24-ab-w8d6e</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>How does Flightradar24 track aircraft?By measuring the time it takes to receive the signal from aircraft with an older Mode S tra...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: flightradar24.com  
-   Link: [https://www.flightradar24.com/how-it-works/mlat](https://www.flightradar24.com/how-it-works/mlat)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Flightradar24Multilateration (MLAT)Processing the received Mode S data using MLAT data results in a small delay in the display of aircraf...</p></details>
+   Link: <a href="https://www.flightradar24.com/how-it-works/mlat" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/how-it-works/mlat</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Multilateration (MLAT)Processing the received Mode S data using MLAT data results in a small delay in the display of aircraf...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: flightradar24.com  
-   Link: [https://www.flightradar24.com/how-it-works](https://www.flightradar24.com/how-it-works)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Flightradar24How Flightradar24 worksMultilateration (MLAT) uses calculated data to track aircraft with older transponders. A small plane...</p></details>
+   Link: <a href="https://www.flightradar24.com/how-it-works" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/how-it-works</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>How Flightradar24 worksMultilateration (MLAT) uses calculated data to track aircraft with older transponders. A small plane...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ADSB/comments/18l27c7/adsb_tracking_websites_do_not_show_every_aircraft/](https://www.reddit.com/r/ADSB/comments/18l27c7/adsb_tracking_websites_do_not_show_every_aircraft/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditADS-B tracking websites DO NOT show every aircraft that...ADS-B tracking websites DO NOT show every aircraft that is flying. Neith...</p></details>
+   Link: <a href="https://www.reddit.com/r/ADSB/comments/18l27c7/adsb_tracking_websites_do_not_show_every_aircraft/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ADSB/comments/18l27c7/adsb_tracking_websites_do_not_show_every_aircraft/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B tracking websites DO NOT show every aircraft that...ADS-B tracking websites DO NOT show every aircraft that is flying. Neith...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: medium.com  
    Title: ADS-B 101  
-   Link: [https://medium.com/faa/ads-b-101-ae33179be8f7](https://medium.com/faa/ads-b-101-ae33179be8f7)  
+   Link: <a href="https://medium.com/faa/ads-b-101-ae33179be8f7" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/faa/ads-b-101-ae33179be8f7</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>What It Is, and What It Means to You | by FAA...ADS-B works by having aircraft avionics regularly broadcast position, velocity, and iden...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: flightradar24.com  
-   Link: [https://www.flightradar24.com/blog/inside-flightradar24/types-of-gps-jamming/](https://www.flightradar24.com/blog/inside-flightradar24/types-of-gps-jamming/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Flightradar24GPS jamming: the benign, the bad, and the scary19 Mar 2024 — Where possible, we track flights experiencing GPS jamming via a...</p></details>
+   Link: <a href="https://www.flightradar24.com/blog/inside-flightradar24/types-of-gps-jamming/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/blog/inside-flightradar24/types-of-gps-jamming/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>GPS jamming: the benign, the bad, and the scary19 Mar 2024 — Where possible, we track flights experiencing GPS jamming via a...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: flightradar24.com  
    Title: how flightradar24 uses mlat to counter gps jamming  
-   Link: [https://www.flightradar24.com/blog/aviation-explainer-series/how-flightradar24-uses-mlat-to-counter-gps-jamming/](https://www.flightradar24.com/blog/aviation-explainer-series/how-flightradar24-uses-mlat-to-counter-gps-jamming/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Flightradar24How Flightradar24 uses MLAT to counter GPS jamming30 Jun 2025 — Flightradar24 uses Multilateration (MLAT), which allows us t...</p></details>
+   Link: <a href="https://www.flightradar24.com/blog/aviation-explainer-series/how-flightradar24-uses-mlat-to-counter-gps-jamming/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/blog/aviation-explainer-series/how-flightradar24-uses-mlat-to-counter-gps-jamming/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>How Flightradar24 uses MLAT to counter GPS jamming30 Jun 2025 — Flightradar24 uses Multilateration (MLAT), which allows us t...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: flightradar24.com  
    Title: Live Flight Tracker  
-   Link: [https://www.flightradar24.com/](https://www.flightradar24.com/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Flightradar24: Live Flight Tracker - Real-Time Flight Tracker...Flightradar24 is the best live flight tracker that shows air traffic in...</p></details>
+   Link: <a href="https://www.flightradar24.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Live Flight Tracker - Real-Time Flight Tracker...Flightradar24 is the best live flight tracker that shows air traffic in...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: forum.flightradar24.com  
-   Link: [https://forum.flightradar24.com/forum/radar-forums/flightradar24-feeding-data-to-flightradar24/12109-not-picking-up-mode-s/page3](https://forum.flightradar24.com/forum/radar-forums/flightradar24-feeding-data-to-flightradar24/12109-not-picking-up-mode-s/page3)  
+   Link: <a href="https://forum.flightradar24.com/forum/radar-forums/flightradar24-feeding-data-to-flightradar24/12109-not-picking-up-mode-s/page3" target="_blank" rel="noopener noreferrer nofollow">https://forum.flightradar24.com/forum/radar-forums/flightradar24-feeding-data-to-flightradar24/12109-not-picking-up-mode-s/page3</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>picking up mode S19 Feb 2019 — There are extended Mode S messages, which transmit ADS-B information, but not every Mode S transponder is...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: flightradar24.com  
    Title: how does fr24 track aircraft  
-   Link: [https://www.flightradar24.com/blog/inside-flightradar24/how-does-fr24-track-aircraft/](https://www.flightradar24.com/blog/inside-flightradar24/how-does-fr24-track-aircraft/)  
+   Link: <a href="https://www.flightradar24.com/blog/inside-flightradar24/how-does-fr24-track-aircraft/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/blog/inside-flightradar24/how-does-fr24-track-aircraft/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How does Flightradar24 track aircraft?4 Apr 2024 — By measuring the time it takes to receive the signal from aircraft with an older Mode...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: Wikipedia  
    Title: [Flight tracking](&#123;&#123; 'flight-tracking/' | relative_url &#125;&#125;)  
-   Link: [https://en.wikipedia.org/wiki/Flight_tracking](https://en.wikipedia.org/wiki/Flight_tracking)  
+   Link: <a href="https://en.wikipedia.org/wiki/Flight_tracking" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flight_tracking</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Flight tracking - WikipediaMultilateration (MLAT) - Flightradar24...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Flightradar24](https://en.wikipedia.org/wiki/Flightradar24)  
+   Link: <a href="https://en.wikipedia.org/wiki/Flightradar24" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flightradar24</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Flightradar24Flightradar24 is a Swedish Internet-based service that shows real-time aircraft flight tracking information on a map. It...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ADSBexchange/comments/nnrp2w/adsb_flight_track_dumps/](https://www.reddit.com/r/ADSBexchange/comments/nnrp2w/adsb_flight_track_dumps/)  
+   Link: <a href="https://www.reddit.com/r/ADSBexchange/comments/nnrp2w/adsb_flight_track_dumps/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ADSBexchange/comments/nnrp2w/adsb_flight_track_dumps/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ADSB flight track dumps?: r/ADSBexchangeHey y&#x27;all, is there a resource anywhere I could download a dump of historical flight tracks? As...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/flying/comments/gop52j/adsb_privacy/](https://www.reddit.com/r/flying/comments/gop52j/adsb_privacy/)  
+   Link: <a href="https://www.reddit.com/r/flying/comments/gop52j/adsb_privacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/flying/comments/gop52j/adsb_privacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B Privacy: r/flyingWe&#x27;re being advised that ADS-B exposes us to outside trackers and our privacy could be compromised. FWIW, we&#x27;ve r...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/RTLSDR/comments/nq1hwi/how_can_an_airplane_be_located_through_mlat_by/](https://www.reddit.com/r/RTLSDR/comments/nq1hwi/how_can_an_airplane_be_located_through_mlat_by/)  
+   Link: <a href="https://www.reddit.com/r/RTLSDR/comments/nq1hwi/how_can_an_airplane_be_located_through_mlat_by/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/RTLSDR/comments/nq1hwi/how_can_an_airplane_be_located_through_mlat_by/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nes have &#x27;ADS-B&#x27; as their signal source, but for some airplanes...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/flightradar24/](https://www.reddit.com/r/flightradar24/)  
+   Link: <a href="https://www.reddit.com/r/flightradar24/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/flightradar24/</a>  
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/flightradar24/comments/18vxdal/how_are_flights_with_only_mode_s_being_tracked/](https://www.reddit.com/r/flightradar24/comments/18vxdal/how_are_flights_with_only_mode_s_being_tracked/)  
+   Link: <a href="https://www.reddit.com/r/flightradar24/comments/18vxdal/how_are_flights_with_only_mode_s_being_tracked/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/flightradar24/comments/18vxdal/how_are_flights_with_only_mode_s_being_tracked/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How are flights with only mode S being trackedMLAT requires four or more Flightradar24 receivers in a region to receive a signal from the...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: mode-s.org  
-   Link: [https://mode-s.org/1090mhz/content/ads-b/1-basics.html](https://mode-s.org/1090mhz/content/ads-b/1-basics.html)  
+   Link: <a href="https://mode-s.org/1090mhz/content/ads-b/1-basics.html" target="_blank" rel="noopener noreferrer nofollow">https://mode-s.org/1090mhz/content/ads-b/1-basics.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>3. ADS-B basicsAvailability and transmission rate; Surface position, 5–8, 0.2 Hz; Airborne position, 9–18, 20–22, -; Airborne velocity...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b](https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b)  
+   Link: <a href="https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationAutomatic Dependent Surveillance - Broadcast (ADS-B)29 Sept 2025 — ADS-B Out works by broadcasting informa...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: faa.gov  
    Title: ins outs  
-   Link: [https://www.faa.gov/air_traffic/technology/equipadsb/capabilities/ins_outs](https://www.faa.gov/air_traffic/technology/equipadsb/capabilities/ins_outs)  
+   Link: <a href="https://www.faa.gov/air_traffic/technology/equipadsb/capabilities/ins_outs" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/technology/equipadsb/capabilities/ins_outs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationIns and Outs7 Feb 2023 — ADS-B Out works by broadcasting information about an aircraft&#x27;s GPS location, alt...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: adsbexchange.com  
-   Link: [https://www.adsbexchange.com/api/aircraft/v2/docs](https://www.adsbexchange.com/api/aircraft/v2/docs)  
+   Link: <a href="https://www.adsbexchange.com/api/aircraft/v2/docs" target="_blank" rel="noopener noreferrer nofollow">https://www.adsbexchange.com/api/aircraft/v2/docs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B ExchangeADSB Exchange API DocumentationThe ADSB Exchange API provides real-time access to live global flight data, enabling retriev...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: support.fr24.com  
    Title: 3000117422 how does flightradar24 work  
-   Link: [https://support.fr24.com/support/solutions/articles/3000117422-how-does-flightradar24-work-](https://support.fr24.com/support/solutions/articles/3000117422-how-does-flightradar24-work-)  
+   Link: <a href="https://support.fr24.com/support/solutions/articles/3000117422-how-does-flightradar24-work-" target="_blank" rel="noopener noreferrer nofollow">https://support.fr24.com/support/solutions/articles/3000117422-how-does-flightradar24-work-</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Flightradar24 Support centerHow does Flightradar24 work?Sep 29, 2022 — By measuring the time it takes to receive the signal from aircraft...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/[pilots](https://www.faa.gov/[pilots)  
+   Link: <a href="https://www.faa.gov/[pilots" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/[pilots</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationLimiting Aircraft Data Displayed (LADD)1 May 2025 — The LADD program provides aircraft owners the ability...</p></details>
    Published: May 2025  
 
 26. <a id="endnote-26"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/air_traffic/technology/equipadsb/privacy](https://www.faa.gov/air_traffic/technology/equipadsb/privacy)  
+   Link: <a href="https://www.faa.gov/air_traffic/technology/equipadsb/privacy" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/technology/equipadsb/privacy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationADS-B Privacy22 Mar 2025 — The FAA acknowledges the desire of some operators to limit the availability of...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: aviospace.org  
    Title: real time aircraft tracking network  
-   Link: [https://aviospace.org/real-time-aircraft-tracking-network/](https://aviospace.org/real-time-aircraft-tracking-network/)  
+   Link: <a href="https://aviospace.org/real-time-aircraft-tracking-network/" target="_blank" rel="noopener noreferrer nofollow">https://aviospace.org/real-time-aircraft-tracking-network/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ADSBExchange And The Rise Of Unfiltered Aircraft Tracking26 May 2026 — ADSBexchange&#x27;s policy of showing all aircraft without filtering ha...</p></details>
    Published: May 2026  
 
 28. <a id="endnote-28"></a>
    Source: adsbexchange.com  
-   Link: [https://www.adsbexchange.com/](https://www.adsbexchange.com/)  
+   Link: <a href="https://www.adsbexchange.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.adsbexchange.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B ExchangeADS-B Exchange supports legitimate use cases across aviation safety, investigations, journalism, humanitarian research, and...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: globe.adsbexchange.com  
-   Link: [https://globe.adsbexchange.com/](https://globe.adsbexchange.com/)  
+   Link: <a href="https://globe.adsbexchange.com/" target="_blank" rel="noopener noreferrer nofollow">https://globe.adsbexchange.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Historic track labels: UTC. Smaller wind labels. Label units. Darker Colors. Dark Mode. Dim...Read more...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: adsbexchange.com  
-   Link: [https://www.adsbexchange.com/data-products/](https://www.adsbexchange.com/data-products/)  
+   Link: <a href="https://www.adsbexchange.com/data-products/" target="_blank" rel="noopener noreferrer nofollow">https://www.adsbexchange.com/data-products/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Data ProductsLive and historical aircraft data for tracking, monitoring, and analysis, delivered via API and data feeds. Live data. The m...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/flightradar24/](https://www.instagram.com/flightradar24/)  
+   Link: <a href="https://www.instagram.com/flightradar24/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/flightradar24/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Follow us here for a behind the scenes look at the aviation industry. Follow.Read more...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/air_traffic/technology/adsb/faq](https://www.faa.gov/air_traffic/technology/adsb/faq)  
+   Link: <a href="https://www.faa.gov/air_traffic/technology/adsb/faq" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/technology/adsb/faq</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B FAQ3 Mar 2025 — ADS-B also provides greater coverage since ground stations are so much easier to place than radar. Remote areas wit...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: adsbx.discourse.group  
-   Link: [https://adsbx.discourse.group/t/multilateration-mlat-how-it-works-and-why-you-should-care/325](https://adsbx.discourse.group/t/multilateration-mlat-how-it-works-and-why-you-should-care/325)  
+   Link: <a href="https://adsbx.discourse.group/t/multilateration-mlat-how-it-works-and-why-you-should-care/325" target="_blank" rel="noopener noreferrer nofollow">https://adsbx.discourse.group/t/multilateration-mlat-how-it-works-and-why-you-should-care/325</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Multilateration (MLAT) - How it Works, and Why You Should...15 Feb 2024 — It works by measuring the time difference of arrival of an air...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: x.com  
-   Link: [https://x.com/flightradar24](https://x.com/flightradar24)  
+   Link: <a href="https://x.com/flightradar24" target="_blank" rel="noopener noreferrer nofollow">https://x.com/flightradar24</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>s | FAQ: fr24.com/faq |...Read more...</p></details>
 
 ### Additional References
 
 35. <a id="endnote-35"></a>
    Source: cfinotebook.net  
-   Link: [https://www.cfinotebook.net/notebook/avionics-and-instruments/automatic-dependent-surveillance-broadcast](https://www.cfinotebook.net/notebook/avionics-and-instruments/automatic-dependent-surveillance-broadcast)  
+   Link: <a href="https://www.cfinotebook.net/notebook/avionics-and-instruments/automatic-dependent-surveillance-broadcast" target="_blank" rel="noopener noreferrer nofollow">https://www.cfinotebook.net/notebook/avionics-and-instruments/automatic-dependent-surveillance-broadcast</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Automatic Dependent Surveillance BroadcastADS-B broadcasts once per second with the aircrafts position, velocity, identification, and oth...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/asianchronicle/posts/us-air-force-warns-of-opsec-threat-from-online-flight-trackinga-us-air-force-off/1527817099352705/](https://www.facebook.com/asianchronicle/posts/us-air-force-warns-of-opsec-threat-from-online-flight-trackinga-us-air-force-off/1527817099352705/)  
+   Link: <a href="https://www.facebook.com/asianchronicle/posts/us-air-force-warns-of-opsec-threat-from-online-flight-trackinga-us-air-force-off/1527817099352705/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/asianchronicle/posts/us-air-force-warns-of-opsec-threat-from-online-flight-trackinga-us-air-force-off/1527817099352705/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US Air Force Warns of OPSEC Threat From Online Flight...ADS-B Filtering &amp; Privacy Regulations – FlightRadar24 automatically filters mili...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: businessaircraftcenter.com  
-   Link: [https://www.businessaircraftcenter.com/articles/ads-b-next-generation-technology-faa-mandate-update-art0417.htm](https://www.businessaircraftcenter.com/articles/ads-b-next-generation-technology-faa-mandate-update-art0417.htm)  
+   Link: <a href="https://www.businessaircraftcenter.com/articles/ads-b-next-generation-technology-faa-mandate-update-art0417.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.businessaircraftcenter.com/articles/ads-b-next-generation-technology-faa-mandate-update-art0417.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding ADS-B and the FAA MandateA plane with the proper ADS-B aircraft avionics will regularly broadcast position, velocity, and i...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: spire.com  
-   Link: [https://spire.com/blog/aviation/understanding-multilateration-mlat-for-more-precise-aircraft-positioning-free-from-interference/](https://spire.com/blog/aviation/understanding-multilateration-mlat-for-more-precise-aircraft-positioning-free-from-interference/)  
+   Link: <a href="https://spire.com/blog/aviation/understanding-multilateration-mlat-for-more-precise-aircraft-positioning-free-from-interference/" target="_blank" rel="noopener noreferrer nofollow">https://spire.com/blog/aviation/understanding-multilateration-mlat-for-more-precise-aircraft-positioning-free-from-interference/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding multilateration (MLAT) for more precise...27 Mar 2025 — Multilateration (MLAT) is a method that determines the location or...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: twz.com  
    Title: congress has made fully obscuring aircraft ownership information a reality  
-   Link: [https://www.twz.com/news-features/congress-has-made-fully-obscuring-aircraft-ownership-information-a-reality](https://www.twz.com/news-features/congress-has-made-fully-obscuring-aircraft-ownership-information-a-reality)  
+   Link: <a href="https://www.twz.com/news-features/congress-has-made-fully-obscuring-aircraft-ownership-information-a-reality" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/news-features/congress-has-made-fully-obscuring-aircraft-ownership-information-a-reality</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Congress Has Made Fully Obscuring Aircraft Ownership...17 May 2024 — The FAA re-authorization bill will make it harder to learn who owns...</p></details>
    Published: May 2024  
 
 40. <a id="endnote-40"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=KahiBjBmgrc](https://www.youtube.com/watch?v=KahiBjBmgrc)  
+   Link: <a href="https://www.youtube.com/watch?v=KahiBjBmgrc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KahiBjBmgrc</a>  
 
 41. <a id="endnote-41"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=SfKCwQcsQA0](https://www.youtube.com/watch?v=SfKCwQcsQA0)  
+   Link: <a href="https://www.youtube.com/watch?v=SfKCwQcsQA0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SfKCwQcsQA0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How does multilateration (MLAT) work?mlat requires four receivers in a particular region to receive a signal emitted by an aircraft...</p></details>
 
 42. <a id="endnote-42"></a>
    Source: jetstreamlaw.com  
    Title: how to block your aircraft tail number from public tracking  
-   Link: [https://jetstreamlaw.com/how-to-block-your-aircraft-tail-number-from-public-tracking/](https://jetstreamlaw.com/how-to-block-your-aircraft-tail-number-from-public-tracking/)  
+   Link: <a href="https://jetstreamlaw.com/how-to-block-your-aircraft-tail-number-from-public-tracking/" target="_blank" rel="noopener noreferrer nofollow">https://jetstreamlaw.com/how-to-block-your-aircraft-tail-number-from-public-tracking/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>20 Jun 2025 — The FAA now has two programs that enable aircraft owners to block or limit access to their ADS-B data: the Limiting Aircraf...</p></details>
 
 43. <a id="endnote-43"></a>
    Source: rtx.com  
-   Link: [https://www.rtx.com/collinsaerospace/what-we-do/industries/business-aviation/flight-deck/adsb](https://www.rtx.com/collinsaerospace/what-we-do/industries/business-aviation/flight-deck/adsb)  
+   Link: <a href="https://www.rtx.com/collinsaerospace/what-we-do/industries/business-aviation/flight-deck/adsb" target="_blank" rel="noopener noreferrer nofollow">https://www.rtx.com/collinsaerospace/what-we-do/industries/business-aviation/flight-deck/adsb</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>, and identification, to ground stations and other aircraft every second.Read more...</p></details>
 
 44. <a id="endnote-44"></a>
    Source: superiorskies.org  
    Title: Compared to traditional radar, which updates every 5  
-   Link: [https://superiorskies.org/learn/adsb-technology](https://superiorskies.org/learn/adsb-technology)  
+   Link: <a href="https://superiorskies.org/learn/adsb-technology" target="_blank" rel="noopener noreferrer nofollow">https://superiorskies.org/learn/adsb-technology</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B Technology: How We Track Aircraft Over Your...ADS-B-equipped aircraft broadcast their position, altitude, speed, and identificatio...</p></details>

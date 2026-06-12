@@ -50,22 +50,22 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_wind_data_33671a
 - ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - balloons
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - balloons
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Balloons can look metallic, glowing or saucer-shaped when sunlit, high, slow and hard to judge for distance.
 hero_summary: Balloons can look metallic, glowing or saucer-shaped when sunlit, high, slow and hard to judge for distance.
 layout: default
 permalink: /balloons/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 nav_short_title: Balloons
 title: Why Balloons Become Flying Saucers
-title_full: Why Balloons Become Flying Saucers | IFOs
+title_full: Why Balloons Become Flying Saucers
 display_title_short: Balloons
 display_title: Balloons
 heading_title: Why Balloons Become Flying Saucers
@@ -240,213 +240,212 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 01:48:23'
 parent_title: IFOs
-parent_permalink: /ifos-causes-of/
+parent_permalink: /ifos-causes-of-ufo-3-ed-238/
 parent_nav_short_title: IFOs
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 sibling_links:
 - basename: ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d
-  title: A Head On Aircraft Can Look Like A Stationary Light... | Ifos Causes Of
+  title: A Head On Aircraft Can Look Like A Stationary Light... | ifos causes of UFO 3 ed 238
   permalink: /a-head-on-aircraft-can-look-like-a/
   short_title: A Head On Aircraft Can Look Like A Stationary Light...
   heading_title: The Stationary Light That Is Moving
 - basename: ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261
-  title: AARO | Ifos Causes Of
+  title: AARO | ifos causes of UFO 3 ed 238
   permalink: /aaro/
   short_title: AARO
   heading_title: What Modern UAP Reviews Resolve
 - basename: ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253
-  title: Aircraft Lights | Ifos Causes Of
+  title: Aircraft Lights | ifos causes of UFO 3 ed 238
   permalink: /aircraft-lights/
   short_title: Aircraft Lights
   heading_title: Why Ordinary Aircraft Look So Strange
 - basename: ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043
-  title: Atmosphere | Ifos Causes Of
+  title: Atmosphere | ifos causes of UFO 3 ed 238
   permalink: /atmosphere/
   short_title: Atmosphere
   heading_title: When Weather Makes Shapes in the Sky
 - basename: ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40
-  title: Birds | Ifos Causes Of
+  title: Birds | ifos causes of UFO 3 ed 238
   permalink: /birds/
   short_title: Birds
   heading_title: How Birds Become Fast UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81
-  title: Blue Book | Ifos Causes Of
+  title: Blue Book | ifos causes of UFO 3 ed 238
   permalink: /blue-book/
   short_title: Blue Book
   heading_title: What Blue Book Teaches About IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e
-  title: Contrails | Ifos Causes Of
+  title: Contrails | ifos causes of UFO 3 ed 238
   permalink: /contrails/
   short_title: Contrails
   heading_title: Why Jet Trails Glow Like UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c
-  title: Drones | Ifos Causes Of
+  title: Drones | ifos causes of UFO 3 ed 238
   permalink: /drones/
   short_title: Drones
   heading_title: When a Drone Becomes a UFO
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e
-  title: First Checks | Ifos Causes Of
+  title: First Checks | ifos causes of UFO 3 ed 238
   permalink: /first-checks/
   short_title: First Checks
   heading_title: What to Check Before Calling It a UFO
 - basename: ifos_-_causes_of_UFO_3ed238_military_flares_abb62f
-  title: Flares | Ifos Causes Of
+  title: Flares | ifos causes of UFO 3 ed 238
   permalink: /flares/
   short_title: Flares
   heading_title: Why Flares Look Like Hovering Craft
 - basename: ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590
-  title: Flight Tracking | Ifos Causes Of
+  title: Flight Tracking | ifos causes of UFO 3 ed 238
   permalink: /flight-tracking/
   short_title: Flight Tracking
   heading_title: How Flight Data Solves UFO Sightings
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965
-  title: Hoaxes | Ifos Causes Of
+  title: Hoaxes | ifos causes of UFO 3 ed 238
   permalink: /hoaxes/
   short_title: Hoaxes
   heading_title: When UFO Reports Are Manufactured
 - basename: ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f
-  title: Infrared | Ifos Causes Of
+  title: Infrared | ifos causes of UFO 3 ed 238
   permalink: /infrared/
   short_title: Infrared
   heading_title: Why Infrared UFO Videos Mislead
 - basename: ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74
-  title: Insects | Ifos Causes Of
+  title: Insects | ifos causes of UFO 3 ed 238
   permalink: /insects/
   short_title: Insects
   heading_title: The Tiny Things Cameras Make Huge
 - basename: ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5
-  title: Lanterns | Ifos Causes Of
+  title: Lanterns | ifos causes of UFO 3 ed 238
   permalink: /lanterns/
   short_title: Lanterns
   heading_title: The Orange Lights That Start UFO Reports
 - basename: ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e
-  title: Lens Flare | Ifos Causes Of
+  title: Lens Flare | ifos causes of UFO 3 ed 238
   permalink: /lens-flare/
   short_title: Lens Flare
   heading_title: When Cameras Invent Extra Lights
 - basename: ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28
-  title: Mass Sightings | Ifos Causes Of
+  title: Mass Sightings | ifos causes of UFO 3 ed 238
   permalink: /mass-sightings/
   short_title: Mass Sightings
   heading_title: Why Groups Can Share One Mistake
 - basename: ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504
-  title: Meteors | Ifos Causes Of
+  title: Meteors | ifos causes of UFO 3 ed 238
   permalink: /meteors/
   short_title: Meteors
   heading_title: When Fireballs Become UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca
-  title: Missing Data | Ifos Causes Of
+  title: Missing Data | ifos causes of UFO 3 ed 238
   permalink: /missing-data/
   short_title: Missing Data
   heading_title: Unsolved Does Not Always Mean Strange
 - basename: ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183
-  title: NASA Study | Ifos Causes Of
+  title: NASA Study | ifos causes of UFO 3 ed 238
   permalink: /nasa-study/
   short_title: NASA Study
   heading_title: Why Better UFO Data Matters
 - basename: ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b
-  title: Parallax | Ifos Causes Of
+  title: Parallax | ifos causes of UFO 3 ed 238
   permalink: /parallax/
   short_title: Parallax
   heading_title: The Speed Illusion in UFO Footage
 - basename: ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a
-  title: Pilots | Ifos Causes Of
+  title: Pilots | ifos causes of UFO 3 ed 238
   permalink: /pilots/
   short_title: Pilots
   heading_title: Why Pilots Can Misidentify UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357
-  title: Radar | Ifos Causes Of
+  title: Radar | ifos causes of UFO 3 ed 238
   permalink: /radar/
   short_title: Radar
   heading_title: When Radar Sees a UFO That Isnt There
 - basename: ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c
-  title: Reflections | Ifos Causes Of
+  title: Reflections | ifos causes of UFO 3 ed 238
   permalink: /reflections/
   short_title: Reflections
   heading_title: The UFO Inside the Glass
 - basename: ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132
-  title: Rocket Plumes | Ifos Causes Of
+  title: Rocket Plumes | ifos causes of UFO 3 ed 238
   permalink: /rocket-plumes/
   short_title: Rocket Plumes
   heading_title: The Strange Clouds Rockets Leave Behind
 - basename: ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b
-  title: Satellites | Ifos Causes Of
+  title: Satellites | ifos causes of UFO 3 ed 238
   permalink: /satellites/
   short_title: Satellites
   heading_title: Why Satellites Surprise Night Watchers
 - basename: ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1
-  title: Searchlights | Ifos Causes Of
+  title: Searchlights | ifos causes of UFO 3 ed 238
   permalink: /searchlights/
   short_title: Searchlights
   heading_title: How Searchlights Paint UFOs in Clouds
 - basename: ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b
-  title: Sensor Operators | Ifos Causes Of
+  title: Sensor Operators | ifos causes of UFO 3 ed 238
   permalink: /sensor-operators/
   short_title: Sensor Operators
   heading_title: When Sensors Need Human Context
 - basename: ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391
-  title: Short Clips | Ifos Causes Of
+  title: Short Clips | ifos causes of UFO 3 ed 238
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: Why Short UFO Videos Are Hard to Trust
 - basename: ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f
-  title: Size Errors | Ifos Causes Of
+  title: Size Errors | ifos causes of UFO 3 ed 238
   permalink: /size-errors/
   short_title: Size Errors
   heading_title: Why Honest Witnesses Misjudge UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725
-  title: Sky Charts | Ifos Causes Of
+  title: Sky Charts | ifos causes of UFO 3 ed 238
   permalink: /sky-charts/
   short_title: Sky Charts
   heading_title: How to Check a UFO Against the Sky
 - basename: ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32
-  title: Stars | Ifos Causes Of
+  title: Stars | ifos causes of UFO 3 ed 238
   permalink: /stars/
   short_title: Stars
   heading_title: Why Stars Flash Like Machines
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb
-  title: Status Labels | Ifos Causes Of
+  title: Status Labels | ifos causes of UFO 3 ed 238
   permalink: /status-labels/
   short_title: Status Labels
   heading_title: UFO Does Not Mean Alien
 - basename: ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d
-  title: Strong Cases | Ifos Causes Of
+  title: Strong Cases | ifos causes of UFO 3 ed 238
   permalink: /strong-cases/
   short_title: Strong Cases
   heading_title: What Makes a UFO Report Harder to Explain
 - basename: ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948
-  title: UK Files | Ifos Causes Of
+  title: UK Files | ifos causes of UFO 3 ed 238
   permalink: /uk-files/
   short_title: UK Files
   heading_title: What the UK UFO Files Reveal
 - basename: ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06
-  title: Unresolved Cases | Ifos Causes Of
+  title: Unresolved Cases | ifos causes of UFO 3 ed 238
   permalink: /unresolved-cases/
   short_title: Unresolved Cases
   heading_title: Why Some UFO Cases Stay Open
 - basename: ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080
-  title: Venus | Ifos Causes Of
+  title: Venus | ifos causes of UFO 3 ed 238
   permalink: /venus/
   short_title: Venus
   heading_title: Is That UFO Really Venus?
 - basename: ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13
-  title: Weather Records | Ifos Causes Of
+  title: Weather Records | ifos causes of UFO 3 ed 238
   permalink: /weather-records/
   short_title: Weather Records
   heading_title: Weather Clues That Explain Strange Lights
 - basename: ifos_-_causes_of_UFO_3ed238_wind_data_33671a
-  title: Wind Data | Ifos Causes Of
+  title: Wind Data | ifos causes of UFO 3 ed 238
   permalink: /wind-data/
   short_title: Wind Data
   heading_title: Following a UFO With the Wind
@@ -479,20 +478,21 @@ child_links:
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 prev_link:
   basename: ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043
-  title: Atmosphere | Ifos Causes Of
+  title: Atmosphere | ifos causes of UFO 3 ed 238
   permalink: /atmosphere/
   short_title: Atmosphere
   heading_title: When Weather Makes Shapes in the Sky
 next_link:
   basename: ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40
-  title: Birds | Ifos Causes Of
+  title: Birds | ifos causes of UFO 3 ed 238
   permalink: /birds/
   short_title: Birds
   heading_title: How Birds Become Fast UFOs
+date: '2026-06-12 00:11:16 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057-overview-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057-overview.webp
@@ -502,7 +502,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057-overvi
 ## Introduction
 
 Weather balloons and other drifting high-altitude objects are one of the most durable causes of UFO reports because they sit in a perceptual sweet spot: high enough to be hard to size, bright enough to catch sunlight, slow enough to seem eerily controlled, and unfamiliar enough that many witnesses have no everyday comparison. A normal weather-balloon flight can rise above 35 km, last more than two hours and drift hundreds of kilometres, while scientific balloons can carry much larger payloads to similar or greater heights. Seen from the ground or through an [infrared]({{ 'infrared/' | relative_url }}) sensor, such objects can look like metallic spheres, glowing discs, jellyfish-like shapes or motionless craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/upperair/factsheet" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-title">National Weather Service Radiosonde Observation</span><span class="citation-popover-snippet">National Weather Service Radiosonde Observation</span></span></span>
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057-overview.webp" | relative_url }}" alt="Overview image for Balloons" loading="eager" decoding="sync" fetchpriority="high">
 That does not mean every odd light is a balloon. It means balloons are a serious first-line check. Modern UAP investigators still resolve some reports this way: [AARO]({{ 'aaro/' | relative_url }}) has published multiple 2022 military-sensor cases assessed with high confidence as balloons because their shapes and behaviour matched lighter-than-air objects drifting with the wind. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">AARO UAP Imagery...</span></span></span>
@@ -517,8 +516,6 @@ Sunlight adds another layer. A pale latex balloon, a metallised research balloon
 
 The “saucer” impression often comes from viewing geometry rather than from a literal saucer-shaped craft. A round balloon seen slightly flattened by distance, glare, camera focus, haze or digital zoom can appear as an oval disc. A balloon with dangling equipment can look like a dome with a tail, a jellyfish, a cross, a “tic-tac” body or a dark object beneath a glowing canopy. In short sightings, the witness may remember the most striking shape rather than the complete configuration.
 
-
-<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057-Illustration-1-dark.svg" | relative_url }}" alt="Balloons illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Wind drift turns ordinary motion into a UFO clue
 
 Balloons do not fly like aircraft; they move with the air mass around them. That is exactly what can make them puzzling. Near the ground, a witness may feel little or no wind, while the object is actually travelling in a stronger wind layer kilometres above. The NWS notes that a radiosonde entering a strong jet stream can travel at speeds exceeding 400 km/h, even though it has no engine of its own. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/upperair/factsheet" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-title">National Weather Service Radiosonde Observation</span><span class="citation-popover-snippet">National Weather Service Radiosonde Observation</span></span></span>
@@ -533,9 +530,7 @@ This produces several common reporting errors:
 
 The scale of drift is not trivial. A typical NWS sounding can drift more than 300 km from its release point. The UK Met Office similarly describes radiosonde balloons being carried horizontally by the wind while their position is tracked to infer wind speed and direction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/upperair/factsheet" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-title">National Weather Service Radiosonde Observation</span><span class="citation-popover-snippet">National Weather Service Radiosonde Observation</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NFDJ52wT5iA" title="What Was This? UAP / UFO, Drone, Weather Balloon, or Something Else?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NFDJ52wT5iA" target="_blank" rel="noopener noreferrer">What Was This? UAP / UFO, Drone, Weather Balloon, or Something Else?</a></p><p class="youtube-embed-meta">Channel: Wagner&#x27;s TechTalk &middot; Views: 3.0K &middot; Uploaded: January 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NFDJ52wT5iA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NFDJ52wT5iA">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057-Illustration-1-dark.svg" | relative_url }}" alt="Balloons illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Weather balloons are common enough to matter
 
 Weather balloons are not rare curiosities. They are routine infrastructure. The NWS describes upper-air observations as a regular programme in which radiosondes transmit temperature, humidity, pressure and [wind data]({{ 'wind-data/' | relative_url }}) while suspended below a balloon. Local NWS offices also describe launches occurring at least twice daily, with simultaneous launches from many other sites. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/upperair/factsheet" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-title">National Weather Service Radiosonde Observation</span><span class="citation-popover-snippet">National Weather Service Radiosonde Observation</span></span></span>
@@ -554,14 +549,12 @@ Modern examples are less mythic but more useful for investigators. In 2020, a wh
 
 These cases matter because they show the same mechanism at different scales: a balloon can be publicly visible, slow, high, hard to identify and politically or culturally loaded before anyone has enough context to label it correctly.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057-Illustration-2-dark.svg" | relative_url }}" alt="Balloons illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What investigators check before calling it a balloon
 
 A credible balloon explanation needs more than saying “probably a weather balloon”. It should fit the object’s time, direction, apparent motion, altitude clues and visual form. A weak balloon explanation is just a convenient label; a strong one is a correlation.
 
 Investigators typically look for:
-
 
 <div class="content-enhancement content-enhancement--checklist" markdown="1">
 
@@ -578,8 +571,7 @@ AARO’s published case summaries illustrate the standard. In several 2022 Europ
 
 Civil aviation rules can also leave a paper trail. The U.S. Federal Aviation Administration’s air-traffic guidance says operators of unmanned free balloons are required to monitor the balloon’s course and record its position at least every two hours, with position reports available to air traffic control when requested. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_6.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NFDJ52wT5iA" title="What Was This? UAP / UFO, Drone, Weather Balloon, or Something Else?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NFDJ52wT5iA" target="_blank" rel="noopener noreferrer">What Was This? UAP / UFO, Drone, Weather Balloon, or Something Else?</a></p><p class="youtube-embed-meta">Channel: Wagner&#x27;s TechTalk &middot; Views: 3.0K &middot; Uploaded: January 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NFDJ52wT5iA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NFDJ52wT5iA">Open on YouTube</a></p></div></div></div>
 
 ## Why balloons are not a lazy explanation when the data fits
 
@@ -589,9 +581,6 @@ It is also important to distinguish weather balloons from the broader family of 
 
 That diversity helps explain why witnesses sometimes reject the label. The object they saw may not resemble the small “weather balloon” they imagine. A large scientific balloon can look like a glowing sphere or translucent jellyfish. A payload train can look angular or mechanical. A solar balloon can appear dark, diamond-shaped or bag-like. A parachute and suspended package can look like a craft with appendages. The right comparison is not a party balloon, but the actual high-altitude object family.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BiPXPpNOiLU" title="Ezra Kelderman: Galileo Project | EXOQUEST Archives" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BiPXPpNOiLU" target="_blank" rel="noopener noreferrer">Ezra Kelderman: Galileo Project | EXOQUEST Archives</a></p><p class="youtube-embed-meta">Channel: EXOQUEST</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BiPXPpNOiLU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BiPXPpNOiLU">Open on YouTube</a></p></div></div></div>
-
 ## Where balloon explanations fail
 
 A balloon explanation should be rejected or kept tentative when it does not fit the evidence. Sharp acceleration against the wind, repeated manoeuvres inconsistent with drift, low-altitude movement through obstacles, engine-like propulsion, multiple independent sensor tracks showing non-balloon performance, or a reliable launch-record mismatch all weaken the case.
@@ -599,7 +588,6 @@ A balloon explanation should be rejected or kept tentative when it does not fit 
 Distance uncertainty is the central problem. If no one knows how far away the object was, claims about size and speed are unstable. A “huge craft moving rapidly” may be a nearby small object, or a “small light moving slowly” may be a large object far away. Without triangulation, [radar]({{ 'radar/' | relative_url }}) range, multiple viewpoints, known background references or a recovered object, many sightings remain probabilistic rather than settled.
 
 This is why the most responsible conclusion is often not “definitely a balloon” but “consistent with a balloon”. That phrase is not a dodge. It means the known facts match a common cause, but the available evidence may not be enough to prove a unique identification. AARO makes this distinction in its public case material by separating resolved balloon cases from reports that remain unresolved or under analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_Puerto_Rico_UAP_Case_Resolution.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Puerto Rico UAP Case Resolution</span><span class="citation-popover-snippet">Puerto Rico UAP Case Resolution</span></span></span>
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057-Illustration-3-dark.svg" | relative_url }}" alt="Balloons illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why this mechanism matters for UFO reports
@@ -725,15 +713,15 @@ For UFO investigation, balloons are therefore not a punchline but a calibration 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-why-balloons-become-flying-saucers-ifos-causes-of-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="balloons-why-balloons-become-flying-saucers-ifos-causes-of-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scratchbuilt UFO Flying Saucer Light Up Desktop Model !"><img src="{{ '/assets/images/marketplace-covers/3ef81f2f0d2a9cad1cde.jpg' | relative_url }}" alt="Listing image for Scratchbuilt UFO Flying Saucer Light Up Desktop Model !" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-balloons-become-flying-saucers-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="why-balloons-become-flying-saucers-weather-balloon-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Free People On The Horizon Jacquard Maxi Skirt Set Floral Lined Ivory L NWT"><img src="https://i.ebayimg.com/images/g/wykAAeSwm3ZqKCmq/s-l225.jpg" alt="Listing image for Free People On The Horizon Jacquard Maxi Skirt Set Floral Lined Ivory L NWT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-why-balloons-become-flying-saucers-ifos-causes-of-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="balloons-why-balloons-become-flying-saucers-ifos-causes-of-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Scratchbuilt UFO Flying Saucer Light Up Desktop Model !</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-balloons-become-flying-saucers-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="why-balloons-become-flying-saucers-weather-balloon-kit" target="_blank" rel="sponsored noopener noreferrer">Free People On The Horizon Jacquard Maxi Skirt Set Floral Lined Ivory L NWT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-why-balloons-become-flying-saucers-ifos-causes-of-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="balloons-why-balloons-become-flying-saucers-ifos-causes-of-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-balloons-become-flying-saucers-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="why-balloons-become-flying-saucers-weather-balloon-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather balloon kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather balloon kit</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-why-balloons-become-flying-saucers-ifos-causes-of-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="balloons-why-balloons-become-flying-saucers-ifos-causes-of-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-balloons-become-flying-saucers-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="why-balloons-become-flying-saucers-weather-balloon-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -741,15 +729,15 @@ For UFO investigation, balloons are therefore not a punchline but a calibration 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-why-balloons-become-flying-saucers-ifos-causes-of-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="balloons-why-balloons-become-flying-saucers-ifos-causes-of-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FLYING SAUCER MODEL KIT ATLANTIS &quot;MINT IN THE BAG&quot;"><img src="{{ '/assets/images/marketplace-covers/da990540ea3238a52d7f.jpg' | relative_url }}" alt="Listing image for FLYING SAUCER MODEL KIT ATLANTIS &quot;MINT IN THE BAG&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-balloons-become-flying-saucers-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="why-balloons-become-flying-saucers-weather-balloon-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2 Sets Balloon Column Stand Kit with 100 Balloons Summer Adjustable Balloon T..."><img src="https://i.ebayimg.com/images/g/1~YAAeSwVRppuG9J/s-l225.jpg" alt="Listing image for 2 Sets Balloon Column Stand Kit with 100 Balloons Summer Adjustable Balloon T..." loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-why-balloons-become-flying-saucers-ifos-causes-of-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="balloons-why-balloons-become-flying-saucers-ifos-causes-of-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">FLYING SAUCER MODEL KIT ATLANTIS &quot;MINT IN THE BAG&quot;</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-balloons-become-flying-saucers-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="why-balloons-become-flying-saucers-weather-balloon-kit" target="_blank" rel="sponsored noopener noreferrer">2 Sets Balloon Column Stand Kit with 100 Balloons Summer Adjustable Balloon T...</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-why-balloons-become-flying-saucers-ifos-causes-of-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="balloons-why-balloons-become-flying-saucers-ifos-causes-of-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-balloons-become-flying-saucers-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="why-balloons-become-flying-saucers-weather-balloon-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather balloon kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather balloon kit</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-why-balloons-become-flying-saucers-ifos-causes-of-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="balloons-why-balloons-become-flying-saucers-ifos-causes-of-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-balloons-become-flying-saucers-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="why-balloons-become-flying-saucers-weather-balloon-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -757,15 +745,15 @@ For UFO investigation, balloons are therefore not a punchline but a calibration 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-why-balloons-become-flying-saucers-ifos-causes-of-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="balloons-why-balloons-become-flying-saucers-ifos-causes-of-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gulf Breeze UFO Model | UAP Model | UFO Toy | Flying Saucer Model | Geek Gift"><img src="{{ '/assets/images/marketplace-covers/d0cbf96926a44bce4722.jpg' | relative_url }}" alt="Listing image for Gulf Breeze UFO Model | UAP Model | UFO Toy | Flying Saucer Model | Geek Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-balloons-become-flying-saucers-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="why-balloons-become-flying-saucers-weather-balloon-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Chalet et Ceci | 100% Linen Midi Bubble Skirt &amp; Sleeveless Top w/Ruffle Hem, M"><img src="https://i.ebayimg.com/images/g/6McAAeSwfyxouvty/s-l225.jpg" alt="Listing image for Chalet et Ceci | 100% Linen Midi Bubble Skirt &amp; Sleeveless Top w/Ruffle Hem, M" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-why-balloons-become-flying-saucers-ifos-causes-of-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="balloons-why-balloons-become-flying-saucers-ifos-causes-of-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Gulf Breeze UFO Model | UAP Model | UFO Toy | Flying Saucer Model | Geek Gift</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-balloons-become-flying-saucers-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="why-balloons-become-flying-saucers-weather-balloon-kit" target="_blank" rel="sponsored noopener noreferrer">Chalet et Ceci | 100% Linen Midi Bubble Skirt &amp; Sleeveless Top w/Ruffle Hem, M</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-why-balloons-become-flying-saucers-ifos-causes-of-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="balloons-why-balloons-become-flying-saucers-ifos-causes-of-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-balloons-become-flying-saucers-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="why-balloons-become-flying-saucers-weather-balloon-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather balloon kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather balloon kit</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-why-balloons-become-flying-saucers-ifos-causes-of-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="balloons-why-balloons-become-flying-saucers-ifos-causes-of-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-balloons-become-flying-saucers-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="why-balloons-become-flying-saucers-weather-balloon-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -773,15 +761,15 @@ For UFO investigation, balloons are therefore not a punchline but a calibration 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-why-balloons-become-flying-saucers-ifos-causes-of-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="balloons-why-balloons-become-flying-saucers-ifos-causes-of-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Unidentified Flying Object Alien Aliens Flying Saucer Ship 6&quot; - Pick Color"><img src="{{ '/assets/images/marketplace-covers/f43222bff5987d254054.jpg' | relative_url }}" alt="Listing image for UFO Unidentified Flying Object Alien Aliens Flying Saucer Ship 6&quot; - Pick Color" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-balloons-become-flying-saucers-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="why-balloons-become-flying-saucers-weather-balloon-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Zoiiwa 2 Sets Balloon Column Stand Kit 100 Balloons Summer Adjustable Balloon"><img src="https://i.ebayimg.com/images/g/XhQAAeSwYIpqGGKz/s-l225.jpg" alt="Listing image for Zoiiwa 2 Sets Balloon Column Stand Kit 100 Balloons Summer Adjustable Balloon" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-why-balloons-become-flying-saucers-ifos-causes-of-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="balloons-why-balloons-become-flying-saucers-ifos-causes-of-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">UFO Unidentified Flying Object Alien Aliens Flying Saucer Ship 6&quot; - Pick Color</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-balloons-become-flying-saucers-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="why-balloons-become-flying-saucers-weather-balloon-kit" target="_blank" rel="sponsored noopener noreferrer">Zoiiwa 2 Sets Balloon Column Stand Kit 100 Balloons Summer Adjustable Balloon</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-why-balloons-become-flying-saucers-ifos-causes-of-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="balloons-why-balloons-become-flying-saucers-ifos-causes-of-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-balloons-become-flying-saucers-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="why-balloons-become-flying-saucers-weather-balloon-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather balloon kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather balloon kit</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-why-balloons-become-flying-saucers-ifos-causes-of-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="balloons-why-balloons-become-flying-saucers-ifos-causes-of-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-balloons-become-flying-saucers-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="why-balloons-become-flying-saucers-weather-balloon-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -789,7 +777,7 @@ For UFO investigation, balloons are therefore not a punchline but a calibration 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-why-balloons-become-flying-saucers-ifos-causes-of-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="balloons-why-balloons-become-flying-saucers-ifos-causes-of-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-balloons-become-flying-saucers-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="why-balloons-become-flying-saucers-weather-balloon-kit" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -1005,151 +993,151 @@ For UFO investigation, balloons are therefore not a punchline but a calibration 
 1. <a id="endnote-1"></a>
    Source: weather.gov  
    Title: National Weather Service Radiosonde Observation  
-   Link: [https://www.weather.gov/upperair/factsheet](https://www.weather.gov/upperair/factsheet)  
+   Link: <a href="https://www.weather.gov/upperair/factsheet" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/upperair/factsheet</a>  
 
 2. <a id="endnote-2"></a>
    Source: nasa.gov  
    Title: scientific balloon fact sheet  
-   Link: [https://www.nasa.gov/wp-content/uploads/2023/03/nasa-scientific-balloon-fact-sheet.pdf](https://www.nasa.gov/wp-content/uploads/2023/03/nasa-scientific-balloon-fact-sheet.pdf)  
+   Link: <a href="https://www.nasa.gov/wp-content/uploads/2023/03/nasa-scientific-balloon-fact-sheet.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2023/03/nasa-scientific-balloon-fact-sheet.pdf</a>  
 
 3. <a id="endnote-3"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/chs/upperair](https://www.weather.gov/chs/upperair)  
+   Link: <a href="https://www.weather.gov/chs/upperair" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/chs/upperair</a>  
 
 5. <a id="endnote-5"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/scientificballoons/](https://www.nasa.gov/scientificballoons/)  
+   Link: <a href="https://www.nasa.gov/scientificballoons/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/scientificballoons/</a>  
 
 6. <a id="endnote-6"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/scientificballoons/overview/](https://www.nasa.gov/scientificballoons/overview/)  
+   Link: <a href="https://www.nasa.gov/scientificballoons/overview/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/scientificballoons/overview/</a>  
 
 7. <a id="endnote-7"></a>
    Source: af.mil  
    Title: Air Force  
-   Link: [https://www.af.mil/The-Roswell-Report/](https://www.af.mil/The-Roswell-Report/)  
+   Link: <a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Report...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/article/lifestyle/balloon-like-object-in-japanese-sky-sets-twitter-afire-with-talk-of-ufos-godzil-idUSKBN23O0ZF/](https://www.reuters.com/article/lifestyle/balloon-like-object-in-japanese-sky-sets-twitter-afire-with-talk-of-ufos-godzil-idUSKBN23O0ZF/)  
+   Link: <a href="https://www.reuters.com/article/lifestyle/balloon-like-object-in-japanese-sky-sets-twitter-afire-with-talk-of-ufos-godzil-idUSKBN23O0ZF/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/lifestyle/balloon-like-object-in-japanese-sky-sets-twitter-afire-with-talk-of-ufos-godzil-idUSKBN23O0ZF/</a>  
 
 9. <a id="endnote-9"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 10. <a id="endnote-10"></a>
    Source: aaro.mil  
    Title: [Puerto Rico](&#123;&#123; 'puerto-rico/' | relative_url &#125;&#125;) UAP Case Resolution  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_Puerto_Rico_UAP_Case_Resolution.pdf](https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_Puerto_Rico_UAP_Case_Resolution.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_Puerto_Rico_UAP_Case_Resolution.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_Puerto_Rico_UAP_Case_Resolution.pdf</a>  
 
 11. <a id="endnote-11"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf](https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 13. <a id="endnote-13"></a>
    Source: nasa.gov  
    Title: scientific balloons  
-   Link: [https://www.nasa.gov/blogs/scientific-balloons/](https://www.nasa.gov/blogs/scientific-balloons/)  
+   Link: <a href="https://www.nasa.gov/blogs/scientific-balloons/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/blogs/scientific-balloons/</a>  
 
 14. <a id="endnote-14"></a>
    Source: plus.nasa.gov  
    Title: balloons on ice nasas annual scientific balloon campaign in antarctica 2  
-   Link: [https://plus.nasa.gov/video/balloons-on-ice-nasas-annual-scientific-balloon-campaign-in-antarctica-2/](https://plus.nasa.gov/video/balloons-on-ice-nasas-annual-scientific-balloon-campaign-in-antarctica-2/)  
+   Link: <a href="https://plus.nasa.gov/video/balloons-on-ice-nasas-annual-scientific-balloon-campaign-in-antarctica-2/" target="_blank" rel="noopener noreferrer nofollow">https://plus.nasa.gov/video/balloons-on-ice-nasas-annual-scientific-balloon-campaign-in-antarctica-2/</a>  
 
 15. <a id="endnote-15"></a>
    Source: csbf.nasa.gov  
-   Link: [https://www.csbf.nasa.gov/balloons.html](https://www.csbf.nasa.gov/balloons.html)  
+   Link: <a href="https://www.csbf.nasa.gov/balloons.html" target="_blank" rel="noopener noreferrer nofollow">https://www.csbf.nasa.gov/balloons.html</a>  
 
 16. <a id="endnote-16"></a>
    Source: svs.gsfc.nasa.gov  
-   Link: [https://svs.gsfc.nasa.gov/31302/](https://svs.gsfc.nasa.gov/31302/)  
+   Link: <a href="https://svs.gsfc.nasa.gov/31302/" target="_blank" rel="noopener noreferrer nofollow">https://svs.gsfc.nasa.gov/31302/</a>  
 
 17. <a id="endnote-17"></a>
    Source: aljazeera.com  
    Title: Al Jazeera Balloons, 'objects' – what's in the sky above the US?  
-   Link: [https://www.aljazeera.com/news/2023/2/16/balloons-objects-whats-in-the-sky-above-the-us](https://www.aljazeera.com/news/2023/2/16/balloons-objects-whats-in-the-sky-above-the-us)  
+   Link: <a href="https://www.aljazeera.com/news/2023/2/16/balloons-objects-whats-in-the-sky-above-the-us" target="_blank" rel="noopener noreferrer nofollow">https://www.aljazeera.com/news/2023/2/16/balloons-objects-whats-in-the-sky-above-the-us</a>  
 
 18. <a id="endnote-18"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_6.html](https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_6.html)  
+   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_6.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_6.html</a>  
 
 19. <a id="endnote-19"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Radiosonde](https://en.wikipedia.org/wiki/Radiosonde)  
+   Link: <a href="https://en.wikipedia.org/wiki/Radiosonde" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Radiosonde</a>  
 
 20. <a id="endnote-20"></a>
    Source: Wikipedia  
    Title: Weather balloon  
-   Link: [https://en.wikipedia.org/wiki/Weather_balloon](https://en.wikipedia.org/wiki/Weather_balloon)  
+   Link: <a href="https://en.wikipedia.org/wiki/Weather_balloon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Weather_balloon</a>  
 
 21. <a id="endnote-21"></a>
    Source: Wikipedia  
    Title: Project Mogul  
-   Link: [https://en.wikipedia.org/wiki/Project_Mogul](https://en.wikipedia.org/wiki/Project_Mogul)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
 
 22. <a id="endnote-22"></a>
    Source: noaa.gov  
-   Link: [https://www.noaa.gov/jetstream/upperair/radiosondes](https://www.noaa.gov/jetstream/upperair/radiosondes)  
+   Link: <a href="https://www.noaa.gov/jetstream/upperair/radiosondes" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/jetstream/upperair/radiosondes</a>  
 
 23. <a id="endnote-23"></a>
    Source: skyrora.com  
    Title: weather balloons  
-   Link: [https://skyrora.com/weather-balloons/](https://skyrora.com/weather-balloons/)  
+   Link: <a href="https://skyrora.com/weather-balloons/" target="_blank" rel="noopener noreferrer nofollow">https://skyrora.com/weather-balloons/</a>  
 
 ### Additional References
 
 24. <a id="endnote-24"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010002-9.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010002-9.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010002-9.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010002-9.pdf</a>  
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: Explaining unidentified aerial phenomena: The role of weather balloons  
-   Link: [https://www.youtube.com/watch?v=R9jJkS4m81A](https://www.youtube.com/watch?v=R9jJkS4m81A)  
+   Link: <a href="https://www.youtube.com/watch?v=R9jJkS4m81A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=R9jJkS4m81A</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Science behind drifting high-altitude objects...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
    Title: Why high-altitude balloons look like UAPs to sensors  
-   Link: [https://www.youtube.com/watch?v=1F_454F6yWw](https://www.youtube.com/watch?v=1F_454F6yWw)  
+   Link: <a href="https://www.youtube.com/watch?v=1F_454F6yWw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1F_454F6yWw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Explaining unidentified aerial phenomena: The role of weather balloons...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/earthimpacts/posts/a-metallic-ball-was-spotted-moving-swiftly-across-the-sky-catching-the-sunlight-/122176409474911036/](https://www.facebook.com/earthimpacts/posts/a-metallic-ball-was-spotted-moving-swiftly-across-the-sky-catching-the-sunlight-/122176409474911036/)  
+   Link: <a href="https://www.facebook.com/earthimpacts/posts/a-metallic-ball-was-spotted-moving-swiftly-across-the-sky-catching-the-sunlight-/122176409474911036/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/earthimpacts/posts/a-metallic-ball-was-spotted-moving-swiftly-across-the-sky-catching-the-sunlight-/122176409474911036/</a>  
 
 28. <a id="endnote-28"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/timesofmalta/posts/a-mysterious-balloon-like-object-was-spotted-over-northern-japan-in-june-2020/10159566611003175/](https://www.facebook.com/timesofmalta/posts/a-mysterious-balloon-like-object-was-spotted-over-northern-japan-in-june-2020/10159566611003175/)  
+   Link: <a href="https://www.facebook.com/timesofmalta/posts/a-mysterious-balloon-like-object-was-spotted-over-northern-japan-in-june-2020/10159566611003175/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/timesofmalta/posts/a-mysterious-balloon-like-object-was-spotted-over-northern-japan-in-june-2020/10159566611003175/</a>  
 
 29. <a id="endnote-29"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/fox26houston/posts/a-newly-declassified-video-shown-in-infrared-depicts-an-object-appearing-to-be-a/1458779492956510/](https://www.facebook.com/fox26houston/posts/a-newly-declassified-video-shown-in-infrared-depicts-an-object-appearing-to-be-a/1458779492956510/)  
+   Link: <a href="https://www.facebook.com/fox26houston/posts/a-newly-declassified-video-shown-in-infrared-depicts-an-object-appearing-to-be-a/1458779492956510/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox26houston/posts/a-newly-declassified-video-shown-in-infrared-depicts-an-object-appearing-to-be-a/1458779492956510/</a>  
 
 30. <a id="endnote-30"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DYpwvZFDseg/](https://www.instagram.com/reel/DYpwvZFDseg/)  
+   Link: <a href="https://www.instagram.com/reel/DYpwvZFDseg/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYpwvZFDseg/</a>  
 
 31. <a id="endnote-31"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/fox5dc/posts/a-newly-declassified-video-shown-in-infrared-depicts-an-object-appearing-to-be-a/1459085376256018/](https://www.facebook.com/fox5dc/posts/a-newly-declassified-video-shown-in-infrared-depicts-an-object-appearing-to-be-a/1459085376256018/)  
+   Link: <a href="https://www.facebook.com/fox5dc/posts/a-newly-declassified-video-shown-in-infrared-depicts-an-object-appearing-to-be-a/1459085376256018/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox5dc/posts/a-newly-declassified-video-shown-in-infrared-depicts-an-object-appearing-to-be-a/1459085376256018/</a>  
 
 32. <a id="endnote-32"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/armaghspace/posts/-%F0%9D%90%88%F0%9D%90%AC-%F0%9D%90%A2%F0%9D%90%AD-%F0%9D%90%9A-%F0%9D%90%9B%F0%9D%90%A2%F0%9D%90%AB%F0%9D%90%9D-%F0%9D%90%88%F0%9D%90%AC-%F0%9D%90%A2%F0%9D%90%AD-%F0%9D%90%9A-%F0%9D%90%A9%F0%9D%90%A5%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%9E-%F0%9D%90%8D%F0%9D%90%A8-%F0%9D%90%A2%F0%9D%90%AD%F0%9D%90%AC-%F0%9D%90%9A-%F0%9D%90%A1%F0%9D%90%A2%F0%9D%90%A0%F0%9D%90%A1-%F0%9D%90%9A%F0%9D%90%A5%F0%9D%90%AD%F0%9D%90%A2%F0%9D%90%AD%F0%9D%90%AE%F0%9D%90%9D%F0%9D%90%9E-%F0%9D%90%9B%F0%9D%90%9A%F0%9D%90%A5%F0%9D%90%A5%F0%9D%90%A8%F0%9D%90%A8%F0%9D%90%A7earlier-today-a-team-f/1314273210914737/](https://www.facebook.com/armaghspace/posts/-%F0%9D%90%88%F0%9D%90%AC-%F0%9D%90%A2%F0%9D%90%AD-%F0%9D%90%9A-%F0%9D%90%9B%F0%9D%90%A2%F0%9D%90%AB%F0%9D%90%9D-%F0%9D%90%88%F0%9D%90%AC-%F0%9D%90%A2%F0%9D%90%AD-%F0%9D%90%9A-%F0%9D%90%A9%F0%9D%90%A5%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%9E-%F0%9D%90%8D%F0%9D%90%A8-%F0%9D%90%A2%F0%9D%90%AD%F0%9D%90%AC-%F0%9D%90%9A-%F0%9D%90%A1%F0%9D%90%A2%F0%9D%90%A0%F0%9D%90%A1-%F0%9D%90%9A%F0%9D%90%A5%F0%9D%90%AD%F0%9D%90%A2%F0%9D%90%AD%F0%9D%90%AE%F0%9D%90%9D%F0%9D%90%9E-%F0%9D%90%9B%F0%9D%90%9A%F0%9D%90%A5%F0%9D%90%A5%F0%9D%90%A8%F0%9D%90%A8%F0%9D%90%A7earlier-today-a-team-f/1314273210914737/)  
+   Link: <a href="https://www.facebook.com/armaghspace/posts/-%F0%9D%90%88%F0%9D%90%AC-%F0%9D%90%A2%F0%9D%90%AD-%F0%9D%90%9A-%F0%9D%90%9B%F0%9D%90%A2%F0%9D%90%AB%F0%9D%90%9D-%F0%9D%90%88%F0%9D%90%AC-%F0%9D%90%A2%F0%9D%90%AD-%F0%9D%90%9A-%F0%9D%90%A9%F0%9D%90%A5%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%9E-%F0%9D%90%8D%F0%9D%90%A8-%F0%9D%90%A2%F0%9D%90%AD%F0%9D%90%AC-%F0%9D%90%9A-%F0%9D%90%A1%F0%9D%90%A2%F0%9D%90%A0%F0%9D%90%A1-%F0%9D%90%9A%F0%9D%90%A5%F0%9D%90%AD%F0%9D%90%A2%F0%9D%90%AD%F0%9D%90%AE%F0%9D%90%9D%F0%9D%90%9E-%F0%9D%90%9B%F0%9D%90%9A%F0%9D%90%A5%F0%9D%90%A5%F0%9D%90%A8%F0%9D%90%A8%F0%9D%90%A7earlier-today-a-team-f/1314273210914737/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/armaghspace/posts/-%F0%9D%90%88%F0%9D%90%AC-%F0%9D%90%A2%F0%9D%90%AD-%F0%9D%90%9A-%F0%9D%90%9B%F0%9D%90%A2%F0%9D%90%AB%F0%9D%90%9D-%F0%9D%90%88%F0%9D%90%AC-%F0%9D%90%A2%F0%9D%90%AD-%F0%9D%90%9A-%F0%9D%90%A9%F0%9D%90%A5%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%9E-%F0%9D%90%8D%F0%9D%90%A8-%F0%9D%90%A2%F0%9D%90%AD%F0%9D%90%AC-%F0%9D%90%9A-%F0%9D%90%A1%F0%9D%90%A2%F0%9D%90%A0%F0%9D%90%A1-%F0%9D%90%9A%F0%9D%90%A5%F0%9D%90%AD%F0%9D%90%A2%F0%9D%90%AD%F0%9D%90%AE%F0%9D%90%9D%F0%9D%90%9E-%F0%9D%90%9B%F0%9D%90%9A%F0%9D%90%A5%F0%9D%90%A5%F0%9D%90%A8%F0%9D%90%A8%F0%9D%90%A7earlier-today-a-team-f/1314273210914737/</a>  
 
 33. <a id="endnote-33"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/882346390/Weather-Balloons](https://www.scribd.com/document/882346390/Weather-Balloons)  
+   Link: <a href="https://www.scribd.com/document/882346390/Weather-Balloons" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/882346390/Weather-Balloons</a>

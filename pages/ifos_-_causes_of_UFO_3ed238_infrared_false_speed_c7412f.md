@@ -50,22 +50,22 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_wind_data_33671a
 - ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - infrared
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - infrared
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Infrared contrast, uncertain range and camera motion can make ordinary objects look faster or stranger than they are.
 hero_summary: Infrared contrast, uncertain range and camera motion can make ordinary objects look faster or stranger than they are.
 layout: default
 permalink: /infrared/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 nav_short_title: Infrared
 title: Why Infrared UFO Videos Mislead
-title_full: Why Infrared UFO Videos Mislead | IFOs
+title_full: Why Infrared UFO Videos Mislead
 display_title_short: Infrared
 display_title: Infrared
 heading_title: Why Infrared UFO Videos Mislead
@@ -240,213 +240,212 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 15:30:40'
 parent_title: IFOs
-parent_permalink: /ifos-causes-of/
+parent_permalink: /ifos-causes-of-ufo-3-ed-238/
 parent_nav_short_title: IFOs
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 sibling_links:
 - basename: ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d
-  title: A Head On Aircraft Can Look Like A Stationary Light... | Ifos Causes Of
+  title: A Head On Aircraft Can Look Like A Stationary Light... | ifos causes of UFO 3 ed 238
   permalink: /a-head-on-aircraft-can-look-like-a/
   short_title: A Head On Aircraft Can Look Like A Stationary Light...
   heading_title: The Stationary Light That Is Moving
 - basename: ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261
-  title: AARO | Ifos Causes Of
+  title: AARO | ifos causes of UFO 3 ed 238
   permalink: /aaro/
   short_title: AARO
   heading_title: What Modern UAP Reviews Resolve
 - basename: ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253
-  title: Aircraft Lights | Ifos Causes Of
+  title: Aircraft Lights | ifos causes of UFO 3 ed 238
   permalink: /aircraft-lights/
   short_title: Aircraft Lights
   heading_title: Why Ordinary Aircraft Look So Strange
 - basename: ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043
-  title: Atmosphere | Ifos Causes Of
+  title: Atmosphere | ifos causes of UFO 3 ed 238
   permalink: /atmosphere/
   short_title: Atmosphere
   heading_title: When Weather Makes Shapes in the Sky
 - basename: ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057
-  title: Balloons | Ifos Causes Of
+  title: Balloons | ifos causes of UFO 3 ed 238
   permalink: /balloons/
   short_title: Balloons
   heading_title: Why Balloons Become Flying Saucers
 - basename: ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40
-  title: Birds | Ifos Causes Of
+  title: Birds | ifos causes of UFO 3 ed 238
   permalink: /birds/
   short_title: Birds
   heading_title: How Birds Become Fast UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81
-  title: Blue Book | Ifos Causes Of
+  title: Blue Book | ifos causes of UFO 3 ed 238
   permalink: /blue-book/
   short_title: Blue Book
   heading_title: What Blue Book Teaches About IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e
-  title: Contrails | Ifos Causes Of
+  title: Contrails | ifos causes of UFO 3 ed 238
   permalink: /contrails/
   short_title: Contrails
   heading_title: Why Jet Trails Glow Like UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c
-  title: Drones | Ifos Causes Of
+  title: Drones | ifos causes of UFO 3 ed 238
   permalink: /drones/
   short_title: Drones
   heading_title: When a Drone Becomes a UFO
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e
-  title: First Checks | Ifos Causes Of
+  title: First Checks | ifos causes of UFO 3 ed 238
   permalink: /first-checks/
   short_title: First Checks
   heading_title: What to Check Before Calling It a UFO
 - basename: ifos_-_causes_of_UFO_3ed238_military_flares_abb62f
-  title: Flares | Ifos Causes Of
+  title: Flares | ifos causes of UFO 3 ed 238
   permalink: /flares/
   short_title: Flares
   heading_title: Why Flares Look Like Hovering Craft
 - basename: ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590
-  title: Flight Tracking | Ifos Causes Of
+  title: Flight Tracking | ifos causes of UFO 3 ed 238
   permalink: /flight-tracking/
   short_title: Flight Tracking
   heading_title: How Flight Data Solves UFO Sightings
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965
-  title: Hoaxes | Ifos Causes Of
+  title: Hoaxes | ifos causes of UFO 3 ed 238
   permalink: /hoaxes/
   short_title: Hoaxes
   heading_title: When UFO Reports Are Manufactured
 - basename: ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74
-  title: Insects | Ifos Causes Of
+  title: Insects | ifos causes of UFO 3 ed 238
   permalink: /insects/
   short_title: Insects
   heading_title: The Tiny Things Cameras Make Huge
 - basename: ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5
-  title: Lanterns | Ifos Causes Of
+  title: Lanterns | ifos causes of UFO 3 ed 238
   permalink: /lanterns/
   short_title: Lanterns
   heading_title: The Orange Lights That Start UFO Reports
 - basename: ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e
-  title: Lens Flare | Ifos Causes Of
+  title: Lens Flare | ifos causes of UFO 3 ed 238
   permalink: /lens-flare/
   short_title: Lens Flare
   heading_title: When Cameras Invent Extra Lights
 - basename: ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28
-  title: Mass Sightings | Ifos Causes Of
+  title: Mass Sightings | ifos causes of UFO 3 ed 238
   permalink: /mass-sightings/
   short_title: Mass Sightings
   heading_title: Why Groups Can Share One Mistake
 - basename: ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504
-  title: Meteors | Ifos Causes Of
+  title: Meteors | ifos causes of UFO 3 ed 238
   permalink: /meteors/
   short_title: Meteors
   heading_title: When Fireballs Become UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca
-  title: Missing Data | Ifos Causes Of
+  title: Missing Data | ifos causes of UFO 3 ed 238
   permalink: /missing-data/
   short_title: Missing Data
   heading_title: Unsolved Does Not Always Mean Strange
 - basename: ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183
-  title: NASA Study | Ifos Causes Of
+  title: NASA Study | ifos causes of UFO 3 ed 238
   permalink: /nasa-study/
   short_title: NASA Study
   heading_title: Why Better UFO Data Matters
 - basename: ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b
-  title: Parallax | Ifos Causes Of
+  title: Parallax | ifos causes of UFO 3 ed 238
   permalink: /parallax/
   short_title: Parallax
   heading_title: The Speed Illusion in UFO Footage
 - basename: ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a
-  title: Pilots | Ifos Causes Of
+  title: Pilots | ifos causes of UFO 3 ed 238
   permalink: /pilots/
   short_title: Pilots
   heading_title: Why Pilots Can Misidentify UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357
-  title: Radar | Ifos Causes Of
+  title: Radar | ifos causes of UFO 3 ed 238
   permalink: /radar/
   short_title: Radar
   heading_title: When Radar Sees a UFO That Isnt There
 - basename: ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c
-  title: Reflections | Ifos Causes Of
+  title: Reflections | ifos causes of UFO 3 ed 238
   permalink: /reflections/
   short_title: Reflections
   heading_title: The UFO Inside the Glass
 - basename: ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132
-  title: Rocket Plumes | Ifos Causes Of
+  title: Rocket Plumes | ifos causes of UFO 3 ed 238
   permalink: /rocket-plumes/
   short_title: Rocket Plumes
   heading_title: The Strange Clouds Rockets Leave Behind
 - basename: ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b
-  title: Satellites | Ifos Causes Of
+  title: Satellites | ifos causes of UFO 3 ed 238
   permalink: /satellites/
   short_title: Satellites
   heading_title: Why Satellites Surprise Night Watchers
 - basename: ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1
-  title: Searchlights | Ifos Causes Of
+  title: Searchlights | ifos causes of UFO 3 ed 238
   permalink: /searchlights/
   short_title: Searchlights
   heading_title: How Searchlights Paint UFOs in Clouds
 - basename: ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b
-  title: Sensor Operators | Ifos Causes Of
+  title: Sensor Operators | ifos causes of UFO 3 ed 238
   permalink: /sensor-operators/
   short_title: Sensor Operators
   heading_title: When Sensors Need Human Context
 - basename: ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391
-  title: Short Clips | Ifos Causes Of
+  title: Short Clips | ifos causes of UFO 3 ed 238
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: Why Short UFO Videos Are Hard to Trust
 - basename: ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f
-  title: Size Errors | Ifos Causes Of
+  title: Size Errors | ifos causes of UFO 3 ed 238
   permalink: /size-errors/
   short_title: Size Errors
   heading_title: Why Honest Witnesses Misjudge UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725
-  title: Sky Charts | Ifos Causes Of
+  title: Sky Charts | ifos causes of UFO 3 ed 238
   permalink: /sky-charts/
   short_title: Sky Charts
   heading_title: How to Check a UFO Against the Sky
 - basename: ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32
-  title: Stars | Ifos Causes Of
+  title: Stars | ifos causes of UFO 3 ed 238
   permalink: /stars/
   short_title: Stars
   heading_title: Why Stars Flash Like Machines
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb
-  title: Status Labels | Ifos Causes Of
+  title: Status Labels | ifos causes of UFO 3 ed 238
   permalink: /status-labels/
   short_title: Status Labels
   heading_title: UFO Does Not Mean Alien
 - basename: ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d
-  title: Strong Cases | Ifos Causes Of
+  title: Strong Cases | ifos causes of UFO 3 ed 238
   permalink: /strong-cases/
   short_title: Strong Cases
   heading_title: What Makes a UFO Report Harder to Explain
 - basename: ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948
-  title: UK Files | Ifos Causes Of
+  title: UK Files | ifos causes of UFO 3 ed 238
   permalink: /uk-files/
   short_title: UK Files
   heading_title: What the UK UFO Files Reveal
 - basename: ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06
-  title: Unresolved Cases | Ifos Causes Of
+  title: Unresolved Cases | ifos causes of UFO 3 ed 238
   permalink: /unresolved-cases/
   short_title: Unresolved Cases
   heading_title: Why Some UFO Cases Stay Open
 - basename: ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080
-  title: Venus | Ifos Causes Of
+  title: Venus | ifos causes of UFO 3 ed 238
   permalink: /venus/
   short_title: Venus
   heading_title: Is That UFO Really Venus?
 - basename: ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13
-  title: Weather Records | Ifos Causes Of
+  title: Weather Records | ifos causes of UFO 3 ed 238
   permalink: /weather-records/
   short_title: Weather Records
   heading_title: Weather Clues That Explain Strange Lights
 - basename: ifos_-_causes_of_UFO_3ed238_wind_data_33671a
-  title: Wind Data | Ifos Causes Of
+  title: Wind Data | ifos causes of UFO 3 ed 238
   permalink: /wind-data/
   short_title: Wind Data
   heading_title: Following a UFO With the Wind
@@ -479,20 +478,21 @@ child_links:
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 prev_link:
   basename: ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965
-  title: Hoaxes | Ifos Causes Of
+  title: Hoaxes | ifos causes of UFO 3 ed 238
   permalink: /hoaxes/
   short_title: Hoaxes
   heading_title: When UFO Reports Are Manufactured
 next_link:
   basename: ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74
-  title: Insects | Ifos Causes Of
+  title: Insects | ifos causes of UFO 3 ed 238
   permalink: /insects/
   short_title: Insects
   heading_title: The Tiny Things Cameras Make Huge
+date: '2026-06-12 00:14:17 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f-overview-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f-overview.webp
@@ -501,24 +501,21 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f-ov
 
 ## Introduction
 
-Infrared UFO videos are compelling because they seem to show the hidden truth of an encounter: a dark or bright object, isolated from the visual clutter of ordinary daylight, apparently racing across the frame. That clarity is deceptive. Infrared systems do not show “the object as it is”; they show [thermal contrast]({{ 'thermal-contrast/' | relative_url }}), processed by a sensor, viewed through optics, stabilisation, zoom and a moving platform. Without reliable range, camera pointing data, platform motion and environmental context, a slow bird, balloon, lantern, aircraft or drone can look much faster, stranger or more capable than it is. AARO’s public case work on “GoFast” and the [Puerto Rico]({{ 'puerto-rico/' | relative_url }}) infrared video makes the core lesson unusually clear: apparent speed in tracked infrared footage is often a geometry problem before it is an aeronautics problem. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution</span><span class="citation-popover-snippet">AAROAARO GoFast Case Resolution...</span></span></span>
-
+Infrared UFO videos are compelling because they seem to show the hidden truth of an encounter: a dark or bright object, isolated from the visual clutter of ordinary daylight, apparently racing across the frame. That clarity is deceptive. Infrared systems do not show “the object as it is”; they show [thermal contrast]({{ 'thermal-contrast/' | relative_url }}), processed by a sensor, viewed through optics, stabilisation, zoom and a moving platform. Without reliable range, camera pointing data, platform motion and environmental context, a slow bird, balloon, lantern, aircraft or drone can look much faster, stranger or more capable than it is. AARO’s public case work on “GoFast” and the [Puerto Rico]({{ 'puerto-rico/' | relative_url }}) infrared video makes the core lesson unusually clear: apparent speed in tracked infrared footage is often a geometry problem before it is an aeronautics problem. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution</span><span class="citation-popover-snippet">AARO GoFast Case Resolution...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f-overview.webp" | relative_url }}" alt="Overview image for Infrared" loading="eager" decoding="sync" fetchpriority="high">
 This matters for IFO analysis because many infrared UFO reports are not [hoaxes]({{ 'hoaxes/' | relative_url }}) and not hallucinations. They are real sensor records of real things, but the record is incomplete. A dot moving across a background is not enough to establish size, speed, altitude, propulsion or exotic behaviour unless the geometry of the observation has been solved.
 
 ## Why infrared makes ordinary objects look uncanny
 
-Infrared cameras detect radiation rather than visible colour. In practical terms, that means an object can stand out because it is warmer or cooler than its background, because its surface emits infrared energy efficiently, because it reflects thermal radiation from somewhere else, or because the [atmosphere]({{ 'atmosphere/' | relative_url }}) and sensor processing exaggerate a contrast boundary. FLIR, a major thermal-imaging manufacturer, explains emissivity as the measure of how efficiently a surface radiates heat; low-emissivity surfaces can be misleading because they may reflect rather than “tell the truth” about their own temperature. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flir.com/discover/professional-tools/how-does-emissivity-affect-thermal-imaging/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flir.com">[FLIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flir.com</span><span class="citation-popover-title">How Does Emissivity Affect Thermal Imaging? | Flir</span><span class="citation-popover-snippet">FLIRHow Does Emissivity Affect Thermal Imaging? | Flir...</span></span></span>
+Infrared cameras detect radiation rather than visible colour. In practical terms, that means an object can stand out because it is warmer or cooler than its background, because its surface emits infrared energy efficiently, because it reflects thermal radiation from somewhere else, or because the [atmosphere]({{ 'atmosphere/' | relative_url }}) and sensor processing exaggerate a contrast boundary. FLIR, a major thermal-imaging manufacturer, explains emissivity as the measure of how efficiently a surface radiates heat; low-emissivity surfaces can be misleading because they may reflect rather than “tell the truth” about their own temperature. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flir.com/discover/professional-tools/how-does-emissivity-affect-thermal-imaging/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flir.com">[FLIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flir.com</span><span class="citation-popover-title">How Does Emissivity Affect Thermal Imaging? &#124; Flir</span><span class="citation-popover-snippet">How Does Emissivity Affect Thermal Imaging? &#124; Flir...</span></span></span>
 
 That point is central to UFO interpretation. A bright blob in infrared is not automatically a hot engine. A dark blob is not automatically a cold, solid craft. Depending on the camera’s polarity, gain, contrast stretch and display mode, the same thermal feature may be rendered in ways that feel visually dramatic to a human viewer. Thermal imaging can also reduce shape information: wings, rotors, strings, appendages or surface detail may disappear, leaving a small object as a smooth orb or amorphous mark.
 
-Distance compounds the problem. Thermal-imaging [range]({{ 'range/' | relative_url }}) is not just a matter of whether an object is detectable; it depends on target size, optics, atmospheric transmission, sensor resolution and the task being attempted, such as detection, recognition or identification. A thermal-imaging range study in *Sensors* describes range as the maximum distance at which a selected object can be seen and perceived for a surveillance task, rather than a guarantee that the object can be identified confidently once detected. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6696215/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCThermal Imager Range: Predictions, Expectations, and Realityby D Perić · 2019 · Cited by 97 — Imaging system range defines the maximal...</span></span></span>
+Distance compounds the problem. Thermal-imaging [range]({{ 'range/' | relative_url }}) is not just a matter of whether an object is detectable; it depends on target size, optics, atmospheric transmission, sensor resolution and the task being attempted, such as detection, recognition or identification. A thermal-imaging range study in *Sensors* describes range as the maximum distance at which a selected object can be seen and perceived for a surveillance task, rather than a guarantee that the object can be identified confidently once detected. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6696215/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Thermal Imager Range: Predictions, Expectations, and Realityby D Perić · 2019 · Cited by 97 — Imaging system range defines the maximal...</span></span></span>
 
-For UFO reports, this distinction is often lost. A sensor may genuinely detect a physical object, yet the available image may be too coarse to say whether it is a balloon, bird, drone, aircraft or lantern. AARO’s official imagery page contains several infrared cases where the office assesses a physical object is present, but either resolves it as birds or balloons, closes it as non-anomalous, or says available data are insufficient to evaluate performance characteristics. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_Puerto_Rico_UAP_Case_Resolution.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Puerto Rico UAP Case Resolution</span><span class="citation-popover-snippet">AAROAARO Puerto Rico UAP Case Resolution...</span></span></span>
+For UFO reports, this distinction is often lost. A sensor may genuinely detect a physical object, yet the available image may be too coarse to say whether it is a balloon, bird, drone, aircraft or lantern. AARO’s official imagery page contains several infrared cases where the office assesses a physical object is present, but either resolves it as birds or balloons, closes it as non-anomalous, or says available data are insufficient to evaluate performance characteristics. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_Puerto_Rico_UAP_Case_Resolution.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Puerto Rico UAP Case Resolution</span><span class="citation-popover-snippet">AARO Puerto Rico UAP Case Resolution...</span></span></span>
 
-
-<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f-Illustration-1-dark.svg" | relative_url }}" alt="Infrared illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The missing number is usually range
 
 Speed is distance divided by time. In UFO video discussions, the time is usually obvious: a clip lasts 20 seconds, 34 seconds or three minutes. The distance travelled is the hard part. If the object’s range is wrong, the speed estimate can be wildly wrong.
@@ -529,20 +526,18 @@ This is why a single sensor track can be evidentially fragile even when the sens
 
 That is a much more cautious conclusion than a viral reading of the same clip. The video looks fast because the object sweeps across the sea background, and the aircrew’s reaction makes the moment feel urgent. But a fast-looking track across a display is not the same thing as a fast object moving through the atmosphere. Until range and viewing geometry are pinned down, apparent screen motion is only apparent screen motion.
 
+<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f-Illustration-1-dark.svg" | relative_url }}" alt="Infrared illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Parallax is the speed illusion at the heart of many IR cases
 
 Parallax is the apparent shift of an object against a background when the observer moves. The everyday version is familiar: trees near a moving train window seem to whip by, while distant hills move slowly. In airborne infrared UFO footage, the moving train is often a fast aircraft or drone, and the “tree” may be a slow balloon, bird or lantern between the sensor and the ground.
 
-AARO states the issue directly: forced perspective and parallax can frequently explain excessive sizes or high speeds reported in UAP observations, especially when the observer is far from the object while moving fast relative to it. The office also warns that single sensors on fast-moving airborne platforms are particularly susceptible to inaccurate estimates of size, speed and direction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution</span><span class="citation-popover-snippet">AAROAARO GoFast Case Resolution...</span></span></span>
+AARO states the issue directly: forced perspective and parallax can frequently explain excessive sizes or high speeds reported in UAP observations, especially when the observer is far from the object while moving fast relative to it. The office also warns that single sensors on fast-moving airborne platforms are particularly susceptible to inaccurate estimates of size, speed and direction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution</span><span class="citation-popover-snippet">AARO GoFast Case Resolution...</span></span></span>
 
-The “GoFast” case is the clearest named example. AARO concluded that the object’s apparent high speed is attributable to motion parallax, an optical effect that can make a stationary or slow-moving object appear to move much faster when viewed from a moving frame of reference. It also noted that pixel analysis suggested the object was one metre or less in size, comparable to a small drone or bird, while the available data did not allow a precise categorical identification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_Puerto_Rico_UAP_Case_Resolution.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Puerto Rico UAP Case Resolution</span><span class="citation-popover-snippet">AAROAARO Puerto Rico UAP Case Resolution...</span></span></span>
+The “GoFast” case is the clearest named example. AARO concluded that the object’s apparent high speed is attributable to motion parallax, an optical effect that can make a stationary or slow-moving object appear to move much faster when viewed from a moving frame of reference. It also noted that pixel analysis suggested the object was one metre or less in size, comparable to a small drone or bird, while the available data did not allow a precise categorical identification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_Puerto_Rico_UAP_Case_Resolution.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Puerto Rico UAP Case Resolution</span><span class="citation-popover-snippet">AARO Puerto Rico UAP Case Resolution...</span></span></span>
 
 The important point is not that every fast-looking infrared UFO is “just parallax”. It is that parallax is a first-pass risk in any tracked footage from a moving platform. Before claiming unusual acceleration, low-altitude high-speed flight, or physics-defying manoeuvres, an analyst has to ask: how much of the motion belongs to the object, and how much belongs to the camera platform?
 
 Open-source work has reached similar cautions. Bellingcat’s analysis of a 2022 Middle East orb video geolocated the scene and argued that the apparent motion could be consistent with a small balloon, noting that the object’s direction of travel could not be determined from the footage alone and that parallax can create the impression of movement even when the object is not moving independently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bellingcat.com">[bellingcat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bellingcat.com</span><span class="citation-popover-title">Isn’t That A Balloon? Deflating a Do D UFO Video</span><span class="citation-popover-snippet">Isn’t That A Balloon? Deflating a Do D UFO Video</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kUtcIYI7Ff8" title="How Emissivity Can Impact Temperature Measurement with an Infrared Camera" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kUtcIYI7Ff8" target="_blank" rel="noopener noreferrer">How Emissivity Can Impact Temperature Measurement with an Infrared Camera</a></p><p class="youtube-embed-meta">Channel: movitherm &middot; Views: 31.3K &middot; Uploaded: March 2023 &middot; Length: 4 minutes 36 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kUtcIYI7Ff8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kUtcIYI7Ff8">Open on YouTube</a></p></div></div></div>
 
 ## Case study: “GoFast” and the danger of reading speed from the screen
 
@@ -554,6 +549,8 @@ The office therefore treated the case as a geometry reconstruction problem. It t
 
 This should change how the video is watched. The drama is not that a tiny dot crossed the display quickly. The drama is that the viewer’s brain wants to translate angular motion into physical speed without having enough depth information. In a normal scene, depth clues are abundant. In an infrared targeting display over the ocean, the scene is stripped down to a moving sensor, a small contrast target and a background that may be far below it. That is exactly the situation in which false speed impressions thrive.
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kUtcIYI7Ff8" title="How Emissivity Can Impact Temperature Measurement with an Infrared Camera" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kUtcIYI7Ff8" target="_blank" rel="noopener noreferrer">How Emissivity Can Impact Temperature Measurement with an Infrared Camera</a></p><p class="youtube-embed-meta">Channel: movitherm &middot; Views: 31.3K &middot; Uploaded: March 2023 &middot; Length: 4 minutes 36 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kUtcIYI7Ff8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kUtcIYI7Ff8">Open on YouTube</a></p></div></div></div>
+
 ## Case study: Puerto Rico and the “transmedium” impression
 
 The 2013 Aguadilla, Puerto Rico infrared video is a second strong example because it contains several classic UFO-video temptations at once: an apparently fast object, a changing thermal signature, an apparent split into two objects, and the impression of entering or exiting water. Earlier public discussion often treated these behaviours as potentially anomalous. AARO’s 2025 case resolution took the opposite approach: reconstruct the aircraft path, sensor line of sight, winds and object motion before interpreting the apparent behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Effect of Forced Perspective and Parallax View on UAP Observations</span><span class="citation-popover-snippet">Effect of Forced Perspective and Parallax View on UAP Observations</span></span></span>
@@ -564,8 +561,6 @@ The visual strangeness came from the sensor-platform relationship. The CBP aircr
 
 The case is useful because it shows that “false speed impression” rarely has one cause. It is usually a stack: moving aircraft, zoomed sensor, changing angle, uncertain range, thermal contrast changes, background confusion and expectation. Remove the geometry, and the video looks extraordinary. Add the geometry, and the apparent performance drops back into the range of wind-drifted objects.
 
-
-<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f-Illustration-2-dark.svg" | relative_url }}" alt="Infrared illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why tracked footage can feel more trustworthy than it is
 
 A common reaction to infrared UFO clips is that a military sensor “locked on”, so the object must be special. That overstates what tracking proves. A sensor track can show that there is a contrast feature worth following. It does not automatically prove what the object is, how large it is, how far away it is, or how fast it is moving through the air.
@@ -576,8 +571,7 @@ This is not a dismissal of sensor evidence. It is a warning about what kind of e
 
 NASA’s independent UAP study made a similar point in broader terms. It argued that UAP study requires rigorous, evidence-based methods, robust data acquisition and advanced analysis, while noting that many sightings lack the information needed for definitive conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
-<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f-Illustration-3-dark.svg" | relative_url }}" alt="Infrared illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f-Illustration-2-dark.svg" | relative_url }}" alt="Infrared illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What makes an infrared UFO video more persuasive
 
 An infrared video becomes more valuable when it contains enough information to rule out the ordinary geometry errors. A useful clip is not just longer or sharper; it is better anchored.
@@ -593,9 +587,7 @@ The strongest cases have several features:
 
 Without those anchors, a video may remain interesting but weak. This is why some cases stay unresolved without becoming evidence of exotic technology. “Unresolved” may simply mean there is not enough data to choose confidently between birds, balloons, drones, aircraft, sensor effects or another mundane source.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Le7Fqbsrrm8" title="Breakdown of the Pentagon UFO videos with Mick West" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Le7Fqbsrrm8" target="_blank" rel="noopener noreferrer">Breakdown of the Pentagon UFO videos with Mick West</a></p><p class="youtube-embed-meta">Channel: Cool Worlds &middot; Views: 365.2K &middot; Uploaded: April 2020 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Le7Fqbsrrm8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Le7Fqbsrrm8">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f-Illustration-3-dark.svg" | relative_url }}" alt="Infrared illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The IFO lesson: apparent speed is not observed speed
 
 Infrared video has become one of the most influential forms of modern UFO evidence because it looks technical, detached and difficult to fake. But technical imagery can still mislead. Infrared contrast strips away familiar identity cues; range uncertainty breaks speed estimates; and parallax lets a slow or stationary object appear to race across a background when the camera platform is moving quickly.
@@ -604,9 +596,7 @@ The practical lesson for IFO analysis is simple: do not start with the object’
 
 That does not mean every infrared UFO video is solved in advance. It means that speed, size and strangeness are conclusions, not starting points. Until range and camera motion are known, the safest reading of a fast-looking infrared UFO is not “impossible craft”, but “unresolved contrast target with a serious risk of false speed impression”.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Le7Fqbsrrm8" title="Breakdown of the Pentagon UFO videos with Mick West" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Le7Fqbsrrm8" target="_blank" rel="noopener noreferrer">Breakdown of the Pentagon UFO videos with Mick West</a></p><p class="youtube-embed-meta">Channel: Cool Worlds &middot; Views: 365.2K &middot; Uploaded: April 2020 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Le7Fqbsrrm8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Le7Fqbsrrm8">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -725,15 +715,15 @@ That does not mean every infrared UFO video is solved in advance. It means that 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-why-infrared-ufo-videos-mislead-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="infrared-why-infrared-ufo-videos-mislead-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-infrared-ufo-videos-mislead-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="why-infrared-ufo-videos-mislead-thermal-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TOPDON TCView Thermal Imaging Camera"><img src="https://i.ebayimg.com/images/g/Y~AAAeSwtw9qKc-J/s-l225.jpg" alt="Listing image for TOPDON TCView Thermal Imaging Camera" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-why-infrared-ufo-videos-mislead-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="infrared-why-infrared-ufo-videos-mislead-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-infrared-ufo-videos-mislead-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="why-infrared-ufo-videos-mislead-thermal-camera" target="_blank" rel="sponsored noopener noreferrer">TOPDON TCView Thermal Imaging Camera</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-why-infrared-ufo-videos-mislead-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="infrared-why-infrared-ufo-videos-mislead-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo enamel pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-infrared-ufo-videos-mislead-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="why-infrared-ufo-videos-mislead-thermal-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for thermal camera">Search <span data-ebay-domain-label>eBay.co.uk</span>: thermal camera</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-why-infrared-ufo-videos-mislead-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="infrared-why-infrared-ufo-videos-mislead-ifos-causes-of-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-infrared-ufo-videos-mislead-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="why-infrared-ufo-videos-mislead-thermal-camera" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -741,15 +731,15 @@ That does not mean every infrared UFO video is solved in advance. It means that 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-why-infrared-ufo-videos-mislead-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="infrared-why-infrared-ufo-videos-mislead-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black"><img src="{{ '/assets/images/marketplace-covers/078b55bb70d6b61d9af5.jpg' | relative_url }}" alt="Listing image for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-infrared-ufo-videos-mislead-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="why-infrared-ufo-videos-mislead-thermal-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TOPDON Thermal Imaging Camera TC004 Mini, 240x240 with TISR Res. 15H Battery"><img src="https://i.ebayimg.com/images/g/4m8AAeSwdRNp8J49/s-l225.jpg" alt="Listing image for TOPDON Thermal Imaging Camera TC004 Mini, 240x240 with TISR Res. 15H Battery" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-why-infrared-ufo-videos-mislead-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="infrared-why-infrared-ufo-videos-mislead-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-infrared-ufo-videos-mislead-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="why-infrared-ufo-videos-mislead-thermal-camera" target="_blank" rel="sponsored noopener noreferrer">TOPDON Thermal Imaging Camera TC004 Mini, 240x240 with TISR Res. 15H Battery</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-why-infrared-ufo-videos-mislead-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="infrared-why-infrared-ufo-videos-mislead-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo enamel pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-infrared-ufo-videos-mislead-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="why-infrared-ufo-videos-mislead-thermal-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for thermal camera">Search <span data-ebay-domain-label>eBay.co.uk</span>: thermal camera</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-why-infrared-ufo-videos-mislead-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="infrared-why-infrared-ufo-videos-mislead-ifos-causes-of-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-infrared-ufo-videos-mislead-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="why-infrared-ufo-videos-mislead-thermal-camera" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -757,15 +747,15 @@ That does not mean every infrared UFO video is solved in advance. It means that 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-why-infrared-ufo-videos-mislead-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="infrared-why-infrared-ufo-videos-mislead-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-infrared-ufo-videos-mislead-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="why-infrared-ufo-videos-mislead-thermal-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mileseey 256*192 IR High Resolution Thermal Imaging Camera for Android Portable"><img src="https://i.ebayimg.com/images/g/fUcAAOSwfx1n~fpv/s-l225.jpg" alt="Listing image for Mileseey 256*192 IR High Resolution Thermal Imaging Camera for Android Portable" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-why-infrared-ufo-videos-mislead-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="infrared-why-infrared-ufo-videos-mislead-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-infrared-ufo-videos-mislead-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="why-infrared-ufo-videos-mislead-thermal-camera" target="_blank" rel="sponsored noopener noreferrer">Mileseey 256*192 IR High Resolution Thermal Imaging Camera for Android Portable</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-why-infrared-ufo-videos-mislead-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="infrared-why-infrared-ufo-videos-mislead-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo enamel pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-infrared-ufo-videos-mislead-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="why-infrared-ufo-videos-mislead-thermal-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for thermal camera">Search <span data-ebay-domain-label>eBay.co.uk</span>: thermal camera</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-why-infrared-ufo-videos-mislead-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="infrared-why-infrared-ufo-videos-mislead-ifos-causes-of-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-infrared-ufo-videos-mislead-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="why-infrared-ufo-videos-mislead-thermal-camera" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -773,15 +763,15 @@ That does not mean every infrared UFO video is solved in advance. It means that 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-why-infrared-ufo-videos-mislead-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="infrared-why-infrared-ufo-videos-mislead-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-infrared-ufo-videos-mislead-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="why-infrared-ufo-videos-mislead-thermal-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TOPDON Thermal Imaging Camera TC004 Mini, 240x240 IR Resolution 15H Battery Life"><img src="https://i.ebayimg.com/images/g/t8cAAeSw-P1osmTR/s-l225.jpg" alt="Listing image for TOPDON Thermal Imaging Camera TC004 Mini, 240x240 IR Resolution 15H Battery Life" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-why-infrared-ufo-videos-mislead-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="infrared-why-infrared-ufo-videos-mislead-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-infrared-ufo-videos-mislead-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="why-infrared-ufo-videos-mislead-thermal-camera" target="_blank" rel="sponsored noopener noreferrer">TOPDON Thermal Imaging Camera TC004 Mini, 240x240 IR Resolution 15H Battery Life</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-why-infrared-ufo-videos-mislead-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="infrared-why-infrared-ufo-videos-mislead-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo enamel pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-infrared-ufo-videos-mislead-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="why-infrared-ufo-videos-mislead-thermal-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for thermal camera">Search <span data-ebay-domain-label>eBay.co.uk</span>: thermal camera</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-why-infrared-ufo-videos-mislead-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="infrared-why-infrared-ufo-videos-mislead-ifos-causes-of-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-infrared-ufo-videos-mislead-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="why-infrared-ufo-videos-mislead-thermal-camera" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -789,7 +779,7 @@ That does not mean every infrared UFO video is solved in advance. It means that 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-why-infrared-ufo-videos-mislead-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="infrared-why-infrared-ufo-videos-mislead-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-infrared-ufo-videos-mislead-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="why-infrared-ufo-videos-mislead-thermal-camera" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -1005,107 +995,107 @@ That does not mean every infrared UFO video is solved in advance. It means that 
 1. <a id="endnote-1"></a>
    Source: aaro.mil  
    Title: Go Fast Case Resolution  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf](https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROAARO GoFast Case Resolution...</p></details>
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO GoFast Case Resolution...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: aaro.mil  
    Title: Puerto Rico UAP Case Resolution  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_Puerto_Rico_UAP_Case_Resolution.pdf](https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_Puerto_Rico_UAP_Case_Resolution.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROAARO Puerto Rico UAP Case Resolution...</p></details>
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_Puerto_Rico_UAP_Case_Resolution.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_Puerto_Rico_UAP_Case_Resolution.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Puerto Rico UAP Case Resolution...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: flir.com  
    Title: How Does Emissivity Affect Thermal Imaging? | Flir  
-   Link: [https://www.flir.com/discover/professional-tools/how-does-emissivity-affect-thermal-imaging/](https://www.flir.com/discover/professional-tools/how-does-emissivity-affect-thermal-imaging/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FLIRHow Does Emissivity Affect Thermal Imaging? | Flir...</p></details>
+   Link: <a href="https://www.flir.com/discover/professional-tools/how-does-emissivity-affect-thermal-imaging/" target="_blank" rel="noopener noreferrer nofollow">https://www.flir.com/discover/professional-tools/how-does-emissivity-affect-thermal-imaging/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>How Does Emissivity Affect Thermal Imaging? | Flir...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6696215/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6696215/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCThermal Imager Range: Predictions, Expectations, and Realityby D Perić · 2019 · Cited by 97 — Imaging system range defines the maximal...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6696215/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6696215/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Thermal Imager Range: Predictions, Expectations, and Realityby D Perić · 2019 · Cited by 97 — Imaging system range defines the maximal...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: aaro.mil  
    Title: Effect of Forced Perspective and Parallax View on UAP Observations  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf</a>  
 
 7. <a id="endnote-7"></a>
    Source: bellingcat.com  
    Title: Isn’t That A Balloon? Deflating a Do D UFO Video  
-   Link: [https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/](https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/)  
+   Link: <a href="https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/</a>  
 
 8. <a id="endnote-8"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 9. <a id="endnote-9"></a>
    Source: flir.com  
    Title: infrared camera accuracy and uncertainty in plain language  
-   Link: [https://www.flir.com/discover/rd-science/infrared-camera-accuracy-and-uncertainty-in-plain-language/](https://www.flir.com/discover/rd-science/infrared-camera-accuracy-and-uncertainty-in-plain-language/)  
+   Link: <a href="https://www.flir.com/discover/rd-science/infrared-camera-accuracy-and-uncertainty-in-plain-language/" target="_blank" rel="noopener noreferrer nofollow">https://www.flir.com/discover/rd-science/infrared-camera-accuracy-and-uncertainty-in-plain-language/</a>  
 
 10. <a id="endnote-10"></a>
    Source: flir.com  
    Title: can thermal imaging see through fog and rain  
-   Link: [https://www.flir.com/discover/rd-science/can-thermal-imaging-see-through-fog-and-rain/](https://www.flir.com/discover/rd-science/can-thermal-imaging-see-through-fog-and-rain/)  
+   Link: <a href="https://www.flir.com/discover/rd-science/can-thermal-imaging-see-through-fog-and-rain/" target="_blank" rel="noopener noreferrer nofollow">https://www.flir.com/discover/rd-science/can-thermal-imaging-see-through-fog-and-rain/</a>  
 
 11. <a id="endnote-11"></a>
    Source: zenodo.org  
-   Link: [https://zenodo.org/records/7844175](https://zenodo.org/records/7844175)  
+   Link: <a href="https://zenodo.org/records/7844175" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/7844175</a>  
 
 12. <a id="endnote-12"></a>
    Source: academia.edu  
    Title: 2013 Aguadilla Puerto Rico  
-   Link: [https://www.academia.edu/40212895/2013_Aguadilla_Puerto_Rico](https://www.academia.edu/40212895/2013_Aguadilla_Puerto_Rico)  
+   Link: <a href="https://www.academia.edu/40212895/2013_Aguadilla_Puerto_Rico" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/40212895/2013_Aguadilla_Puerto_Rico</a>  
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: Why Infrared Videos Make Ordinary Objects Look Like UFOs  
-   Link: [https://www.youtube.com/watch?v=M5yV9m79X70](https://www.youtube.com/watch?v=M5yV9m79X70)  
+   Link: <a href="https://www.youtube.com/watch?v=M5yV9m79X70" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=M5yV9m79X70</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Parallax and Speed in Infrared UAP Footage...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: Analyzing Thermal Imaging Artifacts in Aerial Videos  
-   Link: [https://www.youtube.com/watch?v=F3zWw4N0hX4](https://www.youtube.com/watch?v=F3zWw4N0hX4)  
+   Link: <a href="https://www.youtube.com/watch?v=F3zWw4N0hX4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F3zWw4N0hX4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Sensor Motion and Apparent Speed...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/395858774_Toward_a_Reliability_Scale_for_Assessing_Reports_of_Unidentified_Anomalous_Phenomena_UAP](https://www.researchgate.net/publication/395858774_Toward_a_Reliability_Scale_for_Assessing_Reports_of_Unidentified_Anomalous_Phenomena_UAP)  
+   Link: <a href="https://www.researchgate.net/publication/395858774_Toward_a_Reliability_Scale_for_Assessing_Reports_of_Unidentified_Anomalous_Phenomena_UAP" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395858774_Toward_a_Reliability_Scale_for_Assessing_Reports_of_Unidentified_Anomalous_Phenomena_UAP</a>  
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/](https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/</a>  
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/deepuniversee/posts/alleged-spy-drone-footage-circulating-among-defence-analysts-reportedly-shows-a-/944369748360914/](https://www.facebook.com/deepuniversee/posts/alleged-spy-drone-footage-circulating-among-defence-analysts-reportedly-shows-a-/944369748360914/)  
+   Link: <a href="https://www.facebook.com/deepuniversee/posts/alleged-spy-drone-footage-circulating-among-defence-analysts-reportedly-shows-a-/944369748360914/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/deepuniversee/posts/alleged-spy-drone-footage-circulating-among-defence-analysts-reportedly-shows-a-/944369748360914/</a>  
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/newshour/posts/boston-university-space-physicist-joshua-semeter-was-part-of-an-independent-pane/1143879570940621/](https://www.facebook.com/newshour/posts/boston-university-space-physicist-joshua-semeter-was-part-of-an-independent-pane/1143879570940621/)  
+   Link: <a href="https://www.facebook.com/newshour/posts/boston-university-space-physicist-joshua-semeter-was-part-of-an-independent-pane/1143879570940621/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/newshour/posts/boston-university-space-physicist-joshua-semeter-was-part-of-an-independent-pane/1143879570940621/</a>  
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/deepuniversee/posts/videos-and-images-shared-online-in-this-style-usually-fall-into-the-broader-cate/970619415735947/](https://www.facebook.com/deepuniversee/posts/videos-and-images-shared-online-in-this-style-usually-fall-into-the-broader-cate/970619415735947/)  
+   Link: <a href="https://www.facebook.com/deepuniversee/posts/videos-and-images-shared-online-in-this-style-usually-fall-into-the-broader-cate/970619415735947/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/deepuniversee/posts/videos-and-images-shared-online-in-this-style-usually-fall-into-the-broader-cate/970619415735947/</a>  
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/spacecom/videos/ufo-videos-shown-to-us-senate-show-no-evidence-of-alien-technology/497484193323072/](https://www.facebook.com/spacecom/videos/ufo-videos-shown-to-us-senate-show-no-evidence-of-alien-technology/497484193323072/)  
+   Link: <a href="https://www.facebook.com/spacecom/videos/ufo-videos-shown-to-us-senate-show-no-evidence-of-alien-technology/497484193323072/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/spacecom/videos/ufo-videos-shown-to-us-senate-show-no-evidence-of-alien-technology/497484193323072/</a>  
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/StarTalk/posts/is-motion-parallax-the-reason-many-believe-this-to-be-a-uap-turns-out-we-can-cal/1533337455091975/](https://www.facebook.com/StarTalk/posts/is-motion-parallax-the-reason-many-believe-this-to-be-a-uap-turns-out-we-can-cal/1533337455091975/)  
+   Link: <a href="https://www.facebook.com/StarTalk/posts/is-motion-parallax-the-reason-many-believe-this-to-be-a-uap-turns-out-we-can-cal/1533337455091975/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/StarTalk/posts/is-motion-parallax-the-reason-many-believe-this-to-be-a-uap-turns-out-we-can-cal/1533337455091975/</a>  
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/StarTalk/posts/is-motion-parallax-the-reason-many-believe-this-to-be-a-uap-turns-out-we-can-cal/1313924630366593/](https://www.facebook.com/StarTalk/posts/is-motion-parallax-the-reason-many-believe-this-to-be-a-uap-turns-out-we-can-cal/1313924630366593/)  
+   Link: <a href="https://www.facebook.com/StarTalk/posts/is-motion-parallax-the-reason-many-believe-this-to-be-a-uap-turns-out-we-can-cal/1313924630366593/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/StarTalk/posts/is-motion-parallax-the-reason-many-believe-this-to-be-a-uap-turns-out-we-can-cal/1313924630366593/</a>

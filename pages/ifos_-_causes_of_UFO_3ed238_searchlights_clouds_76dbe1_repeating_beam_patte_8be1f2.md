@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_cloud_screen_discs_d2af73
 - ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_hidden_event_searchl_b7f3cf
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - searchlights
 - looping-lights
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - searchlights
 - looping-lights
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Programmed arcs, loops and crossing beams can look like controlled formations when only the illuminated cloud patches are visible.
 hero_summary: Programmed arcs, loops and crossing beams can look like controlled formations when only the illuminated cloud patches are visible.
 layout: default
 permalink: /looping-lights/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /searchlights/
 nav_short_title: Looping lights
 title: When repeated loops look like intelligent control
-title_full: When repeated loops look like intelligent control | Searchlights
+title_full: When repeated loops look like intelligent control
 display_title_short: Looping lights
 display_title: Looping lights
 heading_title: When repeated loops look like intelligent control
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 06:23:28'
-parent_title: How Searchlights Paint UFOs in Clouds | IFOs
+parent_title: How Searchlights Paint UFOs in Clouds
 parent_permalink: /searchlights/
 parent_nav_short_title: Searchlights
 parent_heading_title: How Searchlights Paint UFOs in Clouds
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1
-  title: Searchlights | Ifos Causes Of
+  title: Searchlights | ifos causes of UFO 3 ed 238
   permalink: /searchlights/
   short_title: Searchlights
   heading_title: How Searchlights Paint UFOs in Clouds
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1
-  title: Searchlights | Ifos Causes Of
+  title: Searchlights | ifos causes of UFO 3 ed 238
   permalink: /searchlights/
   short_title: Searchlights
   heading_title: How Searchlights Paint UFOs in Clouds
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: Was the UFO really an event searchlight?
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1
-  title: Searchlights | Ifos Causes Of
+  title: Searchlights | ifos causes of UFO 3 ed 238
   permalink: /searchlights/
   short_title: Searchlights
   heading_title: How Searchlights Paint UFOs in Clouds
@@ -260,6 +259,7 @@ prev_link:
   permalink: /event-beams/
   short_title: Event beams
   heading_title: Was the UFO really an event searchlight?
+date: '2026-06-12 00:50:13 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_repeating_beam_patte_8be1f2-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_repeating_beam_patte_8be1f2-Illustration-1.webp
@@ -270,9 +270,8 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_rep
 
 One of the most persuasive reasons that searchlight displays generate UFO reports is not simply that they create bright lights in the sky, but that those lights appear to move with purpose. Witnesses often interpret repeated loops, coordinated turns and apparent formations as signs of intelligent control. Yet projected light on cloud can produce exactly those patterns without any aircraft or physical object being present.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_repeating_beam_patte_8be1f2-Illustration-1-dark.svg" | relative_url }}" alt="Looping lights illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_repeating_beam_patte_8be1f2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_repeating_beam_patte_8be1f2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-When only the illuminated patches on cloud are visible, the observer may never see the ground-based source. The result is a classic identification trap: a programmed lighting display creates motion that looks organised, responsive and deliberate, leading observers to infer a controlled craft where there is only a moving beam and a reflective cloud layer. Official UFO reference material has long noted that [searchlights]({{ 'searchlights/' | relative_url }}) playing on clouds can appear as moving disc-like objects, while astronomy outreach organisations have highlighted rhythmic, repeating light displays as a common source of misidentification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100040013-4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">CIAFACT SHEET AIR FORCE UFO REPORT... searchlights playing on scattered clouds, appearing as moving disc-like shapres..... In its Proje...</span></span></span>
+When only the illuminated patches on cloud are visible, the observer may never see the ground-based source. The result is a classic identification trap: a programmed lighting display creates motion that looks organised, responsive and deliberate, leading observers to infer a controlled craft where there is only a moving beam and a reflective cloud layer. Official UFO reference material has long noted that [searchlights]({{ 'searchlights/' | relative_url }}) playing on clouds can appear as moving disc-like objects, while astronomy outreach organisations have highlighted rhythmic, repeating light displays as a common source of misidentification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100040013-4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">FACT SHEET AIR FORCE UFO REPORT... searchlights playing on scattered clouds, appearing as moving disc-like shapres..... In its Proje...</span></span></span>
 
 ## Why rhythmic motion feels deliberate
 
@@ -284,9 +283,6 @@ Searchlight systems exploit exactly this visual effect. Modern entertainment and
 
 A further complication is scale. A small change in the direction of a powerful beam can move the illuminated cloud patch across a vast distance. To a witness estimating the light as a distant object, the apparent acceleration may seem impossible. The light can appear to stop, reverse direction or complete a loop in a way that no aircraft could safely perform, yet the motion belongs to the projected image rather than a solid craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">THE NATIONAL INVESTIGATIONS COMMITTEE ON...Of particular interest are two un- classified Army Intelligence Reports describing UFO activi...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LHtlvxIoxn4" title="Doodling and Tracing Activity - Mozart Rondo alla Turca - Musical Song Map" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LHtlvxIoxn4" target="_blank" rel="noopener noreferrer">Doodling and Tracing Activity - Mozart Rondo alla Turca - Musical Song Map</a></p><p class="youtube-embed-meta">Channel: A Different Musician</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LHtlvxIoxn4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LHtlvxIoxn4">Open on YouTube</a></p></div></div></div>
-
 ## Pairs, clusters and crossing patterns
 
 Single looping lights can be striking, but reports become more dramatic when multiple lights appear to coordinate with one another.
@@ -296,7 +292,6 @@ Several searchlights operating together can create the illusion of formation fli
 The key misunderstanding is that the observer treats the illuminated patches as independent objects. In reality, they are often outputs of the same programmed lighting system. Their apparent coordination is not evidence of communication between craft; it is evidence that the same controller is directing multiple beams.
 
 Common examples include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -309,7 +304,6 @@ Common examples include:
 
 Because these patterns repeat predictably, witnesses may describe them as “intelligent manoeuvres”. Yet the repetition is exactly what would be expected from programmed lighting choreography. Unlike [pilots]({{ 'pilots/' | relative_url }}), who constantly adjust to conditions, automated displays often follow the same sequence over and over.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_repeating_beam_patte_8be1f2-Illustration-2-dark.svg" | relative_url }}" alt="Looping lights illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_repeating_beam_patte_8be1f2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_repeating_beam_patte_8be1f2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why impossible motion can be misleading
 
@@ -321,9 +315,6 @@ The illuminated spot on a cloud is not constrained by inertia. It has no mass an
 
 This distinction helps explain why reports involving looping or repetitive motions often contain descriptions of performance beyond known aviation capabilities. The observation itself may be accurate—the light really did move that way—but the assumption that a physical object performed the manoeuvre is incorrect.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Nw9VMa_aQLU" title="I Unlocked a Portal System, Earn Rewards From Tasks, and My Nation Helps Me Conquer Movie Worlds!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Nw9VMa_aQLU" target="_blank" rel="noopener noreferrer">I Unlocked a Portal System, Earn Rewards From Tasks, and My Nation Helps Me Conquer Movie Worlds!</a></p><p class="youtube-embed-meta">Channel: COMICS STORM</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Nw9VMa_aQLU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Nw9VMa_aQLU">Open on YouTube</a></p></div></div></div>
-
 ## How repetition separates displays from craft
 
 Repetition is one of the most useful clues when evaluating reports involving searchlights and cloud projections.
@@ -331,7 +322,6 @@ Repetition is one of the most useful clues when evaluating reports involving sea
 A genuine aircraft, drone or balloon may follow a recognisable path for a time, but it rarely repeats an identical geometric pattern for long periods. Searchlight displays, by contrast, are often designed around recurring routines. The same loop may be traced dozens of times. The same crossing sequence may recur every minute. The same cluster may repeatedly form and disperse.
 
 Several characteristics are particularly suggestive of projected-light displays:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -346,7 +336,6 @@ Several characteristics are particularly suggestive of projected-light displays:
 
 These features do not prove that a sighting was caused by searchlights, but they provide a strong alternative explanation when witnesses interpret repeated motion as evidence of intelligent control.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_repeating_beam_patte_8be1f2-Illustration-3-dark.svg" | relative_url }}" alt="Looping lights illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_repeating_beam_patte_8be1f2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_repeating_beam_patte_8be1f2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The critique of “intelligent manoeuvre” arguments
 
@@ -355,10 +344,6 @@ Within UFO investigations, motion is often treated as a key indicator of anomalo
 The human tendency to infer agency from coordinated movement is well documented. When projected light creates loops, formations and repeated crossings, observers can easily attribute intention to what is actually a mechanical lighting programme. This does not mean witnesses are fabricating what they saw. Rather, it highlights how accurately observed motion can still lead to an incorrect conclusion about the nature of the phenomenon.
 
 For reports arising from searchlights and ground-based beams, the most revealing question is often not whether the lights appeared intelligent, but whether their behaviour was unusually repetitive. Repetition, especially when accompanied by geometric loops and recurring formations, is frequently a signature of a programmed display rather than a manoeuvring craft. Official UFO reference material has repeatedly included cloud-illuminating searchlights among the conventional explanations for sightings, precisely because projected light can mimic many of the behaviours that observers associate with controlled aerial vehicles. CIA <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[2af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 remained &quot;un...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vkAWn9Z_V-k" title="Aerial Anomalies, Aerial Phenomena, Project Blue Book, Anomalous Aerial Vehicles, UAP Task Force" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vkAWn9Z_V-k" target="_blank" rel="noopener noreferrer">Aerial Anomalies, Aerial Phenomena, Project Blue Book, Anomalous Aerial Vehicles, UAP Task Force</a></p><p class="youtube-embed-meta">Channel: STAR GAZERS</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vkAWn9Z_V-k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vkAWn9Z_V-k">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -477,15 +462,15 @@ For reports arising from searchlights and ground-based beams, the most revealing
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=looping-lights-when-repeated-loops-look-like-intelligent-control-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="looping-lights-when-repeated-loops-look-like-intelligent-control-ifos-causes-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeated-loops-look-like-intelligent-control-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-repeated-loops-look-like-intelligent-control-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=looping-lights-when-repeated-loops-look-like-intelligent-control-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="looping-lights-when-repeated-loops-look-like-intelligent-control-ifos-causes-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeated-loops-look-like-intelligent-control-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-repeated-loops-look-like-intelligent-control-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=looping-lights-when-repeated-loops-look-like-intelligent-control-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="looping-lights-when-repeated-loops-look-like-intelligent-control-ifos-causes-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeated-loops-look-like-intelligent-control-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-repeated-loops-look-like-intelligent-control-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=looping-lights-when-repeated-loops-look-like-intelligent-control-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="looping-lights-when-repeated-loops-look-like-intelligent-control-ifos-causes-of-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeated-loops-look-like-intelligent-control-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-repeated-loops-look-like-intelligent-control-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -493,15 +478,15 @@ For reports arising from searchlights and ground-based beams, the most revealing
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=looping-lights-when-repeated-loops-look-like-intelligent-control-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="looping-lights-when-repeated-loops-look-like-intelligent-control-ifos-causes-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeated-loops-look-like-intelligent-control-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-repeated-loops-look-like-intelligent-control-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=looping-lights-when-repeated-loops-look-like-intelligent-control-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="looping-lights-when-repeated-loops-look-like-intelligent-control-ifos-causes-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeated-loops-look-like-intelligent-control-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-repeated-loops-look-like-intelligent-control-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=looping-lights-when-repeated-loops-look-like-intelligent-control-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="looping-lights-when-repeated-loops-look-like-intelligent-control-ifos-causes-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeated-loops-look-like-intelligent-control-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-repeated-loops-look-like-intelligent-control-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=looping-lights-when-repeated-loops-look-like-intelligent-control-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="looping-lights-when-repeated-loops-look-like-intelligent-control-ifos-causes-of-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeated-loops-look-like-intelligent-control-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-repeated-loops-look-like-intelligent-control-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -509,15 +494,15 @@ For reports arising from searchlights and ground-based beams, the most revealing
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=looping-lights-when-repeated-loops-look-like-intelligent-control-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="looping-lights-when-repeated-loops-look-like-intelligent-control-ifos-causes-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeated-loops-look-like-intelligent-control-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-repeated-loops-look-like-intelligent-control-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=looping-lights-when-repeated-loops-look-like-intelligent-control-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="looping-lights-when-repeated-loops-look-like-intelligent-control-ifos-causes-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeated-loops-look-like-intelligent-control-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-repeated-loops-look-like-intelligent-control-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=looping-lights-when-repeated-loops-look-like-intelligent-control-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="looping-lights-when-repeated-loops-look-like-intelligent-control-ifos-causes-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeated-loops-look-like-intelligent-control-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-repeated-loops-look-like-intelligent-control-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=looping-lights-when-repeated-loops-look-like-intelligent-control-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="looping-lights-when-repeated-loops-look-like-intelligent-control-ifos-causes-of-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeated-loops-look-like-intelligent-control-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-repeated-loops-look-like-intelligent-control-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -525,15 +510,15 @@ For reports arising from searchlights and ground-based beams, the most revealing
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=looping-lights-when-repeated-loops-look-like-intelligent-control-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="looping-lights-when-repeated-loops-look-like-intelligent-control-ifos-causes-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeated-loops-look-like-intelligent-control-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-repeated-loops-look-like-intelligent-control-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=looping-lights-when-repeated-loops-look-like-intelligent-control-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="looping-lights-when-repeated-loops-look-like-intelligent-control-ifos-causes-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeated-loops-look-like-intelligent-control-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-repeated-loops-look-like-intelligent-control-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=looping-lights-when-repeated-loops-look-like-intelligent-control-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="looping-lights-when-repeated-loops-look-like-intelligent-control-ifos-causes-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeated-loops-look-like-intelligent-control-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-repeated-loops-look-like-intelligent-control-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=looping-lights-when-repeated-loops-look-like-intelligent-control-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="looping-lights-when-repeated-loops-look-like-intelligent-control-ifos-causes-of-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeated-loops-look-like-intelligent-control-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-repeated-loops-look-like-intelligent-control-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -541,7 +526,7 @@ For reports arising from searchlights and ground-based beams, the most revealing
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=looping-lights-when-repeated-loops-look-like-intelligent-control-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="looping-lights-when-repeated-loops-look-like-intelligent-control-ifos-causes-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeated-loops-look-like-intelligent-control-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-repeated-loops-look-like-intelligent-control-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -756,39 +741,39 @@ For reports arising from searchlights and ground-based beams, the most revealing
 
 1. <a id="endnote-1"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100040013-4](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100040013-4)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CIAFACT SHEET AIR FORCE UFO REPORT... searchlights playing on scattered clouds, appearing as moving disc-like shapres..... In its Proje...</p></details>
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100040013-4" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100040013-4</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>FACT SHEET AIR FORCE UFO REPORT... searchlights playing on scattered clouds, appearing as moving disc-like shapres..... In its Proje...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Searchlight](https://en.wikipedia.org/wiki/Searchlight)  
+   Link: <a href="https://en.wikipedia.org/wiki/Searchlight" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Searchlight</a>  
 
 3. <a id="endnote-3"></a>
    Source: af.mil  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to [Project Blue Book](&amp;#123;&amp;#123; &#x27;blue-book/&#x27; | relative_url &amp;#125;&amp;#125;), 701 remained &quot;un...</p></details>
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 remained &quot;un...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...Of particular interest are two un- classified Army Intelligence Reports describing UFO activi...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookProject Blue Book was the code name for the systematic study of unidentified flying objects (UFOs) by the United Stat...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The project closed in 1969 and we have no...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, History, Aliens, UFOs, &amp; Facts16 May 2026 — Project Blue Book, code name for the United States&#x27; longest-running Air Force pro...</p></details>
    Published: May 2026  
 
@@ -796,50 +781,50 @@ For reports arising from searchlights and ground-based beams, the most revealing
 
 8. <a id="endnote-8"></a>
    Source: nsa.gov  
-   Link: [https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761380/](https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761380/)  
+   Link: <a href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761380/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761380/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Security AgencyUnited States Air Force Fact Sheet 95-03United States Air Force Fact Sheet 95-03 - &quot;Unidentified Flying Objects a...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: discoverireland.ie  
-   Link: [https://www.discoverireland.ie/cork/mtu-blackrock-castle-observatory](https://www.discoverireland.ie/cork/mtu-blackrock-castle-observatory)  
+   Link: <a href="https://www.discoverireland.ie/cork/mtu-blackrock-castle-observatory" target="_blank" rel="noopener noreferrer nofollow">https://www.discoverireland.ie/cork/mtu-blackrock-castle-observatory</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>MTU Blackrock Castle ObservatoryMTU Blackrock Castle Observatory, the Space for Science, is Cork&#x27;s fun and exciting location to learn abo...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: greywoodarts.org  
-   Link: [https://greywoodarts.org/space-fest-events/](https://greywoodarts.org/space-fest-events/)  
+   Link: <a href="https://greywoodarts.org/space-fest-events/" target="_blank" rel="noopener noreferrer nofollow">https://greywoodarts.org/space-fest-events/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Space Fest EventsThe workshop will use electronics and other instruments to compose communications to imagined alien life forms using mus...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: esd.whs.mil  
-   Link: [https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837](https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837)  
+   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837</a>  
 
 12. <a id="endnote-12"></a>
    Source: irishtourism.com  
-   Link: [https://www.irishtourism.com/cit-blackrock-castle-observatory](https://www.irishtourism.com/cit-blackrock-castle-observatory)  
+   Link: <a href="https://www.irishtourism.com/cit-blackrock-castle-observatory" target="_blank" rel="noopener noreferrer nofollow">https://www.irishtourism.com/cit-blackrock-castle-observatory</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CIT Blackrock Castle Observatory | Attractions IrelandCIT Blackrock Castle Observatory - the Space for Science is Cork&#x27;s fun and exciting...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/berlin/comments/1d5jt1t/did_anyone_else_see_this_strange_light_formation/](https://www.reddit.com/r/berlin/comments/1d5jt1t/did_anyone_else_see_this_strange_light_formation/)  
+   Link: <a href="https://www.reddit.com/r/berlin/comments/1d5jt1t/did_anyone_else_see_this_strange_light_formation/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/berlin/comments/1d5jt1t/did_anyone_else_see_this_strange_light_formation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>They remained static until they vanished. And the weird cloud like thing around the light also almost immediately...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: ia600600.us.archive.org  
    Title: 492780987 The UFO Book Encyclopedia of the Extraterrestrial PDFDrive  
-   Link: [https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf](https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf)  
+   Link: <a href="https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO book: encyclopedia of the extraterrestrial / Jerome Clark, p. cm. Includes bibliographic references and index. ISBN 1-57859-029...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: docsteach.org  
-   Link: [https://docsteach.org/document/ufo-questionnaire/](https://docsteach.org/document/ufo-questionnaire/)  
+   Link: <a href="https://docsteach.org/document/ufo-questionnaire/" target="_blank" rel="noopener noreferrer nofollow">https://docsteach.org/document/ufo-questionnaire/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force&#x27;s investigations into UFOs. During the Cold War in 1952, fearful that the...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/light-quest-your-guide-to-seeing-and-interacting-with-ufos-mystery-lights-and-plasma-intelligences-0940829495-9780940829497.html](https://dokumen.pub/light-quest-your-guide-to-seeing-and-interacting-with-ufos-mystery-lights-and-plasma-intelligences-0940829495-9780940829497.html)  
+   Link: <a href="https://dokumen.pub/light-quest-your-guide-to-seeing-and-interacting-with-ufos-mystery-lights-and-plasma-intelligences-0940829495-9780940829497.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/light-quest-your-guide-to-seeing-and-interacting-with-ufos-mystery-lights-and-plasma-intelligences-0940829495-9780940829497.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>bductions are aliens performing experiments on humans, and that there is a...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: x.com  
-   Link: [https://x.com/blackrockcastle/status/1062331561926889472](https://x.com/blackrockcastle/status/1062331561926889472)  
+   Link: <a href="https://x.com/blackrockcastle/status/1062331561926889472" target="_blank" rel="noopener noreferrer nofollow">https://x.com/blackrockcastle/status/1062331561926889472</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>y would visit the REAL capital, and not our neighbours in Kerry.Read more...</p></details>

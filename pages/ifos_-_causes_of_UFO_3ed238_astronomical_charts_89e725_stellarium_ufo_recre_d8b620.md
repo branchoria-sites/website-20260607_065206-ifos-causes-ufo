@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_missing_ufo_sighting_dd6a86
 - ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_venus_ufo_chart_chec_ca09cd
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - sky-charts
 - stellarium-use
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - sky-charts
 - stellarium-use
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: A planetarium app can recreate the sky for a witness location, time and direction, turning vague reports into testable comparisons.
 hero_summary: A planetarium app can recreate the sky for a witness location, time and direction, turning vague reports into testable comparisons.
 layout: default
 permalink: /stellarium-use/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /sky-charts/
 nav_short_title: Stellarium Use
 title: How to Rebuild a UFO Sky
-title_full: How to Rebuild a UFO Sky | Sky Charts
+title_full: How to Rebuild a UFO Sky
 display_title_short: Stellarium Use
 display_title: Stellarium Use
 heading_title: How to Rebuild a UFO Sky
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 21:44:15'
-parent_title: How to Check a UFO Against the Sky | IFOs
+parent_title: How to Check a UFO Against the Sky
 parent_permalink: /sky-charts/
 parent_nav_short_title: Sky Charts
 parent_heading_title: How to Check a UFO Against the Sky
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725
-  title: Sky Charts | Ifos Causes Of
+  title: Sky Charts | ifos causes of UFO 3 ed 238
   permalink: /sky-charts/
   short_title: Sky Charts
   heading_title: How to Check a UFO Against the Sky
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725
-  title: Sky Charts | Ifos Causes Of
+  title: Sky Charts | ifos causes of UFO 3 ed 238
   permalink: /sky-charts/
   short_title: Sky Charts
   heading_title: How to Check a UFO Against the Sky
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: Was the UFO Really Venus?
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725
-  title: Sky Charts | Ifos Causes Of
+  title: Sky Charts | ifos causes of UFO 3 ed 238
   permalink: /sky-charts/
   short_title: Sky Charts
   heading_title: How to Check a UFO Against the Sky
@@ -266,6 +265,7 @@ next_link:
   permalink: /when-investigators-compare-a-ufo/
   short_title: When Investigators Compare A UFO Report With An Astronomical Chart,...
   heading_title: Was the UFO Really Venus?
+date: '2026-06-12 00:48:30 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_stellarium_ufo_recre_d8b620-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_stellarium_ufo_recre_d8b620-Illustration-1.webp
@@ -274,8 +274,7 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_ste
 
 ## Introduction
 
-One of the most practical ways to investigate a reported UFO is to rebuild the sky exactly as the witness saw it. The free planetarium program Stellarium was designed to simulate the appearance of the sky from any location at almost any date and time, making it a valuable tool for checking whether a reported object matches a known planet, star or other astronomical source. Rather than relying on memory or guesswork, investigators can compare a witness description with a reconstructed sky and test whether the report fits a real celestial object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://stellarium.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stellarium.org">[Stellarium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stellarium.org</span><span class="citation-popover-snippet">StellariumStellarium Astronomy SoftwareStellarium is a planetarium software that shows exactly what you see when you look up at the stars...</span></span></span>
-
+One of the most practical ways to investigate a reported UFO is to rebuild the sky exactly as the witness saw it. The free planetarium program Stellarium was designed to simulate the appearance of the sky from any location at almost any date and time, making it a valuable tool for checking whether a reported object matches a known planet, star or other astronomical source. Rather than relying on memory or guesswork, investigators can compare a witness description with a reconstructed sky and test whether the report fits a real celestial object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://stellarium.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stellarium.org">[Stellarium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stellarium.org</span><span class="citation-popover-snippet">Stellarium Astronomy SoftwareStellarium is a planetarium software that shows exactly what you see when you look up at the stars...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_stellarium_ufo_recre_d8b620-Illustration-1-dark.svg" | relative_url }}" alt="Stellarium Use illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_stellarium_ufo_recre_d8b620-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_stellarium_ufo_recre_d8b620-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This approach is especially useful because some of the most frequently misidentified UFOs are bright planets such as [Venus]({{ 'venus/' | relative_url }}) and Jupiter. Astronomers and NASA's Night Sky Network have repeatedly noted that these objects can appear unusual to observers, particularly when they are low on the horizon. NASA Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nightsky.jpl.nasa.gov">[Night Sky Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nightsky.jpl.nasa.gov</span><span class="citation-popover-title">Night Sky Network Identifying UFOs and UAPs</span><span class="citation-popover-snippet">Do you think you have spotted a UFO? We have some tips to help you identify that...</span></span></span>
@@ -283,7 +282,6 @@ This approach is especially useful because some of the most frequently misidenti
 ## Setting Place, Date and Local Time
 
 The accuracy of a Stellarium reconstruction depends almost entirely on the quality of the witness information. Before opening the software, gather the following details:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -297,10 +295,9 @@ The accuracy of a Stellarium reconstruction depends almost entirely on the quali
 
 Once Stellarium is open, set the observer location first. The software calculates the sky based on geographical position, so even a shift of a few hundred kilometres can noticeably change the appearance of the horizon and the positions of planets and [stars]({{ 'stars/' | relative_url }}). Stellarium's location controls are specifically intended to reproduce the sky for a chosen observing point. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=CrT9ZW5YB6c" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Stellarium: How to set your locationSetting your location in stellarium is a really important aspect of using this program because...</span></span></span>
 
-Next, enter the reported date and time. Stellarium allows users to move backward or forward through time and display the sky for a specific moment. The date and time controls are central to recreating historical observations. Sky at Night Magazine <span class="citation-chip-wrap"><a class="citation-chip" href="https://itu.physics.uiowa.edu/labs/foundational/exploring-sky-i/using-stellarium-web" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: itu.physics.uiowa.edu">[Imaging the Universe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">itu.physics.uiowa.edu</span><span class="citation-popover-snippet">Stellarium Web | Imaging the UniverseThe &quot;Date/time window&quot; is brought up by clicking the digital clock in the bottom right hand corner o...</span></span></span>
+Next, enter the reported date and time. Stellarium allows users to move backward or forward through time and display the sky for a specific moment. The date and time controls are central to recreating historical observations. Sky at Night Magazine <span class="citation-chip-wrap"><a class="citation-chip" href="https://itu.physics.uiowa.edu/labs/foundational/exploring-sky-i/using-stellarium-web" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: itu.physics.uiowa.edu">[Imaging the Universe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">itu.physics.uiowa.edu</span><span class="citation-popover-snippet">Stellarium Web &#124; Imaging the UniverseThe &quot;Date/time window&quot; is brought up by clicking the digital clock in the bottom right hand corner o...</span></span></span>
 
 Time-zone mistakes are a common source of error. If the witness report comes from a different region or from a period involving daylight-saving changes, investigators should verify that the displayed time corresponds to the local civil time used by the witness. Users and support discussions frequently highlight incorrect time-zone settings as a cause of inaccurate sky reconstructions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://stargazerslounge.com/topic/397879-how-can-i-get-stellarium-to-match-the-time-zone-to-the-location/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stargazerslounge.com">[Stargazers Lounge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stargazerslounge.com</span><span class="citation-popover-title">397879 how can i get stellarium to match the time zone to the location</span><span class="citation-popover-snippet">Stargazers LoungeHow can I get Stellarium to match the time zone...4 Aug 2022 — In the location selector you can set custom time zone. S...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://sourceforge.net/p/stellarium/discussion/278769/thread/05c9b516/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sourceforge.net">[SourceForge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sourceforge.net</span><span class="citation-popover-snippet">go to - &quot;Configuration&quot; then - &quot;Plugins&quot; then - &quot;Time zone&quot; in the left column. click - &quot;Configure&quot; at bottom right&#x27; Check that radio but...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bYF7SR99ZOw" title="Stellarium: Getting started" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bYF7SR99ZOw" target="_blank" rel="noopener noreferrer">Stellarium: Getting started</a></p><p class="youtube-embed-meta">Channel: Eyes on the Sky &middot; Views: 116.8K &middot; Uploaded: August 2015 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bYF7SR99ZOw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bYF7SR99ZOw">Open on YouTube</a></p></div></div></div>
 
@@ -310,7 +307,7 @@ After entering the location and time, the next task is to face the same directio
 
 A witness may say the object appeared "in the west", "above the trees", or "over the town centre". These descriptions can be translated into Stellarium's horizon view. Rotating the simulated sky toward the reported direction often reveals whether a bright astronomical object occupied that position.
 
-For greater precision, investigators can use altitude and azimuth coordinates. Azimuth describes compass direction along the horizon, while altitude measures height above the horizon. Stellarium can display these values and grid systems, allowing a witness statement to be converted into measurable positions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cliffsnotes.com/study-notes/24665368" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cliffsnotes.com">[CliffsNotes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cliffsnotes.com</span><span class="citation-popover-snippet">CliffsNotesExplore the Night Sky with Stellarium: A Student&#x27;s GuideRecall that altitude and azimuth allow us to identify the precise loca...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://stellarium-labs.com/blog/gridsandlines/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stellarium-labs.com">[Stellarium Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stellarium-labs.com</span><span class="citation-popover-snippet">In this article, we&#x27;ll have a quick look at each one and discuss...Read more...</span></span></span>
+For greater precision, investigators can use altitude and azimuth coordinates. Azimuth describes compass direction along the horizon, while altitude measures height above the horizon. Stellarium can display these values and grid systems, allowing a witness statement to be converted into measurable positions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cliffsnotes.com/study-notes/24665368" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cliffsnotes.com">[CliffsNotes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cliffsnotes.com</span><span class="citation-popover-snippet">Explore the Night Sky with Stellarium: A Student&#x27;s GuideRecall that altitude and azimuth allow us to identify the precise loca...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://stellarium-labs.com/blog/gridsandlines/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stellarium-labs.com">[Stellarium Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stellarium-labs.com</span><span class="citation-popover-snippet">In this article, we&#x27;ll have a quick look at each one and discuss...Read more...</span></span></span>
 
 This stage often produces the first strong clue. If a witness reported a bright stationary light low in the south-west and Stellarium shows Venus in exactly that position, the match deserves serious consideration. NASA notes that Venus, Jupiter, [Sirius]({{ 'sirius/' | relative_url }}) and other [bright objects]({{ 'bright-objects/' | relative_url }}) are regularly reported as UFOs, especially when viewed near the horizon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">identifying ufos and uaps</span><span class="citation-popover-snippet">NASA ScienceIdentifying UFOs and UAPs1 Dec 2013 — Venus is one of the most confused objects in the sky, especially when it is low to the...</span></span></span>
 
@@ -318,13 +315,12 @@ This stage often produces the first strong clue. If a witness reported a bright 
 
 When comparing a UFO report against the reconstructed sky, several recurring patterns are worth noting:
 
-* **Venus:** Extremely bright, often visible shortly after sunset or before sunrise, and commonly described as hovering. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">identifying ufos and uaps</span><span class="citation-popover-snippet">NASA ScienceIdentifying UFOs and UAPs1 Dec 2013 — Venus is one of the most confused objects in the sky, especially when it is low to the...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/14884-jupiter-venus-mistaken-ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">14884 jupiter venus mistaken ufos</span><span class="citation-popover-snippet">SpaceJupiter and Venus &#x27;Could Be Mistaken for UFOs&#x27;13 Mar 2012 — In fact, the planet Venus frequently gets mistaken for a UFO. To viewers...</span></span></span>
+* **Venus:** Extremely bright, often visible shortly after sunset or before sunrise, and commonly described as hovering. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">identifying ufos and uaps</span><span class="citation-popover-snippet">NASA ScienceIdentifying UFOs and UAPs1 Dec 2013 — Venus is one of the most confused objects in the sky, especially when it is low to the...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/14884-jupiter-venus-mistaken-ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">14884 jupiter venus mistaken ufos</span><span class="citation-popover-snippet">Jupiter and Venus &#x27;Could Be Mistaken for UFOs&#x27;13 Mar 2012 — In fact, the planet Venus frequently gets mistaken for a UFO. To viewers...</span></span></span>
 * **Jupiter:** Bright and steady, capable of appearing unusually prominent when low in the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/best-stargazing-apps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">Best stargazing apps 2026: A helping hand for skywatchers21 Jan 2026 — Some stargazing apps will overlay a map of the night sky on your r...</span></span></span>
 * **Bright stars such as Sirius:** Can twinkle dramatically and appear to change colour because of atmospheric effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">identifying ufos and uaps</span><span class="citation-popover-snippet">NASA ScienceIdentifying UFOs and UAPs1 Dec 2013 — Venus is one of the most confused objects in the sky, especially when it is low to the...</span></span></span>
 * **Planet groupings:** Multiple bright planets near the horizon can be interpreted as formations of unusual lights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">identifying ufos and uaps</span><span class="citation-popover-snippet">NASA ScienceIdentifying UFOs and UAPs1 Dec 2013 — Venus is one of the most confused objects in the sky, especially when it is low to the...</span></span></span>
 
 The goal is not to force an explanation but to determine whether the reported object's position and appearance correspond to a known celestial source.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_stellarium_ufo_recre_d8b620-Illustration-2-dark.svg" | relative_url }}" alt="Stellarium Use illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_stellarium_ufo_recre_d8b620-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_stellarium_ufo_recre_d8b620-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Recording Matches and Mismatches
@@ -332,7 +328,6 @@ The goal is not to force an explanation but to determine whether the reported ob
 A useful reconstruction records both agreements and disagreements between the witness account and the simulated sky.
 
 A strong match may include:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -348,13 +343,11 @@ For example, if a witness observed a bright light in the western sky for an hour
 
 However, mismatches are equally important. If the reported object was overhead while the nearest bright planet was low on the horizon, or if no significant celestial object appears in the reconstructed sky, investigators should note the discrepancy and consider non-astronomical explanations rather than forcing a celestial identification.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hwUa_jAXESo" title="How to Make Custom Night Sky Star Map Art with Inkscape and Free Stellarium Chart Data" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hwUa_jAXESo" target="_blank" rel="noopener noreferrer">How to Make Custom Night Sky Star Map Art with Inkscape and Free Stellarium Chart Data</a></p><p class="youtube-embed-meta">Channel: IronEcho Design &middot; Views: 17.8K &middot; Uploaded: April 2021 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hwUa_jAXESo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hwUa_jAXESo">Open on YouTube</a></p></div></div></div>
 
 ### Building a Reproducible Record
 
 Good practice is to save screenshots showing:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -368,7 +361,6 @@ Good practice is to save screenshots showing:
 
 These images create a transparent record that can be reviewed by other investigators, journalists or researchers. Because Stellarium uses astronomical calculations to determine object positions, different users can independently repeat the reconstruction and check whether they obtain the same result. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://stellarium.org/guide/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stellarium.org">[Stellarium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stellarium.org</span><span class="citation-popover-snippet">user guide29 Dec 2025 — 4.1 Setting the Date and Time.... an observer depending on their location and the time. It can also draw the co...</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_stellarium_ufo_recre_d8b620-Illustration-3-dark.svg" | relative_url }}" alt="Stellarium Use illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_stellarium_ufo_recre_d8b620-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_stellarium_ufo_recre_d8b620-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Stellarium Matters in UFO Investigations
 
@@ -376,9 +368,7 @@ Many UFO reports begin with a sincere observation of something unusual. Stellari
 
 The software cannot prove that a sighting was a planet or star on its own. Witness descriptions may be incomplete, and non-astronomical objects remain possibilities. What Stellarium provides is an objective comparison between the reported event and the known sky. In many cases, that comparison reveals a close match with Venus, Jupiter, Sirius or another bright astronomical object that might otherwise have remained unidentified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popsci.com/science/ufo-sightings-explained-rocket-satellite-venus/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popsci.com">[popsci.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popsci.com</span><span class="citation-popover-title">You didn&#x27;t see a UFO</span><span class="citation-popover-snippet">It was probably one of these things.10 Sept 2023 — The classic culprit for UFO sightings is a group of clouds moving in front of Venus. N...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">identifying ufos and uaps</span><span class="citation-popover-snippet">NASA ScienceIdentifying UFOs and UAPs1 Dec 2013 — Venus is one of the most confused objects in the sky, especially when it is low to the...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nightsky.jpl.nasa.gov">[Night Sky Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nightsky.jpl.nasa.gov</span><span class="citation-popover-title">Night Sky Network Identifying UFOs and UAPs</span><span class="citation-popover-snippet">Do you think you have spotted a UFO? We have some tips to help you identify that...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CrT9ZW5YB6c" title="Stellarium: How to set your location" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CrT9ZW5YB6c" target="_blank" rel="noopener noreferrer">Stellarium: How to set your location</a></p><p class="youtube-embed-meta">Channel: Eyes on the Sky &middot; Views: 43.0K &middot; Uploaded: August 2015 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CrT9ZW5YB6c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CrT9ZW5YB6c">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -497,15 +487,15 @@ The software cannot prove that a sighting was a planet or star on its own. Witne
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stellarium-use-how-to-rebuild-a-ufo-sky-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="stellarium-use-how-to-rebuild-a-ufo-sky-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-rebuild-a-ufo-sky-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="how-to-rebuild-a-ufo-sky-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Planisphere: Latitude 50°N – for us..., Collins Astrono"><img src="https://i.ebayimg.com/images/g/WuAAAeSw7UNpOq~i/s-l225.jpg" alt="Listing image for Planisphere: Latitude 50°N – for us..., Collins Astrono" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stellarium-use-how-to-rebuild-a-ufo-sky-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="stellarium-use-how-to-rebuild-a-ufo-sky-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-rebuild-a-ufo-sky-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="how-to-rebuild-a-ufo-sky-planisphere" target="_blank" rel="sponsored noopener noreferrer">Planisphere: Latitude 50°N – for us..., Collins Astrono</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stellarium-use-how-to-rebuild-a-ufo-sky-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="stellarium-use-how-to-rebuild-a-ufo-sky-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-rebuild-a-ufo-sky-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="how-to-rebuild-a-ufo-sky-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planisphere">Search <span data-ebay-domain-label>eBay.co.uk</span>: planisphere</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stellarium-use-how-to-rebuild-a-ufo-sky-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="stellarium-use-how-to-rebuild-a-ufo-sky-ifos-causes-of-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-rebuild-a-ufo-sky-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="how-to-rebuild-a-ufo-sky-planisphere" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -513,15 +503,15 @@ The software cannot prove that a sighting was a planet or star on its own. Witne
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stellarium-use-how-to-rebuild-a-ufo-sky-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="stellarium-use-how-to-rebuild-a-ufo-sky-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-rebuild-a-ufo-sky-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="how-to-rebuild-a-ufo-sky-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Philips Vintage Planisphere Latitude 51.5N, Canada Northern Europe 1982"><img src="https://i.ebayimg.com/images/g/DMgAAeSw0TtpluJK/s-l225.jpg" alt="Listing image for Philips Vintage Planisphere Latitude 51.5N, Canada Northern Europe 1982" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stellarium-use-how-to-rebuild-a-ufo-sky-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="stellarium-use-how-to-rebuild-a-ufo-sky-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-rebuild-a-ufo-sky-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="how-to-rebuild-a-ufo-sky-planisphere" target="_blank" rel="sponsored noopener noreferrer">Philips Vintage Planisphere Latitude 51.5N, Canada Northern Europe 1982</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stellarium-use-how-to-rebuild-a-ufo-sky-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="stellarium-use-how-to-rebuild-a-ufo-sky-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-rebuild-a-ufo-sky-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="how-to-rebuild-a-ufo-sky-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planisphere">Search <span data-ebay-domain-label>eBay.co.uk</span>: planisphere</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stellarium-use-how-to-rebuild-a-ufo-sky-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="stellarium-use-how-to-rebuild-a-ufo-sky-ifos-causes-of-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-rebuild-a-ufo-sky-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="how-to-rebuild-a-ufo-sky-planisphere" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -529,15 +519,15 @@ The software cannot prove that a sighting was a planet or star on its own. Witne
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stellarium-use-how-to-rebuild-a-ufo-sky-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="stellarium-use-how-to-rebuild-a-ufo-sky-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-rebuild-a-ufo-sky-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="how-to-rebuild-a-ufo-sky-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Philip&#x27;S Planisphere (Latitude 51.5 North): for Use in Britain and Ireland, Nort"><img src="https://i.ebayimg.com/images/g/wUQAAOSwjiJoWKC3/s-l225.jpg" alt="Listing image for Philip&#x27;S Planisphere (Latitude 51.5 North): for Use in Britain and Ireland, Nort" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stellarium-use-how-to-rebuild-a-ufo-sky-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="stellarium-use-how-to-rebuild-a-ufo-sky-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-rebuild-a-ufo-sky-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="how-to-rebuild-a-ufo-sky-planisphere" target="_blank" rel="sponsored noopener noreferrer">Philip&#x27;S Planisphere (Latitude 51.5 North): for Use in Britain and Ireland, Nort</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stellarium-use-how-to-rebuild-a-ufo-sky-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="stellarium-use-how-to-rebuild-a-ufo-sky-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-rebuild-a-ufo-sky-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="how-to-rebuild-a-ufo-sky-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planisphere">Search <span data-ebay-domain-label>eBay.co.uk</span>: planisphere</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stellarium-use-how-to-rebuild-a-ufo-sky-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="stellarium-use-how-to-rebuild-a-ufo-sky-ifos-causes-of-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-rebuild-a-ufo-sky-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="how-to-rebuild-a-ufo-sky-planisphere" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -545,15 +535,15 @@ The software cannot prove that a sighting was a planet or star on its own. Witne
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stellarium-use-how-to-rebuild-a-ufo-sky-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="stellarium-use-how-to-rebuild-a-ufo-sky-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-rebuild-a-ufo-sky-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="how-to-rebuild-a-ufo-sky-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Astrologian&#x27;s Planisphere - Final Fantasy - Rare - NM (see pics) MTG"><img src="https://i.ebayimg.com/images/g/GQ4AAeSwFpBoZXsd/s-l225.jpg" alt="Listing image for Astrologian&#x27;s Planisphere - Final Fantasy - Rare - NM (see pics) MTG" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stellarium-use-how-to-rebuild-a-ufo-sky-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="stellarium-use-how-to-rebuild-a-ufo-sky-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-rebuild-a-ufo-sky-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="how-to-rebuild-a-ufo-sky-planisphere" target="_blank" rel="sponsored noopener noreferrer">Astrologian&#x27;s Planisphere - Final Fantasy - Rare - NM (see pics) MTG</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stellarium-use-how-to-rebuild-a-ufo-sky-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="stellarium-use-how-to-rebuild-a-ufo-sky-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-rebuild-a-ufo-sky-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="how-to-rebuild-a-ufo-sky-planisphere" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planisphere">Search <span data-ebay-domain-label>eBay.co.uk</span>: planisphere</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stellarium-use-how-to-rebuild-a-ufo-sky-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="stellarium-use-how-to-rebuild-a-ufo-sky-ifos-causes-of-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-rebuild-a-ufo-sky-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="how-to-rebuild-a-ufo-sky-planisphere" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -561,7 +551,7 @@ The software cannot prove that a sighting was a planet or star on its own. Witne
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stellarium-use-how-to-rebuild-a-ufo-sky-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="stellarium-use-how-to-rebuild-a-ufo-sky-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=planisphere&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-rebuild-a-ufo-sky-planisphere&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planisphere" data-ebay-reference="how-to-rebuild-a-ufo-sky-planisphere" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -776,255 +766,255 @@ The software cannot prove that a sighting was a planet or star on its own. Witne
 
 1. <a id="endnote-1"></a>
    Source: stellarium.org  
-   Link: [https://stellarium.org/](https://stellarium.org/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>StellariumStellarium Astronomy SoftwareStellarium is a planetarium software that shows exactly what you see when you look up at the stars...</p></details>
+   Link: <a href="https://stellarium.org/" target="_blank" rel="noopener noreferrer nofollow">https://stellarium.org/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stellarium Astronomy SoftwareStellarium is a planetarium software that shows exactly what you see when you look up at the stars...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: stellarium.org  
-   Link: [https://stellarium.org/guide/](https://stellarium.org/guide/)  
+   Link: <a href="https://stellarium.org/guide/" target="_blank" rel="noopener noreferrer nofollow">https://stellarium.org/guide/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>user guide29 Dec 2025 — 4.1 Setting the Date and Time.... an observer depending on their location and the time. It can also draw the co...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: science.nasa.gov  
    Title: identifying ufos and uaps  
-   Link: [https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/](https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/)  
+   Link: <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIdentifying UFOs and UAPs1 Dec 2013 — Venus is one of the most confused objects in the sky, especially when it is low to the...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: nightsky.jpl.nasa.gov  
    Title: Night Sky Network Identifying UFOs and UAPs  
-   Link: [https://nightsky.jpl.nasa.gov/news/39/](https://nightsky.jpl.nasa.gov/news/39/)  
+   Link: <a href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow">https://nightsky.jpl.nasa.gov/news/39/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Do you think you have spotted a UFO? We have some tips to help you identify that...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: space.com  
    Title: 14884 jupiter venus mistaken ufos  
-   Link: [https://www.space.com/14884-jupiter-venus-mistaken-ufos.html](https://www.space.com/14884-jupiter-venus-mistaken-ufos.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceJupiter and Venus &#x27;Could Be Mistaken for UFOs&#x27;13 Mar 2012 — In fact, the planet Venus frequently gets mistaken for a UFO. To viewers...</p></details>
+   Link: <a href="https://www.space.com/14884-jupiter-venus-mistaken-ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/14884-jupiter-venus-mistaken-ufos.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Jupiter and Venus &#x27;Could Be Mistaken for UFOs&#x27;13 Mar 2012 — In fact, the planet Venus frequently gets mistaken for a UFO. To viewers...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=CrT9ZW5YB6c](https://www.youtube.com/watch?v=CrT9ZW5YB6c)  
+   Link: <a href="https://www.youtube.com/watch?v=CrT9ZW5YB6c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CrT9ZW5YB6c</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stellarium: How to set your locationSetting your location in stellarium is a really important aspect of using this program because...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: sourceforge.net  
-   Link: [https://sourceforge.net/p/stellarium/discussion/278769/thread/05c9b516/](https://sourceforge.net/p/stellarium/discussion/278769/thread/05c9b516/)  
+   Link: <a href="https://sourceforge.net/p/stellarium/discussion/278769/thread/05c9b516/" target="_blank" rel="noopener noreferrer nofollow">https://sourceforge.net/p/stellarium/discussion/278769/thread/05c9b516/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>go to - &quot;Configuration&quot; then - &quot;Plugins&quot; then - &quot;Time zone&quot; in the left column. click - &quot;Configure&quot; at bottom right&#x27; Check that radio but...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: cliffsnotes.com  
-   Link: [https://www.cliffsnotes.com/study-notes/24665368](https://www.cliffsnotes.com/study-notes/24665368)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CliffsNotesExplore the Night Sky with Stellarium: A Student&#x27;s GuideRecall that altitude and azimuth allow us to identify the precise loca...</p></details>
+   Link: <a href="https://www.cliffsnotes.com/study-notes/24665368" target="_blank" rel="noopener noreferrer nofollow">https://www.cliffsnotes.com/study-notes/24665368</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Explore the Night Sky with Stellarium: A Student&#x27;s GuideRecall that altitude and azimuth allow us to identify the precise loca...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: stellarium-labs.com  
-   Link: [https://stellarium-labs.com/blog/gridsandlines/](https://stellarium-labs.com/blog/gridsandlines/)  
+   Link: <a href="https://stellarium-labs.com/blog/gridsandlines/" target="_blank" rel="noopener noreferrer nofollow">https://stellarium-labs.com/blog/gridsandlines/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>In this article, we&#x27;ll have a quick look at each one and discuss...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=DvWEBrDjyVE](https://www.youtube.com/watch?v=DvWEBrDjyVE)  
+   Link: <a href="https://www.youtube.com/watch?v=DvWEBrDjyVE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DvWEBrDjyVE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Altitude, Azimuth, and Zenith in StellariumThe altitude is how far above the horizon you are for your location. The azimuth is what direc...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: popsci.com  
    Title: You didn't see a UFO  
-   Link: [https://www.popsci.com/science/ufo-sightings-explained-rocket-satellite-venus/](https://www.popsci.com/science/ufo-sightings-explained-rocket-satellite-venus/)  
+   Link: <a href="https://www.popsci.com/science/ufo-sightings-explained-rocket-satellite-venus/" target="_blank" rel="noopener noreferrer nofollow">https://www.popsci.com/science/ufo-sightings-explained-rocket-satellite-venus/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It was probably one of these things.10 Sept 2023 — The classic culprit for UFO sightings is a group of clouds moving in front of Venus. N...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=x9cSpKieSkQ](https://www.youtube.com/watch?v=x9cSpKieSkQ)  
+   Link: <a href="https://www.youtube.com/watch?v=x9cSpKieSkQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=x9cSpKieSkQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Using Stellarium to Explore the SkyJoin me in learning how to navigate Stellarium, a free planetarium software that allows users to explo...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=yTN-OZoWvDw](https://www.youtube.com/watch?v=yTN-OZoWvDw)  
+   Link: <a href="https://www.youtube.com/watch?v=yTN-OZoWvDw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yTN-OZoWvDw</a>  
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: Stellarium Planetarium Software  
-   Link: [https://www.youtube.com/watch?v=fRFligT-C8w](https://www.youtube.com/watch?v=fRFligT-C8w)  
+   Link: <a href="https://www.youtube.com/watch?v=fRFligT-C8w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fRFligT-C8w</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>February 2012 Jupiter...Let&#x27;s play Stellarium! This is a free open source planetarium software available for Windows, Mac and Linux. It...</p></details>
    Published: February 2012  
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=GnVqnGka9_Q](https://www.youtube.com/watch?v=GnVqnGka9_Q)  
+   Link: <a href="https://www.youtube.com/watch?v=GnVqnGka9_Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GnVqnGka9_Q</a>  
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=q79pfO1zbbc](https://www.youtube.com/watch?v=q79pfO1zbbc)  
+   Link: <a href="https://www.youtube.com/watch?v=q79pfO1zbbc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=q79pfO1zbbc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to use Stellarium-WebLearn how to use Stellarium-Web to simulate and navigate the night sky as well as identify objects. Access Stell...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=r2_QnpTnrqE](https://www.youtube.com/watch?v=r2_QnpTnrqE)  
+   Link: <a href="https://www.youtube.com/watch?v=r2_QnpTnrqE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=r2_QnpTnrqE</a>  
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=hwUa_jAXESo](https://www.youtube.com/watch?v=hwUa_jAXESo)  
+   Link: <a href="https://www.youtube.com/watch?v=hwUa_jAXESo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hwUa_jAXESo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>star chart Night Sky wall art DIY project...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: space.com  
-   Link: [https://www.space.com/best-stargazing-apps](https://www.space.com/best-stargazing-apps)  
+   Link: <a href="https://www.space.com/best-stargazing-apps" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/best-stargazing-apps</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Best stargazing apps 2026: A helping hand for skywatchers21 Jan 2026 — Some stargazing apps will overlay a map of the night sky on your r...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: stellarium-labs.com  
-   Link: [https://stellarium-labs.com/stellarium-mobile-plus/](https://stellarium-labs.com/stellarium-mobile-plus/)  
+   Link: <a href="https://stellarium-labs.com/stellarium-mobile-plus/" target="_blank" rel="noopener noreferrer nofollow">https://stellarium-labs.com/stellarium-mobile-plus/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stellarium MobileStellarium Mobile combines a realistic and accurate night sky simulation with a gigantic amount of online imaging and sk...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: jpl.nasa.gov  
    Title: find planets in the sky  
-   Link: [https://www.jpl.nasa.gov/edu/resources/project/find-planets-in-the-sky/](https://www.jpl.nasa.gov/edu/resources/project/find-planets-in-the-sky/)  
+   Link: <a href="https://www.jpl.nasa.gov/edu/resources/project/find-planets-in-the-sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.jpl.nasa.gov/edu/resources/project/find-planets-in-the-sky/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Planets in the Sky – Science ProjectYour sky software may automatically detect your location and date. If not, set those by clicking the...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: How to: Find Planets in Your Old Photos  
-   Link: [https://www.youtube.com/watch?v=S6JRP_Wj4HM](https://www.youtube.com/watch?v=S6JRP_Wj4HM)  
+   Link: <a href="https://www.youtube.com/watch?v=S6JRP_Wj4HM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S6JRP_Wj4HM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stellarium: Getting started...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: Stellarium: Getting started  
-   Link: [https://www.youtube.com/watch?v=bYF7SR99ZOw](https://www.youtube.com/watch?v=bYF7SR99ZOw)  
+   Link: <a href="https://www.youtube.com/watch?v=bYF7SR99ZOw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bYF7SR99ZOw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stellarium Tutorial: How to set your location...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: Stellarium Tutorial: How to set your location  
-   Link: [https://www.youtube.com/watch?v=L-3fH51Q92k](https://www.youtube.com/watch?v=L-3fH51Q92k)  
+   Link: <a href="https://www.youtube.com/watch?v=L-3fH51Q92k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=L-3fH51Q92k</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to use Stellarium to identify stars and planets...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: How to use Stellarium to identify stars and planets  
-   Link: [https://www.youtube.com/watch?v=D-Z9yv87fN8](https://www.youtube.com/watch?v=D-Z9yv87fN8)  
+   Link: <a href="https://www.youtube.com/watch?v=D-Z9yv87fN8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=D-Z9yv87fN8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Using planetarium software to track ISS and [satellites](&amp;#123;&amp;#123; &#x27;satellites/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
    Title: Using planetarium software to track ISS and satellites  
-   Link: [https://www.youtube.com/watch?v=1U1G112t1nI](https://www.youtube.com/watch?v=1U1G112t1nI)  
+   Link: <a href="https://www.youtube.com/watch?v=1U1G112t1nI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1U1G112t1nI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Science | HowStuffWorks...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: skyatnightmagazine.com  
    Title: stellarium astronomy planetarium software how to use  
-   Link: [https://www.skyatnightmagazine.com/advice/skills/stellarium-astronomy-planetarium-software-how-to-use](https://www.skyatnightmagazine.com/advice/skills/stellarium-astronomy-planetarium-software-how-to-use)  
+   Link: <a href="https://www.skyatnightmagazine.com/advice/skills/stellarium-astronomy-planetarium-software-how-to-use" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/advice/skills/stellarium-astronomy-planetarium-software-how-to-use</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky at Night MagazineHow to install and use Stellarium astronomy software17 Jul 2020 — In general use, if you want to display the sky for...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: itu.physics.uiowa.edu  
-   Link: [https://itu.physics.uiowa.edu/labs/foundational/exploring-sky-i/using-stellarium-web](https://itu.physics.uiowa.edu/labs/foundational/exploring-sky-i/using-stellarium-web)  
+   Link: <a href="https://itu.physics.uiowa.edu/labs/foundational/exploring-sky-i/using-stellarium-web" target="_blank" rel="noopener noreferrer nofollow">https://itu.physics.uiowa.edu/labs/foundational/exploring-sky-i/using-stellarium-web</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stellarium Web | Imaging the UniverseThe &quot;Date/time window&quot; is brought up by clicking the digital clock in the bottom right hand corner o...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: stargazerslounge.com  
    Title: 397879 how can i get stellarium to match the time zone to the location  
-   Link: [https://stargazerslounge.com/topic/397879-how-can-i-get-stellarium-to-match-the-time-zone-to-the-location/](https://stargazerslounge.com/topic/397879-how-can-i-get-stellarium-to-match-the-time-zone-to-the-location/)  
+   Link: <a href="https://stargazerslounge.com/topic/397879-how-can-i-get-stellarium-to-match-the-time-zone-to-the-location/" target="_blank" rel="noopener noreferrer nofollow">https://stargazerslounge.com/topic/397879-how-can-i-get-stellarium-to-match-the-time-zone-to-the-location/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stargazers LoungeHow can I get Stellarium to match the time zone...4 Aug 2022 — In the location selector you can set custom time zone. S...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: play.google.com  
-   Link: [https://play.google.com/store/apps/details?hl=en&id=com.noctuasoftware.stellarium_free](https://play.google.com/store/apps/details?hl=en&id=com.noctuasoftware.stellarium_free)  
+   Link: <a href="https://play.google.com/store/apps/details?hl=en&amp;id=com.noctuasoftware.stellarium_free" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en&amp;id=com.noctuasoftware.stellarium_free</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Star Map - Apps on Google PlayStellarium - Star Map is a planetarium app that shows exactly what you see when you look up at the stars. I...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: cloudynights.com  
    Title: 460695 stellarium problem time does not match the sky  
-   Link: [https://www.cloudynights.com/forums/topic/460695-stellarium-problem-time-does-not-match-the-sky/](https://www.cloudynights.com/forums/topic/460695-stellarium-problem-time-does-not-match-the-sky/)  
+   Link: <a href="https://www.cloudynights.com/forums/topic/460695-stellarium-problem-time-does-not-match-the-sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.cloudynights.com/forums/topic/460695-stellarium-problem-time-does-not-match-the-sky/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stellarium problem, time does not match the sky3 May 2014 — In the location window, double check that your longitude and your longitude s...</p></details>
    Published: May 2014  
 
 32. <a id="endnote-32"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/CelestialNavigation/posts/6102513166479842/](https://www.facebook.com/groups/CelestialNavigation/posts/6102513166479842/)  
+   Link: <a href="https://www.facebook.com/groups/CelestialNavigation/posts/6102513166479842/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/CelestialNavigation/posts/6102513166479842/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stellarium app includes celestial navigation plug-inThe Stellarium map will rotate in real time with the sky at your location. Download t...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: stellarium-web.org  
-   Link: [https://stellarium-web.org/](https://stellarium-web.org/)  
+   Link: <a href="https://stellarium-web.org/" target="_blank" rel="noopener noreferrer nofollow">https://stellarium-web.org/</a>  
 
 34. <a id="endnote-34"></a>
    Source: github.com  
-   Link: [https://github.com/Stellarium/stellarium](https://github.com/Stellarium/stellarium)  
+   Link: <a href="https://github.com/Stellarium/stellarium" target="_blank" rel="noopener noreferrer nofollow">https://github.com/Stellarium/stellarium</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>StellariumStellarium is a free open source planetarium for your computer. It shows a realistic sky in 3D, just like what you see with the...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: wfyi.org  
-   Link: [https://www.wfyi.org/show/weekend-sky-report/2026-03-30/venus](https://www.wfyi.org/show/weekend-sky-report/2026-03-30/venus)  
+   Link: <a href="https://www.wfyi.org/show/weekend-sky-report/2026-03-30/venus" target="_blank" rel="noopener noreferrer nofollow">https://www.wfyi.org/show/weekend-sky-report/2026-03-30/venus</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>30 Mar 2026 — The planet Venus has been confused as an airplane, a helicopter, even a UFO. Emergency dispatchers have fielded 911 calls r...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: multiverse.ssl.berkeley.edu  
    Title: Stellarium Tutorial V2  
-   Link: [https://multiverse.ssl.berkeley.edu/Portals/0/CalendarInTheSky/Resources/Tutorials/StellariumTutorial_V2.pdf](https://multiverse.ssl.berkeley.edu/Portals/0/CalendarInTheSky/Resources/Tutorials/StellariumTutorial_V2.pdf)  
+   Link: <a href="https://multiverse.ssl.berkeley.edu/Portals/0/CalendarInTheSky/Resources/Tutorials/StellariumTutorial_V2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://multiverse.ssl.berkeley.edu/Portals/0/CalendarInTheSky/Resources/Tutorials/StellariumTutorial_V2.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tutorial6 Dec 2010 — Make sure the location is set to Uxmal, Mexico. Make sure the date and time is set to December. 21, 2012, 5:25 PM (w...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: home.ifa.hawaii.edu  
    Title: Stellarium Quick Guide 11Fall  
-   Link: [https://home.ifa.hawaii.edu/users/barnes/ast110l/StellariumQuickGuide-11Fall.pdf](https://home.ifa.hawaii.edu/users/barnes/ast110l/StellariumQuickGuide-11Fall.pdf)  
+   Link: <a href="https://home.ifa.hawaii.edu/users/barnes/ast110l/StellariumQuickGuide-11Fall.pdf" target="_blank" rel="noopener noreferrer nofollow">https://home.ifa.hawaii.edu/users/barnes/ast110l/StellariumQuickGuide-11Fall.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Guide to Using StellariumTo change the planet you are viewing from, go back to the “Location” window (quick-key “F6”) and choose from the...</p></details>
 
 ### Additional References
 
 38. <a id="endnote-38"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Astronomy/comments/4jlnls/setting_date_and_time_in_stellarium/](https://www.reddit.com/r/Astronomy/comments/4jlnls/setting_date_and_time_in_stellarium/)  
+   Link: <a href="https://www.reddit.com/r/Astronomy/comments/4jlnls/setting_date_and_time_in_stellarium/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Astronomy/comments/4jlnls/setting_date_and_time_in_stellarium/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Setting Date and Time in Stellarium: r/AstronomyHit the &#x27;F5&#x27; key to bring up the &quot;Date/Time&quot; window, or click on the Clock icon on the v...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: timeanddate.com  
-   Link: [https://www.timeanddate.com/astronomy/night/](https://www.timeanddate.com/astronomy/night/)  
+   Link: <a href="https://www.timeanddate.com/astronomy/night/" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/astronomy/night/</a>  
 
 40. <a id="endnote-40"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Astronomy/comments/1908ni3/is_there_an_astronomy_app_that_lets_me_define_my/](https://www.reddit.com/r/Astronomy/comments/1908ni3/is_there_an_astronomy_app_that_lets_me_define_my/)  
+   Link: <a href="https://www.reddit.com/r/Astronomy/comments/1908ni3/is_there_an_astronomy_app_that_lets_me_define_my/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Astronomy/comments/1908ni3/is_there_an_astronomy_app_that_lets_me_define_my/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Most of the time, I am taking Astro photos from my deck of my condo. Half the sky is not visible...</p></details>
 
 41. <a id="endnote-41"></a>
    Source: livescience.com  
    Title: 32849 7 ways to generate a great space hoax  
-   Link: [https://www.livescience.com/32849-7-ways-to-generate-a-great-space-hoax.html](https://www.livescience.com/32849-7-ways-to-generate-a-great-space-hoax.html)  
+   Link: <a href="https://www.livescience.com/32849-7-ways-to-generate-a-great-space-hoax.html" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/32849-7-ways-to-generate-a-great-space-hoax.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>7 Things Most Often Mistaken for UFOs10 Nov 2010 — The planet Venus often gets mistaken for a UFO. To viewers on Earth, the second planet...</p></details>
 
 42. <a id="endnote-42"></a>
    Source: itu.physics.uiowa.edu  
    Title: exploring sky ii star charts and stellarium  
-   Link: [https://itu.physics.uiowa.edu/labs/foundational/exploring-sky-ii-star-charts-and-stellarium](https://itu.physics.uiowa.edu/labs/foundational/exploring-sky-ii-star-charts-and-stellarium)  
+   Link: <a href="https://itu.physics.uiowa.edu/labs/foundational/exploring-sky-ii-star-charts-and-stellarium" target="_blank" rel="noopener noreferrer nofollow">https://itu.physics.uiowa.edu/labs/foundational/exploring-sky-ii-star-charts-and-stellarium</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the Sky II - Star Charts and StellariumThese charts and programs also help convey important terms and concepts such as the celestial equa...</p></details>
 
 43. <a id="endnote-43"></a>
    Source: caoimhinscontent.ie  
    Title: The Basics of Stellarium and How to Use It  
-   Link: [https://caoimhinscontent.ie/2024/09/10/the-basics-of-stellarium-and-how-to-use-it/](https://caoimhinscontent.ie/2024/09/10/the-basics-of-stellarium-and-how-to-use-it/)  
+   Link: <a href="https://caoimhinscontent.ie/2024/09/10/the-basics-of-stellarium-and-how-to-use-it/" target="_blank" rel="noopener noreferrer nofollow">https://caoimhinscontent.ie/2024/09/10/the-basics-of-stellarium-and-how-to-use-it/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Caoimhín&#x27;s Content10 Sept 2024 — The time settings here decide the time shown at startup, I just use the system time and date as I&#x27;m look...</p></details>
 
 44. <a id="endnote-44"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/askastronomy/comments/ik27z2/is_it_possible_to_know_what_the_night_sky_looked/](https://www.reddit.com/r/askastronomy/comments/ik27z2/is_it_possible_to_know_what_the_night_sky_looked/)  
+   Link: <a href="https://www.reddit.com/r/askastronomy/comments/ik27z2/is_it_possible_to_know_what_the_night_sky_looked/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askastronomy/comments/ik27z2/is_it_possible_to_know_what_the_night_sky_looked/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>s you add custom text etc. They come out quite nice, I&#x27;ve been...</p></details>
 
 45. <a id="endnote-45"></a>
    Source: adlerplanetarium.org  
    Title: how to identify planets  
-   Link: [https://www.adlerplanetarium.org/blog/how-to-identify-planets/](https://www.adlerplanetarium.org/blog/how-to-identify-planets/)  
+   Link: <a href="https://www.adlerplanetarium.org/blog/how-to-identify-planets/" target="_blank" rel="noopener noreferrer nofollow">https://www.adlerplanetarium.org/blog/how-to-identify-planets/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In The Night Sky17 Mar 2025 — Mercury, Venus, Mars, Jupiter, and Saturn are the five brightest planets in our night sky. Venus is bright...</p></details>
 
 46. <a id="endnote-46"></a>
    Source: skyatnightmagazine.com  
-   Link: [https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos](https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos)  
+   Link: <a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky at Night Magazine17 things commonly mistaken for UFOsSeen either before sunrise or after sunset, Venus is so bright it&#x27;s often mistak...</p></details>
 
 47. <a id="endnote-47"></a>
    Source: wral.com  
    Title: ufo no it s venus  
-   Link: [https://www.wral.com/story/ufo-no-it-s-venus/20716858/](https://www.wral.com/story/ufo-no-it-s-venus/20716858/)  
+   Link: <a href="https://www.wral.com/story/ufo-no-it-s-venus/20716858/" target="_blank" rel="noopener noreferrer nofollow">https://www.wral.com/story/ufo-no-it-s-venus/20716858/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>WRAL NewsUFO? No, It&#x27;s Venus12 Feb 2023 — [Bright Venus](&amp;#123;&amp;#123; &#x27;bright-venus/&#x27; | relative_url &amp;#125;&amp;#125;) has a long history of being mistaken for a star, airplane, satellite, or even a UF...</p></details>

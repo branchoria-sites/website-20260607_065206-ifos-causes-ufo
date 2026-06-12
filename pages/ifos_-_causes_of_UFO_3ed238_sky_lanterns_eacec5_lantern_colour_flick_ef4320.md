@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5_mod_lantern_surge_aa96ee
 - ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5_wind_drift_lanterns_471c10
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - lanterns
 - colour-clues
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - lanterns
 - colour-clues
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Warm orange colour, flame flicker and uneven fading are often the strongest clues that a mysterious night light was a sky lantern.
 hero_summary: Warm orange colour, flame flicker and uneven fading are often the strongest clues that a mysterious night light was a sky lantern.
 layout: default
 permalink: /colour-clues/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /lanterns/
 nav_short_title: Colour clues
 title: Why orange UFO lights often flicker and fade
-title_full: Why orange UFO lights often flicker and fade | Lanterns
+title_full: Why orange UFO lights often flicker and fade
 display_title_short: Colour clues
 display_title: Colour clues
 heading_title: Why orange UFO lights often flicker and fade
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 03:53:09'
-parent_title: The Orange Lights That Start UFO Reports | IFOs
+parent_title: The Orange Lights That Start UFO Reports
 parent_permalink: /lanterns/
 parent_nav_short_title: Lanterns
 parent_heading_title: The Orange Lights That Start UFO Reports
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5
-  title: Lanterns | Ifos Causes Of
+  title: Lanterns | ifos causes of UFO 3 ed 238
   permalink: /lanterns/
   short_title: Lanterns
   heading_title: The Orange Lights That Start UFO Reports
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5
-  title: Lanterns | Ifos Causes Of
+  title: Lanterns | ifos causes of UFO 3 ed 238
   permalink: /lanterns/
   short_title: Lanterns
   heading_title: The Orange Lights That Start UFO Reports
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: Why lanterns seem to move under control
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5
-  title: Lanterns | Ifos Causes Of
+  title: Lanterns | ifos causes of UFO 3 ed 238
   permalink: /lanterns/
   short_title: Lanterns
   heading_title: The Orange Lights That Start UFO Reports
@@ -260,6 +259,7 @@ next_link:
   permalink: /flare-confusion/
   short_title: Flare confusion
   heading_title: Why lanterns can look like distress flares
+date: '2026-06-12 00:20:04 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5_lantern_colour_flick_ef4320-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5_lantern_colour_flick_ef4320-Illustration-1.webp
@@ -270,7 +270,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5_lantern_co
 
 Many night-time UFO reports begin with a single orange light that appears steady and solid at first glance. On closer examination, however, the colour and brightness behaviour often provide some of the strongest clues that the object was a sky lantern rather than a structured craft. A lantern is illuminated by an open flame suspended beneath a paper envelope. Because the observer usually sees the glow of that flame rather than a reflective surface or electric light source, the object tends to appear warm orange, amber or red-orange rather than pure white. The same flame also flickers, causing brightness changes that witnesses may interpret as pulsing, signalling or controlled manoeuvring. When the fuel weakens, the light fades unevenly and may seem to vanish mysteriously. These colour and brightness effects are among the most reliable visual signatures of lantern-related UFO reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Sky_lantern" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sky lantern</span><span class="citation-popover-snippet">Sky lantern</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spacecentre.co.uk/news/space-now-blog/what-was-that-bright-light-in-the-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spacecentre.co.uk">[National Space Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spacecentre.co.uk</span><span class="citation-popover-title">what was that bright light in the sky</span><span class="citation-popover-snippet">National Space CentreWhat was that bright light in the sky?31 Jan 2023 — Sometimes you might notice the flickering light and occasionally...</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5_lantern_colour_flick_ef4320-Illustration-1-dark.svg" | relative_url }}" alt="Colour clues illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5_lantern_colour_flick_ef4320-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5_lantern_colour_flick_ef4320-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why lanterns glow orange instead of white
 
@@ -280,15 +279,13 @@ This colour matters because witnesses often expect distant [aircraft lights]({{ 
 
 The effect becomes stronger with distance. From far away, the paper body of the lantern is invisible, leaving only a glowing point. The eye may interpret that point as a solid luminous sphere rather than a flame suspended inside a paper structure. This is one reason lanterns are frequently reported as glowing “orbs” rather than as identifiable balloons. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spacecentre.co.uk/news/space-now-blog/what-was-that-bright-light-in-the-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spacecentre.co.uk">[National Space Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spacecentre.co.uk</span><span class="citation-popover-title">what was that bright light in the sky</span><span class="citation-popover-snippet">National Space CentreWhat was that bright light in the sky?31 Jan 2023 — Sometimes you might notice the flickering light and occasionally...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zmBtaeTYvmE" title="UFO Sighting Christmas Eve 2013 Belgium - Multiple Orange Glowing Lights Invasion" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zmBtaeTYvmE" target="_blank" rel="noopener noreferrer">UFO Sighting Christmas Eve 2013 Belgium - Multiple Orange Glowing Lights Invasion</a></p><p class="youtube-embed-meta">Channel: Dolph C. Volker &middot; Views: 34.0K &middot; Uploaded: December 2013 &middot; Length: 2 minutes 55 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zmBtaeTYvmE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zmBtaeTYvmE">Open on YouTube</a></p></div></div></div>
 
 ## Flicker, shimmer and pulsing mistaken for control
 
-A common feature of lantern sightings is that the brightness does not remain constant. The flame inside a lantern is affected by air currents, fuel burn rate and the movement of the lantern itself. Flames naturally flicker because of changing airflow and the unstable behaviour of buoyant combustion. Research into diffusion flames shows that flickering is an inherent property of many open flames rather than evidence of mechanical control. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1803.10400" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Flickering of buoyant diffusion flames: a vortex dynamics revisit</span><span class="citation-popover-snippet">arXivFlickering of buoyant diffusion flames: a vortex dynamics revisitMarch 28, 2018...</span><span class="citation-popover-meta">Published: March 28, 2018</span></span></span>
+A common feature of lantern sightings is that the brightness does not remain constant. The flame inside a lantern is affected by air currents, fuel burn rate and the movement of the lantern itself. Flames naturally flicker because of changing airflow and the unstable behaviour of buoyant combustion. Research into diffusion flames shows that flickering is an inherent property of many open flames rather than evidence of mechanical control. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1803.10400" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Flickering of buoyant diffusion flames: a vortex dynamics revisit</span><span class="citation-popover-snippet">Flickering of buoyant diffusion flames: a vortex dynamics revisitMarch 28, 2018...</span><span class="citation-popover-meta">Published: March 28, 2018</span></span></span>
 
 From the ground, this natural flicker can produce several misleading impressions:
-
 
 <div class="content-enhancement content-enhancement--checklist" markdown="1">
 
@@ -299,10 +296,9 @@ From the ground, this natural flicker can produce several misleading impressions
 
 </div>
 
-Witnesses sometimes interpret these changes as signs that an object is accelerating, communicating or altering power output. In reality, the apparent behaviour may come entirely from fluctuations in the flame. Community discussions of unexplained orange lights frequently identify the combination of warm colour and visible pulsing as characteristic of [sky lanterns]({{ 'lanterns/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/RBI/comments/ngoc6h/what_is_this_orange_flashing_light_in_the_sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditWhat Is This Orange Flashing Light In The Sky?: r/RBIThe flickering/pulsing and orange color makes me think sky lantern, which a n...</span></span></span>
+Witnesses sometimes interpret these changes as signs that an object is accelerating, communicating or altering power output. In reality, the apparent behaviour may come entirely from fluctuations in the flame. Community discussions of unexplained orange lights frequently identify the combination of warm colour and visible pulsing as characteristic of sky lanterns. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/RBI/comments/ngoc6h/what_is_this_orange_flashing_light_in_the_sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">What Is This Orange Flashing Light In The Sky?: r/RBIThe flickering/pulsing and orange color makes me think sky lantern, which a n...</span></span></span>
 
-Another factor is atmospheric distortion. Small variations in air density between the observer and the lantern can slightly alter the apparent brightness of a distant light. Combined with flame flicker, this can create a surprisingly dynamic appearance even when the lantern is simply drifting with the wind. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forbes.com/sites/jillianscudder/2016/08/17/astroquizzical-cause-sky-shimmer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[Forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-snippet">ForbesWhat Could Cause The Night Sky To Shimmer And Pulse...17 Aug 2016 — The flickering of the starlight comes from light bending as it...</span></span></span>
-
+Another factor is atmospheric distortion. Small variations in air density between the observer and the lantern can slightly alter the apparent brightness of a distant light. Combined with flame flicker, this can create a surprisingly dynamic appearance even when the lantern is simply drifting with the wind. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forbes.com/sites/jillianscudder/2016/08/17/astroquizzical-cause-sky-shimmer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[Forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-snippet">What Could Cause The Night Sky To Shimmer And Pulse...17 Aug 2016 — The flickering of the starlight comes from light bending as it...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5_lantern_colour_flick_ef4320-Illustration-2-dark.svg" | relative_url }}" alt="Colour clues illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5_lantern_colour_flick_ef4320-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5_lantern_colour_flick_ef4320-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How fuel burnout changes the sighting
@@ -310,7 +306,6 @@ Another factor is atmospheric distortion. Small variations in air density betwee
 The most dramatic stage of a lantern sighting often occurs near the end. A lantern remains airborne only while its fuel source continues to heat the air inside the envelope. As the fuel burns down, the flame becomes weaker and less stable. The visible glow may fade gradually, brighten briefly, then fade again before disappearing altogether. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Sky_lantern" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sky lantern</span><span class="citation-popover-snippet">Sky lantern</span></span></span>
 
 To an observer who cannot see the lantern structure, this sequence can appear highly unusual. The object may seem to:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -326,9 +321,7 @@ These effects are particularly convincing in multiple-lantern releases. Because 
 
 A further complication is that the final stages of combustion can be irregular. Small pieces of burning material may occasionally detach or the lantern may tilt slightly, causing sudden changes in brightness. Observers can interpret these brief events as manoeuvres, fragmentation or changes in propulsion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spacecentre.co.uk/news/space-now-blog/what-was-that-bright-light-in-the-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spacecentre.co.uk">[National Space Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spacecentre.co.uk</span><span class="citation-popover-title">what was that bright light in the sky</span><span class="citation-popover-snippet">National Space CentreWhat was that bright light in the sky?31 Jan 2023 — Sometimes you might notice the flickering light and occasionally...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/raAGENs_LEU" title="sky lanterns on fire and dripping burning wax over barga italy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=raAGENs_LEU" target="_blank" rel="noopener noreferrer">sky lanterns on fire and dripping burning wax over barga italy</a></p><p class="youtube-embed-meta">Channel: barganews &middot; Views: 1.3K &middot; Uploaded: September 2010 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=raAGENs_LEU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=raAGENs_LEU">Open on YouTube</a></p></div></div></div>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SOq9u0FUeNQ" title="⟹ How to light a sky lantern, This is how to send up a sky lantern!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SOq9u0FUeNQ" target="_blank" rel="noopener noreferrer">⟹ How to light a sky lantern, This is how to send up a sky lantern!</a></p><p class="youtube-embed-meta">Channel: Heirloom Reviews &middot; Views: 28.9K &middot; Uploaded: August 2019 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SOq9u0FUeNQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SOq9u0FUeNQ">Open on YouTube</a></p></div></div></div>
 
@@ -337,7 +330,6 @@ A further complication is that the final stages of combustion can be irregular. 
 Among the many visual characteristics associated with lantern-related UFO reports, colour and brightness behaviour are often the most revealing. A warm orange glow, a living flame-like flicker, and a gradual uneven fade fit the expected behaviour of a lantern remarkably well. By contrast, electrically lit aircraft, satellites and many other conventional aerial objects usually produce steadier illumination patterns.
 
 For investigators and witnesses alike, the key question is not simply whether an unexplained light was orange. It is whether the light behaved like a flame: fluctuating subtly, shimmering with air currents, and eventually fading as its fuel source was exhausted. When those features occur together, they provide a strong indication that a seemingly mysterious UFO may have been a drifting sky lantern. National Space Centre <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Sky_lantern" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sky lantern</span><span class="citation-popover-snippet">Sky lantern</span></span></span>
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5_lantern_colour_flick_ef4320-Illustration-3-dark.svg" | relative_url }}" alt="Colour clues illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5_lantern_colour_flick_ef4320-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5_lantern_colour_flick_ef4320-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -458,15 +450,15 @@ For investigators and witnesses alike, the key question is not simply whether an
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colour-clues-why-orange-ufo-lights-often-flicker-and-fade-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="colour-clues-why-orange-ufo-lights-often-flicker-and-fade-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-orange-ufo-lights-often-flicker-and-fade-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="why-orange-ufo-lights-often-flicker-and-fade-sky-lantern" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 30cm White Paper Lampshade Ceiling Light Pendant Lamp Shade Ball Lantern Decor"><img src="https://i.ebayimg.com/images/g/ITYAAeSwb-JqDJQP/s-l225.jpg" alt="Listing image for 30cm White Paper Lampshade Ceiling Light Pendant Lamp Shade Ball Lantern Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colour-clues-why-orange-ufo-lights-often-flicker-and-fade-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="colour-clues-why-orange-ufo-lights-often-flicker-and-fade-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-orange-ufo-lights-often-flicker-and-fade-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="why-orange-ufo-lights-often-flicker-and-fade-sky-lantern" target="_blank" rel="sponsored noopener noreferrer">30cm White Paper Lampshade Ceiling Light Pendant Lamp Shade Ball Lantern Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colour-clues-why-orange-ufo-lights-often-flicker-and-fade-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="colour-clues-why-orange-ufo-lights-often-flicker-and-fade-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-orange-ufo-lights-often-flicker-and-fade-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="why-orange-ufo-lights-often-flicker-and-fade-sky-lantern" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sky lantern">Search <span data-ebay-domain-label>eBay.co.uk</span>: sky lantern</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colour-clues-why-orange-ufo-lights-often-flicker-and-fade-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="colour-clues-why-orange-ufo-lights-often-flicker-and-fade-ifos-causes-of-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-orange-ufo-lights-often-flicker-and-fade-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="why-orange-ufo-lights-often-flicker-and-fade-sky-lantern" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -474,15 +466,15 @@ For investigators and witnesses alike, the key question is not simply whether an
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colour-clues-why-orange-ufo-lights-often-flicker-and-fade-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="colour-clues-why-orange-ufo-lights-often-flicker-and-fade-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-orange-ufo-lights-often-flicker-and-fade-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="why-orange-ufo-lights-often-flicker-and-fade-sky-lantern" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for sky pod rooflight ,Bi fold doors and roof lanterns. FAST delivery times"><img src="https://i.ebayimg.com/images/g/mgoAAOSwd7FmDWeJ/s-l225.jpg" alt="Listing image for sky pod rooflight ,Bi fold doors and roof lanterns. FAST delivery times" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colour-clues-why-orange-ufo-lights-often-flicker-and-fade-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="colour-clues-why-orange-ufo-lights-often-flicker-and-fade-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-orange-ufo-lights-often-flicker-and-fade-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="why-orange-ufo-lights-often-flicker-and-fade-sky-lantern" target="_blank" rel="sponsored noopener noreferrer">sky pod rooflight ,Bi fold doors and roof lanterns. FAST delivery times</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colour-clues-why-orange-ufo-lights-often-flicker-and-fade-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="colour-clues-why-orange-ufo-lights-often-flicker-and-fade-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-orange-ufo-lights-often-flicker-and-fade-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="why-orange-ufo-lights-often-flicker-and-fade-sky-lantern" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sky lantern">Search <span data-ebay-domain-label>eBay.co.uk</span>: sky lantern</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colour-clues-why-orange-ufo-lights-often-flicker-and-fade-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="colour-clues-why-orange-ufo-lights-often-flicker-and-fade-ifos-causes-of-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-orange-ufo-lights-often-flicker-and-fade-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="why-orange-ufo-lights-often-flicker-and-fade-sky-lantern" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -490,15 +482,15 @@ For investigators and witnesses alike, the key question is not simply whether an
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colour-clues-why-orange-ufo-lights-often-flicker-and-fade-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="colour-clues-why-orange-ufo-lights-often-flicker-and-fade-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo"><img src="{{ '/assets/images/marketplace-covers/338af33276410882a5b1.jpg' | relative_url }}" alt="Listing image for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-orange-ufo-lights-often-flicker-and-fade-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="why-orange-ufo-lights-often-flicker-and-fade-sky-lantern" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mardome Rooflight Glass Sky Light Flat Roof Lantern Window Grey Frame Skylight"><img src="https://i.ebayimg.com/images/g/Sv8AAOSwKAFeUAPw/s-l225.jpg" alt="Listing image for Mardome Rooflight Glass Sky Light Flat Roof Lantern Window Grey Frame Skylight" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colour-clues-why-orange-ufo-lights-often-flicker-and-fade-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="colour-clues-why-orange-ufo-lights-often-flicker-and-fade-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-orange-ufo-lights-often-flicker-and-fade-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="why-orange-ufo-lights-often-flicker-and-fade-sky-lantern" target="_blank" rel="sponsored noopener noreferrer">Mardome Rooflight Glass Sky Light Flat Roof Lantern Window Grey Frame Skylight</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colour-clues-why-orange-ufo-lights-often-flicker-and-fade-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="colour-clues-why-orange-ufo-lights-often-flicker-and-fade-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-orange-ufo-lights-often-flicker-and-fade-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="why-orange-ufo-lights-often-flicker-and-fade-sky-lantern" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sky lantern">Search <span data-ebay-domain-label>eBay.co.uk</span>: sky lantern</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colour-clues-why-orange-ufo-lights-often-flicker-and-fade-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="colour-clues-why-orange-ufo-lights-often-flicker-and-fade-ifos-causes-of-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-orange-ufo-lights-often-flicker-and-fade-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="why-orange-ufo-lights-often-flicker-and-fade-sky-lantern" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -506,15 +498,15 @@ For investigators and witnesses alike, the key question is not simply whether an
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colour-clues-why-orange-ufo-lights-often-flicker-and-fade-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="colour-clues-why-orange-ufo-lights-often-flicker-and-fade-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for U/ROCK BAND SPACE SHIP IRON OR SEW ON QUALITY EMBROIDERED PATCH UK SELLER/UFO"><img src="{{ '/assets/images/marketplace-covers/fc0f59ffafe53c3f0099.jpg' | relative_url }}" alt="Listing image for U/ROCK BAND SPACE SHIP IRON OR SEW ON QUALITY EMBROIDERED PATCH UK SELLER/UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-orange-ufo-lights-often-flicker-and-fade-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="why-orange-ufo-lights-often-flicker-and-fade-sky-lantern" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for sky pod rooflight ,Bi fold doors and roof lanterns. FAST delivery times HUG"><img src="https://i.ebayimg.com/images/g/M7IAAOSwrORbhrZx/s-l225.jpg" alt="Listing image for sky pod rooflight ,Bi fold doors and roof lanterns. FAST delivery times HUG" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colour-clues-why-orange-ufo-lights-often-flicker-and-fade-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="colour-clues-why-orange-ufo-lights-often-flicker-and-fade-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">U/ROCK BAND SPACE SHIP IRON OR SEW ON QUALITY EMBROIDERED PATCH UK SELLER/UFO</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-orange-ufo-lights-often-flicker-and-fade-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="why-orange-ufo-lights-often-flicker-and-fade-sky-lantern" target="_blank" rel="sponsored noopener noreferrer">sky pod rooflight ,Bi fold doors and roof lanterns. FAST delivery times HUG</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colour-clues-why-orange-ufo-lights-often-flicker-and-fade-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="colour-clues-why-orange-ufo-lights-often-flicker-and-fade-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-orange-ufo-lights-often-flicker-and-fade-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="why-orange-ufo-lights-often-flicker-and-fade-sky-lantern" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sky lantern">Search <span data-ebay-domain-label>eBay.co.uk</span>: sky lantern</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colour-clues-why-orange-ufo-lights-often-flicker-and-fade-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="colour-clues-why-orange-ufo-lights-often-flicker-and-fade-ifos-causes-of-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-orange-ufo-lights-often-flicker-and-fade-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="why-orange-ufo-lights-often-flicker-and-fade-sky-lantern" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -522,7 +514,7 @@ For investigators and witnesses alike, the key question is not simply whether an
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colour-clues-why-orange-ufo-lights-often-flicker-and-fade-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="colour-clues-why-orange-ufo-lights-often-flicker-and-fade-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=sky+lantern&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-orange-ufo-lights-often-flicker-and-fade-sky-lantern&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sky lantern" data-ebay-reference="why-orange-ufo-lights-often-flicker-and-fade-sky-lantern" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -738,112 +730,112 @@ For investigators and witnesses alike, the key question is not simply whether an
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Sky lantern  
-   Link: [https://en.wikipedia.org/wiki/Sky_lantern](https://en.wikipedia.org/wiki/Sky_lantern)  
+   Link: <a href="https://en.wikipedia.org/wiki/Sky_lantern" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sky_lantern</a>  
 
 2. <a id="endnote-2"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: [https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf](https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reports 2009 for MoD website-Edited12 Jan 2009 — 14-Nov-09. 23:30. Ellesmere Port. Wirral. Seven to eight bright orange flame lights in t...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
    Title: arXiv Flickering of buoyant diffusion flames: a vortex dynamics revisit  
-   Link: [https://arxiv.org/abs/1803.10400](https://arxiv.org/abs/1803.10400)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivFlickering of buoyant diffusion flames: a vortex dynamics revisitMarch 28, 2018...</p></details>
+   Link: <a href="https://arxiv.org/abs/1803.10400" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1803.10400</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Flickering of buoyant diffusion flames: a vortex dynamics revisitMarch 28, 2018...</p></details>
    Published: March 28, 2018  
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv Flickering Buoyant Diffusion Flames in Weakly Rotatory Flows  
-   Link: [https://arxiv.org/abs/2208.09278](https://arxiv.org/abs/2208.09278)  
+   Link: <a href="https://arxiv.org/abs/2208.09278" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2208.09278</a>  
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2303.15789](https://arxiv.org/abs/2303.15789)  
+   Link: <a href="https://arxiv.org/abs/2303.15789" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2303.15789</a>  
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/RBI/comments/ngoc6h/what_is_this_orange_flashing_light_in_the_sky/](https://www.reddit.com/r/RBI/comments/ngoc6h/what_is_this_orange_flashing_light_in_the_sky/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditWhat Is This Orange Flashing Light In The Sky?: r/RBIThe flickering/pulsing and orange color makes me think sky lantern, which a n...</p></details>
+   Link: <a href="https://www.reddit.com/r/RBI/comments/ngoc6h/what_is_this_orange_flashing_light_in_the_sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/RBI/comments/ngoc6h/what_is_this_orange_flashing_light_in_the_sky/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>What Is This Orange Flashing Light In The Sky?: r/RBIThe flickering/pulsing and orange color makes me think sky lantern, which a n...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: forbes.com  
-   Link: [https://www.forbes.com/sites/jillianscudder/2016/08/17/astroquizzical-cause-sky-shimmer/](https://www.forbes.com/sites/jillianscudder/2016/08/17/astroquizzical-cause-sky-shimmer/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ForbesWhat Could Cause The Night Sky To Shimmer And Pulse...17 Aug 2016 — The flickering of the starlight comes from light bending as it...</p></details>
+   Link: <a href="https://www.forbes.com/sites/jillianscudder/2016/08/17/astroquizzical-cause-sky-shimmer/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/jillianscudder/2016/08/17/astroquizzical-cause-sky-shimmer/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>What Could Cause The Night Sky To Shimmer And Pulse...17 Aug 2016 — The flickering of the starlight comes from light bending as it...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: meetings.westoxon.gov.uk  
-   Link: [https://meetings.westoxon.gov.uk/Data/Environment%20Overview%20and%20Scrutiny%20Committee/201712071400/Agenda/ECP5MV2b2bZXd0DWhXs2fA3Y680.pdf](https://meetings.westoxon.gov.uk/Data/Environment%20Overview%20and%20Scrutiny%20Committee/201712071400/Agenda/ECP5MV2b2bZXd0DWhXs2fA3Y680.pdf)  
+   Link: <a href="https://meetings.westoxon.gov.uk/Data/Environment%20Overview%20and%20Scrutiny%20Committee/201712071400/Agenda/ECP5MV2b2bZXd0DWhXs2fA3Y680.pdf" target="_blank" rel="noopener noreferrer nofollow">https://meetings.westoxon.gov.uk/Data/Environment%20Overview%20and%20Scrutiny%20Committee/201712071400/Agenda/ECP5MV2b2bZXd0DWhXs2fA3Y680.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>lanterns and helium balloons: an assessment of...-One major incident (fire was set most probably by a sky lantern on the waste paper sto...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/newzealand/comments/14za96m/what_were_these_giant_orange_spheres_crossing_the/](https://www.reddit.com/r/newzealand/comments/14za96m/what_were_these_giant_orange_spheres_crossing_the/)  
+   Link: <a href="https://www.reddit.com/r/newzealand/comments/14za96m/what_were_these_giant_orange_spheres_crossing_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/newzealand/comments/14za96m/what_were_these_giant_orange_spheres_crossing_the/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>a wind change, a lantern may cause a building fire or wildfire.Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: hwb.gov.wales  
-   Link: [https://hwb.gov.wales/api/storage/6f1582f4-be69-40eb-99bf-99c8a799f47a/Task%2090%20Sky%20lanterns%202.pdf](https://hwb.gov.wales/api/storage/6f1582f4-be69-40eb-99bf-99c8a799f47a/Task%2090%20Sky%20lanterns%202.pdf)  
+   Link: <a href="https://hwb.gov.wales/api/storage/6f1582f4-be69-40eb-99bf-99c8a799f47a/Task%2090%20Sky%20lanterns%202.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hwb.gov.wales/api/storage/6f1582f4-be69-40eb-99bf-99c8a799f47a/Task%2090%20Sky%20lanterns%202.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>lanterns (2)Light the fuel cell and continue to hold as it fills with hot air. Note that it will not launch immediately;. • After about 1...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: spacecentre.co.uk  
    Title: what was that bright light in the sky  
-   Link: [https://www.spacecentre.co.uk/news/space-now-blog/what-was-that-bright-light-in-the-sky/](https://www.spacecentre.co.uk/news/space-now-blog/what-was-that-bright-light-in-the-sky/)  
+   Link: <a href="https://www.spacecentre.co.uk/news/space-now-blog/what-was-that-bright-light-in-the-sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.spacecentre.co.uk/news/space-now-blog/what-was-that-bright-light-in-the-sky/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National Space CentreWhat was that bright light in the sky?31 Jan 2023 — Sometimes you might notice the flickering light and occasionally...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: instructables.com  
-   Link: [https://www.instructables.com/Physic-behind-sky-lanterns/](https://www.instructables.com/Physic-behind-sky-lanterns/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>InstructablesPhysic Behind Sky Lanterns: 15 StepsLanterns fly on the principle of lift in the air. By heating the air in the lantern, ai...</p></details>
+   Link: <a href="https://www.instructables.com/Physic-behind-sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://www.instructables.com/Physic-behind-sky-lanterns/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Physic Behind Sky Lanterns: 15 StepsLanterns fly on the principle of lift in the air. By heating the air in the lantern, ai...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DSO0I5XiOLy/?hl=en](https://www.instagram.com/reel/DSO0I5XiOLy/?hl=en)  
+   Link: <a href="https://www.instagram.com/reel/DSO0I5XiOLy/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DSO0I5XiOLy/?hl=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Surprising Reason Sky Lanterns Fall DownYou may have seen videos of thousands of lanterns released into the sky. But as the fuel burn...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/440663706501448/posts/1963794837521653/](https://www.facebook.com/groups/440663706501448/posts/1963794837521653/)  
+   Link: <a href="https://www.facebook.com/groups/440663706501448/posts/1963794837521653/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/440663706501448/posts/1963794837521653/</a>  
 
 15. <a id="endnote-15"></a>
    Source: nightskylanterns.co.uk  
-   Link: [https://www.nightskylanterns.co.uk/](https://www.nightskylanterns.co.uk/)  
+   Link: <a href="https://www.nightskylanterns.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.nightskylanterns.co.uk/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>We are here to help you add a touch of magic to your events, parties, and any special day or night.Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
    Title: Did you see the weird orange lights falling out of the sky?  
-   Link: [https://www.facebook.com/ThurstonCoScanner/posts/did-you-see-the-weird-orange-lights-falling-out-of-the-sky-we-believe-these-are-/883990996862496/](https://www.facebook.com/ThurstonCoScanner/posts/did-you-see-the-weird-orange-lights-falling-out-of-the-sky-we-believe-these-are-/883990996862496/)  
+   Link: <a href="https://www.facebook.com/ThurstonCoScanner/posts/did-you-see-the-weird-orange-lights-falling-out-of-the-sky-we-believe-these-are-/883990996862496/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThurstonCoScanner/posts/did-you-see-the-weird-orange-lights-falling-out-of-the-sky-we-believe-these-are-/883990996862496/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Did anyone see the bright orange thing in the sky tonight..it had 3 rows of flashing lights.then a massive orange burning flame behind i...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: waste4change.com  
    Title: But do you ever think of the damage they caused?  
-   Link: [https://waste4change.com/blog/rethinking-the-celebration-the-not-so-beautiful-aftermath-of-sky-lanterns-and-balloons/](https://waste4change.com/blog/rethinking-the-celebration-the-not-so-beautiful-aftermath-of-sky-lanterns-and-balloons/)  
+   Link: <a href="https://waste4change.com/blog/rethinking-the-celebration-the-not-so-beautiful-aftermath-of-sky-lanterns-and-balloons/" target="_blank" rel="noopener noreferrer nofollow">https://waste4change.com/blog/rethinking-the-celebration-the-not-so-beautiful-aftermath-of-sky-lanterns-and-balloons/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Rethinking The Celebration: Aftermath of Sky Lanterns and...7 Dec 2020 — Sky lanterns and balloons might be beautiful to look at when th...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: epicfireworks.com  
-   Link: [https://epicfireworks.com/blogs/news/a-journey-through-the-history-and-meaning-of-sky-lanterns](https://epicfireworks.com/blogs/news/a-journey-through-the-history-and-meaning-of-sky-lanterns)  
+   Link: <a href="https://epicfireworks.com/blogs/news/a-journey-through-the-history-and-meaning-of-sky-lanterns" target="_blank" rel="noopener noreferrer nofollow">https://epicfireworks.com/blogs/news/a-journey-through-the-history-and-meaning-of-sky-lanterns</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The History and Meaning of Sky Lanterns: From Ancient...5 May 2025 — They represent unity, happiness, and a shared moment of wonder bene...</p></details>
    Published: May 2025  
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
    Title: Sky lanterns don't disappear when they fall  
-   Link: [https://www.facebook.com/powwowscom/posts/sky-lanterns-dont-disappear-when-they-fall-they-land-burn-tangle-or-injure-wildl/1427192082111111/](https://www.facebook.com/powwowscom/posts/sky-lanterns-dont-disappear-when-they-fall-they-land-burn-tangle-or-injure-wildl/1427192082111111/)  
+   Link: <a href="https://www.facebook.com/powwowscom/posts/sky-lanterns-dont-disappear-when-they-fall-they-land-burn-tangle-or-injure-wildl/1427192082111111/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/powwowscom/posts/sky-lanterns-dont-disappear-when-they-fall-they-land-burn-tangle-or-injure-wildl/1427192082111111/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>They land...The lanterns I buy are made with bamboo and don&#x27;t use any metal at all and when they land back on the ground there is no bas...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/587276468104826/posts/3159216757577438/](https://www.facebook.com/groups/587276468104826/posts/3159216757577438/)  
+   Link: <a href="https://www.facebook.com/groups/587276468104826/posts/3159216757577438/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/587276468104826/posts/3159216757577438/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>n, the other is original. It was moving at a fairly slow speed...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: canadalightshop.ca  
-   Link: [https://canadalightshop.ca/blogs/resources/sky-candle-lanterns-guide?srsltid=AfmBOoo3zRwAEReh17avjKoP7GFwtR1IrCfNWSCz3CItFaBPVSYUT9t_](https://canadalightshop.ca/blogs/resources/sky-candle-lanterns-guide?srsltid=AfmBOoo3zRwAEReh17avjKoP7GFwtR1IrCfNWSCz3CItFaBPVSYUT9t_)  
+   Link: <a href="https://canadalightshop.ca/blogs/resources/sky-candle-lanterns-guide?srsltid=AfmBOoo3zRwAEReh17avjKoP7GFwtR1IrCfNWSCz3CItFaBPVSYUT9t_" target="_blank" rel="noopener noreferrer nofollow">https://canadalightshop.ca/blogs/resources/sky-candle-lanterns-guide?srsltid=AfmBOoo3zRwAEReh17avjKoP7GFwtR1IrCfNWSCz3CItFaBPVSYUT9t_</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky Candle Lanterns: Safe Use &amp; Eco-Friendly Alternatives26 Jun 2025 — Once the fuel burns out, the air inside cools down, and the lanter...</p></details>

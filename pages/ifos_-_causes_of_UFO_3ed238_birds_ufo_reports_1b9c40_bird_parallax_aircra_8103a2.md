@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_migrating_flocks_str_882181
 - ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_pelican_glints_ufo_8026ee
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - birds
 - parallax
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - birds
 - parallax
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: A nearby bird can seem to race across video when the camera platform is moving faster than the object itself.
 hero_summary: A nearby bird can seem to race across video when the camera platform is moving faster than the object itself.
 layout: default
 permalink: /parallax-a7662a/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /birds/
 nav_short_title: Parallax
 title: Why Nearby Birds Can Look Impossibly Fast
-title_full: Why Nearby Birds Can Look Impossibly Fast | Birds
+title_full: Why Nearby Birds Can Look Impossibly Fast
 display_title_short: Parallax
 display_title: Parallax
 heading_title: Why Nearby Birds Can Look Impossibly Fast
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 07:56:16'
-parent_title: How Birds Become Fast UFOs | IFOs
+parent_title: How Birds Become Fast UFOs
 parent_permalink: /birds/
 parent_nav_short_title: Birds
 parent_heading_title: How Birds Become Fast UFOs
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40
-  title: Birds | Ifos Causes Of
+  title: Birds | ifos causes of UFO 3 ed 238
   permalink: /birds/
   short_title: Birds
   heading_title: How Birds Become Fast UFOs
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40
-  title: Birds | Ifos Causes Of
+  title: Birds | ifos causes of UFO 3 ed 238
   permalink: /birds/
   short_title: Birds
   heading_title: How Birds Become Fast UFOs
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: Can Pelicans Look Like Silver Discs?
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40
-  title: Birds | Ifos Causes Of
+  title: Birds | ifos causes of UFO 3 ed 238
   permalink: /birds/
   short_title: Birds
   heading_title: How Birds Become Fast UFOs
@@ -266,6 +265,7 @@ next_link:
   permalink: /pelican-glints/
   short_title: Pelican glints
   heading_title: Can Pelicans Look Like Silver Discs?
+date: '2026-06-12 00:42:09 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_bird_parallax_aircra_8103a2-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_bird_parallax_aircra_8103a2-Illustration-1.webp
@@ -275,7 +275,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_bird_
 ## Introduction
 
 One of the most important mechanisms behind “impossibly fast” UFO videos is not extraordinary acceleration but ordinary geometry. When a camera is mounted on a moving aircraft, nearby objects can appear to race across the image while distant objects seem almost stationary. This effect, known as motion parallax, is a fundamental principle of visual perception and aviation. A bird travelling at normal speed can therefore appear to outrun aircraft, skim across the ocean at hundreds of miles per hour, or execute startling lateral movements that seem inconsistent with known flight. The illusion becomes especially powerful when footage lacks reliable distance information, as is common in [infrared]({{ 'infrared/' | relative_url }}) videos, zoomed imagery, and military sensor recordings. Aviation safety literature, visual perception research, and modern UAP investigations all recognise that motion parallax can produce large errors in speed estimation when observers do not know an object's [range]({{ 'range/' | relative_url }}). Skybrary <span class="citation-chip-wrap"><a class="citation-chip" href="https://rosap.ntl.bts.gov/view/dot/21125" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rosap.ntl.bts.gov">[ROSA P]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rosap.ntl.bts.gov</span><span class="citation-popover-snippet">ROSA PComparison of the visual perception of a runway model in...by HW Mertens · 1978 · Cited by 16 — Relative motion parallax (a differ...</span></span></span>
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_bird_parallax_aircra_8103a2-Illustration-1-dark.svg" | relative_url }}" alt="Parallax illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_bird_parallax_aircra_8103a2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_bird_parallax_aircra_8103a2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within the broader category of birds mistaken for fast aerial objects, parallax deserves special attention because it directly addresses a common claim in UFO reports: that an object appeared to move far faster than any bird could fly. In many cases, the apparent speed is not evidence of extreme performance at all. Instead, it reflects how a nearby bird is viewed from a rapidly moving aircraft against a distant background.
@@ -302,7 +301,6 @@ A further complication is that airborne sensors frequently operate at long focal
 
 Featureless backgrounds worsen the problem. When an object is viewed against open water, haze, cloud layers, or a blank sky, the viewer loses many of the visual references normally used to estimate distance. Aviation researchers have long noted that reduced visual cues increase susceptibility to perceptual errors and visual illusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK518976/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIPhysiology Of Spatial Orientation</span><span class="citation-popover-snippet">These visual illusions are often a result of loss or...Read more...</span></span></span> Skybrary Bird sightings often occur precisely under these conditions. Seabirds <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skybrary.aero/articles/vision-oghfa-bn" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[skybrary.aero]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">If the observer is moving or if...Read more...</span></span></span>, gulls, pelicans, albatrosses, and other soaring species are regularly observed over water where horizons are distant and visual references are sparse. A bird crossing beneath a fast aircraft may therefore appear to display extraordinary motion simply because its true distance cannot be judged reliably.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cwACSrLEPeM" title="Quantum physicists analyze pentagon US navy UFO video footage" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cwACSrLEPeM" target="_blank" rel="noopener noreferrer">Quantum physicists analyze pentagon US navy UFO video footage</a></p><p class="youtube-embed-meta">Channel: NYU Quantum Technology Lab &middot; Views: 6.8K &middot; Uploaded: June 2021 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cwACSrLEPeM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cwACSrLEPeM">Open on YouTube</a></p></div></div></div>
 
 ## Why Birds Are Especially Susceptible to Misidentification
@@ -327,7 +325,6 @@ The significance of the case increased in 2024 when the U.S. Department of Defen
 
 Importantly, the lesson for bird-related UFO reports is not that GO FAST was definitively a bird. Rather, the case demonstrates how even trained observers and sophisticated sensors can create misleading impressions of speed when range information is uncertain.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_bird_parallax_aircra_8103a2-Illustration-2-dark.svg" | relative_url }}" alt="Parallax illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_bird_parallax_aircra_8103a2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_bird_parallax_aircra_8103a2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Investigators Distinguish Parallax From Genuine High-Speed Motion
 
@@ -339,15 +336,13 @@ Several clues are especially important:
 * **Strong aircraft motion.** Rapid movement of the camera platform increases parallax effects.
 * **Distant background references.** Oceans, cloud decks, and horizons magnify the apparent contrast between nearby and distant objects.
 * **Target tracking by the camera.** Stabilised tracking can conceal the role of aircraft movement.
-* **Absence of independent acceleration evidence.** A target that merely shifts position in the image is not necessarily accelerating through the air. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skybrary.aero/articles/visual-illusions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Visual Illusions | SKYbrary Aviation SafetyVisual illusions occur when the pilot&#x27;s eye is deceived into making a faulty assessment of air...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://asrs.arc.nasa.gov/publications/callback/cb_246.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asrs.arc.nasa.gov">[ASRS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asrs.arc.nasa.gov</span><span class="citation-popover-snippet">o the horizon as an aircraft moves...Read more...</span></span></span>
+* **Absence of independent acceleration evidence.** A target that merely shifts position in the image is not necessarily accelerating through the air. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skybrary.aero/articles/visual-illusions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Visual Illusions &#124; SKYbrary Aviation SafetyVisual illusions occur when the pilot&#x27;s eye is deceived into making a faulty assessment of air...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://asrs.arc.nasa.gov/publications/callback/cb_246.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asrs.arc.nasa.gov">[ASRS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asrs.arc.nasa.gov</span><span class="citation-popover-snippet">o the horizon as an aircraft moves...Read more...</span></span></span>
 
 Analysts often reconstruct geometry using aircraft position, sensor angles, altitude, and viewing direction. When these variables are known, an apparently extraordinary object can sometimes be shown to be moving at ordinary speeds.
 
 This distinction is critical because visual impressions alone are frequently misleading. NASA's Aviation Safety Reporting System and aviation safety organisations have repeatedly documented situations in which motion parallax and related visual effects caused observers to misjudge position, distance, or movement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://asrs.arc.nasa.gov/publications/callback/cb_246.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asrs.arc.nasa.gov">[ASRS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asrs.arc.nasa.gov</span><span class="citation-popover-snippet">o the horizon as an aircraft moves...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skybrary.aero/articles/vision-oghfa-bn" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">If the observer is moving or if...Read more...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aHRhxvpG-Z0" title="Motion Parallax of a Balloon or a REAL UFO sighting?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aHRhxvpG-Z0" target="_blank" rel="noopener noreferrer">Motion Parallax of a Balloon or a REAL UFO sighting?</a></p><p class="youtube-embed-meta">Channel: StarTalk &middot; Views: 1.8M &middot; Uploaded: August 2025 &middot; Length: 50 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aHRhxvpG-Z0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aHRhxvpG-Z0">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_bird_parallax_aircra_8103a2-Illustration-3-dark.svg" | relative_url }}" alt="Parallax illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_bird_parallax_aircra_8103a2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_bird_parallax_aircra_8103a2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Checks That Separate Geometry From Acceleration
 
 When evaluating a fast-looking aerial object that could be a bird, several practical questions help determine whether parallax is a plausible explanation.
@@ -362,19 +357,15 @@ Fourth, does the object show behaviour consistent with a nearby biological targe
 
 The most persuasive parallax cases are those in which reconstructed geometry successfully predicts the observed motion. If the apparent speed can be explained entirely by aircraft movement and relative distance, there is little need to invoke extreme acceleration.
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aHRhxvpG-Z0" title="Motion Parallax of a Balloon or a REAL UFO sighting?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aHRhxvpG-Z0" target="_blank" rel="noopener noreferrer">Motion Parallax of a Balloon or a REAL UFO sighting?</a></p><p class="youtube-embed-meta">Channel: StarTalk &middot; Views: 1.8M &middot; Uploaded: August 2025 &middot; Length: 50 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aHRhxvpG-Z0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aHRhxvpG-Z0">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_bird_parallax_aircra_8103a2-Illustration-3-dark.svg" | relative_url }}" alt="Parallax illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_bird_parallax_aircra_8103a2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40_bird_parallax_aircra_8103a2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Mechanism Matters in UFO Investigations
 
 Parallax from moving aircraft does not explain every unidentified aerial observation. Some cases remain unresolved because data are incomplete, contradictory, or genuinely unusual. Nevertheless, the mechanism occupies an important place in UFO analysis because it specifically addresses one of the most dramatic features often cited as evidence for anomalous craft: apparent high speed.
 
-A nearby bird viewed from a fast aircraft can appear to cross a sensor image with startling rapidity. When distance is uncertain, the observer may unconsciously convert that image motion into a belief that the object is travelling at extraordinary velocity. Aviation science, visual perception research, and modern UAP investigations all show that such conclusions can be unreliable without careful geometric reconstruction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2024/11/20/us-news/pentagon-claims-to-debunk-famous-[gofast" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">During a Congressional hearing, Dr. Jon Kosloski from the All-Domain Anomaly Resolution Office reported that the object seen moving rapid...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skybrary.aero/articles/visual-illusions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Visual Illusions | SKYbrary Aviation SafetyVisual illusions occur when the pilot&#x27;s eye is deceived into making a faulty assessment of air...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://rosap.ntl.bts.gov/view/dot/21125" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rosap.ntl.bts.gov">[ROSA P]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rosap.ntl.bts.gov</span><span class="citation-popover-snippet">ROSA PComparison of the visual perception of a runway model in...by HW Mertens · 1978 · Cited by 16 — Relative motion parallax (a differ...</span></span></span>
+A nearby bird viewed from a fast aircraft can appear to cross a sensor image with startling rapidity. When distance is uncertain, the observer may unconsciously convert that image motion into a belief that the object is travelling at extraordinary velocity. Aviation science, visual perception research, and modern UAP investigations all show that such conclusions can be unreliable without careful geometric reconstruction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2024/11/20/us-news/pentagon-claims-to-debunk-famous-[gofast" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">During a Congressional hearing, Dr. Jon Kosloski from the All-Domain Anomaly Resolution Office reported that the object seen moving rapid...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skybrary.aero/articles/visual-illusions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Visual Illusions &#124; SKYbrary Aviation SafetyVisual illusions occur when the pilot&#x27;s eye is deceived into making a faulty assessment of air...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://rosap.ntl.bts.gov/view/dot/21125" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rosap.ntl.bts.gov">[ROSA P]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rosap.ntl.bts.gov</span><span class="citation-popover-snippet">ROSA PComparison of the visual perception of a runway model in...by HW Mertens · 1978 · Cited by 16 — Relative motion parallax (a differ...</span></span></span>
 
 For that reason, any evaluation of a fast-looking UFO recorded from an aircraft must first answer a basic question: is the object truly moving at remarkable speed, or is a nearby bird merely being amplified by the powerful effects of parallax?
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IC7uIhRFlfg" title="Why do distant objects appear shorter?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IC7uIhRFlfg" target="_blank" rel="noopener noreferrer">Why do distant objects appear shorter?</a></p><p class="youtube-embed-meta">Channel: Safi Mixed</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IC7uIhRFlfg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IC7uIhRFlfg">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -493,15 +484,15 @@ For that reason, any evaluation of a fast-looking UFO recorded from an aircraft 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-a7662a-why-nearby-birds-can-look-impossibly-fast-ifos-causes-of-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="parallax-a7662a-why-nearby-birds-can-look-impossibly-fast-ifos-causes-of-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Beautiful Agoudal Iron Meteorite Specimen, Astronomy Gift, Space, 68.20g"><img src="{{ '/assets/images/marketplace-covers/085d3e7ce9a4559f8405.jpg' | relative_url }}" alt="Listing image for Beautiful Agoudal Iron Meteorite Specimen, Astronomy Gift, Space, 68.20g" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearby-birds-can-look-impossibly-fast-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-nearby-birds-can-look-impossibly-fast-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CS90636 British Airways Concorde Diecast Model - A Must-Have for Aviation Fans"><img src="https://i.ebayimg.com/images/g/io0AAeSwGgJqCyYR/s-l225.jpg" alt="Listing image for CS90636 British Airways Concorde Diecast Model - A Must-Have for Aviation Fans" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-a7662a-why-nearby-birds-can-look-impossibly-fast-ifos-causes-of-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="parallax-a7662a-why-nearby-birds-can-look-impossibly-fast-ifos-causes-of-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">Beautiful Agoudal Iron Meteorite Specimen, Astronomy Gift, Space, 68.20g</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearby-birds-can-look-impossibly-fast-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-nearby-birds-can-look-impossibly-fast-airplane-model" target="_blank" rel="sponsored noopener noreferrer">CS90636 British Airways Concorde Diecast Model - A Must-Have for Aviation Fans</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-a7662a-why-nearby-birds-can-look-impossibly-fast-ifos-causes-of-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="parallax-a7662a-why-nearby-birds-can-look-impossibly-fast-ifos-causes-of-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite specimen">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorite specimen</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearby-birds-can-look-impossibly-fast-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-nearby-birds-can-look-impossibly-fast-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-a7662a-why-nearby-birds-can-look-impossibly-fast-ifos-causes-of-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="parallax-a7662a-why-nearby-birds-can-look-impossibly-fast-ifos-causes-of-meteorite-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearby-birds-can-look-impossibly-fast-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-nearby-birds-can-look-impossibly-fast-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -509,15 +500,15 @@ For that reason, any evaluation of a fast-looking UFO recorded from an aircraft 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-a7662a-why-nearby-birds-can-look-impossibly-fast-ifos-causes-of-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="parallax-a7662a-why-nearby-birds-can-look-impossibly-fast-ifos-causes-of-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Beautiful Agoudal Iron Meteorite Specimen 22.28 grams, Astronomy Gift, Space"><img src="{{ '/assets/images/marketplace-covers/486c79127d0d1b191e87.jpg' | relative_url }}" alt="Listing image for Beautiful Agoudal Iron Meteorite Specimen 22.28 grams, Astronomy Gift, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearby-birds-can-look-impossibly-fast-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-nearby-birds-can-look-impossibly-fast-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Airbus A380 Emirates Model Plane 18in LED Light Touch Sound Control Aircraft"><img src="https://i.ebayimg.com/images/g/ofMAAeSwJe1psX3h/s-l225.jpg" alt="Listing image for Airbus A380 Emirates Model Plane 18in LED Light Touch Sound Control Aircraft" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-a7662a-why-nearby-birds-can-look-impossibly-fast-ifos-causes-of-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="parallax-a7662a-why-nearby-birds-can-look-impossibly-fast-ifos-causes-of-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">Beautiful Agoudal Iron Meteorite Specimen 22.28 grams, Astronomy Gift, Space</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearby-birds-can-look-impossibly-fast-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-nearby-birds-can-look-impossibly-fast-airplane-model" target="_blank" rel="sponsored noopener noreferrer">Airbus A380 Emirates Model Plane 18in LED Light Touch Sound Control Aircraft</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-a7662a-why-nearby-birds-can-look-impossibly-fast-ifos-causes-of-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="parallax-a7662a-why-nearby-birds-can-look-impossibly-fast-ifos-causes-of-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite specimen">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorite specimen</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearby-birds-can-look-impossibly-fast-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-nearby-birds-can-look-impossibly-fast-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-a7662a-why-nearby-birds-can-look-impossibly-fast-ifos-causes-of-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="parallax-a7662a-why-nearby-birds-can-look-impossibly-fast-ifos-causes-of-meteorite-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearby-birds-can-look-impossibly-fast-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-nearby-birds-can-look-impossibly-fast-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -525,15 +516,15 @@ For that reason, any evaluation of a fast-looking UFO recorded from an aircraft 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-a7662a-why-nearby-birds-can-look-impossibly-fast-ifos-causes-of-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="parallax-a7662a-why-nearby-birds-can-look-impossibly-fast-ifos-causes-of-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Authentic Gebel Kamil Iron Meteorite - Rare Individual Specimen w/ Certificate"><img src="{{ '/assets/images/marketplace-covers/a61ed7245f337d3c15ec.jpg' | relative_url }}" alt="Listing image for Authentic Gebel Kamil Iron Meteorite - Rare Individual Specimen w/ Certificate" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearby-birds-can-look-impossibly-fast-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-nearby-birds-can-look-impossibly-fast-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ryanair Boeing 737 Single Die Cast Toy Plane - RT0011"><img src="https://i.ebayimg.com/images/g/lbAAAOSwEH5nc7Cg/s-l225.jpg" alt="Listing image for Ryanair Boeing 737 Single Die Cast Toy Plane - RT0011" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-a7662a-why-nearby-birds-can-look-impossibly-fast-ifos-causes-of-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="parallax-a7662a-why-nearby-birds-can-look-impossibly-fast-ifos-causes-of-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">Authentic Gebel Kamil Iron Meteorite - Rare Individual Specimen w/ Certificate</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearby-birds-can-look-impossibly-fast-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-nearby-birds-can-look-impossibly-fast-airplane-model" target="_blank" rel="sponsored noopener noreferrer">Ryanair Boeing 737 Single Die Cast Toy Plane - RT0011</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-a7662a-why-nearby-birds-can-look-impossibly-fast-ifos-causes-of-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="parallax-a7662a-why-nearby-birds-can-look-impossibly-fast-ifos-causes-of-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite specimen">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorite specimen</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearby-birds-can-look-impossibly-fast-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-nearby-birds-can-look-impossibly-fast-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-a7662a-why-nearby-birds-can-look-impossibly-fast-ifos-causes-of-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="parallax-a7662a-why-nearby-birds-can-look-impossibly-fast-ifos-causes-of-meteorite-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearby-birds-can-look-impossibly-fast-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-nearby-birds-can-look-impossibly-fast-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -541,15 +532,15 @@ For that reason, any evaluation of a fast-looking UFO recorded from an aircraft 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-a7662a-why-nearby-birds-can-look-impossibly-fast-ifos-causes-of-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="parallax-a7662a-why-nearby-birds-can-look-impossibly-fast-ifos-causes-of-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lunar Meteorite NWA 8687 Genuine Moon Rock Morocco Authentic Specimen with"><img src="{{ '/assets/images/marketplace-covers/afc7ae7c85fafd0a8738.jpg' | relative_url }}" alt="Listing image for Lunar Meteorite NWA 8687 Genuine Moon Rock Morocco Authentic Specimen with" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearby-birds-can-look-impossibly-fast-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-nearby-birds-can-look-impossibly-fast-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 16CM Concorde British Airways Metal Die Cast Plane Model Aircraft Toy Aeroplane"><img src="https://i.ebayimg.com/images/g/aREAAeSw-tZqKYIQ/s-l225.jpg" alt="Listing image for 16CM Concorde British Airways Metal Die Cast Plane Model Aircraft Toy Aeroplane" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-a7662a-why-nearby-birds-can-look-impossibly-fast-ifos-causes-of-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="parallax-a7662a-why-nearby-birds-can-look-impossibly-fast-ifos-causes-of-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">Lunar Meteorite NWA 8687 Genuine Moon Rock Morocco Authentic Specimen with</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearby-birds-can-look-impossibly-fast-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-nearby-birds-can-look-impossibly-fast-airplane-model" target="_blank" rel="sponsored noopener noreferrer">16CM Concorde British Airways Metal Die Cast Plane Model Aircraft Toy Aeroplane</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-a7662a-why-nearby-birds-can-look-impossibly-fast-ifos-causes-of-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="parallax-a7662a-why-nearby-birds-can-look-impossibly-fast-ifos-causes-of-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite specimen">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorite specimen</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearby-birds-can-look-impossibly-fast-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-nearby-birds-can-look-impossibly-fast-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-a7662a-why-nearby-birds-can-look-impossibly-fast-ifos-causes-of-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="parallax-a7662a-why-nearby-birds-can-look-impossibly-fast-ifos-causes-of-meteorite-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearby-birds-can-look-impossibly-fast-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-nearby-birds-can-look-impossibly-fast-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -557,7 +548,7 @@ For that reason, any evaluation of a fast-looking UFO recorded from an aircraft 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-a7662a-why-nearby-birds-can-look-impossibly-fast-ifos-causes-of-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="parallax-a7662a-why-nearby-birds-can-look-impossibly-fast-ifos-causes-of-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nearby-birds-can-look-impossibly-fast-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-nearby-birds-can-look-impossibly-fast-airplane-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -772,122 +763,122 @@ For that reason, any evaluation of a fast-looking UFO recorded from an aircraft 
 
 1. <a id="endnote-1"></a>
    Source: skybrary.aero  
-   Link: [https://skybrary.aero/articles/vision-oghfa-bn](https://skybrary.aero/articles/vision-oghfa-bn)  
+   Link: <a href="https://skybrary.aero/articles/vision-oghfa-bn" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/vision-oghfa-bn</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>If the observer is moving or if...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: rosap.ntl.bts.gov  
-   Link: [https://rosap.ntl.bts.gov/view/dot/21125](https://rosap.ntl.bts.gov/view/dot/21125)  
+   Link: <a href="https://rosap.ntl.bts.gov/view/dot/21125" target="_blank" rel="noopener noreferrer nofollow">https://rosap.ntl.bts.gov/view/dot/21125</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ROSA PComparison of the visual perception of a runway model in...by HW Mertens · 1978 · Cited by 16 — Relative motion parallax (a differ...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: ncbi.nlm.nih.gov  
    Title: NCBIPhysiology Of Spatial Orientation  
-   Link: [https://www.ncbi.nlm.nih.gov/books/NBK518976/](https://www.ncbi.nlm.nih.gov/books/NBK518976/)  
+   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK518976/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK518976/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>These visual illusions are often a result of loss or...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: asrs.arc.nasa.gov  
-   Link: [https://asrs.arc.nasa.gov/publications/callback/cb_246.htm](https://asrs.arc.nasa.gov/publications/callback/cb_246.htm)  
+   Link: <a href="https://asrs.arc.nasa.gov/publications/callback/cb_246.htm" target="_blank" rel="noopener noreferrer nofollow">https://asrs.arc.nasa.gov/publications/callback/cb_246.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>o the horizon as an aircraft moves...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: metabunk.org  
    Title: go fast footage from tom delonges to the [stars](&#123;&#123; 'stars/' | relative_url &#125;&#125;) academy bird balloon.9569  
-   Link: [https://www.metabunk.org/threads/go-fast-footage-from-tom-delonges-to-the-stars-academy-bird-balloon.9569/](https://www.metabunk.org/threads/go-fast-footage-from-tom-delonges-to-the-stars-academy-bird-balloon.9569/)  
+   Link: <a href="https://www.metabunk.org/threads/go-fast-footage-from-tom-delonges-to-the-stars-academy-bird-balloon.9569/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/go-fast-footage-from-tom-delonges-to-the-stars-academy-bird-balloon.9569/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The bird (or other slow moving object, but I suspect a...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: leonarddavid.com  
    Title: debunking navy ufo videos  
-   Link: [https://www.leonarddavid.com/debunking-navy-ufo-videos/](https://www.leonarddavid.com/debunking-navy-ufo-videos/)  
+   Link: <a href="https://www.leonarddavid.com/debunking-navy-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/debunking-navy-ufo-videos/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking Navy “UFO” Videos30 Apr 2020 — Lastly, the GO-FAST video probably shows a balloon, West surmises. “It&#x27;s not moving fast, it&#x27;s n...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: skybrary.aero  
-   Link: [https://skybrary.aero/articles/visual-illusions](https://skybrary.aero/articles/visual-illusions)  
+   Link: <a href="https://skybrary.aero/articles/visual-illusions" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/visual-illusions</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Visual Illusions | SKYbrary Aviation SafetyVisual illusions occur when the pilot&#x27;s eye is deceived into making a faulty assessment of air...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Pentagon UFO videos  
-   Link: [https://en.wikipedia.org/wiki/Pentagon_UFO_videos](https://en.wikipedia.org/wiki/Pentagon_UFO_videos)  
+   Link: <a href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pentagon_UFO_videos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 11, 2026 — The Pentagon UFO videos are selected visual recordings of Forward-looking infrared (FLIR) targeting cameras from United St...</p></details>
    Published: May 11, 2026  
 
 9. <a id="endnote-9"></a>
    Source: metabunk.org  
    Title: "4k UFOs Video" in the Serra do Rio Rastro, in Brazil  
-   Link: [https://www.metabunk.org/threads/4k-ufos-video-in-the-serra-do-rio-rastro-in-brazil-probably-[insects](https://www.metabunk.org/threads/4k-ufos-video-in-the-serra-do-rio-rastro-in-brazil-probably-[insects)  
+   Link: <a href="https://www.metabunk.org/threads/4k-ufos-video-in-the-serra-do-rio-rastro-in-brazil-probably-[insects" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/4k-ufos-video-in-the-serra-do-rio-rastro-in-brazil-probably-[insects</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>29 May 2025 — It isn&#x27;t the case of cameras being inherently useless for &quot;recording UFOs&quot;. That makes no sense. Unless by UFO you mean ali...</p></details>
    Published: May 2025  
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Sensory illusions in aviation  
-   Link: [https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation](https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation)  
+   Link: <a href="https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sensory illusions in aviationPilots may experience disorientation and loss of perspective, creating illusions that range from false ho...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: thedecisionlab.com  
-   Link: [https://thedecisionlab.com/reference-guide/psychology/motion-parallax](https://thedecisionlab.com/reference-guide/psychology/motion-parallax)  
+   Link: <a href="https://thedecisionlab.com/reference-guide/psychology/motion-parallax" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/motion-parallax</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Motion ParallaxMotion parallax helps us judge distance and depth. This hidden cue guides perception, shapes behavior, and even tricks the...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: nypost.com  
-   Link: [https://nypost.com/2024/11/20/us-news/pentagon-claims-to-debunk-famous-[gofast](https://nypost.com/2024/11/20/us-news/pentagon-claims-to-debunk-famous-[gofast)  
+   Link: <a href="https://nypost.com/2024/11/20/us-news/pentagon-claims-to-debunk-famous-[gofast" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/11/20/us-news/pentagon-claims-to-debunk-famous-[gofast</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>During a Congressional hearing, Dr. Jon Kosloski from the All-Domain Anomaly Resolution Office reported that the object seen moving rapid...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: faasafety.gov  
-   Link: [https://www.faasafety.gov/files/notices/2014/Dec/SA17_Spatial_Disorientation.pdf](https://www.faasafety.gov/files/notices/2014/Dec/SA17_Spatial_Disorientation.pdf)  
+   Link: <a href="https://www.faasafety.gov/files/notices/2014/Dec/SA17_Spatial_Disorientation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faasafety.gov/files/notices/2014/Dec/SA17_Spatial_Disorientation.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spatial DisorientationFalse Horizon – When the only or most distinct visual reference is a cloud formation, it can be confused with the h...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf](https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf)  
+   Link: <a href="https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spatial Disorientation: Visual IllusionsFalse Visual Reference Illusions may cause you to orient your aircraft in relation to a false hor...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: pbs.org  
-   Link: [https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos](https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos)  
+   Link: <a href="https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>3 ways scientists use math to help debunk UFO videosPentagon study finds no sign of alien life in reported UFO sightings going back decad...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/400385806_Physiology_in_Aviation_Hearing_Vision_Spatial_Disorientation_and_Visual_Illusions](https://www.researchgate.net/publication/400385806_Physiology_in_Aviation_Hearing_Vision_Spatial_Disorientation_and_Visual_Illusions)  
+   Link: <a href="https://www.researchgate.net/publication/400385806_Physiology_in_Aviation_Hearing_Vision_Spatial_Disorientation_and_Visual_Illusions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/400385806_Physiology_in_Aviation_Hearing_Vision_Spatial_Disorientation_and_Visual_Illusions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hearing, Vision, Spatial Disorientation, and Visual Illusions4 Feb 2026 — A false horizon illusion occurs when cloud layers, terrain feat...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/](https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO has resolved the &quot;Go Fast&quot; UAP: r/UFOsIf it&#x27;s flying at the same speed as a bird then why would we assume it&#x27;s an alien spacecraft?...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DNRG7pJAsNm/?hl=en](https://www.instagram.com/reel/DNRG7pJAsNm/?hl=en)  
+   Link: <a href="https://www.instagram.com/reel/DNRG7pJAsNm/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DNRG7pJAsNm/?hl=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>StarTalk on Instagram: &quot;Is motion parallax the reason many...Is motion parallax the reason many believe this to be a UAP? Turns out we c...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
    Title: is motion parallax the reason many believe this to be a uap turns out we can cal  
-   Link: [https://www.facebook.com/StarTalk/posts/is-motion-parallax-the-reason-many-believe-this-to-be-a-uap-turns-out-we-can-cal/1533337455091975/](https://www.facebook.com/StarTalk/posts/is-motion-parallax-the-reason-many-believe-this-to-be-a-uap-turns-out-we-can-cal/1533337455091975/)  
+   Link: <a href="https://www.facebook.com/StarTalk/posts/is-motion-parallax-the-reason-many-believe-this-to-be-a-uap-turns-out-we-can-cal/1533337455091975/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/StarTalk/posts/is-motion-parallax-the-reason-many-believe-this-to-be-a-uap-turns-out-we-can-cal/1533337455091975/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Is motion parallax the reason many believe this to be...Jayson G Wentworth can you see a sparrow over 2 miles away? Objects at 13000 fee...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=jHDlfIaBEqw](https://www.youtube.com/watch?v=jHDlfIaBEqw)  
+   Link: <a href="https://www.youtube.com/watch?v=jHDlfIaBEqw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jHDlfIaBEqw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>VFX Artists DEBUNK Pentagon UFO VideosAlso, due to the speed of the parallax, I would say the object is pretty high off the water - much...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/400386255_Physiology_in_Aviation_Hearing_Vision_Spatial_Disorientation_and_Visual_Illusions](https://www.researchgate.net/publication/400386255_Physiology_in_Aviation_Hearing_Vision_Spatial_Disorientation_and_Visual_Illusions)  
+   Link: <a href="https://www.researchgate.net/publication/400386255_Physiology_in_Aviation_Hearing_Vision_Spatial_Disorientation_and_Visual_Illusions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/400386255_Physiology_in_Aviation_Hearing_Vision_Spatial_Disorientation_and_Visual_Illusions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>aviation. The. following discussion addresses the principal illusions identified in FAA...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: texashomeandhangar.com  
    Title: debunking the myth parallax effect and what pilots really use to land  
-   Link: [https://texashomeandhangar.com/2024/03/debunking-the-myth-parallax-effect-and-what-pilots-really-use-to-land/](https://texashomeandhangar.com/2024/03/debunking-the-myth-parallax-effect-and-what-pilots-really-use-to-land/)  
+   Link: <a href="https://texashomeandhangar.com/2024/03/debunking-the-myth-parallax-effect-and-what-pilots-really-use-to-land/" target="_blank" rel="noopener noreferrer nofollow">https://texashomeandhangar.com/2024/03/debunking-the-myth-parallax-effect-and-what-pilots-really-use-to-land/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It describes the apparent shift in an object&#x27;s position relative to a background when your viewing position changes.Read more...</p></details>

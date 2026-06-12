@@ -50,22 +50,22 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_wind_data_33671a
 - ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - drones
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - drones
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Consumer and commercial drones add new patterns of lights, hovering and manoeuvres to modern sighting reports.
 hero_summary: Consumer and commercial drones add new patterns of lights, hovering and manoeuvres to modern sighting reports.
 layout: default
 permalink: /drones/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 nav_short_title: Drones
 title: When a Drone Becomes a UFO
-title_full: When a Drone Becomes a UFO | IFOs
+title_full: When a Drone Becomes a UFO
 display_title_short: Drones
 display_title: Drones
 heading_title: When a Drone Becomes a UFO
@@ -240,213 +240,212 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 01:48:10'
 parent_title: IFOs
-parent_permalink: /ifos-causes-of/
+parent_permalink: /ifos-causes-of-ufo-3-ed-238/
 parent_nav_short_title: IFOs
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 sibling_links:
 - basename: ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d
-  title: A Head On Aircraft Can Look Like A Stationary Light... | Ifos Causes Of
+  title: A Head On Aircraft Can Look Like A Stationary Light... | ifos causes of UFO 3 ed 238
   permalink: /a-head-on-aircraft-can-look-like-a/
   short_title: A Head On Aircraft Can Look Like A Stationary Light...
   heading_title: The Stationary Light That Is Moving
 - basename: ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261
-  title: AARO | Ifos Causes Of
+  title: AARO | ifos causes of UFO 3 ed 238
   permalink: /aaro/
   short_title: AARO
   heading_title: What Modern UAP Reviews Resolve
 - basename: ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253
-  title: Aircraft Lights | Ifos Causes Of
+  title: Aircraft Lights | ifos causes of UFO 3 ed 238
   permalink: /aircraft-lights/
   short_title: Aircraft Lights
   heading_title: Why Ordinary Aircraft Look So Strange
 - basename: ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043
-  title: Atmosphere | Ifos Causes Of
+  title: Atmosphere | ifos causes of UFO 3 ed 238
   permalink: /atmosphere/
   short_title: Atmosphere
   heading_title: When Weather Makes Shapes in the Sky
 - basename: ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057
-  title: Balloons | Ifos Causes Of
+  title: Balloons | ifos causes of UFO 3 ed 238
   permalink: /balloons/
   short_title: Balloons
   heading_title: Why Balloons Become Flying Saucers
 - basename: ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40
-  title: Birds | Ifos Causes Of
+  title: Birds | ifos causes of UFO 3 ed 238
   permalink: /birds/
   short_title: Birds
   heading_title: How Birds Become Fast UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81
-  title: Blue Book | Ifos Causes Of
+  title: Blue Book | ifos causes of UFO 3 ed 238
   permalink: /blue-book/
   short_title: Blue Book
   heading_title: What Blue Book Teaches About IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e
-  title: Contrails | Ifos Causes Of
+  title: Contrails | ifos causes of UFO 3 ed 238
   permalink: /contrails/
   short_title: Contrails
   heading_title: Why Jet Trails Glow Like UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e
-  title: First Checks | Ifos Causes Of
+  title: First Checks | ifos causes of UFO 3 ed 238
   permalink: /first-checks/
   short_title: First Checks
   heading_title: What to Check Before Calling It a UFO
 - basename: ifos_-_causes_of_UFO_3ed238_military_flares_abb62f
-  title: Flares | Ifos Causes Of
+  title: Flares | ifos causes of UFO 3 ed 238
   permalink: /flares/
   short_title: Flares
   heading_title: Why Flares Look Like Hovering Craft
 - basename: ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590
-  title: Flight Tracking | Ifos Causes Of
+  title: Flight Tracking | ifos causes of UFO 3 ed 238
   permalink: /flight-tracking/
   short_title: Flight Tracking
   heading_title: How Flight Data Solves UFO Sightings
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965
-  title: Hoaxes | Ifos Causes Of
+  title: Hoaxes | ifos causes of UFO 3 ed 238
   permalink: /hoaxes/
   short_title: Hoaxes
   heading_title: When UFO Reports Are Manufactured
 - basename: ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f
-  title: Infrared | Ifos Causes Of
+  title: Infrared | ifos causes of UFO 3 ed 238
   permalink: /infrared/
   short_title: Infrared
   heading_title: Why Infrared UFO Videos Mislead
 - basename: ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74
-  title: Insects | Ifos Causes Of
+  title: Insects | ifos causes of UFO 3 ed 238
   permalink: /insects/
   short_title: Insects
   heading_title: The Tiny Things Cameras Make Huge
 - basename: ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5
-  title: Lanterns | Ifos Causes Of
+  title: Lanterns | ifos causes of UFO 3 ed 238
   permalink: /lanterns/
   short_title: Lanterns
   heading_title: The Orange Lights That Start UFO Reports
 - basename: ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e
-  title: Lens Flare | Ifos Causes Of
+  title: Lens Flare | ifos causes of UFO 3 ed 238
   permalink: /lens-flare/
   short_title: Lens Flare
   heading_title: When Cameras Invent Extra Lights
 - basename: ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28
-  title: Mass Sightings | Ifos Causes Of
+  title: Mass Sightings | ifos causes of UFO 3 ed 238
   permalink: /mass-sightings/
   short_title: Mass Sightings
   heading_title: Why Groups Can Share One Mistake
 - basename: ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504
-  title: Meteors | Ifos Causes Of
+  title: Meteors | ifos causes of UFO 3 ed 238
   permalink: /meteors/
   short_title: Meteors
   heading_title: When Fireballs Become UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca
-  title: Missing Data | Ifos Causes Of
+  title: Missing Data | ifos causes of UFO 3 ed 238
   permalink: /missing-data/
   short_title: Missing Data
   heading_title: Unsolved Does Not Always Mean Strange
 - basename: ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183
-  title: NASA Study | Ifos Causes Of
+  title: NASA Study | ifos causes of UFO 3 ed 238
   permalink: /nasa-study/
   short_title: NASA Study
   heading_title: Why Better UFO Data Matters
 - basename: ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b
-  title: Parallax | Ifos Causes Of
+  title: Parallax | ifos causes of UFO 3 ed 238
   permalink: /parallax/
   short_title: Parallax
   heading_title: The Speed Illusion in UFO Footage
 - basename: ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a
-  title: Pilots | Ifos Causes Of
+  title: Pilots | ifos causes of UFO 3 ed 238
   permalink: /pilots/
   short_title: Pilots
   heading_title: Why Pilots Can Misidentify UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357
-  title: Radar | Ifos Causes Of
+  title: Radar | ifos causes of UFO 3 ed 238
   permalink: /radar/
   short_title: Radar
   heading_title: When Radar Sees a UFO That Isnt There
 - basename: ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c
-  title: Reflections | Ifos Causes Of
+  title: Reflections | ifos causes of UFO 3 ed 238
   permalink: /reflections/
   short_title: Reflections
   heading_title: The UFO Inside the Glass
 - basename: ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132
-  title: Rocket Plumes | Ifos Causes Of
+  title: Rocket Plumes | ifos causes of UFO 3 ed 238
   permalink: /rocket-plumes/
   short_title: Rocket Plumes
   heading_title: The Strange Clouds Rockets Leave Behind
 - basename: ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b
-  title: Satellites | Ifos Causes Of
+  title: Satellites | ifos causes of UFO 3 ed 238
   permalink: /satellites/
   short_title: Satellites
   heading_title: Why Satellites Surprise Night Watchers
 - basename: ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1
-  title: Searchlights | Ifos Causes Of
+  title: Searchlights | ifos causes of UFO 3 ed 238
   permalink: /searchlights/
   short_title: Searchlights
   heading_title: How Searchlights Paint UFOs in Clouds
 - basename: ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b
-  title: Sensor Operators | Ifos Causes Of
+  title: Sensor Operators | ifos causes of UFO 3 ed 238
   permalink: /sensor-operators/
   short_title: Sensor Operators
   heading_title: When Sensors Need Human Context
 - basename: ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391
-  title: Short Clips | Ifos Causes Of
+  title: Short Clips | ifos causes of UFO 3 ed 238
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: Why Short UFO Videos Are Hard to Trust
 - basename: ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f
-  title: Size Errors | Ifos Causes Of
+  title: Size Errors | ifos causes of UFO 3 ed 238
   permalink: /size-errors/
   short_title: Size Errors
   heading_title: Why Honest Witnesses Misjudge UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725
-  title: Sky Charts | Ifos Causes Of
+  title: Sky Charts | ifos causes of UFO 3 ed 238
   permalink: /sky-charts/
   short_title: Sky Charts
   heading_title: How to Check a UFO Against the Sky
 - basename: ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32
-  title: Stars | Ifos Causes Of
+  title: Stars | ifos causes of UFO 3 ed 238
   permalink: /stars/
   short_title: Stars
   heading_title: Why Stars Flash Like Machines
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb
-  title: Status Labels | Ifos Causes Of
+  title: Status Labels | ifos causes of UFO 3 ed 238
   permalink: /status-labels/
   short_title: Status Labels
   heading_title: UFO Does Not Mean Alien
 - basename: ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d
-  title: Strong Cases | Ifos Causes Of
+  title: Strong Cases | ifos causes of UFO 3 ed 238
   permalink: /strong-cases/
   short_title: Strong Cases
   heading_title: What Makes a UFO Report Harder to Explain
 - basename: ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948
-  title: UK Files | Ifos Causes Of
+  title: UK Files | ifos causes of UFO 3 ed 238
   permalink: /uk-files/
   short_title: UK Files
   heading_title: What the UK UFO Files Reveal
 - basename: ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06
-  title: Unresolved Cases | Ifos Causes Of
+  title: Unresolved Cases | ifos causes of UFO 3 ed 238
   permalink: /unresolved-cases/
   short_title: Unresolved Cases
   heading_title: Why Some UFO Cases Stay Open
 - basename: ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080
-  title: Venus | Ifos Causes Of
+  title: Venus | ifos causes of UFO 3 ed 238
   permalink: /venus/
   short_title: Venus
   heading_title: Is That UFO Really Venus?
 - basename: ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13
-  title: Weather Records | Ifos Causes Of
+  title: Weather Records | ifos causes of UFO 3 ed 238
   permalink: /weather-records/
   short_title: Weather Records
   heading_title: Weather Clues That Explain Strange Lights
 - basename: ifos_-_causes_of_UFO_3ed238_wind_data_33671a
-  title: Wind Data | Ifos Causes Of
+  title: Wind Data | ifos causes of UFO 3 ed 238
   permalink: /wind-data/
   short_title: Wind Data
   heading_title: Following a UFO With the Wind
@@ -479,20 +478,21 @@ child_links:
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 prev_link:
   basename: ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e
-  title: Contrails | Ifos Causes Of
+  title: Contrails | ifos causes of UFO 3 ed 238
   permalink: /contrails/
   short_title: Contrails
   heading_title: Why Jet Trails Glow Like UFOs
 next_link:
   basename: ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e
-  title: First Checks | Ifos Causes Of
+  title: First Checks | ifos causes of UFO 3 ed 238
   permalink: /first-checks/
   short_title: First Checks
   heading_title: What to Check Before Calling It a UFO
+date: '2026-06-12 00:11:50 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c-overview-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c-overview.webp
@@ -502,7 +502,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c-overv
 ## Introduction
 
 Drones have become one of the most important modern triggers for UFO reports because they add behaviours to the night sky that older witnesses did not grow up expecting: small lights that can hover, stop suddenly, climb vertically, move sideways, fly in groups, change brightness, and then vanish behind trees or buildings. In UFO investigation, that matters because a drone can be a real, physical object and still produce a misleading report when distance, size, altitude, sound and purpose are unknown.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c-overview.webp" | relative_url }}" alt="Overview image for Drones" loading="eager" decoding="sync" fetchpriority="high">
 The point is not that every new “mystery light” is a drone. Many reported drones later turn out to be aircraft, [stars]({{ 'stars/' | relative_url }}), planets, balloons or [satellites]({{ 'satellites/' | relative_url }}). The useful lesson is narrower: drones have changed the pool of ordinary explanations. Official UAP reviewers now list drones or uncrewed aircraft among the commonplace objects that can resolve some reports, while aviation authorities treat drone visibility, lighting and identification as practical safety issues rather than fringe curiosities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensescoop.com">[DefenseScoop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensescoop.com</span><span class="citation-popover-title">Defense Scoop&#x27;The truly anomalous&#x27;: New AARO chief unveils Pentagon&#x27;s</span><span class="citation-popover-snippet">Defense Scoop&#x27;The truly anomalous&#x27;: New AARO chief unveils Pentagon&#x27;s</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">dhs fbi faa dod joint statement ongoing response reported drone sightings</span><span class="citation-popover-snippet">dhs fbi faa dod joint statement ongoing response reported drone sightings</span></span></span>
@@ -516,7 +515,6 @@ The scale of drone activity makes that shift more than theoretical. The U.S. Fed
 This expansion changes UFO reporting in two ways. First, it creates more genuine aerial lights for people to notice, especially around parks, coastlines, housing estates, industrial sites, sporting events, emergency scenes, farms, construction areas and filming locations. Second, it creates a new interpretive category in the public mind: when people see an unfamiliar light, “drone” may be their first guess, even when the object is actually a plane, helicopter or star. That means drones can trigger UFO reports directly, but they can also shape how unrelated sightings are described.
 
 The late-2024 U.S. “drone sightings” wave around [New Jersey]({{ 'new-jersey/' | relative_url }}) and neighbouring states showed this double effect clearly. Federal agencies said they examined thousands of reports and assessed that the sightings included lawful commercial, hobbyist and law-enforcement drones, but also manned aircraft, helicopters and stars mistakenly reported as drones. Earlier FBI and DHS statements also stressed that they had no evidence the reported sightings posed a national-security or public-safety threat, while investigations continued to distinguish actual drones from misidentified aircraft or inaccurate sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">dhs fbi faa dod joint statement ongoing response reported drone sightings</span><span class="citation-popover-snippet">dhs fbi faa dod joint statement ongoing response reported drone sightings</span></span></span>
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c-Illustration-1-dark.svg" | relative_url }}" alt="Drones illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Drone Lights Look Stranger Than Aircraft Lights
@@ -535,7 +533,6 @@ Several features make drones especially good at producing ambiguous impressions:
 
 **Ambiguous altitude.** Most casual witnesses are poor at judging altitude without a known object for comparison. A drone at low height over a nearby field can be described as a large object at aircraft altitude; a distant aircraft approaching head-on can be described as a hovering drone. The New Jersey episode showed how easily this confusion can run in both directions: some real drones were likely in the mix, but officials also said manned aircraft and stars were being reported as drones. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">dhs fbi faa dod joint statement ongoing response reported drone sightings</span><span class="citation-popover-snippet">dhs fbi faa dod joint statement ongoing response reported drone sightings</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/o5j95rxsZwI" title="Mysterious drones flying in the sky" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=o5j95rxsZwI" target="_blank" rel="noopener noreferrer">Mysterious drones flying in the sky</a></p><p class="youtube-embed-meta">Channel: WUSA9 &middot; Views: 135.2K &middot; Uploaded: April 2023 &middot; Length: 4 minutes 28 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=o5j95rxsZwI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=o5j95rxsZwI">Open on YouTube</a></p></div></div></div>
 
 ## When “It Moved Like a Drone” Is Useful Evidence
@@ -548,7 +545,6 @@ The opposite is also true. Some details weaken a drone explanation. Very long du
 
 This is where modern UFO analysis benefits from ordinary aviation context. [AARO]({{ 'aaro/' | relative_url }}) has said it has resolved many cases in its holdings to commonplace objects such as balloons, birds, drones, satellites and aircraft, while hundreds of other reports remain unresolved because they lack enough scientific data for analysis. That distinction is important: “unresolved” does not automatically mean “extraordinary”; often it means the available video, time, location, range or sensor data is too poor to test a drone explanation properly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensescoop.com">[DefenseScoop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensescoop.com</span><span class="citation-popover-title">Defense Scoop&#x27;The truly anomalous&#x27;: New AARO chief unveils Pentagon&#x27;s</span><span class="citation-popover-snippet">Defense Scoop&#x27;The truly anomalous&#x27;: New AARO chief unveils Pentagon&#x27;s</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c-Illustration-2-dark.svg" | relative_url }}" alt="Drones illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The New Jersey Lesson: Drone Reports Can Snowball
 
@@ -560,8 +556,7 @@ The episode matters for UFO reporting because it shows how “drone” can becom
 
 It also shows why dismissing all witnesses is the wrong lesson. Some people may have seen real drones. Some may have seen ordinary aircraft. Some may have seen stars, planets or helicopters. Some reports may have lacked enough detail to classify. The IFO value of the case lies in that mixture: a wave of reports can contain several causes at once, and the public label attached to the wave can be less precise than the underlying events.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Bs4XSD84KPs" title="NEW UK CAA Drone Rules 2026 - MAJOR Changes! It WILL Affect you!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Bs4XSD84KPs" target="_blank" rel="noopener noreferrer">NEW UK CAA Drone Rules 2026 - MAJOR Changes! It WILL Affect you!</a></p><p class="youtube-embed-meta">Channel: GAVINHR &middot; Views: 60.6K &middot; Uploaded: September 2025 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Bs4XSD84KPs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Bs4XSD84KPs">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jDMHW0ptaNI" title="Mysterious New Jersey drones &#x27;authorized&#x27; by the FAA, White House press secretary says" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jDMHW0ptaNI" target="_blank" rel="noopener noreferrer">Mysterious New Jersey drones &#x27;authorized&#x27; by the FAA, White House press secretary says</a></p><p class="youtube-embed-meta">Channel: ABC News &middot; Views: 43.0K &middot; Uploaded: January 2025 &middot; Length: 1 minute 59 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jDMHW0ptaNI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jDMHW0ptaNI">Open on YouTube</a></p></div></div></div>
 
 ## Drone Shows, Swarms and Grouped Lights
 
@@ -572,7 +567,6 @@ This is especially relevant because the spectacle is designed to be seen at nigh
 Recent drone-show incidents underline that these are real aircraft operating under technical constraints, not just pixels in the sky. In May 2026, Vivid Sydney cancelled remaining drone shows after dozens of drones fell into Darling Harbour during a performance; reports attributed the problem to technical difficulties and a changed radio-frequency environment after take-off. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/us-news/2024/dec/17/drones-new-jersey-fbi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That kind of incident belongs mainly to aviation safety, but it also explains why grouped lights can behave in ways a casual observer does not expect.
 
 For UFO investigators, the practical question is simple: was there a scheduled display, test, filming operation, emergency exercise or commercial drone job in the area? Local event listings, council notices, harbour or stadium announcements, aviation restrictions and local news can often resolve a spectacular “formation” report quickly.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c-Illustration-3-dark.svg" | relative_url }}" alt="Drones illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to Check Local Drone Clues
@@ -592,8 +586,7 @@ Then test the drone-specific clues:
 
 These checks do not require assuming the witness is wrong. They treat the sighting as a real observation that needs context. That is exactly how the IFO category is most useful: not as a dismissal, but as a method for finding the ordinary object behind an extraordinary first impression.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jDMHW0ptaNI" title="Mysterious New Jersey drones &#x27;authorized&#x27; by the FAA, White House press secretary says" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jDMHW0ptaNI" target="_blank" rel="noopener noreferrer">Mysterious New Jersey drones &#x27;authorized&#x27; by the FAA, White House press secretary says</a></p><p class="youtube-embed-meta">Channel: ABC News &middot; Views: 43.0K &middot; Uploaded: January 2025 &middot; Length: 1 minute 59 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jDMHW0ptaNI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jDMHW0ptaNI">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pqkxYbVEvAU" title="What do drones look like? Are lights in the night UFOs, planes? Here&#x27;s what to know." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pqkxYbVEvAU" target="_blank" rel="noopener noreferrer">What do drones look like? Are lights in the night UFOs, planes? Here&#x27;s what to know.</a></p><p class="youtube-embed-meta">Channel: NBC10 Boston &middot; Views: 22.9K &middot; Uploaded: December 2024 &middot; Length: 1 minute 39 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pqkxYbVEvAU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pqkxYbVEvAU">Open on YouTube</a></p></div></div></div>
 
 ## What Drones Do Not Explain
 
@@ -720,15 +713,15 @@ The best conclusion is therefore balanced. Drones have made the sky more confusi
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-when-a-drone-becomes-a-ufo-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="drones-when-a-drone-becomes-a-ufo-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-becomes-a-ufo-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-drone-becomes-a-ufo-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Star Wars Propel Drone T-65 X-Wing Model Only (Spares) No other parts!"><img src="https://i.ebayimg.com/images/g/EpQAAeSwyuRqG1Xp/s-l225.jpg" alt="Listing image for Star Wars Propel Drone T-65 X-Wing Model Only (Spares) No other parts!" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-when-a-drone-becomes-a-ufo-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="drones-when-a-drone-becomes-a-ufo-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-becomes-a-ufo-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-drone-becomes-a-ufo-drone-model" target="_blank" rel="sponsored noopener noreferrer">Star Wars Propel Drone T-65 X-Wing Model Only (Spares) No other parts!</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-when-a-drone-becomes-a-ufo-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="drones-when-a-drone-becomes-a-ufo-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-becomes-a-ufo-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-drone-becomes-a-ufo-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-when-a-drone-becomes-a-ufo-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="drones-when-a-drone-becomes-a-ufo-ifos-causes-of-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-becomes-a-ufo-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-drone-becomes-a-ufo-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -736,15 +729,15 @@ The best conclusion is therefore balanced. Drones have made the sky more confusi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-when-a-drone-becomes-a-ufo-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="drones-when-a-drone-becomes-a-ufo-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA"><img src="{{ '/assets/images/marketplace-covers/d1a9ede89dec7aff09e9.jpg' | relative_url }}" alt="Listing image for UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-becomes-a-ufo-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-drone-becomes-a-ufo-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Six-axis Gyroscope Remote Control Black Drone Model 2.4GHZ 14+ Ages"><img src="https://i.ebayimg.com/images/g/l2QAAeSw~LZpZqUT/s-l225.jpg" alt="Listing image for Six-axis Gyroscope Remote Control Black Drone Model 2.4GHZ 14+ Ages" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-when-a-drone-becomes-a-ufo-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="drones-when-a-drone-becomes-a-ufo-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-becomes-a-ufo-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-drone-becomes-a-ufo-drone-model" target="_blank" rel="sponsored noopener noreferrer">Six-axis Gyroscope Remote Control Black Drone Model 2.4GHZ 14+ Ages</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-when-a-drone-becomes-a-ufo-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="drones-when-a-drone-becomes-a-ufo-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-becomes-a-ufo-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-drone-becomes-a-ufo-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-when-a-drone-becomes-a-ufo-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="drones-when-a-drone-becomes-a-ufo-ifos-causes-of-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-becomes-a-ufo-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-drone-becomes-a-ufo-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -752,15 +745,15 @@ The best conclusion is therefore balanced. Drones have made the sky more confusi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-when-a-drone-becomes-a-ufo-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="drones-when-a-drone-becomes-a-ufo-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO 1982 Tour Programme Book With Poster"><img src="{{ '/assets/images/marketplace-covers/9c0ed3d28411d7c56755.jpg' | relative_url }}" alt="Listing image for UFO 1982 Tour Programme Book With Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-becomes-a-ufo-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-drone-becomes-a-ufo-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for STROBON v2 Drone and RC Model Aircraft Navigation - Anti-Collision Light"><img src="https://i.ebayimg.com/images/g/LnwAAOSwU-RjPVep/s-l225.jpg" alt="Listing image for STROBON v2 Drone and RC Model Aircraft Navigation - Anti-Collision Light" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-when-a-drone-becomes-a-ufo-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="drones-when-a-drone-becomes-a-ufo-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO 1982 Tour Programme Book With Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-becomes-a-ufo-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-drone-becomes-a-ufo-drone-model" target="_blank" rel="sponsored noopener noreferrer">STROBON v2 Drone and RC Model Aircraft Navigation - Anti-Collision Light</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-when-a-drone-becomes-a-ufo-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="drones-when-a-drone-becomes-a-ufo-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-becomes-a-ufo-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-drone-becomes-a-ufo-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-when-a-drone-becomes-a-ufo-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="drones-when-a-drone-becomes-a-ufo-ifos-causes-of-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-becomes-a-ufo-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-drone-becomes-a-ufo-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -768,15 +761,15 @@ The best conclusion is therefore balanced. Drones have made the sky more confusi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-when-a-drone-becomes-a-ufo-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="drones-when-a-drone-becomes-a-ufo-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-becomes-a-ufo-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-drone-becomes-a-ufo-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DJI Mini 2/3/3 Pro Drone Operator ID Stickers-CAA UK 2021 Drone Laws(Pack of 4)"><img src="https://i.ebayimg.com/images/g/u9AAAOSwYj9kDyTm/s-l225.jpg" alt="Listing image for DJI Mini 2/3/3 Pro Drone Operator ID Stickers-CAA UK 2021 Drone Laws(Pack of 4)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-when-a-drone-becomes-a-ufo-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="drones-when-a-drone-becomes-a-ufo-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-becomes-a-ufo-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-drone-becomes-a-ufo-drone-model" target="_blank" rel="sponsored noopener noreferrer">DJI Mini 2/3/3 Pro Drone Operator ID Stickers-CAA UK 2021 Drone Laws(Pack of 4)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-when-a-drone-becomes-a-ufo-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="drones-when-a-drone-becomes-a-ufo-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-becomes-a-ufo-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-drone-becomes-a-ufo-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-when-a-drone-becomes-a-ufo-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="drones-when-a-drone-becomes-a-ufo-ifos-causes-of-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-becomes-a-ufo-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-drone-becomes-a-ufo-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -784,7 +777,7 @@ The best conclusion is therefore balanced. Drones have made the sky more confusi
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drones-when-a-drone-becomes-a-ufo-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="drones-when-a-drone-becomes-a-ufo-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-drone-becomes-a-ufo-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="when-a-drone-becomes-a-ufo-drone-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -1000,146 +993,146 @@ The best conclusion is therefore balanced. Drones have made the sky more confusi
 1. <a id="endnote-1"></a>
    Source: defensescoop.com  
    Title: Defense Scoop'The truly anomalous': New AARO chief unveils Pentagon's  
-   Link: [https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/](https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/)  
+   Link: <a href="https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/</a>  
 
 2. <a id="endnote-2"></a>
    Source: faa.gov  
    Title: dhs fbi faa dod joint statement ongoing response reported drone sightings  
-   Link: [https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings](https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings)  
+   Link: <a href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings</a>  
 
 3. <a id="endnote-3"></a>
    Source: faa.gov  
    Title: remote id  
-   Link: [https://www.faa.gov/uas/getting_started/remote_id](https://www.faa.gov/uas/getting_started/remote_id)  
+   Link: <a href="https://www.faa.gov/uas/getting_started/remote_id" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/uas/getting_started/remote_id</a>  
 
 4. <a id="endnote-4"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/node/26](https://www.faa.gov/node/26)  
+   Link: <a href="https://www.faa.gov/node/26" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/node/26</a>  
 
 5. <a id="endnote-5"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/media/106066](https://www.faa.gov/media/106066)  
+   Link: <a href="https://www.faa.gov/media/106066" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/media/106066</a>  
 
 6. <a id="endnote-6"></a>
    Source: fbi.gov  
    Title: joint dhs fbi statement on reports of drones in new jersey  
-   Link: [https://www.fbi.gov/news/press-releases/joint-dhs-fbi-statement-on-reports-of-drones-in-new-jersey](https://www.fbi.gov/news/press-releases/joint-dhs-fbi-statement-on-reports-of-drones-in-new-jersey)  
+   Link: <a href="https://www.fbi.gov/news/press-releases/joint-dhs-fbi-statement-on-reports-of-drones-in-new-jersey" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/news/press-releases/joint-dhs-fbi-statement-on-reports-of-drones-in-new-jersey</a>  
 
 7. <a id="endnote-7"></a>
    Source: people.com  
-   Link: [https://people.com/89-drones-plummet-into-harbor-light-show-technical-difficulties-11983485](https://people.com/89-drones-plummet-into-harbor-light-show-technical-difficulties-11983485)  
+   Link: <a href="https://people.com/89-drones-plummet-into-harbor-light-show-technical-difficulties-11983485" target="_blank" rel="noopener noreferrer nofollow">https://people.com/89-drones-plummet-into-harbor-light-show-technical-difficulties-11983485</a>  
 
 8. <a id="endnote-8"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 9. <a id="endnote-9"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
 10. <a id="endnote-10"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 11. <a id="endnote-11"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/faq/beyond-visual-line-sight-bvlos-operations-are-anti-collision-lights-required](https://www.faa.gov/faq/beyond-visual-line-sight-bvlos-operations-are-anti-collision-lights-required)  
+   Link: <a href="https://www.faa.gov/faq/beyond-visual-line-sight-bvlos-operations-are-anti-collision-lights-required" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/faq/beyond-visual-line-sight-bvlos-operations-are-anti-collision-lights-required</a>  
 
 12. <a id="endnote-12"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/uas/getting_started/remote_id/2-RID-Industry_and_Standards_Bodies](https://www.faa.gov/uas/getting_started/remote_id/2-RID-Industry_and_Standards_Bodies)  
+   Link: <a href="https://www.faa.gov/uas/getting_started/remote_id/2-RID-Industry_and_Standards_Bodies" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/uas/getting_started/remote_id/2-RID-Industry_and_Standards_Bodies</a>  
 
 13. <a id="endnote-13"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/data_research/aviation/aerospace_forecasts/2025-uas-and-aam-summary.pdf](https://www.faa.gov/data_research/aviation/aerospace_forecasts/2025-uas-and-aam-summary.pdf)  
+   Link: <a href="https://www.faa.gov/data_research/aviation/aerospace_forecasts/2025-uas-and-aam-summary.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/data_research/aviation/aerospace_forecasts/2025-uas-and-aam-summary.pdf</a>  
 
 14. <a id="endnote-14"></a>
    Source: dhs.gov  
-   Link: [https://www.dhs.gov/archive/news/2024/12/12/joint-dhsfbi-statement-reports-drones-new-jersey](https://www.dhs.gov/archive/news/2024/12/12/joint-dhsfbi-statement-reports-drones-new-jersey)  
+   Link: <a href="https://www.dhs.gov/archive/news/2024/12/12/joint-dhsfbi-statement-reports-drones-new-jersey" target="_blank" rel="noopener noreferrer nofollow">https://www.dhs.gov/archive/news/2024/12/12/joint-dhsfbi-statement-reports-drones-new-jersey</a>  
 
 15. <a id="endnote-15"></a>
    Source: caa.co.uk  
    Title: Civil Aviation Authority Get an Operator ID  
-   Link: [https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/get-an-operator-id/](https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/get-an-operator-id/)  
+   Link: <a href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/get-an-operator-id/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/get-an-operator-id/</a>  
 
 16. <a id="endnote-16"></a>
    Source: caa.co.uk  
    Title: Civil Aviation Authority Get a Flyer ID  
-   Link: [https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/get-a-flyer-id/](https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/get-a-flyer-id/)  
+   Link: <a href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/get-a-flyer-id/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/get-a-flyer-id/</a>  
 
 17. <a id="endnote-17"></a>
    Source: caa.co.uk  
    Title: flying at night in the open category  
-   Link: [https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/](https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/)  
+   Link: <a href="https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/</a>  
 
 18. <a id="endnote-18"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/us-news/2024/dec/17/drones-new-jersey-fbi](https://www.theguardian.com/us-news/2024/dec/17/drones-new-jersey-fbi)  
+   Link: <a href="https://www.theguardian.com/us-news/2024/dec/17/drones-new-jersey-fbi" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/dec/17/drones-new-jersey-fbi</a>  
 
 19. <a id="endnote-19"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/culture/2026/may/30/vivid-sydney-cancels-all-drone-shows-after-83-drones-plunged-into-darling-harbour](https://www.theguardian.com/culture/2026/may/30/vivid-sydney-cancels-all-drone-shows-after-83-drones-plunged-into-darling-harbour)  
+   Link: <a href="https://www.theguardian.com/culture/2026/may/30/vivid-sydney-cancels-all-drone-shows-after-83-drones-plunged-into-darling-harbour" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/culture/2026/may/30/vivid-sydney-cancels-all-drone-shows-after-83-drones-plunged-into-darling-harbour</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The UK-based drone operator, Skymagic, attributed the incident to a sudden change in the radio frequency environment after takeoff, which...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: Wikipedia  
    Title: Remote ID  
-   Link: [https://en.wikipedia.org/wiki/Remote_ID](https://en.wikipedia.org/wiki/Remote_ID)  
+   Link: <a href="https://en.wikipedia.org/wiki/Remote_ID" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Remote_ID</a>  
 
 21. <a id="endnote-21"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 22. <a id="endnote-22"></a>
    Source: luftfartstilsynet.no  
    Title: open category  
-   Link: [https://www.luftfartstilsynet.no/en/drones/veiledning/open-category/](https://www.luftfartstilsynet.no/en/drones/veiledning/open-category/)  
+   Link: <a href="https://www.luftfartstilsynet.no/en/drones/veiledning/open-category/" target="_blank" rel="noopener noreferrer nofollow">https://www.luftfartstilsynet.no/en/drones/veiledning/open-category/</a>  
 
 23. <a id="endnote-23"></a>
    Source: abcnews.com  
-   Link: [https://abcnews.com/US/east-coast-drones-latest-fbi-dod-statement/story?id=116855247](https://abcnews.com/US/east-coast-drones-latest-fbi-dod-statement/story?id=116855247)  
+   Link: <a href="https://abcnews.com/US/east-coast-drones-latest-fbi-dod-statement/story?id=116855247" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/US/east-coast-drones-latest-fbi-dod-statement/story?id=116855247</a>  
 
 ### Additional References
 
 24. <a id="endnote-24"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: [https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/](https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/wcti12/posts/after-mysterious-drone-sightings-over-several-us-states-caused-widespread-concer/1030890442403662/](https://www.facebook.com/wcti12/posts/after-mysterious-drone-sightings-over-several-us-states-caused-widespread-concer/1030890442403662/)  
+   Link: <a href="https://www.facebook.com/wcti12/posts/after-mysterious-drone-sightings-over-several-us-states-caused-widespread-concer/1030890442403662/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wcti12/posts/after-mysterious-drone-sightings-over-several-us-states-caused-widespread-concer/1030890442403662/</a>  
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/elizabethwhitenews/posts/dhs-fbi-faa-dod-joint-statement-on-ongoing-response-to-reported-drone-sightingsr/1142735097211129/](https://www.facebook.com/elizabethwhitenews/posts/dhs-fbi-faa-dod-joint-statement-on-ongoing-response-to-reported-drone-sightingsr/1142735097211129/)  
+   Link: <a href="https://www.facebook.com/elizabethwhitenews/posts/dhs-fbi-faa-dod-joint-statement-on-ongoing-response-to-reported-drone-sightingsr/1142735097211129/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/elizabethwhitenews/posts/dhs-fbi-faa-dod-joint-statement-on-ongoing-response-to-reported-drone-sightingsr/1142735097211129/</a>  
 
 27. <a id="endnote-27"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Inside.Edition/posts/the-dni-released-an-official-report-in-response-to-years-of-reports-of-unidentif/10157836076755723/](https://www.facebook.com/Inside.Edition/posts/the-dni-released-an-official-report-in-response-to-years-of-reports-of-unidentif/10157836076755723/)  
+   Link: <a href="https://www.facebook.com/Inside.Edition/posts/the-dni-released-an-official-report-in-response-to-years-of-reports-of-unidentif/10157836076755723/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Inside.Edition/posts/the-dni-released-an-official-report-in-response-to-years-of-reports-of-unidentif/10157836076755723/</a>  
 
 28. <a id="endnote-28"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40omarvferro/drone-or-ufo-613aebf7aca9](https://medium.com/%40omarvferro/drone-or-ufo-613aebf7aca9)  
+   Link: <a href="https://medium.com/%40omarvferro/drone-or-ufo-613aebf7aca9" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40omarvferro/drone-or-ufo-613aebf7aca9</a>  
 
 29. <a id="endnote-29"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/903879063054302/posts/24624123967269812/](https://www.facebook.com/groups/903879063054302/posts/24624123967269812/)  
+   Link: <a href="https://www.facebook.com/groups/903879063054302/posts/24624123967269812/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/903879063054302/posts/24624123967269812/</a>  
 
 30. <a id="endnote-30"></a>
    Source: citydronez.com  
-   Link: [https://citydronez.com/faa-by-the-numbers/](https://citydronez.com/faa-by-the-numbers/)  
+   Link: <a href="https://citydronez.com/faa-by-the-numbers/" target="_blank" rel="noopener noreferrer nofollow">https://citydronez.com/faa-by-the-numbers/</a>  
 
 31. <a id="endnote-31"></a>
    Source: caa.co.uk  
-   Link: [https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/flyer-ids-and-operator-ids/](https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/flyer-ids-and-operator-ids/)  
+   Link: <a href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/flyer-ids-and-operator-ids/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/flyer-ids-and-operator-ids/</a>  
 
 32. <a id="endnote-32"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ancientwhispers/posts/glowing-circular-shaped-like-object-was-captured-hovering-in-the-night-sky-its-b/972255295793892/](https://www.facebook.com/ancientwhispers/posts/glowing-circular-shaped-like-object-was-captured-hovering-in-the-night-sky-its-b/972255295793892/)  
+   Link: <a href="https://www.facebook.com/ancientwhispers/posts/glowing-circular-shaped-like-object-was-captured-hovering-in-the-night-sky-its-b/972255295793892/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientwhispers/posts/glowing-circular-shaped-like-object-was-captured-hovering-in-the-night-sky-its-b/972255295793892/</a>  
 
 33. <a id="endnote-33"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/srilanka/comments/w13d2b/has_anyone_else_noticed_drones_that_hover_for/](https://www.reddit.com/r/srilanka/comments/w13d2b/has_anyone_else_noticed_drones_that_hover_for/)  
+   Link: <a href="https://www.reddit.com/r/srilanka/comments/w13d2b/has_anyone_else_noticed_drones_that_hover_for/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/srilanka/comments/w13d2b/has_anyone_else_noticed_drones_that_hover_for/</a>

@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_planet_following_obs_e4b967
 - ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_venus_false_distance_bfe908
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - venus
 - color-shifts
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - venus
 - color-shifts
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Low planets can pulse, redden, or flash colours when their light passes through turbulent air, haze, and thin cloud.
 hero_summary: Low planets can pulse, redden, or flash colours when their light passes through turbulent air, haze, and thin cloud.
 layout: default
 permalink: /color-shifts/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /venus/
 nav_short_title: Color Shifts
 title: Why Low Planets Seem to Change Colour
-title_full: Why Low Planets Seem to Change Colour | Venus
+title_full: Why Low Planets Seem to Change Colour
 display_title_short: Color Shifts
 display_title: Color Shifts
 heading_title: Why Low Planets Seem to Change Colour
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 03:53:42'
-parent_title: Is That UFO Really Venus? | IFOs
+parent_title: Is That UFO Really Venus?
 parent_permalink: /venus/
 parent_nav_short_title: Venus
 parent_heading_title: Is That UFO Really Venus?
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080
-  title: Venus | Ifos Causes Of
+  title: Venus | ifos causes of UFO 3 ed 238
   permalink: /venus/
   short_title: Venus
   heading_title: Is That UFO Really Venus?
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080
-  title: Venus | Ifos Causes Of
+  title: Venus | ifos causes of UFO 3 ed 238
   permalink: /venus/
   short_title: Venus
   heading_title: Is That UFO Really Venus?
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: How to Test the Planet Explanation
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080
-  title: Venus | Ifos Causes Of
+  title: Venus | ifos causes of UFO 3 ed 238
   permalink: /venus/
   short_title: Venus
   heading_title: Is That UFO Really Venus?
@@ -266,6 +265,7 @@ next_link:
   permalink: /following-lights/
   short_title: Following Lights
   heading_title: Why a Planet Seems to Follow You
+date: '2026-06-12 00:53:49 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_horizon_planet_color_10ad06-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_horizon_planet_color_10ad06-Illustration-1.webp
@@ -276,12 +276,8 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_ho
 
 Reports of a bright object that flashes red, blue, green, and white near the horizon are among the most common categories of UFO sightings. In many cases, the witness is observing a bright planet—often [Venus]({{ 'venus/' | relative_url }}), but sometimes Jupiter or Mercury—through a particularly difficult section of Earth's [atmosphere]({{ 'atmosphere/' | relative_url }}). The colour changes can appear dramatic enough to suggest an active craft, a rotating beacon, or an object making controlled movements. Yet the horizon itself is often responsible for much of the spectacle.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_horizon_planet_color_10ad06-Illustration-1-dark.svg" | relative_url }}" alt="Color Shifts illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_horizon_planet_color_10ad06-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_horizon_planet_color_10ad06-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The key point is not simply that planets can look colourful. It is that atmospheric turbulence, refraction, haze, and thin cloud layers can combine to create rapid colour shifts and shimmering effects that make a stationary astronomical object appear dynamic and unusual. This mechanism has been recognised for decades in observational astronomy and is especially strong when [bright objects]({{ 'bright-objects/' | relative_url }}) are viewed low in the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Twinkling" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dwSL1M74R-g" title="Atmospheric Refraction Class 10 | Why Do Stars Twinkle?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dwSL1M74R-g" target="_blank" rel="noopener noreferrer">Atmospheric Refraction Class 10 | Why Do Stars Twinkle?</a></p><p class="youtube-embed-meta">Channel: Manocha Academy</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dwSL1M74R-g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dwSL1M74R-g">Open on YouTube</a></p></div></div></div>
 
 ## Scintillation Near the Horizon
 
@@ -293,12 +289,9 @@ For UFO witnesses, this matters because the eye often interprets changing bright
 
 Another source of confusion is that turbulence does not merely alter brightness. It can also create tiny shifts in apparent position. While these shifts are usually small, they can produce a visual impression that the object is wobbling, darting, or vibrating against the horizon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Twinkling" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dzLQgs4MAA0" title="Venus Updates: Strange Flashes, Atmospheric Life and 85000 Volcanoes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dzLQgs4MAA0" target="_blank" rel="noopener noreferrer">Venus Updates: Strange Flashes, Atmospheric Life and 85000 Volcanoes</a></p><p class="youtube-embed-meta">Channel: Anton Petrov &middot; Views: 147.4K &middot; Uploaded: November 2023 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dzLQgs4MAA0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dzLQgs4MAA0">Open on YouTube</a></p></div></div></div>
-
 ## Haze, Cloud, and Reddening Effects
 
-Colour-changing reports often involve more than simple twinkling. The atmosphere acts like a weak prism, bending different colours of light by different amounts. Blue wavelengths are refracted more strongly than red wavelengths. Near the horizon this effect becomes much stronger because the viewing angle is so shallow. Astronomers refer to this as atmospheric dispersion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.astropix.com/books/GDPI/CHAPTER1/105.HTM" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astropix.com">[Astropix]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astropix.com</span><span class="citation-popover-title">Atmospheric Effects Scintillation</span><span class="citation-popover-snippet">AstropixAtmospheric EffectsScintillation - Scintillation causes rapid changes in brightness in the celestial object being viewed. This is...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Twinkling" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia Under steady conditions]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>, atmospheric dispersion can produce subtle colour fringing. Under turbulent conditions, the coloured components can fluctuate independently, causing flashes of red, blue, green, or white. To an observer unfamiliar with the effect, the planet may appear to be actively changing colour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.astropix.com/books/GDPI/CHAPTER1/105.HTM" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astropix.com">[Astropix]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astropix.com</span><span class="citation-popover-title">Atmospheric Effects Scintillation</span><span class="citation-popover-snippet">AstropixAtmospheric EffectsScintillation - Scintillation causes rapid changes in brightness in the celestial object being viewed. This is...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cloudynights.com/forums/topic/764513-about-the-twinkling-of-stars/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cloudynights.com">[Cloudy Nights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cloudynights.com</span><span class="citation-popover-title">764513 about the twinkling of stars</span><span class="citation-popover-snippet">Cloudy NightsAbout the twinkling of stars3 Apr 2021 — Refractive dispersion is due to the fact that air bends blue light more than red, s...</span></span></span>
+Colour-changing reports often involve more than simple twinkling. The atmosphere acts like a weak prism, bending different colours of light by different amounts. Blue wavelengths are refracted more strongly than red wavelengths. Near the horizon this effect becomes much stronger because the viewing angle is so shallow. Astronomers refer to this as atmospheric dispersion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.astropix.com/books/GDPI/CHAPTER1/105.HTM" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astropix.com">[Astropix]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astropix.com</span><span class="citation-popover-title">Atmospheric Effects Scintillation</span><span class="citation-popover-snippet">Atmospheric EffectsScintillation - Scintillation causes rapid changes in brightness in the celestial object being viewed. This is...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Twinkling" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia Under steady conditions]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>, atmospheric dispersion can produce subtle colour fringing. Under turbulent conditions, the coloured components can fluctuate independently, causing flashes of red, blue, green, or white. To an observer unfamiliar with the effect, the planet may appear to be actively changing colour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.astropix.com/books/GDPI/CHAPTER1/105.HTM" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astropix.com">[Astropix]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astropix.com</span><span class="citation-popover-title">Atmospheric Effects Scintillation</span><span class="citation-popover-snippet">Atmospheric EffectsScintillation - Scintillation causes rapid changes in brightness in the celestial object being viewed. This is...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cloudynights.com/forums/topic/764513-about-the-twinkling-of-stars/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cloudynights.com">[Cloudy Nights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cloudynights.com</span><span class="citation-popover-title">764513 about the twinkling of stars</span><span class="citation-popover-snippet">Cloudy NightsAbout the twinkling of stars3 Apr 2021 — Refractive dispersion is due to the fact that air bends blue light more than red, s...</span></span></span>
 
 Haze and airborne particles add another layer of distortion. As light passes through a long atmospheric path, shorter blue wavelengths are scattered more efficiently than red wavelengths. This is why celestial objects generally appear redder near the horizon. High humidity, dust, smoke, or pollution can intensify the effect. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cloudynights.com/forums/topic/764513-about-the-twinkling-of-stars/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cloudynights.com">[Cloudy Nights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cloudynights.com</span><span class="citation-popover-title">764513 about the twinkling of stars</span><span class="citation-popover-snippet">Cloudy NightsAbout the twinkling of stars3 Apr 2021 — Refractive dispersion is due to the fact that air bends blue light more than red, s...</span></span></span>
 
@@ -306,14 +299,12 @@ Thin cloud can make the appearance even stranger. Passing layers of semi-transpa
 
 A useful clue is that many colour-changing UFO reports occur during twilight or shortly after sunset, exactly when bright planets tend to be low in the sky and atmospheric effects are strongest. This timing is consistent with atmospheric optics rather than with an object generating its own complex light display. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Atmospheric_refraction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Atmospheric refraction</span><span class="citation-popover-snippet">Atmospheric refraction</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_horizon_planet_color_10ad06-Illustration-2-dark.svg" | relative_url }}" alt="Color Shifts illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_horizon_planet_color_10ad06-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_horizon_planet_color_10ad06-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Witnesses Often Overestimate the Effect
 
 Human perception tends to exaggerate subtle colour fluctuations in isolated bright lights. Against a dark background, the eye and brain continuously attempt to interpret brightness and colour. Small atmospheric changes can therefore feel more dramatic than they physically are.
 
 A bright horizon object may be reported as:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -327,17 +318,15 @@ A bright horizon object may be reported as:
 
 These descriptions are not necessarily inaccurate accounts of what the witness perceived. The important distinction is that the perceived behaviour may arise from atmospheric distortion acting on a fixed celestial object rather than from the object itself performing those actions.
 
-Astronomers frequently encounter similar effects when observing bright stars and planets at low altitudes. Observers using telescopes often see coloured fringes, flashes, and image instability that disappear once the object climbs higher above the horizon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.astroshop.eu/magazine/practical-tips/peter-s-problem-solvers/colour-fringing-on-low-lying-planets/i%2C1484" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astroshop.eu">[Astroshop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astroshop.eu</span><span class="citation-popover-snippet">AstroshopColour fringing on low-lying planetsColour fringing on planets is very common, even with expensive telescopes. The reason for th...</span></span></span>
+Astronomers frequently encounter similar effects when observing bright stars and planets at low altitudes. Observers using telescopes often see coloured fringes, flashes, and image instability that disappear once the object climbs higher above the horizon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.astroshop.eu/magazine/practical-tips/peter-s-problem-solvers/colour-fringing-on-low-lying-planets/i%2C1484" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astroshop.eu">[Astroshop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astroshop.eu</span><span class="citation-popover-snippet">Colour fringing on low-lying planetsColour fringing on planets is very common, even with expensive telescopes. The reason for th...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/N3IgVidGjQk" title="Why Do Stars Twinkle?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=N3IgVidGjQk" target="_blank" rel="noopener noreferrer">Why Do Stars Twinkle?</a></p><p class="youtube-embed-meta">Channel: SciShow</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=N3IgVidGjQk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=N3IgVidGjQk">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dzLQgs4MAA0" title="Venus Updates: Strange Flashes, Atmospheric Life and 85000 Volcanoes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dzLQgs4MAA0" target="_blank" rel="noopener noreferrer">Venus Updates: Strange Flashes, Atmospheric Life and 85000 Volcanoes</a></p><p class="youtube-embed-meta">Channel: Anton Petrov &middot; Views: 147.4K &middot; Uploaded: November 2023 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dzLQgs4MAA0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dzLQgs4MAA0">Open on YouTube</a></p></div></div></div>
 
 ## When Colour Change Is Not Enough
 
 Colour change by itself is weak evidence for an unidentified craft because ordinary atmospheric processes readily produce it. A bright object low in the sky that remains fixed relative to the stars, follows the expected position of a known planet, and exhibits colour flashing or shimmering is consistent with atmospheric scintillation and dispersion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Identification studies of UFOs</span><span class="citation-popover-snippet">Identification studies of UFOs</span></span></span>
 
 More useful questions are:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -349,7 +338,6 @@ More useful questions are:
 </div>
 
 In many UFO investigations, the strongest clue is not the colour itself but the combination of a bright planetary object, a [low horizon]({{ 'low-horizon/' | relative_url }}) position, and reports of flashing colours. That pattern closely matches the known optical effects produced when planetary light passes through turbulent air, haze, and thin cloud near the horizon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Identification studies of UFOs</span><span class="citation-popover-snippet">Identification studies of UFOs</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Identification studies of UFOs</span><span class="citation-popover-snippet">Identification studies of UFOs</span></span></span>
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_horizon_planet_color_10ad06-Illustration-3-dark.svg" | relative_url }}" alt="Color Shifts illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_horizon_planet_color_10ad06-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080_horizon_planet_color_10ad06-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -470,15 +458,15 @@ In many UFO investigations, the strongest clue is not the colour itself but the 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=color-shifts-why-low-planets-seem-to-change-colour-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="color-shifts-why-low-planets-seem-to-change-colour-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="{{ '/assets/images/marketplace-covers/c69c50419429aba53ee5.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-planets-seem-to-change-colour-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="why-low-planets-seem-to-change-colour-venus-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rossetti TOP SELECTION Fine Art Prints A1 A2 A3 A4 easy fit wall art poster"><img src="https://i.ebayimg.com/images/g/7lMAAeSwevpooz5m/s-l225.jpg" alt="Listing image for Rossetti TOP SELECTION Fine Art Prints A1 A2 A3 A4 easy fit wall art poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=color-shifts-why-low-planets-seem-to-change-colour-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="color-shifts-why-low-planets-seem-to-change-colour-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-planets-seem-to-change-colour-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="why-low-planets-seem-to-change-colour-venus-poster" target="_blank" rel="sponsored noopener noreferrer">Rossetti TOP SELECTION Fine Art Prints A1 A2 A3 A4 easy fit wall art poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=color-shifts-why-low-planets-seem-to-change-colour-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="color-shifts-why-low-planets-seem-to-change-colour-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-planets-seem-to-change-colour-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="why-low-planets-seem-to-change-colour-venus-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for venus poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: venus poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=color-shifts-why-low-planets-seem-to-change-colour-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="color-shifts-why-low-planets-seem-to-change-colour-ifos-causes-of-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-planets-seem-to-change-colour-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="why-low-planets-seem-to-change-colour-venus-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -486,15 +474,15 @@ In many UFO investigations, the strongest clue is not the colour itself but the 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=color-shifts-why-low-planets-seem-to-change-colour-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="color-shifts-why-low-planets-seem-to-change-colour-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE"><img src="{{ '/assets/images/marketplace-covers/be015d518def7513643e.jpg' | relative_url }}" alt="Listing image for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-planets-seem-to-change-colour-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="why-low-planets-seem-to-change-colour-venus-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PAINTINGS REPRODUCTION POSTER PRINTS - Fine Art - A4 A3 A2 - Home Decor Wall Art"><img src="https://i.ebayimg.com/images/g/wJUAAOSwNI1jXvHb/s-l225.jpg" alt="Listing image for PAINTINGS REPRODUCTION POSTER PRINTS - Fine Art - A4 A3 A2 - Home Decor Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=color-shifts-why-low-planets-seem-to-change-colour-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="color-shifts-why-low-planets-seem-to-change-colour-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-planets-seem-to-change-colour-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="why-low-planets-seem-to-change-colour-venus-poster" target="_blank" rel="sponsored noopener noreferrer">PAINTINGS REPRODUCTION POSTER PRINTS - Fine Art - A4 A3 A2 - Home Decor Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=color-shifts-why-low-planets-seem-to-change-colour-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="color-shifts-why-low-planets-seem-to-change-colour-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-planets-seem-to-change-colour-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="why-low-planets-seem-to-change-colour-venus-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for venus poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: venus poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=color-shifts-why-low-planets-seem-to-change-colour-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="color-shifts-why-low-planets-seem-to-change-colour-ifos-causes-of-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-planets-seem-to-change-colour-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="why-low-planets-seem-to-change-colour-venus-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -502,15 +490,15 @@ In many UFO investigations, the strongest clue is not the colour itself but the 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=color-shifts-why-low-planets-seem-to-change-colour-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="color-shifts-why-low-planets-seem-to-change-colour-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-planets-seem-to-change-colour-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="why-low-planets-seem-to-change-colour-venus-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Venus Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/2qEAAeSwErZpW~3Q/s-l225.jpg" alt="Listing image for Venus Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=color-shifts-why-low-planets-seem-to-change-colour-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="color-shifts-why-low-planets-seem-to-change-colour-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-planets-seem-to-change-colour-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="why-low-planets-seem-to-change-colour-venus-poster" target="_blank" rel="sponsored noopener noreferrer">Venus Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=color-shifts-why-low-planets-seem-to-change-colour-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="color-shifts-why-low-planets-seem-to-change-colour-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-planets-seem-to-change-colour-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="why-low-planets-seem-to-change-colour-venus-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for venus poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: venus poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=color-shifts-why-low-planets-seem-to-change-colour-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="color-shifts-why-low-planets-seem-to-change-colour-ifos-causes-of-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-planets-seem-to-change-colour-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="why-low-planets-seem-to-change-colour-venus-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -518,15 +506,15 @@ In many UFO investigations, the strongest clue is not the colour itself but the 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=color-shifts-why-low-planets-seem-to-change-colour-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="color-shifts-why-low-planets-seem-to-change-colour-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO"><img src="{{ '/assets/images/marketplace-covers/804a6ca65be816e4a5d9.jpg' | relative_url }}" alt="Listing image for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-planets-seem-to-change-colour-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="why-low-planets-seem-to-change-colour-venus-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sandro Botticelli the Birth of Venus Art Print Poster Wall Decor Premium Stylish"><img src="https://i.ebayimg.com/images/g/nPcAAeSwNwJqKIZU/s-l225.jpg" alt="Listing image for Sandro Botticelli the Birth of Venus Art Print Poster Wall Decor Premium Stylish" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=color-shifts-why-low-planets-seem-to-change-colour-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="color-shifts-why-low-planets-seem-to-change-colour-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-planets-seem-to-change-colour-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="why-low-planets-seem-to-change-colour-venus-poster" target="_blank" rel="sponsored noopener noreferrer">Sandro Botticelli the Birth of Venus Art Print Poster Wall Decor Premium Stylish</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=color-shifts-why-low-planets-seem-to-change-colour-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="color-shifts-why-low-planets-seem-to-change-colour-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-planets-seem-to-change-colour-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="why-low-planets-seem-to-change-colour-venus-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for venus poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: venus poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=color-shifts-why-low-planets-seem-to-change-colour-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="color-shifts-why-low-planets-seem-to-change-colour-ifos-causes-of-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-planets-seem-to-change-colour-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="why-low-planets-seem-to-change-colour-venus-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -534,7 +522,7 @@ In many UFO investigations, the strongest clue is not the colour itself but the 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=color-shifts-why-low-planets-seem-to-change-colour-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="color-shifts-why-low-planets-seem-to-change-colour-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-planets-seem-to-change-colour-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="why-low-planets-seem-to-change-colour-venus-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -749,92 +737,92 @@ In many UFO investigations, the strongest clue is not the colour itself but the 
 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Twinkling](https://en.wikipedia.org/wiki/Twinkling)  
+   Link: <a href="https://en.wikipedia.org/wiki/Twinkling" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Twinkling</a>  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Atmospheric refraction  
-   Link: [https://en.wikipedia.org/wiki/Atmospheric_refraction](https://en.wikipedia.org/wiki/Atmospheric_refraction)  
+   Link: <a href="https://en.wikipedia.org/wiki/Atmospheric_refraction" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Atmospheric_refraction</a>  
 
 3. <a id="endnote-3"></a>
    Source: astropix.com  
    Title: Atmospheric Effects Scintillation  
-   Link: [https://www.astropix.com/books/GDPI/CHAPTER1/105.HTM](https://www.astropix.com/books/GDPI/CHAPTER1/105.HTM)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AstropixAtmospheric EffectsScintillation - Scintillation causes rapid changes in brightness in the celestial object being viewed. This is...</p></details>
+   Link: <a href="https://www.astropix.com/books/GDPI/CHAPTER1/105.HTM" target="_blank" rel="noopener noreferrer nofollow">https://www.astropix.com/books/GDPI/CHAPTER1/105.HTM</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Atmospheric EffectsScintillation - Scintillation causes rapid changes in brightness in the celestial object being viewed. This is...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: astroshop.eu  
-   Link: [https://www.astroshop.eu/magazine/practical-tips/peter-s-problem-solvers/colour-fringing-on-low-lying-planets/i%2C1484](https://www.astroshop.eu/magazine/practical-tips/peter-s-problem-solvers/colour-fringing-on-low-lying-planets/i%2C1484)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AstroshopColour fringing on low-lying planetsColour fringing on planets is very common, even with expensive telescopes. The reason for th...</p></details>
+   Link: <a href="https://www.astroshop.eu/magazine/practical-tips/peter-s-problem-solvers/colour-fringing-on-low-lying-planets/i%2C1484" target="_blank" rel="noopener noreferrer nofollow">https://www.astroshop.eu/magazine/practical-tips/peter-s-problem-solvers/colour-fringing-on-low-lying-planets/i%2C1484</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Colour fringing on low-lying planetsColour fringing on planets is very common, even with expensive telescopes. The reason for th...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Identification studies of UFOs  
-   Link: [https://en.wikipedia.org/wiki/Identification_studies_of_UFOs](https://en.wikipedia.org/wiki/Identification_studies_of_UFOs)  
+   Link: <a href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Identification_studies_of_UFOs</a>  
 
 6. <a id="endnote-6"></a>
    Source: hero.epa.gov  
-   Link: [https://hero.epa.gov/reference/2583722/](https://hero.epa.gov/reference/2583722/)  
+   Link: <a href="https://hero.epa.gov/reference/2583722/" target="_blank" rel="noopener noreferrer nofollow">https://hero.epa.gov/reference/2583722/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>of OCS, upper limit to H2S, and latitudinal variations...by VA Krasnopolsky · 2008 · Cited by 58 — Venus was observed at 2.4 and 3.7 mu...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: cloudynights.com  
    Title: 764513 about the twinkling of stars  
-   Link: [https://www.cloudynights.com/forums/topic/764513-about-the-twinkling-of-stars/](https://www.cloudynights.com/forums/topic/764513-about-the-twinkling-of-stars/)  
+   Link: <a href="https://www.cloudynights.com/forums/topic/764513-about-the-twinkling-of-stars/" target="_blank" rel="noopener noreferrer nofollow">https://www.cloudynights.com/forums/topic/764513-about-the-twinkling-of-stars/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cloudy NightsAbout the twinkling of stars3 Apr 2021 — Refractive dispersion is due to the fact that air bends blue light more than red, s...</p></details>
 
 ### Additional References
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/askastronomy/comments/1fhig5z/a_flickering_object_in_the_northern_hemisphere/](https://www.reddit.com/r/askastronomy/comments/1fhig5z/a_flickering_object_in_the_northern_hemisphere/)  
+   Link: <a href="https://www.reddit.com/r/askastronomy/comments/1fhig5z/a_flickering_object_in_the_northern_hemisphere/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askastronomy/comments/1fhig5z/a_flickering_object_in_the_northern_hemisphere/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A “flickering” object in the northern hemisphere: r/askastronomyBright stars twinkle more, and stars near the horizon twinkle more. They...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: morningstarmissions.space  
-   Link: [https://www.morningstarmissions.space/atmosphereanomalies](https://www.morningstarmissions.space/atmosphereanomalies)  
+   Link: <a href="https://www.morningstarmissions.space/atmosphereanomalies" target="_blank" rel="noopener noreferrer nofollow">https://www.morningstarmissions.space/atmosphereanomalies</a>  
 
 10. <a id="endnote-10"></a>
    Source: aasnova.org  
    Title: using spacecraft signals to measure sulfur species on venus  
-   Link: [https://aasnova.org/2023/05/10/using-spacecraft-signals-to-measure-sulfur-species-on-venus/](https://aasnova.org/2023/05/10/using-spacecraft-signals-to-measure-sulfur-species-on-venus/)  
+   Link: <a href="https://aasnova.org/2023/05/10/using-spacecraft-signals-to-measure-sulfur-species-on-venus/" target="_blank" rel="noopener noreferrer nofollow">https://aasnova.org/2023/05/10/using-spacecraft-signals-to-measure-sulfur-species-on-venus/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Using Spacecraft Signals to Measure Sulfur Species on...10 May 2023 — Upcoming missions to Venus will seek trace amounts of sulfur-conta...</p></details>
    Published: May 2023  
 
 11. <a id="endnote-11"></a>
    Source: primitiveproton.com  
    Title: Few stars, such as Betelgeuse, [Sirius](&#123;&#123; 'sirius/' | relative_url &#125;&#125;), and Rigel  
-   Link: [https://primitiveproton.com/atmospheric-scintillation-why-stars-twinkle-and-planets-dont/](https://primitiveproton.com/atmospheric-scintillation-why-stars-twinkle-and-planets-dont/)  
+   Link: <a href="https://primitiveproton.com/atmospheric-scintillation-why-stars-twinkle-and-planets-dont/" target="_blank" rel="noopener noreferrer nofollow">https://primitiveproton.com/atmospheric-scintillation-why-stars-twinkle-and-planets-dont/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Atmospheric Scintillation: Why Stars Twinkle And Planets...It is an astronomical term for changes in stars&#x27; brightness or their colors b...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: orbi.uliege.be  
    Title: ISSI Therm Struct Paper final 12 April 2017  
-   Link: [https://orbi.uliege.be/bitstream/2268/213261/1/ISSI-Therm-Struct%20Paper%20-%20final%20-%2012%20April%202017.pdf](https://orbi.uliege.be/bitstream/2268/213261/1/ISSI-Therm-Struct%20Paper%20-%20final%20-%2012%20April%202017.pdf)  
+   Link: <a href="https://orbi.uliege.be/bitstream/2268/213261/1/ISSI-Therm-Struct%20Paper%20-%20final%20-%2012%20April%202017.pdf" target="_blank" rel="noopener noreferrer nofollow">https://orbi.uliege.be/bitstream/2268/213261/1/ISSI-Therm-Struct%20Paper%20-%20final%20-%2012%20April%202017.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Thermal Structure of the Venus Atmosphereby SS Limaye · 2017 · Cited by 71 — The atmospheric profiles cover the upper troposphere and mes...</p></details>
    Published: April 2017  
 
 13. <a id="endnote-13"></a>
    Source: lpi.usra.edu  
    Title: Venus STDT Report 0409  
-   Link: [https://www.lpi.usra.edu/vexag/documents/reports/Venus-STDT-Report-0409.pdf](https://www.lpi.usra.edu/vexag/documents/reports/Venus-STDT-Report-0409.pdf)  
+   Link: <a href="https://www.lpi.usra.edu/vexag/documents/reports/Venus-STDT-Report-0409.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lpi.usra.edu/vexag/documents/reports/Venus-STDT-Report-0409.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Flagship Mission Study Report 2009Is Xe in Venus&#x27; atmosphere mass fractionated from early atmospheric blow-off, like the Earth&#x27;s or is it...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2404.07669v2](https://arxiv.org/html/2404.07669v2)  
+   Link: <a href="https://arxiv.org/html/2404.07669v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2404.07669v2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Venus12 Apr 2024 — In this chapter, we will describe how various measurements and models have helped us to characterize Venus, starting w...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: insu.hal.science  
-   Link: [https://insu.hal.science/insu-03780953/document](https://insu.hal.science/insu-03780953/document)  
+   Link: <a href="https://insu.hal.science/insu-03780953/document" target="_blank" rel="noopener noreferrer nofollow">https://insu.hal.science/insu-03780953/document</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of Venus&#x27;s dayside disk during the 2020...by YJ Lee · 2022 · Cited by 11 — We performed a unique Venus observation campaign to measure t...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/physicsisfun109/posts/1025367923475385/](https://www.facebook.com/groups/physicsisfun109/posts/1025367923475385/)  
+   Link: <a href="https://www.facebook.com/groups/physicsisfun109/posts/1025367923475385/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/physicsisfun109/posts/1025367923475385/</a>  
 
 17. <a id="endnote-17"></a>
    Source: ntrs.nasa.gov  
-   Link: [https://ntrs.nasa.gov/citations/20030022791](https://ntrs.nasa.gov/citations/20030022791)  
+   Link: <a href="https://ntrs.nasa.gov/citations/20030022791" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/20030022791</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The atmospheric pressure makes flight much easier than on planets such as Mars...</p></details>

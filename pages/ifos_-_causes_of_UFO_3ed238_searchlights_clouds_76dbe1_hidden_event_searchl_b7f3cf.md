@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_cloud_screen_discs_d2af73
 - ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_repeating_beam_patte_8be1f2
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - searchlights
 - event-beams
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - searchlights
 - event-beams
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: A distant promotion or night-time event can make cloud lights look local, silent and unexplained to witnesses miles away.
 hero_summary: A distant promotion or night-time event can make cloud lights look local, silent and unexplained to witnesses miles away.
 layout: default
 permalink: /event-beams/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /searchlights/
 nav_short_title: Event beams
 title: Was the UFO really an event searchlight?
-title_full: Was the UFO really an event searchlight? | Searchlights
+title_full: Was the UFO really an event searchlight?
 display_title_short: Event beams
 display_title: Event beams
 heading_title: Was the UFO really an event searchlight?
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 06:23:25'
-parent_title: How Searchlights Paint UFOs in Clouds | IFOs
+parent_title: How Searchlights Paint UFOs in Clouds
 parent_permalink: /searchlights/
 parent_nav_short_title: Searchlights
 parent_heading_title: How Searchlights Paint UFOs in Clouds
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1
-  title: Searchlights | Ifos Causes Of
+  title: Searchlights | ifos causes of UFO 3 ed 238
   permalink: /searchlights/
   short_title: Searchlights
   heading_title: How Searchlights Paint UFOs in Clouds
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1
-  title: Searchlights | Ifos Causes Of
+  title: Searchlights | ifos causes of UFO 3 ed 238
   permalink: /searchlights/
   short_title: Searchlights
   heading_title: How Searchlights Paint UFOs in Clouds
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: When repeated loops look like intelligent control
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1
-  title: Searchlights | Ifos Causes Of
+  title: Searchlights | ifos causes of UFO 3 ed 238
   permalink: /searchlights/
   short_title: Searchlights
   heading_title: How Searchlights Paint UFOs in Clouds
@@ -266,6 +265,7 @@ next_link:
   permalink: /looping-lights/
   short_title: Looping lights
   heading_title: When repeated loops look like intelligent control
+date: '2026-06-12 00:50:05 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_hidden_event_searchl_b7f3cf-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_hidden_event_searchl_b7f3cf-Illustration-1.webp
@@ -276,7 +276,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_hid
 
 A surprising number of local UFO reports begin with a simple misunderstanding: the witness sees moving lights in the sky but never sees the venue producing them. Nightclubs, fairs, sports grounds, concerts, promotional events and seasonal celebrations often use powerful [searchlights]({{ 'searchlights/' | relative_url }}) designed to be visible for many kilometres. When those beams strike low cloud, haze or mist, they can create bright moving patches that appear to hover, accelerate or manoeuvre silently overhead. Because the source may be hidden behind buildings, hills or distance, observers can easily conclude that the lights originate in the sky itself rather than on the ground. Astronomical outreach organisations and UFO-identification guides routinely cite event searchlights as a common cause of unexplained night-sky sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bco.ie/how-to-identify-a-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bco.ie">[MTU Blackrock Castle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bco.ie</span><span class="citation-popover-snippet">MTU Blackrock CastleHow To Identify A UFO - MTU Blackrock CastleAugust 15, 2022 — Local festivals and event organisers sometimes use sear...</span><span class="citation-popover-meta">Published: August 15, 2022</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_hidden_event_searchl_b7f3cf-Illustration-1-dark.svg" | relative_url }}" alt="Event beams illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_hidden_event_searchl_b7f3cf-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_hidden_event_searchl_b7f3cf-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Was the UFO really an event searchlight?
 
@@ -285,7 +284,6 @@ Within the broader category of searchlights and ground-based beams, hidden event
 The result is a classic perception problem. The observer sees the effect but not the cause. A bright spot projected onto cloud can appear detached from any ground source, especially when the cloud layer is low and the beam itself is difficult to see. Because the illuminated area can move rapidly across a large section of cloud, it may seem to display speeds and direction changes that would be impossible for a physical aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bco.ie/how-to-identify-a-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bco.ie">[MTU Blackrock Castle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bco.ie</span><span class="citation-popover-snippet">MTU Blackrock CastleHow To Identify A UFO - MTU Blackrock CastleAugust 15, 2022 — Local festivals and event organisers sometimes use sear...</span><span class="citation-popover-meta">Published: August 15, 2022</span></span></span>
 
 Reports frequently describe:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -309,9 +307,6 @@ Cloud geometry also contributes to the illusion. A light projected onto a low cl
 
 Astronomy educators at Blackrock Castle Observatory specifically note that rapidly moving diffuse lights illuminating clouds are often produced by searchlights used by festivals and event organisers. They also note that multiple lights may be visible simultaneously, a feature commonly reported in UFO sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bco.ie/how-to-identify-a-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bco.ie">[MTU Blackrock Castle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bco.ie</span><span class="citation-popover-snippet">MTU Blackrock CastleHow To Identify A UFO - MTU Blackrock CastleAugust 15, 2022 — Local festivals and event organisers sometimes use sear...</span><span class="citation-popover-meta">Published: August 15, 2022</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YMqkYzxkVF0" title="Mapping Ireland&#x27;s Night Sky" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YMqkYzxkVF0" target="_blank" rel="noopener noreferrer">Mapping Ireland&#x27;s Night Sky</a></p><p class="youtube-embed-meta">Channel: Blackrock Castle Observatory &middot; Views: 255 &middot; Uploaded: October 2022 &middot; Length: 53 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YMqkYzxkVF0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YMqkYzxkVF0">Open on YouTube</a></p></div></div></div>
-
 ### Why the source often remains unnoticed
 
 Even when witnesses actively search for an explanation, the originating venue may not be obvious.
@@ -325,9 +320,6 @@ Several factors contribute:
 * Weather conditions can make the illuminated cloud far more visible than the beam itself.
 
 This explains why reports often come from people who are genuinely puzzled rather than careless observers. They are seeing a real phenomenon, but they are seeing only one part of it.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gFy6LVlNc6c" title="&quot;Alien&quot; caught on camera in La Junta" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gFy6LVlNc6c" target="_blank" rel="noopener noreferrer">&quot;Alien&quot; caught on camera in La Junta</a></p><p class="youtube-embed-meta">Channel: Denver7</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gFy6LVlNc6c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gFy6LVlNc6c">Open on YouTube</a></p></div></div></div>
 
 ## Common sources such as clubs, fairs and stadiums
 
@@ -350,8 +342,7 @@ Common sources include:
 
 The purpose of these lights is precisely to draw attention from long distances. Ironically, the same visibility that makes them effective advertising tools also makes them a recurring source of UFO reports.
 
-Online discussions provide numerous examples of residents reporting mysterious lights over clouds, only for other observers to identify them as commercial searchlights. In many cases, people initially interpret the lights as unusual aerial objects because the venue itself is not visible from their location. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Unexplained/comments/1hv6p6k/anyone_know_what_these_are/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditAnyone know what these are?: r/UnexplainedIt&#x27;s light from the ground shining on clouds. The only way to know exactly what lights...</span></span></span>
-
+Online discussions provide numerous examples of residents reporting mysterious lights over clouds, only for other observers to identify them as commercial searchlights. In many cases, people initially interpret the lights as unusual aerial objects because the venue itself is not visible from their location. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Unexplained/comments/1hv6p6k/anyone_know_what_these_are/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Anyone know what these are?: r/UnexplainedIt&#x27;s light from the ground shining on clouds. The only way to know exactly what lights...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_hidden_event_searchl_b7f3cf-Illustration-2-dark.svg" | relative_url }}" alt="Event beams illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_hidden_event_searchl_b7f3cf-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_hidden_event_searchl_b7f3cf-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Repetition is a clue
@@ -368,8 +359,7 @@ Investigators of unusual sky sightings often find that the simplest explanation 
 
 When evaluating a report, several checks can be surprisingly effective.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/y_-ek5CsTGc" title="MK-Ultra: The shocking Cold War experiments hidden by the CIA - BBC REEL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=y_-ek5CsTGc" target="_blank" rel="noopener noreferrer">MK-Ultra: The shocking Cold War experiments hidden by the CIA - BBC REEL</a></p><p class="youtube-embed-meta">Channel: BBC Global</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=y_-ek5CsTGc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=y_-ek5CsTGc">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YMqkYzxkVF0" title="Mapping Ireland&#x27;s Night Sky" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YMqkYzxkVF0" target="_blank" rel="noopener noreferrer">Mapping Ireland&#x27;s Night Sky</a></p><p class="youtube-embed-meta">Channel: Blackrock Castle Observatory &middot; Views: 255 &middot; Uploaded: October 2022 &middot; Length: 53 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YMqkYzxkVF0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YMqkYzxkVF0">Open on YouTube</a></p></div></div></div>
 
 ### Look for local events
 
@@ -387,7 +377,6 @@ Low cloud, mist and haze greatly increase the visibility of projected [light pat
 
 Questions worth asking include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Did the lights repeat the same route?
@@ -399,7 +388,6 @@ Questions worth asking include:
 </div>
 
 A positive answer to several of these questions often points toward projected lighting rather than an airborne object.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_hidden_event_searchl_b7f3cf-Illustration-3-dark.svg" | relative_url }}" alt="Event beams illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_hidden_event_searchl_b7f3cf-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_hidden_event_searchl_b7f3cf-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why this explanation is often overlooked
@@ -527,15 +515,15 @@ For this reason, event searchlights remain one of the most practical and frequen
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-beams-was-the-ufo-really-an-event-searchlight-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="event-beams-was-the-ufo-really-an-event-searchlight-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=event+searchlight&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ufo-really-an-event-searchlight-event-searchlight&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event searchlight" data-ebay-reference="was-the-ufo-really-an-event-searchlight-event-searchlight" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Searchlight (Paperback or Softback)"><img src="https://i.ebayimg.com/images/g/SJQAAeSwFbNp~nUS/s-l225.jpg" alt="Listing image for Searchlight (Paperback or Softback)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-beams-was-the-ufo-really-an-event-searchlight-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="event-beams-was-the-ufo-really-an-event-searchlight-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=event+searchlight&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ufo-really-an-event-searchlight-event-searchlight&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event searchlight" data-ebay-reference="was-the-ufo-really-an-event-searchlight-event-searchlight" target="_blank" rel="sponsored noopener noreferrer">Searchlight (Paperback or Softback)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-beams-was-the-ufo-really-an-event-searchlight-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="event-beams-was-the-ufo-really-an-event-searchlight-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=event+searchlight&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ufo-really-an-event-searchlight-event-searchlight&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event searchlight" data-ebay-reference="was-the-ufo-really-an-event-searchlight-event-searchlight" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for event searchlight">Search <span data-ebay-domain-label>eBay.co.uk</span>: event searchlight</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-beams-was-the-ufo-really-an-event-searchlight-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="event-beams-was-the-ufo-really-an-event-searchlight-ifos-causes-of-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=event+searchlight&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ufo-really-an-event-searchlight-event-searchlight&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event searchlight" data-ebay-reference="was-the-ufo-really-an-event-searchlight-event-searchlight" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -543,15 +531,15 @@ For this reason, event searchlights remain one of the most practical and frequen
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-beams-was-the-ufo-really-an-event-searchlight-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="event-beams-was-the-ufo-really-an-event-searchlight-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=event+searchlight&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ufo-really-an-event-searchlight-event-searchlight&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event searchlight" data-ebay-reference="was-the-ufo-really-an-event-searchlight-event-searchlight" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Big Events Hollywood Movie Prop Theatre Search Light Lamp Floor Spo"><img src="https://i.ebayimg.com/images/g/gp4AAOSw1IVbzy8Q/s-l225.jpg" alt="Listing image for Vintage Big Events Hollywood Movie Prop Theatre Search Light Lamp Floor Spo" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-beams-was-the-ufo-really-an-event-searchlight-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="event-beams-was-the-ufo-really-an-event-searchlight-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=event+searchlight&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ufo-really-an-event-searchlight-event-searchlight&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event searchlight" data-ebay-reference="was-the-ufo-really-an-event-searchlight-event-searchlight" target="_blank" rel="sponsored noopener noreferrer">Vintage Big Events Hollywood Movie Prop Theatre Search Light Lamp Floor Spo</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-beams-was-the-ufo-really-an-event-searchlight-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="event-beams-was-the-ufo-really-an-event-searchlight-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=event+searchlight&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ufo-really-an-event-searchlight-event-searchlight&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event searchlight" data-ebay-reference="was-the-ufo-really-an-event-searchlight-event-searchlight" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for event searchlight">Search <span data-ebay-domain-label>eBay.co.uk</span>: event searchlight</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-beams-was-the-ufo-really-an-event-searchlight-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="event-beams-was-the-ufo-really-an-event-searchlight-ifos-causes-of-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=event+searchlight&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ufo-really-an-event-searchlight-event-searchlight&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event searchlight" data-ebay-reference="was-the-ufo-really-an-event-searchlight-event-searchlight" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -559,15 +547,15 @@ For this reason, event searchlights remain one of the most practical and frequen
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-beams-was-the-ufo-really-an-event-searchlight-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="event-beams-was-the-ufo-really-an-event-searchlight-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=event+searchlight&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ufo-really-an-event-searchlight-event-searchlight&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event searchlight" data-ebay-reference="was-the-ufo-really-an-event-searchlight-event-searchlight" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Maisto Diecast Event Searchlight Spot Light Trailer"><img src="https://i.ebayimg.com/images/g/MpgAAOSwrb1lqA3p/s-l225.jpg" alt="Listing image for Maisto Diecast Event Searchlight Spot Light Trailer" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-beams-was-the-ufo-really-an-event-searchlight-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="event-beams-was-the-ufo-really-an-event-searchlight-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=event+searchlight&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ufo-really-an-event-searchlight-event-searchlight&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event searchlight" data-ebay-reference="was-the-ufo-really-an-event-searchlight-event-searchlight" target="_blank" rel="sponsored noopener noreferrer">Maisto Diecast Event Searchlight Spot Light Trailer</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-beams-was-the-ufo-really-an-event-searchlight-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="event-beams-was-the-ufo-really-an-event-searchlight-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=event+searchlight&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ufo-really-an-event-searchlight-event-searchlight&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event searchlight" data-ebay-reference="was-the-ufo-really-an-event-searchlight-event-searchlight" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for event searchlight">Search <span data-ebay-domain-label>eBay.co.uk</span>: event searchlight</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-beams-was-the-ufo-really-an-event-searchlight-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="event-beams-was-the-ufo-really-an-event-searchlight-ifos-causes-of-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=event+searchlight&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ufo-really-an-event-searchlight-event-searchlight&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event searchlight" data-ebay-reference="was-the-ufo-really-an-event-searchlight-event-searchlight" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -575,15 +563,15 @@ For this reason, event searchlights remain one of the most practical and frequen
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-beams-was-the-ufo-really-an-event-searchlight-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="event-beams-was-the-ufo-really-an-event-searchlight-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=event+searchlight&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ufo-really-an-event-searchlight-event-searchlight&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event searchlight" data-ebay-reference="was-the-ufo-really-an-event-searchlight-event-searchlight" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Maisto Diecast Event Searchlight Spot Light Trailer HTF"><img src="https://i.ebayimg.com/images/g/YTMAAOSwHY5lwnKF/s-l225.jpg" alt="Listing image for Maisto Diecast Event Searchlight Spot Light Trailer HTF" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-beams-was-the-ufo-really-an-event-searchlight-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="event-beams-was-the-ufo-really-an-event-searchlight-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=event+searchlight&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ufo-really-an-event-searchlight-event-searchlight&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event searchlight" data-ebay-reference="was-the-ufo-really-an-event-searchlight-event-searchlight" target="_blank" rel="sponsored noopener noreferrer">Maisto Diecast Event Searchlight Spot Light Trailer HTF</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-beams-was-the-ufo-really-an-event-searchlight-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="event-beams-was-the-ufo-really-an-event-searchlight-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=event+searchlight&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ufo-really-an-event-searchlight-event-searchlight&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event searchlight" data-ebay-reference="was-the-ufo-really-an-event-searchlight-event-searchlight" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for event searchlight">Search <span data-ebay-domain-label>eBay.co.uk</span>: event searchlight</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-beams-was-the-ufo-really-an-event-searchlight-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="event-beams-was-the-ufo-really-an-event-searchlight-ifos-causes-of-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=event+searchlight&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ufo-really-an-event-searchlight-event-searchlight&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event searchlight" data-ebay-reference="was-the-ufo-really-an-event-searchlight-event-searchlight" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -591,7 +579,7 @@ For this reason, event searchlights remain one of the most practical and frequen
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-beams-was-the-ufo-really-an-event-searchlight-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="event-beams-was-the-ufo-really-an-event-searchlight-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=event+searchlight&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ufo-really-an-event-searchlight-event-searchlight&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event searchlight" data-ebay-reference="was-the-ufo-really-an-event-searchlight-event-searchlight" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -806,81 +794,81 @@ For this reason, event searchlights remain one of the most practical and frequen
 
 1. <a id="endnote-1"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Unexplained/comments/1hv6p6k/anyone_know_what_these_are/](https://www.reddit.com/r/Unexplained/comments/1hv6p6k/anyone_know_what_these_are/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditAnyone know what these are?: r/UnexplainedIt&#x27;s light from the ground shining on clouds. The only way to know exactly what lights...</p></details>
+   Link: <a href="https://www.reddit.com/r/Unexplained/comments/1hv6p6k/anyone_know_what_these_are/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Unexplained/comments/1hv6p6k/anyone_know_what_these_are/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Anyone know what these are?: r/UnexplainedIt&#x27;s light from the ground shining on clouds. The only way to know exactly what lights...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ireland/comments/l9mozf/huge_searchlights_in_the_sky/](https://www.reddit.com/r/ireland/comments/l9mozf/huge_searchlights_in_the_sky/)  
+   Link: <a href="https://www.reddit.com/r/ireland/comments/l9mozf/huge_searchlights_in_the_sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ireland/comments/l9mozf/huge_searchlights_in_the_sky/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Huge searchlights in the sky: r/irelandCan someone explain these strange lights out in the sky? Have seen them in sky, moving with cloud...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: bco.ie  
-   Link: [https://www.bco.ie/how-to-identify-a-ufo/](https://www.bco.ie/how-to-identify-a-ufo/)  
+   Link: <a href="https://www.bco.ie/how-to-identify-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.bco.ie/how-to-identify-a-ufo/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>MTU Blackrock CastleHow To Identify A UFO - MTU Blackrock CastleAugust 15, 2022 — Local festivals and event organisers sometimes use sear...</p></details>
    Published: August 15, 2022  
 
 4. <a id="endnote-4"></a>
    Source: skyatnightmagazine.com  
    Title: things mistaken for ufos  
-   Link: [https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos](https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos)  
+   Link: <a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Here we&#x27;ll look at some of the most likely suspects.Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: bco.ie  
    Title: International Day of Light  
-   Link: [https://www.bco.ie/international-day-of-light/](https://www.bco.ie/international-day-of-light/)  
+   Link: <a href="https://www.bco.ie/international-day-of-light/" target="_blank" rel="noopener noreferrer nofollow">https://www.bco.ie/international-day-of-light/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>MTU Blackrock CastleIPIC, MTU Blackrock Observatory and CAPPA invite young minds from Cork to experience the wonders of the galaxy, creat...</p></details>
 
 ### Additional References
 
 6. <a id="endnote-6"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...Blue Book UFO investigation, prepared analyses of UFO data for AF, liaison officer between Da...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: alamy.com  
-   Link: [https://www.alamy.com/stock-photo/flying-saucer-lights.html](https://www.alamy.com/stock-photo/flying-saucer-lights.html)  
+   Link: <a href="https://www.alamy.com/stock-photo/flying-saucer-lights.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alamy.com/stock-photo/flying-saucer-lights.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Flying saucer lights hi-res stock photography and imagesFind the perfect flying saucer lights stock photo, image, vector, illustration or...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: x.com  
-   Link: [https://x.com/blackrockcastle/status/1062331561926889472](https://x.com/blackrockcastle/status/1062331561926889472)  
+   Link: <a href="https://x.com/blackrockcastle/status/1062331561926889472" target="_blank" rel="noopener noreferrer nofollow">https://x.com/blackrockcastle/status/1062331561926889472</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>If super-intelligent aliens were to visit Ireland, common...MTU Blackrock Castle Observatory (@blackrockcastle). 10 likes 7... lights w...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: greywoodarts.org  
-   Link: [https://greywoodarts.org/space-fest-events/](https://greywoodarts.org/space-fest-events/)  
+   Link: <a href="https://greywoodarts.org/space-fest-events/" target="_blank" rel="noopener noreferrer nofollow">https://greywoodarts.org/space-fest-events/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Space Fest EventsThe workshop will use electronics and other instruments to compose communications to imagined alien life forms using mus...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/100063703086121/posts/mysterious-light-appears-in-southwales-skies-sparking-ufo-speculation-residents-/1593990752734346/](https://www.facebook.com/100063703086121/posts/mysterious-light-appears-in-southwales-skies-sparking-ufo-speculation-residents-/1593990752734346/)  
+   Link: <a href="https://www.facebook.com/100063703086121/posts/mysterious-light-appears-in-southwales-skies-sparking-ufo-speculation-residents-/1593990752734346/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100063703086121/posts/mysterious-light-appears-in-southwales-skies-sparking-ufo-speculation-residents-/1593990752734346/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Valley TimesThe strange clouds are believed to one of the most common explanations for UFO sightings across the world, the Met Office say...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=YMqkYzxkVF0](https://www.youtube.com/watch?v=YMqkYzxkVF0)  
+   Link: <a href="https://www.youtube.com/watch?v=YMqkYzxkVF0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YMqkYzxkVF0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mapping Ireland&#x27;s Night SkyUse this tutorial to explore the night sky in real-time on Friday the 7th October at 9pm. We&#x27;ll find reference...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/DougWarner.Journalist/posts/uapufo-or-one-heck-of-a-party-i-wasnt-invited-to-in-the-fayetteville-ar-last-nig/1156384962513979/](https://www.facebook.com/DougWarner.Journalist/posts/uapufo-or-one-heck-of-a-party-i-wasnt-invited-to-in-the-fayetteville-ar-last-nig/1156384962513979/)  
+   Link: <a href="https://www.facebook.com/DougWarner.Journalist/posts/uapufo-or-one-heck-of-a-party-i-wasnt-invited-to-in-the-fayetteville-ar-last-nig/1156384962513979/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DougWarner.Journalist/posts/uapufo-or-one-heck-of-a-party-i-wasnt-invited-to-in-the-fayetteville-ar-last-nig/1156384962513979/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>s and causing dummies to scream &quot;UFO sighting&quot;... 1y. Jim Owen.Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DQefErtjsku/?hl=en](https://www.instagram.com/reel/DQefErtjsku/?hl=en)  
+   Link: <a href="https://www.instagram.com/reel/DQefErtjsku/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DQefErtjsku/?hl=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>allegedly showing a &#x27;UFO sending down a giant beam of light&#x27;.Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/andyparkertv/posts/seen-friday-night-around-8pm-in-the-sky-over-getzville-ny-anyone-have-ideas-what/1409412027214386/](https://www.facebook.com/andyparkertv/posts/seen-friday-night-around-8pm-in-the-sky-over-getzville-ny-anyone-have-ideas-what/1409412027214386/)  
+   Link: <a href="https://www.facebook.com/andyparkertv/posts/seen-friday-night-around-8pm-in-the-sky-over-getzville-ny-anyone-have-ideas-what/1409412027214386/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/andyparkertv/posts/seen-friday-night-around-8pm-in-the-sky-over-getzville-ny-anyone-have-ideas-what/1409412027214386/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Seen Friday night around 8pm in the sky over Getzville, NY...A list of UFO reports shows a pattern of strange things hovering above the...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Unidentified flying object  
-   Link: [https://en.wikipedia.org/wiki/Unidentified_flying_object](https://en.wikipedia.org/wiki/Unidentified_flying_object)  
+   Link: <a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified flying objectAn unidentified flying object (UFO) is an object or phenomenon seen in the sky but not yet identified or exp...</p></details>

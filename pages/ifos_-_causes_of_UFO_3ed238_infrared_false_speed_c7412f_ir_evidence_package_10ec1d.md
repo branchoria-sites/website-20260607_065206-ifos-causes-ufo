@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f_puerto_rico_transmed_37f0b5
 - ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f_thermal_contrast_mis_f4b651
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - infrared
 - evidence-package
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - infrared
 - evidence-package
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: A stronger infrared UFO evidence package needs synchronized observations, platform data, calibration and environmental context.
 hero_summary: A stronger infrared UFO evidence package needs synchronized observations, platform data, calibration and environmental context.
 layout: default
 permalink: /evidence-package/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /infrared/
 nav_short_title: Evidence package
 title: What would make infrared UFO footage stronger?
-title_full: What would make infrared UFO footage stronger? | Infrared
+title_full: What would make infrared UFO footage stronger?
 display_title_short: Evidence package
 display_title: Evidence package
 heading_title: What would make infrared UFO footage stronger?
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 15:31:33'
-parent_title: Why Infrared UFO Videos Mislead | IFOs
+parent_title: Why Infrared UFO Videos Mislead
 parent_permalink: /infrared/
 parent_nav_short_title: Infrared
 parent_heading_title: Why Infrared UFO Videos Mislead
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f
-  title: Infrared | Ifos Causes Of
+  title: Infrared | ifos causes of UFO 3 ed 238
   permalink: /infrared/
   short_title: Infrared
   heading_title: Why Infrared UFO Videos Mislead
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f
-  title: Infrared | Ifos Causes Of
+  title: Infrared | ifos causes of UFO 3 ed 238
   permalink: /infrared/
   short_title: Infrared
   heading_title: Why Infrared UFO Videos Mislead
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: When infrared brightness fools UFO viewers
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f
-  title: Infrared | Ifos Causes Of
+  title: Infrared | ifos causes of UFO 3 ed 238
   permalink: /infrared/
   short_title: Infrared
   heading_title: Why Infrared UFO Videos Mislead
@@ -260,6 +259,7 @@ next_link:
   permalink: /go-fast-54a921/
   short_title: Go Fast
   heading_title: Did Go Fast really show a fast object?
+date: '2026-06-12 00:49:06 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f_ir_evidence_package_10ec1d-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f_ir_evidence_package_10ec1d-Illustration-1.webp
@@ -270,7 +270,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f_ir
 
 A single [infrared]({{ 'infrared/' | relative_url }}) UFO clip can be genuine sensor footage and still provide too little information to determine whether the object displayed unusual performance. The central problem is that infrared imagery often records only angular motion on a screen. Without supporting data, it may be impossible to know the object's distance, true speed, altitude, size or even whether apparent motion was caused by the target, the observing platform, or sensor effects. Investigations by NASA and the All-domain Anomaly Resolution Office (AARO) repeatedly highlight the same limitation: unusual-looking footage becomes much more informative when accompanied by [calibrated sensor]({{ 'sensor-artefacts/' | relative_url }}) data, complete metadata and observations from multiple independent sources. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f_ir_evidence_package_10ec1d-Illustration-1-dark.svg" | relative_url }}" alt="Evidence package illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f_ir_evidence_package_10ec1d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f_ir_evidence_package_10ec1d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 In the context of infrared video and [false speed]({{ 'false-speed/' | relative_url }}) impressions, stronger evidence is not primarily about obtaining a sharper image. It is about building a complete evidence package that allows analysts to reconstruct the geometry and environment of the observation.
 
@@ -279,7 +278,6 @@ In the context of infrared video and [false speed]({{ 'false-speed/' | relative_
 An infrared video is only one layer of a larger dataset. To evaluate extraordinary performance claims, investigators need the information surrounding the recording as much as the recording itself.
 
 Key items include:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -296,7 +294,6 @@ Key items include:
 NASA's independent UAP study identified poor sensor calibration, [missing metadata]({{ 'missing-metadata/' | relative_url }}) and incomplete measurements as major obstacles to determining what many reported objects actually were. The report specifically emphasised that metadata describing sensor characteristics and acquisition conditions are necessary to distinguish genuine targets from artefacts or misinterpretations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Responses to Statement of Task</span><span class="citation-popover-snippet">Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — Indeed, several apparent UAP have been demonstrated to be sensor artifacts...</span></span></span>
 
 This matters because many apparent mysteries arise from [missing context]({{ 'missing-context/' | relative_url }}). A bright infrared spot may represent an aircraft, a bird, a balloon, a reflection, a [thermal contrast]({{ 'thermal-contrast/' | relative_url }}) effect or a sensor anomaly. Without the supporting data, analysts cannot reliably narrow the possibilities.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/J7tLyICEOko" title="Engineers Break Down UAP Orb from Infrared Camera" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=J7tLyICEOko" target="_blank" rel="noopener noreferrer">Engineers Break Down UAP Orb from Infrared Camera</a></p><p class="youtube-embed-meta">Channel: THE HANNIBAL TV &middot; Views: 9.7K &middot; Uploaded: December 2024 &middot; Length: 2 minutes 46 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=J7tLyICEOko" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=J7tLyICEOko">Open on YouTube</a></p></div></div></div>
 
@@ -318,12 +315,11 @@ A particularly valuable combination would include:
 
 </div>
 
-The importance of multiple sensors appears repeatedly in official assessments. NASA's study team argued that detecting unknown objects with multiple, well-calibrated sensors is essential because each sensor measures different physical properties and compensates for the weaknesses of the others. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Overall_Conclusions_and_Recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Overall Conclusions and Recommendations</span><span class="citation-popover-snippet">WikisourceIndependent Study Team Report/Overall Conclusions and...14 Oct 2023 — The importance of detecting UAP with multiple, well-cali...</span></span></span>
+The importance of multiple sensors appears repeatedly in official assessments. NASA's study team argued that detecting unknown objects with multiple, well-calibrated sensors is essential because each sensor measures different physical properties and compensates for the weaknesses of the others. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Overall_Conclusions_and_Recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Overall Conclusions and Recommendations</span><span class="citation-popover-snippet">Independent Study Team Report/Overall Conclusions and...14 Oct 2023 — The importance of detecting UAP with multiple, well-cali...</span></span></span>
 
 The 2021 U.S. intelligence preliminary assessment similarly noted that many military UAP reports involved observations across several sensor types, including radar, infrared and electro-optical systems. Multi-sensor observations provide a much stronger foundation for analysis than a single video clip viewed in isolation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">Prelimary Assessment UAP 20210625</span><span class="citation-popover-snippet">Director of National IntelligencePreliminary Assessment: Unidentified Aerial Phenomena...Jun 25, 2021 — majority of UAP were registered...</span></span></span>
 
 For example, if infrared footage appears to show a target accelerating dramatically, radar data can reveal whether the object's actual velocity changed. If the radar does not show the same manoeuvre, investigators may instead suspect a tracking artefact, viewing-angle effect or camera motion.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f_ir_evidence_package_10ec1d-Illustration-2-dark.svg" | relative_url }}" alt="Evidence package illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f_ir_evidence_package_10ec1d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f_ir_evidence_package_10ec1d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How weather and platform motion close loopholes
@@ -331,7 +327,6 @@ For example, if infrared footage appears to show a target accelerating dramatica
 Many apparent anomalies disappear once environmental and platform information are incorporated into the analysis.
 
 Weather data can help determine:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -345,22 +340,16 @@ Weather data can help determine:
 
 Platform data are equally important. Analysts need to know how the aircraft, ship or sensor system was moving while the footage was recorded. A camera mounted on a fast-moving aircraft can create dramatic apparent motion even when the observed object is moving slowly.
 
-AARO's analyses of forced perspective and parallax stress that observers frequently misjudge range, size and speed when distance is unknown. The office's [GoFast]({{ 'gofast/' | relative_url }}) case study concluded that motion parallax can make an object appear to be moving much faster than it actually is when viewed from a rapidly moving aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROEffect of Forced Perspective and Parallax View on UAP...This paper provides a basic overview of these phenomena and their impact on...</span></span></span>
+AARO's analyses of forced perspective and parallax stress that observers frequently misjudge range, size and speed when distance is unknown. The office's [GoFast]({{ 'gofast/' | relative_url }}) case study concluded that motion parallax can make an object appear to be moving much faster than it actually is when viewed from a rapidly moving aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Effect of Forced Perspective and Parallax View on UAP...This paper provides a basic overview of these phenomena and their impact on...</span></span></span>
 
 Consequently, a strong infrared evidence package would include complete aircraft telemetry, sensor orientation data and environmental measurements. These datasets allow investigators to model exactly what the sensor should have seen and compare that prediction with the recorded footage.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/H6eK1VbrHPY" title="How Military Sensors Proved UFO Craft Were Physically Real | WION Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=H6eK1VbrHPY" target="_blank" rel="noopener noreferrer">How Military Sensors Proved UFO Craft Were Physically Real | WION Podcast</a></p><p class="youtube-embed-meta">Channel: WION &middot; Views: 2.1K &middot; Uploaded: May 2026 &middot; Length: 2 minutes 16 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=H6eK1VbrHPY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=H6eK1VbrHPY">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f_ir_evidence_package_10ec1d-Illustration-3-dark.svg" | relative_url }}" alt="Evidence package illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f_ir_evidence_package_10ec1d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f_ir_evidence_package_10ec1d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What would genuinely strengthen a claim of unusual performance?
 
 If an infrared observation were to demonstrate behaviour beyond conventional explanations, the evidence would ideally show the same conclusion emerging from multiple independent lines of analysis.
 
 The most persuasive package would contain:
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fK4VFk2EFr8" title="Digital Night Vision for Astronomy(Sionyx Aurora Pro) - Filming Meteor Showers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fK4VFk2EFr8" target="_blank" rel="noopener noreferrer">Digital Night Vision for Astronomy(Sionyx Aurora Pro) - Filming Meteor Showers</a></p><p class="youtube-embed-meta">Channel: Chasingthemilk</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fK4VFk2EFr8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fK4VFk2EFr8">Open on YouTube</a></p></div></div></div>
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -373,12 +362,11 @@ The most persuasive package would contain:
 
 </div>
 
-This standard is demanding, but it reflects lessons from previous investigations. Several cases that initially appeared extraordinary became less mysterious after analysts gained access to additional geometry, calibration or tracking information. Conversely, some cases remain unresolved precisely because critical technical data are absent. AARO has explicitly noted that certain infrared recordings cannot be fully evaluated due to insufficient technical information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1ko9q2o/aaro_has_posted_another_unresolved_case_video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">This report remains unresolved due to lack of technical data.Read more</span><span class="citation-popover-snippet">RedditAARO has posted another unresolved case (video): &quot;This...May 16, 2025 — This footage, captured by an infrared sensor in 2024, was...</span><span class="citation-popover-meta">Published: May 16, 2025</span></span></span>
+This standard is demanding, but it reflects lessons from previous investigations. Several cases that initially appeared extraordinary became less mysterious after analysts gained access to additional geometry, calibration or tracking information. Conversely, some cases remain unresolved precisely because critical technical data are absent. AARO has explicitly noted that certain infrared recordings cannot be fully evaluated due to insufficient technical information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1ko9q2o/aaro_has_posted_another_unresolved_case_video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">This report remains unresolved due to lack of technical data.Read more</span><span class="citation-popover-snippet">AARO has posted another unresolved case (video): &quot;This...May 16, 2025 — This footage, captured by an infrared sensor in 2024, was...</span><span class="citation-popover-meta">Published: May 16, 2025</span></span></span>
 
 The practical implication is straightforward: a striking infrared clip may be an important starting point, but the strongest UFO evidence is a dataset, not a video. Only when infrared imagery is combined with sensor metadata, independent measurements and environmental context can investigators reliably determine whether they are seeing an ordinary object, a misunderstood observation or something genuinely unusual. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
 
-
-<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f_ir_evidence_package_10ec1d-Illustration-3-dark.svg" | relative_url }}" alt="Evidence package illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f_ir_evidence_package_10ec1d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f_ir_evidence_package_10ec1d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/H6eK1VbrHPY" title="How Military Sensors Proved UFO Craft Were Physically Real | WION Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=H6eK1VbrHPY" target="_blank" rel="noopener noreferrer">How Military Sensors Proved UFO Craft Were Physically Real | WION Podcast</a></p><p class="youtube-embed-meta">Channel: WION &middot; Views: 2.1K &middot; Uploaded: May 2026 &middot; Length: 2 minutes 16 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=H6eK1VbrHPY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=H6eK1VbrHPY">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -497,15 +485,15 @@ The practical implication is straightforward: a striking infrared clip may be an
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-package-what-would-make-infrared-ufo-footage-stronger-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="evidence-package-what-would-make-infrared-ufo-footage-stronger-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO, Sticker Cut Vinyl v2"><img src="{{ '/assets/images/marketplace-covers/363ae3bd666c4dfeb51c.jpg' | relative_url }}" alt="Listing image for UFO, Sticker Cut Vinyl v2" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-make-infrared-ufo-footage-stronger-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="what-would-make-infrared-ufo-footage-stronger-thermal-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MiLESEEY Handheld Thermal Imaging Camera IR Infrared Thermometer Image 192*192"><img src="https://i.ebayimg.com/images/g/e3gAAOSwk9RoPtrM/s-l225.jpg" alt="Listing image for MiLESEEY Handheld Thermal Imaging Camera IR Infrared Thermometer Image 192*192" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-package-what-would-make-infrared-ufo-footage-stronger-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="evidence-package-what-would-make-infrared-ufo-footage-stronger-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">UFO, Sticker Cut Vinyl v2</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-make-infrared-ufo-footage-stronger-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="what-would-make-infrared-ufo-footage-stronger-thermal-camera" target="_blank" rel="sponsored noopener noreferrer">MiLESEEY Handheld Thermal Imaging Camera IR Infrared Thermometer Image 192*192</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-package-what-would-make-infrared-ufo-footage-stronger-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="evidence-package-what-would-make-infrared-ufo-footage-stronger-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo sticker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-make-infrared-ufo-footage-stronger-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="what-would-make-infrared-ufo-footage-stronger-thermal-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for thermal camera">Search <span data-ebay-domain-label>eBay.co.uk</span>: thermal camera</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-package-what-would-make-infrared-ufo-footage-stronger-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="evidence-package-what-would-make-infrared-ufo-footage-stronger-ifos-causes-of-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-make-infrared-ufo-footage-stronger-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="what-would-make-infrared-ufo-footage-stronger-thermal-camera" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -513,15 +501,15 @@ The practical implication is straightforward: a striking infrared clip may be an
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-package-what-would-make-infrared-ufo-footage-stronger-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="evidence-package-what-would-make-infrared-ufo-footage-stronger-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing"><img src="{{ '/assets/images/marketplace-covers/758272a90147e0fdd168.jpg' | relative_url }}" alt="Listing image for Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-make-infrared-ufo-footage-stronger-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="what-would-make-infrared-ufo-footage-stronger-thermal-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FLIR E5 Thermal Imaging Camera E63900, Electrical inspection, Plumbing etc"><img src="https://i.ebayimg.com/images/g/1BAAAeSwdbJqGHNU/s-l225.jpg" alt="Listing image for FLIR E5 Thermal Imaging Camera E63900, Electrical inspection, Plumbing etc" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-package-what-would-make-infrared-ufo-footage-stronger-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="evidence-package-what-would-make-infrared-ufo-footage-stronger-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-make-infrared-ufo-footage-stronger-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="what-would-make-infrared-ufo-footage-stronger-thermal-camera" target="_blank" rel="sponsored noopener noreferrer">FLIR E5 Thermal Imaging Camera E63900, Electrical inspection, Plumbing etc</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-package-what-would-make-infrared-ufo-footage-stronger-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="evidence-package-what-would-make-infrared-ufo-footage-stronger-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo sticker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-make-infrared-ufo-footage-stronger-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="what-would-make-infrared-ufo-footage-stronger-thermal-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for thermal camera">Search <span data-ebay-domain-label>eBay.co.uk</span>: thermal camera</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-package-what-would-make-infrared-ufo-footage-stronger-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="evidence-package-what-would-make-infrared-ufo-footage-stronger-ifos-causes-of-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-make-infrared-ufo-footage-stronger-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="what-would-make-infrared-ufo-footage-stronger-thermal-camera" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -529,15 +517,15 @@ The practical implication is straightforward: a striking infrared clip may be an
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-package-what-would-make-infrared-ufo-footage-stronger-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="evidence-package-what-would-make-infrared-ufo-footage-stronger-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO, Sticker Vinyl Version v6"><img src="{{ '/assets/images/marketplace-covers/b2a8befcf874884cb729.jpg' | relative_url }}" alt="Listing image for UFO, Sticker Vinyl Version v6" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-make-infrared-ufo-footage-stronger-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="what-would-make-infrared-ufo-footage-stronger-thermal-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for M5STACK Thermal Camera 2 Unit (MLX90640) - 110 Degree FoV (ESP32-PICO-D4 MCU)"><img src="https://i.ebayimg.com/images/g/JEMAAeSwE~dqIgUi/s-l225.jpg" alt="Listing image for M5STACK Thermal Camera 2 Unit (MLX90640) - 110 Degree FoV (ESP32-PICO-D4 MCU)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-package-what-would-make-infrared-ufo-footage-stronger-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="evidence-package-what-would-make-infrared-ufo-footage-stronger-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">UFO, Sticker Vinyl Version v6</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-make-infrared-ufo-footage-stronger-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="what-would-make-infrared-ufo-footage-stronger-thermal-camera" target="_blank" rel="sponsored noopener noreferrer">M5STACK Thermal Camera 2 Unit (MLX90640) - 110 Degree FoV (ESP32-PICO-D4 MCU)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-package-what-would-make-infrared-ufo-footage-stronger-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="evidence-package-what-would-make-infrared-ufo-footage-stronger-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo sticker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-make-infrared-ufo-footage-stronger-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="what-would-make-infrared-ufo-footage-stronger-thermal-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for thermal camera">Search <span data-ebay-domain-label>eBay.co.uk</span>: thermal camera</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-package-what-would-make-infrared-ufo-footage-stronger-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="evidence-package-what-would-make-infrared-ufo-footage-stronger-ifos-causes-of-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-make-infrared-ufo-footage-stronger-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="what-would-make-infrared-ufo-footage-stronger-thermal-camera" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -545,15 +533,15 @@ The practical implication is straightforward: a striking infrared clip may be an
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-package-what-would-make-infrared-ufo-footage-stronger-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="evidence-package-what-would-make-infrared-ufo-footage-stronger-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 Sticker Sheet Aliens Vinyl Stickers - UFO Believe Space Planet Hobby #78893"><img src="{{ '/assets/images/marketplace-covers/5521e38509112f04ae4c.jpg' | relative_url }}" alt="Listing image for A4 Sticker Sheet Aliens Vinyl Stickers - UFO Believe Space Planet Hobby #78893" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-make-infrared-ufo-footage-stronger-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="what-would-make-infrared-ufo-footage-stronger-thermal-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FLIR ONE PRO USB-C Android Thermal Camera for Professional Infrared Thermography"><img src="https://i.ebayimg.com/images/g/9bAAAeSwultprUUL/s-l225.jpg" alt="Listing image for FLIR ONE PRO USB-C Android Thermal Camera for Professional Infrared Thermography" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-package-what-would-make-infrared-ufo-footage-stronger-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="evidence-package-what-would-make-infrared-ufo-footage-stronger-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">A4 Sticker Sheet Aliens Vinyl Stickers - UFO Believe Space Planet Hobby #78893</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-make-infrared-ufo-footage-stronger-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="what-would-make-infrared-ufo-footage-stronger-thermal-camera" target="_blank" rel="sponsored noopener noreferrer">FLIR ONE PRO USB-C Android Thermal Camera for Professional Infrared Thermography</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-package-what-would-make-infrared-ufo-footage-stronger-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="evidence-package-what-would-make-infrared-ufo-footage-stronger-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo sticker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-make-infrared-ufo-footage-stronger-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="what-would-make-infrared-ufo-footage-stronger-thermal-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for thermal camera">Search <span data-ebay-domain-label>eBay.co.uk</span>: thermal camera</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-package-what-would-make-infrared-ufo-footage-stronger-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="evidence-package-what-would-make-infrared-ufo-footage-stronger-ifos-causes-of-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-make-infrared-ufo-footage-stronger-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="what-would-make-infrared-ufo-footage-stronger-thermal-camera" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -561,7 +549,7 @@ The practical implication is straightforward: a striking infrared clip may be an
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-package-what-would-make-infrared-ufo-footage-stronger-ifos-causes-of-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo sticker" data-ebay-reference="evidence-package-what-would-make-infrared-ufo-footage-stronger-ifos-causes-of-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-make-infrared-ufo-footage-stronger-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="what-would-make-infrared-ufo-footage-stronger-thermal-camera" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -776,180 +764,180 @@ The practical implication is straightforward: a striking infrared clip may be an
 
 1. <a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: [https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/](https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/)  
+   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through sys...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: en.wikisource.org  
    Title: Responses to Statement of Task  
-   Link: [https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task](https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task)  
+   Link: <a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — Indeed, several apparent UAP have been demonstrated to be sensor artifacts...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: en.wikisource.org  
    Title: Overall Conclusions and Recommendations  
-   Link: [https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Overall_Conclusions_and_Recommendations](https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Overall_Conclusions_and_Recommendations)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WikisourceIndependent Study Team Report/Overall Conclusions and...14 Oct 2023 — The importance of detecting UAP with multiple, well-cali...</p></details>
+   Link: <a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Overall_Conclusions_and_Recommendations" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Overall_Conclusions_and_Recommendations</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Independent Study Team Report/Overall Conclusions and...14 Oct 2023 — The importance of detecting UAP with multiple, well-cali...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROEffect of Forced Perspective and Parallax View on UAP...This paper provides a basic overview of these phenomena and their impact on...</p></details>
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Effect of Forced Perspective and Parallax View on UAP...This paper provides a basic overview of these phenomena and their impact on...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: aaro.mil  
    Title: Go Fast Case Resolution Card Methodology Final  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf](https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO GoFast Case ResolutionFeb 6, 2025 — Motion parallax is an optical effect that induces an observer to perceive that a stationary or s...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
    Title: This report remains unresolved due to lack of technical data.Read more  
-   Link: [https://www.reddit.com/r/UFOs/comments/1ko9q2o/aaro_has_posted_another_unresolved_case_video/](https://www.reddit.com/r/UFOs/comments/1ko9q2o/aaro_has_posted_another_unresolved_case_video/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditAARO has posted another unresolved case (video): &quot;This...May 16, 2025 — This footage, captured by an infrared sensor in 2024, was...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ko9q2o/aaro_has_posted_another_unresolved_case_video/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ko9q2o/aaro_has_posted_another_unresolved_case_video/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO has posted another unresolved case (video): &quot;This...May 16, 2025 — This footage, captured by an infrared sensor in 2024, was...</p></details>
    Published: May 16, 2025  
 
 8. <a id="endnote-8"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/](https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Case Resolution ReportsOn April 26, 2013, an infrared sensor onboard a U.S. Customs and Border Protection aircraft captured footage o...</p></details>
    Published: April 26, 2013  
 
 9. <a id="endnote-9"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThe United States European Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Resolu...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf](https://www.aaro.mil/portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf)  
+   Link: <a href="https://www.aaro.mil/portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>havior. (U) Case Status: Resolved; very likely...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeOur team of experts leads the U.S. government&#x27;s efforts to address Unidentified Anomalous Phenomena (UAP) using a rigorous scien...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: aaro.mil  
    Title: UNCLASSIFIED FY23 Consolidated Annual Report on UAP Oct 25 2023 1236  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf](https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2022 to 30 April 2023, and all UAP reports from any previous time periods that...Read more...</p></details>
    Published: April 2023  
 
 13. <a id="endnote-13"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/UAP-Reporting-Trends/](https://www.aaro.mil/UAP-Cases/UAP-Reporting-Trends/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/UAP-Reporting-Trends/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Reporting-Trends/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Reporting TrendsSensor Artifact, 2, 0.2%. Fireworks, 1, 0.1%. Natural Atmospherics, 1, 0.1%. Reported UAP Morphology. Not all UAP rep...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: en.wikisource.org  
    Title: Page:UAP Independent Study Team Final Report  
-   Link: [https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15](https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15)  
+   Link: <a href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgPage:UAP Independent Study Team - Final Report.pdf/1512 Nov 2023 — Indeed, several apparent UAP have been demonstrated to b...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: en.wikisource.org  
-   Link: [https://en.wikisource.org/wiki/Fiscal_Year_2023_Consolidated_Annual_Report_on_Unidentified_Anomalous_Phenomena/Appendices](https://en.wikisource.org/wiki/Fiscal_Year_2023_Consolidated_Annual_Report_on_Unidentified_Anomalous_Phenomena/Appendices)  
+   Link: <a href="https://en.wikisource.org/wiki/Fiscal_Year_2023_Consolidated_Annual_Report_on_Unidentified_Anomalous_Phenomena/Appendices" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Fiscal_Year_2023_Consolidated_Annual_Report_on_Unidentified_Anomalous_Phenomena/Appendices</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Year 2023 Consolidated Annual Report on...Feb 22, 2024 — (U) AARO assesses that the UAP in this case were almost certainty commercial ai...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/](https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>According to AARO&#x27;s new website, the FLIR, Gimbal and...According to AARO, the FLIR (Tic Tac UAP), Gimbal, and GoFast videos are “unreso...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/](https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/)  
+   Link: <a href="https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA has released the Unidentified Anomalous...This report, commissioned by but produced independently of NASA, is not a review or asses...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/16ik6x5/summary_of_nasa_unidentified_anomalous_phenomena/](https://www.reddit.com/r/UFOs/comments/16ik6x5/summary_of_nasa_unidentified_anomalous_phenomena/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/16ik6x5/summary_of_nasa_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16ik6x5/summary_of_nasa_unidentified_anomalous_phenomena/</a>  
 
 19. <a id="endnote-19"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — This webpage is designed as a resource to provide updates on the UAP Independent Study. NASA Unidentified Anomalo...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: aaro.org  
-   Link: [https://aaro.org/](https://aaro.org/)  
+   Link: <a href="https://aaro.org/" target="_blank" rel="noopener noreferrer nofollow">https://aaro.org/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Association of Americans Resident Overseas: AAROThe Association of Americans Resident Overseas (AARO), founded in 1973 is a global, non-p...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: dni.gov  
    Title: Prelimary Assessment UAP 20210625  
-   Link: [https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf](https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf)  
+   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Director of National IntelligencePreliminary Assessment: Unidentified Aerial Phenomena...Jun 25, 2021 — majority of UAP were registered...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/video/973055/pr-003-unresolved-uap-report-africa-2023](https://www.dvidshub.net/video/973055/pr-003-unresolved-uap-report-africa-2023)  
+   Link: <a href="https://www.dvidshub.net/video/973055/pr-003-unresolved-uap-report-africa-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/973055/pr-003-unresolved-uap-report-africa-2023</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PR-003, Unresolved UAP Report, Africa 2023In 2023, the United States Africa Command submitted a report of an unidentified anomalous pheno...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/video/977839/pr-008-unresolved-uap-report-europe-2022](https://www.dvidshub.net/video/977839/pr-008-unresolved-uap-report-europe-2022)  
+   Link: <a href="https://www.dvidshub.net/video/977839/pr-008-unresolved-uap-report-europe-2022" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/977839/pr-008-unresolved-uap-report-europe-2022</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PR-008, Unresolved UAP Report, Europe 2022The United States European Command submitted a report of an unidentified anomalous phenomenon t...</p></details>
 
 ### Additional References
 
 24. <a id="endnote-24"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/367076053_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-based_Observatories](https://www.researchgate.net/publication/367076053_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-based_Observatories)  
+   Link: <a href="https://www.researchgate.net/publication/367076053_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-based_Observatories" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/367076053_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-based_Observatories</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Scientific Investigation of Unidentified Aerial...23 May 2026 — Current data, often collected by instruments not calibrated for scie...</p></details>
    Published: May 2026  
 
 25. <a id="endnote-25"></a>
    Source: x.com  
-   Link: [https://x.com/DoD_AARO/status/2020988057751781785](https://x.com/DoD_AARO/status/2020988057751781785)  
+   Link: <a href="https://x.com/DoD_AARO/status/2020988057751781785" target="_blank" rel="noopener noreferrer nofollow">https://x.com/DoD_AARO/status/2020988057751781785</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Parody of the All-Domain Anomaly Resolution OfficeAARO concludes that witness accounts, when evaluated against sensor data and environmen...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: thedebrief.org  
-   Link: [https://thedebrief.org/all-domain-anomaly-resolution-office-hosts-private-workshop-with-civilian-researchers-universities-and-government-agencies/](https://thedebrief.org/all-domain-anomaly-resolution-office-hosts-private-workshop-with-civilian-researchers-universities-and-government-agencies/)  
+   Link: <a href="https://thedebrief.org/all-domain-anomaly-resolution-office-hosts-private-workshop-with-civilian-researchers-universities-and-government-agencies/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/all-domain-anomaly-resolution-office-hosts-private-workshop-with-civilian-researchers-universities-and-government-agencies/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution Office Hosts Private...26 Feb 2026 — A recent AARO report outlines new standards for data collection, AI u...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: primitiveproton.com  
-   Link: [https://primitiveproton.com/unidentified-anomalous-phenomena-uap/](https://primitiveproton.com/unidentified-anomalous-phenomena-uap/)  
+   Link: <a href="https://primitiveproton.com/unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://primitiveproton.com/unidentified-anomalous-phenomena-uap/</a>  
 
 28. <a id="endnote-28"></a>
    Source: defensescoop.com  
-   Link: [https://defensescoop.com/2023/10/18/dods-all-domain-anomaly-resolution-office-is-now-investigating-more-than-800-uap-cases/](https://defensescoop.com/2023/10/18/dods-all-domain-anomaly-resolution-office-is-now-investigating-more-than-800-uap-cases/)  
+   Link: <a href="https://defensescoop.com/2023/10/18/dods-all-domain-anomaly-resolution-office-is-now-investigating-more-than-800-uap-cases/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2023/10/18/dods-all-domain-anomaly-resolution-office-is-now-investigating-more-than-800-uap-cases/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DOD&#x27;s All-domain Anomaly Resolution Office confirms...Oct 18, 2023 — A new Pentagon report confirms that AARO has received a total of 80...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2502.06794v2](https://arxiv.org/html/2502.06794v2)  
+   Link: <a href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>evious and concurrent efforts to scientifically study UAP in the expectation...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=TQcqOW39ksk](https://www.youtube.com/watch?v=TQcqOW39ksk)  
+   Link: <a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study ReportNASA commissioned an independent study team to examine unidentified anomalous ph...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: astrobiology.com  
    Title: nasa releases uap independent study report and names research director  
-   Link: [https://astrobiology.com/2023/09/nasa-releases-uap-independent-study-report-and-names-research-director.html](https://astrobiology.com/2023/09/nasa-releases-uap-independent-study-report-and-names-research-director.html)  
+   Link: <a href="https://astrobiology.com/2023/09/nasa-releases-uap-independent-study-report-and-names-research-director.html" target="_blank" rel="noopener noreferrer nofollow">https://astrobiology.com/2023/09/nasa-releases-uap-independent-study-report-and-names-research-director.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Releases UAP Independent Study Report And Names...14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort thr...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: meritalk.com  
    Title: nasa urged to take more permanent role in uap research effort  
-   Link: [https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/](https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/)  
+   Link: <a href="https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/" target="_blank" rel="noopener noreferrer nofollow">https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Urged to Take More Permanent Role in UAP...15 Sept 2023 — The study team found that most UAP data is “hampered by poor sensor calib...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: nevadacurrent.com  
    Title: nasa report finds no evidence that ufos are extraterrestrial  
-   Link: [https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/](https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/)  
+   Link: <a href="https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow">https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>18 Sept 2023 — Analysis of this data is “hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor metad...</p></details>

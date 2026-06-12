@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_stellarium_ufo_recre_d8b620
 - ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_venus_ufo_chart_chec_ca09cd
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - sky-charts
 - horizon-haze
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - sky-charts
 - horizon-haze
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Objects near the horizon can shimmer, change colour or appear to drift, making a fixed planet seem like a moving craft.
 hero_summary: Objects near the horizon can shimmer, change colour or appear to drift, making a fixed planet seem like a moving craft.
 layout: default
 permalink: /horizon-haze/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /sky-charts/
 nav_short_title: Horizon Haze
 title: Why Low Planets Seem to Move
-title_full: Why Low Planets Seem to Move | Sky Charts
+title_full: Why Low Planets Seem to Move
 display_title_short: Horizon Haze
 display_title: Horizon Haze
 heading_title: Why Low Planets Seem to Move
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 21:43:51'
-parent_title: How to Check a UFO Against the Sky | IFOs
+parent_title: How to Check a UFO Against the Sky
 parent_permalink: /sky-charts/
 parent_nav_short_title: Sky Charts
 parent_heading_title: How to Check a UFO Against the Sky
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725
-  title: Sky Charts | Ifos Causes Of
+  title: Sky Charts | ifos causes of UFO 3 ed 238
   permalink: /sky-charts/
   short_title: Sky Charts
   heading_title: How to Check a UFO Against the Sky
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725
-  title: Sky Charts | Ifos Causes Of
+  title: Sky Charts | ifos causes of UFO 3 ed 238
   permalink: /sky-charts/
   short_title: Sky Charts
   heading_title: How to Check a UFO Against the Sky
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: Was the UFO Really Venus?
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725
-  title: Sky Charts | Ifos Causes Of
+  title: Sky Charts | ifos causes of UFO 3 ed 238
   permalink: /sky-charts/
   short_title: Sky Charts
   heading_title: How to Check a UFO Against the Sky
@@ -266,6 +265,7 @@ next_link:
   permalink: /missing-details/
   short_title: Missing Details
   heading_title: Why Some UFO Charts Cannot Decide
+date: '2026-06-12 00:47:49 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_horizon_planet_motio_f1371f-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_horizon_planet_motio_f1371f-Illustration-1.webp
@@ -276,16 +276,14 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_hor
 
 Many UFO reports involve a bright light seen low above the horizon that appears to hover, drift, wobble, change colour, or even move against the background. In a significant number of cases, the object is not moving at all. Instead, atmospheric haze and turbulence near the horizon distort the light from a bright planet such as [Venus]({{ 'venus/' | relative_url }}) or Jupiter, creating the illusion of motion. Astronomers have long noted that Venus, especially when low in the sky, is one of the most commonly misidentified UFOs. NASA's Night Sky Network specifically highlights low-horizon Venus as a frequent source of UFO reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Identifying UFOs and UAPs</span><span class="citation-popover-snippet">NASA ScienceIdentifying UFOs and UAPsDecember 2, 2013 — 1 Dec 2013 — Venus is one of the most confused objects in the sky, especially whe...</span><span class="citation-popover-meta">Published: December 2, 2013</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_horizon_planet_motio_f1371f-Illustration-1-dark.svg" | relative_url }}" alt="Horizon Haze illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_horizon_planet_motio_f1371f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_horizon_planet_motio_f1371f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For investigators using [astronomical charts]({{ 'sky-charts/' | relative_url }}) to check UFO reports, understanding horizon haze is essential. A chart may show a planet fixed in the reported direction, but witnesses often describe movement because the [atmosphere]({{ 'atmosphere/' | relative_url }}) has altered what they perceive rather than where the planet actually is.
+For investigators using astronomical charts to check UFO reports, understanding horizon haze is essential. A chart may show a planet fixed in the reported direction, but witnesses often describe movement because the [atmosphere]({{ 'atmosphere/' | relative_url }}) has altered what they perceive rather than where the planet actually is.
 
 ## Atmospheric Effects Near the Horizon
 
 The atmosphere is thickest when looking toward the horizon. Light from a planet must travel through a much longer path of air than it does when the same object is high overhead. Along that path, the light encounters layers of air with different temperatures, densities, and moisture levels. These layers bend and distort the incoming light in constantly changing ways. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Twinkling" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Several effects become especially important:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -304,12 +302,9 @@ A bright planet viewed through this turbulent layer can therefore appear alive w
 
 Witnesses often report that a bright light was "hovering but moving around slightly" or "drifting back and forth". This description closely matches the visual consequences of atmospheric turbulence.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/O2jJ3wjEyZk" title="Neil deGrasse Tyson Explains Alien Visits, UFOs, and Other Conspiracies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=O2jJ3wjEyZk" target="_blank" rel="noopener noreferrer">Neil deGrasse Tyson Explains Alien Visits, UFOs, and Other Conspiracies</a></p><p class="youtube-embed-meta">Channel: StarTalk</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=O2jJ3wjEyZk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=O2jJ3wjEyZk">Open on YouTube</a></p></div></div></div>
-
 ### Apparent Motion Without Real Motion
 
-Turbulent air behaves like a shifting collection of weak lenses. As these air cells move, the light from a distant object is bent by slightly different amounts. To an observer, the object may appear to jump, wobble, pulse, or drift over small angular distances. The object itself remains stationary relative to the [stars]({{ 'stars/' | relative_url }}), but the eye interprets the changing image as movement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Astronomy/comments/1ecfzh6/something_weird_was_happening_with_the_star_in/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Something weird was happening with the star in the middle</span><span class="citation-popover-snippet">RedditSomething weird was happening with the star in the middle...July 26, 2024 — This phenomenon, known as atmospheric scintillation, c...</span><span class="citation-popover-meta">Published: July 26, 2024</span></span></span>
+Turbulent air behaves like a shifting collection of weak lenses. As these air cells move, the light from a distant object is bent by slightly different amounts. To an observer, the object may appear to jump, wobble, pulse, or drift over small angular distances. The object itself remains stationary relative to the [stars]({{ 'stars/' | relative_url }}), but the eye interprets the changing image as movement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Astronomy/comments/1ecfzh6/something_weird_was_happening_with_the_star_in/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Something weird was happening with the star in the middle</span><span class="citation-popover-snippet">Something weird was happening with the star in the middle...July 26, 2024 — This phenomenon, known as atmospheric scintillation, c...</span><span class="citation-popover-meta">Published: July 26, 2024</span></span></span>
 
 This effect is familiar to astronomers. Reports from observers frequently describe stars or planets seeming to move erratically when atmospheric conditions are poor, particularly near the horizon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Astronomy/comments/x9vgii/disappearing_light_near_venus/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">disappearing light near venus</span><span class="citation-popover-snippet">r/AstronomyThe ISS moves very fast high in the sky and it moves slowly on the horizon.... July 9 2022 Boulder, CO - UFO Sighting? A Mete...</span></span></span>
 
@@ -318,7 +313,6 @@ This effect is familiar to astronomers. Reports from observers frequently descri
 Many UFO witnesses describe lights that switch colours or flash in unusual patterns. Atmospheric dispersion can make a bright low object alternate rapidly between red, orange, yellow, green, blue, and white. [Sirius]({{ 'sirius/' | relative_url }}) is particularly famous for this effect, but bright planets can display similar behaviour when viewed through turbulent air. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cloudynights.com/forums/topic/547826-antares-particular-blinking-apearance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cloudynights.com">[Cloudy Nights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cloudynights.com</span><span class="citation-popover-title">547826 antares particular blinking apearance</span><span class="citation-popover-snippet">Cloudy NightsAntares&#x27; particular blinking apearance24 Aug 2016 — Both stars are often the source of &quot;UFO&quot; reports. There are two phenomen...</span></span></span>
 
 To someone unfamiliar with atmospheric optics, changing colours may suggest powered manoeuvres, rotating lights, or intelligent control. In reality, the colour shifts are occurring in the atmosphere between the observer and the object.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_horizon_planet_motio_f1371f-Illustration-2-dark.svg" | relative_url }}" alt="Horizon Haze illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_horizon_planet_motio_f1371f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_horizon_planet_motio_f1371f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The "Dancing Light" Illusion
@@ -335,7 +329,6 @@ When a bright planet is viewed against a dark sky with few nearby landmarks, the
 
 As a result:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The light may seem much closer than it really is.
@@ -347,9 +340,7 @@ As a result:
 
 This helps explain why witnesses sometimes describe a bright object as following them, pacing a vehicle, or hovering over a distant hill. The apparent relationship between the light and the landscape is often a product of perspective rather than actual movement.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/N3IgVidGjQk" title="Why Do Stars Twinkle?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=N3IgVidGjQk" target="_blank" rel="noopener noreferrer">Why Do Stars Twinkle?</a></p><p class="youtube-embed-meta">Channel: SciShow</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=N3IgVidGjQk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=N3IgVidGjQk">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_horizon_planet_motio_f1371f-Illustration-3-dark.svg" | relative_url }}" alt="Horizon Haze illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_horizon_planet_motio_f1371f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_horizon_planet_motio_f1371f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Chart Checks for Low-Elevation Sightings
 
 When evaluating a UFO report involving a bright light near the horizon, astronomical charts provide a straightforward test.
@@ -357,7 +348,6 @@ When evaluating a UFO report involving a bright light near the horizon, astronom
 First, reconstruct the sky for the reported date, time, and location. If a bright planet occupied the reported position, that immediately becomes a candidate explanation. NASA's guidance for identifying UFO reports specifically notes that Venus, Jupiter, Mercury, Sirius, and other [bright objects]({{ 'bright-objects/' | relative_url }}) near the horizon are frequent sources of confusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Identifying UFOs and UAPs</span><span class="citation-popover-snippet">NASA ScienceIdentifying UFOs and UAPsDecember 2, 2013 — 1 Dec 2013 — Venus is one of the most confused objects in the sky, especially whe...</span><span class="citation-popover-meta">Published: December 2, 2013</span></span></span>
 
 Several clues strengthen the planetary explanation:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -371,17 +361,11 @@ Several clues strengthen the planetary explanation:
 
 Investigators should compare the reported azimuth and elevation with planetarium software or astronomical charts. If Venus or Jupiter appears in the same location and low above the horizon, atmospheric distortion becomes a highly plausible explanation for the perceived motion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Identifying UFOs and UAPs</span><span class="citation-popover-snippet">NASA ScienceIdentifying UFOs and UAPsDecember 2, 2013 — 1 Dec 2013 — Venus is one of the most confused objects in the sky, especially whe...</span><span class="citation-popover-meta">Published: December 2, 2013</span></span></span>
 
-
-<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_horizon_planet_motio_f1371f-Illustration-3-dark.svg" | relative_url }}" alt="Horizon Haze illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_horizon_planet_motio_f1371f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_horizon_planet_motio_f1371f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Horizon Reports Require Extra Caution
 
 Not all low-horizon UFO reports are misidentified planets, but horizon observations are among the least reliable visual observations available. The combination of atmospheric turbulence, haze, colour dispersion, poor depth perception, and limited reference points creates ideal conditions for perceptual errors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Twinkling" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For that reason, a report describing a bright light that hovered, shimmered, changed colour, and appeared to drift slightly near the horizon should always be checked against astronomical charts before more exotic explanations are considered. In many cases, the apparent movement exists not in the sky itself but in the atmosphere through which the observer is looking. NASA Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nightsky.jpl.nasa.gov">[Night Sky Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nightsky.jpl.nasa.gov</span><span class="citation-popover-title">Night Sky Network Identifying UFOs and UAPs</span><span class="citation-popover-snippet">Be polite and patient. If the &quot;UFO&quot; is visible and the person inquiring is there in person, you can...Read more...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wCZI_GYNXis" title="Why Do Stars Twinkle? | Amazing space facts for kids" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wCZI_GYNXis" target="_blank" rel="noopener noreferrer">Why Do Stars Twinkle? | Amazing space facts for kids</a></p><p class="youtube-embed-meta">Channel: Curious Kidcast</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wCZI_GYNXis" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wCZI_GYNXis">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -500,15 +484,15 @@ For that reason, a report describing a bright light that hovered, shimmered, cha
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-haze-why-low-planets-seem-to-move-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="horizon-haze-why-low-planets-seem-to-move-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51"><img src="{{ '/assets/images/marketplace-covers/43c4ee420e151dd41424.jpg' | relative_url }}" alt="Listing image for Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-planets-seem-to-move-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="why-low-planets-seem-to-move-planet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PLANETS SPACE POSTER ART PRINT GALAXY ORBIT STARS SOLAR SYSTEM A3 A4 SIZE"><img src="https://i.ebayimg.com/images/g/lasAAOSwrVZkvcoz/s-l225.jpg" alt="Listing image for PLANETS SPACE POSTER ART PRINT GALAXY ORBIT STARS SOLAR SYSTEM A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-haze-why-low-planets-seem-to-move-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="horizon-haze-why-low-planets-seem-to-move-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-planets-seem-to-move-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="why-low-planets-seem-to-move-planet-poster" target="_blank" rel="sponsored noopener noreferrer">PLANETS SPACE POSTER ART PRINT GALAXY ORBIT STARS SOLAR SYSTEM A3 A4 SIZE</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-haze-why-low-planets-seem-to-move-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="horizon-haze-why-low-planets-seem-to-move-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-planets-seem-to-move-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="why-low-planets-seem-to-move-planet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planet poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: planet poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-haze-why-low-planets-seem-to-move-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="horizon-haze-why-low-planets-seem-to-move-ifos-causes-of-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-planets-seem-to-move-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="why-low-planets-seem-to-move-planet-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -516,15 +500,15 @@ For that reason, a report describing a bright light that hovered, shimmered, cha
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-haze-why-low-planets-seem-to-move-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="horizon-haze-why-low-planets-seem-to-move-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design"><img src="{{ '/assets/images/marketplace-covers/f0858731bf83f620568a.jpg' | relative_url }}" alt="Listing image for Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-planets-seem-to-move-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="why-low-planets-seem-to-move-planet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SOLAR SYSTEM PLANETS SPACE SSPS03 MOVIE POSTER PRINT A4 A3 BUY 2 GET 3RD FREE"><img src="https://i.ebayimg.com/images/g/fWEAAOSw0exaAdPQ/s-l225.jpg" alt="Listing image for SOLAR SYSTEM PLANETS SPACE SSPS03 MOVIE POSTER PRINT A4 A3 BUY 2 GET 3RD FREE" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-haze-why-low-planets-seem-to-move-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="horizon-haze-why-low-planets-seem-to-move-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-planets-seem-to-move-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="why-low-planets-seem-to-move-planet-poster" target="_blank" rel="sponsored noopener noreferrer">SOLAR SYSTEM PLANETS SPACE SSPS03 MOVIE POSTER PRINT A4 A3 BUY 2 GET 3RD FREE</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-haze-why-low-planets-seem-to-move-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="horizon-haze-why-low-planets-seem-to-move-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-planets-seem-to-move-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="why-low-planets-seem-to-move-planet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planet poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: planet poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-haze-why-low-planets-seem-to-move-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="horizon-haze-why-low-planets-seem-to-move-ifos-causes-of-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-planets-seem-to-move-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="why-low-planets-seem-to-move-planet-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -532,15 +516,15 @@ For that reason, a report describing a bright light that hovered, shimmered, cha
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-haze-why-low-planets-seem-to-move-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="horizon-haze-why-low-planets-seem-to-move-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 90s Looney Tunes UFO Alien All Over Print Double Sided T Shirt Mens L"><img src="{{ '/assets/images/marketplace-covers/a7247ae98e9ebed04955.jpg' | relative_url }}" alt="Listing image for Vintage 90s Looney Tunes UFO Alien All Over Print Double Sided T Shirt Mens L" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-planets-seem-to-move-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="why-low-planets-seem-to-move-planet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Forbidden Planet Art Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/edYAAeSw0fFptrvi/s-l225.jpg" alt="Listing image for Forbidden Planet Art Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-haze-why-low-planets-seem-to-move-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="horizon-haze-why-low-planets-seem-to-move-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Vintage 90s Looney Tunes UFO Alien All Over Print Double Sided T Shirt Mens L</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-planets-seem-to-move-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="why-low-planets-seem-to-move-planet-poster" target="_blank" rel="sponsored noopener noreferrer">Forbidden Planet Art Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-haze-why-low-planets-seem-to-move-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="horizon-haze-why-low-planets-seem-to-move-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-planets-seem-to-move-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="why-low-planets-seem-to-move-planet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planet poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: planet poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-haze-why-low-planets-seem-to-move-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="horizon-haze-why-low-planets-seem-to-move-ifos-causes-of-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-planets-seem-to-move-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="why-low-planets-seem-to-move-planet-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -548,15 +532,15 @@ For that reason, a report describing a bright light that hovered, shimmered, cha
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-haze-why-low-planets-seem-to-move-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="horizon-haze-why-low-planets-seem-to-move-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone"><img src="{{ '/assets/images/marketplace-covers/c55bd17eeaec578c24e2.jpg' | relative_url }}" alt="Listing image for Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-planets-seem-to-move-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="why-low-planets-seem-to-move-planet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for (360) OUR SOLAR SYSTEM PLANETS SPACE MAXI POSTER NEW WALL HANGING"><img src="https://i.ebayimg.com/images/g/A1cAAOSwCVZl2Ktc/s-l225.jpg" alt="Listing image for (360) OUR SOLAR SYSTEM PLANETS SPACE MAXI POSTER NEW WALL HANGING" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-haze-why-low-planets-seem-to-move-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="horizon-haze-why-low-planets-seem-to-move-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-planets-seem-to-move-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="why-low-planets-seem-to-move-planet-poster" target="_blank" rel="sponsored noopener noreferrer">(360) OUR SOLAR SYSTEM PLANETS SPACE MAXI POSTER NEW WALL HANGING</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-haze-why-low-planets-seem-to-move-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="horizon-haze-why-low-planets-seem-to-move-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-planets-seem-to-move-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="why-low-planets-seem-to-move-planet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planet poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: planet poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-haze-why-low-planets-seem-to-move-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="horizon-haze-why-low-planets-seem-to-move-ifos-causes-of-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-planets-seem-to-move-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="why-low-planets-seem-to-move-planet-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -564,7 +548,7 @@ For that reason, a report describing a bright light that hovered, shimmered, cha
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-haze-why-low-planets-seem-to-move-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="horizon-haze-why-low-planets-seem-to-move-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-planets-seem-to-move-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="why-low-planets-seem-to-move-planet-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -780,124 +764,124 @@ For that reason, a report describing a bright light that hovered, shimmered, cha
 1. <a id="endnote-1"></a>
    Source: science.nasa.gov  
    Title: Science Identifying UFOs and UAPs  
-   Link: [https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/](https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/)  
+   Link: <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIdentifying UFOs and UAPsDecember 2, 2013 — 1 Dec 2013 — Venus is one of the most confused objects in the sky, especially whe...</p></details>
    Published: December 2, 2013  
 
 2. <a id="endnote-2"></a>
    Source: nightsky.jpl.nasa.gov  
    Title: Night Sky Network Identifying UFOs and UAPs  
-   Link: [https://nightsky.jpl.nasa.gov/news/39/](https://nightsky.jpl.nasa.gov/news/39/)  
+   Link: <a href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow">https://nightsky.jpl.nasa.gov/news/39/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Be polite and patient. If the &quot;UFO&quot; is visible and the person inquiring is there in person, you can...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Twinkling](https://en.wikipedia.org/wiki/Twinkling)  
+   Link: <a href="https://en.wikipedia.org/wiki/Twinkling" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Twinkling</a>  
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
    Title: Something weird was happening with the star in the middle  
-   Link: [https://www.reddit.com/r/Astronomy/comments/1ecfzh6/something_weird_was_happening_with_the_star_in/](https://www.reddit.com/r/Astronomy/comments/1ecfzh6/something_weird_was_happening_with_the_star_in/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditSomething weird was happening with the star in the middle...July 26, 2024 — This phenomenon, known as atmospheric scintillation, c...</p></details>
+   Link: <a href="https://www.reddit.com/r/Astronomy/comments/1ecfzh6/something_weird_was_happening_with_the_star_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Astronomy/comments/1ecfzh6/something_weird_was_happening_with_the_star_in/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Something weird was happening with the star in the middle...July 26, 2024 — This phenomenon, known as atmospheric scintillation, c...</p></details>
    Published: July 26, 2024  
 
 5. <a id="endnote-5"></a>
    Source: earthsky.org  
    Title: Earth Sky Is that a UFO?!  
-   Link: [https://earthsky.org/space/if-its-not-a-ufo-what-is-it/](https://earthsky.org/space/if-its-not-a-ufo-what-is-it/)  
+   Link: <a href="https://earthsky.org/space/if-its-not-a-ufo-what-is-it/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/space/if-its-not-a-ufo-what-is-it/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>There&#x27;s probably an explanation15 Dec 2020 — An experimental rocket test over Norway in 2009, which triggered many UFO reports. Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
    Title: disappearing light near venus  
-   Link: [https://www.reddit.com/r/Astronomy/comments/x9vgii/disappearing_light_near_venus/](https://www.reddit.com/r/Astronomy/comments/x9vgii/disappearing_light_near_venus/)  
+   Link: <a href="https://www.reddit.com/r/Astronomy/comments/x9vgii/disappearing_light_near_venus/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Astronomy/comments/x9vgii/disappearing_light_near_venus/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>r/AstronomyThe ISS moves very fast high in the sky and it moves slowly on the horizon.... July 9 2022 Boulder, CO - UFO Sighting? A Mete...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/1syqcee/what_is_this/](https://www.reddit.com/r/aliens/comments/1syqcee/what_is_this/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/1syqcee/what_is_this/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1syqcee/what_is_this/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is this??: r/aliensPentagon UFO Files Release: Pastors Warn Secret Files Detail &#x27;Demonic Entities&#x27; · r/aliens - Pentagon UFO Files...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/askastronomy/comments/hcr63v/why_do_some_stars_twinkle_and_others_dont/](https://www.reddit.com/r/askastronomy/comments/hcr63v/why_do_some_stars_twinkle_and_others_dont/)  
+   Link: <a href="https://www.reddit.com/r/askastronomy/comments/hcr63v/why_do_some_stars_twinkle_and_others_dont/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askastronomy/comments/hcr63v/why_do_some_stars_twinkle_and_others_dont/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>tting Earth’s atmosphere, but some other stars weren’t...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/AskPhysics/comments/ripgx5/why_do_some_astronomers_say_that_stars_twinkle/](https://www.reddit.com/r/AskPhysics/comments/ripgx5/why_do_some_astronomers_say_that_stars_twinkle/)  
+   Link: <a href="https://www.reddit.com/r/AskPhysics/comments/ripgx5/why_do_some_astronomers_say_that_stars_twinkle/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskPhysics/comments/ripgx5/why_do_some_astronomers_say_that_stars_twinkle/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>han us one question related to physics. What is it?Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: space.com  
    Title: 18527 venus atmosphere  
-   Link: [https://www.space.com/18527-venus-atmosphere.html](https://www.space.com/18527-venus-atmosphere.html)  
+   Link: <a href="https://www.space.com/18527-venus-atmosphere.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/18527-venus-atmosphere.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Venus&#x27; atmosphere: Composition, clouds and weather10 Jan 2024 — Venus&#x27; atmosphere is made mostly of carbon dioxide, according to NASA. Th...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: cloudynights.com  
    Title: 547826 antares particular blinking apearance  
-   Link: [https://www.cloudynights.com/forums/topic/547826-antares-particular-blinking-apearance/](https://www.cloudynights.com/forums/topic/547826-antares-particular-blinking-apearance/)  
+   Link: <a href="https://www.cloudynights.com/forums/topic/547826-antares-particular-blinking-apearance/" target="_blank" rel="noopener noreferrer nofollow">https://www.cloudynights.com/forums/topic/547826-antares-particular-blinking-apearance/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cloudy NightsAntares&#x27; particular blinking apearance24 Aug 2016 — Both stars are often the source of &quot;UFO&quot; reports. There are two phenomen...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: cloudynights.com  
    Title: 40545 twinkling object in the west  
-   Link: [https://www.cloudynights.com/forums/topic/40545-twinkling-object-in-the-west/](https://www.cloudynights.com/forums/topic/40545-twinkling-object-in-the-west/)  
+   Link: <a href="https://www.cloudynights.com/forums/topic/40545-twinkling-object-in-the-west/" target="_blank" rel="noopener noreferrer nofollow">https://www.cloudynights.com/forums/topic/40545-twinkling-object-in-the-west/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Twinkling Object in the West21 Sept 2005 — After inputting your location and time, the only thing bright enough in the west at the said t...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: sky-lens.com  
-   Link: [https://sky-lens.com/guide](https://sky-lens.com/guide)  
+   Link: <a href="https://sky-lens.com/guide" target="_blank" rel="noopener noreferrer nofollow">https://sky-lens.com/guide</a>  
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
    Title: old venus new discovery re analysis of 1970s [nasa data](&#123;&#123; 'nasa-data/' | relative_url &#125;&#125;) shows venus clouds hold w  
-   Link: [https://www.facebook.com/WIONews/posts/old-venus-new-discovery-re-analysis-of-1970s-nasa-data-shows-venus-clouds-hold-w/1159639369608569/](https://www.facebook.com/WIONews/posts/old-venus-new-discovery-re-analysis-of-1970s-nasa-data-shows-venus-clouds-hold-w/1159639369608569/)  
+   Link: <a href="https://www.facebook.com/WIONews/posts/old-venus-new-discovery-re-analysis-of-1970s-nasa-data-shows-venus-clouds-hold-w/1159639369608569/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/old-venus-new-discovery-re-analysis-of-1970s-nasa-data-shows-venus-clouds-hold-w/1159639369608569/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Old Venus, new discovery: Re-analysis of 1970s NASA...Astronomers examined the chemical composition of Venus&#x27;s thick atmosphere and foun...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: universemagazine.com  
    Title: known flying objects sky phenomena we often mistake for ufos  
-   Link: [https://universemagazine.com/en/known-flying-objects-sky-phenomena-we-often-mistake-for-ufos/?srsltid=AfmBOoqx52o0acitQPLsoRGKbs3K56V8VgeqfMqPP6rMO6I2yKWX9cz7](https://universemagazine.com/en/known-flying-objects-sky-phenomena-we-often-mistake-for-ufos/?srsltid=AfmBOoqx52o0acitQPLsoRGKbs3K56V8VgeqfMqPP6rMO6I2yKWX9cz7)  
+   Link: <a href="https://universemagazine.com/en/known-flying-objects-sky-phenomena-we-often-mistake-for-ufos/?srsltid=AfmBOoqx52o0acitQPLsoRGKbs3K56V8VgeqfMqPP6rMO6I2yKWX9cz7" target="_blank" rel="noopener noreferrer nofollow">https://universemagazine.com/en/known-flying-objects-sky-phenomena-we-often-mistake-for-ufos/?srsltid=AfmBOoqx52o0acitQPLsoRGKbs3K56V8VgeqfMqPP6rMO6I2yKWX9cz7</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Known Flying Objects: Sky Phenomena We Often Mistake...12 Oct 2024 — In this article, we delve into the subject of UFOs, particularly th...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: pubs.aip.org  
    Title: Demonstrations of atmospheric scintillation Stars  
-   Link: [https://pubs.aip.org/aapt/pte/article/63/2/134/3332305/Demonstrations-of-atmospheric-scintillation-Stars](https://pubs.aip.org/aapt/pte/article/63/2/134/3332305/Demonstrations-of-atmospheric-scintillation-Stars)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>planets1 Feb 2025 — Here we present easy and straightforward demonstrations for twinkling stars and essentially non-twinkling planets tha...</p></details>
+   Link: <a href="https://pubs.aip.org/aapt/pte/article/63/2/134/3332305/Demonstrations-of-atmospheric-scintillation-Stars" target="_blank" rel="noopener noreferrer nofollow">https://pubs.aip.org/aapt/pte/article/63/2/134/3332305/Demonstrations-of-atmospheric-scintillation-Stars</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>planets1 Feb 2025 — Here we present easy and straightforward demonstrations for [twinkling stars](&amp;#123;&amp;#123; &#x27;twinkling-stars/&#x27; | relative_url &amp;#125;&amp;#125;) and essentially non-twinkling planets tha...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40omarvferro/when-the-sky-tricked-us-the-most-famous-ufos-that-turned-out-to-be-nothing-but-nature-showing-5359c8ff815a](https://medium.com/%40omarvferro/when-the-sky-tricked-us-the-most-famous-ufos-that-turned-out-to-be-nothing-but-nature-showing-5359c8ff815a)  
+   Link: <a href="https://medium.com/%40omarvferro/when-the-sky-tricked-us-the-most-famous-ufos-that-turned-out-to-be-nothing-but-nature-showing-5359c8ff815a" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40omarvferro/when-the-sky-tricked-us-the-most-famous-ufos-that-turned-out-to-be-nothing-but-nature-showing-5359c8ff815a</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>misidentified as flashing or moving UFOs near the horizon.Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: medium.com  
-   Link: [https://medium.com/starts-with-a-bang/ask-ethan-can-science-explain-ufo-sightings-99cae1fba3a](https://medium.com/starts-with-a-bang/ask-ethan-can-science-explain-ufo-sightings-99cae1fba3a)  
+   Link: <a href="https://medium.com/starts-with-a-bang/ask-ethan-can-science-explain-ufo-sightings-99cae1fba3a" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/starts-with-a-bang/ask-ethan-can-science-explain-ufo-sightings-99cae1fba3a</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>he horizon.... effects of atmospheric distortion on...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/AstroKirsten/posts/why-do-stars-twinkle-but-planets-dont-heres-whats-going-oneven-though-stars-are-/1343560821104506/](https://www.facebook.com/AstroKirsten/posts/why-do-stars-twinkle-but-planets-dont-heres-whats-going-oneven-though-stars-are-/1343560821104506/)  
+   Link: <a href="https://www.facebook.com/AstroKirsten/posts/why-do-stars-twinkle-but-planets-dont-heres-whats-going-oneven-though-stars-are-/1343560821104506/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AstroKirsten/posts/why-do-stars-twinkle-but-planets-dont-heres-whats-going-oneven-though-stars-are-/1343560821104506/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>e. Planets typically don&#x27;t twinkle as much as stars because they...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: kqed.org  
    Title: ufo lgm omg what is that thing in the sky  
-   Link: [https://www.kqed.org/quest/35359/ufo-lgm-omg-what-is-that-thing-in-the-sky](https://www.kqed.org/quest/35359/ufo-lgm-omg-what-is-that-thing-in-the-sky)  
+   Link: <a href="https://www.kqed.org/quest/35359/ufo-lgm-omg-what-is-that-thing-in-the-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.kqed.org/quest/35359/ufo-lgm-omg-what-is-that-thing-in-the-sky</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO? LGM? OMG! What is That Thing in the Sky?20 Apr 2012 —... explanation is a flying saucer. My process is to look for the... By the w...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/bbcherefordandworcester/posts/have-you-ever-seen-a-ufo-or-something-you-couldnt-explaina-new-report-by-nasa-di/10012719115467073/](https://www.facebook.com/bbcherefordandworcester/posts/have-you-ever-seen-a-ufo-or-something-you-couldnt-explaina-new-report-by-nasa-di/10012719115467073/)  
+   Link: <a href="https://www.facebook.com/bbcherefordandworcester/posts/have-you-ever-seen-a-ufo-or-something-you-couldnt-explaina-new-report-by-nasa-di/10012719115467073/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bbcherefordandworcester/posts/have-you-ever-seen-a-ufo-or-something-you-couldnt-explaina-new-report-by-nasa-di/10012719115467073/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>d not conclude extra-terrestrial life exists, but also didn&#x27;t...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
    Title: You can see it changing colours in real  
-   Link: [https://www.facebook.com/groups/AstronomyNo1/posts/5192188810826159/](https://www.facebook.com/groups/AstronomyNo1/posts/5192188810826159/)  
+   Link: <a href="https://www.facebook.com/groups/AstronomyNo1/posts/5192188810826159/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/AstronomyNo1/posts/5192188810826159/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Can anyone explain what this is please it seemed to be...Can anyone explain what this is please it seemed to be some sort of star but it...</p></details>

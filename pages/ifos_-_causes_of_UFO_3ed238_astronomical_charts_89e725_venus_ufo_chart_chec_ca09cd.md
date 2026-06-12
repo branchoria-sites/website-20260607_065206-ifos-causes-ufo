@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_missing_ufo_sighting_dd6a86
 - ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_stellarium_ufo_recre_d8b620
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - sky-charts
 - venus-checks
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - sky-charts
 - venus-checks
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Venus can look like a hovering UFO when it shines low in twilight, especially if a chart places it exactly where witnesses looked.
 hero_summary: Venus can look like a hovering UFO when it shines low in twilight, especially if a chart places it exactly where witnesses looked.
 layout: default
 permalink: /when-investigators-compare-a-ufo/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /sky-charts/
 nav_short_title: When Investigators Compare A UFO Report With An...
 title: Was the UFO Really Venus?
-title_full: Was the UFO Really Venus? | Sky Charts
+title_full: Was the UFO Really Venus?
 display_title_short: When Investigators Compare A UFO Report With An...
 display_title: When Investigators Compare A UFO Report With An...
 heading_title: Was the UFO Really Venus?
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 21:43:23'
-parent_title: How to Check a UFO Against the Sky | IFOs
+parent_title: How to Check a UFO Against the Sky
 parent_permalink: /sky-charts/
 parent_nav_short_title: Sky Charts
 parent_heading_title: How to Check a UFO Against the Sky
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725
-  title: Sky Charts | Ifos Causes Of
+  title: Sky Charts | ifos causes of UFO 3 ed 238
   permalink: /sky-charts/
   short_title: Sky Charts
   heading_title: How to Check a UFO Against the Sky
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725
-  title: Sky Charts | Ifos Causes Of
+  title: Sky Charts | ifos causes of UFO 3 ed 238
   permalink: /sky-charts/
   short_title: Sky Charts
   heading_title: How to Check a UFO Against the Sky
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: How to Rebuild a UFO Sky
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725
-  title: Sky Charts | Ifos Causes Of
+  title: Sky Charts | ifos causes of UFO 3 ed 238
   permalink: /sky-charts/
   short_title: Sky Charts
   heading_title: How to Check a UFO Against the Sky
@@ -260,6 +259,7 @@ prev_link:
   permalink: /stellarium-use/
   short_title: Stellarium Use
   heading_title: How to Rebuild a UFO Sky
+date: '2026-06-12 00:48:41 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_venus_ufo_chart_chec_ca09cd-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_venus_ufo_chart_chec_ca09cd-Illustration-1.webp
@@ -269,7 +269,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_ven
 ## Introduction
 
 When investigators compare a UFO report with an astronomical chart, [Venus]({{ 'venus/' | relative_url }}) is often one of the first objects they check. The reason is simple: Venus is the brightest planet visible from Earth and can appear as an intense, stationary light low in the sky during evening or morning twilight. When a chart places Venus exactly where a witness reported a hovering or glowing object, the match can be strong evidence that the sighting was an identified flying object rather than an unknown one. NASA's Night Sky Network notes that bright, low-horizon Venus has been reported as a UFO many times, while UFO reporting organisations routinely warn that Venus is among the most common sources of mistaken reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nightsky.jpl.nasa.gov">[Night Sky Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nightsky.jpl.nasa.gov</span><span class="citation-popover-title">Night Sky Network Identifying UFOs and UAPs</span><span class="citation-popover-snippet">Venus shining bright and low has been reported many times as a UFO.... lights...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">identifying ufos and uaps</span><span class="citation-popover-snippet">NASA ScienceIdentifying UFOs and UAPs1 Dec 2013 — Many of us have been observing Venus when a call or message comes through, asking us, &quot;...</span></span></span>
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_venus_ufo_chart_chec_ca09cd-Illustration-1-dark.svg" | relative_url }}" alt="When Investigators Compare A UFO Report With An Astronomical Chart,... illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_venus_ufo_chart_chec_ca09cd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_venus_ufo_chart_chec_ca09cd-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The key question is not whether Venus can be mistaken for a UFO—it clearly can—but whether the planet's position and appearance match the details of a particular report.
@@ -286,12 +285,11 @@ Astronomers have repeatedly warned that especially bright apparitions of Venus c
 
 ## Chart Clues That Make Venus a Strong Match
 
-[Astronomical charts]({{ 'sky-charts/' | relative_url }}) become valuable when they do more than show Venus somewhere in the sky. A convincing identification usually involves several pieces of agreement between the report and the reconstructed sky.
+Astronomical charts become valuable when they do more than show Venus somewhere in the sky. A convincing identification usually involves several pieces of agreement between the report and the reconstructed sky.
 
 ### The direction matches
 
 The strongest clue is positional agreement. If a witness reported a bright light low in the western or south-western sky after sunset, and a chart shows Venus in that exact area, the correspondence is significant. Likewise, a pre-dawn report of a brilliant object in the eastern sky may align closely with Venus during its morning-star phase. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">identifying ufos and uaps</span><span class="citation-popover-snippet">NASA ScienceIdentifying UFOs and UAPs1 Dec 2013 — Many of us have been observing Venus when a call or message comes through, asking us, &quot;...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/49TKDQH_hJ8" title="Curiosity sees Earth and Venus through twilight on Mars" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=49TKDQH_hJ8" target="_blank" rel="noopener noreferrer">Curiosity sees Earth and Venus through twilight on Mars</a></p><p class="youtube-embed-meta">Channel: VideoFromSpace &middot; Views: 13.4K &middot; Uploaded: June 2020 &middot; Length: 1 minute 6 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=49TKDQH_hJ8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=49TKDQH_hJ8">Open on YouTube</a></p></div></div></div>
 
@@ -302,7 +300,6 @@ Venus follows predictable cycles. It appears either in the evening sky after sun
 ### The reported behaviour matches a planet
 
 Many Venus-related UFO reports share common features:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -316,7 +313,6 @@ Many Venus-related UFO reports share common features:
 </div>
 
 These descriptions closely match how Venus often appears under real viewing conditions. UFO reporting organisations such as the National UFO Reporting Center specifically caution that a bright, stationary, silver-white light near the horizon is often Venus. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">, and not a UFO. Jupiter may appear higher in the...Read more...</span></span></span>
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_venus_ufo_chart_chec_ca09cd-Illustration-2-dark.svg" | relative_url }}" alt="When Investigators Compare A UFO Report With An Astronomical Chart,... illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_venus_ufo_chart_chec_ca09cd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_venus_ufo_chart_chec_ca09cd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The brightness fits the witness description
@@ -335,9 +331,7 @@ Modern UAP investigators and scientific commentators continue to list Venus amon
 
 The recurring pattern is not that every UFO is Venus, but that Venus repeatedly generates reports that initially appear mysterious until the sky is reconstructed.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TwfCJZXTy3I" title="Did we just find life on Venus?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TwfCJZXTy3I" target="_blank" rel="noopener noreferrer">Did we just find life on Venus?</a></p><p class="youtube-embed-meta">Channel: Cambridge University Astronomy &middot; Views: 1.8K &middot; Uploaded: September 2020 &middot; Length: 45 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TwfCJZXTy3I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TwfCJZXTy3I">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_venus_ufo_chart_chec_ca09cd-Illustration-3-dark.svg" | relative_url }}" alt="When Investigators Compare A UFO Report With An Astronomical Chart,... illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_venus_ufo_chart_chec_ca09cd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_venus_ufo_chart_chec_ca09cd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When a Venus Explanation Is Too Weak
 
 A chart showing Venus in roughly the right area is not, by itself, enough to close a case.
@@ -355,17 +349,13 @@ For example:
 
 Investigators should therefore treat Venus as a hypothesis to test, not as an automatic dismissal. A good match requires agreement in direction, altitude, time, brightness and observed behaviour. If several of those elements fail, another explanation should be explored.
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TwfCJZXTy3I" title="Did we just find life on Venus?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TwfCJZXTy3I" target="_blank" rel="noopener noreferrer">Did we just find life on Venus?</a></p><p class="youtube-embed-meta">Channel: Cambridge University Astronomy &middot; Views: 1.8K &middot; Uploaded: September 2020 &middot; Length: 45 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TwfCJZXTy3I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TwfCJZXTy3I">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_venus_ufo_chart_chec_ca09cd-Illustration-3-dark.svg" | relative_url }}" alt="When Investigators Compare A UFO Report With An Astronomical Chart,... illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_venus_ufo_chart_chec_ca09cd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725_venus_ufo_chart_chec_ca09cd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Practical Value of a Venus Check
 
 For UFO investigations, the value of checking Venus is that it offers a clear, objective test. Planetary positions can be reconstructed precisely decades after a sighting. If a chart shows Venus exactly where witnesses reported a hovering light, and the reported appearance matches how Venus would have looked under those atmospheric conditions, the case gains a straightforward and evidence-based explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nightsky.jpl.nasa.gov">[Night Sky Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nightsky.jpl.nasa.gov</span><span class="citation-popover-title">Night Sky Network Identifying UFOs and UAPs</span><span class="citation-popover-snippet">Venus shining bright and low has been reported many times as a UFO.... lights...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">identifying ufos and uaps</span><span class="citation-popover-snippet">NASA ScienceIdentifying UFOs and UAPs1 Dec 2013 — Many of us have been observing Venus when a call or message comes through, asking us, &quot;...</span></span></span>
 
 Because Venus is bright, conspicuous and frequently misunderstood, it remains one of the most important astronomical objects to examine whenever a UFO report centres on a brilliant stationary light in twilight.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PUhOc-K7Ycw" title="Ask Ellen: What things are most commonly confused with UFOs?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PUhOc-K7Ycw" target="_blank" rel="noopener noreferrer">Ask Ellen: What things are most commonly confused with UFOs?</a></p><p class="youtube-embed-meta">Channel: WOOD TV8</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PUhOc-K7Ycw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PUhOc-K7Ycw">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -484,15 +474,15 @@ Because Venus is bright, conspicuous and frequently misunderstood, it remains on
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-investigators-compare-a-ufo-was-the-ufo-really-venus-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="when-investigators-compare-a-ufo-was-the-ufo-really-venus-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ufo-really-venus-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="was-the-ufo-really-venus-venus-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Birth of Venus Reborn Framed Ar Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/nkMAAeSwQeVp1Tpy/s-l225.jpg" alt="Listing image for The Birth of Venus Reborn Framed Ar Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-investigators-compare-a-ufo-was-the-ufo-really-venus-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="when-investigators-compare-a-ufo-was-the-ufo-really-venus-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ufo-really-venus-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="was-the-ufo-really-venus-venus-poster" target="_blank" rel="sponsored noopener noreferrer">The Birth of Venus Reborn Framed Ar Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-investigators-compare-a-ufo-was-the-ufo-really-venus-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="when-investigators-compare-a-ufo-was-the-ufo-really-venus-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ufo-really-venus-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="was-the-ufo-really-venus-venus-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for venus poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: venus poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-investigators-compare-a-ufo-was-the-ufo-really-venus-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="when-investigators-compare-a-ufo-was-the-ufo-really-venus-ifos-causes-of-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ufo-really-venus-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="was-the-ufo-really-venus-venus-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -500,15 +490,15 @@ Because Venus is bright, conspicuous and frequently misunderstood, it remains on
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-investigators-compare-a-ufo-was-the-ufo-really-venus-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="when-investigators-compare-a-ufo-was-the-ufo-really-venus-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Programme Michael Schenker Original Official Misdemeanor World Tour 1986"><img src="{{ '/assets/images/marketplace-covers/afd3d020d3403f6473d1.jpg' | relative_url }}" alt="Listing image for UFO Programme Michael Schenker Original Official Misdemeanor World Tour 1986" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ufo-really-venus-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="was-the-ufo-really-venus-venus-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CLASSIC PAINTERS POSTERS PRINTS - Famous Art - A4 A3 A2 - Home Decor Fine Art"><img src="https://i.ebayimg.com/images/g/BYYAAOSwTkBjXuNC/s-l225.jpg" alt="Listing image for CLASSIC PAINTERS POSTERS PRINTS - Famous Art - A4 A3 A2 - Home Decor Fine Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-investigators-compare-a-ufo-was-the-ufo-really-venus-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="when-investigators-compare-a-ufo-was-the-ufo-really-venus-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Programme Michael Schenker Original Official Misdemeanor World Tour 1986</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ufo-really-venus-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="was-the-ufo-really-venus-venus-poster" target="_blank" rel="sponsored noopener noreferrer">CLASSIC PAINTERS POSTERS PRINTS - Famous Art - A4 A3 A2 - Home Decor Fine Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-investigators-compare-a-ufo-was-the-ufo-really-venus-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="when-investigators-compare-a-ufo-was-the-ufo-really-venus-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ufo-really-venus-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="was-the-ufo-really-venus-venus-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for venus poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: venus poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-investigators-compare-a-ufo-was-the-ufo-really-venus-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="when-investigators-compare-a-ufo-was-the-ufo-really-venus-ifos-causes-of-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ufo-really-venus-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="was-the-ufo-really-venus-venus-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -516,15 +506,15 @@ Because Venus is bright, conspicuous and frequently misunderstood, it remains on
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-investigators-compare-a-ufo-was-the-ufo-really-venus-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="when-investigators-compare-a-ufo-was-the-ufo-really-venus-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA"><img src="{{ '/assets/images/marketplace-covers/d1a9ede89dec7aff09e9.jpg' | relative_url }}" alt="Listing image for UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ufo-really-venus-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="was-the-ufo-really-venus-venus-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sandro Botticelli the Birth of Venus Art Print Poster Wall Decor Premium Stylish"><img src="https://i.ebayimg.com/images/g/1N0AAeSwJSpp1n0b/s-l225.jpg" alt="Listing image for Sandro Botticelli the Birth of Venus Art Print Poster Wall Decor Premium Stylish" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-investigators-compare-a-ufo-was-the-ufo-really-venus-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="when-investigators-compare-a-ufo-was-the-ufo-really-venus-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ufo-really-venus-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="was-the-ufo-really-venus-venus-poster" target="_blank" rel="sponsored noopener noreferrer">Sandro Botticelli the Birth of Venus Art Print Poster Wall Decor Premium Stylish</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-investigators-compare-a-ufo-was-the-ufo-really-venus-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="when-investigators-compare-a-ufo-was-the-ufo-really-venus-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ufo-really-venus-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="was-the-ufo-really-venus-venus-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for venus poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: venus poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-investigators-compare-a-ufo-was-the-ufo-really-venus-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="when-investigators-compare-a-ufo-was-the-ufo-really-venus-ifos-causes-of-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ufo-really-venus-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="was-the-ufo-really-venus-venus-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -532,15 +522,15 @@ Because Venus is bright, conspicuous and frequently misunderstood, it remains on
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-investigators-compare-a-ufo-was-the-ufo-really-venus-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="when-investigators-compare-a-ufo-was-the-ufo-really-venus-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO 1982 Tour Programme Book With Poster"><img src="{{ '/assets/images/marketplace-covers/9c0ed3d28411d7c56755.jpg' | relative_url }}" alt="Listing image for UFO 1982 Tour Programme Book With Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ufo-really-venus-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="was-the-ufo-really-venus-venus-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Venus Movie Poster Art Cinema Film A5 A4 A3 A2 A1 MAXI- 1245"><img src="https://i.ebayimg.com/images/g/DCoAAOSwl9Bj~l~E/s-l225.jpg" alt="Listing image for Venus Movie Poster Art Cinema Film A5 A4 A3 A2 A1 MAXI- 1245" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-investigators-compare-a-ufo-was-the-ufo-really-venus-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="when-investigators-compare-a-ufo-was-the-ufo-really-venus-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO 1982 Tour Programme Book With Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ufo-really-venus-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="was-the-ufo-really-venus-venus-poster" target="_blank" rel="sponsored noopener noreferrer">Venus Movie Poster Art Cinema Film A5 A4 A3 A2 A1 MAXI- 1245</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-investigators-compare-a-ufo-was-the-ufo-really-venus-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="when-investigators-compare-a-ufo-was-the-ufo-really-venus-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ufo-really-venus-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="was-the-ufo-really-venus-venus-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for venus poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: venus poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-investigators-compare-a-ufo-was-the-ufo-really-venus-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="when-investigators-compare-a-ufo-was-the-ufo-really-venus-ifos-causes-of-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ufo-really-venus-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="was-the-ufo-really-venus-venus-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -548,7 +538,7 @@ Because Venus is bright, conspicuous and frequently misunderstood, it remains on
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-investigators-compare-a-ufo-was-the-ufo-really-venus-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="when-investigators-compare-a-ufo-was-the-ufo-really-venus-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=venus+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ufo-really-venus-venus-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster" data-ebay-reference="was-the-ufo-really-venus-venus-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -768,119 +758,119 @@ Because Venus is bright, conspicuous and frequently misunderstood, it remains on
 1. <a id="endnote-1"></a>
    Source: nightsky.jpl.nasa.gov  
    Title: Night Sky Network Identifying UFOs and UAPs  
-   Link: [https://nightsky.jpl.nasa.gov/news/39/](https://nightsky.jpl.nasa.gov/news/39/)  
+   Link: <a href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow">https://nightsky.jpl.nasa.gov/news/39/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Venus shining bright and low has been reported many times as a UFO.... lights...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: science.nasa.gov  
    Title: identifying ufos and uaps  
-   Link: [https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/](https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/)  
+   Link: <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIdentifying UFOs and UAPs1 Dec 2013 — Many of us have been observing Venus when a call or message comes through, asking us, &quot;...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/report-a-ufo/](https://nuforc.org/report-a-ufo/)  
+   Link: <a href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/report-a-ufo/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>, and not a UFO. Jupiter may appear higher in the...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: space.com  
    Title: 14884 jupiter venus mistaken ufos  
-   Link: [https://www.space.com/14884-jupiter-venus-mistaken-ufos.html](https://www.space.com/14884-jupiter-venus-mistaken-ufos.html)  
+   Link: <a href="https://www.space.com/14884-jupiter-venus-mistaken-ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/14884-jupiter-venus-mistaken-ufos.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>To viewers on Earth, the second planet from the sun appears as a bright light that...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: wfyi.org  
-   Link: [https://www.wfyi.org/show/weekend-sky-report/2026-03-30/venus](https://www.wfyi.org/show/weekend-sky-report/2026-03-30/venus)  
+   Link: <a href="https://www.wfyi.org/show/weekend-sky-report/2026-03-30/venus" target="_blank" rel="noopener noreferrer nofollow">https://www.wfyi.org/show/weekend-sky-report/2026-03-30/venus</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>30 Mar 2026 — The planet Venus has been confused as an airplane, a helicopter, even a UFO. Emergency dispatchers have fielded 911 calls r...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: wral.com  
    Title: ufo no it s venus  
-   Link: [https://www.wral.com/story/ufo-no-it-s-venus/20716858/](https://www.wral.com/story/ufo-no-it-s-venus/20716858/)  
+   Link: <a href="https://www.wral.com/story/ufo-no-it-s-venus/20716858/" target="_blank" rel="noopener noreferrer nofollow">https://www.wral.com/story/ufo-no-it-s-venus/20716858/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>WRAL NewsUFO? No, It&#x27;s Venus12 Feb 2023 — Bright Venus has a long history of being mistaken for a star, airplane, satellite, or even a UF...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: [aaro](&#123;&#123; 'aaro/' | relative_url &#125;&#125;). mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROAARO Home... mistaken for fast-moving UAP or “orbs.” Celestial objects: Bright planets like Venus and Jupiter, meteors, and other ast...</p></details>
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROAARO Home... mistaken for fast-moving UAP or “orbs.” Celestial objects: Bright planets like Venus and Jupiter, [meteors](&amp;#123;&amp;#123; &#x27;meteors/&#x27; | relative_url &amp;#125;&amp;#125;), and other ast...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: time.com  
    Title: ufo sighting history national security  
-   Link: [https://time.com/6996951/ufo-sighting-history-national-security/](https://time.com/6996951/ufo-sighting-history-national-security/)  
+   Link: <a href="https://time.com/6996951/ufo-sighting-history-national-security/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6996951/ufo-sighting-history-national-security/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Connection Between UFO Sightings and National...27 Aug 2024 — Officials told the public that UFOs posed no national security threat...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: livescience.com  
    Title: 33766 jupiter venus mistaken ufos  
-   Link: [https://www.livescience.com/33766-jupiter-venus-mistaken-ufos.html](https://www.livescience.com/33766-jupiter-venus-mistaken-ufos.html)  
+   Link: <a href="https://www.livescience.com/33766-jupiter-venus-mistaken-ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/33766-jupiter-venus-mistaken-ufos.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs on the moon — Space photo of... government that deals with UFO reports. In fact, the planet Venus frequently gets mistaken for a UF...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: csmonitor.com  
    Title: Bright Venus may prompt UFO sightings  
-   Link: [https://www.csmonitor.com/Science/2010/1102/Bright-Venus-may-prompt-UFO-sightings](https://www.csmonitor.com/Science/2010/1102/Bright-Venus-may-prompt-UFO-sightings)  
+   Link: <a href="https://www.csmonitor.com/Science/2010/1102/Bright-Venus-may-prompt-UFO-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.csmonitor.com/Science/2010/1102/Bright-Venus-may-prompt-UFO-sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Christian Science MonitorBright Venus may prompt UFO sightings2 Nov 2010 — An extended daylight savings time will mean that Venus will sh...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: livescience.com  
    Title: 32849 7 ways to generate a great space hoax  
-   Link: [https://www.livescience.com/32849-7-ways-to-generate-a-great-space-hoax.html](https://www.livescience.com/32849-7-ways-to-generate-a-great-space-hoax.html)  
+   Link: <a href="https://www.livescience.com/32849-7-ways-to-generate-a-great-space-hoax.html" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/32849-7-ways-to-generate-a-great-space-hoax.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>7 Things Most Often Mistaken for UFOs10 Nov 2010 — The planet Venus often gets mistaken for a UFO. To viewers on Earth, the second planet...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: earthsky.org  
-   Link: [https://earthsky.org/astronomy-essentials/venus-brightest-greatest-brilliancy-greatest-illuminated-extent-2/](https://earthsky.org/astronomy-essentials/venus-brightest-greatest-brilliancy-greatest-illuminated-extent-2/)  
+   Link: <a href="https://earthsky.org/astronomy-essentials/venus-brightest-greatest-brilliancy-greatest-illuminated-extent-2/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/astronomy-essentials/venus-brightest-greatest-brilliancy-greatest-illuminated-extent-2/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>But you&#x27;ll know better. Venus recently passed between us and the sun. So it&#x27;s now nearing greatest brilliancy, when we&#x27;ll...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=49TKDQH_hJ8](https://www.youtube.com/watch?v=49TKDQH_hJ8)  
+   Link: <a href="https://www.youtube.com/watch?v=49TKDQH_hJ8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=49TKDQH_hJ8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Curiosity sees Earth and Venus through twilight on MarsNASA&#x27;s Curiosity rover captured imagery of Earth and Venus on June 5, 2020 during...</p></details>
    Published: June 5, 2020  
 
 14. <a id="endnote-14"></a>
    Source: instagram.com  
    Title: There were many who reported this as UFO sighting. I  
-   Link: [https://www.instagram.com/reel/CpBbiWfvYGT/](https://www.instagram.com/reel/CpBbiWfvYGT/)  
+   Link: <a href="https://www.instagram.com/reel/CpBbiWfvYGT/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/CpBbiWfvYGT/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A beautiful planetary conjunction of Venus and Jupiter, the...The last image was the rare conjunction of 1999 where the two almost merge...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: discovermagazine.com  
    Title: slamming the astronomers should see ufos myth 21660  
-   Link: [https://www.discovermagazine.com/slamming-the-astronomers-should-see-ufos-myth-21660](https://www.discovermagazine.com/slamming-the-astronomers-should-see-ufos-myth-21660)  
+   Link: <a href="https://www.discovermagazine.com/slamming-the-astronomers-should-see-ufos-myth-21660" target="_blank" rel="noopener noreferrer nofollow">https://www.discovermagazine.com/slamming-the-astronomers-should-see-ufos-myth-21660</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Slamming the astronomers-should-see-UFOs myth21 Jul 2009 — Explore UFO reports from astronomers and discover why misidentified objects li...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: aol.com  
-   Link: [https://www.aol.com/articles/ufo-improbability-summer-solstice-venus-090211346.html](https://www.aol.com/articles/ufo-improbability-summer-solstice-venus-090211346.html)  
+   Link: <a href="https://www.aol.com/articles/ufo-improbability-summer-solstice-venus-090211346.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/articles/ufo-improbability-summer-solstice-venus-090211346.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO improbability, summer solstice and Venus hugging a...4 days ago — UFO improbability, summer solstice and Venus hugging a crescent moon...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/NasaExplorer/posts/2885673264913434/](https://www.facebook.com/groups/NasaExplorer/posts/2885673264913434/)  
+   Link: <a href="https://www.facebook.com/groups/NasaExplorer/posts/2885673264913434/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/NasaExplorer/posts/2885673264913434/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>right time. It&#x27;ll soon follow the sun below the western...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: sciencenews.org  
    Title: Scientists are getting serious about UFOs  
-   Link: [https://www.sciencenews.org/article/scientists-serious-ufo-uap-security](https://www.sciencenews.org/article/scientists-serious-ufo-uap-security)  
+   Link: <a href="https://www.sciencenews.org/article/scientists-serious-ufo-uap-security" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencenews.org/article/scientists-serious-ufo-uap-security</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s why7 Aug 2024 — Saucer-shaped lenticular clouds, birds in flight, thermal fluctuations in the [atmosphere](&amp;#123;&amp;#123; &#x27;atmosphere/&#x27; | relative_url &amp;#125;&amp;#125;) and other natural phenome...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: kqed.org  
    Title: ufo lgm omg what is that thing in the sky  
-   Link: [https://www.kqed.org/quest/35359/ufo-lgm-omg-what-is-that-thing-in-the-sky](https://www.kqed.org/quest/35359/ufo-lgm-omg-what-is-that-thing-in-the-sky)  
+   Link: <a href="https://www.kqed.org/quest/35359/ufo-lgm-omg-what-is-that-thing-in-the-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.kqed.org/quest/35359/ufo-lgm-omg-what-is-that-thing-in-the-sky</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO? LGM? OMG! What is That Thing in the Sky?20 Apr 2012 — UFO? LGM? OMG! What is That Thing in the Sky? Ever seen something in the sky t...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/story/unidentified-flying-objects-what-we-know](https://www.britannica.com/story/unidentified-flying-objects-what-we-know)  
+   Link: <a href="https://www.britannica.com/story/unidentified-flying-objects-what-we-know" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/story/unidentified-flying-objects-what-we-know</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects: What We KnowSome interpret the sighting of UFOs as evidence that extraterrestrial life exists and has visite...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/MeteorologistRossEllet/posts/if-you-see-that-bright-light-in-the-southwest-sky-it-is-not-a-fleet-of-alien-dro/1158094129008576/](https://www.facebook.com/MeteorologistRossEllet/posts/if-you-see-that-bright-light-in-the-southwest-sky-it-is-not-a-fleet-of-alien-dro/1158094129008576/)  
+   Link: <a href="https://www.facebook.com/MeteorologistRossEllet/posts/if-you-see-that-bright-light-in-the-southwest-sky-it-is-not-a-fleet-of-alien-dro/1158094129008576/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MeteorologistRossEllet/posts/if-you-see-that-bright-light-in-the-southwest-sky-it-is-not-a-fleet-of-alien-dro/1158094129008576/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>If you see that bright light in the southwest sky, it is not a...If you see that bright light in the southwest sky, it is not a fleet of...</p></details>

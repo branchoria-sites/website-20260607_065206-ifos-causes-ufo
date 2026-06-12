@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_trident_missile_ufo_16b7db
 - ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_twilight_rocket_plum_ddbb62
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - rocket-plumes
 - launch-checks
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - rocket-plumes
 - launch-checks
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Launch-related sightings are unusually testable when the witness time, direction and location can be compared with launch records and sky conditions.
 hero_summary: Launch-related sightings are unusually testable when the witness time, direction and location can be compared with launch records and sky conditions.
 layout: default
 permalink: /launch-checks/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /rocket-plumes/
 nav_short_title: Launch Checks
 title: How to Check a UFO Against a Launch
-title_full: How to Check a UFO Against a Launch | Rocket Plumes
+title_full: How to Check a UFO Against a Launch
 display_title_short: Launch Checks
 display_title: Launch Checks
 heading_title: How to Check a UFO Against a Launch
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 05:12:43'
-parent_title: The Strange Clouds Rockets Leave Behind | IFOs
+parent_title: The Strange Clouds Rockets Leave Behind
 parent_permalink: /rocket-plumes/
 parent_nav_short_title: Rocket Plumes
 parent_heading_title: The Strange Clouds Rockets Leave Behind
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132
-  title: Rocket Plumes | Ifos Causes Of
+  title: Rocket Plumes | ifos causes of UFO 3 ed 238
   permalink: /rocket-plumes/
   short_title: Rocket Plumes
   heading_title: The Strange Clouds Rockets Leave Behind
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132
-  title: Rocket Plumes | Ifos Causes Of
+  title: Rocket Plumes | ifos causes of UFO 3 ed 238
   permalink: /rocket-plumes/
   short_title: Rocket Plumes
   heading_title: The Strange Clouds Rockets Leave Behind
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: Why Twilight Rocket Plumes Look So Strange
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132
-  title: Rocket Plumes | Ifos Causes Of
+  title: Rocket Plumes | ifos causes of UFO 3 ed 238
   permalink: /rocket-plumes/
   short_title: Rocket Plumes
   heading_title: The Strange Clouds Rockets Leave Behind
@@ -260,6 +259,7 @@ next_link:
   permalink: /norway-spiral/
   short_title: Norway Spiral
   heading_title: How a Failed Rocket Made a Sky Spiral
+date: '2026-06-12 00:23:38 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_checking_ufo_against_e894f4-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_checking_ufo_against_e894f4-Illustration-1.webp
@@ -270,14 +270,12 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_checking_
 
 When a UFO report may be linked to a rocket launch, the most useful question is not whether the object looked like a rocket. It is whether the reported event matches a launch in time, direction, geometry and appearance. Launch-related sightings are among the most testable UFO cases because rocket launches, missile tests, stage separations and fuel-dump events occur at known times and along documented [trajectories]({{ 'trajectories/' | relative_url }}). A vague report may remain unexplained, but a report with a precise time, viewing direction and location can often be compared against launch records and airspace notices to determine whether a rocket explanation fits. In some cases the match is strong enough to identify a specific launch; in others, the records help show why the explanation remains uncertain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://spaceflightnow.com/launch-schedule/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spaceflightnow.com">[Spaceflight Now]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spaceflightnow.com</span><span class="citation-popover-snippet">Spaceflight NowLaunch ScheduleA regularly updated listing of planned orbital missions from spaceports around the globe. Dates and times a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://rocketlaunch.org/launch-schedule" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rocketlaunch.org">[RocketLaunch.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rocketlaunch.org</span><span class="citation-popover-snippet">Rocket Launch ScheduleAn up-to-date list of all scheduled rocket launches. There are currently 373 planned launches from spaceports world...</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_checking_ufo_against_e894f4-Illustration-1-dark.svg" | relative_url }}" alt="Launch Checks illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_checking_ufo_against_e894f4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_checking_ufo_against_e894f4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The Time, Direction and Location Details That Matter
 
 The first step is to reconstruct exactly what the witness saw and where they were when they saw it. Small errors in timing can matter because rocket events evolve rapidly.
 
 The most valuable details are:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -292,10 +290,7 @@ The most valuable details are:
 
 A report stating that a glowing object appeared in the western sky at 19:52 and remained visible for ten minutes is far easier to evaluate than a recollection that "something strange was seen after dark". Launch investigators routinely work backwards from these details to determine whether a launch trajectory would have been visible from that location at that moment.
 
-Direction is particularly important because a rocket does not need to pass directly overhead. High-altitude exhaust plumes can be visible hundreds or even thousands of kilometres from the launch site. A witness in one region may be observing the upper [atmosphere]({{ 'atmosphere/' | relative_url }}) above a distant coast or ocean where the rocket is actually travelling. Twilight launch phenomena are especially prone to producing this effect because the plume remains illuminated by sunlight long after the ground has become dark. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Twilight_phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Twilight phenomenon</span><span class="citation-popover-snippet">March 15, 2006 — Twilight phenomenon is produced when exhaust particles from missile or rocket propellant left in the vapor trail of a la...</span><span class="citation-popover-meta">Published: March 15, 2006</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/39200-spacex-rocket-launch-not-ufo-spectactular-photos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">39200 spacex rocket launch not ufo spectactular photos</span><span class="citation-popover-snippet">SpaceUFO? No, It&#x27;s a SpaceX Rocket! These Falcon 9 Launch...24 Dec 2017 — SpaceX&#x27;s launch of a Falcon 9 rocket Friday night (Dec. 22) wa...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iCgT1HlHjxI" title="UFO FILES: Shocking NEW details of alleged sightings released" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iCgT1HlHjxI" target="_blank" rel="noopener noreferrer">UFO FILES: Shocking NEW details of alleged sightings released</a></p><p class="youtube-embed-meta">Channel: Fox News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iCgT1HlHjxI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iCgT1HlHjxI">Open on YouTube</a></p></div></div></div>
+Direction is particularly important because a rocket does not need to pass directly overhead. High-altitude exhaust plumes can be visible hundreds or even thousands of kilometres from the launch site. A witness in one region may be observing the upper [atmosphere]({{ 'atmosphere/' | relative_url }}) above a distant coast or ocean where the rocket is actually travelling. Twilight launch phenomena are especially prone to producing this effect because the plume remains illuminated by sunlight long after the ground has become dark. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Twilight_phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Twilight phenomenon</span><span class="citation-popover-snippet">March 15, 2006 — Twilight phenomenon is produced when exhaust particles from missile or rocket propellant left in the vapor trail of a la...</span><span class="citation-popover-meta">Published: March 15, 2006</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/39200-spacex-rocket-launch-not-ufo-spectactular-photos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">39200 spacex rocket launch not ufo spectactular photos</span><span class="citation-popover-snippet">UFO? No, It&#x27;s a SpaceX Rocket! These Falcon 9 Launch...24 Dec 2017 — SpaceX&#x27;s launch of a Falcon 9 rocket Friday night (Dec. 22) wa...</span></span></span>
 
 ## Where Launch Windows and Missile Notices Fit the Check
 
@@ -308,14 +303,11 @@ A second source of evidence comes from aviation and maritime safety notices. Bef
 * The date and time window of activity.
 * The affected airspace or ocean areas.
 * The approximate trajectory region.
-* Whether a missile test or launch operation was expected. <span class="citation-chip-wrap"><a class="citation-chip" href="https://notams.aim.faa.gov/notamSearch/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: notams.aim.faa.gov">[NOTAMs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">notams.aim.faa.gov</span><span class="citation-popover-title">NOTAMs NOTAM Search</span><span class="citation-popover-snippet">NOTAMsNOTAM Search - Federal Aviation AdministrationWelcome to NOTAM Search. This site is informational in nature and is designed to assi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/about/initiatives/notam/what_is_a_notam" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration What is a NOTAM?</span><span class="citation-popover-snippet">| Federal Aviation Administration30 Sept 2025 — A NOTAM is a notice containing information essential to personnel concerned with flight o...</span></span></span>
+* Whether a missile test or launch operation was expected. <span class="citation-chip-wrap"><a class="citation-chip" href="https://notams.aim.faa.gov/notamSearch/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: notams.aim.faa.gov">[NOTAMs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">notams.aim.faa.gov</span><span class="citation-popover-title">NOTAMs NOTAM Search</span><span class="citation-popover-snippet">NOTAM Search - Federal Aviation AdministrationWelcome to NOTAM Search. This site is informational in nature and is designed to assi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/about/initiatives/notam/what_is_a_notam" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration What is a NOTAM?</span><span class="citation-popover-snippet">Federal Aviation Administration30 Sept 2025 — A NOTAM is a notice containing information essential to personnel concerned with flight o...</span></span></span>
 
 For a UFO investigation, these notices are not proof by themselves. Instead, they help establish whether launch-related activity was occurring in the relevant direction and time frame.
 
 The process becomes especially useful when the sighting involves military [ranges]({{ 'ranges/' | relative_url }}), coastal launch facilities or regions with regular missile testing. A reported anomaly that occurs exactly within a published launch window is more likely to have a conventional explanation than one occurring days away from any documented activity.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DdlYYyIHpEA" title="How Do Scientists Analyze UFO Sightings? - All About Myths and Conspiracies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DdlYYyIHpEA" target="_blank" rel="noopener noreferrer">How Do Scientists Analyze UFO Sightings? - All About Myths and Conspiracies</a></p><p class="youtube-embed-meta">Channel: All About Myths and Conspiracies</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DdlYYyIHpEA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DdlYYyIHpEA">Open on YouTube</a></p></div></div></div>
 
 ## Matching the Sighting to the Launch
 
@@ -331,10 +323,9 @@ A strong launch match often includes:
 
 **A shape match.** The observed form resembles known rocket phenomena such as expanding cones, glowing clouds, spirals or illuminated exhaust plumes.
 
-**A duration match.** The event lasts for minutes and then disperses rather than behaving like a nearby aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/23013-spacex-falcon-9-rocket-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">23013 spacex falcon 9 rocket ufo</span><span class="citation-popover-snippet">SpaceX Rocket Launch Sparks &#x27;UFO&#x27; Sightings: Reports...30 Sept 2013 — A SpaceX Falcon 9 rocket rises into the skies above California...</span></span></span>
+**A duration match.** The event lasts for minutes and then disperses rather than behaving like a nearby aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/23013-spacex-falcon-9-rocket-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">23013 spacex falcon 9 rocket ufo</span><span class="citation-popover-snippet">X Rocket Launch Sparks &#x27;UFO&#x27; Sightings: Reports...30 Sept 2013 — A SpaceX Falcon 9 rocket rises into the skies above California...</span></span></span>
 
 The strength of the explanation increases dramatically when all of these elements align. A single matching factor is rarely enough.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_checking_ufo_against_e894f4-Illustration-2-dark.svg" | relative_url }}" alt="Launch Checks illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_checking_ufo_against_e894f4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_checking_ufo_against_e894f4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Real Examples of Launch Checks Resolving UFO Reports
@@ -355,7 +346,6 @@ A rocket explanation becomes persuasive when independent evidence converges.
 
 The strongest cases usually include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * A documented launch or missile event.
@@ -371,15 +361,12 @@ Additional confirmation may come from [radar]({{ 'radar/' | relative_url }}), sa
 
 In such cases, the launch hypothesis explains not only that something was seen, but also why it appeared unusual.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZNkmhY_ju8o" title="EXCLUSIVE: Buzz Aldrin Confirms UFO Sighting in Syfy&#x27;s &#x27;Aliens on the Moon&#x27;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZNkmhY_ju8o" target="_blank" rel="noopener noreferrer">EXCLUSIVE: Buzz Aldrin Confirms UFO Sighting in Syfy&#x27;s &#x27;Aliens on the Moon&#x27;</a></p><p class="youtube-embed-meta">Channel: Entertainment Tonight</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZNkmhY_ju8o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZNkmhY_ju8o">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_checking_ufo_against_e894f4-Illustration-3-dark.svg" | relative_url }}" alt="Launch Checks illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_checking_ufo_against_e894f4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_checking_ufo_against_e894f4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When a Rocket Explanation Is Weak
 
 Launch records do not automatically solve every case.
 
 The explanation becomes weaker when:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -395,15 +382,13 @@ An apparent mismatch does not necessarily prove that the report represents somet
 
 One practical complication is that not every launch is announced equally well. Most launch providers issue extensive notices, but occasional cases have involved launches with limited advance warning, reducing the ease of retrospective identification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livescience.com/space/space-exploration/china-launches-new-long-march-12b-rocket-reportedly-without-any-safety-warning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-snippet">The rocket, developed by the China Aerospace Science and Industry Corporation (CASIC), is a 236-foot-tall reusable vehicle designed for c...</span></span></span>
 
-
-<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_checking_ufo_against_e894f4-Illustration-3-dark.svg" | relative_url }}" alt="Launch Checks illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_checking_ufo_against_e894f4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132_checking_ufo_against_e894f4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Launch Checks Are Valuable in UFO Investigation
 
 Launch-related UFO reports illustrate a broader principle in anomaly investigation: precise contextual data often matters more than the witness's interpretation.
 
 A witness may honestly describe an enormous glowing craft, a bright spiral or a mysterious expanding cloud. The key question is whether the reported event can be tied to a known launch through [independent records]({{ 'independent-records/' | relative_url }}). Because launches are scheduled, tracked and frequently documented, they provide one of the rare categories of UFO reports that can be tested against external datasets rather than relying solely on testimony.
 
-For that reason, a careful comparison of witness details with launch schedules, NOTAMs, missile notices and known flight paths can transform a vague mystery into a specific identified event—or reveal that the available evidence is insufficient to reach a confident conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rocketlaunch.org/launch-schedule" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rocketlaunch.org">[RocketLaunch.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rocketlaunch.org</span><span class="citation-popover-snippet">Rocket Launch ScheduleAn up-to-date list of all scheduled rocket launches. There are currently 373 planned launches from spaceports world...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://notams.aim.faa.gov/notamSearch/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: notams.aim.faa.gov">[NOTAMs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">notams.aim.faa.gov</span><span class="citation-popover-title">NOTAMs NOTAM Search</span><span class="citation-popover-snippet">NOTAMsNOTAM Search - Federal Aviation AdministrationWelcome to NOTAM Search. This site is informational in nature and is designed to assi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/about/initiatives/notam/what_is_a_notam" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration What is a NOTAM?</span><span class="citation-popover-snippet">| Federal Aviation Administration30 Sept 2025 — A NOTAM is a notice containing information essential to personnel concerned with flight o...</span></span></span>
+For that reason, a careful comparison of witness details with launch schedules, NOTAMs, missile notices and known flight paths can transform a vague mystery into a specific identified event—or reveal that the available evidence is insufficient to reach a confident conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rocketlaunch.org/launch-schedule" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rocketlaunch.org">[RocketLaunch.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rocketlaunch.org</span><span class="citation-popover-snippet">Rocket Launch ScheduleAn up-to-date list of all scheduled rocket launches. There are currently 373 planned launches from spaceports world...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://notams.aim.faa.gov/notamSearch/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: notams.aim.faa.gov">[NOTAMs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">notams.aim.faa.gov</span><span class="citation-popover-title">NOTAMs NOTAM Search</span><span class="citation-popover-snippet">NOTAM Search - Federal Aviation AdministrationWelcome to NOTAM Search. This site is informational in nature and is designed to assi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/about/initiatives/notam/what_is_a_notam" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration What is a NOTAM?</span><span class="citation-popover-snippet">Federal Aviation Administration30 Sept 2025 — A NOTAM is a notice containing information essential to personnel concerned with flight o...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -522,15 +507,15 @@ For that reason, a careful comparison of witness details with launch schedules, 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=launch-checks-how-to-check-a-ufo-against-a-launch-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="launch-checks-how-to-check-a-ufo-against-a-launch-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag"><img src="{{ '/assets/images/marketplace-covers/423dfe011ecd80a392ff.jpg' | relative_url }}" alt="Listing image for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-ufo-against-a-launch-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="how-to-check-a-ufo-against-a-launch-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rocket Launch Art Print | Space Exploration Painting | Sci‑Fi Wall Art"><img src="https://i.ebayimg.com/images/g/mt0AAeSwoJJqKtqS/s-l225.jpg" alt="Listing image for Rocket Launch Art Print | Space Exploration Painting | Sci‑Fi Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=launch-checks-how-to-check-a-ufo-against-a-launch-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="launch-checks-how-to-check-a-ufo-against-a-launch-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-ufo-against-a-launch-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="how-to-check-a-ufo-against-a-launch-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer">Rocket Launch Art Print | Space Exploration Painting | Sci‑Fi Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=launch-checks-how-to-check-a-ufo-against-a-launch-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="launch-checks-how-to-check-a-ufo-against-a-launch-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo enamel pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-ufo-against-a-launch-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="how-to-check-a-ufo-against-a-launch-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rocket launch poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: rocket launch poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=launch-checks-how-to-check-a-ufo-against-a-launch-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="launch-checks-how-to-check-a-ufo-against-a-launch-ifos-causes-of-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-ufo-against-a-launch-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="how-to-check-a-ufo-against-a-launch-rocket-launch-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -538,15 +523,15 @@ For that reason, a careful comparison of witness details with launch schedules, 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=launch-checks-how-to-check-a-ufo-against-a-launch-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="launch-checks-how-to-check-a-ufo-against-a-launch-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-ufo-against-a-launch-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="how-to-check-a-ufo-against-a-launch-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space NASA Shuttle Discovery Rocket Launch Photo XL Wall Art Canvas Print"><img src="https://i.ebayimg.com/images/g/VsUAAOSwoWpnR3QF/s-l225.jpg" alt="Listing image for Space NASA Shuttle Discovery Rocket Launch Photo XL Wall Art Canvas Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=launch-checks-how-to-check-a-ufo-against-a-launch-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="launch-checks-how-to-check-a-ufo-against-a-launch-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-ufo-against-a-launch-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="how-to-check-a-ufo-against-a-launch-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer">Space NASA Shuttle Discovery Rocket Launch Photo XL Wall Art Canvas Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=launch-checks-how-to-check-a-ufo-against-a-launch-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="launch-checks-how-to-check-a-ufo-against-a-launch-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo enamel pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-ufo-against-a-launch-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="how-to-check-a-ufo-against-a-launch-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rocket launch poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: rocket launch poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=launch-checks-how-to-check-a-ufo-against-a-launch-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="launch-checks-how-to-check-a-ufo-against-a-launch-ifos-causes-of-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-ufo-against-a-launch-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="how-to-check-a-ufo-against-a-launch-rocket-launch-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -554,15 +539,15 @@ For that reason, a careful comparison of witness details with launch schedules, 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=launch-checks-how-to-check-a-ufo-against-a-launch-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="launch-checks-how-to-check-a-ufo-against-a-launch-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac"><img src="{{ '/assets/images/marketplace-covers/cdbe73a199cf9b4b48c0.jpg' | relative_url }}" alt="Listing image for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-ufo-against-a-launch-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="how-to-check-a-ufo-against-a-launch-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Exploration Rocket Launch Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/0QQAAeSwVmpp1Tju/s-l225.jpg" alt="Listing image for Space Exploration Rocket Launch Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=launch-checks-how-to-check-a-ufo-against-a-launch-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="launch-checks-how-to-check-a-ufo-against-a-launch-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-ufo-against-a-launch-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="how-to-check-a-ufo-against-a-launch-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer">Space Exploration Rocket Launch Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=launch-checks-how-to-check-a-ufo-against-a-launch-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="launch-checks-how-to-check-a-ufo-against-a-launch-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo enamel pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-ufo-against-a-launch-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="how-to-check-a-ufo-against-a-launch-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rocket launch poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: rocket launch poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=launch-checks-how-to-check-a-ufo-against-a-launch-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="launch-checks-how-to-check-a-ufo-against-a-launch-ifos-causes-of-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-ufo-against-a-launch-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="how-to-check-a-ufo-against-a-launch-rocket-launch-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -570,15 +555,15 @@ For that reason, a careful comparison of witness details with launch schedules, 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=launch-checks-how-to-check-a-ufo-against-a-launch-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="launch-checks-how-to-check-a-ufo-against-a-launch-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black"><img src="{{ '/assets/images/marketplace-covers/078b55bb70d6b61d9af5.jpg' | relative_url }}" alt="Listing image for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-ufo-against-a-launch-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="how-to-check-a-ufo-against-a-launch-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space NASA Lift Off Apollo 11 Rocket Launch Canvas Wall Art Print Poster"><img src="https://i.ebayimg.com/images/g/LmIAAOSwibFnR4eN/s-l225.jpg" alt="Listing image for Space NASA Lift Off Apollo 11 Rocket Launch Canvas Wall Art Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=launch-checks-how-to-check-a-ufo-against-a-launch-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="launch-checks-how-to-check-a-ufo-against-a-launch-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-ufo-against-a-launch-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="how-to-check-a-ufo-against-a-launch-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer">Space NASA Lift Off Apollo 11 Rocket Launch Canvas Wall Art Print Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=launch-checks-how-to-check-a-ufo-against-a-launch-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="launch-checks-how-to-check-a-ufo-against-a-launch-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo enamel pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-ufo-against-a-launch-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="how-to-check-a-ufo-against-a-launch-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rocket launch poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: rocket launch poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=launch-checks-how-to-check-a-ufo-against-a-launch-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="launch-checks-how-to-check-a-ufo-against-a-launch-ifos-causes-of-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-ufo-against-a-launch-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="how-to-check-a-ufo-against-a-launch-rocket-launch-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -586,7 +571,7 @@ For that reason, a careful comparison of witness details with launch schedules, 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=launch-checks-how-to-check-a-ufo-against-a-launch-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="launch-checks-how-to-check-a-ufo-against-a-launch-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+launch+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-ufo-against-a-launch-rocket-launch-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket launch poster" data-ebay-reference="how-to-check-a-ufo-against-a-launch-rocket-launch-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -801,136 +786,136 @@ For that reason, a careful comparison of witness details with launch schedules, 
 
 1. <a id="endnote-1"></a>
    Source: rocketlaunch.org  
-   Link: [https://rocketlaunch.org/launch-schedule](https://rocketlaunch.org/launch-schedule)  
+   Link: <a href="https://rocketlaunch.org/launch-schedule" target="_blank" rel="noopener noreferrer nofollow">https://rocketlaunch.org/launch-schedule</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rocket Launch ScheduleAn up-to-date list of all scheduled rocket launches. There are currently 373 planned launches from spaceports world...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Twilight phenomenon  
-   Link: [https://en.wikipedia.org/wiki/Twilight_phenomenon](https://en.wikipedia.org/wiki/Twilight_phenomenon)  
+   Link: <a href="https://en.wikipedia.org/wiki/Twilight_phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Twilight_phenomenon</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 15, 2006 — Twilight phenomenon is produced when exhaust particles from missile or rocket propellant left in the vapor trail of a la...</p></details>
    Published: March 15, 2006  
 
 3. <a id="endnote-3"></a>
    Source: space.com  
    Title: 39200 spacex rocket launch not ufo spectactular photos  
-   Link: [https://www.space.com/39200-spacex-rocket-launch-not-ufo-spectactular-photos.html](https://www.space.com/39200-spacex-rocket-launch-not-ufo-spectactular-photos.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceUFO? No, It&#x27;s a SpaceX Rocket! These Falcon 9 Launch...24 Dec 2017 — SpaceX&#x27;s launch of a Falcon 9 rocket Friday night (Dec. 22) wa...</p></details>
+   Link: <a href="https://www.space.com/39200-spacex-rocket-launch-not-ufo-spectactular-photos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/39200-spacex-rocket-launch-not-ufo-spectactular-photos.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO? No, It&#x27;s a SpaceX Rocket! These Falcon 9 Launch...24 Dec 2017 — SpaceX&#x27;s launch of a Falcon 9 rocket Friday night (Dec. 22) wa...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: space.com  
    Title: 23013 spacex falcon 9 rocket ufo  
-   Link: [https://www.space.com/23013-spacex-falcon-9-rocket-ufo.html](https://www.space.com/23013-spacex-falcon-9-rocket-ufo.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX Rocket Launch Sparks &#x27;UFO&#x27; Sightings: Reports...30 Sept 2013 — A SpaceX Falcon 9 rocket rises into the skies above California&amp;#03...</p></details>
+   Link: <a href="https://www.space.com/23013-spacex-falcon-9-rocket-ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/23013-spacex-falcon-9-rocket-ufo.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>X Rocket Launch Sparks &#x27;UFO&#x27; Sightings: Reports...30 Sept 2013 — A SpaceX Falcon 9 rocket rises into the skies above California&amp;#03...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: space.com  
-   Link: [https://www.space.com/space-exploration/launches-spacecraft/china-launches-debut-mission-of-falcon-9-like-rocket-with-no-advance-notice-video](https://www.space.com/space-exploration/launches-spacecraft/china-launches-debut-mission-of-falcon-9-like-rocket-with-no-advance-notice-video)  
+   Link: <a href="https://www.space.com/space-exploration/launches-spacecraft/china-launches-debut-mission-of-falcon-9-like-rocket-with-no-advance-notice-video" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/launches-spacecraft/china-launches-debut-mission-of-falcon-9-like-rocket-with-no-advance-notice-video</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This marked the rocket&#x27;s first flight, making its debut with a functional payload—two [satellites](&amp;#123;&amp;#123; &#x27;satellites/&#x27; | relative_url &amp;#125;&amp;#125;) intended for the Qianfan (&quot;Thousand Sail...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Area 51  
-   Link: [https://en.wikipedia.org/wiki/Area_51](https://en.wikipedia.org/wiki/Area_51)  
+   Link: <a href="https://en.wikipedia.org/wiki/Area_51" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Area_51</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Area 51The U-2 began flying above 60,000 feet and there was an increasing number of UFO sighting reports. Sightings occurred most ofte...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: spaceflightnow.com  
-   Link: [https://spaceflightnow.com/launch-schedule/](https://spaceflightnow.com/launch-schedule/)  
+   Link: <a href="https://spaceflightnow.com/launch-schedule/" target="_blank" rel="noopener noreferrer nofollow">https://spaceflightnow.com/launch-schedule/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spaceflight NowLaunch ScheduleA regularly updated listing of planned orbital missions from spaceports around the globe. Dates and times a...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: notams.aim.faa.gov  
    Title: NOTAMs NOTAM Search  
-   Link: [https://notams.aim.faa.gov/notamSearch/](https://notams.aim.faa.gov/notamSearch/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NOTAMsNOTAM Search - Federal Aviation AdministrationWelcome to NOTAM Search. This site is informational in nature and is designed to assi...</p></details>
+   Link: <a href="https://notams.aim.faa.gov/notamSearch/" target="_blank" rel="noopener noreferrer nofollow">https://notams.aim.faa.gov/notamSearch/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NOTAM Search - Federal Aviation AdministrationWelcome to NOTAM Search. This site is informational in nature and is designed to assi...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: faa.gov  
    Title: Federal Aviation Administration What is a NOTAM?  
-   Link: [https://www.faa.gov/about/initiatives/notam/what_is_a_notam](https://www.faa.gov/about/initiatives/notam/what_is_a_notam)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| Federal Aviation Administration30 Sept 2025 — A NOTAM is a notice containing information essential to personnel concerned with flight o...</p></details>
+   Link: <a href="https://www.faa.gov/about/initiatives/notam/what_is_a_notam" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/about/initiatives/notam/what_is_a_notam</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation Administration30 Sept 2025 — A NOTAM is a notice containing information essential to personnel concerned with flight o...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: cosmoquest.org  
    Title: notams or how to find hidden launches  
-   Link: [https://cosmoquest.org/x/2021/07/notams-or-how-to-find-hidden-launches/](https://cosmoquest.org/x/2021/07/notams-or-how-to-find-hidden-launches/)  
+   Link: <a href="https://cosmoquest.org/x/2021/07/notams-or-how-to-find-hidden-launches/" target="_blank" rel="noopener noreferrer nofollow">https://cosmoquest.org/x/2021/07/notams-or-how-to-find-hidden-launches/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>29 Jul 2021 — A NOTAM, also called a Notice to Airmen, is literally a plain text notice to tell [pilots](&amp;#123;&amp;#123; &#x27;pilots/&#x27; | relative_url &amp;#125;&amp;#125;) to, among other things, stay out o...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket](https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket)  
+   Link: <a href="https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>However, it has been determined that the phenomenon was caused by a SpaceX rocket, specifically the Falcon 9, which launched from Cape Ca...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: thesun.co.uk  
-   Link: [https://www.thesun.co.uk/news/37573397/ufo-britain-chinese-space-rocket/](https://www.thesun.co.uk/news/37573397/ufo-britain-chinese-space-rocket/)  
+   Link: <a href="https://www.thesun.co.uk/news/37573397/ufo-britain-chinese-space-rocket/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/news/37573397/ufo-britain-chinese-space-rocket/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ellie Jarvis, a resident of Clovelly, Devon, witnessed and photographed the unusual vertical light, sparking speculation among her family...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: livescience.com  
-   Link: [https://www.livescience.com/space/space-exploration/china-launches-new-long-march-12b-rocket-reportedly-without-any-safety-warning](https://www.livescience.com/space/space-exploration/china-launches-new-long-march-12b-rocket-reportedly-without-any-safety-warning)  
+   Link: <a href="https://www.livescience.com/space/space-exploration/china-launches-new-long-march-12b-rocket-reportedly-without-any-safety-warning" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/space/space-exploration/china-launches-new-long-march-12b-rocket-reportedly-without-any-safety-warning</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The rocket, developed by the China Aerospace Science and Industry Corporation (CASIC), is a 236-foot-tall reusable vehicle designed for c...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/spacehipsters/posts/25930133806604824/](https://www.facebook.com/groups/spacehipsters/posts/25930133806604824/)  
+   Link: <a href="https://www.facebook.com/groups/spacehipsters/posts/25930133806604824/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spacehipsters/posts/25930133806604824/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious objects seen during SpaceX launch | Pahrump...It was most likely a fuel dump from a ULA Vulcan rocket launched from Cape Can...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: avdelphi.com  
-   Link: [https://www.avdelphi.com/notam_watch.html](https://www.avdelphi.com/notam_watch.html)  
+   Link: <a href="https://www.avdelphi.com/notam_watch.html" target="_blank" rel="noopener noreferrer nofollow">https://www.avdelphi.com/notam_watch.html</a>  
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ASTSpaceMobile/comments/1f22thp/what_to_look_for_in_faa_notam_for_potential/](https://www.reddit.com/r/ASTSpaceMobile/comments/1f22thp/what_to_look_for_in_faa_notam_for_potential/)  
+   Link: <a href="https://www.reddit.com/r/ASTSpaceMobile/comments/1f22thp/what_to_look_for_in_faa_notam_for_potential/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ASTSpaceMobile/comments/1f22thp/what_to_look_for_in_faa_notam_for_potential/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What to look for in FAA NOTAM for potential launch datesWhat to look for in FAA NOTAM for potential launch dates · Mention of cape canave...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOB/comments/1r53m3w/strange_white_object_during_spacex_launch_over/](https://www.reddit.com/r/UFOB/comments/1r53m3w/strange_white_object_during_spacex_launch_over/)  
+   Link: <a href="https://www.reddit.com/r/UFOB/comments/1r53m3w/strange_white_object_during_spacex_launch_over/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1r53m3w/strange_white_object_during_spacex_launch_over/</a>  
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/SLD30/posts/throwbackthursday-when-a-rocket-launch-accidentally-sparked-a-ufo-mystery-in-jan/1317957657043860/](https://www.facebook.com/SLD30/posts/throwbackthursday-when-a-rocket-launch-accidentally-sparked-a-ufo-mystery-in-jan/1317957657043860/)  
+   Link: <a href="https://www.facebook.com/SLD30/posts/throwbackthursday-when-a-rocket-launch-accidentally-sparked-a-ufo-mystery-in-jan/1317957657043860/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SLD30/posts/throwbackthursday-when-a-rocket-launch-accidentally-sparked-a-ufo-mystery-in-jan/1317957657043860/</a>  
 
 20. <a id="endnote-20"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/UFO/](https://www.war.gov/UFO/)  
+   Link: <a href="https://www.war.gov/UFO/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/UFO/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>An unidentified object report with enhanced imagery from a PANTEX radar tower. Image showing objects in formation with trails, a crosshai...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: twz.com  
-   Link: [https://www.twz.com/33371/here-are-the-detailed-ufo-incident-reports-from-navy-pilots-flying-off-the-east-coast](https://www.twz.com/33371/here-are-the-detailed-ufo-incident-reports-from-navy-pilots-flying-off-the-east-coast)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Here Are The Navy [Pilot Reports](&amp;#123;&amp;#123; &#x27;pilots/&#x27; | relative_url &amp;#125;&amp;#125;) From Encounters With...13 May 2020 — The reports are the first official documentation of various recent...</p></details>
+   Link: <a href="https://www.twz.com/33371/here-are-the-detailed-ufo-incident-reports-from-navy-pilots-flying-off-the-east-coast" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/33371/here-are-the-detailed-ufo-incident-reports-from-navy-pilots-flying-off-the-east-coast</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Here Are The Navy Pilot Reports From Encounters With...13 May 2020 — The reports are the first official documentation of various recent...</p></details>
    Published: May 2020  
 
 22. <a id="endnote-22"></a>
    Source: podcasts.happyscribe.com  
    Title: 122 david fravor ufos aliens fighter jets and aerospace engineering  
-   Link: [https://podcasts.happyscribe.com/lex-fridman-podcast-artificial-intelligence-ai/122-david-fravor-ufos-aliens-fighter-jets-and-aerospace-engineering](https://podcasts.happyscribe.com/lex-fridman-podcast-artificial-intelligence-ai/122-david-fravor-ufos-aliens-fighter-jets-and-aerospace-engineering)  
+   Link: <a href="https://podcasts.happyscribe.com/lex-fridman-podcast-artificial-intelligence-ai/122-david-fravor-ufos-aliens-fighter-jets-and-aerospace-engineering" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.happyscribe.com/lex-fridman-podcast-artificial-intelligence-ai/122-david-fravor-ufos-aliens-fighter-jets-and-aerospace-engineering</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of #122 – David Fravor: UFOs, Aliens, Fighter Jets...Express Open lets you pretend your location is somewhere else, choosing from nearly...</p></details>
 
 23. <a id="endnote-23"></a>
-   Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Source: [aaro](&#123;&#123; 'aaro/' | relative_url &#125;&#125;). mil  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s effo...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/wp-content/uploads/2023/03/sp-4407-etuv7.pdf](https://www.nasa.gov/wp-content/uploads/2023/03/sp-4407-etuv7.pdf)  
+   Link: <a href="https://www.nasa.gov/wp-content/uploads/2023/03/sp-4407-etuv7.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2023/03/sp-4407-etuv7.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>110 key documents, many of which are published for the...Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: avi-loeb.medium.com  
    Title: avi loeb analyzes the first ufo file release 7b6b859a103c  
-   Link: [https://avi-loeb.medium.com/avi-loeb-analyzes-the-first-ufo-file-release-7b6b859a103c](https://avi-loeb.medium.com/avi-loeb-analyzes-the-first-ufo-file-release-7b6b859a103c)  
+   Link: <a href="https://avi-loeb.medium.com/avi-loeb-analyzes-the-first-ufo-file-release-7b6b859a103c" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/avi-loeb-analyzes-the-first-ufo-file-release-7b6b859a103c</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Loeb Analyzes the First UFO File Release - MediumThe United States government has released here its first batch of newly public files on...</p></details>

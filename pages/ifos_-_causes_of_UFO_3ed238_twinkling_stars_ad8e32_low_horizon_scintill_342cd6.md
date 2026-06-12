@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_stars_vs_planets_twi_434330
 - ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_thin_cloud_vanishing_121732
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - stars
 - low-horizon
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - stars
 - low-horizon
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: A low star can seem to hover, jerk or pulse because its light crosses a long turbulent path through the atmosphere.
 hero_summary: A low star can seem to hover, jerk or pulse because its light crosses a long turbulent path through the atmosphere.
 layout: default
 permalink: /low-horizon/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /stars/
 nav_short_title: Low Horizon
 title: Why Low Stars Seem to Hover and Jerk
-title_full: Why Low Stars Seem to Hover and Jerk | Stars
+title_full: Why Low Stars Seem to Hover and Jerk
 display_title_short: Low Horizon
 display_title: Low Horizon
 heading_title: Why Low Stars Seem to Hover and Jerk
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 03:53:50'
-parent_title: Why Stars Flash Like Machines | IFOs
+parent_title: Why Stars Flash Like Machines
 parent_permalink: /stars/
 parent_nav_short_title: Stars
 parent_heading_title: Why Stars Flash Like Machines
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32
-  title: Stars | Ifos Causes Of
+  title: Stars | ifos causes of UFO 3 ed 238
   permalink: /stars/
   short_title: Stars
   heading_title: Why Stars Flash Like Machines
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32
-  title: Stars | Ifos Causes Of
+  title: Stars | ifos causes of UFO 3 ed 238
   permalink: /stars/
   short_title: Stars
   heading_title: Why Stars Flash Like Machines
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: When a Star Suddenly Switches Off
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32
-  title: Stars | Ifos Causes Of
+  title: Stars | ifos causes of UFO 3 ed 238
   permalink: /stars/
   short_title: Stars
   heading_title: Why Stars Flash Like Machines
@@ -260,6 +259,7 @@ next_link:
   permalink: /sirius/
   short_title: Sirius
   heading_title: Why Sirius So Often Looks Like a UFO
+date: '2026-06-12 00:34:15 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_low_horizon_scintill_342cd6-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_low_horizon_scintill_342cd6-Illustration-1.webp
@@ -270,15 +270,14 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_low_hor
 
 Many UFO reports begin with a single bright light low above a treeline, rooftop, hill or distant horizon. Witnesses often describe it as hovering, drifting sideways, jumping slightly, pulsing, or making short jerky movements while remaining in roughly the same part of the sky. In many cases, the underlying object is not moving in any unusual way at all. A bright star seen through a long, turbulent atmospheric path can produce a combination of intense scintillation, apparent positional shifts and visual perception effects that create a convincing illusion of motion. The result is a stationary celestial object that seems alive, purposeful or even controlled. Atmospheric optics researchers have long recognised that scintillation affects not only brightness and colour but also the apparent position of a star image, especially near the horizon where atmospheric turbulence is strongest. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Twinkling" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Atmospheric_refraction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Atmospheric refraction</span><span class="citation-popover-snippet">Atmospheric refraction</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_low_horizon_scintill_342cd6-Illustration-1-dark.svg" | relative_url }}" alt="Low Horizon illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_low_horizon_scintill_342cd6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_low_horizon_scintill_342cd6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why the Horizon Strengthens Scintillation
 
-The key reason low [stars]({{ 'stars/' | relative_url }}) behave differently is geometry. A star directly overhead is viewed through a relatively short column of [atmosphere]({{ 'atmosphere/' | relative_url }}). A star close to the horizon is viewed through a much longer path of air, often passing through layers of different temperature, humidity and density before reaching the observer. This extended path increases the effects of atmospheric turbulence and refraction. Astronomical sources consistently note that scintillation becomes much stronger near the horizon because the light crosses far more atmosphere than it does at higher elevations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/science/Why-Do-Stars-Twinkle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Why Do Stars Twinkle?</span><span class="citation-popover-snippet">| Stars, Astronomy, &amp; FactsMarch 4, 2025 — The light from a star directly overhead passes through less atmosphere than a star on the hori...</span><span class="citation-popover-meta">Published: March 4, 2025</span></span></span> Wikipedia This low-altitude air is often especially unstable. Heat rising from buildings <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Twinkling" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>, roads, fields, water surfaces and urban areas creates constantly changing pockets of air that bend incoming starlight in slightly different directions from moment to moment. Instead of reaching the eye along a steady path, the light is repeatedly redirected. The observer sees rapid changes in brightness, colour and apparent position. <span class="citation-chip-wrap"><a class="citation-chip" href="https://record.umich.edu/articles/mystery-of-twinkling-stars-explained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: record.umich.edu">[Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">record.umich.edu</span><span class="citation-popover-title">Record Mystery of twinkling stars explained</span><span class="citation-popover-snippet">The beam of light from a star...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Twinkling" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia For UFO misidentifications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>, the important point is that the strongest distortions occur exactly where many sightings occur: close to the horizon, where bright stars are easiest to mistake for distant lights above the landscape.
+The key reason low [stars]({{ 'stars/' | relative_url }}) behave differently is geometry. A star directly overhead is viewed through a relatively short column of [atmosphere]({{ 'atmosphere/' | relative_url }}). A star close to the horizon is viewed through a much longer path of air, often passing through layers of different temperature, humidity and density before reaching the observer. This extended path increases the effects of atmospheric turbulence and refraction. Astronomical sources consistently note that scintillation becomes much stronger near the horizon because the light crosses far more atmosphere than it does at higher elevations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/science/Why-Do-Stars-Twinkle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Why Do Stars Twinkle?</span><span class="citation-popover-snippet">Stars, Astronomy, &amp; FactsMarch 4, 2025 — The light from a star directly overhead passes through less atmosphere than a star on the hori...</span><span class="citation-popover-meta">Published: March 4, 2025</span></span></span> Wikipedia This low-altitude air is often especially unstable. Heat rising from buildings <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Twinkling" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>, roads, fields, water surfaces and urban areas creates constantly changing pockets of air that bend incoming starlight in slightly different directions from moment to moment. Instead of reaching the eye along a steady path, the light is repeatedly redirected. The observer sees rapid changes in brightness, colour and apparent position. <span class="citation-chip-wrap"><a class="citation-chip" href="https://record.umich.edu/articles/mystery-of-twinkling-stars-explained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: record.umich.edu">[Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">record.umich.edu</span><span class="citation-popover-title">Record Mystery of twinkling stars explained</span><span class="citation-popover-snippet">The beam of light from a star...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Twinkling" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia For UFO misidentifications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>, the important point is that the strongest distortions occur exactly where many sightings occur: close to the horizon, where bright stars are easiest to mistake for distant lights above the landscape.
 
 ## How Point-Source Light Creates Apparent Movement
 
-A star is effectively a point source. Its apparent size is so tiny that even small atmospheric distortions can shift its image noticeably. Large objects such as the Moon or planets present broader discs whose distortions tend to average out, but a star's concentrated light is much more vulnerable to atmospheric scrambling. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/science/Why-Do-Stars-Twinkle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Why Do Stars Twinkle?</span><span class="citation-popover-snippet">| Stars, Astronomy, &amp; FactsMarch 4, 2025 — The light from a star directly overhead passes through less atmosphere than a star on the hori...</span><span class="citation-popover-meta">Published: March 4, 2025</span></span></span>
+A star is effectively a point source. Its apparent size is so tiny that even small atmospheric distortions can shift its image noticeably. Large objects such as the Moon or planets present broader discs whose distortions tend to average out, but a star's concentrated light is much more vulnerable to atmospheric scrambling. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/science/Why-Do-Stars-Twinkle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Why Do Stars Twinkle?</span><span class="citation-popover-snippet">Stars, Astronomy, &amp; FactsMarch 4, 2025 — The light from a star directly overhead passes through less atmosphere than a star on the hori...</span><span class="citation-popover-meta">Published: March 4, 2025</span></span></span>
 
 This produces several effects that can be interpreted as motion:
 
@@ -291,7 +290,6 @@ Astronomical studies of scintillation describe these fluctuations as including b
 
 To a casual observer without reference points, these tiny positional shifts can be interpreted as genuine movement. A star may seem to slide left, jump upward, stop, then return to its original position even though no actual motion has occurred.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HisTQ1Ei5Ok" title="The constellations and the apparent motion of the stars (Giulio Magli)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HisTQ1Ei5Ok" target="_blank" rel="noopener noreferrer">The constellations and the apparent motion of the stars (Giulio Magli)</a></p><p class="youtube-embed-meta">Channel: Polimi OpenKnowledge &middot; Views: 4.7K &middot; Uploaded: May 2016 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HisTQ1Ei5Ok" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HisTQ1Ei5Ok">Open on YouTube</a></p></div></div></div>
 
 ## Why Witnesses Often Perceive Hovering
@@ -302,14 +300,11 @@ This combination is psychologically powerful. The observer sees constant change 
 
 The effect becomes especially persuasive when the observer checks repeatedly over several minutes. Each glance reveals a slightly different brightness, colour or position. Instead of recognising atmospheric distortion, the witness may interpret the changes as manoeuvres performed by a distant object.
 
-
-<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_low_horizon_scintill_342cd6-Illustration-3-dark.svg" | relative_url }}" alt="Low Horizon illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_low_horizon_scintill_342cd6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_low_horizon_scintill_342cd6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Role of the Autokinetic Effect
 
-Atmospheric distortion is often reinforced by a separate visual phenomenon known as the autokinetic effect. When a person stares at a small isolated light against a dark background, tiny involuntary eye movements can make the light appear to drift or move even though it is stationary. The illusion has been documented for well over a century and is frequently mentioned in discussions of apparent star motion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Astronomy/comments/1xhws0/why_do_the_stars_look_like_they_are_moving/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Why do the stars look like they are moving?: r/Astronomy</span><span class="citation-popover-snippet">RedditWhy do the stars look like they are moving?: r/AstronomyFebruary 10, 2014 — The autokinetic effect (also referred to as autokinesi...</span><span class="citation-popover-meta">Published: February 10, 2014</span></span></span>
+Atmospheric distortion is often reinforced by a separate visual phenomenon known as the autokinetic effect. When a person stares at a small isolated light against a dark background, tiny involuntary eye movements can make the light appear to drift or move even though it is stationary. The illusion has been documented for well over a century and is frequently mentioned in discussions of apparent star motion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Astronomy/comments/1xhws0/why_do_the_stars_look_like_they_are_moving/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Why do the stars look like they are moving?: r/Astronomy</span><span class="citation-popover-snippet">Why do the stars look like they are moving?: r/AstronomyFebruary 10, 2014 — The autokinetic effect (also referred to as autokinesi...</span><span class="citation-popover-meta">Published: February 10, 2014</span></span></span>
 
 Low-horizon UFO reports frequently contain conditions that favour autokinesis:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -322,14 +317,12 @@ Low-horizon UFO reports frequently contain conditions that favour autokinesis:
 
 In such circumstances, an observer may become convinced that the light is tracing short paths, making sudden turns or hovering while oscillating around a fixed position. The atmosphere provides real fluctuations, while the visual system can add perceived motion on top of them.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_low_horizon_scintill_342cd6-Illustration-2-dark.svg" | relative_url }}" alt="Low Horizon illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_low_horizon_scintill_342cd6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_low_horizon_scintill_342cd6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Foreground Clues Can and Cannot Prove
 
 Witnesses often argue that a light cannot be a star because it appeared above a tree, behind a hill, or next to a building. Foreground references can be useful, but they do not automatically resolve the identification.
 
 Some clues are genuinely informative:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -341,7 +334,6 @@ Some clues are genuinely informative:
 
 However, other observations are less decisive than they appear:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * A star can seem to hover over a specific tree or rooftop for a long time because celestial motion is gradual.
@@ -352,20 +344,16 @@ However, other observations are less decisive than they appear:
 
 The crucial question is not whether the light appeared active, but whether it showed sustained directional movement independent of atmospheric fluctuations.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OvA_kCOVsxI" title="Why Do Stars Twinkle but Planets Don’t? | Atmospheric Refraction Explained | Class 10 Physics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OvA_kCOVsxI" target="_blank" rel="noopener noreferrer">Why Do Stars Twinkle but Planets Don’t? | Atmospheric Refraction Explained | Class 10 Physics</a></p><p class="youtube-embed-meta">Channel: Quizlet &middot; Views: 388 &middot; Uploaded: March 2026 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OvA_kCOVsxI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OvA_kCOVsxI">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_low_horizon_scintill_342cd6-Illustration-3-dark.svg" | relative_url }}" alt="Low Horizon illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_low_horizon_scintill_342cd6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32_low_horizon_scintill_342cd6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A Common Pattern in UFO Reports
 
 The classic pattern involves a bright star low above the horizon shortly after dusk or before dawn. The witness notices a stationary but highly active light. It flashes colours, changes brightness, seems to move slightly, and remains visible for an extended period. Attempts to judge its distance are difficult because darkness removes normal depth cues. The observer may conclude that the object is hovering over a distant field, hill or neighbourhood.
 
-From an atmospheric optics perspective, this is exactly the situation in which scintillation is expected to be strongest. Stars near the horizon experience greater image distortion, greater colour variation and larger apparent positional fluctuations than stars higher in the sky. Historical and modern astronomical literature consistently describes this increase in amplitude and visibility of scintillation near the horizon. Optica Publishing Group <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/science/Why-Do-Stars-Twinkle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Why Do Stars Twinkle?</span><span class="citation-popover-snippet">| Stars, Astronomy, &amp; FactsMarch 4, 2025 — The light from a star directly overhead passes through less atmosphere than a star on the hori...</span><span class="citation-popover-meta">Published: March 4, 2025</span></span></span>
+From an atmospheric optics perspective, this is exactly the situation in which scintillation is expected to be strongest. Stars near the horizon experience greater image distortion, greater colour variation and larger apparent positional fluctuations than stars higher in the sky. Historical and modern astronomical literature consistently describes this increase in amplitude and visibility of scintillation near the horizon. Optica Publishing Group <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/science/Why-Do-Stars-Twinkle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Why Do Stars Twinkle?</span><span class="citation-popover-snippet">Stars, Astronomy, &amp; FactsMarch 4, 2025 — The light from a star directly overhead passes through less atmosphere than a star on the hori...</span><span class="citation-popover-meta">Published: March 4, 2025</span></span></span>
 
 For investigators of UFO reports, low-horizon scintillation is therefore one of the most important mechanisms behind reports of [hovering lights]({{ 'hovering-lights/' | relative_url }}). The witness is observing a real object, but atmospheric turbulence and human visual perception combine to create the impression of motion where little or none actually exists.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dUhps5ezxVk" title="Why Do Stars Twinkle The Simple Science Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dUhps5ezxVk" target="_blank" rel="noopener noreferrer">Why Do Stars Twinkle The Simple Science Explained</a></p><p class="youtube-embed-meta">Channel: Why Curiosity Channel</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dUhps5ezxVk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dUhps5ezxVk">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OvA_kCOVsxI" title="Why Do Stars Twinkle but Planets Don’t? | Atmospheric Refraction Explained | Class 10 Physics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OvA_kCOVsxI" target="_blank" rel="noopener noreferrer">Why Do Stars Twinkle but Planets Don’t? | Atmospheric Refraction Explained | Class 10 Physics</a></p><p class="youtube-embed-meta">Channel: Quizlet &middot; Views: 388 &middot; Uploaded: March 2026 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OvA_kCOVsxI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OvA_kCOVsxI">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -460,7 +448,7 @@ For investigators of UFO reports, low-horizon scintillation is therefore one of 
         <p class="fr-section-kicker">eBay marketplace picks</p>
         <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
       </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
       <div class="fr-ebay-market-toolbar">
         <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
@@ -484,15 +472,15 @@ For investigators of UFO reports, low-horizon scintillation is therefore one of 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-horizon-why-low-stars-seem-to-hover-and-jerk-ifos-causes-of-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="low-horizon-why-low-stars-seem-to-hover-and-jerk-ifos-causes-of-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Astronomy Star Map VINTAGE Retro Travel Advert science posters print"><img src="{{ '/assets/images/marketplace-covers/e5aa9449b49d3a654f6b.jpg' | relative_url }}" alt="Listing image for Astronomy Star Map VINTAGE Retro Travel Advert science posters print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-stars-seem-to-hover-and-jerk-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-low-stars-seem-to-hover-and-jerk-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cartoon Star Stickers, Children Reward Chart Sticker School, Parents, Kids Small"><img src="https://i.ebayimg.com/images/g/kxoAAOSwYA9nSc4e/s-l225.jpg" alt="Listing image for Cartoon Star Stickers, Children Reward Chart Sticker School, Parents, Kids Small" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-horizon-why-low-stars-seem-to-hover-and-jerk-ifos-causes-of-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="low-horizon-why-low-stars-seem-to-hover-and-jerk-ifos-causes-of-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Astronomy Star Map VINTAGE Retro Travel Advert science posters print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-stars-seem-to-hover-and-jerk-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-low-stars-seem-to-hover-and-jerk-star-chart" target="_blank" rel="sponsored noopener noreferrer">Cartoon Star Stickers, Children Reward Chart Sticker School, Parents, Kids Small</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-horizon-why-low-stars-seem-to-hover-and-jerk-ifos-causes-of-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="low-horizon-why-low-stars-seem-to-hover-and-jerk-ifos-causes-of-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-stars-seem-to-hover-and-jerk-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-low-stars-seem-to-hover-and-jerk-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-horizon-why-low-stars-seem-to-hover-and-jerk-ifos-causes-of-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="low-horizon-why-low-stars-seem-to-hover-and-jerk-ifos-causes-of-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-stars-seem-to-hover-and-jerk-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-low-stars-seem-to-hover-and-jerk-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -500,15 +488,15 @@ For investigators of UFO reports, low-horizon scintillation is therefore one of 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-horizon-why-low-stars-seem-to-hover-and-jerk-ifos-causes-of-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="low-horizon-why-low-stars-seem-to-hover-and-jerk-ifos-causes-of-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1957 Philips Chart of the Stars Astronomy Map Poster E O Tancock"><img src="{{ '/assets/images/marketplace-covers/6a914ab478f4568dac43.jpg' | relative_url }}" alt="Listing image for Vintage 1957 Philips Chart of the Stars Astronomy Map Poster E O Tancock" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-stars-seem-to-hover-and-jerk-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-low-stars-seem-to-hover-and-jerk-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Good Behaviour Reward Chart Childrens Kids Reusable Routine FRZ"><img src="https://i.ebayimg.com/images/g/8pQAAOSwwyVfw6Zm/s-l225.jpg" alt="Listing image for Personalised Good Behaviour Reward Chart Childrens Kids Reusable Routine FRZ" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-horizon-why-low-stars-seem-to-hover-and-jerk-ifos-causes-of-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="low-horizon-why-low-stars-seem-to-hover-and-jerk-ifos-causes-of-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1957 Philips Chart of the Stars Astronomy Map Poster E O Tancock</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-stars-seem-to-hover-and-jerk-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-low-stars-seem-to-hover-and-jerk-star-chart" target="_blank" rel="sponsored noopener noreferrer">Personalised Good Behaviour Reward Chart Childrens Kids Reusable Routine FRZ</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-horizon-why-low-stars-seem-to-hover-and-jerk-ifos-causes-of-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="low-horizon-why-low-stars-seem-to-hover-and-jerk-ifos-causes-of-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-stars-seem-to-hover-and-jerk-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-low-stars-seem-to-hover-and-jerk-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-horizon-why-low-stars-seem-to-hover-and-jerk-ifos-causes-of-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="low-horizon-why-low-stars-seem-to-hover-and-jerk-ifos-causes-of-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-stars-seem-to-hover-and-jerk-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-low-stars-seem-to-hover-and-jerk-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -516,15 +504,15 @@ For investigators of UFO reports, low-horizon scintillation is therefore one of 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-horizon-why-low-stars-seem-to-hover-and-jerk-ifos-causes-of-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="low-horizon-why-low-stars-seem-to-hover-and-jerk-ifos-causes-of-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phases of the Moon Astronomy Full Moon Lunar Space Poster Huge Wall Art 18X24 In"><img src="{{ '/assets/images/marketplace-covers/483a4c32f26fd3416ffe.jpg' | relative_url }}" alt="Listing image for Phases of the Moon Astronomy Full Moon Lunar Space Poster Huge Wall Art 18X24 In" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-stars-seem-to-hover-and-jerk-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-low-stars-seem-to-hover-and-jerk-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6 x Childrens Jungle Behaviour Reward Chart Star Stickers Kids Preschool Nursery"><img src="https://i.ebayimg.com/images/g/24wAAOSwNVxdRD7W/s-l225.jpg" alt="Listing image for 6 x Childrens Jungle Behaviour Reward Chart Star Stickers Kids Preschool Nursery" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-horizon-why-low-stars-seem-to-hover-and-jerk-ifos-causes-of-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="low-horizon-why-low-stars-seem-to-hover-and-jerk-ifos-causes-of-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Phases of the Moon Astronomy Full Moon Lunar Space Poster Huge Wall Art 18X24 In</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-stars-seem-to-hover-and-jerk-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-low-stars-seem-to-hover-and-jerk-star-chart" target="_blank" rel="sponsored noopener noreferrer">6 x Childrens Jungle Behaviour Reward Chart Star Stickers Kids Preschool Nursery</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-horizon-why-low-stars-seem-to-hover-and-jerk-ifos-causes-of-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="low-horizon-why-low-stars-seem-to-hover-and-jerk-ifos-causes-of-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-stars-seem-to-hover-and-jerk-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-low-stars-seem-to-hover-and-jerk-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-horizon-why-low-stars-seem-to-hover-and-jerk-ifos-causes-of-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="low-horizon-why-low-stars-seem-to-hover-and-jerk-ifos-causes-of-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-stars-seem-to-hover-and-jerk-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-low-stars-seem-to-hover-and-jerk-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -532,15 +520,15 @@ For investigators of UFO reports, low-horizon scintillation is therefore one of 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-horizon-why-low-stars-seem-to-hover-and-jerk-ifos-causes-of-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="low-horizon-why-low-stars-seem-to-hover-and-jerk-ifos-causes-of-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Philips Chart of The Stars Astronomy Wall Poster 1978 George"><img src="{{ '/assets/images/marketplace-covers/ec503b189b33f040df98.jpg' | relative_url }}" alt="Listing image for Philips Chart of The Stars Astronomy Wall Poster 1978 George" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-stars-seem-to-hover-and-jerk-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-low-stars-seem-to-hover-and-jerk-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 700 Coloured Star Stickers Reward Merit Chart small sticky Kids Self Adhesive"><img src="https://i.ebayimg.com/images/g/TaoAAOSwi7hlM7q5/s-l225.jpg" alt="Listing image for 700 Coloured Star Stickers Reward Merit Chart small sticky Kids Self Adhesive" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-horizon-why-low-stars-seem-to-hover-and-jerk-ifos-causes-of-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="low-horizon-why-low-stars-seem-to-hover-and-jerk-ifos-causes-of-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Philips Chart of The Stars Astronomy Wall Poster 1978 George</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-stars-seem-to-hover-and-jerk-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-low-stars-seem-to-hover-and-jerk-star-chart" target="_blank" rel="sponsored noopener noreferrer">700 Coloured Star Stickers Reward Merit Chart small sticky Kids Self Adhesive</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-horizon-why-low-stars-seem-to-hover-and-jerk-ifos-causes-of-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="low-horizon-why-low-stars-seem-to-hover-and-jerk-ifos-causes-of-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-stars-seem-to-hover-and-jerk-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-low-stars-seem-to-hover-and-jerk-star-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for star chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: star chart</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-horizon-why-low-stars-seem-to-hover-and-jerk-ifos-causes-of-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="low-horizon-why-low-stars-seem-to-hover-and-jerk-ifos-causes-of-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-stars-seem-to-hover-and-jerk-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-low-stars-seem-to-hover-and-jerk-star-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -548,7 +536,7 @@ For investigators of UFO reports, low-horizon scintillation is therefore one of 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-horizon-why-low-stars-seem-to-hover-and-jerk-ifos-causes-of-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="low-horizon-why-low-stars-seem-to-hover-and-jerk-ifos-causes-of-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=star+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-low-stars-seem-to-hover-and-jerk-star-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="star chart" data-ebay-reference="why-low-stars-seem-to-hover-and-jerk-star-chart" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -763,98 +751,98 @@ For investigators of UFO reports, low-horizon scintillation is therefore one of 
 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Twinkling](https://en.wikipedia.org/wiki/Twinkling)  
+   Link: <a href="https://en.wikipedia.org/wiki/Twinkling" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Twinkling</a>  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Atmospheric refraction  
-   Link: [https://en.wikipedia.org/wiki/Atmospheric_refraction](https://en.wikipedia.org/wiki/Atmospheric_refraction)  
+   Link: <a href="https://en.wikipedia.org/wiki/Atmospheric_refraction" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Atmospheric_refraction</a>  
 
 3. <a id="endnote-3"></a>
    Source: opg.optica.org  
-   Link: [https://opg.optica.org/fulltext.cfm?uri=josa-41-10-689](https://opg.optica.org/fulltext.cfm?uri=josa-41-10-689)  
+   Link: <a href="https://opg.optica.org/fulltext.cfm?uri=josa-41-10-689" target="_blank" rel="noopener noreferrer nofollow">https://opg.optica.org/fulltext.cfm?uri=josa-41-10-689</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Optica Publishing GroupThe Scintillation of Starlight*by AH Mikesell · 1951 · Cited by 82 — stars near the horizon scintillate more slowl...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Why Do Stars Twinkle?  
-   Link: [https://www.britannica.com/science/Why-Do-Stars-Twinkle](https://www.britannica.com/science/Why-Do-Stars-Twinkle)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>| Stars, Astronomy, &amp; FactsMarch 4, 2025 — The light from a star directly overhead passes through less atmosphere than a star on the hori...</p></details>
+   Link: <a href="https://www.britannica.com/science/Why-Do-Stars-Twinkle" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/science/Why-Do-Stars-Twinkle</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stars, Astronomy, &amp; FactsMarch 4, 2025 — The light from a star directly overhead passes through less atmosphere than a star on the hori...</p></details>
    Published: March 4, 2025  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Guide star  
-   Link: [https://en.wikipedia.org/wiki/Guide_star](https://en.wikipedia.org/wiki/Guide_star)  
+   Link: <a href="https://en.wikipedia.org/wiki/Guide_star" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Guide_star</a>  
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
    Title: Why do the stars look like they are moving?: r/Astronomy  
-   Link: [https://www.reddit.com/r/Astronomy/comments/1xhws0/why_do_the_stars_look_like_they_are_moving/](https://www.reddit.com/r/Astronomy/comments/1xhws0/why_do_the_stars_look_like_they_are_moving/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditWhy do the stars look like they are moving?: r/AstronomyFebruary 10, 2014 — The autokinetic effect (also referred to as autokinesi...</p></details>
+   Link: <a href="https://www.reddit.com/r/Astronomy/comments/1xhws0/why_do_the_stars_look_like_they_are_moving/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Astronomy/comments/1xhws0/why_do_the_stars_look_like_they_are_moving/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why do the stars look like they are moving?: r/AstronomyFebruary 10, 2014 — The autokinetic effect (also referred to as autokinesi...</p></details>
    Published: February 10, 2014  
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/askastronomy/comments/1fhig5z/a_flickering_object_in_the_northern_hemisphere/](https://www.reddit.com/r/askastronomy/comments/1fhig5z/a_flickering_object_in_the_northern_hemisphere/)  
+   Link: <a href="https://www.reddit.com/r/askastronomy/comments/1fhig5z/a_flickering_object_in_the_northern_hemisphere/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askastronomy/comments/1fhig5z/a_flickering_object_in_the_northern_hemisphere/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A “flickering” object in the northern hemisphere: r/askastronomyCapella is one of the top ten brightest stars visible in the northern he...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: record.umich.edu  
-   Title: Record Mystery of twinkling stars explained  
-   Link: [https://record.umich.edu/articles/mystery-of-twinkling-stars-explained/](https://record.umich.edu/articles/mystery-of-twinkling-stars-explained/)  
+   Title: Record Mystery of [twinkling stars](&#123;&#123; 'twinkling-stars/' | relative_url &#125;&#125;) explained  
+   Link: <a href="https://record.umich.edu/articles/mystery-of-twinkling-stars-explained/" target="_blank" rel="noopener noreferrer nofollow">https://record.umich.edu/articles/mystery-of-twinkling-stars-explained/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The beam of light from a star...Read more...</p></details>
 
 ### Additional References
 
 9. <a id="endnote-9"></a>
    Source: caha.es  
-   Link: [https://www.caha.es/newsletter/news06a/Scholz/scholz_etal.html](https://www.caha.es/newsletter/news06a/Scholz/scholz_etal.html)  
+   Link: <a href="https://www.caha.es/newsletter/news06a/Scholz/scholz_etal.html" target="_blank" rel="noopener noreferrer nofollow">https://www.caha.es/newsletter/news06a/Scholz/scholz_etal.html</a>  
 
 10. <a id="endnote-10"></a>
    Source: cseligman.com  
-   Link: [https://cseligman.com/text/sky/skymotion.htm](https://cseligman.com/text/sky/skymotion.htm)  
+   Link: <a href="https://cseligman.com/text/sky/skymotion.htm" target="_blank" rel="noopener noreferrer nofollow">https://cseligman.com/text/sky/skymotion.htm</a>  
 
 11. <a id="endnote-11"></a>
    Source: adsabs.harvard.edu  
    Title: Astrophysics Data System Atmospheric Intensity Scintillation of Stars, I  
-   Link: [https://adsabs.harvard.edu/full/1997PASP..109..173D](https://adsabs.harvard.edu/full/1997PASP..109..173D)  
+   Link: <a href="https://adsabs.harvard.edu/full/1997PASP..109..173D" target="_blank" rel="noopener noreferrer nofollow">https://adsabs.harvard.edu/full/1997PASP..109..173D</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>D Dravins · 1997 · Cited by 148 — Patterns displaying large shadows can be attributed to turbulence near the tropopause...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: lirias.kuleuven.be  
    Title: be Students' knowledge of the apparent motion of the Sun  
-   Link: [https://lirias.kuleuven.be/retrieve/f99fc5f0-91f2-40d2-b73d-3e34cd084730](https://lirias.kuleuven.be/retrieve/f99fc5f0-91f2-40d2-b73d-3e34cd084730)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Liriasby H Bekaert · 2022 · Cited by 4 — When it comes to stars it seems to the stars&#x27; apparent motion does not differ from the Sun, star...</p></details>
+   Link: <a href="https://lirias.kuleuven.be/retrieve/f99fc5f0-91f2-40d2-b73d-3e34cd084730" target="_blank" rel="noopener noreferrer nofollow">https://lirias.kuleuven.be/retrieve/f99fc5f0-91f2-40d2-b73d-3e34cd084730</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by H Bekaert · 2022 · Cited by 4 — When it comes to stars it seems to the stars&#x27; apparent motion does not differ from the Sun, star...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/AstronomyMagazine/posts/stars-twinkle-and-sometimes-appear-to-move-around-due-to-our-atmosphere-scrambli/1407931001373614/](https://www.facebook.com/AstronomyMagazine/posts/stars-twinkle-and-sometimes-appear-to-move-around-due-to-our-atmosphere-scrambli/1407931001373614/)  
+   Link: <a href="https://www.facebook.com/AstronomyMagazine/posts/stars-twinkle-and-sometimes-appear-to-move-around-due-to-our-atmosphere-scrambli/1407931001373614/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AstronomyMagazine/posts/stars-twinkle-and-sometimes-appear-to-move-around-due-to-our-atmosphere-scrambli/1407931001373614/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nt motion, distort the light paths from distant astronomical...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: instagram.com  
    Title: Why do stars twinkle, but planets don't?  
-   Link: [https://www.instagram.com/reel/DMwBl8IhvGx/?hl=en](https://www.instagram.com/reel/DMwBl8IhvGx/?hl=en)  
+   Link: <a href="https://www.instagram.com/reel/DMwBl8IhvGx/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DMwBl8IhvGx/?hl=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s what&#x27;s going...This twinkling happens because the light from stars travels across space as a narrow beam. As it enters Earth&#x27;s at...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DTGPYnhjQ3c/?hl=en](https://www.instagram.com/reel/DTGPYnhjQ3c/?hl=en)  
+   Link: <a href="https://www.instagram.com/reel/DTGPYnhjQ3c/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DTGPYnhjQ3c/?hl=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ffect is more noticeable for stars low on the horizon. Why...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: study.com  
-   Link: [https://study.com/academy/lesson/the-apparent-motion-of-stars-planets.html](https://study.com/academy/lesson/the-apparent-motion-of-stars-planets.html)  
+   Link: <a href="https://study.com/academy/lesson/the-apparent-motion-of-stars-planets.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/the-apparent-motion-of-stars-planets.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This can be caused by beta motion, phi motion, or a moving reference frame.Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/wtol11/posts/why-do-stars-twinkle-more-on-some-nights/1403413825161804/](https://www.facebook.com/wtol11/posts/why-do-stars-twinkle-more-on-some-nights/1403413825161804/)  
+   Link: <a href="https://www.facebook.com/wtol11/posts/why-do-stars-twinkle-more-on-some-nights/1403413825161804/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wtol11/posts/why-do-stars-twinkle-more-on-some-nights/1403413825161804/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>here compared to stars directly overhead...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: study.com  
    Title: Apparent Motion of Stars & Planets | Overview & Types  
-   Link: [https://study.com/academy/lesson/video/the-apparent-motion-of-stars-planets.html](https://study.com/academy/lesson/video/the-apparent-motion-of-stars-planets.html)  
+   Link: <a href="https://study.com/academy/lesson/video/the-apparent-motion-of-stars-planets.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/video/the-apparent-motion-of-stars-planets.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>VideoThe stars apparently move left and right. This effect is known as parallax, and it is used to calculate the distance to some of the...</p></details>

@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_bright_point_false_s_ae0dde
 - ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_fireballs_nearby_ill_7099b5
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - size-errors
 - silent-objects
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - size-errors
 - silent-objects
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Silence can make an object seem stranger, but it does not prove that a light or shape is enormous or far away.
 hero_summary: Silence can make an object seem stranger, but it does not prove that a light or shape is enormous or far away.
 layout: default
 permalink: /silent-objects/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /size-errors/
 nav_short_title: Silent Objects
 title: Does Silence Mean A UFO Was Huge?
-title_full: Does Silence Mean A UFO Was Huge? | Size Errors
+title_full: Does Silence Mean A UFO Was Huge?
 display_title_short: Silent Objects
 display_title: Silent Objects
 heading_title: Does Silence Mean A UFO Was Huge?
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 21:38:48'
-parent_title: Why Honest Witnesses Misjudge UFOs | IFOs
+parent_title: Why Honest Witnesses Misjudge UFOs
 parent_permalink: /size-errors/
 parent_nav_short_title: Size Errors
 parent_heading_title: Why Honest Witnesses Misjudge UFOs
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f
-  title: Size Errors | Ifos Causes Of
+  title: Size Errors | ifos causes of UFO 3 ed 238
   permalink: /size-errors/
   short_title: Size Errors
   heading_title: Why Honest Witnesses Misjudge UFOs
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f
-  title: Size Errors | Ifos Causes Of
+  title: Size Errors | ifos causes of UFO 3 ed 238
   permalink: /size-errors/
   short_title: Size Errors
   heading_title: Why Honest Witnesses Misjudge UFOs
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: Why One Light Can Look Like a Craft
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f
-  title: Size Errors | Ifos Causes Of
+  title: Size Errors | ifos causes of UFO 3 ed 238
   permalink: /size-errors/
   short_title: Size Errors
   heading_title: Why Honest Witnesses Misjudge UFOs
@@ -260,6 +259,7 @@ prev_link:
   permalink: /point-lights/
   short_title: Point Lights
   heading_title: Why One Light Can Look Like a Craft
+date: '2026-06-12 00:48:51 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_silent_objects_size_4891c8-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_silent_objects_size_4891c8-Illustration-1.webp
@@ -270,7 +270,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_si
 
 A common feature in UFO reports is the statement that an object was completely silent. Witnesses may reason that if something appeared large, moved through the sky, and produced no audible noise, it must have been extraordinarily distant, technologically advanced, or physically enormous. In practice, silence is a much weaker clue than it first appears.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_silent_objects_size_4891c8-Illustration-1-dark.svg" | relative_url }}" alt="Silent Objects illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_silent_objects_size_4891c8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_silent_objects_size_4891c8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For reports involving unidentified flying objects (IFOs), missing sound often contributes to mistakes about distance and size. People naturally expect large aircraft to be noisy and nearby objects to be audible. However, sound propagation outdoors is complicated, many aerial objects are inherently quiet, and atmospheric conditions can suppress or redirect noise. As a result, a silent object may be small and nearby, while a noisy aircraft can sometimes appear surprisingly quiet from the ground. Silence can make a sighting seem stranger, but by itself it does not establish an object's size, altitude, or nature. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eaglepubs.erau.edu/introductiontoaerospaceflightvehicles/chapter/noise-of-flight-vehicles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eaglepubs.erau.edu">[eaglepubs.erau.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eaglepubs.erau.edu</span><span class="citation-popover-title">Aeroacoustics of Flight Vehicles –</span><span class="citation-popover-snippet">noise propagation by refracting and sometimes focusing sound over longer distances.Read more...</span></span></span>
 
@@ -280,10 +279,9 @@ The short answer is no.
 
 In many witness accounts, size estimates depend on an assumed distance. If an observer believes a silent light must be far away, they may place it at aircraft altitude. Once that assumption is made, the object's apparent angular size can translate into an enormous physical size. If the distance assumption is wrong, the size estimate collapses with it.
 
-This is the same basic problem identified in analyses of UAP and UFO reports that involve forced perspective. [AARO]({{ 'aaro/' | relative_url }}) has noted that observers frequently lack reliable depth cues and may unintentionally assign incorrect distances to aerial objects. When distance is uncertain, estimates of both size and speed become unreliable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Parallax effects cause the object to be.Read more</span><span class="citation-popover-snippet">AAROEffect of Forced Perspective and Parallax View on UAP...As the airborne observer moves from position 1 to 2 to 3 in the air, they vi...</span></span></span>
+This is the same basic problem identified in analyses of UAP and UFO reports that involve forced perspective. [AARO]({{ 'aaro/' | relative_url }}) has noted that observers frequently lack reliable depth cues and may unintentionally assign incorrect distances to aerial objects. When distance is uncertain, estimates of both size and speed become unreliable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Parallax effects cause the object to be.Read more</span><span class="citation-popover-snippet">Effect of Forced Perspective and Parallax View on UAP...As the airborne observer moves from position 1 to 2 to 3 in the air, they vi...</span></span></span>
 
 Silence often acts as an extra layer of confidence rather than genuine evidence. A witness may think:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -308,9 +306,6 @@ Research into aircraft sound perception shows that people's judgments of aircraf
 
 In practical terms, the absence of sound rarely provides a precise measure of [range]({{ 'range/' | relative_url }}).
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
-
 ### Ambient Noise Masks More Than People Realise
 
 Many UFO sightings occur in environments that are not acoustically quiet.
@@ -329,7 +324,6 @@ This creates a classic identification trap. A witness sees a silent object and u
 
 For example:
 
-
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
 * A balloon drifting overhead may appear larger and farther away than it really is because it lacks obvious motion cues.
@@ -341,13 +335,12 @@ For example:
 
 The result is that silence does not distinguish between "small and nearby" and "large and distant". Both possibilities can generate the same observation.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_silent_objects_size_4891c8-Illustration-2-dark.svg" | relative_url }}" alt="Silent Objects illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_silent_objects_size_4891c8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_silent_objects_size_4891c8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The Night-Sky Problem
 
 Night sightings are especially vulnerable to this error.
 
-When only lights are visible, observers often lose access to the shape, texture, and scale information that would normally help estimate range. A silent light may therefore be assigned an aircraft-like distance simply because it is seen in the sky. Once that assumption is made, a modest light source can be interpreted as a giant object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Parallax effects cause the object to be.Read more</span><span class="citation-popover-snippet">AAROEffect of Forced Perspective and Parallax View on UAP...As the airborne observer moves from position 1 to 2 to 3 in the air, they vi...</span></span></span>
+When only lights are visible, observers often lose access to the shape, texture, and scale information that would normally help estimate range. A silent light may therefore be assigned an aircraft-like distance simply because it is seen in the sky. Once that assumption is made, a modest light source can be interpreted as a giant object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Parallax effects cause the object to be.Read more</span><span class="citation-popover-snippet">Effect of Forced Perspective and Parallax View on UAP...As the airborne observer moves from position 1 to 2 to 3 in the air, they vi...</span></span></span>
 
 The witness may be reporting exactly what they experienced, yet the inferred size can still be dramatically wrong.
 
@@ -358,7 +351,6 @@ Silence should not be ignored completely.
 If a witness reports a large, apparently low-altitude object passing directly overhead for an extended period with no detectable sound, that observation is potentially useful. However, it remains only one piece of evidence.
 
 Investigators must still ask:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -373,8 +365,7 @@ Investigators must still ask:
 
 Without answers to those questions, silence alone cannot reliably support claims about extraordinary size or performance.
 
-This is one reason modern UAP investigations increasingly emphasise sensor data. Human observers are valuable, but acoustic impressions can be distorted by environmental conditions and perception in ways that are difficult to reconstruct later. AARO's discussions of perspective effects and the broader move toward instrumented observations reflect this problem. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Parallax effects cause the object to be.Read more</span><span class="citation-popover-snippet">AAROEffect of Forced Perspective and Parallax View on UAP...As the airborne observer moves from position 1 to 2 to 3 in the air, they vi...</span></span></span>
-
+This is one reason modern UAP investigations increasingly emphasise sensor data. Human observers are valuable, but acoustic impressions can be distorted by environmental conditions and perception in ways that are difficult to reconstruct later. AARO's discussions of perspective effects and the broader move toward instrumented observations reflect this problem. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Parallax effects cause the object to be.Read more</span><span class="citation-popover-snippet">Effect of Forced Perspective and Parallax View on UAP...As the airborne observer moves from position 1 to 2 to 3 in the air, they vi...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_silent_objects_size_4891c8-Illustration-3-dark.svg" | relative_url }}" alt="Silent Objects illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_silent_objects_size_4891c8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f_silent_objects_size_4891c8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Silence Should Be Handled in Reports
@@ -386,7 +377,6 @@ Instead of writing:
 > "The object was silent, therefore it must have been enormous."
 
 A stronger report records:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -401,11 +391,7 @@ A stronger report records:
 
 This approach preserves the evidence while avoiding assumptions that may later prove false.
 
-For investigators examining IFO explanations, silence is best treated as a descriptive feature rather than a measurement tool. It may help narrow possibilities when combined with other data, but it cannot reliably determine distance, and without distance there is no secure basis for estimating size. That is why many apparently gigantic silent UFOs can ultimately trace back to a much simpler problem: the observer correctly noticed the absence of sound but incorrectly used that absence to infer scale. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Parallax effects cause the object to be.Read more</span><span class="citation-popover-snippet">AAROEffect of Forced Perspective and Parallax View on UAP...As the airborne observer moves from position 1 to 2 to 3 in the air, they vi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://eaglepubs.erau.edu/introductiontoaerospaceflightvehicles/chapter/noise-of-flight-vehicles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eaglepubs.erau.edu">[2eaglepubs.erau.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eaglepubs.erau.edu</span><span class="citation-popover-title">Aeroacoustics of Flight Vehicles –</span><span class="citation-popover-snippet">noise propagation by refracting and sometimes focusing sound over longer distances.Read more...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NV4SxybVEWc" title="LINK! (feat. RXTKY)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NV4SxybVEWc" target="_blank" rel="noopener noreferrer">LINK! (feat. RXTKY)</a></p><p class="youtube-embed-meta">Channel: Codet - Topic</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NV4SxybVEWc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NV4SxybVEWc">Open on YouTube</a></p></div></div></div>
-
+For investigators examining IFO explanations, silence is best treated as a descriptive feature rather than a measurement tool. It may help narrow possibilities when combined with other data, but it cannot reliably determine distance, and without distance there is no secure basis for estimating size. That is why many apparently gigantic silent UFOs can ultimately trace back to a much simpler problem: the observer correctly noticed the absence of sound but incorrectly used that absence to infer scale. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Parallax effects cause the object to be.Read more</span><span class="citation-popover-snippet">Effect of Forced Perspective and Parallax View on UAP...As the airborne observer moves from position 1 to 2 to 3 in the air, they vi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://eaglepubs.erau.edu/introductiontoaerospaceflightvehicles/chapter/noise-of-flight-vehicles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eaglepubs.erau.edu">[2eaglepubs.erau.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eaglepubs.erau.edu</span><span class="citation-popover-title">Aeroacoustics of Flight Vehicles –</span><span class="citation-popover-snippet">noise propagation by refracting and sometimes focusing sound over longer distances.Read more...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -524,15 +510,15 @@ For investigators examining IFO explanations, silence is best treated as a descr
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silent-objects-does-silence-mean-a-ufo-was-huge-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="silent-objects-does-silence-mean-a-ufo-was-huge-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-silence-mean-a-ufo-was-huge-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-silence-mean-a-ufo-was-huge-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silent-objects-does-silence-mean-a-ufo-was-huge-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="silent-objects-does-silence-mean-a-ufo-was-huge-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-silence-mean-a-ufo-was-huge-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-silence-mean-a-ufo-was-huge-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silent-objects-does-silence-mean-a-ufo-was-huge-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="silent-objects-does-silence-mean-a-ufo-was-huge-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo enamel pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-silence-mean-a-ufo-was-huge-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-silence-mean-a-ufo-was-huge-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silent-objects-does-silence-mean-a-ufo-was-huge-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="silent-objects-does-silence-mean-a-ufo-was-huge-ifos-causes-of-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-silence-mean-a-ufo-was-huge-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-silence-mean-a-ufo-was-huge-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -540,15 +526,15 @@ For investigators examining IFO explanations, silence is best treated as a descr
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silent-objects-does-silence-mean-a-ufo-was-huge-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="silent-objects-does-silence-mean-a-ufo-was-huge-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag"><img src="{{ '/assets/images/marketplace-covers/423dfe011ecd80a392ff.jpg' | relative_url }}" alt="Listing image for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-silence-mean-a-ufo-was-huge-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-silence-mean-a-ufo-was-huge-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silent-objects-does-silence-mean-a-ufo-was-huge-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="silent-objects-does-silence-mean-a-ufo-was-huge-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-silence-mean-a-ufo-was-huge-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-silence-mean-a-ufo-was-huge-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silent-objects-does-silence-mean-a-ufo-was-huge-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="silent-objects-does-silence-mean-a-ufo-was-huge-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo enamel pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-silence-mean-a-ufo-was-huge-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-silence-mean-a-ufo-was-huge-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silent-objects-does-silence-mean-a-ufo-was-huge-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="silent-objects-does-silence-mean-a-ufo-was-huge-ifos-causes-of-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-silence-mean-a-ufo-was-huge-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-silence-mean-a-ufo-was-huge-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -556,15 +542,15 @@ For investigators examining IFO explanations, silence is best treated as a descr
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silent-objects-does-silence-mean-a-ufo-was-huge-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="silent-objects-does-silence-mean-a-ufo-was-huge-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac"><img src="{{ '/assets/images/marketplace-covers/cdbe73a199cf9b4b48c0.jpg' | relative_url }}" alt="Listing image for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-silence-mean-a-ufo-was-huge-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-silence-mean-a-ufo-was-huge-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silent-objects-does-silence-mean-a-ufo-was-huge-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="silent-objects-does-silence-mean-a-ufo-was-huge-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-silence-mean-a-ufo-was-huge-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-silence-mean-a-ufo-was-huge-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silent-objects-does-silence-mean-a-ufo-was-huge-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="silent-objects-does-silence-mean-a-ufo-was-huge-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo enamel pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-silence-mean-a-ufo-was-huge-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-silence-mean-a-ufo-was-huge-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silent-objects-does-silence-mean-a-ufo-was-huge-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="silent-objects-does-silence-mean-a-ufo-was-huge-ifos-causes-of-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-silence-mean-a-ufo-was-huge-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-silence-mean-a-ufo-was-huge-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -572,15 +558,15 @@ For investigators examining IFO explanations, silence is best treated as a descr
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silent-objects-does-silence-mean-a-ufo-was-huge-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="silent-objects-does-silence-mean-a-ufo-was-huge-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-silence-mean-a-ufo-was-huge-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-silence-mean-a-ufo-was-huge-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silent-objects-does-silence-mean-a-ufo-was-huge-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="silent-objects-does-silence-mean-a-ufo-was-huge-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-silence-mean-a-ufo-was-huge-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-silence-mean-a-ufo-was-huge-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silent-objects-does-silence-mean-a-ufo-was-huge-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="silent-objects-does-silence-mean-a-ufo-was-huge-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo enamel pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-silence-mean-a-ufo-was-huge-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-silence-mean-a-ufo-was-huge-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silent-objects-does-silence-mean-a-ufo-was-huge-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="silent-objects-does-silence-mean-a-ufo-was-huge-ifos-causes-of-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-silence-mean-a-ufo-was-huge-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-silence-mean-a-ufo-was-huge-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -588,7 +574,7 @@ For investigators examining IFO explanations, silence is best treated as a descr
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silent-objects-does-silence-mean-a-ufo-was-huge-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="silent-objects-does-silence-mean-a-ufo-was-huge-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-silence-mean-a-ufo-was-huge-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-silence-mean-a-ufo-was-huge-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -804,30 +790,30 @@ For investigators examining IFO explanations, silence is best treated as a descr
 1. <a id="endnote-1"></a>
    Source: eaglepubs.erau.edu  
    Title: Aeroacoustics of Flight Vehicles –  
-   Link: [https://eaglepubs.erau.edu/introductiontoaerospaceflightvehicles/chapter/noise-of-flight-vehicles/](https://eaglepubs.erau.edu/introductiontoaerospaceflightvehicles/chapter/noise-of-flight-vehicles/)  
+   Link: <a href="https://eaglepubs.erau.edu/introductiontoaerospaceflightvehicles/chapter/noise-of-flight-vehicles/" target="_blank" rel="noopener noreferrer nofollow">https://eaglepubs.erau.edu/introductiontoaerospaceflightvehicles/chapter/noise-of-flight-vehicles/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>noise propagation by refracting and sometimes focusing sound over longer distances.Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: aaro.mil  
    Title: Parallax effects cause the object to be.Read more  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROEffect of Forced Perspective and Parallax View on UAP...As the airborne observer moves from position 1 to 2 to 3 in the air, they vi...</p></details>
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Effect of Forced Perspective and Parallax View on UAP...As the airborne observer moves from position 1 to 2 to 3 in the air, they vi...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: ntrs.nasa.gov  
    Title: Geometric Acoustics for Aircraft Noise Scattering (20220509)  
-   Link: [https://ntrs.nasa.gov/api/citations/20220006765/downloads/Geometric%20Acoustics%20for%20Aircraft%20Noise%20Scattering%20%2820220509%29.pdf](https://ntrs.nasa.gov/api/citations/20220006765/downloads/Geometric%20Acoustics%20for%20Aircraft%20Noise%20Scattering%20%2820220509%29.pdf)  
+   Link: <a href="https://ntrs.nasa.gov/api/citations/20220006765/downloads/Geometric%20Acoustics%20for%20Aircraft%20Noise%20Scattering%20%2820220509%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20220006765/downloads/Geometric%20Acoustics%20for%20Aircraft%20Noise%20Scattering%20%2820220509%29.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Technical Reports ServerGeometric Acoustics for Aircraft Noise Scatteringby Y Guo · 2022 · Cited by 17 — This paper discusses aircra...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11841372/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11841372/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11841372/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11841372/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effect size estimation plots...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: frontiersin.org  
    Title: Frontiers Soundscape Assessment of Aircraft Height and Size  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.02492/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.02492/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.02492/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.02492/full</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersSoundscape Assessment of Aircraft Height and SizeDecember 18, 2018 — by G Memoli · 2018 · Cited by 9 — We propose a method to as...</p></details>
    Published: December 18, 2018  
 
@@ -835,56 +821,56 @@ For investigators examining IFO explanations, silence is best treated as a descr
 
 6. <a id="endnote-6"></a>
    Source: x.com  
-   Link: [https://x.com/DoD_AARO/status/1788223137277952196](https://x.com/DoD_AARO/status/1788223137277952196)  
+   Link: <a href="https://x.com/DoD_AARO/status/1788223137277952196" target="_blank" rel="noopener noreferrer nofollow">https://x.com/DoD_AARO/status/1788223137277952196</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>X (formerly Twitter)Forced perspective and parallax are two optical illusions...Forced perspective and parallax are two optical illusion...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: akroncantonairport.com  
-   Link: [https://www.akroncantonairport.com/assets/Noise-Study-Files/141030draftchapter2introductiontonoiseterminology1.pdf](https://www.akroncantonairport.com/assets/Noise-Study-Files/141030draftchapter2introductiontonoiseterminology1.pdf)  
+   Link: <a href="https://www.akroncantonairport.com/assets/Noise-Study-Files/141030draftchapter2introductiontonoiseterminology1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.akroncantonairport.com/assets/Noise-Study-Files/141030draftchapter2introductiontonoiseterminology1.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Akron-Canton AirportDraft Part 150 UpdateParticipants in airport noise studies often express interest in two sound-propagation issues: (1...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: figshare.com  
    Title: Data Sheet 1 Soundscape Assessment of Aircraft Height and Size PDF  
-   Link: [https://figshare.com/articles/dataset/Data_Sheet_1_Soundscape_Assessment_of_Aircraft_Height_and_Size_PDF/7476914](https://figshare.com/articles/dataset/Data_Sheet_1_Soundscape_Assessment_of_Aircraft_Height_and_Size_PDF/7476914)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FigshareData_Sheet_1_Soundscape Assessment of Aircraft Height...17 Dec 2018 — For the first time, we report how the perceived visual hei...</p></details>
+   Link: <a href="https://figshare.com/articles/dataset/Data_Sheet_1_Soundscape_Assessment_of_Aircraft_Height_and_Size_PDF/7476914" target="_blank" rel="noopener noreferrer nofollow">https://figshare.com/articles/dataset/Data_Sheet_1_Soundscape_Assessment_of_Aircraft_Height_and_Size_PDF/7476914</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Data_Sheet_1_Soundscape Assessment of Aircraft Height...17 Dec 2018 — For the first time, we report how the perceived visual hei...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/388945514_Human_perception_and_response_to_sound_from_unmanned_aircraft_systems_within_ambient_acoustic_environments](https://www.researchgate.net/publication/388945514_Human_perception_and_response_to_sound_from_unmanned_aircraft_systems_within_ambient_acoustic_environments)  
+   Link: <a href="https://www.researchgate.net/publication/388945514_Human_perception_and_response_to_sound_from_unmanned_aircraft_systems_within_ambient_acoustic_environments" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/388945514_Human_perception_and_response_to_sound_from_unmanned_aircraft_systems_within_ambient_acoustic_environments</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The results indicate that annoyance responses were influenced by UAS type...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: theblackvault.com  
    Title: aaro explores forced perspective and parallax in new uap analysis paper  
-   Link: [https://www.theblackvault.com/documentarchive/aaro-explores-forced-perspective-and-parallax-in-new-uap-analysis-paper/](https://www.theblackvault.com/documentarchive/aaro-explores-forced-perspective-and-parallax-in-new-uap-analysis-paper/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/aaro-explores-forced-perspective-and-parallax-in-new-uap-analysis-paper/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/aaro-explores-forced-perspective-and-parallax-in-new-uap-analysis-paper/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>When viewed from a moving vantage point, a stationary...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: Why UFOs Appear Silent: The Physics of Sound at a Distance  
-   Link: [https://www.youtube.com/watch?v=nO39n9S1qgE](https://www.youtube.com/watch?v=nO39n9S1qgE)  
+   Link: <a href="https://www.youtube.com/watch?v=nO39n9S1qgE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nO39n9S1qgE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Eyewitness Reports: The Silence Fallacy...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: Understanding Eyewitness Reports: The Silence Fallacy  
-   Link: [https://www.youtube.com/watch?v=52N1E74187s](https://www.youtube.com/watch?v=52N1E74187s)  
+   Link: <a href="https://www.youtube.com/watch?v=52N1E74187s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=52N1E74187s</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of Why We Misjudge Objects in the Sky...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: Sound, Silence, and the Perception of Distance  
-   Link: [https://www.youtube.com/watch?v=uK8n_4P857g](https://www.youtube.com/watch?v=uK8n_4P857g)  
+   Link: <a href="https://www.youtube.com/watch?v=uK8n_4P857g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uK8n_4P857g</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why UFOs Appear Silent: The Physics of Sound at a Distance...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: Why We Mistakenly Assume Silent Objects are Large  
-   Link: [https://www.youtube.com/watch?v=S01Z2JvI-5A](https://www.youtube.com/watch?v=S01Z2JvI-5A)  
+   Link: <a href="https://www.youtube.com/watch?v=S01Z2JvI-5A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S01Z2JvI-5A</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sound, Silence, and the Perception of Distance...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: The Science of Why We Misjudge Objects in the Sky  
-   Link: [https://www.youtube.com/watch?v=W5y5K4-G5Z4](https://www.youtube.com/watch?v=W5y5K4-G5Z4)  
+   Link: <a href="https://www.youtube.com/watch?v=W5y5K4-G5Z4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W5y5K4-G5Z4</a>

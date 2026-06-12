@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ifos-causes-of-ufo-3ed238-drones/
 description: Focused pages that expand on Drones.
-date: '2026-06-07'
+date: '2026-06-12'
 layout: default
 parent_basename: ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c
-parent_title: Drones | Ifos Causes Of
+parent_title: Drones
 parent_nav_short_title: Drones
 parent_permalink: /drones/
 ---

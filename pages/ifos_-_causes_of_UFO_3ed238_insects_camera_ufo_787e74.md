@@ -50,22 +50,22 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_wind_data_33671a
 - ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - insects
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - insects
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Insects, dust and nearby objects can cross lenses so close and fast that they seem like distant high-speed craft.
 hero_summary: Insects, dust and nearby objects can cross lenses so close and fast that they seem like distant high-speed craft.
 layout: default
 permalink: /insects/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 nav_short_title: Insects
 title: The Tiny Things Cameras Make Huge
-title_full: The Tiny Things Cameras Make Huge | IFOs
+title_full: The Tiny Things Cameras Make Huge
 display_title_short: Insects
 display_title: Insects
 heading_title: The Tiny Things Cameras Make Huge
@@ -240,213 +240,212 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 07:56:51'
 parent_title: IFOs
-parent_permalink: /ifos-causes-of/
+parent_permalink: /ifos-causes-of-ufo-3-ed-238/
 parent_nav_short_title: IFOs
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 sibling_links:
 - basename: ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d
-  title: A Head On Aircraft Can Look Like A Stationary Light... | Ifos Causes Of
+  title: A Head On Aircraft Can Look Like A Stationary Light... | ifos causes of UFO 3 ed 238
   permalink: /a-head-on-aircraft-can-look-like-a/
   short_title: A Head On Aircraft Can Look Like A Stationary Light...
   heading_title: The Stationary Light That Is Moving
 - basename: ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261
-  title: AARO | Ifos Causes Of
+  title: AARO | ifos causes of UFO 3 ed 238
   permalink: /aaro/
   short_title: AARO
   heading_title: What Modern UAP Reviews Resolve
 - basename: ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253
-  title: Aircraft Lights | Ifos Causes Of
+  title: Aircraft Lights | ifos causes of UFO 3 ed 238
   permalink: /aircraft-lights/
   short_title: Aircraft Lights
   heading_title: Why Ordinary Aircraft Look So Strange
 - basename: ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043
-  title: Atmosphere | Ifos Causes Of
+  title: Atmosphere | ifos causes of UFO 3 ed 238
   permalink: /atmosphere/
   short_title: Atmosphere
   heading_title: When Weather Makes Shapes in the Sky
 - basename: ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057
-  title: Balloons | Ifos Causes Of
+  title: Balloons | ifos causes of UFO 3 ed 238
   permalink: /balloons/
   short_title: Balloons
   heading_title: Why Balloons Become Flying Saucers
 - basename: ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40
-  title: Birds | Ifos Causes Of
+  title: Birds | ifos causes of UFO 3 ed 238
   permalink: /birds/
   short_title: Birds
   heading_title: How Birds Become Fast UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81
-  title: Blue Book | Ifos Causes Of
+  title: Blue Book | ifos causes of UFO 3 ed 238
   permalink: /blue-book/
   short_title: Blue Book
   heading_title: What Blue Book Teaches About IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e
-  title: Contrails | Ifos Causes Of
+  title: Contrails | ifos causes of UFO 3 ed 238
   permalink: /contrails/
   short_title: Contrails
   heading_title: Why Jet Trails Glow Like UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c
-  title: Drones | Ifos Causes Of
+  title: Drones | ifos causes of UFO 3 ed 238
   permalink: /drones/
   short_title: Drones
   heading_title: When a Drone Becomes a UFO
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e
-  title: First Checks | Ifos Causes Of
+  title: First Checks | ifos causes of UFO 3 ed 238
   permalink: /first-checks/
   short_title: First Checks
   heading_title: What to Check Before Calling It a UFO
 - basename: ifos_-_causes_of_UFO_3ed238_military_flares_abb62f
-  title: Flares | Ifos Causes Of
+  title: Flares | ifos causes of UFO 3 ed 238
   permalink: /flares/
   short_title: Flares
   heading_title: Why Flares Look Like Hovering Craft
 - basename: ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590
-  title: Flight Tracking | Ifos Causes Of
+  title: Flight Tracking | ifos causes of UFO 3 ed 238
   permalink: /flight-tracking/
   short_title: Flight Tracking
   heading_title: How Flight Data Solves UFO Sightings
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965
-  title: Hoaxes | Ifos Causes Of
+  title: Hoaxes | ifos causes of UFO 3 ed 238
   permalink: /hoaxes/
   short_title: Hoaxes
   heading_title: When UFO Reports Are Manufactured
 - basename: ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f
-  title: Infrared | Ifos Causes Of
+  title: Infrared | ifos causes of UFO 3 ed 238
   permalink: /infrared/
   short_title: Infrared
   heading_title: Why Infrared UFO Videos Mislead
 - basename: ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5
-  title: Lanterns | Ifos Causes Of
+  title: Lanterns | ifos causes of UFO 3 ed 238
   permalink: /lanterns/
   short_title: Lanterns
   heading_title: The Orange Lights That Start UFO Reports
 - basename: ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e
-  title: Lens Flare | Ifos Causes Of
+  title: Lens Flare | ifos causes of UFO 3 ed 238
   permalink: /lens-flare/
   short_title: Lens Flare
   heading_title: When Cameras Invent Extra Lights
 - basename: ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28
-  title: Mass Sightings | Ifos Causes Of
+  title: Mass Sightings | ifos causes of UFO 3 ed 238
   permalink: /mass-sightings/
   short_title: Mass Sightings
   heading_title: Why Groups Can Share One Mistake
 - basename: ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504
-  title: Meteors | Ifos Causes Of
+  title: Meteors | ifos causes of UFO 3 ed 238
   permalink: /meteors/
   short_title: Meteors
   heading_title: When Fireballs Become UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca
-  title: Missing Data | Ifos Causes Of
+  title: Missing Data | ifos causes of UFO 3 ed 238
   permalink: /missing-data/
   short_title: Missing Data
   heading_title: Unsolved Does Not Always Mean Strange
 - basename: ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183
-  title: NASA Study | Ifos Causes Of
+  title: NASA Study | ifos causes of UFO 3 ed 238
   permalink: /nasa-study/
   short_title: NASA Study
   heading_title: Why Better UFO Data Matters
 - basename: ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b
-  title: Parallax | Ifos Causes Of
+  title: Parallax | ifos causes of UFO 3 ed 238
   permalink: /parallax/
   short_title: Parallax
   heading_title: The Speed Illusion in UFO Footage
 - basename: ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a
-  title: Pilots | Ifos Causes Of
+  title: Pilots | ifos causes of UFO 3 ed 238
   permalink: /pilots/
   short_title: Pilots
   heading_title: Why Pilots Can Misidentify UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357
-  title: Radar | Ifos Causes Of
+  title: Radar | ifos causes of UFO 3 ed 238
   permalink: /radar/
   short_title: Radar
   heading_title: When Radar Sees a UFO That Isnt There
 - basename: ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c
-  title: Reflections | Ifos Causes Of
+  title: Reflections | ifos causes of UFO 3 ed 238
   permalink: /reflections/
   short_title: Reflections
   heading_title: The UFO Inside the Glass
 - basename: ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132
-  title: Rocket Plumes | Ifos Causes Of
+  title: Rocket Plumes | ifos causes of UFO 3 ed 238
   permalink: /rocket-plumes/
   short_title: Rocket Plumes
   heading_title: The Strange Clouds Rockets Leave Behind
 - basename: ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b
-  title: Satellites | Ifos Causes Of
+  title: Satellites | ifos causes of UFO 3 ed 238
   permalink: /satellites/
   short_title: Satellites
   heading_title: Why Satellites Surprise Night Watchers
 - basename: ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1
-  title: Searchlights | Ifos Causes Of
+  title: Searchlights | ifos causes of UFO 3 ed 238
   permalink: /searchlights/
   short_title: Searchlights
   heading_title: How Searchlights Paint UFOs in Clouds
 - basename: ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b
-  title: Sensor Operators | Ifos Causes Of
+  title: Sensor Operators | ifos causes of UFO 3 ed 238
   permalink: /sensor-operators/
   short_title: Sensor Operators
   heading_title: When Sensors Need Human Context
 - basename: ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391
-  title: Short Clips | Ifos Causes Of
+  title: Short Clips | ifos causes of UFO 3 ed 238
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: Why Short UFO Videos Are Hard to Trust
 - basename: ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f
-  title: Size Errors | Ifos Causes Of
+  title: Size Errors | ifos causes of UFO 3 ed 238
   permalink: /size-errors/
   short_title: Size Errors
   heading_title: Why Honest Witnesses Misjudge UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725
-  title: Sky Charts | Ifos Causes Of
+  title: Sky Charts | ifos causes of UFO 3 ed 238
   permalink: /sky-charts/
   short_title: Sky Charts
   heading_title: How to Check a UFO Against the Sky
 - basename: ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32
-  title: Stars | Ifos Causes Of
+  title: Stars | ifos causes of UFO 3 ed 238
   permalink: /stars/
   short_title: Stars
   heading_title: Why Stars Flash Like Machines
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb
-  title: Status Labels | Ifos Causes Of
+  title: Status Labels | ifos causes of UFO 3 ed 238
   permalink: /status-labels/
   short_title: Status Labels
   heading_title: UFO Does Not Mean Alien
 - basename: ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d
-  title: Strong Cases | Ifos Causes Of
+  title: Strong Cases | ifos causes of UFO 3 ed 238
   permalink: /strong-cases/
   short_title: Strong Cases
   heading_title: What Makes a UFO Report Harder to Explain
 - basename: ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948
-  title: UK Files | Ifos Causes Of
+  title: UK Files | ifos causes of UFO 3 ed 238
   permalink: /uk-files/
   short_title: UK Files
   heading_title: What the UK UFO Files Reveal
 - basename: ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06
-  title: Unresolved Cases | Ifos Causes Of
+  title: Unresolved Cases | ifos causes of UFO 3 ed 238
   permalink: /unresolved-cases/
   short_title: Unresolved Cases
   heading_title: Why Some UFO Cases Stay Open
 - basename: ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080
-  title: Venus | Ifos Causes Of
+  title: Venus | ifos causes of UFO 3 ed 238
   permalink: /venus/
   short_title: Venus
   heading_title: Is That UFO Really Venus?
 - basename: ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13
-  title: Weather Records | Ifos Causes Of
+  title: Weather Records | ifos causes of UFO 3 ed 238
   permalink: /weather-records/
   short_title: Weather Records
   heading_title: Weather Clues That Explain Strange Lights
 - basename: ifos_-_causes_of_UFO_3ed238_wind_data_33671a
-  title: Wind Data | Ifos Causes Of
+  title: Wind Data | ifos causes of UFO 3 ed 238
   permalink: /wind-data/
   short_title: Wind Data
   heading_title: Following a UFO With the Wind
@@ -479,20 +478,21 @@ child_links:
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 prev_link:
   basename: ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f
-  title: Infrared | Ifos Causes Of
+  title: Infrared | ifos causes of UFO 3 ed 238
   permalink: /infrared/
   short_title: Infrared
   heading_title: Why Infrared UFO Videos Mislead
 next_link:
   basename: ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5
-  title: Lanterns | Ifos Causes Of
+  title: Lanterns | ifos causes of UFO 3 ed 238
   permalink: /lanterns/
   short_title: Lanterns
   heading_title: The Orange Lights That Start UFO Reports
+date: '2026-06-12 00:12:44 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74-overview-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74-overview.webp
@@ -503,10 +503,8 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74-over
 
 Insects, dust, drifting fibres and other nearby objects are a small but important cause of UFO reports because cameras can make them look much larger, faster and stranger than they are. A fly passing a few centimetres from a phone, security camera or drone lens can cross the frame so quickly that it appears to be a distant craft making an impossible manoeuvre. A speck of dust lit by flash or [infrared]({{ 'infrared/' | relative_url }}) light can become a glowing “orb”. The key error is not usually that the witness saw nothing; it is that a real close object was interpreted as a far-away aerial object.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74-overview.webp" | relative_url }}" alt="Overview image for Insects" loading="eager" decoding="sync" fetchpriority="high">
 This mechanism is especially risky in short videos, zoomed sky footage, doorbell-camera clips and night-vision recordings. Without reliable distance, focus, exposure and sensor metadata, a tiny object near the lens can be assigned the speed, size and altitude of something in the sky. NASA’s UAP study made the same broader point about the need for [calibrated sensors]({{ 'sensor-artefacts/' | relative_url }}), multiple measurements, metadata and baseline data before unusual performance can be inferred from imagery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rp15z1Ep29Y" title="Optical phenomenon &#x27;rods&#x27; caught on camera | News 8 special 2000" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rp15z1Ep29Y" target="_blank" rel="noopener noreferrer">Optical phenomenon &#x27;rods&#x27; caught on camera | News 8 special 2000</a></p><p class="youtube-embed-meta">Channel: CBS 8 San Diego &middot; Views: 10.7K &middot; Uploaded: March 2025 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rp15z1Ep29Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rp15z1Ep29Y">Open on YouTube</a></p></div></div></div>
 
@@ -514,24 +512,22 @@ This mechanism is especially risky in short videos, zoomed sky footage, doorbell
 
 The most important clue in many insect-on-camera cases is that the object has no measured [range]({{ 'range/' | relative_url }}). A camera records an angular position on the image, not a built-in distance. A small object close to the lens and a large object far away can occupy the same apparent size in the frame. If the viewer assumes the object is distant, the calculated speed and size can become wildly inflated.
 
-This is why single-camera UFO clips are fragile evidence when the object is just a dot, blob or streak. Phil Plait’s analysis of the widely circulated “UFOs over Denver” video made the point bluntly: the objects looked mysterious only if they were assumed to be distant; if they were insects close to the camera, their hovering, darting and flashing behaviour became ordinary. He also noted that one camera alone cannot provide the distance information needed to choose between “small and close” and “large and far away”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slate.com/blogs/bad_astronomy/2012/11/28/ufos_over_denver_are_insects.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slate.com">[Slate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slate.com</span><span class="citation-popover-title">UFOs over Denver are insects</span><span class="citation-popover-snippet">SlateUFOs over Denver are insects...</span></span></span>
+This is why single-camera UFO clips are fragile evidence when the object is just a dot, blob or streak. Phil Plait’s analysis of the widely circulated “UFOs over Denver” video made the point bluntly: the objects looked mysterious only if they were assumed to be distant; if they were insects close to the camera, their hovering, darting and flashing behaviour became ordinary. He also noted that one camera alone cannot provide the distance information needed to choose between “small and close” and “large and far away”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slate.com/blogs/bad_astronomy/2012/11/28/ufos_over_denver_are_insects.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slate.com">[Slate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slate.com</span><span class="citation-popover-title">UFOs over Denver are insects</span><span class="citation-popover-snippet">UFOs over Denver are insects...</span></span></span>
 
-The same geometry appears in more technical UAP video debates. Bellingcat’s analysis of a Department of Defense UFO video emphasised parallax: nearby objects or foreground features can seem to move faster than distant ones, and camera motion can create apparent movement even when the object’s own motion is uncertain. Although that case was not about insects, the principle is directly relevant to near-lens objects: apparent speed in a video is not the same as true speed through the air. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bellingcat.com">[bellingcat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bellingcat.com</span><span class="citation-popover-title">Isn’t That A Balloon? Deflating a Do D UFO Video</span><span class="citation-popover-snippet">bellingcatIsn’t That A Balloon? Deflating a DoD UFO Video - bellingcat...</span></span></span>
+The same geometry appears in more technical UAP video debates. Bellingcat’s analysis of a Department of Defense UFO video emphasised parallax: nearby objects or foreground features can seem to move faster than distant ones, and camera motion can create apparent movement even when the object’s own motion is uncertain. Although that case was not about insects, the principle is directly relevant to near-lens objects: apparent speed in a video is not the same as true speed through the air. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bellingcat.com">[bellingcat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bellingcat.com</span><span class="citation-popover-title">Isn’t That A Balloon? Deflating a Do D UFO Video</span><span class="citation-popover-snippet">Isn’t That A Balloon? Deflating a DoD UFO Video - bellingcat...</span></span></span>
 
 A useful test is to ask what distance has actually been measured, not what distance the scene seems to imply. If the clip has no stereo view, no [radar]({{ 'radar/' | relative_url }}) range, no second camera, no shadow or reflection tied to the object, and no clear interaction with known background features, then claims of extreme velocity or large size are usually premature.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74-Illustration-1-dark.svg" | relative_url }}" alt="Insects illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Motion blur and focus
 
 Nearby insects become especially misleading when they move during the camera’s exposure. Motion blur is the streaking that occurs when an object changes position while a frame is being captured. A fast insect can therefore be recorded not as a crisp fly, moth or gnat, but as a rod, dash, cigar, translucent smear or segmented streak. The popular “[flying rods]({{ 'flying-rods/' | relative_url }})” or “skyfish” idea grew from exactly this kind of video artefact: optical analyses have generally explained the shapes as insects or birds recorded with motion blur, sometimes capturing wingbeat patterns across a single frame. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rod_%28optical_phenomenon%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rod (optical phenomenon</span><span class="citation-popover-snippet">Rod (optical phenomenon</span></span></span>
 
-Focus adds another layer. Many sky videos are focused on clouds, aircraft, the horizon or infinity. An insect passing close to the lens will then be badly out of focus, so its real body shape disappears. Instead of legs, wings and antennae, the camera may show a soft oval, a translucent blob, a short cylinder or a bright shapeless patch. In the Denver example, the objects looked like blobs partly because they were close to a camera focused for distant scenery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slate.com/blogs/bad_astronomy/2012/11/28/ufos_over_denver_are_insects.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slate.com">[Slate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slate.com</span><span class="citation-popover-title">UFOs over Denver are insects</span><span class="citation-popover-snippet">SlateUFOs over Denver are insects...</span></span></span>
+Focus adds another layer. Many sky videos are focused on clouds, aircraft, the horizon or infinity. An insect passing close to the lens will then be badly out of focus, so its real body shape disappears. Instead of legs, wings and antennae, the camera may show a soft oval, a translucent blob, a short cylinder or a bright shapeless patch. In the Denver example, the objects looked like blobs partly because they were close to a camera focused for distant scenery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slate.com/blogs/bad_astronomy/2012/11/28/ufos_over_denver_are_insects.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slate.com">[Slate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slate.com</span><span class="citation-popover-title">UFOs over Denver are insects</span><span class="citation-popover-snippet">UFOs over Denver are insects...</span></span></span>
 
 Night cameras can make the effect stronger. Doorbell cameras, trail cameras and CCTV systems often use infrared illumination, long exposures, [compression]({{ 'compression/' | relative_url }}) and aggressive noise reduction. An insect that is invisible to the person watching the scene can be brightly lit right beside the lens, then smeared by exposure and simplified by compression. The result may look self-luminous, even though the object is only reflecting light from the camera’s own illumination.
 
 Dust, pollen, snow, rain droplets and tiny fibres can produce a related but slightly different effect. Canon’s support guidance explains that flash can reflect from dust or particles floating in front of the subject, producing white circular spots in images; it recommends brighter ambient lighting, different zoom choices or separating the flash from the lens to reduce the problem. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://community.usa.canon.com/t5/EOS-DSLR-Mirrorless-Cameras/quot-spots-quot-on-image/td-p/368854" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: community.usa.canon.com">[Canon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">community.usa.canon.com</span><span class="citation-popover-snippet">Open source on canon.com.</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NLL6Wt-VvwU" title="Shutterspeed and Frame Rates // Explained with a Fidget Spinner" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NLL6Wt-VvwU" target="_blank" rel="noopener noreferrer">Shutterspeed and Frame Rates // Explained with a Fidget Spinner</a></p><p class="youtube-embed-meta">Channel: Chris Brockhurst &middot; Views: 57.1K &middot; Uploaded: August 2019 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NLL6Wt-VvwU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NLL6Wt-VvwU">Open on YouTube</a></p></div></div></div>
 
@@ -551,16 +547,14 @@ A near-lens explanation is strongest when several clues appear together. None is
 
 **The clip comes from a camera type that favours near-field artefacts.** Security cameras, trail cameras, dashcams, [drones]({{ 'drones/' | relative_url }}) and phone cameras all have practical strengths, but they are not scientific UAP instruments. Their automatic exposure, compression and low-light behaviour are designed to produce usable footage, not to preserve every physical detail of a fast, tiny object near the lens.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74-Illustration-2-dark.svg" | relative_url }}" alt="Insects illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why these cases are easy to overread
 
 Insect and dust cases are persuasive because the footage can be real. There may be no hoax, no editing and no dishonest witness. The misleading part comes later, when the viewer assigns the wrong scale to the object. A tiny gnat becomes a distant sphere; a moth becomes a luminous dart; a blurred wingbeat becomes a structured craft; a dust particle becomes a hovering orb.
 
-This is also why “it moved too fast to be a bug” can be a circular argument. It is only too fast if the object is assumed to be far away. If it is close to the camera, crossing the frame quickly is exactly what would be expected. Metabunk’s analysis of a 2025 daytime “UFO” clip from Hungary made this same point by treating the object as small and close rather than distant and exotic, with parallax in the foreground scene helping explain the apparent motion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/hungary-daytime-ufo-small-close-object-parallax.14065/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">Hungary daytime &quot;UFO&quot; [small/close object + parallax] | Metabunk</span><span class="citation-popover-snippet">Hungary daytime &quot;UFO&quot; [small/close object + parallax] | Metabunk</span></span></span>
+This is also why “it moved too fast to be a bug” can be a circular argument. It is only too fast if the object is assumed to be far away. If it is close to the camera, crossing the frame quickly is exactly what would be expected. Metabunk’s analysis of a 2025 daytime “UFO” clip from Hungary made this same point by treating the object as small and close rather than distant and exotic, with parallax in the foreground scene helping explain the apparent motion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/hungary-daytime-ufo-small-close-object-parallax.14065/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">Hungary daytime &quot;UFO&quot; [small/close object + parallax] &#124; Metabunk</span><span class="citation-popover-snippet">Hungary daytime &quot;UFO&quot; [small/close object + parallax] &#124; Metabunk</span></span></span>
 
 The critique does not mean every short, fast object on video is an insect. Birds, balloons, drones, aircraft, debris, reflections and [sensor artefacts]({{ 'sensor-artefacts/' | relative_url }}) can also produce confusing imagery. Nor does it mean that all UAP reports are resolved by camera bugs. The narrower point is that close-object explanations must be tested before drawing conclusions about extraordinary speed, altitude or technology.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ayyNOJgsAxA" title="Unexplained Object ZOOMS across sky" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ayyNOJgsAxA" target="_blank" rel="noopener noreferrer">Unexplained Object ZOOMS across sky</a></p><p class="youtube-embed-meta">Channel: TAOFLEDERMAUS &middot; Views: 52.1K &middot; Uploaded: July 2011 &middot; Length: 1 minute 36 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ayyNOJgsAxA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ayyNOJgsAxA">Open on YouTube</a></p></div></div></div>
 
@@ -571,7 +565,6 @@ A strong camera-based UFO case should reduce the near-lens risk rather than mere
 For investigators, the first question should be “what range evidence exists?” rather than “what does it resemble?” A clip that resembles a distant craft may still be a close insect if range is missing. A clip that looks unimpressive may become more interesting if it is independently tracked, seen from multiple positions, or tied to reliable sensor data. NASA’s UAP report stressed that future analysis depends on well-characterised data, multiple calibrated sensors and useful metadata, because weak data can make ordinary objects look anomalous and leave genuinely unusual cases unresolved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
 
 The practical lesson for IFO analysis is simple: tiny things near cameras can become huge things in interpretation. Before a video is treated as evidence for unusual aircraft, exotic propulsion or impossible manoeuvres, the insect, dust and near-object pathway has to be ruled out with distance, focus, motion and lighting evidence rather than by appearance alone.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74-Illustration-3-dark.svg" | relative_url }}" alt="Insects illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -692,15 +685,15 @@ The practical lesson for IFO analysis is simple: tiny things near cameras can be
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insects-the-tiny-things-cameras-make-huge-ifos-causes-of-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="insects-the-tiny-things-cameras-make-huge-ifos-causes-of-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Model Boat Fittings Satellite Antenna Unit - Choice of Sizes Available"><img src="{{ '/assets/images/marketplace-covers/c5d2eb571b6fbccf54b4.jpg' | relative_url }}" alt="Listing image for Model Boat Fittings Satellite Antenna Unit - Choice of Sizes Available" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-things-cameras-make-huge-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="the-tiny-things-cameras-make-huge-insect-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Seven great british insects mounted in a perspex display box."><img src="https://i.ebayimg.com/images/g/KDoAAeSwlphqJyGN/s-l225.jpg" alt="Listing image for Seven great british insects mounted in a perspex display box." loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insects-the-tiny-things-cameras-make-huge-ifos-causes-of-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="insects-the-tiny-things-cameras-make-huge-ifos-causes-of-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Model Boat Fittings Satellite Antenna Unit - Choice of Sizes Available</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-things-cameras-make-huge-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="the-tiny-things-cameras-make-huge-insect-display" target="_blank" rel="sponsored noopener noreferrer">Seven great british insects mounted in a perspex display box.</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insects-the-tiny-things-cameras-make-huge-ifos-causes-of-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="insects-the-tiny-things-cameras-make-huge-ifos-causes-of-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-things-cameras-make-huge-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="the-tiny-things-cameras-make-huge-insect-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for insect display">Search <span data-ebay-domain-label>eBay.co.uk</span>: insect display</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insects-the-tiny-things-cameras-make-huge-ifos-causes-of-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="insects-the-tiny-things-cameras-make-huge-ifos-causes-of-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-things-cameras-make-huge-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="the-tiny-things-cameras-make-huge-insect-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -708,15 +701,15 @@ The practical lesson for IFO analysis is simple: tiny things near cameras can be
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insects-the-tiny-things-cameras-make-huge-ifos-causes-of-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="insects-the-tiny-things-cameras-make-huge-ifos-causes-of-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moebius 1215 1965 Plymouth Satellite 1/25 Scale Model Kit MISB Last One!"><img src="{{ '/assets/images/marketplace-covers/9bf58eaacb4a953fd330.jpg' | relative_url }}" alt="Listing image for Moebius 1215 1965 Plymouth Satellite 1/25 Scale Model Kit MISB Last One!" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-things-cameras-make-huge-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="the-tiny-things-cameras-make-huge-insect-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Glass display case frame Butterfly Specimen Beetle Insect Entomology Taxidermy"><img src="https://i.ebayimg.com/images/g/3yIAAeSwRPNqHIeI/s-l225.jpg" alt="Listing image for Glass display case frame Butterfly Specimen Beetle Insect Entomology Taxidermy" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insects-the-tiny-things-cameras-make-huge-ifos-causes-of-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="insects-the-tiny-things-cameras-make-huge-ifos-causes-of-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Moebius 1215 1965 Plymouth Satellite 1/25 Scale Model Kit MISB Last One!</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-things-cameras-make-huge-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="the-tiny-things-cameras-make-huge-insect-display" target="_blank" rel="sponsored noopener noreferrer">Glass display case frame Butterfly Specimen Beetle Insect Entomology Taxidermy</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insects-the-tiny-things-cameras-make-huge-ifos-causes-of-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="insects-the-tiny-things-cameras-make-huge-ifos-causes-of-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-things-cameras-make-huge-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="the-tiny-things-cameras-make-huge-insect-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for insect display">Search <span data-ebay-domain-label>eBay.co.uk</span>: insect display</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insects-the-tiny-things-cameras-make-huge-ifos-causes-of-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="insects-the-tiny-things-cameras-make-huge-ifos-causes-of-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-things-cameras-make-huge-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="the-tiny-things-cameras-make-huge-insect-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -724,15 +717,15 @@ The practical lesson for IFO analysis is simple: tiny things near cameras can be
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insects-the-tiny-things-cameras-make-huge-ifos-causes-of-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="insects-the-tiny-things-cameras-make-huge-ifos-causes-of-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Satellite Base Building Block MOC Toy Model Set for Kids Gift"><img src="{{ '/assets/images/marketplace-covers/e322cc9ac8d8a2d50029.jpg' | relative_url }}" alt="Listing image for Space Satellite Base Building Block MOC Toy Model Set for Kids Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-things-cameras-make-huge-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="the-tiny-things-cameras-make-huge-insect-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Insect Collecting Box Boxes Butterfly Display Case Specimen"><img src="https://i.ebayimg.com/images/g/u34AAeSw1EVojYLr/s-l225.jpg" alt="Listing image for Insect Collecting Box Boxes Butterfly Display Case Specimen" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insects-the-tiny-things-cameras-make-huge-ifos-causes-of-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="insects-the-tiny-things-cameras-make-huge-ifos-causes-of-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Space Satellite Base Building Block MOC Toy Model Set for Kids Gift</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-things-cameras-make-huge-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="the-tiny-things-cameras-make-huge-insect-display" target="_blank" rel="sponsored noopener noreferrer">Insect Collecting Box Boxes Butterfly Display Case Specimen</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insects-the-tiny-things-cameras-make-huge-ifos-causes-of-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="insects-the-tiny-things-cameras-make-huge-ifos-causes-of-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-things-cameras-make-huge-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="the-tiny-things-cameras-make-huge-insect-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for insect display">Search <span data-ebay-domain-label>eBay.co.uk</span>: insect display</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insects-the-tiny-things-cameras-make-huge-ifos-causes-of-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="insects-the-tiny-things-cameras-make-huge-ifos-causes-of-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-things-cameras-make-huge-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="the-tiny-things-cameras-make-huge-insect-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -740,15 +733,15 @@ The practical lesson for IFO analysis is simple: tiny things near cameras can be
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insects-the-tiny-things-cameras-make-huge-ifos-causes-of-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="insects-the-tiny-things-cameras-make-huge-ifos-causes-of-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2 x 3D printed FREESTANDING SATELLITE DISH 1/43, O gauge Model Diorama Miniature"><img src="{{ '/assets/images/marketplace-covers/6eaeff2dc063de64b318.jpg' | relative_url }}" alt="Listing image for 2 x 3D printed FREESTANDING SATELLITE DISH 1/43, O gauge Model Diorama Miniature" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-things-cameras-make-huge-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="the-tiny-things-cameras-make-huge-insect-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3 x Damselfly Dragonfly Display Deep Shadow Box Frame Beetle Insect Butterfly"><img src="https://i.ebayimg.com/images/g/txsAAOSwNaFhjqgA/s-l225.jpg" alt="Listing image for 3 x Damselfly Dragonfly Display Deep Shadow Box Frame Beetle Insect Butterfly" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insects-the-tiny-things-cameras-make-huge-ifos-causes-of-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="insects-the-tiny-things-cameras-make-huge-ifos-causes-of-satellite-model" target="_blank" rel="sponsored noopener noreferrer">2 x 3D printed FREESTANDING SATELLITE DISH 1/43, O gauge Model Diorama Miniature</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-things-cameras-make-huge-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="the-tiny-things-cameras-make-huge-insect-display" target="_blank" rel="sponsored noopener noreferrer">3 x Damselfly Dragonfly Display Deep Shadow Box Frame Beetle Insect Butterfly</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insects-the-tiny-things-cameras-make-huge-ifos-causes-of-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="insects-the-tiny-things-cameras-make-huge-ifos-causes-of-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-things-cameras-make-huge-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="the-tiny-things-cameras-make-huge-insect-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for insect display">Search <span data-ebay-domain-label>eBay.co.uk</span>: insect display</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insects-the-tiny-things-cameras-make-huge-ifos-causes-of-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="insects-the-tiny-things-cameras-make-huge-ifos-causes-of-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-things-cameras-make-huge-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="the-tiny-things-cameras-make-huge-insect-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -756,7 +749,7 @@ The practical lesson for IFO analysis is simple: tiny things near cameras can be
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insects-the-tiny-things-cameras-make-huge-ifos-causes-of-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="insects-the-tiny-things-cameras-make-huge-ifos-causes-of-satellite-model" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=insect+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-things-cameras-make-huge-insect-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="insect display" data-ebay-reference="the-tiny-things-cameras-make-huge-insect-display" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -971,135 +964,135 @@ The practical lesson for IFO analysis is simple: tiny things near cameras can be
 
 1. <a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Science...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: slate.com  
    Title: UFOs over Denver are insects  
-   Link: [https://www.slate.com/blogs/bad_astronomy/2012/11/28/ufos_over_denver_are_insects.html](https://www.slate.com/blogs/bad_astronomy/2012/11/28/ufos_over_denver_are_insects.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SlateUFOs over Denver are insects...</p></details>
+   Link: <a href="https://www.slate.com/blogs/bad_astronomy/2012/11/28/ufos_over_denver_are_insects.html" target="_blank" rel="noopener noreferrer nofollow">https://www.slate.com/blogs/bad_astronomy/2012/11/28/ufos_over_denver_are_insects.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs over Denver are insects...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: bellingcat.com  
    Title: Isn’t That A Balloon? Deflating a Do D UFO Video  
-   Link: [https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/](https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>bellingcatIsn’t That A Balloon? Deflating a DoD UFO Video - bellingcat...</p></details>
+   Link: <a href="https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Isn’t That A Balloon? Deflating a DoD UFO Video - bellingcat...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Rod (optical phenomenon)  
-   Link: [https://en.wikipedia.org/wiki/Rod_%28optical_phenomenon%29](https://en.wikipedia.org/wiki/Rod_%28optical_phenomenon%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Rod_%28optical_phenomenon%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rod_%28optical_phenomenon%29</a>  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Motion blur (media)  
-   Link: [https://en.wikipedia.org/wiki/Motion_blur_%28media%29](https://en.wikipedia.org/wiki/Motion_blur_%28media%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Motion_blur_%28media%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Motion_blur_%28media%29</a>  
 
 6. <a id="endnote-6"></a>
    Source: metabunk.org  
    Title: Hungary daytime "UFO" [small/close object + parallax] | Metabunk  
-   Link: [https://www.metabunk.org/threads/hungary-daytime-ufo-small-close-object-parallax.14065/](https://www.metabunk.org/threads/hungary-daytime-ufo-small-close-object-parallax.14065/)  
+   Link: <a href="https://www.metabunk.org/threads/hungary-daytime-ufo-small-close-object-parallax.14065/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/hungary-daytime-ufo-small-close-object-parallax.14065/</a>  
 
 7. <a id="endnote-7"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 8. <a id="endnote-8"></a>
    Source: nasa.gov  
    Title: nasa to release discuss unidentified anomalous phenomena report  
-   Link: [https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/](https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/)  
+   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
 
 9. <a id="endnote-9"></a>
    Source: metabunk.org  
    Title: ufos in micks video sunlit out of focus insects.6045  
-   Link: [https://www.metabunk.org/threads/ufos-in-micks-video-sunlit-out-of-focus-insects.6045/](https://www.metabunk.org/threads/ufos-in-micks-video-sunlit-out-of-focus-insects.6045/)  
+   Link: <a href="https://www.metabunk.org/threads/ufos-in-micks-video-sunlit-out-of-focus-insects.6045/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/ufos-in-micks-video-sunlit-out-of-focus-insects.6045/</a>  
 
 10. <a id="endnote-10"></a>
    Source: metabunk.org  
    Title: strange object captured over malvern hills western england reddit.14371  
-   Link: [https://www.metabunk.org/threads/strange-object-captured-over-malvern-hills-western-england-reddit.14371/](https://www.metabunk.org/threads/strange-object-captured-over-malvern-hills-western-england-reddit.14371/)  
+   Link: <a href="https://www.metabunk.org/threads/strange-object-captured-over-malvern-hills-western-england-reddit.14371/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/strange-object-captured-over-malvern-hills-western-england-reddit.14371/</a>  
 
 11. <a id="endnote-11"></a>
    Source: metabunk.org  
-   Link: [https://www.metabunk.org/home/authors/mick-west.1/](https://www.metabunk.org/home/authors/mick-west.1/)  
+   Link: <a href="https://www.metabunk.org/home/authors/mick-west.1/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/home/authors/mick-west.1/</a>  
 
 12. <a id="endnote-12"></a>
    Source: metabunk.org  
-   Link: [https://www.metabunk.org/forums/ufos-and-aliens.10/page-22](https://www.metabunk.org/forums/ufos-and-aliens.10/page-22)  
+   Link: <a href="https://www.metabunk.org/forums/ufos-and-aliens.10/page-22" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/forums/ufos-and-aliens.10/page-22</a>  
 
 13. <a id="endnote-13"></a>
    Source: Wikipedia  
    Title: NASA Unidentified Anomalous Phenomena Independent Study Team  
-   Link: [https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team](https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team)  
+   Link: <a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
 
 14. <a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Backscatter (photography)  
-   Link: [https://en.wikipedia.org/wiki/Backscatter_%28photography%29](https://en.wikipedia.org/wiki/Backscatter_%28photography%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Backscatter_%28photography%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Backscatter_%28photography%29</a>  
 
 15. <a id="endnote-15"></a>
    Source: community.usa.canon.com  
-   Link: [https://community.usa.canon.com/t5/EOS-DSLR-Mirrorless-Cameras/quot-spots-quot-on-image/td-p/368854](https://community.usa.canon.com/t5/EOS-DSLR-Mirrorless-Cameras/quot-spots-quot-on-image/td-p/368854)  
+   Link: <a href="https://community.usa.canon.com/t5/EOS-DSLR-Mirrorless-Cameras/quot-spots-quot-on-image/td-p/368854" target="_blank" rel="noopener noreferrer nofollow">https://community.usa.canon.com/t5/EOS-DSLR-Mirrorless-Cameras/quot-spots-quot-on-image/td-p/368854</a>  
 
 16. <a id="endnote-16"></a>
    Source: community.usa.canon.com  
-   Link: [https://community.usa.canon.com/t5/EF-RF-Lenses/How-to-check-dust-in-lens/td-p/516709](https://community.usa.canon.com/t5/EF-RF-Lenses/How-to-check-dust-in-lens/td-p/516709)  
+   Link: <a href="https://community.usa.canon.com/t5/EF-RF-Lenses/How-to-check-dust-in-lens/td-p/516709" target="_blank" rel="noopener noreferrer nofollow">https://community.usa.canon.com/t5/EF-RF-Lenses/How-to-check-dust-in-lens/td-p/516709</a>  
 
 17. <a id="endnote-17"></a>
    Source: my.canon  
    Title: Canon There are white circles in captured images  
-   Link: [https://my.canon/en/support/8201031900](https://my.canon/en/support/8201031900)  
+   Link: <a href="https://my.canon/en/support/8201031900" target="_blank" rel="noopener noreferrer nofollow">https://my.canon/en/support/8201031900</a>  
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
    Title: bellingcat analysis of a ufo video  
-   Link: [https://www.reddit.com/r/ufo/comments/17g3svq/bellingcat_analysis_of_a_ufo_video/](https://www.reddit.com/r/ufo/comments/17g3svq/bellingcat_analysis_of_a_ufo_video/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/17g3svq/bellingcat_analysis_of_a_ufo_video/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/17g3svq/bellingcat_analysis_of_a_ufo_video/</a>  
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1lmhbxa/metabunk_users_identifying_a_ufo_that_the_people/](https://www.reddit.com/r/UFOs/comments/1lmhbxa/metabunk_users_identifying_a_ufo_that_the_people/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1lmhbxa/metabunk_users_identifying_a_ufo_that_the_people/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1lmhbxa/metabunk_users_identifying_a_ufo_that_the_people/</a>  
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: Identifying common artifacts in security camera footage  
-   Link: [https://www.youtube.com/watch?v=O129s5D_6aQ](https://www.youtube.com/watch?v=O129s5D_6aQ)  
+   Link: <a href="https://www.youtube.com/watch?v=O129s5D_6aQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=O129s5D_6aQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bokeh and light effects on camera sensors...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/fox9kmsp/posts/a-newly-declassified-video-shown-in-infrared-depicts-an-object-appearing-to-be-a/1465904865578965/](https://www.facebook.com/fox9kmsp/posts/a-newly-declassified-video-shown-in-infrared-depicts-an-object-appearing-to-be-a/1465904865578965/)  
+   Link: <a href="https://www.facebook.com/fox9kmsp/posts/a-newly-declassified-video-shown-in-infrared-depicts-an-object-appearing-to-be-a/1465904865578965/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox9kmsp/posts/a-newly-declassified-video-shown-in-infrared-depicts-an-object-appearing-to-be-a/1465904865578965/</a>  
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/fox5atlanta/posts/a-newly-declassified-video-shown-in-infrared-depicts-an-object-appearing-to-be-a/1545315896966081/](https://www.facebook.com/fox5atlanta/posts/a-newly-declassified-video-shown-in-infrared-depicts-an-object-appearing-to-be-a/1545315896966081/)  
+   Link: <a href="https://www.facebook.com/fox5atlanta/posts/a-newly-declassified-video-shown-in-infrared-depicts-an-object-appearing-to-be-a/1545315896966081/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox5atlanta/posts/a-newly-declassified-video-shown-in-infrared-depicts-an-object-appearing-to-be-a/1545315896966081/</a>  
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/invertid/posts/3151158921686362/](https://www.facebook.com/groups/invertid/posts/3151158921686362/)  
+   Link: <a href="https://www.facebook.com/groups/invertid/posts/3151158921686362/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/invertid/posts/3151158921686362/</a>  
 
 24. <a id="endnote-24"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Cryptozoology/comments/144ag44/air_rods_or_rods_are_described_as_flying_living/](https://www.reddit.com/r/Cryptozoology/comments/144ag44/air_rods_or_rods_are_described_as_flying_living/)  
+   Link: <a href="https://www.reddit.com/r/Cryptozoology/comments/144ag44/air_rods_or_rods_are_described_as_flying_living/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Cryptozoology/comments/144ag44/air_rods_or_rods_are_described_as_flying_living/</a>  
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/invertid/posts/3664466357022280/](https://www.facebook.com/groups/invertid/posts/3664466357022280/)  
+   Link: <a href="https://www.facebook.com/groups/invertid/posts/3664466357022280/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/invertid/posts/3664466357022280/</a>  
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/knoxnews/posts/close-examination-of-the-videos-by-conspiracy-theory-debunker-mick-west-and-othe/10159199817742649/](https://www.facebook.com/knoxnews/posts/close-examination-of-the-videos-by-conspiracy-theory-debunker-mick-west-and-othe/10159199817742649/)  
+   Link: <a href="https://www.facebook.com/knoxnews/posts/close-examination-of-the-videos-by-conspiracy-theory-debunker-mick-west-and-othe/10159199817742649/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/knoxnews/posts/close-examination-of-the-videos-by-conspiracy-theory-debunker-mick-west-and-othe/10159199817742649/</a>  
 
 27. <a id="endnote-27"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Meetmattfraser/posts/have-you-ever-noticed-strange-orbs-that-appear-in-pictures-heres-why-they-mean/5824291117614319/](https://www.facebook.com/Meetmattfraser/posts/have-you-ever-noticed-strange-orbs-that-appear-in-pictures-heres-why-they-mean/5824291117614319/)  
+   Link: <a href="https://www.facebook.com/Meetmattfraser/posts/have-you-ever-noticed-strange-orbs-that-appear-in-pictures-heres-why-they-mean/5824291117614319/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Meetmattfraser/posts/have-you-ever-noticed-strange-orbs-that-appear-in-pictures-heres-why-they-mean/5824291117614319/</a>  
 
 28. <a id="endnote-28"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DW6afBCCPlz/](https://www.instagram.com/reel/DW6afBCCPlz/)  
+   Link: <a href="https://www.instagram.com/reel/DW6afBCCPlz/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DW6afBCCPlz/</a>  
 
 29. <a id="endnote-29"></a>
    Source: justanswer.com  
-   Link: [https://www.justanswer.com/video-camera-repair/43d1b-gotten-orbs-strange-phenomena-photos.html](https://www.justanswer.com/video-camera-repair/43d1b-gotten-orbs-strange-phenomena-photos.html)  
+   Link: <a href="https://www.justanswer.com/video-camera-repair/43d1b-gotten-orbs-strange-phenomena-photos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.justanswer.com/video-camera-repair/43d1b-gotten-orbs-strange-phenomena-photos.html</a>

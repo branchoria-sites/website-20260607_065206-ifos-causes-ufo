@@ -8,11 +8,10 @@ nav_short_title: Sub-Topic Index
 permalink: /ifos-causes-of-ufo-3ed238-head-on/
 description: Focused pages that expand on A Head On Aircraft Can Look Like A Stationary
   Light Because It.
-date: '2026-06-07'
+date: '2026-06-12'
 layout: default
 parent_basename: ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d
-parent_title: A Head On Aircraft Can Look Like A Stationary Light Because It | Ifos
-  Causes Of
+parent_title: A Head On Aircraft Can Look Like A Stationary Light Because It
 parent_nav_short_title: A Head On Aircraft Can Look Like A Stationary Light Because
   It
 parent_permalink: /a-head-on-aircraft-can-look-like-a/

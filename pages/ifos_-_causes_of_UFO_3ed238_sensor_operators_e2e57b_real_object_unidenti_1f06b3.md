@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_operator_display_mot_2efffb
 - ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_radar_ducting_false_010dff
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - sensor-operators
 - real-but-unknown
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - sensor-operators
 - real-but-unknown
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: A sensor clip can show a physical object while still lacking enough range, detail or comparison data to say what the object was.
 hero_summary: A sensor clip can show a physical object while still lacking enough range, detail or comparison data to say what the object was.
 layout: default
 permalink: /real-but-unknown/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /sensor-operators/
 nav_short_title: Real but unknown
 title: Real object does not mean solved object
-title_full: Real object does not mean solved object | Sensor Operators
+title_full: Real object does not mean solved object
 display_title_short: Real but unknown
 display_title: Real but unknown
 heading_title: Real object does not mean solved object
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: When Sensors Need Human Context | IFOs
+parent_title: When Sensors Need Human Context
 parent_permalink: /sensor-operators/
 parent_nav_short_title: Sensor Operators
 parent_heading_title: When Sensors Need Human Context
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b
-  title: Sensor Operators | Ifos Causes Of
+  title: Sensor Operators | ifos causes of UFO 3 ed 238
   permalink: /sensor-operators/
   short_title: Sensor Operators
   heading_title: When Sensors Need Human Context
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b
-  title: Sensor Operators | Ifos Causes Of
+  title: Sensor Operators | ifos causes of UFO 3 ed 238
   permalink: /sensor-operators/
   short_title: Sensor Operators
   heading_title: When Sensors Need Human Context
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: When weather bends radar into UFOs
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b
-  title: Sensor Operators | Ifos Causes Of
+  title: Sensor Operators | ifos causes of UFO 3 ed 238
   permalink: /sensor-operators/
   short_title: Sensor Operators
   heading_title: When Sensors Need Human Context
@@ -259,7 +259,7 @@ prev_link:
   permalink: /radar-ducting-d84f17/
   short_title: Radar ducting
   heading_title: When weather bends radar into UFOs
-date: '2026-06-07 06:13:19 '
+date: '2026-06-12 00:38:34 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_real_object_unidenti_1f06b3-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_real_object_unidenti_1f06b3-Illustration-1.webp
@@ -270,7 +270,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_real_o
 
 A sensor recording can establish that something physical was present without revealing what that thing actually was. This is one of the most easily misunderstood outcomes in UFO and UAP investigations. Many people assume that once an object appears on [radar]({{ 'radar/' | relative_url }}), [infrared]({{ 'infrared/' | relative_url }}) imagery, electro-optical footage or another military sensor, its identity should be straightforward. In practice, the opposite is often true. A sensor may confirm that an object existed while leaving critical questions—such as range, size, altitude, origin or type—unanswered.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_real_object_unidenti_1f06b3-Illustration-1-dark.svg" | relative_url }}" alt="Real but unknown illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_real_object_unidenti_1f06b3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_real_object_unidenti_1f06b3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Official reviews increasingly distinguish between two separate conclusions: whether a recorded feature represents a real object, and whether that object has been identified. A case can satisfy the first requirement while failing the second. In those situations, the object remains unidentified not because investigators think it is imaginary, but because the available data do not support a reliable attribution. [[AARO]({{ 'aaro/' | relative_url }})]
 
@@ -278,10 +277,9 @@ Official reviews increasingly distinguish between two separate conclusions: whet
 
 One of the most important findings from recent official UAP reviews is that “unidentified” does not automatically imply extraordinary behaviour. Some unresolved cases involve objects that appear entirely ordinary in their motion and appearance.
 
-A notable example is AARO's publicly released Europe 2024 case. The office assessed with high confidence that the infrared footage showed a physical object. At the same time, AARO stated that the object's morphology, performance characteristics and behaviour were unremarkable and that the available information was insufficient for conclusive attribution. The result was neither a sensor artefact nor a solved identification. It occupied a middle category: a real but unknown object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROUAP ImageryAARO assesses, with high confidence, that the footage depicts the presence of a physical object. The object&#x27;s morphologica...</span></span></span>
+A notable example is AARO's publicly released Europe 2024 case. The office assessed with high confidence that the infrared footage showed a physical object. At the same time, AARO stated that the object's morphology, performance characteristics and behaviour were unremarkable and that the available information was insufficient for conclusive attribution. The result was neither a sensor artefact nor a solved identification. It occupied a middle category: a real but unknown object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP ImageryAARO assesses, with high confidence, that the footage depicts the presence of a physical object. The object&#x27;s morphologica...</span></span></span>
 
 This distinction matters because discussions of UFO reports often collapse several different questions into one:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -294,7 +292,6 @@ This distinction matters because discussions of UFO reports often collapse sever
 
 A positive answer to the first two questions does not guarantee positive answers to the last two.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Q-C5hXe_nWI" title="DECLASSIFIED FOOTAGE of an Unresolved UAP tracked in the Middle East" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Q-C5hXe_nWI" target="_blank" rel="noopener noreferrer">DECLASSIFIED FOOTAGE of an Unresolved UAP tracked in the Middle East</a></p><p class="youtube-embed-meta">Channel: Media Magik Entertainment &middot; Views: 4.0K &middot; Uploaded: May 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Q-C5hXe_nWI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Q-C5hXe_nWI">Open on YouTube</a></p></div></div></div>
 
 ## How analysts separate artefact from object
@@ -302,7 +299,6 @@ A positive answer to the first two questions does not guarantee positive answers
 Before attempting identification, analysts first ask whether a recording represents a genuine external target.
 
 This stage focuses on corroboration rather than interpretation. Investigators look for signs that an apparent object was interacting with the sensor as a real target would. Depending on the system involved, evidence can include:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -314,10 +310,9 @@ This stage focuses on corroboration rather than interpretation. Investigators lo
 
 </div>
 
-The process is especially important because many famous UAP videos have ultimately been explained through sensor geometry, image-processing effects or viewing-angle issues rather than unusual objects. AARO has released examples where reconstruction of platform position and sensor look angles substantially changed the interpretation of apparent motion. In some cases, objects initially perceived as exhibiting extraordinary behaviour were later found to be moving in ordinary ways once geometry was reconstructed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROUAP Case Resolution ReportsAARO assesses with high confidence that the objects did not demonstrate anomalous speeds or flight behavio...</span></span></span>
+The process is especially important because many famous UAP videos have ultimately been explained through sensor geometry, image-processing effects or viewing-angle issues rather than unusual objects. AARO has released examples where reconstruction of platform position and sensor look angles substantially changed the interpretation of apparent motion. In some cases, objects initially perceived as exhibiting extraordinary behaviour were later found to be moving in ordinary ways once geometry was reconstructed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP Case Resolution ReportsAARO assesses with high confidence that the objects did not demonstrate anomalous speeds or flight behavio...</span></span></span>
 
 When a target survives these checks, analysts may conclude that a physical object was present even if they still cannot determine what it was.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_real_object_unidenti_1f06b3-Illustration-2-dark.svg" | relative_url }}" alt="Real but unknown illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_real_object_unidenti_1f06b3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_real_object_unidenti_1f06b3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why unremarkable behaviour may still be unidentified
@@ -338,7 +333,6 @@ NASA's independent UAP study highlighted these exact problems, noting that many 
 
 The result is an important but often overlooked category of case: a mundane-looking object that remains unidentified because the evidence is incomplete.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nWJaCDi0MXo" title="UAP FILES - PR-018: Footage of Unresolved UAP over Europe in 2024" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nWJaCDi0MXo" target="_blank" rel="noopener noreferrer">UAP FILES - PR-018: Footage of Unresolved UAP over Europe in 2024</a></p><p class="youtube-embed-meta">Channel: Media Magik Entertainment &middot; Views: 548 &middot; Uploaded: December 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nWJaCDi0MXo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nWJaCDi0MXo">Open on YouTube</a></p></div></div></div>
 
 ## What extra data would close the gap
@@ -357,8 +351,7 @@ A radar return associated with optical or infrared imagery can dramatically narr
 
 A target recorded simultaneously by infrared, visible-light cameras, radar and environmental sensors provides a much stronger evidential package than a single video clip.
 
-Modern scientific UAP-monitoring proposals increasingly emphasise multimodal observation precisely because different sensors compensate for one another's weaknesses. Multiple independent measurements help distinguish genuine objects from artefacts and provide the information needed for identification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivThe Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based ObservatoriesMay 29, 2023...</span><span class="citation-popover-meta">Published: May 29, 2023</span></span></span>
-
+Modern scientific UAP-monitoring proposals increasingly emphasise multimodal observation precisely because different sensors compensate for one another's weaknesses. Multiple independent measurements help distinguish genuine objects from artefacts and provide the information needed for identification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based ObservatoriesMay 29, 2023...</span><span class="citation-popover-meta">Published: May 29, 2023</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_real_object_unidenti_1f06b3-Illustration-3-dark.svg" | relative_url }}" alt="Real but unknown illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_real_object_unidenti_1f06b3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b_real_object_unidenti_1f06b3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Complete metadata
@@ -377,8 +370,7 @@ Seemingly mundane details can be decisive:
 
 </div>
 
-NASA's study stressed that [missing metadata]({{ 'missing-metadata/' | relative_url }}) is one of the major reasons many reports remain unresolved despite having recorded imagery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt this point there is no reason to conclude that existing UAP reports have an extraterrestrial...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">update nasa shares uap independent study report names director</span><span class="citation-popover-snippet">NASAUPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 —... multiple measurements and ensuring thorough sensor metadata to cre...</span></span></span>
-
+NASA's study stressed that [missing metadata]({{ 'missing-metadata/' | relative_url }}) is one of the major reasons many reports remain unresolved despite having recorded imagery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt this point there is no reason to conclude that existing UAP reports have an extraterrestrial...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">update nasa shares uap independent study report names director</span><span class="citation-popover-snippet">UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 —... multiple measurements and ensuring thorough sensor metadata to cre...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rhP8VdCIz9A" title="UAP FILES - Visual Evidence from 3 Cases over Africa (2022-2024)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rhP8VdCIz9A" target="_blank" rel="noopener noreferrer">UAP FILES - Visual Evidence from 3 Cases over Africa (2022-2024)</a></p><p class="youtube-embed-meta">Channel: Media Magik Entertainment &middot; Views: 1.3K &middot; Uploaded: August 2025 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rhP8VdCIz9A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rhP8VdCIz9A">Open on YouTube</a></p></div></div></div>
 
@@ -505,15 +497,15 @@ Not every unresolved sensor recording is a sensor error. Equally, not every unre
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-but-unknown-real-object-does-not-mean-solved-object-ifos-causes-of-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="real-but-unknown-real-object-does-not-mean-solved-object-ifos-causes-of-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Canvas Poster &quot;Dambuster Lancaster&quot; by photographer Paul Heasman. Avro. (bc)"><img src="{{ '/assets/images/marketplace-covers/239d349040423b8bbe1d.jpg' | relative_url }}" alt="Listing image for Canvas Poster &quot;Dambuster Lancaster&quot; by photographer Paul Heasman. Avro. (bc)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-object-does-not-mean-solved-object-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="real-object-does-not-mean-solved-object-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-but-unknown-real-object-does-not-mean-solved-object-ifos-causes-of-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="real-but-unknown-real-object-does-not-mean-solved-object-ifos-causes-of-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Canvas Poster &quot;Dambuster Lancaster&quot; by photographer Paul Heasman. Avro. (bc)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-object-does-not-mean-solved-object-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="real-object-does-not-mean-solved-object-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-but-unknown-real-object-does-not-mean-solved-object-ifos-causes-of-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="real-but-unknown-real-object-does-not-mean-solved-object-ifos-causes-of-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-object-does-not-mean-solved-object-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="real-object-does-not-mean-solved-object-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-but-unknown-real-object-does-not-mean-solved-object-ifos-causes-of-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="real-but-unknown-real-object-does-not-mean-solved-object-ifos-causes-of-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-object-does-not-mean-solved-object-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="real-object-does-not-mean-solved-object-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -521,15 +513,15 @@ Not every unresolved sensor recording is a sensor error. Equally, not every unre
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-but-unknown-real-object-does-not-mean-solved-object-ifos-causes-of-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="real-but-unknown-real-object-does-not-mean-solved-object-ifos-causes-of-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1930s Flying Lesson Poster &quot;Learn to Fly&quot; Vintage Style Aviation Poster - 24x32"><img src="{{ '/assets/images/marketplace-covers/881a73d3e0d6a3b484b2.jpg' | relative_url }}" alt="Listing image for 1930s Flying Lesson Poster &quot;Learn to Fly&quot; Vintage Style Aviation Poster - 24x32" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-object-does-not-mean-solved-object-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="real-object-does-not-mean-solved-object-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-but-unknown-real-object-does-not-mean-solved-object-ifos-causes-of-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="real-but-unknown-real-object-does-not-mean-solved-object-ifos-causes-of-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">1930s Flying Lesson Poster &quot;Learn to Fly&quot; Vintage Style Aviation Poster - 24x32</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-object-does-not-mean-solved-object-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="real-object-does-not-mean-solved-object-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-but-unknown-real-object-does-not-mean-solved-object-ifos-causes-of-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="real-but-unknown-real-object-does-not-mean-solved-object-ifos-causes-of-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-object-does-not-mean-solved-object-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="real-object-does-not-mean-solved-object-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-but-unknown-real-object-does-not-mean-solved-object-ifos-causes-of-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="real-but-unknown-real-object-does-not-mean-solved-object-ifos-causes-of-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-object-does-not-mean-solved-object-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="real-object-does-not-mean-solved-object-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -537,15 +529,15 @@ Not every unresolved sensor recording is a sensor error. Equally, not every unre
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-but-unknown-real-object-does-not-mean-solved-object-ifos-causes-of-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="real-but-unknown-real-object-does-not-mean-solved-object-ifos-causes-of-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Englands First Aviation Race Railway Travel Poster Print Art A1/A2/A3/A4"><img src="{{ '/assets/images/marketplace-covers/77442d6c844333167c97.jpg' | relative_url }}" alt="Listing image for Vintage Englands First Aviation Race Railway Travel Poster Print Art A1/A2/A3/A4" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-object-does-not-mean-solved-object-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="real-object-does-not-mean-solved-object-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-but-unknown-real-object-does-not-mean-solved-object-ifos-causes-of-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="real-but-unknown-real-object-does-not-mean-solved-object-ifos-causes-of-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage Englands First Aviation Race Railway Travel Poster Print Art A1/A2/A3/A4</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-object-does-not-mean-solved-object-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="real-object-does-not-mean-solved-object-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-but-unknown-real-object-does-not-mean-solved-object-ifos-causes-of-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="real-but-unknown-real-object-does-not-mean-solved-object-ifos-causes-of-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-object-does-not-mean-solved-object-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="real-object-does-not-mean-solved-object-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-but-unknown-real-object-does-not-mean-solved-object-ifos-causes-of-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="real-but-unknown-real-object-does-not-mean-solved-object-ifos-causes-of-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-object-does-not-mean-solved-object-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="real-object-does-not-mean-solved-object-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -553,15 +545,15 @@ Not every unresolved sensor recording is a sensor error. Equally, not every unre
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-but-unknown-real-object-does-not-mean-solved-object-ifos-causes-of-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="real-but-unknown-real-object-does-not-mean-solved-object-ifos-causes-of-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print"><img src="{{ '/assets/images/marketplace-covers/dfddb1826e12bfcc8987.jpg' | relative_url }}" alt="Listing image for Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-object-does-not-mean-solved-object-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="real-object-does-not-mean-solved-object-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-but-unknown-real-object-does-not-mean-solved-object-ifos-causes-of-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="real-but-unknown-real-object-does-not-mean-solved-object-ifos-causes-of-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-object-does-not-mean-solved-object-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="real-object-does-not-mean-solved-object-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-but-unknown-real-object-does-not-mean-solved-object-ifos-causes-of-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="real-but-unknown-real-object-does-not-mean-solved-object-ifos-causes-of-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-object-does-not-mean-solved-object-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="real-object-does-not-mean-solved-object-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-but-unknown-real-object-does-not-mean-solved-object-ifos-causes-of-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="real-but-unknown-real-object-does-not-mean-solved-object-ifos-causes-of-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-object-does-not-mean-solved-object-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="real-object-does-not-mean-solved-object-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -569,7 +561,7 @@ Not every unresolved sensor recording is a sensor error. Equally, not every unre
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-but-unknown-real-object-does-not-mean-solved-object-ifos-causes-of-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="real-but-unknown-real-object-does-not-mean-solved-object-ifos-causes-of-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-object-does-not-mean-solved-object-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="real-object-does-not-mean-solved-object-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -784,71 +776,71 @@ Not every unresolved sensor recording is a sensor error. Equally, not every unre
 
 1. <a id="endnote-1"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROUAP ImageryAARO assesses, with high confidence, that the footage depicts the presence of a physical object. The object&#x27;s morphologica...</p></details>
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryAARO assesses, with high confidence, that the footage depicts the presence of a physical object. The object&#x27;s morphologica...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportAt this point there is no reason to conclude that existing UAP reports have an extraterrestrial...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/video/988676/pr-018-unresolved-uap-report-europe-2024](https://www.dvidshub.net/video/988676/pr-018-unresolved-uap-report-europe-2024)  
+   Link: <a href="https://www.dvidshub.net/video/988676/pr-018-unresolved-uap-report-europe-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/988676/pr-018-unresolved-uap-report-europe-2024</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Video - PR-018, Unresolved UAP Report, Europe 2024AARO assesses, with high confidence, that the footage depicts the presence of a physica...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/](https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROUAP Case Resolution ReportsAARO assesses with high confidence that the objects did not demonstrate anomalous speeds or flight behavio...</p></details>
+   Link: <a href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Case Resolution ReportsAARO assesses with high confidence that the objects did not demonstrate anomalous speeds or flight behavio...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: [https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/](https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASAUPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 —... multiple measurements and ensuring thorough sensor metadata to cre...</p></details>
+   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 —... multiple measurements and ensuring thorough sensor metadata to cre...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: en.wikisource.org  
    Title: Responses to Statement of Task  
-   Link: [https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task](https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task)  
+   Link: <a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — The calibration process ensures that information gathered from sensors and...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2305.18566](https://arxiv.org/abs/2305.18566)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivThe Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based ObservatoriesMay 29, 2023...</p></details>
+   Link: <a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based ObservatoriesMay 29, 2023...</p></details>
    Published: May 29, 2023  
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
    Title: arXiv Galileo Project Observatory Class System Architecture  
-   Link: [https://arxiv.org/abs/2506.00125](https://arxiv.org/abs/2506.00125)  
+   Link: <a href="https://arxiv.org/abs/2506.00125" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2506.00125</a>  
 
 9. <a id="endnote-9"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeUnidentified Anomalous Phenomena (UAP) means (A) airborne objects that are not immediately identifiable; (B) transmedium objects...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: en.wikisource.org  
    Title: Overall Conclusions and Recommendations  
-   Link: [https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Overall_Conclusions_and_Recommendations](https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Overall_Conclusions_and_Recommendations)  
+   Link: <a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Overall_Conclusions_and_Recommendations" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Overall_Conclusions_and_Recommendations</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Study Team Report/Overall Conclusions and...14 Oct 2023 — At present, the detection of UAP is often serendipitous, captured by sensors t...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — We commissioned a study team to examine from a scientific perspective unidentified anomalous phenomena (UAPs) – t...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/video/977839/pr-008-unresolved-uap-report-europe-2022](https://www.dvidshub.net/video/977839/pr-008-unresolved-uap-report-europe-2022)  
+   Link: <a href="https://www.dvidshub.net/video/977839/pr-008-unresolved-uap-report-europe-2022" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/977839/pr-008-unresolved-uap-report-europe-2022</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PR-008, Unresolved UAP Report, Europe 2022The footage depicts an apparent heat signature with characteristics consistent with those of a...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/UFO/](https://www.war.gov/UFO/)  
+   Link: <a href="https://www.war.gov/UFO/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/UFO/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>alien and extraterrestrial life, unidentified aerial phenomena (UAP), and unidentified flying objects (UFOs), and any and all other...Re...</p></details>
 
 ### Additional References
@@ -856,55 +848,55 @@ Not every unresolved sensor recording is a sensor error. Equally, not every unre
 14. <a id="endnote-14"></a>
    Source: war.gov  
    Title: department of war releases unidentified anomalous phenomena files in historic t  
-   Link: [https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/](https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of War Releases Unidentified Anomalous...8 May 2026 — Today, the Department of War announced the initial release of new, neve...</p></details>
    Published: May 2026  
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/](https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/)  
+   Link: <a href="https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...The report contains the external study team&#x27;s findings and recommendations which aim to i...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/IranIntlEnglish/posts/the-pentagon-on-friday-released-a-video-allegedly-showing-unidentified-anomalous/1510533081083780/](https://www.facebook.com/IranIntlEnglish/posts/the-pentagon-on-friday-released-a-video-allegedly-showing-unidentified-anomalous/1510533081083780/)  
+   Link: <a href="https://www.facebook.com/IranIntlEnglish/posts/the-pentagon-on-friday-released-a-video-allegedly-showing-unidentified-anomalous/1510533081083780/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/IranIntlEnglish/posts/the-pentagon-on-friday-released-a-video-allegedly-showing-unidentified-anomalous/1510533081083780/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Pentagon on Friday released a video allegedly showing...AARO assesses, with high confidence, that the footage depicts the presence o...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DYHFRI4PtNf/](https://www.instagram.com/reel/DYHFRI4PtNf/)  
+   Link: <a href="https://www.instagram.com/reel/DYHFRI4PtNf/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYHFRI4PtNf/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ufo 👽 file Follow meAARO assesses, with high confidence, that the footage depicts the presence of a physical object. The object&#x27;s morphol...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: safie.hq.af.mil  
-   Link: [https://www.safie.hq.af.mil/News/Video/mod/61713/player/0/video/988675](https://www.safie.hq.af.mil/News/Video/mod/61713/player/0/video/988675)  
+   Link: <a href="https://www.safie.hq.af.mil/News/Video/mod/61713/player/0/video/988675" target="_blank" rel="noopener noreferrer nofollow">https://www.safie.hq.af.mil/News/Video/mod/61713/player/0/video/988675</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>United States European Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Resolution Office (AARO)...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
    Title: breaking the pentagon has released newly declassified footage of a us air force  
-   Link: [https://www.facebook.com/AviationCircle/posts/-breaking-the-pentagon-has-released-newly-declassified-footage-of-a-us-air-force/940924915607774/](https://www.facebook.com/AviationCircle/posts/-breaking-the-pentagon-has-released-newly-declassified-footage-of-a-us-air-force/940924915607774/)  
+   Link: <a href="https://www.facebook.com/AviationCircle/posts/-breaking-the-pentagon-has-released-newly-declassified-footage-of-a-us-air-force/940924915607774/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AviationCircle/posts/-breaking-the-pentagon-has-released-newly-declassified-footage-of-a-us-air-force/940924915607774/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Pentagon has released newly declassified footage...BREAKING: The Pentagon has released newly declassified footage of a US Air Force...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
-   Link: [https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology](https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology)  
+   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO office finds &#x27;no empirical evidence&#x27; for alien...8 Mar 2024 — The Pentagon&#x27;s UFO office has once again stressed that it has...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: fastcompany.com  
    Title: nasa just threw cold water on the idea that ufo sightings are extraterrestrial  
-   Link: [https://www.fastcompany.com/90954823/nasa-just-threw-cold-water-on-the-idea-that-ufo-sightings-are-extraterrestrial](https://www.fastcompany.com/90954823/nasa-just-threw-cold-water-on-the-idea-that-ufo-sightings-are-extraterrestrial)  
+   Link: <a href="https://www.fastcompany.com/90954823/nasa-just-threw-cold-water-on-the-idea-that-ufo-sightings-are-extraterrestrial" target="_blank" rel="noopener noreferrer nofollow">https://www.fastcompany.com/90954823/nasa-just-threw-cold-water-on-the-idea-that-ufo-sightings-are-extraterrestrial</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA just threw cold water on the idea that UFO sightings...19 Sept 2023 — NASA&#x27;s independent study team found no evidence that reported...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: war.gov  
    Title: dod working to better understand resolve anomalous phenomena  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3368109/dod-working-to-better-understand-resolve-anomalous-phenomena/](https://www.war.gov/News/News-Stories/Article/Article/3368109/dod-working-to-better-understand-resolve-anomalous-phenomena/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3368109/dod-working-to-better-understand-resolve-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3368109/dod-working-to-better-understand-resolve-anomalous-phenomena/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Working to Better Understand, Resolve Anomalous...19 Apr 2023 — AARO team scientists have taken important steps to...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=TQcqOW39ksk](https://www.youtube.com/watch?v=TQcqOW39ksk)  
+   Link: <a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study ReportNASA commissioned an independent study team to examine unidentified anomalous ph...</p></details>

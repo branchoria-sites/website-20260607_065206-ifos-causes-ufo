@@ -50,22 +50,22 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_wind_data_33671a
 - ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - lens-flare
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - lens-flare
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Lens flare and internal reflections can create moving or repeating lights that track the camera rather than the sky.
 hero_summary: Lens flare and internal reflections can create moving or repeating lights that track the camera rather than the sky.
 layout: default
 permalink: /lens-flare/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 nav_short_title: Lens Flare
 title: When Cameras Invent Extra Lights
-title_full: When Cameras Invent Extra Lights | IFOs
+title_full: When Cameras Invent Extra Lights
 display_title_short: Lens Flare
 display_title: Lens Flare
 heading_title: When Cameras Invent Extra Lights
@@ -240,213 +240,212 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 15:29:41'
 parent_title: IFOs
-parent_permalink: /ifos-causes-of/
+parent_permalink: /ifos-causes-of-ufo-3-ed-238/
 parent_nav_short_title: IFOs
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 sibling_links:
 - basename: ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d
-  title: A Head On Aircraft Can Look Like A Stationary Light Because It | Ifos Causes Of
+  title: A Head On Aircraft Can Look Like A Stationary Light Because It | ifos causes of UFO 3 ed 238
   permalink: /a-head-on-aircraft-can-look-like-a/
   short_title: A Head On Aircraft Can Look Like A Stationary Light Because It
   heading_title: The Stationary Light That Is Moving
 - basename: ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261
-  title: AARO | Ifos Causes Of
+  title: AARO | ifos causes of UFO 3 ed 238
   permalink: /aaro/
   short_title: AARO
   heading_title: What Modern UAP Reviews Resolve
 - basename: ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253
-  title: Aircraft Lights | Ifos Causes Of
+  title: Aircraft Lights | ifos causes of UFO 3 ed 238
   permalink: /aircraft-lights/
   short_title: Aircraft Lights
   heading_title: Why Ordinary Aircraft Look So Strange
 - basename: ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043
-  title: Atmosphere | Ifos Causes Of
+  title: Atmosphere | ifos causes of UFO 3 ed 238
   permalink: /atmosphere/
   short_title: Atmosphere
   heading_title: When Weather Makes Shapes in the Sky
 - basename: ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057
-  title: Balloons | Ifos Causes Of
+  title: Balloons | ifos causes of UFO 3 ed 238
   permalink: /balloons/
   short_title: Balloons
   heading_title: Why Balloons Become Flying Saucers
 - basename: ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40
-  title: Birds | Ifos Causes Of
+  title: Birds | ifos causes of UFO 3 ed 238
   permalink: /birds/
   short_title: Birds
   heading_title: How Birds Become Fast UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81
-  title: Blue Book | Ifos Causes Of
+  title: Blue Book | ifos causes of UFO 3 ed 238
   permalink: /blue-book/
   short_title: Blue Book
   heading_title: What Blue Book Teaches About IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e
-  title: Contrails | Ifos Causes Of
+  title: Contrails | ifos causes of UFO 3 ed 238
   permalink: /contrails/
   short_title: Contrails
   heading_title: Why Jet Trails Glow Like UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c
-  title: Drones | Ifos Causes Of
+  title: Drones | ifos causes of UFO 3 ed 238
   permalink: /drones/
   short_title: Drones
   heading_title: When a Drone Becomes a UFO
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e
-  title: First Checks | Ifos Causes Of
+  title: First Checks | ifos causes of UFO 3 ed 238
   permalink: /first-checks/
   short_title: First Checks
   heading_title: What to Check Before Calling It a UFO
 - basename: ifos_-_causes_of_UFO_3ed238_military_flares_abb62f
-  title: Flares | Ifos Causes Of
+  title: Flares | ifos causes of UFO 3 ed 238
   permalink: /flares/
   short_title: Flares
   heading_title: Why Flares Look Like Hovering Craft
 - basename: ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590
-  title: Flight Tracking | Ifos Causes Of
+  title: Flight Tracking | ifos causes of UFO 3 ed 238
   permalink: /flight-tracking/
   short_title: Flight Tracking
   heading_title: How Flight Data Solves UFO Sightings
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965
-  title: Hoaxes | Ifos Causes Of
+  title: Hoaxes | ifos causes of UFO 3 ed 238
   permalink: /hoaxes/
   short_title: Hoaxes
   heading_title: When UFO Reports Are Manufactured
 - basename: ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f
-  title: Infrared | Ifos Causes Of
+  title: Infrared | ifos causes of UFO 3 ed 238
   permalink: /infrared/
   short_title: Infrared
   heading_title: Why Infrared UFO Videos Mislead
 - basename: ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74
-  title: Insects | Ifos Causes Of
+  title: Insects | ifos causes of UFO 3 ed 238
   permalink: /insects/
   short_title: Insects
   heading_title: The Tiny Things Cameras Make Huge
 - basename: ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5
-  title: Lanterns | Ifos Causes Of
+  title: Lanterns | ifos causes of UFO 3 ed 238
   permalink: /lanterns/
   short_title: Lanterns
   heading_title: The Orange Lights That Start UFO Reports
 - basename: ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28
-  title: Mass Sightings | Ifos Causes Of
+  title: Mass Sightings | ifos causes of UFO 3 ed 238
   permalink: /mass-sightings/
   short_title: Mass Sightings
   heading_title: Why Groups Can Share One Mistake
 - basename: ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504
-  title: Meteors | Ifos Causes Of
+  title: Meteors | ifos causes of UFO 3 ed 238
   permalink: /meteors/
   short_title: Meteors
   heading_title: When Fireballs Become UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca
-  title: Missing Data | Ifos Causes Of
+  title: Missing Data | ifos causes of UFO 3 ed 238
   permalink: /missing-data/
   short_title: Missing Data
   heading_title: Unsolved Does Not Always Mean Strange
 - basename: ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183
-  title: NASA Study | Ifos Causes Of
+  title: NASA Study | ifos causes of UFO 3 ed 238
   permalink: /nasa-study/
   short_title: NASA Study
   heading_title: Why Better UFO Data Matters
 - basename: ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b
-  title: Parallax | Ifos Causes Of
+  title: Parallax | ifos causes of UFO 3 ed 238
   permalink: /parallax/
   short_title: Parallax
   heading_title: The Speed Illusion in UFO Footage
 - basename: ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a
-  title: Pilots | Ifos Causes Of
+  title: Pilots | ifos causes of UFO 3 ed 238
   permalink: /pilots/
   short_title: Pilots
   heading_title: Why Pilots Can Misidentify UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357
-  title: Radar | Ifos Causes Of
+  title: Radar | ifos causes of UFO 3 ed 238
   permalink: /radar/
   short_title: Radar
   heading_title: When Radar Sees a UFO That Isnt There
 - basename: ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c
-  title: Reflections | Ifos Causes Of
+  title: Reflections | ifos causes of UFO 3 ed 238
   permalink: /reflections/
   short_title: Reflections
   heading_title: The UFO Inside the Glass
 - basename: ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132
-  title: Rocket Plumes | Ifos Causes Of
+  title: Rocket Plumes | ifos causes of UFO 3 ed 238
   permalink: /rocket-plumes/
   short_title: Rocket Plumes
   heading_title: The Strange Clouds Rockets Leave Behind
 - basename: ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b
-  title: Satellites | Ifos Causes Of
+  title: Satellites | ifos causes of UFO 3 ed 238
   permalink: /satellites/
   short_title: Satellites
   heading_title: Why Satellites Surprise Night Watchers
 - basename: ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1
-  title: Searchlights | Ifos Causes Of
+  title: Searchlights | ifos causes of UFO 3 ed 238
   permalink: /searchlights/
   short_title: Searchlights
   heading_title: How Searchlights Paint UFOs in Clouds
 - basename: ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b
-  title: Sensor Operators | Ifos Causes Of
+  title: Sensor Operators | ifos causes of UFO 3 ed 238
   permalink: /sensor-operators/
   short_title: Sensor Operators
   heading_title: When Sensors Need Human Context
 - basename: ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391
-  title: Short Clips | Ifos Causes Of
+  title: Short Clips | ifos causes of UFO 3 ed 238
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: Why Short UFO Videos Are Hard to Trust
 - basename: ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f
-  title: Size Errors | Ifos Causes Of
+  title: Size Errors | ifos causes of UFO 3 ed 238
   permalink: /size-errors/
   short_title: Size Errors
   heading_title: Why Honest Witnesses Misjudge UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725
-  title: Sky Charts | Ifos Causes Of
+  title: Sky Charts | ifos causes of UFO 3 ed 238
   permalink: /sky-charts/
   short_title: Sky Charts
   heading_title: How to Check a UFO Against the Sky
 - basename: ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32
-  title: Stars | Ifos Causes Of
+  title: Stars | ifos causes of UFO 3 ed 238
   permalink: /stars/
   short_title: Stars
   heading_title: Why Stars Flash Like Machines
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb
-  title: Status Labels | Ifos Causes Of
+  title: Status Labels | ifos causes of UFO 3 ed 238
   permalink: /status-labels/
   short_title: Status Labels
   heading_title: UFO Does Not Mean Alien
 - basename: ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d
-  title: Strong Cases | Ifos Causes Of
+  title: Strong Cases | ifos causes of UFO 3 ed 238
   permalink: /strong-cases/
   short_title: Strong Cases
   heading_title: What Makes a UFO Report Harder to Explain
 - basename: ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948
-  title: UK Files | Ifos Causes Of
+  title: UK Files | ifos causes of UFO 3 ed 238
   permalink: /uk-files/
   short_title: UK Files
   heading_title: What the UK UFO Files Reveal
 - basename: ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06
-  title: Unresolved Cases | Ifos Causes Of
+  title: Unresolved Cases | ifos causes of UFO 3 ed 238
   permalink: /unresolved-cases/
   short_title: Unresolved Cases
   heading_title: Why Some UFO Cases Stay Open
 - basename: ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080
-  title: Venus | Ifos Causes Of
+  title: Venus | ifos causes of UFO 3 ed 238
   permalink: /venus/
   short_title: Venus
   heading_title: Is That UFO Really Venus?
 - basename: ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13
-  title: Weather Records | Ifos Causes Of
+  title: Weather Records | ifos causes of UFO 3 ed 238
   permalink: /weather-records/
   short_title: Weather Records
   heading_title: Weather Clues That Explain Strange Lights
 - basename: ifos_-_causes_of_UFO_3ed238_wind_data_33671a
-  title: Wind Data | Ifos Causes Of
+  title: Wind Data | ifos causes of UFO 3 ed 238
   permalink: /wind-data/
   short_title: Wind Data
   heading_title: Following a UFO With the Wind
@@ -479,20 +478,21 @@ child_links:
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 prev_link:
   basename: ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5
-  title: Lanterns | Ifos Causes Of
+  title: Lanterns | ifos causes of UFO 3 ed 238
   permalink: /lanterns/
   short_title: Lanterns
   heading_title: The Orange Lights That Start UFO Reports
 next_link:
   basename: ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28
-  title: Mass Sightings | Ifos Causes Of
+  title: Mass Sightings | ifos causes of UFO 3 ed 238
   permalink: /mass-sightings/
   short_title: Mass Sightings
   heading_title: Why Groups Can Share One Mistake
+date: '2026-06-12 00:05:26 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e-overview-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e-overview.webp
@@ -503,20 +503,18 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e-overview-soc
 
 Lens flare and optical artefacts are a common way for cameras to invent extra “objects” in UFO reports. A bright source such as the Sun, Moon, streetlight, aircraft light, headlamp or [infrared]({{ 'infrared/' | relative_url }}) heat source can reflect and scatter inside a lens system, producing ghost lights, blobs, polygons, streaks or haze that are recorded by the camera but are not separate things in the sky. The key clue is behaviour: these artefacts often track the camera, mirror a bright light source, rotate with the optics, appear diagonally opposite a lamp, or vanish when the angle changes.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e-overview.webp" | relative_url }}" alt="Overview image for Lens Flare" loading="eager" decoding="sync" fetchpriority="high">
-This does not mean every strange light in a video is “just lens flare”. It means camera footage is not a neutral window onto the sky. In UFO investigation, the first question is whether the apparent object behaves like an external target or like an optical product of the imaging system. NASA’s UAP study stressed that analysis is often hampered by poor calibration, [missing metadata]({{ 'missing-metadata/' | relative_url }}), few simultaneous measurements and lack of baseline data, which is exactly the kind of weakness that lets optical artefacts look more mysterious than they are. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:UAP Independent Study Team</span><span class="citation-popover-snippet">WikisourcePage:UAP Independent Study Team - Final Report.pdf/5 - Wikisource, the free online library...</span></span></span>
+This does not mean every strange light in a video is “just lens flare”. It means camera footage is not a neutral window onto the sky. In UFO investigation, the first question is whether the apparent object behaves like an external target or like an optical product of the imaging system. NASA’s UAP study stressed that analysis is often hampered by poor calibration, [missing metadata]({{ 'missing-metadata/' | relative_url }}), few simultaneous measurements and lack of baseline data, which is exactly the kind of weakness that lets optical artefacts look more mysterious than they are. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:UAP Independent Study Team</span><span class="citation-popover-snippet">Page:UAP Independent Study Team - Final Report.pdf/5 - Wikisource, the free online library...</span></span></span>
 
 ## How cameras invent extra lights
 
 A camera lens is not a single transparent hole. It is a stack of glass or plastic elements, coatings, apertures, filters, cover glass, a sensor and sometimes stabilisation hardware. Light that follows the intended path forms the ordinary image. Stray light can take other paths: it can reflect between lens surfaces, scatter from imperfections, bounce off the sensor or cover glass, or reflect from a filter. The result may be a false light in the image, even though no separate light existed at that position in the real scene.
 
-Optics manufacturers and imaging specialists describe “ghost images” as faint secondary images caused by [reflections]({{ 'reflections/' | relative_url }}) within optical components. Edmund Optics defines a ghost image as a faint second image produced by such internal reflections, while Ansys describes smartphone stray light as multiple reflections from polished lens surfaces that can produce ghost reflections and lens flare on the imager. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.edmundoptics.com/knowledge-center/video/tutorials/what-are-ghost-images/?srsltid=AfmBOorOKbPGt3J_Yw7rqdvMHCeS983GPJnxj0t1INrI9q6PGnXRB01f" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edmundoptics.com">[Edmund Optics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edmundoptics.com</span><span class="citation-popover-title">Edmund Optics Video Tutorial: What are Ghost Images? | Edmund Optics</span><span class="citation-popover-snippet">Edmund Optics Video Tutorial: What are Ghost Images? | Edmund Optics</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://optics.ansys.com/hc/en-us/articles/9273272641555-Stray-Light-Analysis-Smartphone-Camera" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: optics.ansys.com">[Ansys Optics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">optics.ansys.com</span><span class="citation-popover-title">Optics Stray Light Analysis – Smartphone Camera – Ansys Optics</span><span class="citation-popover-snippet">Optics Stray Light Analysis – Smartphone Camera – Ansys Optics</span></span></span>
+Optics manufacturers and imaging specialists describe “ghost images” as faint secondary images caused by [reflections]({{ 'reflections/' | relative_url }}) within optical components. Edmund Optics defines a ghost image as a faint second image produced by such internal reflections, while Ansys describes smartphone stray light as multiple reflections from polished lens surfaces that can produce ghost reflections and lens flare on the imager. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.edmundoptics.com/knowledge-center/video/tutorials/what-are-ghost-images/?srsltid=AfmBOorOKbPGt3J_Yw7rqdvMHCeS983GPJnxj0t1INrI9q6PGnXRB01f" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edmundoptics.com">[Edmund Optics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edmundoptics.com</span><span class="citation-popover-title">Edmund Optics Video Tutorial: What are Ghost Images? &#124; Edmund Optics</span><span class="citation-popover-snippet">Edmund Optics Video Tutorial: What are Ghost Images? &#124; Edmund Optics</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://optics.ansys.com/hc/en-us/articles/9273272641555-Stray-Light-Analysis-Smartphone-Camera" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: optics.ansys.com">[Ansys Optics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">optics.ansys.com</span><span class="citation-popover-title">Optics Stray Light Analysis – Smartphone Camera – Ansys Optics</span><span class="citation-popover-snippet">Optics Stray Light Analysis – Smartphone Camera – Ansys Optics</span></span></span>
 
 For UFO reports, the important point is not the photographic terminology itself but the geometry. A ghost light can sit on the opposite side of the frame from the real light source. It can move when the phone tilts. It can seem to “accelerate” when the camera pans. It can repeat the shape of a lamp, LED cluster or aperture. It can also brighten or fade as autofocus, exposure, digital stabilisation and noise reduction try to manage a dark scene with one very bright point in it.
 
 This is why night-time phone videos are especially vulnerable. A dark sky gives the camera little texture to lock onto, while bright lights overload small optics and small sensors. The viewer then sees a luminous point or “orb” against a featureless background and naturally interprets it as an object in the sky. In reality, part of the apparent motion may belong to the camera, not the light.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e-Illustration-1-dark.svg" | relative_url }}" alt="Lens Flare illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Flare patterns that give the game away
@@ -533,7 +531,6 @@ Several patterns are especially relevant to UFO videos:
 
 A useful example is the familiar “green orb” in phone photographs. It is often reported as a strange light near the Sun or a bright lamp, but a simple reproduction test shows it moving opposite the bright source as the camera angle changes. The value of such a test is that it turns a mysterious one-off image into a repeatable optical behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/green-orb-dresden-how-to-demonstrate-an-orb-is-lens-flare.13732/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">green orb dresden how to demonstrate an orb is lens flare.13732</span><span class="citation-popover-snippet">green orb dresden how to demonstrate an orb is lens flare.13732</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Le7Fqbsrrm8" title="Breakdown of the Pentagon UFO videos with Mick West" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Le7Fqbsrrm8" target="_blank" rel="noopener noreferrer">Breakdown of the Pentagon UFO videos with Mick West</a></p><p class="youtube-embed-meta">Channel: Cool Worlds &middot; Views: 365.2K &middot; Uploaded: April 2020 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Le7Fqbsrrm8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Le7Fqbsrrm8">Open on YouTube</a></p></div></div></div>
 
 ## Camera movement tests
@@ -541,7 +538,6 @@ A useful example is the familiar “green orb” in phone photographs. It is oft
 The simplest test for lens flare is not a database search. It is movement. If the suspected UFO is still visible, the observer should gently move the camera while keeping the bright light source in view. A real object should remain fixed in the sky relative to trees, rooftops, clouds or [stars]({{ 'stars/' | relative_url }}). A flare will usually slide, pivot or mirror the bright source inside the frame.
 
 The most useful tests are practical:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -556,7 +552,6 @@ The most useful tests are practical:
 Metabunk’s analysis of a drone-footage case illustrates the principle well: ghost images do not remain fixed like real objects because they are internal reflections, so they drift in the frame with optical parallax when the camera pans or tilts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/instantaneous-acceleration-wedding-photographer-toledo-drone-footage-lens-flare.13702/page-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">Instantaneous Acceleration</span><span class="citation-popover-snippet">Instantaneous Acceleration</span></span></span>
 
 This is also why very [short clips]({{ 'short-clips/' | relative_url }}) are weak evidence. A three-second video may show a dot apparently darting across the sky, but without the moments before and after the movement, it may be impossible to tell whether the dot moved or the camera did. Modern phones also add digital stabilisation, sharpening, frame blending and exposure changes, which can make motion look cleaner, faster or stranger than the raw optics would.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e-Illustration-2-dark.svg" | relative_url }}" alt="Lens Flare illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why night videos mislead
@@ -579,7 +574,6 @@ This interpretation remains disputed. A later arXiv paper by Yannick Peings and 
 
 The useful lesson is not that every Gimbal-like case is settled by shouting “glare”. It is that infrared imagery can separate apparent shape from physical shape. A hot engine, exhaust plume or thermal reflection may bloom into a form that looks like a solid object. If that form rotates in step with camera mechanics, the rotation may be an artefact of the sensor system. If it rotates independently of camera behaviour and is corroborated by other calibrated sensors, the case is stronger. The distinction is technical, not rhetorical.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XuKenlhD504" title="Camera Lens Flare and Ghosting: What You Need to Know for Better Photography | Round Glass Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XuKenlhD504" target="_blank" rel="noopener noreferrer">Camera Lens Flare and Ghosting: What You Need to Know for Better Photography | Round Glass Review</a></p><p class="youtube-embed-meta">Channel: David Hancock &middot; Views: 7.1K &middot; Uploaded: May 2023 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XuKenlhD504" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XuKenlhD504">Open on YouTube</a></p></div></div></div>
 
 ## Not every artefact is a flare
@@ -594,14 +588,12 @@ AARO’s public imagery page shows why investigators are cautious. Some official
 
 That kind of wording is careful but important. It does not turn every video into a camera fault. It says the route from image to object is not automatic.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e-Illustration-3-dark.svg" | relative_url }}" alt="Lens Flare illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A practical reading of UFO footage
 
 A strong UFO video should survive ordinary optical tests. It should not depend on a single bright point in a dark frame, a single phone camera, a missing original file or a crop that hides the light source causing the artefact. It should show stable reference points, clear timing, camera movement, and ideally independent observations from different positions or sensors.
 
 For lens flare and optical artefacts, the most useful questions are:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -616,7 +608,6 @@ For lens flare and optical artefacts, the most useful questions are:
 </div>
 
 When those checks point to an optical artefact, the conclusion should not be treated as an insult to the witness. The witness may have recorded a real light source and a real camera effect. The error lies in treating everything visible in the video as if it must have occupied the sky.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-_4QF__92q0" title="UFO Videos Explained: Mick West&#x27;s Expert Analysis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-_4QF__92q0" target="_blank" rel="noopener noreferrer">UFO Videos Explained: Mick West&#x27;s Expert Analysis</a></p><p class="youtube-embed-meta">Channel: TWiT Tech Podcast Network &middot; Views: 2.5K &middot; Uploaded: February 2025 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-_4QF__92q0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-_4QF__92q0">Open on YouTube</a></p></div></div></div>
 
@@ -1023,203 +1014,203 @@ The critical habit is to separate the scene from the recording system. A camera 
 1. <a id="endnote-1"></a>
    Source: en.wikisource.org  
    Title: Page:UAP Independent Study Team  
-   Link: [https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5](https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WikisourcePage:UAP Independent Study Team - Final Report.pdf/5 - Wikisource, the free online library...</p></details>
+   Link: <a href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Page:UAP Independent Study Team - Final Report.pdf/5 - Wikisource, the free online library...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: optics.ansys.com  
    Title: Optics Stray Light Analysis – Smartphone Camera – Ansys Optics  
-   Link: [https://optics.ansys.com/hc/en-us/articles/9273272641555-Stray-Light-Analysis-Smartphone-Camera](https://optics.ansys.com/hc/en-us/articles/9273272641555-Stray-Light-Analysis-Smartphone-Camera)  
+   Link: <a href="https://optics.ansys.com/hc/en-us/articles/9273272641555-Stray-Light-Analysis-Smartphone-Camera" target="_blank" rel="noopener noreferrer nofollow">https://optics.ansys.com/hc/en-us/articles/9273272641555-Stray-Light-Analysis-Smartphone-Camera</a>  
 
 3. <a id="endnote-3"></a>
    Source: metabunk.org  
    Title: Destabilized Sensor Reflections  
-   Link: [https://www.metabunk.org/threads/destabilized-sensor-reflections-squiggly-lines-and-dancing-dots.12802/](https://www.metabunk.org/threads/destabilized-sensor-reflections-squiggly-lines-and-dancing-dots.12802/)  
+   Link: <a href="https://www.metabunk.org/threads/destabilized-sensor-reflections-squiggly-lines-and-dancing-dots.12802/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/destabilized-sensor-reflections-squiggly-lines-and-dancing-dots.12802/</a>  
 
 4. <a id="endnote-4"></a>
    Source: metabunk.org  
    Title: green orb dresden how to demonstrate an orb is lens flare.13732  
-   Link: [https://www.metabunk.org/threads/green-orb-dresden-how-to-demonstrate-an-orb-is-lens-flare.13732/](https://www.metabunk.org/threads/green-orb-dresden-how-to-demonstrate-an-orb-is-lens-flare.13732/)  
+   Link: <a href="https://www.metabunk.org/threads/green-orb-dresden-how-to-demonstrate-an-orb-is-lens-flare.13732/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/green-orb-dresden-how-to-demonstrate-an-orb-is-lens-flare.13732/</a>  
 
 5. <a id="endnote-5"></a>
    Source: metabunk.org  
    Title: Instantaneous Acceleration  
-   Link: [https://www.metabunk.org/threads/instantaneous-acceleration-wedding-photographer-toledo-drone-footage-lens-flare.13702/page-2](https://www.metabunk.org/threads/instantaneous-acceleration-wedding-photographer-toledo-drone-footage-lens-flare.13702/page-2)  
+   Link: <a href="https://www.metabunk.org/threads/instantaneous-acceleration-wedding-photographer-toledo-drone-footage-lens-flare.13702/page-2" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/instantaneous-acceleration-wedding-photographer-toledo-drone-footage-lens-flare.13702/page-2</a>  
 
 6. <a id="endnote-6"></a>
    Source: science.nasa.gov  
    Title: Science UAP FAQs  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
 7. <a id="endnote-7"></a>
    Source: petapixel.com  
-   Link: [https://petapixel.com/2022/03/14/famous-navy-ufo-video-was-actually-camera-glare-evidence-suggests/](https://petapixel.com/2022/03/14/famous-navy-ufo-video-was-actually-camera-glare-evidence-suggests/)  
+   Link: <a href="https://petapixel.com/2022/03/14/famous-navy-ufo-video-was-actually-camera-glare-evidence-suggests/" target="_blank" rel="noopener noreferrer nofollow">https://petapixel.com/2022/03/14/famous-navy-ufo-video-was-actually-camera-glare-evidence-suggests/</a>  
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2306.08773](https://arxiv.org/abs/2306.08773)  
+   Link: <a href="https://arxiv.org/abs/2306.08773" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2306.08773</a>  
 
 9. <a id="endnote-9"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: metabunk.org  
    Title: page 2  
-   Link: [https://www.metabunk.org/threads/a-gimbal-glare-explainer.12230/page-2](https://www.metabunk.org/threads/a-gimbal-glare-explainer.12230/page-2)  
+   Link: <a href="https://www.metabunk.org/threads/a-gimbal-glare-explainer.12230/page-2" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/a-gimbal-glare-explainer.12230/page-2</a>  
 
 11. <a id="endnote-11"></a>
    Source: metabunk.org  
    Title: page 3  
-   Link: [https://www.metabunk.org/threads/night-sky-long-exposure-light-trail.13256/page-3](https://www.metabunk.org/threads/night-sky-long-exposure-light-trail.13256/page-3)  
+   Link: <a href="https://www.metabunk.org/threads/night-sky-long-exposure-light-trail.13256/page-3" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/night-sky-long-exposure-light-trail.13256/page-3</a>  
 
 12. <a id="endnote-12"></a>
    Source: metabunk.org  
    Title: whats your best guess on these sightings.13735  
-   Link: [https://www.metabunk.org/threads/whats-your-best-guess-on-these-sightings.13735/](https://www.metabunk.org/threads/whats-your-best-guess-on-these-sightings.13735/)  
+   Link: <a href="https://www.metabunk.org/threads/whats-your-best-guess-on-these-sightings.13735/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/whats-your-best-guess-on-these-sightings.13735/</a>  
 
 13. <a id="endnote-13"></a>
    Source: metabunk.org  
    Title: strange lights over las vegas april 25 2023.12946  
-   Link: [https://www.metabunk.org/threads/strange-lights-over-las-vegas-april-25-2023.12946/](https://www.metabunk.org/threads/strange-lights-over-las-vegas-april-25-2023.12946/)  
+   Link: <a href="https://www.metabunk.org/threads/strange-lights-over-las-vegas-april-25-2023.12946/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/strange-lights-over-las-vegas-april-25-2023.12946/</a>  
 
 14. <a id="endnote-14"></a>
    Source: metabunk.org  
    Title: aaro 2024 annual report on uap.13762  
-   Link: [https://www.metabunk.org/threads/aaro-2024-annual-report-on-uap.13762/](https://www.metabunk.org/threads/aaro-2024-annual-report-on-uap.13762/)  
+   Link: <a href="https://www.metabunk.org/threads/aaro-2024-annual-report-on-uap.13762/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/aaro-2024-annual-report-on-uap.13762/</a>  
 
 15. <a id="endnote-15"></a>
    Source: metabunk.org  
-   Link: [https://www.metabunk.org/threads/kent-uk-bright-squiggly-line-in-photo-of-night-sky-the-star-vega-partial-camera-shake.14169/](https://www.metabunk.org/threads/kent-uk-bright-squiggly-line-in-photo-of-night-sky-the-star-vega-partial-camera-shake.14169/)  
+   Link: <a href="https://www.metabunk.org/threads/kent-uk-bright-squiggly-line-in-photo-of-night-sky-the-star-vega-partial-camera-shake.14169/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/kent-uk-bright-squiggly-line-in-photo-of-night-sky-the-star-vega-partial-camera-shake.14169/</a>  
 
 16. <a id="endnote-16"></a>
    Source: metabunk.org  
    Title: what was it that i photographed.14676  
-   Link: [https://www.metabunk.org/threads/what-was-it-that-i-photographed.14676/](https://www.metabunk.org/threads/what-was-it-that-i-photographed.14676/)  
+   Link: <a href="https://www.metabunk.org/threads/what-was-it-that-i-photographed.14676/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/what-was-it-that-i-photographed.14676/</a>  
 
 17. <a id="endnote-17"></a>
    Source: metabunk.org  
    Title: the shape and size of glare around bright lights or ir heat sources.10596  
-   Link: [https://www.metabunk.org/threads/the-shape-and-size-of-glare-around-bright-lights-or-ir-heat-sources.10596/](https://www.metabunk.org/threads/the-shape-and-size-of-glare-around-bright-lights-or-ir-heat-sources.10596/)  
+   Link: <a href="https://www.metabunk.org/threads/the-shape-and-size-of-glare-around-bright-lights-or-ir-heat-sources.10596/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/the-shape-and-size-of-glare-around-bright-lights-or-ir-heat-sources.10596/</a>  
 
 18. <a id="endnote-18"></a>
    Source: metabunk.org  
    Title: fox5 new york zip by orb.13779  
-   Link: [https://www.metabunk.org/threads/fox5-new-york-zip-by-orb.13779/](https://www.metabunk.org/threads/fox5-new-york-zip-by-orb.13779/)  
+   Link: <a href="https://www.metabunk.org/threads/fox5-new-york-zip-by-orb.13779/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/fox5-new-york-zip-by-orb.13779/</a>  
 
 19. <a id="endnote-19"></a>
    Source: metabunk.org  
    Title: page 3  
-   Link: [https://www.metabunk.org/threads/pr-38-the-chandelier-ufo.13307/page-3](https://www.metabunk.org/threads/pr-38-the-chandelier-ufo.13307/page-3)  
+   Link: <a href="https://www.metabunk.org/threads/pr-38-the-chandelier-ufo.13307/page-3" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/pr-38-the-chandelier-ufo.13307/page-3</a>  
 
 20. <a id="endnote-20"></a>
    Source: metabunk.org  
    Title: Wedding Photographer  
-   Link: [https://www.metabunk.org/threads/instantaneous-acceleration-wedding-photographer-toledo-drone-footage-lens-flare.13702/](https://www.metabunk.org/threads/instantaneous-acceleration-wedding-photographer-toledo-drone-footage-lens-flare.13702/)  
+   Link: <a href="https://www.metabunk.org/threads/instantaneous-acceleration-wedding-photographer-toledo-drone-footage-lens-flare.13702/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/instantaneous-acceleration-wedding-photographer-toledo-drone-footage-lens-flare.13702/</a>  
 
 21. <a id="endnote-21"></a>
    Source: metabunk.org  
    Title: page 4  
-   Link: [https://www.metabunk.org/threads/pr055-corbells-u-s-military-films-huge-disc-hiding-in-the-clouds-new-video-06-17-25.14289/page-4](https://www.metabunk.org/threads/pr055-corbells-u-s-military-films-huge-disc-hiding-in-the-clouds-new-video-06-17-25.14289/page-4)  
+   Link: <a href="https://www.metabunk.org/threads/pr055-corbells-u-s-military-films-huge-disc-hiding-in-the-clouds-new-video-06-17-25.14289/page-4" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/pr055-corbells-u-s-military-films-huge-disc-hiding-in-the-clouds-new-video-06-17-25.14289/page-4</a>  
 
 22. <a id="endnote-22"></a>
    Source: metabunk.org  
    Title: a [gimbal glare](&#123;&#123; 'gimbal-glare/' | relative_url &#125;&#125;) explainer.12230  
-   Link: [https://www.metabunk.org/threads/a-gimbal-glare-explainer.12230/](https://www.metabunk.org/threads/a-gimbal-glare-explainer.12230/)  
+   Link: <a href="https://www.metabunk.org/threads/a-gimbal-glare-explainer.12230/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/a-gimbal-glare-explainer.12230/</a>  
 
 23. <a id="endnote-23"></a>
    Source: metabunk.org  
    Title: the gimbal ufo marik claims new findings falsify prosaic explanations.14839  
-   Link: [https://www.metabunk.org/threads/the-gimbal-ufo-marik-claims-new-findings-falsify-prosaic-explanations.14839/](https://www.metabunk.org/threads/the-gimbal-ufo-marik-claims-new-findings-falsify-prosaic-explanations.14839/)  
+   Link: <a href="https://www.metabunk.org/threads/the-gimbal-ufo-marik-claims-new-findings-falsify-prosaic-explanations.14839/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/the-gimbal-ufo-marik-claims-new-findings-falsify-prosaic-explanations.14839/</a>  
 
 24. <a id="endnote-24"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 25. <a id="endnote-25"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 26. <a id="endnote-26"></a>
    Source: nasa.gov  
    Title: nasa to release discuss unidentified anomalous phenomena report  
-   Link: [https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/](https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/)  
+   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
 
 27. <a id="endnote-27"></a>
    Source: aaro.mil  
    Title: UNCLASSIFIED FY23 Consolidated Annual Report on UAP Oct 25 2023 1236  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf](https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf</a>  
 
 28. <a id="endnote-28"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 29. <a id="endnote-29"></a>
    Source: en.wikisource.org  
    Title: Responses to Statement of Task  
-   Link: [https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task](https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task)  
+   Link: <a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task</a>  
 
 30. <a id="endnote-30"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2506.00125v1](https://arxiv.org/html/2506.00125v1)  
+   Link: <a href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.00125v1</a>  
 
 31. <a id="endnote-31"></a>
    Source: edmundoptics.com  
    Title: Edmund Optics Video Tutorial: What are Ghost Images? | Edmund Optics  
-   Link: [https://www.edmundoptics.com/knowledge-center/video/tutorials/what-are-ghost-images/?srsltid=AfmBOorOKbPGt3J_Yw7rqdvMHCeS983GPJnxj0t1INrI9q6PGnXRB01f](https://www.edmundoptics.com/knowledge-center/video/tutorials/what-are-ghost-images/?srsltid=AfmBOorOKbPGt3J_Yw7rqdvMHCeS983GPJnxj0t1INrI9q6PGnXRB01f)  
+   Link: <a href="https://www.edmundoptics.com/knowledge-center/video/tutorials/what-are-ghost-images/?srsltid=AfmBOorOKbPGt3J_Yw7rqdvMHCeS983GPJnxj0t1INrI9q6PGnXRB01f" target="_blank" rel="noopener noreferrer nofollow">https://www.edmundoptics.com/knowledge-center/video/tutorials/what-are-ghost-images/?srsltid=AfmBOorOKbPGt3J_Yw7rqdvMHCeS983GPJnxj0t1INrI9q6PGnXRB01f</a>  
 
 32. <a id="endnote-32"></a>
    Source: edmundoptics.com  
-   Link: [https://www.edmundoptics.com/knowledge-center/video/tutorials/total-internal-reflection/?srsltid=AfmBOoqMi_JhljiLQmarfUUaX3h3DmGnJshBF-im_5pd7uw6qsGY571k](https://www.edmundoptics.com/knowledge-center/video/tutorials/total-internal-reflection/?srsltid=AfmBOoqMi_JhljiLQmarfUUaX3h3DmGnJshBF-im_5pd7uw6qsGY571k)  
+   Link: <a href="https://www.edmundoptics.com/knowledge-center/video/tutorials/total-internal-reflection/?srsltid=AfmBOoqMi_JhljiLQmarfUUaX3h3DmGnJshBF-im_5pd7uw6qsGY571k" target="_blank" rel="noopener noreferrer nofollow">https://www.edmundoptics.com/knowledge-center/video/tutorials/total-internal-reflection/?srsltid=AfmBOoqMi_JhljiLQmarfUUaX3h3DmGnJshBF-im_5pd7uw6qsGY571k</a>  
 
 33. <a id="endnote-33"></a>
    Source: Wikipedia  
    Title: Lens flare  
-   Link: [https://en.wikipedia.org/wiki/Lens_flare](https://en.wikipedia.org/wiki/Lens_flare)  
+   Link: <a href="https://en.wikipedia.org/wiki/Lens_flare" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lens_flare</a>  
 
 ### Additional References
 
 34. <a id="endnote-34"></a>
    Source: youtube.com  
    Title: Understanding Lens Flare: How Optics Create Fake Objects  
-   Link: [https://www.youtube.com/watch?v=F3zWw4N0hX4](https://www.youtube.com/watch?v=F3zWw4N0hX4)  
+   Link: <a href="https://www.youtube.com/watch?v=F3zWw4N0hX4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F3zWw4N0hX4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Tell if That Light is Real or Just Lens Flare...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: boingboing.net  
-   Link: [https://boingboing.net/2022/03/14/navy-ufo-moves-with-camera-mechanisms-in-glaring-problem-for-alien-fans.html](https://boingboing.net/2022/03/14/navy-ufo-moves-with-camera-mechanisms-in-glaring-problem-for-alien-fans.html)  
+   Link: <a href="https://boingboing.net/2022/03/14/navy-ufo-moves-with-camera-mechanisms-in-glaring-problem-for-alien-fans.html" target="_blank" rel="noopener noreferrer nofollow">https://boingboing.net/2022/03/14/navy-ufo-moves-with-camera-mechanisms-in-glaring-problem-for-alien-fans.html</a>  
 
 36. <a id="endnote-36"></a>
    Source: aui.edu  
-   Link: [https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/](https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/)  
+   Link: <a href="https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/</a>  
 
 37. <a id="endnote-37"></a>
    Source: openaccess.thecvf.com  
-   Link: [https://openaccess.thecvf.com/content/CVPR2023/papers/Dai_Nighttime_Smartphone_Reflective_Flare_Removal_Using_Optical_Center_Symmetry_Prior_CVPR_2023_paper.pdf](https://openaccess.thecvf.com/content/CVPR2023/papers/Dai_Nighttime_Smartphone_Reflective_Flare_Removal_Using_Optical_Center_Symmetry_Prior_CVPR_2023_paper.pdf)  
+   Link: <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Dai_Nighttime_Smartphone_Reflective_Flare_Removal_Using_Optical_Center_Symmetry_Prior_CVPR_2023_paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://openaccess.thecvf.com/content/CVPR2023/papers/Dai_Nighttime_Smartphone_Reflective_Flare_Removal_Using_Optical_Center_Symmetry_Prior_CVPR_2023_paper.pdf</a>  
 
 38. <a id="endnote-38"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/1t780yn/from_the_newly_released_videos_wtf_are_we_even/](https://www.reddit.com/r/aliens/comments/1t780yn/from_the_newly_released_videos_wtf_are_we_even/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/1t780yn/from_the_newly_released_videos_wtf_are_we_even/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1t780yn/from_the_newly_released_videos_wtf_are_we_even/</a>  
 
 39. <a id="endnote-39"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/niz2mq/has_mick_west_addressed_how_his_hypothesis_on_the/](https://www.reddit.com/r/UFOs/comments/niz2mq/has_mick_west_addressed_how_his_hypothesis_on_the/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/niz2mq/has_mick_west_addressed_how_his_hypothesis_on_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/niz2mq/has_mick_west_addressed_how_his_hypothesis_on_the/</a>  
 
 40. <a id="endnote-40"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DV62t5XjCzo/](https://www.instagram.com/p/DV62t5XjCzo/)  
+   Link: <a href="https://www.instagram.com/p/DV62t5XjCzo/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DV62t5XjCzo/</a>  
 
 41. <a id="endnote-41"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/mildlyinteresting/comments/1hfnemk/my_phones_lens_flare_somehow_captured_the/](https://www.reddit.com/r/mildlyinteresting/comments/1hfnemk/my_phones_lens_flare_somehow_captured_the/)  
+   Link: <a href="https://www.reddit.com/r/mildlyinteresting/comments/1hfnemk/my_phones_lens_flare_somehow_captured_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/mildlyinteresting/comments/1hfnemk/my_phones_lens_flare_somehow_captured_the/</a>  
 
 42. <a id="endnote-42"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/AstroAlexandraOfficial/posts/nasa-uap-ufo-report-released-today-offers-a-few-answers-but-doesnt-find-or-rule-/319484690604324/](https://www.facebook.com/AstroAlexandraOfficial/posts/nasa-uap-ufo-report-released-today-offers-a-few-answers-but-doesnt-find-or-rule-/319484690604324/)  
+   Link: <a href="https://www.facebook.com/AstroAlexandraOfficial/posts/nasa-uap-ufo-report-released-today-offers-a-few-answers-but-doesnt-find-or-rule-/319484690604324/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AstroAlexandraOfficial/posts/nasa-uap-ufo-report-released-today-offers-a-few-answers-but-doesnt-find-or-rule-/319484690604324/</a>  
 
 43. <a id="endnote-43"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40omarvferro/nasa-ufo-releases-the-2-most-convising-images-if-youre-a-skeptic-who-still-has-eyes-67cefa567525](https://medium.com/%40omarvferro/nasa-ufo-releases-the-2-most-convising-images-if-youre-a-skeptic-who-still-has-eyes-67cefa567525)  
+   Link: <a href="https://medium.com/%40omarvferro/nasa-ufo-releases-the-2-most-convising-images-if-youre-a-skeptic-who-still-has-eyes-67cefa567525" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40omarvferro/nasa-ufo-releases-the-2-most-convising-images-if-youre-a-skeptic-who-still-has-eyes-67cefa567525</a>

@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_nimitz_tic_tac_evide_a02edb
 - ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_time_direction_ufo_r_74a6dc
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - strong-cases
 - lakenheath
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - strong-cases
 - lakenheath
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: The Lakenheath-Bentwaters incident shows why radar-visual UFO cases can be unusually interesting while still vulnerable to propagation and interpretation
 hero_summary: The Lakenheath-Bentwaters incident shows why radar-visual UFO cases can be unusually interesting while still vulnerable to propagation and interpretation
 layout: default
 permalink: /lakenheath/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /strong-cases/
 nav_short_title: Lakenheath
 title: The Radar Visual Case That Would Not Settle
-title_full: The Radar Visual Case That Would Not Settle | Strong Cases
+title_full: The Radar Visual Case That Would Not Settle
 display_title_short: Lakenheath
 display_title: Lakenheath
 heading_title: The Radar Visual Case That Would Not Settle
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What Makes a UFO Report Harder to Explain | IFOs
+parent_title: What Makes a UFO Report Harder to Explain
 parent_permalink: /strong-cases/
 parent_nav_short_title: Strong Cases
 parent_heading_title: What Makes a UFO Report Harder to Explain
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d
-  title: Strong Cases | Ifos Causes Of
+  title: Strong Cases | ifos causes of UFO 3 ed 238
   permalink: /strong-cases/
   short_title: Strong Cases
   heading_title: What Makes a UFO Report Harder to Explain
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d
-  title: Strong Cases | Ifos Causes Of
+  title: Strong Cases | ifos causes of UFO 3 ed 238
   permalink: /strong-cases/
   short_title: Strong Cases
   heading_title: What Makes a UFO Report Harder to Explain
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: The Details That Make UFO Reports Testable
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d
-  title: Strong Cases | Ifos Causes Of
+  title: Strong Cases | ifos causes of UFO 3 ed 238
   permalink: /strong-cases/
   short_title: Strong Cases
   heading_title: What Makes a UFO Report Harder to Explain
@@ -265,7 +265,7 @@ next_link:
   permalink: /multi-sensor/
   short_title: Multi sensor
   heading_title: When Do Multiple UFO Records Really Agree?
-date: '2026-06-07 06:42:55 '
+date: '2026-06-12 00:53:01 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_lakenheath_radar_vis_3b9296-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_lakenheath_radar_vis_3b9296-Illustration-1.webp
@@ -275,7 +275,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_la
 ## Introduction
 
 Among the UFO reports that survive initial screening for aircraft, planets, balloons and obvious observational mistakes, the 1956 Lakenheath-Bentwaters incident remains one of the most discussed. Its importance is not that it proves anything extraordinary. Rather, it illustrates a central problem in UFO research: cases become more compelling when [radar]({{ 'radar/' | relative_url }}) and visual observations appear to support one another, yet those same cases can be extraordinarily difficult to interpret correctly.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_lakenheath_radar_vis_3b9296-Illustration-1-dark.svg" | relative_url }}" alt="Lakenheath illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_lakenheath_radar_vis_3b9296-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_lakenheath_radar_vis_3b9296-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 On the night of 13–14 August 1956, personnel at RAF Bentwaters and RAF Lakenheath in eastern England reported unusual radar contacts, visual observations of lights, and attempted fighter interceptions. Because multiple observers and multiple radar systems were involved, the case has often been treated as a benchmark “radar-visual” event. At the same time, competing explanations involving radar propagation effects, meteor observations, aircraft activity and reconstruction errors have prevented any lasting consensus. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Lakenheath-Bentwaters_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lakenheath-Bentwaters incident</span><span class="citation-popover-snippet">Lakenheath-Bentwaters incident</span></span></span>
@@ -293,9 +292,6 @@ Yet the very structure that makes radar-visual cases attractive also creates a m
 ## Competing Explanations for the 1956 Incident
 
 The case unfolded in several stages rather than as a single event. Early radar contacts were detected at Bentwaters, including targets reportedly moving at unusual speeds and groups of returns that appeared to merge or change behaviour. Later, personnel at Lakenheath reported visual lights and additional radar contacts. Fighter aircraft were then vectored toward one of the targets. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://it.wikipedia.org/wiki/Incidente_di_Lakenheath-Bentwaters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Incidente di Lakenheath Bentwaters</span><span class="citation-popover-snippet">Incidente di Lakenheath-BentwatersPer incidente di Lakenheath-Bentwaters si intende una serie di presunti avvistamenti visuali e radar...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kWxvCEyIjro" title="Lakenheath/ Bentwaters UFO Incident 1956 - Dr. David Clarke" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kWxvCEyIjro" target="_blank" rel="noopener noreferrer">Lakenheath/ Bentwaters UFO Incident 1956 - Dr. David Clarke</a></p><p class="youtube-embed-meta">Channel: Disclosure Team with Vinnie Adams &middot; Views: 7.9K &middot; Uploaded: November 2024 &middot; Length: 1 hour 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kWxvCEyIjro" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kWxvCEyIjro">Open on YouTube</a></p></div></div></div>
 
 ### The Argument for an Unusual Unknown
 
@@ -315,7 +311,6 @@ Critics of the extraordinary interpretation argue that at least some of the Bent
 
 The difficulty is that the available records do not permit a definitive reconstruction of the radar environment. Some analysts have argued that the reported radar behaviour was too coherent to be explained solely by AP, while others regard atmospheric effects as the most economical explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case02.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">NCAS FilesCondon Report, Case 2: USAF/RAF Radar SightingAt least one UFO was tracked by air traffic control radar (GCA) at two USAF-RAF s...</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_lakenheath_radar_vis_3b9296-Illustration-2-dark.svg" | relative_url }}" alt="Lakenheath illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_lakenheath_radar_vis_3b9296-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_lakenheath_radar_vis_3b9296-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Meteors, Planets and Human Interpretation
 
@@ -327,9 +322,6 @@ Mars was also visible and was reportedly considered a possible explanation for a
 
 The result is a classic interpretive problem: the visual observations may not all refer to the same thing, and some may have been entirely unrelated to the radar contacts.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NTLSQCF6ohQ" title="Unidentified: Naval Pilot&#x27;s Shocking UFO Encounter (Season 1) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NTLSQCF6ohQ" target="_blank" rel="noopener noreferrer">Unidentified: Naval Pilot&#x27;s Shocking UFO Encounter (Season 1) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NTLSQCF6ohQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NTLSQCF6ohQ">Open on YouTube</a></p></div></div></div>
-
 ## Why the Fighter Interception Remains Controversial
 
 The most famous element of the story concerns an RAF Venom night fighter.
@@ -340,16 +332,15 @@ However, later interviews revealed less agreement than many summaries suggest. S
 
 This does not necessarily invalidate the event. Instead, it demonstrates how narratives can evolve as fragments from different witnesses are assembled into a single story.
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kWxvCEyIjro" title="Lakenheath/ Bentwaters UFO Incident 1956 - Dr. David Clarke" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kWxvCEyIjro" target="_blank" rel="noopener noreferrer">Lakenheath/ Bentwaters UFO Incident 1956 - Dr. David Clarke</a></p><p class="youtube-embed-meta">Channel: Disclosure Team with Vinnie Adams &middot; Views: 7.9K &middot; Uploaded: November 2024 &middot; Length: 1 hour 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kWxvCEyIjro" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kWxvCEyIjro">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_lakenheath_radar_vis_3b9296-Illustration-3-dark.svg" | relative_url }}" alt="Lakenheath illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_lakenheath_radar_vis_3b9296-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_lakenheath_radar_vis_3b9296-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Case Teaches About Stronger Records
 
 Lakenheath-Bentwaters remains valuable precisely because it sits in the uncomfortable middle ground between weak and decisive evidence.
 
-The case is stronger than a simple eyewitness story. Multiple military personnel were involved. Radar data played a central role. Contemporary documentation exists. Several independent investigations considered the incident significant enough to analyse in detail. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case02.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">NCAS FilesCondon Report, Case 2: USAF/RAF Radar SightingAt least one UFO was tracked by air traffic control radar (GCA) at two USAF-RAF s...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010010-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">cia rdp81r00560r000100010010 0</span><span class="citation-popover-snippet">CIAUFO ENCOUNTER II, SAMPLE CASE SELECTED BY THE...... BENTWATERS-LAKENHEATH URE/UFO CONTACTS August 13-14, 1956. 1... Lakenheath UFO...</span></span></span>
+The case is stronger than a simple eyewitness story. Multiple military personnel were involved. Radar data played a central role. Contemporary documentation exists. Several independent investigations considered the incident significant enough to analyse in detail. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case02.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">NCAS FilesCondon Report, Case 2: USAF/RAF Radar SightingAt least one UFO was tracked by air traffic control radar (GCA) at two USAF-RAF s...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010010-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">cia rdp81r00560r000100010010 0</span><span class="citation-popover-snippet">UFO ENCOUNTER II, SAMPLE CASE SELECTED BY THE...... BENTWATERS-LAKENHEATH URE/UFO CONTACTS August 13-14, 1956. 1... Lakenheath UFO...</span></span></span>
 
 At the same time, it demonstrates why even strong UFO records often resist firm conclusions:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -361,11 +352,9 @@ At the same time, it demonstrates why even strong UFO records often resist firm 
 
 </div>
 
-The broader lesson for understanding [stronger UFO reports]({{ 'strong-cases/' | relative_url }}) after IFO screening is that surviving scrutiny does not automatically mean a case points to an extraordinary cause. A report can remain unidentified because it contains genuinely anomalous elements, because the available evidence is incomplete, or because several ordinary events became intertwined in a confusing sequence. Lakenheath-Bentwaters endures as a classic example of that dilemma: a radar-visual case impressive enough to resist easy dismissal, yet ambiguous enough to resist definitive explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case02.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">NCAS FilesCondon Report, Case 2: USAF/RAF Radar SightingAt least one UFO was tracked by air traffic control radar (GCA) at two USAF-RAF s...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case02.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">NCAS FilesCondon Report, Case 2: USAF/RAF Radar SightingAt least one UFO was tracked by air traffic control radar (GCA) at two USAF-RAF s...</span></span></span>
+The broader lesson for understanding stronger UFO reports after IFO screening is that surviving scrutiny does not automatically mean a case points to an extraordinary cause. A report can remain unidentified because it contains genuinely anomalous elements, because the available evidence is incomplete, or because several ordinary events became intertwined in a confusing sequence. Lakenheath-Bentwaters endures as a classic example of that dilemma: a radar-visual case impressive enough to resist easy dismissal, yet ambiguous enough to resist definitive explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case02.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">NCAS FilesCondon Report, Case 2: USAF/RAF Radar SightingAt least one UFO was tracked by air traffic control radar (GCA) at two USAF-RAF s...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case02.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">NCAS FilesCondon Report, Case 2: USAF/RAF Radar SightingAt least one UFO was tracked by air traffic control radar (GCA) at two USAF-RAF s...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CHPS8f8ixg0" title="The Lakenheath-Bentwaters UFO incident | Alien Encounter | Mystery Naama" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CHPS8f8ixg0" target="_blank" rel="noopener noreferrer">The Lakenheath-Bentwaters UFO incident | Alien Encounter | Mystery Naama</a></p><p class="youtube-embed-meta">Channel: Mystery Naama</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CHPS8f8ixg0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CHPS8f8ixg0">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_lakenheath_radar_vis_3b9296-Illustration-3-dark.svg" | relative_url }}" alt="Lakenheath illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_lakenheath_radar_vis_3b9296-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_lakenheath_radar_vis_3b9296-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -484,15 +473,15 @@ The broader lesson for understanding [stronger UFO reports]({{ 'strong-cases/' |
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+detector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lakenheath-the-radar-visual-case-that-would-not-settle-ifos-causes-of-radar-detector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar detector" data-ebay-reference="lakenheath-the-radar-visual-case-that-would-not-settle-ifos-causes-of-radar-detector" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cobra RAD 700i Laser Radar Detector Premium Detection, AutoLearn, Front/Rear"><img src="{{ '/assets/images/marketplace-covers/2e174c7d622d8e0b0c67.jpg' | relative_url }}" alt="Listing image for Cobra RAD 700i Laser Radar Detector Premium Detection, AutoLearn, Front/Rear" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-radar-visual-case-that-would-not-settle-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="the-radar-visual-case-that-would-not-settle-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for J10 J15 J30 J31 Su35 Su57 F16 F18 F35 B2A SR71 Alloy Fighter Jet Model Decor"><img src="https://i.ebayimg.com/images/g/f5sAAeSwCgdpAEvP/s-l225.jpg" alt="Listing image for J10 J15 J30 J31 Su35 Su57 F16 F18 F35 B2A SR71 Alloy Fighter Jet Model Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+detector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lakenheath-the-radar-visual-case-that-would-not-settle-ifos-causes-of-radar-detector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar detector" data-ebay-reference="lakenheath-the-radar-visual-case-that-would-not-settle-ifos-causes-of-radar-detector" target="_blank" rel="sponsored noopener noreferrer">Cobra RAD 700i Laser Radar Detector Premium Detection, AutoLearn, Front/Rear</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-radar-visual-case-that-would-not-settle-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="the-radar-visual-case-that-would-not-settle-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">J10 J15 J30 J31 Su35 Su57 F16 F18 F35 B2A SR71 Alloy Fighter Jet Model Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+detector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lakenheath-the-radar-visual-case-that-would-not-settle-ifos-causes-of-radar-detector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar detector" data-ebay-reference="lakenheath-the-radar-visual-case-that-would-not-settle-ifos-causes-of-radar-detector" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar detector">Search <span data-ebay-domain-label>eBay.co.uk</span>: radar detector</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-radar-visual-case-that-would-not-settle-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="the-radar-visual-case-that-would-not-settle-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search <span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+detector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lakenheath-the-radar-visual-case-that-would-not-settle-ifos-causes-of-radar-detector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar detector" data-ebay-reference="lakenheath-the-radar-visual-case-that-would-not-settle-ifos-causes-of-radar-detector" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-radar-visual-case-that-would-not-settle-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="the-radar-visual-case-that-would-not-settle-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -500,15 +489,15 @@ The broader lesson for understanding [stronger UFO reports]({{ 'strong-cases/' |
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+detector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lakenheath-the-radar-visual-case-that-would-not-settle-ifos-causes-of-radar-detector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar detector" data-ebay-reference="lakenheath-the-radar-visual-case-that-would-not-settle-ifos-causes-of-radar-detector" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Police Safe Detector Voice Alert Speed 16 Band V7 GPS New Laser 360°. Car Radar"><img src="{{ '/assets/images/marketplace-covers/f8ac5ad4ab75edacbff6.jpg' | relative_url }}" alt="Listing image for Police Safe Detector Voice Alert Speed 16 Band V7 GPS New Laser 360°. Car Radar" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-radar-visual-case-that-would-not-settle-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="the-radar-visual-case-that-would-not-settle-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for United States Navy Blue Angels F/A-18 Hornet Fighter Jet Die Cast Model Toy"><img src="https://i.ebayimg.com/images/g/n00AAeSwgG1pD-xP/s-l225.jpg" alt="Listing image for United States Navy Blue Angels F/A-18 Hornet Fighter Jet Die Cast Model Toy" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+detector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lakenheath-the-radar-visual-case-that-would-not-settle-ifos-causes-of-radar-detector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar detector" data-ebay-reference="lakenheath-the-radar-visual-case-that-would-not-settle-ifos-causes-of-radar-detector" target="_blank" rel="sponsored noopener noreferrer">Police Safe Detector Voice Alert Speed 16 Band V7 GPS New Laser 360°. Car Radar</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-radar-visual-case-that-would-not-settle-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="the-radar-visual-case-that-would-not-settle-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">United States Navy Blue Angels F/A-18 Hornet Fighter Jet Die Cast Model Toy</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+detector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lakenheath-the-radar-visual-case-that-would-not-settle-ifos-causes-of-radar-detector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar detector" data-ebay-reference="lakenheath-the-radar-visual-case-that-would-not-settle-ifos-causes-of-radar-detector" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar detector">Search <span data-ebay-domain-label>eBay.co.uk</span>: radar detector</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-radar-visual-case-that-would-not-settle-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="the-radar-visual-case-that-would-not-settle-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search <span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+detector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lakenheath-the-radar-visual-case-that-would-not-settle-ifos-causes-of-radar-detector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar detector" data-ebay-reference="lakenheath-the-radar-visual-case-that-would-not-settle-ifos-causes-of-radar-detector" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-radar-visual-case-that-would-not-settle-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="the-radar-visual-case-that-would-not-settle-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -516,15 +505,15 @@ The broader lesson for understanding [stronger UFO reports]({{ 'strong-cases/' |
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+detector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lakenheath-the-radar-visual-case-that-would-not-settle-ifos-causes-of-radar-detector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar detector" data-ebay-reference="lakenheath-the-radar-visual-case-that-would-not-settle-ifos-causes-of-radar-detector" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Car Radar GPS Speed For 16 Band V7 360°Police Safe Detector Voice Alert Laser"><img src="{{ '/assets/images/marketplace-covers/bf62518bc3e3ac5c1bb3.jpg' | relative_url }}" alt="Listing image for Car Radar GPS Speed For 16 Band V7 360°Police Safe Detector Voice Alert Laser" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-radar-visual-case-that-would-not-settle-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="the-radar-visual-case-that-would-not-settle-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/144 J-36 6th Generation Fighter Jet Stealth Aircraft China PLAA Diecast Model"><img src="https://i.ebayimg.com/images/g/phsAAeSwvlJpnuVO/s-l225.jpg" alt="Listing image for 1/144 J-36 6th Generation Fighter Jet Stealth Aircraft China PLAA Diecast Model" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+detector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lakenheath-the-radar-visual-case-that-would-not-settle-ifos-causes-of-radar-detector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar detector" data-ebay-reference="lakenheath-the-radar-visual-case-that-would-not-settle-ifos-causes-of-radar-detector" target="_blank" rel="sponsored noopener noreferrer">Car Radar GPS Speed For 16 Band V7 360°Police Safe Detector Voice Alert Laser</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-radar-visual-case-that-would-not-settle-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="the-radar-visual-case-that-would-not-settle-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">1/144 J-36 6th Generation Fighter Jet Stealth Aircraft China PLAA Diecast Model</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+detector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lakenheath-the-radar-visual-case-that-would-not-settle-ifos-causes-of-radar-detector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar detector" data-ebay-reference="lakenheath-the-radar-visual-case-that-would-not-settle-ifos-causes-of-radar-detector" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar detector">Search <span data-ebay-domain-label>eBay.co.uk</span>: radar detector</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-radar-visual-case-that-would-not-settle-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="the-radar-visual-case-that-would-not-settle-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search <span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+detector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lakenheath-the-radar-visual-case-that-would-not-settle-ifos-causes-of-radar-detector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar detector" data-ebay-reference="lakenheath-the-radar-visual-case-that-would-not-settle-ifos-causes-of-radar-detector" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-radar-visual-case-that-would-not-settle-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="the-radar-visual-case-that-would-not-settle-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -532,15 +521,15 @@ The broader lesson for understanding [stronger UFO reports]({{ 'strong-cases/' |
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+detector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lakenheath-the-radar-visual-case-that-would-not-settle-ifos-causes-of-radar-detector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar detector" data-ebay-reference="lakenheath-the-radar-visual-case-that-would-not-settle-ifos-causes-of-radar-detector" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for New Car Radar 16 Band V7 GPS Speed Police Safe Detector Voice Alert Laser 360°"><img src="{{ '/assets/images/marketplace-covers/538ed25d630ee79068b7.jpg' | relative_url }}" alt="Listing image for New Car Radar 16 Band V7 GPS Speed Police Safe Detector Voice Alert Laser 360°" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-radar-visual-case-that-would-not-settle-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="the-radar-visual-case-that-would-not-settle-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/72 Mig 21 Diecast Aircraft Model Camouflage Alloy Fighter Jet with Stand"><img src="https://i.ebayimg.com/images/g/nAsAAeSwEY9o1RrQ/s-l225.jpg" alt="Listing image for 1/72 Mig 21 Diecast Aircraft Model Camouflage Alloy Fighter Jet with Stand" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+detector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lakenheath-the-radar-visual-case-that-would-not-settle-ifos-causes-of-radar-detector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar detector" data-ebay-reference="lakenheath-the-radar-visual-case-that-would-not-settle-ifos-causes-of-radar-detector" target="_blank" rel="sponsored noopener noreferrer">New Car Radar 16 Band V7 GPS Speed Police Safe Detector Voice Alert Laser 360°</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-radar-visual-case-that-would-not-settle-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="the-radar-visual-case-that-would-not-settle-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">1/72 Mig 21 Diecast Aircraft Model Camouflage Alloy Fighter Jet with Stand</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+detector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lakenheath-the-radar-visual-case-that-would-not-settle-ifos-causes-of-radar-detector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar detector" data-ebay-reference="lakenheath-the-radar-visual-case-that-would-not-settle-ifos-causes-of-radar-detector" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar detector">Search <span data-ebay-domain-label>eBay.co.uk</span>: radar detector</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-radar-visual-case-that-would-not-settle-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="the-radar-visual-case-that-would-not-settle-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search <span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+detector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lakenheath-the-radar-visual-case-that-would-not-settle-ifos-causes-of-radar-detector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar detector" data-ebay-reference="lakenheath-the-radar-visual-case-that-would-not-settle-ifos-causes-of-radar-detector" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-radar-visual-case-that-would-not-settle-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="the-radar-visual-case-that-would-not-settle-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -548,7 +537,7 @@ The broader lesson for understanding [stronger UFO reports]({{ 'strong-cases/' |
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+detector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lakenheath-the-radar-visual-case-that-would-not-settle-ifos-causes-of-radar-detector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar detector" data-ebay-reference="lakenheath-the-radar-visual-case-that-would-not-settle-ifos-causes-of-radar-detector" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-radar-visual-case-that-would-not-settle-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="the-radar-visual-case-that-would-not-settle-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -764,111 +753,111 @@ The broader lesson for understanding [stronger UFO reports]({{ 'strong-cases/' |
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Lakenheath-Bentwaters incident  
-   Link: [https://en.wikipedia.org/wiki/Lakenheath-Bentwaters_incident](https://en.wikipedia.org/wiki/Lakenheath-Bentwaters_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Lakenheath-Bentwaters_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lakenheath-Bentwaters_incident</a>  
 
 2. <a id="endnote-2"></a>
    Source: files.ncas.org  
-   Link: [https://files.ncas.org/condon/text/case02.htm](https://files.ncas.org/condon/text/case02.htm)  
+   Link: <a href="https://files.ncas.org/condon/text/case02.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/case02.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NCAS FilesCondon Report, Case 2: USAF/RAF Radar SightingAt least one UFO was tracked by air traffic control radar (GCA) at two USAF-RAF s...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: files.ncas.org  
-   Link: [https://files.ncas.org/condon/text/s3chap05.htm](https://files.ncas.org/condon/text/s3chap05.htm)  
+   Link: <a href="https://files.ncas.org/condon/text/s3chap05.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/s3chap05.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anomalous Propagation (AP) effects are probably responsible for a large number of UFO reports in cases involving radar and visual...Read...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Condon_Committee](https://en.wikipedia.org/wiki/Condon_Committee)  
+   Link: <a href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Condon_Committee</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Condon Committee... visual and radar images. One treated the observations of U.S. astronauts. Notably in Case 2 in Section IV, Chapter...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: cia.gov  
    Title: cia rdp81r00560r000100010010 0  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010010-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010010-0)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CIAUFO ENCOUNTER II, SAMPLE CASE SELECTED BY THE...... BENTWATERS-LAKENHEATH URE/UFO CONTACTS August 13-14, 1956. 1... Lakenheath UFO...</p></details>
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010010-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010010-0</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO ENCOUNTER II, SAMPLE CASE SELECTED BY THE...... BENTWATERS-LAKENHEATH URE/UFO CONTACTS August 13-14, 1956. 1... Lakenheath UFO...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: cia.gov  
    Title: CIA RDP81R00560R000100010010 0  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010010-0.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010010-0.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010010-0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010010-0.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>1970, pages 9-17... the Bentwaters-Lakenheath UFO incident represents one of the most significant radar-visual UFO cases.Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Incidente di Lakenheath Bentwaters  
-   Link: [https://it.wikipedia.org/wiki/Incidente_di_Lakenheath-Bentwaters](https://it.wikipedia.org/wiki/Incidente_di_Lakenheath-Bentwaters)  
+   Link: <a href="https://it.wikipedia.org/wiki/Incidente_di_Lakenheath-Bentwaters" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Incidente_di_Lakenheath-Bentwaters</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Incidente di Lakenheath-BentwatersPer incidente di Lakenheath-Bentwaters si intende una serie di presunti avvistamenti visuali e radar...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: UFO sightings in the United Kingdom  
-   Link: [https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom](https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in the United KingdomThis is a list of notable alleged sightings of unidentified flying objects (UFOs) in the United Kin...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: RAF Bentwaters  
-   Link: [https://en.wikipedia.org/wiki/RAF_Bentwaters](https://en.wikipedia.org/wiki/RAF_Bentwaters)  
+   Link: <a href="https://en.wikipedia.org/wiki/RAF_Bentwaters" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Bentwaters</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>RAF BentwatersRAF Bentwaters was the location of an 13–14 August 1956 nighttime radar and visual sighting of multiple UFOs (the Lakenh...</p></details>
    Published: August 1956  
 
 10. <a id="endnote-10"></a>
    Source: silviolobo.com.br  
    Title: Lakenheath-Bentwaters Incident  
-   Link: [https://silviolobo.com.br/leitura/en/mysteries-xv/lakenheath-bentwaters-incident](https://silviolobo.com.br/leitura/en/mysteries-xv/lakenheath-bentwaters-incident)  
+   Link: <a href="https://silviolobo.com.br/leitura/en/mysteries-xv/lakenheath-bentwaters-incident" target="_blank" rel="noopener noreferrer nofollow">https://silviolobo.com.br/leitura/en/mysteries-xv/lakenheath-bentwaters-incident</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sílvio de Souza Lôbo JúniorRadar and military personnel at UK bases tracked multiple anomalous objects that demonstrated impossible speed...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: martinshough.com  
-   Link: [https://martinshough.com/aerialphenomena/Lakenheath/background.htm](https://martinshough.com/aerialphenomena/Lakenheath/background.htm)  
+   Link: <a href="https://martinshough.com/aerialphenomena/Lakenheath/background.htm" target="_blank" rel="noopener noreferrer nofollow">https://martinshough.com/aerialphenomena/Lakenheath/background.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>History and backgroundIn assessing this fact an appreciation of the history of official &#x27;UFO&#x27; reporting in the UK is essential. Two impor...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/560813bentwaters_dir.htm](https://www.nicap.org/560813bentwaters_dir.htm)  
+   Link: <a href="https://www.nicap.org/560813bentwaters_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/560813bentwaters_dir.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Several Incidents of R/V at BentwatersThe Condon Report: &quot;... this is the most puzzling and unusual case in the radar-visual files. The a...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/](https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reportsEarly letters regarding UFO sightings · Correspondence on the Rendlesham Forest incident · Documents on UFO policy and communi...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: [https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf](https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf)  
+   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO FILESHe has a long-standing interest in UFOs and other aerial phenomena, and has worked with the National Archives in promoting UFO m...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/177620292284538/posts/6138284359551405/](https://www.facebook.com/groups/177620292284538/posts/6138284359551405/)  
+   Link: <a href="https://www.facebook.com/groups/177620292284538/posts/6138284359551405/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/177620292284538/posts/6138284359551405/</a>  
 
 16. <a id="endnote-16"></a>
    Source: academia.edu  
    Title: The Lakenheath England Radar Visual UFO Case August 13 14 1956 by G David Thayer  
-   Link: [https://www.academia.edu/124559762/The_Lakenheath_England_Radar_Visual_UFO_Case_August_13_14_1956_by_G_David_Thayer](https://www.academia.edu/124559762/The_Lakenheath_England_Radar_Visual_UFO_Case_August_13_14_1956_by_G_David_Thayer)  
+   Link: <a href="https://www.academia.edu/124559762/The_Lakenheath_England_Radar_Visual_UFO_Case_August_13_14_1956_by_G_David_Thayer" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/124559762/The_Lakenheath_England_Radar_Visual_UFO_Case_August_13_14_1956_by_G_David_Thayer</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Lakenheath England, Radar-Visual UFO Case, August...case, Condon Report does contain an inde checks made to determine possible...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
    Title: bright lights over bentileea new play based on 1960s ufo sightings  
-   Link: [https://www.facebook.com/BBCStokeandStaffordshire/posts/-bright-lights-over-bentileea-new-play-based-on-1960s-ufo-sightings/1020600250069101/](https://www.facebook.com/BBCStokeandStaffordshire/posts/-bright-lights-over-bentileea-new-play-based-on-1960s-ufo-sightings/1020600250069101/)  
+   Link: <a href="https://www.facebook.com/BBCStokeandStaffordshire/posts/-bright-lights-over-bentileea-new-play-based-on-1960s-ufo-sightings/1020600250069101/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCStokeandStaffordshire/posts/-bright-lights-over-bentileea-new-play-based-on-1960s-ufo-sightings/1020600250069101/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Bright Lights Over Bentilee&#x27; A new play based on 1960&#x27;s UFO...In 1961, Betty and Barney Hill&#x27;s alleged alien abduction became one of th...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: discoveryuk.com  
    Title: watching the skies the most bizarre uk ufo sightings ever reported  
-   Link: [https://www.discoveryuk.com/mysteries/watching-the-skies-the-most-bizarre-uk-ufo-sightings-ever-reported/](https://www.discoveryuk.com/mysteries/watching-the-skies-the-most-bizarre-uk-ufo-sightings-ever-reported/)  
+   Link: <a href="https://www.discoveryuk.com/mysteries/watching-the-skies-the-most-bizarre-uk-ufo-sightings-ever-reported/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/watching-the-skies-the-most-bizarre-uk-ufo-sightings-ever-reported/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Watching the Skies: The Most Bizarre UK UFO Sightings...8 Oct 2025 — The staff at RAF Bentwaters alerted their counterparts at RAF Laken...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: theguardian.com  
    Title: the rendlesham forest mystery its the perfect storm of a ufo case  
-   Link: [https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case](https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case)  
+   Link: <a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest mystery: &#x27;It&#x27;s the perfect storm of a...30 Apr 2026 — Delivery charges may apply. Explore more on these topics. UF...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: spyscape.com  
-   Link: [https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings](https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings)  
+   Link: <a href="https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings" target="_blank" rel="noopener noreferrer nofollow">https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>rop circles or sightings that began in 1992 when a motorist reported a craft...Read more...</p></details>

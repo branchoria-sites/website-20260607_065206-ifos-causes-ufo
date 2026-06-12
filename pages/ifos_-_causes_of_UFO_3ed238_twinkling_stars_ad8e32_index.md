@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ifos-causes-of-ufo-3ed238-twinkling/
 description: Focused pages that expand on Stars.
-date: '2026-06-07'
+date: '2026-06-12'
 layout: default
 parent_basename: ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32
-parent_title: Stars | Ifos Causes Of
+parent_title: Stars
 parent_nav_short_title: Stars
 parent_permalink: /stars/
 ---

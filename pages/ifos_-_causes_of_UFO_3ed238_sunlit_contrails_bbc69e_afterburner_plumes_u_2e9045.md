@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_missile_launch_contr_3a26cf
 - ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_twilight_fireball_co_d82707
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - contrails
 - afterburners
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - contrails
 - afterburners
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: At night or twilight, a military jet's afterburner can make the exhaust plume more visible than the aircraft itself.
 hero_summary: At night or twilight, a military jet's afterburner can make the exhaust plume more visible than the aircraft itself.
 layout: default
 permalink: /afterburners/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /contrails/
 nav_short_title: Afterburners
 title: When Jet Exhaust Becomes the Bright Object
-title_full: When Jet Exhaust Becomes the Bright Object | Contrails
+title_full: When Jet Exhaust Becomes the Bright Object
 display_title_short: Afterburners
 display_title: Afterburners
 heading_title: When Jet Exhaust Becomes the Bright Object
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 21:42:52'
-parent_title: Why Jet Trails Glow Like UFOs | IFOs
+parent_title: Why Jet Trails Glow Like UFOs
 parent_permalink: /contrails/
 parent_nav_short_title: Contrails
 parent_heading_title: Why Jet Trails Glow Like UFOs
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e
-  title: Contrails | Ifos Causes Of
+  title: Contrails | ifos causes of UFO 3 ed 238
   permalink: /contrails/
   short_title: Contrails
   heading_title: Why Jet Trails Glow Like UFOs
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e
-  title: Contrails | Ifos Causes Of
+  title: Contrails | ifos causes of UFO 3 ed 238
   permalink: /contrails/
   short_title: Contrails
   heading_title: Why Jet Trails Glow Like UFOs
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: When a Jet Trail Looks Like a Missile
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e
-  title: Contrails | Ifos Causes Of
+  title: Contrails | ifos causes of UFO 3 ed 238
   permalink: /contrails/
   short_title: Contrails
   heading_title: Why Jet Trails Glow Like UFOs
@@ -260,6 +259,7 @@ next_link:
   permalink: /broken-trails/
   short_title: Broken trails
   heading_title: When Contrails Look Like Structured UFOs
+date: '2026-06-12 00:38:44 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_afterburner_plumes_u_2e9045-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_afterburner_plumes_u_2e9045-Illustration-1.webp
@@ -270,16 +270,14 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_afterb
 
 Not every aircraft-related UFO report involves a sunlit contrail. Some sightings are dominated by the aircraft’s own exhaust. At night, during twilight, or against a dark background, a military jet using afterburners can produce a glowing plume so bright that observers see the exhaust clearly while the aircraft itself is nearly invisible. The result can resemble a luminous orb, a fiery cylinder, a rocket-like object, or an apparently self-luminous craft moving through the sky.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_afterburner_plumes_u_2e9045-Illustration-1-dark.svg" | relative_url }}" alt="Afterburners illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_afterburner_plumes_u_2e9045-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_afterburner_plumes_u_2e9045-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This effect is especially important in UFO reporting because witnesses often assume the brightest visible feature must be the object itself. In reality, the most conspicuous part may be a rapidly burning exhaust stream extending behind a much darker aircraft. Understanding how afterburners work helps explain why some dramatic sightings involve conventional military aviation rather than unknown craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Afterburner" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 ## How Afterburners Produce Visible Glowing Exhaust
 
-An afterburner is an additional combustion system fitted to many high-performance military aircraft. Instead of relying solely on the engine’s main combustion chamber, extra fuel is injected into the hot exhaust stream behind the turbine and ignited. This dramatically increases thrust, often by tens of percent, but also creates an intensely hot and highly visible exhaust plume. <span class="citation-chip-wrap"><a class="citation-chip" href="https://migflug.com/jetflights/afterburners-the-controlled-explosion-behind-every-fighter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: migflug.com">[MiGFlug Under daylight conditions]</a><span class="citation-popover" role="note"><span class="citation-popover-source">migflug.com</span><span class="citation-popover-snippet">MiGFlugAfterburners: The Controlled Explosion Behind Every Fighter4 Apr 2026 — It&#x27;s what happens when you dump raw jet fuel into a 1,500...</span></span></span>, observers usually notice the aircraft first. At night or in deep twilight, the visual balance can reverse. The fuselage may be little more than a silhouette, while the exhaust appears as a brilliant flame extending from the rear of the aircraft. Depending on viewing angle, distance, atmospheric haze, and camera exposure, the glowing plume may look detached from any recognisable aeroplane. <span class="citation-chip-wrap"><a class="citation-chip" href="https://migflug.com/jetflights/afterburners-the-controlled-explosion-behind-every-fighter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: migflug.com">[MiGFlug]</a><span class="citation-popover" role="note"><span class="citation-popover-source">migflug.com</span><span class="citation-popover-snippet">MiGFlugAfterburners: The Controlled Explosion Behind Every Fighter4 Apr 2026 — It&#x27;s what happens when you dump raw jet fuel into a 1,500...</span></span></span>
+An afterburner is an additional combustion system fitted to many high-performance military aircraft. Instead of relying solely on the engine’s main combustion chamber, extra fuel is injected into the hot exhaust stream behind the turbine and ignited. This dramatically increases thrust, often by tens of percent, but also creates an intensely hot and highly visible exhaust plume. <span class="citation-chip-wrap"><a class="citation-chip" href="https://migflug.com/jetflights/afterburners-the-controlled-explosion-behind-every-fighter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: migflug.com">[MiGFlug Under daylight conditions]</a><span class="citation-popover" role="note"><span class="citation-popover-source">migflug.com</span><span class="citation-popover-snippet">Afterburners: The Controlled Explosion Behind Every Fighter4 Apr 2026 — It&#x27;s what happens when you dump raw jet fuel into a 1,500...</span></span></span>, observers usually notice the aircraft first. At night or in deep twilight, the visual balance can reverse. The fuselage may be little more than a silhouette, while the exhaust appears as a brilliant flame extending from the rear of the aircraft. Depending on viewing angle, distance, atmospheric haze, and camera exposure, the glowing plume may look detached from any recognisable aeroplane. <span class="citation-chip-wrap"><a class="citation-chip" href="https://migflug.com/jetflights/afterburners-the-controlled-explosion-behind-every-fighter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: migflug.com">[MiGFlug]</a><span class="citation-popover" role="note"><span class="citation-popover-source">migflug.com</span><span class="citation-popover-snippet">Afterburners: The Controlled Explosion Behind Every Fighter4 Apr 2026 — It&#x27;s what happens when you dump raw jet fuel into a 1,500...</span></span></span>
 
 Several factors make the exhaust especially conspicuous:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -292,9 +290,6 @@ Several factors make the exhaust especially conspicuous:
 
 From many kilometres away, a witness may perceive only a bright moving light with no obvious aircraft structure attached.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/g3awv7eeubA" title="How an AFTERBURNER works - Explained by CAPTAIN JOE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=g3awv7eeubA" target="_blank" rel="noopener noreferrer">How an AFTERBURNER works - Explained by CAPTAIN JOE</a></p><p class="youtube-embed-meta">Channel: Captain Joe &middot; Views: 104.9K &middot; Uploaded: March 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=g3awv7eeubA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=g3awv7eeubA">Open on YouTube</a></p></div></div></div>
-
 ## Why Mach Diamonds Can Look Artificial in Twilight
 
 One of the most striking visual features associated with afterburners is the appearance of shock diamonds, also known as Mach diamonds or thrust diamonds. These are repeating bright patterns that form in a supersonic exhaust plume as the escaping gases repeatedly compress and expand while adjusting to ambient atmospheric pressure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shock_diamond" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shock diamond</span><span class="citation-popover-snippet">Shock diamond</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Space_jellyfish" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Space jellyfish</span><span class="citation-popover-snippet">Space jellyfish</span></span></span>
@@ -304,7 +299,6 @@ To an engineer, these patterns are a normal consequence of high-speed gas dynami
 ### The Pattern Looks Structured Rather Than Natural
 
 Mach diamonds create a sequence of bright zones separated by darker gaps. Seen from a distance, these can resemble:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -317,13 +311,12 @@ Mach diamonds create a sequence of bright zones separated by darker gaps. Seen f
 
 Because the pattern is regular and symmetrical, witnesses sometimes interpret it as evidence of a structured vehicle rather than an exhaust phenomenon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/posts/lt-col-sunil-kumar-9b754517_shockdiamonds-machdiamonds-jetengines-activity-7315325683252043776-TQEa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[LinkedIn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">The Science of Shock Diamonds in Fighter JetsThe diamond patterns form due to fluid dynamics as the gas adjusts to ambient pressure. Perf...</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_afterburner_plumes_u_2e9045-Illustration-2-dark.svg" | relative_url }}" alt="Afterburners illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_afterburner_plumes_u_2e9045-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_afterburner_plumes_u_2e9045-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Twilight Enhances the Illusion
 
 Twilight conditions are particularly deceptive. The sky may be dark enough to conceal the aircraft while still providing enough contrast for the hot exhaust plume to stand out vividly. Under those conditions, the diamonds can appear suspended in space with no visible source.
 
-Photographs from military aviation and aerospace programmes frequently show bright afterburner plumes with clearly visible diamond patterns extending behind otherwise dark aircraft. NASA imagery of the X-59, for example, highlights the striking visibility of these shock structures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/NASAaero/posts/look-at-that-glow-check-out-the-powerful-afterburner-exhaust-coming-from-the-tai/1039704841534662/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">NASA Aeronautics</span><span class="citation-popover-snippet">FacebookNASA Aeronautics - FacebookLook at that glow 💎🔥 Check out the powerful afterburner exhaust coming from the tail of NASA&#x27;s superso...</span></span></span>
+Photographs from military aviation and aerospace programmes frequently show bright afterburner plumes with clearly visible diamond patterns extending behind otherwise dark aircraft. NASA imagery of the X-59, for example, highlights the striking visibility of these shock structures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/NASAaero/posts/look-at-that-glow-check-out-the-powerful-afterburner-exhaust-coming-from-the-tai/1039704841534662/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">NASA Aeronautics</span><span class="citation-popover-snippet">NASA Aeronautics - FacebookLook at that glow 💎🔥 Check out the powerful afterburner exhaust coming from the tail of NASA&#x27;s superso...</span></span></span>
 
 ## Why Witnesses Often Misjudge What They Are Seeing
 
@@ -335,8 +328,7 @@ Camera technology can amplify the confusion. Digital zoom, low-light noise reduc
 
 This is one reason why some photographs and videos show apparently mysterious lights that seem larger and more structured than they appear to the naked eye.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/a1fiT1TIEuA" title="Discover the Science of Shock Diamond Patterns" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=a1fiT1TIEuA" target="_blank" rel="noopener noreferrer">Discover the Science of Shock Diamond Patterns</a></p><p class="youtube-embed-meta">Channel: AirPra</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=a1fiT1TIEuA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=a1fiT1TIEuA">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/g3awv7eeubA" title="How an AFTERBURNER works - Explained by CAPTAIN JOE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=g3awv7eeubA" target="_blank" rel="noopener noreferrer">How an AFTERBURNER works - Explained by CAPTAIN JOE</a></p><p class="youtube-embed-meta">Channel: Captain Joe &middot; Views: 104.9K &middot; Uploaded: March 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=g3awv7eeubA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=g3awv7eeubA">Open on YouTube</a></p></div></div></div>
 
 ## How Afterburner Sightings Differ From Sunlit Contrails
 
@@ -344,14 +336,12 @@ Although both phenomena can generate UFO reports, they arise from different mech
 
 A sunlit contrail is primarily an illuminated cloud of ice crystals produced from aircraft exhaust in cold upper air. The dramatic appearance comes from sunlight striking the trail while observers on the ground are in shadow. The brightness is largely reflected sunlight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Afterburner" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
-An afterburner plume, by contrast, is a combustion phenomenon. The glow originates from extremely hot gases and ongoing fuel burning within the exhaust stream itself. The effect does not require the special lighting geometry that makes [contrails]({{ 'contrails/' | relative_url }}) appear luminous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://migflug.com/jetflights/afterburners-the-controlled-explosion-behind-every-fighter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: migflug.com">[MiGFlug Useful distinctions include:]</a><span class="citation-popover" role="note"><span class="citation-popover-source">migflug.com</span><span class="citation-popover-snippet">MiGFlugAfterburners: The Controlled Explosion Behind Every Fighter4 Apr 2026 — It&#x27;s what happens when you dump raw jet fuel into a 1,500...</span></span></span>
+An afterburner plume, by contrast, is a combustion phenomenon. The glow originates from extremely hot gases and ongoing fuel burning within the exhaust stream itself. The effect does not require the special lighting geometry that makes [contrails]({{ 'contrails/' | relative_url }}) appear luminous. MiGFlug Useful distinctions include: <span class="citation-chip-wrap"><a class="citation-chip" href="https://migflug.com/jetflights/afterburners-the-controlled-explosion-behind-every-fighter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: migflug.com">[migflug.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">migflug.com</span><span class="citation-popover-snippet">Afterburners: The Controlled Explosion Behind Every Fighter4 Apr 2026 — It&#x27;s what happens when you dump raw jet fuel into a 1,500...</span></span></span>
 
 FeatureSunlit ContrailAfterburner PlumeMain source of visibilityReflected sunlight from ice crystalsHot, glowing exhaust gasesTypical aircraftAirliners and military aircraft at altitudePrimarily military high-performance jetsAppearanceCloud-like trail, often white, orange, or redBright flame-like exhaust, sometimes blue, orange, or violetStructured patternsUsually diffuseMay show Mach diamondsRequires low-sun geometryOften yesNo, though darkness increases visibility
 
 In practice, witnesses sometimes report a glowing object with a trailing cloud. In such cases both mechanisms may contribute, with a visible afterburner feeding into a developing exhaust trail.
 
-
-<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_afterburner_plumes_u_2e9045-Illustration-3-dark.svg" | relative_url }}" alt="Afterburners illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_afterburner_plumes_u_2e9045-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_afterburner_plumes_u_2e9045-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why This Mechanism Matters in UFO Investigations
 
 Afterburner sightings occupy a useful middle ground between ordinary aircraft observations and more unusual aerial reports. They demonstrate how a familiar object can become visually unfamiliar when the most visible part is not the aircraft itself.
@@ -360,9 +350,7 @@ The combination of intense brightness, structured shock-diamond patterns, unusua
 
 For investigators examining UFO reports, recognising the visual signature of afterburner exhaust is important because it explains a category of sightings that are not contrails, [meteors]({{ 'meteors/' | relative_url }}), rockets, or exotic craft. In these cases, the mystery often arises from a simple reversal of expectations: the jet is present, but the exhaust is what dominates the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nationalinterest.org/blog/buzz/why-do-fighter-jets-get-shock-diamonds-hk-041326" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalinterest.org">[The National Interest]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalinterest.org</span><span class="citation-popover-title">why do fighter jets get shock diamonds hk 041326</span><span class="citation-popover-snippet">“Afterburning” takes place when fuel is injected directly into the engine&#x27;s exhaust stream...Read more...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/L24Wf0VlTE0" title="How Jet Engines Work" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=L24Wf0VlTE0" target="_blank" rel="noopener noreferrer">How Jet Engines Work</a></p><p class="youtube-embed-meta">Channel: Animagraffs</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=L24Wf0VlTE0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=L24Wf0VlTE0">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_afterburner_plumes_u_2e9045-Illustration-3-dark.svg" | relative_url }}" alt="Afterburners illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_afterburner_plumes_u_2e9045-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e_afterburner_plumes_u_2e9045-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -481,15 +469,15 @@ For investigators examining UFO reports, recognising the visual signature of aft
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afterburners-when-jet-exhaust-becomes-the-bright-object-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="afterburners-when-jet-exhaust-becomes-the-bright-object-ifos-causes-of-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:72 Scale F-14 Tomcat Fighter Jet Model Aircraft Detailed Design with stand"><img src="{{ '/assets/images/marketplace-covers/d26c6f404c1c432747a9.jpg' | relative_url }}" alt="Listing image for 1:72 Scale F-14 Tomcat Fighter Jet Model Aircraft Detailed Design with stand" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jet-exhaust-becomes-the-bright-object-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="when-jet-exhaust-becomes-the-bright-object-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Del Prado Diecast Model Aircraft Russian MiG Jet Fighters X2"><img src="https://i.ebayimg.com/images/g/lZYAAeSwFNtqKoX9/s-l225.jpg" alt="Listing image for Del Prado Diecast Model Aircraft Russian MiG Jet Fighters X2" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afterburners-when-jet-exhaust-becomes-the-bright-object-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="afterburners-when-jet-exhaust-becomes-the-bright-object-ifos-causes-of-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">1:72 Scale F-14 Tomcat Fighter Jet Model Aircraft Detailed Design with stand</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jet-exhaust-becomes-the-bright-object-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="when-jet-exhaust-becomes-the-bright-object-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">Del Prado Diecast Model Aircraft Russian MiG Jet Fighters X2</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afterburners-when-jet-exhaust-becomes-the-bright-object-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="afterburners-when-jet-exhaust-becomes-the-bright-object-ifos-causes-of-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search <span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jet-exhaust-becomes-the-bright-object-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="when-jet-exhaust-becomes-the-bright-object-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search <span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afterburners-when-jet-exhaust-becomes-the-bright-object-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="afterburners-when-jet-exhaust-becomes-the-bright-object-ifos-causes-of-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jet-exhaust-becomes-the-bright-object-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="when-jet-exhaust-becomes-the-bright-object-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -497,15 +485,15 @@ For investigators examining UFO reports, recognising the visual signature of aft
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afterburners-when-jet-exhaust-becomes-the-bright-object-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="afterburners-when-jet-exhaust-becomes-the-bright-object-ifos-causes-of-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:72 F/A-18F Super Hornet Fighter Jet Aircraft Model USAF VFA-103 Jolly Roger"><img src="{{ '/assets/images/marketplace-covers/ee4657dd148b01c30206.jpg' | relative_url }}" alt="Listing image for 1:72 F/A-18F Super Hornet Fighter Jet Aircraft Model USAF VFA-103 Jolly Roger" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jet-exhaust-becomes-the-bright-object-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="when-jet-exhaust-becomes-the-bright-object-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/100 Scale A-10 Thunderbolt II Warthog Diecast Metal Fighter Jet Model"><img src="https://i.ebayimg.com/images/g/qjAAAOSwmXpoTA~u/s-l225.jpg" alt="Listing image for 1/100 Scale A-10 Thunderbolt II Warthog Diecast Metal Fighter Jet Model" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afterburners-when-jet-exhaust-becomes-the-bright-object-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="afterburners-when-jet-exhaust-becomes-the-bright-object-ifos-causes-of-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">1:72 F/A-18F Super Hornet Fighter Jet Aircraft Model USAF VFA-103 Jolly Roger</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jet-exhaust-becomes-the-bright-object-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="when-jet-exhaust-becomes-the-bright-object-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">1/100 Scale A-10 Thunderbolt II Warthog Diecast Metal Fighter Jet Model</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afterburners-when-jet-exhaust-becomes-the-bright-object-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="afterburners-when-jet-exhaust-becomes-the-bright-object-ifos-causes-of-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search <span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jet-exhaust-becomes-the-bright-object-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="when-jet-exhaust-becomes-the-bright-object-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search <span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afterburners-when-jet-exhaust-becomes-the-bright-object-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="afterburners-when-jet-exhaust-becomes-the-bright-object-ifos-causes-of-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jet-exhaust-becomes-the-bright-object-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="when-jet-exhaust-becomes-the-bright-object-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -513,15 +501,15 @@ For investigators examining UFO reports, recognising the visual signature of aft
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afterburners-when-jet-exhaust-becomes-the-bright-object-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="afterburners-when-jet-exhaust-becomes-the-bright-object-ifos-causes-of-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/100 Scale A-10 Thunderbolt II Warthog Diecast Metal Fighter Jet Model"><img src="{{ '/assets/images/marketplace-covers/9abce767e13e82bc0d13.jpg' | relative_url }}" alt="Listing image for 1/100 Scale A-10 Thunderbolt II Warthog Diecast Metal Fighter Jet Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jet-exhaust-becomes-the-bright-object-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="when-jet-exhaust-becomes-the-bright-object-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:72 French Fighter Jet Model Airplane Toy for Office Shelf Livingroom"><img src="https://i.ebayimg.com/images/g/NncAAeSw7z5ppdGO/s-l225.jpg" alt="Listing image for 1:72 French Fighter Jet Model Airplane Toy for Office Shelf Livingroom" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afterburners-when-jet-exhaust-becomes-the-bright-object-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="afterburners-when-jet-exhaust-becomes-the-bright-object-ifos-causes-of-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">1/100 Scale A-10 Thunderbolt II Warthog Diecast Metal Fighter Jet Model</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jet-exhaust-becomes-the-bright-object-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="when-jet-exhaust-becomes-the-bright-object-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">1:72 French Fighter Jet Model Airplane Toy for Office Shelf Livingroom</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afterburners-when-jet-exhaust-becomes-the-bright-object-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="afterburners-when-jet-exhaust-becomes-the-bright-object-ifos-causes-of-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search <span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jet-exhaust-becomes-the-bright-object-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="when-jet-exhaust-becomes-the-bright-object-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search <span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afterburners-when-jet-exhaust-becomes-the-bright-object-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="afterburners-when-jet-exhaust-becomes-the-bright-object-ifos-causes-of-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jet-exhaust-becomes-the-bright-object-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="when-jet-exhaust-becomes-the-bright-object-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -529,15 +517,15 @@ For investigators examining UFO reports, recognising the visual signature of aft
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afterburners-when-jet-exhaust-becomes-the-bright-object-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="afterburners-when-jet-exhaust-becomes-the-bright-object-ifos-causes-of-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:100 F-14 VF-84 Tomcat Jolly Rogers Fighter Jet Aircraft Diecast Model US Navy"><img src="{{ '/assets/images/marketplace-covers/6a1f107505f4e8ba24cf.jpg' | relative_url }}" alt="Listing image for 1:100 F-14 VF-84 Tomcat Jolly Rogers Fighter Jet Aircraft Diecast Model US Navy" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jet-exhaust-becomes-the-bright-object-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="when-jet-exhaust-becomes-the-bright-object-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:100 US Navy F/A-18 Diecast Model Jet - Alloy Fighter with Stand"><img src="https://i.ebayimg.com/images/g/1wkAAeSweJZoaoKZ/s-l225.jpg" alt="Listing image for 1:100 US Navy F/A-18 Diecast Model Jet - Alloy Fighter with Stand" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afterburners-when-jet-exhaust-becomes-the-bright-object-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="afterburners-when-jet-exhaust-becomes-the-bright-object-ifos-causes-of-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">1:100 F-14 VF-84 Tomcat Jolly Rogers Fighter Jet Aircraft Diecast Model US Navy</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jet-exhaust-becomes-the-bright-object-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="when-jet-exhaust-becomes-the-bright-object-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">1:100 US Navy F/A-18 Diecast Model Jet - Alloy Fighter with Stand</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afterburners-when-jet-exhaust-becomes-the-bright-object-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="afterburners-when-jet-exhaust-becomes-the-bright-object-ifos-causes-of-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search <span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jet-exhaust-becomes-the-bright-object-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="when-jet-exhaust-becomes-the-bright-object-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search <span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afterburners-when-jet-exhaust-becomes-the-bright-object-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="afterburners-when-jet-exhaust-becomes-the-bright-object-ifos-causes-of-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jet-exhaust-becomes-the-bright-object-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="when-jet-exhaust-becomes-the-bright-object-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -545,7 +533,7 @@ For investigators examining UFO reports, recognising the visual signature of aft
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=afterburners-when-jet-exhaust-becomes-the-bright-object-ifos-causes-of-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="afterburners-when-jet-exhaust-becomes-the-bright-object-ifos-causes-of-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jet-exhaust-becomes-the-bright-object-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="when-jet-exhaust-becomes-the-bright-object-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -760,53 +748,53 @@ For investigators examining UFO reports, recognising the visual signature of aft
 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Afterburner](https://en.wikipedia.org/wiki/Afterburner)  
+   Link: <a href="https://en.wikipedia.org/wiki/Afterburner" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Afterburner</a>  
 
 2. <a id="endnote-2"></a>
    Source: migflug.com  
-   Link: [https://migflug.com/jetflights/afterburners-the-controlled-explosion-behind-every-fighter/](https://migflug.com/jetflights/afterburners-the-controlled-explosion-behind-every-fighter/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MiGFlugAfterburners: The Controlled Explosion Behind Every Fighter4 Apr 2026 — It&#x27;s what happens when you dump raw jet fuel into a 1,500...</p></details>
+   Link: <a href="https://migflug.com/jetflights/afterburners-the-controlled-explosion-behind-every-fighter/" target="_blank" rel="noopener noreferrer nofollow">https://migflug.com/jetflights/afterburners-the-controlled-explosion-behind-every-fighter/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Afterburners: The Controlled Explosion Behind Every Fighter4 Apr 2026 — It&#x27;s what happens when you dump raw jet fuel into a 1,500...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Shock diamond  
-   Link: [https://en.wikipedia.org/wiki/Shock_diamond](https://en.wikipedia.org/wiki/Shock_diamond)  
+   Link: <a href="https://en.wikipedia.org/wiki/Shock_diamond" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Shock_diamond</a>  
 
 4. <a id="endnote-4"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/lt-col-sunil-kumar-9b754517_shockdiamonds-machdiamonds-jetengines-activity-7315325683252043776-TQEa](https://www.linkedin.com/posts/lt-col-sunil-kumar-9b754517_shockdiamonds-machdiamonds-jetengines-activity-7315325683252043776-TQEa)  
+   Link: <a href="https://www.linkedin.com/posts/lt-col-sunil-kumar-9b754517_shockdiamonds-machdiamonds-jetengines-activity-7315325683252043776-TQEa" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/lt-col-sunil-kumar-9b754517_shockdiamonds-machdiamonds-jetengines-activity-7315325683252043776-TQEa</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of Shock Diamonds in Fighter JetsThe diamond patterns form due to fluid dynamics as the gas adjusts to ambient pressure. Perf...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: facebook.com  
    Title: NASA Aeronautics  
-   Link: [https://www.facebook.com/NASAaero/posts/look-at-that-glow-check-out-the-powerful-afterburner-exhaust-coming-from-the-tai/1039704841534662/](https://www.facebook.com/NASAaero/posts/look-at-that-glow-check-out-the-powerful-afterburner-exhaust-coming-from-the-tai/1039704841534662/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookNASA Aeronautics - FacebookLook at that glow 💎🔥 Check out the powerful afterburner exhaust coming from the tail of NASA&#x27;s superso...</p></details>
+   Link: <a href="https://www.facebook.com/NASAaero/posts/look-at-that-glow-check-out-the-powerful-afterburner-exhaust-coming-from-the-tai/1039704841534662/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NASAaero/posts/look-at-that-glow-check-out-the-powerful-afterburner-exhaust-coming-from-the-tai/1039704841534662/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Aeronautics - FacebookLook at that glow 💎🔥 Check out the powerful afterburner exhaust coming from the tail of NASA&#x27;s superso...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: facebook.com  
    Title: shining bright like a diamond nasas x 59 lights up the night sky with its unique  
-   Link: [https://www.facebook.com/nasaarmstrong/posts/shining-bright-like-a-diamond-nasas-x-59-lights-up-the-night-sky-with-its-unique/1026071666220692/](https://www.facebook.com/nasaarmstrong/posts/shining-bright-like-a-diamond-nasas-x-59-lights-up-the-night-sky-with-its-unique/1026071666220692/)  
+   Link: <a href="https://www.facebook.com/nasaarmstrong/posts/shining-bright-like-a-diamond-nasas-x-59-lights-up-the-night-sky-with-its-unique/1026071666220692/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nasaarmstrong/posts/shining-bright-like-a-diamond-nasas-x-59-lights-up-the-night-sky-with-its-unique/1026071666220692/</a>  
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Space jellyfish  
-   Link: [https://en.wikipedia.org/wiki/Space_jellyfish](https://en.wikipedia.org/wiki/Space_jellyfish)  
+   Link: <a href="https://en.wikipedia.org/wiki/Space_jellyfish" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Space_jellyfish</a>  
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Twilight_phenomenon](https://en.wikipedia.org/wiki/Twilight_phenomenon)  
+   Link: <a href="https://en.wikipedia.org/wiki/Twilight_phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Twilight_phenomenon</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Twilight phenomenonTwilight phenomenon is produced when exhaust particles from missile or rocket propellant left in the vapor trail of...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/LindaSheffieldMiller/posts/shock-diamondsthe-pattern-of-evenly-spaced-rings-sometimes-visible-in-the-exhaus/2516131525188010/](https://www.facebook.com/LindaSheffieldMiller/posts/shock-diamondsthe-pattern-of-evenly-spaced-rings-sometimes-visible-in-the-exhaus/2516131525188010/)  
+   Link: <a href="https://www.facebook.com/LindaSheffieldMiller/posts/shock-diamondsthe-pattern-of-evenly-spaced-rings-sometimes-visible-in-the-exhaus/2516131525188010/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LindaSheffieldMiller/posts/shock-diamondsthe-pattern-of-evenly-spaced-rings-sometimes-visible-in-the-exhaus/2516131525188010/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>st of an engine is typically referred to as shock diamonds or Mach...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: nationalinterest.org  
    Title: why do fighter jets get shock diamonds hk 041326  
-   Link: [https://nationalinterest.org/blog/buzz/why-do-fighter-jets-get-shock-diamonds-hk-041326](https://nationalinterest.org/blog/buzz/why-do-fighter-jets-get-shock-diamonds-hk-041326)  
+   Link: <a href="https://nationalinterest.org/blog/buzz/why-do-fighter-jets-get-shock-diamonds-hk-041326" target="_blank" rel="noopener noreferrer nofollow">https://nationalinterest.org/blog/buzz/why-do-fighter-jets-get-shock-diamonds-hk-041326</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>“Afterburning” takes place when fuel is injected directly into the engine&#x27;s exhaust stream...Read more...</p></details>
 
 ### Additional References
@@ -814,55 +802,55 @@ For investigators examining UFO reports, recognising the visual signature of aft
 11. <a id="endnote-11"></a>
    Source: universemagazine.com  
    Title: known flying objects sky phenomena we often mistake for ufos  
-   Link: [https://universemagazine.com/en/known-flying-objects-sky-phenomena-we-often-mistake-for-ufos/?srsltid=AfmBOorNFNr9zm0isJnP0Ke6DGmRSrLvzNLX4Mii8RhAP-g1c8BHOXI3](https://universemagazine.com/en/known-flying-objects-sky-phenomena-we-often-mistake-for-ufos/?srsltid=AfmBOorNFNr9zm0isJnP0Ke6DGmRSrLvzNLX4Mii8RhAP-g1c8BHOXI3)  
+   Link: <a href="https://universemagazine.com/en/known-flying-objects-sky-phenomena-we-often-mistake-for-ufos/?srsltid=AfmBOorNFNr9zm0isJnP0Ke6DGmRSrLvzNLX4Mii8RhAP-g1c8BHOXI3" target="_blank" rel="noopener noreferrer nofollow">https://universemagazine.com/en/known-flying-objects-sky-phenomena-we-often-mistake-for-ufos/?srsltid=AfmBOorNFNr9zm0isJnP0Ke6DGmRSrLvzNLX4Mii8RhAP-g1c8BHOXI3</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Known Flying Objects: Sky Phenomena We Often Mistake...12 Oct 2024 — In this article, we delve into the subject of UFOs, particularly th...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/C_PaOeCp1ex/?hl=en](https://www.instagram.com/reel/C_PaOeCp1ex/?hl=en)  
+   Link: <a href="https://www.instagram.com/reel/C_PaOeCp1ex/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/C_PaOeCp1ex/?hl=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>shockwaves that occur in the supersonic exhaust plume of a jet engine or rocket...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DX7yyicEXNv/?img_index=13](https://www.instagram.com/p/DX7yyicEXNv/?img_index=13)  
+   Link: <a href="https://www.instagram.com/p/DX7yyicEXNv/?img_index=13" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DX7yyicEXNv/?img_index=13</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>hile generating violent supersonic pressure waves known as shock...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: instagram.com  
    Title: The F/A-18 Hornet doesn't just take off it erupts  
-   Link: [https://www.instagram.com/reel/DY0wBD0scxz/](https://www.instagram.com/reel/DY0wBD0scxz/)  
+   Link: <a href="https://www.instagram.com/reel/DY0wBD0scxz/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DY0wBD0scxz/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Twin...A night launch amplifies everything the exhaust plume glowing in the dark, the vibration felt in your chest from miles away. It&#x27;s...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/164uga8/i_pilot_came_head_on_with_an_object_glowing_green/](https://www.reddit.com/r/UFOs/comments/164uga8/i_pilot_came_head_on_with_an_object_glowing_green/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/164uga8/i_pilot_came_head_on_with_an_object_glowing_green/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/164uga8/i_pilot_came_head_on_with_an_object_glowing_green/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Posting Guidelines for Sightings.Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: robedgcumbe.com  
    Title: shock diamonds and the f 22  
-   Link: [https://robedgcumbe.com/shock-diamonds-and-the-f-22/](https://robedgcumbe.com/shock-diamonds-and-the-f-22/)  
+   Link: <a href="https://robedgcumbe.com/shock-diamonds-and-the-f-22/" target="_blank" rel="noopener noreferrer nofollow">https://robedgcumbe.com/shock-diamonds-and-the-f-22/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Shock Diamonds and the F-229 Dec 2020 — These diamond patterns are a function of the flow being symmetrical since most engines have round...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: How an AFTERBURNER works  
-   Link: [https://www.youtube.com/watch?v=g3awv7eeubA](https://www.youtube.com/watch?v=g3awv7eeubA)  
+   Link: <a href="https://www.youtube.com/watch?v=g3awv7eeubA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=g3awv7eeubA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Explained by CAPTAIN JOEHow a TURBOJET Engine works - Explained by CAPTAIN JOE. Captain Joe &amp;middot; 166K views; WHAT ELSE CAN A JET ENG...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: skyatnightmagazine.com  
    Title: things mistaken for ufos  
-   Link: [https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos](https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos)  
+   Link: <a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Have you just seen a strange, spiral-shaped glowing cloud in the night sky?Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: aviation.stackexchange.com  
    Title: why do western fighters afterburner glow is reddish orange while eastern bloc f  
-   Link: [https://aviation.stackexchange.com/questions/59227/why-do-western-fighters-afterburner-glow-is-reddish-orange-while-eastern-bloc-f](https://aviation.stackexchange.com/questions/59227/why-do-western-fighters-afterburner-glow-is-reddish-orange-while-eastern-bloc-f)  
+   Link: <a href="https://aviation.stackexchange.com/questions/59227/why-do-western-fighters-afterburner-glow-is-reddish-orange-while-eastern-bloc-f" target="_blank" rel="noopener noreferrer nofollow">https://aviation.stackexchange.com/questions/59227/why-do-western-fighters-afterburner-glow-is-reddish-orange-while-eastern-bloc-f</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I&#x27;m not sure of...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/shorts/wo88FlfHw4E](https://www.youtube.com/shorts/wo88FlfHw4E)  
+   Link: <a href="https://www.youtube.com/shorts/wo88FlfHw4E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/wo88FlfHw4E</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>supersonic exhaust plume of a...</p></details>

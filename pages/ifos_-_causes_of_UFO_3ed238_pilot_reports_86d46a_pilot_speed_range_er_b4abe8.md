@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a_pilot_ufo_safety_rep_11933c
 - ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a_pilot_ufo_sensor_lim_b35ec4
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - pilots
 - speed-errors
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - pilots
 - speed-errors
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: A pilot can see an object honestly and still overestimate its speed when distance, wind and observer motion are unknown.
 hero_summary: A pilot can see an object honestly and still overestimate its speed when distance, wind and observer motion are unknown.
 layout: default
 permalink: /speed-errors/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /pilots/
 nav_short_title: Speed Errors
 title: Why UFOs Look Faster Than They Are
-title_full: Why UFOs Look Faster Than They Are | Pilots
+title_full: Why UFOs Look Faster Than They Are
 display_title_short: Speed Errors
 display_title: Speed Errors
 heading_title: Why UFOs Look Faster Than They Are
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-07 00:25:37'
-parent_title: Why Pilots Can Misidentify UFOs | IFOs
+parent_title: Why Pilots Can Misidentify UFOs
 parent_permalink: /pilots/
 parent_nav_short_title: Pilots
 parent_heading_title: Why Pilots Can Misidentify UFOs
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a
-  title: Pilots | Ifos Causes Of
+  title: Pilots | ifos causes of UFO 3 ed 238
   permalink: /pilots/
   short_title: Pilots
   heading_title: Why Pilots Can Misidentify UFOs
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a
-  title: Pilots | Ifos Causes Of
+  title: Pilots | ifos causes of UFO 3 ed 238
   permalink: /pilots/
   short_title: Pilots
   heading_title: Why Pilots Can Misidentify UFOs
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: When Better Sensors Still Leave Doubt
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a
-  title: Pilots | Ifos Causes Of
+  title: Pilots | ifos causes of UFO 3 ed 238
   permalink: /pilots/
   short_title: Pilots
   heading_title: Why Pilots Can Misidentify UFOs
@@ -260,6 +259,7 @@ prev_link:
   permalink: /sensor-limits/
   short_title: Sensor Limits
   heading_title: When Better Sensors Still Leave Doubt
+date: '2026-06-12 00:22:56 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a_pilot_speed_range_er_b4abe8-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a_pilot_speed_range_er_b4abe8-Illustration-1.webp
@@ -268,12 +268,10 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a_pilot_spe
 
 ## Introduction
 
-Many dramatic UFO reports begin with an honest observation: a pilot sees a small object or light that appears to be racing across the sky. The key problem is that speed cannot be judged accurately from appearance alone. To know how fast something is moving, an observer needs to know its distance, or [range]({{ 'range/' | relative_url }}). Without range information, a slow object far away can appear extraordinarily fast, especially when viewed from a fast-moving aircraft. Studies of visual perception show that people infer speed partly from how quickly an image moves across their field of view, but that judgement depends heavily on knowing distance. When distance is uncertain, speed estimates can be badly distorted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/19146869/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedObservers cannot accurately estimate the speed of an...To recognize that the objects&#x27; approach speed is the same despite the diffe...</span></span></span>
-
+Many dramatic UFO reports begin with an honest observation: a pilot sees a small object or light that appears to be racing across the sky. The key problem is that speed cannot be judged accurately from appearance alone. To know how fast something is moving, an observer needs to know its distance, or [range]({{ 'range/' | relative_url }}). Without range information, a slow object far away can appear extraordinarily fast, especially when viewed from a fast-moving aircraft. Studies of visual perception show that people infer speed partly from how quickly an image moves across their field of view, but that judgement depends heavily on knowing distance. When distance is uncertain, speed estimates can be badly distorted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/19146869/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Observers cannot accurately estimate the speed of an...To recognize that the objects&#x27; approach speed is the same despite the diffe...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a_pilot_speed_range_er_b4abe8-Illustration-1-dark.svg" | relative_url }}" alt="Speed Errors illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a_pilot_speed_range_er_b4abe8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a_pilot_speed_range_er_b4abe8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This is one of the most important limits of pilot testimony in UFO cases. A pilot may accurately report what was seen, yet still overestimate the object's speed because the geometry of the encounter is unknown. Modern analyses of several famous UAP cases have repeatedly found that apparent extreme speed can arise from ordinary objects combined with range uncertainty, observer motion and parallax. [[AARO]({{ 'aaro/' | relative_url }})+2AARO]
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/b9vpvnSU6E4" title="The STRANGE Airplane Parallax Effect😱!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=b9vpvnSU6E4" target="_blank" rel="noopener noreferrer">The STRANGE Airplane Parallax Effect😱!</a></p><p class="youtube-embed-meta">Channel: Exacto &middot; Views: 57.4K &middot; Uploaded: December 2024 &middot; Length: 36 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=b9vpvnSU6E4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=b9vpvnSU6E4">Open on YouTube</a></p></div></div></div>
 
@@ -281,12 +279,11 @@ This is one of the most important limits of pilot testimony in UFO cases. A pilo
 
 Human observers do not directly perceive an object's true speed. What they see is angular motion: how quickly the object appears to move across the visual field.
 
-Imagine two aircraft crossing your view at the same apparent rate. If one is 500 metres away and the other is 20 kilometres away, their actual speeds must be radically different. The eye alone cannot solve that problem unless it has reliable [distance cues]({{ 'distance-cues/' | relative_url }}). This is why aircrew, [radar]({{ 'radar/' | relative_url }}) operators and investigators place so much value on range measurements when reconstructing encounters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/19146869/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedObservers cannot accurately estimate the speed of an...To recognize that the objects&#x27; approach speed is the same despite the diffe...</span></span></span>
+Imagine two aircraft crossing your view at the same apparent rate. If one is 500 metres away and the other is 20 kilometres away, their actual speeds must be radically different. The eye alone cannot solve that problem unless it has reliable [distance cues]({{ 'distance-cues/' | relative_url }}). This is why aircrew, [radar]({{ 'radar/' | relative_url }}) operators and investigators place so much value on range measurements when reconstructing encounters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/19146869/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Observers cannot accurately estimate the speed of an...To recognize that the objects&#x27; approach speed is the same despite the diffe...</span></span></span>
 
-The difficulty becomes even greater over open ocean, cloud tops or empty sky. These environments provide few visual references. A small object can appear close when it is actually distant, or distant when it is actually close. Once the estimated distance is wrong, the inferred speed becomes wrong as well. AARO's explanation of forced perspective notes that observers can misinterpret both size and speed when range is uncertain, especially when viewing objects from far away. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROEffect of Forced Perspective and Parallax View on UAP...Under these conditions, an observer can misinterpret the apparent size and s...</span></span></span>
+The difficulty becomes even greater over open ocean, cloud tops or empty sky. These environments provide few visual references. A small object can appear close when it is actually distant, or distant when it is actually close. Once the estimated distance is wrong, the inferred speed becomes wrong as well. AARO's explanation of forced perspective notes that observers can misinterpret both size and speed when range is uncertain, especially when viewing objects from far away. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Effect of Forced Perspective and Parallax View on UAP...Under these conditions, an observer can misinterpret the apparent size and s...</span></span></span>
 
 This helps explain why witnesses can sincerely describe an object as moving at "impossible" velocity while later analysis finds a much lower speed. The witness is usually reporting the apparent motion correctly; the error lies in the inferred distance and therefore the inferred velocity.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/diPXow8zgc8" title="How scientists use math to help explain UFO videos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=diPXow8zgc8" target="_blank" rel="noopener noreferrer">How scientists use math to help explain UFO videos</a></p><p class="youtube-embed-meta">Channel: PBS NewsHour &middot; Views: 11.7K &middot; Uploaded: April 2025 &middot; Length: 3 minutes 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=diPXow8zgc8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=diPXow8zgc8">Open on YouTube</a></p></div></div></div>
 
@@ -294,12 +291,11 @@ This helps explain why witnesses can sincerely describe an object as moving at "
 
 A second source of error comes from the fact that [pilots]({{ 'pilots/' | relative_url }}) observe from moving aircraft rather than from stationary platforms.
 
-Motion parallax is the visual effect that causes nearby objects to seem to move rapidly across the background when the observer is moving. Anyone looking out of a train window sees nearby trees flash past while distant hills appear almost stationary. The same principle operates in the air. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution Card Methodology Final</span><span class="citation-popover-snippet">AAROAARO GoFast Case Resolution6 Feb 2025 — 1. AARO could not calculate a single speed or heading for the object because the aircraft&#x27;s c...</span></span></span>
+Motion parallax is the visual effect that causes nearby objects to seem to move rapidly across the background when the observer is moving. Anyone looking out of a train window sees nearby trees flash past while distant hills appear almost stationary. The same principle operates in the air. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution Card Methodology Final</span><span class="citation-popover-snippet">AARO GoFast Case Resolution6 Feb 2025 — 1. AARO could not calculate a single speed or heading for the object because the aircraft&#x27;s c...</span></span></span>
 
-From a fighter cockpit travelling hundreds of knots, even a slow-moving object can appear to streak across the landscape. The apparent motion is produced partly by the aircraft's own movement. If the observer does not know the object's exact range, it can be difficult to separate the object's true motion from the motion created by the observer's changing viewpoint. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROEffect of Forced Perspective and Parallax View on UAP...Under these conditions, an observer can misinterpret the apparent size and s...</span></span></span>
+From a fighter cockpit travelling hundreds of knots, even a slow-moving object can appear to streak across the landscape. The apparent motion is produced partly by the aircraft's own movement. If the observer does not know the object's exact range, it can be difficult to separate the object's true motion from the motion created by the observer's changing viewpoint. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Effect of Forced Perspective and Parallax View on UAP...Under these conditions, an observer can misinterpret the apparent size and s...</span></span></span>
 
 Several factors compound the effect:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -311,8 +307,7 @@ Several factors compound the effect:
 
 </div>
 
-Under those conditions, an object that is drifting slowly can appear to perform a rapid transit across the scene. AARO specifically identified parallax as a major contributor to misjudgements of apparent UAP speed in reports from fast-moving aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution Card Methodology Final</span><span class="citation-popover-snippet">AAROAARO GoFast Case Resolution6 Feb 2025 — 1. AARO could not calculate a single speed or heading for the object because the aircraft&#x27;s c...</span></span></span>
-
+Under those conditions, an object that is drifting slowly can appear to perform a rapid transit across the scene. AARO specifically identified parallax as a major contributor to misjudgements of apparent UAP speed in reports from fast-moving aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution Card Methodology Final</span><span class="citation-popover-snippet">AARO GoFast Case Resolution6 Feb 2025 — 1. AARO could not calculate a single speed or heading for the object because the aircraft&#x27;s c...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a_pilot_speed_range_er_b4abe8-Illustration-2-dark.svg" | relative_url }}" alt="Speed Errors illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a_pilot_speed_range_er_b4abe8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a_pilot_speed_range_er_b4abe8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the GoFast Case Shows
@@ -321,21 +316,19 @@ The U.S. Navy's "[GoFast]({{ 'gofast/' | relative_url }})" video has become one 
 
 When the footage was first publicised, many viewers concluded that the object was skimming just above the ocean at remarkable velocity. The impression is understandable. The target seems to race over the water while aircrew react with surprise. Yet later technical analyses reached a different conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2024/11/20/us-news/pentagon-claims-to-debunk-famous-gofast-ufo-radar-video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-title">New York Post Pentagon claims to debunk famous &#x27;GOFAST&#x27; UFO radar</span><span class="citation-popover-snippet">New York PostPentagon claims to debunk famous &#x27;GOFAST&#x27; UFO radar...November 21, 2024 — 20 Nov 2024 — The “GOFAST” video shows a radar re...</span><span class="citation-popover-meta">Published: November 21, 2024</span></span></span>
 
-NASA researchers and independent analysts showed that much of the apparent speed resulted from parallax generated by the F/A-18's own motion. The object appeared far faster than it actually was because the jet was moving rapidly while viewing a distant target against the ocean background. Metabunk <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-snippet">PBS3 ways scientists use math to help debunk UFO videos24 Apr 2025 — Semeter helped analyze one particular video called &quot;GO FAST,&quot; where...</span></span></span>
+NASA researchers and independent analysts showed that much of the apparent speed resulted from parallax generated by the F/A-18's own motion. The object appeared far faster than it actually was because the jet was moving rapidly while viewing a distant target against the ocean background. Metabunk <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-snippet">3 ways scientists use math to help debunk UFO videos24 Apr 2025 — Semeter helped analyze one particular video called &quot;GO FAST,&quot; where...</span></span></span>
 
-AARO's 2025 case-resolution analysis went further. Using the information visible on the display, analysts concluded that the object was not close to the water as many viewers assumed. Instead, it was estimated to be around 13,000 feet in altitude. AARO assessed with high confidence that the object was not travelling at anomalous speed and that its dramatic appearance was largely attributable to motion parallax. The office estimated speeds consistent with a small airborne object moving with prevailing winds rather than an extraordinary craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution Card Methodology Final</span><span class="citation-popover-snippet">AAROAARO GoFast Case Resolution6 Feb 2025 — 1. AARO could not calculate a single speed or heading for the object because the aircraft&#x27;s c...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/ufo/comments/1iooz44/pentagon_releases_aaro_report_on_go_fast_video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">” the report states. “The object&#x27;s apparent high speed is...Read more...</span></span></span>
+AARO's 2025 case-resolution analysis went further. Using the information visible on the display, analysts concluded that the object was not close to the water as many viewers assumed. Instead, it was estimated to be around 13,000 feet in altitude. AARO assessed with high confidence that the object was not travelling at anomalous speed and that its dramatic appearance was largely attributable to motion parallax. The office estimated speeds consistent with a small airborne object moving with prevailing winds rather than an extraordinary craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution Card Methodology Final</span><span class="citation-popover-snippet">AARO GoFast Case Resolution6 Feb 2025 — 1. AARO could not calculate a single speed or heading for the object because the aircraft&#x27;s c...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/ufo/comments/1iooz44/pentagon_releases_aaro_report_on_go_fast_video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">” the report states. “The object&#x27;s apparent high speed is...Read more...</span></span></span>
 
-An important lesson from the case is that even trained observers can be influenced by visual geometry. The pilots were not necessarily wrong about what they saw. The mistake was assuming that apparent motion across the image directly represented true speed. Once distance, altitude and aircraft motion were reconstructed, the extraordinary velocity largely disappeared. AARO <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-snippet">PBS3 ways scientists use math to help debunk UFO videos24 Apr 2025 — Semeter helped analyze one particular video called &quot;GO FAST,&quot; where...</span></span></span>
-
+An important lesson from the case is that even trained observers can be influenced by visual geometry. The pilots were not necessarily wrong about what they saw. The mistake was assuming that apparent motion across the image directly represented true speed. Once distance, altitude and aircraft motion were reconstructed, the extraordinary velocity largely disappeared. AARO <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-snippet">3 ways scientists use math to help debunk UFO videos24 Apr 2025 — Semeter helped analyze one particular video called &quot;GO FAST,&quot; where...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IRd1RY2PuvA" title="UFO Parallax Illusion" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IRd1RY2PuvA" target="_blank" rel="noopener noreferrer">UFO Parallax Illusion</a></p><p class="youtube-embed-meta">Channel: Mick West &middot; Views: 57.6K &middot; Uploaded: March 2018 &middot; Length: 51 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IRd1RY2PuvA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IRd1RY2PuvA">Open on YouTube</a></p></div></div></div>
 
 ## Why This Matters for Pilot UFO Reports
 
-[Pilot reports]({{ 'pilots/' | relative_url }}) remain valuable because they often provide the first indication that something unusual deserves investigation. However, speed estimates based solely on visual appearance are among the least reliable parts of an aerial sighting.
+Pilot reports remain valuable because they often provide the first indication that something unusual deserves investigation. However, speed estimates based solely on visual appearance are among the least reliable parts of an aerial sighting.
 
 Without accurate range information, a witness cannot confidently determine:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -347,8 +340,7 @@ Without accurate range information, a witness cannot confidently determine:
 
 </div>
 
-That limitation does not mean pilots are poor witnesses. It means that aerial perception is constrained by geometry. A skilled pilot can accurately describe a fast-looking object and still be mistaken about its actual velocity if range, wind and observer motion are unknown. The history of UFO investigations shows that this single mechanism—misjudging speed because distance is uncertain—can transform an ordinary airborne object into something that appears extraordinary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution Card Methodology Final</span><span class="citation-popover-snippet">AAROAARO GoFast Case Resolution6 Feb 2025 — 1. AARO could not calculate a single speed or heading for the object because the aircraft&#x27;s c...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution Card Methodology Final</span><span class="citation-popover-snippet">AAROAARO GoFast Case Resolution6 Feb 2025 — 1. AARO could not calculate a single speed or heading for the object because the aircraft&#x27;s c...</span></span></span>
-
+That limitation does not mean pilots are poor witnesses. It means that aerial perception is constrained by geometry. A skilled pilot can accurately describe a fast-looking object and still be mistaken about its actual velocity if range, wind and observer motion are unknown. The history of UFO investigations shows that this single mechanism—misjudging speed because distance is uncertain—can transform an ordinary airborne object into something that appears extraordinary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution Card Methodology Final</span><span class="citation-popover-snippet">AARO GoFast Case Resolution6 Feb 2025 — 1. AARO could not calculate a single speed or heading for the object because the aircraft&#x27;s c...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution Card Methodology Final</span><span class="citation-popover-snippet">AARO GoFast Case Resolution6 Feb 2025 — 1. AARO could not calculate a single speed or heading for the object because the aircraft&#x27;s c...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a_pilot_speed_range_er_b4abe8-Illustration-3-dark.svg" | relative_url }}" alt="Speed Errors illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a_pilot_speed_range_er_b4abe8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a_pilot_speed_range_er_b4abe8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -469,11 +461,11 @@ That limitation does not mean pilots are poor witnesses. It means that aerial pe
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufos-look-faster-than-they-are-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="why-ufos-look-faster-than-they-are-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Selection of new snap fit Airtours International model aircraft."><img src="https://i.ebayimg.com/images/g/Qd0AAeSwmhpqHJxx/s-l225.jpg" alt="Listing image for Selection of new snap fit Airtours International model aircraft." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufos-look-faster-than-they-are-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="why-ufos-look-faster-than-they-are-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for EMIRATES A380 20CM AIRBUS WHEELS METAL AIRCRAFT DIECAST PLANE MODEL GIFT 1:400"><img src="https://i.ebayimg.com/images/g/CyYAAeSwZThpmDJg/s-l225.jpg" alt="Listing image for EMIRATES A380 20CM AIRBUS WHEELS METAL AIRCRAFT DIECAST PLANE MODEL GIFT 1:400" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufos-look-faster-than-they-are-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="why-ufos-look-faster-than-they-are-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Selection of new snap fit Airtours International model aircraft.</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufos-look-faster-than-they-are-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="why-ufos-look-faster-than-they-are-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">EMIRATES A380 20CM AIRBUS WHEELS METAL AIRCRAFT DIECAST PLANE MODEL GIFT 1:400</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufos-look-faster-than-they-are-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="why-ufos-look-faster-than-they-are-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
         <div class="fr-book-actions">
@@ -485,11 +477,11 @@ That limitation does not mean pilots are poor witnesses. It means that aerial pe
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufos-look-faster-than-they-are-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="why-ufos-look-faster-than-they-are-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Harrier GR3 Pewter Jet Model Royal Hampshire 7.5&quot; In Length. Beautifully Made"><img src="https://i.ebayimg.com/images/g/C3wAAeSwhnxqIKp7/s-l225.jpg" alt="Listing image for Harrier GR3 Pewter Jet Model Royal Hampshire 7.5&quot; In Length. Beautifully Made" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufos-look-faster-than-they-are-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="why-ufos-look-faster-than-they-are-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 16cm American B777 Aircraft Model Plane 1:400 Alloy Model With Display Stand F"><img src="https://i.ebayimg.com/images/g/v9wAAOSwg7Fmxqf3/s-l225.jpg" alt="Listing image for 16cm American B777 Aircraft Model Plane 1:400 Alloy Model With Display Stand F" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufos-look-faster-than-they-are-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="why-ufos-look-faster-than-they-are-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Harrier GR3 Pewter Jet Model Royal Hampshire 7.5&quot; In Length. Beautifully Made</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufos-look-faster-than-they-are-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="why-ufos-look-faster-than-they-are-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">16cm American B777 Aircraft Model Plane 1:400 Alloy Model With Display Stand F</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufos-look-faster-than-they-are-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="why-ufos-look-faster-than-they-are-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
         <div class="fr-book-actions">
@@ -501,11 +493,27 @@ That limitation does not mean pilots are poor witnesses. It means that aerial pe
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufos-look-faster-than-they-are-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="why-ufos-look-faster-than-they-are-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for INFLIGHT 200 WIZZAIR A321 NEO REG: HA-LVE"><img src="https://i.ebayimg.com/images/g/XgsAAeSwxORqJBcc/s-l225.jpg" alt="Listing image for INFLIGHT 200 WIZZAIR A321 NEO REG: HA-LVE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufos-look-faster-than-they-are-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="why-ufos-look-faster-than-they-are-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/160 Airbus A380 Aircraft Model 50.5cm Diecast Display Plane With LED Lights"><img src="https://i.ebayimg.com/images/g/Y3oAAeSwP9hplgBk/s-l225.jpg" alt="Listing image for 1/160 Airbus A380 Aircraft Model 50.5cm Diecast Display Plane With LED Lights" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufos-look-faster-than-they-are-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="why-ufos-look-faster-than-they-are-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">INFLIGHT 200 WIZZAIR A321 NEO REG: HA-LVE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufos-look-faster-than-they-are-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="why-ufos-look-faster-than-they-are-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">1/160 Airbus A380 Aircraft Model 50.5cm Diecast Display Plane With LED Lights</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufos-look-faster-than-they-are-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="why-ufos-look-faster-than-they-are-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufos-look-faster-than-they-are-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="why-ufos-look-faster-than-they-are-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufos-look-faster-than-they-are-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="why-ufos-look-faster-than-they-are-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 16CM Concorde British Airways Metal Die Cast Plane Model Aircraft Toy Aeroplane"><img src="https://i.ebayimg.com/images/g/yS0AAeSw65JpLa~Y/s-l225.jpg" alt="Listing image for 16CM Concorde British Airways Metal Die Cast Plane Model Aircraft Toy Aeroplane" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufos-look-faster-than-they-are-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="why-ufos-look-faster-than-they-are-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">16CM Concorde British Airways Metal Die Cast Plane Model Aircraft Toy Aeroplane</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufos-look-faster-than-they-are-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="why-ufos-look-faster-than-they-are-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
         <div class="fr-book-actions">
@@ -727,80 +735,81 @@ That limitation does not mean pilots are poor witnesses. It means that aerial pe
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROEffect of Forced Perspective and Parallax View on UAP...Under these conditions, an observer can misinterpret the apparent size and s...</p></details>
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Effect of Forced Perspective and Parallax View on UAP...Under these conditions, an observer can misinterpret the apparent size and s...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: aaro.mil  
    Title: Go Fast Case Resolution Card Methodology Final  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf](https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROAARO GoFast Case Resolution6 Feb 2025 — 1. AARO could not calculate a single speed or heading for the object because the aircraft&#x27;s c...</p></details>
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO GoFast Case Resolution6 Feb 2025 — 1. AARO could not calculate a single speed or heading for the object because the aircraft&#x27;s c...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pbs.org  
-   Link: [https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos](https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PBS3 ways scientists use math to help debunk UFO videos24 Apr 2025 — Semeter helped analyze one particular video called &quot;GO FAST,&quot; where...</p></details>
+   Link: <a href="https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>3 ways scientists use math to help debunk UFO videos24 Apr 2025 — Semeter helped analyze one particular video called &quot;GO FAST,&quot; where...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ufo/comments/1iooz44/pentagon_releases_aaro_report_on_go_fast_video/](https://www.reddit.com/r/ufo/comments/1iooz44/pentagon_releases_aaro_report_on_go_fast_video/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/1iooz44/pentagon_releases_aaro_report_on_go_fast_video/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1iooz44/pentagon_releases_aaro_report_on_go_fast_video/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>” the report states. “The object&#x27;s apparent high speed is...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: metabunk.org  
    Title: nasa panel analyzes go fast.13174  
-   Link: [https://www.metabunk.org/threads/nasa-panel-analyzes-go-fast.13174/](https://www.metabunk.org/threads/nasa-panel-analyzes-go-fast.13174/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MetabunkNASA panel analyzes GO FAST19 Sept 2023 — The main point of the NASA analysis is that the GO FAST object looks fast because of pa...</p></details>
+   Link: <a href="https://www.metabunk.org/threads/nasa-panel-analyzes-go-fast.13174/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/nasa-panel-analyzes-go-fast.13174/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA panel analyzes GO FAST19 Sept 2023 — The main point of the NASA analysis is that the GO FAST object looks fast because of pa...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: metabunk.org  
-   Link: [https://www.metabunk.org/threads/f-16-pilot-chris-lehtos-interpretation-of-the-gofast-footage-focus-parallax-inaccurate-range.11789/](https://www.metabunk.org/threads/f-16-pilot-chris-lehtos-interpretation-of-the-gofast-footage-focus-parallax-inaccurate-range.11789/)  
+   Link: <a href="https://www.metabunk.org/threads/f-16-pilot-chris-lehtos-interpretation-of-the-gofast-footage-focus-parallax-inaccurate-range.11789/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/f-16-pilot-chris-lehtos-interpretation-of-the-gofast-footage-focus-parallax-inaccurate-range.11789/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>GoFast footage [Focus, Parallax, Inaccurate Range]... This guy is apparently a pilot/wso and is claiming Go Fast range display is not ac...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skeptic/comments/nzmkvc/gofast_ufo_analysis_yeah_no_probably_just_a/](https://www.reddit.com/r/skeptic/comments/nzmkvc/gofast_ufo_analysis_yeah_no_probably_just_a/)  
+   Link: <a href="https://www.reddit.com/r/skeptic/comments/nzmkvc/gofast_ufo_analysis_yeah_no_probably_just_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skeptic/comments/nzmkvc/gofast_ufo_analysis_yeah_no_probably_just_a/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>GOFAST UFO Analysis (yeah no, probably just a balloon...His speed calculations closer to sea level look wrong. And you really can&#x27;t esti...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/space/comments/13y32g1/nasa_panel_no_convincing_evidence_for/](https://www.reddit.com/r/space/comments/13y32g1/nasa_panel_no_convincing_evidence_for/)  
+   Link: <a href="https://www.reddit.com/r/space/comments/13y32g1/nasa_panel_no_convincing_evidence_for/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/13y32g1/nasa_panel_no_convincing_evidence_for/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA panel: No convincing evidence for extraterrestrial life...He described that the object&#x27;s apparent speed on the video is due to a co...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/16iix64/nasas_gofast_analysis_says_object_going_40mph/](https://www.reddit.com/r/UFOs/comments/16iix64/nasas_gofast_analysis_says_object_going_40mph/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/16iix64/nasas_gofast_analysis_says_object_going_40mph/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16iix64/nasas_gofast_analysis_says_object_going_40mph/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s GoFast Analysis says object going 40mph: r/UFOsUsing the calculated true air speed (TAS) and a bit more trigonometry, we find the...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/](https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Wind speed at that altitude was 60 knots. Object moved in a relatively straight...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Study Team ReportThe study of Unidentified Anomalous Phenomena (UAP) presents a unique scientific opportunity that demands a rigorous, ev...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — The study will focus on identifying available data, how best to collect future data, and how NASA can use that da...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/19146869/](https://pubmed.ncbi.nlm.nih.gov/19146869/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedObservers cannot accurately estimate the speed of an...To recognize that the objects&#x27; approach speed is the same despite the diffe...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/19146869/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/19146869/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Observers cannot accurately estimate the speed of an...To recognize that the objects&#x27; approach speed is the same despite the diffe...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: nypost.com  
    Title: New York Post Pentagon claims to debunk famous 'GOFAST' UFO radar  
-   Link: [https://nypost.com/2024/11/20/us-news/pentagon-claims-to-debunk-famous-gofast-ufo-radar-video/](https://nypost.com/2024/11/20/us-news/pentagon-claims-to-debunk-famous-gofast-ufo-radar-video/)  
+   Link: <a href="https://nypost.com/2024/11/20/us-news/pentagon-claims-to-debunk-famous-gofast-ufo-radar-video/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/11/20/us-news/pentagon-claims-to-debunk-famous-gofast-ufo-radar-video/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New York PostPentagon claims to debunk famous &#x27;GOFAST&#x27; UFO radar...November 21, 2024 — 20 Nov 2024 — The “GOFAST” video shows a radar re...</p></details>
    Published: November 21, 2024  
 
@@ -808,56 +817,56 @@ That limitation does not mean pilots are poor witnesses. It means that aerial pe
 
 15. <a id="endnote-15"></a>
    Source: rev.com  
-   Link: [https://www.rev.com/transcripts/nasa-holds-first-public-meeting-on-ufos-transcript](https://www.rev.com/transcripts/nasa-holds-first-public-meeting-on-ufos-transcript)  
+   Link: <a href="https://www.rev.com/transcripts/nasa-holds-first-public-meeting-on-ufos-transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/nasa-holds-first-public-meeting-on-ufos-transcript</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Holds First Public Meeting on UFOs TranscriptThe UAP independent study was commissioned to create a roadmap on how to use the tools...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=diPXow8zgc8](https://www.youtube.com/watch?v=diPXow8zgc8)  
+   Link: <a href="https://www.youtube.com/watch?v=diPXow8zgc8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=diPXow8zgc8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How scientists use math to help explain UFO videosPBS News&#x27; Casey Kuhn spoke to Semeter about how he used math to explain why one widely...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: alabia.com.br  
    Title: nasa gofast ufo analysis methodological limitations  
-   Link: [https://alabia.com.br/insights/papers/pesquisa-ciencia/nasa-gofast-ufo-analysis-methodological-limitations/](https://alabia.com.br/insights/papers/pesquisa-ciencia/nasa-gofast-ufo-analysis-methodological-limitations/)  
+   Link: <a href="https://alabia.com.br/insights/papers/pesquisa-ciencia/nasa-gofast-ufo-analysis-methodological-limitations/" target="_blank" rel="noopener noreferrer nofollow">https://alabia.com.br/insights/papers/pesquisa-ciencia/nasa-gofast-ufo-analysis-methodological-limitations/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s GoFast UFO Analysis Exposed: Methodological...1 May 2026 — This restrictive analytical approach raises critical questions about t...</p></details>
    Published: May 2026  
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/StarTalk/posts/is-motion-parallax-the-reason-many-believe-this-to-be-a-uap-turns-out-we-can-cal/1313924630366593/](https://www.facebook.com/StarTalk/posts/is-motion-parallax-the-reason-many-believe-this-to-be-a-uap-turns-out-we-can-cal/1313924630366593/)  
+   Link: <a href="https://www.facebook.com/StarTalk/posts/is-motion-parallax-the-reason-many-believe-this-to-be-a-uap-turns-out-we-can-cal/1313924630366593/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/StarTalk/posts/is-motion-parallax-the-reason-many-believe-this-to-be-a-uap-turns-out-we-can-cal/1313924630366593/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the map, then zoom in closer, and it looks like it&#x27;s moving...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: universetoday.com  
-   Link: [https://www.universetoday.com/articles/report-nasa-ufo-uap-research](https://www.universetoday.com/articles/report-nasa-ufo-uap-research)  
+   Link: <a href="https://www.universetoday.com/articles/report-nasa-ufo-uap-research" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/report-nasa-ufo-uap-research</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Universe TodayFollowing Up on Report, NASA Takes On a Bigger Role in...14 Sept 2023 — The report noted that many UAP reports turn out to...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: space.com  
    Title: "We do have some very anomalous objects," he said.Read more  
-   Link: [https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video](https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video)  
+   Link: <a href="https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO chief tells Senate &#x27;very anomalous objects&#x27;...19 Nov 2024 — Kosloski noted that his office does not believe that every UAP...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: leonarddavid.com  
    Title: debunking navy ufo videos  
-   Link: [https://www.leonarddavid.com/debunking-navy-ufo-videos/](https://www.leonarddavid.com/debunking-navy-ufo-videos/)  
+   Link: <a href="https://www.leonarddavid.com/debunking-navy-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/debunking-navy-ufo-videos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking Navy “UFO” Videos30 Apr 2020 — Lastly, the GO-FAST video probably shows a balloon, West surmises. “It&#x27;s not moving fast, it&#x27;s n...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: startalkmedia.com  
-   Link: [https://startalkmedia.com/show/the-truth-about-uaps-with-jon-kosloski/](https://startalkmedia.com/show/the-truth-about-uaps-with-jon-kosloski/)  
+   Link: <a href="https://startalkmedia.com/show/the-truth-about-uaps-with-jon-kosloski/" target="_blank" rel="noopener noreferrer nofollow">https://startalkmedia.com/show/the-truth-about-uaps-with-jon-kosloski/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth About UAPs with Jon Kosloski - StarTalk Radio5 Aug 2025 — There&#x27;s nothing, but with the parallax, we can assess that the object...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: Wikipedia  
    Title: Pentagon UFO videos  
-   Link: [https://en.wikipedia.org/wiki/Pentagon_UFO_videos](https://en.wikipedia.org/wiki/Pentagon_UFO_videos)  
+   Link: <a href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pentagon_UFO_videos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO videosThe Pentagon UFO videos are selected visual recordings of Forward-looking [infrared](&amp;#123;&amp;#123; &#x27;infrared/&#x27; | relative_url &amp;#125;&amp;#125;) (FLIR) targeting cameras from Un...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: nps.edu  
-   Link: [https://nps.edu/documents/110773463/165192597/CTX-EAG-Special-Issue-2026.pdf](https://nps.edu/documents/110773463/165192597/CTX-EAG-Special-Issue-2026.pdf)  
+   Link: <a href="https://nps.edu/documents/110773463/165192597/CTX-EAG-Special-Issue-2026.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nps.edu/documents/110773463/165192597/CTX-EAG-Special-Issue-2026.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena: Science and Analysis14 May 2026 — parent speeds from misjudging distance or camera motion and other eff...</p></details>
-   Published: May 2026  
+   Published: May 2026

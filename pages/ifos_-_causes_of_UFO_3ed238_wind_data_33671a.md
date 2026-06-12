@@ -50,22 +50,22 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13
 - ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - wind-data
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - wind-data
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Wind direction and altitude data can show whether a slow object was likely a balloon, lantern or other drifting source.
 hero_summary: Wind direction and altitude data can show whether a slow object was likely a balloon, lantern or other drifting source.
 layout: default
 permalink: /wind-data/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 nav_short_title: Wind Data
 title: Following a UFO With the Wind
-title_full: Following a UFO With the Wind | IFOs
+title_full: Following a UFO With the Wind
 display_title_short: Wind Data
 display_title: Wind Data
 heading_title: Following a UFO With the Wind
@@ -240,213 +240,212 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 21:47:03'
 parent_title: IFOs
-parent_permalink: /ifos-causes-of/
+parent_permalink: /ifos-causes-of-ufo-3-ed-238/
 parent_nav_short_title: IFOs
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 sibling_links:
 - basename: ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d
-  title: A Head On Aircraft Can Look Like A Stationary Light Because It | Ifos Causes Of
+  title: A Head On Aircraft Can Look Like A Stationary Light Because It | ifos causes of UFO 3 ed 238
   permalink: /a-head-on-aircraft-can-look-like-a/
   short_title: A Head On Aircraft Can Look Like A Stationary Light Because It
   heading_title: The Stationary Light That Is Moving
 - basename: ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261
-  title: AARO | Ifos Causes Of
+  title: AARO | ifos causes of UFO 3 ed 238
   permalink: /aaro/
   short_title: AARO
   heading_title: What Modern UAP Reviews Resolve
 - basename: ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253
-  title: Aircraft Lights | Ifos Causes Of
+  title: Aircraft Lights | ifos causes of UFO 3 ed 238
   permalink: /aircraft-lights/
   short_title: Aircraft Lights
   heading_title: Why Ordinary Aircraft Look So Strange
 - basename: ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043
-  title: Atmosphere | Ifos Causes Of
+  title: Atmosphere | ifos causes of UFO 3 ed 238
   permalink: /atmosphere/
   short_title: Atmosphere
   heading_title: When Weather Makes Shapes in the Sky
 - basename: ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057
-  title: Balloons | Ifos Causes Of
+  title: Balloons | ifos causes of UFO 3 ed 238
   permalink: /balloons/
   short_title: Balloons
   heading_title: Why Balloons Become Flying Saucers
 - basename: ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40
-  title: Birds | Ifos Causes Of
+  title: Birds | ifos causes of UFO 3 ed 238
   permalink: /birds/
   short_title: Birds
   heading_title: How Birds Become Fast UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81
-  title: Blue Book | Ifos Causes Of
+  title: Blue Book | ifos causes of UFO 3 ed 238
   permalink: /blue-book/
   short_title: Blue Book
   heading_title: What Blue Book Teaches About IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e
-  title: Contrails | Ifos Causes Of
+  title: Contrails | ifos causes of UFO 3 ed 238
   permalink: /contrails/
   short_title: Contrails
   heading_title: Why Jet Trails Glow Like UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c
-  title: Drones | Ifos Causes Of
+  title: Drones | ifos causes of UFO 3 ed 238
   permalink: /drones/
   short_title: Drones
   heading_title: When a Drone Becomes a UFO
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e
-  title: First Checks | Ifos Causes Of
+  title: First Checks | ifos causes of UFO 3 ed 238
   permalink: /first-checks/
   short_title: First Checks
   heading_title: What to Check Before Calling It a UFO
 - basename: ifos_-_causes_of_UFO_3ed238_military_flares_abb62f
-  title: Flares | Ifos Causes Of
+  title: Flares | ifos causes of UFO 3 ed 238
   permalink: /flares/
   short_title: Flares
   heading_title: Why Flares Look Like Hovering Craft
 - basename: ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590
-  title: Flight Tracking | Ifos Causes Of
+  title: Flight Tracking | ifos causes of UFO 3 ed 238
   permalink: /flight-tracking/
   short_title: Flight Tracking
   heading_title: How Flight Data Solves UFO Sightings
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965
-  title: Hoaxes | Ifos Causes Of
+  title: Hoaxes | ifos causes of UFO 3 ed 238
   permalink: /hoaxes/
   short_title: Hoaxes
   heading_title: When UFO Reports Are Manufactured
 - basename: ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f
-  title: Infrared | Ifos Causes Of
+  title: Infrared | ifos causes of UFO 3 ed 238
   permalink: /infrared/
   short_title: Infrared
   heading_title: Why Infrared UFO Videos Mislead
 - basename: ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74
-  title: Insects | Ifos Causes Of
+  title: Insects | ifos causes of UFO 3 ed 238
   permalink: /insects/
   short_title: Insects
   heading_title: The Tiny Things Cameras Make Huge
 - basename: ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5
-  title: Lanterns | Ifos Causes Of
+  title: Lanterns | ifos causes of UFO 3 ed 238
   permalink: /lanterns/
   short_title: Lanterns
   heading_title: The Orange Lights That Start UFO Reports
 - basename: ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e
-  title: Lens Flare | Ifos Causes Of
+  title: Lens Flare | ifos causes of UFO 3 ed 238
   permalink: /lens-flare/
   short_title: Lens Flare
   heading_title: When Cameras Invent Extra Lights
 - basename: ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28
-  title: Mass Sightings | Ifos Causes Of
+  title: Mass Sightings | ifos causes of UFO 3 ed 238
   permalink: /mass-sightings/
   short_title: Mass Sightings
   heading_title: Why Groups Can Share One Mistake
 - basename: ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504
-  title: Meteors | Ifos Causes Of
+  title: Meteors | ifos causes of UFO 3 ed 238
   permalink: /meteors/
   short_title: Meteors
   heading_title: When Fireballs Become UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca
-  title: Missing Data | Ifos Causes Of
+  title: Missing Data | ifos causes of UFO 3 ed 238
   permalink: /missing-data/
   short_title: Missing Data
   heading_title: Unsolved Does Not Always Mean Strange
 - basename: ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183
-  title: NASA Study | Ifos Causes Of
+  title: NASA Study | ifos causes of UFO 3 ed 238
   permalink: /nasa-study/
   short_title: NASA Study
   heading_title: Why Better UFO Data Matters
 - basename: ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b
-  title: Parallax | Ifos Causes Of
+  title: Parallax | ifos causes of UFO 3 ed 238
   permalink: /parallax/
   short_title: Parallax
   heading_title: The Speed Illusion in UFO Footage
 - basename: ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a
-  title: Pilots | Ifos Causes Of
+  title: Pilots | ifos causes of UFO 3 ed 238
   permalink: /pilots/
   short_title: Pilots
   heading_title: Why Pilots Can Misidentify UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357
-  title: Radar | Ifos Causes Of
+  title: Radar | ifos causes of UFO 3 ed 238
   permalink: /radar/
   short_title: Radar
   heading_title: When Radar Sees a UFO That Isnt There
 - basename: ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c
-  title: Reflections | Ifos Causes Of
+  title: Reflections | ifos causes of UFO 3 ed 238
   permalink: /reflections/
   short_title: Reflections
   heading_title: The UFO Inside the Glass
 - basename: ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132
-  title: Rocket Plumes | Ifos Causes Of
+  title: Rocket Plumes | ifos causes of UFO 3 ed 238
   permalink: /rocket-plumes/
   short_title: Rocket Plumes
   heading_title: The Strange Clouds Rockets Leave Behind
 - basename: ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b
-  title: Satellites | Ifos Causes Of
+  title: Satellites | ifos causes of UFO 3 ed 238
   permalink: /satellites/
   short_title: Satellites
   heading_title: Why Satellites Surprise Night Watchers
 - basename: ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1
-  title: Searchlights | Ifos Causes Of
+  title: Searchlights | ifos causes of UFO 3 ed 238
   permalink: /searchlights/
   short_title: Searchlights
   heading_title: How Searchlights Paint UFOs in Clouds
 - basename: ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b
-  title: Sensor Operators | Ifos Causes Of
+  title: Sensor Operators | ifos causes of UFO 3 ed 238
   permalink: /sensor-operators/
   short_title: Sensor Operators
   heading_title: When Sensors Need Human Context
 - basename: ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391
-  title: Short Clips | Ifos Causes Of
+  title: Short Clips | ifos causes of UFO 3 ed 238
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: Why Short UFO Videos Are Hard to Trust
 - basename: ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f
-  title: Size Errors | Ifos Causes Of
+  title: Size Errors | ifos causes of UFO 3 ed 238
   permalink: /size-errors/
   short_title: Size Errors
   heading_title: Why Honest Witnesses Misjudge UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725
-  title: Sky Charts | Ifos Causes Of
+  title: Sky Charts | ifos causes of UFO 3 ed 238
   permalink: /sky-charts/
   short_title: Sky Charts
   heading_title: How to Check a UFO Against the Sky
 - basename: ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32
-  title: Stars | Ifos Causes Of
+  title: Stars | ifos causes of UFO 3 ed 238
   permalink: /stars/
   short_title: Stars
   heading_title: Why Stars Flash Like Machines
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb
-  title: Status Labels | Ifos Causes Of
+  title: Status Labels | ifos causes of UFO 3 ed 238
   permalink: /status-labels/
   short_title: Status Labels
   heading_title: UFO Does Not Mean Alien
 - basename: ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d
-  title: Strong Cases | Ifos Causes Of
+  title: Strong Cases | ifos causes of UFO 3 ed 238
   permalink: /strong-cases/
   short_title: Strong Cases
   heading_title: What Makes a UFO Report Harder to Explain
 - basename: ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948
-  title: UK Files | Ifos Causes Of
+  title: UK Files | ifos causes of UFO 3 ed 238
   permalink: /uk-files/
   short_title: UK Files
   heading_title: What the UK UFO Files Reveal
 - basename: ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06
-  title: Unresolved Cases | Ifos Causes Of
+  title: Unresolved Cases | ifos causes of UFO 3 ed 238
   permalink: /unresolved-cases/
   short_title: Unresolved Cases
   heading_title: Why Some UFO Cases Stay Open
 - basename: ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080
-  title: Venus | Ifos Causes Of
+  title: Venus | ifos causes of UFO 3 ed 238
   permalink: /venus/
   short_title: Venus
   heading_title: Is That UFO Really Venus?
 - basename: ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13
-  title: Weather Records | Ifos Causes Of
+  title: Weather Records | ifos causes of UFO 3 ed 238
   permalink: /weather-records/
   short_title: Weather Records
   heading_title: Weather Clues That Explain Strange Lights
@@ -479,14 +478,15 @@ child_links:
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 prev_link:
   basename: ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13
-  title: Weather Records | Ifos Causes Of
+  title: Weather Records | ifos causes of UFO 3 ed 238
   permalink: /weather-records/
   short_title: Weather Records
   heading_title: Weather Clues That Explain Strange Lights
+date: '2026-06-12 00:05:08 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a-overview-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a-overview.webp
@@ -495,8 +495,7 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a-overview-soci
 
 ## Introduction
 
-Wind data can turn a vague “slow UFO” report into a testable drifting-object case. Balloons, [sky lanterns]({{ 'lanterns/' | relative_url }}) and other lightweight objects do not choose their own route; once airborne, they are carried by winds that may change sharply with height. That means the useful question is not just “was it windy?” but “which way was the air moving at the object’s likely altitude?” [Surface wind]({{ 'surface-wind/' | relative_url }}), upper-air soundings, weather models and trajectory tools can all help reconstruct whether a reported light or object followed the wind closely enough to be a balloon or lantern. This evidence is strongest when the sighting has a good time, location, viewing direction and observed path. It is weakest when the object’s height is unknown, the report lacks a track, or local winds were variable.
-
+Wind data can turn a vague “slow UFO” report into a testable drifting-object case. Balloons, sky lanterns and other lightweight objects do not choose their own route; once airborne, they are carried by winds that may change sharply with height. That means the useful question is not just “was it windy?” but “which way was the air moving at the object’s likely altitude?” [Surface wind]({{ 'surface-wind/' | relative_url }}), upper-air [soundings]({{ 'soundings/' | relative_url }}), weather models and trajectory tools can all help reconstruct whether a reported light or object followed the wind closely enough to be a balloon or lantern. This evidence is strongest when the sighting has a good time, location, viewing direction and observed path. It is weakest when the object’s height is unknown, the report lacks a track, or local winds were variable.
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a-overview.webp" | relative_url }}" alt="Overview image for Wind Data" loading="eager" decoding="sync" fetchpriority="high">
 ## Surface wind is only the first clue
@@ -511,16 +510,15 @@ For a first-pass check, surface observations can still be valuable. If a cluster
 
 ## Upper winds explain why drifting lights change course
 
-The best wind evidence for balloon-like UFO reports usually comes from upper-air data: measurements of wind speed and direction at different heights. Radiosondes are lightweight instrument packages carried by [weather balloons]({{ 'balloons/' | relative_url }}). The World Meteorological Organization describes a global network of around 1,300 upper-air stations, where radiosondes attached to free-rising balloons measure pressure, wind velocity, temperature and humidity from near the ground up to around 30 kilometres. More than two thirds of those stations make observations at 0000 and 1200 UTC. <span class="citation-chip-wrap"><a class="citation-chip" href="https://community.wmo.int/observation-components-of-global-observing-system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: community.wmo.int">[World Meteorological Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">community.wmo.int</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The best wind evidence for balloon-like UFO reports usually comes from upper-air data: measurements of wind speed and direction at different heights. Radiosondes are lightweight instrument packages carried by weather balloons. The World Meteorological Organization describes a global network of around 1,300 upper-air stations, where radiosondes attached to free-rising balloons measure pressure, wind velocity, temperature and humidity from near the ground up to around 30 kilometres. More than two thirds of those stations make observations at 0000 and 1200 UTC. <span class="citation-chip-wrap"><a class="citation-chip" href="https://community.wmo.int/observation-components-of-global-observing-system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: community.wmo.int">[World Meteorological Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">community.wmo.int</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 National weather services explain the same basic method in practical terms. NOAA says radiosondes provide pressure, temperature and relative humidity data, while wind speed and direction are derived by tracking the radiosonde’s position as it rises. The U.S. National Weather Service similarly says winds aloft are obtained by tracking the radiosonde in flight using GPS or radio direction finding. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.noaa.gov/jetstream/upperair/radiosondes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noaa.gov">[noaa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noaa.gov</span><span class="citation-popover-snippet">Open source on noaa.gov.</span></span></span>
 
 For UFO investigation, this vertical profile is the important part. A balloon sighting may appear strange because the object changes direction, slows, accelerates, or seems to curve without any visible propulsion. But if upper-air data shows winds veering or backing with height, that behaviour may be normal drift through layered air. A balloon climbing through those layers can trace a path that looks intentional from the ground.
 
-This is especially relevant to weather balloons. Historic UFO investigations treated balloons as a regular source of reports. [Project Blue Book]({{ 'blue-book/' | relative_url }}) materials noted that balloons continued to be reported as UFOs and that there were several types, including weather balloons, rawinsondes, radiosondes and large research balloons; at night, balloons carrying lights could have an unusual appearance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[whs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">Enterprise Services Dashboard Project Blue Book</span><span class="citation-popover-snippet">Enterprise Services Dashboard Project Blue Book</span></span></span>
+This is especially relevant to weather balloons. Historic UFO investigations treated balloons as a regular source of reports. Project Blue Book materials noted that balloons continued to be reported as UFOs and that there were several types, including weather balloons, rawinsondes, radiosondes and large research balloons; at night, balloons carrying lights could have an unusual appearance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[whs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">Enterprise Services Dashboard Project Blue Book</span><span class="citation-popover-snippet">Enterprise Services Dashboard Project Blue Book</span></span></span>
 
-A useful modern archive for this work is NOAA’s Integrated Global Radiosonde Archive, which contains radiosonde and pilot-balloon observations from more than 2,800 stations, with recent data available in near real time from hundreds of stations. The University of Wyoming’s widely used sounding archive is another practical source, presenting upper-air [soundings]({{ 'soundings/' | relative_url }}) with wind speeds and heights in meteorological or aviation units. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncei.noaa.gov/products/weather-balloon/integrated-global-radiosonde-archive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncei.noaa.gov">[NCEI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncei.noaa.gov</span><span class="citation-popover-title">NCEIIntegrated Global Radiosonde Archive (IGRA</span><span class="citation-popover-snippet">NCEIIntegrated Global Radiosonde Archive (IGRA</span></span></span>
-
+A useful modern archive for this work is NOAA’s Integrated Global Radiosonde Archive, which contains radiosonde and pilot-balloon observations from more than 2,800 stations, with recent data available in near real time from hundreds of stations. The University of Wyoming’s widely used sounding archive is another practical source, presenting upper-air soundings with wind speeds and heights in meteorological or aviation units. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncei.noaa.gov/products/weather-balloon/integrated-global-radiosonde-archive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncei.noaa.gov">[NCEI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncei.noaa.gov</span><span class="citation-popover-title">NCEIIntegrated Global Radiosonde Archive (IGRA</span><span class="citation-popover-snippet">NCEIIntegrated Global Radiosonde Archive (IGRA</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a-Illustration-1-dark.svg" | relative_url }}" alt="Wind Data illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Reconstructing a likely drift path
@@ -528,7 +526,6 @@ A useful modern archive for this work is NOAA’s Integrated Global Radiosonde A
 A drift reconstruction starts with the witness report, not with the weather data. The necessary inputs are the observation time, location, direction of view, apparent path across the sky, duration, brightness, colour and whether the object rose, descended, faded, burst or disappeared behind cloud. Wind data can then be used to ask whether a passive object would have moved through the reported part of the sky.
 
 A practical reconstruction usually follows this sequence:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -542,10 +539,9 @@ A practical reconstruction usually follows this sequence:
 
 The stronger cases are those where the same explanation accounts for several features at once. A group of warm orange lights rising from one horizon, spreading out, drifting downwind and fading after several minutes fits sky lantern behaviour better than a powered craft. A bright white or silver object that remains visible in daylight, climbs slowly, changes apparent direction with upper winds and disappears at great height fits a balloon more naturally than a vehicle under active control.
 
-[Trajectory models]({{ 'trajectories/' | relative_url }}) can make this more rigorous. NOAA’s HYSPLIT model simulates atmospheric transport and trajectories over local to global scales. NOAA describes it as a system for computing trajectories and dispersion through the atmosphere, and its READY web interface can run trajectory products using meteorological data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.arl.noaa.gov/hysplit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arl.noaa.gov">[Air Resources Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arl.noaa.gov</span><span class="citation-popover-title">Air Resources Laboratory HYSPLIT</span><span class="citation-popover-snippet">Air Resources Laboratory HYSPLIT</span></span></span>
+Trajectory models can make this more rigorous. NOAA’s HYSPLIT model simulates atmospheric transport and [trajectories]({{ 'trajectories/' | relative_url }}) over local to global scales. NOAA describes it as a system for computing trajectories and dispersion through the [atmosphere]({{ 'atmosphere/' | relative_url }}), and its READY web interface can run trajectory products using meteorological data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.arl.noaa.gov/hysplit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arl.noaa.gov">[Air Resources Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arl.noaa.gov</span><span class="citation-popover-title">Air Resources Laboratory HYSPLIT</span><span class="citation-popover-snippet">Air Resources Laboratory HYSPLIT</span></span></span>
 
 For UFO work, a trajectory model is not a magic identifier. It is a plausibility test. If a suspected balloon’s estimated start point, time and height produce a path consistent with the sighting, the balloon explanation improves. If repeated runs at plausible heights all carry the object in the wrong direction, the explanation weakens. NOAA’s HYSPLIT documentation also shows why uncertainty matters: its trajectory ensemble option creates multiple paths by slightly offsetting the meteorological data, producing a spread of possible trajectories rather than a single perfect line. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ready.noaa.gov/HYSPLIT_traj.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ready.noaa.gov">[ready.noaa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ready.noaa.gov</span><span class="citation-popover-title">Run HYSPLIT Trajectory Model</span><span class="citation-popover-snippet">Run HYSPLIT Trajectory Model</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SqbTrbxWT1o" title="Wind direction and speed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SqbTrbxWT1o" target="_blank" rel="noopener noreferrer">Wind direction and speed</a></p><p class="youtube-embed-meta">Channel: Met Office - UK Weather &middot; Views: 699.5K &middot; Uploaded: August 2014 &middot; Length: 2 minutes 10 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SqbTrbxWT1o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SqbTrbxWT1o">Open on YouTube</a></p></div></div></div>
 
@@ -559,7 +555,6 @@ Wind data helps most when the sighting includes a path. A report of “orange ba
 
 There are also safety clues. Sky lanterns are not just visual curiosities; they are treated as fire and aviation hazards in many places. Delft University of Technology, discussing sky-lantern risk modelling, notes launch restrictions such as low wind force and distance from airports in a safety context. Saskatchewan’s government warned that sky lanterns had caused fires and that releasing many at once increased risk. Those public-safety concerns reinforce a practical investigative point: lantern releases tend to be associated with events, celebrations, fields, beaches and open spaces rather than random high-altitude flight paths. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tudelft.nl/en/ae/current/research-stories/fiery-romance-a-risk-model-for-sky-lanterns" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tudelft.nl">[TU Delft]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tudelft.nl</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mgJDvfYnqC0" title="Remote Sensing: The Importance of Weather Balloons &amp; Radiosondes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mgJDvfYnqC0" target="_blank" rel="noopener noreferrer">Remote Sensing: The Importance of Weather Balloons &amp; Radiosondes</a></p><p class="youtube-embed-meta">Channel: NWSBlacksburgVA &middot; Views: 3.1K &middot; Uploaded: December 2021 &middot; Length: 4 minutes 29 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mgJDvfYnqC0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mgJDvfYnqC0">Open on YouTube</a></p></div></div></div>
 
 ## Weather balloons can look stranger than party balloons
@@ -572,14 +567,12 @@ Modern radiosonde data also shows why balloon drift is not a straight-line surfa
 
 Large research balloons can complicate matters further because they may remain at very high altitude and travel long distances. Project Blue Book material explicitly distinguished ordinary weather balloons from large research balloons, noting that some could be very large and that balloons were released from civilian, military, weather and research settings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[whs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">Enterprise Services Dashboard Project Blue Book</span><span class="citation-popover-snippet">Enterprise Services Dashboard Project Blue Book</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a-Illustration-2-dark.svg" | relative_url }}" alt="Wind Data illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When wind data supports an IFO conclusion
 
 Wind data is most persuasive when it matches the report in several independent ways. The best cases do not merely say “the wind was blowing that way”. They show that a passive object released from a plausible location, at a plausible time and height, would have crossed the witness’s line of sight at the right pace.
 
 A strong balloon or lantern identification usually has these features:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -593,10 +586,9 @@ A strong balloon or lantern identification usually has these features:
 
 Official UAP work also shows that balloons remain a live explanation, not merely a historic one. [AARO]({{ 'aaro/' | relative_url }})’s official imagery page lists multiple recent UAP reports resolved as balloons, and its case-resolution page includes the Al Taqaddum case, assessed with high confidence as a cluster of fully and partially inflated balloons that did not exhibit anomalous behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
 
-The U.S. Department of Defense has also said AARO has resolved hundreds of cases as commonplace objects including balloons, birds, drones, satellites and aircraft. Its 2024 consolidated annual report states that U.S. military assets in the Middle East provided 57 reports, of which 13 were resolved as balloons, uncrewed aircraft systems or satellites; many others lacked enough information for analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dod examining unidentified anomalous phenomena</span><span class="citation-popover-snippet">dod examining unidentified anomalous phenomena</span></span></span>
+The U.S. Department of Defense has also said AARO has resolved hundreds of cases as commonplace objects including balloons, birds, [drones]({{ 'drones/' | relative_url }}), [satellites]({{ 'satellites/' | relative_url }}) and aircraft. Its 2024 consolidated annual report states that U.S. military assets in the Middle East provided 57 reports, of which 13 were resolved as balloons, uncrewed aircraft systems or satellites; many others lacked enough information for analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dod examining unidentified anomalous phenomena</span><span class="citation-popover-snippet">dod examining unidentified anomalous phenomena</span></span></span>
 
 That last point is crucial. Wind data can support an identified flying object conclusion, but only when the original report contains enough geometry to test. A drifting explanation is much stronger when the observed motion, timing and appearance all point in the same direction.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rgZ5Ci-3g98" title="Using weather balloons to collect weather data" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rgZ5Ci-3g98" target="_blank" rel="noopener noreferrer">Using weather balloons to collect weather data</a></p><p class="youtube-embed-meta">Channel: WBRC 6 News &middot; Views: 601 &middot; Uploaded: July 2024 &middot; Length: 3 minutes 17 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rgZ5Ci-3g98" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rgZ5Ci-3g98">Open on YouTube</a></p></div></div></div>
 
@@ -611,7 +603,6 @@ Weather data also has resolution limits. A surface station may be several kilome
 Another limitation is that wind matching cannot identify every drifting object. It may show that a report is consistent with a passive object, but not whether that object was a party balloon, weather balloon, plastic bag, lantern, foam debris, research payload or something else. For identification, wind data has to be combined with appearance, launch opportunities, altitude, duration and any independent records.
 
 The most defensible use of wind evidence is therefore graded rather than absolute. If the reported light moved downwind, behaved like a buoyant object and had an appearance typical of a balloon or lantern, wind data can make an IFO explanation very strong. If the sighting lacks a reliable path or altitude, wind data can only suggest possibilities. If the object’s motion conflicts with winds at every plausible level, the drifting-object explanation should be treated as weak.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a-Illustration-3-dark.svg" | relative_url }}" alt="Wind Data illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_wind_data_33671a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -732,15 +723,15 @@ The most defensible use of wind evidence is therefore graded rather than absolut
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-data-following-a-ufo-with-the-wind-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="wind-data-following-a-ufo-with-the-wind-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-a-ufo-with-the-wind-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="following-a-ufo-with-the-wind-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-data-following-a-ufo-with-the-wind-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="wind-data-following-a-ufo-with-the-wind-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-a-ufo-with-the-wind-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="following-a-ufo-with-the-wind-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-data-following-a-ufo-with-the-wind-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="wind-data-following-a-ufo-with-the-wind-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-a-ufo-with-the-wind-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="following-a-ufo-with-the-wind-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-data-following-a-ufo-with-the-wind-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="wind-data-following-a-ufo-with-the-wind-ifos-causes-of-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-a-ufo-with-the-wind-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="following-a-ufo-with-the-wind-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -748,15 +739,15 @@ The most defensible use of wind evidence is therefore graded rather than absolut
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-data-following-a-ufo-with-the-wind-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="wind-data-following-a-ufo-with-the-wind-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-a-ufo-with-the-wind-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="following-a-ufo-with-the-wind-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-data-following-a-ufo-with-the-wind-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="wind-data-following-a-ufo-with-the-wind-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-a-ufo-with-the-wind-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="following-a-ufo-with-the-wind-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-data-following-a-ufo-with-the-wind-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="wind-data-following-a-ufo-with-the-wind-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-a-ufo-with-the-wind-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="following-a-ufo-with-the-wind-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-data-following-a-ufo-with-the-wind-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="wind-data-following-a-ufo-with-the-wind-ifos-causes-of-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-a-ufo-with-the-wind-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="following-a-ufo-with-the-wind-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -764,15 +755,15 @@ The most defensible use of wind evidence is therefore graded rather than absolut
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-data-following-a-ufo-with-the-wind-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="wind-data-following-a-ufo-with-the-wind-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo"><img src="{{ '/assets/images/marketplace-covers/338af33276410882a5b1.jpg' | relative_url }}" alt="Listing image for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-a-ufo-with-the-wind-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="following-a-ufo-with-the-wind-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-data-following-a-ufo-with-the-wind-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="wind-data-following-a-ufo-with-the-wind-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-a-ufo-with-the-wind-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="following-a-ufo-with-the-wind-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-data-following-a-ufo-with-the-wind-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="wind-data-following-a-ufo-with-the-wind-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-a-ufo-with-the-wind-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="following-a-ufo-with-the-wind-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-data-following-a-ufo-with-the-wind-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="wind-data-following-a-ufo-with-the-wind-ifos-causes-of-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-a-ufo-with-the-wind-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="following-a-ufo-with-the-wind-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -780,15 +771,15 @@ The most defensible use of wind evidence is therefore graded rather than absolut
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-data-following-a-ufo-with-the-wind-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="wind-data-following-a-ufo-with-the-wind-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for U/ROCK BAND SPACE SHIP IRON OR SEW ON QUALITY EMBROIDERED PATCH UK SELLER/UFO"><img src="{{ '/assets/images/marketplace-covers/fc0f59ffafe53c3f0099.jpg' | relative_url }}" alt="Listing image for U/ROCK BAND SPACE SHIP IRON OR SEW ON QUALITY EMBROIDERED PATCH UK SELLER/UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-a-ufo-with-the-wind-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="following-a-ufo-with-the-wind-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-data-following-a-ufo-with-the-wind-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="wind-data-following-a-ufo-with-the-wind-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">U/ROCK BAND SPACE SHIP IRON OR SEW ON QUALITY EMBROIDERED PATCH UK SELLER/UFO</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-a-ufo-with-the-wind-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="following-a-ufo-with-the-wind-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-data-following-a-ufo-with-the-wind-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="wind-data-following-a-ufo-with-the-wind-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-a-ufo-with-the-wind-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="following-a-ufo-with-the-wind-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-data-following-a-ufo-with-the-wind-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="wind-data-following-a-ufo-with-the-wind-ifos-causes-of-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-a-ufo-with-the-wind-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="following-a-ufo-with-the-wind-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -796,7 +787,7 @@ The most defensible use of wind evidence is therefore graded rather than absolut
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-data-following-a-ufo-with-the-wind-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="wind-data-following-a-ufo-with-the-wind-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-a-ufo-with-the-wind-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="following-a-ufo-with-the-wind-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -1011,299 +1002,299 @@ The most defensible use of wind evidence is therefore graded rather than absolut
 
 1. <a id="endnote-1"></a>
    Source: weather.metoffice.gov.uk  
-   Link: [https://weather.metoffice.gov.uk/guides/observations/how-we-measure-wind](https://weather.metoffice.gov.uk/guides/observations/how-we-measure-wind)  
+   Link: <a href="https://weather.metoffice.gov.uk/guides/observations/how-we-measure-wind" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/guides/observations/how-we-measure-wind</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Met OfficeHow we measure windWind direction is measured by a vane consisting of a thin horizontal arm carrying a vertical flat plate at o...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: metoffice.gov.uk  
    Title: what is wind and how do we measure it  
-   Link: [https://www.metoffice.gov.uk/blog/2025/what-is-wind-and-how-do-we-measure-it](https://www.metoffice.gov.uk/blog/2025/what-is-wind-and-how-do-we-measure-it)  
+   Link: <a href="https://www.metoffice.gov.uk/blog/2025/what-is-wind-and-how-do-we-measure-it" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2025/what-is-wind-and-how-do-we-measure-it</a>  
 
 3. <a id="endnote-3"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/hfo/windbarbinfo](https://www.weather.gov/hfo/windbarbinfo)  
+   Link: <a href="https://www.weather.gov/hfo/windbarbinfo" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/hfo/windbarbinfo</a>  
 
 4. <a id="endnote-4"></a>
    Source: weather.metoffice.gov.uk  
-   Link: [https://weather.metoffice.gov.uk/learn-about/met-office-for-schools/other-content/other-resources/understanding-weather](https://weather.metoffice.gov.uk/learn-about/met-office-for-schools/other-content/other-resources/understanding-weather)  
+   Link: <a href="https://weather.metoffice.gov.uk/learn-about/met-office-for-schools/other-content/other-resources/understanding-weather" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/met-office-for-schools/other-content/other-resources/understanding-weather</a>  
 
 5. <a id="endnote-5"></a>
    Source: noaa.gov  
-   Link: [https://www.noaa.gov/jetstream/upperair/radiosondes](https://www.noaa.gov/jetstream/upperair/radiosondes)  
+   Link: <a href="https://www.noaa.gov/jetstream/upperair/radiosondes" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/jetstream/upperair/radiosondes</a>  
 
 6. <a id="endnote-6"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/upperair/factsheet](https://www.weather.gov/upperair/factsheet)  
+   Link: <a href="https://www.weather.gov/upperair/factsheet" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/upperair/factsheet</a>  
 
 7. <a id="endnote-7"></a>
    Source: esd.whs.mil  
    Title: Enterprise Services Dashboard Project Blue Book  
-   Link: [https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837](https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837)  
+   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837</a>  
 
 8. <a id="endnote-8"></a>
    Source: ncei.noaa.gov  
    Title: NCEIIntegrated Global Radiosonde Archive (IGRA)  
-   Link: [https://www.ncei.noaa.gov/products/weather-balloon/integrated-global-radiosonde-archive](https://www.ncei.noaa.gov/products/weather-balloon/integrated-global-radiosonde-archive)  
+   Link: <a href="https://www.ncei.noaa.gov/products/weather-balloon/integrated-global-radiosonde-archive" target="_blank" rel="noopener noreferrer nofollow">https://www.ncei.noaa.gov/products/weather-balloon/integrated-global-radiosonde-archive</a>  
 
 9. <a id="endnote-9"></a>
    Source: arl.noaa.gov  
    Title: Air Resources Laboratory HYSPLIT  
-   Link: [https://www.arl.noaa.gov/hysplit/](https://www.arl.noaa.gov/hysplit/)  
+   Link: <a href="https://www.arl.noaa.gov/hysplit/" target="_blank" rel="noopener noreferrer nofollow">https://www.arl.noaa.gov/hysplit/</a>  
 
 10. <a id="endnote-10"></a>
    Source: ready.noaa.gov  
    Title: Run HYSPLIT Trajectory Model  
-   Link: [https://www.ready.noaa.gov/HYSPLIT_traj.php](https://www.ready.noaa.gov/HYSPLIT_traj.php)  
+   Link: <a href="https://www.ready.noaa.gov/HYSPLIT_traj.php" target="_blank" rel="noopener noreferrer nofollow">https://www.ready.noaa.gov/HYSPLIT_traj.php</a>  
 
 11. <a id="endnote-11"></a>
    Source: ready.noaa.gov  
-   Link: [https://www.ready.noaa.gov/hypub-bin/trajtype.pl](https://www.ready.noaa.gov/hypub-bin/trajtype.pl)  
+   Link: <a href="https://www.ready.noaa.gov/hypub-bin/trajtype.pl" target="_blank" rel="noopener noreferrer nofollow">https://www.ready.noaa.gov/hypub-bin/trajtype.pl</a>  
 
 12. <a id="endnote-12"></a>
    Source: saskatchewan.ca  
    Title: flying lanterns a fire risk  
-   Link: [https://www.saskatchewan.ca/government/news-and-media/2010/june/30/flying-lanterns--a-fire-risk](https://www.saskatchewan.ca/government/news-and-media/2010/june/30/flying-lanterns--a-fire-risk)  
+   Link: <a href="https://www.saskatchewan.ca/government/news-and-media/2010/june/30/flying-lanterns--a-fire-risk" target="_blank" rel="noopener noreferrer nofollow">https://www.saskatchewan.ca/government/news-and-media/2010/june/30/flying-lanterns--a-fire-risk</a>  
 
 13. <a id="endnote-13"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/upperair/reqdahdr](https://www.weather.gov/upperair/reqdahdr)  
+   Link: <a href="https://www.weather.gov/upperair/reqdahdr" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/upperair/reqdahdr</a>  
 
 14. <a id="endnote-14"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 15. <a id="endnote-15"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/](https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/</a>  
 
 16. <a id="endnote-16"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/](https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
 
 17. <a id="endnote-17"></a>
    Source: media.defense.gov  
    Title: FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508  
-   Link: [https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF](https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
 
 18. <a id="endnote-18"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/media/fire/HYSPLIT_one_page.pdf](https://www.weather.gov/media/fire/HYSPLIT_one_page.pdf)  
+   Link: <a href="https://www.weather.gov/media/fire/HYSPLIT_one_page.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/media/fire/HYSPLIT_one_page.pdf</a>  
 
 19. <a id="endnote-19"></a>
    Source: metoffice.gov.uk  
-   Link: [https://www.metoffice.gov.uk/binaries/content/assets/metofficegovuk/pdf/research/library-and-archive/library/publications/factsheets/factsheet_13-upper-air-measurements_2023.pdf](https://www.metoffice.gov.uk/binaries/content/assets/metofficegovuk/pdf/research/library-and-archive/library/publications/factsheets/factsheet_13-upper-air-measurements_2023.pdf)  
+   Link: <a href="https://www.metoffice.gov.uk/binaries/content/assets/metofficegovuk/pdf/research/library-and-archive/library/publications/factsheets/factsheet_13-upper-air-measurements_2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/binaries/content/assets/metofficegovuk/pdf/research/library-and-archive/library/publications/factsheets/factsheet_13-upper-air-measurements_2023.pdf</a>  
 
 20. <a id="endnote-20"></a>
    Source: metoffice.gov.uk  
    Title: why do we measure wind at less than 500m  
-   Link: [https://www.metoffice.gov.uk/blog/2025/why-do-we-measure-wind-at-less-than-500m](https://www.metoffice.gov.uk/blog/2025/why-do-we-measure-wind-at-less-than-500m)  
+   Link: <a href="https://www.metoffice.gov.uk/blog/2025/why-do-we-measure-wind-at-less-than-500m" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2025/why-do-we-measure-wind-at-less-than-500m</a>  
 
 21. <a id="endnote-21"></a>
    Source: metoffice.gov.uk  
    Title: world first data collected in innovative space weather project  
-   Link: [https://www.metoffice.gov.uk/blog/2025/world-first-data-collected-in-innovative-space-weather-project](https://www.metoffice.gov.uk/blog/2025/world-first-data-collected-in-innovative-space-weather-project)  
+   Link: <a href="https://www.metoffice.gov.uk/blog/2025/world-first-data-collected-in-innovative-space-weather-project" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2025/world-first-data-collected-in-innovative-space-weather-project</a>  
 
 22. <a id="endnote-22"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/chs/upperair](https://www.weather.gov/chs/upperair)  
+   Link: <a href="https://www.weather.gov/chs/upperair" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/chs/upperair</a>  
 
 23. <a id="endnote-23"></a>
    Source: weather.gov  
    Title: KEY Weather Balloon Poster  
-   Link: [https://www.weather.gov/media/key/KEY%20-%20Weather%20Balloon%20Poster.pdf](https://www.weather.gov/media/key/KEY%20-%20Weather%20Balloon%20Poster.pdf)  
+   Link: <a href="https://www.weather.gov/media/key/KEY%20-%20Weather%20Balloon%20Poster.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/media/key/KEY%20-%20Weather%20Balloon%20Poster.pdf</a>  
 
 24. <a id="endnote-24"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/bgm/productUpperAir](https://www.weather.gov/bgm/productUpperAir)  
+   Link: <a href="https://www.weather.gov/bgm/productUpperAir" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/bgm/productUpperAir</a>  
 
 25. <a id="endnote-25"></a>
    Source: forecast.weather.gov  
-   Link: [https://forecast.weather.gov/glossary.php?word=wind](https://forecast.weather.gov/glossary.php?word=wind)  
+   Link: <a href="https://forecast.weather.gov/glossary.php?word=wind" target="_blank" rel="noopener noreferrer nofollow">https://forecast.weather.gov/glossary.php?word=wind</a>  
 
 26. <a id="endnote-26"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/hnx/upperair](https://www.weather.gov/hnx/upperair)  
+   Link: <a href="https://www.weather.gov/hnx/upperair" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/hnx/upperair</a>  
 
 27. <a id="endnote-27"></a>
    Source: aoml.noaa.gov  
    Title: upper air observations  
-   Link: [https://www.aoml.noaa.gov/upper-air-observations/](https://www.aoml.noaa.gov/upper-air-observations/)  
+   Link: <a href="https://www.aoml.noaa.gov/upper-air-observations/" target="_blank" rel="noopener noreferrer nofollow">https://www.aoml.noaa.gov/upper-air-observations/</a>  
 
 28. <a id="endnote-28"></a>
    Source: ncei.noaa.gov  
-   Link: [https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdc%3AC00975](https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdc%3AC00975)  
+   Link: <a href="https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdc%3AC00975" target="_blank" rel="noopener noreferrer nofollow">https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdc%3AC00975</a>  
 
 29. <a id="endnote-29"></a>
    Source: arl.noaa.gov  
    Title: hysplit user guide  
-   Link: [https://www.arl.noaa.gov/documents/reports/hysplit_user_guide.pdf](https://www.arl.noaa.gov/documents/reports/hysplit_user_guide.pdf)  
+   Link: <a href="https://www.arl.noaa.gov/documents/reports/hysplit_user_guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.arl.noaa.gov/documents/reports/hysplit_user_guide.pdf</a>  
 
 30. <a id="endnote-30"></a>
    Source: ready.noaa.gov  
    Title: Cheat Sheet 2020  
-   Link: [https://www.ready.noaa.gov/documents/ppts/Cheat_Sheet_2020.pdf](https://www.ready.noaa.gov/documents/ppts/Cheat_Sheet_2020.pdf)  
+   Link: <a href="https://www.ready.noaa.gov/documents/ppts/Cheat_Sheet_2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ready.noaa.gov/documents/ppts/Cheat_Sheet_2020.pdf</a>  
 
 31. <a id="endnote-31"></a>
    Source: ready.noaa.gov  
-   Link: [https://www.ready.noaa.gov/HYSPLIT.php](https://www.ready.noaa.gov/HYSPLIT.php)  
+   Link: <a href="https://www.ready.noaa.gov/HYSPLIT.php" target="_blank" rel="noopener noreferrer nofollow">https://www.ready.noaa.gov/HYSPLIT.php</a>  
 
 32. <a id="endnote-32"></a>
    Source: noaa.gov  
    Title: origin of wind  
-   Link: [https://www.noaa.gov/jetstream/synoptic/origin-of-wind](https://www.noaa.gov/jetstream/synoptic/origin-of-wind)  
+   Link: <a href="https://www.noaa.gov/jetstream/synoptic/origin-of-wind" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/jetstream/synoptic/origin-of-wind</a>  
 
 33. <a id="endnote-33"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 34. <a id="endnote-34"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/](https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
 35. <a id="endnote-35"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: [https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf](https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf)  
+   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
 36. <a id="endnote-36"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2008  
-   Link: [https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf](https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
 
 37. <a id="endnote-37"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: [https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf](https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
 38. <a id="endnote-38"></a>
    Source: imdpune.gov.in  
-   Link: [https://imdpune.gov.in/training/upperair/upperairobs.pdf](https://imdpune.gov.in/training/upperair/upperairobs.pdf)  
+   Link: <a href="https://imdpune.gov.in/training/upperair/upperairobs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://imdpune.gov.in/training/upperair/upperairobs.pdf</a>  
 
 39. <a id="endnote-39"></a>
    Source: windy.app  
-   Link: [https://windy.app/blog/what-is-wind-direction.html](https://windy.app/blog/what-is-wind-direction.html)  
+   Link: <a href="https://windy.app/blog/what-is-wind-direction.html" target="_blank" rel="noopener noreferrer nofollow">https://windy.app/blog/what-is-wind-direction.html</a>  
 
 40. <a id="endnote-40"></a>
    Source: catalog.data.gov  
    Title: integrated global radiosonde archive igra version 1 superseded  
-   Link: [https://catalog.data.gov/dataset/integrated-global-radiosonde-archive-igra-version-1-superseded](https://catalog.data.gov/dataset/integrated-global-radiosonde-archive-igra-version-1-superseded)  
+   Link: <a href="https://catalog.data.gov/dataset/integrated-global-radiosonde-archive-igra-version-1-superseded" target="_blank" rel="noopener noreferrer nofollow">https://catalog.data.gov/dataset/integrated-global-radiosonde-archive-igra-version-1-superseded</a>  
 
 41. <a id="endnote-41"></a>
    Source: history.com  
    Title: u s air force closes the book on ufos 45 years ago  
-   Link: [https://www.history.com/articles/u-s-air-force-closes-the-book-on-ufos-45-years-ago](https://www.history.com/articles/u-s-air-force-closes-the-book-on-ufos-45-years-ago)  
+   Link: <a href="https://www.history.com/articles/u-s-air-force-closes-the-book-on-ufos-45-years-ago" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/u-s-air-force-closes-the-book-on-ufos-45-years-ago</a>  
 
 42. <a id="endnote-42"></a>
    Source: youtube.com  
    Title: Using weather balloons to collect weather data  
-   Link: [https://www.youtube.com/watch?v=rgZ5Ci-3g98](https://www.youtube.com/watch?v=rgZ5Ci-3g98)  
+   Link: <a href="https://www.youtube.com/watch?v=rgZ5Ci-3g98" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rgZ5Ci-3g98</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Radiosondes | National Oceanic and Atmospheric Administration - NOAA...</p></details>
 
 43. <a id="endnote-43"></a>
    Source: youtube.com  
    Title: Radiosondes | National Oceanic and Atmospheric Administration  
-   Link: [https://www.youtube.com/watch?v=aG9YgM47F5E](https://www.youtube.com/watch?v=aG9YgM47F5E)  
+   Link: <a href="https://www.youtube.com/watch?v=aG9YgM47F5E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aG9YgM47F5E</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How weather balloons are launched...</p></details>
 
 44. <a id="endnote-44"></a>
    Source: community.wmo.int  
-   Link: [https://community.wmo.int/observation-components-of-global-observing-system](https://community.wmo.int/observation-components-of-global-observing-system)  
+   Link: <a href="https://community.wmo.int/observation-components-of-global-observing-system" target="_blank" rel="noopener noreferrer nofollow">https://community.wmo.int/observation-components-of-global-observing-system</a>  
 
 45. <a id="endnote-45"></a>
    Source: skyatnightmagazine.com  
    Title: Sky at Night Magazine17 things commonly mistaken for UFOs  
-   Link: [https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos](https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos)  
+   Link: <a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
 
 46. <a id="endnote-46"></a>
    Source: tudelft.nl  
-   Link: [https://www.tudelft.nl/en/ae/current/research-stories/fiery-romance-a-risk-model-for-sky-lanterns](https://www.tudelft.nl/en/ae/current/research-stories/fiery-romance-a-risk-model-for-sky-lanterns)  
+   Link: <a href="https://www.tudelft.nl/en/ae/current/research-stories/fiery-romance-a-risk-model-for-sky-lanterns" target="_blank" rel="noopener noreferrer nofollow">https://www.tudelft.nl/en/ae/current/research-stories/fiery-romance-a-risk-model-for-sky-lanterns</a>  
 
 47. <a id="endnote-47"></a>
    Source: agupubs.onlinelibrary.wiley.com  
    Title: AGU Publications Global radiosonde balloon drift statistics  
-   Link: [https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2010JD014891](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2010JD014891)  
+   Link: <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2010JD014891" target="_blank" rel="noopener noreferrer nofollow">https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2010JD014891</a>  
 
 48. <a id="endnote-48"></a>
    Source: Wikipedia  
    Title: Weather balloon  
-   Link: [https://en.wikipedia.org/wiki/Weather_balloon](https://en.wikipedia.org/wiki/Weather_balloon)  
+   Link: <a href="https://en.wikipedia.org/wiki/Weather_balloon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Weather_balloon</a>  
 
 49. <a id="endnote-49"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/HYSPLIT](https://en.wikipedia.org/wiki/HYSPLIT)  
+   Link: <a href="https://en.wikipedia.org/wiki/HYSPLIT" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/HYSPLIT</a>  
 
 50. <a id="endnote-50"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 51. <a id="endnote-51"></a>
    Source: docs.rocketpy.org  
-   Link: [https://docs.rocketpy.org/en/latest/user/environment/1-atm-models/soundings.html](https://docs.rocketpy.org/en/latest/user/environment/1-atm-models/soundings.html)  
+   Link: <a href="https://docs.rocketpy.org/en/latest/user/environment/1-atm-models/soundings.html" target="_blank" rel="noopener noreferrer nofollow">https://docs.rocketpy.org/en/latest/user/environment/1-atm-models/soundings.html</a>  
 
 52. <a id="endnote-52"></a>
    Source: mce2.org  
-   Link: [https://mce2.org/wmogurme/images/workshops/ASEAN/day1/saide/HYSPLIT.pdf](https://mce2.org/wmogurme/images/workshops/ASEAN/day1/saide/HYSPLIT.pdf)  
+   Link: <a href="https://mce2.org/wmogurme/images/workshops/ASEAN/day1/saide/HYSPLIT.pdf" target="_blank" rel="noopener noreferrer nofollow">https://mce2.org/wmogurme/images/workshops/ASEAN/day1/saide/HYSPLIT.pdf</a>  
 
 53. <a id="endnote-53"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 54. <a id="endnote-54"></a>
    Source: skyrora.com  
    Title: weather balloons  
-   Link: [https://skyrora.com/weather-balloons/](https://skyrora.com/weather-balloons/)  
+   Link: <a href="https://skyrora.com/weather-balloons/" target="_blank" rel="noopener noreferrer nofollow">https://skyrora.com/weather-balloons/</a>  
 
 55. <a id="endnote-55"></a>
    Source: nfcc.org.uk  
    Title: Sky Lanterns  
-   Link: [https://nfcc.org.uk/our-services/building-safety/protection-building-safety/sky-lanterns/](https://nfcc.org.uk/our-services/building-safety/protection-building-safety/sky-lanterns/)  
+   Link: <a href="https://nfcc.org.uk/our-services/building-safety/protection-building-safety/sky-lanterns/" target="_blank" rel="noopener noreferrer nofollow">https://nfcc.org.uk/our-services/building-safety/protection-building-safety/sky-lanterns/</a>  
 
 56. <a id="endnote-56"></a>
    Source: seedmech.com  
-   Link: [https://www.seedmech.com/documents_folder/wmo_no_8.pdf](https://www.seedmech.com/documents_folder/wmo_no_8.pdf)  
+   Link: <a href="https://www.seedmech.com/documents_folder/wmo_no_8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.seedmech.com/documents_folder/wmo_no_8.pdf</a>  
 
 ### Additional References
 
 57. <a id="endnote-57"></a>
    Source: youtube.com  
    Title: Understanding upper-air wind data for forecasting  
-   Link: [https://www.youtube.com/watch?v=8wK9DqjY0tU](https://www.youtube.com/watch?v=8wK9DqjY0tU)  
+   Link: <a href="https://www.youtube.com/watch?v=8wK9DqjY0tU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8wK9DqjY0tU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>These videos explain how atmospheric wind data, tracked via weather balloons and radiosondes, is used to model the movement of objects at...</p></details>
 
 58. <a id="endnote-58"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100040013-4.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100040013-4.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100040013-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100040013-4.pdf</a>  
 
 59. <a id="endnote-59"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
 60. <a id="endnote-60"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/kytxcbs19/posts/a-behind-the-scenes-look-at-the-nws-releasing-a-weather-balloon-to-figure-out-te/1376434954530545/](https://www.facebook.com/kytxcbs19/posts/a-behind-the-scenes-look-at-the-nws-releasing-a-weather-balloon-to-figure-out-te/1376434954530545/)  
+   Link: <a href="https://www.facebook.com/kytxcbs19/posts/a-behind-the-scenes-look-at-the-nws-releasing-a-weather-balloon-to-figure-out-te/1376434954530545/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/kytxcbs19/posts/a-behind-the-scenes-look-at-the-nws-releasing-a-weather-balloon-to-figure-out-te/1376434954530545/</a>  
 
 61. <a id="endnote-61"></a>
    Source: thenightly.com.au  
-   Link: [https://thenightly.com.au/world/chinas-skies-erupt-blazing-fireball-loud-booms-fuel-ufo-and-space-test-speculation-c-20033978](https://thenightly.com.au/world/chinas-skies-erupt-blazing-fireball-loud-booms-fuel-ufo-and-space-test-speculation-c-20033978)  
+   Link: <a href="https://thenightly.com.au/world/chinas-skies-erupt-blazing-fireball-loud-booms-fuel-ufo-and-space-test-speculation-c-20033978" target="_blank" rel="noopener noreferrer nofollow">https://thenightly.com.au/world/chinas-skies-erupt-blazing-fireball-loud-booms-fuel-ufo-and-space-test-speculation-c-20033978</a>  
 
 62. <a id="endnote-62"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/funnyoldeworld/posts/debunked-this-ufo-is-a-hollywood-balloonufo-uap-debunked-factcheck/1490978935720145/](https://www.facebook.com/funnyoldeworld/posts/debunked-this-ufo-is-a-hollywood-balloonufo-uap-debunked-factcheck/1490978935720145/)  
+   Link: <a href="https://www.facebook.com/funnyoldeworld/posts/debunked-this-ufo-is-a-hollywood-balloonufo-uap-debunked-factcheck/1490978935720145/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/funnyoldeworld/posts/debunked-this-ufo-is-a-hollywood-balloonufo-uap-debunked-factcheck/1490978935720145/</a>  
 
 63. <a id="endnote-63"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TxStormChasers/posts/meteorology-monday-describing-wind-directionin-meteorology-winds-are-described-b/1491307272653905/](https://www.facebook.com/TxStormChasers/posts/meteorology-monday-describing-wind-directionin-meteorology-winds-are-described-b/1491307272653905/)  
+   Link: <a href="https://www.facebook.com/TxStormChasers/posts/meteorology-monday-describing-wind-directionin-meteorology-winds-are-described-b/1491307272653905/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TxStormChasers/posts/meteorology-monday-describing-wind-directionin-meteorology-winds-are-described-b/1491307272653905/</a>  
 
 64. <a id="endnote-64"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/JasonDunningWx/posts/did-you-see-this-a-high-altitude-stratospheric-balloon-was-spotted-floating-abov/1506804154148858/](https://www.facebook.com/JasonDunningWx/posts/did-you-see-this-a-high-altitude-stratospheric-balloon-was-spotted-floating-abov/1506804154148858/)  
+   Link: <a href="https://www.facebook.com/JasonDunningWx/posts/did-you-see-this-a-high-altitude-stratospheric-balloon-was-spotted-floating-abov/1506804154148858/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/JasonDunningWx/posts/did-you-see-this-a-high-altitude-stratospheric-balloon-was-spotted-floating-abov/1506804154148858/</a>  
 
 65. <a id="endnote-65"></a>
    Source: bczernecki.github.io  
-   Link: [https://bczernecki.github.io/thundeR/reference/get_sounding.html](https://bczernecki.github.io/thundeR/reference/get_sounding.html)  
+   Link: <a href="https://bczernecki.github.io/thundeR/reference/get_sounding.html" target="_blank" rel="noopener noreferrer nofollow">https://bczernecki.github.io/thundeR/reference/get_sounding.html</a>  
 
 66. <a id="endnote-66"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/](https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/)  
+   Link: <a href="https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/</a>

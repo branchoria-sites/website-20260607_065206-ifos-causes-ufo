@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_hidden_event_searchl_b7f3cf
 - ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_repeating_beam_patte_8be1f2
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - searchlights
 - beam-rules
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - searchlights
 - beam-rules
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Airspace rules, event notices and safety complaints can help identify whether dramatic sky beams came from a regulated display.
 hero_summary: Airspace rules, event notices and safety complaints can help identify whether dramatic sky beams came from a regulated display.
 layout: default
 permalink: /beam-rules/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /searchlights/
 nav_short_title: Beam rules
 title: Can airspace records solve beam sightings?
-title_full: Can airspace records solve beam sightings? | Searchlights
+title_full: Can airspace records solve beam sightings?
 display_title_short: Beam rules
 display_title: Beam rules
 heading_title: Can airspace records solve beam sightings?
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 06:23:32'
-parent_title: How Searchlights Paint UFOs in Clouds | IFOs
+parent_title: How Searchlights Paint UFOs in Clouds
 parent_permalink: /searchlights/
 parent_nav_short_title: Searchlights
 parent_heading_title: How Searchlights Paint UFOs in Clouds
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1
-  title: Searchlights | Ifos Causes Of
+  title: Searchlights | ifos causes of UFO 3 ed 238
   permalink: /searchlights/
   short_title: Searchlights
   heading_title: How Searchlights Paint UFOs in Clouds
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1
-  title: Searchlights | Ifos Causes Of
+  title: Searchlights | ifos causes of UFO 3 ed 238
   permalink: /searchlights/
   short_title: Searchlights
   heading_title: How Searchlights Paint UFOs in Clouds
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: When repeated loops look like intelligent control
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1
-  title: Searchlights | Ifos Causes Of
+  title: Searchlights | ifos causes of UFO 3 ed 238
   permalink: /searchlights/
   short_title: Searchlights
   heading_title: How Searchlights Paint UFOs in Clouds
@@ -260,6 +259,7 @@ next_link:
   permalink: /blue-book-1a295d/
   short_title: Blue Book
   heading_title: How official UFO records handled searchlights
+date: '2026-06-12 00:46:39 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_beam_rules_sighting_d7435e-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_beam_rules_sighting_d7435e-Illustration-1.webp
@@ -270,7 +270,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_bea
 
 A dramatic beam sweeping across clouds can trigger a UFO report, but it can also leave an administrative trail. Unlike many natural light phenomena, outdoor lasers and powerful [searchlights]({{ 'searchlights/' | relative_url }}) are often subject to aviation-safety rules because bright beams can distract, dazzle or temporarily impair [pilots]({{ 'pilots/' | relative_url }}). That means permits, airspace notifications, regulatory reviews and public complaints can sometimes help investigators determine whether a mysterious light display originated from a lawful event rather than an unknown aerial object. The existence of such records does not automatically explain every sighting, but checking them is one of the most practical ways to test a beam-related UFO report against documented human activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC.70-1B_Outdoor.Laser.Operations.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">AC.70 1B Outdoor.Laser.Operations</span><span class="citation-popover-snippet">Federal Aviation AdministrationFAA AC 70-1B: Outdoor Laser Operations14 Feb 2022 — This Advisory Circular (AC) provides information to as...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/commercial-displays-and-events/outdoor-laser-lights-and-fireworks/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">Civil Aviation Authority Outdoor laser lights and fireworks</span><span class="citation-popover-snippet">Civil Aviation AuthorityOutdoor laser lights and fireworks - AirspaceGuidance on planning an outdoor event or activity involving lasers...</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_beam_rules_sighting_d7435e-Illustration-1-dark.svg" | relative_url }}" alt="Beam rules illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_beam_rules_sighting_d7435e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_beam_rules_sighting_d7435e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why beams matter to aviation safety
 
@@ -279,9 +278,6 @@ Searchlights and lasers are regulated for a simple reason: a bright beam aimed i
 The United Kingdom follows a similar safety logic. The Civil Aviation Authority (CAA) publishes guidance covering outdoor lasers, searchlights and fireworks that may affect aircraft operations. Event organisers are expected to notify authorities when activities could present an aviation hazard. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/commercial-displays-and-events/outdoor-laser-lights-and-fireworks/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">Civil Aviation Authority Outdoor laser lights and fireworks</span><span class="citation-popover-snippet">Civil Aviation AuthorityOutdoor laser lights and fireworks - AirspaceGuidance on planning an outdoor event or activity involving lasers...</span></span></span>
 
 For UFO investigation, this matters because a beam bright enough to create a spectacular sky display is often bright enough to attract regulatory attention. A witness may see only an illuminated cloud patch or moving shaft of light, while aviation authorities see an activity requiring notification, assessment or monitoring.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/x75mph939-c" title="Contarnex Europe Limited LED Infrared Wind Turbine Aircraft Safety Lighting Simulation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=x75mph939-c" target="_blank" rel="noopener noreferrer">Contarnex Europe Limited LED Infrared Wind Turbine Aircraft Safety Lighting Simulation</a></p><p class="youtube-embed-meta">Channel: Contarnex</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=x75mph939-c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=x75mph939-c">Open on YouTube</a></p></div></div></div>
 
 ## Permits, notices and complaints as evidence
 
@@ -292,17 +288,15 @@ Several types of records can provide clues:
 * **Laser show approvals and variances.** In the United States, higher-powered entertainment lasers generally require FDA approval and supporting documentation. Outdoor shows that may affect airspace are also reviewed through FAA procedures. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fda.gov/radiation-emitting-products/home-business-and-entertainment-products/laser-light-shows" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[U.S. Food and Drug Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-title">laser light shows</span><span class="citation-popover-snippet">U.S. Food and Drug AdministrationLaser Light Shows18 Apr 2023 — Laser light show manufacturers must submit a variance request for FDA app...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.transportation.gov/regulations/federal-register-documents/2024-12976" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: transportation.gov">[Transportation Department]</a><span class="citation-popover" role="note"><span class="citation-popover-source">transportation.gov</span><span class="citation-popover-snippet">Transportation DepartmentNotice of Proposed Outdoor Laser Operation(s)13 Jun 2024 — The collection involves the gathering of information...</span></span></span>
 * **Airspace notifications.** Authorities may receive advance notice of outdoor laser operations, allowing aviation personnel and pilots to be informed about planned activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC.70-1B_Outdoor.Laser.Operations.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">AC.70 1B Outdoor.Laser.Operations</span><span class="citation-popover-snippet">Federal Aviation AdministrationFAA AC 70-1B: Outdoor Laser Operations14 Feb 2022 — This Advisory Circular (AC) provides information to as...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.transportation.gov/regulations/federal-register-documents/2024-12976" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: transportation.gov">[Transportation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">transportation.gov</span><span class="citation-popover-snippet">Transportation DepartmentNotice of Proposed Outdoor Laser Operation(s)13 Jun 2024 — The collection involves the gathering of information...</span></span></span>
 * **Event permits.** Festivals, stadium events, concerts and commercial promotions often obtain local permissions for large-scale lighting displays. While not all are aviation records, they can establish that powerful lights were operating at a specific time and place.
-* **[Pilot reports]({{ 'pilots/' | relative_url }}) and safety complaints.** If a beam entered protected airspace, pilots may have reported it. Such reports can help identify the location and timing of a display. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/faa/blinded-by-the-light-4879e10fe619" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">MediumBlinded by the Light. A Look at Cockpit Laser Illumination…If you encounter a laser illumination event during flight, remember to A...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/faa/faa-maintains-focus-on-dangerous-laser-strikes-7c91deb7347a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-title">faa maintains focus on dangerous laser strikes 7c91deb7347a</span><span class="citation-popover-snippet">MediumFAA Maintains Focus on Dangerous Laser StrikesFAA Maintains Focus on Dangerous Laser Strikes Pilots made nearly 13000 reports in 20...</span></span></span>
+* **Pilot reports and safety complaints.** If a beam entered protected airspace, pilots may have reported it. Such reports can help identify the location and timing of a display. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/faa/blinded-by-the-light-4879e10fe619" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">Blinded by the Light. A Look at Cockpit Laser Illumination…If you encounter a laser illumination event during flight, remember to A...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/faa/faa-maintains-focus-on-dangerous-laser-strikes-7c91deb7347a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-title">faa maintains focus on dangerous laser strikes 7c91deb7347a</span><span class="citation-popover-snippet">FAA Maintains Focus on Dangerous Laser StrikesFAA Maintains Focus on Dangerous Laser Strikes Pilots made nearly 13000 reports in 20...</span></span></span>
 * **Public complaints.** Residents frequently report intrusive searchlights or laser displays. These complaints can reveal recurring sources that later generate UFO reports.
 
 A particularly useful clue is repetition. Searchlight-based UFO reports often recur on multiple nights, follow similar paths, or appear only when low cloud is present. If records show a venue operating a recurring light display on the same evenings, the coincidence becomes significant evidence.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_beam_rules_sighting_d7435e-Illustration-2-dark.svg" | relative_url }}" alt="Beam rules illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_beam_rules_sighting_d7435e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_beam_rules_sighting_d7435e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### When aviation records match the sighting
 
 The strongest beam explanations usually involve multiple points of agreement:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -316,9 +310,6 @@ The strongest beam explanations usually involve multiple points of agreement:
 
 In such cases, airspace documentation does not merely show that a beam existed somewhere in the region; it helps establish a plausible mechanism connecting the reported UFO appearance to a known source.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gCD4l-haPdQ" title="Pilot speaks about laser beam scare while flying helicopter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gCD4l-haPdQ" target="_blank" rel="noopener noreferrer">Pilot speaks about laser beam scare while flying helicopter</a></p><p class="youtube-embed-meta">Channel: KFDM YouTube</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gCD4l-haPdQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gCD4l-haPdQ">Open on YouTube</a></p></div></div></div>
-
 ## Limits of using regulations as sighting proof
 
 Regulatory records are valuable clues, but they are not definitive proof.
@@ -331,12 +322,10 @@ Third, records can establish opportunity but not identity. A laser show operatin
 
 Finally, some UFO reports involving beams are based on incomplete observations. A witness may report a hovering luminous object while never noticing the beam itself. Conversely, an investigator may discover a permitted laser display yet still lack enough information to prove that the display caused the observed phenomenon.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_beam_rules_sighting_d7435e-Illustration-3-dark.svg" | relative_url }}" alt="Beam rules illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_beam_rules_sighting_d7435e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1_beam_rules_sighting_d7435e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What records can realistically tell investigators
 
 For beam-related UFO reports, aviation and regulatory records work best as elimination tools. They help answer practical questions:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -349,10 +338,6 @@ For beam-related UFO reports, aviation and regulatory records work best as elimi
 </div>
 
 When those answers align, the case for a searchlight or laser explanation becomes substantially stronger. Regulations do not solve every sighting, but they provide an often-overlooked form of evidence: a paper trail connecting an apparently mysterious light in the sky to a documented human activity on the ground. [Transportation Department+3Federal Aviation Administration+3Civil Aviation Authority]
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XfUnGVhKKVc" title="Laser Strikes on Aircraft Pilots" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XfUnGVhKKVc" target="_blank" rel="noopener noreferrer">Laser Strikes on Aircraft Pilots</a></p><p class="youtube-embed-meta">Channel: Federal Aviation Administration</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XfUnGVhKKVc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XfUnGVhKKVc">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -447,7 +432,7 @@ When those answers align, the case for a searchlight or laser explanation become
         <p class="fr-section-kicker">eBay marketplace picks</p>
         <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
       </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
       <div class="fr-ebay-market-toolbar">
         <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
@@ -471,15 +456,15 @@ When those answers align, the case for a searchlight or laser explanation become
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-rules-can-airspace-records-solve-beam-sightings-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="beam-rules-can-airspace-records-solve-beam-sightings-ifos-causes-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=searchlight+fixture&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-airspace-records-solve-beam-sightings-searchlight-fixture&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="searchlight fixture" data-ebay-reference="can-airspace-records-solve-beam-sightings-searchlight-fixture" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Brass Nautical Spotlight Lamp Mid Century Marine Search Light Fixture"><img src="https://i.ebayimg.com/images/g/KzAAAeSwdB9pTp6D/s-l225.jpg" alt="Listing image for Vintage Brass Nautical Spotlight Lamp Mid Century Marine Search Light Fixture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-rules-can-airspace-records-solve-beam-sightings-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="beam-rules-can-airspace-records-solve-beam-sightings-ifos-causes-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=searchlight+fixture&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-airspace-records-solve-beam-sightings-searchlight-fixture&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="searchlight fixture" data-ebay-reference="can-airspace-records-solve-beam-sightings-searchlight-fixture" target="_blank" rel="sponsored noopener noreferrer">Vintage Brass Nautical Spotlight Lamp Mid Century Marine Search Light Fixture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-rules-can-airspace-records-solve-beam-sightings-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="beam-rules-can-airspace-records-solve-beam-sightings-ifos-causes-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=searchlight+fixture&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-airspace-records-solve-beam-sightings-searchlight-fixture&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="searchlight fixture" data-ebay-reference="can-airspace-records-solve-beam-sightings-searchlight-fixture" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for searchlight fixture">Search <span data-ebay-domain-label>eBay.co.uk</span>: searchlight fixture</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-rules-can-airspace-records-solve-beam-sightings-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="beam-rules-can-airspace-records-solve-beam-sightings-ifos-causes-of-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=searchlight+fixture&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-airspace-records-solve-beam-sightings-searchlight-fixture&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="searchlight fixture" data-ebay-reference="can-airspace-records-solve-beam-sightings-searchlight-fixture" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -487,15 +472,15 @@ When those answers align, the case for a searchlight or laser explanation become
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-rules-can-airspace-records-solve-beam-sightings-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="beam-rules-can-airspace-records-solve-beam-sightings-ifos-causes-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=searchlight+fixture&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-airspace-records-solve-beam-sightings-searchlight-fixture&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="searchlight fixture" data-ebay-reference="can-airspace-records-solve-beam-sightings-searchlight-fixture" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for searchlight duo 1 pendant ceiling light x 2"><img src="https://i.ebayimg.com/images/g/RPoAAeSwx0Jo896U/s-l225.jpg" alt="Listing image for searchlight duo 1 pendant ceiling light x 2" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-rules-can-airspace-records-solve-beam-sightings-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="beam-rules-can-airspace-records-solve-beam-sightings-ifos-causes-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=searchlight+fixture&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-airspace-records-solve-beam-sightings-searchlight-fixture&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="searchlight fixture" data-ebay-reference="can-airspace-records-solve-beam-sightings-searchlight-fixture" target="_blank" rel="sponsored noopener noreferrer">searchlight duo 1 pendant ceiling light x 2</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-rules-can-airspace-records-solve-beam-sightings-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="beam-rules-can-airspace-records-solve-beam-sightings-ifos-causes-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=searchlight+fixture&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-airspace-records-solve-beam-sightings-searchlight-fixture&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="searchlight fixture" data-ebay-reference="can-airspace-records-solve-beam-sightings-searchlight-fixture" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for searchlight fixture">Search <span data-ebay-domain-label>eBay.co.uk</span>: searchlight fixture</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-rules-can-airspace-records-solve-beam-sightings-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="beam-rules-can-airspace-records-solve-beam-sightings-ifos-causes-of-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=searchlight+fixture&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-airspace-records-solve-beam-sightings-searchlight-fixture&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="searchlight fixture" data-ebay-reference="can-airspace-records-solve-beam-sightings-searchlight-fixture" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -503,15 +488,15 @@ When those answers align, the case for a searchlight or laser explanation become
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-rules-can-airspace-records-solve-beam-sightings-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="beam-rules-can-airspace-records-solve-beam-sightings-ifos-causes-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=searchlight+fixture&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-airspace-records-solve-beam-sightings-searchlight-fixture&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="searchlight fixture" data-ebay-reference="can-airspace-records-solve-beam-sightings-searchlight-fixture" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Searchlight Royale Wall Bracket Satin Silver Wall Lighting Fixture"><img src="https://i.ebayimg.com/images/g/jBsAAeSw0gFoRtw6/s-l225.jpg" alt="Listing image for Searchlight Royale Wall Bracket Satin Silver Wall Lighting Fixture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-rules-can-airspace-records-solve-beam-sightings-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="beam-rules-can-airspace-records-solve-beam-sightings-ifos-causes-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=searchlight+fixture&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-airspace-records-solve-beam-sightings-searchlight-fixture&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="searchlight fixture" data-ebay-reference="can-airspace-records-solve-beam-sightings-searchlight-fixture" target="_blank" rel="sponsored noopener noreferrer">Searchlight Royale Wall Bracket Satin Silver Wall Lighting Fixture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-rules-can-airspace-records-solve-beam-sightings-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="beam-rules-can-airspace-records-solve-beam-sightings-ifos-causes-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=searchlight+fixture&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-airspace-records-solve-beam-sightings-searchlight-fixture&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="searchlight fixture" data-ebay-reference="can-airspace-records-solve-beam-sightings-searchlight-fixture" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for searchlight fixture">Search <span data-ebay-domain-label>eBay.co.uk</span>: searchlight fixture</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-rules-can-airspace-records-solve-beam-sightings-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="beam-rules-can-airspace-records-solve-beam-sightings-ifos-causes-of-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=searchlight+fixture&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-airspace-records-solve-beam-sightings-searchlight-fixture&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="searchlight fixture" data-ebay-reference="can-airspace-records-solve-beam-sightings-searchlight-fixture" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -519,15 +504,15 @@ When those answers align, the case for a searchlight or laser explanation become
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-rules-can-airspace-records-solve-beam-sightings-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="beam-rules-can-airspace-records-solve-beam-sightings-ifos-causes-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=searchlight+fixture&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-airspace-records-solve-beam-sightings-searchlight-fixture&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="searchlight fixture" data-ebay-reference="can-airspace-records-solve-beam-sightings-searchlight-fixture" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SEARCHLIGHT GOLD 1 LIGHT GLASS FLUSH CEILING LIGHT, NEW BOXED"><img src="https://i.ebayimg.com/images/g/Wd8AAeSw-JNqJEyO/s-l225.jpg" alt="Listing image for SEARCHLIGHT GOLD 1 LIGHT GLASS FLUSH CEILING LIGHT, NEW BOXED" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-rules-can-airspace-records-solve-beam-sightings-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="beam-rules-can-airspace-records-solve-beam-sightings-ifos-causes-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=searchlight+fixture&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-airspace-records-solve-beam-sightings-searchlight-fixture&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="searchlight fixture" data-ebay-reference="can-airspace-records-solve-beam-sightings-searchlight-fixture" target="_blank" rel="sponsored noopener noreferrer">SEARCHLIGHT GOLD 1 LIGHT GLASS FLUSH CEILING LIGHT, NEW BOXED</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-rules-can-airspace-records-solve-beam-sightings-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="beam-rules-can-airspace-records-solve-beam-sightings-ifos-causes-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=searchlight+fixture&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-airspace-records-solve-beam-sightings-searchlight-fixture&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="searchlight fixture" data-ebay-reference="can-airspace-records-solve-beam-sightings-searchlight-fixture" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for searchlight fixture">Search <span data-ebay-domain-label>eBay.co.uk</span>: searchlight fixture</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-rules-can-airspace-records-solve-beam-sightings-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="beam-rules-can-airspace-records-solve-beam-sightings-ifos-causes-of-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=searchlight+fixture&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-airspace-records-solve-beam-sightings-searchlight-fixture&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="searchlight fixture" data-ebay-reference="can-airspace-records-solve-beam-sightings-searchlight-fixture" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -535,7 +520,7 @@ When those answers align, the case for a searchlight or laser explanation become
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-rules-can-airspace-records-solve-beam-sightings-ifos-causes-of-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="beam-rules-can-airspace-records-solve-beam-sightings-ifos-causes-of-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=searchlight+fixture&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-airspace-records-solve-beam-sightings-searchlight-fixture&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="searchlight fixture" data-ebay-reference="can-airspace-records-solve-beam-sightings-searchlight-fixture" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -751,126 +736,126 @@ When those answers align, the case for a searchlight or laser explanation become
 1. <a id="endnote-1"></a>
    Source: faa.gov  
    Title: AC.70 1B Outdoor.Laser.Operations  
-   Link: [https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC.70-1B_Outdoor.Laser.Operations.pdf](https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC.70-1B_Outdoor.Laser.Operations.pdf)  
+   Link: <a href="https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC.70-1B_Outdoor.Laser.Operations.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC.70-1B_Outdoor.Laser.Operations.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationFAA AC 70-1B: Outdoor Laser Operations14 Feb 2022 — This Advisory Circular (AC) provides information to as...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: transportation.gov  
-   Link: [https://www.transportation.gov/regulations/federal-register-documents/2024-12976](https://www.transportation.gov/regulations/federal-register-documents/2024-12976)  
+   Link: <a href="https://www.transportation.gov/regulations/federal-register-documents/2024-12976" target="_blank" rel="noopener noreferrer nofollow">https://www.transportation.gov/regulations/federal-register-documents/2024-12976</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Transportation DepartmentNotice of Proposed Outdoor Laser Operation(s)13 Jun 2024 — The collection involves the gathering of information...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: faa.gov  
    Title: Federal Aviation Administration Chapter 29  
-   Link: [https://www.faa.gov/air_traffic/publications/atpubs/pham_html/chap29_section_1.html](https://www.faa.gov/air_traffic/publications/atpubs/pham_html/chap29_section_1.html)  
+   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/pham_html/chap29_section_1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/pham_html/chap29_section_1.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Outdoor Laser OperationsThe effective irradiance of a visible laser beam is restricted to a level that should not cause transient visual...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: skybrary.aero  
-   Link: [https://skybrary.aero/sites/default/files/bookshelf/3849.pdf](https://skybrary.aero/sites/default/files/bookshelf/3849.pdf)  
+   Link: <a href="https://skybrary.aero/sites/default/files/bookshelf/3849.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/sites/default/files/bookshelf/3849.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Manual on Laser Emitters and Flight SafetyLaser beams may cause damage to the retina, especially at higher levels of exposure. The bright...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: faa.gov  
    Title: do not aim laser light displays sky  
-   Link: [https://www.faa.gov/newsroom/faa-do-not-aim-laser-light-displays-sky](https://www.faa.gov/newsroom/faa-do-not-aim-laser-light-displays-sky)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FAA: Do Not Aim Laser-Light Displays at Sky5 Dec 2019 — People with laser-light displays that affect pilots will be asked to adjust them...</p></details>
+   Link: <a href="https://www.faa.gov/newsroom/faa-do-not-aim-laser-light-displays-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/newsroom/faa-do-not-aim-laser-light-displays-sky</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Do Not Aim Laser-Light Displays at Sky5 Dec 2019 — People with laser-light displays that affect pilots will be asked to adjust them...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: fda.gov  
    Title: laser light shows  
-   Link: [https://www.fda.gov/radiation-emitting-products/home-business-and-entertainment-products/laser-light-shows](https://www.fda.gov/radiation-emitting-products/home-business-and-entertainment-products/laser-light-shows)  
+   Link: <a href="https://www.fda.gov/radiation-emitting-products/home-business-and-entertainment-products/laser-light-shows" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/radiation-emitting-products/home-business-and-entertainment-products/laser-light-shows</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Food and Drug AdministrationLaser Light Shows18 Apr 2023 — Laser light show manufacturers must submit a variance request for FDA app...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: faa.gov  
    Title: laser education  
-   Link: [https://www.faa.gov/about/initiatives/lasers/laser_education](https://www.faa.gov/about/initiatives/lasers/laser_education)  
+   Link: <a href="https://www.faa.gov/about/initiatives/lasers/laser_education" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/about/initiatives/lasers/laser_education</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationLaser Education &amp; News | Federal Aviation Administration4 Oct 2024 — Follow FAA procedures and guidelines...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: medium.com  
-   Link: [https://medium.com/faa/blinded-by-the-light-4879e10fe619](https://medium.com/faa/blinded-by-the-light-4879e10fe619)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MediumBlinded by the Light. A Look at Cockpit Laser Illumination…If you encounter a laser illumination event during flight, remember to A...</p></details>
+   Link: <a href="https://medium.com/faa/blinded-by-the-light-4879e10fe619" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/faa/blinded-by-the-light-4879e10fe619</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Blinded by the Light. A Look at Cockpit Laser Illumination…If you encounter a laser illumination event during flight, remember to A...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: medium.com  
    Title: faa maintains focus on dangerous laser strikes 7c91deb7347a  
-   Link: [https://medium.com/faa/faa-maintains-focus-on-dangerous-laser-strikes-7c91deb7347a](https://medium.com/faa/faa-maintains-focus-on-dangerous-laser-strikes-7c91deb7347a)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MediumFAA Maintains Focus on Dangerous Laser StrikesFAA Maintains Focus on Dangerous Laser Strikes Pilots made nearly 13000 reports in 20...</p></details>
+   Link: <a href="https://medium.com/faa/faa-maintains-focus-on-dangerous-laser-strikes-7c91deb7347a" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/faa/faa-maintains-focus-on-dangerous-laser-strikes-7c91deb7347a</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>FAA Maintains Focus on Dangerous Laser StrikesFAA Maintains Focus on Dangerous Laser Strikes Pilots made nearly 13000 reports in 20...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: downloads.regulations.gov  
    Title: attachment 1  
-   Link: [https://downloads.regulations.gov/FDA-2023-V-2919-0003/attachment_1.pdf](https://downloads.regulations.gov/FDA-2023-V-2919-0003/attachment_1.pdf)  
+   Link: <a href="https://downloads.regulations.gov/FDA-2023-V-2919-0003/attachment_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://downloads.regulations.gov/FDA-2023-V-2919-0003/attachment_1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Approval (General) Letter Template14 Jun 2024 — Laser projection systems and light shows manufactured, assembled, produced, or distribute...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: fda.gov  
-   Link: [https://www.fda.gov/media/73939/download](https://www.fda.gov/media/73939/download)  
+   Link: <a href="https://www.fda.gov/media/73939/download" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/media/73939/download</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Effective Visual Control of Laser Projections6 Jun 1996 — However, in the case of outdoor laser light shows and displays, unterminat- ed...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: caa.co.uk  
    Title: Civil Aviation Authority Outdoor laser lights and fireworks  
-   Link: [https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/commercial-displays-and-events/outdoor-laser-lights-and-fireworks/](https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/commercial-displays-and-events/outdoor-laser-lights-and-fireworks/)  
+   Link: <a href="https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/commercial-displays-and-events/outdoor-laser-lights-and-fireworks/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/commercial-displays-and-events/outdoor-laser-lights-and-fireworks/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Civil Aviation AuthorityOutdoor laser lights and fireworks - AirspaceGuidance on planning an outdoor event or activity involving lasers...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: ordering.ges.com  
-   Link: [https://ordering.ges.com/011602454/download/lasers](https://ordering.ges.com/011602454/download/lasers)  
+   Link: <a href="https://ordering.ges.com/011602454/download/lasers" target="_blank" rel="noopener noreferrer nofollow">https://ordering.ges.com/011602454/download/lasers</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ges.com2024 LDI Laser and LILI Safety RequirementsOnly FDA-approved variances will be valid: Merely applying to FDA for a variance is not...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: ilda.com  
-   Link: [https://www.ilda.com/cata.htm](https://www.ilda.com/cata.htm)  
+   Link: <a href="https://www.ilda.com/cata.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ilda.com/cata.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Category A Laser Show StandardThe standard describes requirements for a laser show that ILDA considers to be generally recognized as safe...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: plasa.org  
-   Link: [https://www.plasa.org/laser-safety-alert/](https://www.plasa.org/laser-safety-alert/)  
+   Link: <a href="https://www.plasa.org/laser-safety-alert/" target="_blank" rel="noopener noreferrer nofollow">https://www.plasa.org/laser-safety-alert/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Laser Safety AlertThe US Food and Drug Administration has issued a safety alert regarding certain types of display lasers used in enterta...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: casa.gov.au  
-   Link: [https://www.casa.gov.au/laser-emissions-which-may-endanger-safety-aircraft](https://www.casa.gov.au/laser-emissions-which-may-endanger-safety-aircraft)  
+   Link: <a href="https://www.casa.gov.au/laser-emissions-which-may-endanger-safety-aircraft" target="_blank" rel="noopener noreferrer nofollow">https://www.casa.gov.au/laser-emissions-which-may-endanger-safety-aircraft</a>  
 
 17. <a id="endnote-17"></a>
    Source: pangolinlegacy.com  
-   Link: [https://www.pangolinlegacy.com/resguide09d.htm](https://www.pangolinlegacy.com/resguide09d.htm)  
+   Link: <a href="https://www.pangolinlegacy.com/resguide09d.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.pangolinlegacy.com/resguide09d.htm</a>  
 
 18. <a id="endnote-18"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DLaW69ktfGx/](https://www.instagram.com/reel/DLaW69ktfGx/)  
+   Link: <a href="https://www.instagram.com/reel/DLaW69ktfGx/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DLaW69ktfGx/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The FAA on Instagram: &quot;Directing lasers into the sky poses a...Directing lasers into the sky poses a serious threat to aviation safety...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
    Title: on february 25 2026 the faa released its annual laser strike data and the number  
-   Link: [https://www.facebook.com/61554983172978/posts/on-february-25-2026-the-faa-released-its-annual-laser-strike-data-and-the-number/122254624358166105/](https://www.facebook.com/61554983172978/posts/on-february-25-2026-the-faa-released-its-annual-laser-strike-data-and-the-number/122254624358166105/)  
+   Link: <a href="https://www.facebook.com/61554983172978/posts/on-february-25-2026-the-faa-released-its-annual-laser-strike-data-and-the-number/122254624358166105/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61554983172978/posts/on-february-25-2026-the-faa-released-its-annual-laser-strike-data-and-the-number/122254624358166105/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>On February 25, 2026, the FAA released its annual laser...On February 25, 2026, the FAA released its annual laser strike data and the nu...</p></details>
    Published: February 25, 2026  
 
 20. <a id="endnote-20"></a>
    Source: candlepowerforums.com  
    Title: laws on searchlights if i live in flight paths for airports.354195  
-   Link: [https://www.candlepowerforums.com/threads/laws-on-searchlights-if-i-live-in-flight-paths-for-airports.354195/](https://www.candlepowerforums.com/threads/laws-on-searchlights-if-i-live-in-flight-paths-for-airports.354195/)  
+   Link: <a href="https://www.candlepowerforums.com/threads/laws-on-searchlights-if-i-live-in-flight-paths-for-airports.354195/" target="_blank" rel="noopener noreferrer nofollow">https://www.candlepowerforums.com/threads/laws-on-searchlights-if-i-live-in-flight-paths-for-airports.354195/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Laws on searchlights if I live in flight paths for airports?30 Jan 2013 — This depends on where you live, over here in the UK it is illeg...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: laserpointersafety.com  
-   Link: [https://www.laserpointersafety.com/ilda-outdoor.html](https://www.laserpointersafety.com/ilda-outdoor.html)  
+   Link: <a href="https://www.laserpointersafety.com/ilda-outdoor.html" target="_blank" rel="noopener noreferrer nofollow">https://www.laserpointersafety.com/ilda-outdoor.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>HomeILDA and safe use of outdoor laser showsIn the United States, all outdoor laser shows must be submitted to the Federal Aviation Admin...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/FAA/posts/directing-lasers-into-the-sky-poses-a-serious-threat-to-aviation-safety-laser-be/1159493559540233/](https://www.facebook.com/FAA/posts/directing-lasers-into-the-sky-poses-a-serious-threat-to-aviation-safety-laser-be/1159493559540233/)  
+   Link: <a href="https://www.facebook.com/FAA/posts/directing-lasers-into-the-sky-poses-a-serious-threat-to-aviation-safety-laser-be/1159493559540233/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FAA/posts/directing-lasers-into-the-sky-poses-a-serious-threat-to-aviation-safety-laser-be/1159493559540233/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Laser beams can temporarily blind pilots, endangering the flight crew and passengers.Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: foxbusiness.com  
    Title: faa warning holiday laser light displays sky protect pilots  
-   Link: [https://www.foxbusiness.com/lifestyle/faa-warning-holiday-laser-light-displays-sky-protect-pilots](https://www.foxbusiness.com/lifestyle/faa-warning-holiday-laser-light-displays-sky-protect-pilots)  
+   Link: <a href="https://www.foxbusiness.com/lifestyle/faa-warning-holiday-laser-light-displays-sky-protect-pilots" target="_blank" rel="noopener noreferrer nofollow">https://www.foxbusiness.com/lifestyle/faa-warning-holiday-laser-light-displays-sky-protect-pilots</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FAA warns against aiming holiday laser-light displays...29 Nov 2021 — Intentionally pointing holiday laser light displays at the sky can...</p></details>

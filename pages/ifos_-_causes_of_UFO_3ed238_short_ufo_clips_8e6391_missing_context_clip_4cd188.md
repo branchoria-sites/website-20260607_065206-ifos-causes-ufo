@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_parallax_speed_illus_714144
 - ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_useful_ufo_video_che_819eea
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - short-clips
 - missing-context
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - short-clips
 - missing-context
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: A genuine UFO clip can still be misleading when the horizon, before-and-after footage, sound, and camera direction are missing.
 hero_summary: A genuine UFO clip can still be misleading when the horizon, before-and-after footage, sound, and camera direction are missing.
 layout: default
 permalink: /missing-context/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /short-clips/
 nav_short_title: Missing Context
 title: What the Missing Minutes Can Reveal
-title_full: What the Missing Minutes Can Reveal | Short Clips
+title_full: What the Missing Minutes Can Reveal
 display_title_short: Missing Context
 display_title: Missing Context
 heading_title: What the Missing Minutes Can Reveal
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-07 00:23:47'
-parent_title: Why Short UFO Videos Are Hard to Trust | IFOs
+parent_title: Why Short UFO Videos Are Hard to Trust
 parent_permalink: /short-clips/
 parent_nav_short_title: Short Clips
 parent_heading_title: Why Short UFO Videos Are Hard to Trust
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391
-  title: Short Clips | Ifos Causes Of
+  title: Short Clips | ifos causes of UFO 3 ed 238
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: Why Short UFO Videos Are Hard to Trust
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391
-  title: Short Clips | Ifos Causes Of
+  title: Short Clips | ifos causes of UFO 3 ed 238
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: Why Short UFO Videos Are Hard to Trust
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: What Makes a UFO Clip Useful
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391
-  title: Short Clips | Ifos Causes Of
+  title: Short Clips | ifos causes of UFO 3 ed 238
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: Why Short UFO Videos Are Hard to Trust
@@ -266,6 +265,7 @@ next_link:
   permalink: /parallax-811b0d/
   short_title: Parallax
   heading_title: Why Fast UFOs May Not Be Fast
+date: '2026-06-12 00:33:29 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_missing_context_clip_4cd188-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_missing_context_clip_4cd188-Illustration-1.webp
@@ -276,9 +276,8 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_missing
 
 A UFO video does not have to be fake to be poor evidence. Many of the most widely shared clips are genuine recordings of something that was really in the sky, yet they remain difficult or impossible to interpret because crucial context has been removed. The missing information is often more important than the object itself: where it came from, what happened before recording began, what was visible outside the frame, whether the camera was moving, and how the scene looked a minute later.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_missing_context_clip_4cd188-Illustration-1-dark.svg" | relative_url }}" alt="Missing Context illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_missing_context_clip_4cd188-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_missing_context_clip_4cd188-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This distinction matters when examining the causes of UFO reports. A short clip can preserve the appearance of a mystery while discarding the evidence needed to identify it. NASA's independent UAP study noted that the field suffers from a limited number of high-quality observations and a lack of consistent, detailed data, making firm conclusions difficult. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">to release discuss unidentified anomalous phenomena report</span><span class="citation-popover-snippet">NASANASA to Release, Discuss Unidentified Anomalous...12 Sept 2023 — There are currently a limited number of high-quality observations o...</span></span></span>
+This distinction matters when examining the causes of UFO reports. A short clip can preserve the appearance of a mystery while discarding the evidence needed to identify it. NASA's independent UAP study noted that the field suffers from a limited number of high-quality observations and a lack of consistent, detailed data, making firm conclusions difficult. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">to release discuss unidentified anomalous phenomena report</span><span class="citation-popover-snippet">NASA to Release, Discuss Unidentified Anomalous...12 Sept 2023 — There are currently a limited number of high-quality observations o...</span></span></span>
 
 ## What the Missing Minutes Can Reveal
 
@@ -302,12 +301,9 @@ The strongest evidence in a sky observation is often the object's behaviour over
 
 Imagine a 20-second clip showing a bright light hovering motionless against a dark sky. Without earlier footage, viewers cannot know whether the light had been moving steadily for ten minutes beforehand. Without later footage, they cannot know whether it eventually passed overhead as a conventional aircraft.
 
-This is one reason official investigations frequently distinguish between "unresolved" and "anomalous". A report may remain unresolved simply because the available footage is too limited for analysis. AARO has repeatedly highlighted the role of [insufficient data]({{ 'missing-data/' | relative_url }}) in preventing case resolution, and its annual reporting has noted hundreds of cases placed into [active archives]({{ 'active-archives/' | relative_url }}) because available information was inadequate for immediate assessment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/825619489/AARO-Annual-Report-on-UAP-FY2024-Ft-AsTechR" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">AARO Annual Report on UAP FY2024 Ft AsTechR</span><span class="citation-popover-snippet">ScribdAARO 2024 Annual UAP Report Summary | PDFHowever, with 444 cases lacking sufficient data for immediate resolution, AARO has designa...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[2U.S.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dr jon kosloski director aaro media roundtable on the fy24 consolidated annual</span><span class="citation-popover-snippet">Department of WarDr. Jon Kosloski, Director, AARO, Media Roundtable on the...14 Nov 2024 — Meanwhile, over 900 reports lack sufficient d...</span></span></span> Department of War
+This is one reason official investigations frequently distinguish between "unresolved" and "anomalous". A report may remain unresolved simply because the available footage is too limited for analysis. [AARO]({{ 'aaro/' | relative_url }}) has repeatedly highlighted the role of insufficient data in preventing case resolution, and its annual reporting has noted hundreds of cases placed into [active archives]({{ 'active-archives/' | relative_url }}) because available information was inadequate for immediate assessment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/825619489/AARO-Annual-Report-on-UAP-FY2024-Ft-AsTechR" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">AARO Annual Report on UAP FY2024 Ft AsTechR</span><span class="citation-popover-snippet">AARO 2024 Annual UAP Report Summary &#124; PDFHowever, with 444 cases lacking sufficient data for immediate resolution, AARO has designa...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[2U.S.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dr jon kosloski director aaro media roundtable on the fy24 consolidated annual</span><span class="citation-popover-snippet">Department of WarDr. Jon Kosloski, Director, AARO, Media Roundtable on the...14 Nov 2024 — Meanwhile, over 900 reports lack sufficient d...</span></span></span> Department of War
 
 A 30-second clip may therefore tell investigators less than a five-minute recording, even if both show the same object.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/POD4iAL4teM" title="Ross Coulthart LIVE: UFO Files (2nd Drop) Analysis and Reaction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=POD4iAL4teM" target="_blank" rel="noopener noreferrer">Ross Coulthart LIVE: UFO Files (2nd Drop) Analysis and Reaction</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 384.5K &middot; Uploaded: May 2026 &middot; Length: 1 hour 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=POD4iAL4teM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=POD4iAL4teM">Open on YouTube</a></p></div></div></div>
 
 ## Clues Lost Outside the Cropped Frame
 
@@ -321,14 +317,13 @@ Without reference objects, size and [range]({{ 'range/' | relative_url }}) becom
 
 A nearby balloon can resemble a distant aircraft. A drone a few hundred metres away can resemble a much larger object several kilometres away. Because speed calculations depend on distance estimates, errors multiply rapidly.
 
-[AARO]({{ 'aaro/' | relative_url }})'s analysis of forced perspective and parallax explains that observers often misjudge the size, speed, and distance of aerial objects when familiar reference points are absent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROEffect of Forced Perspective and Parallax View on UAP...May 8, 2024 — This paper provides a basic overview of these phenomena and th...</span><span class="citation-popover-meta">Published: May 8, 2024</span></span></span>
+AARO's analysis of forced perspective and parallax explains that observers often misjudge the size, speed, and distance of aerial objects when familiar reference points are absent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Effect of Forced Perspective and Parallax View on UAP...May 8, 2024 — This paper provides a basic overview of these phenomena and th...</span><span class="citation-popover-meta">Published: May 8, 2024</span></span></span>
 
 ### Camera Motion Disappears
 
 A cropped frame can conceal movements made by the person filming.
 
 A slight hand movement can make a stationary object appear to dart sideways. Digital zoom can exaggerate tiny motions. Autofocus adjustments can create apparent shape changes. If viewers see only the magnified portion of the image, they may mistake camera effects for object manoeuvres.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_missing_context_clip_4cd188-Illustration-2-dark.svg" | relative_url }}" alt="Missing Context illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_missing_context_clip_4cd188-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_missing_context_clip_4cd188-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Environmental Context Vanishes
@@ -349,8 +344,7 @@ A silent clip removes this layer of evidence. Viewers lose information about wha
 
 In some cases, investigators have found that contemporaneous witness commentary contains more useful information than the imagery itself.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/q0HRS_IzTmU" title="Are they aliens?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=q0HRS_IzTmU" target="_blank" rel="noopener noreferrer">Are they aliens?</a></p><p class="youtube-embed-meta">Channel: ReasonTV</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=q0HRS_IzTmU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=q0HRS_IzTmU">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/POD4iAL4teM" title="Ross Coulthart LIVE: UFO Files (2nd Drop) Analysis and Reaction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=POD4iAL4teM" target="_blank" rel="noopener noreferrer">Ross Coulthart LIVE: UFO Files (2nd Drop) Analysis and Reaction</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 384.5K &middot; Uploaded: May 2026 &middot; Length: 1 hour 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=POD4iAL4teM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=POD4iAL4teM">Open on YouTube</a></p></div></div></div>
 
 ## Why Viral Edits Can Increase Mystery
 
@@ -362,15 +356,11 @@ The result is a selection effect. Audiences are disproportionately exposed to th
 
 This can create a misleading impression that unusual aerial events routinely display inexplicable behaviour. In reality, the omitted footage may contain ordinary explanations that simply make the clip less interesting.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GDSf2h9_39I" title="Why Aliens Might Already Be On Their Way To Us" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GDSf2h9_39I" target="_blank" rel="noopener noreferrer">Why Aliens Might Already Be On Their Way To Us</a></p><p class="youtube-embed-meta">Channel: Kurzgesagt – In a Nutshell</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GDSf2h9_39I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GDSf2h9_39I">Open on YouTube</a></p></div></div></div>
-
 ## How Longer Footage Can Turn a UFO into an IFO
 
 Many apparent mysteries weaken when investigators obtain more complete recordings.
 
 Longer footage can reveal:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -387,7 +377,6 @@ The principle is simple: identification usually improves when more information i
 NASA's UAP study emphasised that reliable conclusions depend on detailed, well-characterised observations rather than isolated images or fragments. The report noted that many cases remain difficult to assess because observations are inconsistent, incomplete, or lack supporting metadata. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">The agency stressed the need to shift the conversation from sensationalism to science and eliminate the stigma associated with reporting...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe study of Unidentified Anomalous Phenomena (UAP) presents a unique scientific opportunity tha...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe study of Unidentified Anomalous Phenomena (UAP) presents a unique scientific opportunity tha...</span></span></span>
 
 AARO's public releases show a similar pattern. Some videos remain unresolved not because they demonstrate extraordinary behaviour, but because the footage and associated data are too limited to support a determination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">PR-017, Unresolved UAP Report, Europe 2024This unresolved report contributes to AARO&#x27;s historical and locational trend analyses. VIDEO IN...</span></span></span>
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_missing_context_clip_4cd188-Illustration-3-dark.svg" | relative_url }}" alt="Missing Context illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_missing_context_clip_4cd188-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_missing_context_clip_4cd188-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Weak Evidence Is Not the Same as False Evidence
@@ -491,7 +480,7 @@ For this reason, experienced analysts often focus less on the object itself and 
         <p class="fr-section-kicker">eBay marketplace picks</p>
         <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
       </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
       <div class="fr-ebay-market-toolbar">
         <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
@@ -515,15 +504,15 @@ For this reason, experienced analysts often focus less on the object itself and 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-context-what-the-missing-minutes-can-reveal-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="missing-context-what-the-missing-minutes-can-reveal-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO 1982 Tour Programme Book With Poster"><img src="{{ '/assets/images/marketplace-covers/9c0ed3d28411d7c56755.jpg' | relative_url }}" alt="Listing image for UFO 1982 Tour Programme Book With Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-missing-minutes-can-reveal-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="what-the-missing-minutes-can-reveal-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pro Tripod Stand Mount For Digital Camera Camcorder Phone Holder iPhone DSLR SLR"><img src="https://i.ebayimg.com/images/g/Wt0AAeSwo4BqDBh0/s-l225.jpg" alt="Listing image for Pro Tripod Stand Mount For Digital Camera Camcorder Phone Holder iPhone DSLR SLR" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-context-what-the-missing-minutes-can-reveal-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="missing-context-what-the-missing-minutes-can-reveal-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO 1982 Tour Programme Book With Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-missing-minutes-can-reveal-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="what-the-missing-minutes-can-reveal-phone-tripod" target="_blank" rel="sponsored noopener noreferrer">Pro Tripod Stand Mount For Digital Camera Camcorder Phone Holder iPhone DSLR SLR</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-context-what-the-missing-minutes-can-reveal-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="missing-context-what-the-missing-minutes-can-reveal-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-missing-minutes-can-reveal-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="what-the-missing-minutes-can-reveal-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone tripod</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-context-what-the-missing-minutes-can-reveal-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="missing-context-what-the-missing-minutes-can-reveal-ifos-causes-of-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-missing-minutes-can-reveal-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="what-the-missing-minutes-can-reveal-phone-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -531,15 +520,15 @@ For this reason, experienced analysts often focus less on the object itself and 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-context-what-the-missing-minutes-can-reveal-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="missing-context-what-the-missing-minutes-can-reveal-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Programme Michael Schenker Original Official Misdemeanor World Tour 1986"><img src="{{ '/assets/images/marketplace-covers/afd3d020d3403f6473d1.jpg' | relative_url }}" alt="Listing image for UFO Programme Michael Schenker Original Official Misdemeanor World Tour 1986" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-missing-minutes-can-reveal-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="what-the-missing-minutes-can-reveal-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Overhead Phone Mount with Ring Light Flexible Arm Tripod Phone Camera Holder UK"><img src="https://i.ebayimg.com/images/g/knYAAeSw~x9oaMuh/s-l225.jpg" alt="Listing image for Overhead Phone Mount with Ring Light Flexible Arm Tripod Phone Camera Holder UK" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-context-what-the-missing-minutes-can-reveal-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="missing-context-what-the-missing-minutes-can-reveal-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Programme Michael Schenker Original Official Misdemeanor World Tour 1986</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-missing-minutes-can-reveal-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="what-the-missing-minutes-can-reveal-phone-tripod" target="_blank" rel="sponsored noopener noreferrer">Overhead Phone Mount with Ring Light Flexible Arm Tripod Phone Camera Holder UK</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-context-what-the-missing-minutes-can-reveal-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="missing-context-what-the-missing-minutes-can-reveal-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-missing-minutes-can-reveal-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="what-the-missing-minutes-can-reveal-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone tripod</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-context-what-the-missing-minutes-can-reveal-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="missing-context-what-the-missing-minutes-can-reveal-ifos-causes-of-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-missing-minutes-can-reveal-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="what-the-missing-minutes-can-reveal-phone-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -547,15 +536,15 @@ For this reason, experienced analysts often focus less on the object itself and 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-context-what-the-missing-minutes-can-reveal-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="missing-context-what-the-missing-minutes-can-reveal-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-missing-minutes-can-reveal-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="what-the-missing-minutes-can-reveal-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 170CM Tall Flexible Phone Tripod with Gooseneck Heavy Duty Phone Tripod Stand UK"><img src="https://i.ebayimg.com/images/g/3d8AAeSwx0Jo8d5Z/s-l225.jpg" alt="Listing image for 170CM Tall Flexible Phone Tripod with Gooseneck Heavy Duty Phone Tripod Stand UK" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-context-what-the-missing-minutes-can-reveal-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="missing-context-what-the-missing-minutes-can-reveal-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-missing-minutes-can-reveal-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="what-the-missing-minutes-can-reveal-phone-tripod" target="_blank" rel="sponsored noopener noreferrer">170CM Tall Flexible Phone Tripod with Gooseneck Heavy Duty Phone Tripod Stand UK</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-context-what-the-missing-minutes-can-reveal-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="missing-context-what-the-missing-minutes-can-reveal-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-missing-minutes-can-reveal-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="what-the-missing-minutes-can-reveal-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone tripod</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-context-what-the-missing-minutes-can-reveal-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="missing-context-what-the-missing-minutes-can-reveal-ifos-causes-of-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-missing-minutes-can-reveal-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="what-the-missing-minutes-can-reveal-phone-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -563,15 +552,15 @@ For this reason, experienced analysts often focus less on the object itself and 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-context-what-the-missing-minutes-can-reveal-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="missing-context-what-the-missing-minutes-can-reveal-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-missing-minutes-can-reveal-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="what-the-missing-minutes-can-reveal-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RISEOFLE Phone Tripod &amp; Selfie Stick, 180cm Aluminum All in One"><img src="https://i.ebayimg.com/images/g/tBkAAeSwqdxoyu8d/s-l225.jpg" alt="Listing image for RISEOFLE Phone Tripod &amp; Selfie Stick, 180cm Aluminum All in One" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-context-what-the-missing-minutes-can-reveal-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="missing-context-what-the-missing-minutes-can-reveal-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-missing-minutes-can-reveal-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="what-the-missing-minutes-can-reveal-phone-tripod" target="_blank" rel="sponsored noopener noreferrer">RISEOFLE Phone Tripod &amp; Selfie Stick, 180cm Aluminum All in One</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-context-what-the-missing-minutes-can-reveal-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="missing-context-what-the-missing-minutes-can-reveal-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-missing-minutes-can-reveal-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="what-the-missing-minutes-can-reveal-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone tripod</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-context-what-the-missing-minutes-can-reveal-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="missing-context-what-the-missing-minutes-can-reveal-ifos-causes-of-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-missing-minutes-can-reveal-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="what-the-missing-minutes-can-reveal-phone-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -579,7 +568,7 @@ For this reason, experienced analysts often focus less on the object itself and 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-context-what-the-missing-minutes-can-reveal-ifos-causes-of-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="missing-context-what-the-missing-minutes-can-reveal-ifos-causes-of-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-missing-minutes-can-reveal-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="what-the-missing-minutes-can-reveal-phone-tripod" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -795,137 +784,137 @@ For this reason, experienced analysts often focus less on the object itself and 
 1. <a id="endnote-1"></a>
    Source: nasa.gov  
    Title: to release discuss unidentified anomalous phenomena report  
-   Link: [https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/](https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASANASA to Release, Discuss Unidentified Anomalous...12 Sept 2023 — There are currently a limited number of high-quality observations o...</p></details>
+   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to Release, Discuss Unidentified Anomalous...12 Sept 2023 — There are currently a limited number of high-quality observations o...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportThe study of Unidentified Anomalous Phenomena (UAP) presents a unique scientific opportunity tha...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: scribd.com  
    Title: AARO Annual Report on UAP FY2024 Ft AsTechR  
-   Link: [https://www.scribd.com/document/825619489/AARO-Annual-Report-on-UAP-FY2024-Ft-AsTechR](https://www.scribd.com/document/825619489/AARO-Annual-Report-on-UAP-FY2024-Ft-AsTechR)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScribdAARO 2024 Annual UAP Report Summary | PDFHowever, with 444 cases lacking sufficient data for immediate resolution, AARO has designa...</p></details>
+   Link: <a href="https://www.scribd.com/document/825619489/AARO-Annual-Report-on-UAP-FY2024-Ft-AsTechR" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/825619489/AARO-Annual-Report-on-UAP-FY2024-Ft-AsTechR</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO 2024 Annual UAP Report Summary | PDFHowever, with 444 cases lacking sufficient data for immediate resolution, AARO has designa...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: war.gov  
    Title: dr jon kosloski director aaro media roundtable on the fy24 consolidated annual  
-   Link: [https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/](https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/)  
+   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDr. Jon Kosloski, Director, AARO, Media Roundtable on the...14 Nov 2024 — Meanwhile, over 900 reports lack sufficient d...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROEffect of Forced Perspective and Parallax View on UAP...May 8, 2024 — This paper provides a basic overview of these phenomena and th...</p></details>
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Effect of Forced Perspective and Parallax View on UAP...May 8, 2024 — This paper provides a basic overview of these phenomena and th...</p></details>
    Published: May 8, 2024  
 
 6. <a id="endnote-6"></a>
    Source: wired.com  
-   Link: [https://www.wired.com/story/nasa-ufos-aliens-report-2023](https://www.wired.com/story/nasa-ufos-aliens-report-2023)  
+   Link: <a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The agency stressed the need to shift the conversation from sensationalism to science and eliminate the [stigma](&amp;#123;&amp;#123; &#x27;stigma/&#x27; | relative_url &amp;#125;&amp;#125;) associated with reporting...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024](https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024)  
+   Link: <a href="https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PR-017, Unresolved UAP Report, Europe 2024This unresolved report contributes to AARO&#x27;s historical and locational trend analyses. VIDEO IN...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: aaro.mil  
    Title: Congressional Press Products  
-   Link: [https://www.aaro.mil/Congressional-Press-Products/](https://www.aaro.mil/Congressional-Press-Products/)  
+   Link: <a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Congressional/Press Products2024 Report: All-domain Anomaly Resolution Office Annual Report... DoD Releases the Annual Report on Unident...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>9, 2022 — A study team to examine unidentified anomalous phenomena (UAPs) – that is, observations of events in the sky that cannot be ide...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: human-factors.arc.nasa.gov  
    Title: sid09 jbm reprint  
-   Link: [https://human-factors.arc.nasa.gov/publications/sid09_jbm_reprint.pdf](https://human-factors.arc.nasa.gov/publications/sid09_jbm_reprint.pdf)  
+   Link: <a href="https://human-factors.arc.nasa.gov/publications/sid09_jbm_reprint.pdf" target="_blank" rel="noopener noreferrer nofollow">https://human-factors.arc.nasa.gov/publications/sid09_jbm_reprint.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Parallax Enhances Depth in a Perspective Air-...by JB Mulligan — Abstract. In this paper we investigate the utility of motion parallax i...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: nasa.gov  
    Title: provides coverage of unidentified anomalous phenomena meeting  
-   Link: [https://www.nasa.gov/news-release/nasa-provides-coverage-of-unidentified-anomalous-phenomena-meeting/](https://www.nasa.gov/news-release/nasa-provides-coverage-of-unidentified-anomalous-phenomena-meeting/)  
+   Link: <a href="https://www.nasa.gov/news-release/nasa-provides-coverage-of-unidentified-anomalous-phenomena-meeting/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-provides-coverage-of-unidentified-anomalous-phenomena-meeting/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Provides Coverage of Unidentified Anomalous...12 May 2023 — Right now, the limited high-quality observations of UAP make it impossi...</p></details>
    Published: May 2023  
 
 12. <a id="endnote-12"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aug 17, 2023 — The limited number of high-quality observations of unidentified anomalous phenomena, or UAP, currently makes it impossible...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: [https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/](https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/)  
+   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — UPDATE: NASA Shares UAP Independent Study Report; Names Director... Respo...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/](https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Defense Releases the Annual Report on...14 Nov 2024 — This brought the total cases that AARO has been reviewing to over 1...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Parallax](https://en.wikipedia.org/wiki/Parallax)  
+   Link: <a href="https://en.wikipedia.org/wiki/Parallax" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Parallax</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ParallaxParallax is a displacement or difference in the apparent position of an object viewed along two different lines of sightRead more...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: x.com  
-   Link: [https://x.com/DoD_AARO/status/1788223137277952196](https://x.com/DoD_AARO/status/1788223137277952196)  
+   Link: <a href="https://x.com/DoD_AARO/status/1788223137277952196" target="_blank" rel="noopener noreferrer nofollow">https://x.com/DoD_AARO/status/1788223137277952196</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>X (formerly Twitter)Forced perspective and parallax are two optical illusions...Forced perspective and parallax are two optical illusion...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/](https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/)  
+   Link: <a href="https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...Advanced analysis techniques like machine learning have potential to help identify UAP an...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/](https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/)  
+   Link: <a href="https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...The evidence of aliens that NASA will find is going to be &quot;We&#x27;ve detected animal farts on...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/](https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/)  
+   Link: <a href="https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA has released the Unidentified Anomalous...This report, commissioned by but produced independently of NASA, is not a review or asses...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: nypost.com  
-   Link: [https://nypost.com/2024/11/14/us-news/pentagon-says-nearly-two-dozen-ufo-sightings-cant-be-explained-true-anomalies/](https://nypost.com/2024/11/14/us-news/pentagon-says-nearly-two-dozen-ufo-sightings-cant-be-explained-true-anomalies/)  
+   Link: <a href="https://nypost.com/2024/11/14/us-news/pentagon-says-nearly-two-dozen-ufo-sightings-cant-be-explained-true-anomalies/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/11/14/us-news/pentagon-says-nearly-two-dozen-ufo-sightings-cant-be-explained-true-anomalies/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The &quot;all-domain anomaly resolution office&quot; (AARO) identified 21 reports as &quot;true anomalies&quot; needing further investigation. Most sightings...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DNRG7pJAsNm/?hl=en](https://www.instagram.com/reel/DNRG7pJAsNm/?hl=en)  
+   Link: <a href="https://www.instagram.com/reel/DNRG7pJAsNm/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DNRG7pJAsNm/?hl=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>StarTalk on Instagram: &quot;Is motion parallax the reason many...There&#x27;s nothing, but with the parallax, we can assess that the object is mo...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NASA/posts/were-holding-a-public-meeting-of-our-independent-study-team-on-unidentified-anom/799485258213519/](https://www.facebook.com/NASA/posts/were-holding-a-public-meeting-of-our-independent-study-team-on-unidentified-anom/799485258213519/)  
+   Link: <a href="https://www.facebook.com/NASA/posts/were-holding-a-public-meeting-of-our-independent-study-team-on-unidentified-anom/799485258213519/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NASA/posts/were-holding-a-public-meeting-of-our-independent-study-team-on-unidentified-anom/799485258213519/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>We&#x27;re holding a public meeting of our independent study...NASA UFO team calls for higher quality data in first public meeting Panel says...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
    Title: board of supervisors tues mtg 03 03 2026youtube link board of supervisors tues m  
-   Link: [https://www.facebook.com/lakecountycagov/posts/board-of-supervisors-tues-mtg-03-03-2026youtube-link-board-of-supervisors-tues-m/1371928948296902/](https://www.facebook.com/lakecountycagov/posts/board-of-supervisors-tues-mtg-03-03-2026youtube-link-board-of-supervisors-tues-m/1371928948296902/)  
+   Link: <a href="https://www.facebook.com/lakecountycagov/posts/board-of-supervisors-tues-mtg-03-03-2026youtube-link-board-of-supervisors-tues-m/1371928948296902/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/lakecountycagov/posts/board-of-supervisors-tues-mtg-03-03-2026youtube-link-board-of-supervisors-tues-m/1371928948296902/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Board of Supervisors Tues Mtg 03-03-2026 YouTube...Accompanying board documents, the agenda and archived board meeting videos also are a...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: space.com  
    Title: pentagon ufo chief tells senate very anomalous objects need careful study video  
-   Link: [https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video](https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video)  
+   Link: <a href="https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO chief tells Senate &#x27;very anomalous objects&#x27; need careful study (video)... But, like in its other reports, AARO found no smoking gun...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=TQcqOW39ksk](https://www.youtube.com/watch?v=TQcqOW39ksk)  
+   Link: <a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study ReportNASA commissioned an independent study team to examine unidentified anomalous ph...</p></details>

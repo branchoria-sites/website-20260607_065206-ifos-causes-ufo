@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f_ir_range_speed_claim_9b5575
 - ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f_puerto_rico_transmed_37f0b5
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - infrared
 - thermal-contrast
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - infrared
 - thermal-contrast
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Infrared brightness can reflect sensor settings, emissivity and background contrast rather than an object's true heat or identity.
 hero_summary: Infrared brightness can reflect sensor settings, emissivity and background contrast rather than an object's true heat or identity.
 layout: default
 permalink: /thermal-contrast/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /infrared/
 nav_short_title: Thermal contrast
 title: When infrared brightness fools UFO viewers
-title_full: When infrared brightness fools UFO viewers | Infrared
+title_full: When infrared brightness fools UFO viewers
 display_title_short: Thermal contrast
 display_title: Thermal contrast
 heading_title: When infrared brightness fools UFO viewers
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 15:31:17'
-parent_title: Why Infrared UFO Videos Mislead | IFOs
+parent_title: Why Infrared UFO Videos Mislead
 parent_permalink: /infrared/
 parent_nav_short_title: Infrared
 parent_heading_title: Why Infrared UFO Videos Mislead
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f
-  title: Infrared | Ifos Causes Of
+  title: Infrared | ifos causes of UFO 3 ed 238
   permalink: /infrared/
   short_title: Infrared
   heading_title: Why Infrared UFO Videos Mislead
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f
-  title: Infrared | Ifos Causes Of
+  title: Infrared | ifos causes of UFO 3 ed 238
   permalink: /infrared/
   short_title: Infrared
   heading_title: Why Infrared UFO Videos Mislead
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: Why range makes or breaks UFO speed claims
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f
-  title: Infrared | Ifos Causes Of
+  title: Infrared | ifos causes of UFO 3 ed 238
   permalink: /infrared/
   short_title: Infrared
   heading_title: Why Infrared UFO Videos Mislead
@@ -260,6 +259,7 @@ prev_link:
   permalink: /range/
   short_title: Range
   heading_title: Why range makes or breaks UFO speed claims
+date: '2026-06-12 00:51:53 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f_thermal_contrast_mis_f4b651-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f_thermal_contrast_mis_f4b651-Illustration-1.webp
@@ -268,27 +268,22 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f_th
 
 ## Introduction
 
-Infrared UFO footage often appears persuasive because [bright objects]({{ 'bright-objects/' | relative_url }}) seem hot, dark objects seem cold, and unusual shapes appear sharply separated from the background. In reality, thermal cameras do not show temperature directly. They display differences in infrared radiation after that information has been processed by sensors, software, contrast controls and display settings. As a result, ordinary aircraft, birds, balloons or distant objects can acquire misleading thermal appearances that viewers may interpret as evidence of something exotic. The mistake is not usually that the infrared camera is malfunctioning; it is that the displayed brightness is treated as a direct measure of an object's heat, structure or nature when it may instead reflect contrast, emissivity, [reflections]({{ 'reflections/' | relative_url }}) or image processing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flir.com/discover/professional-tools/how-does-emissivity-affect-thermal-imaging/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flir.com">[FLIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flir.com</span><span class="citation-popover-title">how does emissivity affect thermal imaging</span><span class="citation-popover-snippet">FLIRHow Does Emissivity Affect Thermal Imaging?Nov 1, 2021 — Emissivity is a measure of how efficiently an object radiates heat, ie how w...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flir.com/en-gb/discover/professional-tools/how-does-emissivity-affect-thermal-imaging/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flir.com">[FLIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flir.com</span><span class="citation-popover-title">how does emissivity affect thermal imaging</span><span class="citation-popover-snippet">?1 Nov 2021 — Emissivity is a measure of how efficiently an object radiates heat, ie how well the surface of an object “tells the truth”...</span></span></span>
-
+Infrared UFO footage often appears persuasive because [bright objects]({{ 'bright-objects/' | relative_url }}) seem hot, dark objects seem cold, and unusual shapes appear sharply separated from the background. In reality, thermal cameras do not show temperature directly. They display differences in infrared radiation after that information has been processed by sensors, software, contrast controls and display settings. As a result, ordinary aircraft, birds, balloons or distant objects can acquire misleading thermal appearances that viewers may interpret as evidence of something exotic. The mistake is not usually that the infrared camera is malfunctioning; it is that the displayed brightness is treated as a direct measure of an object's heat, structure or nature when it may instead reflect contrast, emissivity, [reflections]({{ 'reflections/' | relative_url }}) or image processing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flir.com/discover/professional-tools/how-does-emissivity-affect-thermal-imaging/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flir.com">[FLIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flir.com</span><span class="citation-popover-title">how does emissivity affect thermal imaging</span><span class="citation-popover-snippet">How Does Emissivity Affect Thermal Imaging?Nov 1, 2021 — Emissivity is a measure of how efficiently an object radiates heat, ie how w...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flir.com/en-gb/discover/professional-tools/how-does-emissivity-affect-thermal-imaging/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flir.com">[FLIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flir.com</span><span class="citation-popover-title">how does emissivity affect thermal imaging</span><span class="citation-popover-snippet">?1 Nov 2021 — Emissivity is a measure of how efficiently an object radiates heat, ie how well the surface of an object “tells the truth”...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f_thermal_contrast_mis_f4b651-Illustration-1-dark.svg" | relative_url }}" alt="Thermal contrast illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f_thermal_contrast_mis_f4b651-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f_thermal_contrast_mis_f4b651-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within the broader problem of [infrared]({{ 'infrared/' | relative_url }}) video and [false speed]({{ 'false-speed/' | relative_url }}) impressions, thermal-contrast errors are important because they alter how observers judge what they are looking at before any attempt is made to estimate motion, size or performance.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Nr_ziSlb4Sw" title="A Complete Guide to Emissivity for Thermal Imaging" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Nr_ziSlb4Sw" target="_blank" rel="noopener noreferrer">A Complete Guide to Emissivity for Thermal Imaging</a></p><p class="youtube-embed-meta">Channel: TEquipment</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Nr_ziSlb4Sw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Nr_ziSlb4Sw">Open on YouTube</a></p></div></div></div>
-
 ## Why bright does not always mean hot
 
-One of the most common misunderstandings in infrared UFO analysis is the assumption that a bright target must be extremely hot. Thermal cameras measure infrared radiation reaching the sensor, not an object's true internal temperature. The relationship between brightness and temperature depends heavily on emissivity, a material's ability to emit infrared energy. Surfaces with different emissivities can appear dramatically different even when they are at similar temperatures. Highly reflective surfaces may also display infrared energy originating elsewhere rather than from the object itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fluke.com/en-us/learn/blog/thermal-imaging/fixing-thermography-reflectivity?srsltid=AfmBOopSLfIIWEHqRsnAOxM9iDBhTkWbEY7sxJC32nMqE_iXii9eRrkJ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fluke.com">[Fluke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fluke.com</span><span class="citation-popover-snippet">FlukeFixing Infrared Thermography Issues on Reflective SurfacesLearn why reflective surfaces create infrared thermography emissivity &amp; re...</span></span></span> [3FLIR 3FLIR]
+One of the most common misunderstandings in infrared UFO analysis is the assumption that a bright target must be extremely hot. Thermal cameras measure infrared radiation reaching the sensor, not an object's true internal temperature. The relationship between brightness and temperature depends heavily on emissivity, a material's ability to emit infrared energy. Surfaces with different emissivities can appear dramatically different even when they are at similar temperatures. Highly reflective surfaces may also display infrared energy originating elsewhere rather than from the object itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fluke.com/en-us/learn/blog/thermal-imaging/fixing-thermography-reflectivity?srsltid=AfmBOopSLfIIWEHqRsnAOxM9iDBhTkWbEY7sxJC32nMqE_iXii9eRrkJ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fluke.com">[Fluke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fluke.com</span><span class="citation-popover-snippet">Fixing Infrared Thermography Issues on Reflective SurfacesLearn why reflective surfaces create infrared thermography emissivity &amp; re...</span></span></span> [3FLIR 3FLIR]
 
 This creates several opportunities for misinterpretation:
 
-* A reflective aircraft surface may appear unusually bright or dark because it is reflecting thermal radiation from the sky, sea or surrounding environment rather than revealing its actual temperature. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fluke.com/en-us/learn/blog/thermal-imaging/fixing-thermography-reflectivity?srsltid=AfmBOopSLfIIWEHqRsnAOxM9iDBhTkWbEY7sxJC32nMqE_iXii9eRrkJ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fluke.com">[Fluke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fluke.com</span><span class="citation-popover-snippet">FlukeFixing Infrared Thermography Issues on Reflective SurfacesLearn why reflective surfaces create infrared thermography emissivity &amp; re...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flir.com/en-gb/discover/rd-science/infrared-camera-accuracy-and-uncertainty-in-plain-language/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flir.com">[FLIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flir.com</span><span class="citation-popover-title">infrared camera accuracy and uncertainty in plain language</span><span class="citation-popover-snippet">Emissivity –...Read more...</span></span></span>
+* A reflective aircraft surface may appear unusually bright or dark because it is reflecting thermal radiation from the sky, sea or surrounding environment rather than revealing its actual temperature. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fluke.com/en-us/learn/blog/thermal-imaging/fixing-thermography-reflectivity?srsltid=AfmBOopSLfIIWEHqRsnAOxM9iDBhTkWbEY7sxJC32nMqE_iXii9eRrkJ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fluke.com">[Fluke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fluke.com</span><span class="citation-popover-snippet">Fixing Infrared Thermography Issues on Reflective SurfacesLearn why reflective surfaces create infrared thermography emissivity &amp; re...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flir.com/en-gb/discover/rd-science/infrared-camera-accuracy-and-uncertainty-in-plain-language/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flir.com">[FLIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flir.com</span><span class="citation-popover-title">infrared camera accuracy and uncertainty in plain language</span><span class="citation-popover-snippet">Emissivity –...Read more...</span></span></span>
 * Two objects at similar temperatures can display different brightness levels because their surfaces emit infrared radiation differently. MDPI <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.raythink-tech.com/blogs/what-is-emissivity-in-thermal-imaging/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raythink-tech.com">[Raythink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raythink-tech.com</span><span class="citation-popover-title">what is emissivity in thermal imaging</span><span class="citation-popover-snippet">?Apr 18, 2025 — Emissivity is the ratio of the energy radiated by an object at a given temperature to the energy radiated by a blackbody...</span></span></span>
-* A bright spot on an object may represent a local contrast feature, such as an engine area or reflected radiation, rather than evidence that the entire object is extremely hot. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flir.com/discover/professional-tools/top-5-mistakes-that-new-thermographers-make/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flir.com">[FLIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flir.com</span><span class="citation-popover-title">top 5 mistakes that new thermographers make</span><span class="citation-popover-snippet">FLIRTop 5 Mistakes That New Thermographers MakeSep 30, 2020 — Speaking of temperature measurements, setting the right emissivity and refl...</span></span></span>
+* A bright spot on an object may represent a local contrast feature, such as an engine area or reflected radiation, rather than evidence that the entire object is extremely hot. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flir.com/discover/professional-tools/top-5-mistakes-that-new-thermographers-make/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flir.com">[FLIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flir.com</span><span class="citation-popover-title">top 5 mistakes that new thermographers make</span><span class="citation-popover-snippet">Top 5 Mistakes That New Thermographers MakeSep 30, 2020 — Speaking of temperature measurements, setting the right emissivity and refl...</span></span></span>
 
-Professional thermography guidance repeatedly warns that emissivity and reflected radiation are among the largest sources of interpretation error. In practical terms, this means that a glowing infrared target is not automatically evidence of advanced propulsion, intense heat generation or unusual physics. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://flir.custhelp.com/app/answers/detail/a_id/3321/~/flir-cameras---temperature-measurement-formula" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flir.custhelp.com">[FLIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flir.custhelp.com</span><span class="citation-popover-title">FLIR Technical Support FLIR Cameras</span><span class="citation-popover-snippet">Any infrared camera detects the intensity of infrared light that hits the detector.Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flir.com/discover/professional-tools/how-does-emissivity-affect-thermal-imaging/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flir.com">[FLIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flir.com</span><span class="citation-popover-title">how does emissivity affect thermal imaging</span><span class="citation-popover-snippet">FLIRHow Does Emissivity Affect Thermal Imaging?Nov 1, 2021 — Emissivity is a measure of how efficiently an object radiates heat, ie how w...</span></span></span>
-
+Professional thermography guidance repeatedly warns that emissivity and reflected radiation are among the largest sources of interpretation error. In practical terms, this means that a glowing infrared target is not automatically evidence of advanced propulsion, intense heat generation or unusual physics. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://flir.custhelp.com/app/answers/detail/a_id/3321/~/flir-cameras---temperature-measurement-formula" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flir.custhelp.com">[FLIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flir.custhelp.com</span><span class="citation-popover-title">FLIR Technical Support FLIR Cameras</span><span class="citation-popover-snippet">Any infrared camera detects the intensity of infrared light that hits the detector.Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flir.com/discover/professional-tools/how-does-emissivity-affect-thermal-imaging/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flir.com">[FLIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flir.com</span><span class="citation-popover-title">how does emissivity affect thermal imaging</span><span class="citation-popover-snippet">How Does Emissivity Affect Thermal Imaging?Nov 1, 2021 — Emissivity is a measure of how efficiently an object radiates heat, ie how w...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PCH0EzpAP34" title="What is Infrared?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PCH0EzpAP34" target="_blank" rel="noopener noreferrer">What is Infrared?</a></p><p class="youtube-embed-meta">Channel: Teledyne FLIR &middot; Views: 29.1K &middot; Uploaded: May 2022 &middot; Length: 4 minutes 19 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PCH0EzpAP34" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PCH0EzpAP34">Open on YouTube</a></p></div></div></div>
 
@@ -302,21 +297,20 @@ Thermal systems also use automatic gain and contrast adjustments. These settings
 
 A familiar example occurs when a relatively ordinary aircraft is viewed against a very cold sky. The aircraft may stand out as a bright, isolated shape not because it is extraordinarily hot, but because the background is much colder. Conversely, a warm object against a warm background may nearly disappear.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f_thermal_contrast_mis_f4b651-Illustration-2-dark.svg" | relative_url }}" alt="Thermal contrast illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f_thermal_contrast_mis_f4b651-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f_thermal_contrast_mis_f4b651-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why shape details disappear in thermal video
 
 Thermal cameras frequently provide less structural information than visible-light cameras. The result is that identifiable objects can lose the very features needed for recognition.
 
-At long range, a thermal sensor may detect an object without resolving wings, tails, rotors, cables or other identifying details. Detection is not the same as identification. Research on thermal imaging consistently distinguishes between noticing that something is present and having enough resolution to determine exactly what it is. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4179058/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAutomated Detection and Recognition of Wildlife Using</span><span class="citation-popover-snippet">PMCby P Christiansen · 2014 · Cited by 229 — (1) The thermal radiation received by the sensor decreases as the distance to animal increas...</span></span></span>
+At long range, a thermal sensor may detect an object without resolving wings, tails, rotors, cables or other identifying details. Detection is not the same as identification. Research on thermal imaging consistently distinguishes between noticing that something is present and having enough resolution to determine exactly what it is. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4179058/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAutomated Detection and Recognition of Wildlife Using</span><span class="citation-popover-snippet">by P Christiansen · 2014 · Cited by 229 — (1) The thermal radiation received by the sensor decreases as the distance to animal increas...</span></span></span>
 
 Several factors contribute to this loss of detail:
 
-* Limited sensor resolution means small objects occupy only a few pixels. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4179058/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAutomated Detection and Recognition of Wildlife Using</span><span class="citation-popover-snippet">PMCby P Christiansen · 2014 · Cited by 229 — (1) The thermal radiation received by the sensor decreases as the distance to animal increas...</span></span></span>
+* Limited sensor resolution means small objects occupy only a few pixels. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4179058/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAutomated Detection and Recognition of Wildlife Using</span><span class="citation-popover-snippet">by P Christiansen · 2014 · Cited by 229 — (1) The thermal radiation received by the sensor decreases as the distance to animal increas...</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* Atmospheric effects reduce thermal contrast over distance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4179058/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAutomated Detection and Recognition of Wildlife Using</span><span class="citation-popover-snippet">PMCby P Christiansen · 2014 · Cited by 229 — (1) The thermal radiation received by the sensor decreases as the distance to animal increas...</span></span></span>
+* Atmospheric effects reduce thermal contrast over distance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4179058/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAutomated Detection and Recognition of Wildlife Using</span><span class="citation-popover-snippet">by P Christiansen · 2014 · Cited by 229 — (1) The thermal radiation received by the sensor decreases as the distance to animal increas...</span></span></span>
 * Automatic contrast processing can merge separate structural features into a single bright or dark blob. <span class="citation-chip-wrap"><a class="citation-chip" href="https://flir.custhelp.com/app/answers/detail/a_id/3321/~/flir-cameras---temperature-measurement-formula" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flir.custhelp.com">[FLIR Technical Support]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flir.custhelp.com</span><span class="citation-popover-title">FLIR Technical Support FLIR Cameras</span><span class="citation-popover-snippet">Any infrared camera detects the intensity of infrared light that hits the detector.Read more...</span></span></span>
 * Parts of an object at similar temperatures may blend together, erasing visual boundaries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Thermography" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
@@ -324,21 +318,18 @@ Several factors contribute to this loss of detail:
 
 This explains why birds, balloons and aircraft can sometimes appear as smooth discs, glowing spheres or irregular blobs in infrared footage. The camera may be accurately detecting a real object while simultaneously failing to preserve the details needed for confident identification.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kUtcIYI7Ff8" title="How Emissivity Can Impact Temperature Measurement with an Infrared Camera" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kUtcIYI7Ff8" target="_blank" rel="noopener noreferrer">How Emissivity Can Impact Temperature Measurement with an Infrared Camera</a></p><p class="youtube-embed-meta">Channel: movitherm &middot; Views: 31.3K &middot; Uploaded: March 2023 &middot; Length: 4 minutes 36 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kUtcIYI7Ff8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kUtcIYI7Ff8">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f_thermal_contrast_mis_f4b651-Illustration-3-dark.svg" | relative_url }}" alt="Thermal contrast illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f_thermal_contrast_mis_f4b651-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f_thermal_contrast_mis_f4b651-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why thermal contrast can create misleading UFO narratives
 
 Many UFO interpretations begin with a chain of assumptions: the object looks bright, therefore it must be hot; it looks hot, therefore it must be producing large amounts of energy; it appears featureless, therefore it lacks conventional structure. Each step may be incorrect.
 
-A more cautious interpretation starts with thermal imaging's limitations. Brightness can reflect emissivity, reflections and display settings. Apparent darkness can be produced by display polarity rather than low temperature. Featureless shapes may result from insufficient resolution rather than unusual construction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fluke.com/en-us/learn/blog/thermal-imaging/fixing-thermography-reflectivity?srsltid=AfmBOopSLfIIWEHqRsnAOxM9iDBhTkWbEY7sxJC32nMqE_iXii9eRrkJ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fluke.com">[Fluke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fluke.com</span><span class="citation-popover-snippet">FlukeFixing Infrared Thermography Issues on Reflective SurfacesLearn why reflective surfaces create infrared thermography emissivity &amp; re...</span></span></span> [3FLIR 3FLIR]
+A more cautious interpretation starts with thermal imaging's limitations. Brightness can reflect emissivity, reflections and display settings. Apparent darkness can be produced by display polarity rather than low temperature. Featureless shapes may result from insufficient resolution rather than unusual construction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fluke.com/en-us/learn/blog/thermal-imaging/fixing-thermography-reflectivity?srsltid=AfmBOopSLfIIWEHqRsnAOxM9iDBhTkWbEY7sxJC32nMqE_iXii9eRrkJ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fluke.com">[Fluke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fluke.com</span><span class="citation-popover-snippet">Fixing Infrared Thermography Issues on Reflective SurfacesLearn why reflective surfaces create infrared thermography emissivity &amp; re...</span></span></span> [3FLIR 3FLIR]
 
 Official analyses of military infrared footage have repeatedly found that apparently mysterious thermal targets can turn out to be ordinary objects once additional information is available. In some cases, birds, balloons or conventional aircraft were initially difficult to identify because the infrared image preserved thermal contrast but not enough physical detail for immediate recognition. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Infrared" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">InfraredInfrared (IR; sometimes called infrared light) is electromagnetic radiation (EMR) with wavelengths longer than that of visible...</span></span></span>
 
 The key lesson is that infrared imagery excels at revealing differences in radiation, not at revealing an object's true nature. When viewers treat thermal brightness as a direct indicator of heat, power or exotic technology, they risk mistaking ordinary thermal-contrast effects for evidence of something extraordinary.
 
-
-<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f_thermal_contrast_mis_f4b651-Illustration-3-dark.svg" | relative_url }}" alt="Thermal contrast illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f_thermal_contrast_mis_f4b651-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f_thermal_contrast_mis_f4b651-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kUtcIYI7Ff8" title="How Emissivity Can Impact Temperature Measurement with an Infrared Camera" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kUtcIYI7Ff8" target="_blank" rel="noopener noreferrer">How Emissivity Can Impact Temperature Measurement with an Infrared Camera</a></p><p class="youtube-embed-meta">Channel: movitherm &middot; Views: 31.3K &middot; Uploaded: March 2023 &middot; Length: 4 minutes 36 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kUtcIYI7Ff8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kUtcIYI7Ff8">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -457,15 +448,15 @@ The key lesson is that infrared imagery excels at revealing differences in radia
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thermal-contrast-when-infrared-brightness-fools-ufo-viewers-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="thermal-contrast-when-infrared-brightness-fools-ufo-viewers-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black"><img src="{{ '/assets/images/marketplace-covers/078b55bb70d6b61d9af5.jpg' | relative_url }}" alt="Listing image for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-infrared-brightness-fools-ufo-viewers-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="when-infrared-brightness-fools-ufo-viewers-thermal-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FLIR E5 Thermal Imaging Camera E63900, Electrical inspection, Plumbing etc"><img src="https://i.ebayimg.com/images/g/1BAAAeSwdbJqGHNU/s-l225.jpg" alt="Listing image for FLIR E5 Thermal Imaging Camera E63900, Electrical inspection, Plumbing etc" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thermal-contrast-when-infrared-brightness-fools-ufo-viewers-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="thermal-contrast-when-infrared-brightness-fools-ufo-viewers-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-infrared-brightness-fools-ufo-viewers-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="when-infrared-brightness-fools-ufo-viewers-thermal-camera" target="_blank" rel="sponsored noopener noreferrer">FLIR E5 Thermal Imaging Camera E63900, Electrical inspection, Plumbing etc</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thermal-contrast-when-infrared-brightness-fools-ufo-viewers-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="thermal-contrast-when-infrared-brightness-fools-ufo-viewers-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo enamel pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-infrared-brightness-fools-ufo-viewers-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="when-infrared-brightness-fools-ufo-viewers-thermal-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for thermal camera">Search <span data-ebay-domain-label>eBay.co.uk</span>: thermal camera</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thermal-contrast-when-infrared-brightness-fools-ufo-viewers-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="thermal-contrast-when-infrared-brightness-fools-ufo-viewers-ifos-causes-of-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-infrared-brightness-fools-ufo-viewers-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="when-infrared-brightness-fools-ufo-viewers-thermal-camera" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -473,15 +464,15 @@ The key lesson is that infrared imagery excels at revealing differences in radia
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thermal-contrast-when-infrared-brightness-fools-ufo-viewers-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="thermal-contrast-when-infrared-brightness-fools-ufo-viewers-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-infrared-brightness-fools-ufo-viewers-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="when-infrared-brightness-fools-ufo-viewers-thermal-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TOPDON TCView Thermal Imaging Camera"><img src="https://i.ebayimg.com/images/g/Y~AAAeSwtw9qKc-J/s-l225.jpg" alt="Listing image for TOPDON TCView Thermal Imaging Camera" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thermal-contrast-when-infrared-brightness-fools-ufo-viewers-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="thermal-contrast-when-infrared-brightness-fools-ufo-viewers-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-infrared-brightness-fools-ufo-viewers-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="when-infrared-brightness-fools-ufo-viewers-thermal-camera" target="_blank" rel="sponsored noopener noreferrer">TOPDON TCView Thermal Imaging Camera</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thermal-contrast-when-infrared-brightness-fools-ufo-viewers-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="thermal-contrast-when-infrared-brightness-fools-ufo-viewers-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo enamel pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-infrared-brightness-fools-ufo-viewers-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="when-infrared-brightness-fools-ufo-viewers-thermal-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for thermal camera">Search <span data-ebay-domain-label>eBay.co.uk</span>: thermal camera</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thermal-contrast-when-infrared-brightness-fools-ufo-viewers-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="thermal-contrast-when-infrared-brightness-fools-ufo-viewers-ifos-causes-of-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-infrared-brightness-fools-ufo-viewers-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="when-infrared-brightness-fools-ufo-viewers-thermal-camera" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -489,15 +480,15 @@ The key lesson is that infrared imagery excels at revealing differences in radia
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thermal-contrast-when-infrared-brightness-fools-ufo-viewers-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="thermal-contrast-when-infrared-brightness-fools-ufo-viewers-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-infrared-brightness-fools-ufo-viewers-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="when-infrared-brightness-fools-ufo-viewers-thermal-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TOPDON Thermal Imaging Camera TC004 Mini, 240x240 with TISR Res. 15H Battery"><img src="https://i.ebayimg.com/images/g/4m8AAeSwdRNp8J49/s-l225.jpg" alt="Listing image for TOPDON Thermal Imaging Camera TC004 Mini, 240x240 with TISR Res. 15H Battery" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thermal-contrast-when-infrared-brightness-fools-ufo-viewers-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="thermal-contrast-when-infrared-brightness-fools-ufo-viewers-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-infrared-brightness-fools-ufo-viewers-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="when-infrared-brightness-fools-ufo-viewers-thermal-camera" target="_blank" rel="sponsored noopener noreferrer">TOPDON Thermal Imaging Camera TC004 Mini, 240x240 with TISR Res. 15H Battery</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thermal-contrast-when-infrared-brightness-fools-ufo-viewers-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="thermal-contrast-when-infrared-brightness-fools-ufo-viewers-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo enamel pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-infrared-brightness-fools-ufo-viewers-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="when-infrared-brightness-fools-ufo-viewers-thermal-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for thermal camera">Search <span data-ebay-domain-label>eBay.co.uk</span>: thermal camera</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thermal-contrast-when-infrared-brightness-fools-ufo-viewers-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="thermal-contrast-when-infrared-brightness-fools-ufo-viewers-ifos-causes-of-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-infrared-brightness-fools-ufo-viewers-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="when-infrared-brightness-fools-ufo-viewers-thermal-camera" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -505,15 +496,15 @@ The key lesson is that infrared imagery excels at revealing differences in radia
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thermal-contrast-when-infrared-brightness-fools-ufo-viewers-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="thermal-contrast-when-infrared-brightness-fools-ufo-viewers-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-infrared-brightness-fools-ufo-viewers-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="when-infrared-brightness-fools-ufo-viewers-thermal-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MiLESEEY Handheld Thermal Imaging Camera IR Infrared Thermometer Image 192*192"><img src="https://i.ebayimg.com/images/g/e3gAAOSwk9RoPtrM/s-l225.jpg" alt="Listing image for MiLESEEY Handheld Thermal Imaging Camera IR Infrared Thermometer Image 192*192" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thermal-contrast-when-infrared-brightness-fools-ufo-viewers-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="thermal-contrast-when-infrared-brightness-fools-ufo-viewers-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-infrared-brightness-fools-ufo-viewers-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="when-infrared-brightness-fools-ufo-viewers-thermal-camera" target="_blank" rel="sponsored noopener noreferrer">MiLESEEY Handheld Thermal Imaging Camera IR Infrared Thermometer Image 192*192</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thermal-contrast-when-infrared-brightness-fools-ufo-viewers-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="thermal-contrast-when-infrared-brightness-fools-ufo-viewers-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo enamel pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-infrared-brightness-fools-ufo-viewers-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="when-infrared-brightness-fools-ufo-viewers-thermal-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for thermal camera">Search <span data-ebay-domain-label>eBay.co.uk</span>: thermal camera</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thermal-contrast-when-infrared-brightness-fools-ufo-viewers-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="thermal-contrast-when-infrared-brightness-fools-ufo-viewers-ifos-causes-of-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-infrared-brightness-fools-ufo-viewers-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="when-infrared-brightness-fools-ufo-viewers-thermal-camera" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -521,7 +512,7 @@ The key lesson is that infrared imagery excels at revealing differences in radia
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thermal-contrast-when-infrared-brightness-fools-ufo-viewers-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="thermal-contrast-when-infrared-brightness-fools-ufo-viewers-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-infrared-brightness-fools-ufo-viewers-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="when-infrared-brightness-fools-ufo-viewers-thermal-camera" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -737,133 +728,133 @@ The key lesson is that infrared imagery excels at revealing differences in radia
 1. <a id="endnote-1"></a>
    Source: flir.com  
    Title: how does emissivity affect thermal imaging  
-   Link: [https://www.flir.com/discover/professional-tools/how-does-emissivity-affect-thermal-imaging/](https://www.flir.com/discover/professional-tools/how-does-emissivity-affect-thermal-imaging/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FLIRHow Does Emissivity Affect Thermal Imaging?Nov 1, 2021 — Emissivity is a measure of how efficiently an object radiates heat, ie how w...</p></details>
+   Link: <a href="https://www.flir.com/discover/professional-tools/how-does-emissivity-affect-thermal-imaging/" target="_blank" rel="noopener noreferrer nofollow">https://www.flir.com/discover/professional-tools/how-does-emissivity-affect-thermal-imaging/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>How Does Emissivity Affect Thermal Imaging?Nov 1, 2021 — Emissivity is a measure of how efficiently an object radiates heat, ie how w...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: flir.com  
    Title: how does emissivity affect thermal imaging  
-   Link: [https://www.flir.com/en-gb/discover/professional-tools/how-does-emissivity-affect-thermal-imaging/](https://www.flir.com/en-gb/discover/professional-tools/how-does-emissivity-affect-thermal-imaging/)  
+   Link: <a href="https://www.flir.com/en-gb/discover/professional-tools/how-does-emissivity-affect-thermal-imaging/" target="_blank" rel="noopener noreferrer nofollow">https://www.flir.com/en-gb/discover/professional-tools/how-does-emissivity-affect-thermal-imaging/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>?1 Nov 2021 — Emissivity is a measure of how efficiently an object radiates heat, ie how well the surface of an object “tells the truth”...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Forward-looking infrared  
-   Link: [https://en.wikipedia.org/wiki/Forward-looking_infrared](https://en.wikipedia.org/wiki/Forward-looking_infrared)  
+   Link: <a href="https://en.wikipedia.org/wiki/Forward-looking_infrared" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Forward-looking_infrared</a>  
 
 4. <a id="endnote-4"></a>
    Source: flir.com  
    Title: infrared camera accuracy and uncertainty in plain language  
-   Link: [https://www.flir.com/en-gb/discover/rd-science/infrared-camera-accuracy-and-uncertainty-in-plain-language/](https://www.flir.com/en-gb/discover/rd-science/infrared-camera-accuracy-and-uncertainty-in-plain-language/)  
+   Link: <a href="https://www.flir.com/en-gb/discover/rd-science/infrared-camera-accuracy-and-uncertainty-in-plain-language/" target="_blank" rel="noopener noreferrer nofollow">https://www.flir.com/en-gb/discover/rd-science/infrared-camera-accuracy-and-uncertainty-in-plain-language/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Emissivity –...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: fluke.com  
-   Link: [https://www.fluke.com/en-us/learn/blog/thermal-imaging/fixing-thermography-reflectivity?srsltid=AfmBOopSLfIIWEHqRsnAOxM9iDBhTkWbEY7sxJC32nMqE_iXii9eRrkJ](https://www.fluke.com/en-us/learn/blog/thermal-imaging/fixing-thermography-reflectivity?srsltid=AfmBOopSLfIIWEHqRsnAOxM9iDBhTkWbEY7sxJC32nMqE_iXii9eRrkJ)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FlukeFixing Infrared Thermography Issues on Reflective SurfacesLearn why reflective surfaces create infrared thermography emissivity &amp; re...</p></details>
+   Link: <a href="https://www.fluke.com/en-us/learn/blog/thermal-imaging/fixing-thermography-reflectivity?srsltid=AfmBOopSLfIIWEHqRsnAOxM9iDBhTkWbEY7sxJC32nMqE_iXii9eRrkJ" target="_blank" rel="noopener noreferrer nofollow">https://www.fluke.com/en-us/learn/blog/thermal-imaging/fixing-thermography-reflectivity?srsltid=AfmBOopSLfIIWEHqRsnAOxM9iDBhTkWbEY7sxJC32nMqE_iXii9eRrkJ</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fixing Infrared Thermography Issues on Reflective SurfacesLearn why reflective surfaces create infrared thermography emissivity &amp; re...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/2075-5309/13/1/69](https://www.mdpi.com/2075-5309/13/1/69)  
+   Link: <a href="https://www.mdpi.com/2075-5309/13/1/69" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2075-5309/13/1/69</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>It influences measured temperature using an infrared camera...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: flir.com  
    Title: top 5 mistakes that new thermographers make  
-   Link: [https://www.flir.com/discover/professional-tools/top-5-mistakes-that-new-thermographers-make/](https://www.flir.com/discover/professional-tools/top-5-mistakes-that-new-thermographers-make/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FLIRTop 5 Mistakes That New Thermographers MakeSep 30, 2020 — Speaking of temperature measurements, setting the right emissivity and refl...</p></details>
+   Link: <a href="https://www.flir.com/discover/professional-tools/top-5-mistakes-that-new-thermographers-make/" target="_blank" rel="noopener noreferrer nofollow">https://www.flir.com/discover/professional-tools/top-5-mistakes-that-new-thermographers-make/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Top 5 Mistakes That New Thermographers MakeSep 30, 2020 — Speaking of temperature measurements, setting the right emissivity and refl...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCAutomated Detection and Recognition of Wildlife Using  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4179058/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4179058/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby P Christiansen · 2014 · Cited by 229 — (1) The thermal radiation received by the sensor decreases as the distance to animal increas...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4179058/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4179058/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by P Christiansen · 2014 · Cited by 229 — (1) The thermal radiation received by the sensor decreases as the distance to animal increas...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Thermography](https://en.wikipedia.org/wiki/Thermography)  
+   Link: <a href="https://en.wikipedia.org/wiki/Thermography" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Thermography</a>  
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Infrared](https://en.wikipedia.org/wiki/Infrared)  
+   Link: <a href="https://en.wikipedia.org/wiki/Infrared" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Infrared</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>InfraredInfrared (IR; sometimes called infrared light) is electromagnetic radiation (EMR) with wavelengths longer than that of visible...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/2072-4292/13/16/3276](https://www.mdpi.com/2072-4292/13/16/3276)  
+   Link: <a href="https://www.mdpi.com/2072-4292/13/16/3276" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2072-4292/13/16/3276</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Automated Detection of Animals in Low-Resolution...by A Ulhaq · 2021 · Cited by 43 — This paper presents an animal species detection sys...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: zenodo.org  
-   Link: [https://zenodo.org/records/13452202](https://zenodo.org/records/13452202)  
+   Link: <a href="https://zenodo.org/records/13452202" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/13452202</a>  
 
 13. <a id="endnote-13"></a>
    Source: raythink-tech.com  
    Title: what is emissivity in thermal imaging  
-   Link: [https://www.raythink-tech.com/blogs/what-is-emissivity-in-thermal-imaging/](https://www.raythink-tech.com/blogs/what-is-emissivity-in-thermal-imaging/)  
+   Link: <a href="https://www.raythink-tech.com/blogs/what-is-emissivity-in-thermal-imaging/" target="_blank" rel="noopener noreferrer nofollow">https://www.raythink-tech.com/blogs/what-is-emissivity-in-thermal-imaging/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>?Apr 18, 2025 — Emissivity is the ratio of the energy radiated by an object at a given temperature to the energy radiated by a blackbody...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: flir.custhelp.com  
    Title: FLIR Technical Support FLIR Cameras  
-   Link: [https://flir.custhelp.com/app/answers/detail/a_id/3321/~/flir-cameras---temperature-measurement-formula](https://flir.custhelp.com/app/answers/detail/a_id/3321/~/flir-cameras---temperature-measurement-formula)  
+   Link: <a href="https://flir.custhelp.com/app/answers/detail/a_id/3321/~/flir-cameras---temperature-measurement-formula" target="_blank" rel="noopener noreferrer nofollow">https://flir.custhelp.com/app/answers/detail/a_id/3321/~/flir-cameras---temperature-measurement-formula</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Any infrared camera detects the intensity of infrared light that hits the detector.Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/infrared](https://dictionary.cambridge.org/dictionary/english/infrared)  
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/infrared" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/infrared</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Their [pilots](&amp;#123;&amp;#123; &#x27;pilots/&#x27; | relative_url &amp;#125;&amp;#125;) are guided by an infrared optical system that shows images clearly even at...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: bfs.de  
-   Link: [https://www.bfs.de/EN/topics/opt/application-medicine-wellness/infrared/infrared.html](https://www.bfs.de/EN/topics/opt/application-medicine-wellness/infrared/infrared.html)  
+   Link: <a href="https://www.bfs.de/EN/topics/opt/application-medicine-wellness/infrared/infrared.html" target="_blank" rel="noopener noreferrer nofollow">https://www.bfs.de/EN/topics/opt/application-medicine-wellness/infrared/infrared.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Applications of infrared radiationInfrared radiation can promote local blood circulation and reduce muscle tension. Examples of tradition...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: gyanganga.ai  
-   Link: [https://gyanganga.ai/admin//fileupload//Bird_monitoring_intelligence_Integrating_Thermal_UAV_Imagery.pdf](https://gyanganga.ai/admin//fileupload//Bird_monitoring_intelligence_Integrating_Thermal_UAV_Imagery.pdf)  
+   Link: <a href="https://gyanganga.ai/admin//fileupload//Bird_monitoring_intelligence_Integrating_Thermal_UAV_Imagery.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gyanganga.ai/admin//fileupload//Bird_monitoring_intelligence_Integrating_Thermal_UAV_Imagery.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Integrating Thermal UAV Imagery and Deep LearnOur study illustrates how UAS, thermal imagery, and automated detection algorithms can be c...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: semanticscholar.org  
-   Link: [https://www.semanticscholar.org/paper/Limitations-of-far-infrared-thermal-imaging-in-Boonstra-Eadie/eea9fbb76d6ac1b14cf7b0d600b02d024b23ecd2](https://www.semanticscholar.org/paper/Limitations-of-far-infrared-thermal-imaging-in-Boonstra-Eadie/eea9fbb76d6ac1b14cf7b0d600b02d024b23ecd2)  
+   Link: <a href="https://www.semanticscholar.org/paper/Limitations-of-far-infrared-thermal-imaging-in-Boonstra-Eadie/eea9fbb76d6ac1b14cf7b0d600b02d024b23ecd2" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Limitations-of-far-infrared-thermal-imaging-in-Boonstra-Eadie/eea9fbb76d6ac1b14cf7b0d600b02d024b23ecd2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Limitations of far infrared thermal imaging in locating birdsThe FLIR camera was of limited benefit when actively trapping coveys with do...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: bsg-ecology.com  
-   Link: [https://bsg-ecology.com/changing-technology-in-ecology-surveys-the-role-of-thermal-imaging-and-infra-red-cameras/](https://bsg-ecology.com/changing-technology-in-ecology-surveys-the-role-of-thermal-imaging-and-infra-red-cameras/)  
+   Link: <a href="https://bsg-ecology.com/changing-technology-in-ecology-surveys-the-role-of-thermal-imaging-and-infra-red-cameras/" target="_blank" rel="noopener noreferrer nofollow">https://bsg-ecology.com/changing-technology-in-ecology-surveys-the-role-of-thermal-imaging-and-infra-red-cameras/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the Role of Thermal Imaging and Infra-Red CamerasWe have found hand-held thermal imaging cameras to be very effective at monitoring bat a...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/figure/The-thermal-imaging-camera-characteristics-that-determine-the-spatial-resolution-and_fig1_281719202](https://www.researchgate.net/figure/The-thermal-imaging-camera-characteristics-that-determine-the-spatial-resolution-and_fig1_281719202)  
+   Link: <a href="https://www.researchgate.net/figure/The-thermal-imaging-camera-characteristics-that-determine-the-spatial-resolution-and_fig1_281719202" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/The-thermal-imaging-camera-characteristics-that-determine-the-spatial-resolution-and_fig1_281719202</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The thermal imaging camera characteristics that determine...Thermal infrared video can provide essential information about bird and bat...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: zoology.ubc.ca  
-   Link: [https://www.zoology.ubc.ca/~krebs/papers/113.pdf](https://www.zoology.ubc.ca/~krebs/papers/113.pdf)  
+   Link: <a href="https://www.zoology.ubc.ca/~krebs/papers/113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.zoology.ubc.ca/~krebs/papers/113.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OF FAR INFRARED THERMAL IMAGING IN...by CJ KREBS — FIR imaging will be of limited utility in censusing most avian populations, although...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: fotric.com  
-   Link: [https://www.fotric.com/post/an-in-depth-explanation-about-ambient-temperature-and-reflected-temperature-parameters](https://www.fotric.com/post/an-in-depth-explanation-about-ambient-temperature-and-reflected-temperature-parameters)  
+   Link: <a href="https://www.fotric.com/post/an-in-depth-explanation-about-ambient-temperature-and-reflected-temperature-parameters" target="_blank" rel="noopener noreferrer nofollow">https://www.fotric.com/post/an-in-depth-explanation-about-ambient-temperature-and-reflected-temperature-parameters</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>An In-Depth Explanation about &#x27;Ambient Temperature&#x27; and &#x27;...26 Nov 2021 — Discover the difference between ambient temperature and reflec...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/understanding-emissivity-reflected-temperature-justin-dravsnik](https://www.linkedin.com/pulse/understanding-emissivity-reflected-temperature-justin-dravsnik)  
+   Link: <a href="https://www.linkedin.com/pulse/understanding-emissivity-reflected-temperature-justin-dravsnik" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/understanding-emissivity-reflected-temperature-justin-dravsnik</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s defined as the ratio of infrared energy emitted by the object, compared to that emitted by an ideal...Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: tethys.pnnl.gov  
    Title: Tethys Two-dimensional thermal video analysis of offshore  
-   Link: [https://tethys.pnnl.gov/sites/default/files/publications/Matzner-et-al-2015.pdf](https://tethys.pnnl.gov/sites/default/files/publications/Matzner-et-al-2015.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tethysby S Matzner · 2015 · Cited by 36 — Thermal infrared video can provide information about animal passage rates and activity patterns...</p></details>
+   Link: <a href="https://tethys.pnnl.gov/sites/default/files/publications/Matzner-et-al-2015.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tethys.pnnl.gov/sites/default/files/publications/Matzner-et-al-2015.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by S Matzner · 2015 · Cited by 36 — Thermal infrared video can provide information about animal passage rates and activity patterns...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: wildcare.co.uk  
    Title: The tech doesn't emit light generally and therefore  
-   Link: [https://www.wildcare.co.uk/blog/notes-on-ecology-thermal-imaging/](https://www.wildcare.co.uk/blog/notes-on-ecology-thermal-imaging/)  
+   Link: <a href="https://www.wildcare.co.uk/blog/notes-on-ecology-thermal-imaging/" target="_blank" rel="noopener noreferrer nofollow">https://www.wildcare.co.uk/blog/notes-on-ecology-thermal-imaging/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Notes on Ecology: Thermal Imaging | Latest NewsNon-invasive: TI is very non-invasive due to its ability to detect animals tens to hundred...</p></details>

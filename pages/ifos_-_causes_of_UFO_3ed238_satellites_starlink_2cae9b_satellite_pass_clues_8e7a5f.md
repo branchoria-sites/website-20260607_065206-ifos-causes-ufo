@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_starlink_flares_3a1a8d
 - ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_starlink_trains_724c24
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - satellites
 - satellite-clues
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - satellites
 - satellite-clues
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: A smooth silent light can look strange, but timing, steady motion, fading and lack of navigation lights often point to a satellite.
 hero_summary: A smooth silent light can look strange, but timing, steady motion, fading and lack of navigation lights often point to a satellite.
 layout: default
 permalink: /satellite-clues/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /satellites/
 nav_short_title: Satellite clues
 title: Was that silent light a satellite?
-title_full: Was that silent light a satellite? | Satellites
+title_full: Was that silent light a satellite?
 display_title_short: Satellite clues
 display_title: Satellite clues
 heading_title: Was that silent light a satellite?
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 03:53:33'
-parent_title: Why Satellites Surprise Night Watchers | IFOs
+parent_title: Why Satellites Surprise Night Watchers
 parent_permalink: /satellites/
 parent_nav_short_title: Satellites
 parent_heading_title: Why Satellites Surprise Night Watchers
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b
-  title: Satellites | Ifos Causes Of
+  title: Satellites | ifos causes of UFO 3 ed 238
   permalink: /satellites/
   short_title: Satellites
   heading_title: Why Satellites Surprise Night Watchers
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b
-  title: Satellites | Ifos Causes Of
+  title: Satellites | ifos causes of UFO 3 ed 238
   permalink: /satellites/
   short_title: Satellites
   heading_title: Why Satellites Surprise Night Watchers
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: How to check a UFO against satellites
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b
-  title: Satellites | Ifos Causes Of
+  title: Satellites | ifos causes of UFO 3 ed 238
   permalink: /satellites/
   short_title: Satellites
   heading_title: Why Satellites Surprise Night Watchers
@@ -266,6 +265,7 @@ next_link:
   permalink: /starlink-trains-abbfbb/
   short_title: Starlink trains
   heading_title: Why do Starlink trains look planned?
+date: '2026-06-12 00:49:29 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_satellite_pass_clues_8e7a5f-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_satellite_pass_clues_8e7a5f-Illustration-1.webp
@@ -276,9 +276,8 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_sat
 
 Many UFO reports begin with a single moving light crossing the night sky. It appears silent, steady and oddly purposeful, leading observers to wonder whether they have seen something unusual. In practice, one of the most useful identification skills is learning the difference between a satellite pass and an aircraft.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_satellite_pass_clues_8e7a5f-Illustration-1-dark.svg" | relative_url }}" alt="Satellite clues illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_satellite_pass_clues_8e7a5f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_satellite_pass_clues_8e7a5f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-A visible satellite and a distant aircraft can both appear as small points of light. However, they are illuminated in different ways and move for different reasons. Those differences create reliable clues. The timing of the sighting, the presence or absence of flashing lights, the way the object fades, and its motion across the sky can often distinguish a satellite from an aircraft within a few seconds of observation. For UFO investigations, these clues are important because many apparently mysterious night-time lights match known satellite behaviour rather than an unknown aerial object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nasa.gov/spot-the-station/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">NASASpot The StationThe space station appears similar to an airplane or a very bright star moving across the night sky, except it does no...</span></span></span>
+A visible satellite and a distant aircraft can both appear as small points of light. However, they are illuminated in different ways and move for different reasons. Those differences create reliable clues. The timing of the sighting, the presence or absence of flashing lights, the way the object fades, and its motion across the sky can often distinguish a satellite from an aircraft within a few seconds of observation. For UFO investigations, these clues are important because many apparently mysterious night-time lights match known satellite behaviour rather than an unknown aerial object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nasa.gov/spot-the-station/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">Spot The StationThe space station appears similar to an airplane or a very bright star moving across the night sky, except it does no...</span></span></span>
 
 ## Was that silent light a satellite?
 
@@ -289,37 +288,33 @@ The simplest test is often the most effective:
 * **Steady light with no flashing pattern:** often a satellite.
 * **Regular flashes, strobes, or red and green lights:** usually an aircraft.
 * **Smooth, uninterrupted motion across a large section of sky:** often a satellite.
-* **Changes in heading, apparent circling, or approach towards the observer:** usually an aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nasa.gov/spot-the-station/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">NASASpot The StationThe space station appears similar to an airplane or a very bright star moving across the night sky, except it does no...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://orbitalnodes.ai/satellite-vs-plane" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orbitalnodes.ai">[Orbital]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orbitalnodes.ai</span><span class="citation-popover-title">Orbital Nodes.ai Satellite or Plane?</span><span class="citation-popover-snippet">Orbital Nodes.ai Satellite or Plane?</span></span></span>
+* **Changes in heading, apparent circling, or approach towards the observer:** usually an aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nasa.gov/spot-the-station/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">Spot The StationThe space station appears similar to an airplane or a very bright star moving across the night sky, except it does no...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://orbitalnodes.ai/satellite-vs-plane" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orbitalnodes.ai">[Orbital]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orbitalnodes.ai</span><span class="citation-popover-title">Orbital Nodes.ai Satellite or Plane?</span><span class="citation-popover-snippet">Orbital Nodes.ai Satellite or Plane?</span></span></span>
 
-The International Space Station is a classic example. NASA notes that it can resemble a bright moving star, but unlike an aircraft it does not display flashing lights and does not change direction during a pass. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nasa.gov/spot-the-station/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">NASASpot The StationThe space station appears similar to an airplane or a very bright star moving across the night sky, except it does no...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pqkxYbVEvAU" title="What do drones look like? Are lights in the night UFOs, planes? Here&#x27;s what to know." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pqkxYbVEvAU" target="_blank" rel="noopener noreferrer">What do drones look like? Are lights in the night UFOs, planes? Here&#x27;s what to know.</a></p><p class="youtube-embed-meta">Channel: NBC10 Boston &middot; Views: 22.9K &middot; Uploaded: December 2024 &middot; Length: 1 minute 39 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pqkxYbVEvAU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pqkxYbVEvAU">Open on YouTube</a></p></div></div></div>
+The International Space Station is a classic example. NASA notes that it can resemble a bright moving star, but unlike an aircraft it does not display flashing lights and does not change direction during a pass. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nasa.gov/spot-the-station/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">Spot The StationThe space station appears similar to an airplane or a very bright star moving across the night sky, except it does no...</span></span></span>
 
 ## The timing clues after sunset and before sunrise
 
 Timing is one of the strongest indicators because visible [satellites]({{ 'satellites/' | relative_url }}) depend on a specific lighting geometry.
 
-To be visible, the observer must be in darkness while the satellite remains high enough above Earth to still receive sunlight. This situation occurs most commonly shortly after sunset and shortly before sunrise. Satellite observers have long noted that many low-Earth-orbit satellites are easiest to see during these twilight periods. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skymaps.com/articles/n0012.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skymaps.com">[Skymaps]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skymaps.com</span><span class="citation-popover-snippet">SkymapsObserving Earth SatellitesSatellites are best seen about an hour after sunset or before sunrise.... at late hours the Earth&#x27;s sha...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.satobs.org/beginner.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satobs.org">[Satellites Observed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satobs.org</span><span class="citation-popover-snippet">Satellites ObservedBeginner&#x27;s Observing GuideMost satellites are not visible all night long. Sooner or later the earth&#x27;s shadow prevents...</span></span></span>
+To be visible, the observer must be in darkness while the satellite remains high enough above Earth to still receive sunlight. This situation occurs most commonly shortly after sunset and shortly before sunrise. Satellite observers have long noted that many low-Earth-orbit satellites are easiest to see during these twilight periods. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skymaps.com/articles/n0012.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skymaps.com">[Skymaps]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skymaps.com</span><span class="citation-popover-snippet">Observing Earth SatellitesSatellites are best seen about an hour after sunset or before sunrise.... at late hours the Earth&#x27;s sha...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.satobs.org/beginner.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satobs.org">[Satellites Observed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satobs.org</span><span class="citation-popover-snippet">Satellites ObservedBeginner&#x27;s Observing GuideMost satellites are not visible all night long. Sooner or later the earth&#x27;s shadow prevents...</span></span></span>
 
 This leads to a practical rule:
 
 * A bright, steady light seen within roughly an hour or two after sunset or before sunrise is a strong satellite candidate.
-* The same appearance in the middle of the night is less likely to be a low-orbit satellite, although some higher-orbit objects can still be visible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skymaps.com/articles/n0012.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skymaps.com">[Skymaps]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skymaps.com</span><span class="citation-popover-snippet">SkymapsObserving Earth SatellitesSatellites are best seen about an hour after sunset or before sunrise.... at late hours the Earth&#x27;s sha...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.satobs.org/beginner.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satobs.org">[Satellites Observed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satobs.org</span><span class="citation-popover-snippet">Satellites ObservedBeginner&#x27;s Observing GuideMost satellites are not visible all night long. Sooner or later the earth&#x27;s shadow prevents...</span></span></span>
+* The same appearance in the middle of the night is less likely to be a low-orbit satellite, although some higher-orbit objects can still be visible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skymaps.com/articles/n0012.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skymaps.com">[Skymaps]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skymaps.com</span><span class="citation-popover-snippet">Observing Earth SatellitesSatellites are best seen about an hour after sunset or before sunrise.... at late hours the Earth&#x27;s sha...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.satobs.org/beginner.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satobs.org">[Satellites Observed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satobs.org</span><span class="citation-popover-snippet">Satellites ObservedBeginner&#x27;s Observing GuideMost satellites are not visible all night long. Sooner or later the earth&#x27;s shadow prevents...</span></span></span>
 
-This timing pattern explains why satellite-related UFO reports often cluster around dusk and dawn. The sky is dark enough to notice the object, but the object itself remains illuminated by the Sun. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skymaps.com/articles/n0012.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skymaps.com">[Skymaps]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skymaps.com</span><span class="citation-popover-snippet">SkymapsObserving Earth SatellitesSatellites are best seen about an hour after sunset or before sunrise.... at late hours the Earth&#x27;s sha...</span></span></span>
-
+This timing pattern explains why satellite-related UFO reports often cluster around dusk and dawn. The sky is dark enough to notice the object, but the object itself remains illuminated by the Sun. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skymaps.com/articles/n0012.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skymaps.com">[Skymaps]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skymaps.com</span><span class="citation-popover-snippet">Observing Earth SatellitesSatellites are best seen about an hour after sunset or before sunrise.... at late hours the Earth&#x27;s sha...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_satellite_pass_clues_8e7a5f-Illustration-2-dark.svg" | relative_url }}" alt="Satellite clues illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_satellite_pass_clues_8e7a5f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_satellite_pass_clues_8e7a5f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Motion, colour and fading patterns that fit satellites
 
-A satellite typically crosses the sky at a steady apparent speed. It does not weave, stop, hover or make abrupt turns. Because it is orbiting hundreds of kilometres above Earth, its path usually appears smooth and predictable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nasa.gov/spot-the-station/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">NASASpot The StationThe space station appears similar to an airplane or a very bright star moving across the night sky, except it does no...</span></span></span>
+A satellite typically crosses the sky at a steady apparent speed. It does not weave, stop, hover or make abrupt turns. Because it is orbiting hundreds of kilometres above Earth, its path usually appears smooth and predictable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nasa.gov/spot-the-station/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">Spot The StationThe space station appears similar to an airplane or a very bright star moving across the night sky, except it does no...</span></span></span>
 
 Several behaviours commonly mistaken for unusual manoeuvres are actually normal satellite effects:
 
 **Sudden disappearance**
 
-One of the most convincing-looking UFO behaviours is a light that vanishes without warning. For satellites, this is often caused by entry into Earth's shadow. The object remains present but is no longer illuminated by sunlight. Observers may interpret this as instantaneous acceleration, cloaking, or disappearance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skymaps.com/articles/n0012.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skymaps.com">[Skymaps]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skymaps.com</span><span class="citation-popover-snippet">SkymapsObserving Earth SatellitesSatellites are best seen about an hour after sunset or before sunrise.... at late hours the Earth&#x27;s sha...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.satobs.org/beginner.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satobs.org">[Satellites Observed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satobs.org</span><span class="citation-popover-snippet">Satellites ObservedBeginner&#x27;s Observing GuideMost satellites are not visible all night long. Sooner or later the earth&#x27;s shadow prevents...</span></span></span>
+One of the most convincing-looking UFO behaviours is a light that vanishes without warning. For satellites, this is often caused by entry into Earth's shadow. The object remains present but is no longer illuminated by sunlight. Observers may interpret this as instantaneous acceleration, cloaking, or disappearance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skymaps.com/articles/n0012.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skymaps.com">[Skymaps]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skymaps.com</span><span class="citation-popover-snippet">Observing Earth SatellitesSatellites are best seen about an hour after sunset or before sunrise.... at late hours the Earth&#x27;s sha...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.satobs.org/beginner.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satobs.org">[Satellites Observed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satobs.org</span><span class="citation-popover-snippet">Satellites ObservedBeginner&#x27;s Observing GuideMost satellites are not visible all night long. Sooner or later the earth&#x27;s shadow prevents...</span></span></span>
 
 **Gradual fading**
 
@@ -333,8 +328,7 @@ Some satellites slowly dim as the reflection angle changes. A bright object can 
 
 Observers sometimes report a satellite turning yellow, orange or reddish before fading. This can occur as the lighting geometry changes near Earth's shadow boundary. Reports from experienced satellite observers describe such colour transitions during International Space Station passes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skyandtelescope.org/astronomy-news/observing-news/flight-into-darkness-observe-the-iss-in-earths-shadow/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyandtelescope.org">[Sky &amp; Telescope]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyandtelescope.org</span><span class="citation-popover-title">Sky &amp; Telescope Observe the International Space Station in Earth&#x27;s Shadow</span><span class="citation-popover-snippet">Sky &amp; TelescopeObserve the International Space Station in Earth&#x27;s ShadowAugust 28, 2024 — 28 Aug 2024 — The International Space Station f...</span><span class="citation-popover-meta">Published: August 28, 2024</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/D2QqaBzLti4" title="Satellite Pollution - night sky ruined by satellites :/ Amazing time-lapse" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=D2QqaBzLti4" target="_blank" rel="noopener noreferrer">Satellite Pollution - night sky ruined by satellites :/ Amazing time-lapse</a></p><p class="youtube-embed-meta">Channel: Mr SuperMole</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=D2QqaBzLti4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=D2QqaBzLti4">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pqkxYbVEvAU" title="What do drones look like? Are lights in the night UFOs, planes? Here&#x27;s what to know." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pqkxYbVEvAU" target="_blank" rel="noopener noreferrer">What do drones look like? Are lights in the night UFOs, planes? Here&#x27;s what to know.</a></p><p class="youtube-embed-meta">Channel: NBC10 Boston &middot; Views: 22.9K &middot; Uploaded: December 2024 &middot; Length: 1 minute 39 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pqkxYbVEvAU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pqkxYbVEvAU">Open on YouTube</a></p></div></div></div>
 
 ## When aircraft or drones become the better explanation
 
@@ -346,25 +340,20 @@ Commercial and private aircraft carry anti-collision strobes and navigation ligh
 
 ### Changes in apparent direction
 
-A satellite's path is governed by its orbit and appears smooth to the naked eye. If a light seems to turn sharply, circle, approach directly, or reverse direction, an aircraft is generally the more likely explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nasa.gov/spot-the-station/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">NASASpot The StationThe space station appears similar to an airplane or a very bright star moving across the night sky, except it does no...</span></span></span>
+A satellite's path is governed by its orbit and appears smooth to the naked eye. If a light seems to turn sharply, circle, approach directly, or reverse direction, an aircraft is generally the more likely explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nasa.gov/spot-the-station/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">Spot The StationThe space station appears similar to an airplane or a very bright star moving across the night sky, except it does no...</span></span></span>
 
-
-<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_satellite_pass_clues_8e7a5f-Illustration-3-dark.svg" | relative_url }}" alt="Satellite clues illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_satellite_pass_clues_8e7a5f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_satellite_pass_clues_8e7a5f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Persistent visibility low on the horizon
 
-Aircraft can remain visible for long periods near the horizon because they generate their own lighting. Satellites often fade as they approach Earth's shadow or become too low for favourable reflection angles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skymaps.com/articles/n0012.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skymaps.com">[Skymaps]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skymaps.com</span><span class="citation-popover-snippet">SkymapsObserving Earth SatellitesSatellites are best seen about an hour after sunset or before sunrise.... at late hours the Earth&#x27;s sha...</span></span></span>
+Aircraft can remain visible for long periods near the horizon because they generate their own lighting. Satellites often fade as they approach Earth's shadow or become too low for favourable reflection angles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skymaps.com/articles/n0012.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skymaps.com">[Skymaps]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skymaps.com</span><span class="citation-popover-snippet">Observing Earth SatellitesSatellites are best seen about an hour after sunset or before sunrise.... at late hours the Earth&#x27;s sha...</span></span></span>
 
+<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_satellite_pass_clues_8e7a5f-Illustration-3-dark.svg" | relative_url }}" alt="Satellite clues illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_satellite_pass_clues_8e7a5f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_satellite_pass_clues_8e7a5f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Sound and local context
 
-A distant aircraft may initially appear silent, but engine noise can become audible as it approaches. [Drones]({{ 'drones/' | relative_url }}) may also produce audible rotor noise when nearby. Satellites orbit far above the [atmosphere]({{ 'atmosphere/' | relative_url }}) and produce no sound that can be heard from the ground. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nasa.gov/spot-the-station/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">NASASpot The StationThe space station appears similar to an airplane or a very bright star moving across the night sky, except it does no...</span></span></span>
+A distant aircraft may initially appear silent, but engine noise can become audible as it approaches. [Drones]({{ 'drones/' | relative_url }}) may also produce audible rotor noise when nearby. Satellites orbit far above the [atmosphere]({{ 'atmosphere/' | relative_url }}) and produce no sound that can be heard from the ground. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nasa.gov/spot-the-station/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">Spot The StationThe space station appears similar to an airplane or a very bright star moving across the night sky, except it does no...</span></span></span>
 
 ## A quick field test for UFO sightings
 
 When confronted with an unexplained moving light, a useful sequence is:
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nqn8zT1VipA" title="How to Spot the Space Station from Your Backyard - ISS Science" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nqn8zT1VipA" target="_blank" rel="noopener noreferrer">How to Spot the Space Station from Your Backyard - ISS Science</a></p><p class="youtube-embed-meta">Channel: Smithsonian National Air and Space Museum</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nqn8zT1VipA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nqn8zT1VipA">Open on YouTube</a></p></div></div></div>
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -376,7 +365,7 @@ When confronted with an unexplained moving light, a useful sequence is:
 
 </div>
 
-If the object is a steady, silent point of light moving smoothly across the sky during twilight and then fading away without any navigation lights, the evidence strongly favours a satellite pass. If it flashes, changes direction, maintains visible lighting throughout the observation, or behaves like a conventional aircraft, then an aircraft or drone becomes the more probable explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://orbitalradar.com/what-is-that-light-in-the-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orbitalradar.com">[Orbital Radar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orbitalradar.com</span><span class="citation-popover-title">Orbital Radar What Is That Light in the Sky Tonight?</span><span class="citation-popover-snippet">Orbital Radar What Is That Light in the Sky Tonight?</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nasa.gov/spot-the-station/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">NASASpot The StationThe space station appears similar to an airplane or a very bright star moving across the night sky, except it does no...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skymaps.com/articles/n0012.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skymaps.com">[Skymaps]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skymaps.com</span><span class="citation-popover-snippet">SkymapsObserving Earth SatellitesSatellites are best seen about an hour after sunset or before sunrise.... at late hours the Earth&#x27;s sha...</span></span></span>
+If the object is a steady, silent point of light moving smoothly across the sky during twilight and then fading away without any navigation lights, the evidence strongly favours a satellite pass. If it flashes, changes direction, maintains visible lighting throughout the observation, or behaves like a conventional aircraft, then an aircraft or drone becomes the more probable explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://orbitalradar.com/what-is-that-light-in-the-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orbitalradar.com">[Orbital Radar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orbitalradar.com</span><span class="citation-popover-title">Orbital Radar What Is That Light in the Sky Tonight?</span><span class="citation-popover-snippet">Orbital Radar What Is That Light in the Sky Tonight?</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nasa.gov/spot-the-station/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">Spot The StationThe space station appears similar to an airplane or a very bright star moving across the night sky, except it does no...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skymaps.com/articles/n0012.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skymaps.com">[Skymaps]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skymaps.com</span><span class="citation-popover-snippet">Observing Earth SatellitesSatellites are best seen about an hour after sunset or before sunrise.... at late hours the Earth&#x27;s sha...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -495,15 +484,15 @@ If the object is a steady, silent point of light moving smoothly across the sky 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-clues-was-that-silent-light-a-satellite-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="satellite-clues-was-that-silent-light-a-satellite-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Airship in Starry Night Sky Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fdb67fcc50900ab468b6.jpg' | relative_url }}" alt="Listing image for Airship in Starry Night Sky Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-that-silent-light-a-satellite-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="was-that-silent-light-a-satellite-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PROMOTIONAL MARCONI MARECS MARINE COASTAL SATELLITE DIORAMA MODEL"><img src="https://i.ebayimg.com/images/g/B~EAAOSwhN5n2WBJ/s-l225.jpg" alt="Listing image for PROMOTIONAL MARCONI MARECS MARINE COASTAL SATELLITE DIORAMA MODEL" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-clues-was-that-silent-light-a-satellite-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="satellite-clues-was-that-silent-light-a-satellite-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Airship in Starry Night Sky Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-that-silent-light-a-satellite-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="was-that-silent-light-a-satellite-satellite-model" target="_blank" rel="sponsored noopener noreferrer">PROMOTIONAL MARCONI MARECS MARINE COASTAL SATELLITE DIORAMA MODEL</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-clues-was-that-silent-light-a-satellite-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="satellite-clues-was-that-silent-light-a-satellite-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-that-silent-light-a-satellite-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="was-that-silent-light-a-satellite-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-clues-was-that-silent-light-a-satellite-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="satellite-clues-was-that-silent-light-a-satellite-ifos-causes-of-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-that-silent-light-a-satellite-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="was-that-silent-light-a-satellite-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -511,15 +500,15 @@ If the object is a steady, silent point of light moving smoothly across the sky 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-clues-was-that-silent-light-a-satellite-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="satellite-clues-was-that-silent-light-a-satellite-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Beautiful astro starry night sky. F Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2d7db700ef91db184218.jpg' | relative_url }}" alt="Listing image for Beautiful astro starry night sky. F Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-that-silent-light-a-satellite-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="was-that-silent-light-a-satellite-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/80 Satellite Model Shenzhou 12 Long March Rocket Model Satellite Model Display"><img src="https://i.ebayimg.com/images/g/vfkAAeSwPL5qFViq/s-l225.jpg" alt="Listing image for 1/80 Satellite Model Shenzhou 12 Long March Rocket Model Satellite Model Display" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-clues-was-that-silent-light-a-satellite-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="satellite-clues-was-that-silent-light-a-satellite-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Beautiful astro starry night sky. F Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-that-silent-light-a-satellite-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="was-that-silent-light-a-satellite-satellite-model" target="_blank" rel="sponsored noopener noreferrer">1/80 Satellite Model Shenzhou 12 Long March Rocket Model Satellite Model Display</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-clues-was-that-silent-light-a-satellite-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="satellite-clues-was-that-silent-light-a-satellite-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-that-silent-light-a-satellite-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="was-that-silent-light-a-satellite-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-clues-was-that-silent-light-a-satellite-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="satellite-clues-was-that-silent-light-a-satellite-ifos-causes-of-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-that-silent-light-a-satellite-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="was-that-silent-light-a-satellite-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -527,15 +516,15 @@ If the object is a steady, silent point of light moving smoothly across the sky 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-clues-was-that-silent-light-a-satellite-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="satellite-clues-was-that-silent-light-a-satellite-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture"><img src="{{ '/assets/images/marketplace-covers/0efa7c31974d5c2eeff0.jpg' | relative_url }}" alt="Listing image for Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-that-silent-light-a-satellite-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="was-that-silent-light-a-satellite-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wooden Solar Satellite Model Solar Satellite Model Kit Puzzle for Space Lover"><img src="https://i.ebayimg.com/images/g/jhAAAOSwthFoQ0pc/s-l225.jpg" alt="Listing image for Wooden Solar Satellite Model Solar Satellite Model Kit Puzzle for Space Lover" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-clues-was-that-silent-light-a-satellite-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="satellite-clues-was-that-silent-light-a-satellite-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-that-silent-light-a-satellite-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="was-that-silent-light-a-satellite-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Wooden Solar Satellite Model Solar Satellite Model Kit Puzzle for Space Lover</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-clues-was-that-silent-light-a-satellite-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="satellite-clues-was-that-silent-light-a-satellite-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-that-silent-light-a-satellite-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="was-that-silent-light-a-satellite-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-clues-was-that-silent-light-a-satellite-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="satellite-clues-was-that-silent-light-a-satellite-ifos-causes-of-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-that-silent-light-a-satellite-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="was-that-silent-light-a-satellite-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -543,15 +532,15 @@ If the object is a steady, silent point of light moving smoothly across the sky 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-clues-was-that-silent-light-a-satellite-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="satellite-clues-was-that-silent-light-a-satellite-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Full Moon Night Sky Framed Art Prin Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/4e3c44f9f0aac763177e.jpg' | relative_url }}" alt="Listing image for Full Moon Night Sky Framed Art Prin Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-that-silent-light-a-satellite-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="was-that-silent-light-a-satellite-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PROMOTIONAL MARCONI MARECS MARINE COASTAL SATELLITE DIORAMA MODEL"><img src="https://i.ebayimg.com/images/g/lpoAAOSwg5Rn2V~f/s-l225.jpg" alt="Listing image for PROMOTIONAL MARCONI MARECS MARINE COASTAL SATELLITE DIORAMA MODEL" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-clues-was-that-silent-light-a-satellite-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="satellite-clues-was-that-silent-light-a-satellite-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Full Moon Night Sky Framed Art Prin Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-that-silent-light-a-satellite-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="was-that-silent-light-a-satellite-satellite-model" target="_blank" rel="sponsored noopener noreferrer">PROMOTIONAL MARCONI MARECS MARINE COASTAL SATELLITE DIORAMA MODEL</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-clues-was-that-silent-light-a-satellite-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="satellite-clues-was-that-silent-light-a-satellite-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-that-silent-light-a-satellite-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="was-that-silent-light-a-satellite-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-clues-was-that-silent-light-a-satellite-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="satellite-clues-was-that-silent-light-a-satellite-ifos-causes-of-night-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-that-silent-light-a-satellite-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="was-that-silent-light-a-satellite-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -559,7 +548,7 @@ If the object is a steady, silent point of light moving smoothly across the sky 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-clues-was-that-silent-light-a-satellite-ifos-causes-of-night-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky poster" data-ebay-reference="satellite-clues-was-that-silent-light-a-satellite-ifos-causes-of-night-sky-poster" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-that-silent-light-a-satellite-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="was-that-silent-light-a-satellite-satellite-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -774,74 +763,74 @@ If the object is a steady, silent point of light moving smoothly across the sky 
 
 1. <a id="endnote-1"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/spot-the-station/](https://www.nasa.gov/spot-the-station/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASASpot The StationThe space station appears similar to an airplane or a very bright star moving across the night sky, except it does no...</p></details>
+   Link: <a href="https://www.nasa.gov/spot-the-station/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/spot-the-station/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spot The StationThe space station appears similar to an airplane or a very bright star moving across the night sky, except it does no...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: skymaps.com  
-   Link: [https://www.skymaps.com/articles/n0012.html](https://www.skymaps.com/articles/n0012.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SkymapsObserving Earth SatellitesSatellites are best seen about an hour after sunset or before sunrise.... at late hours the Earth&#x27;s sha...</p></details>
+   Link: <a href="https://www.skymaps.com/articles/n0012.html" target="_blank" rel="noopener noreferrer nofollow">https://www.skymaps.com/articles/n0012.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Observing Earth SatellitesSatellites are best seen about an hour after sunset or before sunrise.... at late hours the Earth&#x27;s sha...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: orbitalnodes.ai  
    Title: Orbital Nodes.ai Satellite or Plane?  
-   Link: [https://orbitalnodes.ai/satellite-vs-plane](https://orbitalnodes.ai/satellite-vs-plane)  
+   Link: <a href="https://orbitalnodes.ai/satellite-vs-plane" target="_blank" rel="noopener noreferrer nofollow">https://orbitalnodes.ai/satellite-vs-plane</a>  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Satellite watching  
-   Link: [https://en.wikipedia.org/wiki/Satellite_watching](https://en.wikipedia.org/wiki/Satellite_watching)  
+   Link: <a href="https://en.wikipedia.org/wiki/Satellite_watching" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Satellite_watching</a>  
 
 5. <a id="endnote-5"></a>
    Source: aerosavvy.com  
    Title: Aero Savvy The Savvy Satellite Spotting Guide  
-   Link: [https://aerosavvy.com/satellite-spotting/](https://aerosavvy.com/satellite-spotting/)  
+   Link: <a href="https://aerosavvy.com/satellite-spotting/" target="_blank" rel="noopener noreferrer nofollow">https://aerosavvy.com/satellite-spotting/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>When you spot a satellite, you are actually seeing reflected sunlight. Method Two – Find Specific Satellites Measuring...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/askastronomy/comments/1i7inn7/can_someone_explain_why_im_seeing_these/](https://www.reddit.com/r/askastronomy/comments/1i7inn7/can_someone_explain_why_im_seeing_these/)  
+   Link: <a href="https://www.reddit.com/r/askastronomy/comments/1i7inn7/can_someone_explain_why_im_seeing_these/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askastronomy/comments/1i7inn7/can_someone_explain_why_im_seeing_these/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>re much more reflective than others) and the satellites&#x27; orbits...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
    Title: I just saw the ISS disappear in Earth's shadow  
-   Link: [https://www.reddit.com/r/Astronomy/comments/73hzu7/i_just_saw_the_iss_disappear_in_earths_shadow/](https://www.reddit.com/r/Astronomy/comments/73hzu7/i_just_saw_the_iss_disappear_in_earths_shadow/)  
+   Link: <a href="https://www.reddit.com/r/Astronomy/comments/73hzu7/i_just_saw_the_iss_disappear_in_earths_shadow/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Astronomy/comments/73hzu7/i_just_saw_the_iss_disappear_in_earths_shadow/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>r/AstronomyIf you have some binoculars you can see the station change from bright white to a deep gold/orange color before it disappears...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/space/comments/fn6fpa/3_geostationary_satellites_disappearing_into/](https://www.reddit.com/r/space/comments/fn6fpa/3_geostationary_satellites_disappearing_into/)  
+   Link: <a href="https://www.reddit.com/r/space/comments/fn6fpa/3_geostationary_satellites_disappearing_into/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/fn6fpa/3_geostationary_satellites_disappearing_into/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>an hour each night near the equinoxes they dip into the Earths...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/explainlikeimfive/comments/piv3b9/eli5_how_dont_we_see_huge_satellite_shaped/](https://www.reddit.com/r/explainlikeimfive/comments/piv3b9/eli5_how_dont_we_see_huge_satellite_shaped/)  
+   Link: <a href="https://www.reddit.com/r/explainlikeimfive/comments/piv3b9/eli5_how_dont_we_see_huge_satellite_shaped/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/explainlikeimfive/comments/piv3b9/eli5_how_dont_we_see_huge_satellite_shaped/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ction of light means that their shadow is cast for only a short distance.Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/askastronomy/comments/iha3bb/how_do_you_identify_a_satellite_in_the_night_sky/](https://www.reddit.com/r/askastronomy/comments/iha3bb/how_do_you_identify_a_satellite_in_the_night_sky/)  
+   Link: <a href="https://www.reddit.com/r/askastronomy/comments/iha3bb/how_do_you_identify_a_satellite_in_the_night_sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askastronomy/comments/iha3bb/how_do_you_identify_a_satellite_in_the_night_sky/</a>  
 
 11. <a id="endnote-11"></a>
    Source: orbitalradar.com  
    Title: Orbital [Radar](&#123;&#123; 'radar/' | relative_url &#125;&#125;) What Is That Light in the Sky Tonight?  
-   Link: [https://orbitalradar.com/what-is-that-light-in-the-sky](https://orbitalradar.com/what-is-that-light-in-the-sky)  
+   Link: <a href="https://orbitalradar.com/what-is-that-light-in-the-sky" target="_blank" rel="noopener noreferrer nofollow">https://orbitalradar.com/what-is-that-light-in-the-sky</a>  
 
 12. <a id="endnote-12"></a>
    Source: satobs.org  
-   Link: [https://www.satobs.org/beginner.html](https://www.satobs.org/beginner.html)  
+   Link: <a href="https://www.satobs.org/beginner.html" target="_blank" rel="noopener noreferrer nofollow">https://www.satobs.org/beginner.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Satellites ObservedBeginner&#x27;s Observing GuideMost satellites are not visible all night long. Sooner or later the earth&#x27;s shadow prevents...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: orbitalradar.com  
-   Link: [https://orbitalradar.com/satellite-pass-predictions](https://orbitalradar.com/satellite-pass-predictions)  
+   Link: <a href="https://orbitalradar.com/satellite-pass-predictions" target="_blank" rel="noopener noreferrer nofollow">https://orbitalradar.com/satellite-pass-predictions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The sky needs to be dark enough to see the satellite, but the...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: skyandtelescope.org  
    Title: Sky & Telescope Observe the International Space Station in Earth's Shadow  
-   Link: [https://skyandtelescope.org/astronomy-news/observing-news/flight-into-darkness-observe-the-iss-in-earths-shadow/](https://skyandtelescope.org/astronomy-news/observing-news/flight-into-darkness-observe-the-iss-in-earths-shadow/)  
+   Link: <a href="https://skyandtelescope.org/astronomy-news/observing-news/flight-into-darkness-observe-the-iss-in-earths-shadow/" target="_blank" rel="noopener noreferrer nofollow">https://skyandtelescope.org/astronomy-news/observing-news/flight-into-darkness-observe-the-iss-in-earths-shadow/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky &amp; TelescopeObserve the International Space Station in Earth&#x27;s ShadowAugust 28, 2024 — 28 Aug 2024 — The International Space Station f...</p></details>
    Published: August 28, 2024  
 
@@ -849,52 +838,52 @@ If the object is a steady, silent point of light moving smoothly across the sky 
 
 15. <a id="endnote-15"></a>
    Source: webexhibits.org  
-   Link: [https://www.webexhibits.org/causesofcolor/14E.html](https://www.webexhibits.org/causesofcolor/14E.html)  
+   Link: <a href="https://www.webexhibits.org/causesofcolor/14E.html" target="_blank" rel="noopener noreferrer nofollow">https://www.webexhibits.org/causesofcolor/14E.html</a>  
 
 16. <a id="endnote-16"></a>
    Source: satobs.org  
-   Link: [https://www.satobs.org/observe.html](https://www.satobs.org/observe.html)  
+   Link: <a href="https://www.satobs.org/observe.html" target="_blank" rel="noopener noreferrer nofollow">https://www.satobs.org/observe.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Observing Earth SatellitesFor a satellite to be easily visible to an observer it should be in low Earth orbit at an inclination that is a...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: unittoolbox.com  
-   Link: [https://unittoolbox.com/satellite-visibility-calculator/](https://unittoolbox.com/satellite-visibility-calculator/)  
+   Link: <a href="https://unittoolbox.com/satellite-visibility-calculator/" target="_blank" rel="noopener noreferrer nofollow">https://unittoolbox.com/satellite-visibility-calculator/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Satellite Visibility CalculatorBest Viewing Times · Dawn: ~1-2 hours before sunrise · Dusk: ~1-2 hours after sunset · When the observer i...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/smartphoneastro/posts/924506416808748/](https://www.facebook.com/groups/smartphoneastro/posts/924506416808748/)  
+   Link: <a href="https://www.facebook.com/groups/smartphoneastro/posts/924506416808748/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/smartphoneastro/posts/924506416808748/</a>  
 
 19. <a id="endnote-19"></a>
    Source: aa.usno.navy.mil  
-   Link: [https://aa.usno.navy.mil/faq/RST_defs](https://aa.usno.navy.mil/faq/RST_defs)  
+   Link: <a href="https://aa.usno.navy.mil/faq/RST_defs" target="_blank" rel="noopener noreferrer nofollow">https://aa.usno.navy.mil/faq/RST_defs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>navy.milRise, Set, and Twilight DefinitionsTwilight: Twilight is the period of time before sunrise and again after sunset, during which s...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: astronomy.stackexchange.com  
    Title: are satellites orbiting around earth visible to the naked eye  
-   Link: [https://astronomy.stackexchange.com/questions/2219/are-satellites-orbiting-around-earth-visible-to-the-naked-eye](https://astronomy.stackexchange.com/questions/2219/are-satellites-orbiting-around-earth-visible-to-the-naked-eye)  
+   Link: <a href="https://astronomy.stackexchange.com/questions/2219/are-satellites-orbiting-around-earth-visible-to-the-naked-eye" target="_blank" rel="noopener noreferrer nofollow">https://astronomy.stackexchange.com/questions/2219/are-satellites-orbiting-around-earth-visible-to-the-naked-eye</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>satellites orbiting around earth visible to the naked eye?Apr 21, 2014 — I was just lying under the sky trying to possibly see some meteo...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: nationalparksatnight.com  
    Title: They are almost always solid lines with hashed or dotted  
-   Link: [https://www.nationalparksatnight.com/blog/2019/2/16/how-to-tell-the-difference-between-planes-satellites-and-[meteors](https://www.nationalparksatnight.com/blog/2019/2/16/how-to-tell-the-difference-between-planes-satellites-and-[meteors)  
+   Link: <a href="https://www.nationalparksatnight.com/blog/2019/2/16/how-to-tell-the-difference-between-planes-satellites-and-[meteors" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalparksatnight.com/blog/2019/2/16/how-to-tell-the-difference-between-planes-satellites-and-[meteors</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to tell the Difference Between Planes, Satellites and...16 Feb 2019 — I will guide you in how to identify and classify plane trails...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: cloudynights.com  
    Title: What is the best time to see satellites on the night sky  
-   Link: [https://www.cloudynights.com/forums/topic/966424-what-is-the-best-time-to-see-satellites-on-the-night-sky-and-satellite-flares/](https://www.cloudynights.com/forums/topic/966424-what-is-the-best-time-to-see-satellites-on-the-night-sky-and-satellite-flares/)  
+   Link: <a href="https://www.cloudynights.com/forums/topic/966424-what-is-the-best-time-to-see-satellites-on-the-night-sky-and-satellite-flares/" target="_blank" rel="noopener noreferrer nofollow">https://www.cloudynights.com/forums/topic/966424-what-is-the-best-time-to-see-satellites-on-the-night-sky-and-satellite-flares/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 31, 2025 — Most of the sats you will see are in low-Earth orbit and will disappear into the Earth&#x27;s shadow just a few hours after sun...</p></details>
    Published: May 31, 2025  
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NASA/posts/airplanes-fly-about-600mph-but-the-international-space-station-orbits-earth-at-1/10157454338941772/](https://www.facebook.com/NASA/posts/airplanes-fly-about-600mph-but-the-international-space-station-orbits-earth-at-1/10157454338941772/)  
+   Link: <a href="https://www.facebook.com/NASA/posts/airplanes-fly-about-600mph-but-the-international-space-station-orbits-earth-at-1/10157454338941772/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NASA/posts/airplanes-fly-about-600mph-but-the-international-space-station-orbits-earth-at-1/10157454338941772/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>t 17,500mph and looks like a very bright star moving across the...Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/143752942921617/posts/1727279117902317/](https://www.facebook.com/groups/143752942921617/posts/1727279117902317/)  
+   Link: <a href="https://www.facebook.com/groups/143752942921617/posts/1727279117902317/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/143752942921617/posts/1727279117902317/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>t got nearer to overhead. It&#x27;s actually an illusion. We&#x27;re used to...</p></details>

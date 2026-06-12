@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_fog_distance_limits_e658d9
 - ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_haze_planet_reports_a4be32
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - weather-records
 - rain-halos
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - weather-records
 - rain-halos
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Rain, mist and wet air can put halos around ordinary lights and make aircraft, beacons or runway lights seem larger and stranger.
 hero_summary: Rain, mist and wet air can put halos around ordinary lights and make aircraft, beacons or runway lights seem larger and stranger.
 layout: default
 permalink: /rain-halos/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /weather-records/
 nav_short_title: Rain halos
 title: When rain turns lights into UFOs
-title_full: When rain turns lights into UFOs | Weather Records
+title_full: When rain turns lights into UFOs
 display_title_short: Rain halos
 display_title: Rain halos
 heading_title: When rain turns lights into UFOs
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 21:50:12'
-parent_title: Weather Clues That Explain Strange Lights | IFOs
+parent_title: Weather Clues That Explain Strange Lights
 parent_permalink: /weather-records/
 parent_nav_short_title: Weather Records
 parent_heading_title: Weather Clues That Explain Strange Lights
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13
-  title: Weather Records | Ifos Causes Of
+  title: Weather Records | ifos causes of UFO 3 ed 238
   permalink: /weather-records/
   short_title: Weather Records
   heading_title: Weather Clues That Explain Strange Lights
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13
-  title: Weather Records | Ifos Causes Of
+  title: Weather Records | ifos causes of UFO 3 ed 238
   permalink: /weather-records/
   short_title: Weather Records
   heading_title: Weather Clues That Explain Strange Lights
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: Why a low planet can look alive
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13
-  title: Weather Records | Ifos Causes Of
+  title: Weather Records | ifos causes of UFO 3 ed 238
   permalink: /weather-records/
   short_title: Weather Records
   heading_title: Weather Clues That Explain Strange Lights
@@ -260,6 +259,7 @@ prev_link:
   permalink: /haze-planets/
   short_title: Haze planets
   heading_title: Why a low planet can look alive
+date: '2026-06-12 00:19:34 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_rain_light_halos_953601-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_rain_light_halos_953601-Illustration-1.webp
@@ -269,7 +269,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_rain_li
 ## Introduction
 
 Among the many weather-related causes of UFO reports, rain halos around ordinary lights are one of the most easily overlooked and most effective at producing misidentifications. A witness may be looking at a completely ordinary aircraft landing light, airport approach light, navigation beacon, streetlight, tower light or other bright source, yet perceive a glowing sphere, an unusually large luminous object, a hovering disc or a mysterious orb. The object itself has not changed. What has changed is the [atmosphere]({{ 'atmosphere/' | relative_url }}) between the observer and the light source.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_rain_light_halos_953601-Illustration-1-dark.svg" | relative_url }}" alt="Rain halos illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_rain_light_halos_953601-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_rain_light_halos_953601-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Rain, drizzle, mist and fog fill the air with countless microscopic water droplets. These droplets scatter light in multiple directions, reducing contrast, blurring edges and producing luminous halos around bright sources. Researchers studying visibility in fog note that halos are a direct consequence of light scattering by water droplets, while meteorological agencies define fog and mist as conditions in which suspended droplets significantly reduce visibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hal.science/hal-01216610/document" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hal.science">[Hal Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hal.science</span><span class="citation-popover-snippet">Nighttime Visibility Analysis and Estimation Method in the...by R Gallen · 2015 · Cited by 84 — However, fog induces the pres- ence of h...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metoffice.gov.uk/blog/2025/whats-the-difference-between-mist-fog-and-haze" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metoffice.gov.uk</span><span class="citation-popover-title">whats the difference between mist fog and haze</span><span class="citation-popover-snippet">Mist, fog, and haze: What&#x27;s the difference?10 Sept 2025 — Fog is essentially a cloud at ground level that causes a reduction in visibilit...</span></span></span>
@@ -284,7 +283,6 @@ Fog and mist are especially effective because they consist of enormous numbers o
 
 From a witness's perspective, several perceptual changes occur simultaneously:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The apparent diameter of the light increases.
@@ -298,10 +296,7 @@ From a witness's perspective, several perceptual changes occur simultaneously:
 
 These effects are not merely theoretical. Visibility researchers studying night-time observation in fog specifically note that fog induces halos around light sources because of scattering by water droplets. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hal.science/hal-01216610/document" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hal.science">[Hal Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hal.science</span><span class="citation-popover-snippet">Nighttime Visibility Analysis and Estimation Method in the...by R Gallen · 2015 · Cited by 84 — However, fog induces the pres- ence of h...</span></span></span>
 
-An important distinction should be made between the halo-like glow discussed here and the large circular atmospheric halos sometimes seen around the Sun or Moon. Classical atmospheric halos are usually produced by ice crystals and involve refraction through specific crystal geometries. Rain halos around [aircraft lights]({{ 'aircraft-lights/' | relative_url }}) are primarily scattering phenomena associated with liquid water droplets and reduced visibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/arx/why_halos_sundogs_pillars" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">National Weather ServiceWhat Causes Halos, Sundogs and Sun Pillars?Halos: A halo is a ring or light that forms around the sun or moon as...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.meteoswiss.admin.ch/weather/weather-and-climate-from-a-to-z/halo-phenomena-optical-phenomena-at-fog-margins.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: meteoswiss.admin.ch">[MeteoSwiss]</a><span class="citation-popover" role="note"><span class="citation-popover-source">meteoswiss.admin.ch</span><span class="citation-popover-snippet">MeteoSwissHalo phenomena – optical phenomena at fog marginsHalos are caused by the refraction and reflection of sunlight on ice crystals...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UGsZVDrnpWo" title="Bending Light: The Science of Atmospheric Refraction Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UGsZVDrnpWo" target="_blank" rel="noopener noreferrer">Bending Light: The Science of Atmospheric Refraction Explained</a></p><p class="youtube-embed-meta">Channel: ILearnings</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UGsZVDrnpWo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UGsZVDrnpWo">Open on YouTube</a></p></div></div></div>
+An important distinction should be made between the halo-like glow discussed here and the large circular atmospheric halos sometimes seen around the Sun or Moon. Classical atmospheric halos are usually produced by ice crystals and involve refraction through specific crystal geometries. Rain halos around [aircraft lights]({{ 'aircraft-lights/' | relative_url }}) are primarily scattering phenomena associated with liquid water droplets and reduced visibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/arx/why_halos_sundogs_pillars" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">National Weather ServiceWhat Causes Halos, Sundogs and Sun Pillars?Halos: A halo is a ring or light that forms around the sun or moon as...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.meteoswiss.admin.ch/weather/weather-and-climate-from-a-to-z/halo-phenomena-optical-phenomena-at-fog-margins.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: meteoswiss.admin.ch">[MeteoSwiss]</a><span class="citation-popover" role="note"><span class="citation-popover-source">meteoswiss.admin.ch</span><span class="citation-popover-snippet">Halo phenomena – optical phenomena at fog marginsHalos are caused by the refraction and reflection of sunlight on ice crystals...</span></span></span>
 
 ## Why Aircraft Lights Are Frequent UFO Candidates
 
@@ -312,7 +307,6 @@ Modern aircraft carry several extremely bright lighting systems. [Landing lights
 The result can be striking. Instead of seeing an aeroplane, the witness sees only a bright glowing mass suspended in darkness. Because the aircraft body disappears into the night or weather, there may be no visible wings, fuselage or tail to provide context.
 
 This can produce several classic UFO descriptions:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -334,10 +328,9 @@ Evidence that rain and moisture distort visual perception is not limited to UFO 
 
 The Flight Safety Foundation warns that in light or moderate rain, runways may appear indistinct because of the "rain halo effect". This can interfere with [pilots]({{ 'pilots/' | relative_url }})' judgement of position and alignment during visual approaches. <span class="citation-chip-wrap"><a class="citation-chip" href="https://flightsafety.org/wp-content/uploads/2016/09/alar_bn5-3-illusions.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightsafety.org">[Flight Safety Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightsafety.org</span><span class="citation-popover-title">Flight Safety Foundation FSF ALAR Briefing Note 5.3 -- Visual Illusions</span><span class="citation-popover-snippet">Flight Safety FoundationFSF ALAR Briefing Note 5.3 -- Visual IllusionsMarch 2, 2005 — – In light rain or moderate rain, the runway may ap...</span><span class="citation-popover-meta">Published: March 2, 2005</span></span></span>
 
-Similarly, visual illusion guidance used within aviation safety programmes notes that runways can appear fuzzy in rain because of the same halo effect, increasing the risk that pilots will misjudge their relationship to the runway environment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/sites/default/files/bookshelf/177.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-title">Visual Illusions Awareness</span><span class="citation-popover-snippet">SkybraryVisual Illusions AwarenessSeptember 22, 2005 — In light rain or moderate rain, the runway may also appear fuzzy because of rain h...</span><span class="citation-popover-meta">Published: September 22, 2005</span></span></span>
+Similarly, visual illusion guidance used within aviation safety programmes notes that runways can appear fuzzy in rain because of the same halo effect, increasing the risk that pilots will misjudge their relationship to the runway environment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/sites/default/files/bookshelf/177.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-title">Visual Illusions Awareness</span><span class="citation-popover-snippet">Visual Illusions AwarenessSeptember 22, 2005 — In light rain or moderate rain, the runway may also appear fuzzy because of rain h...</span><span class="citation-popover-meta">Published: September 22, 2005</span></span></span>
 
 These documents are important because they demonstrate that rain-induced halos are not speculative explanations invented for UFO cases. Professional aviation organisations recognise that moisture changes how bright lights and illuminated structures appear to human observers. If trained pilots can experience visual distortions while looking at known airport lighting systems, it is unsurprising that members of the public may misinterpret unfamiliar lights under similar conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://flightsafety.org/wp-content/uploads/2016/09/alar_bn5-3-illusions.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightsafety.org">[Flight Safety Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightsafety.org</span><span class="citation-popover-title">Flight Safety Foundation FSF ALAR Briefing Note 5.3 -- Visual Illusions</span><span class="citation-popover-snippet">Flight Safety FoundationFSF ALAR Briefing Note 5.3 -- Visual IllusionsMarch 2, 2005 — – In light rain or moderate rain, the runway may ap...</span><span class="citation-popover-meta">Published: March 2, 2005</span></span></span>
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_rain_light_halos_953601-Illustration-2-dark.svg" | relative_url }}" alt="Rain halos illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_rain_light_halos_953601-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_rain_light_halos_953601-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Ground Lights That Seem to Float or Move
@@ -349,7 +342,6 @@ Airport approach lighting systems are particularly important. These installation
 When viewed through rain, mist or low cloud, individual lights may blur together into larger luminous forms. If terrain obscures the lower part of the lighting system, observers may see only the glowing upper portion. The result can resemble a hovering object rather than a line of fixed ground lights.
 
 Other common sources include:
-
 
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
@@ -366,9 +358,7 @@ Because moisture reduces visibility while simultaneously spreading light, observ
 
 Under variable rain conditions, the effect can change rapidly. As precipitation intensity fluctuates, halos expand and contract. To an observer unfamiliar with atmospheric optics, the light may seem to pulse, grow, shrink or move.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NTBbRqv05Hg" title="Ocular Migraine (Retinal Migraine) vs. Migraine Aura EXPLAINED | How to treat and prevent" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NTBbRqv05Hg" target="_blank" rel="noopener noreferrer">Ocular Migraine (Retinal Migraine) vs. Migraine Aura EXPLAINED | How to treat and prevent</a></p><p class="youtube-embed-meta">Channel: Michael Chua, MD</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NTBbRqv05Hg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NTBbRqv05Hg">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_rain_light_halos_953601-Illustration-3-dark.svg" | relative_url }}" alt="Rain halos illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_rain_light_halos_953601-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_rain_light_halos_953601-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Witnesses Often Overestimate Size
 
 One of the most persistent features of UFO reports involving lights is size exaggeration.
@@ -379,17 +369,13 @@ Visibility science treats this as a consequence of atmospheric extinction and sc
 
 The practical consequence is straightforward: a witness describing a light "the size of a house" may actually be describing the angular size of a moisture-induced glow rather than the physical dimensions of an object.
 
-This distinction is crucial in UFO investigations because many reports rely heavily on [witness estimates]({{ 'witness-limits/' | relative_url }}) of size and distance. Those estimates become far less reliable once weather-related optical distortion enters the picture.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DIysZZdaKLo" title="🔥After the School Beauty Betrayed Him, He Sacrificed Her to Contract the Powerful Succubus Queen!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DIysZZdaKLo" target="_blank" rel="noopener noreferrer">🔥After the School Beauty Betrayed Him, He Sacrificed Her to Contract the Powerful Succubus Queen!</a></p><p class="youtube-embed-meta">Channel: Bella&#x27;s Comic Chronicles</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DIysZZdaKLo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DIysZZdaKLo">Open on YouTube</a></p></div></div></div>
+This distinction is crucial in UFO investigations because many reports rely heavily on witness estimates of size and distance. Those estimates become far less reliable once weather-related optical distortion enters the picture.
 
 ## Weather Clues That Prevent Overclaiming
 
 When evaluating a report involving strange lights, [weather records]({{ 'weather-records/' | relative_url }}) often provide critical context.
 
 Several clues increase the likelihood that rain halos contributed to the observation:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -407,13 +393,11 @@ The World Meteorological Organization notes that poor visibility may result from
 
 Investigators who compare witness accounts with airport operations, visibility records and precipitation data often find that apparently extraordinary lights were observed under exactly the conditions most favourable for halo formation.
 
-
-<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_rain_light_halos_953601-Illustration-3-dark.svg" | relative_url }}" alt="Rain halos illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_rain_light_halos_953601-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13_rain_light_halos_953601-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Rain Halos Matter in UFO Analysis
 
 Rain halos illustrate a broader lesson in UFO investigation: unusual appearance does not necessarily imply an unusual object.
 
-A bright aircraft light viewed through wet air can become a glowing orb. A runway approach light can appear airborne. A beacon can seem larger, brighter and more mysterious than reality. The mechanism is well understood, rooted in the scattering of light by water droplets, and recognised in both meteorology and aviation safety research. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/sites/default/files/bookshelf/177.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-title">Visual Illusions Awareness</span><span class="citation-popover-snippet">SkybraryVisual Illusions AwarenessSeptember 22, 2005 — In light rain or moderate rain, the runway may also appear fuzzy because of rain h...</span><span class="citation-popover-meta">Published: September 22, 2005</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://hal.science/hal-01216610/document" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hal.science">[Hal Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hal.science</span><span class="citation-popover-snippet">Nighttime Visibility Analysis and Estimation Method in the...by R Gallen · 2015 · Cited by 84 — However, fog induces the pres- ence of h...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.visualexpert.com/Resources/weather.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visualexpert.com">[3visualexpert.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visualexpert.com</span><span class="citation-popover-title">Weather and Accidents: Rain &amp; Fog</span><span class="citation-popover-snippet">scattering effect in rain—light hits moisture droplets and scatters. As droplet size decreases, however, both the type and mount of scatt...</span></span></span>
+A bright aircraft light viewed through wet air can become a glowing orb. A runway approach light can appear airborne. A beacon can seem larger, brighter and more mysterious than reality. The mechanism is well understood, rooted in the scattering of light by water droplets, and recognised in both meteorology and aviation safety research. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/sites/default/files/bookshelf/177.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-title">Visual Illusions Awareness</span><span class="citation-popover-snippet">Visual Illusions AwarenessSeptember 22, 2005 — In light rain or moderate rain, the runway may also appear fuzzy because of rain h...</span><span class="citation-popover-meta">Published: September 22, 2005</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://hal.science/hal-01216610/document" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hal.science">[Hal Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hal.science</span><span class="citation-popover-snippet">Nighttime Visibility Analysis and Estimation Method in the...by R Gallen · 2015 · Cited by 84 — However, fog induces the pres- ence of h...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.visualexpert.com/Resources/weather.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visualexpert.com">[3visualexpert.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visualexpert.com</span><span class="citation-popover-title">Weather and Accidents: Rain &amp; Fog</span><span class="citation-popover-snippet">scattering effect in rain—light hits moisture droplets and scatters. As droplet size decreases, however, both the type and mount of scatt...</span></span></span>
 
 For that reason, reports involving luminous objects seen during rain, drizzle, mist or fog deserve careful examination before extraordinary conclusions are drawn. In many cases, the most important clue is not the light itself but the moisture-filled atmosphere through which it was seen.
 
@@ -534,15 +518,15 @@ For that reason, reports involving luminous objects seen during rain, drizzle, m
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rain-halos-when-rain-turns-lights-into-ufos-ifos-causes-of-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="rain-halos-when-rain-turns-lights-into-ufos-ifos-causes-of-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station Indoor Outdoor Wireless Digital LCD Colored Screen with Sensor"><img src="{{ '/assets/images/marketplace-covers/c77c0b33a337ede41bba.jpg' | relative_url }}" alt="Listing image for Weather Station Indoor Outdoor Wireless Digital LCD Colored Screen with Sensor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rain-turns-lights-into-ufos-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="when-rain-turns-lights-into-ufos-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Meteorology Design Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/fg8AAeSwSoJpwX0z/s-l225.jpg" alt="Listing image for Funny Meteorology Design Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rain-halos-when-rain-turns-lights-into-ufos-ifos-causes-of-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="rain-halos-when-rain-turns-lights-into-ufos-ifos-causes-of-weather-station" target="_blank" rel="sponsored noopener noreferrer">Weather Station Indoor Outdoor Wireless Digital LCD Colored Screen with Sensor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rain-turns-lights-into-ufos-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="when-rain-turns-lights-into-ufos-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer">Funny Meteorology Design Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rain-halos-when-rain-turns-lights-into-ufos-ifos-causes-of-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="rain-halos-when-rain-turns-lights-into-ufos-ifos-causes-of-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather station</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rain-turns-lights-into-ufos-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="when-rain-turns-lights-into-ufos-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorology poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rain-halos-when-rain-turns-lights-into-ufos-ifos-causes-of-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="rain-halos-when-rain-turns-lights-into-ufos-ifos-causes-of-weather-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rain-turns-lights-into-ufos-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="when-rain-turns-lights-into-ufos-meteorology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -550,15 +534,15 @@ For that reason, reports involving luminous objects seen during rain, drizzle, m
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rain-halos-when-rain-turns-lights-into-ufos-ifos-causes-of-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="rain-halos-when-rain-turns-lights-into-ufos-ifos-causes-of-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor"><img src="{{ '/assets/images/marketplace-covers/3ea05f8678a358198667.jpg' | relative_url }}" alt="Listing image for Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rain-turns-lights-into-ufos-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="when-rain-turns-lights-into-ufos-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Meteorology Types of Clouds Poster Weather 12 Little Landscapes Wall Art"><img src="https://i.ebayimg.com/images/g/fNcAAOSw5lFj~7WG/s-l225.jpg" alt="Listing image for Meteorology Types of Clouds Poster Weather 12 Little Landscapes Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rain-halos-when-rain-turns-lights-into-ufos-ifos-causes-of-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="rain-halos-when-rain-turns-lights-into-ufos-ifos-causes-of-weather-station" target="_blank" rel="sponsored noopener noreferrer">Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rain-turns-lights-into-ufos-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="when-rain-turns-lights-into-ufos-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer">Meteorology Types of Clouds Poster Weather 12 Little Landscapes Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rain-halos-when-rain-turns-lights-into-ufos-ifos-causes-of-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="rain-halos-when-rain-turns-lights-into-ufos-ifos-causes-of-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather station</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rain-turns-lights-into-ufos-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="when-rain-turns-lights-into-ufos-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorology poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rain-halos-when-rain-turns-lights-into-ufos-ifos-causes-of-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="rain-halos-when-rain-turns-lights-into-ufos-ifos-causes-of-weather-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rain-turns-lights-into-ufos-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="when-rain-turns-lights-into-ufos-meteorology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -566,15 +550,15 @@ For that reason, reports involving luminous objects seen during rain, drizzle, m
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rain-halos-when-rain-turns-lights-into-ufos-ifos-causes-of-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="rain-halos-when-rain-turns-lights-into-ufos-ifos-causes-of-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station Official 2026 Radio Control UK Version, Professional 6-in-1"><img src="{{ '/assets/images/marketplace-covers/04c0d83aebcfe9483540.jpg' | relative_url }}" alt="Listing image for Weather Station Official 2026 Radio Control UK Version, Professional 6-in-1" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rain-turns-lights-into-ufos-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="when-rain-turns-lights-into-ufos-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rollable Wall Chart Teaching Poster Meteorology Weather Hhumidity Rain Snow Hail"><img src="https://i.ebayimg.com/images/g/mikAAeSwzcNpbfx0/s-l225.jpg" alt="Listing image for Rollable Wall Chart Teaching Poster Meteorology Weather Hhumidity Rain Snow Hail" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rain-halos-when-rain-turns-lights-into-ufos-ifos-causes-of-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="rain-halos-when-rain-turns-lights-into-ufos-ifos-causes-of-weather-station" target="_blank" rel="sponsored noopener noreferrer">Weather Station Official 2026 Radio Control UK Version, Professional 6-in-1</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rain-turns-lights-into-ufos-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="when-rain-turns-lights-into-ufos-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer">Rollable Wall Chart Teaching Poster Meteorology Weather Hhumidity Rain Snow Hail</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rain-halos-when-rain-turns-lights-into-ufos-ifos-causes-of-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="rain-halos-when-rain-turns-lights-into-ufos-ifos-causes-of-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather station</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rain-turns-lights-into-ufos-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="when-rain-turns-lights-into-ufos-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorology poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rain-halos-when-rain-turns-lights-into-ufos-ifos-causes-of-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="rain-halos-when-rain-turns-lights-into-ufos-ifos-causes-of-weather-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rain-turns-lights-into-ufos-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="when-rain-turns-lights-into-ufos-meteorology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -582,15 +566,15 @@ For that reason, reports involving luminous objects seen during rain, drizzle, m
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rain-halos-when-rain-turns-lights-into-ufos-ifos-causes-of-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="rain-halos-when-rain-turns-lights-into-ufos-ifos-causes-of-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station WIFI Internet Wunderground Professional 7-in-1 Wireless Sensor"><img src="{{ '/assets/images/marketplace-covers/37d1459f17f40accf48f.jpg' | relative_url }}" alt="Listing image for Weather Station WIFI Internet Wunderground Professional 7-in-1 Wireless Sensor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rain-turns-lights-into-ufos-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="when-rain-turns-lights-into-ufos-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Brand New Educational A2 Posters, Maths, English, History, Science, Maps, + More"><img src="https://i.ebayimg.com/images/g/R2cAAOSwCyFmo6Yb/s-l225.jpg" alt="Listing image for Brand New Educational A2 Posters, Maths, English, History, Science, Maps, + More" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rain-halos-when-rain-turns-lights-into-ufos-ifos-causes-of-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="rain-halos-when-rain-turns-lights-into-ufos-ifos-causes-of-weather-station" target="_blank" rel="sponsored noopener noreferrer">Weather Station WIFI Internet Wunderground Professional 7-in-1 Wireless Sensor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rain-turns-lights-into-ufos-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="when-rain-turns-lights-into-ufos-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer">Brand New Educational A2 Posters, Maths, English, History, Science, Maps, + More</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rain-halos-when-rain-turns-lights-into-ufos-ifos-causes-of-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="rain-halos-when-rain-turns-lights-into-ufos-ifos-causes-of-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather station</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rain-turns-lights-into-ufos-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="when-rain-turns-lights-into-ufos-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorology poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rain-halos-when-rain-turns-lights-into-ufos-ifos-causes-of-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="rain-halos-when-rain-turns-lights-into-ufos-ifos-causes-of-weather-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rain-turns-lights-into-ufos-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="when-rain-turns-lights-into-ufos-meteorology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -598,7 +582,7 @@ For that reason, reports involving luminous objects seen during rain, drizzle, m
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rain-halos-when-rain-turns-lights-into-ufos-ifos-causes-of-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="rain-halos-when-rain-turns-lights-into-ufos-ifos-causes-of-weather-station" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rain-turns-lights-into-ufos-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="when-rain-turns-lights-into-ufos-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -813,132 +797,132 @@ For that reason, reports involving luminous objects seen during rain, drizzle, m
 
 1. <a id="endnote-1"></a>
    Source: hal.science  
-   Link: [https://hal.science/hal-01216610/document](https://hal.science/hal-01216610/document)  
+   Link: <a href="https://hal.science/hal-01216610/document" target="_blank" rel="noopener noreferrer nofollow">https://hal.science/hal-01216610/document</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nighttime Visibility Analysis and Estimation Method in the...by R Gallen · 2015 · Cited by 84 — However, fog induces the pres- ence of h...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: visualexpert.com  
    Title: Weather and Accidents: Rain & Fog  
-   Link: [https://www.visualexpert.com/Resources/weather.html](https://www.visualexpert.com/Resources/weather.html)  
+   Link: <a href="https://www.visualexpert.com/Resources/weather.html" target="_blank" rel="noopener noreferrer nofollow">https://www.visualexpert.com/Resources/weather.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>scattering effect in rain—light hits moisture droplets and scatters. As droplet size decreases, however, both the type and mount of scatt...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/arx/why_halos_sundogs_pillars](https://www.weather.gov/arx/why_halos_sundogs_pillars)  
+   Link: <a href="https://www.weather.gov/arx/why_halos_sundogs_pillars" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/arx/why_halos_sundogs_pillars</a>  
 
 4. <a id="endnote-4"></a>
    Source: skybrary.aero  
    Title: Visual Illusions Awareness  
-   Link: [https://skybrary.aero/sites/default/files/bookshelf/177.pdf](https://skybrary.aero/sites/default/files/bookshelf/177.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SkybraryVisual Illusions AwarenessSeptember 22, 2005 — In light rain or moderate rain, the runway may also appear fuzzy because of rain h...</p></details>
+   Link: <a href="https://skybrary.aero/sites/default/files/bookshelf/177.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/sites/default/files/bookshelf/177.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Visual Illusions AwarenessSeptember 22, 2005 — In light rain or moderate rain, the runway may also appear fuzzy because of rain h...</p></details>
    Published: September 22, 2005  
 
 5. <a id="endnote-5"></a>
    Source: faa.gov  
    Title: Federal Aviation Administration Chapter 2  
-   Link: [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_1.html](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_1.html)  
+   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_1.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aeronautical Lighting and Other Airport Visual...Runway edge lights are used to outline the edges of runways during periods of darkness...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: cdn.knmi.nl  
-   Link: [https://cdn.knmi.nl/knmi/pdf/bibliotheek/knmipubIR/IR2015-05.pdf](https://cdn.knmi.nl/knmi/pdf/bibliotheek/knmipubIR/IR2015-05.pdf)  
+   Link: <a href="https://cdn.knmi.nl/knmi/pdf/bibliotheek/knmipubIR/IR2015-05.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.knmi.nl/knmi/pdf/bibliotheek/knmipubIR/IR2015-05.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>study of fog detection and visibility estimation...by Z Ramlakhan · Cited by 3 — So-called forward scatter sensors are employed in the m...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: metoffice.gov.uk  
    Title: whats the difference between mist fog and haze  
-   Link: [https://www.metoffice.gov.uk/blog/2025/whats-the-difference-between-mist-fog-and-haze](https://www.metoffice.gov.uk/blog/2025/whats-the-difference-between-mist-fog-and-haze)  
+   Link: <a href="https://www.metoffice.gov.uk/blog/2025/whats-the-difference-between-mist-fog-and-haze" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2025/whats-the-difference-between-mist-fog-and-haze</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mist, fog, and haze: What&#x27;s the difference?10 Sept 2025 — Fog is essentially a cloud at ground level that causes a reduction in visibilit...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: weather.metoffice.gov.uk  
-   Link: [https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/fog](https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/fog)  
+   Link: <a href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/fog" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/fog</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Met OfficeWhat is fog?Fog is essentially a cloud at ground level that causes a reduction in visibility to less than 1000 metres. when the...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: renkeer.com  
    Title: Enviro Sensors How is Weather Visibility Measured?  
-   Link: [https://www.renkeer.com/how-is-weather-visibility-measured/](https://www.renkeer.com/how-is-weather-visibility-measured/)  
+   Link: <a href="https://www.renkeer.com/how-is-weather-visibility-measured/" target="_blank" rel="noopener noreferrer nofollow">https://www.renkeer.com/how-is-weather-visibility-measured/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>EnviroSensorsHow is Weather Visibility Measured? - Renke10 Sept 2024 — Fog, haze, dust and even rain and snow can cause visibility to dec...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: meteoswiss.admin.ch  
-   Link: [https://www.meteoswiss.admin.ch/weather/weather-and-climate-from-a-to-z/halo-phenomena-optical-phenomena-at-fog-margins.html](https://www.meteoswiss.admin.ch/weather/weather-and-climate-from-a-to-z/halo-phenomena-optical-phenomena-at-fog-margins.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MeteoSwissHalo phenomena – optical phenomena at fog marginsHalos are caused by the refraction and reflection of sunlight on ice crystals...</p></details>
+   Link: <a href="https://www.meteoswiss.admin.ch/weather/weather-and-climate-from-a-to-z/halo-phenomena-optical-phenomena-at-fog-margins.html" target="_blank" rel="noopener noreferrer nofollow">https://www.meteoswiss.admin.ch/weather/weather-and-climate-from-a-to-z/halo-phenomena-optical-phenomena-at-fog-margins.html</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Halo phenomena – optical phenomena at fog marginsHalos are caused by the refraction and reflection of sunlight on ice crystals...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: flightsafety.org  
    Title: Flight Safety Foundation FSF ALAR Briefing Note 5.3 -- Visual Illusions  
-   Link: [https://flightsafety.org/wp-content/uploads/2016/09/alar_bn5-3-illusions.pdf](https://flightsafety.org/wp-content/uploads/2016/09/alar_bn5-3-illusions.pdf)  
+   Link: <a href="https://flightsafety.org/wp-content/uploads/2016/09/alar_bn5-3-illusions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://flightsafety.org/wp-content/uploads/2016/09/alar_bn5-3-illusions.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Flight Safety FoundationFSF ALAR Briefing Note 5.3 -- Visual IllusionsMarch 2, 2005 — – In light rain or moderate rain, the runway may ap...</p></details>
    Published: March 2, 2005  
 
 12. <a id="endnote-12"></a>
    Source: weather.metoffice.gov.uk  
-   Link: [https://weather.metoffice.gov.uk/guides/observations/how-we-measure-visibility](https://weather.metoffice.gov.uk/guides/observations/how-we-measure-visibility)  
+   Link: <a href="https://weather.metoffice.gov.uk/guides/observations/how-we-measure-visibility" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/guides/observations/how-we-measure-visibility</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Met OfficeHow we measure visibilityVisibility sensors measure the meteorological optical [range](&amp;#123;&amp;#123; &#x27;range/&#x27; | relative_url &amp;#125;&amp;#125;) which is defined as the length of atmosphe...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: community.wmo.int  
    Title: World Meteorological Organization Aviation  
-   Link: [https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/aviation/aviation-hazards-low-visibility-and-low-cloud](https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/aviation/aviation-hazards-low-visibility-and-low-cloud)  
+   Link: <a href="https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/aviation/aviation-hazards-low-visibility-and-low-cloud" target="_blank" rel="noopener noreferrer nofollow">https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/aviation/aviation-hazards-low-visibility-and-low-cloud</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>World Meteorological OrganizationAviation - Hazards - Low Visibility and Low CloudPoor visibility may likewise only affect small areas (i...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: weather.metoffice.gov.uk  
-   Link: [https://weather.metoffice.gov.uk/learn-about/met-office-for-schools/other-content/other-resources/understanding-weather](https://weather.metoffice.gov.uk/learn-about/met-office-for-schools/other-content/other-resources/understanding-weather)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>weatherIn the atmosphere, the gases in it cause the light to slow down, change direction and scatter, for most colours the effect of this...</p></details>
+   Link: <a href="https://weather.metoffice.gov.uk/learn-about/met-office-for-schools/other-content/other-resources/understanding-weather" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/met-office-for-schools/other-content/other-resources/understanding-weather</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>In the atmosphere, the gases in it cause the light to slow down, change direction and scatter, for most colours the effect of this...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: about.metservice.com  
-   Link: [https://about.metservice.com/learning/fog-and-mist-kohu-62r84](https://about.metservice.com/learning/fog-and-mist-kohu-62r84)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>About MetServiceFogFog, and mist, are created by microscopic water droplets suspended in the air. These tiny water droplets scatter any l...</p></details>
+   Link: <a href="https://about.metservice.com/learning/fog-and-mist-kohu-62r84" target="_blank" rel="noopener noreferrer nofollow">https://about.metservice.com/learning/fog-and-mist-kohu-62r84</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>FogFog, and mist, are created by microscopic water droplets suspended in the air. These tiny water droplets scatter any l...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DXVcHo9jKcf/](https://www.instagram.com/reel/DXVcHo9jKcf/)  
+   Link: <a href="https://www.instagram.com/reel/DXVcHo9jKcf/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXVcHo9jKcf/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>POV: Why do airport crews use fog lights during aircraft...The truth is they help ground crews see the aircraft. This practice is used d...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/figure/Visibility-for-different-types-of-weather-fog-mist-haze-and-aerosol-Actual_fig5_302918967](https://www.researchgate.net/figure/Visibility-for-different-types-of-weather-fog-mist-haze-and-aerosol-Actual_fig5_302918967)  
+   Link: <a href="https://www.researchgate.net/figure/Visibility-for-different-types-of-weather-fog-mist-haze-and-aerosol-Actual_fig5_302918967" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Visibility-for-different-types-of-weather-fog-mist-haze-and-aerosol-Actual_fig5_302918967</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>an be used to detect atmosphere visibility and distinguish different weather phenomena.Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: swi-wiskunde.nl  
-   Link: [https://www.swi-wiskunde.nl/swi2016/wp-content/uploads/sites/3/2017/07/knmi.pdf](https://www.swi-wiskunde.nl/swi2016/wp-content/uploads/sites/3/2017/07/knmi.pdf)  
+   Link: <a href="https://www.swi-wiskunde.nl/swi2016/wp-content/uploads/sites/3/2017/07/knmi.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.swi-wiskunde.nl/swi2016/wp-content/uploads/sites/3/2017/07/knmi.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ed beam of [infrared](&amp;#123;&amp;#123; &#x27;infrared/&#x27; | relative_url &amp;#125;&amp;#125;) light to determine the Meteorological Optical Range (MOR): the...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: wiki.ivao.aero  
-   Link: [https://wiki.ivao.aero/en/home/training/documentation/Fog_mist_and_haze](https://wiki.ivao.aero/en/home/training/documentation/Fog_mist_and_haze)  
+   Link: <a href="https://wiki.ivao.aero/en/home/training/documentation/Fog_mist_and_haze" target="_blank" rel="noopener noreferrer nofollow">https://wiki.ivao.aero/en/home/training/documentation/Fog_mist_and_haze</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fog is a real danger for general aviation pilots, and can even be for one under...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: rammb.cira.colostate.edu  
-   Link: [https://rammb.cira.colostate.edu/dev/hillger/optical-phenomena.htm](https://rammb.cira.colostate.edu/dev/hillger/optical-phenomena.htm)  
+   Link: <a href="https://rammb.cira.colostate.edu/dev/hillger/optical-phenomena.htm" target="_blank" rel="noopener noreferrer nofollow">https://rammb.cira.colostate.edu/dev/hillger/optical-phenomena.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The term for various circles or arcs of light around the sun or Moon, caused by reflection and refraction of light as it moves through ic...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: aviationx.org  
    Title: decoding aviation meteorology understanding visibility fog  
-   Link: [https://www.aviationx.org/decoding-aviation-meteorology-understanding-visibility-fog/](https://www.aviationx.org/decoding-aviation-meteorology-understanding-visibility-fog/)  
+   Link: <a href="https://www.aviationx.org/decoding-aviation-meteorology-understanding-visibility-fog/" target="_blank" rel="noopener noreferrer nofollow">https://www.aviationx.org/decoding-aviation-meteorology-understanding-visibility-fog/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Decoding Aviation Meteorology: Understanding Visibility &amp; Fog3 Feb 2024 — Mist involves the suspension of water droplets in the atmospher...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/science/2025/dec/17/rare-pink-fog-blankets-parts-of-uk-with-warning-issued-over-poor-visibility](https://www.theguardian.com/science/2025/dec/17/rare-pink-fog-blankets-parts-of-uk-with-warning-issued-over-poor-visibility)  
+   Link: <a href="https://www.theguardian.com/science/2025/dec/17/rare-pink-fog-blankets-parts-of-uk-with-warning-issued-over-poor-visibility" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2025/dec/17/rare-pink-fog-blankets-parts-of-uk-with-warning-issued-over-poor-visibility</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Rare pink fog blankets parts of UK with warning issued...Dec 18, 2025 — Like clouds, fog is caused by tiny water droplets suspended in t...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Kernow.Weather.Team/posts/fog-mist-and-haze-all-affect-visibility-which-is-an-important-part-of-forecasts-/704326998389666/](https://www.facebook.com/Kernow.Weather.Team/posts/fog-mist-and-haze-all-affect-visibility-which-is-an-important-part-of-forecasts-/704326998389666/)  
+   Link: <a href="https://www.facebook.com/Kernow.Weather.Team/posts/fog-mist-and-haze-all-affect-visibility-which-is-an-important-part-of-forecasts-/704326998389666/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Kernow.Weather.Team/posts/fog-mist-and-haze-all-affect-visibility-which-is-an-important-part-of-forecasts-/704326998389666/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>f forecasts affecting many aspects of life, from driving conditions to shipping...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: aopa.org  
    Title: seldom seen have you earned your pilots halo  
-   Link: [https://www.aopa.org/news-and-media/all-news/2025/september/pilot/seldom-seen-have-you-earned-your-pilots-halo](https://www.aopa.org/news-and-media/all-news/2025/september/pilot/seldom-seen-have-you-earned-your-pilots-halo)  
+   Link: <a href="https://www.aopa.org/news-and-media/all-news/2025/september/pilot/seldom-seen-have-you-earned-your-pilots-halo" target="_blank" rel="noopener noreferrer nofollow">https://www.aopa.org/news-and-media/all-news/2025/september/pilot/seldom-seen-have-you-earned-your-pilots-halo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Have you earned your pilot&#x27;s halo?1 Sept 2025 — Instead, the pilot&#x27;s halo is formed when water droplets in the cloud, or fog, causes back...</p></details>

@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ifos-causes-of-ufo-3ed238-rocket/
 description: Focused pages that expand on Rocket Plumes.
-date: '2026-06-07'
+date: '2026-06-12'
 layout: default
 parent_basename: ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132
-parent_title: Rocket Plumes | Ifos Causes Of
+parent_title: Rocket Plumes
 parent_nav_short_title: Rocket Plumes
 parent_permalink: /rocket-plumes/
 ---

@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_standard_civilian_ua_e295b0
 - ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_uap_baseline_librari_a298b8
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - nasa-study
 - sensor-artefacts
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - nasa-study
 - sensor-artefacts
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: NASA's data-first approach shows why glare, tracking errors, compression, and sensor limits must be checked before a recorded feature becomes a sky object.
 hero_summary: NASA's data-first approach shows why glare, tracking errors, compression, and sensor limits must be checked before a recorded feature becomes a sky object.
 layout: default
 permalink: /sensor-artefacts/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /nasa-study/
 nav_short_title: Sensor artefacts
 title: When the UFO is inside the camera
-title_full: When the UFO is inside the camera | NASA Study
+title_full: When the UFO is inside the camera
 display_title_short: Sensor artefacts
 display_title: Sensor artefacts
 heading_title: When the UFO is inside the camera
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 23:06:05'
-parent_title: Why Better UFO Data Matters | IFOs
+parent_title: Why Better UFO Data Matters
 parent_permalink: /nasa-study/
 parent_nav_short_title: NASA Study
 parent_heading_title: Why Better UFO Data Matters
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183
-  title: NASA Study | Ifos Causes Of
+  title: NASA Study | ifos causes of UFO 3 ed 238
   permalink: /nasa-study/
   short_title: NASA Study
   heading_title: Why Better UFO Data Matters
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183
-  title: NASA Study | Ifos Causes Of
+  title: NASA Study | ifos causes of UFO 3 ed 238
   permalink: /nasa-study/
   short_title: NASA Study
   heading_title: Why Better UFO Data Matters
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: Could phones make UFO reports scientific?
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183
-  title: NASA Study | Ifos Causes Of
+  title: NASA Study | ifos causes of UFO 3 ed 238
   permalink: /nasa-study/
   short_title: NASA Study
   heading_title: Why Better UFO Data Matters
@@ -260,6 +259,7 @@ prev_link:
   permalink: /phone-networks/
   short_title: Phone networks
   heading_title: Could phones make UFO reports scientific?
+date: '2026-06-12 00:21:39 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_calibrated_sensor_ar_281973-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_calibrated_sensor_ar_281973-Illustration-1.webp
@@ -268,11 +268,10 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_calibrate
 
 ## Introduction
 
-Modern UFO debates often begin with a recording: a radar track, an infrared image, or a dramatic video clip. NASA’s UAP study highlighted a crucial problem with that approach. A recording is evidence that a sensor detected something, but it is not automatically evidence that a physical object was present in the sky. Cameras, radar systems and infrared sensors can generate misleading features through glare, tracking errors, processing artefacts, [compression]({{ 'compression/' | relative_url }}) effects and other technical limitations. The central task is therefore not simply to ask what was recorded, but whether the recorded feature represents a real external object at all. NASA identified poor calibration, [missing metadata]({{ 'missing-metadata/' | relative_url }}) and inadequate baseline measurements as major reasons why some sightings remain difficult to interpret. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">WikisourcePage:UAP Independent Study Team - Final Report.pdf/512 Nov 2023 — At present, analysis of UAP data is hampered by poor sensor c...</span></span></span>
-
+Modern UFO debates often begin with a recording: a radar track, an infrared image, or a dramatic video clip. NASA’s UAP study highlighted a crucial problem with that approach. A recording is evidence that a sensor detected something, but it is not automatically evidence that a physical object was present in the sky. Cameras, radar systems and infrared sensors can generate misleading features through glare, tracking errors, processing artefacts, [compression]({{ 'compression/' | relative_url }}) effects and other technical limitations. The central task is therefore not simply to ask what was recorded, but whether the recorded feature represents a real external object at all. NASA identified poor calibration, [missing metadata]({{ 'missing-metadata/' | relative_url }}) and inadequate baseline measurements as major reasons why some sightings remain difficult to interpret. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">Page:UAP Independent Study Team - Final Report.pdf/512 Nov 2023 — At present, analysis of UAP data is hampered by poor sensor c...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_calibrated_sensor_ar_281973-Illustration-1-dark.svg" | relative_url }}" alt="Sensor artefacts illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_calibrated_sensor_ar_281973-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_calibrated_sensor_ar_281973-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the broader effort to explain identified flying objects (IFOs), calibrated sensors serve as a filter between reality and illusion. They help investigators determine whether a reported UFO exists in the environment being observed or only inside the measurement system itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:UAP Independent Study Team</span><span class="citation-popover-snippet">WikisourcePage:UAP Independent Study Team - Final Report.pdf/1512 Nov 2023 — Indeed, several apparent UAP have been demonstrated to be se...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">WikisourceNASA Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — The panel notes that, at present, gathering data on UAP is...</span></span></span>
+Within the broader effort to explain identified flying objects (IFOs), calibrated sensors serve as a filter between reality and illusion. They help investigators determine whether a reported UFO exists in the environment being observed or only inside the measurement system itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:UAP Independent Study Team</span><span class="citation-popover-snippet">Page:UAP Independent Study Team - Final Report.pdf/1512 Nov 2023 — Indeed, several apparent UAP have been demonstrated to be se...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">NASA Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — The panel notes that, at present, gathering data on UAP is...</span></span></span>
 
 ## Why a real recording is not always a real object
 
@@ -282,7 +281,7 @@ This distinction matters because many UFO reports begin with the assumption that
 
 NASA's study team noted that several apparent UAP cases have been shown to be sensor artefacts after investigators examined calibration data and metadata more closely. In other words, the mystery weakened not because new witnesses appeared, but because the behaviour of the sensor became better understood. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Overall_Conclusions_and_Recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Overall Conclusions and Recommendations</span><span class="citation-popover-snippet">Study Team Report/Overall Conclusions and...14 Oct 2023 — At present, the detection of UAP is often serendipitous, captured by sensors t...</span></span></span>
 
-A calibrated sensor provides a reference framework. Investigators know how it behaves when viewing [stars]({{ 'stars/' | relative_url }}), aircraft, clouds, empty sky and known targets. Once those normal behaviours are documented, unusual signals can be compared against them. Without calibration, it is impossible to know whether an anomaly belongs to the sky or to the instrument. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">WikisourcePage:UAP Independent Study Team - Final Report.pdf/512 Nov 2023 — At present, analysis of UAP data is hampered by poor sensor c...</span></span></span>
+A calibrated sensor provides a reference framework. Investigators know how it behaves when viewing [stars]({{ 'stars/' | relative_url }}), aircraft, clouds, empty sky and known targets. Once those normal behaviours are documented, unusual signals can be compared against them. Without calibration, it is impossible to know whether an anomaly belongs to the sky or to the instrument. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">Page:UAP Independent Study Team - Final Report.pdf/512 Nov 2023 — At present, analysis of UAP data is hampered by poor sensor c...</span></span></span>
 
 ## Common camera and sensor artefacts in sky reports
 
@@ -294,21 +293,19 @@ Bright light sources can create [reflections]({{ 'reflections/' | relative_url }
 
 Infrared systems are particularly vulnerable to unusual-looking shapes because the image represents heat contrast rather than visible form. A distant aircraft engine, a reflection, or a bright thermal source can appear dramatically different from its visual appearance.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ixTICcLXueg" title="Unidentified Anomalous Phenomena Report from NASA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ixTICcLXueg" target="_blank" rel="noopener noreferrer">Unidentified Anomalous Phenomena Report from NASA</a></p><p class="youtube-embed-meta">Channel: FOX10 News &middot; Views: 416 &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ixTICcLXueg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ixTICcLXueg">Open on YouTube</a></p></div></div></div>
 
 ### Tracking and stabilisation errors
 
 Many military and civilian imaging systems actively stabilise their view. When a tracking system locks onto a target, software compensates for aircraft motion, vibration and camera rotation.
 
-Under certain conditions, the interaction between tracking algorithms and optical effects can create the illusion that an object is rotating, accelerating or behaving unusually. Discussions surrounding the well-known "Gimbal" infrared video illustrate how analysts examine whether apparent rotation belongs to the target itself or to the imaging system. The underlying principle is broader than any single case: if a sensor's mechanics and software are not understood, apparent object behaviour may actually reflect camera behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditAccording to AARO&#x27;s new website, the FLIR, Gimbal and...August 31, 2023 — When the camera is rotating, the scene remains stationar...</span><span class="citation-popover-meta">Published: August 31, 2023</span></span></span>
+Under certain conditions, the interaction between tracking algorithms and optical effects can create the illusion that an object is rotating, accelerating or behaving unusually. Discussions surrounding the well-known "Gimbal" infrared video illustrate how analysts examine whether apparent rotation belongs to the target itself or to the imaging system. The underlying principle is broader than any single case: if a sensor's mechanics and software are not understood, apparent object behaviour may actually reflect camera behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">According to AARO&#x27;s new website, the FLIR, Gimbal and...August 31, 2023 — When the camera is rotating, the scene remains stationar...</span><span class="citation-popover-meta">Published: August 31, 2023</span></span></span>
 
 ### Compression artefacts
 
 Most public UFO videos are not raw sensor outputs. They are compressed files that have passed through multiple processing stages.
 
 Compression algorithms remove information to reduce file size. Under low-light conditions or during rapid movement, they can create flickering shapes, apparent structure, false edges and distorted motion. A blurred light may appear solid or structured despite lacking those characteristics in the original scene.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_calibrated_sensor_ar_281973-Illustration-2-dark.svg" | relative_url }}" alt="Sensor artefacts illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_calibrated_sensor_ar_281973-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_calibrated_sensor_ar_281973-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Parallax and apparent speed
@@ -323,7 +320,6 @@ Every measurement system produces noise. Electronic fluctuations, thermal effect
 
 Radar operators, astronomers and remote-sensing specialists routinely filter such effects because they are expected parts of instrument behaviour. A single unexplained detection is therefore weaker evidence than a signal that appears consistently across multiple independent sensors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/H6eK1VbrHPY" title="How Military Sensors Proved UFO Craft Were Physically Real | WION Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=H6eK1VbrHPY" target="_blank" rel="noopener noreferrer">How Military Sensors Proved UFO Craft Were Physically Real | WION Podcast</a></p><p class="youtube-embed-meta">Channel: WION &middot; Views: 2.1K &middot; Uploaded: May 2026 &middot; Length: 2 minutes 16 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=H6eK1VbrHPY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=H6eK1VbrHPY">Open on YouTube</a></p></div></div></div>
 
 ## How calibration changes the strength of a case
@@ -331,7 +327,6 @@ Radar operators, astronomers and remote-sensing specialists routinely filter suc
 Calibration is the process of measuring and documenting how an instrument behaves under known conditions. It transforms a recording from a simple image into a scientifically interpretable measurement.
 
 For UFO investigations, calibration improves a case in several ways:
-
 
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
 
@@ -347,7 +342,6 @@ NASA repeatedly emphasised that calibration must be accompanied by metadata. Kno
 
 A striking-looking video with no metadata may remain permanently ambiguous. A less dramatic recording with complete calibration information can often support a much stronger conclusion, whether that conclusion identifies a conventional object or confirms that something genuinely unusual requires further study.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_calibrated_sensor_ar_281973-Illustration-3-dark.svg" | relative_url }}" alt="Sensor artefacts illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_calibrated_sensor_ar_281973-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_calibrated_sensor_ar_281973-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why multiple calibrated sensors matter
 
@@ -355,7 +349,7 @@ The strongest protection against artefacts is independent confirmation.
 
 A glare effect may fool a camera. A software issue may affect a radar system. A tracking error may influence an infrared sensor. It is far less likely that different sensor types will generate the same false object at the same time and location.
 
-This is why NASA recommended collecting multiple measurements whenever possible. Optical imaging, infrared observations, radar data and environmental information each provide different perspectives on the same event. If all agree, confidence increases. If they disagree, investigators gain clues about which sensor may be producing a misleading signal. NASA Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nextgov.com/ideas/2023/09/nasa-report-finds-no-evidence-ufos-are-extraterrestrial/390350/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nextgov.com">[nextgov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nextgov.com</span><span class="citation-popover-title">nasa report finds no evidence ufos are extraterrestrial</span><span class="citation-popover-snippet">UAP data considered by the study team comes from U.S. military aircraft. Analysis of this data is “hampered by poor sensor calibration, t...</span></span></span> Newer scientific UAP projects have adopted this philosophy by designing systems that combine several calibrated instruments rather than relying on a single camera. The goal is not merely to detect anomalies but to determine whether an anomaly survives cross-checking between independent measurement methods. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2506.00125" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Galileo Project Observatory Class System Architecture</span><span class="citation-popover-snippet">arXivGalileo Project Observatory Class System ArchitectureMay 30, 2025...</span><span class="citation-popover-meta">Published: May 30, 2025</span></span></span>
+This is why NASA recommended collecting multiple measurements whenever possible. Optical imaging, infrared observations, radar data and environmental information each provide different perspectives on the same event. If all agree, confidence increases. If they disagree, investigators gain clues about which sensor may be producing a misleading signal. NASA Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nextgov.com/ideas/2023/09/nasa-report-finds-no-evidence-ufos-are-extraterrestrial/390350/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nextgov.com">[nextgov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nextgov.com</span><span class="citation-popover-title">nasa report finds no evidence ufos are extraterrestrial</span><span class="citation-popover-snippet">UAP data considered by the study team comes from U.S. military aircraft. Analysis of this data is “hampered by poor sensor calibration, t...</span></span></span> Newer scientific UAP projects have adopted this philosophy by designing systems that combine several calibrated instruments rather than relying on a single camera. The goal is not merely to detect anomalies but to determine whether an anomaly survives cross-checking between independent measurement methods. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2506.00125" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Galileo Project Observatory Class System Architecture</span><span class="citation-popover-snippet">Galileo Project Observatory Class System ArchitectureMay 30, 2025...</span><span class="citation-popover-meta">Published: May 30, 2025</span></span></span>
 
 ## When the UFO is inside the camera
 
@@ -363,11 +357,9 @@ One of the most important lessons from the NASA approach is that unexplained doe
 
 A blurry light, an unusual infrared shape or a strange radar return may look compelling because it is genuinely difficult to interpret. Yet the first scientific question is not whether the object is extraordinary. It is whether the recorded feature corresponds to an external object at all.
 
-That shift in perspective explains why calibration occupies such a central place in modern UAP analysis. Before investigators can decide what a UFO is, they must determine whether the apparent UFO exists outside the instrument. Many cases become identified flying objects only after that distinction is made. Others remain unresolved because the calibration data needed to answer the question were never collected. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:UAP Independent Study Team</span><span class="citation-popover-snippet">WikisourcePage:UAP Independent Study Team - Final Report.pdf/1512 Nov 2023 — Indeed, several apparent UAP have been demonstrated to be se...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">WikisourceNASA Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — The panel notes that, at present, gathering data on UAP is...</span></span></span>
-
+That shift in perspective explains why calibration occupies such a central place in modern UAP analysis. Before investigators can decide what a UFO is, they must determine whether the apparent UFO exists outside the instrument. Many cases become identified flying objects only after that distinction is made. Others remain unresolved because the calibration data needed to answer the question were never collected. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:UAP Independent Study Team</span><span class="citation-popover-snippet">Page:UAP Independent Study Team - Final Report.pdf/1512 Nov 2023 — Indeed, several apparent UAP have been demonstrated to be se...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">NASA Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — The panel notes that, at present, gathering data on UAP is...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xY2U0eP29O0" title="震驚！最新UFO檔案揭秘：「阿波羅17號」離奇的月球遭遇" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xY2U0eP29O0" target="_blank" rel="noopener noreferrer">震驚！最新UFO檔案揭秘：「阿波羅17號」離奇的月球遭遇</a></p><p class="youtube-embed-meta">Channel: New SciTech 新科技 &middot; Views: 596 &middot; Uploaded: May 2026 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xY2U0eP29O0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xY2U0eP29O0">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -486,15 +478,15 @@ That shift in perspective explains why calibration occupies such a central place
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-artefacts-when-the-ufo-is-inside-the-camera-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="sensor-artefacts-when-the-ufo-is-inside-the-camera-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens+filter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-ufo-is-inside-the-camera-camera-lens-filter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens filter" data-ebay-reference="when-the-ufo-is-inside-the-camera-camera-lens-filter" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 95mm UV Camera Lens Filter For Lens such as Canon RF 28-70mm and other brands"><img src="https://i.ebayimg.com/images/g/8GQAAOSw2XJlDIJK/s-l225.jpg" alt="Listing image for 95mm UV Camera Lens Filter For Lens such as Canon RF 28-70mm and other brands" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-artefacts-when-the-ufo-is-inside-the-camera-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="sensor-artefacts-when-the-ufo-is-inside-the-camera-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens+filter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-ufo-is-inside-the-camera-camera-lens-filter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens filter" data-ebay-reference="when-the-ufo-is-inside-the-camera-camera-lens-filter" target="_blank" rel="sponsored noopener noreferrer">95mm UV Camera Lens Filter For Lens such as Canon RF 28-70mm and other brands</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-artefacts-when-the-ufo-is-inside-the-camera-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="sensor-artefacts-when-the-ufo-is-inside-the-camera-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens+filter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-ufo-is-inside-the-camera-camera-lens-filter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens filter" data-ebay-reference="when-the-ufo-is-inside-the-camera-camera-lens-filter" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera lens filter">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera lens filter</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-artefacts-when-the-ufo-is-inside-the-camera-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="sensor-artefacts-when-the-ufo-is-inside-the-camera-ifos-causes-of-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens+filter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-ufo-is-inside-the-camera-camera-lens-filter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens filter" data-ebay-reference="when-the-ufo-is-inside-the-camera-camera-lens-filter" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -502,15 +494,15 @@ That shift in perspective explains why calibration occupies such a central place
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-artefacts-when-the-ufo-is-inside-the-camera-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="sensor-artefacts-when-the-ufo-is-inside-the-camera-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for U/ROCK BAND SPACE SHIP IRON OR SEW ON QUALITY EMBROIDERED PATCH UK SELLER/UFO"><img src="{{ '/assets/images/marketplace-covers/fc0f59ffafe53c3f0099.jpg' | relative_url }}" alt="Listing image for U/ROCK BAND SPACE SHIP IRON OR SEW ON QUALITY EMBROIDERED PATCH UK SELLER/UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens+filter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-ufo-is-inside-the-camera-camera-lens-filter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens filter" data-ebay-reference="when-the-ufo-is-inside-the-camera-camera-lens-filter" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kenko UV Camera Lens Filter | 49mm 52mm 55mm 58mm 62mm 67mm 72mm 77mm| UK Seller"><img src="https://i.ebayimg.com/images/g/sfoAAeSwK4lqDvIs/s-l225.jpg" alt="Listing image for Kenko UV Camera Lens Filter | 49mm 52mm 55mm 58mm 62mm 67mm 72mm 77mm| UK Seller" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-artefacts-when-the-ufo-is-inside-the-camera-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="sensor-artefacts-when-the-ufo-is-inside-the-camera-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">U/ROCK BAND SPACE SHIP IRON OR SEW ON QUALITY EMBROIDERED PATCH UK SELLER/UFO</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens+filter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-ufo-is-inside-the-camera-camera-lens-filter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens filter" data-ebay-reference="when-the-ufo-is-inside-the-camera-camera-lens-filter" target="_blank" rel="sponsored noopener noreferrer">Kenko UV Camera Lens Filter | 49mm 52mm 55mm 58mm 62mm 67mm 72mm 77mm| UK Seller</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-artefacts-when-the-ufo-is-inside-the-camera-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="sensor-artefacts-when-the-ufo-is-inside-the-camera-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens+filter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-ufo-is-inside-the-camera-camera-lens-filter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens filter" data-ebay-reference="when-the-ufo-is-inside-the-camera-camera-lens-filter" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera lens filter">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera lens filter</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-artefacts-when-the-ufo-is-inside-the-camera-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="sensor-artefacts-when-the-ufo-is-inside-the-camera-ifos-causes-of-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens+filter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-ufo-is-inside-the-camera-camera-lens-filter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens filter" data-ebay-reference="when-the-ufo-is-inside-the-camera-camera-lens-filter" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -518,15 +510,15 @@ That shift in perspective explains why calibration occupies such a central place
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-artefacts-when-the-ufo-is-inside-the-camera-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="sensor-artefacts-when-the-ufo-is-inside-the-camera-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens+filter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-ufo-is-inside-the-camera-camera-lens-filter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens filter" data-ebay-reference="when-the-ufo-is-inside-the-camera-camera-lens-filter" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kenko UV Camera Lens Filter | 49mm 52mm 55mm 58mm 62mm 67mm 72mm 77mm| UK Seller"><img src="https://i.ebayimg.com/images/g/HxUAAOSwVk1mc09H/s-l225.jpg" alt="Listing image for Kenko UV Camera Lens Filter | 49mm 52mm 55mm 58mm 62mm 67mm 72mm 77mm| UK Seller" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-artefacts-when-the-ufo-is-inside-the-camera-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="sensor-artefacts-when-the-ufo-is-inside-the-camera-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens+filter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-ufo-is-inside-the-camera-camera-lens-filter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens filter" data-ebay-reference="when-the-ufo-is-inside-the-camera-camera-lens-filter" target="_blank" rel="sponsored noopener noreferrer">Kenko UV Camera Lens Filter | 49mm 52mm 55mm 58mm 62mm 67mm 72mm 77mm| UK Seller</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-artefacts-when-the-ufo-is-inside-the-camera-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="sensor-artefacts-when-the-ufo-is-inside-the-camera-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens+filter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-ufo-is-inside-the-camera-camera-lens-filter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens filter" data-ebay-reference="when-the-ufo-is-inside-the-camera-camera-lens-filter" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera lens filter">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera lens filter</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-artefacts-when-the-ufo-is-inside-the-camera-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="sensor-artefacts-when-the-ufo-is-inside-the-camera-ifos-causes-of-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens+filter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-ufo-is-inside-the-camera-camera-lens-filter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens filter" data-ebay-reference="when-the-ufo-is-inside-the-camera-camera-lens-filter" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -534,15 +526,15 @@ That shift in perspective explains why calibration occupies such a central place
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-artefacts-when-the-ufo-is-inside-the-camera-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="sensor-artefacts-when-the-ufo-is-inside-the-camera-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens+filter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-ufo-is-inside-the-camera-camera-lens-filter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens filter" data-ebay-reference="when-the-ufo-is-inside-the-camera-camera-lens-filter" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 52mm Soft Focus Camera Lens Filter with Protective Case"><img src="https://i.ebayimg.com/images/g/Kn8AAeSwtjBqKchv/s-l225.jpg" alt="Listing image for 52mm Soft Focus Camera Lens Filter with Protective Case" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-artefacts-when-the-ufo-is-inside-the-camera-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="sensor-artefacts-when-the-ufo-is-inside-the-camera-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens+filter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-ufo-is-inside-the-camera-camera-lens-filter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens filter" data-ebay-reference="when-the-ufo-is-inside-the-camera-camera-lens-filter" target="_blank" rel="sponsored noopener noreferrer">52mm Soft Focus Camera Lens Filter with Protective Case</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-artefacts-when-the-ufo-is-inside-the-camera-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="sensor-artefacts-when-the-ufo-is-inside-the-camera-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens+filter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-ufo-is-inside-the-camera-camera-lens-filter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens filter" data-ebay-reference="when-the-ufo-is-inside-the-camera-camera-lens-filter" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera lens filter">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera lens filter</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-artefacts-when-the-ufo-is-inside-the-camera-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="sensor-artefacts-when-the-ufo-is-inside-the-camera-ifos-causes-of-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens+filter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-ufo-is-inside-the-camera-camera-lens-filter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens filter" data-ebay-reference="when-the-ufo-is-inside-the-camera-camera-lens-filter" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -550,7 +542,7 @@ That shift in perspective explains why calibration occupies such a central place
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-artefacts-when-the-ufo-is-inside-the-camera-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="sensor-artefacts-when-the-ufo-is-inside-the-camera-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens+filter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-ufo-is-inside-the-camera-camera-lens-filter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens filter" data-ebay-reference="when-the-ufo-is-inside-the-camera-camera-lens-filter" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -765,144 +757,144 @@ That shift in perspective explains why calibration occupies such a central place
 
 1. <a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: en.wikisource.org  
-   Link: [https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5](https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WikisourcePage:UAP Independent Study Team - Final Report.pdf/512 Nov 2023 — At present, analysis of UAP data is hampered by poor sensor c...</p></details>
+   Link: <a href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Page:UAP Independent Study Team - Final Report.pdf/512 Nov 2023 — At present, analysis of UAP data is hampered by poor sensor c...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: [https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/](https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASAUPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through...</p></details>
+   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: en.wikisource.org  
    Title: Page:UAP Independent Study Team  
-   Link: [https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15](https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WikisourcePage:UAP Independent Study Team - Final Report.pdf/1512 Nov 2023 — Indeed, several apparent UAP have been demonstrated to be se...</p></details>
+   Link: <a href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Page:UAP Independent Study Team - Final Report.pdf/1512 Nov 2023 — Indeed, several apparent UAP have been demonstrated to be se...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: en.wikisource.org  
-   Link: [https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task](https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WikisourceNASA Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — The panel notes that, at present, gathering data on UAP is...</p></details>
+   Link: <a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — The panel notes that, at present, gathering data on UAP is...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: en.wikisource.org  
    Title: Overall Conclusions and Recommendations  
-   Link: [https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Overall_Conclusions_and_Recommendations](https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Overall_Conclusions_and_Recommendations)  
+   Link: <a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Overall_Conclusions_and_Recommendations" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Overall_Conclusions_and_Recommendations</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Study Team Report/Overall Conclusions and...14 Oct 2023 — At present, the detection of UAP is often serendipitous, captured by sensors t...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/](https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditAccording to [AARO](&amp;#123;&amp;#123; &#x27;aaro/&#x27; | relative_url &amp;#125;&amp;#125;)&#x27;s new website, the FLIR, Gimbal and...August 31, 2023 — When the camera is rotating, the scene remains stationar...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>According to [AARO](&amp;#123;&amp;#123; &#x27;aaro/&#x27; | relative_url &amp;#125;&amp;#125;)&#x27;s new website, the FLIR, Gimbal and...August 31, 2023 — When the camera is rotating, the scene remains stationar...</p></details>
    Published: August 31, 2023  
 
 8. <a id="endnote-8"></a>
    Source: nextgov.com  
    Title: nasa report finds no evidence ufos are extraterrestrial  
-   Link: [https://www.nextgov.com/ideas/2023/09/nasa-report-finds-no-evidence-ufos-are-extraterrestrial/390350/](https://www.nextgov.com/ideas/2023/09/nasa-report-finds-no-evidence-ufos-are-extraterrestrial/390350/)  
+   Link: <a href="https://www.nextgov.com/ideas/2023/09/nasa-report-finds-no-evidence-ufos-are-extraterrestrial/390350/" target="_blank" rel="noopener noreferrer nofollow">https://www.nextgov.com/ideas/2023/09/nasa-report-finds-no-evidence-ufos-are-extraterrestrial/390350/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP data considered by the study team comes from U.S. military aircraft. Analysis of this data is “hampered by poor sensor calibration, t...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
    Title: arXiv Galileo Project Observatory Class System Architecture  
-   Link: [https://arxiv.org/abs/2506.00125](https://arxiv.org/abs/2506.00125)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivGalileo Project Observatory Class System ArchitectureMay 30, 2025...</p></details>
+   Link: <a href="https://arxiv.org/abs/2506.00125" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2506.00125</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Galileo Project Observatory Class System ArchitectureMay 30, 2025...</p></details>
    Published: May 30, 2025  
 
 10. <a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2305.18566](https://arxiv.org/abs/2305.18566)  
+   Link: <a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
 
 11. <a id="endnote-11"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — The study will focus on identifying available data, how best to collect future data, and how NASA can use that da...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2506.00125v1](https://arxiv.org/html/2506.00125v1)  
+   Link: <a href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.00125v1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Introduction30 May 2025 — The scientific study of Unidentified Anomalous Phenomena (UAP) is severely hindered by inadequate data collec...</p></details>
    Published: May 2025  
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
    Title: What could be a logical explanation for the tic tac shaped aircraft spotted  
-   Link: [https://www.reddit.com/r/AskPhysics/comments/1dgc8od/are_there_good_scientific_explanations_for_ufo/](https://www.reddit.com/r/AskPhysics/comments/1dgc8od/are_there_good_scientific_explanations_for_ufo/)  
+   Link: <a href="https://www.reddit.com/r/AskPhysics/comments/1dgc8od/are_there_good_scientific_explanations_for_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskPhysics/comments/1dgc8od/are_there_good_scientific_explanations_for_ufo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Are there good scientific explanations for UFO sightings...I revisit this from time to time, but I never actually asked the question...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
    Title: Footage from the declassified files just released, Middle  
-   Link: [https://www.reddit.com/r/aliens/comments/1t77df2/footage_from_the_declassified_files_just_released/](https://www.reddit.com/r/aliens/comments/1t77df2/footage_from_the_declassified_files_just_released/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/1t77df2/footage_from_the_declassified_files_just_released/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1t77df2/footage_from_the_declassified_files_just_released/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(AARO) consisting of one minute and 46 seconds of video footage from an infrared sensor aboard a U.S. military platform in 2013. The repo...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/](https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/)  
+   Link: <a href="https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA has released the Unidentified Anomalous...DOD and NASA now both say there are objects in the air that they can&#x27;t identify. This UAP...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/](https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/)  
+   Link: <a href="https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...The report contains the external study team&#x27;s findings and recommendations which aim to i...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: hangar1publishing.com  
-   Link: [https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/nasa-ufo-footage-evidence?srsltid=AfmBOooABsrfmUzMPMmXI5WhJ5epf4ZJGrDOTTtB7ftgDpMZx4kbLE2h](https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/nasa-ufo-footage-evidence?srsltid=AfmBOooABsrfmUzMPMmXI5WhJ5epf4ZJGrDOTTtB7ftgDpMZx4kbLE2h)  
+   Link: <a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/nasa-ufo-footage-evidence?srsltid=AfmBOooABsrfmUzMPMmXI5WhJ5epf4ZJGrDOTTtB7ftgDpMZx4kbLE2h" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/nasa-ufo-footage-evidence?srsltid=AfmBOooABsrfmUzMPMmXI5WhJ5epf4ZJGrDOTTtB7ftgDpMZx4kbLE2h</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO Footage: The Shocking TruthNASA&#x27;s unexplained UFO footage forces scientific scrutiny. Explore the space agency&#x27;s dramatic evolut...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40omarvferro/nasa-ufo-releases-the-2-most-convising-images-if-youre-a-skeptic-who-still-has-eyes-67cefa567525](https://medium.com/%40omarvferro/nasa-ufo-releases-the-2-most-convising-images-if-youre-a-skeptic-who-still-has-eyes-67cefa567525)  
+   Link: <a href="https://medium.com/%40omarvferro/nasa-ufo-releases-the-2-most-convising-images-if-youre-a-skeptic-who-still-has-eyes-67cefa567525" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40omarvferro/nasa-ufo-releases-the-2-most-convising-images-if-youre-a-skeptic-who-still-has-eyes-67cefa567525</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA “UFO” Releases: The 2 Most Convincing Images (If...And Live Science notes the key problem that&#x27;s basically the villain in every UAP...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: managingexpectations.net  
-   Link: [https://managingexpectations.net/blog/articles/nasa-uap-study-managing-expectations.html](https://managingexpectations.net/blog/articles/nasa-uap-study-managing-expectations.html)  
+   Link: <a href="https://managingexpectations.net/blog/articles/nasa-uap-study-managing-expectations.html" target="_blank" rel="noopener noreferrer nofollow">https://managingexpectations.net/blog/articles/nasa-uap-study-managing-expectations.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s UAP Study: What It Did — and Did Not — ConcludeThe panel said UAP analysis is hampered by “poor sensor calibration,” a lack of mul...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: primitiveproton.com  
-   Link: [https://primitiveproton.com/unidentified-anomalous-phenomena-uap/](https://primitiveproton.com/unidentified-anomalous-phenomena-uap/)  
+   Link: <a href="https://primitiveproton.com/unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://primitiveproton.com/unidentified-anomalous-phenomena-uap/</a>  
 
 21. <a id="endnote-21"></a>
    Source: defensescoop.com  
-   Link: [https://defensescoop.com/2023/10/18/dods-all-domain-anomaly-resolution-office-is-now-investigating-more-than-800-uap-cases/](https://defensescoop.com/2023/10/18/dods-all-domain-anomaly-resolution-office-is-now-investigating-more-than-800-uap-cases/)  
+   Link: <a href="https://defensescoop.com/2023/10/18/dods-all-domain-anomaly-resolution-office-is-now-investigating-more-than-800-uap-cases/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2023/10/18/dods-all-domain-anomaly-resolution-office-is-now-investigating-more-than-800-uap-cases/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DOD&#x27;s All-domain Anomaly Resolution Office confirms...18 Oct 2023 — A new Pentagon report confirms that AARO has received a total of 801...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: fastcompany.com  
    Title: nasa just threw cold water on the idea that ufo sightings are extraterrestrial  
-   Link: [https://www.fastcompany.com/90954823/nasa-just-threw-cold-water-on-the-idea-that-ufo-sightings-are-extraterrestrial](https://www.fastcompany.com/90954823/nasa-just-threw-cold-water-on-the-idea-that-ufo-sightings-are-extraterrestrial)  
+   Link: <a href="https://www.fastcompany.com/90954823/nasa-just-threw-cold-water-on-the-idea-that-ufo-sightings-are-extraterrestrial" target="_blank" rel="noopener noreferrer nofollow">https://www.fastcompany.com/90954823/nasa-just-threw-cold-water-on-the-idea-that-ufo-sightings-are-extraterrestrial</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA just threw cold water on the idea that UFO sightings...19 Sept 2023 — Analysis of this data is “hampered by poor sensor calibration...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=TQcqOW39ksk](https://www.youtube.com/watch?v=TQcqOW39ksk)  
+   Link: <a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study ReportNASA commissioned an independent study team to examine unidentified anomalous ph...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: finden.co.uk  
-   Link: [https://www.finden.co.uk/eliminating-parallax-artefacts-in-x-ray-powder-diffraction-computed-tomography-with-a-self-supervised-neural-network/](https://www.finden.co.uk/eliminating-parallax-artefacts-in-x-ray-powder-diffraction-computed-tomography-with-a-self-supervised-neural-network/)  
+   Link: <a href="https://www.finden.co.uk/eliminating-parallax-artefacts-in-x-ray-powder-diffraction-computed-tomography-with-a-self-supervised-neural-network/" target="_blank" rel="noopener noreferrer nofollow">https://www.finden.co.uk/eliminating-parallax-artefacts-in-x-ray-powder-diffraction-computed-tomography-with-a-self-supervised-neural-network/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This method leverages a 3D self-supervised neural network combined with a forward projector.Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: metabunk.org  
    Title: me23 aaro release — unresolved uap report middle east 2023.14190  
-   Link: [https://www.metabunk.org/threads/me23-aaro-release-%E2%80%94-unresolved-uap-report-middle-east-2023.14190/](https://www.metabunk.org/threads/me23-aaro-release-%E2%80%94-unresolved-uap-report-middle-east-2023.14190/)  
+   Link: <a href="https://www.metabunk.org/threads/me23-aaro-release-%E2%80%94-unresolved-uap-report-middle-east-2023.14190/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/me23-aaro-release-%E2%80%94-unresolved-uap-report-middle-east-2023.14190/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unresolved UAP Report: Middle East 20239 May 2025 — Eight minutes and fifteen seconds of video footage was captured by an infrared sensor...</p></details>
    Published: May 2025  
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
    Title: The New UAP Archive: What the DVIDS Military Videos Actually  
-   Link: [https://www.facebook.com/TheAnomalyArchives/posts/the-new-uap-archive-what-the-dvids-military-videos-actually-show-by-jay-austinin/1609229587878521/](https://www.facebook.com/TheAnomalyArchives/posts/the-new-uap-archive-what-the-dvids-military-videos-actually-show-by-jay-austinin/1609229587878521/)  
+   Link: <a href="https://www.facebook.com/TheAnomalyArchives/posts/the-new-uap-archive-what-the-dvids-military-videos-actually-show-by-jay-austinin/1609229587878521/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheAnomalyArchives/posts/the-new-uap-archive-what-the-dvids-military-videos-actually-show-by-jay-austinin/1609229587878521/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO cannot determine whether the observed signature represents a sensor artifact or a thermal emission or reflection from a physical sou...</p></details>

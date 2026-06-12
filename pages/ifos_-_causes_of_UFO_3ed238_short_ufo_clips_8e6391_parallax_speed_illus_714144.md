@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_out_of_focus_ufo_orb_9fdbb4
 - ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_useful_ufo_video_che_819eea
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - short-clips
 - parallax
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - short-clips
 - parallax
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: A dot that seems to race across the screen may be slow, distant, nearby, or stationary once camera motion and range are considered.
 hero_summary: A dot that seems to race across the screen may be slow, distant, nearby, or stationary once camera motion and range are considered.
 layout: default
 permalink: /parallax-811b0d/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /short-clips/
 nav_short_title: Parallax
 title: Why Fast UFOs May Not Be Fast
-title_full: Why Fast UFOs May Not Be Fast | Short Clips
+title_full: Why Fast UFOs May Not Be Fast
 display_title_short: Parallax
 display_title: Parallax
 heading_title: Why Fast UFOs May Not Be Fast
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-07 00:24:02'
-parent_title: Why Short UFO Videos Are Hard to Trust | IFOs
+parent_title: Why Short UFO Videos Are Hard to Trust
 parent_permalink: /short-clips/
 parent_nav_short_title: Short Clips
 parent_heading_title: Why Short UFO Videos Are Hard to Trust
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391
-  title: Short Clips | Ifos Causes Of
+  title: Short Clips | ifos causes of UFO 3 ed 238
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: Why Short UFO Videos Are Hard to Trust
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391
-  title: Short Clips | Ifos Causes Of
+  title: Short Clips | ifos causes of UFO 3 ed 238
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: Why Short UFO Videos Are Hard to Trust
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: What Makes a UFO Clip Useful
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391
-  title: Short Clips | Ifos Causes Of
+  title: Short Clips | ifos causes of UFO 3 ed 238
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: Why Short UFO Videos Are Hard to Trust
@@ -266,6 +265,7 @@ next_link:
   permalink: /ufo-orbs/
   short_title: UFO Orbs
   heading_title: Why Night Lights Become Orbs
+date: '2026-06-12 00:33:50 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_parallax_speed_illus_714144-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_parallax_speed_illus_714144-Illustration-1.webp
@@ -276,7 +276,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_paralla
 
 Many UFO videos appear to show an object streaking across the sky at extraordinary speed. Yet a fast-looking image on a screen is not the same as evidence of a fast-moving object. One of the most common reasons speed is misjudged in [short clips]({{ 'short-clips/' | relative_url }}) is parallax: the apparent motion created when the observer, camera, or sensor is moving relative to objects at different distances. When the [range]({{ 'range/' | relative_url }}) to the object is unknown, estimates of speed can become wildly inaccurate. A dot that seems to be racing across the frame may actually be distant and slow, nearby and ordinary, or even nearly stationary relative to the surrounding air. Investigators of unidentified aerial phenomena (UAP) repeatedly cite parallax and range uncertainty as major reasons why dramatic-looking footage often proves less extraordinary after detailed analysis. AARO <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe study of Unidentified Anomalous Phenomena (UAP) presents a unique scientific opportunity tha...</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_parallax_speed_illus_714144-Illustration-1-dark.svg" | relative_url }}" alt="Parallax illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_parallax_speed_illus_714144-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_parallax_speed_illus_714144-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Distance Controls Apparent Speed
 
@@ -285,7 +284,6 @@ The central problem is that cameras record angles, not distances.
 Imagine two objects viewed from a moving aircraft. One is close to the aircraft and one is many kilometres away. As the aircraft moves, the nearer object appears to sweep across the background much faster than the distant object. This is the same effect seen from a train window: nearby trees seem to rush past, while distant hills barely move.
 
 In a UFO video, viewers usually do not know:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -296,10 +294,9 @@ In a UFO video, viewers usually do not know:
 
 </div>
 
-Without those facts, apparent motion across the screen cannot be converted into a reliable estimate of real speed. [AARO]({{ 'aaro/' | relative_url }}), the U.S. government's All-domain Anomaly Resolution Office, notes that when an object lacks recognisable features, observers often struggle to estimate both its size and its distance. Errors in distance estimation then produce errors in speed estimation. The same document explains that stationary objects can appear to move and slow-moving objects can appear extremely fast because of parallax effects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROEffect of Forced Perspective and Parallax View on UAP...Because of parallax, stationary objects can appear to have motion, and slow...</span></span></span>
+Without those facts, apparent motion across the screen cannot be converted into a reliable estimate of real speed. [AARO]({{ 'aaro/' | relative_url }}), the U.S. government's All-domain Anomaly Resolution Office, notes that when an object lacks recognisable features, observers often struggle to estimate both its size and its distance. Errors in distance estimation then produce errors in speed estimation. The same document explains that stationary objects can appear to move and slow-moving objects can appear extremely fast because of parallax effects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Effect of Forced Perspective and Parallax View on UAP...Because of parallax, stationary objects can appear to have motion, and slow...</span></span></span>
 
 A useful rule is that angular motion alone is not enough. An object crossing half the screen in two seconds could be travelling at hundreds of miles per hour, tens of miles per hour, or even less, depending on its range.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qUKEvSeGOMY" title="‘Most UFO sightings are explainable but…’: Pentagon AARO chief tells Senate Armed Services Committee" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qUKEvSeGOMY" target="_blank" rel="noopener noreferrer">‘Most UFO sightings are explainable but…’: Pentagon AARO chief tells Senate Armed Services Committee</a></p><p class="youtube-embed-meta">Channel: The Economic Times &middot; Views: 15.6K &middot; Uploaded: November 2024 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qUKEvSeGOMY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qUKEvSeGOMY">Open on YouTube</a></p></div></div></div>
 
@@ -308,7 +305,6 @@ A useful rule is that angular motion alone is not enough. An object crossing hal
 Many of the most discussed UFO videos are not filmed from stationary tripods. They are recorded from aircraft, helicopters, ships, vehicles, or hand-held cameras that are themselves moving.
 
 When a camera platform moves, three motions become mixed together:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -326,18 +322,16 @@ Parallax is strongest when viewers lack a stable reference frame.
 
 A small object against a featureless sky provides almost no information about distance. If the camera pans to keep the object centred, the background may slide rapidly across the frame while the target appears to maintain a constant position. To a viewer, this can create the impression that the object is racing through the environment even when much of the apparent motion is generated by the camera's own movement.
 
-This effect becomes even more misleading in [infrared]({{ 'infrared/' | relative_url }}) military footage. Tracking systems automatically adjust their orientation to keep a target locked, making it difficult for casual viewers to separate sensor motion from object motion. Investigators therefore reconstruct aircraft position, sensor angles, and viewing geometry before attempting to estimate speed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution Card Methodology Final</span><span class="citation-popover-snippet">AAROAARO GoFast Case Resolution6 Feb 2025 — At t1, the F/A-18&#x27;s range to the UAP was 4.0 NM and closed in range to. 3.4 NM at t2. 2 Follo...</span></span></span>
-
+This effect becomes even more misleading in [infrared]({{ 'infrared/' | relative_url }}) military footage. Tracking systems automatically adjust their orientation to keep a target locked, making it difficult for casual viewers to separate sensor motion from object motion. Investigators therefore reconstruct aircraft position, sensor angles, and viewing geometry before attempting to estimate speed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution Card Methodology Final</span><span class="citation-popover-snippet">AARO GoFast Case Resolution6 Feb 2025 — At t1, the F/A-18&#x27;s range to the UAP was 4.0 NM and closed in range to. 3.4 NM at t2. 2 Follo...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_parallax_speed_illus_714144-Illustration-2-dark.svg" | relative_url }}" alt="Parallax illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_parallax_speed_illus_714144-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_parallax_speed_illus_714144-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Why Human Intuition Often Fails
 
-Human vision uses many cues to estimate distance: familiar object size, shadows, perspective, atmospheric haze, and stereoscopic depth. Most [short UFO clips]({{ 'short-clips/' | relative_url }}) remove nearly all of these cues.
+Human vision uses many cues to estimate distance: familiar object size, shadows, perspective, atmospheric haze, and stereoscopic depth. Most short UFO clips remove nearly all of these cues.
 
 A tiny featureless dot provides no obvious scale. The brain therefore fills in missing information. If viewers assume the object is large and distant, its apparent motion may seem extraordinary. If the object is actually much closer or much smaller, the same visual movement may correspond to an entirely ordinary speed.
 
 This is why investigators treat claims about velocity cautiously when range is unknown. The apparent speed visible in the video is often the least reliable measurement available.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xkgTajUDORs" title="The &quot;Windfarm UFO&quot; - analyzed, 3D-recreated and debunked." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xkgTajUDORs" target="_blank" rel="noopener noreferrer">The &quot;Windfarm UFO&quot; - analyzed, 3D-recreated and debunked.</a></p><p class="youtube-embed-meta">Channel: ThomasH &middot; Views: 402 &middot; Uploaded: May 2026 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xkgTajUDORs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xkgTajUDORs">Open on YouTube</a></p></div></div></div>
 
@@ -352,7 +346,6 @@ AARO's detailed reconstruction reached a different conclusion. Using sensor data
 AARO's analysis specifically identified motion parallax created by the fighter aircraft's own movement as a major factor in the misleading visual impression. What looked like a high-speed object hugging the ocean was consistent with a much more ordinary object observed from a rapidly moving jet. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/files/decade-2020s-aaro-website-launch-case-resolutions-2023-aaro-gofast-case-resolution-card-methodology-" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">UFO TransparencyAARO Website Launch: Go Fast Resolution, All-domain Anomaly...AARO&#x27;s analysis places the object at approximately 13,000...</span></span></span>
 
 The importance of the case is not that every UFO video has the same explanation. Rather, it demonstrates how dramatically conclusions can change once range is known. Before reconstruction, the footage appeared to show extraordinary performance. After reconstruction, the apparent speed largely disappeared.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ciopi2r7j-k" title="Not As They Seem - Mick West on UFOs, Conspiracy Theories, and Pseudoscience" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ciopi2r7j-k" target="_blank" rel="noopener noreferrer">Not As They Seem - Mick West on UFOs, Conspiracy Theories, and Pseudoscience</a></p><p class="youtube-embed-meta">Channel: This Week in Space &middot; Views: 7.0K &middot; Uploaded: February 2025 &middot; Length: 1 hour 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ciopi2r7j-k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ciopi2r7j-k">Open on YouTube</a></p></div></div></div>
 
@@ -377,7 +370,6 @@ Useful evidence includes:
 NASA's UAP study emphasised that many sightings lack the high-quality, calibrated data needed for firm conclusions. When distance, geometry, and sensor information are missing, even dramatic footage may be incapable of supporting reliable performance estimates. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe study of Unidentified Anomalous Phenomena (UAP) presents a unique scientific opportunity tha...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe study of Unidentified Anomalous Phenomena (UAP) presents a unique scientific opportunity tha...</span></span></span>
 
 For this reason, a clip that appears to show impossible speed is not automatically evidence of impossible motion. Until range and viewing geometry are established, the safest interpretation is often that the apparent velocity may be a product of perspective rather than a measurement of the object's true movement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_parallax_speed_illus_714144-Illustration-3-dark.svg" | relative_url }}" alt="Parallax illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_parallax_speed_illus_714144-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391_parallax_speed_illus_714144-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -498,15 +490,15 @@ For this reason, a clip that appears to show impossible speed is not automatical
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-811b0d-why-fast-ufos-may-not-be-fast-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="parallax-811b0d-why-fast-ufos-may-not-be-fast-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fast-ufos-may-not-be-fast-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-fast-ufos-may-not-be-fast-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Canvas Poster &quot;Dambuster Lancaster&quot; by photographer Paul Heasman. Avro. (bc)"><img src="https://i.ebayimg.com/images/g/PgMAAeSw0gNpkH~g/s-l225.jpg" alt="Listing image for Canvas Poster &quot;Dambuster Lancaster&quot; by photographer Paul Heasman. Avro. (bc)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-811b0d-why-fast-ufos-may-not-be-fast-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="parallax-811b0d-why-fast-ufos-may-not-be-fast-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fast-ufos-may-not-be-fast-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-fast-ufos-may-not-be-fast-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Canvas Poster &quot;Dambuster Lancaster&quot; by photographer Paul Heasman. Avro. (bc)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-811b0d-why-fast-ufos-may-not-be-fast-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="parallax-811b0d-why-fast-ufos-may-not-be-fast-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo enamel pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fast-ufos-may-not-be-fast-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-fast-ufos-may-not-be-fast-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-811b0d-why-fast-ufos-may-not-be-fast-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="parallax-811b0d-why-fast-ufos-may-not-be-fast-ifos-causes-of-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fast-ufos-may-not-be-fast-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-fast-ufos-may-not-be-fast-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -514,15 +506,15 @@ For this reason, a clip that appears to show impossible speed is not automatical
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-811b0d-why-fast-ufos-may-not-be-fast-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="parallax-811b0d-why-fast-ufos-may-not-be-fast-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fast-ufos-may-not-be-fast-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-fast-ufos-may-not-be-fast-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RAF Aircraft Collection Poster A3 Royal Air Force Aircraft Identification Chart"><img src="https://i.ebayimg.com/images/g/g-IAAeSwToJqHykA/s-l225.jpg" alt="Listing image for RAF Aircraft Collection Poster A3 Royal Air Force Aircraft Identification Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-811b0d-why-fast-ufos-may-not-be-fast-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="parallax-811b0d-why-fast-ufos-may-not-be-fast-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fast-ufos-may-not-be-fast-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-fast-ufos-may-not-be-fast-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">RAF Aircraft Collection Poster A3 Royal Air Force Aircraft Identification Chart</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-811b0d-why-fast-ufos-may-not-be-fast-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="parallax-811b0d-why-fast-ufos-may-not-be-fast-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo enamel pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fast-ufos-may-not-be-fast-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-fast-ufos-may-not-be-fast-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-811b0d-why-fast-ufos-may-not-be-fast-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="parallax-811b0d-why-fast-ufos-may-not-be-fast-ifos-causes-of-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fast-ufos-may-not-be-fast-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-fast-ufos-may-not-be-fast-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -530,15 +522,15 @@ For this reason, a clip that appears to show impossible speed is not automatical
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-811b0d-why-fast-ufos-may-not-be-fast-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="parallax-811b0d-why-fast-ufos-may-not-be-fast-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fast-ufos-may-not-be-fast-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-fast-ufos-may-not-be-fast-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Boeing Aviation Vintage Style Set Of 4 Prints Pictures Wall Art Poster"><img src="https://i.ebayimg.com/images/g/NC8AAeSwHJ5qKv86/s-l225.jpg" alt="Listing image for Boeing Aviation Vintage Style Set Of 4 Prints Pictures Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-811b0d-why-fast-ufos-may-not-be-fast-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="parallax-811b0d-why-fast-ufos-may-not-be-fast-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fast-ufos-may-not-be-fast-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-fast-ufos-may-not-be-fast-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Boeing Aviation Vintage Style Set Of 4 Prints Pictures Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-811b0d-why-fast-ufos-may-not-be-fast-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="parallax-811b0d-why-fast-ufos-may-not-be-fast-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo enamel pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fast-ufos-may-not-be-fast-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-fast-ufos-may-not-be-fast-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-811b0d-why-fast-ufos-may-not-be-fast-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="parallax-811b0d-why-fast-ufos-may-not-be-fast-ifos-causes-of-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fast-ufos-may-not-be-fast-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-fast-ufos-may-not-be-fast-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -546,15 +538,15 @@ For this reason, a clip that appears to show impossible speed is not automatical
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-811b0d-why-fast-ufos-may-not-be-fast-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="parallax-811b0d-why-fast-ufos-may-not-be-fast-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac"><img src="{{ '/assets/images/marketplace-covers/cdbe73a199cf9b4b48c0.jpg' | relative_url }}" alt="Listing image for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fast-ufos-may-not-be-fast-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-fast-ufos-may-not-be-fast-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print"><img src="https://i.ebayimg.com/images/g/wsEAAeSwT65qH~8U/s-l225.jpg" alt="Listing image for Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-811b0d-why-fast-ufos-may-not-be-fast-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="parallax-811b0d-why-fast-ufos-may-not-be-fast-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fast-ufos-may-not-be-fast-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-fast-ufos-may-not-be-fast-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-811b0d-why-fast-ufos-may-not-be-fast-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="parallax-811b0d-why-fast-ufos-may-not-be-fast-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo enamel pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fast-ufos-may-not-be-fast-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-fast-ufos-may-not-be-fast-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-811b0d-why-fast-ufos-may-not-be-fast-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="parallax-811b0d-why-fast-ufos-may-not-be-fast-ifos-causes-of-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fast-ufos-may-not-be-fast-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-fast-ufos-may-not-be-fast-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -562,7 +554,7 @@ For this reason, a clip that appears to show impossible speed is not automatical
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-811b0d-why-fast-ufos-may-not-be-fast-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="parallax-811b0d-why-fast-ufos-may-not-be-fast-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fast-ufos-may-not-be-fast-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-fast-ufos-may-not-be-fast-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -777,103 +769,103 @@ For this reason, a clip that appears to show impossible speed is not automatical
 
 1. <a id="endnote-1"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROEffect of Forced Perspective and Parallax View on UAP...Because of parallax, stationary objects can appear to have motion, and slow...</p></details>
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Effect of Forced Perspective and Parallax View on UAP...Because of parallax, stationary objects can appear to have motion, and slow...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportThe study of Unidentified Anomalous Phenomena (UAP) presents a unique scientific opportunity tha...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nasa.gov  
    Title: to release discuss unidentified anomalous phenomena report  
-   Link: [https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/](https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/)  
+   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to Release, Discuss Unidentified Anomalous...19 Sept 2023 — NASA defines UAP as observations of events in the sky that cannot be id...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: aaro.mil  
    Title: Go Fast Case Resolution Card Methodology Final  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf](https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROAARO [GoFast](&amp;#123;&amp;#123; &#x27;gofast/&#x27; | relative_url &amp;#125;&amp;#125;) Case Resolution6 Feb 2025 — At t1, the F/A-18&#x27;s range to the UAP was 4.0 NM and closed in range to. 3.4 NM at t2. 2 Follo...</p></details>
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO [GoFast](&amp;#123;&amp;#123; &#x27;gofast/&#x27; | relative_url &amp;#125;&amp;#125;) Case Resolution6 Feb 2025 — At t1, the F/A-18&#x27;s range to the UAP was 4.0 NM and closed in range to. 3.4 NM at t2. 2 Follo...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — The study will focus on identifying available data, how best to collect future data, and how NASA can use that da...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/](https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/</a>  
 
 7. <a id="endnote-7"></a>
    Source: cbsnews.com  
-   Link: [https://www.cbsnews.com/news/pentagon-solves-1-ufo-mystery-still-probing-other-cases/](https://www.cbsnews.com/news/pentagon-solves-1-ufo-mystery-still-probing-other-cases/)  
+   Link: <a href="https://www.cbsnews.com/news/pentagon-solves-1-ufo-mystery-still-probing-other-cases/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/pentagon-solves-1-ufo-mystery-still-probing-other-cases/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsPentagon solves 1 UFO mystery but still probing cases of &quot;...Nov 20, 2024 — The GOFAST video was made public in 2017 and shows w...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: ufotransparency.com  
-   Link: [https://ufotransparency.com/files/decade-2020s-aaro-website-launch-case-resolutions-2023-aaro-gofast-case-resolution-card-methodology-](https://ufotransparency.com/files/decade-2020s-aaro-website-launch-case-resolutions-2023-aaro-gofast-case-resolution-card-methodology-)  
+   Link: <a href="https://ufotransparency.com/files/decade-2020s-aaro-website-launch-case-resolutions-2023-aaro-gofast-case-resolution-card-methodology-" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/decade-2020s-aaro-website-launch-case-resolutions-2023-aaro-gofast-case-resolution-card-methodology-</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO TransparencyAARO Website Launch: Go Fast Resolution, All-domain Anomaly...AARO&#x27;s analysis places the object at approximately 13,000...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: ufotransparency.com  
-   Link: [https://ufotransparency.com/files/decade-2020s-aaro-gofast-case-resolution-2025-aaro-gofast-case-resolution-card-methodology-final](https://ufotransparency.com/files/decade-2020s-aaro-gofast-case-resolution-2025-aaro-gofast-case-resolution-card-methodology-final)  
+   Link: <a href="https://ufotransparency.com/files/decade-2020s-aaro-gofast-case-resolution-2025-aaro-gofast-case-resolution-card-methodology-final" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/decade-2020s-aaro-gofast-case-resolution-2025-aaro-gofast-case-resolution-card-methodology-final</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Resolves Go Fast as Parallax, 2025, All-domain Anomaly...AARO&#x27;s February 2025 case resolution concludes with high confidence that t...</p></details>
    Published: February 2025  
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Parallax](https://en.wikipedia.org/wiki/Parallax)  
+   Link: <a href="https://en.wikipedia.org/wiki/Parallax" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Parallax</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ParallaxParallax is a displacement or difference in the apparent position of an object viewed along two different lines of sightRead more...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/395858774_Toward_a_Reliability_Scale_for_Assessing_Reports_of_Unidentified_Anomalous_Phenomena_UAP](https://www.researchgate.net/publication/395858774_Toward_a_Reliability_Scale_for_Assessing_Reports_of_Unidentified_Anomalous_Phenomena_UAP)  
+   Link: <a href="https://www.researchgate.net/publication/395858774_Toward_a_Reliability_Scale_for_Assessing_Reports_of_Unidentified_Anomalous_Phenomena_UAP" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395858774_Toward_a_Reliability_Scale_for_Assessing_Reports_of_Unidentified_Anomalous_Phenomena_UAP</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Toward a Reliability Scale for Assessing Reports of...18 Sept 2025 — We categorize UAP sighting reports according to the quality o...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/729315345/Case-Resolution-of-Atmospheric-Wakes-508-02262024](https://www.scribd.com/document/729315345/Case-Resolution-of-Atmospheric-Wakes-508-02262024)  
+   Link: <a href="https://www.scribd.com/document/729315345/Case-Resolution-of-Atmospheric-Wakes-508-02262024" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/729315345/Case-Resolution-of-Atmospheric-Wakes-508-02262024</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Case Resolution: Atmospheric Wakes | PDFThe document summarizes three cases of unidentified aerial phenomena reported by theater unm...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40kyeq1/activity](https://medium.com/%40kyeq1/activity)  
+   Link: <a href="https://medium.com/%40kyeq1/activity" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40kyeq1/activity</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Activity – Kye RobsonNASA&#x27;s UAP study made a similar point: there is no conclusive evidence in the peer-reviewed literature showing an ex...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/](https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/)  
+   Link: <a href="https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...The evidence of aliens that NASA will find is going to be &quot;We&#x27;ve detected animal farts on...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/](https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/)  
+   Link: <a href="https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA has released the Unidentified Anomalous...NASA has released the Unidentified Anomalous Phenomena independent study team&#x27;s report wi...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/16iix64/nasas_gofast_analysis_says_object_going_40mph/](https://www.reddit.com/r/UFOs/comments/16iix64/nasas_gofast_analysis_says_object_going_40mph/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/16iix64/nasas_gofast_analysis_says_object_going_40mph/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16iix64/nasas_gofast_analysis_says_object_going_40mph/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s GoFast Analysis says object going 40mph: r/UFOsThis is a typical wind speed at 13,000 feet. Our calculation has neglected wind ef...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/davidattenboroughfanss/posts/4018573411747136/](https://www.facebook.com/groups/davidattenboroughfanss/posts/4018573411747136/)  
+   Link: <a href="https://www.facebook.com/groups/davidattenboroughfanss/posts/4018573411747136/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/davidattenboroughfanss/posts/4018573411747136/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spherical UFO Spotted by US NavyUS Navy Footage Shows Spherical UFO Flying Around Before Diving Into Sea. It&#x27;s 2 meters (6 feet) in diame...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: cesar.esa.int  
-   Link: [https://cesar.esa.int/upload/201709/Parallax_Effect_Booklet.pdf](https://cesar.esa.int/upload/201709/Parallax_Effect_Booklet.pdf)  
+   Link: <a href="https://cesar.esa.int/upload/201709/Parallax_Effect_Booklet.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cesar.esa.int/upload/201709/Parallax_Effect_Booklet.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Parallax EffectThis is the parallax effect, a difference in the apparent position of an object when viewed along two different lines of s...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: pbs.org  
-   Link: [https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos](https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos)  
+   Link: <a href="https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos</a>  
 
 20. <a id="endnote-20"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1im8qeu/aaro_go_fast_case_resolution_report/](https://www.reddit.com/r/UFOs/comments/1im8qeu/aaro_go_fast_case_resolution_report/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1im8qeu/aaro_go_fast_case_resolution_report/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1im8qeu/aaro_go_fast_case_resolution_report/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO: &quot;Go Fast&quot; Case Resolution Report: r/UFOsAARO&#x27;s analysis showed: The object&#x27;s altitude was approximately 13,000 feet. The object&#x27;s...</p></details>

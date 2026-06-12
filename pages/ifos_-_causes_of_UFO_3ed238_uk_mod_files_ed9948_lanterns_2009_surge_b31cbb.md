@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_mod_ufo_desk_closure_1bf9cc
 - ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_project_condign_defe_276efb
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - uk-files
 - lantern-surge
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - uk-files
 - lantern-surge
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: A rise in orange-light reports showed how lantern releases, media attention and easy reporting could inflate UFO sighting numbers.
 hero_summary: A rise in orange-light reports showed how lantern releases, media attention and easy reporting could inflate UFO sighting numbers.
 layout: default
 permalink: /lantern-surge/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /uk-files/
 nav_short_title: Lantern surge
 title: Did lanterns fuel the Mo D UFO surge?
-title_full: Did lanterns fuel the Mo D UFO surge? | UK Files
+title_full: Did lanterns fuel the Mo D UFO surge?
 display_title_short: Lantern surge
 display_title: Lantern surge
 heading_title: Did lanterns fuel the Mo D UFO surge?
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 23:07:31'
-parent_title: What the UK UFO Files Reveal | IFOs
+parent_title: What the UK UFO Files Reveal
 parent_permalink: /uk-files/
 parent_nav_short_title: UK Files
 parent_heading_title: What the UK UFO Files Reveal
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948
-  title: UK Files | Ifos Causes Of
+  title: UK Files | ifos causes of UFO 3 ed 238
   permalink: /uk-files/
   short_title: UK Files
   heading_title: What the UK UFO Files Reveal
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948
-  title: UK Files | Ifos Causes Of
+  title: UK Files | ifos causes of UFO 3 ed 238
   permalink: /uk-files/
   short_title: UK Files
   heading_title: What the UK UFO Files Reveal
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: How ordinary lights became Mo D UFO reports
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948
-  title: UK Files | Ifos Causes Of
+  title: UK Files | ifos causes of UFO 3 ed 238
   permalink: /uk-files/
   short_title: UK Files
   heading_title: What the UK UFO Files Reveal
@@ -266,6 +265,7 @@ next_link:
   permalink: /light-reports/
   short_title: Light reports
   heading_title: How ordinary lights became Mo D UFO reports
+date: '2026-06-12 00:19:20 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_lanterns_2009_surge_b31cbb-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_lanterns_2009_surge_b31cbb-Illustration-1.webp
@@ -274,15 +274,14 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_lanterns_2
 
 ## Introduction
 
-One of the clearest lessons from the final UK Ministry of Defence (MoD) UFO files is that a surge in reports does not necessarily mean a surge in unexplained phenomena. During 2008 and especially 2009, the MoD experienced a dramatic increase in sightings describing orange, amber or reddish lights drifting silently across the night sky. At the same time, [sky lanterns]({{ 'lanterns/' | relative_url }})—commonly called Chinese lanterns—were becoming increasingly popular at weddings, parties and public celebrations across Britain. The timing was difficult to ignore. By the end of the UFO desk's life, officials, researchers and archivists were pointing to lantern releases as a major contributor to the flood of orange-[light reports]({{ 'light-reports/' | relative_url }}) that overwhelmed the reporting system. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">Details of the sighting reports logged by MoD in 2008-9 can be followed in the UFO sighting files, DEFE 24/2623-2627...Read more...</span></span></span> [2ITVX]
-
+One of the clearest lessons from the final UK Ministry of Defence (MoD) UFO files is that a surge in reports does not necessarily mean a surge in unexplained phenomena. During 2008 and especially 2009, the MoD experienced a dramatic increase in sightings describing orange, amber or reddish lights drifting silently across the night sky. At the same time, sky lanterns—commonly called Chinese lanterns—were becoming increasingly popular at weddings, parties and public celebrations across Britain. The timing was difficult to ignore. By the end of the UFO desk's life, officials, researchers and archivists were pointing to lantern releases as a major contributor to the flood of orange-[light reports]({{ 'light-reports/' | relative_url }}) that overwhelmed the reporting system. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">Details of the sighting reports logged by MoD in 2008-9 can be followed in the UFO sighting files, DEFE 24/2623-2627...Read more...</span></span></span> [2ITVX]
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_lanterns_2009_surge_b31cbb-Illustration-1-dark.svg" | relative_url }}" alt="Lantern surge illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_lanterns_2009_surge_b31cbb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_lanterns_2009_surge_b31cbb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The lantern episode is important because it shows how ordinary objects, changing social habits and heightened public attention can combine to create a wave of apparently mysterious sightings without requiring any unusual aerial phenomenon.
 
 ## Why orange lights became a pattern
 
-Chinese lanterns are lightweight paper balloons lifted by a small flame. Seen at night from an unknown distance, they can produce exactly the kind of visual impression that appears repeatedly in late MoD reports: bright orange lights, silent movement, gradual changes in brightness, apparent hovering and sudden disappearance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/amp/21671-ufo-files-alien-spacecraft-mod.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">21671 ufo files alien spacecraft mod</span><span class="citation-popover-snippet">SpaceLast UFO Files from UK Gov&#x27;t Released21 Jun 2013 — Many of the reported UFO sightings were attributed to the growing popularity of C...</span></span></span>
+Chinese lanterns are lightweight paper balloons lifted by a small flame. Seen at night from an unknown distance, they can produce exactly the kind of visual impression that appears repeatedly in late MoD reports: bright orange lights, silent movement, gradual changes in brightness, apparent hovering and sudden disappearance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/amp/21671-ufo-files-alien-spacecraft-mod.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">21671 ufo files alien spacecraft mod</span><span class="citation-popover-snippet">Last UFO Files from UK Gov&#x27;t Released21 Jun 2013 — Many of the reported UFO sightings were attributed to the growing popularity of C...</span></span></span>
 
 Several features made them particularly prone to UFO misidentification:
 
@@ -290,10 +289,9 @@ Several features made them particularly prone to UFO misidentification:
 * **They moved slowly and silently**, unlike conventional aircraft.
 * **They often travelled in groups**, creating reports of formations or fleets of lights.
 * **They appeared to fade out suddenly** when the flame weakened or when atmospheric conditions changed.
-* **Distance and altitude were difficult to judge**, causing witnesses to overestimate size, speed or manoeuvrability. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/amp/21671-ufo-files-alien-spacecraft-mod.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">21671 ufo files alien spacecraft mod</span><span class="citation-popover-snippet">SpaceLast UFO Files from UK Gov&#x27;t Released21 Jun 2013 — Many of the reported UFO sightings were attributed to the growing popularity of C...</span></span></span>
+* **Distance and altitude were difficult to judge**, causing witnesses to overestimate size, speed or manoeuvrability. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/amp/21671-ufo-files-alien-spacecraft-mod.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">21671 ufo files alien spacecraft mod</span><span class="citation-popover-snippet">Last UFO Files from UK Gov&#x27;t Released21 Jun 2013 — Many of the reported UFO sightings were attributed to the growing popularity of C...</span></span></span>
 
 Many witnesses had never previously seen a lantern release. A cluster of lanterns drifting across the sky could therefore appear extraordinary even when observed carefully. Looking back through the MoD records, the repeated appearance of descriptions such as "orange spheres", "orange orbs", "orange lights", "amber lights" and glowing formations stands out as a recurring pattern. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">reports in the UK4 Dec 2007 — UFO reports 1997 to 2009 in the UK, showing dates and times, location and a brief description of the sighti...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eTDn_GtdEzg" title="UFOs discovered in The National Archives" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eTDn_GtdEzg" target="_blank" rel="noopener noreferrer">UFOs discovered in The National Archives</a></p><p class="youtube-embed-meta">Channel: The National Archives UK &middot; Views: 39.7K &middot; Uploaded: May 2008 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eTDn_GtdEzg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eTDn_GtdEzg">Open on YouTube</a></p></div></div></div>
 
@@ -313,7 +311,6 @@ A particularly revealing example involved soldiers in Shropshire who reported un
 
 The sighting logs themselves reinforce the pattern. Large numbers of reports involved groups of orange lights travelling together, remaining silent and moving steadily across the sky—exactly the sort of appearance expected from lantern releases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ufo reports in the uk</span><span class="citation-popover-snippet">reports in the UK4 Dec 2007 — UFO reports 1997 to 2009 in the UK, showing dates and times, location and a brief description of the sighti...</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_lanterns_2009_surge_b31cbb-Illustration-2-dark.svg" | relative_url }}" alt="Lantern surge illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_lanterns_2009_surge_b31cbb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_lanterns_2009_surge_b31cbb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Media attention amplified the effect
 
@@ -322,7 +319,7 @@ The rise in reports was not driven solely by lanterns. Public awareness of the M
 1. More people were seeing unfamiliar orange lights.
 2. More people knew there was an official channel for reporting them.
 
-Commentators reviewing the period later noted that the existence of the UFO files themselves encouraged additional reporting, while lanterns supplied a steady stream of unusual-looking aerial events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://londonist.com/2013/06/london-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: londonist.com">[Londonist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">londonist.com</span><span class="citation-popover-title">london ufo sightings</span><span class="citation-popover-snippet">LondonistLondon UFO Sightings21 Jun 2013 — Reported sightings shot up in 2008 and 2009, partly because the very existence of the &quot;UFO fil...</span></span></span>
+Commentators reviewing the period later noted that the existence of the UFO files themselves encouraged additional reporting, while lanterns supplied a steady stream of unusual-looking aerial events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://londonist.com/2013/06/london-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: londonist.com">[Londonist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">londonist.com</span><span class="citation-popover-title">london ufo sightings</span><span class="citation-popover-snippet">London UFO Sightings21 Jun 2013 — Reported sightings shot up in 2008 and 2009, partly because the very existence of the &quot;UFO fil...</span></span></span>
 
 ## How social trends can look like sky mysteries
 
@@ -332,9 +329,7 @@ A common assumption is that a sudden increase in UFO reports reflects a sudden i
 
 The mechanism works in stages:
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FD6dCwx6tpg" title="UFO file release August 2011" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FD6dCwx6tpg" target="_blank" rel="noopener noreferrer">UFO file release August 2011</a></p><p class="youtube-embed-meta">Channel: The National Archives UK &middot; Views: 13.2K &middot; Uploaded: August 2011 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FD6dCwx6tpg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FD6dCwx6tpg">Open on YouTube</a></p></div></div></div>
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -349,7 +344,6 @@ The mechanism works in stages:
 
 The result can resemble a genuine mystery wave even when no new aerial phenomenon has appeared.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4_zUiIEnkEI" title="UFO file release March 2009" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4_zUiIEnkEI" target="_blank" rel="noopener noreferrer">UFO file release March 2009</a></p><p class="youtube-embed-meta">Channel: The National Archives UK &middot; Views: 128.6K &middot; Uploaded: March 2009 &middot; Length: 3 minutes 56 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4_zUiIEnkEI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4_zUiIEnkEI">Open on YouTube</a></p></div></div></div>
 
 ### Why the lantern explanation mattered to the MoD
@@ -358,8 +352,7 @@ By 2009 the UFO desk was processing hundreds of reports while continuing to find
 
 The lantern episode did not explain every report in the files. Some sightings involved different descriptions, and some remained unresolved because the available information was too limited. Yet the concentration of orange-light reports during the lantern boom provides one of the strongest examples in the MoD archive of how a mundane cause can generate large numbers of UFO reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">Details of the sighting reports logged by MoD in 2008-9 can be followed in the UFO sighting files, DEFE 24/2623-2627...Read more...</span></span></span>
 
-For students of UFO history, the significance of the 2009 orange-light surge is therefore not that it solved every sighting. Its value lies in showing how ordinary airborne objects, public attention and easy reporting channels can combine to create the appearance of a major UFO wave. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">Details of the sighting reports logged by MoD in 2008-9 can be followed in the UFO sighting files, DEFE 24/2623-2627...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://londonist.com/2013/06/london-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: londonist.com">[Londonist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">londonist.com</span><span class="citation-popover-title">london ufo sightings</span><span class="citation-popover-snippet">LondonistLondon UFO Sightings21 Jun 2013 — Reported sightings shot up in 2008 and 2009, partly because the very existence of the &quot;UFO fil...</span></span></span>
-
+For students of UFO history, the significance of the 2009 orange-light surge is therefore not that it solved every sighting. Its value lies in showing how ordinary airborne objects, public attention and easy reporting channels can combine to create the appearance of a major UFO wave. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">ufo highlights guide 2013</span><span class="citation-popover-snippet">Details of the sighting reports logged by MoD in 2008-9 can be followed in the UFO sighting files, DEFE 24/2623-2627...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://londonist.com/2013/06/london-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: londonist.com">[Londonist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">londonist.com</span><span class="citation-popover-title">london ufo sightings</span><span class="citation-popover-snippet">London UFO Sightings21 Jun 2013 — Reported sightings shot up in 2008 and 2009, partly because the very existence of the &quot;UFO fil...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_lanterns_2009_surge_b31cbb-Illustration-3-dark.svg" | relative_url }}" alt="Lantern surge illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_lanterns_2009_surge_b31cbb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948_lanterns_2009_surge_b31cbb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -480,15 +473,15 @@ For students of UFO history, the significance of the 2009 orange-light surge is 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lantern-surge-did-lanterns-fuel-the-mo-d-ufo-surge-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="lantern-surge-did-lanterns-fuel-the-mo-d-ufo-surge-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lanterns-fuel-the-mod-ufo-surge-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-lanterns-fuel-the-mod-ufo-surge-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lantern-surge-did-lanterns-fuel-the-mo-d-ufo-surge-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="lantern-surge-did-lanterns-fuel-the-mo-d-ufo-surge-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lanterns-fuel-the-mod-ufo-surge-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-lanterns-fuel-the-mod-ufo-surge-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lantern-surge-did-lanterns-fuel-the-mo-d-ufo-surge-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="lantern-surge-did-lanterns-fuel-the-mo-d-ufo-surge-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo enamel pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lanterns-fuel-the-mod-ufo-surge-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-lanterns-fuel-the-mod-ufo-surge-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lantern-surge-did-lanterns-fuel-the-mo-d-ufo-surge-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="lantern-surge-did-lanterns-fuel-the-mo-d-ufo-surge-ifos-causes-of-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lanterns-fuel-the-mod-ufo-surge-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-lanterns-fuel-the-mod-ufo-surge-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -496,15 +489,15 @@ For students of UFO history, the significance of the 2009 orange-light surge is 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lantern-surge-did-lanterns-fuel-the-mo-d-ufo-surge-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="lantern-surge-did-lanterns-fuel-the-mo-d-ufo-surge-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lanterns-fuel-the-mod-ufo-surge-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-lanterns-fuel-the-mod-ufo-surge-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lantern-surge-did-lanterns-fuel-the-mo-d-ufo-surge-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="lantern-surge-did-lanterns-fuel-the-mo-d-ufo-surge-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lanterns-fuel-the-mod-ufo-surge-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-lanterns-fuel-the-mod-ufo-surge-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lantern-surge-did-lanterns-fuel-the-mo-d-ufo-surge-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="lantern-surge-did-lanterns-fuel-the-mo-d-ufo-surge-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo enamel pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lanterns-fuel-the-mod-ufo-surge-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-lanterns-fuel-the-mod-ufo-surge-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lantern-surge-did-lanterns-fuel-the-mo-d-ufo-surge-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="lantern-surge-did-lanterns-fuel-the-mo-d-ufo-surge-ifos-causes-of-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lanterns-fuel-the-mod-ufo-surge-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-lanterns-fuel-the-mod-ufo-surge-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -512,15 +505,15 @@ For students of UFO history, the significance of the 2009 orange-light surge is 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lantern-surge-did-lanterns-fuel-the-mo-d-ufo-surge-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="lantern-surge-did-lanterns-fuel-the-mo-d-ufo-surge-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lanterns-fuel-the-mod-ufo-surge-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-lanterns-fuel-the-mod-ufo-surge-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lantern-surge-did-lanterns-fuel-the-mo-d-ufo-surge-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="lantern-surge-did-lanterns-fuel-the-mo-d-ufo-surge-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lanterns-fuel-the-mod-ufo-surge-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-lanterns-fuel-the-mod-ufo-surge-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lantern-surge-did-lanterns-fuel-the-mo-d-ufo-surge-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="lantern-surge-did-lanterns-fuel-the-mo-d-ufo-surge-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo enamel pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lanterns-fuel-the-mod-ufo-surge-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-lanterns-fuel-the-mod-ufo-surge-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lantern-surge-did-lanterns-fuel-the-mo-d-ufo-surge-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="lantern-surge-did-lanterns-fuel-the-mo-d-ufo-surge-ifos-causes-of-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lanterns-fuel-the-mod-ufo-surge-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-lanterns-fuel-the-mod-ufo-surge-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -528,15 +521,15 @@ For students of UFO history, the significance of the 2009 orange-light surge is 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lantern-surge-did-lanterns-fuel-the-mo-d-ufo-surge-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="lantern-surge-did-lanterns-fuel-the-mo-d-ufo-surge-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac"><img src="{{ '/assets/images/marketplace-covers/cdbe73a199cf9b4b48c0.jpg' | relative_url }}" alt="Listing image for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lanterns-fuel-the-mod-ufo-surge-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-lanterns-fuel-the-mod-ufo-surge-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lantern-surge-did-lanterns-fuel-the-mo-d-ufo-surge-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="lantern-surge-did-lanterns-fuel-the-mo-d-ufo-surge-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lanterns-fuel-the-mod-ufo-surge-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-lanterns-fuel-the-mod-ufo-surge-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lantern-surge-did-lanterns-fuel-the-mo-d-ufo-surge-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="lantern-surge-did-lanterns-fuel-the-mo-d-ufo-surge-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo enamel pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lanterns-fuel-the-mod-ufo-surge-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-lanterns-fuel-the-mod-ufo-surge-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lantern-surge-did-lanterns-fuel-the-mo-d-ufo-surge-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="lantern-surge-did-lanterns-fuel-the-mo-d-ufo-surge-ifos-causes-of-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lanterns-fuel-the-mod-ufo-surge-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-lanterns-fuel-the-mod-ufo-surge-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -544,7 +537,7 @@ For students of UFO history, the significance of the 2009 orange-light surge is 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lantern-surge-did-lanterns-fuel-the-mo-d-ufo-surge-ifos-causes-of-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo enamel pin" data-ebay-reference="lantern-surge-did-lanterns-fuel-the-mo-d-ufo-surge-ifos-causes-of-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-lanterns-fuel-the-mod-ufo-surge-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-lanterns-fuel-the-mod-ufo-surge-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -760,123 +753,123 @@ For students of UFO history, the significance of the 2009 orange-light surge is 
 1. <a id="endnote-1"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo highlights guide 2013  
-   Link: [https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf](https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf)  
+   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-highlights-guide-2013.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Details of the sighting reports logged by MoD in 2008-9 can be followed in the UFO sighting files, DEFE 24/2623-2627...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: [https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf](https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf)  
+   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesUFO Desk: Closedabductions and contact with aliens and UFO sightings near UK landmarks. Dr David Clarke, author of the b...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: space.com  
    Title: 21671 ufo files alien spacecraft mod  
-   Link: [https://www.space.com/amp/21671-ufo-files-alien-spacecraft-mod.html](https://www.space.com/amp/21671-ufo-files-alien-spacecraft-mod.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceLast UFO Files from UK Gov&#x27;t Released21 Jun 2013 — Many of the reported UFO sightings were attributed to the growing popularity of C...</p></details>
+   Link: <a href="https://www.space.com/amp/21671-ufo-files-alien-spacecraft-mod.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/amp/21671-ufo-files-alien-spacecraft-mod.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Last UFO Files from UK Gov&#x27;t Released21 Jun 2013 — Many of the reported UFO sightings were attributed to the growing popularity of C...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: [https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf](https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>21:00. Cusworth. Doncaster. Saw UFO definitely not chinese lanterns.... Orange yellow UFO no [contrails](&amp;#123;&amp;#123; &#x27;contrails/&#x27; | relative_url &amp;#125;&amp;#125;), no hazard lights flashing.Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: GOV.UK  
    Title: ufo reports in the uk  
-   Link: [https://www.gov.uk/government/publications/ufo-reports-in-the-uk](https://www.gov.uk/government/publications/ufo-reports-in-the-uk)  
+   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>reports in the UK4 Dec 2007 — UFO reports 1997 to 2009 in the UK, showing dates and times, location and a brief description of the sighti...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: londonist.com  
    Title: london ufo sightings  
-   Link: [https://londonist.com/2013/06/london-ufo-sightings](https://londonist.com/2013/06/london-ufo-sightings)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LondonistLondon UFO Sightings21 Jun 2013 — Reported sightings shot up in 2008 and 2009, partly because the very existence of the &quot;UFO fil...</p></details>
+   Link: <a href="https://londonist.com/2013/06/london-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://londonist.com/2013/06/london-ufo-sightings</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>London UFO Sightings21 Jun 2013 — Reported sightings shot up in 2008 and 2009, partly because the very existence of the &quot;UFO fil...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: [https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364](https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364)  
+   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky NewsUFO Desk: Why MoD Shut Real-Life X-Files | UK News20 Jun 2013 — They include accounts of alleged abductions, contact with aliens...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: ufo video transcript  
-   Link: [https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf](https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf)  
+   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>file release video transcriptThe Ministry closed their UFO desk and cancelled their UFO hotline in November 2009 and that brought to an e...</p></details>
    Published: November 2009  
 
 9. <a id="endnote-9"></a>
    Source: nationalarchives.gov.uk  
    Title: ufo reports  
-   Link: [https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/](https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Prior to the 1960s, the Ministry of Defence (MOD) destroyed UFO material after five years. After an increase in public interest, reports...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: [https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf](https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf)  
+   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO FILESThis book is largely based upon the real-life accounts of UFO experiences recorded in files collected by Britain&#x27;s Ministry of D...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: 6abc.com  
-   Link: [https://6abc.com/archive/6229312/](https://6abc.com/archive/6229312/)  
+   Link: <a href="https://6abc.com/archive/6229312/" target="_blank" rel="noopener noreferrer nofollow">https://6abc.com/archive/6229312/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO mystery solved in Britain | 6abc Philadelphia | 6abc.com26 Jun 2008 — Britain&#x27;s Ministry of Defense has received numerous reports of...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1j02ugp/real_ufos/](https://www.reddit.com/r/UFOs/comments/1j02ugp/real_ufos/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1j02ugp/real_ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1j02ugp/real_ufos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Real UFOs?: r/UFOsI recorded this above my house. They weren’t too high up. What made me curious was the way they were moving, airplanes...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
    Title: locals say new streetlights look like ufos and now the councils hitting pause re  
-   Link: [https://www.facebook.com/bbclincolnshire/posts/locals-say-new-streetlights-look-like-ufos-and-now-the-councils-hitting-pause-re/1484397023693460/](https://www.facebook.com/bbclincolnshire/posts/locals-say-new-streetlights-look-like-ufos-and-now-the-councils-hitting-pause-re/1484397023693460/)  
+   Link: <a href="https://www.facebook.com/bbclincolnshire/posts/locals-say-new-streetlights-look-like-ufos-and-now-the-councils-hitting-pause-re/1484397023693460/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bbclincolnshire/posts/locals-say-new-streetlights-look-like-ufos-and-now-the-councils-hitting-pause-re/1484397023693460/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Locals say new streetlights look like UFOs and now the...uk/news/weird/1325627/ufo-sighting-orb-london- video-aliens-conspiracy-theory ·...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: munster-express.ie  
    Title: Fast moving orange light over city was not a UFO  
-   Link: [https://www.munster-express.ie/fast-moving-orange-light-over-city-was-not-a-ufo-expert/](https://www.munster-express.ie/fast-moving-orange-light-over-city-was-not-a-ufo-expert/)  
+   Link: <a href="https://www.munster-express.ie/fast-moving-orange-light-over-city-was-not-a-ufo-expert/" target="_blank" rel="noopener noreferrer nofollow">https://www.munster-express.ie/fast-moving-orange-light-over-city-was-not-a-ufo-expert/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>expert9 Jan 2009 — A fast moving, bright orange light just a few hundred feet up was spotted careering across the skies by this newspaper...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: itv.com  
    Title: ufo sightings files mod the national archives  
-   Link: [https://www.itv.com/news/story/2013-06-21/ufo-sightings-files-mod-the-national-archives/](https://www.itv.com/news/story/2013-06-21/ufo-sightings-files-mod-the-national-archives/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ITVXUFO &#x27;spotted near Parliament&#x27;21 Jun 2013 — The surge in UFO &#x27;sightings&#x27; has been attributed to the popular trend of releasing Chinese...</p></details>
+   Link: <a href="https://www.itv.com/news/story/2013-06-21/ufo-sightings-files-mod-the-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://www.itv.com/news/story/2013-06-21/ufo-sightings-files-mod-the-national-archives/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>XUFO &#x27;spotted near Parliament&#x27;21 Jun 2013 — The surge in UFO &#x27;sightings&#x27; has been attributed to the popular trend of releasing Chinese...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1dorfzp/lets_put_some_facts_on_the_table_about_chinese/](https://www.reddit.com/r/UFOs/comments/1dorfzp/lets_put_some_facts_on_the_table_about_chinese/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1dorfzp/lets_put_some_facts_on_the_table_about_chinese/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1dorfzp/lets_put_some_facts_on_the_table_about_chinese/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ns can be an explanation for low flying orange lights...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: Wikipedia  
    Title: UFO sightings in the United Kingdom  
-   Link: [https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom](https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in the United KingdomMany more sightings have become known since the gradual release, between 2008 and 2013, of the Mini...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: abc.net.au  
    Title: welsh police confirm ufo sighting  
-   Link: [https://www.abc.net.au/news/2008-06-21/welsh-police-confirm-ufo-sighting/2479208](https://www.abc.net.au/news/2008-06-21/welsh-police-confirm-ufo-sighting/2479208)  
+   Link: <a href="https://www.abc.net.au/news/2008-06-21/welsh-police-confirm-ufo-sighting/2479208" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2008-06-21/welsh-police-confirm-ufo-sighting/2479208</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Welsh police confirm &#x27;UFO&#x27; sighting21 Jun 2008 — The helicopter crew had described the object as &quot;flying saucer-shaped and circled by fla...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: news.com.au  
-   Link: [https://www.news.com.au/technology/science/space/giant-triangle-aussies-mindblowing-ufo-encounter/news-story/b108938dfdbc6c95aeb37260fc71e6b1](https://www.news.com.au/technology/science/space/giant-triangle-aussies-mindblowing-ufo-encounter/news-story/b108938dfdbc6c95aeb37260fc71e6b1)  
+   Link: <a href="https://www.news.com.au/technology/science/space/giant-triangle-aussies-mindblowing-ufo-encounter/news-story/b108938dfdbc6c95aeb37260fc71e6b1" target="_blank" rel="noopener noreferrer nofollow">https://www.news.com.au/technology/science/space/giant-triangle-aussies-mindblowing-ufo-encounter/news-story/b108938dfdbc6c95aeb37260fc71e6b1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Giant triangle&#x27;: Aussie&#x27;s &#x27;mind-blowing&#x27; UFO encounter1 Sept 2024 — “Common objects that a witness may consider to be a UFO include Chin...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: sweetstudy.com  
    Title: ufo sightings large csv 8453183  
-   Link: [https://www.sweetstudy.com/files/ufo-sightings-large-csv-8453183](https://www.sweetstudy.com/files/ufo-sightings-large-csv-8453183)  
+   Link: <a href="https://www.sweetstudy.com/files/ufo-sightings-large-csv-8453183" target="_blank" rel="noopener noreferrer nofollow">https://www.sweetstudy.com/files/ufo-sightings-large-csv-8453183</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ufo sighting data explorationBrilliant orange light or chinese lantern at or less than 1000 ft moving east to... Sighting of 5 or 6 oran...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: Wikipedia  
    Title: Unidentified flying object  
-   Link: [https://en.wikipedia.org/wiki/Unidentified_flying_object](https://en.wikipedia.org/wiki/Unidentified_flying_object)  
+   Link: <a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified flying objectEight file collections on UFO sightings, dating from 1978 to 1987, were first released on May 14, 2008, to T...</p></details>
-   Published: May 14, 2008  
+   Published: May 14, 2008

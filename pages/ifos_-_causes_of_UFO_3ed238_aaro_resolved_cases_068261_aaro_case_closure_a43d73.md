@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261_birds_infrared_orbs_ea0573
 - ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261_starlink_pilot_repor_45c29c
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - aaro
 - case-closure
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - aaro
 - case-closure
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: AARO turns some UAP into IFOs by matching thin reports against flight tracks, sensor context, satellite paths and other data.
 hero_summary: AARO turns some UAP into IFOs by matching thin reports against flight tracks, sensor context, satellite paths and other data.
 layout: default
 permalink: /case-closure/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /aaro/
 nav_short_title: Case Closure
 title: How UAP Cases Become Identified Objects
-title_full: How UAP Cases Become Identified Objects | AARO
+title_full: How UAP Cases Become Identified Objects
 display_title_short: Case Closure
 display_title: Case Closure
 heading_title: How UAP Cases Become Identified Objects
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 21:55:20'
-parent_title: What Modern UAP Reviews Resolve | IFOs
+parent_title: What Modern UAP Reviews Resolve
 parent_permalink: /aaro/
 parent_nav_short_title: AARO
 parent_heading_title: What Modern UAP Reviews Resolve
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261
-  title: AARO | Ifos Causes Of
+  title: AARO | ifos causes of UFO 3 ed 238
   permalink: /aaro/
   short_title: AARO
   heading_title: What Modern UAP Reviews Resolve
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261
-  title: AARO | Ifos Causes Of
+  title: AARO | ifos causes of UFO 3 ed 238
   permalink: /aaro/
   short_title: AARO
   heading_title: What Modern UAP Reviews Resolve
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: Why Starlink Can Look Like UAP
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261
-  title: AARO | Ifos Causes Of
+  title: AARO | ifos causes of UFO 3 ed 238
   permalink: /aaro/
   short_title: AARO
   heading_title: What Modern UAP Reviews Resolve
@@ -266,6 +265,7 @@ next_link:
   permalink: /reporting-bias/
   short_title: Reporting Bias
   heading_title: Why AARO Reports Cluster Near Sensors
+date: '2026-06-12 00:36:28 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261_aaro_case_closure_a43d73-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261_aaro_case_closure_a43d73-Illustration-1.webp
@@ -275,7 +275,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261_aar
 ## Introduction
 
 One of the most important lessons from the All-domain Anomaly Resolution Office (AARO) is that a UAP (unidentified anomalous phenomenon) is not a permanent category. In many cases, “unidentified” simply means that analysts do not yet have enough context. A report may begin as a puzzling observation by a pilot, sensor operator or aircrew, then become an identified flying object (IFO) once additional data are matched against the event. AARO’s recent public reporting shows that hundreds of cases have ultimately been attributed to ordinary objects such as balloons, birds, [drones]({{ 'drones/' | relative_url }}), [satellites]({{ 'satellites/' | relative_url }}) and aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">Department of WarFiscal Year 2024 Consolidated Annual Report on...November 14, 2024 — 14 Nov 2024 — AARO resolved 118 cases during the r...</span><span class="citation-popover-meta">Published: November 14, 2024</span></span></span>
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261_aaro_case_closure_a43d73-Illustration-1-dark.svg" | relative_url }}" alt="Case Closure illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261_aaro_case_closure_a43d73-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261_aaro_case_closure_a43d73-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For researchers interested in the causes of UFO reports, the closure process is often more revealing than the original sighting. It demonstrates how seemingly unusual observations are tested against known objects, sensor limitations and operational data before a case is formally closed.
@@ -298,14 +297,11 @@ AARO has repeatedly stated that many reports initially considered UAP are later 
 
 The process resembles accident investigation more than popular UFO hunting. Analysts seek corroborating information that can either support or eliminate possible explanations. A sighting that appears extraordinary in isolation may become routine when matched to a satellite pass, a drone operation or a known aircraft track.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UoAIrQ1uAEo" title="The UFO Files Didn’t Prove Aliens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UoAIrQ1uAEo" target="_blank" rel="noopener noreferrer">The UFO Files Didn’t Prove Aliens</a></p><p class="youtube-embed-meta">Channel: Render State</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UoAIrQ1uAEo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UoAIrQ1uAEo">Open on YouTube</a></p></div></div></div>
-
 ### The Growing Importance of Satellite Correlation
 
 One notable feature of recent AARO work is the increasing role of satellite identification.
 
-AARO has reported that some cases were resolved by correlating observations with the expanding network of low-Earth-orbit satellites, particularly large constellations. In one publicly discussed example, flashing lights reported by a commercial pilot were assessed as consistent with a [Starlink]({{ 'starlink/' | relative_url }}) satellite deployment because the observation occurred along a known orbital path shortly after a launch. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/825619489/AARO-Annual-Report-on-UAP-FY2024-Ft-AsTechR" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">AARO Annual Report on UAP FY2024 Ft AsTechR</span><span class="citation-popover-snippet">ScribdAARO 2024 Annual UAP Report Summary | PDFAARO increasingly receives cases that it is able to resolve to the Starlink satellite...</span></span></span>
+AARO has reported that some cases were resolved by correlating observations with the expanding network of low-Earth-orbit satellites, particularly large constellations. In one publicly discussed example, flashing lights reported by a commercial pilot were assessed as consistent with a [Starlink]({{ 'starlink/' | relative_url }}) satellite deployment because the observation occurred along a known orbital path shortly after a launch. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/825619489/AARO-Annual-Report-on-UAP-FY2024-Ft-AsTechR" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">AARO Annual Report on UAP FY2024 Ft AsTechR</span><span class="citation-popover-snippet">AARO 2024 Annual UAP Report Summary &#124; PDFAARO increasingly receives cases that it is able to resolve to the Starlink satellite...</span></span></span>
 
 This is significant because many traditional UFO reporting systems were developed before thousands of bright satellites regularly crossed the sky. Modern observers can encounter unfamiliar space-based objects far more frequently than in previous decades.
 
@@ -313,17 +309,16 @@ This is significant because many traditional UFO reporting systems were develope
 
 AARO's public explanations also highlight how sensor imagery can distort ordinary objects.
 
-Birds, for example, are frequently reported as UAP in military sensor footage because [compression]({{ 'compression/' | relative_url }}) artefacts, [infrared]({{ 'infrared/' | relative_url }}) glare, pixelation and tracking-system effects can obscure their true shape. What appears as a glowing orb or amorphous object in a compressed video may look entirely ordinary when examined with full sensor metadata. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/825619489/AARO-Annual-Report-on-UAP-FY2024-Ft-AsTechR" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">AARO Annual Report on UAP FY2024 Ft AsTechR</span><span class="citation-popover-snippet">ScribdAARO 2024 Annual UAP Report Summary | PDFAARO increasingly receives cases that it is able to resolve to the Starlink satellite...</span></span></span>
+Birds, for example, are frequently reported as UAP in military sensor footage because [compression]({{ 'compression/' | relative_url }}) artefacts, [infrared]({{ 'infrared/' | relative_url }}) glare, pixelation and tracking-system effects can obscure their true shape. What appears as a glowing orb or amorphous object in a compressed video may look entirely ordinary when examined with full sensor metadata. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/825619489/AARO-Annual-Report-on-UAP-FY2024-Ft-AsTechR" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">AARO Annual Report on UAP FY2024 Ft AsTechR</span><span class="citation-popover-snippet">AARO 2024 Annual UAP Report Summary &#124; PDFAARO increasingly receives cases that it is able to resolve to the Starlink satellite...</span></span></span>
 
 The key point is that identification often depends less on what an image appears to show and more on understanding how the sensor generated the image.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261_aaro_case_closure_a43d73-Illustration-2-dark.svg" | relative_url }}" alt="Case Closure illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261_aaro_case_closure_a43d73-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261_aaro_case_closure_a43d73-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Thin Data Keeps Cases Unresolved
 
 The existence of unresolved cases does not automatically imply extraordinary explanations.
 
-AARO repeatedly emphasises that the largest obstacle to case resolution is [insufficient data]({{ 'missing-data/' | relative_url }}). Many reports arrive with only a brief visual observation, a short video clip, incomplete metadata or a single sensor source. Without reliable information on range, altitude, speed, direction or environmental conditions, analysts may be unable to distinguish between multiple plausible explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dod examining unidentified anomalous phenomena</span><span class="citation-popover-snippet">Department of WarDOD Examining Unidentified Anomalous Phenomena14 Nov 2024 — &quot;AARO has successfully resolved hundreds of cases in its hol...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dod examining unidentified anomalous phenomena</span><span class="citation-popover-snippet">Department of WarDOD Examining Unidentified Anomalous Phenomena14 Nov 2024 — &quot;AARO has successfully resolved hundreds of cases in its hol...</span></span></span>
+AARO repeatedly emphasises that the largest obstacle to case resolution is insufficient data. Many reports arrive with only a brief visual observation, a short video clip, incomplete metadata or a single sensor source. Without reliable information on [range]({{ 'range/' | relative_url }}), altitude, speed, direction or environmental conditions, analysts may be unable to distinguish between multiple plausible explanations. [U.S. Department of War+2U.S. Department of War]
 
 The FY2024 report illustrates this clearly. Hundreds of reports remained unresolved not because they demonstrated impossible behaviour, but because they lacked enough information for rigorous analysis. AARO placed many such reports into an active archive where they can be revisited if new evidence emerges. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dod examining unidentified anomalous phenomena</span><span class="citation-popover-snippet">Department of WarDOD Examining Unidentified Anomalous Phenomena14 Nov 2024 — &quot;AARO has successfully resolved hundreds of cases in its hol...</span></span></span>
 
@@ -337,9 +332,7 @@ Cases can be reopened if additional information becomes available. New witness s
 
 This means that the boundary between UAP and IFO is not fixed. Cases can move from one category to the other as evidence accumulates.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6Jb5mI3GpEQ" title="🔥 What Is UAP? How Science Is Tracking The Unknown | Pentagon Files, AARO &amp; The Future" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6Jb5mI3GpEQ" target="_blank" rel="noopener noreferrer">🔥 What Is UAP? How Science Is Tracking The Unknown | Pentagon Files, AARO &amp; The Future</a></p><p class="youtube-embed-meta">Channel: Tony</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6Jb5mI3GpEQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6Jb5mI3GpEQ">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261_aaro_case_closure_a43d73-Illustration-3-dark.svg" | relative_url }}" alt="Case Closure illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261_aaro_case_closure_a43d73-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261_aaro_case_closure_a43d73-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Closure Categories and Final Approval
 
 AARO does not immediately close a case when analysts identify a likely explanation. The office employs a review process intended to ensure that an attribution is supported by evidence and is consistent with available data.
@@ -348,12 +341,22 @@ The FY2024 report describes a tiered approach in which cases may first be resolv
 
 This distinction between “resolved” and “closed” is important:
 
-
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. **Investigation and attribution** – analysts identify the most likely explanation.
 2. **Peer review and validation** – findings are checked against available evidence.
 3. **Final approval** – the case is formally closed after leadership review.
+4. **Archiving and record management** – the result is retained for trend analysis and future reference. [U.S. Department of War](https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/)
+
+</div>
+
+The FY2024 report specifically noted that dozens of cases were awaiting final review and Director approval before closure, illustrating that attribution alone is not considered sufficient for administrative completion. [U.S. Department of War](https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/)
+
+## What the Closure Process Reveals About UFO Reports
+
+The broader lesson from AARO's casework is that identification is often a cumulative process rather than a moment of recognition.
+
+A distant balloon may initially resemble an unknown craft. A satellite train may appear as unexplained lights. A bird viewed through a compressed infrared sensor may resemble a glowing orb. None of these explanations is obvious at the instant of observation. They become apparent only after analysts combine witness reports with technical data, environmental information and external records. AARO [scribd](#endnote-4 "Snippet: ScribdAARO 2024 Annual UAP Report Summary | PDFAARO increasingly receives cases that it is able to resolve to the Starlink satellite......") For the study of IFOs, AARO's closure process provides a modern demonstration of a long-standing principle in UFO investigations: many unidentified reports become identified not because the object changes, but because the amount of information available about it changes. Hundreds of recent cases have followed exactly that path, moving from UAP status to ordinary explanations once sufficient evidence was assembled. [U.S. Department of War+2U.S. Department of War]
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -472,15 +475,15 @@ This distinction between “resolved” and “closed” is important:
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planetarium+projector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-closure-how-uap-cases-become-identified-objects-ifos-causes-of-planetarium-projector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planetarium projector" data-ebay-reference="case-closure-how-uap-cases-become-identified-objects-ifos-causes-of-planetarium-projector" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Galaxy Projector Starry Sky Night Light LED Planetarium Lamp Room 12 x Films"><img src="{{ '/assets/images/marketplace-covers/95d423649779ec904790.jpg' | relative_url }}" alt="Listing image for Galaxy Projector Starry Sky Night Light LED Planetarium Lamp Room 12 x Films" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-uap-cases-become-identified-objects-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="how-uap-cases-become-identified-objects-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2004 PCS Die Cst Jerry Anderson Model Replica Limited Edition Collectible UFO"><img src="https://i.ebayimg.com/images/g/GkQAAOSwRsNnt6JR/s-l225.jpg" alt="Listing image for 2004 PCS Die Cst Jerry Anderson Model Replica Limited Edition Collectible UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planetarium+projector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-closure-how-uap-cases-become-identified-objects-ifos-causes-of-planetarium-projector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planetarium projector" data-ebay-reference="case-closure-how-uap-cases-become-identified-objects-ifos-causes-of-planetarium-projector" target="_blank" rel="sponsored noopener noreferrer">Galaxy Projector Starry Sky Night Light LED Planetarium Lamp Room 12 x Films</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-uap-cases-become-identified-objects-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="how-uap-cases-become-identified-objects-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">2004 PCS Die Cst Jerry Anderson Model Replica Limited Edition Collectible UFO</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planetarium+projector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-closure-how-uap-cases-become-identified-objects-ifos-causes-of-planetarium-projector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planetarium projector" data-ebay-reference="case-closure-how-uap-cases-become-identified-objects-ifos-causes-of-planetarium-projector" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planetarium projector">Search <span data-ebay-domain-label>eBay.co.uk</span>: planetarium projector</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-uap-cases-become-identified-objects-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="how-uap-cases-become-identified-objects-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planetarium+projector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-closure-how-uap-cases-become-identified-objects-ifos-causes-of-planetarium-projector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planetarium projector" data-ebay-reference="case-closure-how-uap-cases-become-identified-objects-ifos-causes-of-planetarium-projector" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-uap-cases-become-identified-objects-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="how-uap-cases-become-identified-objects-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -488,15 +491,15 @@ This distinction between “resolved” and “closed” is important:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planetarium+projector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-closure-how-uap-cases-become-identified-objects-ifos-causes-of-planetarium-projector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planetarium projector" data-ebay-reference="case-closure-how-uap-cases-become-identified-objects-ifos-causes-of-planetarium-projector" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 4K HD Planetarium Projector Galaxy Starry Sky Nebula Space LED Night Light Gifts"><img src="{{ '/assets/images/marketplace-covers/2d5fd7c119a11a7704f8.jpg' | relative_url }}" alt="Listing image for 4K HD Planetarium Projector Galaxy Starry Sky Nebula Space LED Night Light Gifts" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-uap-cases-become-identified-objects-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="how-uap-cases-become-identified-objects-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SHADO UFO Moon Mobile (Half Size) - 3D Printed In White and Ready for Painting"><img src="https://i.ebayimg.com/images/g/vMcAAeSwpnNoriTx/s-l225.jpg" alt="Listing image for SHADO UFO Moon Mobile (Half Size) - 3D Printed In White and Ready for Painting" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planetarium+projector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-closure-how-uap-cases-become-identified-objects-ifos-causes-of-planetarium-projector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planetarium projector" data-ebay-reference="case-closure-how-uap-cases-become-identified-objects-ifos-causes-of-planetarium-projector" target="_blank" rel="sponsored noopener noreferrer">4K HD Planetarium Projector Galaxy Starry Sky Nebula Space LED Night Light Gifts</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-uap-cases-become-identified-objects-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="how-uap-cases-become-identified-objects-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">SHADO UFO Moon Mobile (Half Size) - 3D Printed In White and Ready for Painting</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planetarium+projector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-closure-how-uap-cases-become-identified-objects-ifos-causes-of-planetarium-projector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planetarium projector" data-ebay-reference="case-closure-how-uap-cases-become-identified-objects-ifos-causes-of-planetarium-projector" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planetarium projector">Search <span data-ebay-domain-label>eBay.co.uk</span>: planetarium projector</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-uap-cases-become-identified-objects-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="how-uap-cases-become-identified-objects-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planetarium+projector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-closure-how-uap-cases-become-identified-objects-ifos-causes-of-planetarium-projector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planetarium projector" data-ebay-reference="case-closure-how-uap-cases-become-identified-objects-ifos-causes-of-planetarium-projector" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-uap-cases-become-identified-objects-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="how-uap-cases-become-identified-objects-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -504,15 +507,15 @@ This distinction between “resolved” and “closed” is important:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planetarium+projector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-closure-how-uap-cases-become-identified-objects-ifos-causes-of-planetarium-projector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planetarium projector" data-ebay-reference="case-closure-how-uap-cases-become-identified-objects-ifos-causes-of-planetarium-projector" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Galaxy Planetarium Rotating Starry Night Light Projector With 12 Film Discs"><img src="{{ '/assets/images/marketplace-covers/ae1f53567b3298e0ccac.jpg' | relative_url }}" alt="Listing image for Galaxy Planetarium Rotating Starry Night Light Projector With 12 Film Discs" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-uap-cases-become-identified-objects-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="how-uap-cases-become-identified-objects-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SHADO UFO Skydiver 15&quot; Long - 3d printed"><img src="https://i.ebayimg.com/images/g/8IUAAeSwdYJp8Q5a/s-l225.jpg" alt="Listing image for SHADO UFO Skydiver 15&quot; Long - 3d printed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planetarium+projector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-closure-how-uap-cases-become-identified-objects-ifos-causes-of-planetarium-projector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planetarium projector" data-ebay-reference="case-closure-how-uap-cases-become-identified-objects-ifos-causes-of-planetarium-projector" target="_blank" rel="sponsored noopener noreferrer">Galaxy Planetarium Rotating Starry Night Light Projector With 12 Film Discs</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-uap-cases-become-identified-objects-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="how-uap-cases-become-identified-objects-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">SHADO UFO Skydiver 15&quot; Long - 3d printed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planetarium+projector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-closure-how-uap-cases-become-identified-objects-ifos-causes-of-planetarium-projector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planetarium projector" data-ebay-reference="case-closure-how-uap-cases-become-identified-objects-ifos-causes-of-planetarium-projector" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planetarium projector">Search <span data-ebay-domain-label>eBay.co.uk</span>: planetarium projector</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-uap-cases-become-identified-objects-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="how-uap-cases-become-identified-objects-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planetarium+projector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-closure-how-uap-cases-become-identified-objects-ifos-causes-of-planetarium-projector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planetarium projector" data-ebay-reference="case-closure-how-uap-cases-become-identified-objects-ifos-causes-of-planetarium-projector" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-uap-cases-become-identified-objects-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="how-uap-cases-become-identified-objects-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -520,15 +523,15 @@ This distinction between “resolved” and “closed” is important:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planetarium+projector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-closure-how-uap-cases-become-identified-objects-ifos-causes-of-planetarium-projector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planetarium projector" data-ebay-reference="case-closure-how-uap-cases-become-identified-objects-ifos-causes-of-planetarium-projector" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Planetarium Projector Galaxy Starry Sky Nebula Space 4K HD LED Night Light Gifts"><img src="{{ '/assets/images/marketplace-covers/5a5d4f2cafdbd7eb3a54.jpg' | relative_url }}" alt="Listing image for Planetarium Projector Galaxy Starry Sky Nebula Space 4K HD LED Night Light Gifts" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-uap-cases-become-identified-objects-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="how-uap-cases-become-identified-objects-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="https://i.ebayimg.com/images/g/JWQAAeSwd9to5S84/s-l225.jpg" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planetarium+projector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-closure-how-uap-cases-become-identified-objects-ifos-causes-of-planetarium-projector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planetarium projector" data-ebay-reference="case-closure-how-uap-cases-become-identified-objects-ifos-causes-of-planetarium-projector" target="_blank" rel="sponsored noopener noreferrer">Planetarium Projector Galaxy Starry Sky Nebula Space 4K HD LED Night Light Gifts</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-uap-cases-become-identified-objects-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="how-uap-cases-become-identified-objects-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planetarium+projector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-closure-how-uap-cases-become-identified-objects-ifos-causes-of-planetarium-projector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planetarium projector" data-ebay-reference="case-closure-how-uap-cases-become-identified-objects-ifos-causes-of-planetarium-projector" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planetarium projector">Search <span data-ebay-domain-label>eBay.co.uk</span>: planetarium projector</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-uap-cases-become-identified-objects-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="how-uap-cases-become-identified-objects-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planetarium+projector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-closure-how-uap-cases-become-identified-objects-ifos-causes-of-planetarium-projector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planetarium projector" data-ebay-reference="case-closure-how-uap-cases-become-identified-objects-ifos-causes-of-planetarium-projector" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-uap-cases-become-identified-objects-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="how-uap-cases-become-identified-objects-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -536,7 +539,7 @@ This distinction between “resolved” and “closed” is important:
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=planetarium+projector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=case-closure-how-uap-cases-become-identified-objects-ifos-causes-of-planetarium-projector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planetarium projector" data-ebay-reference="case-closure-how-uap-cases-become-identified-objects-ifos-causes-of-planetarium-projector" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-uap-cases-become-identified-objects-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="how-uap-cases-become-identified-objects-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -747,139 +750,122 @@ This distinction between “resolved” and “closed” is important:
 </script>
 </section>
 
-4. **Archiving and record management** – the result is retained for trend analysis and future reference. [U.S. Department of War](https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/)
-
-</div>
-
-The FY2024 report specifically noted that dozens of cases were awaiting final review and Director approval before closure, illustrating that attribution alone is not considered sufficient for administrative completion. [U.S. Department of War](https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/)
-
-
-<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261_aaro_case_closure_a43d73-Illustration-3-dark.svg" | relative_url }}" alt="Case Closure illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261_aaro_case_closure_a43d73-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261_aaro_case_closure_a43d73-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## What the Closure Process Reveals About UFO Reports
-
-The broader lesson from AARO's casework is that identification is often a cumulative process rather than a moment of recognition.
-
-A distant balloon may initially resemble an unknown craft. A satellite train may appear as unexplained lights. A bird viewed through a compressed infrared sensor may resemble a glowing orb. None of these explanations is obvious at the instant of observation. They become apparent only after analysts combine witness reports with technical data, environmental information and external records. AARO [scribd](#endnote-4 "Snippet: ScribdAARO 2024 Annual UAP Report Summary | PDFAARO increasingly receives cases that it is able to resolve to the Starlink satellite......") For the study of IFOs, AARO's closure process provides a modern demonstration of a long-standing principle in UFO investigations: many unidentified reports become identified not because the object changes, but because the amount of information available about it changes. Hundreds of recent cases have followed exactly that path, moving from UAP status to ordinary explanations once sufficient evidence was assembled. [U.S. Department of War](https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/) [U.S. Department of War](https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/)
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qdL-VasD3os" title="How did the chief of AARO not know the details of the Gimbal UFO incident?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qdL-VasD3os" target="_blank" rel="noopener noreferrer">How did the chief of AARO not know the details of the Gimbal UFO incident?</a></p><p class="youtube-embed-meta">Channel: Gary’s Scaries</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qdL-VasD3os" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qdL-VasD3os">Open on YouTube</a></p></div></div></div>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: media.defense.gov  
    Title: FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508  
-   Link: [https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF](https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarFiscal Year 2024 Consolidated Annual Report on...November 14, 2024 — 14 Nov 2024 — AARO resolved 118 cases during the r...</p></details>
    Published: November 14, 2024  
 
 2. <a id="endnote-2"></a>
    Source: war.gov  
    Title: dr jon kosloski director aaro media roundtable on the fy24 consolidated annual  
-   Link: [https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/](https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/)  
+   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDr. Jon Kosloski, Director, AARO, Media Roundtable on the...14 Nov 2024 — AARO has successfully resolved hundreds of ca...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROAARO HomeCommon objects/causes frequently reported as UAP include: Airborne clutter: Includes windborne debris like plastic bags and...</p></details>
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeCommon objects/causes frequently reported as UAP include: Airborne clutter: Includes windborne debris like plastic bags and...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: scribd.com  
    Title: AARO Annual Report on UAP FY2024 Ft AsTechR  
-   Link: [https://www.scribd.com/document/825619489/AARO-Annual-Report-on-UAP-FY2024-Ft-AsTechR](https://www.scribd.com/document/825619489/AARO-Annual-Report-on-UAP-FY2024-Ft-AsTechR)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScribdAARO 2024 Annual UAP Report Summary | PDFAARO increasingly receives cases that it is able to resolve to the Starlink satellite...</p></details>
+   Link: <a href="https://www.scribd.com/document/825619489/AARO-Annual-Report-on-UAP-FY2024-Ft-AsTechR" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/825619489/AARO-Annual-Report-on-UAP-FY2024-Ft-AsTechR</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO 2024 Annual UAP Report Summary | PDFAARO increasingly receives cases that it is able to resolve to the Starlink satellite...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: defensescoop.com  
    Title: uap aaro chief unveils pentagon annual caseload analysis new efforts  
-   Link: [https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/](https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/)  
+   Link: <a href="https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>DefenseScoop&#x27;The truly anomalous&#x27;: New AARO chief unveils Pentagon&#x27;s...14 Nov 2024 — “AARO has successfully resolved hundreds of cases i...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/](https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Examining Unidentified Anomalous Phenomena14 Nov 2024 — &quot;AARO has successfully resolved hundreds of cases in its hol...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryAARO will continue to investigate this case should further information become available to enable a more conclusive attributio...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: aaro.mil  
    Title: Congressional Press Products  
-   Link: [https://www.aaro.mil/Congressional-Press-Products/](https://www.aaro.mil/Congressional-Press-Products/)  
+   Link: <a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Congressional/Press Products2024 Report: All-domain Anomaly Resolution Office Annual Report on Unidentified Anomalous Phenomena... Conso...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Historical Record Report Volume 18 Mar 2024 — • Although many UAP/UFO cases remain unsolved, based on the lack of evidence of the extrate...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024](https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024)  
+   Link: <a href="https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PR-017, Unresolved UAP Report, Europe 2024This unresolved report contributes to AARO&#x27;s historical and locational trend analyses. VIDEO IN...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: safie.hq.af.mil  
-   Link: [https://www.safie.hq.af.mil/News/Video/mod/61713/player/0/video/988675](https://www.safie.hq.af.mil/News/Video/mod/61713/player/0/video/988675)  
+   Link: <a href="https://www.safie.hq.af.mil/News/Video/mod/61713/player/0/video/988675" target="_blank" rel="noopener noreferrer nofollow">https://www.safie.hq.af.mil/News/Video/mod/61713/player/0/video/988675</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>video footage associated with this report is insufficient for AARO to render a determination on its subject matter. This unresolved report...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: read-me.org  
    Title: fiscal year 2024 consolidated annual report on unidentified anomalous phenomena  
-   Link: [https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena](https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena)  
+   Link: <a href="https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fiscal Year 2024 Consolidated Annual Report on...21 Dec 2024 — AARO resolved 118 cases during the reporting period, all of which resolve...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: newspaceeconomy.ca  
    Title: New Space Economy UAP Declassified: An Objective Look at the U.S  
-   Link: [https://newspaceeconomy.ca/2025/09/23/uap-declassified-an-objective-look-at-the-u-s-governments-official-data-from-aaro/](https://newspaceeconomy.ca/2025/09/23/uap-declassified-an-objective-look-at-the-u-s-governments-official-data-from-aaro/)  
+   Link: <a href="https://newspaceeconomy.ca/2025/09/23/uap-declassified-an-objective-look-at-the-u-s-governments-official-data-from-aaro/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/09/23/uap-declassified-an-objective-look-at-the-u-s-governments-official-data-from-aaro/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Government&#x27;s...23 Sept 2025 — AARO has stated that a large number of cases in its holdings remain unresolved simply because of this lack...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: fox13news.com  
    Title: pentagon no evidence extraterrestrial technology beings activity  
-   Link: [https://www.fox13news.com/news/pentagon-no-evidence-extraterrestrial-technology-beings-activity](https://www.fox13news.com/news/pentagon-no-evidence-extraterrestrial-technology-beings-activity)  
+   Link: <a href="https://www.fox13news.com/news/pentagon-no-evidence-extraterrestrial-technology-beings-activity" target="_blank" rel="noopener noreferrer nofollow">https://www.fox13news.com/news/pentagon-no-evidence-extraterrestrial-technology-beings-activity</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon says there&#x27;s &#x27;no verifiable evidence&#x27; of...16 Nov 2024 — Of the 1,600 reports, 757 came to AARO over the past year, and the off...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: jbsa.mil  
    Title: dod examining unidentified anomalous phenomena  
-   Link: [https://www.jbsa.mil/News/News/Article/3966080/dod-examining-unidentified-anomalous-phenomena/](https://www.jbsa.mil/News/News/Article/3966080/dod-examining-unidentified-anomalous-phenomena/)  
+   Link: <a href="https://www.jbsa.mil/News/News/Article/3966080/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.jbsa.mil/News/News/Article/3966080/dod-examining-unidentified-anomalous-phenomena/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>15 Nov 2024 — &quot;AARO has successfully resolved hundreds of cases in its holdings to commonplace objects such as balloons, birds, drones, s...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/](https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/)  
+   Link: <a href="https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and the 21 anomalous cases are under further investigation.Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
    Title: This report remains unresolved due to lack of technical data.Read more  
-   Link: [https://www.reddit.com/r/UFOs/comments/1ko9q2o/aaro_has_posted_another_unresolved_case_video/](https://www.reddit.com/r/UFOs/comments/1ko9q2o/aaro_has_posted_another_unresolved_case_video/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ko9q2o/aaro_has_posted_another_unresolved_case_video/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ko9q2o/aaro_has_posted_another_unresolved_case_video/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO has posted another unresolved case (video): &quot;This...This footage, captured by an infrared sensor in 2024, was later reported to AAR...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: metabunk.org  
    Title: aaro 2024 annual report on uap.13762  
-   Link: [https://www.metabunk.org/threads/aaro-2024-annual-report-on-uap.13762/](https://www.metabunk.org/threads/aaro-2024-annual-report-on-uap.13762/)  
+   Link: <a href="https://www.metabunk.org/threads/aaro-2024-annual-report-on-uap.13762/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/aaro-2024-annual-report-on-uap.13762/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO 2024 Annual Report on UAP14 Nov 2024 — This report covers unidentified anomalous phenomena (UAP) reports from. May 1, 2023 to June 1...</p></details>
    Published: May 1, 2023  
 
 19. <a id="endnote-19"></a>
    Source: earthsky.org  
    Title: pentagon uap report aaro ufos  
-   Link: [https://earthsky.org/earth/pentagon-uap-report-aaro-ufos/](https://earthsky.org/earth/pentagon-uap-report-aaro-ufos/)  
+   Link: <a href="https://earthsky.org/earth/pentagon-uap-report-aaro-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/earth/pentagon-uap-report-aaro-ufos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New Pentagon UAP report prompts Senate hearing today19 Nov 2024 — AARO resolved 118 cases during the reporting period, all of which resol...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: elitefasion.com  
-   Link: [https://elitefasion.com/uap-ufo-records/odni-2024-uap-annual-report](https://elitefasion.com/uap-ufo-records/odni-2024-uap-annual-report)  
+   Link: <a href="https://elitefasion.com/uap-ufo-records/odni-2024-uap-annual-report" target="_blank" rel="noopener noreferrer nofollow">https://elitefasion.com/uap-ufo-records/odni-2024-uap-annual-report</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ODNI 2024 UAP Annual Report: 757 Reports and Data LimitsAARO reported resolving cases to ordinary explanations such as balloons, birds, U...</p></details>

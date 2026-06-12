@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_motion_blur_rods_96a808
 - ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_range_evidence_camer_8b4dfe
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - insects
 - glowing-orbs
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - insects
 - glowing-orbs
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Night cameras can light up insects, dust and droplets near the lens until ordinary particles look like self-lit UFO orbs.
 hero_summary: Night cameras can light up insects, dust and droplets near the lens until ordinary particles look like self-lit UFO orbs.
 layout: default
 permalink: /glowing-orbs/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /insects/
 nav_short_title: Glowing Orbs
 title: Why Night Cameras Create UFO Orbs
-title_full: Why Night Cameras Create UFO Orbs | Insects
+title_full: Why Night Cameras Create UFO Orbs
 display_title_short: Glowing Orbs
 display_title: Glowing Orbs
 heading_title: Why Night Cameras Create UFO Orbs
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 07:57:19'
-parent_title: The Tiny Things Cameras Make Huge | IFOs
+parent_title: The Tiny Things Cameras Make Huge
 parent_permalink: /insects/
 parent_nav_short_title: Insects
 parent_heading_title: The Tiny Things Cameras Make Huge
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74
-  title: Insects | Ifos Causes Of
+  title: Insects | ifos causes of UFO 3 ed 238
   permalink: /insects/
   short_title: Insects
   heading_title: The Tiny Things Cameras Make Huge
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74
-  title: Insects | Ifos Causes Of
+  title: Insects | ifos causes of UFO 3 ed 238
   permalink: /insects/
   short_title: Insects
   heading_title: The Tiny Things Cameras Make Huge
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: What Evidence Rules Out Camera Bugs?
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74
-  title: Insects | Ifos Causes Of
+  title: Insects | ifos causes of UFO 3 ed 238
   permalink: /insects/
   short_title: Insects
   heading_title: The Tiny Things Cameras Make Huge
@@ -266,6 +265,7 @@ next_link:
   permalink: /range-checks/
   short_title: Range Checks
   heading_title: What Evidence Rules Out Camera Bugs?
+date: '2026-06-12 00:46:08 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_doorbell_glowing_orb_6acf1d-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_doorbell_glowing_orb_6acf1d-Illustration-1.webp
@@ -275,7 +275,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_door
 ## Introduction
 
 Among the most common camera-based sources of UFO reports are the glowing “orbs” frequently captured by doorbell cameras at night. These luminous spheres often appear to float intelligently, change direction abruptly, accelerate, hover, or even seem to emit their own light. To viewers unfamiliar with how night-vision systems work, the footage can resemble a small unidentified craft or an unexplained aerial phenomenon.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_doorbell_glowing_orb_6acf1d-Illustration-1-dark.svg" | relative_url }}" alt="Glowing Orbs illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_doorbell_glowing_orb_6acf1d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_doorbell_glowing_orb_6acf1d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 In most documented cases, however, the orb is not a distant object at all. It is typically an insect, spider silk strand, dust particle, pollen grain, water droplet, or other small object passing extremely close to the camera lens. The combination of [infrared]({{ 'infrared/' | relative_url }}) illumination, shallow focus, digital [compression]({{ 'compression/' | relative_url }}), and the geometry of near-lens imaging can transform ordinary nearby objects into apparently self-luminous UFO-like spheres. Security-camera manufacturers, installers, and technical support departments routinely identify these effects as normal artefacts of night-vision imaging rather than evidence of unusual airborne objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cpisecurity.com/blog/what-causes-orbs-on-security-camera-footage/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cpisecurity.com">[cpisecurity.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cpisecurity.com</span><span class="citation-popover-snippet">The IR...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://support.simplisafe.com/articles/cameras/why-do-i-see-orbs-or-bubbles-when-my-camera-is-using-night-vision/634492a5d9a8b404da76cccb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.simplisafe.com">[SimpliSafe Support Home]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.simplisafe.com</span><span class="citation-popover-snippet">Backscatter happens when dust, water droplets, or other particles are present on or very close to...Read more...</span></span></span>
@@ -289,7 +288,6 @@ The central mechanism is infrared illumination.
 Most doorbell cameras and security cameras switch into night mode after dark. In this mode, infrared LEDs positioned around the lens emit light invisible to human eyes but readily detected by the camera sensor. This allows the camera to record images in near darkness. Security-camera manufacturers and technical documentation consistently note that particles near the lens can strongly reflect this infrared light back into the camera. <span class="citation-chip-wrap"><a class="citation-chip" href="https://support.simplisafe.com/articles/cameras/why-do-i-see-orbs-or-bubbles-when-my-camera-is-using-night-vision/634492a5d9a8b404da76cccb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.simplisafe.com">[SimpliSafe Support Home]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.simplisafe.com</span><span class="citation-popover-snippet">Backscatter happens when dust, water droplets, or other particles are present on or very close to...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cpisecurity.com/blog/what-causes-orbs-on-security-camera-footage/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cpisecurity.com">[2cpisecurity.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cpisecurity.com</span><span class="citation-popover-snippet">The IR...Read more...</span></span></span>
 
 When a small insect flies only a few centimetres from the lens, several things happen simultaneously:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -315,12 +313,11 @@ Technical discussions of orb artefacts consistently identify several common refl
 * Dust particles.
 * Pollen.
 * Moisture droplets.
-* Rain mist and fog droplets. SafeStreets Smart Home Alarm Systems <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eufy.com/blogs/security-camera/orbs-on-security-camera" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eufy.com">[3eufy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eufy.com</span><span class="citation-popover-title">orbs on security camera</span><span class="citation-popover-snippet">eufyUnderstanding Orbs on Security Camera11 Nov 2025 — Environmental Factors: The most common cause of orbs is dust particles, pollen, or...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cpisecurity.com/blog/what-causes-orbs-on-security-camera-footage/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cpisecurity.com">[3cpisecurity.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cpisecurity.com</span><span class="citation-popover-snippet">The IR...Read more...</span></span></span>
+* Rain mist and fog droplets. SafeStreets Smart Home Alarm Systems <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eufy.com/blogs/security-camera/orbs-on-security-camera" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eufy.com">[3eufy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eufy.com</span><span class="citation-popover-title">orbs on security camera</span><span class="citation-popover-snippet">Understanding Orbs on Security Camera11 Nov 2025 — Environmental Factors: The most common cause of orbs is dust particles, pollen, or...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cpisecurity.com/blog/what-causes-orbs-on-security-camera-footage/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cpisecurity.com">[3cpisecurity.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cpisecurity.com</span><span class="citation-popover-snippet">The IR...Read more...</span></span></span>
 
 Some insects appear especially bright because their wings and body surfaces can reflect infrared light efficiently. Users of night-vision security systems frequently report that bugs become glowing blobs rather than recognisable insects when illuminated by infrared LEDs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://forums.wyze.com/t/can-anyone-explain-what-this-glowing-thing-is/111920" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forums.wyze.com">[Wyze Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forums.wyze.com</span><span class="citation-popover-title">Forum Can anyone explain what this glowing thing is?</span><span class="citation-popover-snippet">Cameras16 Jul 2020 — Seriously, some types of things (eg bugs) are extremely reflective of IR light and thus present a fuzzy glow in nigh...</span></span></span>
 
 This effect is not unique to security cameras. Similar optical behaviour is well known in photography, where flash [reflections]({{ 'reflections/' | relative_url }}) from nearby particles create circular artefacts known as backscatter. The same underlying geometry applies to infrared night-vision cameras. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Backscatter_%28photography%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Backscatter (photography</span><span class="citation-popover-snippet">Backscatter (photography</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MmLAgUyW2us" title="Caught On Yi Outdoor Security Camera - Orb?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MmLAgUyW2us" target="_blank" rel="noopener noreferrer">Caught On Yi Outdoor Security Camera - Orb?</a></p><p class="youtube-embed-meta">Channel: LifeHackster &middot; Views: 170.2K &middot; Uploaded: November 2017 &middot; Length: 2 minutes 29 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MmLAgUyW2us" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MmLAgUyW2us">Open on YouTube</a></p></div></div></div>
 
@@ -338,7 +335,6 @@ The illusion becomes stronger because viewers unconsciously assume the orb is fa
 
 In reality, an insect travelling a few centimetres across the camera's field of view can appear to execute a dramatic aerial movement that would seem extraordinary if interpreted as a distant craft.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_doorbell_glowing_orb_6acf1d-Illustration-2-dark.svg" | relative_url }}" alt="Glowing Orbs illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_doorbell_glowing_orb_6acf1d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_doorbell_glowing_orb_6acf1d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Compression Makes Blobs Look Stranger
 
@@ -346,10 +342,9 @@ Modern doorbell cameras are not scientific imaging instruments.
 
 To conserve storage and bandwidth, they employ aggressive video compression, noise reduction, sharpening algorithms, and motion-triggered recording systems. These features are useful for identifying visitors and intruders but can distort small, fast-moving objects.
 
-When a glowing insect occupies only a handful of pixels, compression algorithms may smooth its edges, merge neighbouring pixels, and exaggerate brightness differences. The result can be a cleaner-looking orb than actually existed in front of the lens. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eufy.com/blogs/security-camera/orbs-on-security-camera" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eufy.com">[eufy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eufy.com</span><span class="citation-popover-title">orbs on security camera</span><span class="citation-popover-snippet">eufyUnderstanding Orbs on Security Camera11 Nov 2025 — Environmental Factors: The most common cause of orbs is dust particles, pollen, or...</span></span></span>
+When a glowing insect occupies only a handful of pixels, compression algorithms may smooth its edges, merge neighbouring pixels, and exaggerate brightness differences. The result can be a cleaner-looking orb than actually existed in front of the lens. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eufy.com/blogs/security-camera/orbs-on-security-camera" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eufy.com">[eufy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eufy.com</span><span class="citation-popover-title">orbs on security camera</span><span class="citation-popover-snippet">Understanding Orbs on Security Camera11 Nov 2025 — Environmental Factors: The most common cause of orbs is dust particles, pollen, or...</span></span></span>
 
 Compression can also produce:
-
 
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
@@ -365,17 +360,15 @@ To viewers, these artefacts may suggest that the orb is changing energy output, 
 
 The same problem affects online reposts. Videos shared on social media often undergo multiple rounds of recompression, further degrading fine detail and making identification more difficult.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xEFCDNSgHzc" title="White Orb on Security Camera....or just a bug?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xEFCDNSgHzc" target="_blank" rel="noopener noreferrer">White Orb on Security Camera....or just a bug?</a></p><p class="youtube-embed-meta">Channel: RamblinAround &middot; Views: 51.1K &middot; Uploaded: September 2020 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xEFCDNSgHzc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xEFCDNSgHzc">Open on YouTube</a></p></div></div></div>
 
 ## The Spider-Web Connection
 
 One of the most persistent sources of orb reports involves spiders.
 
-Security installers routinely note that spiders are attracted to areas around cameras because insects gather near infrared illumination. The increased insect activity provides a food source. As a result, spiders frequently build webs near doorbell cameras and surveillance cameras. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/OfficialBarriGhai/posts/did-you-know-that-most-indoor-and-outdoor-security-cameras-emit-infrared-light-t/1021529623308085/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">FacebookBarri GhaiSpiders are attracted to the bugs drawn to the infrared light from your camera, which can obstruct visibility and trigg...</span></span></span>
+Security installers routinely note that spiders are attracted to areas around cameras because insects gather near infrared illumination. The increased insect activity provides a food source. As a result, spiders frequently build webs near doorbell cameras and surveillance cameras. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/OfficialBarriGhai/posts/did-you-know-that-most-indoor-and-outdoor-security-cameras-emit-infrared-light-t/1021529623308085/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Barri GhaiSpiders are attracted to the bugs drawn to the infrared light from your camera, which can obstruct visibility and trigg...</span></span></span>
 
 When strands of silk drift in front of the lens, they can reflect infrared light intensely. Depending on focus and movement, the silk may appear as:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -390,7 +383,6 @@ Spider silk is particularly deceptive because it can remain attached at one end 
 
 Many “mysterious orb” clips later traced to spider webs exhibit exactly this pattern: slow oscillation, periodic brightening, and movement tied to airflow rather than independent flight.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_doorbell_glowing_orb_6acf1d-Illustration-3-dark.svg" | relative_url }}" alt="Glowing Orbs illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_doorbell_glowing_orb_6acf1d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_doorbell_glowing_orb_6acf1d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Clues from Doorbell and Trail Camera Footage
 
@@ -402,7 +394,7 @@ Second, the orb frequently lacks any interaction with background scenery. It pas
 
 Third, the phenomenon is usually restricted to night mode. Users often report that the effect disappears when ordinary lighting is turned on or when the camera exits infrared mode. Similar observations appear in technical discussions by camera owners. <span class="citation-chip-wrap"><a class="citation-chip" href="https://forums.tomshardware.com/threads/strange-floating-specks-on-infrared-camera.64922/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forums.tomshardware.com">[Tom&#x27;s Hardware Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forums.tomshardware.com</span><span class="citation-popover-title">strange floating specks on infrared camera.64922</span><span class="citation-popover-snippet">When viewing in the dark (the effect stops if I turn on the porch light) I can see little specks floating...Read more...</span></span></span>
 
-Fourth, trail-camera communities regularly identify apparently mysterious night-time streaks and glowing objects as insects captured with long exposures or infrared illumination. Discussions among experienced users repeatedly converge on ordinary biological explanations rather than unknown aerial objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/trailcam/comments/16hc8jh/can_anyone_tell_me_what_these_strange_things_are/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditCan anyone tell me what these strange things are flying in...But I have a couple pictures with these strange things flying on the...</span></span></span>
+Fourth, trail-camera communities regularly identify apparently mysterious night-time streaks and glowing objects as insects captured with long exposures or infrared illumination. Discussions among experienced users repeatedly converge on ordinary biological explanations rather than unknown aerial objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/trailcam/comments/16hc8jh/can_anyone_tell_me_what_these_strange_things_are/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Can anyone tell me what these strange things are flying in...But I have a couple pictures with these strange things flying on the...</span></span></span>
 
 ## Why These Orbs Become UFO Reports
 
@@ -411,7 +403,6 @@ The key mistake is a distance error.
 A doorbell camera records angular position, brightness, and motion across the image. It does not directly record how far away an object is. When viewers assume that a glowing blur is hundreds of metres away rather than a few centimetres from the lens, they unintentionally convert a tiny insect into a seemingly extraordinary aerial object.
 
 The orb then appears to have impossible characteristics:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -427,9 +418,7 @@ All of these properties emerge naturally once a nearby insect is misidentified a
 
 For this reason, glowing doorbell-camera orbs occupy an important place in the catalogue of ordinary causes behind UFO reports. They demonstrate how a real physical object can be captured by a genuine camera yet still be radically misinterpreted because of infrared lighting, optical focus, image processing, and the absence of reliable distance information. The resulting footage can look remarkable, but the underlying mechanism is a well-understood interaction between night-vision technology and small objects passing close to the lens. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Backscatter_%28photography%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Backscatter (photography</span><span class="citation-popover-snippet">Backscatter (photography</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://support.simplisafe.com/articles/cameras/why-do-i-see-orbs-or-bubbles-when-my-camera-is-using-night-vision/634492a5d9a8b404da76cccb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.simplisafe.com">[SimpliSafe Support Home]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.simplisafe.com</span><span class="citation-popover-snippet">Backscatter happens when dust, water droplets, or other particles are present on or very close to...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cpisecurity.com/blog/what-causes-orbs-on-security-camera-footage/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cpisecurity.com">[3cpisecurity.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cpisecurity.com</span><span class="citation-popover-snippet">The IR...Read more...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VGQ-nL_k8tY" title="What is this? Ghost? Orb? Dust? Bug?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VGQ-nL_k8tY" target="_blank" rel="noopener noreferrer">What is this? Ghost? Orb? Dust? Bug?</a></p><p class="youtube-embed-meta">Channel: Smit Gaming &middot; Views: 17.8K &middot; Uploaded: October 2018 &middot; Length: 1 minute 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VGQ-nL_k8tY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VGQ-nL_k8tY">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -548,15 +537,15 @@ For this reason, glowing doorbell-camera orbs occupy an important place in the c
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=glowing-orbs-why-night-cameras-create-ufo-orbs-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="glowing-orbs-why-night-cameras-create-ufo-orbs-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo"><img src="{{ '/assets/images/marketplace-covers/338af33276410882a5b1.jpg' | relative_url }}" alt="Listing image for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=doorbell+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-cameras-create-ufo-orbs-doorbell-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="doorbell camera" data-ebay-reference="why-night-cameras-create-ufo-orbs-doorbell-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HD Smart Wireless Video Doorbell Camera Intercom Security Camera Door Bell"><img src="https://i.ebayimg.com/images/g/dm0AAeSwrmVqCJ4p/s-l225.jpg" alt="Listing image for HD Smart Wireless Video Doorbell Camera Intercom Security Camera Door Bell" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=glowing-orbs-why-night-cameras-create-ufo-orbs-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="glowing-orbs-why-night-cameras-create-ufo-orbs-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=doorbell+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-cameras-create-ufo-orbs-doorbell-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="doorbell camera" data-ebay-reference="why-night-cameras-create-ufo-orbs-doorbell-camera" target="_blank" rel="sponsored noopener noreferrer">HD Smart Wireless Video Doorbell Camera Intercom Security Camera Door Bell</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=glowing-orbs-why-night-cameras-create-ufo-orbs-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="glowing-orbs-why-night-cameras-create-ufo-orbs-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=doorbell+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-cameras-create-ufo-orbs-doorbell-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="doorbell camera" data-ebay-reference="why-night-cameras-create-ufo-orbs-doorbell-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for doorbell camera">Search <span data-ebay-domain-label>eBay.co.uk</span>: doorbell camera</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=glowing-orbs-why-night-cameras-create-ufo-orbs-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="glowing-orbs-why-night-cameras-create-ufo-orbs-ifos-causes-of-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=doorbell+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-cameras-create-ufo-orbs-doorbell-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="doorbell camera" data-ebay-reference="why-night-cameras-create-ufo-orbs-doorbell-camera" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -564,15 +553,15 @@ For this reason, glowing doorbell-camera orbs occupy an important place in the c
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=glowing-orbs-why-night-cameras-create-ufo-orbs-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="glowing-orbs-why-night-cameras-create-ufo-orbs-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=doorbell+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-cameras-create-ufo-orbs-doorbell-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="doorbell camera" data-ebay-reference="why-night-cameras-create-ufo-orbs-doorbell-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1080P Wi-Fi Video Doorbell Camera, AI Human Detection, Two-Way Audio"><img src="https://i.ebayimg.com/images/g/1ikAAeSwnxZqCuZ~/s-l225.jpg" alt="Listing image for 1080P Wi-Fi Video Doorbell Camera, AI Human Detection, Two-Way Audio" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=glowing-orbs-why-night-cameras-create-ufo-orbs-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="glowing-orbs-why-night-cameras-create-ufo-orbs-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=doorbell+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-cameras-create-ufo-orbs-doorbell-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="doorbell camera" data-ebay-reference="why-night-cameras-create-ufo-orbs-doorbell-camera" target="_blank" rel="sponsored noopener noreferrer">1080P Wi-Fi Video Doorbell Camera, AI Human Detection, Two-Way Audio</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=glowing-orbs-why-night-cameras-create-ufo-orbs-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="glowing-orbs-why-night-cameras-create-ufo-orbs-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=doorbell+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-cameras-create-ufo-orbs-doorbell-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="doorbell camera" data-ebay-reference="why-night-cameras-create-ufo-orbs-doorbell-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for doorbell camera">Search <span data-ebay-domain-label>eBay.co.uk</span>: doorbell camera</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=glowing-orbs-why-night-cameras-create-ufo-orbs-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="glowing-orbs-why-night-cameras-create-ufo-orbs-ifos-causes-of-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=doorbell+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-cameras-create-ufo-orbs-doorbell-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="doorbell camera" data-ebay-reference="why-night-cameras-create-ufo-orbs-doorbell-camera" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -580,15 +569,15 @@ For this reason, glowing doorbell-camera orbs occupy an important place in the c
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=glowing-orbs-why-night-cameras-create-ufo-orbs-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="glowing-orbs-why-night-cameras-create-ufo-orbs-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=doorbell+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-cameras-create-ufo-orbs-doorbell-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="doorbell camera" data-ebay-reference="why-night-cameras-create-ufo-orbs-doorbell-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Smart Video Doorbell Phone Security Camera Door Bell Ring Intercom WiFi Wireless"><img src="https://i.ebayimg.com/images/g/quUAAeSwP5RqHWLN/s-l225.jpg" alt="Listing image for Smart Video Doorbell Phone Security Camera Door Bell Ring Intercom WiFi Wireless" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=glowing-orbs-why-night-cameras-create-ufo-orbs-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="glowing-orbs-why-night-cameras-create-ufo-orbs-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=doorbell+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-cameras-create-ufo-orbs-doorbell-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="doorbell camera" data-ebay-reference="why-night-cameras-create-ufo-orbs-doorbell-camera" target="_blank" rel="sponsored noopener noreferrer">Smart Video Doorbell Phone Security Camera Door Bell Ring Intercom WiFi Wireless</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=glowing-orbs-why-night-cameras-create-ufo-orbs-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="glowing-orbs-why-night-cameras-create-ufo-orbs-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=doorbell+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-cameras-create-ufo-orbs-doorbell-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="doorbell camera" data-ebay-reference="why-night-cameras-create-ufo-orbs-doorbell-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for doorbell camera">Search <span data-ebay-domain-label>eBay.co.uk</span>: doorbell camera</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=glowing-orbs-why-night-cameras-create-ufo-orbs-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="glowing-orbs-why-night-cameras-create-ufo-orbs-ifos-causes-of-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=doorbell+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-cameras-create-ufo-orbs-doorbell-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="doorbell camera" data-ebay-reference="why-night-cameras-create-ufo-orbs-doorbell-camera" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -596,15 +585,15 @@ For this reason, glowing doorbell-camera orbs occupy an important place in the c
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=glowing-orbs-why-night-cameras-create-ufo-orbs-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="glowing-orbs-why-night-cameras-create-ufo-orbs-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=doorbell+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-cameras-create-ufo-orbs-doorbell-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="doorbell camera" data-ebay-reference="why-night-cameras-create-ufo-orbs-doorbell-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WiFi Wireless Smart Video Doorbell Phone Security Camera Door Bell Ring Intercom"><img src="https://i.ebayimg.com/images/g/~RQAAeSwAlppxQog/s-l225.jpg" alt="Listing image for WiFi Wireless Smart Video Doorbell Phone Security Camera Door Bell Ring Intercom" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=glowing-orbs-why-night-cameras-create-ufo-orbs-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="glowing-orbs-why-night-cameras-create-ufo-orbs-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=doorbell+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-cameras-create-ufo-orbs-doorbell-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="doorbell camera" data-ebay-reference="why-night-cameras-create-ufo-orbs-doorbell-camera" target="_blank" rel="sponsored noopener noreferrer">WiFi Wireless Smart Video Doorbell Phone Security Camera Door Bell Ring Intercom</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=glowing-orbs-why-night-cameras-create-ufo-orbs-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="glowing-orbs-why-night-cameras-create-ufo-orbs-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=doorbell+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-cameras-create-ufo-orbs-doorbell-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="doorbell camera" data-ebay-reference="why-night-cameras-create-ufo-orbs-doorbell-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for doorbell camera">Search <span data-ebay-domain-label>eBay.co.uk</span>: doorbell camera</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=glowing-orbs-why-night-cameras-create-ufo-orbs-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="glowing-orbs-why-night-cameras-create-ufo-orbs-ifos-causes-of-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=doorbell+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-cameras-create-ufo-orbs-doorbell-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="doorbell camera" data-ebay-reference="why-night-cameras-create-ufo-orbs-doorbell-camera" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -612,7 +601,7 @@ For this reason, glowing doorbell-camera orbs occupy an important place in the c
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=glowing-orbs-why-night-cameras-create-ufo-orbs-ifos-causes-of-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="glowing-orbs-why-night-cameras-create-ufo-orbs-ifos-causes-of-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=doorbell+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-night-cameras-create-ufo-orbs-doorbell-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="doorbell camera" data-ebay-reference="why-night-cameras-create-ufo-orbs-doorbell-camera" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -827,169 +816,169 @@ For this reason, glowing doorbell-camera orbs occupy an important place in the c
 
 1. <a id="endnote-1"></a>
    Source: cpisecurity.com  
-   Link: [https://cpisecurity.com/blog/what-causes-orbs-on-security-camera-footage/](https://cpisecurity.com/blog/what-causes-orbs-on-security-camera-footage/)  
+   Link: <a href="https://cpisecurity.com/blog/what-causes-orbs-on-security-camera-footage/" target="_blank" rel="noopener noreferrer nofollow">https://cpisecurity.com/blog/what-causes-orbs-on-security-camera-footage/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The IR...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: support.simplisafe.com  
-   Link: [https://support.simplisafe.com/articles/cameras/why-do-i-see-orbs-or-bubbles-when-my-camera-is-using-night-vision/634492a5d9a8b404da76cccb](https://support.simplisafe.com/articles/cameras/why-do-i-see-orbs-or-bubbles-when-my-camera-is-using-night-vision/634492a5d9a8b404da76cccb)  
+   Link: <a href="https://support.simplisafe.com/articles/cameras/why-do-i-see-orbs-or-bubbles-when-my-camera-is-using-night-vision/634492a5d9a8b404da76cccb" target="_blank" rel="noopener noreferrer nofollow">https://support.simplisafe.com/articles/cameras/why-do-i-see-orbs-or-bubbles-when-my-camera-is-using-night-vision/634492a5d9a8b404da76cccb</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Backscatter happens when dust, water droplets, or other particles are present on or very close to...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: safestreets.com  
    Title: orbs on my security camera  
-   Link: [https://www.safestreets.com/orbs-on-my-security-camera/](https://www.safestreets.com/orbs-on-my-security-camera/)  
+   Link: <a href="https://www.safestreets.com/orbs-on-my-security-camera/" target="_blank" rel="noopener noreferrer nofollow">https://www.safestreets.com/orbs-on-my-security-camera/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Are There Orbs On My Security Camera?8 Feb 2022 — Dust, water spots, or other particles can show up as orbs in home security footage...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Backscatter (photography)  
-   Link: [https://en.wikipedia.org/wiki/Backscatter_%28photography%29](https://en.wikipedia.org/wiki/Backscatter_%28photography%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Backscatter_%28photography%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Backscatter_%28photography%29</a>  
 
 5. <a id="endnote-5"></a>
    Source: eufy.com  
    Title: orbs on security camera  
-   Link: [https://www.eufy.com/blogs/security-camera/orbs-on-security-camera](https://www.eufy.com/blogs/security-camera/orbs-on-security-camera)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>eufyUnderstanding Orbs on Security Camera11 Nov 2025 — Environmental Factors: The most common cause of orbs is dust particles, pollen, or...</p></details>
+   Link: <a href="https://www.eufy.com/blogs/security-camera/orbs-on-security-camera" target="_blank" rel="noopener noreferrer nofollow">https://www.eufy.com/blogs/security-camera/orbs-on-security-camera</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Orbs on Security Camera11 Nov 2025 — Environmental Factors: The most common cause of orbs is dust particles, pollen, or...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: forums.wyze.com  
    Title: Forum Can anyone explain what this glowing thing is?  
-   Link: [https://forums.wyze.com/t/can-anyone-explain-what-this-glowing-thing-is/111920](https://forums.wyze.com/t/can-anyone-explain-what-this-glowing-thing-is/111920)  
+   Link: <a href="https://forums.wyze.com/t/can-anyone-explain-what-this-glowing-thing-is/111920" target="_blank" rel="noopener noreferrer nofollow">https://forums.wyze.com/t/can-anyone-explain-what-this-glowing-thing-is/111920</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cameras16 Jul 2020 — Seriously, some types of things (eg bugs) are extremely reflective of IR light and thus present a fuzzy glow in nigh...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: forums.wyze.com  
    Title: sprites orbs other anomalies in night vision mode  
-   Link: [https://forums.wyze.com/t/sprites-orbs-other-anomalies-in-night-vision-mode/26453](https://forums.wyze.com/t/sprites-orbs-other-anomalies-in-night-vision-mode/26453)  
+   Link: <a href="https://forums.wyze.com/t/sprites-orbs-other-anomalies-in-night-vision-mode/26453" target="_blank" rel="noopener noreferrer nofollow">https://forums.wyze.com/t/sprites-orbs-other-anomalies-in-night-vision-mode/26453</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny flying insects are attracted to the IR radiation beaming out from the camera...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: forums.wyze.com  
    Title: Forum Strange white orbs flying around?  
-   Link: [https://forums.wyze.com/t/strange-white-orbs-flying-around/53876](https://forums.wyze.com/t/strange-white-orbs-flying-around/53876)  
+   Link: <a href="https://forums.wyze.com/t/strange-white-orbs-flying-around/53876" target="_blank" rel="noopener noreferrer nofollow">https://forums.wyze.com/t/strange-white-orbs-flying-around/53876</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wyze ForumStrange white orbs flying around? - Cameras2 Sept 2019 — Dust and pollen seemed the most plausible explanation, but some of the...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/OfficialBarriGhai/posts/did-you-know-that-most-indoor-and-outdoor-security-cameras-emit-infrared-light-t/1021529623308085/](https://www.facebook.com/OfficialBarriGhai/posts/did-you-know-that-most-indoor-and-outdoor-security-cameras-emit-infrared-light-t/1021529623308085/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookBarri GhaiSpiders are attracted to the bugs drawn to the infrared light from your camera, which can obstruct visibility and trigg...</p></details>
+   Link: <a href="https://www.facebook.com/OfficialBarriGhai/posts/did-you-know-that-most-indoor-and-outdoor-security-cameras-emit-infrared-light-t/1021529623308085/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OfficialBarriGhai/posts/did-you-know-that-most-indoor-and-outdoor-security-cameras-emit-infrared-light-t/1021529623308085/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Barri GhaiSpiders are attracted to the bugs drawn to the infrared light from your camera, which can obstruct visibility and trigg...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/trailcam/comments/16hc8jh/can_anyone_tell_me_what_these_strange_things_are/](https://www.reddit.com/r/trailcam/comments/16hc8jh/can_anyone_tell_me_what_these_strange_things_are/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditCan anyone tell me what these strange things are flying in...But I have a couple pictures with these strange things flying on the...</p></details>
+   Link: <a href="https://www.reddit.com/r/trailcam/comments/16hc8jh/can_anyone_tell_me_what_these_strange_things_are/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/trailcam/comments/16hc8jh/can_anyone_tell_me_what_these_strange_things_are/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Can anyone tell me what these strange things are flying in...But I have a couple pictures with these strange things flying on the...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/whatisthisthing/comments/crql2o/my_security_camera_captured_millions_of_little/](https://www.reddit.com/r/whatisthisthing/comments/crql2o/my_security_camera_captured_millions_of_little/)  
+   Link: <a href="https://www.reddit.com/r/whatisthisthing/comments/crql2o/my_security_camera_captured_millions_of_little/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/whatisthisthing/comments/crql2o/my_security_camera_captured_millions_of_little/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>That insect that swarms around it very likely sees or orients itself in IR...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1029364787229190/posts/3436046549894323/](https://www.facebook.com/groups/1029364787229190/posts/3436046549894323/)  
+   Link: <a href="https://www.facebook.com/groups/1029364787229190/posts/3436046549894323/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1029364787229190/posts/3436046549894323/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s called backscatter, the camera&#x27;s infrared lights hit tiny particles floating right in front of...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/425871465090480/posts/1477651166579166/](https://www.facebook.com/groups/425871465090480/posts/1477651166579166/)  
+   Link: <a href="https://www.facebook.com/groups/425871465090480/posts/1477651166579166/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/425871465090480/posts/1477651166579166/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>mmonly used in trail cameras at night. As for the figure...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/355054821447/posts/10163225720376448/](https://www.facebook.com/groups/355054821447/posts/10163225720376448/)  
+   Link: <a href="https://www.facebook.com/groups/355054821447/posts/10163225720376448/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/355054821447/posts/10163225720376448/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I’m not sure so wondering…...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: forums.wyze.com  
    Title: strange white orbs flying around  
-   Link: [https://forums.wyze.com/t/strange-white-orbs-flying-around/53876/25](https://forums.wyze.com/t/strange-white-orbs-flying-around/53876/25)  
+   Link: <a href="https://forums.wyze.com/t/strange-white-orbs-flying-around/53876/25" target="_blank" rel="noopener noreferrer nofollow">https://forums.wyze.com/t/strange-white-orbs-flying-around/53876/25</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>#25 by jth - Cameras1 Sept 2019 — These orbs look like someone is standing behind the camera and moving small beam of light over whatever...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/homesecurity/comments/1t808rd/strange_light_beam_orb_in_outdoor_infrared/](https://www.reddit.com/r/homesecurity/comments/1t808rd/strange_light_beam_orb_in_outdoor_infrared/)  
+   Link: <a href="https://www.reddit.com/r/homesecurity/comments/1t808rd/strange_light_beam_orb_in_outdoor_infrared/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/homesecurity/comments/1t808rd/strange_light_beam_orb_in_outdoor_infrared/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>r actually neighbors shining a light or laser at it?...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Ghosts/comments/deki6k/explanation_of_orbs_aka_backscatter/](https://www.reddit.com/r/Ghosts/comments/deki6k/explanation_of_orbs_aka_backscatter/)  
+   Link: <a href="https://www.reddit.com/r/Ghosts/comments/deki6k/explanation_of_orbs_aka_backscatter/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Ghosts/comments/deki6k/explanation_of_orbs_aka_backscatter/</a>  
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Ghosts/comments/rzlhqn/sorry_if_not_allowed_but_somebody_please_explain/](https://www.reddit.com/r/Ghosts/comments/rzlhqn/sorry_if_not_allowed_but_somebody_please_explain/)  
+   Link: <a href="https://www.reddit.com/r/Ghosts/comments/rzlhqn/sorry_if_not_allowed_but_somebody_please_explain/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Ghosts/comments/rzlhqn/sorry_if_not_allowed_but_somebody_please_explain/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>bugs are when an external light illuminates the particle or...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
    Title: Can someone tell me what this is?  
-   Link: [https://www.reddit.com/r/Ghosts/comments/qhs7vr/can_someone_tell_me_what_this_is_we_are_all_a/](https://www.reddit.com/r/Ghosts/comments/qhs7vr/can_someone_tell_me_what_this_is_we_are_all_a/)  
+   Link: <a href="https://www.reddit.com/r/Ghosts/comments/qhs7vr/can_someone_tell_me_what_this_is_we_are_all_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Ghosts/comments/qhs7vr/can_someone_tell_me_what_this_is_we_are_all_a/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>We are all a little freaked...The orb looks a lot like how bugs appear in night-vision cameras. The shadows could be caused by the insec...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: forums.tomshardware.com  
    Title: strange floating specks on infrared camera.64922  
-   Link: [https://forums.tomshardware.com/threads/strange-floating-specks-on-infrared-camera.64922/](https://forums.tomshardware.com/threads/strange-floating-specks-on-infrared-camera.64922/)  
+   Link: <a href="https://forums.tomshardware.com/threads/strange-floating-specks-on-infrared-camera.64922/" target="_blank" rel="noopener noreferrer nofollow">https://forums.tomshardware.com/threads/strange-floating-specks-on-infrared-camera.64922/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>When viewing in the dark (the effect stops if I turn on the porch light) I can see little specks floating...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DW6afBCCPlz/](https://www.instagram.com/reel/DW6afBCCPlz/)  
+   Link: <a href="https://www.instagram.com/reel/DW6afBCCPlz/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DW6afBCCPlz/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>a spider photobombing your IR sensors! Have you caught any weird...</p></details>
 
 ### Additional References
 
 22. <a id="endnote-22"></a>
    Source: zhihu.com  
-   Link: [https://www.zhihu.com/en/answer/2457430395](https://www.zhihu.com/en/answer/2457430395)  
+   Link: <a href="https://www.zhihu.com/en/answer/2457430395" target="_blank" rel="noopener noreferrer nofollow">https://www.zhihu.com/en/answer/2457430395</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ht vision illumination of a surveillance camera, a normal phenomenon...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: jennovshop.com  
    Title: Why Are There Orbs On Your Security Camera  
-   Link: [https://jennovshop.com/blogs/news/why-are-there-orbs-on-your-security-camera-understanding-and-fixing-the-issue?srsltid=AfmBOoplzFqTuNxaD9Ei88Nn84vGmG-6PjlWzXbWHpV1lkiJ4FlhDkgD](https://jennovshop.com/blogs/news/why-are-there-orbs-on-your-security-camera-understanding-and-fixing-the-issue?srsltid=AfmBOoplzFqTuNxaD9Ei88Nn84vGmG-6PjlWzXbWHpV1lkiJ4FlhDkgD)  
+   Link: <a href="https://jennovshop.com/blogs/news/why-are-there-orbs-on-your-security-camera-understanding-and-fixing-the-issue?srsltid=AfmBOoplzFqTuNxaD9Ei88Nn84vGmG-6PjlWzXbWHpV1lkiJ4FlhDkgD" target="_blank" rel="noopener noreferrer nofollow">https://jennovshop.com/blogs/news/why-are-there-orbs-on-your-security-camera-understanding-and-fixing-the-issue?srsltid=AfmBOoplzFqTuNxaD9Ei88Nn84vGmG-6PjlWzXbWHpV1lkiJ4FlhDkgD</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jennov1 Jan 2025 — Common Causes: Dust, insects, moisture, or lighting conditions.... Small insects flying near the camera can reflect I...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: jennovshop.com  
    Title: Why Are There Orbs On Your Security Camera  
-   Link: [https://jennovshop.com/blogs/news/why-are-there-orbs-on-your-security-camera-understanding-and-fixing-the-issue?srsltid=AfmBOorWeQKshYCUVy7q0Oh2BcZY5MFMGKr23AtZhYXIiAFlEKKPVigQ](https://jennovshop.com/blogs/news/why-are-there-orbs-on-your-security-camera-understanding-and-fixing-the-issue?srsltid=AfmBOorWeQKshYCUVy7q0Oh2BcZY5MFMGKr23AtZhYXIiAFlEKKPVigQ)  
+   Link: <a href="https://jennovshop.com/blogs/news/why-are-there-orbs-on-your-security-camera-understanding-and-fixing-the-issue?srsltid=AfmBOorWeQKshYCUVy7q0Oh2BcZY5MFMGKr23AtZhYXIiAFlEKKPVigQ" target="_blank" rel="noopener noreferrer nofollow">https://jennovshop.com/blogs/news/why-are-there-orbs-on-your-security-camera-understanding-and-fixing-the-issue?srsltid=AfmBOorWeQKshYCUVy7q0Oh2BcZY5MFMGKr23AtZhYXIiAFlEKKPVigQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jennov1 Jan 2025 — Small insects flying near the camera can reflect IR light, creating bright spots on the footage. Solution: Use insect...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: reolink.com  
-   Link: [https://reolink.com/blog/orbs-caught-on-security-cameras/?srsltid=AfmBOopCBD_N-i3BRdYusvZDIsiY31oc0jLy78AO6bPd2b8aWMkqFM3P](https://reolink.com/blog/orbs-caught-on-security-cameras/?srsltid=AfmBOopCBD_N-i3BRdYusvZDIsiY31oc0jLy78AO6bPd2b8aWMkqFM3P)  
+   Link: <a href="https://reolink.com/blog/orbs-caught-on-security-cameras/?srsltid=AfmBOopCBD_N-i3BRdYusvZDIsiY31oc0jLy78AO6bPd2b8aWMkqFM3P" target="_blank" rel="noopener noreferrer nofollow">https://reolink.com/blog/orbs-caught-on-security-cameras/?srsltid=AfmBOopCBD_N-i3BRdYusvZDIsiY31oc0jLy78AO6bPd2b8aWMkqFM3P</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Orbs Caught on Security Cameras: How to Fix Them?15 Dec 2025 — Commonly, the orbs on security cameras are because of dust, bugs, and othe...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: hauntedtraverse.com  
    Title: Are Orbs Ghosts or Just Dust?  
-   Link: [https://www.hauntedtraverse.com/are-orbs-ghosts-or-just-dust-how-to-tell-the-difference](https://www.hauntedtraverse.com/are-orbs-ghosts-or-just-dust-how-to-tell-the-difference)  
+   Link: <a href="https://www.hauntedtraverse.com/are-orbs-ghosts-or-just-dust-how-to-tell-the-difference" target="_blank" rel="noopener noreferrer nofollow">https://www.hauntedtraverse.com/are-orbs-ghosts-or-just-dust-how-to-tell-the-difference</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Tell the Difference27 Feb 2026 — The overwhelming majority of orb photographs are caused by environmental particles reflecting lig...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: haunted-devon.co.uk  
    Title: the ubiquitous orbs  
-   Link: [https://haunted-devon.co.uk/articles/features/the-ubiquitous-orbs](https://haunted-devon.co.uk/articles/features/the-ubiquitous-orbs)  
+   Link: <a href="https://haunted-devon.co.uk/articles/features/the-ubiquitous-orbs" target="_blank" rel="noopener noreferrer nofollow">https://haunted-devon.co.uk/articles/features/the-ubiquitous-orbs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>26 Mar 2021 — Dust appear in film as orbs because of what is called the retro-reflection of light off the dust particle. As investigation...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
    Title: Caught On Yi Outdoor Security Camera  
-   Link: [https://www.youtube.com/watch?v=MmLAgUyW2us](https://www.youtube.com/watch?v=MmLAgUyW2us)  
+   Link: <a href="https://www.youtube.com/watch?v=MmLAgUyW2us" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MmLAgUyW2us</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Orb?I have seen a lot of spirits orbs on our security cameras over the last 2 years. Yours moves a lot like mine &amp; also moves in a simila...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=VGQ-nL_k8tY](https://www.youtube.com/watch?v=VGQ-nL_k8tY)  
+   Link: <a href="https://www.youtube.com/watch?v=VGQ-nL_k8tY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VGQ-nL_k8tY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>X 5 Washington DC•746K views &amp;middot; 22:28. Go to...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=xEFCDNSgHzc](https://www.youtube.com/watch?v=xEFCDNSgHzc)  
+   Link: <a href="https://www.youtube.com/watch?v=xEFCDNSgHzc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xEFCDNSgHzc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>On camera, it looked like a small ball of white...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: gardepro.com  
-   Link: [https://gardepro.com/en-de/blogs/gardepro-blogs/why-trail-camera-night-images-blurry-overexposed?srsltid=AfmBOoqoPPOBOnjnmpeQctKA7wi9CtCY7UvtpVSl86ShLOPoZV9llWM6](https://gardepro.com/en-de/blogs/gardepro-blogs/why-trail-camera-night-images-blurry-overexposed?srsltid=AfmBOoqoPPOBOnjnmpeQctKA7wi9CtCY7UvtpVSl86ShLOPoZV9llWM6)  
+   Link: <a href="https://gardepro.com/en-de/blogs/gardepro-blogs/why-trail-camera-night-images-blurry-overexposed?srsltid=AfmBOoqoPPOBOnjnmpeQctKA7wi9CtCY7UvtpVSl86ShLOPoZV9llWM6" target="_blank" rel="noopener noreferrer nofollow">https://gardepro.com/en-de/blogs/gardepro-blogs/why-trail-camera-night-images-blurry-overexposed?srsltid=AfmBOoqoPPOBOnjnmpeQctKA7wi9CtCY7UvtpVSl86ShLOPoZV9llWM6</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Are Trail Camera Night Images Blurry or Overexposed?18 Apr 2026 — In foggy conditions, IR beams are diffused before reaching the subj...</p></details>

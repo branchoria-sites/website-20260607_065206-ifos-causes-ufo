@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ifos-causes-of-ufo-3ed238-astronomical/
 description: Focused pages that expand on Sky Charts.
-date: '2026-06-07'
+date: '2026-06-12'
 layout: default
 parent_basename: ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725
-parent_title: Sky Charts | Ifos Causes Of
+parent_title: Sky Charts
 parent_nav_short_title: Sky Charts
 parent_permalink: /sky-charts/
 ---

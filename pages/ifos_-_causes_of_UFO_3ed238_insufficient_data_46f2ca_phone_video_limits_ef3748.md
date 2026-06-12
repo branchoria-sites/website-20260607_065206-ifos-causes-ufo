@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca_range_mistakes_125691
 - ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca_truly_unidentified_c_b0673b
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - missing-data
 - phone-clips
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - missing-data
 - phone-clips
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: A sharp-looking clip can still be weak evidence if it lacks location, direction, range, camera settings, or corroboration.
 hero_summary: A sharp-looking clip can still be weak evidence if it lacks location, direction, range, camera settings, or corroboration.
 layout: default
 permalink: /phone-clips/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /missing-data/
 nav_short_title: Phone clips
 title: Why clear UFO videos can still fail
-title_full: Why clear UFO videos can still fail | Missing Data
+title_full: Why clear UFO videos can still fail
 display_title_short: Phone clips
 display_title: Phone clips
 heading_title: Why clear UFO videos can still fail
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 21:51:42'
-parent_title: Unsolved Does Not Always Mean Strange | IFOs
+parent_title: Unsolved Does Not Always Mean Strange
 parent_permalink: /missing-data/
 parent_nav_short_title: Missing Data
 parent_heading_title: Unsolved Does Not Always Mean Strange
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca
-  title: Missing Data | Ifos Causes Of
+  title: Missing Data | ifos causes of UFO 3 ed 238
   permalink: /missing-data/
   short_title: Missing Data
   heading_title: Unsolved Does Not Always Mean Strange
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca
-  title: Missing Data | Ifos Causes Of
+  title: Missing Data | ifos causes of UFO 3 ed 238
   permalink: /missing-data/
   short_title: Missing Data
   heading_title: Unsolved Does Not Always Mean Strange
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: What makes a UFO truly unidentified
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca
-  title: Missing Data | Ifos Causes Of
+  title: Missing Data | ifos causes of UFO 3 ed 238
   permalink: /missing-data/
   short_title: Missing Data
   heading_title: Unsolved Does Not Always Mean Strange
@@ -266,6 +265,7 @@ next_link:
   permalink: /range-errors/
   short_title: Range errors
   heading_title: When distance makes UFOs look impossible
+date: '2026-06-12 00:30:27 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca_phone_video_limits_ef3748-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca_phone_video_limits_ef3748-Illustration-1.webp
@@ -276,11 +276,10 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca_phone
 
 Some of the most persistent UFO videos in the smartphone era are not blurry at all. They are sharp, stable, and visually striking. Viewers can clearly see a bright object, a dark shape, or an apparently unusual movement. Yet many of these clips remain unresolved for a reason that is easy to miss: a clear image is not the same thing as a complete dataset.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca_phone_video_limits_ef3748-Illustration-1-dark.svg" | relative_url }}" alt="Phone clips illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca_phone_video_limits_ef3748-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca_phone_video_limits_ef3748-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within UFO and UAP investigation, a phone video often provides only a narrow slice of the information needed to identify an object. It may show what the camera captured, but not where the observer stood, the direction of view, the distance to the target, the exact zoom level, the camera's processing decisions, or whether any independent sensor observed the same event. NASA's independent UAP study concluded that analysis is frequently limited by poor sensor calibration, [missing metadata]({{ 'missing-metadata/' | relative_url }}), lack of multiple measurements, and inadequate baseline information. The report stressed that many observations contain imagery but still lack the supporting data required for scientific conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://skyandtelescope.org/astronomy-news/nasa-finds-no-evidence-ufos-are-extraterrestrial-promises-further-study/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyandtelescope.org">[Sky &amp; Telescope]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyandtelescope.org</span><span class="citation-popover-title">nasa finds no evidence ufos are extraterrestrial promises further study</span><span class="citation-popover-snippet">First, UAP reports are typically single sightings and lack multiple measurements. Those individual reports also often lack sensor metadat...</span></span></span>
 
-This creates a category of case that is often misunderstood in public discussion: the phone clip that looks compelling but remains analytically weak. Such videos belong squarely within the broader distinction between "[insufficient data]({{ 'missing-data/' | relative_url }})" and "[truly unidentified]({{ 'true-unknowns/' | relative_url }})". A video can remain unresolved not because it depicts something extraordinary, but because too much contextual information was never recorded.
+This creates a category of case that is often misunderstood in public discussion: the phone clip that looks compelling but remains analytically weak. Such videos belong squarely within the broader distinction between "insufficient data" and "truly unidentified". A video can remain unresolved not because it depicts something extraordinary, but because too much contextual information was never recorded.
 
 ## What a Video Shows and What It Leaves Out
 
@@ -290,17 +289,12 @@ A viewer may see a bright light moving across the screen, but the recording usua
 
 For example, a bright point of light occupying ten pixels in a frame could represent:
 
-
-<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
-
 * A nearby drone.
 * A commercial aircraft many kilometres away.
 * A bright planet near the horizon.
-* A helicopter with landing lights.
+* A helicopter with [landing lights]({{ 'landing-lights/' | relative_url }}).
 * A satellite flare.
 * A distant balloon reflecting sunlight.
-
-</div>
 
 The image alone may not distinguish among them.
 
@@ -323,7 +317,6 @@ NASA's UAP study specifically highlighted the importance of metadata—the infor
 
 This is why a visually impressive phone clip can remain unresolved for years while contributing little evidence about the nature of the object itself.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/H9KiY1WzlTw" title="US releases new UFO files in transparency push" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=H9KiY1WzlTw" target="_blank" rel="noopener noreferrer">US releases new UFO files in transparency push</a></p><p class="youtube-embed-meta">Channel: AeroTime &middot; Views: 491 &middot; Uploaded: May 2026 &middot; Length: 4 minutes 56 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=H9KiY1WzlTw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=H9KiY1WzlTw">Open on YouTube</a></p></div></div></div>
 
 ## Why Smartphone Cameras Can Create Misleading Impressions
@@ -334,9 +327,9 @@ That processing can produce footage that appears more precise than the underlyin
 
 ### Digital Zoom and Cropping
 
-Many UFO videos are recorded at high zoom levels. On most phones, significant portions of this zoom range are digital rather than optical.
+Many UFO videos are recorded at high zoom levels. On most phones, significant portions of this zoom [range]({{ 'range/' | relative_url }}) are digital rather than optical.
 
-Digital zoom often works by cropping a small section of the image and enlarging it. Modern devices may also use artificial intelligence and image reconstruction techniques to enhance apparent detail. Research on mobile imaging systems shows that smartphone zoom increasingly relies on computational methods and image fusion rather than simple optical magnification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2401.01461" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Efficient Hybrid Zoom using Camera Fusion on Mobile Phones</span><span class="citation-popover-snippet">arXivEfficient Hybrid Zoom using Camera Fusion on Mobile PhonesJanuary 2, 2024...</span><span class="citation-popover-meta">Published: January 2, 2024</span></span></span>
+Digital zoom often works by cropping a small section of the image and enlarging it. Modern devices may also use artificial intelligence and image reconstruction techniques to enhance apparent detail. Research on mobile imaging systems shows that smartphone zoom increasingly relies on computational methods and image fusion rather than simple optical magnification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2401.01461" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Efficient Hybrid Zoom using Camera Fusion on Mobile Phones</span><span class="citation-popover-snippet">Efficient Hybrid Zoom using Camera Fusion on Mobile PhonesJanuary 2, 2024...</span><span class="citation-popover-meta">Published: January 2, 2024</span></span></span>
 
 The result is that a distant light may appear larger and more structured than the original optical information justified.
 
@@ -358,7 +351,6 @@ When recording a bright object at night, the camera may repeatedly alter focus d
 
 Investigators therefore prefer access to [original files]({{ 'original-files/' | relative_url }}) rather than social-media uploads, because repeated compression and processing can further distort what the sensor originally recorded.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca_phone_video_limits_ef3748-Illustration-2-dark.svg" | relative_url }}" alt="Phone clips illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca_phone_video_limits_ef3748-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca_phone_video_limits_ef3748-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Apparent Motion Is Often the Weakest Part of the Evidence
 
@@ -375,7 +367,6 @@ A nearby insect crossing the field of view can produce angular motion similar to
 Without independent range measurements, extraordinary motion claims become difficult to verify.
 
 This issue appears repeatedly in official UAP analysis. AARO has stated that many unresolved cases remain limited by insufficient technical information and lack of supporting sensor data. In publicly released unresolved examples, the office has specifically noted the absence of corroborating telemetry and multi-modal observations needed to determine whether an apparent anomaly reflects a physical object, a sensor artefact, or another cause. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dvidshub.net/video/962722/unresolved-uap-report-middle-east-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">Unresolved UAP Report: Middle East 2024However, due to the absence of corroborating telemetry or multi-modal sensor data, AARO cannot det...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">AARO&#x27;s Historical UAP Report</span><span class="citation-popover-snippet">Volume 19 Mar 2024 — Although many UAP reports remain unsolved or unidentified, AARO assesses that if more and better quality data were a...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ag2pzH6aSpY" title="Newly declassified UFO files reveal unexplained encounters" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ag2pzH6aSpY" target="_blank" rel="noopener noreferrer">Newly declassified UFO files reveal unexplained encounters</a></p><p class="youtube-embed-meta">Channel: FOX NASHVILLE &middot; Views: 1.5K &middot; Uploaded: May 2026 &middot; Length: 2 minutes 8 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ag2pzH6aSpY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ag2pzH6aSpY">Open on YouTube</a></p></div></div></div>
 
@@ -407,7 +398,6 @@ AARO has publicly released examples where video footage existed but remained unr
 
 That example illustrates a key point: possession of video evidence does not automatically mean possession of useful identification data.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca_phone_video_limits_ef3748-Illustration-3-dark.svg" | relative_url }}" alt="Phone clips illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca_phone_video_limits_ef3748-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca_phone_video_limits_ef3748-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Corroboration Turns Footage into Evidence
 
@@ -416,7 +406,6 @@ The strongest UFO videos are rarely strong because of the imagery alone.
 They become valuable when independent sources confirm what the video appears to show.
 
 Corroboration can come from:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -438,7 +427,6 @@ NASA's UAP study repeatedly emphasised the value of multiple measurements and in
 This is the dividing line between a visually interesting clip and a genuinely informative case.
 
 A sharp phone video by itself may show that something was recorded. It does not necessarily show what was recorded.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nbC6dFb35Jo" title="Former Military Radar Technician Reacts to Newly Declassified UAP Evidence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nbC6dFb35Jo" target="_blank" rel="noopener noreferrer">Former Military Radar Technician Reacts to Newly Declassified UAP Evidence</a></p><p class="youtube-embed-meta">Channel: Wes O&#x27;Donnell &middot; Views: 12.1K &middot; Uploaded: May 2026 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nbC6dFb35Jo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nbC6dFb35Jo">Open on YouTube</a></p></div></div></div>
 
@@ -571,15 +559,15 @@ That reality explains why some of the clearest UFO clips on the internet continu
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-clips-why-clear-ufo-videos-can-still-fail-ifos-causes-of-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="phone-clips-why-clear-ufo-videos-can-still-fail-ifos-causes-of-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Universal Selfie Stick Bluetooth Remote Phone Holder Stand Tripod For iPhone"><img src="{{ '/assets/images/marketplace-covers/c7fafdecfb53a99a695a.jpg' | relative_url }}" alt="Listing image for Universal Selfie Stick Bluetooth Remote Phone Holder Stand Tripod For iPhone" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-clear-ufo-videos-can-still-fail-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="why-clear-ufo-videos-can-still-fail-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 170CM Tall Flexible Phone Tripod with Gooseneck Heavy Duty Phone Tripod Stand UK"><img src="https://i.ebayimg.com/images/g/c6sAAeSwzGVqBTXR/s-l225.jpg" alt="Listing image for 170CM Tall Flexible Phone Tripod with Gooseneck Heavy Duty Phone Tripod Stand UK" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-clips-why-clear-ufo-videos-can-still-fail-ifos-causes-of-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="phone-clips-why-clear-ufo-videos-can-still-fail-ifos-causes-of-phone-tripod" target="_blank" rel="sponsored noopener noreferrer">Universal Selfie Stick Bluetooth Remote Phone Holder Stand Tripod For iPhone</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-clear-ufo-videos-can-still-fail-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="why-clear-ufo-videos-can-still-fail-phone-tripod" target="_blank" rel="sponsored noopener noreferrer">170CM Tall Flexible Phone Tripod with Gooseneck Heavy Duty Phone Tripod Stand UK</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-clips-why-clear-ufo-videos-can-still-fail-ifos-causes-of-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="phone-clips-why-clear-ufo-videos-can-still-fail-ifos-causes-of-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone tripod</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-clear-ufo-videos-can-still-fail-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="why-clear-ufo-videos-can-still-fail-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone tripod</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-clips-why-clear-ufo-videos-can-still-fail-ifos-causes-of-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="phone-clips-why-clear-ufo-videos-can-still-fail-ifos-causes-of-phone-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-clear-ufo-videos-can-still-fail-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="why-clear-ufo-videos-can-still-fail-phone-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -587,15 +575,15 @@ That reality explains why some of the clearest UFO clips on the internet continu
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-clips-why-clear-ufo-videos-can-still-fail-ifos-causes-of-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="phone-clips-why-clear-ufo-videos-can-still-fail-ifos-causes-of-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Selfie Stick Tripod Light Phone Holder Stand Remote Bluetooth For iPhone Samsung"><img src="{{ '/assets/images/marketplace-covers/90f5b8cdd3dd223b4944.jpg' | relative_url }}" alt="Listing image for Selfie Stick Tripod Light Phone Holder Stand Remote Bluetooth For iPhone Samsung" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-clear-ufo-videos-can-still-fail-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="why-clear-ufo-videos-can-still-fail-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RISEOFLE Phone Tripod &amp; Selfie Stick, 180cm Aluminum All in One"><img src="https://i.ebayimg.com/images/g/tBkAAeSwqdxoyu8d/s-l225.jpg" alt="Listing image for RISEOFLE Phone Tripod &amp; Selfie Stick, 180cm Aluminum All in One" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-clips-why-clear-ufo-videos-can-still-fail-ifos-causes-of-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="phone-clips-why-clear-ufo-videos-can-still-fail-ifos-causes-of-phone-tripod" target="_blank" rel="sponsored noopener noreferrer">Selfie Stick Tripod Light Phone Holder Stand Remote Bluetooth For iPhone Samsung</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-clear-ufo-videos-can-still-fail-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="why-clear-ufo-videos-can-still-fail-phone-tripod" target="_blank" rel="sponsored noopener noreferrer">RISEOFLE Phone Tripod &amp; Selfie Stick, 180cm Aluminum All in One</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-clips-why-clear-ufo-videos-can-still-fail-ifos-causes-of-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="phone-clips-why-clear-ufo-videos-can-still-fail-ifos-causes-of-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone tripod</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-clear-ufo-videos-can-still-fail-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="why-clear-ufo-videos-can-still-fail-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone tripod</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-clips-why-clear-ufo-videos-can-still-fail-ifos-causes-of-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="phone-clips-why-clear-ufo-videos-can-still-fail-ifos-causes-of-phone-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-clear-ufo-videos-can-still-fail-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="why-clear-ufo-videos-can-still-fail-phone-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -603,15 +591,15 @@ That reality explains why some of the clearest UFO clips on the internet continu
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-clips-why-clear-ufo-videos-can-still-fail-ifos-causes-of-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="phone-clips-why-clear-ufo-videos-can-still-fail-ifos-causes-of-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lightweight Aluminium Tripod Telescopic Camera DSLR Stand With Phone Holder UK"><img src="{{ '/assets/images/marketplace-covers/7d06cc1db4091aaf2e1b.jpg' | relative_url }}" alt="Listing image for Lightweight Aluminium Tripod Telescopic Camera DSLR Stand With Phone Holder UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-clear-ufo-videos-can-still-fail-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="why-clear-ufo-videos-can-still-fail-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Telescopic Selfie Stick Bluetooth Tripod Monopod Phone Holder for Samsung iPhone"><img src="https://i.ebayimg.com/images/g/hxIAAeSwjC9qIulr/s-l225.jpg" alt="Listing image for Telescopic Selfie Stick Bluetooth Tripod Monopod Phone Holder for Samsung iPhone" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-clips-why-clear-ufo-videos-can-still-fail-ifos-causes-of-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="phone-clips-why-clear-ufo-videos-can-still-fail-ifos-causes-of-phone-tripod" target="_blank" rel="sponsored noopener noreferrer">Lightweight Aluminium Tripod Telescopic Camera DSLR Stand With Phone Holder UK</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-clear-ufo-videos-can-still-fail-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="why-clear-ufo-videos-can-still-fail-phone-tripod" target="_blank" rel="sponsored noopener noreferrer">Telescopic Selfie Stick Bluetooth Tripod Monopod Phone Holder for Samsung iPhone</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-clips-why-clear-ufo-videos-can-still-fail-ifos-causes-of-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="phone-clips-why-clear-ufo-videos-can-still-fail-ifos-causes-of-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone tripod</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-clear-ufo-videos-can-still-fail-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="why-clear-ufo-videos-can-still-fail-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone tripod</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-clips-why-clear-ufo-videos-can-still-fail-ifos-causes-of-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="phone-clips-why-clear-ufo-videos-can-still-fail-ifos-causes-of-phone-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-clear-ufo-videos-can-still-fail-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="why-clear-ufo-videos-can-still-fail-phone-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -619,15 +607,15 @@ That reality explains why some of the clearest UFO clips on the internet continu
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-clips-why-clear-ufo-videos-can-still-fail-ifos-causes-of-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="phone-clips-why-clear-ufo-videos-can-still-fail-ifos-causes-of-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Telescopic Selfie Stick Bluetooth Tripod Monopod Phone Holder for Samsung iPhone"><img src="{{ '/assets/images/marketplace-covers/3b5f69cfd14ed4fc7763.jpg' | relative_url }}" alt="Listing image for Telescopic Selfie Stick Bluetooth Tripod Monopod Phone Holder for Samsung iPhone" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-clear-ufo-videos-can-still-fail-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="why-clear-ufo-videos-can-still-fail-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 170CM Tall Flexible Phone Tripod with Gooseneck Heavy Duty Phone Tripod Stand UK"><img src="https://i.ebayimg.com/images/g/3d8AAeSwx0Jo8d5Z/s-l225.jpg" alt="Listing image for 170CM Tall Flexible Phone Tripod with Gooseneck Heavy Duty Phone Tripod Stand UK" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-clips-why-clear-ufo-videos-can-still-fail-ifos-causes-of-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="phone-clips-why-clear-ufo-videos-can-still-fail-ifos-causes-of-phone-tripod" target="_blank" rel="sponsored noopener noreferrer">Telescopic Selfie Stick Bluetooth Tripod Monopod Phone Holder for Samsung iPhone</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-clear-ufo-videos-can-still-fail-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="why-clear-ufo-videos-can-still-fail-phone-tripod" target="_blank" rel="sponsored noopener noreferrer">170CM Tall Flexible Phone Tripod with Gooseneck Heavy Duty Phone Tripod Stand UK</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-clips-why-clear-ufo-videos-can-still-fail-ifos-causes-of-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="phone-clips-why-clear-ufo-videos-can-still-fail-ifos-causes-of-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone tripod</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-clear-ufo-videos-can-still-fail-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="why-clear-ufo-videos-can-still-fail-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone tripod</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-clips-why-clear-ufo-videos-can-still-fail-ifos-causes-of-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="phone-clips-why-clear-ufo-videos-can-still-fail-ifos-causes-of-phone-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-clear-ufo-videos-can-still-fail-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="why-clear-ufo-videos-can-still-fail-phone-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -635,7 +623,7 @@ That reality explains why some of the clearest UFO clips on the internet continu
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-clips-why-clear-ufo-videos-can-still-fail-ifos-causes-of-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="phone-clips-why-clear-ufo-videos-can-still-fail-ifos-causes-of-phone-tripod" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-clear-ufo-videos-can-still-fail-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="why-clear-ufo-videos-can-still-fail-phone-tripod" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -850,110 +838,110 @@ That reality explains why some of the clearest UFO clips on the internet continu
 
 1. <a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: wired.com  
-   Link: [https://www.wired.com/story/nasa-ufos-aliens-report-2023](https://www.wired.com/story/nasa-ufos-aliens-report-2023)  
+   Link: <a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The agency stressed the need to shift the conversation from sensationalism to science and eliminate the [stigma](&amp;#123;&amp;#123; &#x27;stigma/&#x27; | relative_url &amp;#125;&amp;#125;) associated with reporting...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
    Title: arXiv Efficient Hybrid Zoom using Camera Fusion on Mobile Phones  
-   Link: [https://arxiv.org/abs/2401.01461](https://arxiv.org/abs/2401.01461)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivEfficient Hybrid Zoom using Camera Fusion on Mobile PhonesJanuary 2, 2024...</p></details>
+   Link: <a href="https://arxiv.org/abs/2401.01461" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2401.01461</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Efficient Hybrid Zoom using Camera Fusion on Mobile PhonesJanuary 2, 2024...</p></details>
    Published: January 2, 2024  
 
 4. <a id="endnote-4"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/video/962722/unresolved-uap-report-middle-east-2024](https://www.dvidshub.net/video/962722/unresolved-uap-report-middle-east-2024)  
+   Link: <a href="https://www.dvidshub.net/video/962722/unresolved-uap-report-middle-east-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/962722/unresolved-uap-report-middle-east-2024</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unresolved UAP Report: Middle East 2024However, due to the absence of corroborating telemetry or multi-modal sensor data, AARO cannot det...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: metabunk.org  
    Title: AARO's Historical UAP Report  
-   Link: [https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/](https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/)  
+   Link: <a href="https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Volume 19 Mar 2024 — Although many UAP reports remain unsolved or unidentified, AARO assesses that if more and better quality data were a...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024](https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024)  
+   Link: <a href="https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PR-017, Unresolved UAP Report, Europe 2024The video footage associated with this report is insufficient for AARO to render a determinatio...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2506.00125v1](https://arxiv.org/html/2506.00125v1)  
+   Link: <a href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.00125v1</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Introduction30 May 2025 — Scientific investigation of Unidentified Anomalous Phenomena (UAP) is limited by poor data quality and incomp...</p></details>
    Published: May 2025  
 
 9. <a id="endnote-9"></a>
    Source: aaro.com  
    Title: Your Partner in Group Reporting | CPM software & more  
-   Link: [https://aaro.com/en/](https://aaro.com/en/)  
+   Link: <a href="https://aaro.com/en/" target="_blank" rel="noopener noreferrer nofollow">https://aaro.com/en/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Complete software, wide range of services, online support...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: metabunk.org  
    Title: aaro mission process and data statistics patterns.13087  
-   Link: [https://www.metabunk.org/threads/aaro-mission-process-and-data-statistics-patterns.13087/](https://www.metabunk.org/threads/aaro-mission-process-and-data-statistics-patterns.13087/)  
+   Link: <a href="https://www.metabunk.org/threads/aaro-mission-process-and-data-statistics-patterns.13087/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/aaro-mission-process-and-data-statistics-patterns.13087/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO: Mission, process, and data statistics/patterns3 Aug 2023 — While a large number of cases in AARO&#x27;s holdings remain technically unre...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: aaro.org  
-   Link: [https://aaro.org/](https://aaro.org/)  
+   Link: <a href="https://aaro.org/" target="_blank" rel="noopener noreferrer nofollow">https://aaro.org/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Association of Americans Resident Overseas: AAROThe Association of Americans Resident Overseas (AARO), founded in 1973 is a global, non-p...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
-   Link: [https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology](https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology)  
+   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO office finds &#x27;no empirical evidence&#x27; for alien...8 Mar 2024 — The Pentagon&#x27;s UFO office has once again stressed that it has...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: space.com  
    Title: nasa ufo uap study team first results revealed  
-   Link: [https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed](https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed)  
+   Link: <a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;At present, analysis of UAP data is hampered by poor sensor...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — We commissioned a study team to examine from a scientific perspective unidentified anomalous phenomena (UAPs) – t...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: skyandtelescope.org  
    Title: nasa finds no evidence ufos are extraterrestrial promises further study  
-   Link: [https://skyandtelescope.org/astronomy-news/nasa-finds-no-evidence-ufos-are-extraterrestrial-promises-further-study/](https://skyandtelescope.org/astronomy-news/nasa-finds-no-evidence-ufos-are-extraterrestrial-promises-further-study/)  
+   Link: <a href="https://skyandtelescope.org/astronomy-news/nasa-finds-no-evidence-ufos-are-extraterrestrial-promises-further-study/" target="_blank" rel="noopener noreferrer nofollow">https://skyandtelescope.org/astronomy-news/nasa-finds-no-evidence-ufos-are-extraterrestrial-promises-further-study/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>First, UAP reports are typically single sightings and lack multiple measurements. Those individual reports also often lack sensor metadat...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/video/988676/pr-018-unresolved-uap-report-europe-2024](https://www.dvidshub.net/video/988676/pr-018-unresolved-uap-report-europe-2024)  
+   Link: <a href="https://www.dvidshub.net/video/988676/pr-018-unresolved-uap-report-europe-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/988676/pr-018-unresolved-uap-report-europe-2024</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PR-018, Unresolved UAP Report, Europe 2024This unresolved report contributes to AARO&#x27;s historical and locational trend analyses. VIDEO IN...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/video/977839/pr-008-unresolved-uap-report-europe-2022](https://www.dvidshub.net/video/977839/pr-008-unresolved-uap-report-europe-2022)  
+   Link: <a href="https://www.dvidshub.net/video/977839/pr-008-unresolved-uap-report-europe-2022" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/977839/pr-008-unresolved-uap-report-europe-2022</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PR-008, Unresolved UAP Report, Europe 2022The United States European Command submitted a report of an unidentified anomalous phenomenon t...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/video/961723/unresolved-uap-report-middle-east-2023](https://www.dvidshub.net/video/961723/unresolved-uap-report-middle-east-2023)  
+   Link: <a href="https://www.dvidshub.net/video/961723/unresolved-uap-report-middle-east-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/961723/unresolved-uap-report-middle-east-2023</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unresolved UAP Report: Middle East 2023However, due to the absence of corroborating telemetry or multi-modal sensor data, AARO cannot det...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/video/973055/pr-003-unresolved-uap-report-africa-2023](https://www.dvidshub.net/video/973055/pr-003-unresolved-uap-report-africa-2023)  
+   Link: <a href="https://www.dvidshub.net/video/973055/pr-003-unresolved-uap-report-africa-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/973055/pr-003-unresolved-uap-report-africa-2023</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PR-003, Unresolved UAP Report, Africa 2023... (AARO) consisting of... sensor display error. The available data is insufficient to evalua...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/UFO/](https://www.war.gov/UFO/)  
+   Link: <a href="https://www.war.gov/UFO/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/UFO/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Presidential Unsealing and Reporting System for UAP...8 May 2026 — The materials archived here are unresolved cases, meaning the governm...</p></details>
    Published: May 2026  
 
@@ -962,54 +950,54 @@ That reality explains why some of the clearest UFO clips on the internet continu
 22. <a id="endnote-22"></a>
    Source: war.gov  
    Title: dr jon kosloski director aaro media roundtable on the fy24 consolidated annual  
-   Link: [https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/](https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/)  
+   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jon Kosloski, Director, AARO, Media Roundtable on the...14 Nov 2024 — AARO has taken meaningful steps to improve data collection and ret...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/10aa9mt/aaro_the_us_government_anomalous_phenomena/](https://www.reddit.com/r/HighStrangeness/comments/10aa9mt/aaro_the_us_government_anomalous_phenomena/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/10aa9mt/aaro_the_us_government_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/10aa9mt/aaro_the_us_government_anomalous_phenomena/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO, the U.S. Government Anomalous Phenomena...The All-domain Anomaly Resolution Office (AARO) unit at the Pentagon is currently invest...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: eetimes.com  
-   Link: [https://www.eetimes.com/evolution-of-zoom-camera-in-smartphones/](https://www.eetimes.com/evolution-of-zoom-camera-in-smartphones/)  
+   Link: <a href="https://www.eetimes.com/evolution-of-zoom-camera-in-smartphones/" target="_blank" rel="noopener noreferrer nofollow">https://www.eetimes.com/evolution-of-zoom-camera-in-smartphones/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Evolution of Zoom Camera in SmartphonesThis article covers the entire evolution of zoom cameras in smartphones, from early days of the Sa...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: managingexpectations.net  
-   Link: [https://managingexpectations.net/blog/articles/nasa-uap-study-managing-expectations.html](https://managingexpectations.net/blog/articles/nasa-uap-study-managing-expectations.html)  
+   Link: <a href="https://managingexpectations.net/blog/articles/nasa-uap-study-managing-expectations.html" target="_blank" rel="noopener noreferrer nofollow">https://managingexpectations.net/blog/articles/nasa-uap-study-managing-expectations.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s UAP Study: What It Did — and Did Not — ConcludeThe panel said UAP analysis is hampered by “poor sensor calibration,” a lack of mul...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: nypost.com  
-   Link: [https://nypost.com/2024/11/14/us-news/pentagon-says-nearly-two-dozen-ufo-sightings-cant-be-explained-true-anomalies/](https://nypost.com/2024/11/14/us-news/pentagon-says-nearly-two-dozen-ufo-sightings-cant-be-explained-true-anomalies/)  
+   Link: <a href="https://nypost.com/2024/11/14/us-news/pentagon-says-nearly-two-dozen-ufo-sightings-cant-be-explained-true-anomalies/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/11/14/us-news/pentagon-says-nearly-two-dozen-ufo-sightings-cant-be-explained-true-anomalies/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The &quot;all-domain anomaly resolution office&quot; (AARO) identified 21 reports as &quot;true anomalies&quot; needing further investigation. Most sightings...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/yourDigitalBrain/posts/this-is-a-common-meme-but-it-may-have-an-explanation-most-photos-of-supposed-ufo/1218955780347961/](https://www.facebook.com/yourDigitalBrain/posts/this-is-a-common-meme-but-it-may-have-an-explanation-most-photos-of-supposed-ufo/1218955780347961/)  
+   Link: <a href="https://www.facebook.com/yourDigitalBrain/posts/this-is-a-common-meme-but-it-may-have-an-explanation-most-photos-of-supposed-ufo/1218955780347961/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/yourDigitalBrain/posts/this-is-a-common-meme-but-it-may-have-an-explanation-most-photos-of-supposed-ufo/1218955780347961/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This is a common meme, but it may have an explanationOne joke I hate seeing people take seriously is that the existence of cell phone cam...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/k3ovw2/why_are_ufo_sighting_videos_always_so_blurry/](https://www.reddit.com/r/aliens/comments/k3ovw2/why_are_ufo_sighting_videos_always_so_blurry/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/k3ovw2/why_are_ufo_sighting_videos_always_so_blurry/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/k3ovw2/why_are_ufo_sighting_videos_always_so_blurry/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>WHY are UFO Sighting videos always so blurry, wobbly...There is the video of the ufo in Turkey where the ufo and aliens are stationary i...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: science.org  
    Title: nasa ufo team calls higher quality data first public meeting  
-   Link: [https://www.science.org/content/article/nasa-ufo-team-calls-higher-quality-data-first-public-meeting](https://www.science.org/content/article/nasa-ufo-team-calls-higher-quality-data-first-public-meeting)  
+   Link: <a href="https://www.science.org/content/article/nasa-ufo-team-calls-higher-quality-data-first-public-meeting" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/article/nasa-ufo-team-calls-higher-quality-data-first-public-meeting</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO team calls for higher quality data in first public...31 May 2023 — Most of NASA&#x27;s Earth-observing satellites would not be great...</p></details>
    Published: May 2023  
 
 30. <a id="endnote-30"></a>
    Source: thebaynet.com  
    Title: pentagons latest uap report sheds light on anomalies but questions remain  
-   Link: [https://thebaynet.com/pentagons-latest-uap-report-sheds-light-on-anomalies-but-questions-remain/](https://thebaynet.com/pentagons-latest-uap-report-sheds-light-on-anomalies-but-questions-remain/)  
+   Link: <a href="https://thebaynet.com/pentagons-latest-uap-report-sheds-light-on-anomalies-but-questions-remain/" target="_blank" rel="noopener noreferrer nofollow">https://thebaynet.com/pentagons-latest-uap-report-sheds-light-on-anomalies-but-questions-remain/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon&#x27;s Latest UAP Report Sheds Light On Anomalies...20 Nov 2024 — AARO&#x27;s ability to resolve cases is often constrained by the lack o...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: avi-loeb.medium.com  
    Title: a new calculation on the fly to the nasa uap study 2dacaf860cac  
-   Link: [https://avi-loeb.medium.com/a-new-calculation-on-the-fly-to-the-nasa-uap-study-2dacaf860cac](https://avi-loeb.medium.com/a-new-calculation-on-the-fly-to-the-nasa-uap-study-2dacaf860cac)  
+   Link: <a href="https://avi-loeb.medium.com/a-new-calculation-on-the-fly-to-the-nasa-uap-study-2dacaf860cac" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/a-new-calculation-on-the-fly-to-the-nasa-uap-study-2dacaf860cac</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New Calculation on the Fly to the NASA UAP Study - Avi LoebRubin Observatory in Chile will survey the entire southern sky every four days...</p></details>

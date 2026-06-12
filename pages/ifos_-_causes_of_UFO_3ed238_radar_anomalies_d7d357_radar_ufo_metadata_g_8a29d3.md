@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357_radar_ducting_false_d35e7f
 - ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357_wind_turbine_radar_f_17eb42
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - radar
 - missing-data
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - radar
 - missing-data
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Without calibration records, weather context, sensor settings, and timing data, a radar anomaly may remain unresolved for ordinary reasons.
 hero_summary: Without calibration records, weather context, sensor settings, and timing data, a radar anomaly may remain unresolved for ordinary reasons.
 layout: default
 permalink: /missing-data-0adffe/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /radar/
 nav_short_title: Missing Data
 title: Why Radar UFO Evidence Often Needs Metadata
-title_full: Why Radar UFO Evidence Often Needs Metadata | Radar
+title_full: Why Radar UFO Evidence Often Needs Metadata
 display_title_short: Missing Data
 display_title: Missing Data
 heading_title: Why Radar UFO Evidence Often Needs Metadata
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 21:36:34'
-parent_title: When Radar Sees a UFO That Isnt There | IFOs
+parent_title: When Radar Sees a UFO That Isnt There
 parent_permalink: /radar/
 parent_nav_short_title: Radar
 parent_heading_title: When Radar Sees a UFO That Isnt There
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357
-  title: Radar | Ifos Causes Of
+  title: Radar | ifos causes of UFO 3 ed 238
   permalink: /radar/
   short_title: Radar
   heading_title: When Radar Sees a UFO That Isnt There
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357
-  title: Radar | Ifos Causes Of
+  title: Radar | ifos causes of UFO 3 ed 238
   permalink: /radar/
   short_title: Radar
   heading_title: When Radar Sees a UFO That Isnt There
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: Why Wind Farms Can Confuse Airport Radar
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357
-  title: Radar | Ifos Causes Of
+  title: Radar | ifos causes of UFO 3 ed 238
   permalink: /radar/
   short_title: Radar
   heading_title: When Radar Sees a UFO That Isnt There
@@ -266,6 +265,7 @@ next_link:
   permalink: /radar-ducting/
   short_title: Radar Ducting
   heading_title: When the Atmosphere Makes Radar See Objects
+date: '2026-06-12 00:32:42 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357_radar_ufo_metadata_g_8a29d3-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357_radar_ufo_metadata_g_8a29d3-Illustration-1.webp
@@ -275,7 +275,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357_radar_u
 ## Introduction
 
 [Radar]({{ 'radar/' | relative_url }}) contacts are often presented as some of the strongest evidence in UFO cases because they appear to provide objective measurements rather than human impressions. Yet radar evidence is only as reliable as the information available about how the sensor was operating when the anomaly occurred. When calibration records, weather conditions, radar modes, processing settings, timing data, and system logs are missing, investigators frequently cannot determine whether a radar return represents an aircraft, an environmental effect, a processing artefact, or something genuinely unexplained. NASA's 2023 independent UAP study highlighted the lack of sensor metadata as one of the major obstacles to analysing unidentified reports scientifically. Without that supporting information, even a dramatic radar track can remain unresolved for ordinary reasons rather than extraordinary ones. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357_radar_ufo_metadata_g_8a29d3-Illustration-1-dark.svg" | relative_url }}" alt="Missing Data illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357_radar_ufo_metadata_g_8a29d3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357_radar_ufo_metadata_g_8a29d3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Radar Metadata Investigators Need
@@ -297,10 +296,9 @@ Key metadata typically includes:
 
 </div>
 
-NASA specifically noted that useful metadata includes information about observing modes, time, location, and environmental context because these details allow analysts to determine whether sensor behaviour was expected under the circumstances. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">WikisourceNASA Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — The panel notes that, at present, gathering data on UAP is...</span></span></span>
+NASA specifically noted that useful metadata includes information about observing modes, time, location, and environmental context because these details allow analysts to determine whether sensor behaviour was expected under the circumstances. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">NASA Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — The panel notes that, at present, gathering data on UAP is...</span></span></span>
 
 The distinction between raw radar returns and processed tracks is particularly important. Modern radar systems frequently apply filtering and automated track-building software. A final track displayed to an operator may represent a series of algorithmic decisions rather than direct measurements alone. Without metadata documenting those processes, later investigators may not know exactly how the displayed target was generated.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-GfIe9dhJkM" title="US Shares Classified UAP Data With Global Allies | WION Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-GfIe9dhJkM" target="_blank" rel="noopener noreferrer">US Shares Classified UAP Data With Global Allies | WION Podcast</a></p><p class="youtube-embed-meta">Channel: WION &middot; Views: 1.3K &middot; Uploaded: May 2026 &middot; Length: 2 minutes 22 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-GfIe9dhJkM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-GfIe9dhJkM">Open on YouTube</a></p></div></div></div>
 
@@ -309,7 +307,6 @@ The distinction between raw radar returns and processed tracks is particularly i
 Many radar UFO cases remain unresolved not because the observed object was extraordinary, but because the available data are incomplete.
 
 Consider a hypothetical radar contact that appears to move rapidly across a display. If investigators possess only a description of the event, several critical questions remain unanswered:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -328,7 +325,6 @@ This is why unresolved does not automatically mean unexplained. In many historic
 
 The problem is similar to receiving a photograph without information about the camera, lens, exposure settings, or image processing. The image may be genuine, but analysts lose much of their ability to determine what actually produced it.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357_radar_ufo_metadata_g_8a29d3-Illustration-2-dark.svg" | relative_url }}" alt="Missing Data illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357_radar_ufo_metadata_g_8a29d3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357_radar_ufo_metadata_g_8a29d3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Weather Context Matters So Much
 
@@ -337,7 +333,6 @@ Weather information is one of the most frequently missing forms of metadata in o
 Atmospheric conditions can significantly alter radar performance. Temperature inversions, humidity gradients, and ducting conditions can bend radar beams away from their expected paths. The result can be false targets, displaced echoes, unusual [ranges]({{ 'ranges/' | relative_url }}), or apparent tracks that do not correspond to aircraft. The FAA notes that anomalous propagation can create numerous extraneous radar blips and distort normal detection performance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/atpubs/aim/aim0405.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration4-5-2</span><span class="citation-popover-snippet">Air Traffic Control Radar Beacon System (ATCRBS)8 Jan 2015 — (b) The bending of radar pulses, often called anomalous propagation or ducti...</span></span></span>
 
 Without contemporaneous meteorological records, investigators cannot reconstruct whether:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -351,9 +346,6 @@ Without contemporaneous meteorological records, investigators cannot reconstruct
 
 A radar anomaly reported decades later may therefore lack the contextual evidence needed to distinguish between an environmental artefact and a genuinely unusual event. The case remains unresolved because the relevant metadata no longer exists or was never preserved. Dipòsit Digital <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.radartutorial.eu/07.waves/wa17.en.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: radartutorial.eu">[Radartutorial]</a><span class="citation-popover" role="note"><span class="citation-popover-source">radartutorial.eu</span><span class="citation-popover-snippet">Anomalous Propagation of Electromagnetic WavesNon-standard or anomalous propagation (known as anaprop) occurs when the refractive index i...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/H6eK1VbrHPY" title="How Military Sensors Proved UFO Craft Were Physically Real | WION Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=H6eK1VbrHPY" target="_blank" rel="noopener noreferrer">How Military Sensors Proved UFO Craft Were Physically Real | WION Podcast</a></p><p class="youtube-embed-meta">Channel: WION &middot; Views: 2.1K &middot; Uploaded: May 2026 &middot; Length: 2 minutes 16 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=H6eK1VbrHPY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=H6eK1VbrHPY">Open on YouTube</a></p></div></div></div>
-
 ## Why Calibration Records Are Critical
 
 Calibration establishes whether a radar system's measurements can be trusted.
@@ -363,7 +355,6 @@ A radar may report incorrect [range]({{ 'range/' | relative_url }}), bearing, al
 NASA's UAP study repeatedly emphasised sensor calibration as a foundational requirement for credible analysis. The report argued that current UAP investigations are hindered by poor calibration practices and insufficient documentation of sensor performance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
 
 In practical terms, a radar anomaly cannot be fully evaluated if investigators do not know:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -376,16 +367,14 @@ In practical terms, a radar anomaly cannot be fully evaluated if investigators d
 
 A striking radar track may appear extraordinary until calibration data reveal a known source of measurement error. Conversely, a well-calibrated system provides a stronger foundation for investigating an unresolved event.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357_radar_ufo_metadata_g_8a29d3-Illustration-3-dark.svg" | relative_url }}" alt="Missing Data illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357_radar_ufo_metadata_g_8a29d3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357_radar_ufo_metadata_g_8a29d3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why NASA Flagged Calibration and Context Problems
 
 The strongest recent institutional criticism of UFO data quality has come not from sceptics dismissing reports, but from scientists asking for better measurements.
 
-NASA's Independent Study Team concluded that analysis of UAP reports is hampered by poor sensor calibration, inadequate metadata, insufficient baseline data, and a lack of multiple independent measurements. The report argued that future investigations require systematic collection of sensor information rather than isolated observations detached from context. NASA Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">sensor metadata, and the lack of baseline data,&quot; the report states.Read more</span><span class="citation-popover-snippet">SpaceNASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor senso...</span></span></span> The study's concern was not that radar systems are useless. Rather, it recognised that sensor outputs cannot be interpreted properly without accompanying records explaining how those outputs were generated.
+NASA's Independent Study Team concluded that analysis of UAP reports is hampered by poor sensor calibration, inadequate metadata, insufficient baseline data, and a lack of multiple independent measurements. The report argued that future investigations require systematic collection of sensor information rather than isolated observations detached from context. NASA Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">sensor metadata, and the lack of baseline data,&quot; the report states.Read more</span><span class="citation-popover-snippet">NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor senso...</span></span></span> The study's concern was not that radar systems are useless. Rather, it recognised that sensor outputs cannot be interpreted properly without accompanying records explaining how those outputs were generated.
 
 This governance problem has practical consequences. Modern investigative efforts increasingly emphasise:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -397,14 +386,13 @@ This governance problem has practical consequences. Modern investigative efforts
 
 </div>
 
-Recommendations for standardised metadata templates have also emerged from organisations examining UAP reporting processes, reflecting a broader recognition that evidence quality depends heavily on preserving contextual information alongside the observation itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aui.edu/[aaro" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aui.edu">[AUI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aui.edu</span><span class="citation-popover-snippet">AUIAARO Releases Report on Unidentified Anomalous...Actionable recommendations include the development of standardized metadata template...</span></span></span>
+Recommendations for standardised metadata templates have also emerged from organisations examining UAP reporting processes, reflecting a broader recognition that evidence quality depends heavily on preserving contextual information alongside the observation itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aui.edu/[aaro" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aui.edu">[AUI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aui.edu</span><span class="citation-popover-snippet">AARO Releases Report on Unidentified Anomalous...Actionable recommendations include the development of standardized metadata template...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gP5kZIGyodw" title="🔥Boy Gets SS Repair Talent; All Mecha Girls Who Choose to Contract With Him Become 100% Stronger!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gP5kZIGyodw" target="_blank" rel="noopener noreferrer">🔥Boy Gets SS Repair Talent; All Mecha Girls Who Choose to Contract With Him Become 100% Stronger!</a></p><p class="youtube-embed-meta">Channel: Bella&#x27;s Comic Chronicles</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gP5kZIGyodw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gP5kZIGyodw">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/H6eK1VbrHPY" title="How Military Sensors Proved UFO Craft Were Physically Real | WION Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=H6eK1VbrHPY" target="_blank" rel="noopener noreferrer">How Military Sensors Proved UFO Craft Were Physically Real | WION Podcast</a></p><p class="youtube-embed-meta">Channel: WION &middot; Views: 2.1K &middot; Uploaded: May 2026 &middot; Length: 2 minutes 16 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=H6eK1VbrHPY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=H6eK1VbrHPY">Open on YouTube</a></p></div></div></div>
 
 ## Missing Data Often Explains Why Cases Stay Unresolved
 
-Within the broader category of [radar anomalies]({{ 'radar/' | relative_url }}) and spurious sensor returns, metadata gaps represent a distinct problem. A radar contact may not be demonstrably false, yet it may also be impossible to validate because essential contextual information has been lost.
+Within the broader category of radar anomalies and spurious sensor returns, metadata gaps represent a distinct problem. A radar contact may not be demonstrably false, yet it may also be impossible to validate because essential contextual information has been lost.
 
 When calibration records, environmental data, operating settings, and timing information are unavailable, investigators cannot reliably reconstruct sensor behaviour. As a result, some radar-associated UFO reports persist as unresolved cases not because they demonstrate extraordinary technology, but because the evidence needed to test ordinary explanations no longer exists.
 
@@ -527,15 +515,15 @@ That limitation is one reason modern scientific and governmental reviews increas
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+detector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-data-0adffe-why-radar-ufo-evidence-often-needs-metadata-ifos-causes-of-radar-detector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar detector" data-ebay-reference="missing-data-0adffe-why-radar-ufo-evidence-often-needs-metadata-ifos-causes-of-radar-detector" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Car Radar GPS Speed For 16 Band V7 360°Police Safe Detector Voice Alert Laser"><img src="{{ '/assets/images/marketplace-covers/bf62518bc3e3ac5c1bb3.jpg' | relative_url }}" alt="Listing image for Car Radar GPS Speed For 16 Band V7 360°Police Safe Detector Voice Alert Laser" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-radar-ufo-evidence-often-needs-metadata-radar-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display model" data-ebay-reference="why-radar-ufo-evidence-often-needs-metadata-radar-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FURUNO Marine Radar Model 1720 Display Unit with Radome"><img src="https://i.ebayimg.com/images/g/-DQAAeSwm5BqAHGm/s-l225.jpg" alt="Listing image for FURUNO Marine Radar Model 1720 Display Unit with Radome" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+detector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-data-0adffe-why-radar-ufo-evidence-often-needs-metadata-ifos-causes-of-radar-detector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar detector" data-ebay-reference="missing-data-0adffe-why-radar-ufo-evidence-often-needs-metadata-ifos-causes-of-radar-detector" target="_blank" rel="sponsored noopener noreferrer">Car Radar GPS Speed For 16 Band V7 360°Police Safe Detector Voice Alert Laser</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-radar-ufo-evidence-often-needs-metadata-radar-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display model" data-ebay-reference="why-radar-ufo-evidence-often-needs-metadata-radar-display-model" target="_blank" rel="sponsored noopener noreferrer">FURUNO Marine Radar Model 1720 Display Unit with Radome</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+detector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-data-0adffe-why-radar-ufo-evidence-often-needs-metadata-ifos-causes-of-radar-detector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar detector" data-ebay-reference="missing-data-0adffe-why-radar-ufo-evidence-often-needs-metadata-ifos-causes-of-radar-detector" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar detector">Search <span data-ebay-domain-label>eBay.co.uk</span>: radar detector</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-radar-ufo-evidence-often-needs-metadata-radar-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display model" data-ebay-reference="why-radar-ufo-evidence-often-needs-metadata-radar-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: radar display model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+detector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-data-0adffe-why-radar-ufo-evidence-often-needs-metadata-ifos-causes-of-radar-detector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar detector" data-ebay-reference="missing-data-0adffe-why-radar-ufo-evidence-often-needs-metadata-ifos-causes-of-radar-detector" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-radar-ufo-evidence-often-needs-metadata-radar-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display model" data-ebay-reference="why-radar-ufo-evidence-often-needs-metadata-radar-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -543,15 +531,15 @@ That limitation is one reason modern scientific and governmental reviews increas
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+detector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-data-0adffe-why-radar-ufo-evidence-often-needs-metadata-ifos-causes-of-radar-detector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar detector" data-ebay-reference="missing-data-0adffe-why-radar-ufo-evidence-often-needs-metadata-ifos-causes-of-radar-detector" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for New Car Radar 16 Band V7 GPS Speed Police Safe Detector Voice Alert Laser 360°"><img src="{{ '/assets/images/marketplace-covers/538ed25d630ee79068b7.jpg' | relative_url }}" alt="Listing image for New Car Radar 16 Band V7 GPS Speed Police Safe Detector Voice Alert Laser 360°" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-radar-ufo-evidence-often-needs-metadata-radar-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display model" data-ebay-reference="why-radar-ufo-evidence-often-needs-metadata-radar-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/350 Scale Rotating Gun Turret &amp; Radar Rotation System Model Ship Upgrade Parts"><img src="https://i.ebayimg.com/images/g/oPIAAeSwMptos41Q/s-l225.jpg" alt="Listing image for 1/350 Scale Rotating Gun Turret &amp; Radar Rotation System Model Ship Upgrade Parts" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+detector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-data-0adffe-why-radar-ufo-evidence-often-needs-metadata-ifos-causes-of-radar-detector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar detector" data-ebay-reference="missing-data-0adffe-why-radar-ufo-evidence-often-needs-metadata-ifos-causes-of-radar-detector" target="_blank" rel="sponsored noopener noreferrer">New Car Radar 16 Band V7 GPS Speed Police Safe Detector Voice Alert Laser 360°</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-radar-ufo-evidence-often-needs-metadata-radar-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display model" data-ebay-reference="why-radar-ufo-evidence-often-needs-metadata-radar-display-model" target="_blank" rel="sponsored noopener noreferrer">1/350 Scale Rotating Gun Turret &amp; Radar Rotation System Model Ship Upgrade Parts</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+detector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-data-0adffe-why-radar-ufo-evidence-often-needs-metadata-ifos-causes-of-radar-detector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar detector" data-ebay-reference="missing-data-0adffe-why-radar-ufo-evidence-often-needs-metadata-ifos-causes-of-radar-detector" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar detector">Search <span data-ebay-domain-label>eBay.co.uk</span>: radar detector</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-radar-ufo-evidence-often-needs-metadata-radar-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display model" data-ebay-reference="why-radar-ufo-evidence-often-needs-metadata-radar-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: radar display model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+detector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-data-0adffe-why-radar-ufo-evidence-often-needs-metadata-ifos-causes-of-radar-detector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar detector" data-ebay-reference="missing-data-0adffe-why-radar-ufo-evidence-often-needs-metadata-ifos-causes-of-radar-detector" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-radar-ufo-evidence-often-needs-metadata-radar-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display model" data-ebay-reference="why-radar-ufo-evidence-often-needs-metadata-radar-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -559,15 +547,15 @@ That limitation is one reason modern scientific and governmental reviews increas
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+detector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-data-0adffe-why-radar-ufo-evidence-often-needs-metadata-ifos-causes-of-radar-detector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar detector" data-ebay-reference="missing-data-0adffe-why-radar-ufo-evidence-often-needs-metadata-ifos-causes-of-radar-detector" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cobra RAD 700i Laser Radar Detector Premium Detection, AutoLearn, Front/Rear"><img src="{{ '/assets/images/marketplace-covers/ec10e39751f73bcc5935.jpg' | relative_url }}" alt="Listing image for Cobra RAD 700i Laser Radar Detector Premium Detection, AutoLearn, Front/Rear" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-radar-ufo-evidence-often-needs-metadata-radar-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display model" data-ebay-reference="why-radar-ufo-evidence-often-needs-metadata-radar-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:400 Airport Building Model Scene Display Desk Decoration Prop Aircraft Layout"><img src="https://i.ebayimg.com/images/g/AHUAAeSwq4dpaEPA/s-l225.jpg" alt="Listing image for 1:400 Airport Building Model Scene Display Desk Decoration Prop Aircraft Layout" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+detector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-data-0adffe-why-radar-ufo-evidence-often-needs-metadata-ifos-causes-of-radar-detector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar detector" data-ebay-reference="missing-data-0adffe-why-radar-ufo-evidence-often-needs-metadata-ifos-causes-of-radar-detector" target="_blank" rel="sponsored noopener noreferrer">Cobra RAD 700i Laser Radar Detector Premium Detection, AutoLearn, Front/Rear</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-radar-ufo-evidence-often-needs-metadata-radar-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display model" data-ebay-reference="why-radar-ufo-evidence-often-needs-metadata-radar-display-model" target="_blank" rel="sponsored noopener noreferrer">1:400 Airport Building Model Scene Display Desk Decoration Prop Aircraft Layout</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+detector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-data-0adffe-why-radar-ufo-evidence-often-needs-metadata-ifos-causes-of-radar-detector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar detector" data-ebay-reference="missing-data-0adffe-why-radar-ufo-evidence-often-needs-metadata-ifos-causes-of-radar-detector" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar detector">Search <span data-ebay-domain-label>eBay.co.uk</span>: radar detector</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-radar-ufo-evidence-often-needs-metadata-radar-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display model" data-ebay-reference="why-radar-ufo-evidence-often-needs-metadata-radar-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: radar display model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+detector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-data-0adffe-why-radar-ufo-evidence-often-needs-metadata-ifos-causes-of-radar-detector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar detector" data-ebay-reference="missing-data-0adffe-why-radar-ufo-evidence-often-needs-metadata-ifos-causes-of-radar-detector" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-radar-ufo-evidence-often-needs-metadata-radar-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display model" data-ebay-reference="why-radar-ufo-evidence-often-needs-metadata-radar-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -575,15 +563,15 @@ That limitation is one reason modern scientific and governmental reviews increas
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+detector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-data-0adffe-why-radar-ufo-evidence-often-needs-metadata-ifos-causes-of-radar-detector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar detector" data-ebay-reference="missing-data-0adffe-why-radar-ufo-evidence-often-needs-metadata-ifos-causes-of-radar-detector" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cobra RAD 700i Laser Radar Detector Premium Detection, AutoLearn, Front/Rear"><img src="{{ '/assets/images/marketplace-covers/2e174c7d622d8e0b0c67.jpg' | relative_url }}" alt="Listing image for Cobra RAD 700i Laser Radar Detector Premium Detection, AutoLearn, Front/Rear" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-radar-ufo-evidence-often-needs-metadata-radar-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display model" data-ebay-reference="why-radar-ufo-evidence-often-needs-metadata-radar-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ANTIQUE SPEED METER RADAR MEASUREMENT SPEED-METER Model S2 1940’s For Display!"><img src="https://i.ebayimg.com/images/g/S7YAAOSwsrBe4WO6/s-l225.jpg" alt="Listing image for ANTIQUE SPEED METER RADAR MEASUREMENT SPEED-METER Model S2 1940’s For Display!" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+detector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-data-0adffe-why-radar-ufo-evidence-often-needs-metadata-ifos-causes-of-radar-detector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar detector" data-ebay-reference="missing-data-0adffe-why-radar-ufo-evidence-often-needs-metadata-ifos-causes-of-radar-detector" target="_blank" rel="sponsored noopener noreferrer">Cobra RAD 700i Laser Radar Detector Premium Detection, AutoLearn, Front/Rear</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-radar-ufo-evidence-often-needs-metadata-radar-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display model" data-ebay-reference="why-radar-ufo-evidence-often-needs-metadata-radar-display-model" target="_blank" rel="sponsored noopener noreferrer">ANTIQUE SPEED METER RADAR MEASUREMENT SPEED-METER Model S2 1940’s For Display!</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+detector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-data-0adffe-why-radar-ufo-evidence-often-needs-metadata-ifos-causes-of-radar-detector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar detector" data-ebay-reference="missing-data-0adffe-why-radar-ufo-evidence-often-needs-metadata-ifos-causes-of-radar-detector" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar detector">Search <span data-ebay-domain-label>eBay.co.uk</span>: radar detector</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-radar-ufo-evidence-often-needs-metadata-radar-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display model" data-ebay-reference="why-radar-ufo-evidence-often-needs-metadata-radar-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: radar display model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+detector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-data-0adffe-why-radar-ufo-evidence-often-needs-metadata-ifos-causes-of-radar-detector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar detector" data-ebay-reference="missing-data-0adffe-why-radar-ufo-evidence-often-needs-metadata-ifos-causes-of-radar-detector" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-radar-ufo-evidence-often-needs-metadata-radar-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display model" data-ebay-reference="why-radar-ufo-evidence-often-needs-metadata-radar-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -591,7 +579,7 @@ That limitation is one reason modern scientific and governmental reviews increas
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+detector&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-data-0adffe-why-radar-ufo-evidence-often-needs-metadata-ifos-causes-of-radar-detector&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar detector" data-ebay-reference="missing-data-0adffe-why-radar-ufo-evidence-often-needs-metadata-ifos-causes-of-radar-detector" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-radar-ufo-evidence-often-needs-metadata-radar-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display model" data-ebay-reference="why-radar-ufo-evidence-often-needs-metadata-radar-display-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -806,73 +794,73 @@ That limitation is one reason modern scientific and governmental reviews increas
 
 1. <a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: [https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/](https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/)  
+   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through sys...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: en.wikisource.org  
-   Link: [https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task](https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WikisourceNASA Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — The panel notes that, at present, gathering data on UAP is...</p></details>
+   Link: <a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — The panel notes that, at present, gathering data on UAP is...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: faa.gov  
    Title: Federal Aviation Administration4-5-2  
-   Link: [https://www.faa.gov/air_traffic/publications/atpubs/aim/aim0405.html](https://www.faa.gov/air_traffic/publications/atpubs/aim/aim0405.html)  
+   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/aim/aim0405.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aim/aim0405.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Traffic Control Radar Beacon System (ATCRBS)8 Jan 2015 — (b) The bending of radar pulses, often called anomalous propagation or ducti...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: faa.gov  
    Title: Federal Aviation Administration Section 5  
-   Link: [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_5.html](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_5.html)  
+   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_5.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_5.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Section 5. Surveillance SystemsThe bending of radar pulses, often called anomalous propagation or ducting, may cause many extraneous blip...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: radartutorial.eu  
-   Link: [https://www.radartutorial.eu/07.waves/wa17.en.html](https://www.radartutorial.eu/07.waves/wa17.en.html)  
+   Link: <a href="https://www.radartutorial.eu/07.waves/wa17.en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.radartutorial.eu/07.waves/wa17.en.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anomalous Propagation of Electromagnetic WavesNon-standard or anomalous propagation (known as anaprop) occurs when the refractive index i...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: space.com  
    Title: sensor metadata, and the lack of baseline data," the report states.Read more  
-   Link: [https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed](https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceNASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor senso...</p></details>
+   Link: <a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor senso...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: aui.edu  
-   Link: [https://aui.edu/[aaro](https://aui.edu/[aaro)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AUIAARO Releases Report on Unidentified Anomalous...Actionable recommendations include the development of standardized metadata template...</p></details>
+   Link: <a href="https://aui.edu/[aaro" target="_blank" rel="noopener noreferrer nofollow">https://aui.edu/[aaro</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Releases Report on Unidentified Anomalous...Actionable recommendations include the development of standardized metadata template...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — We commissioned a study team to examine from a scientific perspective unidentified anomalous phenomena (UAPs) – t...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: en.wikisource.org  
-   Link: [https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5](https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5)  
+   Link: <a href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgPage:UAP Independent Study Team - Final Report.pdf/512 Nov 2023 — At present, analysis of UAP data is hampered by poor sens...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Anomalous propagation  
-   Link: [https://en.wikipedia.org/wiki/Anomalous_propagation](https://en.wikipedia.org/wiki/Anomalous_propagation)  
+   Link: <a href="https://en.wikipedia.org/wiki/Anomalous_propagation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anomalous_propagation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anomalous propagationAnomalous propagation refers to false radar echoes usually observed when calm, stable atmospheric conditions, oft...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: noaa.gov  
    Title: anomalous propagation  
-   Link: [https://www.noaa.gov/jetstream/anomalous-propagation](https://www.noaa.gov/jetstream/anomalous-propagation)  
+   Link: <a href="https://www.noaa.gov/jetstream/anomalous-propagation" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/jetstream/anomalous-propagation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>JetStream Max: Anomalous Propagation9 Aug 2023 — False echoes are known as anomalous propagation (AP) - an echo that is not precipitation...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: zenodo.org  
-   Link: [https://zenodo.org/records/20137882](https://zenodo.org/records/20137882)  
+   Link: <a href="https://zenodo.org/records/20137882" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/20137882</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unlocking the Pentagon&#x27;s Declassified UFO Secrets12 May 2026 — NASA: Provided scientific validation, effectively weaponizing the scientif...</p></details>
    Published: May 2026  
 
@@ -880,51 +868,51 @@ That limitation is one reason modern scientific and governmental reviews increas
 
 14. <a id="endnote-14"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/FAQ/](https://www.aaro.mil/FAQ/)  
+   Link: <a href="https://www.aaro.mil/FAQ/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/FAQ/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO FAQAARO will announce when a reporting mechanism is available to the public. What are the leading explanations to account for UAP re...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOB/comments/1i6y9o8/aaro_internal_report_analysis_major/](https://www.reddit.com/r/UFOB/comments/1i6y9o8/aaro_internal_report_analysis_major/)  
+   Link: <a href="https://www.reddit.com/r/UFOB/comments/1i6y9o8/aaro_internal_report_analysis_major/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1i6y9o8/aaro_internal_report_analysis_major/</a>  
 
 16. <a id="endnote-16"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/Information_for_UAP_Analysis-20240125.pdf](https://www.aaro.mil/Portals/136/PDFs/Information_for_UAP_Analysis-20240125.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information_for_UAP_Analysis-20240125.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information_for_UAP_Analysis-20240125.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>About the PhenomenonUAP performance parameters: including altitude and/or depth, travel path and trajectory, velocity, and maneuverabilit...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: managingexpectations.net  
-   Link: [https://managingexpectations.net/blog/articles/nasa-uap-study-managing-expectations.html](https://managingexpectations.net/blog/articles/nasa-uap-study-managing-expectations.html)  
+   Link: <a href="https://managingexpectations.net/blog/articles/nasa-uap-study-managing-expectations.html" target="_blank" rel="noopener noreferrer nofollow">https://managingexpectations.net/blog/articles/nasa-uap-study-managing-expectations.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s UAP Study: What It Did — and Did Not — ConcludeThe panel said UAP analysis is hampered by “poor sensor calibration,” a lack of mul...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: cfinotebook.net  
-   Link: [https://www.cfinotebook.net/notebook/air-traffic-control/radar](https://www.cfinotebook.net/notebook/air-traffic-control/radar)  
+   Link: <a href="https://www.cfinotebook.net/notebook/air-traffic-control/radar" target="_blank" rel="noopener noreferrer nofollow">https://www.cfinotebook.net/notebook/air-traffic-control/radar</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>RadarThe bending of radar pulses, often called anomalous propagation or ducting, may cause many extraneous blips to appear on the radar o...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Submit-A-Report/](https://www.aaro.mil/Submit-A-Report/)  
+   Link: <a href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Submit-A-Report/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Submit A ReportThis email is for official reports from current or former U.S. Government employees, service members, or contractor person...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf](https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO and the Declassification ProcessAARO is responsible for receiving, processing, and adjudicating UAP reports, and routinely accesses...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: defensescoop.com  
-   Link: [https://defensescoop.com/2023/10/18/dods-all-domain-anomaly-resolution-office-is-now-investigating-more-than-800-uap-cases/](https://defensescoop.com/2023/10/18/dods-all-domain-anomaly-resolution-office-is-now-investigating-more-than-800-uap-cases/)  
+   Link: <a href="https://defensescoop.com/2023/10/18/dods-all-domain-anomaly-resolution-office-is-now-investigating-more-than-800-uap-cases/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2023/10/18/dods-all-domain-anomaly-resolution-office-is-now-investigating-more-than-800-uap-cases/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DOD&#x27;s All-domain Anomaly Resolution Office confirms...18 Oct 2023 — A new Pentagon report confirms that AARO has received a total of 801...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Historical Record Report Volume 18 Mar 2024 — Its work also helped calibrate sensors to improve the quality of data collected. Its method...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: thenationalnews.com  
    Title: nasas ufo report advises us government on how to detect mysterious objects  
-   Link: [https://www.thenationalnews.com/world/us-news/2023/09/14/nasas-ufo-report-advises-us-government-on-how-to-detect-mysterious-objects/](https://www.thenationalnews.com/world/us-news/2023/09/14/nasas-ufo-report-advises-us-government-on-how-to-detect-mysterious-objects/)  
+   Link: <a href="https://www.thenationalnews.com/world/us-news/2023/09/14/nasas-ufo-report-advises-us-government-on-how-to-detect-mysterious-objects/" target="_blank" rel="noopener noreferrer nofollow">https://www.thenationalnews.com/world/us-news/2023/09/14/nasas-ufo-report-advises-us-government-on-how-to-detect-mysterious-objects/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nasa&#x27;s UFO report reveals how public can help hunt for...14 Sept 2023 — Released online on Thursday, the 36-page document says that exis...</p></details>

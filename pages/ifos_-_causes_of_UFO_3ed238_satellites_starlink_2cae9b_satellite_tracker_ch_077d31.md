@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_starlink_flares_3a1a8d
 - ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_starlink_trains_724c24
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - satellites
 - tracker-checks
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - satellites
 - tracker-checks
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: A useful satellite check depends on exact time, location, direction, elevation and enough detail to compare the report with predicted passes.
 hero_summary: A useful satellite check depends on exact time, location, direction, elevation and enough detail to compare the report with predicted passes.
 layout: default
 permalink: /tracker-checks/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /satellites/
 nav_short_title: Tracker checks
 title: How to check a UFO against satellites
-title_full: How to check a UFO against satellites | Satellites
+title_full: How to check a UFO against satellites
 display_title_short: Tracker checks
 display_title: Tracker checks
 heading_title: How to check a UFO against satellites
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 03:53:35'
-parent_title: Why Satellites Surprise Night Watchers | IFOs
+parent_title: Why Satellites Surprise Night Watchers
 parent_permalink: /satellites/
 parent_nav_short_title: Satellites
 parent_heading_title: Why Satellites Surprise Night Watchers
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b
-  title: Satellites | Ifos Causes Of
+  title: Satellites | ifos causes of UFO 3 ed 238
   permalink: /satellites/
   short_title: Satellites
   heading_title: Why Satellites Surprise Night Watchers
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b
-  title: Satellites | Ifos Causes Of
+  title: Satellites | ifos causes of UFO 3 ed 238
   permalink: /satellites/
   short_title: Satellites
   heading_title: Why Satellites Surprise Night Watchers
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: Why do Starlink trains look planned?
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b
-  title: Satellites | Ifos Causes Of
+  title: Satellites | ifos causes of UFO 3 ed 238
   permalink: /satellites/
   short_title: Satellites
   heading_title: Why Satellites Surprise Night Watchers
@@ -260,6 +259,7 @@ prev_link:
   permalink: /starlink-trains-abbfbb/
   short_title: Starlink trains
   heading_title: Why do Starlink trains look planned?
+date: '2026-06-12 00:49:43 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_satellite_tracker_ch_077d31-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_satellite_tracker_ch_077d31-Illustration-1.webp
@@ -268,8 +268,7 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_sat
 
 ## Introduction
 
-When a night-sky sighting is reported as a UFO, one of the most effective follow-up steps is to check whether a satellite was visible from the same location at the same time. Unlike many other explanations, [satellites]({{ 'satellites/' | relative_url }}) leave a testable record. Their orbits are tracked, their positions can be predicted, and many tracking services can reconstruct what should have been visible from a specific point on Earth. A match does not automatically prove identification, but it provides a strong evidence-based way to evaluate whether a reported light was a satellite, a [Starlink]({{ 'starlink/' | relative_url }}) train, or a satellite flare rather than an unknown object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heavens-above.com/explain.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heavens-above.com">[Heavens-Above]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heavens-above.com</span><span class="citation-popover-snippet">Heavens-AboveExplanatory NotesWe maintain this set of dynamic Web pages which generate predictions of visible satellite passes for any po...</span></span></span>
-
+When a night-sky sighting is reported as a UFO, one of the most effective follow-up steps is to check whether a satellite was visible from the same location at the same time. Unlike many other explanations, [satellites]({{ 'satellites/' | relative_url }}) leave a testable record. Their orbits are tracked, their positions can be predicted, and many tracking services can reconstruct what should have been visible from a specific point on Earth. A match does not automatically prove identification, but it provides a strong evidence-based way to evaluate whether a reported light was a satellite, a [Starlink]({{ 'starlink/' | relative_url }}) train, or a satellite flare rather than an unknown object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heavens-above.com/explain.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heavens-above.com">[Heavens-Above]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heavens-above.com</span><span class="citation-popover-snippet">Explanatory NotesWe maintain this set of dynamic Web pages which generate predictions of visible satellite passes for any po...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_satellite_tracker_ch_077d31-Illustration-1-dark.svg" | relative_url }}" alt="Tracker checks illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_satellite_tracker_ch_077d31-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_satellite_tracker_ch_077d31-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The quality of the check depends heavily on the quality of the original report. A detailed observation recorded immediately after the event can often be compared against satellite predictions with surprising precision. A vague memory recorded days later is much harder to test.
@@ -299,7 +298,6 @@ The direction and elevation are especially important because satellite trackers 
 
 A common mistake is recording only that a light was "above me". That provides far less diagnostic value than noting that it appeared 45 degrees above the south-west horizon and moved towards the north-east.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/u1sc3__h348" title="CelesTrak Pass Visualization" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=u1sc3__h348" target="_blank" rel="noopener noreferrer">CelesTrak Pass Visualization</a></p><p class="youtube-embed-meta">Channel: Ansys Government Initiatives (AGI) &middot; Views: 3.8K &middot; Uploaded: January 2020 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=u1sc3__h348" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=u1sc3__h348">Open on YouTube</a></p></div></div></div>
 
 ## What satellite trackers can confirm
@@ -316,7 +314,6 @@ The simplest test is positional. If a witness reports a bright object crossing t
 
 Shortly after launch, Starlink satellites travel in closely spaced groups that can resemble a line of coordinated lights. Tracking services can identify launches and predict when newly deployed satellites should be visible from a given location. This allows investigators to compare a reported "formation" with known Starlink passes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites initially travel in a tight, bright line resembling a &quot;train,&quot; captivating skywatchers and often being mistaken for UFOs...</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_satellite_tracker_ch_077d31-Illustration-2-dark.svg" | relative_url }}" alt="Tracker checks illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_satellite_tracker_ch_077d31-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_satellite_tracker_ch_077d31-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Could the brightening or disappearance be explained?
 
@@ -326,7 +323,7 @@ A satellite may disappear when it enters Earth's shadow while still above the ho
 
 ### Was the brightness plausible?
 
-Many tracking services provide estimated visual magnitude, the astronomical measure of brightness. If a witness reports an extremely bright object and a tracker predicts a particularly bright satellite pass or flare, that comparison can help assess the match. Research on Starlink flaring has documented cases where reflected sunlight produced exceptionally bright appearances that observers initially interpreted as unusual aerial phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2405.13091" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Extreme Flaring of Starlink Satellites</span><span class="citation-popover-snippet">arXivExtreme Flaring of Starlink SatellitesMay 21, 2024...</span><span class="citation-popover-meta">Published: May 21, 2024</span></span></span>
+Many tracking services provide estimated visual magnitude, the astronomical measure of brightness. If a witness reports an extremely bright object and a tracker predicts a particularly bright satellite pass or flare, that comparison can help assess the match. Research on Starlink flaring has documented cases where reflected sunlight produced exceptionally bright appearances that observers initially interpreted as unusual aerial phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2405.13091" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Extreme Flaring of Starlink Satellites</span><span class="citation-popover-snippet">Extreme Flaring of Starlink SatellitesMay 21, 2024...</span><span class="citation-popover-meta">Published: May 21, 2024</span></span></span>
 
 ## Why missing timestamps and directions weaken identifications
 
@@ -338,22 +335,16 @@ Direction is equally important. Many nights have multiple visible satellites. Wi
 
 This is one reason many historical UFO reports remain unresolved. The witness may remember seeing "a bright light in the sky" but not the exact time, location, or path. In such cases, satellite trackers cannot perform a meaningful comparison because the search area becomes too broad.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sTmyL6x9g4g" title="Explore satellite predictions precise pass predictions on Heavens Above with what3words" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sTmyL6x9g4g" target="_blank" rel="noopener noreferrer">Explore satellite predictions precise pass predictions on Heavens Above with what3words</a></p><p class="youtube-embed-meta">Channel: what3words &middot; Views: 214 &middot; Uploaded: October 2020 &middot; Length: 1 minute 30 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sTmyL6x9g4g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sTmyL6x9g4g">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_satellite_tracker_ch_077d31-Illustration-3-dark.svg" | relative_url }}" alt="Tracker checks illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_satellite_tracker_ch_077d31-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_satellite_tracker_ch_077d31-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A practical example of reconstruction
 
-The value of satellite tracking is illustrated by investigations that reconstruct sightings after the fact. In one published case study, researchers analysed reports from commercial airline [pilots]({{ 'pilots/' | relative_url }}) who observed what appeared to be an unusual aerial phenomenon. By combining aircraft position data with orbital information for recently launched Starlink satellites, they recreated the geometry of the sighting and showed that the observed lights were consistent with the satellite train and its illumination conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2405.13091" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Extreme Flaring of Starlink Satellites</span><span class="citation-popover-snippet">arXivExtreme Flaring of Starlink SatellitesMay 21, 2024...</span><span class="citation-popover-meta">Published: May 21, 2024</span></span></span>
+The value of satellite tracking is illustrated by investigations that reconstruct sightings after the fact. In one published case study, researchers analysed reports from commercial airline [pilots]({{ 'pilots/' | relative_url }}) who observed what appeared to be an unusual aerial phenomenon. By combining aircraft position data with orbital information for recently launched Starlink satellites, they recreated the geometry of the sighting and showed that the observed lights were consistent with the satellite train and its illumination conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2405.13091" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Extreme Flaring of Starlink Satellites</span><span class="citation-popover-snippet">Extreme Flaring of Starlink SatellitesMay 21, 2024...</span><span class="citation-popover-meta">Published: May 21, 2024</span></span></span>
 
 This approach demonstrates why satellite explanations are often more than educated guesses. They can be tested against independent datasets that include orbital elements, observer position, time, and predicted sky location.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/piBZrt2nR3g" title="Heavens Above android app to track satellites for Android Tablets or phones" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=piBZrt2nR3g" target="_blank" rel="noopener noreferrer">Heavens Above android app to track satellites for Android Tablets or phones</a></p><p class="youtube-embed-meta">Channel: VE2ZZI Amateur radio and more Channel</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=piBZrt2nR3g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=piBZrt2nR3g">Open on YouTube</a></p></div></div></div>
 
 ## What a strong match looks like
 
 A satellite explanation becomes persuasive when several independent details align simultaneously:
-
 
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
@@ -370,8 +361,7 @@ The more of these factors that agree, the stronger the identification becomes. C
 
 Within investigations of UFO reports, satellite trackers are valuable not because they explain every sighting, but because they provide one of the few explanations that can be checked objectively against recorded data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heavens-above.com/faq.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heavens-above.com">[Heavens-Above]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heavens-above.com</span><span class="citation-popover-title">Frequently asked questions (FAQ</span><span class="citation-popover-snippet">satellite passes are only predicted when the sky is reasonably dark. However, these bright satellites can sometimes be seen when the sun...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeRead UAP Records from NARA; UAP Reporting Trends; UAP Imagery; NEW INFORMATION PAPER &amp; ANIMATION: Correlations of Satellite F...</span></span></span>
 
-
-<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_satellite_tracker_ch_077d31-Illustration-3-dark.svg" | relative_url }}" alt="Tracker checks illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_satellite_tracker_ch_077d31-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b_satellite_tracker_ch_077d31-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sTmyL6x9g4g" title="Explore satellite predictions precise pass predictions on Heavens Above with what3words" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sTmyL6x9g4g" target="_blank" rel="noopener noreferrer">Explore satellite predictions precise pass predictions on Heavens Above with what3words</a></p><p class="youtube-embed-meta">Channel: what3words &middot; Views: 214 &middot; Uploaded: October 2020 &middot; Length: 1 minute 30 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sTmyL6x9g4g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sTmyL6x9g4g">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -490,15 +480,15 @@ Within investigations of UFO reports, satellite trackers are valuable not becaus
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracker-checks-how-to-check-a-ufo-against-satellites-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="tracker-checks-how-to-check-a-ufo-against-satellites-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/16d7257b5b6fa9c07f55.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-ufo-against-satellites-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="how-to-check-a-ufo-against-satellites-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moebius 1215 1965 Plymouth Satellite 1/25 Scale Model Kit MISB Last One!"><img src="https://i.ebayimg.com/images/g/grIAAeSwuzJp47ij/s-l225.jpg" alt="Listing image for Moebius 1215 1965 Plymouth Satellite 1/25 Scale Model Kit MISB Last One!" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracker-checks-how-to-check-a-ufo-against-satellites-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="tracker-checks-how-to-check-a-ufo-against-satellites-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-ufo-against-satellites-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="how-to-check-a-ufo-against-satellites-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Moebius 1215 1965 Plymouth Satellite 1/25 Scale Model Kit MISB Last One!</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracker-checks-how-to-check-a-ufo-against-satellites-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="tracker-checks-how-to-check-a-ufo-against-satellites-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-ufo-against-satellites-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="how-to-check-a-ufo-against-satellites-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracker-checks-how-to-check-a-ufo-against-satellites-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="tracker-checks-how-to-check-a-ufo-against-satellites-ifos-causes-of-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-ufo-against-satellites-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="how-to-check-a-ufo-against-satellites-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -506,15 +496,15 @@ Within investigations of UFO reports, satellite trackers are valuable not becaus
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracker-checks-how-to-check-a-ufo-against-satellites-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="tracker-checks-how-to-check-a-ufo-against-satellites-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO"><img src="{{ '/assets/images/marketplace-covers/804a6ca65be816e4a5d9.jpg' | relative_url }}" alt="Listing image for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-ufo-against-satellites-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="how-to-check-a-ufo-against-satellites-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nasa Bio Satellite Capsule Kit model. Super Quality with Decals. 1:20 scale."><img src="https://i.ebayimg.com/images/g/QJkAAOSww3pmR4Wc/s-l225.jpg" alt="Listing image for Nasa Bio Satellite Capsule Kit model. Super Quality with Decals. 1:20 scale." loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracker-checks-how-to-check-a-ufo-against-satellites-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="tracker-checks-how-to-check-a-ufo-against-satellites-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-ufo-against-satellites-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="how-to-check-a-ufo-against-satellites-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Nasa Bio Satellite Capsule Kit model. Super Quality with Decals. 1:20 scale.</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracker-checks-how-to-check-a-ufo-against-satellites-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="tracker-checks-how-to-check-a-ufo-against-satellites-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-ufo-against-satellites-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="how-to-check-a-ufo-against-satellites-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracker-checks-how-to-check-a-ufo-against-satellites-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="tracker-checks-how-to-check-a-ufo-against-satellites-ifos-causes-of-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-ufo-against-satellites-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="how-to-check-a-ufo-against-satellites-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -522,15 +512,15 @@ Within investigations of UFO reports, satellite trackers are valuable not becaus
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracker-checks-how-to-check-a-ufo-against-satellites-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="tracker-checks-how-to-check-a-ufo-against-satellites-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="{{ '/assets/images/marketplace-covers/c69c50419429aba53ee5.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-ufo-against-satellites-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="how-to-check-a-ufo-against-satellites-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Black Knight Satellite UFO Model With Stand | UFO Collectibles | 3D Printed"><img src="https://i.ebayimg.com/images/g/J5oAAeSwe2FpZM0r/s-l225.jpg" alt="Listing image for Black Knight Satellite UFO Model With Stand | UFO Collectibles | 3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracker-checks-how-to-check-a-ufo-against-satellites-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="tracker-checks-how-to-check-a-ufo-against-satellites-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-ufo-against-satellites-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="how-to-check-a-ufo-against-satellites-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Black Knight Satellite UFO Model With Stand | UFO Collectibles | 3D Printed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracker-checks-how-to-check-a-ufo-against-satellites-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="tracker-checks-how-to-check-a-ufo-against-satellites-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-ufo-against-satellites-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="how-to-check-a-ufo-against-satellites-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracker-checks-how-to-check-a-ufo-against-satellites-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="tracker-checks-how-to-check-a-ufo-against-satellites-ifos-causes-of-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-ufo-against-satellites-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="how-to-check-a-ufo-against-satellites-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -538,15 +528,15 @@ Within investigations of UFO reports, satellite trackers are valuable not becaus
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracker-checks-how-to-check-a-ufo-against-satellites-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="tracker-checks-how-to-check-a-ufo-against-satellites-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-ufo-against-satellites-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="how-to-check-a-ufo-against-satellites-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wooden Solar Satellite Model Solar Satellite Model Kit Puzzle for Space Lover"><img src="https://i.ebayimg.com/images/g/jhAAAOSwthFoQ0pc/s-l225.jpg" alt="Listing image for Wooden Solar Satellite Model Solar Satellite Model Kit Puzzle for Space Lover" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracker-checks-how-to-check-a-ufo-against-satellites-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="tracker-checks-how-to-check-a-ufo-against-satellites-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-ufo-against-satellites-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="how-to-check-a-ufo-against-satellites-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Wooden Solar Satellite Model Solar Satellite Model Kit Puzzle for Space Lover</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracker-checks-how-to-check-a-ufo-against-satellites-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="tracker-checks-how-to-check-a-ufo-against-satellites-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-ufo-against-satellites-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="how-to-check-a-ufo-against-satellites-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracker-checks-how-to-check-a-ufo-against-satellites-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="tracker-checks-how-to-check-a-ufo-against-satellites-ifos-causes-of-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-ufo-against-satellites-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="how-to-check-a-ufo-against-satellites-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -554,7 +544,7 @@ Within investigations of UFO reports, satellite trackers are valuable not becaus
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracker-checks-how-to-check-a-ufo-against-satellites-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="tracker-checks-how-to-check-a-ufo-against-satellites-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-a-ufo-against-satellites-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="how-to-check-a-ufo-against-satellites-satellite-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -769,179 +759,179 @@ Within investigations of UFO reports, satellite trackers are valuable not becaus
 
 1. <a id="endnote-1"></a>
    Source: heavens-above.com  
-   Link: [https://www.heavens-above.com/explain.aspx](https://www.heavens-above.com/explain.aspx)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Heavens-AboveExplanatory NotesWe maintain this set of dynamic Web pages which generate predictions of visible satellite passes for any po...</p></details>
+   Link: <a href="https://www.heavens-above.com/explain.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.heavens-above.com/explain.aspx</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Explanatory NotesWe maintain this set of dynamic Web pages which generate predictions of visible satellite passes for any po...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: celestrak.org  
-   Link: [https://celestrak.org/](https://celestrak.org/)  
+   Link: <a href="https://celestrak.org/" target="_blank" rel="noopener noreferrer nofollow">https://celestrak.org/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>CelesTrak...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: celestrak.org  
-   Link: [https://www.celestrak.org/columns/v02n01/](https://www.celestrak.org/columns/v02n01/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CelesTrakOrbital Coordinate Systems, Part ISince the satellite&#x27;s position is typically represented by a Keplerian orbital element set and...</p></details>
+   Link: <a href="https://www.celestrak.org/columns/v02n01/" target="_blank" rel="noopener noreferrer nofollow">https://www.celestrak.org/columns/v02n01/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Orbital Coordinate Systems, Part ISince the satellite&#x27;s position is typically represented by a Keplerian orbital element set and...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: celestrak.org  
-   Link: [https://www.celestrak.org/NORAD/elements/](https://www.celestrak.org/NORAD/elements/)  
+   Link: <a href="https://www.celestrak.org/NORAD/elements/" target="_blank" rel="noopener noreferrer nofollow">https://www.celestrak.org/NORAD/elements/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NORAD GP Element Sets Current DataA set of graphs and tables that show everything from the age distribution of the latest GP data, recent...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: heavens-above.com  
-   Link: [https://www.heavens-above.com/starlinklaunchpasses.aspx](https://www.heavens-above.com/starlinklaunchpasses.aspx)  
+   Link: <a href="https://www.heavens-above.com/starlinklaunchpasses.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.heavens-above.com/starlinklaunchpasses.aspx</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink passes for all objects from a launch, Home. Launch: Starlink G10...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: space.com  
    Title: Starlink satellite train: how to see and track it in the night sky  
-   Link: [https://www.space.com/starlink-satellite-train-how-to-see-and-track-it](https://www.space.com/starlink-satellite-train-how-to-see-and-track-it)  
+   Link: <a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>These satellites initially travel in a tight, bright line resembling a &quot;train,&quot; captivating skywatchers and often being mistaken for UFOs...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: aaro.mil  
    Title: AARO Satellite Flaring Paper 508 FINAL 04222025  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper_508_FINAL_04222025.pdf](https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper_508_FINAL_04222025.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper_508_FINAL_04222025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper_508_FINAL_04222025.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Correlations of Starlink Satellite Flaring with UAP...by A An · 2024 — This paper discusses specular and diffuse reflection of sunlight...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
    Title: arXiv Extreme Flaring of Starlink Satellites  
-   Link: [https://arxiv.org/abs/2405.13091](https://arxiv.org/abs/2405.13091)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivExtreme Flaring of Starlink SatellitesMay 21, 2024...</p></details>
+   Link: <a href="https://arxiv.org/abs/2405.13091" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2405.13091</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Extreme Flaring of Starlink SatellitesMay 21, 2024...</p></details>
    Published: May 21, 2024  
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2403.08155](https://arxiv.org/abs/2403.08155)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivEnhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</p></details>
+   Link: <a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeRead UAP Records from NARA; UAP Reporting Trends; UAP Imagery; NEW INFORMATION PAPER &amp; ANIMATION: Correlations of Satellite F...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: celestrak.org  
-   Link: [https://celestrak.org/publications/Visual-Observing/Part3/Narrative3.pdf](https://celestrak.org/publications/Visual-Observing/Part3/Narrative3.pdf)  
+   Link: <a href="https://celestrak.org/publications/Visual-Observing/Part3/Narrative3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://celestrak.org/publications/Visual-Observing/Part3/Narrative3.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Moon, we need to set up two sensors—located at the observing site—one pointing at the Sun and...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: celestrak.org  
    Title: sat trak  
-   Link: [https://www.celestrak.org/software/satellite/sat-trak.php](https://www.celestrak.org/software/satellite/sat-trak.php)  
+   Link: <a href="https://www.celestrak.org/software/satellite/sat-trak.php" target="_blank" rel="noopener noreferrer nofollow">https://www.celestrak.org/software/satellite/sat-trak.php</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Satellite Tracking Software Index27 Dec 2025 — This index provides links to information on satellite tracking software for many of today&#x27;...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: celestrak.org  
-   Link: [https://www.celestrak.org/NORAD/documentation/gp-data-formats.php](https://www.celestrak.org/NORAD/documentation/gp-data-formats.php)  
+   Link: <a href="https://www.celestrak.org/NORAD/documentation/gp-data-formats.php" target="_blank" rel="noopener noreferrer nofollow">https://www.celestrak.org/NORAD/documentation/gp-data-formats.php</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A New Way to Obtain GP Data (aka TLEs)CelesTrak uses MOVERS with the Active Geosynchronous satellites list to keep track of the small set...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Resources/](https://www.aaro.mil/Resources/)  
+   Link: <a href="https://www.aaro.mil/Resources/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Resources/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ResourcesINFORMATION PAPERS, Effect of Forced Perspective and Parallax View on UAP Observations · Correlations of Starlink Satellite Flar...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: heavens-above.com  
    Title: Frequently asked questions (FAQ)  
-   Link: [https://www.heavens-above.com/faq.aspx](https://www.heavens-above.com/faq.aspx)  
+   Link: <a href="https://www.heavens-above.com/faq.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.heavens-above.com/faq.aspx</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>satellite passes are only predicted when the sky is reasonably dark. However, these bright satellites can sometimes be seen when the sun...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: heavens-above.com  
-   Link: [https://www.heavens-above.com/](https://www.heavens-above.com/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Heavens-AboveStarlink G10-31 launched successfully at 10:04 UTC on 21st May from Cape Canaveral Space Force Station. Get predictions here...</p></details>
+   Link: <a href="https://www.heavens-above.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.heavens-above.com/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink G10-31 launched successfully at 10:04 UTC on 21st May from Cape Canaveral Space Force Station. Get predictions here...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/pdf/2405.13091](https://arxiv.org/pdf/2405.13091)  
+   Link: <a href="https://arxiv.org/pdf/2405.13091" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2405.13091</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Extreme Flaring of Starlink Satellitesby A Mallama · 2024 · Cited by 2 — This paper reports on extreme flares of many magnitudes that occ...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: bco.ie  
    Title: MTU Blackrock Castle How To Identify A UFO  
-   Link: [https://www.bco.ie/how-to-identify-a-ufo/](https://www.bco.ie/how-to-identify-a-ufo/)  
+   Link: <a href="https://www.bco.ie/how-to-identify-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.bco.ie/how-to-identify-a-ufo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO. Other, more mundane explanations are possible in the majority of cases... The sudden disappearance happens when it moves into the E...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/video/950338/satellite-flaring-phenomenon](https://www.dvidshub.net/video/950338/satellite-flaring-phenomenon)  
+   Link: <a href="https://www.dvidshub.net/video/950338/satellite-flaring-phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/950338/satellite-flaring-phenomenon</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Video - The Satellite Flaring PhenomenonSatellite flaring is an optical phenomenon which occurs when sunlight reflects off a satellite&#x27;s...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: thedebrief.org  
-   Link: [https://thedebrief.org/spacex-starlink-extreme-flaring-increases-reported-uap-sightings-and-poses-aviation-risks-new-research-finds/](https://thedebrief.org/spacex-starlink-extreme-flaring-increases-reported-uap-sightings-and-poses-aviation-risks-new-research-finds/)  
+   Link: <a href="https://thedebrief.org/spacex-starlink-extreme-flaring-increases-reported-uap-sightings-and-poses-aviation-risks-new-research-finds/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/spacex-starlink-extreme-flaring-increases-reported-uap-sightings-and-poses-aviation-risks-new-research-finds/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX Starlink &quot;Extreme Flaring&quot; Increases Reported...28 May 2024 — New research shows SpaceX&#x27;s Starlink satellites can cause extreme f...</p></details>
    Published: May 2024  
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=u1sc3__h348](https://www.youtube.com/watch?v=u1sc3__h348)  
+   Link: <a href="https://www.youtube.com/watch?v=u1sc3__h348" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=u1sc3__h348</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CelesTrak Pass VisualizationDr. T.S. Kelso, AGI Senior Research Astrodynamicist, gives a brief introduction to the new pass visualization...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: svs.gsfc.nasa.gov  
-   Link: [https://svs.gsfc.nasa.gov/search/?datasets=454](https://svs.gsfc.nasa.gov/search/?datasets=454)  
+   Link: <a href="https://svs.gsfc.nasa.gov/search/?datasets=454" target="_blank" rel="noopener noreferrer nofollow">https://svs.gsfc.nasa.gov/search/?datasets=454</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spacecraft Orbit EphemerisA view of the Earth from space, with a few hundred satellites orbiting the Earth ID: 5621 Visualization Visuali...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: orbitalradar.com  
-   Link: [https://orbitalradar.com/library](https://orbitalradar.com/library)  
+   Link: <a href="https://orbitalradar.com/library" target="_blank" rel="noopener noreferrer nofollow">https://orbitalradar.com/library</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ocation, the dedicated constellation trackers for Starlink, ISS, GPS...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: space-track.org  
-   Link: [https://www.space-track.org/documentation](https://www.space-track.org/documentation)  
+   Link: <a href="https://www.space-track.org/documentation" target="_blank" rel="noopener noreferrer nofollow">https://www.space-track.org/documentation</a>  
 
 ### Additional References
 
 26. <a id="endnote-26"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/228684641_Revisiting_Spacetrack_Report_3_Rev](https://www.researchgate.net/publication/228684641_Revisiting_Spacetrack_Report_3_Rev)  
+   Link: <a href="https://www.researchgate.net/publication/228684641_Revisiting_Spacetrack_Report_3_Rev" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228684641_Revisiting_Spacetrack_Report_3_Rev</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Revisiting Spacetrack Report# 3: RevTo establish visibility between the satellites in the constellation and the user equipment, a v...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: uapsightings.org  
-   Link: [https://uapsightings.org/common-uap-misidentifications/](https://uapsightings.org/common-uap-misidentifications/)  
+   Link: <a href="https://uapsightings.org/common-uap-misidentifications/" target="_blank" rel="noopener noreferrer nofollow">https://uapsightings.org/common-uap-misidentifications/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Common UAP MisidentificationsStarlink satellites can appear one of two ways: 1) as a straight line or “train” of lights very close togeth...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1i91pz4/aaro_publishes_information_paper_correlations_of/](https://www.reddit.com/r/UFOs/comments/1i91pz4/aaro_publishes_information_paper_correlations_of/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1i91pz4/aaro_publishes_information_paper_correlations_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1i91pz4/aaro_publishes_information_paper_correlations_of/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Correlations of Starlink1 Satellite Flaring with UAP...AARO publishes &quot;Information Paper: Correlations of Starlink1 Satellite Flaring wi...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Starlink/comments/enpdft/which_tracking_site_has_the_correct_info/](https://www.reddit.com/r/Starlink/comments/enpdft/which_tracking_site_has_the_correct_info/)  
+   Link: <a href="https://www.reddit.com/r/Starlink/comments/enpdft/which_tracking_site_has_the_correct_info/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Starlink/comments/enpdft/which_tracking_site_has_the_correct_info/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Which tracking site has the correct info?: r/StarlinkCelestrak uses ephemerides from SpaceX to calculate fresh TLEs three times a day an...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: theblackvault.com  
-   Link: [https://www.theblackvault.com/documentarchive/aaro-releases-document-and-video-explaining-satellite-flares-as-a-uap-misidentification-source/](https://www.theblackvault.com/documentarchive/aaro-releases-document-and-video-explaining-satellite-flares-as-a-uap-misidentification-source/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/aaro-releases-document-and-video-explaining-satellite-flares-as-a-uap-misidentification-source/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/aaro-releases-document-and-video-explaining-satellite-flares-as-a-uap-misidentification-source/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Releases Document and Video Explaining Satellite...Jan 25, 2025 — To aid observers, the report provides guidelines for predicting s...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/2365809903441367/posts/9363396420349312/](https://www.facebook.com/groups/2365809903441367/posts/9363396420349312/)  
+   Link: <a href="https://www.facebook.com/groups/2365809903441367/posts/9363396420349312/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/9363396420349312/</a>  
 
 32. <a id="endnote-32"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1cuwxug/ufo_or_is_this_just_a_plane_or_satellite/](https://www.reddit.com/r/UFOs/comments/1cuwxug/ufo_or_is_this_just_a_plane_or_satellite/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1cuwxug/ufo_or_is_this_just_a_plane_or_satellite/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1cuwxug/ufo_or_is_this_just_a_plane_or_satellite/</a>  
 
 33. <a id="endnote-33"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/2365809903441367/posts/26893349406927409/](https://www.facebook.com/groups/2365809903441367/posts/26893349406927409/)  
+   Link: <a href="https://www.facebook.com/groups/2365809903441367/posts/26893349406927409/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/26893349406927409/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Some seven years ago I created the Starlink Satellite Observing Group. I can run simulations that show which Starlink satellites...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: theforestawakening.com  
    Title: effect of forced perspective and parallax view on uap observations 35a2093a  
-   Link: [https://theforestawakening.com/incidents/effect-of-forced-perspective-and-parallax-view-on-uap-observations-35a2093a](https://theforestawakening.com/incidents/effect-of-forced-perspective-and-parallax-view-on-uap-observations-35a2093a)  
+   Link: <a href="https://theforestawakening.com/incidents/effect-of-forced-perspective-and-parallax-view-on-uap-observations-35a2093a" target="_blank" rel="noopener noreferrer nofollow">https://theforestawakening.com/incidents/effect-of-forced-perspective-and-parallax-view-on-uap-observations-35a2093a</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Effect of Forced Perspective and Parallax View on UAP...1 Jan 2024 — AARO discusses specular and diffuse reflection from man-made satell...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: researchgate.net  
    Title: 398806658 The use of astronomical data for satellite tracking  
-   Link: [https://www.researchgate.net/publication/398806658_The_use_of_astronomical_data_for_satellite_tracking](https://www.researchgate.net/publication/398806658_The_use_of_astronomical_data_for_satellite_tracking)  
+   Link: <a href="https://www.researchgate.net/publication/398806658_The_use_of_astronomical_data_for_satellite_tracking" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/398806658_The_use_of_astronomical_data_for_satellite_tracking</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The use of astronomical data for satellite tracking21 Dec 2025 — The study explored the usage of astronomical observations for the...</p></details>

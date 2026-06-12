@@ -50,22 +50,22 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_wind_data_33671a
 - ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - hoaxes
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - hoaxes
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Some IFOs begin as deliberate tricks, staged photos or misleading claims, making verification essential even when witnesses seem sincere.
 hero_summary: Some IFOs begin as deliberate tricks, staged photos or misleading claims, making verification essential even when witnesses seem sincere.
 layout: default
 permalink: /hoaxes/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 nav_short_title: Hoaxes
 title: When UFO Reports Are Manufactured
-title_full: When UFO Reports Are Manufactured | IFOs
+title_full: When UFO Reports Are Manufactured
 display_title_short: Hoaxes
 display_title: Hoaxes
 heading_title: When UFO Reports Are Manufactured
@@ -240,213 +240,212 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-07 00:21:33'
 parent_title: IFOs
-parent_permalink: /ifos-causes-of/
+parent_permalink: /ifos-causes-of-ufo-3-ed-238/
 parent_nav_short_title: IFOs
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 sibling_links:
 - basename: ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d
-  title: A Head On Aircraft Can Look Like A Stationary Light Because It | Ifos Causes Of
+  title: A Head On Aircraft Can Look Like A Stationary Light Because It | ifos causes of UFO 3 ed 238
   permalink: /a-head-on-aircraft-can-look-like-a/
   short_title: A Head On Aircraft Can Look Like A Stationary Light Because It
   heading_title: The Stationary Light That Is Moving
 - basename: ifos_-_causes_of_UFO_3ed238_aaro_resolved_cases_068261
-  title: AARO | Ifos Causes Of
+  title: AARO | ifos causes of UFO 3 ed 238
   permalink: /aaro/
   short_title: AARO
   heading_title: What Modern UAP Reviews Resolve
 - basename: ifos_-_causes_of_UFO_3ed238_aircraft_lights_8d8253
-  title: Aircraft Lights | Ifos Causes Of
+  title: Aircraft Lights | ifos causes of UFO 3 ed 238
   permalink: /aircraft-lights/
   short_title: Aircraft Lights
   heading_title: Why Ordinary Aircraft Look So Strange
 - basename: ifos_-_causes_of_UFO_3ed238_clouds_mirages_346043
-  title: Atmosphere | Ifos Causes Of
+  title: Atmosphere | ifos causes of UFO 3 ed 238
   permalink: /atmosphere/
   short_title: Atmosphere
   heading_title: When Weather Makes Shapes in the Sky
 - basename: ifos_-_causes_of_UFO_3ed238_weather_balloons_fdd057
-  title: Balloons | Ifos Causes Of
+  title: Balloons | ifos causes of UFO 3 ed 238
   permalink: /balloons/
   short_title: Balloons
   heading_title: Why Balloons Become Flying Saucers
 - basename: ifos_-_causes_of_UFO_3ed238_birds_ufo_reports_1b9c40
-  title: Birds | Ifos Causes Of
+  title: Birds | ifos causes of UFO 3 ed 238
   permalink: /birds/
   short_title: Birds
   heading_title: How Birds Become Fast UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81
-  title: Blue Book | Ifos Causes Of
+  title: Blue Book | ifos causes of UFO 3 ed 238
   permalink: /blue-book/
   short_title: Blue Book
   heading_title: What Blue Book Teaches About IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_sunlit_contrails_bbc69e
-  title: Contrails | Ifos Causes Of
+  title: Contrails | ifos causes of UFO 3 ed 238
   permalink: /contrails/
   short_title: Contrails
   heading_title: Why Jet Trails Glow Like UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_drones_modern_ufo_1d248c
-  title: Drones | Ifos Causes Of
+  title: Drones | ifos causes of UFO 3 ed 238
   permalink: /drones/
   short_title: Drones
   heading_title: When a Drone Becomes a UFO
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_first_checks_d02b3e
-  title: First Checks | Ifos Causes Of
+  title: First Checks | ifos causes of UFO 3 ed 238
   permalink: /first-checks/
   short_title: First Checks
   heading_title: What to Check Before Calling It a UFO
 - basename: ifos_-_causes_of_UFO_3ed238_military_flares_abb62f
-  title: Flares | Ifos Causes Of
+  title: Flares | ifos causes of UFO 3 ed 238
   permalink: /flares/
   short_title: Flares
   heading_title: Why Flares Look Like Hovering Craft
 - basename: ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590
-  title: Flight Tracking | Ifos Causes Of
+  title: Flight Tracking | ifos causes of UFO 3 ed 238
   permalink: /flight-tracking/
   short_title: Flight Tracking
   heading_title: How Flight Data Solves UFO Sightings
 - basename: ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f
-  title: Infrared | Ifos Causes Of
+  title: Infrared | ifos causes of UFO 3 ed 238
   permalink: /infrared/
   short_title: Infrared
   heading_title: Why Infrared UFO Videos Mislead
 - basename: ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74
-  title: Insects | Ifos Causes Of
+  title: Insects | ifos causes of UFO 3 ed 238
   permalink: /insects/
   short_title: Insects
   heading_title: The Tiny Things Cameras Make Huge
 - basename: ifos_-_causes_of_UFO_3ed238_sky_lanterns_eacec5
-  title: Lanterns | Ifos Causes Of
+  title: Lanterns | ifos causes of UFO 3 ed 238
   permalink: /lanterns/
   short_title: Lanterns
   heading_title: The Orange Lights That Start UFO Reports
 - basename: ifos_-_causes_of_UFO_3ed238_lens_flare_ce226e
-  title: Lens Flare | Ifos Causes Of
+  title: Lens Flare | ifos causes of UFO 3 ed 238
   permalink: /lens-flare/
   short_title: Lens Flare
   heading_title: When Cameras Invent Extra Lights
 - basename: ifos_-_causes_of_UFO_3ed238_mass_sightings_82cf28
-  title: Mass Sightings | Ifos Causes Of
+  title: Mass Sightings | ifos causes of UFO 3 ed 238
   permalink: /mass-sightings/
   short_title: Mass Sightings
   heading_title: Why Groups Can Share One Mistake
 - basename: ifos_-_causes_of_UFO_3ed238_meteors_fireballs_551504
-  title: Meteors | Ifos Causes Of
+  title: Meteors | ifos causes of UFO 3 ed 238
   permalink: /meteors/
   short_title: Meteors
   heading_title: When Fireballs Become UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca
-  title: Missing Data | Ifos Causes Of
+  title: Missing Data | ifos causes of UFO 3 ed 238
   permalink: /missing-data/
   short_title: Missing Data
   heading_title: Unsolved Does Not Always Mean Strange
 - basename: ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183
-  title: NASA Study | Ifos Causes Of
+  title: NASA Study | ifos causes of UFO 3 ed 238
   permalink: /nasa-study/
   short_title: NASA Study
   heading_title: Why Better UFO Data Matters
 - basename: ifos_-_causes_of_UFO_3ed238_parallax_motion_b3453b
-  title: Parallax | Ifos Causes Of
+  title: Parallax | ifos causes of UFO 3 ed 238
   permalink: /parallax/
   short_title: Parallax
   heading_title: The Speed Illusion in UFO Footage
 - basename: ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a
-  title: Pilots | Ifos Causes Of
+  title: Pilots | ifos causes of UFO 3 ed 238
   permalink: /pilots/
   short_title: Pilots
   heading_title: Why Pilots Can Misidentify UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_radar_anomalies_d7d357
-  title: Radar | Ifos Causes Of
+  title: Radar | ifos causes of UFO 3 ed 238
   permalink: /radar/
   short_title: Radar
   heading_title: When Radar Sees a UFO That Isnt There
 - basename: ifos_-_causes_of_UFO_3ed238_window_reflections_bcc04c
-  title: Reflections | Ifos Causes Of
+  title: Reflections | ifos causes of UFO 3 ed 238
   permalink: /reflections/
   short_title: Reflections
   heading_title: The UFO Inside the Glass
 - basename: ifos_-_causes_of_UFO_3ed238_rocket_plumes_0fc132
-  title: Rocket Plumes | Ifos Causes Of
+  title: Rocket Plumes | ifos causes of UFO 3 ed 238
   permalink: /rocket-plumes/
   short_title: Rocket Plumes
   heading_title: The Strange Clouds Rockets Leave Behind
 - basename: ifos_-_causes_of_UFO_3ed238_satellites_starlink_2cae9b
-  title: Satellites | Ifos Causes Of
+  title: Satellites | ifos causes of UFO 3 ed 238
   permalink: /satellites/
   short_title: Satellites
   heading_title: Why Satellites Surprise Night Watchers
 - basename: ifos_-_causes_of_UFO_3ed238_searchlights_clouds_76dbe1
-  title: Searchlights | Ifos Causes Of
+  title: Searchlights | ifos causes of UFO 3 ed 238
   permalink: /searchlights/
   short_title: Searchlights
   heading_title: How Searchlights Paint UFOs in Clouds
 - basename: ifos_-_causes_of_UFO_3ed238_sensor_operators_e2e57b
-  title: Sensor Operators | Ifos Causes Of
+  title: Sensor Operators | ifos causes of UFO 3 ed 238
   permalink: /sensor-operators/
   short_title: Sensor Operators
   heading_title: When Sensors Need Human Context
 - basename: ifos_-_causes_of_UFO_3ed238_short_ufo_clips_8e6391
-  title: Short Clips | Ifos Causes Of
+  title: Short Clips | ifos causes of UFO 3 ed 238
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: Why Short UFO Videos Are Hard to Trust
 - basename: ifos_-_causes_of_UFO_3ed238_distance_size_errors_849a5f
-  title: Size Errors | Ifos Causes Of
+  title: Size Errors | ifos causes of UFO 3 ed 238
   permalink: /size-errors/
   short_title: Size Errors
   heading_title: Why Honest Witnesses Misjudge UFOs
 - basename: ifos_-_causes_of_UFO_3ed238_astronomical_charts_89e725
-  title: Sky Charts | Ifos Causes Of
+  title: Sky Charts | ifos causes of UFO 3 ed 238
   permalink: /sky-charts/
   short_title: Sky Charts
   heading_title: How to Check a UFO Against the Sky
 - basename: ifos_-_causes_of_UFO_3ed238_twinkling_stars_ad8e32
-  title: Stars | Ifos Causes Of
+  title: Stars | ifos causes of UFO 3 ed 238
   permalink: /stars/
   short_title: Stars
   heading_title: Why Stars Flash Like Machines
 - basename: ifos_-_causes_of_UFO_3ed238_ufo_status_labels_409edb
-  title: Status Labels | Ifos Causes Of
+  title: Status Labels | ifos causes of UFO 3 ed 238
   permalink: /status-labels/
   short_title: Status Labels
   heading_title: UFO Does Not Mean Alien
 - basename: ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d
-  title: Strong Cases | Ifos Causes Of
+  title: Strong Cases | ifos causes of UFO 3 ed 238
   permalink: /strong-cases/
   short_title: Strong Cases
   heading_title: What Makes a UFO Report Harder to Explain
 - basename: ifos_-_causes_of_UFO_3ed238_uk_mod_files_ed9948
-  title: UK Files | Ifos Causes Of
+  title: UK Files | ifos causes of UFO 3 ed 238
   permalink: /uk-files/
   short_title: UK Files
   heading_title: What the UK UFO Files Reveal
 - basename: ifos_-_causes_of_UFO_3ed238_unresolved_cases_0eab06
-  title: Unresolved Cases | Ifos Causes Of
+  title: Unresolved Cases | ifos causes of UFO 3 ed 238
   permalink: /unresolved-cases/
   short_title: Unresolved Cases
   heading_title: Why Some UFO Cases Stay Open
 - basename: ifos_-_causes_of_UFO_3ed238_venus_bright_planets_216080
-  title: Venus | Ifos Causes Of
+  title: Venus | ifos causes of UFO 3 ed 238
   permalink: /venus/
   short_title: Venus
   heading_title: Is That UFO Really Venus?
 - basename: ifos_-_causes_of_UFO_3ed238_weather_records_2fcf13
-  title: Weather Records | Ifos Causes Of
+  title: Weather Records | ifos causes of UFO 3 ed 238
   permalink: /weather-records/
   short_title: Weather Records
   heading_title: Weather Clues That Explain Strange Lights
 - basename: ifos_-_causes_of_UFO_3ed238_wind_data_33671a
-  title: Wind Data | Ifos Causes Of
+  title: Wind Data | ifos causes of UFO 3 ed 238
   permalink: /wind-data/
   short_title: Wind Data
   heading_title: Following a UFO With the Wind
@@ -479,20 +478,21 @@ child_links:
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 prev_link:
   basename: ifos_-_causes_of_UFO_3ed238_flight_tracking_a49590
-  title: Flight Tracking | Ifos Causes Of
+  title: Flight Tracking | ifos causes of UFO 3 ed 238
   permalink: /flight-tracking/
   short_title: Flight Tracking
   heading_title: How Flight Data Solves UFO Sightings
 next_link:
   basename: ifos_-_causes_of_UFO_3ed238_infrared_false_speed_c7412f
-  title: Infrared | Ifos Causes Of
+  title: Infrared | ifos causes of UFO 3 ed 238
   permalink: /infrared/
   short_title: Infrared
   heading_title: Why Infrared UFO Videos Mislead
+date: '2026-06-12 00:05:41 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965-overview-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965-overview.webp
@@ -503,9 +503,8 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965-overview-soc
 
 Deliberate UFO fabrications are reports created to mislead: staged lights, faked photographs, doctored videos, forged documents, planted stories or claims designed to look more evidential than they are. They are only one cause of UFO reports, and they should not be used to dismiss every strange sighting. Many witnesses are sincere and many IFOs begin as honest misidentifications. But hoaxes matter because a single convincing fabrication can waste investigative effort, frighten the public, mislead journalists, and make later witnesses harder to trust.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965-overview.webp" | relative_url }}" alt="Overview image for Hoaxes" loading="eager" decoding="sync" fetchpriority="high">
-The key lesson is not “all UFOs are fake”. It is that the stronger a claim appears, the more important provenance becomes. Who made the image? Where was the original file? Can the time, place, direction, witnesses and chain of custody be checked? Modern official reviews still find many reports are ordinary objects or unresolved because data is poor, not because they are manufactured; [AARO]({{ 'aaro/' | relative_url }}) has also stated that it has found no verifiable evidence that any UAP sighting represented extraterrestrial activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">DOD Report Discounts Sightings of Extraterrestrial Technology &gt; U.S. Department of War &gt; Defense Department News | U.S. Department of War...</span></span></span>(#endnote-1 "Snippet: DOD Report Discounts Sightings of Extraterrestrial Technology > U.S. Department of War > Defense Department News | U.S. Department of War")
+The key lesson is not “all UFOs are fake”. It is that the stronger a claim appears, the more important provenance becomes. Who made the image? Where was the original file? Can the time, place, direction, witnesses and chain of custody be checked? Modern official reviews still find many reports are ordinary objects or unresolved because data is poor, not because they are manufactured; [AARO]({{ 'aaro/' | relative_url }}) has also stated that it has found no verifiable evidence that any UAP sighting represented extraterrestrial activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">DOD Report Discounts Sightings of Extraterrestrial Technology &gt; U.S. Department of War &gt; Defense Department News &#124; U.S. Department of War...</span></span></span>(#endnote-1 "Snippet: DOD Report Discounts Sightings of Extraterrestrial Technology > U.S. Department of War > Defense Department News | U.S. Department of War")
 
 ## Why people manufacture UFO reports
 
@@ -513,20 +512,19 @@ UFO hoaxes usually work because they borrow the surface features of real uncerta
 
 The motives vary. Some hoaxes are pranks, such as staged lights intended to see whether local people, media outlets or UFO groups will react. Others are promotional, using mystery to attract attention, sell tickets, build an online audience, push a documentary, or revive a famous case. Some are ideological: they reinforce a belief that authorities are hiding alien evidence. A smaller but important category involves fabricated “official” material, where the fake object is not a light or photograph but a supposed government record.
 
-The 2009 [Morris County]({{ 'morris-county/' | relative_url }}) case shows the prank version clearly. Two men admitted tying road flares to helium balloons, producing lights that prompted calls to police and wider media attention. Local reporting said Chris Russo and Joe Rudy admitted the act after the lights caused public concern. <span class="citation-chip-wrap"><a class="citation-chip" href="https://6abc.com/archive/6743403/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 6abc.com">[6abc Philadelphia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">6abc.com</span><span class="citation-popover-title">Philadelphia N.J. UFO hoax uncovered | 6abc Philadelphia | 6abc.com</span><span class="citation-popover-snippet">6abc PhiladelphiaN.J. UFO hoax uncovered | 6abc Philadelphia | 6abc.com - 6abc Philadelphia...</span></span></span> The case matters because the witnesses who called police were not necessarily lying. They saw unusual lights. The deliberate act occurred upstream, in the creation of the stimulus.
+The 2009 [Morris County]({{ 'morris-county/' | relative_url }}) case shows the prank version clearly. Two men admitted tying road flares to helium balloons, producing lights that prompted calls to police and wider media attention. Local reporting said Chris Russo and Joe Rudy admitted the act after the lights caused public concern. <span class="citation-chip-wrap"><a class="citation-chip" href="https://6abc.com/archive/6743403/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 6abc.com">[6abc Philadelphia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">6abc.com</span><span class="citation-popover-title">Philadelphia N.J. UFO hoax uncovered &#124; 6abc Philadelphia &#124; 6abc.com</span><span class="citation-popover-snippet">6abc PhiladelphiaN.J. UFO hoax uncovered &#124; 6abc Philadelphia &#124; 6abc.com - 6abc Philadelphia...</span></span></span> The case matters because the witnesses who called police were not necessarily lying. They saw unusual lights. The deliberate act occurred upstream, in the creation of the stimulus.
 
 That distinction is central to IFO analysis. A hoax can generate sincere testimony. Dozens of people can honestly report the same strange thing, yet the source may still be a staged object, a prank, or a misleading release. Investigators therefore have to separate the witness’s experience from the origin of the event.
 
 ## Hoax motives
 
-The simplest motive is attention. UFO stories have a built-in audience because they combine mystery, possible danger, and the hope of extraordinary discovery. A staged sighting can produce local news coverage within hours, especially when there are multiple callers, lights appear near an airport, or the objects are filmed. In the Morris County case, the use of flares and balloons created a visually simple but effective illusion: glowing lights drifting together in the night sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://6abc.com/archive/6743403/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 6abc.com">[6abc Philadelphia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">6abc.com</span><span class="citation-popover-title">Philadelphia N.J. UFO hoax uncovered | 6abc Philadelphia | 6abc.com</span><span class="citation-popover-snippet">6abc PhiladelphiaN.J. UFO hoax uncovered | 6abc Philadelphia | 6abc.com - 6abc Philadelphia...</span></span></span>
+The simplest motive is attention. UFO stories have a built-in audience because they combine mystery, possible danger, and the hope of extraordinary discovery. A staged sighting can produce local news coverage within hours, especially when there are multiple callers, lights appear near an airport, or the objects are filmed. In the Morris County case, the use of flares and balloons created a visually simple but effective illusion: glowing lights drifting together in the night sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://6abc.com/archive/6743403/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 6abc.com">[6abc Philadelphia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">6abc.com</span><span class="citation-popover-title">Philadelphia N.J. UFO hoax uncovered &#124; 6abc Philadelphia &#124; 6abc.com</span><span class="citation-popover-snippet">6abc PhiladelphiaN.J. UFO hoax uncovered &#124; 6abc Philadelphia &#124; 6abc.com - 6abc Philadelphia...</span></span></span>
 
-A second motive is status inside UFO culture. A person who claims to possess a rare photograph, secret briefing, crashed object fragment or insider testimony can become a gatekeeper to a story. The claim may be framed as “too sensitive” to release fully, which conveniently prevents normal checking. This is why hoaxes often arrive with [missing originals]({{ 'missing-files/' | relative_url }}), anonymous sources, partial images, copied documents or vague provenance.
+A second motive is status inside UFO culture. A person who claims to possess a rare photograph, secret briefing, crashed object fragment or insider testimony can become a gatekeeper to a story. The claim may be framed as “too sensitive” to release fully, which conveniently prevents normal checking. This is why hoaxes often arrive with missing originals, anonymous sources, partial images, copied documents or vague provenance.
 
-A third motive is money. Paid events, documentaries, books, lecture circuits and monetised channels can reward unresolved mystery more than resolution. The “[Roswell Slides]({{ 'roswell-slides/' | relative_url }})” episode illustrates the danger. The slides were promoted as possible evidence connected to Roswell, but later analysis identified the image as a museum-displayed mummified child rather than an alien body; the episode is now widely treated as a cautionary example of how weak provenance and promotional framing can inflate a poor claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2015/09/p30.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">PSYCHIC VIBRATIONS ROBERT SHEAFFER. The &#x27;Roswell Slides&#x27; Fiasco: UFOlogy&#x27;s Biggest...Read more...</span></span></span>
+A third motive is money. Paid events, documentaries, books, lecture circuits and monetised channels can reward unresolved mystery more than resolution. The “[Roswell Slides]({{ 'roswell-slides/' | relative_url }})” episode illustrates the danger. The slides were promoted as possible evidence connected to [Roswell]({{ 'roswell/' | relative_url }}), but later analysis identified the image as a museum-displayed mummified child rather than an alien body; the episode is now widely treated as a cautionary example of how weak provenance and promotional framing can inflate a poor claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2015/09/p30.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">PSYCHIC VIBRATIONS ROBERT SHEAFFER. The &#x27;Roswell Slides&#x27; Fiasco: UFOlogy&#x27;s Biggest...Read more...</span></span></span>
 
 A fourth motive is narrative reinforcement. Fabricated documents can be more powerful than fabricated photographs because they appear to confirm a hidden structure behind many separate stories. The Majestic 12 material is the classic example: documents circulated in UFO circles claiming a secret committee handled alien recovery. The FBI Vault hosts the Majestic 12 file, and the broader FBI record is commonly cited because the material was treated as bogus after official inquiry. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vault.fbi.gov/Majestic%2012" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vault.fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vault.fbi.gov</span><span class="citation-popover-title">— Federal Bureau of Investigation</span><span class="citation-popover-snippet">— Federal Bureau of Investigation</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vault.fbi.gov/Majestic%2012/Majestic%2012%20Part%2001%20%28Final%29/view" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vault.fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vault.fbi.gov</span><span class="citation-popover-title">— Federal Bureau of Investigation</span><span class="citation-popover-snippet">— Federal Bureau of Investigation</span></span></span>
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965-Illustration-1-dark.svg" | relative_url }}" alt="Hoaxes illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The strongest hoaxes imitate weak evidence, not perfect evidence
@@ -548,9 +546,6 @@ A few patterns recur:
 
 This is why a hoax is not disproved simply because many people were fooled. The aim of a fabrication is to exploit normal uncertainty: darkness, distance, camera limitations, unfamiliar objects and the human tendency to infer speed or size without reliable scale.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2G7ZG-jiZOo" title="Top 5 UFO Video Hoax Tips" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2G7ZG-jiZOo" target="_blank" rel="noopener noreferrer">Top 5 UFO Video Hoax Tips</a></p><p class="youtube-embed-meta">Channel: Discovery &middot; Views: 98.8K &middot; Uploaded: February 2010 &middot; Length: 2 minutes 45 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2G7ZG-jiZOo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2G7ZG-jiZOo">Open on YouTube</a></p></div></div></div>
-
 ## Photo and video warning signs
 
 Photographs and videos are useful evidence only when they can be connected to a verifiable event. The image itself is not enough. The question is whether the file, scene and claimed story survive basic checks.
@@ -558,7 +553,6 @@ Photographs and videos are useful evidence only when they can be connected to a 
 Bellingcat’s verification guidance for online images and videos begins with simple but powerful steps: reverse image search, checking whether a clip has appeared before, and examining the surrounding context rather than treating the upload as self-authenticating. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bellingcat.com/resources/how-tos/2017/06/30/advanced-guide-verifying-video-content/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bellingcat.com">[bellingcat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bellingcat.com</span><span class="citation-popover-title">Advanced Guide on Verifying Video Content</span><span class="citation-popover-snippet">Advanced Guide on Verifying Video Content</span></span></span> For UFO reports, those checks should be combined with sky-specific questions: wind direction, aircraft tracks, satellite passes, camera position, lens effects, reflections and whether the claimed movement can be explained by the camera rather than the object.
 
 Warning signs include:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -573,7 +567,6 @@ Warning signs include:
 </div>
 
 None of these signs proves a hoax by itself. A frightened witness may record only a short clip. A person may remove metadata accidentally. A social media upload may compress a genuine video. But the more warning signs accumulate, the less weight the material should carry.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965-Illustration-2-dark.svg" | relative_url }}" alt="Hoaxes illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Documents can be hoaxed too
@@ -594,19 +587,15 @@ Official and institutional UAP work tends to separate these categories because t
 
 This distinction protects sincere witnesses. Treating every error as a lie discourages reporting. Treating every dramatic claim as honest discourages verification. A sound investigation allows for both possibilities: honest confusion and deliberate deception.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/A8WYfMq2EJY" title="Alien Contact: The Biological Connection | Documentary | Full Movie | Twins Searching Alien Truth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=A8WYfMq2EJY" target="_blank" rel="noopener noreferrer">Alien Contact: The Biological Connection | Documentary | Full Movie | Twins Searching Alien Truth</a></p><p class="youtube-embed-meta">Channel: Stash - Bigfoot, UFOs &amp; The Unexplained</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=A8WYfMq2EJY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=A8WYfMq2EJY">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2G7ZG-jiZOo" title="Top 5 UFO Video Hoax Tips" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2G7ZG-jiZOo" target="_blank" rel="noopener noreferrer">Top 5 UFO Video Hoax Tips</a></p><p class="youtube-embed-meta">Channel: Discovery &middot; Views: 98.8K &middot; Uploaded: February 2010 &middot; Length: 2 minutes 45 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2G7ZG-jiZOo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2G7ZG-jiZOo">Open on YouTube</a></p></div></div></div>
 
 ## How hoaxes affect trust
 
 Hoaxes damage UFO inquiry in three ways. First, they waste attention. Investigators, journalists and interested readers spend time on manufactured material instead of cases with better documentation. Second, they contaminate public memory. Once a fake has circulated widely, corrections rarely travel as far as the original mystery. Third, they create cynicism, making it easier for serious witnesses to be dismissed.
 
-The Morris County case shows the immediate public-cost problem: staged lights prompted police calls and concern. <span class="citation-chip-wrap"><a class="citation-chip" href="https://6abc.com/archive/6743403/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 6abc.com">[6abc Philadelphia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">6abc.com</span><span class="citation-popover-title">Philadelphia N.J. UFO hoax uncovered | 6abc Philadelphia | 6abc.com</span><span class="citation-popover-snippet">6abc PhiladelphiaN.J. UFO hoax uncovered | 6abc Philadelphia | 6abc.com - 6abc Philadelphia...</span></span></span> The Roswell Slides show the reputational problem: a highly promoted claim collapsed when the object was identified as a human mummy in a museum context. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2015/09/p30.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">PSYCHIC VIBRATIONS ROBERT SHEAFFER. The &#x27;Roswell Slides&#x27; Fiasco: UFOlogy&#x27;s Biggest...Read more...</span></span></span> Majestic 12 shows the long-tail problem: even discredited documents can keep shaping theories because they offer a compelling hidden architecture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vault.fbi.gov/Majestic%2012/Majestic%2012%20Part%2001%20%28Final%29/view" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vault.fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vault.fbi.gov</span><span class="citation-popover-title">— Federal Bureau of Investigation</span><span class="citation-popover-snippet">— Federal Bureau of Investigation</span></span></span>
+The Morris County case shows the immediate public-cost problem: staged lights prompted police calls and concern. <span class="citation-chip-wrap"><a class="citation-chip" href="https://6abc.com/archive/6743403/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 6abc.com">[6abc Philadelphia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">6abc.com</span><span class="citation-popover-title">Philadelphia N.J. UFO hoax uncovered &#124; 6abc Philadelphia &#124; 6abc.com</span><span class="citation-popover-snippet">6abc PhiladelphiaN.J. UFO hoax uncovered &#124; 6abc Philadelphia &#124; 6abc.com - 6abc Philadelphia...</span></span></span> The Roswell Slides show the reputational problem: a highly promoted claim collapsed when the object was identified as a human mummy in a museum context. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2015/09/p30.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">PSYCHIC VIBRATIONS ROBERT SHEAFFER. The &#x27;Roswell Slides&#x27; Fiasco: UFOlogy&#x27;s Biggest...Read more...</span></span></span> Majestic 12 shows the long-tail problem: even discredited documents can keep shaping theories because they offer a compelling hidden architecture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vault.fbi.gov/Majestic%2012/Majestic%2012%20Part%2001%20%28Final%29/view" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vault.fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vault.fbi.gov</span><span class="citation-popover-title">— Federal Bureau of Investigation</span><span class="citation-popover-snippet">— Federal Bureau of Investigation</span></span></span>
 
 Hoaxes also distort the evidence pool. If a community rewards dramatic claims before verification, it creates an incentive to produce more dramatic claims. That does not mean UFO discussion must become hostile or dismissive. It means credibility should be earned by disclosure of method: original files, clear timelines, location data, witness separation, independent corroboration and willingness to accept mundane explanations.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tMWHmm5VC88" title="My hands are shaking as I look at this" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tMWHmm5VC88" target="_blank" rel="noopener noreferrer">My hands are shaking as I look at this</a></p><p class="youtube-embed-meta">Channel: NEXOR</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tMWHmm5VC88" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tMWHmm5VC88">Open on YouTube</a></p></div></div></div>
 
 ## A practical credibility test for suspected UFO hoaxes
 
@@ -619,7 +608,6 @@ Next, test the environment. For lights and objects in the sky, compare the claim
 Then examine the media. Look for earlier uploads, cropped versions, inconsistent shadows, repeated patterns, missing audio, suspicious edits and whether the object interacts realistically with the scene. Reverse image search and contextual verification are basic first steps for online media. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bellingcat.com/resources/2021/11/01/a-beginners-guide-to-social-media-verification/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bellingcat.com">[bellingcat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bellingcat.com</span><span class="citation-popover-title">A Beginner&#x27;s Guide to Social Media Verification</span><span class="citation-popover-snippet">A Beginner&#x27;s Guide to Social Media Verification</span></span></span>
 
 Finally, separate “unresolved” from “extraordinary”. A case may remain unexplained because the data is too poor. That is not the same as evidence for a manufactured hoax, and it is not the same as evidence for exotic technology. The safest conclusion may be: insufficient information.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965-Illustration-3-dark.svg" | relative_url }}" alt="Hoaxes illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_ufo_hoaxes_c16965-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What manufactured UFO reports teach about IFOs
@@ -1027,153 +1015,153 @@ The lesson for readers is practical. Do not ask only, “Could this be fake?” 
 1. <a id="endnote-1"></a>
    Source: war.gov  
    Title: U.S. Department of War  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/](https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>DOD Report Discounts Sightings of Extraterrestrial Technology &gt; U.S. Department of War &gt; Defense Department News | U.S. Department of War...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Imagery...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: 6abc.com  
    Title: Philadelphia N.J. UFO hoax uncovered | 6abc Philadelphia | 6abc.com  
-   Link: [https://6abc.com/archive/6743403/](https://6abc.com/archive/6743403/)  
+   Link: <a href="https://6abc.com/archive/6743403/" target="_blank" rel="noopener noreferrer nofollow">https://6abc.com/archive/6743403/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>6abc PhiladelphiaN.J. UFO hoax uncovered | 6abc Philadelphia | 6abc.com - 6abc Philadelphia...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: vault.fbi.gov  
    Title: — Federal Bureau of Investigation  
-   Link: [https://vault.fbi.gov/Majestic%2012](https://vault.fbi.gov/Majestic%2012)  
+   Link: <a href="https://vault.fbi.gov/Majestic%2012" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Majestic%2012</a>  
 
 5. <a id="endnote-5"></a>
    Source: vault.fbi.gov  
    Title: — Federal Bureau of Investigation  
-   Link: [https://vault.fbi.gov/Majestic%2012/Majestic%2012%20Part%2001%20%28Final%29/view](https://vault.fbi.gov/Majestic%2012/Majestic%2012%20Part%2001%20%28Final%29/view)  
+   Link: <a href="https://vault.fbi.gov/Majestic%2012/Majestic%2012%20Part%2001%20%28Final%29/view" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Majestic%2012/Majestic%2012%20Part%2001%20%28Final%29/view</a>  
 
 6. <a id="endnote-6"></a>
    Source: bellingcat.com  
    Title: Advanced Guide on Verifying Video Content  
-   Link: [https://www.bellingcat.com/resources/how-tos/2017/06/30/advanced-guide-verifying-video-content/](https://www.bellingcat.com/resources/how-tos/2017/06/30/advanced-guide-verifying-video-content/)  
+   Link: <a href="https://www.bellingcat.com/resources/how-tos/2017/06/30/advanced-guide-verifying-video-content/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/resources/how-tos/2017/06/30/advanced-guide-verifying-video-content/</a>  
 
 7. <a id="endnote-7"></a>
    Source: bellingcat.com  
    Title: A Beginner's Guide to Social Media Verification  
-   Link: [https://www.bellingcat.com/resources/2021/11/01/a-beginners-guide-to-social-media-verification/](https://www.bellingcat.com/resources/2021/11/01/a-beginners-guide-to-social-media-verification/)  
+   Link: <a href="https://www.bellingcat.com/resources/2021/11/01/a-beginners-guide-to-social-media-verification/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/resources/2021/11/01/a-beginners-guide-to-social-media-verification/</a>  
 
 8. <a id="endnote-8"></a>
    Source: af.mil  
    Title: U.S. Air Force  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: bellingcat.com  
-   Link: [https://www.bellingcat.com/](https://www.bellingcat.com/)  
+   Link: <a href="https://www.bellingcat.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/</a>  
 
 10. <a id="endnote-10"></a>
    Source: bellingcat.com  
-   Link: [https://www.bellingcat.com/tag/verification/](https://www.bellingcat.com/tag/verification/)  
+   Link: <a href="https://www.bellingcat.com/tag/verification/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/tag/verification/</a>  
 
 11. <a id="endnote-11"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/wp-content/uploads/sites/29/2015/09/p30.pdf](https://skepticalinquirer.org/wp-content/uploads/sites/29/2015/09/p30.pdf)  
+   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2015/09/p30.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2015/09/p30.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[ PSYCHIC VIBRATIONS ROBERT SHEAFFER. The &#x27;Roswell Slides&#x27; Fiasco: UFOlogy&#x27;s Biggest...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 14. <a id="endnote-14"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 15. <a id="endnote-15"></a>
    Source: media.defense.gov  
    Title: FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508  
-   Link: [https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF](https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
 
 16. <a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 17. <a id="endnote-17"></a>
    Source: Wikipedia  
    Title: Majestic 12  
-   Link: [https://en.wikipedia.org/wiki/Majestic_12](https://en.wikipedia.org/wiki/Majestic_12)  
+   Link: <a href="https://en.wikipedia.org/wiki/Majestic_12" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Majestic_12</a>  
 
 18. <a id="endnote-18"></a>
    Source: bellingcat.gitbook.io  
    Title: io In VI D  
-   Link: [https://bellingcat.gitbook.io/toolkit/more/all-tools/invid](https://bellingcat.gitbook.io/toolkit/more/all-tools/invid)  
+   Link: <a href="https://bellingcat.gitbook.io/toolkit/more/all-tools/invid" target="_blank" rel="noopener noreferrer nofollow">https://bellingcat.gitbook.io/toolkit/more/all-tools/invid</a>  
 
 19. <a id="endnote-19"></a>
    Source: bellingcat.gitbook.io  
    Title: io Guides & Handbooks  
-   Link: [https://bellingcat.gitbook.io/toolkit/resources/guides-and-handbooks](https://bellingcat.gitbook.io/toolkit/resources/guides-and-handbooks)  
+   Link: <a href="https://bellingcat.gitbook.io/toolkit/resources/guides-and-handbooks" target="_blank" rel="noopener noreferrer nofollow">https://bellingcat.gitbook.io/toolkit/resources/guides-and-handbooks</a>  
 
 20. <a id="endnote-20"></a>
    Source: archive.comsuregroup.com  
    Title: Bellingcats Digital Toolkit  
-   Link: [https://archive.comsuregroup.com/wp-content/uploads/2018/06/Bellingcats-Digital-Toolkit.pdf](https://archive.comsuregroup.com/wp-content/uploads/2018/06/Bellingcats-Digital-Toolkit.pdf)  
+   Link: <a href="https://archive.comsuregroup.com/wp-content/uploads/2018/06/Bellingcats-Digital-Toolkit.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.comsuregroup.com/wp-content/uploads/2018/06/Bellingcats-Digital-Toolkit.pdf</a>  
 
 21. <a id="endnote-21"></a>
    Source: science.howstuffworks.com  
    Title: majestic 12  
-   Link: [https://science.howstuffworks.com/space/aliens-ufos/majestic-12.htm](https://science.howstuffworks.com/space/aliens-ufos/majestic-12.htm)  
+   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/majestic-12.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/majestic-12.htm</a>  
 
 22. <a id="endnote-22"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 ### Additional References
 
 23. <a id="endnote-23"></a>
    Source: nsa.gov  
-   Link: [https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf)  
+   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
 24. <a id="endnote-24"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/403025531_Tic_Tac_and_Beyond_UAP_Sightings_Reverse-Engineered_Alien_Tech_and_the_Corporate-Government_Conspiracy](https://www.researchgate.net/publication/403025531_Tic_Tac_and_Beyond_UAP_Sightings_Reverse-Engineered_Alien_Tech_and_the_Corporate-Government_Conspiracy)  
+   Link: <a href="https://www.researchgate.net/publication/403025531_Tic_Tac_and_Beyond_UAP_Sightings_Reverse-Engineered_Alien_Tech_and_the_Corporate-Government_Conspiracy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/403025531_Tic_Tac_and_Beyond_UAP_Sightings_Reverse-Engineered_Alien_Tech_and_the_Corporate-Government_Conspiracy</a>  
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/SpaceLaneInfo/posts/a-recent-photograph-circulating-online-claims-to-show-one-of-the-clearest-ufo-si/995727426756966/](https://www.facebook.com/SpaceLaneInfo/posts/a-recent-photograph-circulating-online-claims-to-show-one-of-the-clearest-ufo-si/995727426756966/)  
+   Link: <a href="https://www.facebook.com/SpaceLaneInfo/posts/a-recent-photograph-circulating-online-claims-to-show-one-of-the-clearest-ufo-si/995727426756966/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SpaceLaneInfo/posts/a-recent-photograph-circulating-online-claims-to-show-one-of-the-clearest-ufo-si/995727426756966/</a>  
 
 26. <a id="endnote-26"></a>
    Source: amazon.com  
-   Link: [https://www.amazon.com/Case-MJ-12-Behind-Governments-Conspiracies/dp/0380814730](https://www.amazon.com/Case-MJ-12-Behind-Governments-Conspiracies/dp/0380814730)  
+   Link: <a href="https://www.amazon.com/Case-MJ-12-Behind-Governments-Conspiracies/dp/0380814730" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/Case-MJ-12-Behind-Governments-Conspiracies/dp/0380814730</a>  
 
 27. <a id="endnote-27"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1kx9bpe/does_anyone_know_anything_about_this_photo_and/](https://www.reddit.com/r/UFOs/comments/1kx9bpe/does_anyone_know_anything_about_this_photo_and/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1kx9bpe/does_anyone_know_anything_about_this_photo_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1kx9bpe/does_anyone_know_anything_about_this_photo_and/</a>  
 
 28. <a id="endnote-28"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/yw3xds/imho_i_think_videos_like_this_may_be_one_of_the/](https://www.reddit.com/r/UFOs/comments/yw3xds/imho_i_think_videos_like_this_may_be_one_of_the/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/yw3xds/imho_i_think_videos_like_this_may_be_one_of_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/yw3xds/imho_i_think_videos_like_this_may_be_one_of_the/</a>  
 
 29. <a id="endnote-29"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40kevin.bergin1958/majestic-12-ufo-files-that-shook-and-divided-the-world-of-disclosure-8bc3cdbe4ed5](https://medium.com/%40kevin.bergin1958/majestic-12-ufo-files-that-shook-and-divided-the-world-of-disclosure-8bc3cdbe4ed5)  
+   Link: <a href="https://medium.com/%40kevin.bergin1958/majestic-12-ufo-files-that-shook-and-divided-the-world-of-disclosure-8bc3cdbe4ed5" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40kevin.bergin1958/majestic-12-ufo-files-that-shook-and-divided-the-world-of-disclosure-8bc3cdbe4ed5</a>  
 
 30. <a id="endnote-30"></a>
    Source: jstor.org  
-   Link: [https://www.jstor.org/content/pdf/oa_book_monograph/10.2307/jj.9827068.pdf](https://www.jstor.org/content/pdf/oa_book_monograph/10.2307/jj.9827068.pdf)  
+   Link: <a href="https://www.jstor.org/content/pdf/oa_book_monograph/10.2307/jj.9827068.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/content/pdf/oa_book_monograph/10.2307/jj.9827068.pdf</a>  
 
 31. <a id="endnote-31"></a>
    Source: abc7ny.com  
-   Link: [https://abc7ny.com/archive/6742325/](https://abc7ny.com/archive/6742325/)  
+   Link: <a href="https://abc7ny.com/archive/6742325/" target="_blank" rel="noopener noreferrer nofollow">https://abc7ny.com/archive/6742325/</a>  
 
 32. <a id="endnote-32"></a>
    Source: mountaintimes.info  
-   Link: [https://mountaintimes.info/2017/06/14/photographic-memories/](https://mountaintimes.info/2017/06/14/photographic-memories/)  
+   Link: <a href="https://mountaintimes.info/2017/06/14/photographic-memories/" target="_blank" rel="noopener noreferrer nofollow">https://mountaintimes.info/2017/06/14/photographic-memories/</a>

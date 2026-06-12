@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_delayed_aircraft_sou_3c6540
 - ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_landing_lights_final_d358b9
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - head-on-planes
 - approach-paths
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - head-on-planes
 - approach-paths
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Repeated lights on the same line often point to an approach path, wind-driven runway changes, or traffic using a local corridor.
 hero_summary: Repeated lights on the same line often point to an approach path, wind-driven runway changes, or traffic using a local corridor.
 layout: default
 permalink: /approach-paths/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /a-head-on-aircraft-can-look-like-a/
 nav_short_title: Approach paths
 title: When the same hovering light keeps coming back
-title_full: When the same hovering light keeps coming back | A Head On Aircraft Can Look Like A Stationary Light...
+title_full: When the same hovering light keeps coming back
 display_title_short: Approach paths
 display_title: Approach paths
 heading_title: When the same hovering light keeps coming back
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 21:40:51'
-parent_title: The Stationary Light That Is Moving | IFOs
+parent_title: The Stationary Light That Is Moving
 parent_permalink: /a-head-on-aircraft-can-look-like-a/
 parent_nav_short_title: A Head On Aircraft Can Look Like A Stationary Light...
 parent_heading_title: The Stationary Light That Is Moving
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d
-  title: A Head On Aircraft Can Look Like A Stationary Light... | Ifos Causes Of
+  title: A Head On Aircraft Can Look Like A Stationary Light... | ifos causes of UFO 3 ed 238
   permalink: /a-head-on-aircraft-can-look-like-a/
   short_title: A Head On Aircraft Can Look Like A Stationary Light...
   heading_title: The Stationary Light That Is Moving
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d
-  title: A Head On Aircraft Can Look Like A Stationary Light... | Ifos Causes Of
+  title: A Head On Aircraft Can Look Like A Stationary Light... | ifos causes of UFO 3 ed 238
   permalink: /a-head-on-aircraft-can-look-like-a/
   short_title: A Head On Aircraft Can Look Like A Stationary Light...
   heading_title: The Stationary Light That Is Moving
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: When a white orb turns into an aircraft
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d
-  title: A Head On Aircraft Can Look Like A Stationary Light... | Ifos Causes Of
+  title: A Head On Aircraft Can Look Like A Stationary Light... | ifos causes of UFO 3 ed 238
   permalink: /a-head-on-aircraft-can-look-like-a/
   short_title: A Head On Aircraft Can Look Like A Stationary Light...
   heading_title: The Stationary Light That Is Moving
@@ -260,6 +259,7 @@ next_link:
   permalink: /constant-bearing/
   short_title: Constant bearing
   heading_title: The geometry behind the hovering light illusion
+date: '2026-06-12 00:36:57 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_airport_approach_cor_97aa4c-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_airport_approach_cor_97aa4c-Illustration-1.webp
@@ -270,7 +270,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_airpor
 
 One of the most common reasons a “hovering UFO” appears repeatedly in the same part of the sky is not an unusual object at all, but an airport approach corridor. A light that seems fixed night after night can be an aircraft flying directly towards the observer along a standard arrival route. Because the aircraft’s bearing changes very little, it may appear stationary even while covering many kilometres. When dozens of aircraft use the same approach path each evening, residents can see what looks like the same mysterious light returning again and again. The pattern becomes especially convincing when the light appears at similar times, in the same location, and remains visible for several minutes before fading, turning, or revealing itself as an aircraft. Aviation procedures, runway usage, and wind conditions help explain why these sightings are often remarkably repeatable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_3.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Section 3</span><span class="citation-popover-snippet">Airport OperationsThe wind direction indicator. A wind cone, wind sock, or wind tee installed near the operational runway to indicate win...</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_airport_approach_cor_97aa4c-Illustration-1-dark.svg" | relative_url }}" alt="Approach paths illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_airport_approach_cor_97aa4c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_airport_approach_cor_97aa4c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Approach Paths Create Repeatable Sightings
 
@@ -279,7 +278,6 @@ Aircraft approaching a runway are normally funnelled into relatively narrow corr
 For an observer located beneath or near one of these corridors, the geometry can produce a striking illusion. The aircraft's [landing lights]({{ 'landing-lights/' | relative_url }}) are directed forward and can be visible from great distances. When the aircraft is flying almost directly towards the observer, sideways motion is minimal, making the light appear to hover in one place. As the aircraft gets closer, it becomes brighter rather than obviously moving. Only near the end of the approach does its position begin to shift noticeably, or the aircraft turns and reveals its full shape and navigation lights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pilotinstitute.com/airplane-lights/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pilotinstitute.com">[Pilot Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pilotinstitute.com</span><span class="citation-popover-snippet">Pilot InstituteAirplane Lights: What Each Light Does (Red/Green, Strobe...26 Dec 2024 — Navigation lights show an aircraft&#x27;s position a...</span></span></span>
 
 This explains a common UFO-report pattern:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -299,7 +297,6 @@ Landing lights are intended to make aircraft conspicuous. Viewed nearly head-on,
 
 Atmospheric conditions can strengthen the effect. Haze, moisture, and thin cloud layers may scatter light, making it appear larger or more diffuse than the aircraft itself. Observers may report a glowing orb, a brilliant star-like object, or a stationary beacon rather than recognising an approaching aircraft.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/d5BUXAozb08" title="Dangerous Optical Illusions On Approach - Too High or Too Low?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=d5BUXAozb08" target="_blank" rel="noopener noreferrer">Dangerous Optical Illusions On Approach - Too High or Too Low?</a></p><p class="youtube-embed-meta">Channel: Easyjetsimpilot &middot; Views: 4.1K &middot; Uploaded: May 2024 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=d5BUXAozb08" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=d5BUXAozb08">Open on YouTube</a></p></div></div></div>
 
 ## How Wind and Runway Direction Change the Pattern
@@ -307,7 +304,6 @@ Atmospheric conditions can strengthen the effect. Haze, moisture, and thin cloud
 A useful clue is that the phenomenon often changes with weather conditions. Aircraft generally prefer to take off and land into the wind because headwinds improve performance and safety. As [wind direction]({{ 'wind-direction/' | relative_url }}) changes, airports may switch the runways they use and consequently alter their approach corridors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tarmacview.com/glossary/runway-orientation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tarmacview.com">[Tarmac View]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tarmacview.com</span><span class="citation-popover-title">Tarmac View Runway Orientation</span><span class="citation-popover-snippet">Aircraft need less runway and achieve safer operations when taking off or landing into a headwind. To...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://inspire.eaa.org/2020/01/09/more-than-just-wind-factors-in-choosing-the-best-runway/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inspire.eaa.org">[Hangar Flying]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inspire.eaa.org</span><span class="citation-popover-title">more than just wind factors in choosing the best runway</span><span class="citation-popover-snippet">Hangar FlyingMore Than Just Wind — Factors in Choosing the Best RunwayJan 9, 2020 — Choosing the best runway for departure or landing is...</span></span></span>
 
 For local observers, this can create puzzling patterns:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -321,7 +317,6 @@ For local observers, this can create puzzling patterns:
 Air traffic authorities note that significant wind shifts can require immediate runway and flight-path changes, causing aircraft to use areas that normally see little traffic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.airservicesaustralia.com/about-us/about-our-operations/runway-selection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airservicesaustralia.com">[Airservices]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airservicesaustralia.com</span><span class="citation-popover-snippet">AirservicesRunway selectionA sudden change of wind direction when the wind is strong may mean aircraft planning to arrive on one runway n...</span></span></span>
 
 This behaviour is often mistaken for a changing UFO phenomenon when it is actually a predictable consequence of runway operations. A witness who only observes from one location may not realise that the airport has effectively reversed its traffic flow.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_airport_approach_cor_97aa4c-Illustration-2-dark.svg" | relative_url }}" alt="Approach paths illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_airport_approach_cor_97aa4c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_airport_approach_cor_97aa4c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Why the Same Light Can Reappear Months Later
@@ -338,7 +333,6 @@ Repeated sightings become much easier to evaluate when they are treated as a pat
 
 If the light repeatedly appears above the same rooftop, hill, church spire, or distant landmark, note the exact direction. Aircraft on an established approach path often line up with remarkable consistency because they are aiming for the same runway centreline. Multiple nights of observations can reveal whether the light occupies essentially the same bearing each time.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-xM-Y245kUo" title="airport lighting - you must know [atc for you]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-xM-Y245kUo" target="_blank" rel="noopener noreferrer">airport lighting - you must know [atc for you]</a></p><p class="youtube-embed-meta">Channel: ATC FOR YOU &middot; Views: 1.6M &middot; Uploaded: April 2022 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-xM-Y245kUo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-xM-Y245kUo">Open on YouTube</a></p></div></div></div>
 
 ### Compare Timing
@@ -353,7 +347,6 @@ Modern flight-tracking websites and applications are among the most effective to
 
 Particularly persuasive cases occur when:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Multiple lights correspond to successive arrivals.
@@ -362,7 +355,6 @@ Particularly persuasive cases occur when:
 * Runway changes coincide with changes in the sighting pattern.
 
 </div>
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_airport_approach_cor_97aa4c-Illustration-3-dark.svg" | relative_url }}" alt="Approach paths illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_airport_approach_cor_97aa4c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_head_on_aircraft_28c46d_airport_approach_cor_97aa4c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Observe What Happens at the End
@@ -377,9 +369,7 @@ Yet repeatability is often exactly what would be expected from an airport approa
 
 Within the broader category of UFO reports caused by head-on aircraft that seem stationary, the strongest clue is often not a single observation but the pattern itself: the same bright light appearing from the same direction on multiple evenings, especially near an airport and especially when flight-tracking data places arriving aircraft along that exact line of sight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.airservicesaustralia.com/about-us/about-our-operations/runway-selection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airservicesaustralia.com">[Airservices]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airservicesaustralia.com</span><span class="citation-popover-snippet">AirservicesRunway selectionA sudden change of wind direction when the wind is strong may mean aircraft planning to arrive on one runway n...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9gSkrH00OjQ" title="Follow the lights to the runway! New York JFK 13L approach and landing! @frontrow-view" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9gSkrH00OjQ" target="_blank" rel="noopener noreferrer">Follow the lights to the runway! New York JFK 13L approach and landing! @frontrow-view</a></p><p class="youtube-embed-meta">Channel: Front Row &middot; Views: 891.3K &middot; Uploaded: August 2021 &middot; Length: 2 minutes 36 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9gSkrH00OjQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9gSkrH00OjQ">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -498,15 +488,15 @@ Within the broader category of UFO reports caused by head-on aircraft that seem 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=approach-paths-when-the-same-hovering-light-keeps-coming-back-ifos-causes-of-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="approach-paths-when-the-same-hovering-light-keeps-coming-back-ifos-causes-of-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Home Wall Art Print - Vintage Space Poster - SOLAR SYSTEM PLANETS-A4,A3,A2,A1,A0"><img src="{{ '/assets/images/marketplace-covers/cf4bc993d604ad7867e5.jpg' | relative_url }}" alt="Listing image for Home Wall Art Print - Vintage Space Poster - SOLAR SYSTEM PLANETS-A4,A3,A2,A1,A0" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-same-hovering-light-keeps-coming-back-airport-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport poster" data-ebay-reference="when-the-same-hovering-light-keeps-coming-back-airport-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AIRPORT FOLDED US ONE SHEET POSTER BURT LANCASTER DEAN MARTIN 1970"><img src="https://i.ebayimg.com/images/g/VgkAAOSw91hleD3m/s-l225.jpg" alt="Listing image for AIRPORT FOLDED US ONE SHEET POSTER BURT LANCASTER DEAN MARTIN 1970" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=approach-paths-when-the-same-hovering-light-keeps-coming-back-ifos-causes-of-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="approach-paths-when-the-same-hovering-light-keeps-coming-back-ifos-causes-of-space-poster" target="_blank" rel="sponsored noopener noreferrer">Home Wall Art Print - Vintage Space Poster - SOLAR SYSTEM PLANETS-A4,A3,A2,A1,A0</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-same-hovering-light-keeps-coming-back-airport-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport poster" data-ebay-reference="when-the-same-hovering-light-keeps-coming-back-airport-poster" target="_blank" rel="sponsored noopener noreferrer">AIRPORT FOLDED US ONE SHEET POSTER BURT LANCASTER DEAN MARTIN 1970</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=approach-paths-when-the-same-hovering-light-keeps-coming-back-ifos-causes-of-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="approach-paths-when-the-same-hovering-light-keeps-coming-back-ifos-causes-of-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: space poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-same-hovering-light-keeps-coming-back-airport-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport poster" data-ebay-reference="when-the-same-hovering-light-keeps-coming-back-airport-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airport poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: airport poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=approach-paths-when-the-same-hovering-light-keeps-coming-back-ifos-causes-of-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="approach-paths-when-the-same-hovering-light-keeps-coming-back-ifos-causes-of-space-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-same-hovering-light-keeps-coming-back-airport-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport poster" data-ebay-reference="when-the-same-hovering-light-keeps-coming-back-airport-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -514,15 +504,15 @@ Within the broader category of UFO reports caused by head-on aircraft that seem 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=approach-paths-when-the-same-hovering-light-keeps-coming-back-ifos-causes-of-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="approach-paths-when-the-same-hovering-light-keeps-coming-back-ifos-causes-of-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Earthrise Apollo 11 Moon Poster | NASA Space Print Wall Art Print Gift Decor"><img src="{{ '/assets/images/marketplace-covers/44f55c98489085bcc0fc.jpg' | relative_url }}" alt="Listing image for Earthrise Apollo 11 Moon Poster | NASA Space Print Wall Art Print Gift Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-same-hovering-light-keeps-coming-back-airport-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport poster" data-ebay-reference="when-the-same-hovering-light-keeps-coming-back-airport-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Madrid Airport Layout Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/pCkAAeSwwkppwX~a/s-l225.jpg" alt="Listing image for Madrid Airport Layout Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=approach-paths-when-the-same-hovering-light-keeps-coming-back-ifos-causes-of-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="approach-paths-when-the-same-hovering-light-keeps-coming-back-ifos-causes-of-space-poster" target="_blank" rel="sponsored noopener noreferrer">Earthrise Apollo 11 Moon Poster | NASA Space Print Wall Art Print Gift Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-same-hovering-light-keeps-coming-back-airport-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport poster" data-ebay-reference="when-the-same-hovering-light-keeps-coming-back-airport-poster" target="_blank" rel="sponsored noopener noreferrer">Madrid Airport Layout Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=approach-paths-when-the-same-hovering-light-keeps-coming-back-ifos-causes-of-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="approach-paths-when-the-same-hovering-light-keeps-coming-back-ifos-causes-of-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: space poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-same-hovering-light-keeps-coming-back-airport-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport poster" data-ebay-reference="when-the-same-hovering-light-keeps-coming-back-airport-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airport poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: airport poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=approach-paths-when-the-same-hovering-light-keeps-coming-back-ifos-causes-of-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="approach-paths-when-the-same-hovering-light-keeps-coming-back-ifos-causes-of-space-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-same-hovering-light-keeps-coming-back-airport-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport poster" data-ebay-reference="when-the-same-hovering-light-keeps-coming-back-airport-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -530,15 +520,15 @@ Within the broader category of UFO reports caused by head-on aircraft that seem 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=approach-paths-when-the-same-hovering-light-keeps-coming-back-ifos-causes-of-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="approach-paths-when-the-same-hovering-light-keeps-coming-back-ifos-causes-of-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space CSM-TEC Apollo 11 Star Chart Map Galaxy Canvas Wall Art Print Poster"><img src="{{ '/assets/images/marketplace-covers/9ee10cc73ecd30aa2ef5.jpg' | relative_url }}" alt="Listing image for Space CSM-TEC Apollo 11 Star Chart Map Galaxy Canvas Wall Art Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-same-hovering-light-keeps-coming-back-airport-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport poster" data-ebay-reference="when-the-same-hovering-light-keeps-coming-back-airport-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AEROPLANE POSTER ART JET AIRCRAFT AVIATION AIRPORT PRINT SIZE A3 A4 A2 A1"><img src="https://i.ebayimg.com/images/g/WL0AAOSw~CNn5bMF/s-l225.jpg" alt="Listing image for AEROPLANE POSTER ART JET AIRCRAFT AVIATION AIRPORT PRINT SIZE A3 A4 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=approach-paths-when-the-same-hovering-light-keeps-coming-back-ifos-causes-of-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="approach-paths-when-the-same-hovering-light-keeps-coming-back-ifos-causes-of-space-poster" target="_blank" rel="sponsored noopener noreferrer">Space CSM-TEC Apollo 11 Star Chart Map Galaxy Canvas Wall Art Print Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-same-hovering-light-keeps-coming-back-airport-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport poster" data-ebay-reference="when-the-same-hovering-light-keeps-coming-back-airport-poster" target="_blank" rel="sponsored noopener noreferrer">AEROPLANE POSTER ART JET AIRCRAFT AVIATION AIRPORT PRINT SIZE A3 A4 A2 A1</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=approach-paths-when-the-same-hovering-light-keeps-coming-back-ifos-causes-of-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="approach-paths-when-the-same-hovering-light-keeps-coming-back-ifos-causes-of-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: space poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-same-hovering-light-keeps-coming-back-airport-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport poster" data-ebay-reference="when-the-same-hovering-light-keeps-coming-back-airport-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airport poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: airport poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=approach-paths-when-the-same-hovering-light-keeps-coming-back-ifos-causes-of-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="approach-paths-when-the-same-hovering-light-keeps-coming-back-ifos-causes-of-space-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-same-hovering-light-keeps-coming-back-airport-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport poster" data-ebay-reference="when-the-same-hovering-light-keeps-coming-back-airport-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -546,15 +536,15 @@ Within the broader category of UFO reports caused by head-on aircraft that seem 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=approach-paths-when-the-same-hovering-light-keeps-coming-back-ifos-causes-of-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="approach-paths-when-the-same-hovering-light-keeps-coming-back-ifos-causes-of-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA SPACE TRAVEL POSTERS Wall Art Print Poster Galaxy Holiday Retro Tourism"><img src="{{ '/assets/images/marketplace-covers/dc92bd4eb6cee821beab.jpg' | relative_url }}" alt="Listing image for NASA SPACE TRAVEL POSTERS Wall Art Print Poster Galaxy Holiday Retro Tourism" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-same-hovering-light-keeps-coming-back-airport-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport poster" data-ebay-reference="when-the-same-hovering-light-keeps-coming-back-airport-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tempelhof Airport, Berlin from the Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/cAYAAeSwP0hp1Tfe/s-l225.jpg" alt="Listing image for Tempelhof Airport, Berlin from the Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=approach-paths-when-the-same-hovering-light-keeps-coming-back-ifos-causes-of-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="approach-paths-when-the-same-hovering-light-keeps-coming-back-ifos-causes-of-space-poster" target="_blank" rel="sponsored noopener noreferrer">NASA SPACE TRAVEL POSTERS Wall Art Print Poster Galaxy Holiday Retro Tourism</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-same-hovering-light-keeps-coming-back-airport-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport poster" data-ebay-reference="when-the-same-hovering-light-keeps-coming-back-airport-poster" target="_blank" rel="sponsored noopener noreferrer">Tempelhof Airport, Berlin from the Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=approach-paths-when-the-same-hovering-light-keeps-coming-back-ifos-causes-of-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="approach-paths-when-the-same-hovering-light-keeps-coming-back-ifos-causes-of-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: space poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-same-hovering-light-keeps-coming-back-airport-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport poster" data-ebay-reference="when-the-same-hovering-light-keeps-coming-back-airport-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airport poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: airport poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=approach-paths-when-the-same-hovering-light-keeps-coming-back-ifos-causes-of-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="approach-paths-when-the-same-hovering-light-keeps-coming-back-ifos-causes-of-space-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-same-hovering-light-keeps-coming-back-airport-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport poster" data-ebay-reference="when-the-same-hovering-light-keeps-coming-back-airport-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -562,7 +552,7 @@ Within the broader category of UFO reports caused by head-on aircraft that seem 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=approach-paths-when-the-same-hovering-light-keeps-coming-back-ifos-causes-of-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="approach-paths-when-the-same-hovering-light-keeps-coming-back-ifos-causes-of-space-poster" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-same-hovering-light-keeps-coming-back-airport-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport poster" data-ebay-reference="when-the-same-hovering-light-keeps-coming-back-airport-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -778,91 +768,91 @@ Within the broader category of UFO reports caused by head-on aircraft that seem 
 1. <a id="endnote-1"></a>
    Source: faa.gov  
    Title: Federal Aviation Administration Section 3  
-   Link: [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_3.html](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_3.html)  
+   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_3.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_3.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Airport OperationsThe wind direction indicator. A wind cone, wind sock, or wind tee installed near the operational runway to indicate win...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: airservicesaustralia.com  
-   Link: [https://www.airservicesaustralia.com/about-us/about-our-operations/runway-selection/](https://www.airservicesaustralia.com/about-us/about-our-operations/runway-selection/)  
+   Link: <a href="https://www.airservicesaustralia.com/about-us/about-our-operations/runway-selection/" target="_blank" rel="noopener noreferrer nofollow">https://www.airservicesaustralia.com/about-us/about-our-operations/runway-selection/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AirservicesRunway selectionA sudden change of wind direction when the wind is strong may mean aircraft planning to arrive on one runway n...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: recursosdeaviacion.com  
    Title: icao doc 4444 air traffic management  
-   Link: [https://recursosdeaviacion.com/wp-content/uploads/2021/01/icao-doc-4444-air-traffic-management.pdf](https://recursosdeaviacion.com/wp-content/uploads/2021/01/icao-doc-4444-air-traffic-management.pdf)  
+   Link: <a href="https://recursosdeaviacion.com/wp-content/uploads/2021/01/icao-doc-4444-air-traffic-management.pdf" target="_blank" rel="noopener noreferrer nofollow">https://recursosdeaviacion.com/wp-content/uploads/2021/01/icao-doc-4444-air-traffic-management.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 31, 2020 — 4.1 Responsibility for the provision of air traffic control service...</p></details>
    Published: July 31, 2020  
 
 4. <a id="endnote-4"></a>
    Source: pilotinstitute.com  
-   Link: [https://pilotinstitute.com/airplane-lights/](https://pilotinstitute.com/airplane-lights/)  
+   Link: <a href="https://pilotinstitute.com/airplane-lights/" target="_blank" rel="noopener noreferrer nofollow">https://pilotinstitute.com/airplane-lights/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pilot InstituteAirplane Lights: What Each Light Does (Red/Green, Strobe...26 Dec 2024 — Navigation lights show an aircraft&#x27;s position a...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: tarmacview.com  
    Title: Tarmac View Runway Orientation  
-   Link: [https://www.tarmacview.com/glossary/runway-orientation/](https://www.tarmacview.com/glossary/runway-orientation/)  
+   Link: <a href="https://www.tarmacview.com/glossary/runway-orientation/" target="_blank" rel="noopener noreferrer nofollow">https://www.tarmacview.com/glossary/runway-orientation/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft need less runway and achieve safer operations when taking off or landing into a headwind. To...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: inspire.eaa.org  
    Title: more than just wind factors in choosing the best runway  
-   Link: [https://inspire.eaa.org/2020/01/09/more-than-just-wind-factors-in-choosing-the-best-runway/](https://inspire.eaa.org/2020/01/09/more-than-just-wind-factors-in-choosing-the-best-runway/)  
+   Link: <a href="https://inspire.eaa.org/2020/01/09/more-than-just-wind-factors-in-choosing-the-best-runway/" target="_blank" rel="noopener noreferrer nofollow">https://inspire.eaa.org/2020/01/09/more-than-just-wind-factors-in-choosing-the-best-runway/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hangar FlyingMore Than Just Wind — Factors in Choosing the Best RunwayJan 9, 2020 — Choosing the best runway for departure or landing is...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: tarmacview.com  
-   Link: [https://www.tarmacview.com/glossary/](https://www.tarmacview.com/glossary/)  
+   Link: <a href="https://www.tarmacview.com/glossary/" target="_blank" rel="noopener noreferrer nofollow">https://www.tarmacview.com/glossary/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Glossary | Airport Lights InspectionExplore aviation terminology and concepts related to airport light inspections, drone-based airport t...</p></details>
 
 ### Additional References
 
 8. <a id="endnote-8"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap3_section_5.html](https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap3_section_5.html)  
+   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap3_section_5.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap3_section_5.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Section 5. Runway SelectionWhen authorizing use of runways and a tailwind component exists, always state both wind direction and velocity...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/air_traffic/publications/atpubs/aip_html/part2_enr_section_1.1.html](https://www.faa.gov/air_traffic/publications/atpubs/aip_html/part2_enr_section_1.1.html)  
+   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/aip_html/part2_enr_section_1.1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aip_html/part2_enr_section_1.1.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ENR 1.1: General RulesWhen approaching for landing, all turns must be made to the left unless a traffic pattern indicator indicates that...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/395861540_RUNWAY_CONFIGURATION_ANALYSIS_BASED_ON_WIND_DATA_A_CASE_STUDY_OF_WARSAW_CHOPIN_AIRPORT](https://www.researchgate.net/publication/395861540_RUNWAY_CONFIGURATION_ANALYSIS_BASED_ON_WIND_DATA_A_CASE_STUDY_OF_WARSAW_CHOPIN_AIRPORT)  
+   Link: <a href="https://www.researchgate.net/publication/395861540_RUNWAY_CONFIGURATION_ANALYSIS_BASED_ON_WIND_DATA_A_CASE_STUDY_OF_WARSAW_CHOPIN_AIRPORT" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395861540_RUNWAY_CONFIGURATION_ANALYSIS_BASED_ON_WIND_DATA_A_CASE_STUDY_OF_WARSAW_CHOPIN_AIRPORT</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A CASE STUDY OF WARSAW CHOPIN AIRPORTSep 28, 2025 — Runway configuration at airports is determined based on the prevailing wind direction...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/flying/comments/13xw1kh/how_to_determine_runway_in_use_with_the_winds/](https://www.reddit.com/r/flying/comments/13xw1kh/how_to_determine_runway_in_use_with_the_winds/)  
+   Link: <a href="https://www.reddit.com/r/flying/comments/13xw1kh/how_to_determine_runway_in_use_with_the_winds/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/flying/comments/13xw1kh/how_to_determine_runway_in_use_with_the_winds/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to determine runway in use with the winds given: r/flyingIf winds are calm or 90 degrees perpendicular to the runway, you&#x27;ll have to...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: medium.com  
-   Link: [https://medium.com/faa/mitigating-the-hazard-of-visual-illusions-fb3c35009471](https://medium.com/faa/mitigating-the-hazard-of-visual-illusions-fb3c35009471)  
+   Link: <a href="https://medium.com/faa/mitigating-the-hazard-of-visual-illusions-fb3c35009471" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/faa/mitigating-the-hazard-of-visual-illusions-fb3c35009471</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mitigating the Hazard of Visual IllusionsA review of aircraft mishaps quickly reveals that visual illusions and/or poor visibility have b...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: aopa.org  
-   Link: [https://www.aopa.org/training-and-safety/students/crosscountry/skills/night-flying](https://www.aopa.org/training-and-safety/students/crosscountry/skills/night-flying)  
+   Link: <a href="https://www.aopa.org/training-and-safety/students/crosscountry/skills/night-flying" target="_blank" rel="noopener noreferrer nofollow">https://www.aopa.org/training-and-safety/students/crosscountry/skills/night-flying</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Night FlyingFor VFR [pilots](&amp;#123;&amp;#123; &#x27;pilots/&#x27; | relative_url &amp;#125;&amp;#125;), the best way to avoid night illusions is to fly to and from airports equipped with VASI or PAPI approach ligh...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: skybrary.aero  
-   Link: [https://skybrary.aero/articles/night-visual-approaches](https://skybrary.aero/articles/night-visual-approaches)  
+   Link: <a href="https://skybrary.aero/articles/night-visual-approaches" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/night-visual-approaches</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Night Visual Approaches | SKYbrary Aviation SafetyNight visual approaches pose an increased risk of CFIT due to visual illusions caused b...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: wiki.ivao.aero  
-   Link: [https://wiki.ivao.aero/en/home/training/documentation/Select_the_runway_for_take-off_and_landing](https://wiki.ivao.aero/en/home/training/documentation/Select_the_runway_for_take-off_and_landing)  
+   Link: <a href="https://wiki.ivao.aero/en/home/training/documentation/Select_the_runway_for_take-off_and_landing" target="_blank" rel="noopener noreferrer nofollow">https://wiki.ivao.aero/en/home/training/documentation/Select_the_runway_for_take-off_and_landing</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the runway for take-off and landingThis documentation is made to help air traffic controllers and pilots in non-controlled areas to selec...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: tc.canada.ca  
-   Link: [https://tc.canada.ca/sites/default/files/2020-07/AC-100-001_Issue07.pdf](https://tc.canada.ca/sites/default/files/2020-07/AC-100-001_Issue07.pdf)  
+   Link: <a href="https://tc.canada.ca/sites/default/files/2020-07/AC-100-001_Issue07.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/sites/default/files/2020-07/AC-100-001_Issue07.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CircularThe purpose of this AC is to provide the entire Canadian aviation community with a glossary of aeronautical terms and definitions...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: news.ncac.mn  
-   Link: [https://news.ncac.mn/uploads/bookSubject/2022-10/633b891f7da2b.pdf](https://news.ncac.mn/uploads/bookSubject/2022-10/633b891f7da2b.pdf)  
+   Link: <a href="https://news.ncac.mn/uploads/bookSubject/2022-10/633b891f7da2b.pdf" target="_blank" rel="noopener noreferrer nofollow">https://news.ncac.mn/uploads/bookSubject/2022-10/633b891f7da2b.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>on the final approach to land the aircraft was observed by the Aero- drome Operator on duty at the Control Tower, Both the aircraft landi...</p></details>

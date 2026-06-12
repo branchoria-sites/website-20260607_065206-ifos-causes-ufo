@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81_blue_book_traffic_ch_86f401
 - ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81_special_report_14_ba_88096d
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - blue-book
 - ifo-pattern
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - blue-book
 - ifo-pattern
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Most Blue Book sightings were resolved by matching witness reports to ordinary sky objects seen under confusing conditions.
 hero_summary: Most Blue Book sightings were resolved by matching witness reports to ordinary sky objects seen under confusing conditions.
 layout: default
 permalink: /ifo-pattern/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /blue-book/
 nav_short_title: IFO Pattern
 title: How UFO Reports Became IFOs
-title_full: How UFO Reports Became IFOs | Blue Book
+title_full: How UFO Reports Became IFOs
 display_title_short: IFO Pattern
 display_title: IFO Pattern
 heading_title: How UFO Reports Became IFOs
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 21:53:04'
-parent_title: What Blue Book Teaches About IFOs | IFOs
+parent_title: What Blue Book Teaches About IFOs
 parent_permalink: /blue-book/
 parent_nav_short_title: Blue Book
 parent_heading_title: What Blue Book Teaches About IFOs
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81
-  title: Blue Book | Ifos Causes Of
+  title: Blue Book | ifos causes of UFO 3 ed 238
   permalink: /blue-book/
   short_title: Blue Book
   heading_title: What Blue Book Teaches About IFOs
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81
-  title: Blue Book | Ifos Causes Of
+  title: Blue Book | ifos causes of UFO 3 ed 238
   permalink: /blue-book/
   short_title: Blue Book
   heading_title: What Blue Book Teaches About IFOs
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: The Hidden Traffic Behind UFO Sightings
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81
-  title: Blue Book | Ifos Causes Of
+  title: Blue Book | ifos causes of UFO 3 ed 238
   permalink: /blue-book/
   short_title: Blue Book
   heading_title: What Blue Book Teaches About IFOs
@@ -260,6 +259,7 @@ next_link:
   permalink: /report-14/
   short_title: Report 14
   heading_title: What the Big Blue Book Study Really Measured
+date: '2026-06-12 00:52:05 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81_blue_book_ifo_patter_095683-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81_blue_book_ifo_patter_095683-Illustration-1.webp
@@ -268,25 +268,18 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81_bl
 
 ## Introduction
 
-[Project Blue Book]({{ 'blue-book/' | relative_url }}) became an important record of how UFO reports were transformed into IFOs—identified flying objects—because investigators were often able to match apparently mysterious sightings to ordinary objects seen under misleading conditions. By the time the project ended in 1969, the Air Force had collected 12,618 reports, and the overwhelming majority received conventional explanations. Only 701 remained officially unidentified. The pattern that emerges from the files is not that witnesses routinely invented stories, but that familiar objects frequently appeared unfamiliar because of distance, darkness, unusual viewing angles, atmospheric effects, limited information, or mistaken assumptions by observers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsThe United States Air Force retired to the custody of the National Archiv...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">unidentified flying objects and air force project blue book</span><span class="citation-popover-snippet">Of a total of 12,618 sightings reported to Project Blue Book, 701 remained &quot;unidentified.&quot; The decision to discontinue UFO investigations...</span></span></span>
-
+Project Blue Book became an important record of how UFO reports were transformed into IFOs—identified flying objects—because investigators were often able to match apparently mysterious sightings to ordinary objects seen under misleading conditions. By the time the project ended in 1969, the Air Force had collected 12,618 reports, and the overwhelming majority received conventional explanations. Only 701 remained officially unidentified. The pattern that emerges from the files is not that witnesses routinely invented stories, but that familiar objects frequently appeared unfamiliar because of distance, darkness, unusual viewing angles, atmospheric effects, limited information, or mistaken assumptions by observers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsThe United States Air Force retired to the custody of the National Archiv...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">unidentified flying objects and air force project blue book</span><span class="citation-popover-snippet">Of a total of 12,618 sightings reported to Project Blue Book, 701 remained &quot;unidentified.&quot; The decision to discontinue UFO investigations...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81_blue_book_ifo_patter_095683-Illustration-1-dark.svg" | relative_url }}" alt="IFO Pattern illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81_blue_book_ifo_patter_095683-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81_blue_book_ifo_patter_095683-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For understanding the causes of UFO reports, Blue Book's value lies in the identification process itself. The project repeatedly demonstrated how reports that initially seemed extraordinary could be traced to aircraft, balloons, planets, [meteors]({{ 'meteors/' | relative_url }}), weather phenomena, and other commonplace sources. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[whs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">WHS Enterprise Services DashboardProject Blue BookThere are various types of UFO sightings. Most common are reports of astronomical sight...</span></span></span> Enterprise Services Dashboard <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thecollector.com/project-blue-book-investigating-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecollector.com">[TheCollector]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecollector.com</span><span class="citation-popover-snippet">TheCollectorProject Blue Book: The US Air Force&#x27;s Investigation of UFOs4 Feb 2023 — Some objects often reported as UFOs included astronom...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UKzI3uu_oTQ" title="Project Blue Book: Declassified - The True Story of the D.C. UFO Sightings | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UKzI3uu_oTQ" target="_blank" rel="noopener noreferrer">Project Blue Book: Declassified - The True Story of the D.C. UFO Sightings | History</a></p><p class="youtube-embed-meta">Channel: HISTORY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UKzI3uu_oTQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UKzI3uu_oTQ">Open on YouTube</a></p></div></div></div>
+For understanding the causes of UFO reports, Blue Book's value lies in the identification process itself. The project repeatedly demonstrated how reports that initially seemed extraordinary could be traced to aircraft, balloons, planets, [meteors]({{ 'meteors/' | relative_url }}), weather phenomena, and other commonplace sources. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[whs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">WHS Enterprise Services DashboardProject Blue BookThere are various types of UFO sightings. Most common are reports of astronomical sight...</span></span></span> Enterprise Services Dashboard <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thecollector.com/project-blue-book-investigating-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecollector.com">[TheCollector]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecollector.com</span><span class="citation-popover-snippet">Project Blue Book: The US Air Force&#x27;s Investigation of UFOs4 Feb 2023 — Some objects often reported as UFOs included astronom...</span></span></span>
 
 ## What Counted as a Positive Identification
 
-A sighting did not become an IFO merely because investigators guessed at an explanation. Blue Book's goal was to gather enough information to match the report with a known object or event. Investigators compared witness descriptions with astronomical data, [weather records]({{ 'weather-records/' | relative_url }}), aircraft activity, balloon launches, [radar]({{ 'radar/' | relative_url }}) information, and other available evidence. When the reported characteristics aligned closely with a known cause, the case moved from "unidentified" to "identified." <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.studocu.com/en-za/document/university-of-the-witwatersrand-johannesburg/physics-for-scientists-engineers-i/ufo-documents-and-information/120714874" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studocu.com">[Studocu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studocu.com</span><span class="citation-popover-title">ufo documents and information</span><span class="citation-popover-snippet">StudocuUFO Investigations Under Project Blue Book (Feb 1966)The objectives of Project Blue Book are two-fold: first, to determine whether...</span></span></span>
+A sighting did not become an IFO merely because investigators guessed at an explanation. Blue Book's goal was to gather enough information to match the report with a known object or event. Investigators compared witness descriptions with astronomical data, [weather records]({{ 'weather-records/' | relative_url }}), aircraft activity, balloon launches, [radar]({{ 'radar/' | relative_url }}) information, and other available evidence. When the reported characteristics aligned closely with a known cause, the case moved from "unidentified" to "identified." <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.studocu.com/en-za/document/university-of-the-witwatersrand-johannesburg/physics-for-scientists-engineers-i/ufo-documents-and-information/120714874" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studocu.com">[Studocu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studocu.com</span><span class="citation-popover-title">ufo documents and information</span><span class="citation-popover-snippet">UFO Investigations Under Project Blue Book (Feb 1966)The objectives of Project Blue Book are two-fold: first, to determine whether...</span></span></span>
 
 The key requirement was correspondence between the reported behaviour and an ordinary explanation. If a witness described a bright stationary object low in the evening sky, investigators could compare the date, time, and direction with the position of [Venus]({{ 'venus/' | relative_url }}) or another bright planet. If a report involved a slow-moving object drifting with the wind, balloon records might provide the answer. The identification process relied on reconstruction rather than dismissal. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[whs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">WHS Enterprise Services DashboardProject Blue BookThere are various types of UFO sightings. Most common are reports of astronomical sight...</span></span></span>
 
 Blue Book's classification system also distinguished identified cases from those with insufficient information. A report could remain unresolved simply because investigators lacked enough details to test explanations properly. That distinction is important because an unidentified case was not automatically evidence of something exotic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[whs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">WHS Enterprise Services DashboardProject Blue BookThere are various types of UFO sightings. Most common are reports of astronomical sight...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Xu4oTBBI5UE" title="Project Blue Book: America&#x27;s Obsession with UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Xu4oTBBI5UE" target="_blank" rel="noopener noreferrer">Project Blue Book: America&#x27;s Obsession with UFOs</a></p><p class="youtube-embed-meta">Channel: Origins OSU &middot; Views: 1.6K &middot; Uploaded: September 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Xu4oTBBI5UE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Xu4oTBBI5UE">Open on YouTube</a></p></div></div></div>
 
 ## The Ordinary Causes Blue Book Found Repeatedly
 
@@ -299,14 +292,13 @@ The most common categories included: <span class="citation-chip-wrap"><a class="
 * Weather and research balloons.
 * Meteorological phenomena including clouds, temperature inversions, and atmospheric reflections.
 * Searchlights and ground-based lights.
-* Birds, kites, and other airborne objects misperceived at distance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[whs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">WHS Enterprise Services DashboardProject Blue BookThere are various types of UFO sightings. Most common are reports of astronomical sight...</span></span></span> Enterprise Services Dashboard <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thecollector.com/project-blue-book-investigating-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecollector.com">[TheCollector]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecollector.com</span><span class="citation-popover-snippet">TheCollectorProject Blue Book: The US Air Force&#x27;s Investigation of UFOs4 Feb 2023 — Some objects often reported as UFOs included astronom...</span></span></span>
+* Birds, kites, and other airborne objects misperceived at distance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[whs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">WHS Enterprise Services DashboardProject Blue BookThere are various types of UFO sightings. Most common are reports of astronomical sight...</span></span></span> Enterprise Services Dashboard <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thecollector.com/project-blue-book-investigating-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecollector.com">[TheCollector]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecollector.com</span><span class="citation-popover-snippet">Project Blue Book: The US Air Force&#x27;s Investigation of UFOs4 Feb 2023 — Some objects often reported as UFOs included astronom...</span></span></span>
 
 The Air Force's own summaries noted that astronomical sightings were among the most frequent sources of reports. Bright planets were particularly effective at generating UFO claims because they can appear unusually brilliant, seem to hover motionless, and create an illusion of movement when viewed against a dark sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[whs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">WHS Enterprise Services DashboardProject Blue BookThere are various types of UFO sightings. Most common are reports of astronomical sight...</span></span></span>
 
-Aircraft generated another large share of identifications. Navigation lights, landing lights, and unusual flight paths could create the impression of structured craft performing impossible manoeuvres. At night, observers often lacked distance cues, making ordinary aircraft appear larger, closer, or more unusual than they really were. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thecollector.com/project-blue-book-investigating-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecollector.com">[TheCollector]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecollector.com</span><span class="citation-popover-snippet">TheCollectorProject Blue Book: The US Air Force&#x27;s Investigation of UFOs4 Feb 2023 — Some objects often reported as UFOs included astronom...</span></span></span>
+Aircraft generated another large share of identifications. Navigation lights, [landing lights]({{ 'landing-lights/' | relative_url }}), and unusual flight paths could create the impression of structured craft performing impossible manoeuvres. At night, observers often lacked [distance cues]({{ 'distance-cues/' | relative_url }}), making ordinary aircraft appear larger, closer, or more unusual than they really were. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thecollector.com/project-blue-book-investigating-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecollector.com">[TheCollector]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecollector.com</span><span class="citation-popover-snippet">Project Blue Book: The US Air Force&#x27;s Investigation of UFOs4 Feb 2023 — Some objects often reported as UFOs included astronom...</span></span></span>
 
 Balloons were especially important because they could appear stationary, change altitude slowly, reflect sunlight dramatically, or drift in ways that seemed inconsistent with aircraft behaviour. Blue Book investigators repeatedly examined balloon explanations because many reports matched those characteristics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents.theblackvault.com/documents/ufos/projectbluebook-report8.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">8The possibility of observers seeing balloons that have developed slow leaks and have drifted long distances is always present, In cases...</span></span></span>
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81_blue_book_ifo_patter_095683-Illustration-2-dark.svg" | relative_url }}" alt="IFO Pattern illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81_blue_book_ifo_patter_095683-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81_blue_book_ifo_patter_095683-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Confusing Conditions Made Familiar Objects Look Strange
@@ -318,22 +310,20 @@ Human observers estimate speed, size, and distance by relying on visual referenc
 Several recurring factors increased the likelihood of misidentification:
 
 * **Darkness:** Reduced visual cues made distance and size difficult to judge.
-* **Atmospheric effects:** Haze, clouds, temperature layers, and [reflections]({{ 'reflections/' | relative_url }}) altered appearance.
+* **Atmospheric effects:** Haze, clouds, temperature layers, and reflections altered appearance.
 * **Unexpected viewing angles:** Familiar objects looked unfamiliar when seen from unusual positions.
 * **Brief observation times:** Short sightings left witnesses with incomplete information.
-* **Attention and expectation:** Observers sometimes interpreted ambiguous stimuli according to what seemed most unusual or memorable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[whs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">WHS Enterprise Services DashboardProject Blue BookThere are various types of UFO sightings. Most common are reports of astronomical sight...</span></span></span> Enterprise Services Dashboard <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thecollector.com/project-blue-book-investigating-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecollector.com">[TheCollector]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecollector.com</span><span class="citation-popover-snippet">TheCollectorProject Blue Book: The US Air Force&#x27;s Investigation of UFOs4 Feb 2023 — Some objects often reported as UFOs included astronom...</span></span></span>
+* **Attention and expectation:** Observers sometimes interpreted ambiguous stimuli according to what seemed most unusual or memorable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[whs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">WHS Enterprise Services DashboardProject Blue BookThere are various types of UFO sightings. Most common are reports of astronomical sight...</span></span></span> Enterprise Services Dashboard <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thecollector.com/project-blue-book-investigating-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecollector.com">[TheCollector]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecollector.com</span><span class="citation-popover-snippet">Project Blue Book: The US Air Force&#x27;s Investigation of UFOs4 Feb 2023 — Some objects often reported as UFOs included astronom...</span></span></span>
 
 Importantly, Blue Book records show that sincere witnesses could make these mistakes. The identification process did not depend on proving dishonesty. Instead, it often demonstrated how normal perception can be challenged by unusual observational circumstances.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Vf41CD5INGU" title="Project Blue Book: Declassified – The True Story of the Foo Fighters | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Vf41CD5INGU" target="_blank" rel="noopener noreferrer">Project Blue Book: Declassified – The True Story of the Foo Fighters | History</a></p><p class="youtube-embed-meta">Channel: HISTORY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Vf41CD5INGU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Vf41CD5INGU">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Xu4oTBBI5UE" title="Project Blue Book: America&#x27;s Obsession with UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Xu4oTBBI5UE" target="_blank" rel="noopener noreferrer">Project Blue Book: America&#x27;s Obsession with UFOs</a></p><p class="youtube-embed-meta">Channel: Origins OSU &middot; Views: 1.6K &middot; Uploaded: September 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Xu4oTBBI5UE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Xu4oTBBI5UE">Open on YouTube</a></p></div></div></div>
 
 ## The IFO Pattern Revealed by Blue Book
 
 The enduring lesson from Project Blue Book is that many UFO reports began as genuine observations of something real in the sky but ended as IFOs because additional information narrowed the possibilities. Investigators repeatedly found that reports which initially appeared extraordinary could be traced to a relatively small set of ordinary causes. Aircraft, balloons, astronomical objects, and weather-related phenomena accounted for a large share of identified cases, illustrating how easily familiar objects can appear mysterious when viewed under confusing conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[WHS Enterprise Services Dashboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">WHS Enterprise Services DashboardProject Blue BookThere are various types of UFO sightings. Most common are reports of astronomical sight...</span></span></span>
 
 This pattern explains why Blue Book remains a valuable evidence base for understanding UFO reports. Its files show not merely that explanations existed, but how the process of identification converted uncertainty into conventional causes. The result is a detailed historical record of the mechanisms by which UFOs became IFOs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsThe United States Air Force retired to the custody of the National Archiv...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">unidentified flying objects and air force project blue book</span><span class="citation-popover-snippet">Of a total of 12,618 sightings reported to Project Blue Book, 701 remained &quot;unidentified.&quot; The decision to discontinue UFO investigations...</span></span></span>
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81_blue_book_ifo_patter_095683-Illustration-3-dark.svg" | relative_url }}" alt="IFO Pattern illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81_blue_book_ifo_patter_095683-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81_blue_book_ifo_patter_095683-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -454,15 +444,15 @@ This pattern explains why Blue Book remains a valuable evidence base for underst
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifo-pattern-how-ufo-reports-became-ifos-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="ifo-pattern-how-ufo-reports-became-ifos-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN UFO AREA 51 GROOM DRY LAKE TEST FACILITY T-SHIRT"><img src="{{ '/assets/images/marketplace-covers/5eb844375d885ea9eb20.jpg' | relative_url }}" alt="Listing image for ALIEN UFO AREA 51 GROOM DRY LAKE TEST FACILITY T-SHIRT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-reports-became-ifos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ufo-reports-became-ifos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifo-pattern-how-ufo-reports-became-ifos-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="ifo-pattern-how-ufo-reports-became-ifos-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">ALIEN UFO AREA 51 GROOM DRY LAKE TEST FACILITY T-SHIRT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-reports-became-ifos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ufo-reports-became-ifos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifo-pattern-how-ufo-reports-became-ifos-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="ifo-pattern-how-ufo-reports-became-ifos-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-reports-became-ifos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ufo-reports-became-ifos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifo-pattern-how-ufo-reports-became-ifos-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="ifo-pattern-how-ufo-reports-became-ifos-ifos-causes-of-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-reports-became-ifos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ufo-reports-became-ifos-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -470,15 +460,15 @@ This pattern explains why Blue Book remains a valuable evidence base for underst
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifo-pattern-how-ufo-reports-became-ifos-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="ifo-pattern-how-ufo-reports-became-ifos-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone"><img src="{{ '/assets/images/marketplace-covers/c55bd17eeaec578c24e2.jpg' | relative_url }}" alt="Listing image for Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-reports-became-ifos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ufo-reports-became-ifos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifo-pattern-how-ufo-reports-became-ifos-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="ifo-pattern-how-ufo-reports-became-ifos-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-reports-became-ifos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ufo-reports-became-ifos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifo-pattern-how-ufo-reports-became-ifos-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="ifo-pattern-how-ufo-reports-became-ifos-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-reports-became-ifos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ufo-reports-became-ifos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifo-pattern-how-ufo-reports-became-ifos-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="ifo-pattern-how-ufo-reports-became-ifos-ifos-causes-of-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-reports-became-ifos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ufo-reports-became-ifos-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -486,15 +476,15 @@ This pattern explains why Blue Book remains a valuable evidence base for underst
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifo-pattern-how-ufo-reports-became-ifos-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="ifo-pattern-how-ufo-reports-became-ifos-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee"><img src="{{ '/assets/images/marketplace-covers/c0a6267ae6e22890f212.jpg' | relative_url }}" alt="Listing image for Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-reports-became-ifos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ufo-reports-became-ifos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifo-pattern-how-ufo-reports-became-ifos-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="ifo-pattern-how-ufo-reports-became-ifos-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-reports-became-ifos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ufo-reports-became-ifos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifo-pattern-how-ufo-reports-became-ifos-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="ifo-pattern-how-ufo-reports-became-ifos-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-reports-became-ifos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ufo-reports-became-ifos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifo-pattern-how-ufo-reports-became-ifos-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="ifo-pattern-how-ufo-reports-became-ifos-ifos-causes-of-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-reports-became-ifos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ufo-reports-became-ifos-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -502,15 +492,15 @@ This pattern explains why Blue Book remains a valuable evidence base for underst
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifo-pattern-how-ufo-reports-became-ifos-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="ifo-pattern-how-ufo-reports-became-ifos-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design"><img src="{{ '/assets/images/marketplace-covers/f0858731bf83f620568a.jpg' | relative_url }}" alt="Listing image for Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-reports-became-ifos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ufo-reports-became-ifos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifo-pattern-how-ufo-reports-became-ifos-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="ifo-pattern-how-ufo-reports-became-ifos-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-reports-became-ifos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ufo-reports-became-ifos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifo-pattern-how-ufo-reports-became-ifos-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="ifo-pattern-how-ufo-reports-became-ifos-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-reports-became-ifos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ufo-reports-became-ifos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifo-pattern-how-ufo-reports-became-ifos-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="ifo-pattern-how-ufo-reports-became-ifos-ifos-causes-of-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-reports-became-ifos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ufo-reports-became-ifos-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -518,7 +508,7 @@ This pattern explains why Blue Book remains a valuable evidence base for underst
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ifo-pattern-how-ufo-reports-became-ifos-ifos-causes-of-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="ifo-pattern-how-ufo-reports-became-ifos-ifos-causes-of-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-reports-became-ifos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ufo-reports-became-ifos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -734,93 +724,93 @@ This pattern explains why Blue Book remains a valuable evidence base for underst
 1. <a id="endnote-1"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsThe United States Air Force retired to the custody of the National Archiv...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: esd.whs.mil  
-   Link: [https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837](https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837)  
+   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>WHS Enterprise Services DashboardProject Blue BookThere are various types of UFO sightings. Most common are reports of astronomical sight...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: thecollector.com  
-   Link: [https://www.thecollector.com/project-blue-book-investigating-ufo/](https://www.thecollector.com/project-blue-book-investigating-ufo/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TheCollectorProject Blue Book: The US Air Force&#x27;s Investigation of UFOs4 Feb 2023 — Some objects often reported as UFOs included astronom...</p></details>
+   Link: <a href="https://www.thecollector.com/project-blue-book-investigating-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.thecollector.com/project-blue-book-investigating-ufo/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: The US Air Force&#x27;s Investigation of UFOs4 Feb 2023 — Some objects often reported as UFOs included astronom...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: studocu.com  
    Title: ufo documents and information  
-   Link: [https://www.studocu.com/en-za/document/university-of-the-witwatersrand-johannesburg/physics-for-scientists-engineers-i/ufo-documents-and-information/120714874](https://www.studocu.com/en-za/document/university-of-the-witwatersrand-johannesburg/physics-for-scientists-engineers-i/ufo-documents-and-information/120714874)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>StudocuUFO Investigations Under Project Blue Book (Feb 1966)The objectives of Project Blue Book are two-fold: first, to determine whether...</p></details>
+   Link: <a href="https://www.studocu.com/en-za/document/university-of-the-witwatersrand-johannesburg/physics-for-scientists-engineers-i/ufo-documents-and-information/120714874" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/en-za/document/university-of-the-witwatersrand-johannesburg/physics-for-scientists-engineers-i/ufo-documents-and-information/120714874</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Investigations Under Project Blue Book (Feb 1966)The objectives of Project Blue Book are two-fold: first, to determine whether...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: documents.theblackvault.com  
    Title: Project Blue Book  
-   Link: [https://documents.theblackvault.com/documents/ufos/projectbluebook-report8.pdf](https://documents.theblackvault.com/documents/ufos/projectbluebook-report8.pdf)  
+   Link: <a href="https://documents.theblackvault.com/documents/ufos/projectbluebook-report8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/projectbluebook-report8.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>8The possibility of observers seeing balloons that have developed slow leaks and have drifted long distances is always present, In cases...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Identification_studies_of_UFOs](https://en.wikipedia.org/wiki/Identification_studies_of_UFOs)  
+   Link: <a href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Identification_studies_of_UFOs</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Identification studies of UFOsProject Blue Book Special Report No. 14 (referred to further below as BBSR)... 14 was compiled between...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 9, 2026 — Project Blue Book was the code name for the systematic study of unidentified flying objects (UFOs) by the United States...</p></details>
    Published: January 9, 2026  
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Project](https://en.wikipedia.org/wiki/Project)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ProjectA project is a type of assignment, typically involving research or design, that is carefully planned to achieve a specific obje...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: [https://www.archives.gov/foia/ufos.html](https://www.archives.gov/foia/ufos.html)  
+   Link: <a href="https://www.archives.gov/foia/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/foia/ufos.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This File Moved. This file was moved to a location to make it easier for you to locate similar information.Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: af.mil  
    Title: unidentified flying objects and air force project blue book  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Of a total of 12,618 sightings reported to Project Blue Book, 701 remained &quot;unidentified.&quot; The decision to discontinue UFO investigations...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, History, Aliens, UFOs, &amp; Facts16 May 2026 — It concluded that (1) 90 percent of the sightings could be easily attributed to a...</p></details>
    Published: May 2026  
 
 12. <a id="endnote-12"></a>
    Source: bahaistudies.net  
    Title: project blue book  
-   Link: [https://www.bahaistudies.net/asma/project_blue_book.pdf](https://www.bahaistudies.net/asma/project_blue_book.pdf)  
+   Link: <a href="https://www.bahaistudies.net/asma/project_blue_book.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bahaistudies.net/asma/project_blue_book.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>29 Sept 2012 — TYPES OF UFO IDENTIFICATIONS AND EVALUATIONS. There are various types of UFO sightings. Most common are reports of astrono...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/project](https://dictionary.cambridge.org/dictionary/english/project)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| English meaning - Cambridge Dictionarya piece of planned work or an activity which is done over a period of time and intended to achiev...</p></details>
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/project" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/project</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionarya piece of planned work or an activity which is done over a period of time and intended to achiev...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: origins.osu.edu  
    Title: air force investigation ufos  
-   Link: [https://origins.osu.edu/read/air-force-investigation-ufos](https://origins.osu.edu/read/air-force-investigation-ufos)  
+   Link: <a href="https://origins.osu.edu/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow">https://origins.osu.edu/read/air-force-investigation-ufos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Investigation into UFOs | Origins22 Dec 2024 — The project had investigated some 12,618 UFO sightings, and of those 701 remain...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
    Title: Did You Know the U.S  
-   Link: [https://www.facebook.com/enknowledgepedia.enknowledgepedia/posts/did-you-know-the-us-air-force-admitted-701-ufos-were-unexplainableproject-blue-b/1246197217370634/](https://www.facebook.com/enknowledgepedia.enknowledgepedia/posts/did-you-know-the-us-air-force-admitted-701-ufos-were-unexplainableproject-blue-b/1246197217370634/)  
+   Link: <a href="https://www.facebook.com/enknowledgepedia.enknowledgepedia/posts/did-you-know-the-us-air-force-admitted-701-ufos-were-unexplainableproject-blue-b/1246197217370634/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/enknowledgepedia.enknowledgepedia/posts/did-you-know-the-us-air-force-admitted-701-ufos-were-unexplainableproject-blue-b/1246197217370634/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Admitted 701 UFOs Were...Of a total of 12,618 sightings reported to Project Blue Book, 701 remained &quot;unidentified.... Project...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: en.wiktionary.org  
-   Link: [https://en.wiktionary.org/wiki/project](https://en.wiktionary.org/wiki/project)  
+   Link: <a href="https://en.wiktionary.org/wiki/project" target="_blank" rel="noopener noreferrer nofollow">https://en.wiktionary.org/wiki/project</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>page was last edited on 2 May 2026, at 17:14. Definitions and other content are available under CC BY-SA 4.0 unless otherwise noted.Read...</p></details>
    Published: May 2026  
 
@@ -828,52 +818,52 @@ This pattern explains why Blue Book remains a valuable evidence base for underst
 
 17. <a id="endnote-17"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/project](https://www.merriam-webster.com/dictionary/project)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/project" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/project</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PROJECT Definition &amp; Meaning1. a: to devise in the mind: design b: to plan, figure, or estimate for the future 2. to throw or cast for...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: knowledgetrain.co.uk  
-   Link: [https://www.knowledgetrain.co.uk/project-management/projects?srsltid=AfmBOorwPj4vU-jh9uVTiIS0tjIH6Ou4sgJ81kU56AkDH_ejOLHj7WKl](https://www.knowledgetrain.co.uk/project-management/projects?srsltid=AfmBOorwPj4vU-jh9uVTiIS0tjIH6Ou4sgJ81kU56AkDH_ejOLHj7WKl)  
+   Link: <a href="https://www.knowledgetrain.co.uk/project-management/projects?srsltid=AfmBOorwPj4vU-jh9uVTiIS0tjIH6Ou4sgJ81kU56AkDH_ejOLHj7WKl" target="_blank" rel="noopener noreferrer nofollow">https://www.knowledgetrain.co.uk/project-management/projects?srsltid=AfmBOorwPj4vU-jh9uVTiIS0tjIH6Ou4sgJ81kU56AkDH_ejOLHj7WKl</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Projects | Definition of a ProjectProjects are more than just temporary endeavours; they are the lifeblood of organizations, driving stra...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/OriginsOSU/posts/recently-the-pentagon-released-more-files-on-ufos-it-seems-like-every-few-months/1809383503713749/](https://www.facebook.com/OriginsOSU/posts/recently-the-pentagon-released-more-files-on-ufos-it-seems-like-every-few-months/1809383503713749/)  
+   Link: <a href="https://www.facebook.com/OriginsOSU/posts/recently-the-pentagon-released-more-files-on-ufos-it-seems-like-every-few-months/1809383503713749/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OriginsOSU/posts/recently-the-pentagon-released-more-files-on-ufos-it-seems-like-every-few-months/1809383503713749/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Air Force Investigation into UFOsOut of 12,618 reported sightings in it, only 701 of them remain &quot;unidentified.&quot; They stopped the pro...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: gutenberg.org  
-   Link: [https://www.gutenberg.org/cache/epub/17346/pg17346-images.html](https://www.gutenberg.org/cache/epub/17346/pg17346-images.html)  
+   Link: <a href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/17346/pg17346-images.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Report on Unidentified Flying ObjectsThis is a book about unidentified flying objects—UFO&#x27;s—&quot;flying saucers.&quot; It is actually more tha...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: pmi.org  
-   Link: [https://www.pmi.org/about/what-is-a-project](https://www.pmi.org/about/what-is-a-project)  
+   Link: <a href="https://www.pmi.org/about/what-is-a-project" target="_blank" rel="noopener noreferrer nofollow">https://www.pmi.org/about/what-is-a-project</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What is a Project, Examples and the Project LifecycleA project is a series of structured tasks, activities, and deliverables that are car...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: blaze.tv  
-   Link: [https://www.blaze.tv/series/quick-history-us-governments-secret-ufo-project-blue-book](https://www.blaze.tv/series/quick-history-us-governments-secret-ufo-project-blue-book)  
+   Link: <a href="https://www.blaze.tv/series/quick-history-us-governments-secret-ufo-project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.blaze.tv/series/quick-history-us-governments-secret-ufo-project-blue-book</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>○ In the known category, 86% of them were either aircraft, balloons or some sort of astronomical phenomena.Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Xu4oTBBI5UE](https://www.youtube.com/watch?v=Xu4oTBBI5UE)  
+   Link: <a href="https://www.youtube.com/watch?v=Xu4oTBBI5UE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xu4oTBBI5UE</a>  
 
 24. <a id="endnote-24"></a>
    Source: forcesnews.com  
    Title: project blue book what was us air force operation investigate ufos  
-   Link: [https://www.forcesnews.com/usa/project-blue-book-what-was-us-air-force-operation-investigate-ufos](https://www.forcesnews.com/usa/project-blue-book-what-was-us-air-force-operation-investigate-ufos)  
+   Link: <a href="https://www.forcesnews.com/usa/project-blue-book-what-was-us-air-force-operation-investigate-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.forcesnews.com/usa/project-blue-book-what-was-us-air-force-operation-investigate-ufos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: What was US Air Force operation to...3 Aug 2022 — More than 12000 sightings of UFOs were investigated during the prog...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: archivesfoundation.org  
    Title: 50 years ago government stops investigating ufos  
-   Link: [https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/](https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/)  
+   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>50 Years Ago: Government Stops Investigating UFOsOf the 12,618 UFO sightings reported between 1947 and 1969, 701 remained “unidentified.”...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: en.wikisource.org  
    Title: Page:Project Blue Book, complete status reports  
-   Link: [https://en.wikisource.org/wiki/Page%3AProject_Blue_Book%2C_complete_status_reports.pdf/335](https://en.wikisource.org/wiki/Page%3AProject_Blue_Book%2C_complete_status_reports.pdf/335)  
+   Link: <a href="https://en.wikisource.org/wiki/Page%3AProject_Blue_Book%2C_complete_status_reports.pdf/335" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AProject_Blue_Book%2C_complete_status_reports.pdf/335</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgPage:Project Blue Book, complete status reports.pdf/3356 Aug 2024 — They were advised of the main categories of conventiona...</p></details>

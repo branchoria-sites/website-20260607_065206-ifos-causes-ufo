@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ifos-causes-of-ufo-3ed238-project-blue/
 description: Focused pages that expand on Blue Book.
-date: '2026-06-07'
+date: '2026-06-12'
 layout: default
 parent_basename: ifos_-_causes_of_UFO_3ed238_project_blue_book_if_e38e81
-parent_title: Blue Book | Ifos Causes Of
+parent_title: Blue Book
 parent_nav_short_title: Blue Book
 parent_permalink: /blue-book/
 ---

@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_doorbell_glowing_orb_6acf1d
 - ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_motion_blur_rods_96a808
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - insects
 - range-checks
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - insects
 - range-checks
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: The strongest UFO videos reduce near-lens doubt with independent range clues, longer footage and preserved metadata.
 hero_summary: The strongest UFO videos reduce near-lens doubt with independent range clues, longer footage and preserved metadata.
 layout: default
 permalink: /range-checks/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /insects/
 nav_short_title: Range Checks
 title: What Evidence Rules Out Camera Bugs?
-title_full: What Evidence Rules Out Camera Bugs? | Insects
+title_full: What Evidence Rules Out Camera Bugs?
 display_title_short: Range Checks
 display_title: Range Checks
 heading_title: What Evidence Rules Out Camera Bugs?
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 07:57:26'
-parent_title: The Tiny Things Cameras Make Huge | IFOs
+parent_title: The Tiny Things Cameras Make Huge
 parent_permalink: /insects/
 parent_nav_short_title: Insects
 parent_heading_title: The Tiny Things Cameras Make Huge
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74
-  title: Insects | Ifos Causes Of
+  title: Insects | ifos causes of UFO 3 ed 238
   permalink: /insects/
   short_title: Insects
   heading_title: The Tiny Things Cameras Make Huge
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74
-  title: Insects | Ifos Causes Of
+  title: Insects | ifos causes of UFO 3 ed 238
   permalink: /insects/
   short_title: Insects
   heading_title: The Tiny Things Cameras Make Huge
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: Why Night Cameras Create UFO Orbs
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74
-  title: Insects | Ifos Causes Of
+  title: Insects | ifos causes of UFO 3 ed 238
   permalink: /insects/
   short_title: Insects
   heading_title: The Tiny Things Cameras Make Huge
@@ -260,6 +259,7 @@ prev_link:
   permalink: /glowing-orbs/
   short_title: Glowing Orbs
   heading_title: Why Night Cameras Create UFO Orbs
+date: '2026-06-12 00:46:20 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_range_evidence_camer_8b4dfe-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_range_evidence_camer_8b4dfe-Illustration-1.webp
@@ -269,7 +269,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_rang
 ## Introduction
 
 Before anyone can argue that a UFO video shows extraordinary flight behaviour, they must first show that the object was actually far away. A nearby insect, drifting seed, dust particle or other object close to the lens can mimic rapid acceleration, abrupt turns and unusual shapes if viewers mistakenly assume it is distant. The strongest cases therefore begin with [range]({{ 'range/' | relative_url }}) evidence: independent clues that place the object at a measurable distance rather than a few centimetres from the camera.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_range_evidence_camer_8b4dfe-Illustration-1-dark.svg" | relative_url }}" alt="Range Checks illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_range_evidence_camer_8b4dfe-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_range_evidence_camer_8b4dfe-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Investigators increasingly emphasise that distance cannot simply be assumed from appearance. Reliable range estimates require multiple measurements, [calibrated sensors]({{ 'sensor-artefacts/' | relative_url }}), preserved metadata or geometric relationships within the scene. Without those elements, many apparent mysteries remain vulnerable to the “small and close” explanation. NASA's UAP study highlighted the importance of multiple measurements, sensor calibration and complete metadata precisely because they help establish what an object actually is and where it is located. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
@@ -301,10 +300,9 @@ A useful rule is that every independent confirmation of distance weakens the ins
 
 A single camera records angles, not distance. A bright speck at ten centimetres and a large object kilometres away can occupy the same position in the image.
 
-Two cameras observing the same object from different locations can solve this problem through triangulation. The object's apparent position shifts relative to the background in each view. From that shift, investigators can estimate distance. If triangulation places the target hundreds of metres or kilometres away, a nearby insect can be excluded. Modern scientific UAP observation proposals place heavy emphasis on multi-camera systems for exactly this reason. They are designed to derive position and motion through triangulation rather than visual guesswork. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivThe Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based ObservatoriesMay 29, 2023...</span><span class="citation-popover-meta">Published: May 29, 2023</span></span></span>
+Two cameras observing the same object from different locations can solve this problem through triangulation. The object's apparent position shifts relative to the background in each view. From that shift, investigators can estimate distance. If triangulation places the target hundreds of metres or kilometres away, a nearby insect can be excluded. Modern scientific UAP observation proposals place heavy emphasis on multi-camera systems for exactly this reason. They are designed to derive position and motion through triangulation rather than visual guesswork. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based ObservatoriesMay 29, 2023...</span><span class="citation-popover-meta">Published: May 29, 2023</span></span></span>
 
 The absence of a second viewpoint does not prove an insect explanation, but it leaves range largely unresolved.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/O-o3Y0Mzrw4" title="MultiCam: On-the-fly Multi-Camera Pose Estimation Using Spatiotemporal..." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=O-o3Y0Mzrw4" target="_blank" rel="noopener noreferrer">MultiCam: On-the-fly Multi-Camera Pose Estimation Using Spatiotemporal...</a></p><p class="youtube-embed-meta">Channel: IEEE Virtual Reality Conference &middot; Views: 125 &middot; Uploaded: March 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=O-o3Y0Mzrw4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=O-o3Y0Mzrw4">Open on YouTube</a></p></div></div></div>
 
@@ -333,7 +331,6 @@ Examples include:
 
 These clues effectively place the object within the larger scene rather than in front of the lens. A near-camera insect cannot pass behind a cloud that is kilometres away.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_range_evidence_camer_8b4dfe-Illustration-2-dark.svg" | relative_url }}" alt="Range Checks illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_range_evidence_camer_8b4dfe-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_range_evidence_camer_8b4dfe-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Metadata and Original Files Matter
 
@@ -349,19 +346,15 @@ Original video files often preserve:
 * Sensor characteristics.
 * GPS or positional information on some devices.
 
-These details help investigators determine whether apparent motion results from camera movement, zoom changes, rolling-shutter effects or genuine object motion. NASA's UAP report specifically identified missing sensor metadata as one of the major obstacles to reliable analysis. NASA Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">sensor metadata, and the lack of baseline data,&quot; the report states.Read more</span><span class="citation-popover-snippet">SpaceNASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor senso...</span></span></span> Metadata also helps identify whether footage has been edited or transformed. Video forensics researchers routinely use embedded metadata to determine recording conditions, device characteristics and signs of post-processing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivThe Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based ObservatoriesMay 29, 2023...</span><span class="citation-popover-meta">Published: May 29, 2023</span></span></span>
+These details help investigators determine whether apparent motion results from camera movement, zoom changes, rolling-shutter effects or genuine object motion. NASA's UAP report specifically identified missing sensor metadata as one of the major obstacles to reliable analysis. NASA Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">sensor metadata, and the lack of baseline data,&quot; the report states.Read more</span><span class="citation-popover-snippet">NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor senso...</span></span></span> Metadata also helps identify whether footage has been edited or transformed. Video forensics researchers routinely use embedded metadata to determine recording conditions, device characteristics and signs of post-processing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based ObservatoriesMay 29, 2023...</span><span class="citation-popover-meta">Published: May 29, 2023</span></span></span>
 
 When original files are unavailable, investigators lose many of the tools needed to establish distance and eliminate near-lens explanations.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/n058kvtUMXc" title="How math helped debunk this UFO video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=n058kvtUMXc" target="_blank" rel="noopener noreferrer">How math helped debunk this UFO video</a></p><p class="youtube-embed-meta">Channel: PBS NewsHour &middot; Views: 12.1K &middot; Uploaded: April 2025 &middot; Length: 3 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=n058kvtUMXc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=n058kvtUMXc">Open on YouTube</a></p></div></div></div>
 
 ### Why longer recordings are often stronger
 
 Near-lens insects frequently produce brief, ambiguous appearances lasting only a few frames.
 
 Longer recordings can reveal patterns that help determine range:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -374,12 +367,12 @@ Longer recordings can reveal patterns that help determine range:
 
 Duration alone is not proof of distance, but it provides more opportunities to test competing explanations.
 
+<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_range_evidence_camer_8b4dfe-Illustration-3-dark.svg" | relative_url }}" alt="Range Checks illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_range_evidence_camer_8b4dfe-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_range_evidence_camer_8b4dfe-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Strong Modern Investigations Try to Measure
 
 Recent scientific approaches to UAP investigations increasingly focus on collecting information that directly addresses the range problem rather than merely obtaining clearer pictures.
 
 Common goals include:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -392,14 +385,13 @@ Common goals include:
 
 </div>
 
-Projects designed around these principles aim to identify ordinary objects first and isolate genuinely unexplained cases only after geometry, range and sensor performance have been verified. Researchers involved in dedicated UAP observation systems have explicitly argued that multimodal observations help recognise artefacts and provide verifiable measurements instead of relying on visual impressions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivThe Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based ObservatoriesMay 29, 2023...</span><span class="citation-popover-meta">Published: May 29, 2023</span></span></span>
+Projects designed around these principles aim to identify ordinary objects first and isolate genuinely unexplained cases only after geometry, range and sensor performance have been verified. Researchers involved in dedicated UAP observation systems have explicitly argued that multimodal observations help recognise artefacts and provide verifiable measurements instead of relying on visual impressions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based ObservatoriesMay 29, 2023...</span><span class="citation-popover-meta">Published: May 29, 2023</span></span></span>
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/n058kvtUMXc" title="How math helped debunk this UFO video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=n058kvtUMXc" target="_blank" rel="noopener noreferrer">How math helped debunk this UFO video</a></p><p class="youtube-embed-meta">Channel: PBS NewsHour &middot; Views: 12.1K &middot; Uploaded: April 2025 &middot; Length: 3 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=n058kvtUMXc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=n058kvtUMXc">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_range_evidence_camer_8b4dfe-Illustration-3-dark.svg" | relative_url }}" alt="Range Checks illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_range_evidence_camer_8b4dfe-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insects_camera_ufo_787e74_range_evidence_camer_8b4dfe-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A Practical Checklist for Stronger Video Evidence
 
 When evaluating a UFO video that might otherwise be explained by an insect or other nearby object, the following questions are especially useful:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -415,10 +407,6 @@ When evaluating a UFO video that might otherwise be explained by an insect or ot
 </div>
 
 The more answers are "yes", the harder it becomes to explain the sighting as a bug, dust particle or other near-lens object. The strongest UFO videos are not simply those that show unusual shapes. They are the ones that provide independent evidence that the object was genuinely distant before any claims about its behaviour are considered.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BCGFhDbDu-8" title="Real UFO? Misidentified Object? Advanced Technology? or Something Unexplained?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BCGFhDbDu-8" target="_blank" rel="noopener noreferrer">Real UFO? Misidentified Object? Advanced Technology? or Something Unexplained?</a></p><p class="youtube-embed-meta">Channel: UFO and ALIENS EXTRATERRESTRIAL LIFE</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BCGFhDbDu-8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BCGFhDbDu-8">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -537,15 +525,15 @@ The more answers are "yes", the harder it becomes to explain the sighting as a b
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-checks-what-evidence-rules-out-camera-bugs-ifos-causes-of-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="range-checks-what-evidence-rules-out-camera-bugs-ifos-causes-of-camera-lens" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Praktica MTL 50 Camera w/ Germany SLR 35mm Pentacon Lens"><img src="{{ '/assets/images/marketplace-covers/8a64e5218ac82b816cfe.jpg' | relative_url }}" alt="Listing image for Vintage Praktica MTL 50 Camera w/ Germany SLR 35mm Pentacon Lens" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+rangefinder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-rules-out-camera-bugs-laser-rangefinder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser rangefinder" data-ebay-reference="what-evidence-rules-out-camera-bugs-laser-rangefinder" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Golf Rangefinder with Slope 1000 Yards Laser Range Finder External Side Display"><img src="https://i.ebayimg.com/images/g/1V0AAeSwdr5opFla/s-l225.jpg" alt="Listing image for Golf Rangefinder with Slope 1000 Yards Laser Range Finder External Side Display" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-checks-what-evidence-rules-out-camera-bugs-ifos-causes-of-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="range-checks-what-evidence-rules-out-camera-bugs-ifos-causes-of-camera-lens" target="_blank" rel="sponsored noopener noreferrer">Vintage Praktica MTL 50 Camera w/ Germany SLR 35mm Pentacon Lens</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+rangefinder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-rules-out-camera-bugs-laser-rangefinder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser rangefinder" data-ebay-reference="what-evidence-rules-out-camera-bugs-laser-rangefinder" target="_blank" rel="sponsored noopener noreferrer">Golf Rangefinder with Slope 1000 Yards Laser Range Finder External Side Display</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-checks-what-evidence-rules-out-camera-bugs-ifos-causes-of-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="range-checks-what-evidence-rules-out-camera-bugs-ifos-causes-of-camera-lens" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera lens">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera lens</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+rangefinder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-rules-out-camera-bugs-laser-rangefinder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser rangefinder" data-ebay-reference="what-evidence-rules-out-camera-bugs-laser-rangefinder" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser rangefinder">Search <span data-ebay-domain-label>eBay.co.uk</span>: laser rangefinder</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-checks-what-evidence-rules-out-camera-bugs-ifos-causes-of-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="range-checks-what-evidence-rules-out-camera-bugs-ifos-causes-of-camera-lens" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+rangefinder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-rules-out-camera-bugs-laser-rangefinder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser rangefinder" data-ebay-reference="what-evidence-rules-out-camera-bugs-laser-rangefinder" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -553,15 +541,15 @@ The more answers are "yes", the harder it becomes to explain the sighting as a b
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-checks-what-evidence-rules-out-camera-bugs-ifos-causes-of-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="range-checks-what-evidence-rules-out-camera-bugs-ifos-causes-of-camera-lens" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for For Sony E Mount Mirrorless Camera Lens Pancake Biscuit Focus Free Filmy Lens"><img src="{{ '/assets/images/marketplace-covers/e5989c59561a54201a9e.jpg' | relative_url }}" alt="Listing image for For Sony E Mount Mirrorless Camera Lens Pancake Biscuit Focus Free Filmy Lens" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+rangefinder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-rules-out-camera-bugs-laser-rangefinder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser rangefinder" data-ebay-reference="what-evidence-rules-out-camera-bugs-laser-rangefinder" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PeakPulse 6Pro Golf Laser Rangefinder LE600AG Slope ON-OFF Switch “NEW &amp; SEALED”"><img src="https://i.ebayimg.com/images/g/-PwAAeSw5zhqDKK3/s-l225.jpg" alt="Listing image for PeakPulse 6Pro Golf Laser Rangefinder LE600AG Slope ON-OFF Switch “NEW &amp; SEALED”" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-checks-what-evidence-rules-out-camera-bugs-ifos-causes-of-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="range-checks-what-evidence-rules-out-camera-bugs-ifos-causes-of-camera-lens" target="_blank" rel="sponsored noopener noreferrer">For Sony E Mount Mirrorless Camera Lens Pancake Biscuit Focus Free Filmy Lens</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+rangefinder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-rules-out-camera-bugs-laser-rangefinder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser rangefinder" data-ebay-reference="what-evidence-rules-out-camera-bugs-laser-rangefinder" target="_blank" rel="sponsored noopener noreferrer">PeakPulse 6Pro Golf Laser Rangefinder LE600AG Slope ON-OFF Switch “NEW &amp; SEALED”</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-checks-what-evidence-rules-out-camera-bugs-ifos-causes-of-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="range-checks-what-evidence-rules-out-camera-bugs-ifos-causes-of-camera-lens" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera lens">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera lens</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+rangefinder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-rules-out-camera-bugs-laser-rangefinder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser rangefinder" data-ebay-reference="what-evidence-rules-out-camera-bugs-laser-rangefinder" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser rangefinder">Search <span data-ebay-domain-label>eBay.co.uk</span>: laser rangefinder</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-checks-what-evidence-rules-out-camera-bugs-ifos-causes-of-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="range-checks-what-evidence-rules-out-camera-bugs-ifos-causes-of-camera-lens" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+rangefinder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-rules-out-camera-bugs-laser-rangefinder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser rangefinder" data-ebay-reference="what-evidence-rules-out-camera-bugs-laser-rangefinder" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -569,15 +557,15 @@ The more answers are "yes", the harder it becomes to explain the sighting as a b
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-checks-what-evidence-rules-out-camera-bugs-ifos-causes-of-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="range-checks-what-evidence-rules-out-camera-bugs-ifos-causes-of-camera-lens" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Camera MF Super Telephoto Zoom LENS F/8.3-16 420-800mm T Mount For CANON EF LENS"><img src="{{ '/assets/images/marketplace-covers/506b35fe65c69535d95e.jpg' | relative_url }}" alt="Listing image for Camera MF Super Telephoto Zoom LENS F/8.3-16 420-800mm T Mount For CANON EF LENS" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+rangefinder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-rules-out-camera-bugs-laser-rangefinder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser rangefinder" data-ebay-reference="what-evidence-rules-out-camera-bugs-laser-rangefinder" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Golf Laser Rangefinder 1200Y Ranging Ultra-Clear Optics OLED Display Light Grey"><img src="https://i.ebayimg.com/images/g/u8MAAeSwnHVqKt81/s-l225.jpg" alt="Listing image for Golf Laser Rangefinder 1200Y Ranging Ultra-Clear Optics OLED Display Light Grey" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-checks-what-evidence-rules-out-camera-bugs-ifos-causes-of-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="range-checks-what-evidence-rules-out-camera-bugs-ifos-causes-of-camera-lens" target="_blank" rel="sponsored noopener noreferrer">Camera MF Super Telephoto Zoom LENS F/8.3-16 420-800mm T Mount For CANON EF LENS</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+rangefinder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-rules-out-camera-bugs-laser-rangefinder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser rangefinder" data-ebay-reference="what-evidence-rules-out-camera-bugs-laser-rangefinder" target="_blank" rel="sponsored noopener noreferrer">Golf Laser Rangefinder 1200Y Ranging Ultra-Clear Optics OLED Display Light Grey</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-checks-what-evidence-rules-out-camera-bugs-ifos-causes-of-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="range-checks-what-evidence-rules-out-camera-bugs-ifos-causes-of-camera-lens" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera lens">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera lens</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+rangefinder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-rules-out-camera-bugs-laser-rangefinder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser rangefinder" data-ebay-reference="what-evidence-rules-out-camera-bugs-laser-rangefinder" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser rangefinder">Search <span data-ebay-domain-label>eBay.co.uk</span>: laser rangefinder</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-checks-what-evidence-rules-out-camera-bugs-ifos-causes-of-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="range-checks-what-evidence-rules-out-camera-bugs-ifos-causes-of-camera-lens" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+rangefinder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-rules-out-camera-bugs-laser-rangefinder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser rangefinder" data-ebay-reference="what-evidence-rules-out-camera-bugs-laser-rangefinder" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -585,15 +573,15 @@ The more answers are "yes", the harder it becomes to explain the sighting as a b
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-checks-what-evidence-rules-out-camera-bugs-ifos-causes-of-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="range-checks-what-evidence-rules-out-camera-bugs-ifos-causes-of-camera-lens" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Canon EF 35-105mm f4.5-5.6 Auto Focus Lens for Canon EOS Cameras #2 **READ**"><img src="{{ '/assets/images/marketplace-covers/8d9e9124f1c24971b104.jpg' | relative_url }}" alt="Listing image for Canon EF 35-105mm f4.5-5.6 Auto Focus Lens for Canon EOS Cameras #2 **READ**" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+rangefinder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-rules-out-camera-bugs-laser-rangefinder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser rangefinder" data-ebay-reference="what-evidence-rules-out-camera-bugs-laser-rangefinder" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MILESEEY Professional Precision 660Yards Golf Range Finder with Flag Pin Lock"><img src="https://i.ebayimg.com/images/g/k0AAAOSwl~hjBD3v/s-l225.jpg" alt="Listing image for MILESEEY Professional Precision 660Yards Golf Range Finder with Flag Pin Lock" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-checks-what-evidence-rules-out-camera-bugs-ifos-causes-of-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="range-checks-what-evidence-rules-out-camera-bugs-ifos-causes-of-camera-lens" target="_blank" rel="sponsored noopener noreferrer">Canon EF 35-105mm f4.5-5.6 Auto Focus Lens for Canon EOS Cameras #2 **READ**</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+rangefinder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-rules-out-camera-bugs-laser-rangefinder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser rangefinder" data-ebay-reference="what-evidence-rules-out-camera-bugs-laser-rangefinder" target="_blank" rel="sponsored noopener noreferrer">MILESEEY Professional Precision 660Yards Golf Range Finder with Flag Pin Lock</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-checks-what-evidence-rules-out-camera-bugs-ifos-causes-of-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="range-checks-what-evidence-rules-out-camera-bugs-ifos-causes-of-camera-lens" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera lens">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera lens</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+rangefinder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-rules-out-camera-bugs-laser-rangefinder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser rangefinder" data-ebay-reference="what-evidence-rules-out-camera-bugs-laser-rangefinder" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser rangefinder">Search <span data-ebay-domain-label>eBay.co.uk</span>: laser rangefinder</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-checks-what-evidence-rules-out-camera-bugs-ifos-causes-of-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="range-checks-what-evidence-rules-out-camera-bugs-ifos-causes-of-camera-lens" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+rangefinder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-rules-out-camera-bugs-laser-rangefinder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser rangefinder" data-ebay-reference="what-evidence-rules-out-camera-bugs-laser-rangefinder" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -601,7 +589,7 @@ The more answers are "yes", the harder it becomes to explain the sighting as a b
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-checks-what-evidence-rules-out-camera-bugs-ifos-causes-of-camera-lens&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens" data-ebay-reference="range-checks-what-evidence-rules-out-camera-bugs-ifos-causes-of-camera-lens" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+rangefinder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-rules-out-camera-bugs-laser-rangefinder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser rangefinder" data-ebay-reference="what-evidence-rules-out-camera-bugs-laser-rangefinder" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -816,110 +804,110 @@ The more answers are "yes", the harder it becomes to explain the sighting as a b
 
 1. <a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: [https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/](https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/)  
+   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through sys...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2305.18566](https://arxiv.org/abs/2305.18566)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivThe Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based ObservatoriesMay 29, 2023...</p></details>
+   Link: <a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based ObservatoriesMay 29, 2023...</p></details>
    Published: May 29, 2023  
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2506.00125v1](https://arxiv.org/html/2506.00125v1)  
+   Link: <a href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.00125v1</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Introduction30 May 2025 — A system designed for the comprehensive scientific study of aerial phenomena which integrates multiple sensor...</p></details>
    Published: May 2025  
 
 5. <a id="endnote-5"></a>
    Source: space.com  
    Title: sensor metadata, and the lack of baseline data," the report states.Read more  
-   Link: [https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed](https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceNASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor senso...</p></details>
+   Link: <a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor senso...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: arxiv.org  
    Title: arXiv Forensic Analysis of Video Files Using Metadata  
-   Link: [https://arxiv.org/abs/2105.06361](https://arxiv.org/abs/2105.06361)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivForensic Analysis of Video Files Using MetadataMay 13, 2021...</p></details>
+   Link: <a href="https://arxiv.org/abs/2105.06361" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2105.06361</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic Analysis of Video Files Using MetadataMay 13, 2021...</p></details>
    Published: May 13, 2021  
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
    Title: arXiv Galileo Project Observatory Class System Architecture  
-   Link: [https://arxiv.org/abs/2506.00125](https://arxiv.org/abs/2506.00125)  
+   Link: <a href="https://arxiv.org/abs/2506.00125" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2506.00125</a>  
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2509.09676v1](https://arxiv.org/html/2509.09676v1)  
+   Link: <a href="https://arxiv.org/html/2509.09676v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2509.09676v1</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Large-Scale Video Dataset with Spatial Annotations11 Sept 2025 — A subsequent annotation pipeline enriches these clips with detailed sp...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — This webpage is designed as a resource to provide updates on the UAP Independent Study. NASA Unidentified Anomalo...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: ojs.aaai.org  
-   Link: [https://ojs.aaai.org/index.php/AAAI/article/view/32839/34994](https://ojs.aaai.org/index.php/AAAI/article/view/32839/34994)  
+   Link: <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32839/34994" target="_blank" rel="noopener noreferrer nofollow">https://ojs.aaai.org/index.php/AAAI/article/view/32839/34994</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Everything Everywhere across Multiple Camerasby LH Wang · 2025 — While previous work has primarily concentrated on tracking within a give...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: openaccess.thecvf.com  
-   Link: [https://openaccess.thecvf.com/content/WACV2021/papers/Haalck_Embedded_Dense_Camera_Trajectories_in_Multi-Video_Image_Mosaics_by_Geodesic_WACV_2021_paper.pdf](https://openaccess.thecvf.com/content/WACV2021/papers/Haalck_Embedded_Dense_Camera_Trajectories_in_Multi-Video_Image_Mosaics_by_Geodesic_WACV_2021_paper.pdf)  
+   Link: <a href="https://openaccess.thecvf.com/content/WACV2021/papers/Haalck_Embedded_Dense_Camera_Trajectories_in_Multi-Video_Image_Mosaics_by_Geodesic_WACV_2021_paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://openaccess.thecvf.com/content/WACV2021/papers/Haalck_Embedded_Dense_Camera_Trajectories_in_Multi-Video_Image_Mosaics_by_Geodesic_WACV_2021_paper.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dense Camera [Trajectories](&amp;#123;&amp;#123; &#x27;trajectories/&#x27; | relative_url &amp;#125;&amp;#125;) in Multi-Video...by L Haalck · 2021 · Cited by 5 — In summary the first step utilises (i) multi-video integrat...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/399539984_FORENSIC_ANALYSIS_OF_TEMPORAL_INCONSISTENCIES_AND_METADATA_DISCREPANCIES_IN_CCTV_FOOTAGE_A_CASE_STUDY](https://www.researchgate.net/publication/399539984_FORENSIC_ANALYSIS_OF_TEMPORAL_INCONSISTENCIES_AND_METADATA_DISCREPANCIES_IN_CCTV_FOOTAGE_A_CASE_STUDY)  
+   Link: <a href="https://www.researchgate.net/publication/399539984_FORENSIC_ANALYSIS_OF_TEMPORAL_INCONSISTENCIES_AND_METADATA_DISCREPANCIES_IN_CCTV_FOOTAGE_A_CASE_STUDY" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/399539984_FORENSIC_ANALYSIS_OF_TEMPORAL_INCONSISTENCIES_AND_METADATA_DISCREPANCIES_IN_CCTV_FOOTAGE_A_CASE_STUDY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>forensic analysis of temporal inconsistencies and metadata...This case study critically examines temporal inconsistencies and metadata d...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryAARO employed full-motion video analysis and pixel examination techniques to inform its assessment.... UAP Video: Atmospheric...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: primitiveproton.com  
-   Link: [https://primitiveproton.com/unidentified-anomalous-phenomena-uap/](https://primitiveproton.com/unidentified-anomalous-phenomena-uap/)  
+   Link: <a href="https://primitiveproton.com/unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://primitiveproton.com/unidentified-anomalous-phenomena-uap/</a>  
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/16ik6x5/summary_of_nasa_unidentified_anomalous_phenomena/](https://www.reddit.com/r/UFOs/comments/16ik6x5/summary_of_nasa_unidentified_anomalous_phenomena/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/16ik6x5/summary_of_nasa_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16ik6x5/summary_of_nasa_unidentified_anomalous_phenomena/</a>  
 
 16. <a id="endnote-16"></a>
    Source: fastcompany.com  
    Title: nasa just threw cold water on the idea that ufo sightings are extraterrestrial  
-   Link: [https://www.fastcompany.com/90954823/nasa-just-threw-cold-water-on-the-idea-that-ufo-sightings-are-extraterrestrial](https://www.fastcompany.com/90954823/nasa-just-threw-cold-water-on-the-idea-that-ufo-sightings-are-extraterrestrial)  
+   Link: <a href="https://www.fastcompany.com/90954823/nasa-just-threw-cold-water-on-the-idea-that-ufo-sightings-are-extraterrestrial" target="_blank" rel="noopener noreferrer nofollow">https://www.fastcompany.com/90954823/nasa-just-threw-cold-water-on-the-idea-that-ufo-sightings-are-extraterrestrial</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA just threw cold water on the idea that UFO sightings...19 Sept 2023 — NASA&#x27;s independent study team found no evidence that reported...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=TQcqOW39ksk](https://www.youtube.com/watch?v=TQcqOW39ksk)  
+   Link: <a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study ReportNASA commissioned an independent study team to examine unidentified anomalous ph...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: meritalk.com  
    Title: nasa urged to take more permanent role in uap research effort  
-   Link: [https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/](https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/)  
+   Link: <a href="https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/" target="_blank" rel="noopener noreferrer nofollow">https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Urged to Take More Permanent Role in UAP...15 Sept 2023 — The study team found that most UAP data is “hampered by poor sensor calib...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: nevadacurrent.com  
    Title: nasa report finds no evidence that ufos are extraterrestrial  
-   Link: [https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/](https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/)  
+   Link: <a href="https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow">https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>18 Sept 2023 — Analysis of this data is “hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor metad...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: researchgate.net  
    Title: The use of visual media as a tool for investigating animal  
-   Link: [https://www.researchgate.net/publication/249008215_The_use_of_visual_media_as_a_tool_for_investigating_animal_behaviour](https://www.researchgate.net/publication/249008215_The_use_of_visual_media_as_a_tool_for_investigating_animal_behaviour)  
+   Link: <a href="https://www.researchgate.net/publication/249008215_The_use_of_visual_media_as_a_tool_for_investigating_animal_behaviour" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/249008215_The_use_of_visual_media_as_a_tool_for_investigating_animal_behaviour</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>alien species. In this work, we report the first data on behavioral interactions between roe deer, Capreolus capreolus, and crested porcu...</p></details>

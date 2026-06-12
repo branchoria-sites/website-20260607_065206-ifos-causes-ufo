@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_standard_civilian_ua_e295b0
 - ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_uap_baseline_librari_a298b8
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - nasa-study
 - phone-networks
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - nasa-study
 - phone-networks
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Networked phone observations could turn isolated blurry clips into time-stamped, location-aware evidence from multiple viewpoints.
 hero_summary: Networked phone observations could turn isolated blurry clips into time-stamped, location-aware evidence from multiple viewpoints.
 layout: default
 permalink: /phone-networks/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /nasa-study/
 nav_short_title: Phone networks
 title: Could phones make UFO reports scientific?
-title_full: Could phones make UFO reports scientific? | NASA Study
+title_full: Could phones make UFO reports scientific?
 display_title_short: Phone networks
 display_title: Phone networks
 heading_title: Could phones make UFO reports scientific?
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 23:06:57'
-parent_title: Why Better UFO Data Matters | IFOs
+parent_title: Why Better UFO Data Matters
 parent_permalink: /nasa-study/
 parent_nav_short_title: NASA Study
 parent_heading_title: Why Better UFO Data Matters
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183
-  title: NASA Study | Ifos Causes Of
+  title: NASA Study | ifos causes of UFO 3 ed 238
   permalink: /nasa-study/
   short_title: NASA Study
   heading_title: Why Better UFO Data Matters
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183
-  title: NASA Study | Ifos Causes Of
+  title: NASA Study | ifos causes of UFO 3 ed 238
   permalink: /nasa-study/
   short_title: NASA Study
   heading_title: Why Better UFO Data Matters
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: When the UFO is inside the camera
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183
-  title: NASA Study | Ifos Causes Of
+  title: NASA Study | ifos causes of UFO 3 ed 238
   permalink: /nasa-study/
   short_title: NASA Study
   heading_title: Why Better UFO Data Matters
@@ -266,6 +265,7 @@ next_link:
   permalink: /sensor-artefacts/
   short_title: Sensor artefacts
   heading_title: When the UFO is inside the camera
+date: '2026-06-12 00:22:05 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_smartphone_uap_crowd_856d40-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_smartphone_uap_crowd_856d40-Illustration-1.webp
@@ -275,7 +275,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_smartphon
 ## Introduction
 
 Could phones make UFO reports scientific? Potentially, yes—but only if they are used as part of a coordinated data-collection system rather than as isolated cameras. One of the most practical recommendations emerging from NASA’s 2023 UAP (Unidentified Anomalous Phenomena) study was the idea of using smartphone-based crowdsourcing to gather better observations. The key insight is simple: a single blurry video rarely reveals enough information to identify what was seen, but multiple time-stamped observations from different locations can provide the geometry, context and metadata needed for serious analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe panel sees several advantages to augmenting data collection efforts using modern crowdsourci...</span></span></span>
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_smartphone_uap_crowd_856d40-Illustration-1-dark.svg" | relative_url }}" alt="Phone networks illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_smartphone_uap_crowd_856d40-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_smartphone_uap_crowd_856d40-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within the broader effort to improve UAP data standards, smartphone networks are attractive because billions of people already carry sensors capable of recording images, location, orientation and timing information. If those observations can be collected consistently and verified, many reports that currently remain ambiguous could become easier to explain—or, at minimum, easier to investigate rigorously. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe panel sees several advantages to augmenting data collection efforts using modern crowdsourci...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/here-is-nasas-36-page-report-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">here is nasas 36 page report investigating ufos</span><span class="citation-popover-snippet">data and other smartphone sensor metadata from multiple citizen observers worldwide.” “The negative perception surrounding the reporting...</span></span></span>
@@ -292,8 +291,7 @@ The weakness of many UFO videos therefore stems less from image quality than fro
 
 ## How synchronized observations could improve a case
 
-NASA's study team specifically pointed to open-source smartphone applications that could gather imagery together with sensor metadata from multiple observers around the world. The concept is important because it transforms isolated anecdotes into structured observations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe panel sees several advantages to augmenting data collection efforts using modern crowdsourci...</span></span></span> Wikisource Imagine several people in different locations observing the same object at roughly the same time. If their phones automatically record: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[en.wikisource.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">WikisourcePage:UAP Independent Study Team - Final Report.pdf/612 Nov 2023 — NASA should therefore explore the viability of developing or...</span></span></span>
-
+NASA's study team specifically pointed to open-source smartphone applications that could gather imagery together with sensor metadata from multiple observers around the world. The concept is important because it transforms isolated anecdotes into structured observations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe panel sees several advantages to augmenting data collection efforts using modern crowdsourci...</span></span></span> Wikisource Imagine several people in different locations observing the same object at roughly the same time. If their phones automatically record: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[en.wikisource.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">Page:UAP Independent Study Team - Final Report.pdf/612 Nov 2023 — NASA should therefore explore the viability of developing or...</span></span></span>
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -308,14 +306,13 @@ NASA's study team specifically pointed to open-source smartphone applications th
 
 then analysts can compare the observations mathematically rather than relying solely on witness descriptions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe panel sees several advantages to augmenting data collection efforts using modern crowdsourci...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RoZdIG4PLGY" title="Next Generation UFO Data | The Richard Dolan Show LIVE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RoZdIG4PLGY" target="_blank" rel="noopener noreferrer">Next Generation UFO Data | The Richard Dolan Show LIVE</a></p><p class="youtube-embed-meta">Channel: Richard Dolan Intelligent Disclosure &middot; Views: 43.7K &middot; Uploaded: July 2020 &middot; Length: 57 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RoZdIG4PLGY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RoZdIG4PLGY">Open on YouTube</a></p></div></div></div>
 
 ### Triangulation instead of guesswork
 
 The biggest advantage of multiple observations is triangulation. When the same object is recorded from different positions, investigators can estimate its location in three-dimensional space.
 
-This matters because many apparent mysteries arise from uncertainty about distance. An object that seems enormous and fast when assumed to be nearby may turn out to be small and distant. Conversely, an object that appears stationary may actually be moving rapidly at high altitude. Multiple viewing angles help resolve these ambiguities. Similar principles are used in astronomy, meteor tracking and other observational sciences. Research proposals for scientific UAP monitoring systems place heavy emphasis on multi-sensor and multi-viewpoint observations for exactly this reason. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivThe Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based ObservatoriesMay 29, 2023...</span><span class="citation-popover-meta">Published: May 29, 2023</span></span></span>
+This matters because many apparent mysteries arise from uncertainty about distance. An object that seems enormous and fast when assumed to be nearby may turn out to be small and distant. Conversely, an object that appears stationary may actually be moving rapidly at high altitude. Multiple viewing angles help resolve these ambiguities. Similar principles are used in astronomy, meteor tracking and other observational sciences. Research proposals for scientific UAP monitoring systems place heavy emphasis on multi-sensor and multi-viewpoint observations for exactly this reason. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based ObservatoriesMay 29, 2023...</span><span class="citation-popover-meta">Published: May 29, 2023</span></span></span>
 
 ### Building a timeline
 
@@ -329,7 +326,6 @@ Another benefit is scale. Most UFO databases contain reports submitted in incons
 
 Over months and years, that creates baseline information. Analysts can learn what ordinary aircraft, satellites, [drones]({{ 'drones/' | relative_url }}), planets and atmospheric phenomena look like under different conditions. Future reports can then be compared against a much larger reference library. NASA's broader argument is that unknowns become easier to assess when they can be measured against high-quality background data rather than isolated anecdotes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe panel sees several advantages to augmenting data collection efforts using modern crowdsourci...</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_smartphone_uap_crowd_856d40-Illustration-2-dark.svg" | relative_url }}" alt="Phone networks illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_smartphone_uap_crowd_856d40-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_smartphone_uap_crowd_856d40-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why governance matters as much as technology
 
@@ -340,7 +336,6 @@ Collecting observations from large numbers of people requires rules about data q
 One reason NASA emphasised open and transparent approaches is that public trust affects participation. The agency argued that [stigma]({{ 'stigma/' | relative_url }}) surrounding UAP reporting discourages some observers from coming forward, creating a loss of potentially useful data. A transparent reporting framework could reduce that problem while encouraging more consistent submissions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/here-is-nasas-36-page-report-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">here is nasas 36 page report investigating ufos</span><span class="citation-popover-snippet">data and other smartphone sensor metadata from multiple citizen observers worldwide.” “The negative perception surrounding the reporting...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.abc.net.au/news/2023-09-15/nasa-releases-ufo-report/102859124" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">nasa releases ufo report</span><span class="citation-popover-snippet">NASA releases UAP report, says more data and scientific...14 Sept 2023 — The report suggested using crowdsourcing techniques such as &quot;op...</span></span></span>
 
 Governance questions include:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -354,7 +349,6 @@ Governance questions include:
 </div>
 
 These questions are often less visible than the technology itself, yet they strongly influence whether a dataset becomes scientifically useful.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nE1CaNP6Mp4" title="Skyhub ufo uap tracker up close 2020" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nE1CaNP6Mp4" target="_blank" rel="noopener noreferrer">Skyhub ufo uap tracker up close 2020</a></p><p class="youtube-embed-meta">Channel: UAP Tracker &middot; Views: 1.4K &middot; Uploaded: December 2020 &middot; Length: 48 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nE1CaNP6Mp4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nE1CaNP6Mp4">Open on YouTube</a></p></div></div></div>
 
@@ -371,7 +365,6 @@ Quality control presents an equally difficult challenge.
 Crowdsourcing increases the number of reports, but it also increases the number of mistakes.
 
 Many UAP reports ultimately involve ordinary objects such as aircraft, satellites, balloons or astronomical bodies. A successful smartphone system would need automated screening tools and reference databases capable of filtering large volumes of routine observations before analysts focus on genuinely unusual cases. NASA's report repeatedly stressed that better data collection should help separate known phenomena from unresolved observations, not simply generate more reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe panel sees several advantages to augmenting data collection efforts using modern crowdsourci...</span></span></span>
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_smartphone_uap_crowd_856d40-Illustration-3-dark.svg" | relative_url }}" alt="Phone networks illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_smartphone_uap_crowd_856d40-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_nasa_uap_data_8cb183_smartphone_uap_crowd_856d40-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Manipulated media
@@ -390,11 +383,9 @@ Understanding these biases is essential if crowdsourced data are to support scie
 
 The most important contribution of smartphone crowdsourcing is not that it would prove extraordinary explanations. Its value lies in reducing uncertainty.
 
-NASA's recommendation reflects a broader shift in UAP research away from debating individual stories and toward improving evidence quality. A network that combines images, sensor metadata, precise timing and multiple viewpoints could turn some currently ambiguous UFO reports into identifiable events. Others might remain unexplained, but they would at least be documented in a form suitable for systematic investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe panel sees several advantages to augmenting data collection efforts using modern crowdsourci...</span></span></span> Wikisource For the study of identified flying objects and mistaken UFO reports <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[en.wikisource.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">WikisourcePage:UAP Independent Study Team - Final Report.pdf/612 Nov 2023 — NASA should therefore explore the viability of developing or...</span></span></span>, that distinction is crucial. Better data do not guarantee dramatic discoveries. They make it easier to distinguish ordinary objects from genuinely unresolved cases—and that is exactly the scientific role smartphone crowdsourcing is intended to play. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe panel sees several advantages to augmenting data collection efforts using modern crowdsourci...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe panel sees several advantages to augmenting data collection efforts using modern crowdsourci...</span></span></span>
-
+NASA's recommendation reflects a broader shift in UAP research away from debating individual stories and toward improving evidence quality. A network that combines images, sensor metadata, precise timing and multiple viewpoints could turn some currently ambiguous UFO reports into identifiable events. Others might remain unexplained, but they would at least be documented in a form suitable for systematic investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe panel sees several advantages to augmenting data collection efforts using modern crowdsourci...</span></span></span> Wikisource For the study of identified flying objects and mistaken UFO reports <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[en.wikisource.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">Page:UAP Independent Study Team - Final Report.pdf/612 Nov 2023 — NASA should therefore explore the viability of developing or...</span></span></span>, that distinction is crucial. Better data do not guarantee dramatic discoveries. They make it easier to distinguish ordinary objects from genuinely unresolved cases—and that is exactly the scientific role smartphone crowdsourcing is intended to play. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe panel sees several advantages to augmenting data collection efforts using modern crowdsourci...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe panel sees several advantages to augmenting data collection efforts using modern crowdsourci...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UzplPhg1ujw" title="Skyhub ufo tracker information open source machine learning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UzplPhg1ujw" target="_blank" rel="noopener noreferrer">Skyhub ufo tracker information open source machine learning</a></p><p class="youtube-embed-meta">Channel: UAP Tracker &middot; Views: 255 &middot; Uploaded: November 2020 &middot; Length: 1 minute 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UzplPhg1ujw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UzplPhg1ujw">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -513,15 +504,15 @@ NASA's recommendation reflects a broader shift in UAP research away from debatin
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-networks-could-phones-make-ufo-reports-scientific-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="phone-networks-could-phones-make-ufo-reports-scientific-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-phones-make-ufo-reports-scientific-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="could-phones-make-ufo-reports-scientific-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Universal Mobile Phone Tripod Stand Grip Holder Mount Cameras With Bluetooth UK"><img src="https://i.ebayimg.com/images/g/2b4AAeSwnc1pqADZ/s-l225.jpg" alt="Listing image for Universal Mobile Phone Tripod Stand Grip Holder Mount Cameras With Bluetooth UK" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-networks-could-phones-make-ufo-reports-scientific-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="phone-networks-could-phones-make-ufo-reports-scientific-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-phones-make-ufo-reports-scientific-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="could-phones-make-ufo-reports-scientific-phone-tripod" target="_blank" rel="sponsored noopener noreferrer">Universal Mobile Phone Tripod Stand Grip Holder Mount Cameras With Bluetooth UK</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-networks-could-phones-make-ufo-reports-scientific-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="phone-networks-could-phones-make-ufo-reports-scientific-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-phones-make-ufo-reports-scientific-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="could-phones-make-ufo-reports-scientific-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone tripod</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-networks-could-phones-make-ufo-reports-scientific-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="phone-networks-could-phones-make-ufo-reports-scientific-ifos-causes-of-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-phones-make-ufo-reports-scientific-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="could-phones-make-ufo-reports-scientific-phone-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -529,15 +520,15 @@ NASA's recommendation reflects a broader shift in UAP research away from debatin
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-networks-could-phones-make-ufo-reports-scientific-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="phone-networks-could-phones-make-ufo-reports-scientific-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-phones-make-ufo-reports-scientific-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="could-phones-make-ufo-reports-scientific-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Universal Selfie Stick Bluetooth Remote Phone Holder Stand Tripod For iPhone"><img src="https://i.ebayimg.com/images/g/wZcAAOSwnIxnKXPV/s-l225.jpg" alt="Listing image for Universal Selfie Stick Bluetooth Remote Phone Holder Stand Tripod For iPhone" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-networks-could-phones-make-ufo-reports-scientific-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="phone-networks-could-phones-make-ufo-reports-scientific-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-phones-make-ufo-reports-scientific-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="could-phones-make-ufo-reports-scientific-phone-tripod" target="_blank" rel="sponsored noopener noreferrer">Universal Selfie Stick Bluetooth Remote Phone Holder Stand Tripod For iPhone</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-networks-could-phones-make-ufo-reports-scientific-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="phone-networks-could-phones-make-ufo-reports-scientific-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-phones-make-ufo-reports-scientific-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="could-phones-make-ufo-reports-scientific-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone tripod</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-networks-could-phones-make-ufo-reports-scientific-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="phone-networks-could-phones-make-ufo-reports-scientific-ifos-causes-of-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-phones-make-ufo-reports-scientific-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="could-phones-make-ufo-reports-scientific-phone-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -545,15 +536,15 @@ NASA's recommendation reflects a broader shift in UAP research away from debatin
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-networks-could-phones-make-ufo-reports-scientific-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="phone-networks-could-phones-make-ufo-reports-scientific-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-phones-make-ufo-reports-scientific-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="could-phones-make-ufo-reports-scientific-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pro Tripod Stand Mount For Digital Camera Camcorder Phone Holder iPhone DSLR SLR"><img src="https://i.ebayimg.com/images/g/Wt0AAeSwo4BqDBh0/s-l225.jpg" alt="Listing image for Pro Tripod Stand Mount For Digital Camera Camcorder Phone Holder iPhone DSLR SLR" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-networks-could-phones-make-ufo-reports-scientific-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="phone-networks-could-phones-make-ufo-reports-scientific-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-phones-make-ufo-reports-scientific-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="could-phones-make-ufo-reports-scientific-phone-tripod" target="_blank" rel="sponsored noopener noreferrer">Pro Tripod Stand Mount For Digital Camera Camcorder Phone Holder iPhone DSLR SLR</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-networks-could-phones-make-ufo-reports-scientific-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="phone-networks-could-phones-make-ufo-reports-scientific-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-phones-make-ufo-reports-scientific-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="could-phones-make-ufo-reports-scientific-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone tripod</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-networks-could-phones-make-ufo-reports-scientific-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="phone-networks-could-phones-make-ufo-reports-scientific-ifos-causes-of-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-phones-make-ufo-reports-scientific-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="could-phones-make-ufo-reports-scientific-phone-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -561,15 +552,15 @@ NASA's recommendation reflects a broader shift in UAP research away from debatin
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-networks-could-phones-make-ufo-reports-scientific-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="phone-networks-could-phones-make-ufo-reports-scientific-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-phones-make-ufo-reports-scientific-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="could-phones-make-ufo-reports-scientific-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Telescopic Selfie Stick Bluetooth Tripod Monopod Phone Holder for Samsung iPhone"><img src="https://i.ebayimg.com/images/g/kkwAAeSwgBlpu274/s-l225.jpg" alt="Listing image for Telescopic Selfie Stick Bluetooth Tripod Monopod Phone Holder for Samsung iPhone" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-networks-could-phones-make-ufo-reports-scientific-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="phone-networks-could-phones-make-ufo-reports-scientific-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-phones-make-ufo-reports-scientific-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="could-phones-make-ufo-reports-scientific-phone-tripod" target="_blank" rel="sponsored noopener noreferrer">Telescopic Selfie Stick Bluetooth Tripod Monopod Phone Holder for Samsung iPhone</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-networks-could-phones-make-ufo-reports-scientific-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="phone-networks-could-phones-make-ufo-reports-scientific-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-phones-make-ufo-reports-scientific-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="could-phones-make-ufo-reports-scientific-phone-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone tripod</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-networks-could-phones-make-ufo-reports-scientific-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="phone-networks-could-phones-make-ufo-reports-scientific-ifos-causes-of-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-phones-make-ufo-reports-scientific-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="could-phones-make-ufo-reports-scientific-phone-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -577,7 +568,7 @@ NASA's recommendation reflects a broader shift in UAP research away from debatin
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-networks-could-phones-make-ufo-reports-scientific-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="phone-networks-could-phones-make-ufo-reports-scientific-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-phones-make-ufo-reports-scientific-phone-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone tripod" data-ebay-reference="could-phones-make-ufo-reports-scientific-phone-tripod" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -792,85 +783,85 @@ NASA's recommendation reflects a broader shift in UAP research away from debatin
 
 1. <a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportThe panel sees several advantages to augmenting data collection efforts using modern crowdsourci...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: en.wikisource.org  
-   Link: [https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/6](https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/6)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WikisourcePage:UAP Independent Study Team - Final Report.pdf/612 Nov 2023 — NASA should therefore explore the viability of developing or...</p></details>
+   Link: <a href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/6" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/6</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Page:UAP Independent Study Team - Final Report.pdf/612 Nov 2023 — NASA should therefore explore the viability of developing or...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: vice.com  
    Title: here is nasas 36 page report investigating ufos  
-   Link: [https://www.vice.com/en/article/here-is-nasas-36-page-report-investigating-ufos/](https://www.vice.com/en/article/here-is-nasas-36-page-report-investigating-ufos/)  
+   Link: <a href="https://www.vice.com/en/article/here-is-nasas-36-page-report-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/here-is-nasas-36-page-report-investigating-ufos/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>data and other smartphone sensor metadata from multiple citizen observers worldwide.” “The negative perception surrounding the reporting...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2305.18566](https://arxiv.org/abs/2305.18566)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivThe Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based ObservatoriesMay 29, 2023...</p></details>
+   Link: <a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based ObservatoriesMay 29, 2023...</p></details>
    Published: May 29, 2023  
 
 5. <a id="endnote-5"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP9 Jun 2022 — The study will focus on identifying available data, how best to collect future data, and how NASA can use tha...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: astronomy.com  
    Title: nasa wants to take ufos seriously and scientifically  
-   Link: [https://www.astronomy.com/science/nasa-wants-to-take-ufos-seriously-and-scientifically/](https://www.astronomy.com/science/nasa-wants-to-take-ufos-seriously-and-scientifically/)  
+   Link: <a href="https://www.astronomy.com/science/nasa-wants-to-take-ufos-seriously-and-scientifically/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomy.com/science/nasa-wants-to-take-ufos-seriously-and-scientifically/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Astronomy MagazineNASA wants to take UFOs seriously — and scientifically19 Sept 2023 — As for collecting data on UAP themselves, the pane...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/](https://www.nasa.gov/)  
+   Link: <a href="https://www.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>brings you the latest news, images and videos from America&#x27;s space agency, pioneering the future in space exploration, scientific discove...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: nasa.gov  
    Title: to release discuss unidentified anomalous phenomena report  
-   Link: [https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/](https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/)  
+   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to Release, Discuss Unidentified Anomalous...Sep 12, 2023 — NASA commissioned the study to examine UAP from a scientific perspectiv...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: apod.nasa.gov  
-   Link: [https://apod.nasa.gov/apod/ap260510.html](https://apod.nasa.gov/apod/ap260510.html)  
+   Link: <a href="https://apod.nasa.gov/apod/ap260510.html" target="_blank" rel="noopener noreferrer nofollow">https://apod.nasa.gov/apod/ap260510.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.gov2026 May 10 – Comet R3 PanSTARRS and Orion...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: en.wikisource.org  
    Title: Overall Conclusions and Recommendations  
-   Link: [https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Overall_Conclusions_and_Recommendations](https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Overall_Conclusions_and_Recommendations)  
+   Link: <a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Overall_Conclusions_and_Recommendations" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Overall_Conclusions_and_Recommendations</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Study Team Report/Overall Conclusions and...14 Oct 2023 — Beyond this, we recommend that NASA explore the viability of developing or acq...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: space.com  
    Title: pentagon ufo uap office [aaro](&#123;&#123; 'aaro/' | relative_url &#125;&#125;) sensors anomalies orbit  
-   Link: [https://www.space.com/pentagon-ufo-uap-office-aaro-sensors-anomalies-orbit](https://www.space.com/pentagon-ufo-uap-office-aaro-sensors-anomalies-orbit)  
+   Link: <a href="https://www.space.com/pentagon-ufo-uap-office-aaro-sensors-anomalies-orbit" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-uap-office-aaro-sensors-anomalies-orbit</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO office developing &#x27;Gremlin&#x27; sensors to help...9 Mar 2024 — AARO plans to present the Gremlin System to Pentagon leaders so...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: space.com  
    Title: nasa ufo uap study team first results revealed  
-   Link: [https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed](https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed)  
+   Link: <a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — NASA&#x27;s UFO study team released its long-awaited first report tod...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: abc.net.au  
    Title: nasa releases ufo report  
-   Link: [https://www.abc.net.au/news/2023-09-15/nasa-releases-ufo-report/102859124](https://www.abc.net.au/news/2023-09-15/nasa-releases-ufo-report/102859124)  
+   Link: <a href="https://www.abc.net.au/news/2023-09-15/nasa-releases-ufo-report/102859124" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2023-09-15/nasa-releases-ufo-report/102859124</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA releases UAP report, says more data and scientific...14 Sept 2023 — The report suggested using crowdsourcing techniques such as &quot;op...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/NASA](https://en.wikipedia.org/wiki/NASA)  
+   Link: <a href="https://en.wikipedia.org/wiki/NASA" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASAThe National Aeronautics and Space Administration (NASA /ˈnæsə/) is an independent agency of the U.S. federal government responsib...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/science/nasa](https://www.theguardian.com/science/nasa)  
+   Link: <a href="https://www.theguardian.com/science/nasa" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/nasa</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 2026 · Up to 2cm a month: Nasa keeps track as Mexico City sinks into the ground · Nasa brought crashing down to earth as budget threa...</p></details>
    Published: May 2026  
 
@@ -878,49 +869,49 @@ NASA's recommendation reflects a broader shift in UAP research away from debatin
 
 16. <a id="endnote-16"></a>
    Source: aui.edu  
-   Link: [https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/](https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/)  
+   Link: <a href="https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Releases Report on Unidentified Anomalous...Key findings of the report relate to overcoming such barriers, effective use of UAP dat...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: axios.com  
-   Link: [https://www.axios.com/2023/09/14/nasa-uap-report-release](https://www.axios.com/2023/09/14/nasa-uap-report-release)  
+   Link: <a href="https://www.axios.com/2023/09/14/nasa-uap-report-release" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2023/09/14/nasa-uap-report-release</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>government efforts in understanding UAPs. Unlike the Department of Defense&#x27;s often classified data, NASA emphasizes transparency and publ...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: wired.com  
-   Link: [https://www.wired.com/story/nasa-ufos-aliens-report-2023](https://www.wired.com/story/nasa-ufos-aliens-report-2023)  
+   Link: <a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The agency stressed the need to shift the conversation from sensationalism to science and eliminate the stigma associated with reporting...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Submit-A-Report/](https://www.aaro.mil/Submit-A-Report/)  
+   Link: <a href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Submit-A-Report/</a>  
 
 20. <a id="endnote-20"></a>
    Source: breakingdefense.com  
-   Link: [https://breakingdefense.com/2024/11/gremlin-but-no-aliens-pentagon-uap-office-plans-first-deployment-of-new-sensor-suite/](https://breakingdefense.com/2024/11/gremlin-but-no-aliens-pentagon-uap-office-plans-first-deployment-of-new-sensor-suite/)  
+   Link: <a href="https://breakingdefense.com/2024/11/gremlin-but-no-aliens-pentagon-uap-office-plans-first-deployment-of-new-sensor-suite/" target="_blank" rel="noopener noreferrer nofollow">https://breakingdefense.com/2024/11/gremlin-but-no-aliens-pentagon-uap-office-plans-first-deployment-of-new-sensor-suite/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>GREMLIN, but no aliens: Pentagon UAP office plans first...14 Nov 2024 — The All-domain Anomaly Resolution Office report reveals that the...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: english.elpais.com  
-   Link: [https://english.elpais.com/usa/2023-09-17/stigma-sensationalism-and-a-cell-phone-app-the-main-takeaways-from-nasas-ufo-report.html](https://english.elpais.com/usa/2023-09-17/stigma-sensationalism-and-a-cell-phone-app-the-main-takeaways-from-nasas-ufo-report.html)  
+   Link: <a href="https://english.elpais.com/usa/2023-09-17/stigma-sensationalism-and-a-cell-phone-app-the-main-takeaways-from-nasas-ufo-report.html" target="_blank" rel="noopener noreferrer nofollow">https://english.elpais.com/usa/2023-09-17/stigma-sensationalism-and-a-cell-phone-app-the-main-takeaways-from-nasas-ufo-report.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>elpais.comStigma, sensationalism and a cell phone app - El Pais in English17 Sept 2023 — The NASA report was adamant about the need to ov...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=TQcqOW39ksk](https://www.youtube.com/watch?v=TQcqOW39ksk)  
+   Link: <a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study ReportNASA commissioned an independent study team to examine unidentified anomalous ph...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/nasa](https://www.youtube.com/nasa)  
+   Link: <a href="https://www.youtube.com/nasa" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/nasa</a>  
 
 24. <a id="endnote-24"></a>
    Source: breakingdefense.com  
    Title: [nasa data](&#123;&#123; 'nasa-data/' | relative_url &#125;&#125;) analysis needed to help dod understand ufos commission  
-   Link: [https://breakingdefense.com/2023/09/nasa-data-analysis-needed-to-help-dod-understand-ufos-commission/](https://breakingdefense.com/2023/09/nasa-data-analysis-needed-to-help-dod-understand-ufos-commission/)  
+   Link: <a href="https://breakingdefense.com/2023/09/nasa-data-analysis-needed-to-help-dod-understand-ufos-commission/" target="_blank" rel="noopener noreferrer nofollow">https://breakingdefense.com/2023/09/nasa-data-analysis-needed-to-help-dod-understand-ufos-commission/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA data, analysis needed to help DoD understand UFOs14 Sept 2023 — “The recommendation of this report is that NASA should play a role t...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeUnidentified Anomalous Phenomena (UAP) means (A) airborne objects that are not immediately identifiable; (B) transmedium objects...</p></details>

@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a_pilot_speed_range_er_b4abe8
 - ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a_pilot_ufo_sensor_lim_b35ec4
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - pilots
 - safety-reports
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - pilots
 - safety-reports
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Pilot reports are strongest when they document a possible hazard, not when they try to identify a distant object from brief viewing.
 hero_summary: Pilot reports are strongest when they document a possible hazard, not when they try to identify a distant object from brief viewing.
 layout: default
 permalink: /safety-reports/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /pilots/
 nav_short_title: Safety Reports
 title: What Pilot UFO Reports Actually Prove
-title_full: What Pilot UFO Reports Actually Prove | Pilots
+title_full: What Pilot UFO Reports Actually Prove
 display_title_short: Safety Reports
 display_title: Safety Reports
 heading_title: What Pilot UFO Reports Actually Prove
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-07 00:26:14'
-parent_title: Why Pilots Can Misidentify UFOs | IFOs
+parent_title: Why Pilots Can Misidentify UFOs
 parent_permalink: /pilots/
 parent_nav_short_title: Pilots
 parent_heading_title: Why Pilots Can Misidentify UFOs
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a
-  title: Pilots | Ifos Causes Of
+  title: Pilots | ifos causes of UFO 3 ed 238
   permalink: /pilots/
   short_title: Pilots
   heading_title: Why Pilots Can Misidentify UFOs
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a
-  title: Pilots | Ifos Causes Of
+  title: Pilots | ifos causes of UFO 3 ed 238
   permalink: /pilots/
   short_title: Pilots
   heading_title: Why Pilots Can Misidentify UFOs
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: Why UFOs Look Faster Than They Are
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a
-  title: Pilots | Ifos Causes Of
+  title: Pilots | ifos causes of UFO 3 ed 238
   permalink: /pilots/
   short_title: Pilots
   heading_title: Why Pilots Can Misidentify UFOs
@@ -266,6 +265,7 @@ next_link:
   permalink: /sensor-limits/
   short_title: Sensor Limits
   heading_title: When Better Sensors Still Leave Doubt
+date: '2026-06-12 00:23:11 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a_pilot_ufo_safety_rep_11933c-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a_pilot_ufo_safety_rep_11933c-Illustration-1.webp
@@ -275,7 +275,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a_pilot_ufo
 ## Introduction
 
 Pilot UFO reports can prove that something was important enough to create a potential aviation safety concern. They can document where and when an unusual object was observed, how it affected flight operations, whether it appeared to create a collision risk, and whether further investigation was warranted. What they usually cannot prove on their own is the true identity, size, speed or origin of the object.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a_pilot_ufo_safety_rep_11933c-Illustration-1-dark.svg" | relative_url }}" alt="Safety Reports illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a_pilot_ufo_safety_rep_11933c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a_pilot_ufo_safety_rep_11933c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This distinction is central to understanding UFO and UAP reports in aviation. Modern reporting systems treat unusual aerial observations primarily as safety information. A report may be valuable even when the object is later identified as a balloon, drone, atmospheric effect or remains unresolved. In aviation practice, the first question is often not “What was it?” but “Did it present a hazard that required attention?” <span class="citation-chip-wrap"><a class="citation-chip" href="https://asrs.arc.nasa.gov/overview/immunity.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asrs.arc.nasa.gov">[Aviation Safety Reporting System]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asrs.arc.nasa.gov</span><span class="citation-popover-snippet">Aviation Safety Reporting System - Immunity PoliciesElectronic reporting forms (NASA ASRS Form 277-series) are available for access and s...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Section 8</span><span class="citation-popover-snippet">Unidentified Anomalous Phenomena (UAP...GENERAL. Inform the operations supervisor/CIC of any reported or observed unidentified anomalous...</span></span></span>
@@ -295,7 +294,6 @@ These details matter because they help investigators determine whether a genuine
 
 Professional expertise therefore increases the operational value of a report. It does not automatically convert an observation into proof of an extraordinary object.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/S7RQecHwGAM" title="Strange High-Altitude Encounters Get Stranger - Episode 288" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=S7RQecHwGAM" target="_blank" rel="noopener noreferrer">Strange High-Altitude Encounters Get Stranger - Episode 288</a></p><p class="youtube-embed-meta">Channel: Flight Safety Detectives &middot; Views: 22.0K &middot; Uploaded: August 2025 &middot; Length: 57 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=S7RQecHwGAM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=S7RQecHwGAM">Open on YouTube</a></p></div></div></div>
 
 ## Hazard Reporting Versus Object Identification
@@ -308,7 +306,6 @@ This is why aviation authorities separate reporting from explanation. FAA proced
 
 In practice, a pilot report can often prove:
 
-
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
 * An observation occurred.
@@ -320,7 +317,6 @@ In practice, a pilot report can often prove:
 
 It cannot automatically prove:
 
-
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
 * The object's true identity.
@@ -331,7 +327,6 @@ It cannot automatically prove:
 </div>
 
 Those stronger claims require independent evidence beyond the witness account itself.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a_pilot_ufo_safety_rep_11933c-Illustration-2-dark.svg" | relative_url }}" alt="Safety Reports illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a_pilot_ufo_safety_rep_11933c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a_pilot_ufo_safety_rep_11933c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Eglin Case Shows the Difference
@@ -347,7 +342,6 @@ This pattern appears repeatedly in aviation safety work. An initial report estab
 From a safety perspective, the most valuable UFO or UAP reports are often the least dramatic.
 
 Investigators generally gain more from a detailed operational account than from speculation about what an object might have been. A high-quality report records observable facts:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -365,7 +359,6 @@ NASA's independent UAP study specifically highlighted aviation reporting systems
 
 A report becomes even more useful when multiple independent sources exist. For example, visual observations supported by radar tracks, flight data, weather information or additional witnesses allow investigators to test competing explanations. A single witness account, however sincere, usually leaves major uncertainties unresolved.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UEiQaVdxG5c" title="Todd Curtis Interviewed on the UFO Talker podcast about UAP Aviation Safety and Security Risks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UEiQaVdxG5c" target="_blank" rel="noopener noreferrer">Todd Curtis Interviewed on the UFO Talker podcast about UAP Aviation Safety and Security Risks</a></p><p class="youtube-embed-meta">Channel: Todd Curtis (airsafe) &middot; Views: 63 &middot; Uploaded: November 2024 &middot; Length: 1 hour 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UEiQaVdxG5c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UEiQaVdxG5c">Open on YouTube</a></p></div></div></div>
 
 ## Why Aviation Systems Treat Unidentified Objects as Safety Data
@@ -376,7 +369,6 @@ That is why reporting systems encourage submission of unusual observations. NASA
 
 This approach also explains why unresolved cases remain useful. Even when an object is never conclusively identified, the report may still reveal gaps in airspace awareness, sensor coverage, reporting procedures or collision-risk assessment.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Tu2pT86vhjE" title="Use ASRS to Report UAP and UFO Encounters - Episode 234" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Tu2pT86vhjE" target="_blank" rel="noopener noreferrer">Use ASRS to Report UAP and UFO Encounters - Episode 234</a></p><p class="youtube-embed-meta">Channel: Flight Safety Detectives &middot; Views: 3.7K &middot; Uploaded: August 2024 &middot; Length: 52 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Tu2pT86vhjE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Tu2pT86vhjE">Open on YouTube</a></p></div></div></div>
 
 ## What Pilot UFO Reports Actually Prove
@@ -384,7 +376,6 @@ This approach also explains why unresolved cases remain useful. Even when an obj
 The strongest conclusion supported by pilot UFO reports is often narrower than popular discussion suggests.
 
 A pilot report can provide credible evidence that:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -396,7 +387,6 @@ A pilot report can provide credible evidence that:
 </div>
 
 What it cannot prove by itself is that the object possessed extraordinary capabilities or represented a fundamentally unknown phenomenon. Aviation systems are built around exactly this distinction. They treat unusual observations as safety information first and identification problems second. That makes pilot UFO reports valuable evidence for understanding hazards in the airspace system, even when the ultimate explanation remains ordinary, uncertain or unresolved. NASA Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://asrs.arc.nasa.gov/overview/immunity.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asrs.arc.nasa.gov">[Aviation Safety Reporting System]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asrs.arc.nasa.gov</span><span class="citation-popover-snippet">Aviation Safety Reporting System - Immunity PoliciesElectronic reporting forms (NASA ASRS Form 277-series) are available for access and s...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Section 8</span><span class="citation-popover-snippet">Unidentified Anomalous Phenomena (UAP...GENERAL. Inform the operations supervisor/CIC of any reported or observed unidentified anomalous...</span></span></span>
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a_pilot_ufo_safety_rep_11933c-Illustration-3-dark.svg" | relative_url }}" alt="Safety Reports illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a_pilot_ufo_safety_rep_11933c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_pilot_reports_86d46a_pilot_ufo_safety_rep_11933c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -517,15 +507,15 @@ What it cannot prove by itself is that the object possessed extraordinary capabi
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-reports-what-pilot-ufo-reports-actually-prove-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="safety-reports-what-pilot-ufo-reports-actually-prove-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO"><img src="{{ '/assets/images/marketplace-covers/804a6ca65be816e4a5d9.jpg' | relative_url }}" alt="Listing image for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-pilot-ufo-reports-actually-prove-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="what-pilot-ufo-reports-actually-prove-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/KZwAAeSw8P5p39er/s-l225.jpg" alt="Listing image for WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-reports-what-pilot-ufo-reports-actually-prove-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="safety-reports-what-pilot-ufo-reports-actually-prove-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-pilot-ufo-reports-actually-prove-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="what-pilot-ufo-reports-actually-prove-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-reports-what-pilot-ufo-reports-actually-prove-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="safety-reports-what-pilot-ufo-reports-actually-prove-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-pilot-ufo-reports-actually-prove-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="what-pilot-ufo-reports-actually-prove-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-reports-what-pilot-ufo-reports-actually-prove-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="safety-reports-what-pilot-ufo-reports-actually-prove-ifos-causes-of-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-pilot-ufo-reports-actually-prove-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="what-pilot-ufo-reports-actually-prove-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -533,15 +523,15 @@ What it cannot prove by itself is that the object possessed extraordinary capabi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-reports-what-pilot-ufo-reports-actually-prove-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="safety-reports-what-pilot-ufo-reports-actually-prove-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/16d7257b5b6fa9c07f55.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-pilot-ufo-reports-actually-prove-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="what-pilot-ufo-reports-actually-prove-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Eurofighter Typhoon | Military Aviation | RAF | Wall Art | Poster | Print"><img src="https://i.ebayimg.com/images/g/2pEAAOSwje1kLA5-/s-l225.jpg" alt="Listing image for Eurofighter Typhoon | Military Aviation | RAF | Wall Art | Poster | Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-reports-what-pilot-ufo-reports-actually-prove-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="safety-reports-what-pilot-ufo-reports-actually-prove-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-pilot-ufo-reports-actually-prove-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="what-pilot-ufo-reports-actually-prove-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Eurofighter Typhoon | Military Aviation | RAF | Wall Art | Poster | Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-reports-what-pilot-ufo-reports-actually-prove-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="safety-reports-what-pilot-ufo-reports-actually-prove-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-pilot-ufo-reports-actually-prove-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="what-pilot-ufo-reports-actually-prove-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-reports-what-pilot-ufo-reports-actually-prove-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="safety-reports-what-pilot-ufo-reports-actually-prove-ifos-causes-of-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-pilot-ufo-reports-actually-prove-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="what-pilot-ufo-reports-actually-prove-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -549,15 +539,15 @@ What it cannot prove by itself is that the object possessed extraordinary capabi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-reports-what-pilot-ufo-reports-actually-prove-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="safety-reports-what-pilot-ufo-reports-actually-prove-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="{{ '/assets/images/marketplace-covers/c69c50419429aba53ee5.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-pilot-ufo-reports-actually-prove-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="what-pilot-ufo-reports-actually-prove-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire aviation poster wall art print un framed various size options available"><img src="https://i.ebayimg.com/images/g/nl0AAeSwgYNoyb7F/s-l225.jpg" alt="Listing image for Spitfire aviation poster wall art print un framed various size options available" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-reports-what-pilot-ufo-reports-actually-prove-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="safety-reports-what-pilot-ufo-reports-actually-prove-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-pilot-ufo-reports-actually-prove-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="what-pilot-ufo-reports-actually-prove-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Spitfire aviation poster wall art print un framed various size options available</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-reports-what-pilot-ufo-reports-actually-prove-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="safety-reports-what-pilot-ufo-reports-actually-prove-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-pilot-ufo-reports-actually-prove-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="what-pilot-ufo-reports-actually-prove-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-reports-what-pilot-ufo-reports-actually-prove-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="safety-reports-what-pilot-ufo-reports-actually-prove-ifos-causes-of-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-pilot-ufo-reports-actually-prove-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="what-pilot-ufo-reports-actually-prove-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -565,15 +555,15 @@ What it cannot prove by itself is that the object possessed extraordinary capabi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-reports-what-pilot-ufo-reports-actually-prove-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="safety-reports-what-pilot-ufo-reports-actually-prove-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE"><img src="{{ '/assets/images/marketplace-covers/be015d518def7513643e.jpg' | relative_url }}" alt="Listing image for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-pilot-ufo-reports-actually-prove-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="what-pilot-ufo-reports-actually-prove-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AEROPLANE POSTER ART JET AIRCRAFT AVIATION AIRPORT PRINT SIZE A3 A4 A2 A1"><img src="https://i.ebayimg.com/images/g/WL0AAOSw~CNn5bMF/s-l225.jpg" alt="Listing image for AEROPLANE POSTER ART JET AIRCRAFT AVIATION AIRPORT PRINT SIZE A3 A4 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-reports-what-pilot-ufo-reports-actually-prove-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="safety-reports-what-pilot-ufo-reports-actually-prove-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-pilot-ufo-reports-actually-prove-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="what-pilot-ufo-reports-actually-prove-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">AEROPLANE POSTER ART JET AIRCRAFT AVIATION AIRPORT PRINT SIZE A3 A4 A2 A1</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-reports-what-pilot-ufo-reports-actually-prove-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="safety-reports-what-pilot-ufo-reports-actually-prove-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-pilot-ufo-reports-actually-prove-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="what-pilot-ufo-reports-actually-prove-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-reports-what-pilot-ufo-reports-actually-prove-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="safety-reports-what-pilot-ufo-reports-actually-prove-ifos-causes-of-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-pilot-ufo-reports-actually-prove-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="what-pilot-ufo-reports-actually-prove-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -581,7 +571,7 @@ What it cannot prove by itself is that the object possessed extraordinary capabi
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-reports-what-pilot-ufo-reports-actually-prove-ifos-causes-of-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible" data-ebay-reference="safety-reports-what-pilot-ufo-reports-actually-prove-ifos-causes-of-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-pilot-ufo-reports-actually-prove-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="what-pilot-ufo-reports-actually-prove-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -797,157 +787,157 @@ What it cannot prove by itself is that the object possessed extraordinary capabi
 1. <a id="endnote-1"></a>
    Source: asrs.arc.nasa.gov  
    Title: Aviation Safety Reporting System ASRS  
-   Link: [https://asrs.arc.nasa.gov/](https://asrs.arc.nasa.gov/)  
+   Link: <a href="https://asrs.arc.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://asrs.arc.nasa.gov/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation Safety Reporting SystemASRS - Aviation Safety Reporting System - NASAASRS captures confidential reports, analyzes the resulting...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: faa.gov  
    Title: Federal Aviation Administration Section 8  
-   Link: [https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html](https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html)  
+   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena (UAP...GENERAL. Inform the operations supervisor/CIC of any reported or observed unidentified anomalous...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportLeveraging the Aviation Safety. Reporting System for commercial pilot UAP reporting would provid...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: asrs.arc.nasa.gov  
    Title: Aviation Safety Reporting System ASRS Database Online  
-   Link: [https://asrs.arc.nasa.gov/search/database.html](https://asrs.arc.nasa.gov/search/database.html)  
+   Link: <a href="https://asrs.arc.nasa.gov/search/database.html" target="_blank" rel="noopener noreferrer nofollow">https://asrs.arc.nasa.gov/search/database.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation Safety Reporting SystemASRS Database Online - Aviation Safety Reporting SystemThe ASRS database is the world&#x27;s largest repositor...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: asrs.arc.nasa.gov  
-   Link: [https://asrs.arc.nasa.gov/report/caveat.html?formType=uas](https://asrs.arc.nasa.gov/report/caveat.html?formType=uas)  
+   Link: <a href="https://asrs.arc.nasa.gov/report/caveat.html?formType=uas" target="_blank" rel="noopener noreferrer nofollow">https://asrs.arc.nasa.gov/report/caveat.html?formType=uas</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation Safety Reporting SystemNASA has established an Aviation Safety Reporting System (ASRS) to identify issues in the aviation system...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: faa.gov  
    Title: document ID  
-   Link: [https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1044304](https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1044304)  
+   Link: <a href="https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1044304" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1044304</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationNotice JO 7210.970 - Unidentified Anomalous Phenomena...26 Sept 2025 — This notice reflects the change fr...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: [aaro](&#123;&#123; 'aaro/' | relative_url &#125;&#125;). mil  
    Title: Eglin UAP Case Resolution  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf](https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROEglin UAP Case ResolutionApril 24, 2024 — (U) On 26 January 2023, a military pilot reported four potential unidentified anomalous phe...</p></details>
    Published: April 24, 2024  
 
 8. <a id="endnote-8"></a>
    Source: aopa.org  
-   Link: [https://www.aopa.org/training-and-safety/air-safety-institute/accident-analysis/vfr-into-imc/asrs](https://www.aopa.org/training-and-safety/air-safety-institute/accident-analysis/vfr-into-imc/asrs)  
+   Link: <a href="https://www.aopa.org/training-and-safety/air-safety-institute/accident-analysis/vfr-into-imc/asrs" target="_blank" rel="noopener noreferrer nofollow">https://www.aopa.org/training-and-safety/air-safety-institute/accident-analysis/vfr-into-imc/asrs</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>port all matter of safety...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: asrs.arc.nasa.gov  
-   Link: [https://asrs.arc.nasa.gov/search/dbol/aboutdata.html](https://asrs.arc.nasa.gov/search/dbol/aboutdata.html)  
+   Link: <a href="https://asrs.arc.nasa.gov/search/dbol/aboutdata.html" target="_blank" rel="noopener noreferrer nofollow">https://asrs.arc.nasa.gov/search/dbol/aboutdata.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Safety Reporting System - About ASRS DataASRS reports referencing safety incidents are considered soft data. The reports are submitted vo...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: asrs.arc.nasa.gov  
-   Link: [https://asrs.arc.nasa.gov/uassafety.html](https://asrs.arc.nasa.gov/uassafety.html)  
+   Link: <a href="https://asrs.arc.nasa.gov/uassafety.html" target="_blank" rel="noopener noreferrer nofollow">https://asrs.arc.nasa.gov/uassafety.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Safety Reporting | NASA ASRSAnyone involved in Unmanned Aircraft Systems (UAS) / Drone operations can file a NASA ASRS report to describe...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: asrs.arc.nasa.gov  
-   Link: [https://asrs.arc.nasa.gov/report/electronic.html](https://asrs.arc.nasa.gov/report/electronic.html)  
+   Link: <a href="https://asrs.arc.nasa.gov/report/electronic.html" target="_blank" rel="noopener noreferrer nofollow">https://asrs.arc.nasa.gov/report/electronic.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Report Submission (ERS)To report electronically, select an ASRS Report Form: ▻ General Report Form; e.g. Pilot, Dispatcher, Ground Ops, &amp;...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — A study team to examine unidentified anomalous phenomena (UAPs) – that is, observations of events in the sky that...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: asrs.arc.nasa.gov  
    Title: cb 205  
-   Link: [https://asrs.arc.nasa.gov/publications/callback/cb_205.htm](https://asrs.arc.nasa.gov/publications/callback/cb_205.htm)  
+   Link: <a href="https://asrs.arc.nasa.gov/publications/callback/cb_205.htm" target="_blank" rel="noopener noreferrer nofollow">https://asrs.arc.nasa.gov/publications/callback/cb_205.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>205We hope you&#x27;ll visit us soon to sample some of our aviation safety fare, including an ASRS overview, and pilot /controller reporting f...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: asrs.arc.nasa.gov  
-   Link: [https://asrs.arc.nasa.gov/docs/rpsts/ped.pdf](https://asrs.arc.nasa.gov/docs/rpsts/ped.pdf)  
+   Link: <a href="https://asrs.arc.nasa.gov/docs/rpsts/ped.pdf" target="_blank" rel="noopener noreferrer nofollow">https://asrs.arc.nasa.gov/docs/rpsts/ped.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Database Report Set - Passenger Electronic DevicesAfter preliminary processing, all ASRS reports are de-identified and the identity of th...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: asrs.arc.nasa.gov  
-   Link: [https://asrs.arc.nasa.gov/overview/immunity.html](https://asrs.arc.nasa.gov/overview/immunity.html)  
+   Link: <a href="https://asrs.arc.nasa.gov/overview/immunity.html" target="_blank" rel="noopener noreferrer nofollow">https://asrs.arc.nasa.gov/overview/immunity.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation Safety Reporting System - Immunity PoliciesElectronic reporting forms (NASA ASRS Form 277-series) are available for access and s...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/newsroom/statements/general-statements](https://www.faa.gov/newsroom/statements/general-statements)  
+   Link: <a href="https://www.faa.gov/newsroom/statements/general-statements" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/newsroom/statements/general-statements</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>All issued press releases are posted separately.Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: faa.gov  
    Title: chap7 section 7  
-   Link: [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap7_section_7.html](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap7_section_7.html)  
+   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap7_section_7.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap7_section_7.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Section 7. Safety, Accident, and Hazard ReportsThe operator must file a report on NTSB Form 6120.1 or 6120.2, available from NTSB Field O...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: catalog.data.gov  
    Title: aviation safety reporting system near midair collision incidents  
-   Link: [https://catalog.data.gov/dataset/aviation-safety-reporting-system-near-midair-collision-incidents](https://catalog.data.gov/dataset/aviation-safety-reporting-system-near-midair-collision-incidents)  
+   Link: <a href="https://catalog.data.gov/dataset/aviation-safety-reporting-system-near-midair-collision-incidents" target="_blank" rel="noopener noreferrer nofollow">https://catalog.data.gov/dataset/aviation-safety-reporting-system-near-midair-collision-incidents</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Safety Reporting System: Near Midair Collision...Reports concerning near midair collision events. Access &amp; Use Information Public: This...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: twz.com  
    Title: eglin afb pilot likely saw a lighting balloon not a ufo pentagon concludes  
-   Link: [https://www.twz.com/air/eglin-afb-pilot-likely-saw-a-lighting-balloon-not-a-ufo-pentagon-concludes](https://www.twz.com/air/eglin-afb-pilot-likely-saw-a-lighting-balloon-not-a-ufo-pentagon-concludes)  
+   Link: <a href="https://www.twz.com/air/eglin-afb-pilot-likely-saw-a-lighting-balloon-not-a-ufo-pentagon-concludes" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/air/eglin-afb-pilot-likely-saw-a-lighting-balloon-not-a-ufo-pentagon-concludes</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneEglin AFB Pilot Likely Saw A Lighting Balloon, Not A UFO...24 Apr 2024 — As a result, the AARO report concluded with “modera...</p></details>
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: aiaa.org  
-   Link: [https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf](https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf)  
+   Link: <a href="https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ADDRESSING THE UNKNOWN:NASA&#x27;s ASRS is currently best suited to receive new UAP reports, and additional resource investment in ASRS is nee...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: safeaerospace.org  
-   Link: [https://www.safeaerospace.org/](https://www.safeaerospace.org/)  
+   Link: <a href="https://www.safeaerospace.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.safeaerospace.org/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Americans for Safe AerospaceAllows civilian pilots to report UAP through NASA&#x27;s ASRS system · Provides protection against retaliation for...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: bjtonline.com  
-   Link: [https://bjtonline.com/business-jet-news/nothing-mysterious-about-this-drone-report](https://bjtonline.com/business-jet-news/nothing-mysterious-about-this-drone-report)  
+   Link: <a href="https://bjtonline.com/business-jet-news/nothing-mysterious-about-this-drone-report" target="_blank" rel="noopener noreferrer nofollow">https://bjtonline.com/business-jet-news/nothing-mysterious-about-this-drone-report</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nothing Mysterious About This Drone ReportNASA has collected unmanned aircraft systems (UAS) safety reports in its Aviation Safety Report...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: news.sky.com  
-   Link: [https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933](https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933)  
+   Link: <a href="https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO report - live: Scientists release Unidentified...14 Sept 2023 — NASA has released a report on Unidentified Anomalous Phenomena - com...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: thedebrief.org  
-   Link: [https://thedebrief.org/pilot-ufo-sightings-collected-by-nasa-reveal-serious-safety-concerns-over-objects-in-u-s-airspace/](https://thedebrief.org/pilot-ufo-sightings-collected-by-nasa-reveal-serious-safety-concerns-over-objects-in-u-s-airspace/)  
+   Link: <a href="https://thedebrief.org/pilot-ufo-sightings-collected-by-nasa-reveal-serious-safety-concerns-over-objects-in-u-s-airspace/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/pilot-ufo-sightings-collected-by-nasa-reveal-serious-safety-concerns-over-objects-in-u-s-airspace/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pilot UFO Sightings Collected by NASA Reveal Serious...29 Aug 2023 — Recent U.S. pilot UFO sightings convey serious concerns aviators ha...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/flying/comments/1otgbc0/the_faa_quietly_updated_its_atc_uap_reporting/](https://www.reddit.com/r/flying/comments/1otgbc0/the_faa_quietly_updated_its_atc_uap_reporting/)  
+   Link: <a href="https://www.reddit.com/r/flying/comments/1otgbc0/the_faa_quietly_updated_its_atc_uap_reporting/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/flying/comments/1otgbc0/the_faa_quietly_updated_its_atc_uap_reporting/</a>  
 
 26. <a id="endnote-26"></a>
    Source: flightsafetydetectives.com  
-   Link: [https://flightsafetydetectives.com/wp-content/uploads/2025/01/CITD_Curtis_ASRS1.pdf](https://flightsafetydetectives.com/wp-content/uploads/2025/01/CITD_Curtis_ASRS1.pdf)  
+   Link: <a href="https://flightsafetydetectives.com/wp-content/uploads/2025/01/CITD_Curtis_ASRS1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://flightsafetydetectives.com/wp-content/uploads/2025/01/CITD_Curtis_ASRS1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>• FAA is passing responsibility for any further action, including evaluating safety impacts, to non-U.S. government...Read more...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=UEiQaVdxG5c](http://www.youtube.com/watch?v=UEiQaVdxG5c)  
+   Link: <a href="http://www.youtube.com/watch?v=UEiQaVdxG5c" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=UEiQaVdxG5c</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation safety UAP reporting system ASRS pilot observation Using the NASA Aviation Safety Reporting System to Track UAP Events with Todd...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: twz.com  
    Title: highly anticipated government report on ufos thin on new evidence  
-   Link: [https://www.twz.com/highly-anticipated-government-report-on-ufos-thin-on-new-evidence](https://www.twz.com/highly-anticipated-government-report-on-ufos-thin-on-new-evidence)  
+   Link: <a href="https://www.twz.com/highly-anticipated-government-report-on-ufos-thin-on-new-evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/highly-anticipated-government-report-on-ufos-thin-on-new-evidence</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Highly Anticipated Government Report On UFOs Very Thin...12 Jan 2023 — This report says AARO&#x27;s “initial analysis and characterization” o...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: eurasiantimes.com  
    Title: jammed its radar moving with beyond human capabilities  
-   Link: [https://www.eurasiantimes.com/jammed-its-radar-moving-with-beyond-human-capabilities/](https://www.eurasiantimes.com/jammed-its-radar-moving-with-beyond-human-capabilities/)  
+   Link: <a href="https://www.eurasiantimes.com/jammed-its-radar-moving-with-beyond-human-capabilities/" target="_blank" rel="noopener noreferrer nofollow">https://www.eurasiantimes.com/jammed-its-radar-moving-with-beyond-human-capabilities/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US Air Force: UFO That &quot;Jammed&quot; Fighter Jet&#x27;s Radar...25 Apr 2024 — The report concluded with “moderate confidence” that the pilot had i...</p></details>

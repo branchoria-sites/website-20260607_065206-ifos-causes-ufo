@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca_phone_video_limits_ef3748
 - ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca_truly_unidentified_c_b0673b
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - missing-data
 - range-errors
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - missing-data
 - range-errors
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Without distance, a nearby insect, drone, balloon, or aircraft can seem impossibly large, fast, or strange.
 hero_summary: Without distance, a nearby insect, drone, balloon, or aircraft can seem impossibly large, fast, or strange.
 layout: default
 permalink: /range-errors/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /missing-data/
 nav_short_title: Range errors
 title: When distance makes UFOs look impossible
-title_full: When distance makes UFOs look impossible | Missing Data
+title_full: When distance makes UFOs look impossible
 display_title_short: Range errors
 display_title: Range errors
 heading_title: When distance makes UFOs look impossible
@@ -202,28 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-06 21:51:04'
-parent_title: Unsolved Does Not Always Mean Strange | IFOs
+parent_title: Unsolved Does Not Always Mean Strange
 parent_permalink: /missing-data/
 parent_nav_short_title: Missing Data
 parent_heading_title: Unsolved Does Not Always Mean Strange
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca
-  title: Missing Data | Ifos Causes Of
+  title: Missing Data | ifos causes of UFO 3 ed 238
   permalink: /missing-data/
   short_title: Missing Data
   heading_title: Unsolved Does Not Always Mean Strange
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca
-  title: Missing Data | Ifos Causes Of
+  title: Missing Data | ifos causes of UFO 3 ed 238
   permalink: /missing-data/
   short_title: Missing Data
   heading_title: Unsolved Does Not Always Mean Strange
@@ -250,7 +249,7 @@ sibling_links:
   heading_title: What makes a UFO truly unidentified
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca
-  title: Missing Data | Ifos Causes Of
+  title: Missing Data | ifos causes of UFO 3 ed 238
   permalink: /missing-data/
   short_title: Missing Data
   heading_title: Unsolved Does Not Always Mean Strange
@@ -266,6 +265,7 @@ next_link:
   permalink: /timestamps/
   short_title: Timestamps
   heading_title: Why UFO reports need an exact time
+date: '2026-06-12 00:19:00 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca_range_mistakes_125691-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca_range_mistakes_125691-Illustration-1.webp
@@ -274,8 +274,7 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca_range
 
 ## Introduction
 
-One of the most common ways ordinary objects become “impossible” UFOs is through a simple error in judging distance. If an observer does not know how far away an object is, they cannot reliably estimate its size, speed, altitude, or acceleration. A small object nearby can appear identical to a large object far away, especially at night, against a featureless sky, or in a short video clip. Once the [range]({{ 'range/' | relative_url }}) is wrong, every other estimate built on that range can also become wrong. What seems like a huge craft crossing the horizon at extraordinary speed may actually be a nearby insect, bird, balloon, drone, or aircraft moving through a much smaller volume of space. Investigators therefore treat range as one of the most important missing variables in UFO analysis. Modern UAP studies likewise emphasise the need for calibrated measurements, multiple sensors, and geometry that can establish distance rather than merely appearance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROEffect of Forced Perspective and Parallax View on UAP...Under these conditions, an observer can misinterpret the apparent size and s...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">update nasa shares uap independent study report names director</span><span class="citation-popover-snippet">NASAUPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through...</span></span></span>
-
+One of the most common ways ordinary objects become “impossible” UFOs is through a simple error in judging distance. If an observer does not know how far away an object is, they cannot reliably estimate its size, speed, altitude, or acceleration. A small object nearby can appear identical to a large object far away, especially at night, against a featureless sky, or in a short video clip. Once the [range]({{ 'range/' | relative_url }}) is wrong, every other estimate built on that range can also become wrong. What seems like a huge craft crossing the horizon at extraordinary speed may actually be a nearby insect, bird, balloon, drone, or aircraft moving through a much smaller volume of space. Investigators therefore treat range as one of the most important missing variables in UFO analysis. Modern UAP studies likewise emphasise the need for calibrated measurements, multiple sensors, and geometry that can establish distance rather than merely appearance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Effect of Forced Perspective and Parallax View on UAP...Under these conditions, an observer can misinterpret the apparent size and s...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">update nasa shares uap independent study report names director</span><span class="citation-popover-snippet">UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through...</span></span></span>
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca_range_mistakes_125691-Illustration-1-dark.svg" | relative_url }}" alt="Range errors illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca_range_mistakes_125691-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca_range_mistakes_125691-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why apparent size and speed depend on range
@@ -284,10 +283,9 @@ Human vision is surprisingly poor at estimating distance when there are few refe
 
 The result is a geometric ambiguity. A small object close to the observer can occupy exactly the same apparent size in the field of view as a much larger object farther away. Without independent range information, both possibilities fit the observation equally well.
 
-Speed estimates suffer from the same problem. Observers usually judge motion by how quickly something moves across their field of view. However, angular motion is not the same as true speed. A nearby object moving modestly can sweep across a large angle of sky, while a distant object moving much faster may appear almost stationary. To convert apparent motion into real velocity, investigators must know the object's distance. Without that measurement, dramatic speed estimates can be little more than guesses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROEffect of Forced Perspective and Parallax View on UAP...Under these conditions, an observer can misinterpret the apparent size and s...</span></span></span>
+Speed estimates suffer from the same problem. Observers usually judge motion by how quickly something moves across their field of view. However, angular motion is not the same as true speed. A nearby object moving modestly can sweep across a large angle of sky, while a distant object moving much faster may appear almost stationary. To convert apparent motion into real velocity, investigators must know the object's distance. Without that measurement, dramatic speed estimates can be little more than guesses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Effect of Forced Perspective and Parallax View on UAP...Under these conditions, an observer can misinterpret the apparent size and s...</span></span></span>
 
 This is why reports often contain statements such as:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -303,7 +301,6 @@ Those descriptions may be sincere, but they frequently depend on an assumed rang
 ## Nearby-small versus distant-large confusions
 
 Many UFO cases can be understood as a choice between two geometrically valid interpretations: a small nearby object or a large distant one.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/diPXow8zgc8" title="How scientists use math to help explain UFO videos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=diPXow8zgc8" target="_blank" rel="noopener noreferrer">How scientists use math to help explain UFO videos</a></p><p class="youtube-embed-meta">Channel: PBS NewsHour &middot; Views: 11.7K &middot; Uploaded: April 2025 &middot; Length: 3 minutes 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=diPXow8zgc8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=diPXow8zgc8">Open on YouTube</a></p></div></div></div>
 
@@ -325,7 +322,6 @@ Aircraft approaching an observer can appear nearly motionless because most of th
 
 This effect has contributed to numerous reports in which conventional aircraft appeared to hover before making a dramatic departure.
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca_range_mistakes_125691-Illustration-2-dark.svg" | relative_url }}" alt="Range errors illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca_range_mistakes_125691-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca_range_mistakes_125691-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How parallax creates the illusion of extreme speed
 
@@ -335,16 +331,15 @@ Parallax is the apparent displacement of an object when the observer moves. Anyo
 
 In a UFO context, a relatively slow object can appear to move rapidly across the landscape because the observing platform itself is moving. If analysts incorrectly assume the object is distant, the apparent motion can be interpreted as extraordinary velocity.
 
-The U.S. Department of Defense's All-domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})) has specifically highlighted forced perspective and parallax as mechanisms that can cause observers to misjudge the apparent size and speed of aerial objects. According to AARO, these effects can create misleading impressions when range information is absent or incomplete. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROEffect of Forced Perspective and Parallax View on UAP...Under these conditions, an observer can misinterpret the apparent size and s...</span></span></span>
+The U.S. Department of Defense's All-domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})) has specifically highlighted forced perspective and parallax as mechanisms that can cause observers to misjudge the apparent size and speed of aerial objects. According to AARO, these effects can create misleading impressions when range information is absent or incomplete. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Effect of Forced Perspective and Parallax View on UAP...Under these conditions, an observer can misinterpret the apparent size and s...</span></span></span>
 
-A well-known modern example is the debate surrounding the U.S. Navy's “[GoFast]({{ 'gofast/' | relative_url }})” video. The footage initially gave many viewers the impression of an object skimming rapidly above the ocean. Later analyses argued that much of the apparent speed resulted from geometry, viewing angle, and range assumptions rather than extraordinary performance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-snippet">PBS3 ways scientists use math to help debunk UFO videos&quot;A trick of the eye called parallax makes it look like the object is moving much f...</span></span></span>
+A well-known modern example is the debate surrounding the U.S. Navy's “[GoFast]({{ 'gofast/' | relative_url }})” video. The footage initially gave many viewers the impression of an object skimming rapidly above the ocean. Later analyses argued that much of the apparent speed resulted from geometry, viewing angle, and range assumptions rather than extraordinary performance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-snippet">3 ways scientists use math to help debunk UFO videos&quot;A trick of the eye called parallax makes it look like the object is moving much f...</span></span></span>
 
 ## Why single-witness and single-camera cases are vulnerable
 
 A single observer at a single location usually cannot measure range directly. Even experienced witnesses face this limitation.
 
 The problem becomes especially severe when:
-
 
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
@@ -361,13 +356,11 @@ In these circumstances, multiple interpretations can remain compatible with the 
 
 This helps explain why some reports remain unresolved. The unresolved status does not necessarily indicate an extraordinary object. It may simply mean that the geometry needed to determine distance was never captured. Modern UAP reviews repeatedly identify missing sensor metadata, inadequate calibration, and insufficient measurement as major obstacles to resolving cases. NASA <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe study of Unidentified Anomalous Phenomena (UAP) presents a unique scientific opportunity tha...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YXBsIOGsZE0" title="REPLAY! NASA Unidentified Anomalous Phenomena Independent Study Report Update" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YXBsIOGsZE0" target="_blank" rel="noopener noreferrer">REPLAY! NASA Unidentified Anomalous Phenomena Independent Study Report Update</a></p><p class="youtube-embed-meta">Channel: The Launch Pad &middot; Views: 6.2K &middot; Uploaded: September 2023 &middot; Length: 1 hour 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YXBsIOGsZE0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YXBsIOGsZE0">Open on YouTube</a></p></div></div></div>
 
 ## What evidence can fix the geometry
 
 Distance errors become much harder to sustain when independent measurements are available.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZJsncXlba_k" title="The Mysteries of Motion, Depth, and Parallax" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZJsncXlba_k" target="_blank" rel="noopener noreferrer">The Mysteries of Motion, Depth, and Parallax</a></p><p class="youtube-embed-meta">Channel: Seriously Dave? &middot; Views: 28 &middot; Uploaded: May 2026 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZJsncXlba_k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZJsncXlba_k">Open on YouTube</a></p></div></div></div>
 
@@ -383,13 +376,12 @@ Two cameras observing the same object from different locations can use triangula
 
 Camera position, lens characteristics, zoom level, aircraft motion, and timestamp information allow analysts to reconstruct viewing geometry. NASA's UAP study stressed the importance of [calibrated sensors]({{ 'sensor-artefacts/' | relative_url }}), multiple measurements, and complete metadata because these details help separate genuine anomalies from perceptual and geometric mistakes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe study of Unidentified Anomalous Phenomena (UAP) presents a unique scientific opportunity tha...</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca_range_mistakes_125691-Illustration-3-dark.svg" | relative_url }}" alt="Range errors illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca_range_mistakes_125691-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_insufficient_data_46f2ca_range_mistakes_125691-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The key lesson for UFO investigations
 
-Range errors are a classic example of why [insufficient data]({{ 'missing-data/' | relative_url }}) should not be confused with a genuinely unidentified object. A sighting may appear extraordinary because observers unknowingly assigned the wrong distance to what they saw. Once that distance assumption is corrected, estimates of size, speed, and manoeuvrability can change dramatically.
+Range errors are a classic example of why insufficient data should not be confused with a genuinely unidentified object. A sighting may appear extraordinary because observers unknowingly assigned the wrong distance to what they saw. Once that distance assumption is corrected, estimates of size, speed, and manoeuvrability can change dramatically.
 
-For investigators, the critical question is therefore not simply “What did it look like?” but “How far away was it?” Until that question is answered, a nearby small object and a distant large object may remain observationally indistinguishable, and the ordinary can easily masquerade as the extraordinary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROEffect of Forced Perspective and Parallax View on UAP...Under these conditions, an observer can misinterpret the apparent size and s...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">nasa.govUAP9 Jun 2022 — The UAP Independent Study shall report on the following questions: What types of scientific data currently collec...</span></span></span>
+For investigators, the critical question is therefore not simply “What did it look like?” but “How far away was it?” Until that question is answered, a nearby small object and a distant large object may remain observationally indistinguishable, and the ordinary can easily masquerade as the extraordinary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Effect of Forced Perspective and Parallax View on UAP...Under these conditions, an observer can misinterpret the apparent size and s...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">nasa.govUAP9 Jun 2022 — The UAP Independent Study shall report on the following questions: What types of scientific data currently collec...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -484,7 +476,7 @@ For investigators, the critical question is therefore not simply “What did it 
         <p class="fr-section-kicker">eBay marketplace picks</p>
         <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
       </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
       <div class="fr-ebay-market-toolbar">
         <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
@@ -508,15 +500,15 @@ For investigators, the critical question is therefore not simply “What did it 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-errors-when-distance-makes-ufos-look-impossible-ifos-causes-of-airliner-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner display model" data-ebay-reference="range-errors-when-distance-makes-ufos-look-impossible-ifos-causes-of-airliner-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 16cm Air Canada B777 Plane Model Diecast 1/400 Aircraft Airliner Display Gift V"><img src="{{ '/assets/images/marketplace-covers/62165433cfd2c39787a6.jpg' | relative_url }}" alt="Listing image for 16cm Air Canada B777 Plane Model Diecast 1/400 Aircraft Airliner Display Gift V" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+rangefinder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-distance-makes-ufos-look-impossible-laser-rangefinder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser rangefinder" data-ebay-reference="when-distance-makes-ufos-look-impossible-laser-rangefinder" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Callaway 300 Laser Rangefinder launched"><img src="https://i.ebayimg.com/images/g/nswAAeSwOetp1U47/s-l225.jpg" alt="Listing image for Callaway 300 Laser Rangefinder launched" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-errors-when-distance-makes-ufos-look-impossible-ifos-causes-of-airliner-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner display model" data-ebay-reference="range-errors-when-distance-makes-ufos-look-impossible-ifos-causes-of-airliner-display-model" target="_blank" rel="sponsored noopener noreferrer">16cm Air Canada B777 Plane Model Diecast 1/400 Aircraft Airliner Display Gift V</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+rangefinder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-distance-makes-ufos-look-impossible-laser-rangefinder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser rangefinder" data-ebay-reference="when-distance-makes-ufos-look-impossible-laser-rangefinder" target="_blank" rel="sponsored noopener noreferrer">Callaway 300 Laser Rangefinder launched</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-errors-when-distance-makes-ufos-look-impossible-ifos-causes-of-airliner-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner display model" data-ebay-reference="range-errors-when-distance-makes-ufos-look-impossible-ifos-causes-of-airliner-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airliner display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airliner display model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+rangefinder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-distance-makes-ufos-look-impossible-laser-rangefinder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser rangefinder" data-ebay-reference="when-distance-makes-ufos-look-impossible-laser-rangefinder" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser rangefinder">Search <span data-ebay-domain-label>eBay.co.uk</span>: laser rangefinder</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-errors-when-distance-makes-ufos-look-impossible-ifos-causes-of-airliner-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner display model" data-ebay-reference="range-errors-when-distance-makes-ufos-look-impossible-ifos-causes-of-airliner-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+rangefinder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-distance-makes-ufos-look-impossible-laser-rangefinder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser rangefinder" data-ebay-reference="when-distance-makes-ufos-look-impossible-laser-rangefinder" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -524,15 +516,15 @@ For investigators, the critical question is therefore not simply “What did it 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-errors-when-distance-makes-ufos-look-impossible-ifos-causes-of-airliner-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner display model" data-ebay-reference="range-errors-when-distance-makes-ufos-look-impossible-ifos-causes-of-airliner-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NEW De Havilland Dash 8 Q-400 Flybe SolidMahogany Wood Handcrafted Display Model"><img src="{{ '/assets/images/marketplace-covers/ac6c4f467d99294dba64.jpg' | relative_url }}" alt="Listing image for NEW De Havilland Dash 8 Q-400 Flybe SolidMahogany Wood Handcrafted Display Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+rangefinder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-distance-makes-ufos-look-impossible-laser-rangefinder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser rangefinder" data-ebay-reference="when-distance-makes-ufos-look-impossible-laser-rangefinder" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Laser Rangefinder 1000 Yards with Rechargeable Battery Hunting Range Finder"><img src="https://i.ebayimg.com/images/g/jlUAAeSw2zhp1ZV5/s-l225.jpg" alt="Listing image for Laser Rangefinder 1000 Yards with Rechargeable Battery Hunting Range Finder" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-errors-when-distance-makes-ufos-look-impossible-ifos-causes-of-airliner-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner display model" data-ebay-reference="range-errors-when-distance-makes-ufos-look-impossible-ifos-causes-of-airliner-display-model" target="_blank" rel="sponsored noopener noreferrer">NEW De Havilland Dash 8 Q-400 Flybe SolidMahogany Wood Handcrafted Display Model</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+rangefinder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-distance-makes-ufos-look-impossible-laser-rangefinder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser rangefinder" data-ebay-reference="when-distance-makes-ufos-look-impossible-laser-rangefinder" target="_blank" rel="sponsored noopener noreferrer">Laser Rangefinder 1000 Yards with Rechargeable Battery Hunting Range Finder</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-errors-when-distance-makes-ufos-look-impossible-ifos-causes-of-airliner-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner display model" data-ebay-reference="range-errors-when-distance-makes-ufos-look-impossible-ifos-causes-of-airliner-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airliner display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airliner display model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+rangefinder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-distance-makes-ufos-look-impossible-laser-rangefinder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser rangefinder" data-ebay-reference="when-distance-makes-ufos-look-impossible-laser-rangefinder" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser rangefinder">Search <span data-ebay-domain-label>eBay.co.uk</span>: laser rangefinder</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-errors-when-distance-makes-ufos-look-impossible-ifos-causes-of-airliner-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner display model" data-ebay-reference="range-errors-when-distance-makes-ufos-look-impossible-ifos-causes-of-airliner-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+rangefinder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-distance-makes-ufos-look-impossible-laser-rangefinder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser rangefinder" data-ebay-reference="when-distance-makes-ufos-look-impossible-laser-rangefinder" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -540,15 +532,15 @@ For investigators, the critical question is therefore not simply “What did it 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-errors-when-distance-makes-ufos-look-impossible-ifos-causes-of-airliner-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner display model" data-ebay-reference="range-errors-when-distance-makes-ufos-look-impossible-ifos-causes-of-airliner-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:300 A380 Qantas Airways Civil Airliner Paper Model Unassembled Plane Display"><img src="{{ '/assets/images/marketplace-covers/5e7f445f205ce302b515.jpg' | relative_url }}" alt="Listing image for 1:300 A380 Qantas Airways Civil Airliner Paper Model Unassembled Plane Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+rangefinder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-distance-makes-ufos-look-impossible-laser-rangefinder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser rangefinder" data-ebay-reference="when-distance-makes-ufos-look-impossible-laser-rangefinder" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for hunting Rangefinder 1000 yards Range Finder UK Seller."><img src="https://i.ebayimg.com/images/g/KfEAAeSweatp1Y79/s-l225.jpg" alt="Listing image for hunting Rangefinder 1000 yards Range Finder UK Seller." loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-errors-when-distance-makes-ufos-look-impossible-ifos-causes-of-airliner-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner display model" data-ebay-reference="range-errors-when-distance-makes-ufos-look-impossible-ifos-causes-of-airliner-display-model" target="_blank" rel="sponsored noopener noreferrer">1:300 A380 Qantas Airways Civil Airliner Paper Model Unassembled Plane Display</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+rangefinder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-distance-makes-ufos-look-impossible-laser-rangefinder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser rangefinder" data-ebay-reference="when-distance-makes-ufos-look-impossible-laser-rangefinder" target="_blank" rel="sponsored noopener noreferrer">hunting Rangefinder 1000 yards Range Finder UK Seller.</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-errors-when-distance-makes-ufos-look-impossible-ifos-causes-of-airliner-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner display model" data-ebay-reference="range-errors-when-distance-makes-ufos-look-impossible-ifos-causes-of-airliner-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airliner display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airliner display model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+rangefinder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-distance-makes-ufos-look-impossible-laser-rangefinder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser rangefinder" data-ebay-reference="when-distance-makes-ufos-look-impossible-laser-rangefinder" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser rangefinder">Search <span data-ebay-domain-label>eBay.co.uk</span>: laser rangefinder</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-errors-when-distance-makes-ufos-look-impossible-ifos-causes-of-airliner-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner display model" data-ebay-reference="range-errors-when-distance-makes-ufos-look-impossible-ifos-causes-of-airliner-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+rangefinder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-distance-makes-ufos-look-impossible-laser-rangefinder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser rangefinder" data-ebay-reference="when-distance-makes-ufos-look-impossible-laser-rangefinder" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -556,15 +548,15 @@ For investigators, the critical question is therefore not simply “What did it 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-errors-when-distance-makes-ufos-look-impossible-ifos-causes-of-airliner-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner display model" data-ebay-reference="range-errors-when-distance-makes-ufos-look-impossible-ifos-causes-of-airliner-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:168 Concorde Aircraft Model Alloy Plane Sound Light Display Toy High Quality"><img src="{{ '/assets/images/marketplace-covers/807804364e7fdfa3e05c.jpg' | relative_url }}" alt="Listing image for 1:168 Concorde Aircraft Model Alloy Plane Sound Light Display Toy High Quality" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+rangefinder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-distance-makes-ufos-look-impossible-laser-rangefinder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser rangefinder" data-ebay-reference="when-distance-makes-ufos-look-impossible-laser-rangefinder" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for REDTIGER Golf Rangefinder Slope,1200 Yards,7X Magnification,Laser Range Finder"><img src="https://i.ebayimg.com/images/g/BEMAAeSwVQBqGzT9/s-l225.jpg" alt="Listing image for REDTIGER Golf Rangefinder Slope,1200 Yards,7X Magnification,Laser Range Finder" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-errors-when-distance-makes-ufos-look-impossible-ifos-causes-of-airliner-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner display model" data-ebay-reference="range-errors-when-distance-makes-ufos-look-impossible-ifos-causes-of-airliner-display-model" target="_blank" rel="sponsored noopener noreferrer">1:168 Concorde Aircraft Model Alloy Plane Sound Light Display Toy High Quality</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+rangefinder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-distance-makes-ufos-look-impossible-laser-rangefinder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser rangefinder" data-ebay-reference="when-distance-makes-ufos-look-impossible-laser-rangefinder" target="_blank" rel="sponsored noopener noreferrer">REDTIGER Golf Rangefinder Slope,1200 Yards,7X Magnification,Laser Range Finder</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-errors-when-distance-makes-ufos-look-impossible-ifos-causes-of-airliner-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner display model" data-ebay-reference="range-errors-when-distance-makes-ufos-look-impossible-ifos-causes-of-airliner-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airliner display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airliner display model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+rangefinder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-distance-makes-ufos-look-impossible-laser-rangefinder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser rangefinder" data-ebay-reference="when-distance-makes-ufos-look-impossible-laser-rangefinder" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser rangefinder">Search <span data-ebay-domain-label>eBay.co.uk</span>: laser rangefinder</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-errors-when-distance-makes-ufos-look-impossible-ifos-causes-of-airliner-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner display model" data-ebay-reference="range-errors-when-distance-makes-ufos-look-impossible-ifos-causes-of-airliner-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+rangefinder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-distance-makes-ufos-look-impossible-laser-rangefinder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser rangefinder" data-ebay-reference="when-distance-makes-ufos-look-impossible-laser-rangefinder" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -572,7 +564,7 @@ For investigators, the critical question is therefore not simply “What did it 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=airliner+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-errors-when-distance-makes-ufos-look-impossible-ifos-causes-of-airliner-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airliner display model" data-ebay-reference="range-errors-when-distance-makes-ufos-look-impossible-ifos-causes-of-airliner-display-model" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+rangefinder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-distance-makes-ufos-look-impossible-laser-rangefinder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser rangefinder" data-ebay-reference="when-distance-makes-ufos-look-impossible-laser-rangefinder" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -787,117 +779,117 @@ For investigators, the critical question is therefore not simply “What did it 
 
 1. <a id="endnote-1"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROEffect of Forced Perspective and Parallax View on UAP...Under these conditions, an observer can misinterpret the apparent size and s...</p></details>
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Effect of Forced Perspective and Parallax View on UAP...Under these conditions, an observer can misinterpret the apparent size and s...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: [https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/](https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASAUPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through...</p></details>
+   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportThe study of Unidentified Anomalous Phenomena (UAP) presents a unique scientific opportunity tha...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: lco.global  
-   Link: [https://lco.global/spacebook/distance/parallax-and-distance-measurement/](https://lco.global/spacebook/distance/parallax-and-distance-measurement/)  
+   Link: <a href="https://lco.global/spacebook/distance/parallax-and-distance-measurement/" target="_blank" rel="noopener noreferrer nofollow">https://lco.global/spacebook/distance/parallax-and-distance-measurement/</a>  
 
 5. <a id="endnote-5"></a>
    Source: pbs.org  
-   Link: [https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos](https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PBS3 ways scientists use math to help debunk UFO videos&quot;A trick of the eye called parallax makes it look like the object is moving much f...</p></details>
+   Link: <a href="https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>3 ways scientists use math to help debunk UFO videos&quot;A trick of the eye called parallax makes it look like the object is moving much f...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: arxiv.org  
    Title: arXiv The Scienti¯c Investigation of Unidenti¯ed Aerial  
-   Link: [https://arxiv.org/pdf/2305.18566](https://arxiv.org/pdf/2305.18566)  
+   Link: <a href="https://arxiv.org/pdf/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2305.18566</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>2022, NASA o±cials announced that a nine-month study will commence in the fall of 2022, whose purpose is to identify ways that...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — The UAP Independent Study shall report on the following questions: What types of scientific data currently collec...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: nasa.gov  
    Title: provides coverage of unidentified anomalous phenomena meeting  
-   Link: [https://www.nasa.gov/news-release/nasa-provides-coverage-of-unidentified-anomalous-phenomena-meeting/](https://www.nasa.gov/news-release/nasa-provides-coverage-of-unidentified-anomalous-phenomena-meeting/)  
+   Link: <a href="https://www.nasa.gov/news-release/nasa-provides-coverage-of-unidentified-anomalous-phenomena-meeting/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-provides-coverage-of-unidentified-anomalous-phenomena-meeting/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Provides Coverage of Unidentified Anomalous...12 May 2023 — NASA commissioned the nine-month study to examine UAP from a scientific...</p></details>
    Published: May 2023  
 
 9. <a id="endnote-9"></a>
    Source: ntrs.nasa.gov  
-   Link: [https://ntrs.nasa.gov/citations/19960014882](https://ntrs.nasa.gov/citations/19960014882)  
+   Link: <a href="https://ntrs.nasa.gov/citations/19960014882" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/19960014882</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Highly miniaturized, more stable, more accurate...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2411.02401v1](https://arxiv.org/html/2411.02401v1)  
+   Link: <a href="https://arxiv.org/html/2411.02401v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2411.02401v1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Civilian Astronomer&#x27;s Guide to UAP Research5 Nov 2024 — This review explores how astronomers can enhance our understanding of these eni...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: astronomy.nmsu.edu  
-   Link: [https://astronomy.nmsu.edu/astro/PDFS/Parallax.pdf](https://astronomy.nmsu.edu/astro/PDFS/Parallax.pdf)  
+   Link: <a href="https://astronomy.nmsu.edu/astro/PDFS/Parallax.pdf" target="_blank" rel="noopener noreferrer nofollow">https://astronomy.nmsu.edu/astro/PDFS/Parallax.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>By observing the size of this angle and...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: itu.physics.uiowa.edu  
-   Link: [https://itu.physics.uiowa.edu/labs/foundational/parallax](https://itu.physics.uiowa.edu/labs/foundational/parallax)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| Imaging the Universe - Physics and AstronomyParallax is useful for measuring distances to celestial objects and is the first step in bu...</p></details>
+   Link: <a href="https://itu.physics.uiowa.edu/labs/foundational/parallax" target="_blank" rel="noopener noreferrer nofollow">https://itu.physics.uiowa.edu/labs/foundational/parallax</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Imaging the Universe - Physics and AstronomyParallax is useful for measuring distances to celestial objects and is the first step in bu...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/16iix64/nasas_gofast_analysis_says_object_going_40mph/](https://www.reddit.com/r/UFOs/comments/16iix64/nasas_gofast_analysis_says_object_going_40mph/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/16iix64/nasas_gofast_analysis_says_object_going_40mph/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16iix64/nasas_gofast_analysis_says_object_going_40mph/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s GoFast Analysis says object going 40mph: r/UFOsThe video gives an impression of an object skimming above the ocean at a great vel...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/365126141_A_Hardware_and_Software_Platform_for_Aerial_Object_Localization](https://www.researchgate.net/publication/365126141_A_Hardware_and_Software_Platform_for_Aerial_Object_Localization)  
+   Link: <a href="https://www.researchgate.net/publication/365126141_A_Hardware_and_Software_Platform_for_Aerial_Object_Localization" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/365126141_A_Hardware_and_Software_Platform_for_Aerial_Object_Localization</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Hardware and Software Platform for Aerial Object LocalizationThus, having additional modalities and range estimation techniques such as...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: af.mil  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue BookWith the termination of [Project Blue Book](&amp;#123;&amp;#123; &#x27;blue-book/&#x27; | relative_url &amp;#125;&amp;#125;), the Air Force regulation establishi...</p></details>
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue BookWith the termination of Project Blue Book, the Air Force regulation establishi...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: esd.whs.mil  
-   Link: [https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837](https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837)  
+   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue BookThe Air Force groups its evaluations of UFO reports under three general headings: (1) identified. (2) insufficient data, and (3...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skeptic/comments/nzmkvc/gofast_ufo_analysis_yeah_no_probably_just_a/](https://www.reddit.com/r/skeptic/comments/nzmkvc/gofast_ufo_analysis_yeah_no_probably_just_a/)  
+   Link: <a href="https://www.reddit.com/r/skeptic/comments/nzmkvc/gofast_ufo_analysis_yeah_no_probably_just_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skeptic/comments/nzmkvc/gofast_ufo_analysis_yeah_no_probably_just_a/</a>  
 
 18. <a id="endnote-18"></a>
    Source: arstechnica.com  
    Title: nasa panel no convincing evidence for extraterrestrial life connected with uaps  
-   Link: [https://arstechnica.com/science/2023/06/nasa-panel-no-convincing-evidence-for-extraterrestrial-life-connected-with-uaps/](https://arstechnica.com/science/2023/06/nasa-panel-no-convincing-evidence-for-extraterrestrial-life-connected-with-uaps/)  
+   Link: <a href="https://arstechnica.com/science/2023/06/nasa-panel-no-convincing-evidence-for-extraterrestrial-life-connected-with-uaps/" target="_blank" rel="noopener noreferrer nofollow">https://arstechnica.com/science/2023/06/nasa-panel-no-convincing-evidence-for-extraterrestrial-life-connected-with-uaps/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA panel: No convincing evidence for extraterrestrial life...1 Jun 2023 — Unlike the Pentagon&#x27;s ongoing study of UAP sightings reporte...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: eurasiareview.com  
    Title: 14092023 nasa shares unidentified anomalous phenomena independent study report  
-   Link: [https://www.eurasiareview.com/14092023-nasa-shares-unidentified-anomalous-phenomena-independent-study-report/](https://www.eurasiareview.com/14092023-nasa-shares-unidentified-anomalous-phenomena-independent-study-report/)  
+   Link: <a href="https://www.eurasiareview.com/14092023-nasa-shares-unidentified-anomalous-phenomena-independent-study-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.eurasiareview.com/14092023-nasa-shares-unidentified-anomalous-phenomena-independent-study-report/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...14 Sept 2023 — The report contains the external study team&#x27;s findings and recommendations...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: sofrep.com  
    Title: the truth behind ufos from project blue book to the pentagons uap task force  
-   Link: [https://sofrep.com/news/the-truth-behind-ufos-from-project-blue-book-to-the-pentagons-uap-task-force/](https://sofrep.com/news/the-truth-behind-ufos-from-project-blue-book-to-the-pentagons-uap-task-force/)  
+   Link: <a href="https://sofrep.com/news/the-truth-behind-ufos-from-project-blue-book-to-the-pentagons-uap-task-force/" target="_blank" rel="noopener noreferrer nofollow">https://sofrep.com/news/the-truth-behind-ufos-from-project-blue-book-to-the-pentagons-uap-task-force/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth Behind UFOs: From Project Blue Book to the...8 Feb 2026 — Project Blue Book had two main goals: to determine whether UFOs posed...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=diPXow8zgc8](https://www.youtube.com/watch?v=diPXow8zgc8)  
+   Link: <a href="https://www.youtube.com/watch?v=diPXow8zgc8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=diPXow8zgc8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How scientists use math to help explain UFO videosNASA and the US government have turned to math and science publicly to help show how se...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=TQcqOW39ksk](https://www.youtube.com/watch?v=TQcqOW39ksk)  
+   Link: <a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study ReportNASA commissioned an independent study team to examine unidentified anomalous ph...</p></details>

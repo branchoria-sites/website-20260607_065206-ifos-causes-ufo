@@ -9,25 +9,25 @@ sibling_basenames:
 - ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_nimitz_tic_tac_evide_a02edb
 - ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_time_direction_ufo_r_74a6dc
 tags:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - strong-cases
 - multi-sensor
 keywords:
-- ifos-causes-of
+- ifos-causes-of-ufo-3-ed-238
 - strong-cases
 - multi-sensor
-affiliate_category: ifos-causes-of
+affiliate_category: ifos-causes-of-ufo-3-ed-238
 show_ads: true
 description: Multi-sensor cases become stronger only when radar, infrared, visual, and witness records converge without sharing the same failure mode.
 hero_summary: Multi-sensor cases become stronger only when radar, infrared, visual, and witness records converge without sharing the same failure mode.
 layout: default
 permalink: /multi-sensor/
 sidebar_expanded_urls:
-- /ifos-causes-of/
+- /ifos-causes-of-ufo-3-ed-238/
 - /strong-cases/
 nav_short_title: Multi sensor
 title: When Do Multiple UFO Records Really Agree?
-title_full: When Do Multiple UFO Records Really Agree? | Strong Cases
+title_full: When Do Multiple UFO Records Really Agree?
 display_title_short: Multi sensor
 display_title: Multi sensor
 heading_title: When Do Multiple UFO Records Really Agree?
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What Makes a UFO Report Harder to Explain | IFOs
+parent_title: What Makes a UFO Report Harder to Explain
 parent_permalink: /strong-cases/
 parent_nav_short_title: Strong Cases
 parent_heading_title: What Makes a UFO Report Harder to Explain
 ancestor_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d
-  title: Strong Cases | Ifos Causes Of
+  title: Strong Cases | ifos causes of UFO 3 ed 238
   permalink: /strong-cases/
   short_title: Strong Cases
   heading_title: What Makes a UFO Report Harder to Explain
 breadcrumb_links:
 - basename: ifos_-_causes_of_UFO_3ed238
   title: IFOs
-  permalink: /ifos-causes-of/
+  permalink: /ifos-causes-of-ufo-3-ed-238/
   short_title: IFOs
 - basename: ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d
-  title: Strong Cases | Ifos Causes Of
+  title: Strong Cases | ifos causes of UFO 3 ed 238
   permalink: /strong-cases/
   short_title: Strong Cases
   heading_title: What Makes a UFO Report Harder to Explain
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: The Details That Make UFO Reports Testable
 up_link:
   basename: ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d
-  title: Strong Cases | Ifos Causes Of
+  title: Strong Cases | ifos causes of UFO 3 ed 238
   permalink: /strong-cases/
   short_title: Strong Cases
   heading_title: What Makes a UFO Report Harder to Explain
@@ -265,7 +265,7 @@ next_link:
   permalink: /nimitz/
   short_title: Nimitz
   heading_title: Why the Nimitz Tic Tac Still Matters
-date: '2026-06-07 06:43:26 '
+date: '2026-06-12 00:53:13 '
 header:
   og_image: /assets/images/ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_multi_sensor_ufo_che_1fd47c-Illustration-1-social.jpg
   preview_image: /assets/images/ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_multi_sensor_ufo_che_1fd47c-Illustration-1.webp
@@ -275,7 +275,6 @@ image: /assets/images/ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_mu
 ## Introduction
 
 Some UFO reports remain noteworthy after ordinary identification checks not because they are dramatic, but because several apparently [independent records]({{ 'independent-records/' | relative_url }}) point to the same event. A pilot may report a target visually while radar tracks it, an [infrared]({{ 'infrared/' | relative_url }}) sensor detects a heat signature, and another observer records the object from a different location. In such cases, investigators cannot dismiss the report simply by showing that one witness was mistaken or that one instrument malfunctioned.
-
 
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_multi_sensor_ufo_che_1fd47c-Illustration-1-dark.svg" | relative_url }}" alt="Multi sensor illustration 1" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_multi_sensor_ufo_che_1fd47c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_multi_sensor_ufo_che_1fd47c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This is the point at which a report becomes stronger within the framework of IFO (Identified Flying Object) screening. The question is no longer whether a single observation can be explained. Instead, investigators ask whether multiple observations are truly independent and whether they converge on the same physical object. Even then, convergence is not proof of an extraordinary phenomenon. It is evidence that the event deserves closer scrutiny. Official UAP assessments and scientific reviews consistently stress that multiple well-calibrated observations are far more valuable than isolated reports, while also warning that several sensors can sometimes be misled by the same underlying geometry or processing assumptions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Director_of_National_Intelligence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Director of National IntelligenceThe director of national intelligence (DNI) is a cabinet-level United States government intelligence...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
@@ -296,9 +295,6 @@ These observations rely on different technologies and failure modes. If all of t
 By contrast, several records may look independent while actually tracing back to one source. A pilot's verbal description, cockpit video and aircraft mission log may all derive from the same initial observation. Likewise, multiple radar displays can be fed by a common sensor network. In such situations, apparent corroboration may represent duplication rather than independent confirmation.
 
 The 2021 U.S. intelligence assessment highlighted this distinction when it noted that many reviewed UAP incidents were registered across multiple sensor types, including radar, infrared, electro-optical systems, weapons sensors and direct visual observation. The report argued that this multi-sensor registration increased confidence that many reported objects were physically present rather than being generated solely by a single instrument error. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Director_of_National_Intelligence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Director of National IntelligenceThe director of national intelligence (DNI) is a cabinet-level United States government intelligence...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Director_of_National_Intelligence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Director of National IntelligenceThe director of national intelligence (DNI) is a cabinet-level United States government intelligence...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BJJccCsf2k4" title="The Atlantic Pattern 70 Years of Documented Military Encounters They Don&#x27;t Want You To Know" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BJJccCsf2k4" target="_blank" rel="noopener noreferrer">The Atlantic Pattern 70 Years of Documented Military Encounters They Don&#x27;t Want You To Know</a></p><p class="youtube-embed-meta">Channel: Zone 51</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BJJccCsf2k4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BJJccCsf2k4">Open on YouTube</a></p></div></div></div>
 
 ## How Shared Geometry Can Fool Several Sensors
 
@@ -325,7 +321,6 @@ For this reason, investigators often seek:
 
 Without these details, several records may appear to agree while still sharing hidden assumptions or common sources of error. NASA's UAP study team repeatedly emphasised that metadata and calibration information are essential because some apparent anomalies have disappeared once sensor characteristics were properly understood. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Responses to Statement of Task</span><span class="citation-popover-snippet">Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — Indeed, several apparent UAP have been demonstrated to be sensor artifacts...</span></span></span>
 
-
 <img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_multi_sensor_ufo_che_1fd47c-Illustration-2-dark.svg" | relative_url }}" alt="Multi sensor illustration 2" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_multi_sensor_ufo_che_1fd47c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_multi_sensor_ufo_che_1fd47c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Radar, Infrared and Visual Data Complement Each Other
 
@@ -334,7 +329,6 @@ When a case survives ordinary checks, it is often because each sensor contribute
 Radar can estimate range, velocity and position. Infrared systems can indicate thermal characteristics. Visual observations may provide shape, colour, behaviour and environmental context. None of these measurements is sufficient on its own.
 
 Consider a hypothetical object reported by [pilots]({{ 'pilots/' | relative_url }}):
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -349,15 +343,12 @@ In such a scenario, investigators can cross-check one source against another. Ra
 
 The value lies not in the number of observations but in the ability of each observation to constrain the interpretation of the others. This is why scientific and government reviews consistently describe multiple measurements as more informative than any single video clip or eyewitness account. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SC7ZeXT5aCc" title="What Bigelow Documented at Skinwalker REACHED the Pentagon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SC7ZeXT5aCc" target="_blank" rel="noopener noreferrer">What Bigelow Documented at Skinwalker REACHED the Pentagon</a></p><p class="youtube-embed-meta">Channel: Sci Fi Mysteries</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SC7ZeXT5aCc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SC7ZeXT5aCc">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_multi_sensor_ufo_che_1fd47c-Illustration-3-dark.svg" | relative_url }}" alt="Multi sensor illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_multi_sensor_ufo_che_1fd47c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_multi_sensor_ufo_che_1fd47c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Convergence Still Falls Short of Proof
 
 Even a well-corroborated multi-sensor event does not automatically establish an extraordinary explanation.
 
 A report can survive ordinary screening for several reasons:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -372,10 +363,8 @@ This distinction is important because "unidentified" is not the same as "unexpla
 
 NASA's independent UAP study stressed that the central problem is usually not a shortage of sightings but a shortage of high-quality, calibrated, multi-sensor data. The report argued that reliable conclusions require multiple measurements, thorough metadata and well-understood instruments. Without those elements, unresolved cases remain scientifically ambiguous rather than evidentially extraordinary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
 
-The same logic explains why official investigations often treat multi-sensor cases as priorities. They are not accepted as proof of unknown technology. Instead, they offer the best opportunity to determine whether an event reflects a conventional object, a sensor artefact, a data-processing issue or a genuinely unusual observation that merits further investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">UAP Case Resolution Reports</span><span class="citation-popover-snippet">AAROUAP Case Resolution ReportsIn January 2015, a U.S. Navy F/A-18F pilot recorded an object using a Forward Looking Infrared (FLIR) sens...</span><span class="citation-popover-meta">Published: January 2015</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROAARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s...</span></span></span>
+The same logic explains why official investigations often treat multi-sensor cases as priorities. They are not accepted as proof of unknown technology. Instead, they offer the best opportunity to determine whether an event reflects a conventional object, a sensor artefact, a data-processing issue or a genuinely unusual observation that merits further investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">UAP Case Resolution Reports</span><span class="citation-popover-snippet">UAP Case Resolution ReportsIn January 2015, a U.S. Navy F/A-18F pilot recorded an object using a Forward Looking Infrared (FLIR) sens...</span><span class="citation-popover-meta">Published: January 2015</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s...</span></span></span>
 
-
-<img src="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_multi_sensor_ufo_che_1fd47c-Illustration-3-dark.svg" | relative_url }}" alt="Multi sensor illustration 3" data-theme-src-dark="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_multi_sensor_ufo_che_1fd47c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ifos_-_causes_of_UFO_3ed238_stronger_ufo_reports_671b2d_multi_sensor_ufo_che_1fd47c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Real Threshold: Independent Corroboration
 
 The strongest UFO reports after IFO screening are not those with the most sensational claims. They are the reports in which independent records continue to align after investigators test for misidentification, [sensor artefacts]({{ 'sensor-artefacts/' | relative_url }}) and shared observational errors.
@@ -383,10 +372,6 @@ The strongest UFO reports after IFO screening are not those with the most sensat
 A single witness can be wrong. A single camera can mislead. A single radar track can be corrupted. What makes a case stronger is the survival of agreement across observation methods that do not fail in the same way. Yet even that standard provides evidence of an event, not evidence of its ultimate cause.
 
 In practical terms, multi-sensor convergence moves a report from "easily dismissible" to "worthy of serious analysis". It does not move it directly from "unidentified" to "extraordinary". <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Director_of_National_Intelligence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Director of National IntelligenceThe director of national intelligence (DNI) is a cabinet-level United States government intelligence...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3esmIFeLcnM" title="USOs: The Navy’s Terrifying Secret Beneath the Waves" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3esmIFeLcnM" target="_blank" rel="noopener noreferrer">USOs: The Navy’s Terrifying Secret Beneath the Waves</a></p><p class="youtube-embed-meta">Channel: Trench Waters</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3esmIFeLcnM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3esmIFeLcnM">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -505,15 +490,15 @@ In practical terms, multi-sensor convergence moves a report from "easily dismiss
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-sensor-when-do-multiple-ufo-records-really-agree-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="multi-sensor-when-do-multiple-ufo-records-really-agree-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-multiple-ufo-records-really-agree-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-do-multiple-ufo-records-really-agree-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-sensor-when-do-multiple-ufo-records-really-agree-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="multi-sensor-when-do-multiple-ufo-records-really-agree-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-multiple-ufo-records-really-agree-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-do-multiple-ufo-records-really-agree-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-sensor-when-do-multiple-ufo-records-really-agree-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="multi-sensor-when-do-multiple-ufo-records-really-agree-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-multiple-ufo-records-really-agree-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-do-multiple-ufo-records-really-agree-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-sensor-when-do-multiple-ufo-records-really-agree-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="multi-sensor-when-do-multiple-ufo-records-really-agree-ifos-causes-of-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-multiple-ufo-records-really-agree-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-do-multiple-ufo-records-really-agree-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -521,15 +506,15 @@ In practical terms, multi-sensor convergence moves a report from "easily dismiss
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-sensor-when-do-multiple-ufo-records-really-agree-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="multi-sensor-when-do-multiple-ufo-records-really-agree-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-multiple-ufo-records-really-agree-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-do-multiple-ufo-records-really-agree-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-sensor-when-do-multiple-ufo-records-really-agree-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="multi-sensor-when-do-multiple-ufo-records-really-agree-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-multiple-ufo-records-really-agree-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-do-multiple-ufo-records-really-agree-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-sensor-when-do-multiple-ufo-records-really-agree-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="multi-sensor-when-do-multiple-ufo-records-really-agree-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-multiple-ufo-records-really-agree-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-do-multiple-ufo-records-really-agree-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-sensor-when-do-multiple-ufo-records-really-agree-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="multi-sensor-when-do-multiple-ufo-records-really-agree-ifos-causes-of-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-multiple-ufo-records-really-agree-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-do-multiple-ufo-records-really-agree-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -537,15 +522,15 @@ In practical terms, multi-sensor convergence moves a report from "easily dismiss
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-sensor-when-do-multiple-ufo-records-really-agree-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="multi-sensor-when-do-multiple-ufo-records-really-agree-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-multiple-ufo-records-really-agree-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-do-multiple-ufo-records-really-agree-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-sensor-when-do-multiple-ufo-records-really-agree-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="multi-sensor-when-do-multiple-ufo-records-really-agree-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-multiple-ufo-records-really-agree-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-do-multiple-ufo-records-really-agree-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-sensor-when-do-multiple-ufo-records-really-agree-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="multi-sensor-when-do-multiple-ufo-records-really-agree-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-multiple-ufo-records-really-agree-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-do-multiple-ufo-records-really-agree-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-sensor-when-do-multiple-ufo-records-really-agree-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="multi-sensor-when-do-multiple-ufo-records-really-agree-ifos-causes-of-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-multiple-ufo-records-really-agree-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-do-multiple-ufo-records-really-agree-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -553,15 +538,15 @@ In practical terms, multi-sensor convergence moves a report from "easily dismiss
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-sensor-when-do-multiple-ufo-records-really-agree-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="multi-sensor-when-do-multiple-ufo-records-really-agree-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-multiple-ufo-records-really-agree-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-do-multiple-ufo-records-really-agree-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-sensor-when-do-multiple-ufo-records-really-agree-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="multi-sensor-when-do-multiple-ufo-records-really-agree-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-multiple-ufo-records-really-agree-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-do-multiple-ufo-records-really-agree-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-sensor-when-do-multiple-ufo-records-really-agree-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="multi-sensor-when-do-multiple-ufo-records-really-agree-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-multiple-ufo-records-really-agree-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-do-multiple-ufo-records-really-agree-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-sensor-when-do-multiple-ufo-records-really-agree-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="multi-sensor-when-do-multiple-ufo-records-really-agree-ifos-causes-of-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-multiple-ufo-records-really-agree-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-do-multiple-ufo-records-really-agree-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -569,7 +554,7 @@ In practical terms, multi-sensor convergence moves a report from "easily dismiss
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-sensor-when-do-multiple-ufo-records-really-agree-ifos-causes-of-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="multi-sensor-when-do-multiple-ufo-records-really-agree-ifos-causes-of-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-multiple-ufo-records-really-agree-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-do-multiple-ufo-records-really-agree-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -784,126 +769,126 @@ In practical terms, multi-sensor convergence moves a report from "easily dismiss
 
 1. <a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: [https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/](https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/)  
+   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through sys...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: aaro.mil  
    Title: UAP Case Resolution Reports  
-   Link: [https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/](https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROUAP Case Resolution ReportsIn January 2015, a U.S. Navy F/A-18F pilot recorded an object using a Forward Looking Infrared (FLIR) sens...</p></details>
+   Link: <a href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Case Resolution ReportsIn January 2015, a U.S. Navy F/A-18F pilot recorded an object using a Forward Looking Infrared (FLIR) sens...</p></details>
    Published: January 2015  
 
 4. <a id="endnote-4"></a>
    Source: en.wikisource.org  
    Title: Responses to Statement of Task  
-   Link: [https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task](https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task)  
+   Link: <a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — Indeed, several apparent UAP have been demonstrated to be sensor artifacts...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROAARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s...</p></details>
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: en.wikisource.org  
    Title: Overall Conclusions and Recommendations  
-   Link: [https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Overall_Conclusions_and_Recommendations](https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Overall_Conclusions_and_Recommendations)  
+   Link: <a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Overall_Conclusions_and_Recommendations" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Overall_Conclusions_and_Recommendations</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Study Team Report/Overall Conclusions and...14 Oct 2023 — The importance of detecting UAP with multiple, well-[calibrated sensors](&amp;#123;&amp;#123; &#x27;sensor-artefacts/&#x27; | relative_url &amp;#125;&amp;#125;) is thus...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — This webpage is designed as a resource to provide updates on the UAP Independent Study. NASA Unidentified Anomalo...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The limited number of high-quality observations of unidentified anomalous phenomena, or UAP, Most UAP sightings result in very limited da...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: aaro.org  
-   Link: [https://aaro.org/](https://aaro.org/)  
+   Link: <a href="https://aaro.org/" target="_blank" rel="noopener noreferrer nofollow">https://aaro.org/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Association of Americans Resident Overseas: AAROThe Association of Americans Resident Overseas (AARO), founded in 1973 is a global, non-p...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: aaro.net  
-   Link: [https://aaro.net/](https://aaro.net/)  
+   Link: <a href="https://aaro.net/" target="_blank" rel="noopener noreferrer nofollow">https://aaro.net/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Association of Appraiser Regulatory Officials| HomeAARO is the only nationally chartered organization dedicated to the regulation of real...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: dni.gov  
    Title: Prelimary Assessment UAP 20210625  
-   Link: [https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf](https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf)  
+   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Director of National IntelligencePreliminary Assessment: Unidentified Aerial Phenomena...25 Jun 2021 — majority of UAP were registered a...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: dni.gov  
    Title: DF 2021 00275 Preliminary Assessment Unidentified Aerial Phenomena  
-   Link: [https://www.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf](https://www.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf)  
+   Link: <a href="https://www.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Aerial Phenomena 25 June 202125 Jun 2021 — majority of UAP registered across multiple sensors, to include radar, infrared, e...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Director of National Intelligence  
-   Link: [https://en.wikipedia.org/wiki/Director_of_National_Intelligence](https://en.wikipedia.org/wiki/Director_of_National_Intelligence)  
+   Link: <a href="https://en.wikipedia.org/wiki/Director_of_National_Intelligence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Director_of_National_Intelligence</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Director of National IntelligenceThe director of national intelligence (DNI) is a cabinet-level United States government intelligence...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: dni.gov  
-   Link: [https://www.dni.gov/index.php/who-we-are/organizations](https://www.dni.gov/index.php/who-we-are/organizations)  
+   Link: <a href="https://www.dni.gov/index.php/who-we-are/organizations" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/who-we-are/organizations</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>anization | Office of the Director of National IntelligenceThe mission of the ODNI is to lead and support IC integration; delivering i...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: dni.gov  
-   Link: [https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena](https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena)  
+   Link: <a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Preliminary Assessment: Unidentified Aerial PhenomenaThe Office of the Director of National Intelligence submitted to Congress a prelimin...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories](https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories)  
+   Link: <a href="https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Scientific Investigation of Unidentified Aerial...PDF | (Abridged) The Galileo Project aims to investigate Unidentified Aerial...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/](https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/)  
+   Link: <a href="https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA has released the Unidentified Anomalous...This report, commissioned by but produced independently of NASA, is not a review or asses...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: waru.edu  
-   Link: [https://www.waru.edu/artifact/odni-preliminary-assessment-unidentified-aerial-phenomena-25-jun-21](https://www.waru.edu/artifact/odni-preliminary-assessment-unidentified-aerial-phenomena-25-jun-21)  
+   Link: <a href="https://www.waru.edu/artifact/odni-preliminary-assessment-unidentified-aerial-phenomena-25-jun-21" target="_blank" rel="noopener noreferrer nofollow">https://www.waru.edu/artifact/odni-preliminary-assessment-unidentified-aerial-phenomena-25-jun-21</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ODNI Preliminary Assessment Unidentified Aerial...Unclassified, 9-page report to Congress prepared by the Office of the Director of Nati...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: x.com  
-   Link: [https://x.com/DoD_AARO](https://x.com/DoD_AARO)  
+   Link: <a href="https://x.com/DoD_AARO" target="_blank" rel="noopener noreferrer nofollow">https://x.com/DoD_AARO</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Parody of the All-Domain Anomaly Resolution OfficeThe All-Domain Anomaly Disinformation Office (AARO) today announced the opening of audi...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/16ik6x5/summary_of_nasa_unidentified_anomalous_phenomena/](https://www.reddit.com/r/UFOs/comments/16ik6x5/summary_of_nasa_unidentified_anomalous_phenomena/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/16ik6x5/summary_of_nasa_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16ik6x5/summary_of_nasa_unidentified_anomalous_phenomena/</a>  
 
 21. <a id="endnote-21"></a>
    Source: thedebrief.org  
    Title: government releases highly anticipated report on unidentified aerial phenomena  
-   Link: [https://thedebrief.org/government-releases-highly-anticipated-report-on-unidentified-aerial-phenomena/](https://thedebrief.org/government-releases-highly-anticipated-report-on-unidentified-aerial-phenomena/)  
+   Link: <a href="https://thedebrief.org/government-releases-highly-anticipated-report-on-unidentified-aerial-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/government-releases-highly-anticipated-report-on-unidentified-aerial-phenomena/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Government Releases Highly Anticipated Report on...25 Jun 2021 — The nine-page report, titled “Preliminary Assessment: Unidentified Aeri...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: 3af.fr  
    Title: 2021191035 2021 sigma2 eng analysis of the odni assessment report on uap vf  
-   Link: [https://www.3af.fr/docs/2021191035_2021-sigma2-eng-analysis-of-the-odni-assessment-report-on-uap-vf.pdf](https://www.3af.fr/docs/2021191035_2021-sigma2-eng-analysis-of-the-odni-assessment-report-on-uap-vf.pdf)  
+   Link: <a href="https://www.3af.fr/docs/2021191035_2021-sigma2-eng-analysis-of-the-odni-assessment-report-on-uap-vf.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.3af.fr/docs/2021191035_2021-sigma2-eng-analysis-of-the-odni-assessment-report-on-uap-vf.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2021 Commission Technique 3AF- SIGMA230 Jun 2021 — The report draws preliminary conclusions from the analysis of 144 visual, radar, infra...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/pdf/2403.15368](https://arxiv.org/pdf/2403.15368)  
+   Link: <a href="https://arxiv.org/pdf/2403.15368" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2403.15368</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Closing the Information Gap in Unidentified Anomalous...by GR Stahlman · 2024 · Cited by 8 — As emphasized by NASA [6], UAP-related data...</p></details>
